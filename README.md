@@ -1,3 +1,3 @@
 #es_categories
-http://esrecuweb.com
+http://es.recuweb.com
 Alphabetical list of recuweb portals in spanish

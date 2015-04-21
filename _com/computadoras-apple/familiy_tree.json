@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "computadoras-apple"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadoras-apple/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "computadoras-apple": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/computadoras-apple"
+        },
+        "parents": {
+            "hardware-apple": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple"
+        },
+        "sisters": {
+            "computadoras-apple": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/computadoras-apple"
+        }
+    }
+}

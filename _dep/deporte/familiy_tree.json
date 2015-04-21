@@ -1,0 +1,89 @@
+{
+    "meta": {
+        "portal_name": "deporte"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deporte/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deporte/deporte/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deporte/deporte/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deporte/deporte/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "deporte": "deporte"
+        },
+        "children": {
+            "atletismo": "deporte/atletismo",
+            "deporte-de-pelota": "deporte/deporte-de-pelota",
+            "deporte-extremo": "deporte/deporte-extremo",
+            "deportes-acuaticos": "deporte/deportes-acuaticos",
+            "deportes-de-lucha": "deporte/deportes-de-lucha",
+            "deportes-de-motor": "deporte/deportes-de-motor",
+            "deportes-mentales": "deporte/deportes-mentales",
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "ciencia": "ciencia",
+            "cultura": "cultura",
+            "deporte": "deporte",
+            "economia": "economia",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "naturaleza": "naturaleza",
+            "pol\u00edtica": "pol\u00edtica",
+            "salud": "salud",
+            "sociedad": "sociedad",
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "grandchildren": {
+            "carreras-de-relevos": "deporte/atletismo/carreras-de-relevos",
+            "duatlon": "deporte/atletismo/duatlon",
+            "lanzamiento-de-jabalina": "deporte/atletismo/lanzamiento-de-jabalina",
+            "maraton": "deporte/atletismo/maraton",
+            "salto-con-p\u00e9rtiga": "deporte/atletismo/salto-con-p\u00e9rtiga",
+            "salto-de-altura": "deporte/atletismo/salto-de-altura",
+            "triatlon": "deporte/atletismo/triatlon",
+            "triple-salto": "deporte/atletismo/triple-salto",
+            "baloncesto": "deporte/deporte-de-pelota/baloncesto",
+            "balonmano": "deporte/deporte-de-pelota/balonmano",
+            "beisbol": "deporte/deporte-de-pelota/beisbol",
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta",
+            "futbol": "deporte/deporte-de-pelota/futbol",
+            "golf": "deporte/deporte-de-pelota/golf",
+            "hockey": "deporte/deporte-de-pelota/hockey",
+            "rugby": "deporte/deporte-de-pelota/rugby",
+            "voleibol": "deporte/deporte-de-pelota/voleibol",
+            "escalada": "deporte/deporte-extremo/escalada",
+            "paracaidismo": "deporte/deporte-extremo/paracaidismo",
+            "parkour": "deporte/deporte-extremo/parkour",
+            "skateboarding": "deporte/deporte-extremo/skateboarding",
+            "snowboarding": "deporte/deporte-extremo/snowboarding",
+            "surf": "deporte/deporte-extremo/surf",
+            "xgames": "deporte/deporte-extremo/xgames",
+            "apnea": "deporte/deportes-acuaticos/apnea",
+            "bodyboarding": "deporte/deportes-acuaticos/bodyboarding",
+            "descenso-de-r\u00edos": "deporte/deportes-acuaticos/descenso-de-r\u00edos",
+            "esqu\u00ed-acu\u00e1tico": "deporte/deportes-acuaticos/esqu\u00ed-acu\u00e1tico",
+            "natacion": "deporte/deportes-acuaticos/natacion",
+            "pesca-deportiva": "deporte/deportes-acuaticos/pesca-deportiva",
+            "pirag\u00fcismo": "deporte/deportes-acuaticos/pirag\u00fcismo",
+            "regata": "deporte/deportes-acuaticos/regata",
+            "velas-ligeras": "deporte/deportes-acuaticos/velas-ligeras",
+            "waterpolo": "deporte/deportes-acuaticos/waterpolo",
+            "arte-marcial": "deporte/deportes-de-lucha/arte-marcial",
+            "boxeo": "deporte/deportes-de-lucha/boxeo",
+            "esgrima": "deporte/deportes-de-lucha/esgrima",
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres",
+            "aeronautica": "deporte/deportes-de-motor/aeronautica",
+            "automovilismo": "deporte/deportes-de-motor/automovilismo",
+            "motociclismo": "deporte/deportes-de-motor/motociclismo",
+            "motonautica": "deporte/deportes-de-motor/motonautica",
+            "billar": "deporte/deportes-mentales/billar",
+            "juego-de-mesa": "deporte/deportes-mentales/juego-de-mesa",
+            "juego-de-naipes": "deporte/deportes-mentales/juego-de-naipes"
+        }
+    }
+}

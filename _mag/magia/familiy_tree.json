@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "magia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/magia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/magia/magia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/magia/magia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/magia/magia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "magia": "cultura/espiritualidad/esoterismo/magia"
+        },
+        "parents": {
+            "esoterismo": "cultura/espiritualidad/esoterismo"
+        },
+        "sisters": {
+            "astrolog\u00eda": "cultura/espiritualidad/esoterismo/astrolog\u00eda",
+            "clarividencia": "cultura/espiritualidad/esoterismo/clarividencia",
+            "demonolog\u00eda": "cultura/espiritualidad/esoterismo/demonolog\u00eda",
+            "demonologia": "cultura/espiritualidad/esoterismo/demonologia",
+            "espiritismo": "cultura/espiritualidad/esoterismo/espiritismo",
+            "magia": "cultura/espiritualidad/esoterismo/magia",
+            "numerolog\u00eda": "cultura/espiritualidad/esoterismo/numerolog\u00eda",
+            "ocultismo": "cultura/espiritualidad/esoterismo/ocultismo"
+        }
+    }
+}

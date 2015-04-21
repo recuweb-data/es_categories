@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sunismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sunismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sunismo/sunismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sunismo/sunismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sunismo/sunismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sunismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sunismo"
+        },
+        "parents": {
+            "islam": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam"
+        },
+        "sisters": {
+            "chiismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/chiismo",
+            "comunidad-ahmadia": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/comunidad-ahmadia",
+            "sufismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sufismo",
+            "sunismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sunismo"
+        }
+    }
+}

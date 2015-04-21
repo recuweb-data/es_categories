@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "ibook"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ibook/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ibook/ibook/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ibook/ibook/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ibook/ibook/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ibook": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh/ibook"
+        },
+        "parents": {
+            "macintosh": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        },
+        "sisters": {
+            "ibook": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh/ibook"
+        }
+    }
+}

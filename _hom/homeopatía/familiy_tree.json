@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "homeopat\u00eda"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/homeopat\u00eda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/homeopat%C3%ADa/homeopat%C3%ADa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/homeopat%C3%ADa/homeopat%C3%ADa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/homeopat%C3%ADa/homeopat%C3%ADa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "homeopat\u00eda": "cultura/espiritualidad/medicina-alternativa/homeopat\u00eda"
+        },
+        "parents": {
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa"
+        },
+        "sisters": {
+            "aguas-termales": "cultura/espiritualidad/medicina-alternativa/aguas-termales",
+            "curaci\u00f3n-trav\u00e9s-de-la-fe": "cultura/espiritualidad/medicina-alternativa/curaci\u00f3n-trav\u00e9s-de-la-fe",
+            "curacion-sobrenatural": "cultura/espiritualidad/medicina-alternativa/curacion-sobrenatural",
+            "etnomedicina": "cultura/espiritualidad/medicina-alternativa/etnomedicina",
+            "homeopat\u00eda": "cultura/espiritualidad/medicina-alternativa/homeopat\u00eda",
+            "terapias-manipulativas": "cultura/espiritualidad/medicina-alternativa/terapias-manipulativas"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "portal_name": "deportes-de-lucha"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-de-lucha/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "deportes-de-lucha": "deporte/deportes-de-lucha"
+        },
+        "children": {
+            "arte-marcial": "deporte/deportes-de-lucha/arte-marcial",
+            "boxeo": "deporte/deportes-de-lucha/boxeo",
+            "esgrima": "deporte/deportes-de-lucha/esgrima",
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres"
+        },
+        "parents": {
+            "deporte": "deporte"
+        },
+        "sisters": {
+            "atletismo": "deporte/atletismo",
+            "deporte-de-pelota": "deporte/deporte-de-pelota",
+            "deporte-extremo": "deporte/deporte-extremo",
+            "deportes-acuaticos": "deporte/deportes-acuaticos",
+            "deportes-de-lucha": "deporte/deportes-de-lucha",
+            "deportes-de-motor": "deporte/deportes-de-motor",
+            "deportes-mentales": "deporte/deportes-mentales",
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        },
+        "grandchildren": {
+            "artes-marciales-americanos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-americanos",
+            "artes-marciales-asiaticos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos",
+            "artes-marciales-mixtas": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-mixtas",
+            "boxeo-feminino": "deporte/deportes-de-lucha/boxeo/boxeo-feminino",
+            "boxeo-frances": "deporte/deportes-de-lucha/boxeo/boxeo-frances",
+            "boxeo-shaolin": "deporte/deportes-de-lucha/boxeo/boxeo-shaolin",
+            "kick-boxing": "deporte/deportes-de-lucha/boxeo/kick-boxing",
+            "muay-thai": "deporte/deportes-de-lucha/boxeo/muay-thai",
+            "lucha-grecorromana": "deporte/deportes-de-lucha/luchas-libres/lucha-grecorromana",
+            "lucha-libre": "deporte/deportes-de-lucha/luchas-libres/lucha-libre",
+            "lucha-sumo": "deporte/deportes-de-lucha/luchas-libres/lucha-sumo"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": "movimiento-social"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/movimiento-social/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "movimiento-social": "pol\u00edtica/movimiento-social"
+        },
+        "children": {
+            "agrarismo": "pol\u00edtica/movimiento-social/agrarismo",
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo",
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo",
+            "indigenismo": "pol\u00edtica/movimiento-social/indigenismo",
+            "lobby": "pol\u00edtica/movimiento-social/lobby"
+        },
+        "parents": {
+            "pol\u00edtica": "pol\u00edtica"
+        },
+        "sisters": {
+            "etica": "pol\u00edtica/etica",
+            "globalizaci\u00f3n": "pol\u00edtica/globalizaci\u00f3n",
+            "globalizacion": "pol\u00edtica/globalizacion",
+            "ideologia-politica": "pol\u00edtica/ideologia-politica",
+            "ideologias-politicas": "pol\u00edtica/ideologias-politicas",
+            "movimiento-social": "pol\u00edtica/movimiento-social",
+            "teorias-eticas": "pol\u00edtica/teorias-eticas"
+        }
+    }
+}

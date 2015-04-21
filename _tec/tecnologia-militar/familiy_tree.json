@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "tecnologia-militar"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tecnologia-militar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tecnologia-militar/tecnologia-militar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tecnologia-militar/tecnologia-militar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tecnologia-militar/tecnologia-militar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tecnologia-militar": "tecnologia/ingenieria/ciencia-militar/tecnologia-militar"
+        },
+        "parents": {
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar"
+        },
+        "sisters": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar",
+            "tacticas-militares": "tecnologia/ingenieria/ciencia-militar/tacticas-militares"
+        }
+    }
+}

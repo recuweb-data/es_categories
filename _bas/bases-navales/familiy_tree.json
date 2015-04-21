@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "bases-navales"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bases-navales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bases-navales/bases-navales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bases-navales/bases-navales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bases-navales/bases-navales/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bases-navales": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/bases-navales"
+        },
+        "parents": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar"
+        },
+        "sisters": {
+            "base-a\u00e9rea": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/base-a\u00e9rea"
+        }
+    }
+}

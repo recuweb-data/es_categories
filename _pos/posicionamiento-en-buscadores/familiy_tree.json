@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "posicionamiento-en-buscadores"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/posicionamiento-en-buscadores/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/posicionamiento-en-buscadores/posicionamiento-en-buscadores/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/posicionamiento-en-buscadores/posicionamiento-en-buscadores/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/posicionamiento-en-buscadores/posicionamiento-en-buscadores/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "posicionamiento-en-buscadores": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores"
+        },
+        "children": {
+            "alexa-internet": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/alexa-internet",
+            "b\u00fasqueda-sem\u00e1ntica": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/b\u00fasqueda-sem\u00e1ntica",
+            "microformato": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/microformato",
+            "pagerank": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/pagerank",
+            "publicidad-contextual": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual",
+            "spamdexing": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/spamdexing"
+        },
+        "parents": {
+            "an\u00e1lisis-web": "internet/an\u00e1lisis-web"
+        },
+        "sisters": {
+            "buscador-web": "internet/an\u00e1lisis-web/buscador-web",
+            "buscadores-web": "internet/an\u00e1lisis-web/buscadores-web",
+            "estadisticas-web": "internet/an\u00e1lisis-web/estadisticas-web",
+            "posicionamiento-en-buscadores": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores"
+        }
+    }
+}

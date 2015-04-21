@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": "formatos-web"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/formatos-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "formatos-web": "internet/desarrollo-web/formatos-web"
+        },
+        "children": {
+            "css": "internet/desarrollo-web/formatos-web/css",
+            "extensible-markup-language": "internet/desarrollo-web/formatos-web/extensible-markup-language",
+            "hoja-de-estilos-en-cascada": "internet/desarrollo-web/formatos-web/hoja-de-estilos-en-cascada",
+            "html": "internet/desarrollo-web/formatos-web/html",
+            "xml": "internet/desarrollo-web/formatos-web/xml"
+        },
+        "parents": {
+            "desarrollo-web": "internet/desarrollo-web"
+        },
+        "sisters": {
+            "base-de-datos": "internet/desarrollo-web/base-de-datos",
+            "formatos-web": "internet/desarrollo-web/formatos-web",
+            "lenguajes-web": "internet/desarrollo-web/lenguajes-web"
+        },
+        "grandchildren": {
+            "iframe": "internet/desarrollo-web/formatos-web/html/iframe",
+            "xhtml": "internet/desarrollo-web/formatos-web/html/xhtml"
+        }
+    }
+}

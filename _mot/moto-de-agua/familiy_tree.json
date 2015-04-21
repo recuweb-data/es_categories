@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "moto-de-agua"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/moto-de-agua/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/moto-de-agua/moto-de-agua/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/moto-de-agua/moto-de-agua/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/moto-de-agua/moto-de-agua/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "moto-de-agua": "deporte/deportes-de-motor/motonautica/moto-de-agua"
+        },
+        "parents": {
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        },
+        "sisters": {
+            "moto-de-agua": "deporte/deportes-de-motor/motonautica/moto-de-agua"
+        }
+    }
+}

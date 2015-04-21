@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "carta-astral"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/carta-astral/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/carta-astral/carta-astral/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/carta-astral/carta-astral/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/carta-astral/carta-astral/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "carta-astral": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/carta-astral"
+        },
+        "parents": {
+            "hor\u00f3scopo": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo"
+        },
+        "sisters": {
+            "carta-astral": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/carta-astral",
+            "horoscopo-azteca": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/horoscopo-azteca",
+            "zodiaco": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco"
+        }
+    }
+}

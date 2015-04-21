@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "regionalismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/regionalismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/regionalismo/regionalismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/regionalismo/regionalismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/regionalismo/regionalismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "regionalismo": "pol\u00edtica/ideologia-politica/nacionalismo/regionalismo"
+        },
+        "parents": {
+            "nacionalismo": "pol\u00edtica/ideologia-politica/nacionalismo"
+        },
+        "sisters": {
+            "fascismo": "pol\u00edtica/ideologia-politica/nacionalismo/fascismo",
+            "regionalismo": "pol\u00edtica/ideologia-politica/nacionalismo/regionalismo"
+        }
+    }
+}

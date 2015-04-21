@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "feminidad"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/feminidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/feminidad/feminidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/feminidad/feminidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/feminidad/feminidad/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "feminidad": "pol\u00edtica/movimiento-social/feminismo/feminidad"
+        },
+        "parents": {
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo"
+        },
+        "sisters": {
+            "arte-feminista": "pol\u00edtica/movimiento-social/feminismo/arte-feminista",
+            "enventos-feministas": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas",
+            "feminidad": "pol\u00edtica/movimiento-social/feminismo/feminidad",
+            "maternidad-libre": "pol\u00edtica/movimiento-social/feminismo/maternidad-libre",
+            "misoginia": "pol\u00edtica/movimiento-social/feminismo/misoginia"
+        }
+    }
+}

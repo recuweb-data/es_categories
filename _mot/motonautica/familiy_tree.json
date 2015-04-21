@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "motonautica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/motonautica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/motonautica/motonautica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/motonautica/motonautica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/motonautica/motonautica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        },
+        "children": {
+            "moto-de-agua": "deporte/deportes-de-motor/motonautica/moto-de-agua"
+        },
+        "parents": {
+            "deportes-de-motor": "deporte/deportes-de-motor"
+        },
+        "sisters": {
+            "aeronautica": "deporte/deportes-de-motor/aeronautica",
+            "automovilismo": "deporte/deportes-de-motor/automovilismo",
+            "motociclismo": "deporte/deportes-de-motor/motociclismo",
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        }
+    }
+}

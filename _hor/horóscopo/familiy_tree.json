@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "hor\u00f3scopo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hor\u00f3scopo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hor%C3%B3scopo/hor%C3%B3scopo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hor%C3%B3scopo/hor%C3%B3scopo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hor%C3%B3scopo/hor%C3%B3scopo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hor\u00f3scopo": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo"
+        },
+        "children": {
+            "carta-astral": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/carta-astral",
+            "horoscopo-azteca": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/horoscopo-azteca",
+            "zodiaco": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco"
+        },
+        "parents": {
+            "astrolog\u00eda": "cultura/espiritualidad/esoterismo/astrolog\u00eda"
+        },
+        "sisters": {
+            "hor\u00f3scopo": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo"
+        }
+    }
+}

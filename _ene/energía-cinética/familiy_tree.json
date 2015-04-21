@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-cin\u00e9tica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-cin\u00e9tica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-cin%C3%A9tica/energ%C3%ADa-cin%C3%A9tica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-cin%C3%A9tica/energ%C3%ADa-cin%C3%A9tica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-cin%C3%A9tica/energ%C3%ADa-cin%C3%A9tica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "energ\u00eda-cin\u00e9tica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/energ\u00eda-cin\u00e9tica"
+        },
+        "parents": {
+            "energ\u00eda-renovable": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable"
+        },
+        "sisters": {
+            "biomasa": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/biomasa"
+        }
+    }
+}

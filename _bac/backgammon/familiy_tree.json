@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "backgammon"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/backgammon/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/backgammon/backgammon/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/backgammon/backgammon/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/backgammon/backgammon/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "backgammon": "deporte/deportes-mentales/juego-de-mesa/backgammon"
+        },
+        "parents": {
+            "juego-de-mesa": "deporte/deportes-mentales/juego-de-mesa"
+        },
+        "sisters": {
+            "ajedrez": "deporte/deportes-mentales/juego-de-mesa/ajedrez",
+            "backgammon": "deporte/deportes-mentales/juego-de-mesa/backgammon",
+            "scrabble": "deporte/deportes-mentales/juego-de-mesa/scrabble"
+        }
+    }
+}

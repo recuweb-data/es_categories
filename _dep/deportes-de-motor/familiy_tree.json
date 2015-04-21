@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "portal_name": "deportes-de-motor"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-de-motor/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-de-motor/deportes-de-motor/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-de-motor/deportes-de-motor/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-motor/deportes-de-motor/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "deportes-de-motor": "deporte/deportes-de-motor"
+        },
+        "children": {
+            "aeronautica": "deporte/deportes-de-motor/aeronautica",
+            "automovilismo": "deporte/deportes-de-motor/automovilismo",
+            "motociclismo": "deporte/deportes-de-motor/motociclismo",
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        },
+        "parents": {
+            "deporte": "deporte"
+        },
+        "sisters": {
+            "atletismo": "deporte/atletismo",
+            "deporte-de-pelota": "deporte/deporte-de-pelota",
+            "deporte-extremo": "deporte/deporte-extremo",
+            "deportes-acuaticos": "deporte/deportes-acuaticos",
+            "deportes-de-lucha": "deporte/deportes-de-lucha",
+            "deportes-de-motor": "deporte/deportes-de-motor",
+            "deportes-mentales": "deporte/deportes-mentales",
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        },
+        "grandchildren": {
+            "acrobacia-a\u00e9rea": "deporte/deportes-de-motor/aeronautica/acrobacia-a\u00e9rea",
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad",
+            "drifting": "deporte/deportes-de-motor/automovilismo/drifting",
+            "karting": "deporte/deportes-de-motor/automovilismo/karting",
+            "rally": "deporte/deportes-de-motor/automovilismo/rally",
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross",
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid",
+            "snocross": "deporte/deportes-de-motor/motociclismo/snocross",
+            "superbike": "deporte/deportes-de-motor/motociclismo/superbike",
+            "moto-de-agua": "deporte/deportes-de-motor/motonautica/moto-de-agua"
+        }
+    }
+}

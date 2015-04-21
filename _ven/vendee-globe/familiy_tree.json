@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "vendee-globe"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/vendee-globe/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/vendee-globe/vendee-globe/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/vendee-globe/vendee-globe/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/vendee-globe/vendee-globe/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "vendee-globe": "deporte/deportes-acuaticos/regata/vendee-globe"
+        },
+        "parents": {
+            "regata": "deporte/deportes-acuaticos/regata"
+        },
+        "sisters": {
+            "audi-medcup": "deporte/deportes-acuaticos/regata/audi-medcup",
+            "bacelona-world-race": "deporte/deportes-acuaticos/regata/bacelona-world-race",
+            "vendee-globe": "deporte/deportes-acuaticos/regata/vendee-globe",
+            "volvo-ocean-race": "deporte/deportes-acuaticos/regata/volvo-ocean-race"
+        }
+    }
+}

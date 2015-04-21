@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "escalada-en-hielo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/escalada-en-hielo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/escalada-en-hielo/escalada-en-hielo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/escalada-en-hielo/escalada-en-hielo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/escalada-en-hielo/escalada-en-hielo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "escalada-en-hielo": "deporte/deporte-extremo/escalada/escalada-en-hielo"
+        },
+        "parents": {
+            "escalada": "deporte/deporte-extremo/escalada"
+        },
+        "sisters": {
+            "barranquismo": "deporte/deporte-extremo/escalada/barranquismo",
+            "escalada-en-hielo": "deporte/deporte-extremo/escalada/escalada-en-hielo"
+        }
+    }
+}

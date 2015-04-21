@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "radar"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/radar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/radar/radar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/radar/radar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/radar/radar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "radar": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/radar"
+        },
+        "parents": {
+            "aparato-electr\u00f3nico": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico"
+        },
+        "sisters": {
+            "hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware",
+            "radar": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/radar"
+        }
+    }
+}

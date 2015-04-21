@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "portal_name": "cultura-popular"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/cultura-popular/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/cultura-popular/cultura-popular/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/cultura-popular/cultura-popular/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura-popular/cultura-popular/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "cultura-popular": "cultura/cultura-popular"
+        },
+        "children": {
+            "altruismo": "cultura/cultura-popular/altruismo",
+            "coleccionismo": "cultura/cultura-popular/coleccionismo",
+            "tauromaquia": "cultura/cultura-popular/tauromaquia",
+            "tradici\u00f3n": "cultura/cultura-popular/tradici\u00f3n"
+        },
+        "parents": {
+            "cultura": "cultura"
+        },
+        "sisters": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero",
+            "bellas-artes": "cultura/bellas-artes",
+            "cultura-popular": "cultura/cultura-popular",
+            "economia": "cultura/economia",
+            "espiritualidad": "cultura/espiritualidad",
+            "humanidades": "cultura/humanidades",
+            "lenguaje": "cultura/lenguaje",
+            "religi\u00f3n": "cultura/religi\u00f3n",
+            "religion": "cultura/religion",
+            "ropa": "cultura/ropa"
+        },
+        "grandchildren": {
+            "filantrop\u00eda": "cultura/cultura-popular/altruismo/filantrop\u00eda",
+            "voluntariado": "cultura/cultura-popular/altruismo/voluntariado",
+            "bibliofilia": "cultura/cultura-popular/coleccionismo/bibliofilia",
+            "figurillas": "cultura/cultura-popular/coleccionismo/figurillas",
+            "filatelia": "cultura/cultura-popular/coleccionismo/filatelia",
+            "numism\u00e1tica": "cultura/cultura-popular/coleccionismo/numism\u00e1tica",
+            "cultura-taurina": "cultura/cultura-popular/tauromaquia/cultura-taurina",
+            "encierro": "cultura/cultura-popular/tauromaquia/encierro",
+            "encierros-taurinos": "cultura/cultura-popular/tauromaquia/encierros-taurinos",
+            "ferias-taurinas": "cultura/cultura-popular/tauromaquia/ferias-taurinas",
+            "ganaderias": "cultura/cultura-popular/tauromaquia/ganaderias",
+            "rejoneos": "cultura/cultura-popular/tauromaquia/rejoneos",
+            "torero": "cultura/cultura-popular/tauromaquia/torero"
+        }
+    }
+}

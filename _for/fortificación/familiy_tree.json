@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "fortificaci\u00f3n"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/fortificaci\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/fortificaci%C3%B3n/fortificaci%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/fortificaci%C3%B3n/fortificaci%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/fortificaci%C3%B3n/fortificaci%C3%B3n/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "fortificaci\u00f3n": "tecnolog\u00eda/ingenieria/ciencia-militar/fortificaci\u00f3n"
+        },
+        "parents": {
+            "ciencia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar"
+        },
+        "sisters": {
+            "arquitectura-militar": "tecnolog\u00eda/ingenieria/ciencia-militar/arquitectura-militar",
+            "tacticas-militares": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares",
+            "tecnologia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar/tecnologia-militar"
+        }
+    }
+}

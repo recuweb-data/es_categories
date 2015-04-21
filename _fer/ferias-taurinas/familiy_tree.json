@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "ferias-taurinas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ferias-taurinas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ferias-taurinas/ferias-taurinas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ferias-taurinas/ferias-taurinas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ferias-taurinas/ferias-taurinas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ferias-taurinas": "cultura/cultura-popular/tauromaquia/ferias-taurinas"
+        },
+        "parents": {
+            "tauromaquia": "cultura/cultura-popular/tauromaquia"
+        },
+        "sisters": {
+            "cultura-taurina": "cultura/cultura-popular/tauromaquia/cultura-taurina",
+            "encierro": "cultura/cultura-popular/tauromaquia/encierro",
+            "encierros-taurinos": "cultura/cultura-popular/tauromaquia/encierros-taurinos",
+            "ferias-taurinas": "cultura/cultura-popular/tauromaquia/ferias-taurinas",
+            "ganaderias": "cultura/cultura-popular/tauromaquia/ganaderias",
+            "rejoneos": "cultura/cultura-popular/tauromaquia/rejoneos",
+            "torero": "cultura/cultura-popular/tauromaquia/torero"
+        }
+    }
+}

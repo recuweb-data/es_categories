@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sport-prototipo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sport-prototipo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sport-prototipo/sport-prototipo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sport-prototipo/sport-prototipo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sport-prototipo/sport-prototipo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport-prototipo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/sport-prototipo"
+        },
+        "parents": {
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad"
+        },
+        "sisters": {
+            "autom\u00f3vil-superdeportivo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/autom\u00f3vil-superdeportivo",
+            "automovil-gran-turismo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/automovil-gran-turismo",
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza",
+            "sport-prototipo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/sport-prototipo"
+        }
+    }
+}

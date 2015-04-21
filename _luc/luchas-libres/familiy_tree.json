@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "luchas-libres"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/luchas-libres/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/luchas-libres/luchas-libres/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/luchas-libres/luchas-libres/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/luchas-libres/luchas-libres/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres"
+        },
+        "children": {
+            "lucha-grecorromana": "deporte/deportes-de-lucha/luchas-libres/lucha-grecorromana",
+            "lucha-libre": "deporte/deportes-de-lucha/luchas-libres/lucha-libre",
+            "lucha-sumo": "deporte/deportes-de-lucha/luchas-libres/lucha-sumo"
+        },
+        "parents": {
+            "deportes-de-lucha": "deporte/deportes-de-lucha"
+        },
+        "sisters": {
+            "arte-marcial": "deporte/deportes-de-lucha/arte-marcial",
+            "boxeo": "deporte/deportes-de-lucha/boxeo",
+            "esgrima": "deporte/deportes-de-lucha/esgrima",
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres"
+        }
+    }
+}

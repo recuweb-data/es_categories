@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "hardware-ibm"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hardware-ibm/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hardware-ibm": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-ibm"
+        },
+        "parents": {
+            "empresas-de-hardware": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware"
+        },
+        "sisters": {
+            "hardware-apple": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple",
+            "hardware-ibm": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-ibm"
+        }
+    }
+}

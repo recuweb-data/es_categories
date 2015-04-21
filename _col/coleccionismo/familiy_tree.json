@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "coleccionismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/coleccionismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/coleccionismo/coleccionismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/coleccionismo/coleccionismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/coleccionismo/coleccionismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "coleccionismo": "cultura/cultura-popular/coleccionismo"
+        },
+        "children": {
+            "bibliofilia": "cultura/cultura-popular/coleccionismo/bibliofilia",
+            "figurillas": "cultura/cultura-popular/coleccionismo/figurillas",
+            "filatelia": "cultura/cultura-popular/coleccionismo/filatelia",
+            "numism\u00e1tica": "cultura/cultura-popular/coleccionismo/numism\u00e1tica"
+        },
+        "parents": {
+            "cultura-popular": "cultura/cultura-popular"
+        },
+        "sisters": {
+            "altruismo": "cultura/cultura-popular/altruismo",
+            "coleccionismo": "cultura/cultura-popular/coleccionismo",
+            "tauromaquia": "cultura/cultura-popular/tauromaquia",
+            "tradici\u00f3n": "cultura/cultura-popular/tradici\u00f3n"
+        }
+    }
+}

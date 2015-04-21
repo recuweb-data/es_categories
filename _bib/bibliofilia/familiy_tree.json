@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "bibliofilia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bibliofilia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bibliofilia/bibliofilia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bibliofilia/bibliofilia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bibliofilia/bibliofilia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bibliofilia": "cultura/cultura-popular/coleccionismo/bibliofilia"
+        },
+        "parents": {
+            "coleccionismo": "cultura/cultura-popular/coleccionismo"
+        },
+        "sisters": {
+            "bibliofilia": "cultura/cultura-popular/coleccionismo/bibliofilia",
+            "figurillas": "cultura/cultura-popular/coleccionismo/figurillas",
+            "filatelia": "cultura/cultura-popular/coleccionismo/filatelia",
+            "numism\u00e1tica": "cultura/cultura-popular/coleccionismo/numism\u00e1tica"
+        }
+    }
+}

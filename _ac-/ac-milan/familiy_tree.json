@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "ac-milan"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ac-milan/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ac-milan/ac-milan/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ac-milan/ac-milan/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ac-milan/ac-milan/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ac-milan": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/ac-milan"
+        },
+        "parents": {
+            "club-de-f\u00fatbol": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol"
+        },
+        "sisters": {
+            "ac-milan": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/ac-milan",
+            "afc-ajax": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/afc-ajax",
+            "ajax-de-\u00e1msterdam": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/ajax-de-\u00e1msterdam",
+            "arsenal-fc": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/arsenal-fc",
+            "bayer-04-leverkusen": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/bayer-04-leverkusen",
+            "bayern-de-munich": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/bayern-de-munich",
+            "borussia-dortmund": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/borussia-dortmund",
+            "fc-barcelona": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/fc-barcelona",
+            "fc-porto": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/fc-porto",
+            "inter-de-mil\u00e1n": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/inter-de-mil\u00e1n",
+            "juventus-fc": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/juventus-fc",
+            "liverpool-fc": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/liverpool-fc",
+            "manchester-united": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/manchester-united",
+            "olympique-de-lyon": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/olympique-de-lyon",
+            "olympique-de-marsella": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/olympique-de-marsella",
+            "olympique-lyonnais": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/olympique-lyonnais",
+            "paris-saint-germain": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/paris-saint-germain",
+            "psv-eindhoven": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/psv-eindhoven",
+            "realmadrid": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/realmadrid",
+            "valencia-cf": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/valencia-cf",
+            "valencia-club-de-f\u00fatbol": "deporte/deporte-de-pelota/futbol/club-de-f\u00fatbol/valencia-club-de-f\u00fatbol"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "endurocross"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/endurocross/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "endurocross": "deporte/deportes-de-motor/motociclismo/motocross/endurocross"
+        },
+        "parents": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross"
+        },
+        "sisters": {
+            "endurocross": "deporte/deportes-de-motor/motociclismo/motocross/endurocross",
+            "motociclismo-estilo-libre": "deporte/deportes-de-motor/motociclismo/motocross/motociclismo-estilo-libre",
+            "trial-de-motociclismo": "deporte/deportes-de-motor/motociclismo/motocross/trial-de-motociclismo"
+        }
+    }
+}

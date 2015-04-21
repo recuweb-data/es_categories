@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "televisi\u00f3n-por-sat\u00e9lite"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/televisi\u00f3n-por-sat\u00e9lite/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-sat%C3%A9lite/televisi%C3%B3n-por-sat%C3%A9lite/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-sat%C3%A9lite/televisi%C3%B3n-por-sat%C3%A9lite/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-sat%C3%A9lite/televisi%C3%B3n-por-sat%C3%A9lite/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "televisi\u00f3n-por-sat\u00e9lite": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-por-sat\u00e9lite"
+        },
+        "parents": {
+            "television": "tecnologia/telecomunicacion/tecnologia-de-video/television"
+        },
+        "sisters": {
+            "televisi\u00f3n-digital": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-digital"
+        }
+    }
+}

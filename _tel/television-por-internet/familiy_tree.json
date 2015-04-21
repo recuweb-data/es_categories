@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "television-por-internet"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/television-por-internet/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/television-por-internet/television-por-internet/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/television-por-internet/television-por-internet/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/television-por-internet/television-por-internet/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "television-por-internet": "tecnologia/telecomunicacion/tecnologia-de-video/television/television-por-internet"
+        },
+        "parents": {
+            "television": "tecnologia/telecomunicacion/tecnologia-de-video/television"
+        },
+        "sisters": {
+            "televisi\u00f3n-digital": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-digital"
+        }
+    }
+}

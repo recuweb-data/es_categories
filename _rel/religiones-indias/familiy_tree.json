@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "religiones-indias"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/religiones-indias/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/religiones-indias/religiones-indias/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/religiones-indias/religiones-indias/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/religiones-indias/religiones-indias/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religiones-indias": "cultura/religion/religiones-indias"
+        },
+        "children": {
+            "budismo": "cultura/religion/religiones-indias/budismo",
+            "hinduismo": "cultura/religion/religiones-indias/hinduismo",
+            "jainismo": "cultura/religion/religiones-indias/jainismo",
+            "sijismo": "cultura/religion/religiones-indias/sijismo"
+        },
+        "parents": {
+            "religion": "cultura/religion"
+        },
+        "sisters": {
+            "religi\u00f3n-abrah\u00e1mica": "cultura/religion/religi\u00f3n-abrah\u00e1mica",
+            "religiones-indias": "cultura/religion/religiones-indias",
+            "religiones-orientales": "cultura/religion/religiones-orientales"
+        }
+    }
+}

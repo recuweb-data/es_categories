@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "salto-de-altura"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/salto-de-altura/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/salto-de-altura/salto-de-altura/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/salto-de-altura/salto-de-altura/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/salto-de-altura/salto-de-altura/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "salto-de-altura": "deporte/atletismo/salto-de-altura"
+        },
+        "parents": {
+            "atletismo": "deporte/atletismo"
+        },
+        "sisters": {
+            "carreras-de-relevos": "deporte/atletismo/carreras-de-relevos",
+            "duatlon": "deporte/atletismo/duatlon",
+            "lanzamiento-de-jabalina": "deporte/atletismo/lanzamiento-de-jabalina",
+            "maraton": "deporte/atletismo/maraton",
+            "salto-con-p\u00e9rtiga": "deporte/atletismo/salto-con-p\u00e9rtiga",
+            "salto-de-altura": "deporte/atletismo/salto-de-altura",
+            "triatlon": "deporte/atletismo/triatlon",
+            "triple-salto": "deporte/atletismo/triple-salto"
+        }
+    }
+}

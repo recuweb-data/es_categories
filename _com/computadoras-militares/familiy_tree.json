@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "computadoras-militares"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadoras-militares/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadoras-militares/computadoras-militares/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadoras-militares/computadoras-militares/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadoras-militares/computadoras-militares/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "computadoras-militares": "tecnologia/electronica/aparatos-electronicos/hardware/computadora/computadoras-militares"
+        },
+        "parents": {
+            "computadora": "tecnologia/electronica/aparatos-electronicos/hardware/computadora"
+        },
+        "sisters": {
+            "computadora-dom\u00e9stica": "tecnologia/electronica/aparatos-electronicos/hardware/computadora/computadora-dom\u00e9stica"
+        }
+    }
+}

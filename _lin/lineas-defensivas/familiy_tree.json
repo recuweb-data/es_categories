@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "lineas-defensivas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lineas-defensivas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lineas-defensivas/lineas-defensivas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lineas-defensivas/lineas-defensivas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lineas-defensivas/lineas-defensivas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lineas-defensivas": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/lineas-defensivas"
+        },
+        "parents": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar"
+        },
+        "sisters": {
+            "base-a\u00e9rea": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/base-a\u00e9rea"
+        }
+    }
+}

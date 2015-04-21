@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "aguas-termales"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/aguas-termales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/aguas-termales/aguas-termales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/aguas-termales/aguas-termales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/aguas-termales/aguas-termales/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "aguas-termales": "cultura/espiritualidad/medicina-alternativa/aguas-termales"
+        },
+        "parents": {
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa"
+        },
+        "sisters": {
+            "aguas-termales": "cultura/espiritualidad/medicina-alternativa/aguas-termales",
+            "curaci\u00f3n-trav\u00e9s-de-la-fe": "cultura/espiritualidad/medicina-alternativa/curaci\u00f3n-trav\u00e9s-de-la-fe",
+            "curacion-sobrenatural": "cultura/espiritualidad/medicina-alternativa/curacion-sobrenatural",
+            "etnomedicina": "cultura/espiritualidad/medicina-alternativa/etnomedicina",
+            "homeopat\u00eda": "cultura/espiritualidad/medicina-alternativa/homeopat\u00eda",
+            "terapias-manipulativas": "cultura/espiritualidad/medicina-alternativa/terapias-manipulativas"
+        }
+    }
+}

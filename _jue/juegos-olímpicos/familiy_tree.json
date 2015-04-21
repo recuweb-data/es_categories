@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "juegos-ol\u00edmpicos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/juegos-ol\u00edmpicos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/juegos-ol%C3%ADmpicos/juegos-ol%C3%ADmpicos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/juegos-ol%C3%ADmpicos/juegos-ol%C3%ADmpicos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/juegos-ol%C3%ADmpicos/juegos-ol%C3%ADmpicos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        },
+        "children": {
+            "juegos-sochi": "deporte/juegos-ol\u00edmpicos/juegos-sochi"
+        },
+        "parents": {
+            "deporte": "deporte"
+        },
+        "sisters": {
+            "atletismo": "deporte/atletismo",
+            "deporte-de-pelota": "deporte/deporte-de-pelota",
+            "deporte-extremo": "deporte/deporte-extremo",
+            "deportes-acuaticos": "deporte/deportes-acuaticos",
+            "deportes-de-lucha": "deporte/deportes-de-lucha",
+            "deportes-de-motor": "deporte/deportes-de-motor",
+            "deportes-mentales": "deporte/deportes-mentales",
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        }
+    }
+}

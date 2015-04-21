@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ingenier\u00eda-aeroespacial"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenier\u00eda-aeroespacial/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-aeroespacial/ingenier%C3%ADa-aeroespacial/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-aeroespacial/ingenier%C3%ADa-aeroespacial/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-aeroespacial/ingenier%C3%ADa-aeroespacial/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        },
+        "children": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica"
+        },
+        "parents": {
+            "ingenieria": "tecnologia/ingenieria"
+        },
+        "sisters": {
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        }
+    }
+}

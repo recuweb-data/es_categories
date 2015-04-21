@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "ego\u00edsmo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ego\u00edsmo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ego%C3%ADsmo/ego%C3%ADsmo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ego%C3%ADsmo/ego%C3%ADsmo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ego%C3%ADsmo/ego%C3%ADsmo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ego\u00edsmo": "pol\u00edtica/etica/ego\u00edsmo"
+        },
+        "parents": {
+            "etica": "pol\u00edtica/etica"
+        },
+        "sisters": {
+            "ego\u00edsmo": "pol\u00edtica/etica/ego\u00edsmo",
+            "hedonismo": "pol\u00edtica/etica/hedonismo",
+            "nihilismo": "pol\u00edtica/etica/nihilismo",
+            "objetivismo": "pol\u00edtica/etica/objetivismo",
+            "pacifismo": "pol\u00edtica/etica/pacifismo",
+            "utilitarismo": "pol\u00edtica/etica/utilitarismo"
+        }
+    }
+}

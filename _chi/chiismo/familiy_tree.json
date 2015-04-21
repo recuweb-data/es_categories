@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "chiismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/chiismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/chiismo/chiismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/chiismo/chiismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/chiismo/chiismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "chiismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/chiismo"
+        },
+        "parents": {
+            "islam": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam"
+        },
+        "sisters": {
+            "chiismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/chiismo",
+            "comunidad-ahmadia": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/comunidad-ahmadia",
+            "sufismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sufismo",
+            "sunismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sunismo"
+        }
+    }
+}

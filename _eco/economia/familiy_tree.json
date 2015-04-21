@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "portal_name": "economia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/economia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/economia/economia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/economia/economia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/economia/economia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "economia": "economia"
+        },
+        "children": {
+            "finanzas": "economia/finanzas",
+            "macroeconom\u00eda": "economia/macroeconom\u00eda",
+            "microeconom\u00eda": "economia/microeconom\u00eda",
+            "negocio": "economia/negocio",
+            "propiedad": "economia/propiedad"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "ciencia": "ciencia",
+            "cultura": "cultura",
+            "deporte": "deporte",
+            "economia": "economia",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "naturaleza": "naturaleza",
+            "pol\u00edtica": "pol\u00edtica",
+            "salud": "salud",
+            "sociedad": "sociedad",
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "grandchildren": {
+            "banco": "economia/finanzas/banco",
+            "capital-financiero": "economia/finanzas/capital-financiero",
+            "econom\u00eda-financiera": "economia/finanzas/econom\u00eda-financiera",
+            "finanza-p\u00fablica": "economia/finanzas/finanza-p\u00fablica",
+            "finanzas-corporativas": "economia/finanzas/finanzas-corporativas",
+            "finanzas-experimental": "economia/finanzas/finanzas-experimental",
+            "mercados-financieros": "economia/finanzas/mercados-financieros",
+            "servicios-financieros": "economia/finanzas/servicios-financieros",
+            "administraci\u00f3n": "economia/negocio/administraci\u00f3n",
+            "contabilidad": "economia/negocio/contabilidad",
+            "esp\u00edritu-empresarial": "economia/negocio/esp\u00edritu-empresarial",
+            "mercadotecnia": "economia/negocio/mercadotecnia",
+            "contrato-de-arrendamiento": "economia/propiedad/contrato-de-arrendamiento"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "macintosh-centries"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/macintosh-centries/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/macintosh-centries/macintosh-centries/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/macintosh-centries/macintosh-centries/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/macintosh-centries/macintosh-centries/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "macintosh-centries": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh/macintosh-centries"
+        },
+        "parents": {
+            "macintosh": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        },
+        "sisters": {
+            "ibook": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh/ibook"
+        }
+    }
+}

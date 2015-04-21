@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "escalada"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/escalada/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/escalada/escalada/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/escalada/escalada/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/escalada/escalada/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "escalada": "deporte/deporte-extremo/escalada"
+        },
+        "children": {
+            "barranquismo": "deporte/deporte-extremo/escalada/barranquismo",
+            "escalada-en-hielo": "deporte/deporte-extremo/escalada/escalada-en-hielo"
+        },
+        "parents": {
+            "deporte-extremo": "deporte/deporte-extremo"
+        },
+        "sisters": {
+            "escalada": "deporte/deporte-extremo/escalada",
+            "paracaidismo": "deporte/deporte-extremo/paracaidismo",
+            "parkour": "deporte/deporte-extremo/parkour",
+            "skateboarding": "deporte/deporte-extremo/skateboarding",
+            "snowboarding": "deporte/deporte-extremo/snowboarding",
+            "surf": "deporte/deporte-extremo/surf",
+            "xgames": "deporte/deporte-extremo/xgames"
+        }
+    }
+}

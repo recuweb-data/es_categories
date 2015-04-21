@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "rally-dakar"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rally-dakar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rally-dakar/rally-dakar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rally-dakar/rally-dakar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally-dakar/rally-dakar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rally-dakar": "deporte/deportes-de-motor/motociclismo/rally-raid/rally-dakar"
+        },
+        "parents": {
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid"
+        },
+        "sisters": {
+            "rally-dakar": "deporte/deportes-de-motor/motociclismo/rally-raid/rally-dakar"
+        }
+    }
+}

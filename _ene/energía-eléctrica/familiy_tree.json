@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-el\u00e9ctrica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-el\u00e9ctrica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-el%C3%A9ctrica/energ%C3%ADa-el%C3%A9ctrica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-el%C3%A9ctrica/energ%C3%ADa-el%C3%A9ctrica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-el%C3%A9ctrica/energ%C3%ADa-el%C3%A9ctrica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "energ\u00eda-el\u00e9ctrica": "tecnologia/energ\u00eda-el\u00e9ctrica"
+        },
+        "children": {
+            "energ\u00eda-renovable": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable",
+            "energias-convencionales": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales"
+        },
+        "parents": {
+            "tecnologia": "tecnologia"
+        },
+        "sisters": {
+            "electronica": "tecnologia/electronica",
+            "energ\u00eda-el\u00e9ctrica": "tecnologia/energ\u00eda-el\u00e9ctrica",
+            "ingenieria": "tecnologia/ingenieria",
+            "telecomunicacion": "tecnologia/telecomunicacion"
+        }
+    }
+}

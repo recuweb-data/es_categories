@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "papa-francisco"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/papa-francisco/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/papa-francisco/papa-francisco/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/papa-francisco/papa-francisco/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/papa-francisco/papa-francisco/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "papa-francisco": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo/papa-francisco"
+        },
+        "parents": {
+            "catolicismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo"
+        },
+        "sisters": {
+            "papa-benedicto": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo/papa-benedicto",
+            "papa-francisco": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo/papa-francisco"
+        }
+    }
+}

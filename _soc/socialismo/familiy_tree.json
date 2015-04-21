@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "socialismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/socialismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/socialismo/socialismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/socialismo/socialismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/socialismo/socialismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "socialismo": "pol\u00edtica/ideologia-politica/socialismo"
+        },
+        "children": {
+            "comunismo": "pol\u00edtica/ideologia-politica/socialismo/comunismo",
+            "marxismo": "pol\u00edtica/ideologia-politica/socialismo/marxismo",
+            "socialdemocracia": "pol\u00edtica/ideologia-politica/socialismo/socialdemocracia"
+        },
+        "parents": {
+            "ideologia-politica": "pol\u00edtica/ideologia-politica"
+        },
+        "sisters": {
+            "capitalismo": "pol\u00edtica/ideologia-politica/capitalismo"
+        }
+    }
+}

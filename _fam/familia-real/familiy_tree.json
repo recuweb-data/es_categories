@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "familia-real"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/familia-real/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/familia-real/familia-real/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/familia-real/familia-real/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/familia-real/familia-real/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "familia-real": "pol\u00edtica/ideologia-politica/monarquismo/familia-real"
+        },
+        "parents": {
+            "monarquismo": "pol\u00edtica/ideologia-politica/monarquismo"
+        },
+        "sisters": {
+            "familia-real": "pol\u00edtica/ideologia-politica/monarquismo/familia-real",
+            "imperio": "pol\u00edtica/ideologia-politica/monarquismo/imperio"
+        }
+    }
+}

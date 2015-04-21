@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "electroac\u00fastica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/electroac\u00fastica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/electroac%C3%BAstica/electroac%C3%BAstica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/electroac%C3%BAstica/electroac%C3%BAstica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/electroac%C3%BAstica/electroac%C3%BAstica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "electroac\u00fastica": "tecnologia/electronica/electroac\u00fastica"
+        },
+        "parents": {
+            "electronica": "tecnologia/electronica"
+        },
+        "sisters": {
+            "aparatos-electronicos": "tecnologia/electronica/aparatos-electronicos"
+        }
+    }
+}

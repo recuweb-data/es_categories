@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "meditaci\u00f3n"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/meditaci\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "meditaci\u00f3n": "lifestyle/desarrollo-personal/meditaci\u00f3n"
+        },
+        "children": {
+            "yoga": "lifestyle/desarrollo-personal/meditaci\u00f3n/yoga"
+        },
+        "parents": {
+            "desarrollo-personal": "lifestyle/desarrollo-personal"
+        },
+        "sisters": {
+            "discipline": "lifestyle/desarrollo-personal/discipline",
+            "felicidad": "lifestyle/desarrollo-personal/felicidad",
+            "meditaci\u00f3n": "lifestyle/desarrollo-personal/meditaci\u00f3n",
+            "prejuicio": "lifestyle/desarrollo-personal/prejuicio",
+            "seduccion": "lifestyle/desarrollo-personal/seduccion",
+            "superstici\u00f3n": "lifestyle/desarrollo-personal/superstici\u00f3n"
+        }
+    }
+}

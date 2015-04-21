@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "hardware"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hardware/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hardware/hardware/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hardware/hardware/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware/hardware/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware"
+        },
+        "children": {
+            "circuito-integrado": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/circuito-integrado",
+            "empresas-de-hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware",
+            "libro-electr\u00f3nico": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/libro-electr\u00f3nico",
+            "memorias-informaticas": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas",
+            "periferico-auxiliar": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/periferico-auxiliar",
+            "placa-base": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/placa-base"
+        },
+        "parents": {
+            "aparato-electr\u00f3nico": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico"
+        },
+        "sisters": {
+            "hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware",
+            "radar": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/radar"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "transcripci\u00f3n"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/transcripci\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/transcripci%C3%B3n/transcripci%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/transcripci%C3%B3n/transcripci%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/transcripci%C3%B3n/transcripci%C3%B3n/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "transcripci\u00f3n": "tecnologia/telecomunicacion/tecnologia-de-video/subt\u00edtulo/transcripci\u00f3n"
+        },
+        "parents": {
+            "subt\u00edtulo": "tecnologia/telecomunicacion/tecnologia-de-video/subt\u00edtulo"
+        },
+        "sisters": {
+            "transcripci\u00f3n": "tecnologia/telecomunicacion/tecnologia-de-video/subt\u00edtulo/transcripci\u00f3n"
+        }
+    }
+}

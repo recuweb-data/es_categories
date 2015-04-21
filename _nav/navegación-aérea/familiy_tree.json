@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "portal_name": "navegaci\u00f3n-a\u00e9rea"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/navegaci\u00f3n-a\u00e9rea/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/navegaci%C3%B3n-a%C3%A9rea/navegaci%C3%B3n-a%C3%A9rea/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/navegaci%C3%B3n-a%C3%A9rea/navegaci%C3%B3n-a%C3%A9rea/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/navegaci%C3%B3n-a%C3%A9rea/navegaci%C3%B3n-a%C3%A9rea/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "navegaci\u00f3n-a\u00e9rea": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica/navegaci\u00f3n-a\u00e9rea"
+        },
+        "parents": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica"
+        }
+    }
+}

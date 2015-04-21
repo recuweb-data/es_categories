@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "ruteadores"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ruteadores/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ruteadores/ruteadores/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ruteadores/ruteadores/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ruteadores/ruteadores/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ruteadores": "tecnologia/electronica/aparatos-electronicos/hardware/ruteadores"
+        },
+        "parents": {
+            "hardware": "tecnologia/electronica/aparatos-electronicos/hardware"
+        },
+        "sisters": {
+            "calculadoras": "tecnologia/electronica/aparatos-electronicos/hardware/calculadoras"
+        }
+    }
+}

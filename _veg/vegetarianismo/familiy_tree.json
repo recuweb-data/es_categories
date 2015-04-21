@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "vegetarianismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/vegetarianismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/vegetarianismo/vegetarianismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/vegetarianismo/vegetarianismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/vegetarianismo/vegetarianismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "vegetarianismo": "lifestyle/vida-sencilla/vegetarianismo"
+        },
+        "parents": {
+            "vida-sencilla": "lifestyle/vida-sencilla"
+        },
+        "sisters": {
+            "ascetismo": "lifestyle/vida-sencilla/ascetismo",
+            "vegetarianismo": "lifestyle/vida-sencilla/vegetarianismo"
+        }
+    }
+}

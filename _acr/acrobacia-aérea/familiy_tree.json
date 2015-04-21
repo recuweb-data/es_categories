@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "acrobacia-a\u00e9rea"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/acrobacia-a\u00e9rea/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/acrobacia-a%C3%A9rea/acrobacia-a%C3%A9rea/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/acrobacia-a%C3%A9rea/acrobacia-a%C3%A9rea/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/acrobacia-a%C3%A9rea/acrobacia-a%C3%A9rea/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "acrobacia-a\u00e9rea": "deporte/deportes-de-motor/aeronautica/acrobacia-a\u00e9rea"
+        },
+        "parents": {
+            "aeronautica": "deporte/deportes-de-motor/aeronautica"
+        },
+        "sisters": {
+            "acrobacia-a\u00e9rea": "deporte/deportes-de-motor/aeronautica/acrobacia-a\u00e9rea"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "drupal"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/drupal/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/drupal/drupal/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/drupal/drupal/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "drupal": "internet/aplicaci\u00f3n-web/bitacoras-web/drupal"
+        },
+        "parents": {
+            "bitacoras-web": "internet/aplicaci\u00f3n-web/bitacoras-web"
+        },
+        "sisters": {
+            "drupal": "internet/aplicaci\u00f3n-web/bitacoras-web/drupal",
+            "joomla": "internet/aplicaci\u00f3n-web/bitacoras-web/joomla",
+            "wordpress": "internet/aplicaci\u00f3n-web/bitacoras-web/wordpress"
+        }
+    }
+}

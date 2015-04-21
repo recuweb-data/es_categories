@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "estratega"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/estratega/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/estratega/estratega/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/estratega/estratega/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/estratega/estratega/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "estratega": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega"
+        },
+        "children": {
+            "alejandro-magno": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/alejandro-magno",
+            "carl-von-clausewitz": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/carl-von-clausewitz",
+            "julio-cesa": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/julio-cesa",
+            "napoleon-bonaparte": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/napoleon-bonaparte",
+            "pericles": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/pericles",
+            "sun-tzu": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/sun-tzu"
+        },
+        "parents": {
+            "estrategia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar"
+        },
+        "sisters": {
+            "estratega": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega"
+        }
+    }
+}

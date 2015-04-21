@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "moda"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/moda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/moda/moda/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/moda/moda/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/moda/moda/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "moda": "cultura/arte-ef\u00edmero/moda"
+        },
+        "parents": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "sisters": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        }
+    }
+}

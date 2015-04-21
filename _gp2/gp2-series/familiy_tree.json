@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "gp2-series"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/gp2-series/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/gp2-series/gp2-series/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/gp2-series/gp2-series/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/gp2-series/gp2-series/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "gp2-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/gp2-series"
+        },
+        "parents": {
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza"
+        },
+        "sisters": {
+            "f\u00f3rmula": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/f\u00f3rmula",
+            "formula-nippon": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-nippon",
+            "formula-uno": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-uno",
+            "gp2-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/gp2-series",
+            "indycar-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/indycar-series"
+        }
+    }
+}

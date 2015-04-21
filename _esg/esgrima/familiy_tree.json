@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "esgrima"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/esgrima/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/esgrima/esgrima/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/esgrima/esgrima/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/esgrima/esgrima/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "esgrima": "deporte/deportes-de-lucha/esgrima"
+        },
+        "parents": {
+            "deportes-de-lucha": "deporte/deportes-de-lucha"
+        },
+        "sisters": {
+            "arte-marcial": "deporte/deportes-de-lucha/arte-marcial",
+            "boxeo": "deporte/deportes-de-lucha/boxeo",
+            "esgrima": "deporte/deportes-de-lucha/esgrima",
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres"
+        }
+    }
+}

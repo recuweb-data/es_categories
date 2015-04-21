@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "pol\u00edtica-verde"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pol\u00edtica-verde/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pol%C3%ADtica-verde/pol%C3%ADtica-verde/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pol%C3%ADtica-verde/pol%C3%ADtica-verde/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pol%C3%ADtica-verde/pol%C3%ADtica-verde/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pol\u00edtica-verde": "politica/movimiento-social/ecologismo/pol\u00edtica-verde"
+        },
+        "parents": {
+            "ecologismo": "politica/movimiento-social/ecologismo"
+        },
+        "sisters": {
+            "crisis-ecol\u00f3gica": "politica/movimiento-social/ecologismo/crisis-ecol\u00f3gica",
+            "eventos-ecologistas": "politica/movimiento-social/ecologismo/eventos-ecologistas"
+        }
+    }
+}

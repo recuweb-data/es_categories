@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "formula-nippon"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/formula-nippon/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/formula-nippon/formula-nippon/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/formula-nippon/formula-nippon/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/formula-nippon/formula-nippon/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "formula-nippon": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-nippon"
+        },
+        "parents": {
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza"
+        },
+        "sisters": {
+            "f\u00f3rmula": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/f\u00f3rmula",
+            "formula-nippon": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-nippon",
+            "formula-uno": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-uno",
+            "gp2-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/gp2-series",
+            "indycar-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/indycar-series"
+        }
+    }
+}

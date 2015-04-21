@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "xhtml"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/xhtml/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "xhtml": "internet/desarrollo-web/formatos-web/html/xhtml"
+        },
+        "parents": {
+            "html": "internet/desarrollo-web/formatos-web/html"
+        },
+        "sisters": {
+            "iframe": "internet/desarrollo-web/formatos-web/html/iframe",
+            "xhtml": "internet/desarrollo-web/formatos-web/html/xhtml"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "yoga"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/yoga/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/yoga/yoga/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/yoga/yoga/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "yoga": "lifestyle/desarrollo-personal/meditaci\u00f3n/yoga"
+        },
+        "parents": {
+            "meditaci\u00f3n": "lifestyle/desarrollo-personal/meditaci\u00f3n"
+        },
+        "sisters": {
+            "yoga": "lifestyle/desarrollo-personal/meditaci\u00f3n/yoga"
+        }
+    }
+}

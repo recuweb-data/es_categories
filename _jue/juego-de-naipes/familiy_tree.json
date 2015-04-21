@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "juego-de-naipes"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/juego-de-naipes/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/juego-de-naipes/juego-de-naipes/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/juego-de-naipes/juego-de-naipes/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/juego-de-naipes/juego-de-naipes/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "juego-de-naipes": "deporte/deportes-mentales/juego-de-naipes"
+        },
+        "children": {
+            "p\u00f3quer": "deporte/deportes-mentales/juego-de-naipes/p\u00f3quer"
+        },
+        "parents": {
+            "deportes-mentales": "deporte/deportes-mentales"
+        },
+        "sisters": {
+            "billar": "deporte/deportes-mentales/billar",
+            "juego-de-mesa": "deporte/deportes-mentales/juego-de-mesa",
+            "juego-de-naipes": "deporte/deportes-mentales/juego-de-naipes"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "volvo-ocean-race"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/volvo-ocean-race/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/volvo-ocean-race/volvo-ocean-race/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/volvo-ocean-race/volvo-ocean-race/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/volvo-ocean-race/volvo-ocean-race/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "volvo-ocean-race": "deporte/deportes-acuaticos/regata/volvo-ocean-race"
+        },
+        "parents": {
+            "regata": "deporte/deportes-acuaticos/regata"
+        },
+        "sisters": {
+            "audi-medcup": "deporte/deportes-acuaticos/regata/audi-medcup",
+            "bacelona-world-race": "deporte/deportes-acuaticos/regata/bacelona-world-race",
+            "vendee-globe": "deporte/deportes-acuaticos/regata/vendee-globe",
+            "volvo-ocean-race": "deporte/deportes-acuaticos/regata/volvo-ocean-race"
+        }
+    }
+}

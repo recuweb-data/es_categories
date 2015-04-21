@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "rally-raid"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rally-raid/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid"
+        },
+        "children": {
+            "rally-dakar": "deporte/deportes-de-motor/motociclismo/rally-raid/rally-dakar"
+        },
+        "parents": {
+            "motociclismo": "deporte/deportes-de-motor/motociclismo"
+        },
+        "sisters": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross",
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid",
+            "snocross": "deporte/deportes-de-motor/motociclismo/snocross",
+            "superbike": "deporte/deportes-de-motor/motociclismo/superbike"
+        }
+    }
+}

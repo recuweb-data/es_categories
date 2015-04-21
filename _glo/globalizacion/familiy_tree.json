@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "globalizacion"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/globalizacion/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/globalizacion/globalizacion/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/globalizacion/globalizacion/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/globalizacion/globalizacion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "globalizacion": "politica/globalizacion"
+        },
+        "children": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        },
+        "parents": {
+            "politica": "politica"
+        },
+        "sisters": {
+            "globalizacion": "politica/globalizacion",
+            "ideologias-politicas": "politica/ideologias-politicas",
+            "movimiento-social": "politica/movimiento-social"
+        }
+    }
+}

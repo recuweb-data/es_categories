@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "electronica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/electronica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/electronica/electronica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/electronica/electronica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/electronica/electronica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "electronica": "tecnolog\u00eda/electronica"
+        },
+        "children": {
+            "aparatos-electronicos": "tecnolog\u00eda/electronica/aparatos-electronicos",
+            "electroac\u00fastica": "tecnolog\u00eda/electronica/electroac\u00fastica"
+        },
+        "parents": {
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "sisters": {
+            "electronica": "tecnolog\u00eda/electronica",
+            "energ\u00eda-el\u00e9ctrica": "tecnolog\u00eda/energ\u00eda-el\u00e9ctrica",
+            "ingenieria": "tecnolog\u00eda/ingenieria",
+            "robotica": "tecnolog\u00eda/robotica",
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "hockey-sobre-hielo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hockey-sobre-hielo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hockey-sobre-hielo/hockey-sobre-hielo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hockey-sobre-hielo/hockey-sobre-hielo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hockey-sobre-hielo/hockey-sobre-hielo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hockey-sobre-hielo": "deporte/deporte-de-pelota/hockey/hockey-sobre-hielo"
+        },
+        "parents": {
+            "hockey": "deporte/deporte-de-pelota/hockey"
+        },
+        "sisters": {
+            "hockey-sobre-c\u00e9sped": "deporte/deporte-de-pelota/hockey/hockey-sobre-c\u00e9sped",
+            "hockey-sobre-hielo": "deporte/deporte-de-pelota/hockey/hockey-sobre-hielo",
+            "hockey-sobre-patines": "deporte/deporte-de-pelota/hockey/hockey-sobre-patines"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "telecomunicacion"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/telecomunicacion/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/telecomunicacion/telecomunicacion/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/telecomunicacion/telecomunicacion/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/telecomunicacion/telecomunicacion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        },
+        "children": {
+            "internet": "tecnolog\u00eda/telecomunicacion/internet",
+            "radio": "tecnolog\u00eda/telecomunicacion/radio",
+            "sistema-de-gps": "tecnolog\u00eda/telecomunicacion/sistema-de-gps",
+            "tecnologia-de-video": "tecnolog\u00eda/telecomunicacion/tecnologia-de-video",
+            "tel\u00e9fono": "tecnolog\u00eda/telecomunicacion/tel\u00e9fono"
+        },
+        "parents": {
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "sisters": {
+            "electronica": "tecnolog\u00eda/electronica",
+            "energ\u00eda-el\u00e9ctrica": "tecnolog\u00eda/energ\u00eda-el\u00e9ctrica",
+            "ingenieria": "tecnolog\u00eda/ingenieria",
+            "robotica": "tecnolog\u00eda/robotica",
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        }
+    }
+}

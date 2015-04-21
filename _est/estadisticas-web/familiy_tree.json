@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "estadisticas-web"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/estadisticas-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/estadisticas-web/estadisticas-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/estadisticas-web/estadisticas-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/estadisticas-web/estadisticas-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "estadisticas-web": "internet/an\u00e1lisis-web/estadisticas-web"
+        },
+        "children": {
+            "analitycs": "internet/an\u00e1lisis-web/estadisticas-web/analitycs",
+            "awstats": "internet/an\u00e1lisis-web/estadisticas-web/awstats"
+        },
+        "parents": {
+            "an\u00e1lisis-web": "internet/an\u00e1lisis-web"
+        },
+        "sisters": {
+            "buscadores-web": "internet/an\u00e1lisis-web/buscadores-web",
+            "estadisticas-web": "internet/an\u00e1lisis-web/estadisticas-web",
+            "posicionamiento-en-buscadores": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "portal_name": "desarrollo-web"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/desarrollo-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/desarrollo-web/desarrollo-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/desarrollo-web/desarrollo-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/desarrollo-web/desarrollo-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "desarrollo-web": "internet/desarrollo-web"
+        },
+        "children": {
+            "base-de-datos": "internet/desarrollo-web/base-de-datos",
+            "formatos-web": "internet/desarrollo-web/formatos-web",
+            "lenguajes-web": "internet/desarrollo-web/lenguajes-web"
+        },
+        "parents": {
+            "internet": "internet"
+        },
+        "sisters": {
+            "an\u00e1lisis-web": "internet/an\u00e1lisis-web",
+            "aplicaci\u00f3n-web": "internet/aplicaci\u00f3n-web",
+            "delito-inform\u00e1tico": "internet/delito-inform\u00e1tico",
+            "desarrollo-web": "internet/desarrollo-web",
+            "servicios-web": "internet/servicios-web"
+        },
+        "grandchildren": {
+            "mysql": "internet/desarrollo-web/base-de-datos/mysql",
+            "postgresql": "internet/desarrollo-web/base-de-datos/postgresql",
+            "sqlite": "internet/desarrollo-web/base-de-datos/sqlite",
+            "css": "internet/desarrollo-web/formatos-web/css",
+            "extensible-markup-language": "internet/desarrollo-web/formatos-web/extensible-markup-language",
+            "hoja-de-estilos-en-cascada": "internet/desarrollo-web/formatos-web/hoja-de-estilos-en-cascada",
+            "html": "internet/desarrollo-web/formatos-web/html",
+            "xml": "internet/desarrollo-web/formatos-web/xml",
+            "java": "internet/desarrollo-web/lenguajes-web/java",
+            "javascript": "internet/desarrollo-web/lenguajes-web/javascript",
+            "perl": "internet/desarrollo-web/lenguajes-web/perl",
+            "php": "internet/desarrollo-web/lenguajes-web/php"
+        }
+    }
+}

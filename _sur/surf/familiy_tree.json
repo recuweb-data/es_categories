@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "surf"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/surf/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/surf/surf/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/surf/surf/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/surf/surf/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "surf": "deporte/deporte-extremo/surf"
+        },
+        "children": {
+            "kitesurf": "deporte/deporte-extremo/surf/kitesurf",
+            "windsurf": "deporte/deporte-extremo/surf/windsurf"
+        },
+        "parents": {
+            "deporte-extremo": "deporte/deporte-extremo"
+        },
+        "sisters": {
+            "escalada": "deporte/deporte-extremo/escalada",
+            "paracaidismo": "deporte/deporte-extremo/paracaidismo",
+            "parkour": "deporte/deporte-extremo/parkour",
+            "skateboarding": "deporte/deporte-extremo/skateboarding",
+            "snowboarding": "deporte/deporte-extremo/snowboarding",
+            "surf": "deporte/deporte-extremo/surf",
+            "xgames": "deporte/deporte-extremo/xgames"
+        }
+    }
+}

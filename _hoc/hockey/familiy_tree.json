@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": "hockey"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hockey/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hockey/hockey/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hockey/hockey/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hockey": "deporte/deporte-de-pelota/hockey"
+        },
+        "children": {
+            "hockey-sobre-c\u00e9sped": "deporte/deporte-de-pelota/hockey/hockey-sobre-c\u00e9sped",
+            "hockey-sobre-hielo": "deporte/deporte-de-pelota/hockey/hockey-sobre-hielo",
+            "hockey-sobre-patines": "deporte/deporte-de-pelota/hockey/hockey-sobre-patines"
+        },
+        "parents": {
+            "deporte-de-pelota": "deporte/deporte-de-pelota"
+        },
+        "sisters": {
+            "baloncesto": "deporte/deporte-de-pelota/baloncesto",
+            "balonmano": "deporte/deporte-de-pelota/balonmano",
+            "beisbol": "deporte/deporte-de-pelota/beisbol",
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta",
+            "futbol": "deporte/deporte-de-pelota/futbol",
+            "golf": "deporte/deporte-de-pelota/golf",
+            "hockey": "deporte/deporte-de-pelota/hockey",
+            "rugby": "deporte/deporte-de-pelota/rugby",
+            "voleibol": "deporte/deporte-de-pelota/voleibol"
+        }
+    }
+}

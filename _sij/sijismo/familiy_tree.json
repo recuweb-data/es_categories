@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sijismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sijismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sijismo/sijismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sijismo/sijismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sijismo/sijismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sijismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/sijismo"
+        },
+        "parents": {
+            "religi\u00f3n-en-la-india": "cultura/religi\u00f3n/religi\u00f3n-en-la-india"
+        },
+        "sisters": {
+            "budismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/budismo",
+            "hinduismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/hinduismo",
+            "jainismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/jainismo",
+            "sijismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/sijismo"
+        }
+    }
+}

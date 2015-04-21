@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tenis"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tenis/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tenis/tenis/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tenis/tenis/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tenis/tenis/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tenis": "deporte/deporte-de-pelota/deportes-de-raqueta/tenis"
+        },
+        "children": {
+            "tenis-de-mesa": "deporte/deporte-de-pelota/deportes-de-raqueta/tenis/tenis-de-mesa"
+        },
+        "parents": {
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta"
+        },
+        "sisters": {
+            "fronton": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton",
+            "tenis": "deporte/deporte-de-pelota/deportes-de-raqueta/tenis"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "hardware-microsoft"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hardware-microsoft/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hardware-microsoft/hardware-microsoft/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hardware-microsoft/hardware-microsoft/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-microsoft/hardware-microsoft/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hardware-microsoft": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-microsoft"
+        },
+        "parents": {
+            "empresas-de-hardware": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware"
+        },
+        "sisters": {
+            "hardware-apple": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple",
+            "hardware-ibm": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-ibm"
+        }
+    }
+}

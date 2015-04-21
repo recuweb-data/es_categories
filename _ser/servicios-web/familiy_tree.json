@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "servicios-web"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/servicios-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "servicios-web": "internet/servicios-web"
+        },
+        "children": {
+            "microblogging": "internet/servicios-web/microblogging",
+            "red-social": "internet/servicios-web/red-social"
+        },
+        "parents": {
+            "internet": "internet"
+        },
+        "sisters": {
+            "an\u00e1lisis-web": "internet/an\u00e1lisis-web",
+            "aplicaci\u00f3n-web": "internet/aplicaci\u00f3n-web",
+            "delito-inform\u00e1tico": "internet/delito-inform\u00e1tico",
+            "desarrollo-web": "internet/desarrollo-web",
+            "servicios-web": "internet/servicios-web"
+        },
+        "grandchildren": {
+            "friendfeed": "internet/servicios-web/microblogging/friendfeed",
+            "tumblr": "internet/servicios-web/microblogging/tumblr",
+            "twitter": "internet/servicios-web/microblogging/twitter",
+            "facebook": "internet/servicios-web/red-social/facebook",
+            "flickr": "internet/servicios-web/red-social/flickr",
+            "google-plus": "internet/servicios-web/red-social/google-plus",
+            "linkedin": "internet/servicios-web/red-social/linkedin",
+            "tuenti": "internet/servicios-web/red-social/tuenti"
+        }
+    }
+}

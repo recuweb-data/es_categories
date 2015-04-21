@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "protesta-feminista"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/protesta-feminista/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/protesta-feminista/protesta-feminista/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/protesta-feminista/protesta-feminista/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/protesta-feminista/protesta-feminista/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "protesta-feminista": "politica/movimiento-social/feminismo/enventos-feministas/protesta-feminista"
+        },
+        "parents": {
+            "enventos-feministas": "politica/movimiento-social/feminismo/enventos-feministas"
+        },
+        "sisters": {
+            "lilith-fair": "politica/movimiento-social/feminismo/enventos-feministas/lilith-fair"
+        }
+    }
+}

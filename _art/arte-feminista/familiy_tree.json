@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "arte-feminista"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-feminista/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-feminista/arte-feminista/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-feminista/arte-feminista/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-feminista/arte-feminista/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arte-feminista": "politica/movimiento-social/feminismo/arte-feminista"
+        },
+        "parents": {
+            "feminismo": "politica/movimiento-social/feminismo"
+        },
+        "sisters": {
+            "arte-feminista": "politica/movimiento-social/feminismo/arte-feminista"
+        }
+    }
+}

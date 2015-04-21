@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "multinacional"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/multinacional/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/multinacional/multinacional/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/multinacional/multinacional/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/multinacional/multinacional/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "multinacional": "politica/globalizacion/multinacional"
+        },
+        "parents": {
+            "globalizacion": "politica/globalizacion"
+        },
+        "sisters": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "feminismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/feminismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/feminismo/feminismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/feminismo/feminismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/feminismo/feminismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo"
+        },
+        "children": {
+            "arte-feminista": "pol\u00edtica/movimiento-social/feminismo/arte-feminista",
+            "enventos-feministas": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas",
+            "feminidad": "pol\u00edtica/movimiento-social/feminismo/feminidad",
+            "maternidad-libre": "pol\u00edtica/movimiento-social/feminismo/maternidad-libre",
+            "misoginia": "pol\u00edtica/movimiento-social/feminismo/misoginia"
+        },
+        "parents": {
+            "movimiento-social": "pol\u00edtica/movimiento-social"
+        },
+        "sisters": {
+            "agrarismo": "pol\u00edtica/movimiento-social/agrarismo",
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo",
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo",
+            "indigenismo": "pol\u00edtica/movimiento-social/indigenismo",
+            "lobby": "pol\u00edtica/movimiento-social/lobby"
+        }
+    }
+}

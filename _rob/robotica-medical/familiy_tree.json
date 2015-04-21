@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "portal_name": "robotica-medical"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/robotica-medical/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/robotica-medical/robotica-medical/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/robotica-medical/robotica-medical/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/robotica-medical/robotica-medical/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "robotica-medical": "tecnologia/ingenieria/ingenier\u00eda-mec\u00e1nica/robotica-medical"
+        },
+        "parents": {
+            "ingenier\u00eda-mec\u00e1nica": "tecnologia/ingenieria/ingenier\u00eda-mec\u00e1nica"
+        }
+    }
+}

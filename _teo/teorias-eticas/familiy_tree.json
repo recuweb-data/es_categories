@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "teorias-eticas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/teorias-eticas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/teorias-eticas/teorias-eticas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/teorias-eticas/teorias-eticas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/teorias-eticas/teorias-eticas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "teorias-eticas": "politica/teorias-eticas"
+        },
+        "children": {
+            "humanismo": "politica/teorias-eticas/humanismo"
+        },
+        "parents": {
+            "politica": "politica"
+        },
+        "sisters": {
+            "globalizacion": "politica/globalizacion",
+            "ideologias-politicas": "politica/ideologias-politicas",
+            "movimiento-social": "politica/movimiento-social"
+        },
+        "grandchildren": {
+            "librepensador": "politica/teorias-eticas/humanismo/librepensador"
+        }
+    }
+}

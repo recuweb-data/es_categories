@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "memorias-informaticas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/memorias-informaticas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/memorias-informaticas/memorias-informaticas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/memorias-informaticas/memorias-informaticas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/memorias-informaticas/memorias-informaticas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "memorias-informaticas": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas"
+        },
+        "children": {
+            "memoria-flash": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas/memoria-flash",
+            "unidad-de-disco-duro": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas/unidad-de-disco-duro"
+        },
+        "parents": {
+            "hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware"
+        },
+        "sisters": {
+            "circuito-integrado": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/circuito-integrado",
+            "empresas-de-hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware",
+            "libro-electr\u00f3nico": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/libro-electr\u00f3nico",
+            "memorias-informaticas": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas",
+            "periferico-auxiliar": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/periferico-auxiliar",
+            "placa-base": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/placa-base"
+        }
+    }
+}

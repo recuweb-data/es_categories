@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "tradici\u00f3n"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tradici\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tradici\u00f3n": "cultura/cultura-popular/tradici\u00f3n"
+        },
+        "children": {
+            "folclore": "cultura/cultura-popular/tradici\u00f3n/folclore",
+            "leyendas": "cultura/cultura-popular/tradici\u00f3n/leyendas"
+        },
+        "parents": {
+            "cultura-popular": "cultura/cultura-popular"
+        },
+        "sisters": {
+            "altruismo": "cultura/cultura-popular/altruismo",
+            "coleccionismo": "cultura/cultura-popular/coleccionismo",
+            "tauromaquia": "cultura/cultura-popular/tauromaquia",
+            "tradici\u00f3n": "cultura/cultura-popular/tradici\u00f3n"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "autom\u00f3vil-superdeportivo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/autom\u00f3vil-superdeportivo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/autom%C3%B3vil-superdeportivo/autom%C3%B3vil-superdeportivo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/autom%C3%B3vil-superdeportivo/autom%C3%B3vil-superdeportivo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/autom%C3%B3vil-superdeportivo/autom%C3%B3vil-superdeportivo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "autom\u00f3vil-superdeportivo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/autom\u00f3vil-superdeportivo"
+        },
+        "parents": {
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad"
+        },
+        "sisters": {
+            "autom\u00f3vil-superdeportivo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/autom\u00f3vil-superdeportivo",
+            "automovil-gran-turismo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/automovil-gran-turismo",
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza",
+            "sport-prototipo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/sport-prototipo"
+        }
+    }
+}

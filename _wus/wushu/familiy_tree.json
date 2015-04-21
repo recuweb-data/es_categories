@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "wushu"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/wushu/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/wushu/wushu/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/wushu/wushu/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/wushu/wushu/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "wushu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos/wushu"
+        },
+        "parents": {
+            "artes-marciales-chinos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos"
+        },
+        "sisters": {
+            "kung-fu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos/kung-fu",
+            "wushu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos/wushu"
+        }
+    }
+}

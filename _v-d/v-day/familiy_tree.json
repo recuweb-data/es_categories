@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "v-day"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/v-day/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/v-day/v-day/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/v-day/v-day/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/v-day/v-day/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "v-day": "politica/movimiento-social/feminismo/enventos-feministas/v-day"
+        },
+        "parents": {
+            "enventos-feministas": "politica/movimiento-social/feminismo/enventos-feministas"
+        },
+        "sisters": {
+            "lilith-fair": "politica/movimiento-social/feminismo/enventos-feministas/lilith-fair"
+        }
+    }
+}

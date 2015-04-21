@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "bici-critica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bici-critica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bici-critica/bici-critica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bici-critica/bici-critica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bici-critica/bici-critica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bici-critica": "politica/movimiento-social/ecologismo/eventos-ecologistas/bici-critica"
+        },
+        "parents": {
+            "eventos-ecologistas": "politica/movimiento-social/ecologismo/eventos-ecologistas"
+        },
+        "sisters": {
+            "bici-critica": "politica/movimiento-social/ecologismo/eventos-ecologistas/bici-critica"
+        }
+    }
+}

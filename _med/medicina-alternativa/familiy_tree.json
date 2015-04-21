@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "medicina-alternativa"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/medicina-alternativa/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/medicina-alternativa/medicina-alternativa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/medicina-alternativa/medicina-alternativa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/medicina-alternativa/medicina-alternativa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa"
+        },
+        "children": {
+            "aguas-termales": "cultura/espiritualidad/medicina-alternativa/aguas-termales",
+            "curaci\u00f3n-trav\u00e9s-de-la-fe": "cultura/espiritualidad/medicina-alternativa/curaci\u00f3n-trav\u00e9s-de-la-fe",
+            "curacion-sobrenatural": "cultura/espiritualidad/medicina-alternativa/curacion-sobrenatural",
+            "etnomedicina": "cultura/espiritualidad/medicina-alternativa/etnomedicina",
+            "homeopat\u00eda": "cultura/espiritualidad/medicina-alternativa/homeopat\u00eda",
+            "terapias-manipulativas": "cultura/espiritualidad/medicina-alternativa/terapias-manipulativas"
+        },
+        "parents": {
+            "espiritualidad": "cultura/espiritualidad"
+        },
+        "sisters": {
+            "esoterismo": "cultura/espiritualidad/esoterismo",
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa",
+            "misticismo": "cultura/espiritualidad/misticismo",
+            "mitolog\u00eda": "cultura/espiritualidad/mitolog\u00eda",
+            "pagano": "cultura/espiritualidad/pagano",
+            "profesias": "cultura/espiritualidad/profesias",
+            "sobrenatural": "cultura/espiritualidad/sobrenatural"
+        },
+        "grandchildren": {
+            "chamanismo": "cultura/espiritualidad/medicina-alternativa/etnomedicina/chamanismo",
+            "planta-medicinal": "cultura/espiritualidad/medicina-alternativa/etnomedicina/planta-medicinal"
+        }
+    }
+}

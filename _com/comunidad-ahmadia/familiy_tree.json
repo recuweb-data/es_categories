@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "comunidad-ahmadia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/comunidad-ahmadia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/comunidad-ahmadia/comunidad-ahmadia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/comunidad-ahmadia/comunidad-ahmadia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/comunidad-ahmadia/comunidad-ahmadia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "comunidad-ahmadia": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/comunidad-ahmadia"
+        },
+        "parents": {
+            "islam": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam"
+        },
+        "sisters": {
+            "chiismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/chiismo",
+            "comunidad-ahmadia": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/comunidad-ahmadia",
+            "sufismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sufismo",
+            "sunismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/islam/sunismo"
+        }
+    }
+}

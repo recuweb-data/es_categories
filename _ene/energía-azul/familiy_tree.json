@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-azul"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-azul/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-azul/energ%C3%ADa-azul/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-azul/energ%C3%ADa-azul/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-azul/energ%C3%ADa-azul/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "energ\u00eda-azul": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica/energ\u00eda-azul"
+        },
+        "parents": {
+            "potencia-osmotica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica"
+        },
+        "sisters": {
+            "energ\u00eda-azul": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica/energ\u00eda-azul"
+        }
+    }
+}

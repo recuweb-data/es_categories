@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "nacionalismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/nacionalismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/nacionalismo/nacionalismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/nacionalismo/nacionalismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/nacionalismo/nacionalismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "nacionalismo": "pol\u00edtica/ideologia-politica/nacionalismo"
+        },
+        "children": {
+            "fascismo": "pol\u00edtica/ideologia-politica/nacionalismo/fascismo",
+            "regionalismo": "pol\u00edtica/ideologia-politica/nacionalismo/regionalismo"
+        },
+        "parents": {
+            "ideologia-politica": "pol\u00edtica/ideologia-politica"
+        },
+        "sisters": {
+            "capitalismo": "pol\u00edtica/ideologia-politica/capitalismo"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "snowboarding"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/snowboarding/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/snowboarding/snowboarding/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/snowboarding/snowboarding/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/snowboarding/snowboarding/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "snowboarding": "deporte/deporte-extremo/snowboarding"
+        },
+        "parents": {
+            "deporte-extremo": "deporte/deporte-extremo"
+        },
+        "sisters": {
+            "escalada": "deporte/deporte-extremo/escalada",
+            "paracaidismo": "deporte/deporte-extremo/paracaidismo",
+            "parkour": "deporte/deporte-extremo/parkour",
+            "skateboarding": "deporte/deporte-extremo/skateboarding",
+            "snowboarding": "deporte/deporte-extremo/snowboarding",
+            "surf": "deporte/deporte-extremo/surf",
+            "xgames": "deporte/deporte-extremo/xgames"
+        }
+    }
+}

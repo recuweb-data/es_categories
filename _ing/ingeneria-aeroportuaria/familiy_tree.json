@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "ingeneria-aeroportuaria"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingeneria-aeroportuaria/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingeneria-aeroportuaria/ingeneria-aeroportuaria/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingeneria-aeroportuaria/ingeneria-aeroportuaria/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingeneria-aeroportuaria/ingeneria-aeroportuaria/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingeneria-aeroportuaria": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/ingeneria-aeroportuaria"
+        },
+        "parents": {
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        },
+        "sisters": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica"
+        }
+    }
+}

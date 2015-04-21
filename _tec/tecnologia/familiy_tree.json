@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "portal_name": "tecnologia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tecnologia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tecnologia/tecnologia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tecnologia/tecnologia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tecnologia/tecnologia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tecnologia": "tecnologia"
+        },
+        "children": {
+            "electronica": "tecnologia/electronica",
+            "energ\u00eda-el\u00e9ctrica": "tecnologia/energ\u00eda-el\u00e9ctrica",
+            "ingenieria": "tecnologia/ingenieria",
+            "telecomunicacion": "tecnologia/telecomunicacion"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "ciencia": "ciencia",
+            "cultura": "cultura",
+            "deporte": "deporte",
+            "economia": "economia",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "naturaleza": "naturaleza",
+            "pol\u00edtica": "pol\u00edtica",
+            "salud": "salud",
+            "sociedad": "sociedad",
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "grandchildren": {
+            "aparatos-electronicos": "tecnologia/electronica/aparatos-electronicos",
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial",
+            "sistema-de-gps": "tecnologia/telecomunicacion/sistema-de-gps",
+            "tecnologia-de-video": "tecnologia/telecomunicacion/tecnologia-de-video",
+            "tel\u00e9fono": "tecnologia/telecomunicacion/tel\u00e9fono"
+        }
+    }
+}

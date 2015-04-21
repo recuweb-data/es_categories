@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "disco-duro"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/disco-duro/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/disco-duro/disco-duro/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/disco-duro/disco-duro/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/disco-duro/disco-duro/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "disco-duro": "tecnologia/electronica/aparatos-electronicos/hardware/memorias-informaticas/disco-duro"
+        },
+        "parents": {
+            "memorias-informaticas": "tecnologia/electronica/aparatos-electronicos/hardware/memorias-informaticas"
+        },
+        "sisters": {
+            "disco-duro": "tecnologia/electronica/aparatos-electronicos/hardware/memorias-informaticas/disco-duro"
+        }
+    }
+}

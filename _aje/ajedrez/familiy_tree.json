@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "ajedrez"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ajedrez/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ajedrez/ajedrez/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ajedrez/ajedrez/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ajedrez/ajedrez/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ajedrez": "deporte/deportes-mentales/juego-de-mesa/ajedrez"
+        },
+        "parents": {
+            "juego-de-mesa": "deporte/deportes-mentales/juego-de-mesa"
+        },
+        "sisters": {
+            "ajedrez": "deporte/deportes-mentales/juego-de-mesa/ajedrez",
+            "backgammon": "deporte/deportes-mentales/juego-de-mesa/backgammon",
+            "scrabble": "deporte/deportes-mentales/juego-de-mesa/scrabble"
+        }
+    }
+}

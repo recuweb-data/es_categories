@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "videoclip"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/videoclip/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "videoclip": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/videoclip"
+        },
+        "parents": {
+            "tecnolog\u00eda-de-v\u00eddeo": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo"
+        },
+        "sisters": {
+            "doblaje": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/doblaje",
+            "subt\u00edtulo": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/subt\u00edtulo",
+            "television": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/television",
+            "videoclip": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/videoclip"
+        }
+    }
+}

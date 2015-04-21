@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "doblaje"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/doblaje/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/doblaje/doblaje/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/doblaje/doblaje/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/doblaje/doblaje/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "doblaje": "tecnologia/telecomunicacion/tecnologia-de-video/doblaje"
+        },
+        "parents": {
+            "tecnologia-de-video": "tecnologia/telecomunicacion/tecnologia-de-video"
+        },
+        "sisters": {
+            "almacenamiento-de-video": "tecnologia/telecomunicacion/tecnologia-de-video/almacenamiento-de-video"
+        }
+    }
+}

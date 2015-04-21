@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "portal_name": "automovilismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/automovilismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/automovilismo/automovilismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/automovilismo/automovilismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/automovilismo/automovilismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "automovilismo": "deporte/deportes-de-motor/automovilismo"
+        },
+        "children": {
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad",
+            "drifting": "deporte/deportes-de-motor/automovilismo/drifting",
+            "karting": "deporte/deportes-de-motor/automovilismo/karting",
+            "rally": "deporte/deportes-de-motor/automovilismo/rally"
+        },
+        "parents": {
+            "deportes-de-motor": "deporte/deportes-de-motor"
+        },
+        "sisters": {
+            "aeronautica": "deporte/deportes-de-motor/aeronautica",
+            "automovilismo": "deporte/deportes-de-motor/automovilismo",
+            "motociclismo": "deporte/deportes-de-motor/motociclismo",
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        },
+        "grandchildren": {
+            "autom\u00f3vil-superdeportivo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/autom\u00f3vil-superdeportivo",
+            "automovil-gran-turismo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/automovil-gran-turismo",
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza",
+            "sport-prototipo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/sport-prototipo"
+        }
+    }
+}

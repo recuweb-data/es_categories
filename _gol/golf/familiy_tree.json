@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "golf"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/golf/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/golf/golf/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/golf/golf/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/golf/golf/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "golf": "deporte/deporte-de-pelota/golf"
+        },
+        "parents": {
+            "deporte-de-pelota": "deporte/deporte-de-pelota"
+        },
+        "sisters": {
+            "baloncesto": "deporte/deporte-de-pelota/baloncesto",
+            "balonmano": "deporte/deporte-de-pelota/balonmano",
+            "beisbol": "deporte/deporte-de-pelota/beisbol",
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta",
+            "futbol": "deporte/deporte-de-pelota/futbol",
+            "golf": "deporte/deporte-de-pelota/golf",
+            "hockey": "deporte/deporte-de-pelota/hockey",
+            "rugby": "deporte/deporte-de-pelota/rugby",
+            "voleibol": "deporte/deporte-de-pelota/voleibol"
+        }
+    }
+}

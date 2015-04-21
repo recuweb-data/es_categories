@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "computadora-personal"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadora-personal/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadora-personal/computadora-personal/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadora-personal/computadora-personal/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadora-personal/computadora-personal/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "computadora-personal": "tecnologia/electronica/aparatos-electronicos/hardware/computadora/computadora-personal"
+        },
+        "parents": {
+            "computadora": "tecnologia/electronica/aparatos-electronicos/hardware/computadora"
+        },
+        "sisters": {
+            "computadora-dom\u00e9stica": "tecnologia/electronica/aparatos-electronicos/hardware/computadora/computadora-dom\u00e9stica"
+        }
+    }
+}

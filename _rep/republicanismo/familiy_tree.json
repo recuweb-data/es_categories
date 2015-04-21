@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "republicanismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/republicanismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "republicanismo": "pol\u00edtica/ideologia-politica/capitalismo/republicanismo"
+        },
+        "parents": {
+            "capitalismo": "pol\u00edtica/ideologia-politica/capitalismo"
+        },
+        "sisters": {
+            "consumismo": "pol\u00edtica/ideologia-politica/capitalismo/consumismo",
+            "liberalismo": "pol\u00edtica/ideologia-politica/capitalismo/liberalismo",
+            "republicanismo": "pol\u00edtica/ideologia-politica/capitalismo/republicanismo"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "seneca-falls"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/seneca-falls/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/seneca-falls/seneca-falls/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/seneca-falls/seneca-falls/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/seneca-falls/seneca-falls/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "seneca-falls": "politica/movimiento-social/feminismo/enventos-feministas/seneca-falls"
+        },
+        "parents": {
+            "enventos-feministas": "politica/movimiento-social/feminismo/enventos-feministas"
+        },
+        "sisters": {
+            "lilith-fair": "politica/movimiento-social/feminismo/enventos-feministas/lilith-fair"
+        }
+    }
+}

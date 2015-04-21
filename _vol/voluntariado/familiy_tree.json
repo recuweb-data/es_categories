@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "voluntariado"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/voluntariado/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/voluntariado/voluntariado/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/voluntariado/voluntariado/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/voluntariado/voluntariado/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "voluntariado": "cultura/cultura-popular/altruismo/voluntariado"
+        },
+        "parents": {
+            "altruismo": "cultura/cultura-popular/altruismo"
+        },
+        "sisters": {
+            "filantrop\u00eda": "cultura/cultura-popular/altruismo/filantrop\u00eda",
+            "voluntariado": "cultura/cultura-popular/altruismo/voluntariado"
+        }
+    }
+}

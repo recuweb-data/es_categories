@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "ingenier\u00eda-mec\u00e1nica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenier\u00eda-mec\u00e1nica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-mec%C3%A1nica/ingenier%C3%ADa-mec%C3%A1nica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-mec%C3%A1nica/ingenier%C3%ADa-mec%C3%A1nica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-mec%C3%A1nica/ingenier%C3%ADa-mec%C3%A1nica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingenier\u00eda-mec\u00e1nica": "tecnologia/ingenieria/ingenier\u00eda-mec\u00e1nica"
+        },
+        "parents": {
+            "ingenieria": "tecnologia/ingenieria"
+        },
+        "sisters": {
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        }
+    }
+}

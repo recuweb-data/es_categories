@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "taoism"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/taoism/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/taoism/taoism/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/taoism/taoism/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/taoism/taoism/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "taoism": "cultura/religion/religiones-orientales/taoism"
+        },
+        "parents": {
+            "religiones-orientales": "cultura/religion/religiones-orientales"
+        },
+        "sisters": {
+            "cao-dai": "cultura/religion/religiones-orientales/cao-dai",
+            "confucianismo": "cultura/religion/religiones-orientales/confucianismo",
+            "taoism": "cultura/religion/religiones-orientales/taoism",
+            "zen": "cultura/religion/religiones-orientales/zen"
+        }
+    }
+}

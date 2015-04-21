@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "profesias"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/profesias/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/profesias/profesias/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/profesias/profesias/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/profesias/profesias/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "profesias": "cultura/espiritualidad/profesias"
+        },
+        "parents": {
+            "espiritualidad": "cultura/espiritualidad"
+        },
+        "sisters": {
+            "esoterismo": "cultura/espiritualidad/esoterismo",
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa",
+            "misticismo": "cultura/espiritualidad/misticismo",
+            "mitolog\u00eda": "cultura/espiritualidad/mitolog\u00eda",
+            "pagano": "cultura/espiritualidad/pagano",
+            "profesias": "cultura/espiritualidad/profesias",
+            "sobrenatural": "cultura/espiritualidad/sobrenatural"
+        }
+    }
+}

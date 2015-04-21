@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "torero"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/torero/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/torero/torero/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/torero/torero/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/torero/torero/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "torero": "cultura/cultura-popular/tauromaquia/torero"
+        },
+        "parents": {
+            "tauromaquia": "cultura/cultura-popular/tauromaquia"
+        },
+        "sisters": {
+            "cultura-taurina": "cultura/cultura-popular/tauromaquia/cultura-taurina",
+            "encierro": "cultura/cultura-popular/tauromaquia/encierro",
+            "encierros-taurinos": "cultura/cultura-popular/tauromaquia/encierros-taurinos",
+            "ferias-taurinas": "cultura/cultura-popular/tauromaquia/ferias-taurinas",
+            "ganaderias": "cultura/cultura-popular/tauromaquia/ganaderias",
+            "rejoneos": "cultura/cultura-popular/tauromaquia/rejoneos",
+            "torero": "cultura/cultura-popular/tauromaquia/torero"
+        }
+    }
+}

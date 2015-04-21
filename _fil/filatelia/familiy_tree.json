@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "filatelia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/filatelia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/filatelia/filatelia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/filatelia/filatelia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/filatelia/filatelia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "filatelia": "cultura/cultura-popular/coleccionismo/filatelia"
+        },
+        "parents": {
+            "coleccionismo": "cultura/cultura-popular/coleccionismo"
+        },
+        "sisters": {
+            "bibliofilia": "cultura/cultura-popular/coleccionismo/bibliofilia",
+            "figurillas": "cultura/cultura-popular/coleccionismo/figurillas",
+            "filatelia": "cultura/cultura-popular/coleccionismo/filatelia",
+            "numism\u00e1tica": "cultura/cultura-popular/coleccionismo/numism\u00e1tica"
+        }
+    }
+}

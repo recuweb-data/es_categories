@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "ipod"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ipod/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ipod/ipod/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ipod/ipod/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ipod": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipod"
+        },
+        "parents": {
+            "hardware-apple": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple"
+        },
+        "sisters": {
+            "ipad": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipad",
+            "iphone": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/iphone",
+            "ipod": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipod",
+            "macintosh": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        }
+    }
+}

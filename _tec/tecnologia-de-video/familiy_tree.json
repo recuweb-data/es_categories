@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "tecnologia-de-video"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tecnologia-de-video/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tecnologia-de-video/tecnologia-de-video/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tecnologia-de-video/tecnologia-de-video/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tecnologia-de-video/tecnologia-de-video/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tecnologia-de-video": "tecnologia/telecomunicacion/tecnologia-de-video"
+        },
+        "children": {
+            "almacenamiento-de-video": "tecnologia/telecomunicacion/tecnologia-de-video/almacenamiento-de-video"
+        },
+        "parents": {
+            "telecomunicacion": "tecnologia/telecomunicacion"
+        },
+        "sisters": {
+            "sistema-de-gps": "tecnologia/telecomunicacion/sistema-de-gps",
+            "tecnologia-de-video": "tecnologia/telecomunicacion/tecnologia-de-video",
+            "tel\u00e9fono": "tecnologia/telecomunicacion/tel\u00e9fono"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "superstici\u00f3n"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/superstici\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/superstici%C3%B3n/superstici%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/superstici%C3%B3n/superstici%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/superstici%C3%B3n/superstici%C3%B3n/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "superstici\u00f3n": "lifestyle/desarrollo-personal/superstici\u00f3n"
+        },
+        "parents": {
+            "desarrollo-personal": "lifestyle/desarrollo-personal"
+        },
+        "sisters": {
+            "discipline": "lifestyle/desarrollo-personal/discipline",
+            "felicidad": "lifestyle/desarrollo-personal/felicidad",
+            "meditaci\u00f3n": "lifestyle/desarrollo-personal/meditaci\u00f3n",
+            "prejuicio": "lifestyle/desarrollo-personal/prejuicio",
+            "seduccion": "lifestyle/desarrollo-personal/seduccion",
+            "superstici\u00f3n": "lifestyle/desarrollo-personal/superstici\u00f3n"
+        }
+    }
+}

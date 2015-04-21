@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "reino"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/reino/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/reino/reino/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/reino/reino/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/reino/reino/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "reino": "politica/ideologias-politicas/monarquismo/reino"
+        },
+        "parents": {
+            "monarquismo": "politica/ideologias-politicas/monarquismo"
+        },
+        "sisters": {
+            "dinastias": "politica/ideologias-politicas/monarquismo/dinastias"
+        }
+    }
+}

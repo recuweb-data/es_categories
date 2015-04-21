@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "lilith-fair"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lilith-fair/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lilith-fair": "politica/movimiento-social/feminismo/enventos-feministas/lilith-fair"
+        },
+        "parents": {
+            "enventos-feministas": "politica/movimiento-social/feminismo/enventos-feministas"
+        },
+        "sisters": {
+            "lilith-fair": "politica/movimiento-social/feminismo/enventos-feministas/lilith-fair"
+        }
+    }
+}

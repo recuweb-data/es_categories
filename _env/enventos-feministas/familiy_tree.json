@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "enventos-feministas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/enventos-feministas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/enventos-feministas/enventos-feministas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/enventos-feministas/enventos-feministas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/enventos-feministas/enventos-feministas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "enventos-feministas": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas"
+        },
+        "children": {
+            "ladyfest": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/ladyfest",
+            "lilith-fair": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/lilith-fair",
+            "protesta-feminista": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/protesta-feminista",
+            "seneca-falls": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/seneca-falls",
+            "v-day": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/v-day"
+        },
+        "parents": {
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo"
+        },
+        "sisters": {
+            "arte-feminista": "pol\u00edtica/movimiento-social/feminismo/arte-feminista",
+            "enventos-feministas": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas",
+            "feminidad": "pol\u00edtica/movimiento-social/feminismo/feminidad",
+            "maternidad-libre": "pol\u00edtica/movimiento-social/feminismo/maternidad-libre",
+            "misoginia": "pol\u00edtica/movimiento-social/feminismo/misoginia"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "filantrop\u00eda"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/filantrop\u00eda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/filantrop%C3%ADa/filantrop%C3%ADa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/filantrop%C3%ADa/filantrop%C3%ADa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/filantrop%C3%ADa/filantrop%C3%ADa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "filantrop\u00eda": "cultura/cultura-popular/altruismo/filantrop\u00eda"
+        },
+        "parents": {
+            "altruismo": "cultura/cultura-popular/altruismo"
+        },
+        "sisters": {
+            "filantrop\u00eda": "cultura/cultura-popular/altruismo/filantrop\u00eda",
+            "voluntariado": "cultura/cultura-popular/altruismo/voluntariado"
+        }
+    }
+}

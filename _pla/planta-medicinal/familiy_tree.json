@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "planta-medicinal"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/planta-medicinal/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/planta-medicinal/planta-medicinal/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/planta-medicinal/planta-medicinal/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/planta-medicinal/planta-medicinal/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "planta-medicinal": "cultura/espiritualidad/medicina-alternativa/etnomedicina/planta-medicinal"
+        },
+        "parents": {
+            "etnomedicina": "cultura/espiritualidad/medicina-alternativa/etnomedicina"
+        },
+        "sisters": {
+            "chamanismo": "cultura/espiritualidad/medicina-alternativa/etnomedicina/chamanismo",
+            "planta-medicinal": "cultura/espiritualidad/medicina-alternativa/etnomedicina/planta-medicinal"
+        }
+    }
+}

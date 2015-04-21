@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "leyendas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/leyendas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/leyendas/leyendas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/leyendas/leyendas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/leyendas/leyendas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "leyendas": "cultura/cultura-popular/tradici\u00f3n/leyendas"
+        },
+        "parents": {
+            "tradici\u00f3n": "cultura/cultura-popular/tradici\u00f3n"
+        },
+        "sisters": {
+            "folclore": "cultura/cultura-popular/tradici\u00f3n/folclore",
+            "leyendas": "cultura/cultura-popular/tradici\u00f3n/leyendas"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "google-adsense"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/google-adsense/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/google-adsense/google-adsense/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/google-adsense/google-adsense/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/google-adsense/google-adsense/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "google-adsense": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual/google-adsense"
+        },
+        "parents": {
+            "publicidad-contextual": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual"
+        },
+        "sisters": {
+            "adwords": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual/adwords",
+            "google-adsense": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual/google-adsense"
+        }
+    }
+}

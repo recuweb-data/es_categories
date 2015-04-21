@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "snocross"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/snocross/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/snocross/snocross/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/snocross/snocross/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/snocross/snocross/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "snocross": "deporte/deportes-de-motor/motociclismo/snocross"
+        },
+        "parents": {
+            "motociclismo": "deporte/deportes-de-motor/motociclismo"
+        },
+        "sisters": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross",
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid",
+            "snocross": "deporte/deportes-de-motor/motociclismo/snocross",
+            "superbike": "deporte/deportes-de-motor/motociclismo/superbike"
+        }
+    }
+}

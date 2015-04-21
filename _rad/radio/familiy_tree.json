@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "radio"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/radio/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/radio/radio/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/radio/radio/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/radio/radio/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "radio": "tecnolog\u00eda/telecomunicacion/radio"
+        },
+        "parents": {
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        },
+        "sisters": {
+            "internet": "tecnolog\u00eda/telecomunicacion/internet",
+            "radio": "tecnolog\u00eda/telecomunicacion/radio",
+            "sistema-de-gps": "tecnolog\u00eda/telecomunicacion/sistema-de-gps",
+            "tecnologia-de-video": "tecnolog\u00eda/telecomunicacion/tecnologia-de-video",
+            "tel\u00e9fono": "tecnolog\u00eda/telecomunicacion/tel\u00e9fono"
+        }
+    }
+}

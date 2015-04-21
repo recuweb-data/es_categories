@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "servicios-telefonicos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/servicios-telefonicos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/servicios-telefonicos/servicios-telefonicos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/servicios-telefonicos/servicios-telefonicos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-telefonicos/servicios-telefonicos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "servicios-telefonicos": "tecnologia/telecomunicacion/tel\u00e9fono/servicios-telefonicos"
+        },
+        "parents": {
+            "tel\u00e9fono": "tecnologia/telecomunicacion/tel\u00e9fono"
+        },
+        "sisters": {
+            "servicios-telefonicos": "tecnologia/telecomunicacion/tel\u00e9fono/servicios-telefonicos"
+        }
+    }
+}

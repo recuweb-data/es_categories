@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "masa-cr\u00edtica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/masa-cr\u00edtica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/masa-cr%C3%ADtica/masa-cr%C3%ADtica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/masa-cr%C3%ADtica/masa-cr%C3%ADtica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/masa-cr%C3%ADtica/masa-cr%C3%ADtica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "masa-cr\u00edtica": "politica/movimiento-social/ecologismo/eventos-ecologistas/masa-cr\u00edtica"
+        },
+        "parents": {
+            "eventos-ecologistas": "politica/movimiento-social/ecologismo/eventos-ecologistas"
+        },
+        "sisters": {
+            "bici-critica": "politica/movimiento-social/ecologismo/eventos-ecologistas/bici-critica"
+        }
+    }
+}

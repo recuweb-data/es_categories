@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "internacionalizacion"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/internacionalizacion/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/internacionalizacion/internacionalizacion/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/internacionalizacion/internacionalizacion/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/internacionalizacion/internacionalizacion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "internacionalizacion": "politica/globalizacion/internacionalizacion"
+        },
+        "parents": {
+            "globalizacion": "politica/globalizacion"
+        },
+        "sisters": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "ingenier\u00eda-agr\u00edcola"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenier\u00eda-agr\u00edcola/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-agr%C3%ADcola/ingenier%C3%ADa-agr%C3%ADcola/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-agr%C3%ADcola/ingenier%C3%ADa-agr%C3%ADcola/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-agr%C3%ADcola/ingenier%C3%ADa-agr%C3%ADcola/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingenier\u00eda-agr\u00edcola": "tecnologia/ingenieria/ingenier\u00eda-agr\u00edcola"
+        },
+        "parents": {
+            "ingenieria": "tecnologia/ingenieria"
+        },
+        "sisters": {
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        }
+    }
+}

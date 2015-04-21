@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "felicidad"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/felicidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "felicidad": "lifestyle/desarrollo-personal/felicidad"
+        },
+        "parents": {
+            "desarrollo-personal": "lifestyle/desarrollo-personal"
+        },
+        "sisters": {
+            "discipline": "lifestyle/desarrollo-personal/discipline",
+            "felicidad": "lifestyle/desarrollo-personal/felicidad",
+            "meditaci\u00f3n": "lifestyle/desarrollo-personal/meditaci\u00f3n",
+            "prejuicio": "lifestyle/desarrollo-personal/prejuicio",
+            "seduccion": "lifestyle/desarrollo-personal/seduccion",
+            "superstici\u00f3n": "lifestyle/desarrollo-personal/superstici\u00f3n"
+        }
+    }
+}

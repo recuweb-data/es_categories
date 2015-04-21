@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "crisis-ecol\u00f3gica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/crisis-ecol\u00f3gica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/crisis-ecol%C3%B3gica/crisis-ecol%C3%B3gica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/crisis-ecol%C3%B3gica/crisis-ecol%C3%B3gica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/crisis-ecol%C3%B3gica/crisis-ecol%C3%B3gica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "crisis-ecol\u00f3gica": "politica/movimiento-social/ecologismo/crisis-ecol\u00f3gica"
+        },
+        "parents": {
+            "ecologismo": "politica/movimiento-social/ecologismo"
+        },
+        "sisters": {
+            "crisis-ecol\u00f3gica": "politica/movimiento-social/ecologismo/crisis-ecol\u00f3gica",
+            "eventos-ecologistas": "politica/movimiento-social/ecologismo/eventos-ecologistas"
+        }
+    }
+}

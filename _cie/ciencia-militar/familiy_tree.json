@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": "ciencia-militar"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ciencia-militar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ciencia-militar/ciencia-militar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ciencia-militar/ciencia-militar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ciencia-militar/ciencia-militar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ciencia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar"
+        },
+        "children": {
+            "arquitectura-militar": "tecnolog\u00eda/ingenieria/ciencia-militar/arquitectura-militar",
+            "tacticas-militares": "tecnolog\u00eda/ingenieria/ciencia-militar/tacticas-militares",
+            "tecnologia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar/tecnologia-militar"
+        },
+        "parents": {
+            "ingenieria": "tecnolog\u00eda/ingenieria"
+        },
+        "sisters": {
+            "ciencia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnolog\u00eda/ingenieria/ingenier\u00eda-aeroespacial",
+            "ingenier\u00eda-agr\u00edcola": "tecnolog\u00eda/ingenieria/ingenier\u00eda-agr\u00edcola",
+            "ingenier\u00eda-ambiental": "tecnolog\u00eda/ingenieria/ingenier\u00eda-ambiental",
+            "ingenier\u00eda-civil": "tecnolog\u00eda/ingenieria/ingenier\u00eda-civil",
+            "ingenier\u00eda-electromec\u00e1nica": "tecnolog\u00eda/ingenieria/ingenier\u00eda-electromec\u00e1nica",
+            "ingenier\u00eda-mec\u00e1nica": "tecnolog\u00eda/ingenieria/ingenier\u00eda-mec\u00e1nica",
+            "ingenier\u00eda-qu\u00edmica": "tecnolog\u00eda/ingenieria/ingenier\u00eda-qu\u00edmica",
+            "ingenieria-aeroportuaria": "tecnolog\u00eda/ingenieria/ingenieria-aeroportuaria"
+        }
+    }
+}

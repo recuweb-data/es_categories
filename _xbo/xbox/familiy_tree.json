@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "xbox"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/xbox/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/xbox/xbox/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/xbox/xbox/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/xbox/xbox/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "xbox": "lifestyle/videojuego/xbox"
+        },
+        "parents": {
+            "videojuego": "lifestyle/videojuego"
+        },
+        "sisters": {
+            "arcade": "lifestyle/videojuego/arcade",
+            "playstation": "lifestyle/videojuego/playstation",
+            "videojuego-de-rol-multijugador-masivo-en-l\u00ednea": "lifestyle/videojuego/videojuego-de-rol-multijugador-masivo-en-l\u00ednea",
+            "xbox": "lifestyle/videojuego/xbox"
+        }
+    }
+}

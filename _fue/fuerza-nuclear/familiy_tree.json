@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "portal_name": "fuerza-nuclear"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/fuerza-nuclear/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/fuerza-nuclear/fuerza-nuclear/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/fuerza-nuclear/fuerza-nuclear/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/fuerza-nuclear/fuerza-nuclear/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "fuerza-nuclear": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-nuclear/fuerza-nuclear"
+        },
+        "parents": {
+            "energ\u00eda-nuclear": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-nuclear"
+        }
+    }
+}

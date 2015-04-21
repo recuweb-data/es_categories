@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "telefon\u00eda-m\u00f3vil"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/telefon\u00eda-m\u00f3vil/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/telefon%C3%ADa-m%C3%B3vil/telefon%C3%ADa-m%C3%B3vil/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/telefon%C3%ADa-m%C3%B3vil/telefon%C3%ADa-m%C3%B3vil/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/telefon%C3%ADa-m%C3%B3vil/telefon%C3%ADa-m%C3%B3vil/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "telefon\u00eda-m\u00f3vil": "tecnologia/telecomunicacion/tel\u00e9fono/telefon\u00eda-m\u00f3vil"
+        },
+        "parents": {
+            "tel\u00e9fono": "tecnologia/telecomunicacion/tel\u00e9fono"
+        },
+        "sisters": {
+            "servicios-telefonicos": "tecnologia/telecomunicacion/tel\u00e9fono/servicios-telefonicos"
+        }
+    }
+}

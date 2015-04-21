@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "napoleon-bonaparte"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/napoleon-bonaparte/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/napoleon-bonaparte/napoleon-bonaparte/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/napoleon-bonaparte/napoleon-bonaparte/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/napoleon-bonaparte/napoleon-bonaparte/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "napoleon-bonaparte": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/napoleon-bonaparte"
+        },
+        "parents": {
+            "estratega": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega"
+        },
+        "sisters": {
+            "alejandro-magno": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/alejandro-magno"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "julio-cesa"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/julio-cesa/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/julio-cesa/julio-cesa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/julio-cesa/julio-cesa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/julio-cesa/julio-cesa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "julio-cesa": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/julio-cesa"
+        },
+        "parents": {
+            "estratega": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega"
+        },
+        "sisters": {
+            "alejandro-magno": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/alejandro-magno"
+        }
+    }
+}

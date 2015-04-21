@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "bbpress"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bbpress/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bbpress": "internet/aplicaci\u00f3n-web/foros-internet/bbpress"
+        },
+        "parents": {
+            "foros-internet": "internet/aplicaci\u00f3n-web/foros-internet"
+        },
+        "sisters": {
+            "bbpress": "internet/aplicaci\u00f3n-web/foros-internet/bbpress",
+            "mybb": "internet/aplicaci\u00f3n-web/foros-internet/mybb",
+            "phpbb": "internet/aplicaci\u00f3n-web/foros-internet/phpbb",
+            "punbb": "internet/aplicaci\u00f3n-web/foros-internet/punbb"
+        }
+    }
+}

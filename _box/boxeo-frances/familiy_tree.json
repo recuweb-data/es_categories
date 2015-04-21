@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "boxeo-frances"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/boxeo-frances/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/boxeo-frances/boxeo-frances/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/boxeo-frances/boxeo-frances/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/boxeo-frances/boxeo-frances/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "boxeo-frances": "deporte/deportes-de-lucha/boxeo/boxeo-frances"
+        },
+        "parents": {
+            "boxeo": "deporte/deportes-de-lucha/boxeo"
+        },
+        "sisters": {
+            "boxeo-feminino": "deporte/deportes-de-lucha/boxeo/boxeo-feminino",
+            "boxeo-frances": "deporte/deportes-de-lucha/boxeo/boxeo-frances",
+            "boxeo-shaolin": "deporte/deportes-de-lucha/boxeo/boxeo-shaolin",
+            "kick-boxing": "deporte/deportes-de-lucha/boxeo/kick-boxing",
+            "muay-thai": "deporte/deportes-de-lucha/boxeo/muay-thai"
+        }
+    }
+}

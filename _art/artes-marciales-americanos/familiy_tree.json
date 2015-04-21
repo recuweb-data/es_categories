@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "artes-marciales-americanos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/artes-marciales-americanos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/artes-marciales-americanos/artes-marciales-americanos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/artes-marciales-americanos/artes-marciales-americanos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/artes-marciales-americanos/artes-marciales-americanos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "artes-marciales-americanos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-americanos"
+        },
+        "children": {
+            "capoeira": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-americanos/capoeira",
+            "jiu-jitsu-brasile\u00f1o": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-americanos/jiu-jitsu-brasile\u00f1o"
+        },
+        "parents": {
+            "arte-marcial": "deporte/deportes-de-lucha/arte-marcial"
+        },
+        "sisters": {
+            "artes-marciales-americanos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-americanos",
+            "artes-marciales-asiaticos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos",
+            "artes-marciales-mixtas": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-mixtas"
+        }
+    }
+}

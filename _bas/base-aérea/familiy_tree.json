@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "base-a\u00e9rea"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/base-a\u00e9rea/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/base-a%C3%A9rea/base-a%C3%A9rea/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/base-a%C3%A9rea/base-a%C3%A9rea/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/base-a%C3%A9rea/base-a%C3%A9rea/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "base-a\u00e9rea": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/base-a\u00e9rea"
+        },
+        "parents": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar"
+        },
+        "sisters": {
+            "base-a\u00e9rea": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/base-a\u00e9rea"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "hardware-apple"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hardware-apple/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hardware-apple": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple"
+        },
+        "children": {
+            "ipad": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipad",
+            "iphone": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/iphone",
+            "ipod": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipod",
+            "macintosh": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        },
+        "parents": {
+            "empresas-de-hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware"
+        },
+        "sisters": {
+            "hardware-apple": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "pantalla-t\u00e1ctil"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pantalla-t\u00e1ctil/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pantalla-t%C3%A1ctil/pantalla-t%C3%A1ctil/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pantalla-t%C3%A1ctil/pantalla-t%C3%A1ctil/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pantalla-t%C3%A1ctil/pantalla-t%C3%A1ctil/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pantalla-t\u00e1ctil": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/periferico-auxiliar/monitor-de-computadora/pantalla-t\u00e1ctil"
+        },
+        "parents": {
+            "monitor-de-computadora": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/periferico-auxiliar/monitor-de-computadora"
+        },
+        "sisters": {
+            "pantalla-t\u00e1ctil": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/periferico-auxiliar/monitor-de-computadora/pantalla-t\u00e1ctil"
+        }
+    }
+}

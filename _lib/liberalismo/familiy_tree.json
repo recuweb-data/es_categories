@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "liberalismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/liberalismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/liberalismo/liberalismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/liberalismo/liberalismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/liberalismo/liberalismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "liberalismo": "pol\u00edtica/ideologia-politica/capitalismo/liberalismo"
+        },
+        "parents": {
+            "capitalismo": "pol\u00edtica/ideologia-politica/capitalismo"
+        },
+        "sisters": {
+            "consumismo": "pol\u00edtica/ideologia-politica/capitalismo/consumismo",
+            "liberalismo": "pol\u00edtica/ideologia-politica/capitalismo/liberalismo",
+            "republicanismo": "pol\u00edtica/ideologia-politica/capitalismo/republicanismo"
+        }
+    }
+}

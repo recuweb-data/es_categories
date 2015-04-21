@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "voleibol-de-playa"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/voleibol-de-playa/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/voleibol-de-playa/voleibol-de-playa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/voleibol-de-playa/voleibol-de-playa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/voleibol-de-playa/voleibol-de-playa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "voleibol-de-playa": "deporte/deporte-de-pelota/voleibol/voleibol-de-playa"
+        },
+        "parents": {
+            "voleibol": "deporte/deporte-de-pelota/voleibol"
+        },
+        "sisters": {
+            "voleibol-de-playa": "deporte/deporte-de-pelota/voleibol/voleibol-de-playa"
+        }
+    }
+}

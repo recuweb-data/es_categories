@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "xampp"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/xampp/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/xampp/xampp/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/xampp/xampp/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "xampp": "internet/desarrollo-web/lenguajes-web/php/xampp"
+        },
+        "parents": {
+            "php": "internet/desarrollo-web/lenguajes-web/php"
+        },
+        "sisters": {
+            "servidor-http-apache": "internet/desarrollo-web/lenguajes-web/php/servidor-http-apache",
+            "xampp": "internet/desarrollo-web/lenguajes-web/php/xampp"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "central-nuclear"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/central-nuclear/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/central-nuclear/central-nuclear/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/central-nuclear/central-nuclear/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/central-nuclear/central-nuclear/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "central-nuclear": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales/central-nuclear"
+        },
+        "parents": {
+            "energias-convencionales": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales"
+        },
+        "sisters": {
+            "central-nuclear": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales/central-nuclear"
+        }
+    }
+}

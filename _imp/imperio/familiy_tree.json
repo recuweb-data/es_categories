@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "imperio"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/imperio/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/imperio/imperio/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/imperio/imperio/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/imperio/imperio/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "imperio": "pol\u00edtica/ideologia-politica/monarquismo/imperio"
+        },
+        "parents": {
+            "monarquismo": "pol\u00edtica/ideologia-politica/monarquismo"
+        },
+        "sisters": {
+            "familia-real": "pol\u00edtica/ideologia-politica/monarquismo/familia-real",
+            "imperio": "pol\u00edtica/ideologia-politica/monarquismo/imperio"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "utilitarismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/utilitarismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/utilitarismo/utilitarismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/utilitarismo/utilitarismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/utilitarismo/utilitarismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "utilitarismo": "pol\u00edtica/etica/utilitarismo"
+        },
+        "parents": {
+            "etica": "pol\u00edtica/etica"
+        },
+        "sisters": {
+            "ego\u00edsmo": "pol\u00edtica/etica/ego\u00edsmo",
+            "hedonismo": "pol\u00edtica/etica/hedonismo",
+            "nihilismo": "pol\u00edtica/etica/nihilismo",
+            "objetivismo": "pol\u00edtica/etica/objetivismo",
+            "pacifismo": "pol\u00edtica/etica/pacifismo",
+            "utilitarismo": "pol\u00edtica/etica/utilitarismo"
+        }
+    }
+}

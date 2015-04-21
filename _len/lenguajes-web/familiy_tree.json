@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "lenguajes-web"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lenguajes-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lenguajes-web": "internet/desarrollo-web/lenguajes-web"
+        },
+        "children": {
+            "java": "internet/desarrollo-web/lenguajes-web/java",
+            "javascript": "internet/desarrollo-web/lenguajes-web/javascript",
+            "perl": "internet/desarrollo-web/lenguajes-web/perl",
+            "php": "internet/desarrollo-web/lenguajes-web/php"
+        },
+        "parents": {
+            "desarrollo-web": "internet/desarrollo-web"
+        },
+        "sisters": {
+            "base-de-datos": "internet/desarrollo-web/base-de-datos",
+            "formatos-web": "internet/desarrollo-web/formatos-web",
+            "lenguajes-web": "internet/desarrollo-web/lenguajes-web"
+        },
+        "grandchildren": {
+            "jquery": "internet/desarrollo-web/lenguajes-web/javascript/jquery",
+            "json": "internet/desarrollo-web/lenguajes-web/javascript/json",
+            "servidor-http-apache": "internet/desarrollo-web/lenguajes-web/php/servidor-http-apache",
+            "xampp": "internet/desarrollo-web/lenguajes-web/php/xampp"
+        }
+    }
+}

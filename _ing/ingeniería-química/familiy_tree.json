@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "ingenier\u00eda-qu\u00edmica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenier\u00eda-qu\u00edmica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-qu%C3%ADmica/ingenier%C3%ADa-qu%C3%ADmica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-qu%C3%ADmica/ingenier%C3%ADa-qu%C3%ADmica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-qu%C3%ADmica/ingenier%C3%ADa-qu%C3%ADmica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingenier\u00eda-qu\u00edmica": "tecnologia/ingenieria/ingenier\u00eda-qu\u00edmica"
+        },
+        "parents": {
+            "ingenieria": "tecnologia/ingenieria"
+        },
+        "sisters": {
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "tatuaje"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tatuaje/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tatuaje/tatuaje/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tatuaje/tatuaje/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tatuaje/tatuaje/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        },
+        "parents": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "sisters": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        }
+    }
+}

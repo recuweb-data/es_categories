@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "paracaidismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/paracaidismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/paracaidismo/paracaidismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/paracaidismo/paracaidismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/paracaidismo/paracaidismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "paracaidismo": "deporte/deporte-extremo/paracaidismo"
+        },
+        "children": {
+            "parapente": "deporte/deporte-extremo/paracaidismo/parapente",
+            "puentismo": "deporte/deporte-extremo/paracaidismo/puentismo"
+        },
+        "parents": {
+            "deporte-extremo": "deporte/deporte-extremo"
+        },
+        "sisters": {
+            "escalada": "deporte/deporte-extremo/escalada",
+            "paracaidismo": "deporte/deporte-extremo/paracaidismo",
+            "parkour": "deporte/deporte-extremo/parkour",
+            "skateboarding": "deporte/deporte-extremo/skateboarding",
+            "snowboarding": "deporte/deporte-extremo/snowboarding",
+            "surf": "deporte/deporte-extremo/surf",
+            "xgames": "deporte/deporte-extremo/xgames"
+        }
+    }
+}

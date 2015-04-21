@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "pelota-vasca"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pelota-vasca/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pelota-vasca/pelota-vasca/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pelota-vasca/pelota-vasca/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pelota-vasca/pelota-vasca/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pelota-vasca": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/pelota-vasca"
+        },
+        "parents": {
+            "fronton": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton"
+        },
+        "sisters": {
+            "pelota-valenciana": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/pelota-valenciana",
+            "pelota-vasca": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/pelota-vasca",
+            "raquetbol": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/raquetbol",
+            "squash": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/squash"
+        }
+    }
+}

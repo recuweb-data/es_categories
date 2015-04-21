@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "punbb"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/punbb/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/punbb/punbb/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/punbb/punbb/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/punbb/punbb/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "punbb": "internet/aplicaci\u00f3n-web/foros-internet/punbb"
+        },
+        "parents": {
+            "foros-internet": "internet/aplicaci\u00f3n-web/foros-internet"
+        },
+        "sisters": {
+            "bbpress": "internet/aplicaci\u00f3n-web/foros-internet/bbpress",
+            "mybb": "internet/aplicaci\u00f3n-web/foros-internet/mybb",
+            "phpbb": "internet/aplicaci\u00f3n-web/foros-internet/phpbb",
+            "punbb": "internet/aplicaci\u00f3n-web/foros-internet/punbb"
+        }
+    }
+}

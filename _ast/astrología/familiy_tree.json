@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "astrolog\u00eda"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/astrolog\u00eda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/astrolog%C3%ADa/astrolog%C3%ADa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/astrolog%C3%ADa/astrolog%C3%ADa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/astrolog%C3%ADa/astrolog%C3%ADa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "astrolog\u00eda": "cultura/espiritualidad/esoterismo/astrolog\u00eda"
+        },
+        "children": {
+            "hor\u00f3scopo": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo"
+        },
+        "parents": {
+            "esoterismo": "cultura/espiritualidad/esoterismo"
+        },
+        "sisters": {
+            "astrolog\u00eda": "cultura/espiritualidad/esoterismo/astrolog\u00eda",
+            "clarividencia": "cultura/espiritualidad/esoterismo/clarividencia",
+            "demonolog\u00eda": "cultura/espiritualidad/esoterismo/demonolog\u00eda",
+            "demonologia": "cultura/espiritualidad/esoterismo/demonologia",
+            "espiritismo": "cultura/espiritualidad/esoterismo/espiritismo",
+            "magia": "cultura/espiritualidad/esoterismo/magia",
+            "numerolog\u00eda": "cultura/espiritualidad/esoterismo/numerolog\u00eda",
+            "ocultismo": "cultura/espiritualidad/esoterismo/ocultismo"
+        }
+    }
+}

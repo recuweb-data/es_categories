@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "cine"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/cine/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/cine/cine/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/cine/cine/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/cine/cine/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "cine": "cultura/bellas-artes/cine"
+        },
+        "parents": {
+            "bellas-artes": "cultura/bellas-artes"
+        },
+        "sisters": {
+            "cine": "cultura/bellas-artes/cine",
+            "danza": "cultura/bellas-artes/danza",
+            "escultura": "cultura/bellas-artes/escultura",
+            "fotografia": "cultura/bellas-artes/fotografia",
+            "literatura": "cultura/bellas-artes/literatura",
+            "m\u00fasica": "cultura/bellas-artes/m\u00fasica",
+            "pintura": "cultura/bellas-artes/pintura"
+        }
+    }
+}

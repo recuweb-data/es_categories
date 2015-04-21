@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "television"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/television/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/television/television/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/television/television/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/television/television/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "television": "tecnologia/telecomunicacion/tecnologia-de-video/television"
+        },
+        "children": {
+            "televisi\u00f3n-digital": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-digital"
+        },
+        "parents": {
+            "tecnologia-de-video": "tecnologia/telecomunicacion/tecnologia-de-video"
+        },
+        "sisters": {
+            "almacenamiento-de-video": "tecnologia/telecomunicacion/tecnologia-de-video/almacenamiento-de-video"
+        }
+    }
+}

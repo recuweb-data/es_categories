@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "mma"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mma/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mma/mma/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mma/mma/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mma/mma/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mma": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-mixtas/mma"
+        },
+        "parents": {
+            "artes-marciales-mixtas": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-mixtas"
+        },
+        "sisters": {
+            "mma": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-mixtas/mma"
+        }
+    }
+}

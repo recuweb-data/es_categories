@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "gastronom\u00eda"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/gastronom\u00eda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/gastronom%C3%ADa/gastronom%C3%ADa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/gastronom%C3%ADa/gastronom%C3%ADa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/gastronom%C3%ADa/gastronom%C3%ADa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda"
+        },
+        "parents": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "sisters": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        }
+    }
+}

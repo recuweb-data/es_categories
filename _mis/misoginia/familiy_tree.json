@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "misoginia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/misoginia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/misoginia/misoginia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/misoginia/misoginia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/misoginia/misoginia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "misoginia": "pol\u00edtica/movimiento-social/feminismo/misoginia"
+        },
+        "parents": {
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo"
+        },
+        "sisters": {
+            "arte-feminista": "pol\u00edtica/movimiento-social/feminismo/arte-feminista",
+            "enventos-feministas": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas",
+            "feminidad": "pol\u00edtica/movimiento-social/feminismo/feminidad",
+            "maternidad-libre": "pol\u00edtica/movimiento-social/feminismo/maternidad-libre",
+            "misoginia": "pol\u00edtica/movimiento-social/feminismo/misoginia"
+        }
+    }
+}

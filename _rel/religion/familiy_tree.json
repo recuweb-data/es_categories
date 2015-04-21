@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "portal_name": "religion"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/religion/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/religion/religion/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/religion/religion/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/religion/religion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion": "cultura/religion"
+        },
+        "children": {
+            "religi\u00f3n-abrah\u00e1mica": "cultura/religion/religi\u00f3n-abrah\u00e1mica",
+            "religiones-indias": "cultura/religion/religiones-indias",
+            "religiones-orientales": "cultura/religion/religiones-orientales"
+        },
+        "parents": {
+            "cultura": "cultura"
+        },
+        "sisters": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero",
+            "bellas-artes": "cultura/bellas-artes",
+            "cultura-popular": "cultura/cultura-popular",
+            "economia": "cultura/economia",
+            "espiritualidad": "cultura/espiritualidad",
+            "humanidades": "cultura/humanidades",
+            "lenguaje": "cultura/lenguaje",
+            "religi\u00f3n": "cultura/religi\u00f3n",
+            "religion": "cultura/religion",
+            "ropa": "cultura/ropa"
+        },
+        "grandchildren": {
+            "budismo": "cultura/religion/religiones-indias/budismo",
+            "hinduismo": "cultura/religion/religiones-indias/hinduismo",
+            "jainismo": "cultura/religion/religiones-indias/jainismo",
+            "sijismo": "cultura/religion/religiones-indias/sijismo",
+            "cao-dai": "cultura/religion/religiones-orientales/cao-dai",
+            "confucianismo": "cultura/religion/religiones-orientales/confucianismo",
+            "taoism": "cultura/religion/religiones-orientales/taoism",
+            "zen": "cultura/religion/religiones-orientales/zen"
+        }
+    }
+}

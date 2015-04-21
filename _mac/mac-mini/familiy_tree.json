@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "mac-mini"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mac-mini/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mac-mini/mac-mini/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mac-mini/mac-mini/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mac-mini/mac-mini/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mac-mini": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh/mac-mini"
+        },
+        "parents": {
+            "macintosh": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        },
+        "sisters": {
+            "imac": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh/imac",
+            "mac-mini": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh/mac-mini",
+            "macbook": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh/macbook",
+            "powerbook": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh/powerbook"
+        }
+    }
+}

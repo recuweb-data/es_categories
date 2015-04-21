@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "portal_name": "transporte-a\u00e9reo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/transporte-a\u00e9reo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/transporte-a%C3%A9reo/transporte-a%C3%A9reo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/transporte-a%C3%A9reo/transporte-a%C3%A9reo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/transporte-a%C3%A9reo/transporte-a%C3%A9reo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "transporte-a\u00e9reo": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica/transporte-a\u00e9reo"
+        },
+        "parents": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica"
+        }
+    }
+}

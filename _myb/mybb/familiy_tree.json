@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "mybb"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mybb/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mybb/mybb/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mybb/mybb/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mybb/mybb/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mybb": "internet/aplicaci\u00f3n-web/foros-internet/mybb"
+        },
+        "parents": {
+            "foros-internet": "internet/aplicaci\u00f3n-web/foros-internet"
+        },
+        "sisters": {
+            "bbpress": "internet/aplicaci\u00f3n-web/foros-internet/bbpress",
+            "mybb": "internet/aplicaci\u00f3n-web/foros-internet/mybb",
+            "phpbb": "internet/aplicaci\u00f3n-web/foros-internet/phpbb",
+            "punbb": "internet/aplicaci\u00f3n-web/foros-internet/punbb"
+        }
+    }
+}

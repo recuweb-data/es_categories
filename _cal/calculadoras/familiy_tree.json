@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "calculadoras"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/calculadoras/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/calculadoras/calculadoras/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/calculadoras/calculadoras/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/calculadoras/calculadoras/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "calculadoras": "tecnologia/electronica/aparatos-electronicos/hardware/calculadoras"
+        },
+        "parents": {
+            "hardware": "tecnologia/electronica/aparatos-electronicos/hardware"
+        },
+        "sisters": {
+            "calculadoras": "tecnologia/electronica/aparatos-electronicos/hardware/calculadoras"
+        }
+    }
+}

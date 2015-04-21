@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ladyfest"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ladyfest/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ladyfest": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/ladyfest"
+        },
+        "parents": {
+            "enventos-feministas": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas"
+        },
+        "sisters": {
+            "ladyfest": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/ladyfest",
+            "lilith-fair": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/lilith-fair",
+            "protesta-feminista": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/protesta-feminista",
+            "seneca-falls": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/seneca-falls",
+            "v-day": "pol\u00edtica/movimiento-social/feminismo/enventos-feministas/v-day"
+        }
+    }
+}

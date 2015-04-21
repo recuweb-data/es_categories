@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "bacelona-world-race"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bacelona-world-race/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bacelona-world-race/bacelona-world-race/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bacelona-world-race/bacelona-world-race/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bacelona-world-race/bacelona-world-race/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bacelona-world-race": "deporte/deportes-acuaticos/regata/bacelona-world-race"
+        },
+        "parents": {
+            "regata": "deporte/deportes-acuaticos/regata"
+        },
+        "sisters": {
+            "audi-medcup": "deporte/deportes-acuaticos/regata/audi-medcup",
+            "bacelona-world-race": "deporte/deportes-acuaticos/regata/bacelona-world-race",
+            "vendee-globe": "deporte/deportes-acuaticos/regata/vendee-globe",
+            "volvo-ocean-race": "deporte/deportes-acuaticos/regata/volvo-ocean-race"
+        }
+    }
+}

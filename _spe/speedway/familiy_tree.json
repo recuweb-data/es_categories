@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "speedway"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/speedway/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/speedway/speedway/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/speedway/speedway/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/speedway/speedway/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "speedway": "deporte/deportes-de-motor/motociclismo/superbike/speedway"
+        },
+        "parents": {
+            "superbike": "deporte/deportes-de-motor/motociclismo/superbike"
+        },
+        "sisters": {
+            "speedway": "deporte/deportes-de-motor/motociclismo/superbike/speedway"
+        }
+    }
+}

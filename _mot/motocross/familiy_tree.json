@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "motocross"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/motocross/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/motocross/motocross/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/motocross/motocross/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/motocross/motocross/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross"
+        },
+        "children": {
+            "endurocross": "deporte/deportes-de-motor/motociclismo/motocross/endurocross",
+            "motociclismo-estilo-libre": "deporte/deportes-de-motor/motociclismo/motocross/motociclismo-estilo-libre",
+            "trial-de-motociclismo": "deporte/deportes-de-motor/motociclismo/motocross/trial-de-motociclismo"
+        },
+        "parents": {
+            "motociclismo": "deporte/deportes-de-motor/motociclismo"
+        },
+        "sisters": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross",
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid",
+            "snocross": "deporte/deportes-de-motor/motociclismo/snocross",
+            "superbike": "deporte/deportes-de-motor/motociclismo/superbike"
+        }
+    }
+}

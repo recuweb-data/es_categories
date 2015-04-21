@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "audi-medcup"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/audi-medcup/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/audi-medcup/audi-medcup/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/audi-medcup/audi-medcup/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/audi-medcup/audi-medcup/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "audi-medcup": "deporte/deportes-acuaticos/regata/audi-medcup"
+        },
+        "parents": {
+            "regata": "deporte/deportes-acuaticos/regata"
+        },
+        "sisters": {
+            "audi-medcup": "deporte/deportes-acuaticos/regata/audi-medcup",
+            "bacelona-world-race": "deporte/deportes-acuaticos/regata/bacelona-world-race",
+            "vendee-globe": "deporte/deportes-acuaticos/regata/vendee-globe",
+            "volvo-ocean-race": "deporte/deportes-acuaticos/regata/volvo-ocean-race"
+        }
+    }
+}

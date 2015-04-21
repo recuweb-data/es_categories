@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "horoscopo-azteca"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/horoscopo-azteca/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/horoscopo-azteca/horoscopo-azteca/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/horoscopo-azteca/horoscopo-azteca/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/horoscopo-azteca/horoscopo-azteca/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "horoscopo-azteca": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/horoscopo-azteca"
+        },
+        "parents": {
+            "hor\u00f3scopo": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo"
+        },
+        "sisters": {
+            "carta-astral": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/carta-astral",
+            "horoscopo-azteca": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/horoscopo-azteca",
+            "zodiaco": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco"
+        }
+    }
+}

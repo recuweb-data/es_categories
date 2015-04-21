@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "lobby"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lobby/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lobby/lobby/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lobby/lobby/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lobby/lobby/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lobby": "pol\u00edtica/movimiento-social/lobby"
+        },
+        "parents": {
+            "movimiento-social": "pol\u00edtica/movimiento-social"
+        },
+        "sisters": {
+            "agrarismo": "pol\u00edtica/movimiento-social/agrarismo",
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo",
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo",
+            "indigenismo": "pol\u00edtica/movimiento-social/indigenismo",
+            "lobby": "pol\u00edtica/movimiento-social/lobby"
+        }
+    }
+}

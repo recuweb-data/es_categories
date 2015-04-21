@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "mormonismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mormonismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mormonismo/mormonismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mormonismo/mormonismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mormonismo/mormonismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mormonismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/mormonismo"
+        },
+        "parents": {
+            "cristianismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo"
+        },
+        "sisters": {
+            "anglicanismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/anglicanismo",
+            "catolicismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo",
+            "iglesia-ortodoxa": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/iglesia-ortodoxa",
+            "mormonismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/mormonismo",
+            "protestantismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/protestantismo"
+        }
+    }
+}

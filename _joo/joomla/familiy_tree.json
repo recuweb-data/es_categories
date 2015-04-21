@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "joomla"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/joomla/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/joomla/joomla/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/joomla/joomla/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "joomla": "internet/aplicaci\u00f3n-web/bitacoras-web/joomla"
+        },
+        "parents": {
+            "bitacoras-web": "internet/aplicaci\u00f3n-web/bitacoras-web"
+        },
+        "sisters": {
+            "drupal": "internet/aplicaci\u00f3n-web/bitacoras-web/drupal",
+            "joomla": "internet/aplicaci\u00f3n-web/bitacoras-web/joomla",
+            "wordpress": "internet/aplicaci\u00f3n-web/bitacoras-web/wordpress"
+        }
+    }
+}

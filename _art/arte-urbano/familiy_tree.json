@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "arte-urbano"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-urbano/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano"
+        },
+        "children": {
+            "grafiti": "cultura/arte-ef\u00edmero/arte-urbano/grafiti"
+        },
+        "parents": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "sisters": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        }
+    }
+}

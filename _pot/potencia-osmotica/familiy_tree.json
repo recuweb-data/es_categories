@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "potencia-osmotica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/potencia-osmotica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "potencia-osmotica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica"
+        },
+        "children": {
+            "energ\u00eda-azul": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica/energ\u00eda-azul"
+        },
+        "parents": {
+            "energ\u00eda-renovable": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable"
+        },
+        "sisters": {
+            "biomasa": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/biomasa",
+            "energ\u00eda-cin\u00e9tica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/energ\u00eda-cin\u00e9tica",
+            "energ\u00eda-e\u00f3lica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/energ\u00eda-e\u00f3lica",
+            "potencia-osmotica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica"
+        }
+    }
+}

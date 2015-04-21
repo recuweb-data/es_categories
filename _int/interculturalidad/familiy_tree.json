@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "interculturalidad"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/interculturalidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/interculturalidad/interculturalidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/interculturalidad/interculturalidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/interculturalidad/interculturalidad/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "interculturalidad": "politica/globalizacion/interculturalidad"
+        },
+        "parents": {
+            "globalizacion": "politica/globalizacion"
+        },
+        "sisters": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        }
+    }
+}

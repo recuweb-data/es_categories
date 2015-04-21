@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "desembarcos-navales"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/desembarcos-navales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "desembarcos-navales": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/desembarcos-navales"
+        },
+        "parents": {
+            "tacticas-militares": "tecnologia/ingenieria/ciencia-militar/tacticas-militares"
+        },
+        "sisters": {
+            "desembarcos-navales": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/desembarcos-navales",
+            "estrategia-militar": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar"
+        }
+    }
+}

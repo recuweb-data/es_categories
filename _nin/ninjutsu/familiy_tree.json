@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "ninjutsu"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ninjutsu/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ninjutsu/ninjutsu/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ninjutsu/ninjutsu/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ninjutsu/ninjutsu/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ninjutsu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-japoneses/ninjutsu"
+        },
+        "parents": {
+            "artes-marciales-japoneses": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-japoneses"
+        },
+        "sisters": {
+            "jiu-jitsu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-japoneses/jiu-jitsu",
+            "judo": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-japoneses/judo",
+            "karate": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-japoneses/karate",
+            "ninjutsu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-japoneses/ninjutsu"
+        }
+    }
+}

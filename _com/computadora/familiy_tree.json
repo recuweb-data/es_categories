@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "computadora"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadora/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadora/computadora/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadora/computadora/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadora/computadora/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "computadora": "tecnologia/electronica/aparatos-electronicos/hardware/computadora"
+        },
+        "parents": {
+            "hardware": "tecnologia/electronica/aparatos-electronicos/hardware"
+        },
+        "sisters": {
+            "calculadoras": "tecnologia/electronica/aparatos-electronicos/hardware/calculadoras"
+        }
+    }
+}

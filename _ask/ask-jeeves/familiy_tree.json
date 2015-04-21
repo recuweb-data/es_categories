@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "ask-jeeves"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ask-jeeves/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ask-jeeves": "internet/an\u00e1lisis-web/buscadores-web/ask-jeeves"
+        },
+        "parents": {
+            "buscadores-web": "internet/an\u00e1lisis-web/buscadores-web"
+        },
+        "sisters": {
+            "ask-jeeves": "internet/an\u00e1lisis-web/buscadores-web/ask-jeeves",
+            "baidu": "internet/an\u00e1lisis-web/buscadores-web/baidu",
+            "bing": "internet/an\u00e1lisis-web/buscadores-web/bing",
+            "google": "internet/an\u00e1lisis-web/buscadores-web/google",
+            "yahoo": "internet/an\u00e1lisis-web/buscadores-web/yahoo",
+            "yandex": "internet/an\u00e1lisis-web/buscadores-web/yandex"
+        }
+    }
+}

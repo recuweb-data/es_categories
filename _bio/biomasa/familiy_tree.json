@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "biomasa"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/biomasa/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/biomasa/biomasa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/biomasa/biomasa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/biomasa/biomasa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "biomasa": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/biomasa"
+        },
+        "parents": {
+            "energ\u00eda-renovable": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable"
+        },
+        "sisters": {
+            "biomasa": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/biomasa"
+        }
+    }
+}

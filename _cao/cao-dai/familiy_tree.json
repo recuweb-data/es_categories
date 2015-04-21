@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "cao-dai"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/cao-dai/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/cao-dai/cao-dai/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/cao-dai/cao-dai/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/cao-dai/cao-dai/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "cao-dai": "cultura/religion/religiones-orientales/cao-dai"
+        },
+        "parents": {
+            "religiones-orientales": "cultura/religion/religiones-orientales"
+        },
+        "sisters": {
+            "cao-dai": "cultura/religion/religiones-orientales/cao-dai",
+            "confucianismo": "cultura/religion/religiones-orientales/confucianismo",
+            "taoism": "cultura/religion/religiones-orientales/taoism",
+            "zen": "cultura/religion/religiones-orientales/zen"
+        }
+    }
+}

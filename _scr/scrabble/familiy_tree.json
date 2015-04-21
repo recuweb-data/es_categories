@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "scrabble"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/scrabble/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/scrabble/scrabble/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/scrabble/scrabble/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/scrabble/scrabble/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "scrabble": "deporte/deportes-mentales/juego-de-mesa/scrabble"
+        },
+        "parents": {
+            "juego-de-mesa": "deporte/deportes-mentales/juego-de-mesa"
+        },
+        "sisters": {
+            "ajedrez": "deporte/deportes-mentales/juego-de-mesa/ajedrez",
+            "backgammon": "deporte/deportes-mentales/juego-de-mesa/backgammon",
+            "scrabble": "deporte/deportes-mentales/juego-de-mesa/scrabble"
+        }
+    }
+}

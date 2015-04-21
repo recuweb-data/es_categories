@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "gas-natural"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/gas-natural/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/gas-natural/gas-natural/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/gas-natural/gas-natural/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/gas-natural/gas-natural/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "gas-natural": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales/gas-natural"
+        },
+        "parents": {
+            "energias-convencionales": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales"
+        },
+        "sisters": {
+            "central-nuclear": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales/central-nuclear"
+        }
+    }
+}

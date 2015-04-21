@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "macintosh-quadra"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/macintosh-quadra/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/macintosh-quadra/macintosh-quadra/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/macintosh-quadra/macintosh-quadra/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/macintosh-quadra/macintosh-quadra/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "macintosh-quadra": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh/macintosh-quadra"
+        },
+        "parents": {
+            "macintosh": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        },
+        "sisters": {
+            "ibook": "tecnologia/electronica/aparatos-electronicos/hardware/empresas-de-hardware/hardware-apple/macintosh/ibook"
+        }
+    }
+}

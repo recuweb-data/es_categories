@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "objetivismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/objetivismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/objetivismo/objetivismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/objetivismo/objetivismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/objetivismo/objetivismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "objetivismo": "pol\u00edtica/etica/objetivismo"
+        },
+        "parents": {
+            "etica": "pol\u00edtica/etica"
+        },
+        "sisters": {
+            "ego\u00edsmo": "pol\u00edtica/etica/ego\u00edsmo",
+            "hedonismo": "pol\u00edtica/etica/hedonismo",
+            "nihilismo": "pol\u00edtica/etica/nihilismo",
+            "objetivismo": "pol\u00edtica/etica/objetivismo",
+            "pacifismo": "pol\u00edtica/etica/pacifismo",
+            "utilitarismo": "pol\u00edtica/etica/utilitarismo"
+        }
+    }
+}

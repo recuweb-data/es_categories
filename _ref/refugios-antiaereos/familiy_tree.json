@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "refugios-antiaereos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/refugios-antiaereos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/refugios-antiaereos/refugios-antiaereos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/refugios-antiaereos/refugios-antiaereos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/refugios-antiaereos/refugios-antiaereos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "refugios-antiaereos": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/refugios-antiaereos"
+        },
+        "parents": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar"
+        },
+        "sisters": {
+            "base-a\u00e9rea": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar/base-a\u00e9rea"
+        }
+    }
+}

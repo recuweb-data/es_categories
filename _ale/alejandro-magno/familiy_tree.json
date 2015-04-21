@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "alejandro-magno"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/alejandro-magno/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/alejandro-magno/alejandro-magno/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/alejandro-magno/alejandro-magno/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/alejandro-magno/alejandro-magno/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "alejandro-magno": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/alejandro-magno"
+        },
+        "parents": {
+            "estratega": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega"
+        },
+        "sisters": {
+            "alejandro-magno": "tecnologia/ingenieria/ciencia-militar/tacticas-militares/estrategia-militar/estratega/alejandro-magno"
+        }
+    }
+}

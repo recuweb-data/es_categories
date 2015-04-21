@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "exoesqueletos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/exoesqueletos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/exoesqueletos/exoesqueletos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/exoesqueletos/exoesqueletos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/exoesqueletos/exoesqueletos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "exoesqueletos": "tecnologia/robotica/exoesqueletos"
+        },
+        "parents": {
+            "robotica": "tecnologia/robotica"
+        },
+        "sisters": {
+            "exoesqueletos": "tecnologia/robotica/exoesqueletos"
+        }
+    }
+}

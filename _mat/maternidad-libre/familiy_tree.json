@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "maternidad-libre"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/maternidad-libre/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/maternidad-libre/maternidad-libre/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/maternidad-libre/maternidad-libre/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/maternidad-libre/maternidad-libre/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "maternidad-libre": "politica/movimiento-social/feminismo/maternidad-libre"
+        },
+        "parents": {
+            "feminismo": "politica/movimiento-social/feminismo"
+        },
+        "sisters": {
+            "arte-feminista": "politica/movimiento-social/feminismo/arte-feminista"
+        }
+    }
+}

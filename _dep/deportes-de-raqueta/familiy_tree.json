@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "deportes-de-raqueta"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-de-raqueta/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-de-raqueta/deportes-de-raqueta/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-de-raqueta/deportes-de-raqueta/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-raqueta/deportes-de-raqueta/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta"
+        },
+        "children": {
+            "fronton": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton",
+            "tenis": "deporte/deporte-de-pelota/deportes-de-raqueta/tenis"
+        },
+        "parents": {
+            "deporte-de-pelota": "deporte/deporte-de-pelota"
+        },
+        "sisters": {
+            "baloncesto": "deporte/deporte-de-pelota/baloncesto",
+            "balonmano": "deporte/deporte-de-pelota/balonmano",
+            "beisbol": "deporte/deporte-de-pelota/beisbol",
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta",
+            "futbol": "deporte/deporte-de-pelota/futbol",
+            "golf": "deporte/deporte-de-pelota/golf",
+            "hockey": "deporte/deporte-de-pelota/hockey",
+            "rugby": "deporte/deporte-de-pelota/rugby",
+            "voleibol": "deporte/deporte-de-pelota/voleibol"
+        },
+        "grandchildren": {
+            "pelota-valenciana": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/pelota-valenciana",
+            "pelota-vasca": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/pelota-vasca",
+            "raquetbol": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/raquetbol",
+            "squash": "deporte/deporte-de-pelota/deportes-de-raqueta/fronton/squash",
+            "tenis-de-mesa": "deporte/deporte-de-pelota/deportes-de-raqueta/tenis/tenis-de-mesa"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "iphone"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/iphone/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/iphone/iphone/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/iphone/iphone/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/iphone/iphone/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "iphone": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/iphone"
+        },
+        "parents": {
+            "hardware-apple": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple"
+        },
+        "sisters": {
+            "ipad": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipad",
+            "iphone": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/iphone",
+            "ipod": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipod",
+            "macintosh": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        }
+    }
+}

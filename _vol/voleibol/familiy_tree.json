@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "voleibol"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/voleibol/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/voleibol/voleibol/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/voleibol/voleibol/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/voleibol/voleibol/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "voleibol": "deporte/deporte-de-pelota/voleibol"
+        },
+        "children": {
+            "voleibol-de-playa": "deporte/deporte-de-pelota/voleibol/voleibol-de-playa"
+        },
+        "parents": {
+            "deporte-de-pelota": "deporte/deporte-de-pelota"
+        },
+        "sisters": {
+            "baloncesto": "deporte/deporte-de-pelota/baloncesto",
+            "balonmano": "deporte/deporte-de-pelota/balonmano",
+            "beisbol": "deporte/deporte-de-pelota/beisbol",
+            "deportes-de-raqueta": "deporte/deporte-de-pelota/deportes-de-raqueta",
+            "futbol": "deporte/deporte-de-pelota/futbol",
+            "golf": "deporte/deporte-de-pelota/golf",
+            "hockey": "deporte/deporte-de-pelota/hockey",
+            "rugby": "deporte/deporte-de-pelota/rugby",
+            "voleibol": "deporte/deporte-de-pelota/voleibol"
+        }
+    }
+}

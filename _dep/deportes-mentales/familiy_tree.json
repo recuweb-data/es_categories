@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "deportes-mentales"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-mentales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-mentales/deportes-mentales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-mentales/deportes-mentales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-mentales/deportes-mentales/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "deportes-mentales": "deporte/deportes-mentales"
+        },
+        "children": {
+            "billar": "deporte/deportes-mentales/billar",
+            "juego-de-mesa": "deporte/deportes-mentales/juego-de-mesa",
+            "juego-de-naipes": "deporte/deportes-mentales/juego-de-naipes"
+        },
+        "parents": {
+            "deporte": "deporte"
+        },
+        "sisters": {
+            "atletismo": "deporte/atletismo",
+            "deporte-de-pelota": "deporte/deporte-de-pelota",
+            "deporte-extremo": "deporte/deporte-extremo",
+            "deportes-acuaticos": "deporte/deportes-acuaticos",
+            "deportes-de-lucha": "deporte/deportes-de-lucha",
+            "deportes-de-motor": "deporte/deportes-de-motor",
+            "deportes-mentales": "deporte/deportes-mentales",
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        },
+        "grandchildren": {
+            "ajedrez": "deporte/deportes-mentales/juego-de-mesa/ajedrez",
+            "backgammon": "deporte/deportes-mentales/juego-de-mesa/backgammon",
+            "scrabble": "deporte/deportes-mentales/juego-de-mesa/scrabble",
+            "p\u00f3quer": "deporte/deportes-mentales/juego-de-naipes/p\u00f3quer"
+        }
+    }
+}

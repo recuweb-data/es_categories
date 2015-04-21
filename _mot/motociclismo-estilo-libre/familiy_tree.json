@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "motociclismo-estilo-libre"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/motociclismo-estilo-libre/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/motociclismo-estilo-libre/motociclismo-estilo-libre/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/motociclismo-estilo-libre/motociclismo-estilo-libre/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/motociclismo-estilo-libre/motociclismo-estilo-libre/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "motociclismo-estilo-libre": "deporte/deportes-de-motor/motociclismo/motocross/motociclismo-estilo-libre"
+        },
+        "parents": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross"
+        },
+        "sisters": {
+            "endurocross": "deporte/deportes-de-motor/motociclismo/motocross/endurocross",
+            "motociclismo-estilo-libre": "deporte/deportes-de-motor/motociclismo/motocross/motociclismo-estilo-libre",
+            "trial-de-motociclismo": "deporte/deportes-de-motor/motociclismo/motocross/trial-de-motociclismo"
+        }
+    }
+}

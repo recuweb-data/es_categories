@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "tumblr"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tumblr/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tumblr": "internet/servicios-web/microblogging/tumblr"
+        },
+        "parents": {
+            "microblogging": "internet/servicios-web/microblogging"
+        },
+        "sisters": {
+            "friendfeed": "internet/servicios-web/microblogging/friendfeed",
+            "tumblr": "internet/servicios-web/microblogging/tumblr",
+            "twitter": "internet/servicios-web/microblogging/twitter"
+        }
+    }
+}

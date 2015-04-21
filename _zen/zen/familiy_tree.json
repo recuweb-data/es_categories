@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "zen"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/zen/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/zen/zen/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/zen/zen/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/zen/zen/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "zen": "cultura/religi\u00f3n/religion-oriental/zen"
+        },
+        "parents": {
+            "religion-oriental": "cultura/religi\u00f3n/religion-oriental"
+        },
+        "sisters": {
+            "zen": "cultura/religi\u00f3n/religion-oriental/zen"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "facebook"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/facebook/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/facebook/facebook/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/facebook/facebook/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "facebook": "internet/servicios-web/red-social/facebook"
+        },
+        "parents": {
+            "red-social": "internet/servicios-web/red-social"
+        },
+        "sisters": {
+            "facebook": "internet/servicios-web/red-social/facebook",
+            "flickr": "internet/servicios-web/red-social/flickr",
+            "google-plus": "internet/servicios-web/red-social/google-plus",
+            "linkedin": "internet/servicios-web/red-social/linkedin",
+            "tuenti": "internet/servicios-web/red-social/tuenti"
+        }
+    }
+}

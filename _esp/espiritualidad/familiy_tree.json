@@ -1,0 +1,56 @@
+{
+    "meta": {
+        "portal_name": "espiritualidad"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/espiritualidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/espiritualidad/espiritualidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/espiritualidad/espiritualidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/espiritualidad/espiritualidad/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "espiritualidad": "cultura/espiritualidad"
+        },
+        "children": {
+            "esoterismo": "cultura/espiritualidad/esoterismo",
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa",
+            "misticismo": "cultura/espiritualidad/misticismo",
+            "mitolog\u00eda": "cultura/espiritualidad/mitolog\u00eda",
+            "pagano": "cultura/espiritualidad/pagano",
+            "profesias": "cultura/espiritualidad/profesias",
+            "sobrenatural": "cultura/espiritualidad/sobrenatural"
+        },
+        "parents": {
+            "cultura": "cultura"
+        },
+        "sisters": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero",
+            "bellas-artes": "cultura/bellas-artes",
+            "cultura-popular": "cultura/cultura-popular",
+            "economia": "cultura/economia",
+            "espiritualidad": "cultura/espiritualidad",
+            "humanidades": "cultura/humanidades",
+            "lenguaje": "cultura/lenguaje",
+            "religi\u00f3n": "cultura/religi\u00f3n",
+            "religion": "cultura/religion",
+            "ropa": "cultura/ropa"
+        },
+        "grandchildren": {
+            "astrolog\u00eda": "cultura/espiritualidad/esoterismo/astrolog\u00eda",
+            "clarividencia": "cultura/espiritualidad/esoterismo/clarividencia",
+            "demonolog\u00eda": "cultura/espiritualidad/esoterismo/demonolog\u00eda",
+            "demonologia": "cultura/espiritualidad/esoterismo/demonologia",
+            "espiritismo": "cultura/espiritualidad/esoterismo/espiritismo",
+            "magia": "cultura/espiritualidad/esoterismo/magia",
+            "numerolog\u00eda": "cultura/espiritualidad/esoterismo/numerolog\u00eda",
+            "ocultismo": "cultura/espiritualidad/esoterismo/ocultismo",
+            "aguas-termales": "cultura/espiritualidad/medicina-alternativa/aguas-termales",
+            "curaci\u00f3n-trav\u00e9s-de-la-fe": "cultura/espiritualidad/medicina-alternativa/curaci\u00f3n-trav\u00e9s-de-la-fe",
+            "curacion-sobrenatural": "cultura/espiritualidad/medicina-alternativa/curacion-sobrenatural",
+            "etnomedicina": "cultura/espiritualidad/medicina-alternativa/etnomedicina",
+            "homeopat\u00eda": "cultura/espiritualidad/medicina-alternativa/homeopat\u00eda",
+            "terapias-manipulativas": "cultura/espiritualidad/medicina-alternativa/terapias-manipulativas"
+        }
+    }
+}

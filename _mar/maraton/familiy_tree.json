@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "maraton"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/maraton/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/maraton/maraton/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/maraton/maraton/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/maraton/maraton/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "maraton": "deporte/atletismo/maraton"
+        },
+        "parents": {
+            "atletismo": "deporte/atletismo"
+        },
+        "sisters": {
+            "carreras-de-relevos": "deporte/atletismo/carreras-de-relevos",
+            "duatlon": "deporte/atletismo/duatlon",
+            "lanzamiento-de-jabalina": "deporte/atletismo/lanzamiento-de-jabalina",
+            "maraton": "deporte/atletismo/maraton",
+            "salto-con-p\u00e9rtiga": "deporte/atletismo/salto-con-p\u00e9rtiga",
+            "salto-de-altura": "deporte/atletismo/salto-de-altura",
+            "triatlon": "deporte/atletismo/triatlon",
+            "triple-salto": "deporte/atletismo/triple-salto"
+        }
+    }
+}

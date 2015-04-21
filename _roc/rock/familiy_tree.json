@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "rock"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rock/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rock/rock/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rock/rock/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rock/rock/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rock": "cultura/bellas-artes/m\u00fasica/rock"
+        },
+        "parents": {
+            "m\u00fasica": "cultura/bellas-artes/m\u00fasica"
+        },
+        "sisters": {
+            "pop": "cultura/bellas-artes/m\u00fasica/pop",
+            "rock": "cultura/bellas-artes/m\u00fasica/rock"
+        }
+    }
+}

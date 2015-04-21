@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "eventos-ecologistas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/eventos-ecologistas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/eventos-ecologistas/eventos-ecologistas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/eventos-ecologistas/eventos-ecologistas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/eventos-ecologistas/eventos-ecologistas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "eventos-ecologistas": "pol\u00edtica/movimiento-social/ecologismo/eventos-ecologistas"
+        },
+        "children": {
+            "bici-critica": "pol\u00edtica/movimiento-social/ecologismo/eventos-ecologistas/bici-critica",
+            "masa-cr\u00edtica": "pol\u00edtica/movimiento-social/ecologismo/eventos-ecologistas/masa-cr\u00edtica"
+        },
+        "parents": {
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo"
+        },
+        "sisters": {
+            "crisis-ecol\u00f3gica": "pol\u00edtica/movimiento-social/ecologismo/crisis-ecol\u00f3gica",
+            "eventos-ecologistas": "pol\u00edtica/movimiento-social/ecologismo/eventos-ecologistas",
+            "medio-ambiente": "pol\u00edtica/movimiento-social/ecologismo/medio-ambiente",
+            "movimiento-ecologista": "pol\u00edtica/movimiento-social/ecologismo/movimiento-ecologista",
+            "pol\u00edtica-verde": "pol\u00edtica/movimiento-social/ecologismo/pol\u00edtica-verde"
+        }
+    }
+}

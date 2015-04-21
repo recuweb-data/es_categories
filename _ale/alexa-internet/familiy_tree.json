@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "alexa-internet"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/alexa-internet/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "alexa-internet": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/alexa-internet"
+        },
+        "parents": {
+            "posicionamiento-en-buscadores": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores"
+        },
+        "sisters": {
+            "alexa-internet": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/alexa-internet",
+            "b\u00fasqueda-sem\u00e1ntica": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/b\u00fasqueda-sem\u00e1ntica",
+            "microformato": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/microformato",
+            "pagerank": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/pagerank",
+            "publicidad-contextual": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual",
+            "spamdexing": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/spamdexing"
+        }
+    }
+}

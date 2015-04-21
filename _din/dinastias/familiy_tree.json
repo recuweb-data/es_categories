@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "dinastias"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/dinastias/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/dinastias/dinastias/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/dinastias/dinastias/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/dinastias/dinastias/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "dinastias": "politica/ideologias-politicas/monarquismo/dinastias"
+        },
+        "parents": {
+            "monarquismo": "politica/ideologias-politicas/monarquismo"
+        },
+        "sisters": {
+            "dinastias": "politica/ideologias-politicas/monarquismo/dinastias"
+        }
+    }
+}

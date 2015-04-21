@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "numism\u00e1tica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/numism\u00e1tica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/numism%C3%A1tica/numism%C3%A1tica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/numism%C3%A1tica/numism%C3%A1tica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/numism%C3%A1tica/numism%C3%A1tica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "numism\u00e1tica": "cultura/cultura-popular/coleccionismo/numism\u00e1tica"
+        },
+        "parents": {
+            "coleccionismo": "cultura/cultura-popular/coleccionismo"
+        },
+        "sisters": {
+            "bibliofilia": "cultura/cultura-popular/coleccionismo/bibliofilia",
+            "figurillas": "cultura/cultura-popular/coleccionismo/figurillas",
+            "filatelia": "cultura/cultura-popular/coleccionismo/filatelia",
+            "numism\u00e1tica": "cultura/cultura-popular/coleccionismo/numism\u00e1tica"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "politica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/politica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/politica/politica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/politica/politica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/politica/politica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "politica": "politica"
+        },
+        "children": {
+            "globalizacion": "politica/globalizacion",
+            "ideologias-politicas": "politica/ideologias-politicas",
+            "movimiento-social": "politica/movimiento-social"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "ciencia": "ciencia",
+            "cultura": "cultura",
+            "deporte": "deporte",
+            "economia": "economia",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "naturaleza": "naturaleza",
+            "pol\u00edtica": "pol\u00edtica",
+            "salud": "salud",
+            "sociedad": "sociedad",
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "grandchildren": {
+            "comercio-libre": "politica/globalizacion/comercio-libre",
+            "democracia": "politica/ideologias-politicas/democracia"
+        }
+    }
+}

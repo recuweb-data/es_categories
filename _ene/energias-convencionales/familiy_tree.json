@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "energias-convencionales"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energias-convencionales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energias-convencionales/energias-convencionales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energias-convencionales/energias-convencionales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energias-convencionales/energias-convencionales/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "energias-convencionales": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales"
+        },
+        "children": {
+            "central-nuclear": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales/central-nuclear"
+        },
+        "parents": {
+            "energ\u00eda-el\u00e9ctrica": "tecnologia/energ\u00eda-el\u00e9ctrica"
+        },
+        "sisters": {
+            "energ\u00eda-renovable": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable",
+            "energias-convencionales": "tecnologia/energ\u00eda-el\u00e9ctrica/energias-convencionales"
+        }
+    }
+}

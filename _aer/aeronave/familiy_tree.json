@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "aeronave"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/aeronave/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/aeronave/aeronave/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/aeronave/aeronave/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/aeronave/aeronave/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "aeronave": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronave"
+        },
+        "parents": {
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        },
+        "sisters": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica"
+        }
+    }
+}

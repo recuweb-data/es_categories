@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "memoria-portatil"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/memoria-portatil/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/memoria-portatil/memoria-portatil/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/memoria-portatil/memoria-portatil/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-portatil/memoria-portatil/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "memoria-portatil": "tecnologia/electronica/aparatos-electronicos/hardware/memorias-informaticas/memoria-portatil"
+        },
+        "parents": {
+            "memorias-informaticas": "tecnologia/electronica/aparatos-electronicos/hardware/memorias-informaticas"
+        },
+        "sisters": {
+            "disco-duro": "tecnologia/electronica/aparatos-electronicos/hardware/memorias-informaticas/disco-duro"
+        }
+    }
+}

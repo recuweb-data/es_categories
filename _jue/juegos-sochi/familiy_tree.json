@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "juegos-sochi"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/juegos-sochi/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/juegos-sochi/juegos-sochi/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/juegos-sochi/juegos-sochi/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/juegos-sochi/juegos-sochi/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "juegos-sochi": "deporte/juegos-ol\u00edmpicos/juegos-sochi"
+        },
+        "parents": {
+            "juegos-ol\u00edmpicos": "deporte/juegos-ol\u00edmpicos"
+        },
+        "sisters": {
+            "juegos-sochi": "deporte/juegos-ol\u00edmpicos/juegos-sochi"
+        }
+    }
+}

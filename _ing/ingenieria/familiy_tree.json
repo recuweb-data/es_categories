@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "portal_name": "ingenieria"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenieria/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenieria/ingenieria/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenieria/ingenieria/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenieria/ingenieria/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingenieria": "tecnolog\u00eda/ingenieria"
+        },
+        "children": {
+            "ciencia-militar": "tecnolog\u00eda/ingenieria/ciencia-militar",
+            "ingenier\u00eda-aeroespacial": "tecnolog\u00eda/ingenieria/ingenier\u00eda-aeroespacial",
+            "ingenier\u00eda-agr\u00edcola": "tecnolog\u00eda/ingenieria/ingenier\u00eda-agr\u00edcola",
+            "ingenier\u00eda-ambiental": "tecnolog\u00eda/ingenieria/ingenier\u00eda-ambiental",
+            "ingenier\u00eda-civil": "tecnolog\u00eda/ingenieria/ingenier\u00eda-civil",
+            "ingenier\u00eda-electromec\u00e1nica": "tecnolog\u00eda/ingenieria/ingenier\u00eda-electromec\u00e1nica",
+            "ingenier\u00eda-mec\u00e1nica": "tecnolog\u00eda/ingenieria/ingenier\u00eda-mec\u00e1nica",
+            "ingenier\u00eda-qu\u00edmica": "tecnolog\u00eda/ingenieria/ingenier\u00eda-qu\u00edmica",
+            "ingenieria-aeroportuaria": "tecnolog\u00eda/ingenieria/ingenieria-aeroportuaria"
+        },
+        "parents": {
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "sisters": {
+            "electronica": "tecnolog\u00eda/electronica",
+            "energ\u00eda-el\u00e9ctrica": "tecnolog\u00eda/energ\u00eda-el\u00e9ctrica",
+            "ingenieria": "tecnolog\u00eda/ingenieria",
+            "robotica": "tecnolog\u00eda/robotica",
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        }
+    }
+}

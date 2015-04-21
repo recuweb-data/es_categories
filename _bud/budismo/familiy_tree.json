@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "budismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/budismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/budismo/budismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/budismo/budismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/budismo/budismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "budismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/budismo"
+        },
+        "parents": {
+            "religi\u00f3n-en-la-india": "cultura/religi\u00f3n/religi\u00f3n-en-la-india"
+        },
+        "sisters": {
+            "budismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/budismo",
+            "hinduismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/hinduismo",
+            "jainismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/jainismo",
+            "sijismo": "cultura/religi\u00f3n/religi\u00f3n-en-la-india/sijismo"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "minicomputadoras"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/minicomputadoras/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/minicomputadoras/minicomputadoras/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/minicomputadoras/minicomputadoras/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/minicomputadoras/minicomputadoras/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "minicomputadoras": "tecnologia/electronica/aparatos-electronicos/hardware/computadora/minicomputadoras"
+        },
+        "parents": {
+            "computadora": "tecnologia/electronica/aparatos-electronicos/hardware/computadora"
+        },
+        "sisters": {
+            "computadora-dom\u00e9stica": "tecnologia/electronica/aparatos-electronicos/hardware/computadora/computadora-dom\u00e9stica"
+        }
+    }
+}

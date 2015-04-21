@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "catolicismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/catolicismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/catolicismo/catolicismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/catolicismo/catolicismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/catolicismo/catolicismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "catolicismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo"
+        },
+        "children": {
+            "papa-benedicto": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo/papa-benedicto",
+            "papa-francisco": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo/papa-francisco"
+        },
+        "parents": {
+            "cristianismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo"
+        },
+        "sisters": {
+            "anglicanismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/anglicanismo",
+            "catolicismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/catolicismo",
+            "iglesia-ortodoxa": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/iglesia-ortodoxa",
+            "mormonismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/mormonismo",
+            "protestantismo": "cultura/religion/religi\u00f3n-abrah\u00e1mica/cristianismo/protestantismo"
+        }
+    }
+}

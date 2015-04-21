@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "movimiento-ecologista"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/movimiento-ecologista/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/movimiento-ecologista/movimiento-ecologista/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/movimiento-ecologista/movimiento-ecologista/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/movimiento-ecologista/movimiento-ecologista/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "movimiento-ecologista": "pol\u00edtica/movimiento-social/movimiento-ecologista"
+        },
+        "parents": {
+            "movimiento-social": "pol\u00edtica/movimiento-social"
+        },
+        "sisters": {
+            "agrarismo": "pol\u00edtica/movimiento-social/agrarismo",
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo",
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo",
+            "indigenismo": "pol\u00edtica/movimiento-social/indigenismo",
+            "lobby": "pol\u00edtica/movimiento-social/lobby"
+        }
+    }
+}

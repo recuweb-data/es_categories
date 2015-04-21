@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "zodiaco"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/zodiaco/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "zodiaco": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco"
+        },
+        "children": {
+            "astrolog\u00eda-china": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco/astrolog\u00eda-china",
+            "signo-zodiacal": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco/signo-zodiacal"
+        },
+        "parents": {
+            "hor\u00f3scopo": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo"
+        },
+        "sisters": {
+            "carta-astral": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/carta-astral",
+            "horoscopo-azteca": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/horoscopo-azteca",
+            "zodiaco": "cultura/espiritualidad/esoterismo/astrolog\u00eda/hor\u00f3scopo/zodiaco"
+        }
+    }
+}

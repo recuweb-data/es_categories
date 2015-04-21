@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "televisi\u00f3n-por-cable"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/televisi\u00f3n-por-cable/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-cable/televisi%C3%B3n-por-cable/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-cable/televisi%C3%B3n-por-cable/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-cable/televisi%C3%B3n-por-cable/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "televisi\u00f3n-por-cable": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-por-cable"
+        },
+        "parents": {
+            "television": "tecnologia/telecomunicacion/tecnologia-de-video/television"
+        },
+        "sisters": {
+            "televisi\u00f3n-digital": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-digital"
+        }
+    }
+}

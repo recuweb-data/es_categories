@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "rally"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rally/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rally/rally/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rally/rally/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally/rally/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rally": "deporte/deportes-de-motor/automovilismo/rally"
+        },
+        "parents": {
+            "automovilismo": "deporte/deportes-de-motor/automovilismo"
+        },
+        "sisters": {
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad",
+            "drifting": "deporte/deportes-de-motor/automovilismo/drifting",
+            "karting": "deporte/deportes-de-motor/automovilismo/karting",
+            "rally": "deporte/deportes-de-motor/automovilismo/rally"
+        }
+    }
+}

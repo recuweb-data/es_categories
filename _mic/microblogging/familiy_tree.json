@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "microblogging"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/microblogging/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/microblogging/microblogging/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/microblogging/microblogging/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/microblogging/microblogging/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "microblogging": "internet/servicios-web/microblogging"
+        },
+        "children": {
+            "friendfeed": "internet/servicios-web/microblogging/friendfeed",
+            "tumblr": "internet/servicios-web/microblogging/tumblr",
+            "twitter": "internet/servicios-web/microblogging/twitter"
+        },
+        "parents": {
+            "servicios-web": "internet/servicios-web"
+        },
+        "sisters": {
+            "microblogging": "internet/servicios-web/microblogging",
+            "red-social": "internet/servicios-web/red-social"
+        }
+    }
+}

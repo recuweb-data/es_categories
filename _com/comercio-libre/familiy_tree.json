@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "comercio-libre"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/comercio-libre/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/comercio-libre/comercio-libre/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/comercio-libre/comercio-libre/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/comercio-libre/comercio-libre/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        },
+        "parents": {
+            "globalizacion": "politica/globalizacion"
+        },
+        "sisters": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        }
+    }
+}

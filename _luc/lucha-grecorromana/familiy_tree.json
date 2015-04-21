@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "lucha-grecorromana"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lucha-grecorromana/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lucha-grecorromana/lucha-grecorromana/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lucha-grecorromana/lucha-grecorromana/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lucha-grecorromana/lucha-grecorromana/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lucha-grecorromana": "deporte/deportes-de-lucha/lucha-libre/lucha-grecorromana"
+        },
+        "parents": {
+            "lucha-libre": "deporte/deportes-de-lucha/lucha-libre"
+        },
+        "sisters": {
+            "lucha-grecorromana": "deporte/deportes-de-lucha/lucha-libre/lucha-grecorromana"
+        }
+    }
+}

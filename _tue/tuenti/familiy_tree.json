@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tuenti"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tuenti/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tuenti/tuenti/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tuenti/tuenti/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tuenti/tuenti/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tuenti": "internet/servicios-web/red-social/tuenti"
+        },
+        "parents": {
+            "red-social": "internet/servicios-web/red-social"
+        },
+        "sisters": {
+            "facebook": "internet/servicios-web/red-social/facebook",
+            "flickr": "internet/servicios-web/red-social/flickr",
+            "google-plus": "internet/servicios-web/red-social/google-plus",
+            "linkedin": "internet/servicios-web/red-social/linkedin",
+            "tuenti": "internet/servicios-web/red-social/tuenti"
+        }
+    }
+}

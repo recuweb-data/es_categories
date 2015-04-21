@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "linkedin"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/linkedin/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/linkedin/linkedin/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/linkedin/linkedin/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "linkedin": "internet/servicios-web/red-social/linkedin"
+        },
+        "parents": {
+            "red-social": "internet/servicios-web/red-social"
+        },
+        "sisters": {
+            "facebook": "internet/servicios-web/red-social/facebook",
+            "flickr": "internet/servicios-web/red-social/flickr",
+            "google-plus": "internet/servicios-web/red-social/google-plus",
+            "linkedin": "internet/servicios-web/red-social/linkedin",
+            "tuenti": "internet/servicios-web/red-social/tuenti"
+        }
+    }
+}

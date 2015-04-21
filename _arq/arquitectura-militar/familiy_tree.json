@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "arquitectura-militar"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arquitectura-militar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arquitectura-militar/arquitectura-militar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arquitectura-militar/arquitectura-militar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arquitectura-militar/arquitectura-militar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar"
+        },
+        "parents": {
+            "ciencia-militar": "tecnologia/ingenieria/ciencia-militar"
+        },
+        "sisters": {
+            "arquitectura-militar": "tecnologia/ingenieria/ciencia-militar/arquitectura-militar",
+            "tacticas-militares": "tecnologia/ingenieria/ciencia-militar/tacticas-militares"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "foros-internet"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/foros-internet/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "foros-internet": "internet/aplicaci\u00f3n-web/foros-internet"
+        },
+        "children": {
+            "bbpress": "internet/aplicaci\u00f3n-web/foros-internet/bbpress",
+            "mybb": "internet/aplicaci\u00f3n-web/foros-internet/mybb",
+            "phpbb": "internet/aplicaci\u00f3n-web/foros-internet/phpbb",
+            "punbb": "internet/aplicaci\u00f3n-web/foros-internet/punbb"
+        },
+        "parents": {
+            "aplicaci\u00f3n-web": "internet/aplicaci\u00f3n-web"
+        },
+        "sisters": {
+            "bitacoras-web": "internet/aplicaci\u00f3n-web/bitacoras-web",
+            "comercio-electr\u00f3nico": "internet/aplicaci\u00f3n-web/comercio-electr\u00f3nico",
+            "foro-internet": "internet/aplicaci\u00f3n-web/foro-internet",
+            "foros-internet": "internet/aplicaci\u00f3n-web/foros-internet",
+            "wiki": "internet/aplicaci\u00f3n-web/wiki"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "aparatos-electronicos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/aparatos-electronicos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "aparatos-electronicos": "tecnologia/electronica/aparatos-electronicos"
+        },
+        "parents": {
+            "electronica": "tecnologia/electronica"
+        },
+        "sisters": {
+            "aparatos-electronicos": "tecnologia/electronica/aparatos-electronicos"
+        }
+    }
+}

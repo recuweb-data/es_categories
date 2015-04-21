@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "escultura"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/escultura/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/escultura/escultura/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/escultura/escultura/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/escultura/escultura/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "escultura": "cultura/bellas-artes/escultura"
+        },
+        "parents": {
+            "bellas-artes": "cultura/bellas-artes"
+        },
+        "sisters": {
+            "cine": "cultura/bellas-artes/cine",
+            "danza": "cultura/bellas-artes/danza",
+            "escultura": "cultura/bellas-artes/escultura",
+            "fotografia": "cultura/bellas-artes/fotografia",
+            "literatura": "cultura/bellas-artes/literatura",
+            "m\u00fasica": "cultura/bellas-artes/m\u00fasica",
+            "pintura": "cultura/bellas-artes/pintura"
+        }
+    }
+}

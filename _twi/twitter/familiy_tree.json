@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "twitter"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/twitter/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/twitter/twitter/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/twitter/twitter/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/twitter/twitter/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "twitter": "internet/servicios-web/microblogging/twitter"
+        },
+        "parents": {
+            "microblogging": "internet/servicios-web/microblogging"
+        },
+        "sisters": {
+            "friendfeed": "internet/servicios-web/microblogging/friendfeed",
+            "tumblr": "internet/servicios-web/microblogging/tumblr",
+            "twitter": "internet/servicios-web/microblogging/twitter"
+        }
+    }
+}

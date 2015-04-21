@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "teletexto"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/teletexto/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/teletexto/teletexto/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/teletexto/teletexto/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/teletexto/teletexto/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "teletexto": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/subt\u00edtulo/teletexto"
+        },
+        "parents": {
+            "subt\u00edtulo": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/subt\u00edtulo"
+        },
+        "sisters": {
+            "karaoke": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/subt\u00edtulo/karaoke",
+            "teletexto": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/subt\u00edtulo/teletexto",
+            "transcripci\u00f3n": "tecnolog\u00eda/telecomunicacion/tecnolog\u00eda-de-v\u00eddeo/subt\u00edtulo/transcripci\u00f3n"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "aeronautica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/aeronautica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/aeronautica/aeronautica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/aeronautica/aeronautica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/aeronautica/aeronautica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica"
+        },
+        "children": {
+            "acrobacia-a\u00e9rea": "deporte/deportes-de-motor/aeronautica/acrobacia-a\u00e9rea"
+        },
+        "parents": {
+            "deportes-de-motor": "deporte/deportes-de-motor",
+            "ingenier\u00eda-aeroespacial": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial"
+        },
+        "sisters": {
+            "aeronautica": "tecnologia/ingenieria/ingenier\u00eda-aeroespacial/aeronautica",
+            "automovilismo": "deporte/deportes-de-motor/automovilismo",
+            "motociclismo": "deporte/deportes-de-motor/motociclismo",
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        }
+    }
+}

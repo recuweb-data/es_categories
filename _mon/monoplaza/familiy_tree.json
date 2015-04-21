@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "monoplaza"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/monoplaza/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/monoplaza/monoplaza/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/monoplaza/monoplaza/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/monoplaza/monoplaza/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza"
+        },
+        "children": {
+            "f\u00f3rmula": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/f\u00f3rmula",
+            "formula-nippon": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-nippon",
+            "formula-uno": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/formula-uno",
+            "gp2-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/gp2-series",
+            "indycar-series": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza/indycar-series"
+        },
+        "parents": {
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad"
+        },
+        "sisters": {
+            "autom\u00f3vil-superdeportivo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/autom\u00f3vil-superdeportivo",
+            "automovil-gran-turismo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/automovil-gran-turismo",
+            "monoplaza": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/monoplaza",
+            "sport-prototipo": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad/sport-prototipo"
+        }
+    }
+}

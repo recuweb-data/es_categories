@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "humanismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/humanismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/humanismo/humanismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/humanismo/humanismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/humanismo/humanismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "humanismo": "politica/teorias-eticas/humanismo"
+        },
+        "parents": {
+            "teorias-eticas": "politica/teorias-eticas"
+        },
+        "sisters": {
+            "humanismo": "politica/teorias-eticas/humanismo"
+        }
+    }
+}

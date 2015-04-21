@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "html"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/html/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/html/html/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/html/html/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/html/html/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "html": "internet/desarrollo-web/formatos-web/html"
+        },
+        "children": {
+            "iframe": "internet/desarrollo-web/formatos-web/html/iframe",
+            "xhtml": "internet/desarrollo-web/formatos-web/html/xhtml"
+        },
+        "parents": {
+            "formatos-web": "internet/desarrollo-web/formatos-web"
+        },
+        "sisters": {
+            "css": "internet/desarrollo-web/formatos-web/css",
+            "extensible-markup-language": "internet/desarrollo-web/formatos-web/extensible-markup-language",
+            "hoja-de-estilos-en-cascada": "internet/desarrollo-web/formatos-web/hoja-de-estilos-en-cascada",
+            "html": "internet/desarrollo-web/formatos-web/html",
+            "xml": "internet/desarrollo-web/formatos-web/xml"
+        }
+    }
+}

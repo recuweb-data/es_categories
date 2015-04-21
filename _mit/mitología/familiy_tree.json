@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "mitolog\u00eda"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mitolog\u00eda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mitolog%C3%ADa/mitolog%C3%ADa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mitolog%C3%ADa/mitolog%C3%ADa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mitolog%C3%ADa/mitolog%C3%ADa/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mitolog\u00eda": "cultura/espiritualidad/mitolog\u00eda"
+        },
+        "parents": {
+            "espiritualidad": "cultura/espiritualidad"
+        },
+        "sisters": {
+            "esoterismo": "cultura/espiritualidad/esoterismo",
+            "medicina-alternativa": "cultura/espiritualidad/medicina-alternativa",
+            "misticismo": "cultura/espiritualidad/misticismo",
+            "mitolog\u00eda": "cultura/espiritualidad/mitolog\u00eda",
+            "pagano": "cultura/espiritualidad/pagano",
+            "profesias": "cultura/espiritualidad/profesias",
+            "sobrenatural": "cultura/espiritualidad/sobrenatural"
+        }
+    }
+}

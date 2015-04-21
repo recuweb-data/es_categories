@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "memoria-flash"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/memoria-flash/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/memoria-flash/memoria-flash/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/memoria-flash/memoria-flash/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-flash/memoria-flash/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "memoria-flash": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas/memoria-flash"
+        },
+        "parents": {
+            "memorias-informaticas": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas"
+        },
+        "sisters": {
+            "memoria-flash": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas/memoria-flash",
+            "unidad-de-disco-duro": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas/unidad-de-disco-duro"
+        }
+    }
+}

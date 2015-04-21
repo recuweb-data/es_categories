@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "circuito-integrado"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/circuito-integrado/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/circuito-integrado/circuito-integrado/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/circuito-integrado/circuito-integrado/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/circuito-integrado/circuito-integrado/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "circuito-integrado": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/circuito-integrado"
+        },
+        "parents": {
+            "hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware"
+        },
+        "sisters": {
+            "circuito-integrado": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/circuito-integrado",
+            "empresas-de-hardware": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware",
+            "libro-electr\u00f3nico": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/libro-electr\u00f3nico",
+            "memorias-informaticas": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/memorias-informaticas",
+            "periferico-auxiliar": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/periferico-auxiliar",
+            "placa-base": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/placa-base"
+        }
+    }
+}

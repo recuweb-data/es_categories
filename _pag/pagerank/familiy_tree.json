@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "pagerank"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pagerank/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pagerank/pagerank/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pagerank/pagerank/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pagerank": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/pagerank"
+        },
+        "parents": {
+            "posicionamiento-en-buscadores": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores"
+        },
+        "sisters": {
+            "alexa-internet": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/alexa-internet",
+            "b\u00fasqueda-sem\u00e1ntica": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/b\u00fasqueda-sem\u00e1ntica",
+            "microformato": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/microformato",
+            "pagerank": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/pagerank",
+            "publicidad-contextual": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/publicidad-contextual",
+            "spamdexing": "internet/an\u00e1lisis-web/posicionamiento-en-buscadores/spamdexing"
+        }
+    }
+}

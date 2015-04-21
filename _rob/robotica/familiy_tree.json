@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "robotica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/robotica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/robotica/robotica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/robotica/robotica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/robotica/robotica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "robotica": "tecnolog\u00eda/robotica"
+        },
+        "children": {
+            "dom\u00f3tica": "tecnolog\u00eda/robotica/dom\u00f3tica",
+            "exoesqueletos": "tecnolog\u00eda/robotica/exoesqueletos",
+            "impresion-3d": "tecnolog\u00eda/robotica/impresion-3d"
+        },
+        "parents": {
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "sisters": {
+            "electronica": "tecnolog\u00eda/electronica",
+            "energ\u00eda-el\u00e9ctrica": "tecnolog\u00eda/energ\u00eda-el\u00e9ctrica",
+            "ingenieria": "tecnolog\u00eda/ingenieria",
+            "robotica": "tecnolog\u00eda/robotica",
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        }
+    }
+}

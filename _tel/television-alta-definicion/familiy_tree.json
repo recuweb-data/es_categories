@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "television-alta-definicion"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/television-alta-definicion/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/television-alta-definicion/television-alta-definicion/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/television-alta-definicion/television-alta-definicion/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/television-alta-definicion/television-alta-definicion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "television-alta-definicion": "tecnologia/telecomunicacion/tecnologia-de-video/television/television-alta-definicion"
+        },
+        "parents": {
+            "television": "tecnologia/telecomunicacion/tecnologia-de-video/television"
+        },
+        "sisters": {
+            "televisi\u00f3n-digital": "tecnologia/telecomunicacion/tecnologia-de-video/television/televisi\u00f3n-digital"
+        }
+    }
+}

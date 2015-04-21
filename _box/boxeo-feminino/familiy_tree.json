@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "boxeo-feminino"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/boxeo-feminino/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/boxeo-feminino/boxeo-feminino/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/boxeo-feminino/boxeo-feminino/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/boxeo-feminino/boxeo-feminino/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "boxeo-feminino": "deporte/deportes-de-lucha/boxeo/boxeo-feminino"
+        },
+        "parents": {
+            "boxeo": "deporte/deportes-de-lucha/boxeo"
+        },
+        "sisters": {
+            "boxeo-feminino": "deporte/deportes-de-lucha/boxeo/boxeo-feminino",
+            "boxeo-frances": "deporte/deportes-de-lucha/boxeo/boxeo-frances",
+            "boxeo-shaolin": "deporte/deportes-de-lucha/boxeo/boxeo-shaolin",
+            "kick-boxing": "deporte/deportes-de-lucha/boxeo/kick-boxing",
+            "muay-thai": "deporte/deportes-de-lucha/boxeo/muay-thai"
+        }
+    }
+}

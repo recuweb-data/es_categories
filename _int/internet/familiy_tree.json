@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "portal_name": "internet"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/internet/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/internet/internet/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/internet/internet/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/internet/internet/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "internet": "internet"
+        },
+        "children": {
+            "an\u00e1lisis-web": "internet/an\u00e1lisis-web",
+            "aplicaci\u00f3n-web": "internet/aplicaci\u00f3n-web",
+            "delito-inform\u00e1tico": "internet/delito-inform\u00e1tico",
+            "desarrollo-web": "internet/desarrollo-web",
+            "servicios-web": "internet/servicios-web"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "ciencia": "ciencia",
+            "cultura": "cultura",
+            "deporte": "deporte",
+            "economia": "economia",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "naturaleza": "naturaleza",
+            "pol\u00edtica": "pol\u00edtica",
+            "salud": "salud",
+            "sociedad": "sociedad",
+            "tecnolog\u00eda": "tecnolog\u00eda"
+        },
+        "grandchildren": {
+            "base-de-datos": "internet/desarrollo-web/base-de-datos",
+            "formatos-web": "internet/desarrollo-web/formatos-web",
+            "lenguajes-web": "internet/desarrollo-web/lenguajes-web",
+            "microblogging": "internet/servicios-web/microblogging",
+            "red-social": "internet/servicios-web/red-social"
+        }
+    }
+}

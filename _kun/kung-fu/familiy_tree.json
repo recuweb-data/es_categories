@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "kung-fu"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/kung-fu/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/kung-fu/kung-fu/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/kung-fu/kung-fu/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/kung-fu/kung-fu/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "kung-fu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos/kung-fu"
+        },
+        "parents": {
+            "artes-marciales-chinos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos"
+        },
+        "sisters": {
+            "kung-fu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos/kung-fu",
+            "wushu": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-chinos/wushu"
+        }
+    }
+}

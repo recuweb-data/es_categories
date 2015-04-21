@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "radares-aeronavaes"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/radares-aeronavaes/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/radares-aeronavaes/radares-aeronavaes/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/radares-aeronavaes/radares-aeronavaes/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/radares-aeronavaes/radares-aeronavaes/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "radares-aeronavaes": "tecnologia/electronica/aparatos-electronicos/radar/radares-aeronavaes"
+        },
+        "parents": {
+            "radar": "tecnologia/electronica/aparatos-electronicos/radar"
+        },
+        "sisters": {
+            "radares-aeronavaes": "tecnologia/electronica/aparatos-electronicos/radar/radares-aeronavaes"
+        }
+    }
+}

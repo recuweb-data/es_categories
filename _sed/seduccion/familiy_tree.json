@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "seduccion"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/seduccion/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/seduccion/seduccion/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/seduccion/seduccion/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/seduccion/seduccion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "seduccion": "lifestyle/desarrollo-personal/seduccion"
+        },
+        "parents": {
+            "desarrollo-personal": "lifestyle/desarrollo-personal"
+        },
+        "sisters": {
+            "discipline": "lifestyle/desarrollo-personal/discipline",
+            "felicidad": "lifestyle/desarrollo-personal/felicidad",
+            "meditaci\u00f3n": "lifestyle/desarrollo-personal/meditaci\u00f3n",
+            "prejuicio": "lifestyle/desarrollo-personal/prejuicio",
+            "seduccion": "lifestyle/desarrollo-personal/seduccion",
+            "superstici\u00f3n": "lifestyle/desarrollo-personal/superstici\u00f3n"
+        }
+    }
+}

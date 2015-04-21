@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "bellas-artes"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bellas-artes/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bellas-artes/bellas-artes/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bellas-artes/bellas-artes/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bellas-artes/bellas-artes/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bellas-artes": "cultura/bellas-artes"
+        },
+        "children": {
+            "cine": "cultura/bellas-artes/cine",
+            "danza": "cultura/bellas-artes/danza",
+            "escultura": "cultura/bellas-artes/escultura",
+            "fotografia": "cultura/bellas-artes/fotografia",
+            "literatura": "cultura/bellas-artes/literatura",
+            "m\u00fasica": "cultura/bellas-artes/m\u00fasica",
+            "pintura": "cultura/bellas-artes/pintura"
+        },
+        "parents": {
+            "cultura": "cultura"
+        },
+        "sisters": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero",
+            "bellas-artes": "cultura/bellas-artes",
+            "cultura-popular": "cultura/cultura-popular",
+            "economia": "cultura/economia",
+            "espiritualidad": "cultura/espiritualidad",
+            "humanidades": "cultura/humanidades",
+            "lenguaje": "cultura/lenguaje",
+            "religi\u00f3n": "cultura/religi\u00f3n",
+            "religion": "cultura/religion",
+            "ropa": "cultura/ropa"
+        }
+    }
+}

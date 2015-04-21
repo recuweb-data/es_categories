@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "google-plus"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/google-plus/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/google-plus/google-plus/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/google-plus/google-plus/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/google-plus/google-plus/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "google-plus": "internet/servicios-web/red-social/google-plus"
+        },
+        "parents": {
+            "red-social": "internet/servicios-web/red-social"
+        },
+        "sisters": {
+            "facebook": "internet/servicios-web/red-social/facebook",
+            "flickr": "internet/servicios-web/red-social/flickr",
+            "google-plus": "internet/servicios-web/red-social/google-plus",
+            "linkedin": "internet/servicios-web/red-social/linkedin",
+            "tuenti": "internet/servicios-web/red-social/tuenti"
+        }
+    }
+}

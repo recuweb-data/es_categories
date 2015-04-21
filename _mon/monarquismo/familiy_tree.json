@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "monarquismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/monarquismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/monarquismo/monarquismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/monarquismo/monarquismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/monarquismo/monarquismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "monarquismo": "pol\u00edtica/ideologia-politica/monarquismo"
+        },
+        "children": {
+            "familia-real": "pol\u00edtica/ideologia-politica/monarquismo/familia-real",
+            "imperio": "pol\u00edtica/ideologia-politica/monarquismo/imperio"
+        },
+        "parents": {
+            "ideologia-politica": "pol\u00edtica/ideologia-politica"
+        },
+        "sisters": {
+            "capitalismo": "pol\u00edtica/ideologia-politica/capitalismo"
+        }
+    }
+}

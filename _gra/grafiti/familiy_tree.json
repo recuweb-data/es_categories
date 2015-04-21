@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "grafiti"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/grafiti/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "grafiti": "cultura/arte-ef\u00edmero/arte-urbano/grafiti"
+        },
+        "parents": {
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano"
+        },
+        "sisters": {
+            "grafiti": "cultura/arte-ef\u00edmero/arte-urbano/grafiti"
+        }
+    }
+}

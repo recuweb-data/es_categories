@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "ecologismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ecologismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ecologismo/ecologismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ecologismo/ecologismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ecologismo/ecologismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo"
+        },
+        "children": {
+            "crisis-ecol\u00f3gica": "pol\u00edtica/movimiento-social/ecologismo/crisis-ecol\u00f3gica",
+            "eventos-ecologistas": "pol\u00edtica/movimiento-social/ecologismo/eventos-ecologistas",
+            "medio-ambiente": "pol\u00edtica/movimiento-social/ecologismo/medio-ambiente",
+            "movimiento-ecologista": "pol\u00edtica/movimiento-social/ecologismo/movimiento-ecologista",
+            "pol\u00edtica-verde": "pol\u00edtica/movimiento-social/ecologismo/pol\u00edtica-verde"
+        },
+        "parents": {
+            "movimiento-social": "pol\u00edtica/movimiento-social"
+        },
+        "sisters": {
+            "agrarismo": "pol\u00edtica/movimiento-social/agrarismo",
+            "ecologismo": "pol\u00edtica/movimiento-social/ecologismo",
+            "feminismo": "pol\u00edtica/movimiento-social/feminismo",
+            "indigenismo": "pol\u00edtica/movimiento-social/indigenismo",
+            "lobby": "pol\u00edtica/movimiento-social/lobby"
+        }
+    }
+}

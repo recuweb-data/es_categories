@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "hapkido"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hapkido/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hapkido": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-coreanos/hapkido"
+        },
+        "parents": {
+            "artes-marciales-coreanos": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-coreanos"
+        },
+        "sisters": {
+            "hapkido": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-coreanos/hapkido",
+            "taekwondo": "deporte/deportes-de-lucha/arte-marcial/artes-marciales-asiaticos/artes-marciales-coreanos/taekwondo"
+        }
+    }
+}

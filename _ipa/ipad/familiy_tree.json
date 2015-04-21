@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "ipad"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ipad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ipad/ipad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ipad/ipad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipad/ipad/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ipad": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipad"
+        },
+        "parents": {
+            "hardware-apple": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple"
+        },
+        "sisters": {
+            "ipad": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipad",
+            "iphone": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/iphone",
+            "ipod": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/ipod",
+            "macintosh": "tecnolog\u00eda/electronica/aparato-electr\u00f3nico/hardware/empresas-de-hardware/hardware-apple/macintosh"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "arte-ambiental"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-ambiental/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental"
+        },
+        "parents": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "sisters": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        }
+    }
+}

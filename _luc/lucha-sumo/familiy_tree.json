@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "lucha-sumo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lucha-sumo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lucha-sumo/lucha-sumo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lucha-sumo/lucha-sumo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lucha-sumo/lucha-sumo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lucha-sumo": "deporte/deportes-de-lucha/luchas-libres/lucha-sumo"
+        },
+        "parents": {
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres"
+        },
+        "sisters": {
+            "lucha-grecorromana": "deporte/deportes-de-lucha/luchas-libres/lucha-grecorromana",
+            "lucha-libre": "deporte/deportes-de-lucha/luchas-libres/lucha-libre",
+            "lucha-sumo": "deporte/deportes-de-lucha/luchas-libres/lucha-sumo"
+        }
+    }
+}

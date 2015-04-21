@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "pirotecnica"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pirotecnica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pirotecnica/pirotecnica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pirotecnica/pirotecnica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pirotecnica/pirotecnica/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica"
+        },
+        "parents": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "sisters": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        }
+    }
+}

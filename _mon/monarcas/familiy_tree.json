@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "monarcas"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/monarcas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/monarcas/monarcas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/monarcas/monarcas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/monarcas/monarcas/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "monarcas": "politica/ideologias-politicas/monarquismo/monarcas"
+        },
+        "parents": {
+            "monarquismo": "politica/ideologias-politicas/monarquismo"
+        },
+        "sisters": {
+            "dinastias": "politica/ideologias-politicas/monarquismo/dinastias"
+        }
+    }
+}

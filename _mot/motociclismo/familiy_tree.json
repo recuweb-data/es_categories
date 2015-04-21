@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "portal_name": "motociclismo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/motociclismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "motociclismo": "deporte/deportes-de-motor/motociclismo"
+        },
+        "children": {
+            "motocross": "deporte/deportes-de-motor/motociclismo/motocross",
+            "rally-raid": "deporte/deportes-de-motor/motociclismo/rally-raid",
+            "snocross": "deporte/deportes-de-motor/motociclismo/snocross",
+            "superbike": "deporte/deportes-de-motor/motociclismo/superbike"
+        },
+        "parents": {
+            "deportes-de-motor": "deporte/deportes-de-motor"
+        },
+        "sisters": {
+            "aeronautica": "deporte/deportes-de-motor/aeronautica",
+            "automovilismo": "deporte/deportes-de-motor/automovilismo",
+            "motociclismo": "deporte/deportes-de-motor/motociclismo",
+            "motonautica": "deporte/deportes-de-motor/motonautica"
+        },
+        "grandchildren": {
+            "endurocross": "deporte/deportes-de-motor/motociclismo/motocross/endurocross",
+            "motociclismo-estilo-libre": "deporte/deportes-de-motor/motociclismo/motocross/motociclismo-estilo-libre",
+            "trial-de-motociclismo": "deporte/deportes-de-motor/motociclismo/motocross/trial-de-motociclismo",
+            "rally-dakar": "deporte/deportes-de-motor/motociclismo/rally-raid/rally-dakar",
+            "speedway": "deporte/deportes-de-motor/motociclismo/superbike/speedway"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "descenso-de-r\u00edos"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/descenso-de-r\u00edos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/descenso-de-r%C3%ADos/descenso-de-r%C3%ADos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/descenso-de-r%C3%ADos/descenso-de-r%C3%ADos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/descenso-de-r%C3%ADos/descenso-de-r%C3%ADos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "descenso-de-r\u00edos": "deporte/deportes-acuaticos/descenso-de-r\u00edos"
+        },
+        "parents": {
+            "deportes-acuaticos": "deporte/deportes-acuaticos"
+        },
+        "sisters": {
+            "apnea": "deporte/deportes-acuaticos/apnea",
+            "bodyboarding": "deporte/deportes-acuaticos/bodyboarding",
+            "descenso-de-r\u00edos": "deporte/deportes-acuaticos/descenso-de-r\u00edos",
+            "esqu\u00ed-acu\u00e1tico": "deporte/deportes-acuaticos/esqu\u00ed-acu\u00e1tico",
+            "natacion": "deporte/deportes-acuaticos/natacion",
+            "pesca-deportiva": "deporte/deportes-acuaticos/pesca-deportiva",
+            "pirag\u00fcismo": "deporte/deportes-acuaticos/pirag\u00fcismo",
+            "regata": "deporte/deportes-acuaticos/regata",
+            "velas-ligeras": "deporte/deportes-acuaticos/velas-ligeras",
+            "waterpolo": "deporte/deportes-acuaticos/waterpolo"
+        }
+    }
+}

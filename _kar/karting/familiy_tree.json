@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "karting"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/karting/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/karting/karting/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/karting/karting/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/karting/karting/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "karting": "deporte/deportes-de-motor/automovilismo/karting"
+        },
+        "parents": {
+            "automovilismo": "deporte/deportes-de-motor/automovilismo"
+        },
+        "sisters": {
+            "automovilismo-de-velocidad": "deporte/deportes-de-motor/automovilismo/automovilismo-de-velocidad",
+            "drifting": "deporte/deportes-de-motor/automovilismo/drifting",
+            "karting": "deporte/deportes-de-motor/automovilismo/karting",
+            "rally": "deporte/deportes-de-motor/automovilismo/rally"
+        }
+    }
+}

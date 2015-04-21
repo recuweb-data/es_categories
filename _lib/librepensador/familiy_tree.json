@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "librepensador"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/librepensador/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/librepensador/librepensador/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/librepensador/librepensador/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/librepensador/librepensador/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "librepensador": "politica/teorias-eticas/humanismo/librepensador"
+        },
+        "parents": {
+            "humanismo": "politica/teorias-eticas/humanismo"
+        },
+        "sisters": {
+            "librepensador": "politica/teorias-eticas/humanismo/librepensador"
+        }
+    }
+}

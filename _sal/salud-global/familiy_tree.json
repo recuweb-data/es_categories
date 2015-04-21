@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "salud-global"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/salud-global/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/salud-global/salud-global/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/salud-global/salud-global/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/salud-global/salud-global/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "salud-global": "politica/globalizacion/salud-global"
+        },
+        "parents": {
+            "globalizacion": "politica/globalizacion"
+        },
+        "sisters": {
+            "comercio-libre": "politica/globalizacion/comercio-libre"
+        }
+    }
+}

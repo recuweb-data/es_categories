@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-solar"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-solar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-solar/energ%C3%ADa-solar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-solar/energ%C3%ADa-solar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-solar/energ%C3%ADa-solar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "energ\u00eda-solar": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/energ\u00eda-solar"
+        },
+        "parents": {
+            "energ\u00eda-renovable": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable"
+        },
+        "sisters": {
+            "biomasa": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/biomasa",
+            "energ\u00eda-cin\u00e9tica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/energ\u00eda-cin\u00e9tica",
+            "energ\u00eda-e\u00f3lica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/energ\u00eda-e\u00f3lica",
+            "potencia-osmotica": "tecnologia/energ\u00eda-el\u00e9ctrica/energ\u00eda-renovable/potencia-osmotica"
+        }
+    }
+}

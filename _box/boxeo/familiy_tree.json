@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "boxeo"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/boxeo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/boxeo/boxeo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/boxeo/boxeo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/boxeo/boxeo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "boxeo": "deporte/deportes-de-lucha/boxeo"
+        },
+        "children": {
+            "boxeo-feminino": "deporte/deportes-de-lucha/boxeo/boxeo-feminino",
+            "boxeo-frances": "deporte/deportes-de-lucha/boxeo/boxeo-frances",
+            "boxeo-shaolin": "deporte/deportes-de-lucha/boxeo/boxeo-shaolin",
+            "kick-boxing": "deporte/deportes-de-lucha/boxeo/kick-boxing",
+            "muay-thai": "deporte/deportes-de-lucha/boxeo/muay-thai"
+        },
+        "parents": {
+            "deportes-de-lucha": "deporte/deportes-de-lucha"
+        },
+        "sisters": {
+            "arte-marcial": "deporte/deportes-de-lucha/arte-marcial",
+            "boxeo": "deporte/deportes-de-lucha/boxeo",
+            "esgrima": "deporte/deportes-de-lucha/esgrima",
+            "luchas-libres": "deporte/deportes-de-lucha/luchas-libres"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "servidor-http-apache"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/servidor-http-apache/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "servidor-http-apache": "internet/desarrollo-web/lenguajes-web/php/servidor-http-apache"
+        },
+        "parents": {
+            "php": "internet/desarrollo-web/lenguajes-web/php"
+        },
+        "sisters": {
+            "servidor-http-apache": "internet/desarrollo-web/lenguajes-web/php/servidor-http-apache",
+            "xampp": "internet/desarrollo-web/lenguajes-web/php/xampp"
+        }
+    }
+}

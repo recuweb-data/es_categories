@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "muay-thai"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/muay-thai/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/muay-thai/muay-thai/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/muay-thai/muay-thai/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/muay-thai/muay-thai/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "muay-thai": "deporte/deportes-de-lucha/boxeo/muay-thai"
+        },
+        "parents": {
+            "boxeo": "deporte/deportes-de-lucha/boxeo"
+        },
+        "sisters": {
+            "boxeo-feminino": "deporte/deportes-de-lucha/boxeo/boxeo-feminino",
+            "boxeo-frances": "deporte/deportes-de-lucha/boxeo/boxeo-frances",
+            "boxeo-shaolin": "deporte/deportes-de-lucha/boxeo/boxeo-shaolin",
+            "kick-boxing": "deporte/deportes-de-lucha/boxeo/kick-boxing",
+            "muay-thai": "deporte/deportes-de-lucha/boxeo/muay-thai"
+        }
+    }
+}

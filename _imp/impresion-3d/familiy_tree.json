@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "impresion-3d"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/impresion-3d/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/impresion-3d/impresion-3d/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/impresion-3d/impresion-3d/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/impresion-3d/impresion-3d/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "impresion-3d": "tecnologia/robotica/impresion-3d"
+        },
+        "parents": {
+            "robotica": "tecnologia/robotica"
+        },
+        "sisters": {
+            "exoesqueletos": "tecnologia/robotica/exoesqueletos"
+        }
+    }
+}

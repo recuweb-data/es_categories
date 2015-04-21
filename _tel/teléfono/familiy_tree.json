@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "tel\u00e9fono"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tel\u00e9fono/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tel%C3%A9fono/tel%C3%A9fono/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tel%C3%A9fono/tel%C3%A9fono/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tel%C3%A9fono/tel%C3%A9fono/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tel\u00e9fono": "tecnolog\u00eda/telecomunicacion/tel\u00e9fono"
+        },
+        "children": {
+            "servicios-telefonicos": "tecnolog\u00eda/telecomunicacion/tel\u00e9fono/servicios-telefonicos",
+            "telefon\u00eda-m\u00f3vil": "tecnolog\u00eda/telecomunicacion/tel\u00e9fono/telefon\u00eda-m\u00f3vil"
+        },
+        "parents": {
+            "telecomunicacion": "tecnolog\u00eda/telecomunicacion"
+        },
+        "sisters": {
+            "internet": "tecnolog\u00eda/telecomunicacion/internet",
+            "radio": "tecnolog\u00eda/telecomunicacion/radio",
+            "sistema-de-gps": "tecnolog\u00eda/telecomunicacion/sistema-de-gps",
+            "tecnologia-de-video": "tecnolog\u00eda/telecomunicacion/tecnologia-de-video",
+            "tel\u00e9fono": "tecnolog\u00eda/telecomunicacion/tel\u00e9fono"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "socialdemocracia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/socialdemocracia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/socialdemocracia/socialdemocracia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/socialdemocracia/socialdemocracia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/socialdemocracia/socialdemocracia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "socialdemocracia": "pol\u00edtica/ideologia-politica/socialismo/socialdemocracia"
+        },
+        "parents": {
+            "socialismo": "pol\u00edtica/ideologia-politica/socialismo"
+        },
+        "sisters": {
+            "comunismo": "pol\u00edtica/ideologia-politica/socialismo/comunismo",
+            "marxismo": "pol\u00edtica/ideologia-politica/socialismo/marxismo",
+            "socialdemocracia": "pol\u00edtica/ideologia-politica/socialismo/socialdemocracia"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "portal_name": "arte-ef\u00edmero"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-ef\u00edmero/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-ef%C3%ADmero/arte-ef%C3%ADmero/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-ef%C3%ADmero/arte-ef%C3%ADmero/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-ef%C3%ADmero/arte-ef%C3%ADmero/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero"
+        },
+        "children": {
+            "arte-ambiental": "cultura/arte-ef\u00edmero/arte-ambiental",
+            "arte-urbano": "cultura/arte-ef\u00edmero/arte-urbano",
+            "gastronom\u00eda": "cultura/arte-ef\u00edmero/gastronom\u00eda",
+            "moda": "cultura/arte-ef\u00edmero/moda",
+            "pirotecnica": "cultura/arte-ef\u00edmero/pirotecnica",
+            "tatuaje": "cultura/arte-ef\u00edmero/tatuaje"
+        },
+        "parents": {
+            "cultura": "cultura"
+        },
+        "sisters": {
+            "arte-ef\u00edmero": "cultura/arte-ef\u00edmero",
+            "bellas-artes": "cultura/bellas-artes",
+            "cultura-popular": "cultura/cultura-popular",
+            "economia": "cultura/economia",
+            "espiritualidad": "cultura/espiritualidad",
+            "humanidades": "cultura/humanidades",
+            "lenguaje": "cultura/lenguaje",
+            "religi\u00f3n": "cultura/religi\u00f3n",
+            "religion": "cultura/religion",
+            "ropa": "cultura/ropa"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "tauromaquia"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tauromaquia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tauromaquia/tauromaquia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tauromaquia/tauromaquia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tauromaquia/tauromaquia/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "tauromaquia": "cultura/cultura-popular/tauromaquia"
+        },
+        "children": {
+            "cultura-taurina": "cultura/cultura-popular/tauromaquia/cultura-taurina",
+            "encierro": "cultura/cultura-popular/tauromaquia/encierro",
+            "encierros-taurinos": "cultura/cultura-popular/tauromaquia/encierros-taurinos",
+            "ferias-taurinas": "cultura/cultura-popular/tauromaquia/ferias-taurinas",
+            "ganaderias": "cultura/cultura-popular/tauromaquia/ganaderias",
+            "rejoneos": "cultura/cultura-popular/tauromaquia/rejoneos",
+            "torero": "cultura/cultura-popular/tauromaquia/torero"
+        },
+        "parents": {
+            "cultura-popular": "cultura/cultura-popular"
+        },
+        "sisters": {
+            "altruismo": "cultura/cultura-popular/altruismo",
+            "coleccionismo": "cultura/cultura-popular/coleccionismo",
+            "tauromaquia": "cultura/cultura-popular/tauromaquia",
+            "tradici\u00f3n": "cultura/cultura-popular/tradici\u00f3n"
+        }
+    }
+}

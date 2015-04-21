@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "sistema-de-gps"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sistema-de-gps/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sistema-de-gps/sistema-de-gps/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sistema-de-gps/sistema-de-gps/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sistema-de-gps/sistema-de-gps/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sistema-de-gps": "tecnologia/telecomunicacion/sistema-de-gps"
+        },
+        "parents": {
+            "telecomunicacion": "tecnologia/telecomunicacion"
+        },
+        "sisters": {
+            "sistema-de-gps": "tecnologia/telecomunicacion/sistema-de-gps",
+            "tecnologia-de-video": "tecnologia/telecomunicacion/tecnologia-de-video",
+            "tel\u00e9fono": "tecnologia/telecomunicacion/tel\u00e9fono"
+        }
+    }
+}

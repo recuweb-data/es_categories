@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "arte-ef\u00edmero",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-ef\u00edmero/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-ef%C3%ADmero/arte-ef%C3%ADmero/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-ef%C3%ADmero/arte-ef%C3%ADmero/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-ef%C3%ADmero/arte-ef%C3%ADmero/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Arte ef\u00edmero",
+            "term_title_slug": "arte-ef\u00edmero"
+        },
+        "fr": {
+            "term_title": "Art \u00e9ph\u00e9m\u00e8re",
+            "term_title_slug": "art-\u00e9ph\u00e9m\u00e8re"
+        },
+        "en": {
+            "term_title": "Ephemeral art",
+            "term_title_slug": "ephemeral-art"
+        }
+    }
+}

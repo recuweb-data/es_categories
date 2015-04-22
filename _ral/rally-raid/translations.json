@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "rally-raid",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rally-raid/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Rally raid",
+            "term_title_slug": "rally-raid",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Rally raid",
+            "term_title_slug": "rally-raid"
+        },
+        "fr": {
+            "term_title": "Rallye-raid",
+            "term_title_slug": "rallye-raid"
+        }
+    }
+}

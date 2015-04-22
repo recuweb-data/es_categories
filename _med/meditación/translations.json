@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "meditaci\u00f3n",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/meditaci\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Meditaci\u00f3n",
+            "term_title_slug": "meditaci\u00f3n",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Meditation",
+            "term_title_slug": "meditation"
+        },
+        "fr": {
+            "term_title": "M\u00e9ditation",
+            "term_title_slug": "m\u00e9ditation"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "portal_name": "mon\u00e1rquico",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mon\u00e1rquico/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mon%C3%A1rquico/mon%C3%A1rquico/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mon%C3%A1rquico/mon%C3%A1rquico/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mon%C3%A1rquico/mon%C3%A1rquico/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Mon\u00e1rquico",
+            "term_title_slug": "mon\u00e1rquico"
+        }
+    }
+}

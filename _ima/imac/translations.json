@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "imac",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/imac/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/imac/imac/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/imac/imac/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/imac/imac/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IMac",
+            "term_title_slug": "imac",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IMac",
+            "term_title_slug": "imac"
+        },
+        "fr": {
+            "term_title": "IMac",
+            "term_title_slug": "imac"
+        }
+    }
+}

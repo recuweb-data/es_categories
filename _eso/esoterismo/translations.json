@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "esoterismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/esoterismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/esoterismo/esoterismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/esoterismo/esoterismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/esoterismo/esoterismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Esoterismo",
+            "term_title_slug": "esoterismo"
+        },
+        "en": {
+            "term_title": "Esotericism",
+            "term_title_slug": "esotericism"
+        },
+        "fr": {
+            "term_title": "\u00c9sot\u00e9risme",
+            "term_title_slug": "\u00e9sot\u00e9risme"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "fascismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/fascismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/fascismo/fascismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/fascismo/fascismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/fascismo/fascismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Fascismo",
+            "term_title_slug": "fascismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Fascism",
+            "term_title_slug": "fascism"
+        },
+        "fr": {
+            "term_title": "Fascisme",
+            "term_title_slug": "fascisme"
+        }
+    }
+}

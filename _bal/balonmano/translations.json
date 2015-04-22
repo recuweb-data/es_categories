@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "balonmano",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/balonmano/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/balonmano/balonmano/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/balonmano/balonmano/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/balonmano/balonmano/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Balonmano",
+            "term_title_slug": "balonmano",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Handball",
+            "term_title_slug": "handball"
+        },
+        "fr": {
+            "term_title": "Handball",
+            "term_title_slug": "handball"
+        }
+    }
+}

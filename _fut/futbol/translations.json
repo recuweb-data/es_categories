@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "futbol",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/futbol/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/futbol/futbol/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/futbol/futbol/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/futbol/futbol/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "F\u00fatbol",
+            "term_title_slug": "futbol",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Association football",
+            "term_title_slug": "association-football"
+        },
+        "fr": {
+            "term_title": "Football",
+            "term_title_slug": "football"
+        }
+    }
+}

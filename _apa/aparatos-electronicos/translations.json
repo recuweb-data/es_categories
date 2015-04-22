@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "aparatos-electronicos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/aparatos-electronicos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Electronic device",
+            "term_title_slug": "electronic-device"
+        },
+        "es": {
+            "term_title": "Aparato electr\u00f3nico",
+            "term_title_slug": "aparato-electr\u00f3nico"
+        },
+        "fr": {
+            "term_title": "Appareil \u00e9lectronique",
+            "term_title_slug": "appareil-\u00e9lectronique"
+        }
+    }
+}

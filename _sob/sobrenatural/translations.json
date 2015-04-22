@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "sobrenatural",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sobrenatural/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sobrenatural/sobrenatural/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sobrenatural/sobrenatural/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sobrenatural/sobrenatural/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Sobrenatural",
+            "term_title_slug": "sobrenatural"
+        },
+        "en": {
+            "term_title": "Supernatural",
+            "term_title_slug": "supernatural"
+        },
+        "fr": {
+            "term_title": "Surnaturel",
+            "term_title_slug": "surnaturel"
+        }
+    }
+}

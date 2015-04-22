@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pagano",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pagano/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pagano/pagano/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pagano/pagano/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pagano/pagano/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pagano",
+            "term_title_slug": "pagano"
+        },
+        "en": {
+            "term_title": "Paganism",
+            "term_title_slug": "paganism"
+        },
+        "fr": {
+            "term_title": "Paganisme",
+            "term_title_slug": "paganisme"
+        }
+    }
+}

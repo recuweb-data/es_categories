@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "videoclip",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/videoclip/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Videoclip",
+            "term_title_slug": "videoclip",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Music video",
+            "term_title_slug": "music-video"
+        },
+        "fr": {
+            "term_title": "Clip",
+            "term_title_slug": "clip"
+        }
+    }
+}

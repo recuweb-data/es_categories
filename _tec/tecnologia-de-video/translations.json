@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tecnologia-de-video",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tecnologia-de-video/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tecnologia-de-video/tecnologia-de-video/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tecnologia-de-video/tecnologia-de-video/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tecnologia-de-video/tecnologia-de-video/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Video technology",
+            "term_title_slug": "video-technology"
+        },
+        "es": {
+            "term_title": "Tecnolog\u00eda de v\u00eddeo",
+            "term_title_slug": "tecnolog\u00eda-de-v\u00eddeo"
+        },
+        "fr": {
+            "term_title": "Technologie vid\u00e9o",
+            "term_title_slug": "technologie-vid\u00e9o"
+        }
+    }
+}

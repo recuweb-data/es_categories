@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "escalada-en-hielo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/escalada-en-hielo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/escalada-en-hielo/escalada-en-hielo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/escalada-en-hielo/escalada-en-hielo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/escalada-en-hielo/escalada-en-hielo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Escalada en hielo",
+            "term_title_slug": "escalada-en-hielo"
+        },
+        "en": {
+            "term_title": "Ice climbing",
+            "term_title_slug": "ice-climbing"
+        },
+        "fr": {
+            "term_title": "Escalade glaciaire",
+            "term_title_slug": "escalade-glaciaire"
+        }
+    }
+}

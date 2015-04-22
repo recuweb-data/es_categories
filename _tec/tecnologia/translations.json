@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tecnologia",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tecnologia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tecnologia/tecnologia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tecnologia/tecnologia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tecnologia/tecnologia/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tecnolog\u00eda",
+            "term_title_slug": "tecnologia"
+        },
+        "en": {
+            "term_title": "Technology",
+            "term_title_slug": "technology"
+        },
+        "fr": {
+            "term_title": "Technologie",
+            "term_title_slug": "technologie"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "artes-marciales-asiaticos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/artes-marciales-asiaticos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/artes-marciales-asiaticos/artes-marciales-asiaticos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/artes-marciales-asiaticos/artes-marciales-asiaticos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/artes-marciales-asiaticos/artes-marciales-asiaticos/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Asian martial arts",
+            "term_title_slug": "asian-martial-arts",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts"
+        },
+        "es": {
+            "term_title": "Artes marciales asiaticos",
+            "term_title_slug": "artes-marciales-asiaticos",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Art martial asiatique",
+            "term_title_slug": "art-martial-asiatique"
+        }
+    }
+}

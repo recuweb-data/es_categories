@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "misticismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/misticismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/misticismo/misticismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/misticismo/misticismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/misticismo/misticismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Misticismo",
+            "term_title_slug": "misticismo"
+        },
+        "en": {
+            "term_title": "Mysticism",
+            "term_title_slug": "mysticism"
+        },
+        "fr": {
+            "term_title": "Mystique",
+            "term_title_slug": "mystique"
+        }
+    }
+}

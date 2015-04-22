@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "espiritualidad",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/espiritualidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/espiritualidad/espiritualidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/espiritualidad/espiritualidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/espiritualidad/espiritualidad/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Spirituality",
+            "term_title_slug": "spirituality",
+            "branche": "lifestyle/philosophy-of-life/spirituality"
+        },
+        "es": {
+            "term_title": "Espiritualidad",
+            "term_title_slug": "espiritualidad",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Spiritualit\u00e9",
+            "term_title_slug": "spiritualit\u00e9",
+            "branche": ""
+        }
+    }
+}

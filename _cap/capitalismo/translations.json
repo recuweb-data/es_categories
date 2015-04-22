@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "capitalismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/capitalismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/capitalismo/capitalismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/capitalismo/capitalismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/capitalismo/capitalismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Capitalismo",
+            "term_title_slug": "capitalismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Capitalism",
+            "term_title_slug": "capitalism"
+        },
+        "fr": {
+            "term_title": "Capitalisme",
+            "term_title_slug": "capitalisme"
+        }
+    }
+}

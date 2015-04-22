@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "joomla",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/joomla/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/joomla/joomla/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/joomla/joomla/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Joomla",
+            "term_title_slug": "joomla",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Joomla",
+            "term_title_slug": "joomla"
+        },
+        "fr": {
+            "term_title": "Joomla!",
+            "term_title_slug": "joomla"
+        }
+    }
+}

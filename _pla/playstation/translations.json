@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "playstation",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/playstation/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/playstation/playstation/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/playstation/playstation/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/playstation/playstation/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "PlayStation",
+            "term_title_slug": "playstation",
+            "branche": "lifestyle/video-game/playstation"
+        },
+        "es": {
+            "term_title": "PlayStation (marca)",
+            "term_title_slug": "playstation",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "PlayStation (marque)",
+            "term_title_slug": "playstation"
+        }
+    }
+}

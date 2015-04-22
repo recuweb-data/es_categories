@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "endurocross",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/endurocross/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Endurocross",
+            "term_title_slug": "endurocross"
+        },
+        "en": {
+            "term_title": "Endurocross",
+            "term_title_slug": "endurocross"
+        }
+    }
+}

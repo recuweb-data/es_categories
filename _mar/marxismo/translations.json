@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "marxismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/marxismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/marxismo/marxismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/marxismo/marxismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/marxismo/marxismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Marxismo",
+            "term_title_slug": "marxismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Marxism",
+            "term_title_slug": "marxism"
+        },
+        "fr": {
+            "term_title": "Marxisme",
+            "term_title_slug": "marxisme"
+        }
+    }
+}

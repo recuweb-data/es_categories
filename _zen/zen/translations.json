@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "zen",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/zen/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/zen/zen/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/zen/zen/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/zen/zen/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Zen",
+            "term_title_slug": "zen",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Zen",
+            "term_title_slug": "zen"
+        },
+        "fr": {
+            "term_title": "Zen",
+            "term_title_slug": "zen"
+        }
+    }
+}

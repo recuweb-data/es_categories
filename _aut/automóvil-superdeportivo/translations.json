@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "autom\u00f3vil-superdeportivo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/autom\u00f3vil-superdeportivo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/autom%C3%B3vil-superdeportivo/autom%C3%B3vil-superdeportivo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/autom%C3%B3vil-superdeportivo/autom%C3%B3vil-superdeportivo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/autom%C3%B3vil-superdeportivo/autom%C3%B3vil-superdeportivo/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Supercar",
+            "term_title_slug": "supercar",
+            "branche": "sport/motorsport/auto-racing/road-racing/supercar"
+        },
+        "es": {
+            "term_title": "Autom\u00f3vil superdeportivo",
+            "term_title_slug": "autom\u00f3vil-superdeportivo",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Supercar",
+            "term_title_slug": "supercar"
+        }
+    }
+}

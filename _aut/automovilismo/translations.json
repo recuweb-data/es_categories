@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "automovilismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/automovilismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/automovilismo/automovilismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/automovilismo/automovilismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/automovilismo/automovilismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Automovilismo",
+            "term_title_slug": "automovilismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Auto racing",
+            "term_title_slug": "auto-racing"
+        },
+        "fr": {
+            "term_title": "Comp\u00e9tition automobile",
+            "term_title_slug": "competition-automobile"
+        }
+    }
+}

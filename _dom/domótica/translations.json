@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "dom\u00f3tica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/dom\u00f3tica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/dom%C3%B3tica/dom%C3%B3tica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/dom%C3%B3tica/dom%C3%B3tica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/dom%C3%B3tica/dom%C3%B3tica/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Dom\u00f3tica",
+            "term_title_slug": "dom\u00f3tica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Home automation",
+            "term_title_slug": "home-automation"
+        },
+        "fr": {
+            "term_title": "Domotique",
+            "term_title_slug": "domotique"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-solar",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-solar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-solar/energ%C3%ADa-solar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-solar/energ%C3%ADa-solar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-solar/energ%C3%ADa-solar/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Solar energy",
+            "term_title_slug": "solar-energy",
+            "branche": "technology/electric-energy/renewable-energy/solar-energy"
+        },
+        "es": {
+            "term_title": "Energ\u00eda solar",
+            "term_title_slug": "energ\u00eda-solar",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "\u00c9nergie solaire",
+            "term_title_slug": "\u00e9nergie-solaire",
+            "branche": ""
+        }
+    }
+}

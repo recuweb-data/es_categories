@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "lifestyle",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lifestyle/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lifestyle/lifestyle/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lifestyle/lifestyle/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Lifestyle",
+            "term_title_slug": "lifestyle",
+            "branche": "lifestyle"
+        },
+        "es": {
+            "term_title": "Lifestyle",
+            "term_title_slug": "lifestyle",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Lifestyle",
+            "term_title_slug": "lifestyle"
+        }
+    }
+}

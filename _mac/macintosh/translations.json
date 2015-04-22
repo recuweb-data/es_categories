@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "macintosh",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/macintosh/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/macintosh/macintosh/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/macintosh/macintosh/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/macintosh/macintosh/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Macintosh",
+            "term_title_slug": "macintosh",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/macintosh"
+        },
+        "es": {
+            "term_title": "Macintosh",
+            "term_title_slug": "macintosh",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Macintosh",
+            "term_title_slug": "macintosh"
+        }
+    }
+}

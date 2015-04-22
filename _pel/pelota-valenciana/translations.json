@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "pelota-valenciana",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pelota-valenciana/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pelota-valenciana/pelota-valenciana/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pelota-valenciana/pelota-valenciana/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pelota-valenciana/pelota-valenciana/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pelota valenciana",
+            "term_title_slug": "pelota-valenciana",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Valencian pilota",
+            "term_title_slug": "valencian-pilota"
+        },
+        "fr": {
+            "term_title": "Pelote valencienne",
+            "term_title_slug": "pelote-valencienne"
+        }
+    }
+}

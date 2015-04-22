@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "consumismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/consumismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/consumismo/consumismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/consumismo/consumismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/consumismo/consumismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Consumismo",
+            "term_title_slug": "consumismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Consumerism",
+            "term_title_slug": "consumerism"
+        },
+        "fr": {
+            "term_title": "Consum\u00e9risme",
+            "term_title_slug": "consum\u00e9risme"
+        }
+    }
+}

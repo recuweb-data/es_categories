@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "jquery",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/jquery/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/jquery/jquery/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/jquery/jquery/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "JQuery",
+            "term_title_slug": "jquery",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "JQuery",
+            "term_title_slug": "jquery"
+        },
+        "fr": {
+            "term_title": "JQuery",
+            "term_title_slug": "jquery"
+        }
+    }
+}

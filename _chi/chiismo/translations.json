@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "chiismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/chiismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/chiismo/chiismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/chiismo/chiismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/chiismo/chiismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Chiismo",
+            "term_title_slug": "chiismo"
+        },
+        "en": {
+            "term_title": "Shia Islam",
+            "term_title_slug": "shia-islam"
+        },
+        "fr": {
+            "term_title": "Chiisme",
+            "term_title_slug": "chiisme"
+        }
+    }
+}

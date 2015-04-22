@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "publicidad-contextual",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/publicidad-contextual/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/publicidad-contextual/publicidad-contextual/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/publicidad-contextual/publicidad-contextual/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/publicidad-contextual/publicidad-contextual/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Contextual advertising",
+            "term_title_slug": "contextual-advertising"
+        },
+        "es": {
+            "term_title": "Publicidad contextual",
+            "term_title_slug": "publicidad-contextual"
+        },
+        "fr": {
+            "term_title": "Publicit\u00e9 contextuelle",
+            "term_title_slug": "publicit\u00e9-contextuelle"
+        }
+    }
+}

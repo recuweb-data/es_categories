@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "curacion-sobrenatural",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/curacion-sobrenatural/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/curacion-sobrenatural/curacion-sobrenatural/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/curacion-sobrenatural/curacion-sobrenatural/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/curacion-sobrenatural/curacion-sobrenatural/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Curaci\u00f3n a trav\u00e9s de la fe",
+            "term_title_slug": "curaci\u00f3n-trav\u00e9s-de-la-fe"
+        },
+        "en": {
+            "term_title": "Faith healing",
+            "term_title_slug": "faith-healing"
+        },
+        "fr": {
+            "term_title": "Pratique \u00e9nerg\u00e9tique",
+            "term_title_slug": "pratique-\u00e9nerg\u00e9tique"
+        }
+    }
+}

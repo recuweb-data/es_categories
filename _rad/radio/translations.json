@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "radio",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/radio/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/radio/radio/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/radio/radio/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/radio/radio/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Radio",
+            "term_title_slug": "radio",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Radio (disambiguation)",
+            "term_title_slug": "radio"
+        },
+        "fr": {
+            "term_title": "Radio",
+            "term_title_slug": "radio"
+        }
+    }
+}

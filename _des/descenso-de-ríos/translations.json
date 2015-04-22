@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "descenso-de-r\u00edos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/descenso-de-r\u00edos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/descenso-de-r%C3%ADos/descenso-de-r%C3%ADos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/descenso-de-r%C3%ADos/descenso-de-r%C3%ADos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/descenso-de-r%C3%ADos/descenso-de-r%C3%ADos/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Rafting",
+            "term_title_slug": "rafting",
+            "branche": "sport/water-sports/rafting"
+        },
+        "es": {
+            "term_title": "Descenso de r\u00edos",
+            "term_title_slug": "descenso-de-r\u00edos",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Rafting",
+            "term_title_slug": "rafting"
+        }
+    }
+}

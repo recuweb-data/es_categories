@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "tradici\u00f3n",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tradici\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tradici\u00f3n",
+            "term_title_slug": "tradici\u00f3n",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Tradition",
+            "term_title_slug": "tradition"
+        },
+        "fr": {
+            "term_title": "Tradition",
+            "term_title_slug": "tradition"
+        }
+    }
+}

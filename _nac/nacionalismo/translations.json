@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "nacionalismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/nacionalismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/nacionalismo/nacionalismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/nacionalismo/nacionalismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/nacionalismo/nacionalismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Nacionalismo",
+            "term_title_slug": "nacionalismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Nationalism",
+            "term_title_slug": "nationalism"
+        },
+        "fr": {
+            "term_title": "Nationalisme",
+            "term_title_slug": "nationalisme"
+        }
+    }
+}

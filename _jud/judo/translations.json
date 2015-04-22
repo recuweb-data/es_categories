@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "judo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/judo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/judo/judo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/judo/judo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/judo/judo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Judo",
+            "term_title_slug": "judo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Judo",
+            "term_title_slug": "judo"
+        },
+        "fr": {
+            "term_title": "Judo",
+            "term_title_slug": "judo"
+        }
+    }
+}

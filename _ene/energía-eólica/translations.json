@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-e\u00f3lica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-e\u00f3lica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-e%C3%B3lica/energ%C3%ADa-e%C3%B3lica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-e%C3%B3lica/energ%C3%ADa-e%C3%B3lica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-e%C3%B3lica/energ%C3%ADa-e%C3%B3lica/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Wind power",
+            "term_title_slug": "wind-power",
+            "branche": "technology/electric-energy/renewable-energy/wind-power"
+        },
+        "es": {
+            "term_title": "Energ\u00eda e\u00f3lica",
+            "term_title_slug": "energ\u00eda-e\u00f3lica",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "\u00c9nergie \u00e9olienne",
+            "term_title_slug": "\u00e9nergie-\u00e9olienne",
+            "branche": ""
+        }
+    }
+}

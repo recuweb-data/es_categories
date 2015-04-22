@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "computadora-personal",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadora-personal/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadora-personal/computadora-personal/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadora-personal/computadora-personal/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadora-personal/computadora-personal/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Computadora personal",
+            "term_title_slug": "computadora-personal"
+        },
+        "en": {
+            "term_title": "Personal computer",
+            "term_title_slug": "personal-computer"
+        },
+        "fr": {
+            "term_title": "Ordinateur personnel",
+            "term_title_slug": "ordinateur-personnel"
+        }
+    }
+}

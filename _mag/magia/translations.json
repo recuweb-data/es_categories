@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "magia",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/magia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/magia/magia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/magia/magia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/magia/magia/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Magia",
+            "term_title_slug": "magia"
+        },
+        "en": {
+            "term_title": "Magic (paranormal)",
+            "term_title_slug": "magic"
+        },
+        "fr": {
+            "term_title": "Magie (surnaturel)",
+            "term_title_slug": "magie"
+        }
+    }
+}

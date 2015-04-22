@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "artes-marciales-chinos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/artes-marciales-chinos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/artes-marciales-chinos/artes-marciales-chinos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/artes-marciales-chinos/artes-marciales-chinos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/artes-marciales-chinos/artes-marciales-chinos/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Chinese martial arts",
+            "term_title_slug": "chinese-martial-arts",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts/chinese-martial-arts"
+        },
+        "es": {
+            "term_title": "Artes marciales chinos",
+            "term_title_slug": "artes-marciales-chinos",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Art martial chinois",
+            "term_title_slug": "art-martial-chinois"
+        }
+    }
+}

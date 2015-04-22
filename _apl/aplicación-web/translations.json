@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "aplicaci\u00f3n-web",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/aplicaci\u00f3n-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/aplicaci%C3%B3n-web/aplicaci%C3%B3n-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/aplicaci%C3%B3n-web/aplicaci%C3%B3n-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/aplicaci%C3%B3n-web/aplicaci%C3%B3n-web/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Aplicaci\u00f3n web",
+            "term_title_slug": "aplicaci\u00f3n-web",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Web application",
+            "term_title_slug": "web-application"
+        },
+        "fr": {
+            "term_title": "Application web",
+            "term_title_slug": "application-web"
+        }
+    }
+}

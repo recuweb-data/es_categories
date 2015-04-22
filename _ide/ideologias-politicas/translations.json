@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ideologias-politicas",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ideologias-politicas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ideologias-politicas/ideologias-politicas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ideologias-politicas/ideologias-politicas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ideologias-politicas/ideologias-politicas/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Political ideology",
+            "term_title_slug": "political-ideology"
+        },
+        "es": {
+            "term_title": "Ideologia politica",
+            "term_title_slug": "ideologia-politica"
+        },
+        "fr": {
+            "term_title": "Id\u00e9ologie politique",
+            "term_title_slug": "id\u00e9ologie-politique"
+        }
+    }
+}

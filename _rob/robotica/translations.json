@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "robotica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/robotica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/robotica/robotica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/robotica/robotica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/robotica/robotica/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Rob\u00f3tica",
+            "term_title_slug": "robotica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Robotics",
+            "term_title_slug": "robotics"
+        },
+        "fr": {
+            "term_title": "Robotique",
+            "term_title_slug": "robotique"
+        }
+    }
+}

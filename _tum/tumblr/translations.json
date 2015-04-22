@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "tumblr",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tumblr/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tumblr",
+            "term_title_slug": "tumblr",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Tumblr",
+            "term_title_slug": "tumblr"
+        },
+        "fr": {
+            "term_title": "Tumblr",
+            "term_title_slug": "tumblr"
+        }
+    }
+}

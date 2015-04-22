@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "tenis-de-mesa",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/tenis-de-mesa/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/tenis-de-mesa/tenis-de-mesa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/tenis-de-mesa/tenis-de-mesa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/tenis-de-mesa/tenis-de-mesa/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tenis de mesa",
+            "term_title_slug": "tenis-de-mesa",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Table tennis",
+            "term_title_slug": "table-tennis"
+        },
+        "fr": {
+            "term_title": "Tennis de table",
+            "term_title_slug": "tennis-de-table"
+        }
+    }
+}

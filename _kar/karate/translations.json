@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "karate",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/karate/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/karate/karate/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/karate/karate/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/karate/karate/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Karate",
+            "term_title_slug": "karate",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Karate",
+            "term_title_slug": "karate"
+        },
+        "fr": {
+            "term_title": "Karat\u00e9",
+            "term_title_slug": "karat\u00e9"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "v-day",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/v-day/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/v-day/v-day/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/v-day/v-day/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/v-day/v-day/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "V-day",
+            "term_title_slug": "day"
+        },
+        "en": {
+            "term_title": "V-Day (movement)",
+            "term_title_slug": "day"
+        }
+    }
+}

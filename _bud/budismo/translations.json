@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "budismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/budismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/budismo/budismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/budismo/budismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/budismo/budismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Budismo",
+            "term_title_slug": "budismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Buddhism",
+            "term_title_slug": "buddhism"
+        },
+        "fr": {
+            "term_title": "Bouddhisme",
+            "term_title_slug": "bouddhisme"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "red-social",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/red-social/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/red-social/red-social/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/red-social/red-social/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/red-social/red-social/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Red social",
+            "term_title_slug": "red-social",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Social network",
+            "term_title_slug": "social-network"
+        },
+        "fr": {
+            "term_title": "R\u00e9seau social",
+            "term_title_slug": "r\u00e9seau-social"
+        }
+    }
+}

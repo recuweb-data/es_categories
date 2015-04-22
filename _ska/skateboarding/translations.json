@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "skateboarding",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/skateboarding/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/skateboarding/skateboarding/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/skateboarding/skateboarding/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/skateboarding/skateboarding/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Skateboarding",
+            "term_title_slug": "skateboarding"
+        },
+        "en": {
+            "term_title": "Skateboarding",
+            "term_title_slug": "skateboarding"
+        }
+    }
+}

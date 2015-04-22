@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "imperio",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/imperio/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/imperio/imperio/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/imperio/imperio/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/imperio/imperio/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Imperio",
+            "term_title_slug": "imperio",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Empire",
+            "term_title_slug": "empire"
+        },
+        "fr": {
+            "term_title": "Empire",
+            "term_title_slug": "empire"
+        }
+    }
+}

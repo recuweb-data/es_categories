@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "periferico-auxiliar",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/periferico-auxiliar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/periferico-auxiliar/periferico-auxiliar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/periferico-auxiliar/periferico-auxiliar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/periferico-auxiliar/periferico-auxiliar/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Computer peripheral",
+            "term_title_slug": "computer-peripheral",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-peripheral"
+        },
+        "es": {
+            "term_title": "Periferico auxiliar",
+            "term_title_slug": "periferico-auxiliar",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "P\u00e9riph\u00e9rique informatique",
+            "term_title_slug": "p\u00e9riph\u00e9rique-informatique"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "mysql",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mysql/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mysql/mysql/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mysql/mysql/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "MySQL",
+            "term_title_slug": "mysql",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "MySQL",
+            "term_title_slug": "mysql"
+        },
+        "fr": {
+            "term_title": "MySQL",
+            "term_title_slug": "mysql"
+        }
+    }
+}

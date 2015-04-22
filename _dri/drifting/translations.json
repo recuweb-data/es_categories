@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "drifting",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/drifting/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/drifting/drifting/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/drifting/drifting/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/drifting/drifting/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Drifting",
+            "term_title_slug": "drifting",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Drifting (motorsport)",
+            "term_title_slug": "drifting"
+        },
+        "fr": {
+            "term_title": "Drift",
+            "term_title_slug": "drift"
+        }
+    }
+}

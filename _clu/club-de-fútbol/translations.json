@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "club-de-f\u00fatbol",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/club-de-f\u00fatbol/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/club-de-f%C3%BAtbol/club-de-f%C3%BAtbol/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/club-de-f%C3%BAtbol/club-de-f%C3%BAtbol/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/club-de-f%C3%BAtbol/club-de-f%C3%BAtbol/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Club de football",
+            "term_title_slug": "club-de-football"
+        },
+        "es": {
+            "term_title": "Club de f\u00fatbol",
+            "term_title_slug": "club-de-f\u00fatbol"
+        },
+        "en": {
+            "term_title": "Football club",
+            "term_title_slug": "football-club"
+        }
+    }
+}

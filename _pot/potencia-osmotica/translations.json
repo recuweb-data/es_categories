@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "potencia-osmotica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/potencia-osmotica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Osmotic power",
+            "term_title_slug": "osmotic-power"
+        },
+        "es": {
+            "term_title": "Potencia osmotica",
+            "term_title_slug": "potencia-osmotica"
+        },
+        "fr": {
+            "term_title": "\u00e9nergie osmotique",
+            "term_title_slug": "\u00e9nergie-osmotique"
+        }
+    }
+}

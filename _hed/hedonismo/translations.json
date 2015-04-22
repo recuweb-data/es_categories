@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "hedonismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hedonismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hedonismo/hedonismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hedonismo/hedonismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hedonismo/hedonismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hedonismo",
+            "term_title_slug": "hedonismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Hedonism",
+            "term_title_slug": "hedonism"
+        },
+        "fr": {
+            "term_title": "H\u00e9donisme",
+            "term_title_slug": "h\u00e9donisme"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "televisi\u00f3n-por-cable",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/televisi\u00f3n-por-cable/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-cable/televisi%C3%B3n-por-cable/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-cable/televisi%C3%B3n-por-cable/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/televisi%C3%B3n-por-cable/televisi%C3%B3n-por-cable/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Cable television",
+            "term_title_slug": "cable-television",
+            "branche": "technology/telecommunication/video-technology/television/cable-television"
+        },
+        "es": {
+            "term_title": "Televisi\u00f3n por cable",
+            "term_title_slug": "televisi\u00f3n-por-cable",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "T\u00e9l\u00e9vision par c\u00e2ble",
+            "term_title_slug": "t\u00e9l\u00e9vision-par-c\u00e2ble"
+        }
+    }
+}

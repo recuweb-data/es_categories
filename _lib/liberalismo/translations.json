@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "liberalismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/liberalismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/liberalismo/liberalismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/liberalismo/liberalismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/liberalismo/liberalismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Liberalismo",
+            "term_title_slug": "liberalismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Liberalism",
+            "term_title_slug": "liberalism"
+        },
+        "fr": {
+            "term_title": "Lib\u00e9ralisme",
+            "term_title_slug": "lib\u00e9ralisme"
+        }
+    }
+}

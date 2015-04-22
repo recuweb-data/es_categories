@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "enventos-feministas",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/enventos-feministas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/enventos-feministas/enventos-feministas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/enventos-feministas/enventos-feministas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/enventos-feministas/enventos-feministas/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Feminist events",
+            "term_title_slug": "feminist-events",
+            "branche": "politics/social-movement/feminism/feminist-events"
+        },
+        "es": {
+            "term_title": "Enventos feministas",
+            "term_title_slug": "enventos-feministas",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Manifestations f\u00e9ministes",
+            "term_title_slug": "manifestations-f\u00e9ministes"
+        }
+    }
+}

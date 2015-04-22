@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "capoeira",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/capoeira/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/capoeira/capoeira/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/capoeira/capoeira/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/capoeira/capoeira/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Capoeira",
+            "term_title_slug": "capoeira",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Capoeira",
+            "term_title_slug": "capoeira"
+        },
+        "fr": {
+            "term_title": "Capoeira",
+            "term_title_slug": "capoeira"
+        }
+    }
+}

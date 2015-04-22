@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "religiones-orientales",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/religiones-orientales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/religiones-orientales/religiones-orientales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/religiones-orientales/religiones-orientales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/religiones-orientales/religiones-orientales/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Religions orientales",
+            "term_title_slug": "religions-orientales"
+        },
+        "es": {
+            "term_title": "Religiones orientales",
+            "term_title_slug": "religiones-orientales"
+        },
+        "en": {
+            "term_title": "Eastern religions",
+            "term_title_slug": "eastern-religions"
+        }
+    }
+}

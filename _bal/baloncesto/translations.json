@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "baloncesto",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/baloncesto/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/baloncesto/baloncesto/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/baloncesto/baloncesto/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/baloncesto/baloncesto/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Baloncesto",
+            "term_title_slug": "baloncesto",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Basketball",
+            "term_title_slug": "basketball"
+        },
+        "fr": {
+            "term_title": "Basket-ball",
+            "term_title_slug": "basket-ball"
+        }
+    }
+}

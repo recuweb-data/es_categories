@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "snocross",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/snocross/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/snocross/snocross/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/snocross/snocross/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/snocross/snocross/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Snocross",
+            "term_title_slug": "snocross"
+        },
+        "en": {
+            "term_title": "Snocross",
+            "term_title_slug": "snocross"
+        }
+    }
+}

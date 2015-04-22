@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "rock",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rock/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rock/rock/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rock/rock/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rock/rock/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Rock",
+            "term_title_slug": "rock"
+        },
+        "en": {
+            "term_title": "Rock music",
+            "term_title_slug": "rock-music"
+        },
+        "fr": {
+            "term_title": "Rock",
+            "term_title_slug": "rock"
+        }
+    }
+}

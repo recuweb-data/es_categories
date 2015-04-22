@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "etnomedicina",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/etnomedicina/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/etnomedicina/etnomedicina/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/etnomedicina/etnomedicina/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/etnomedicina/etnomedicina/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ethnomedicine",
+            "term_title_slug": "ethnomedicine"
+        },
+        "es": {
+            "term_title": "Etnomedicina",
+            "term_title_slug": "etnomedicina"
+        },
+        "fr": {
+            "term_title": "Ethnom\u00e9decine",
+            "term_title_slug": "ethnom\u00e9decine"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "bitacoras-web",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bitacoras-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bitacoras-web/bitacoras-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bitacoras-web/bitacoras-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bitacoras-web/bitacoras-web/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Blogs",
+            "term_title_slug": "blogs",
+            "branche": "internet/web-application/blogs"
+        },
+        "es": {
+            "term_title": "Bitacoras web",
+            "term_title_slug": "bitacoras-web",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Blogs",
+            "term_title_slug": "blogs"
+        }
+    }
+}

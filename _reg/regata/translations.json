@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "regata",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/regata/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/regata/regata/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/regata/regata/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/regata/regata/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Regata",
+            "term_title_slug": "regata",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Regatta",
+            "term_title_slug": "regatta"
+        },
+        "fr": {
+            "term_title": "R\u00e9gate",
+            "term_title_slug": "regate"
+        }
+    }
+}

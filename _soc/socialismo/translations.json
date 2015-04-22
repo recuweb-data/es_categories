@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "socialismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/socialismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/socialismo/socialismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/socialismo/socialismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/socialismo/socialismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Socialismo",
+            "term_title_slug": "socialismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Socialism",
+            "term_title_slug": "socialism"
+        },
+        "fr": {
+            "term_title": "Socialisme",
+            "term_title_slug": "socialisme"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "muay-thai",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/muay-thai/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/muay-thai/muay-thai/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/muay-thai/muay-thai/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/muay-thai/muay-thai/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Muay thai",
+            "term_title_slug": "muay-thai",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Muay Thai",
+            "term_title_slug": "muay-thai"
+        },
+        "fr": {
+            "term_title": "Muay-tha\u00ef",
+            "term_title_slug": "muay-tha\u00ef"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "signo-zodiacal",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/signo-zodiacal/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/signo-zodiacal/signo-zodiacal/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/signo-zodiacal/signo-zodiacal/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/signo-zodiacal/signo-zodiacal/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Signo zodiacal",
+            "term_title_slug": "signo-zodiacal"
+        },
+        "en": {
+            "term_title": "Astrological sign",
+            "term_title_slug": "astrological-sign"
+        },
+        "fr": {
+            "term_title": "Signe du Zodiaque",
+            "term_title_slug": "signe-du-zodiaque"
+        }
+    }
+}

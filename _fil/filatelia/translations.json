@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "filatelia",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/filatelia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/filatelia/filatelia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/filatelia/filatelia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/filatelia/filatelia/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Filatelia",
+            "term_title_slug": "filatelia",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Philately",
+            "term_title_slug": "philately"
+        },
+        "fr": {
+            "term_title": "Philat\u00e9lie",
+            "term_title_slug": "philat\u00e9lie"
+        }
+    }
+}

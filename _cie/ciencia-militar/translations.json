@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "ciencia-militar",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ciencia-militar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ciencia-militar/ciencia-militar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ciencia-militar/ciencia-militar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ciencia-militar/ciencia-militar/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Military science",
+            "term_title_slug": "military-science",
+            "branche": "technology/engineering/military-science"
+        },
+        "es": {
+            "term_title": "Ciencia militar",
+            "term_title_slug": "ciencia-militar",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Science militaire",
+            "term_title_slug": "science-militaire"
+        }
+    }
+}

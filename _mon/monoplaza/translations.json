@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "monoplaza",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/monoplaza/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/monoplaza/monoplaza/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/monoplaza/monoplaza/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/monoplaza/monoplaza/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Open wheel car",
+            "term_title_slug": "open-wheel-car",
+            "branche": "sport/motorsport/auto-racing/road-racing/open-wheel-car"
+        },
+        "es": {
+            "term_title": "Monoplaza",
+            "term_title_slug": "monoplaza",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Monoplace",
+            "term_title_slug": "monoplace"
+        }
+    }
+}

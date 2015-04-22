@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "republicanismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/republicanismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Republicanismo",
+            "term_title_slug": "republicanismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Republicanism",
+            "term_title_slug": "republicanism"
+        },
+        "fr": {
+            "term_title": "R\u00e9publicanisme",
+            "term_title_slug": "r\u00e9publicanisme"
+        }
+    }
+}

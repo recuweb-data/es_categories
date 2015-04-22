@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "comercio-libre",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/comercio-libre/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/comercio-libre/comercio-libre/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/comercio-libre/comercio-libre/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/comercio-libre/comercio-libre/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Comercio libre",
+            "term_title_slug": "comercio-libre"
+        },
+        "en": {
+            "term_title": "Liberism",
+            "term_title_slug": "liberism"
+        },
+        "fr": {
+            "term_title": "Lib\u00e9risme",
+            "term_title_slug": "lib\u00e9risme"
+        }
+    }
+}

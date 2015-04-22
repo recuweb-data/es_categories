@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "iphone",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/iphone/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/iphone/iphone/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/iphone/iphone/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/iphone/iphone/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IPhone",
+            "term_title_slug": "iphone",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IPhone",
+            "term_title_slug": "iphone"
+        },
+        "fr": {
+            "term_title": "IPhone",
+            "term_title_slug": "iphone"
+        }
+    }
+}

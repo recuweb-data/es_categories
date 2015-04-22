@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "doblaje",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/doblaje/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/doblaje/doblaje/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/doblaje/doblaje/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/doblaje/doblaje/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Doblaje",
+            "term_title_slug": "doblaje"
+        },
+        "en": {
+            "term_title": "Dubbing (filmmaking)",
+            "term_title_slug": "dubbing"
+        },
+        "fr": {
+            "term_title": "Doublage",
+            "term_title_slug": "doublage"
+        }
+    }
+}

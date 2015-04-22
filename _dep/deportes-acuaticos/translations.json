@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "deportes-acuaticos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-acuaticos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-acuaticos/deportes-acuaticos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-acuaticos/deportes-acuaticos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-acuaticos/deportes-acuaticos/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deportes acuaticos",
+            "term_title_slug": "deportes-acuaticos",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Water sports",
+            "term_title_slug": "water-sports"
+        },
+        "fr": {
+            "term_title": "Sports nautiques",
+            "term_title_slug": "sports-nautiques"
+        }
+    }
+}

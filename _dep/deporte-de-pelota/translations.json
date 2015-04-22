@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "deporte-de-pelota",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deporte-de-pelota/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deporte-de-pelota/deporte-de-pelota/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deporte-de-pelota/deporte-de-pelota/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deporte-de-pelota/deporte-de-pelota/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deporte de pelota",
+            "term_title_slug": "deporte-de-pelota",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Ball game",
+            "term_title_slug": "ball-game"
+        },
+        "fr": {
+            "term_title": "Sport de ballon",
+            "term_title_slug": "sport-de-ballon"
+        }
+    }
+}

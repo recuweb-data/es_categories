@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "democracia",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/democracia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/democracia/democracia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/democracia/democracia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/democracia/democracia/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Democracia",
+            "term_title_slug": "democracia"
+        },
+        "en": {
+            "term_title": "Democracy",
+            "term_title_slug": "democracy"
+        },
+        "fr": {
+            "term_title": "D\u00e9mocratie",
+            "term_title_slug": "d\u00e9mocratie"
+        }
+    }
+}

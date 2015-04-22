@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "automovilismo-de-velocidad",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/automovilismo-de-velocidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Road racing",
+            "term_title_slug": "road-racing",
+            "branche": "sport/motorsport/auto-racing/road-racing"
+        },
+        "es": {
+            "term_title": "Automovilismo de velocidad",
+            "term_title_slug": "automovilismo-de-velocidad",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Course sur route",
+            "term_title_slug": "course-sur-route"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ingenier\u00eda-aeroespacial",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenier\u00eda-aeroespacial/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-aeroespacial/ingenier%C3%ADa-aeroespacial/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-aeroespacial/ingenier%C3%ADa-aeroespacial/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-aeroespacial/ingenier%C3%ADa-aeroespacial/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "G\u00e9nie a\u00e9rospatial",
+            "term_title_slug": "g\u00e9nie-a\u00e9rospatial"
+        },
+        "es": {
+            "term_title": "Ingenier\u00eda aeroespacial",
+            "term_title_slug": "ingenier\u00eda-aeroespacial"
+        },
+        "en": {
+            "term_title": "Aerospace engineering",
+            "term_title_slug": "aerospace-engineering"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-nuclear",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-nuclear/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-nuclear/energ%C3%ADa-nuclear/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-nuclear/energ%C3%ADa-nuclear/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-nuclear/energ%C3%ADa-nuclear/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Nuclear power",
+            "term_title_slug": "nuclear-power",
+            "branche": "technology/electric-energy/nuclear-power"
+        },
+        "es": {
+            "term_title": "Energ\u00eda nuclear",
+            "term_title_slug": "energ\u00eda-nuclear",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "\u00c9nergie nucl\u00e9aire",
+            "term_title_slug": "\u00e9nergie-nucl\u00e9aire",
+            "branche": ""
+        }
+    }
+}

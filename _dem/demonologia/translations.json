@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "demonologia",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/demonologia/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/demonologia/demonologia/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/demonologia/demonologia/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/demonologia/demonologia/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Demonolog\u00eda",
+            "term_title_slug": "demonolog\u00eda"
+        },
+        "en": {
+            "term_title": "Demonology",
+            "term_title_slug": "demonology"
+        },
+        "fr": {
+            "term_title": "D\u00e9monologie",
+            "term_title_slug": "d\u00e9monologie"
+        }
+    }
+}

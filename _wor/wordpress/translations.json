@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "wordpress",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/wordpress/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/wordpress/wordpress/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/wordpress/wordpress/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "WordPress",
+            "term_title_slug": "wordpress",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "WordPress",
+            "term_title_slug": "wordpress"
+        },
+        "fr": {
+            "term_title": "WordPress",
+            "term_title_slug": "wordpress"
+        }
+    }
+}

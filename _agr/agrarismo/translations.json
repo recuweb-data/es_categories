@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "agrarismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/agrarismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/agrarismo/agrarismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/agrarismo/agrarismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/agrarismo/agrarismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Agrarismo",
+            "term_title_slug": "agrarismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Agrarianism",
+            "term_title_slug": "agrarianism"
+        },
+        "fr": {
+            "term_title": "Agrarisme",
+            "term_title_slug": "agrarisme"
+        }
+    }
+}

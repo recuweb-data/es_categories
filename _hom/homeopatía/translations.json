@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "homeopat\u00eda",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/homeopat\u00eda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/homeopat%C3%ADa/homeopat%C3%ADa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/homeopat%C3%ADa/homeopat%C3%ADa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/homeopat%C3%ADa/homeopat%C3%ADa/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Homeopat\u00eda",
+            "term_title_slug": "homeopat\u00eda"
+        },
+        "en": {
+            "term_title": "Homeopathy",
+            "term_title_slug": "homeopathy"
+        },
+        "fr": {
+            "term_title": "Hom\u00e9opathie",
+            "term_title_slug": "hom\u00e9opathie"
+        }
+    }
+}

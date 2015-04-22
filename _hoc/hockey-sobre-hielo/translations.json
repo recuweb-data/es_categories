@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "hockey-sobre-hielo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hockey-sobre-hielo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hockey-sobre-hielo/hockey-sobre-hielo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hockey-sobre-hielo/hockey-sobre-hielo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hockey-sobre-hielo/hockey-sobre-hielo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hockey sobre hielo",
+            "term_title_slug": "hockey-sobre-hielo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Ice hockey",
+            "term_title_slug": "ice-hockey"
+        },
+        "fr": {
+            "term_title": "Hockey sur glace",
+            "term_title_slug": "hockey-sur-glace"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "felicidad",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/felicidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Felicidad",
+            "term_title_slug": "felicidad"
+        },
+        "en": {
+            "term_title": "Happiness",
+            "term_title_slug": "happiness"
+        },
+        "fr": {
+            "term_title": "Bonheur",
+            "term_title_slug": "bonheur"
+        }
+    }
+}

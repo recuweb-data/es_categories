@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "jiu-jitsu-brasile\u00f1o",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/jiu-jitsu-brasile\u00f1o/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/jiu-jitsu-brasile%C3%B1o/jiu-jitsu-brasile%C3%B1o/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/jiu-jitsu-brasile%C3%B1o/jiu-jitsu-brasile%C3%B1o/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/jiu-jitsu-brasile%C3%B1o/jiu-jitsu-brasile%C3%B1o/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Brazilian jiu jitsu",
+            "term_title_slug": "brazilian-jiu-jitsu"
+        },
+        "es": {
+            "term_title": "Jiu jitsu brasile\u00f1o",
+            "term_title_slug": "jiu-jitsu-brasile\u00f1o"
+        },
+        "fr": {
+            "term_title": "Jiu jitsu br\u00e9silien",
+            "term_title_slug": "jiu-jitsu-br\u00e9silien"
+        }
+    }
+}

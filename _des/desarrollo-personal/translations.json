@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "desarrollo-personal",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/desarrollo-personal/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/desarrollo-personal/desarrollo-personal/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/desarrollo-personal/desarrollo-personal/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/desarrollo-personal/desarrollo-personal/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Desarrollo personal",
+            "term_title_slug": "desarrollo-personal"
+        },
+        "fr": {
+            "term_title": "D\u00e9veloppement personnel",
+            "term_title_slug": "d\u00e9veloppement-personnel"
+        },
+        "en": {
+            "term_title": "Personal development",
+            "term_title_slug": "personal-development"
+        }
+    }
+}

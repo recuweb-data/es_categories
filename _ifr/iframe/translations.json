@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "iframe",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/iframe/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/iframe/iframe/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/iframe/iframe/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/iframe/iframe/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Iframe",
+            "term_title_slug": "iframe",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "HTML element#Frames",
+            "term_title_slug": "html-element-frames"
+        }
+    }
+}

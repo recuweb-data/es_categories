@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "xml",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/xml/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/xml/xml/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/xml/xml/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/xml/xml/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Extensible Markup Language",
+            "term_title_slug": "extensible-markup-language"
+        },
+        "en": {
+            "term_title": "XML",
+            "term_title_slug": "xml"
+        },
+        "fr": {
+            "term_title": "Extensible Markup Language",
+            "term_title_slug": "extensible-markup-language"
+        }
+    }
+}

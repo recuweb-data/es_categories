@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "electroac\u00fastica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/electroac\u00fastica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/electroac%C3%BAstica/electroac%C3%BAstica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/electroac%C3%BAstica/electroac%C3%BAstica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/electroac%C3%BAstica/electroac%C3%BAstica/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Electroac\u00fastica",
+            "term_title_slug": "electroac\u00fastica"
+        },
+        "fr": {
+            "term_title": "\u00c9lectroacoustique",
+            "term_title_slug": "\u00e9lectroacoustique"
+        }
+    }
+}

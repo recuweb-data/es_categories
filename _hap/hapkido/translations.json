@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "hapkido",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hapkido/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hapkido",
+            "term_title_slug": "hapkido",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Hapkido",
+            "term_title_slug": "hapkido"
+        },
+        "fr": {
+            "term_title": "Hapkido",
+            "term_title_slug": "hapkido"
+        }
+    }
+}

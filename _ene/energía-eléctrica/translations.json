@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-el\u00e9ctrica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-el\u00e9ctrica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-el%C3%A9ctrica/energ%C3%ADa-el%C3%A9ctrica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-el%C3%A9ctrica/energ%C3%ADa-el%C3%A9ctrica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-el%C3%A9ctrica/energ%C3%ADa-el%C3%A9ctrica/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Energ\u00eda el\u00e9ctrica",
+            "term_title_slug": "energ\u00eda-el\u00e9ctrica"
+        },
+        "fr": {
+            "term_title": "\u00c9nergie \u00e9lectrique",
+            "term_title_slug": "\u00e9nergie-\u00e9lectrique"
+        },
+        "en": {
+            "term_title": "Electric energy",
+            "term_title_slug": "electric-energy"
+        }
+    }
+}

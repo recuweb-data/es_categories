@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "motonautica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/motonautica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/motonautica/motonautica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/motonautica/motonautica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/motonautica/motonautica/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Moton\u00e1utica",
+            "term_title_slug": "motonautica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Powerboating",
+            "term_title_slug": "powerboating"
+        },
+        "fr": {
+            "term_title": "Motonautisme (sport)",
+            "term_title_slug": "motonautisme"
+        }
+    }
+}

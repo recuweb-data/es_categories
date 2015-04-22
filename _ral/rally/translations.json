@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "rally",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rally/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rally/rally/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rally/rally/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally/rally/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Rally",
+            "term_title_slug": "rally",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Rallying",
+            "term_title_slug": "rallying"
+        },
+        "fr": {
+            "term_title": "Rallye automobile",
+            "term_title_slug": "rallye-automobile"
+        }
+    }
+}

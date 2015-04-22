@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "spamdexing",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/spamdexing/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/spamdexing/spamdexing/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/spamdexing/spamdexing/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/spamdexing/spamdexing/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Spamdexing",
+            "term_title_slug": "spamdexing"
+        },
+        "en": {
+            "term_title": "Spamdexing",
+            "term_title_slug": "spamdexing"
+        },
+        "fr": {
+            "term_title": "Spamdexing",
+            "term_title_slug": "spamdexing"
+        }
+    }
+}

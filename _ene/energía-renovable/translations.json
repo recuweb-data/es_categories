@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "energ\u00eda-renovable",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/energ\u00eda-renovable/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-renovable/energ%C3%ADa-renovable/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-renovable/energ%C3%ADa-renovable/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/energ%C3%ADa-renovable/energ%C3%ADa-renovable/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Energ\u00eda renovable",
+            "term_title_slug": "energ\u00eda-renovable"
+        },
+        "fr": {
+            "term_title": "\u00c9nergie renouvelable",
+            "term_title_slug": "\u00e9nergie-renouvelable"
+        },
+        "en": {
+            "term_title": "Renewable energy",
+            "term_title_slug": "renewable-energy"
+        }
+    }
+}

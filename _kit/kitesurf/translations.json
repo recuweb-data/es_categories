@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "kitesurf",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/kitesurf/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/kitesurf/kitesurf/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/kitesurf/kitesurf/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/kitesurf/kitesurf/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Kitesurf",
+            "term_title_slug": "kitesurf",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Kitesurfing",
+            "term_title_slug": "kitesurfing"
+        },
+        "fr": {
+            "term_title": "Kitesurf",
+            "term_title_slug": "kitesurf"
+        }
+    }
+}

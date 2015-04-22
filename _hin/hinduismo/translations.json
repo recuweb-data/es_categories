@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "hinduismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/hinduismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/hinduismo/hinduismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/hinduismo/hinduismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/hinduismo/hinduismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hinduismo",
+            "term_title_slug": "hinduismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Hinduism",
+            "term_title_slug": "hinduism"
+        },
+        "fr": {
+            "term_title": "Hindouisme",
+            "term_title_slug": "hindouisme"
+        }
+    }
+}

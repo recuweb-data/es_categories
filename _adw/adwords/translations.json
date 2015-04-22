@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "adwords",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/adwords/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/adwords/adwords/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/adwords/adwords/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "AdWords",
+            "term_title_slug": "adwords"
+        },
+        "en": {
+            "term_title": "AdWords",
+            "term_title_slug": "adwords"
+        },
+        "fr": {
+            "term_title": "AdWords",
+            "term_title_slug": "adwords"
+        }
+    }
+}

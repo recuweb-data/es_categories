@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "servicios-web",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/servicios-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Web services",
+            "term_title_slug": "web-services",
+            "branche": "internet/web-services"
+        },
+        "es": {
+            "term_title": "Servicios web",
+            "term_title_slug": "servicios-web",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Services web",
+            "term_title_slug": "services-web"
+        }
+    }
+}

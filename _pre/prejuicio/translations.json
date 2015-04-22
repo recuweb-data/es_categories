@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "prejuicio",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/prejuicio/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/prejuicio/prejuicio/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/prejuicio/prejuicio/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/prejuicio/prejuicio/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Prejuicio",
+            "term_title_slug": "prejuicio",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Prejudice",
+            "term_title_slug": "prejudice"
+        },
+        "fr": {
+            "term_title": "Pr\u00e9jug\u00e9",
+            "term_title_slug": "pr\u00e9jug\u00e9"
+        }
+    }
+}

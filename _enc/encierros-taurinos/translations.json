@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "encierros-taurinos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/encierros-taurinos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/encierros-taurinos/encierros-taurinos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/encierros-taurinos/encierros-taurinos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/encierros-taurinos/encierros-taurinos/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Encierro (tauromaquia)",
+            "term_title_slug": "encierro"
+        },
+        "en": {
+            "term_title": "Running of the Bulls",
+            "term_title_slug": "running-of-the-bulls"
+        },
+        "fr": {
+            "term_title": "Encierro",
+            "term_title_slug": "encierro"
+        }
+    }
+}

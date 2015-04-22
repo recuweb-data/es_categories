@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "sport-prototipo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sport-prototipo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sport-prototipo/sport-prototipo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sport-prototipo/sport-prototipo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sport-prototipo/sport-prototipo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Sport prototipo",
+            "term_title_slug": "sport-prototipo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Sports prototype",
+            "term_title_slug": "sports-prototype"
+        },
+        "fr": {
+            "term_title": "Sport-Prototypes",
+            "term_title_slug": "sport-prototypes"
+        }
+    }
+}

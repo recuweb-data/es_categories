@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "politica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/politica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/politica/politica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/politica/politica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/politica/politica/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pol\u00edtica",
+            "term_title_slug": "politica"
+        },
+        "en": {
+            "term_title": "Politics",
+            "term_title_slug": "politics"
+        },
+        "fr": {
+            "term_title": "Politique",
+            "term_title_slug": "politique"
+        }
+    }
+}

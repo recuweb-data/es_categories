@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "pirag\u00fcismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pirag\u00fcismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pirag%C3%BCismo/pirag%C3%BCismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pirag%C3%BCismo/pirag%C3%BCismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pirag%C3%BCismo/pirag%C3%BCismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pirag\u00fcismo",
+            "term_title_slug": "pirag\u00fcismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Canoeing",
+            "term_title_slug": "canoeing"
+        },
+        "fr": {
+            "term_title": "Cano\u00eb-kayak",
+            "term_title_slug": "cano\u00eb-kayak"
+        }
+    }
+}

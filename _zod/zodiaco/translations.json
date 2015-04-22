@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "zodiaco",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/zodiaco/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Zodiaco",
+            "term_title_slug": "zodiaco"
+        },
+        "en": {
+            "term_title": "Zodiac",
+            "term_title_slug": "zodiac"
+        },
+        "fr": {
+            "term_title": "Zodiaque",
+            "term_title_slug": "zodiaque"
+        }
+    }
+}

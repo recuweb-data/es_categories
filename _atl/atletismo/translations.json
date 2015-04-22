@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "atletismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/atletismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/atletismo/atletismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/atletismo/atletismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/atletismo/atletismo/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Athl\u00e9tisme",
+            "term_title_slug": "athl\u00e9tisme"
+        },
+        "es": {
+            "term_title": "Atletismo",
+            "term_title_slug": "atletismo"
+        },
+        "en": {
+            "term_title": "Athletics",
+            "term_title_slug": "athletics"
+        }
+    }
+}

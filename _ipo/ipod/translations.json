@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "ipod",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ipod/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ipod/ipod/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ipod/ipod/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IPod",
+            "term_title_slug": "ipod",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IPod",
+            "term_title_slug": "ipod"
+        },
+        "fr": {
+            "term_title": "IPod",
+            "term_title_slug": "ipod"
+        }
+    }
+}

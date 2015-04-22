@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "moda",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/moda/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/moda/moda/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/moda/moda/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/moda/moda/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Moda",
+            "term_title_slug": "moda"
+        },
+        "en": {
+            "term_title": "Fashion",
+            "term_title_slug": "fashion"
+        },
+        "fr": {
+            "term_title": "Mode (habillement)",
+            "term_title_slug": "mode"
+        }
+    }
+}

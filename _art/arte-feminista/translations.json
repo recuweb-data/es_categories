@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "arte-feminista",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-feminista/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-feminista/arte-feminista/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-feminista/arte-feminista/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-feminista/arte-feminista/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Arte feminista",
+            "term_title_slug": "arte-feminista"
+        },
+        "en": {
+            "term_title": "Feminist art movement in the United States",
+            "term_title_slug": "feminist-art-movement-in-the-united-states"
+        }
+    }
+}

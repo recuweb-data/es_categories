@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "olympique-de-marsella",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/olympique-de-marsella/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/olympique-de-marsella/olympique-de-marsella/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/olympique-de-marsella/olympique-de-marsella/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/olympique-de-marsella/olympique-de-marsella/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Olympique de Marsella",
+            "term_title_slug": "olympique-de-marsella"
+        },
+        "en": {
+            "term_title": "Olympique de Marseille",
+            "term_title_slug": "olympique-de-marseille"
+        },
+        "fr": {
+            "term_title": "Olympique de Marseille",
+            "term_title_slug": "olympique-de-marseille"
+        }
+    }
+}

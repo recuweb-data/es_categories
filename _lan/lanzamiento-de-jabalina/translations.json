@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "lanzamiento-de-jabalina",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lanzamiento-de-jabalina/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lanzamiento-de-jabalina/lanzamiento-de-jabalina/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lanzamiento-de-jabalina/lanzamiento-de-jabalina/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lanzamiento-de-jabalina/lanzamiento-de-jabalina/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Lanzamiento de jabalina",
+            "term_title_slug": "lanzamiento-de-jabalina"
+        },
+        "en": {
+            "term_title": "Javelin throw",
+            "term_title_slug": "javelin-throw"
+        },
+        "fr": {
+            "term_title": "Lancer du javelot",
+            "term_title_slug": "lancer-du-javelot"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "motociclismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/motociclismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Motociclismo",
+            "term_title_slug": "motociclismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Motorcycle sport",
+            "term_title_slug": "motorcycle-sport"
+        },
+        "fr": {
+            "term_title": "Sport motocycliste",
+            "term_title_slug": "sport-motocycliste"
+        }
+    }
+}

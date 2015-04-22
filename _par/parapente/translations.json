@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "parapente",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/parapente/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/parapente/parapente/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/parapente/parapente/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/parapente/parapente/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Parapente",
+            "term_title_slug": "parapente",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Paragliding",
+            "term_title_slug": "paragliding"
+        },
+        "fr": {
+            "term_title": "Parapente",
+            "term_title_slug": "parapente"
+        }
+    }
+}

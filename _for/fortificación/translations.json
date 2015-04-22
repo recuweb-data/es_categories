@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "fortificaci\u00f3n",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/fortificaci\u00f3n/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/fortificaci%C3%B3n/fortificaci%C3%B3n/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/fortificaci%C3%B3n/fortificaci%C3%B3n/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/fortificaci%C3%B3n/fortificaci%C3%B3n/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Fortificaci\u00f3n",
+            "term_title_slug": "fortificaci\u00f3n",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Fortification",
+            "term_title_slug": "fortification"
+        },
+        "fr": {
+            "term_title": "Fortification",
+            "term_title_slug": "fortification"
+        }
+    }
+}

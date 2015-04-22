@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "pintura",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/pintura/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/pintura/pintura/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/pintura/pintura/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/pintura/pintura/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pintura",
+            "term_title_slug": "pintura",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Painting",
+            "term_title_slug": "painting"
+        },
+        "fr": {
+            "term_title": "Peinture",
+            "term_title_slug": "peinture"
+        }
+    }
+}

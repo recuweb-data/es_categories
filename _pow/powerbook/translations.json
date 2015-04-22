@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "powerbook",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/powerbook/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/powerbook/powerbook/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/powerbook/powerbook/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "PowerBook",
+            "term_title_slug": "powerbook",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "PowerBook",
+            "term_title_slug": "powerbook"
+        },
+        "fr": {
+            "term_title": "PowerBook",
+            "term_title_slug": "powerbook"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "movimiento-social",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/movimiento-social/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Movimiento social",
+            "term_title_slug": "movimiento-social",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Social movement",
+            "term_title_slug": "social-movement"
+        },
+        "fr": {
+            "term_title": "Mouvement social",
+            "term_title_slug": "mouvement-social"
+        }
+    }
+}

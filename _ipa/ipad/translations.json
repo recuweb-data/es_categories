@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "ipad",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ipad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ipad/ipad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ipad/ipad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipad/ipad/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IPad",
+            "term_title_slug": "ipad",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IPad",
+            "term_title_slug": "ipad"
+        },
+        "fr": {
+            "term_title": "IPad",
+            "term_title_slug": "ipad"
+        }
+    }
+}

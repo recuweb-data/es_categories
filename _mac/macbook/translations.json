@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "macbook",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/macbook/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/macbook/macbook/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/macbook/macbook/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/macbook/macbook/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "MacBook",
+            "term_title_slug": "macbook",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "MacBook",
+            "term_title_slug": "macbook"
+        },
+        "fr": {
+            "term_title": "MacBook",
+            "term_title_slug": "macbook"
+        }
+    }
+}

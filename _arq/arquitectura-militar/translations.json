@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "arquitectura-militar",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arquitectura-militar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arquitectura-militar/arquitectura-militar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arquitectura-militar/arquitectura-militar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arquitectura-militar/arquitectura-militar/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Fortificaci\u00f3n",
+            "term_title_slug": "fortificaci\u00f3n"
+        },
+        "en": {
+            "term_title": "Fortification",
+            "term_title_slug": "fortification"
+        },
+        "fr": {
+            "term_title": "Fortification",
+            "term_title_slug": "fortification"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "taekwondo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/taekwondo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/taekwondo/taekwondo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/taekwondo/taekwondo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/taekwondo/taekwondo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Taekwondo",
+            "term_title_slug": "taekwondo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Taekwondo",
+            "term_title_slug": "taekwondo"
+        },
+        "fr": {
+            "term_title": "Taekwondo",
+            "term_title_slug": "taekwondo"
+        }
+    }
+}

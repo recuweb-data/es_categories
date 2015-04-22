@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "ingenieria",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenieria/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenieria/ingenieria/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenieria/ingenieria/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenieria/ingenieria/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Ingenier\u00eda",
+            "term_title_slug": "ingenieria",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Engineering",
+            "term_title_slug": "engineering"
+        },
+        "fr": {
+            "term_title": "Ing\u00e9nierie",
+            "term_title_slug": "ingenierie"
+        }
+    }
+}

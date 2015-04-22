@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "arte-urbano",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-urbano/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Arte urbano",
+            "term_title_slug": "arte-urbano"
+        },
+        "en": {
+            "term_title": "Street art",
+            "term_title_slug": "street-art"
+        },
+        "fr": {
+            "term_title": "Art urbain",
+            "term_title_slug": "art-urbain"
+        }
+    }
+}

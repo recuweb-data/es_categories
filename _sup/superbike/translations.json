@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "superbike",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/superbike/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/superbike/superbike/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/superbike/superbike/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/superbike/superbike/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Superbike",
+            "term_title_slug": "superbike",
+            "branche": "sport/motorsport/motorcycle-sport/superbike"
+        },
+        "es": {
+            "term_title": "Superbike",
+            "term_title_slug": "superbike",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Superbike",
+            "term_title_slug": "superbike"
+        }
+    }
+}

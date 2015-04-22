@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "phpbb",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/phpbb/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "PhpBB",
+            "term_title_slug": "phpbb",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "PhpBB",
+            "term_title_slug": "phpbb"
+        },
+        "fr": {
+            "term_title": "PhpBB",
+            "term_title_slug": "phpbb"
+        }
+    }
+}

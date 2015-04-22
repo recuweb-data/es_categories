@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "voleibol-de-playa",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/voleibol-de-playa/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/voleibol-de-playa/voleibol-de-playa/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/voleibol-de-playa/voleibol-de-playa/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/voleibol-de-playa/voleibol-de-playa/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Voleibol de playa",
+            "term_title_slug": "voleibol-de-playa",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Beach volleyball",
+            "term_title_slug": "beach-volleyball"
+        },
+        "fr": {
+            "term_title": "Beach-volley",
+            "term_title_slug": "beach-volley"
+        }
+    }
+}

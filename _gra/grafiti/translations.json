@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "grafiti",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/grafiti/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Grafiti",
+            "term_title_slug": "grafiti"
+        },
+        "en": {
+            "term_title": "Graffiti",
+            "term_title_slug": "graffiti"
+        },
+        "fr": {
+            "term_title": "Graffiti",
+            "term_title_slug": "graffiti"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "ladyfest",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ladyfest/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Ladyfest",
+            "term_title_slug": "ladyfest"
+        },
+        "en": {
+            "term_title": "Ladyfest",
+            "term_title_slug": "ladyfest"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "seneca-falls",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/seneca-falls/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/seneca-falls/seneca-falls/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/seneca-falls/seneca-falls/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/seneca-falls/seneca-falls/blogs.json"
+    },
+    "items": {
+        "youtube.com/2015/02/eruca-sativa-para-que-sigamos-siendo-z%C3%A1rate-31-1-2015": {
+            "title": "Eruca Sativa - Para Que Sigamos Siendo (Z\u00e1rate 31/1/2015)...",
+            "snippet": "Eruca Sativa - Para Que Sigamos Siendo (Z\u00e1rate 31/1/2015) From: Seneca Falls Views: 80 0 ratings Time: 04:41 More in People & Blogs...",
+            "date": "2015-02-01",
+            "author_name": "Seneca Falls",
+            "categories": "seneca-falls",
+            "recuweb_url": "http://es.recuweb.com/seneca-falls/youtube.com/2015/02/eruca-sativa-para-que-sigamos-siendo-z%C3%A1rate-31-1-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=seneca%2Bfalls%2Bseneca%2Bfalls&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=x-1M4clbVPg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/x-1M4clbVPg/0.jpg"
+        }
+    }
+}

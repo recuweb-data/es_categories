@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "desembarcos-navales",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/desembarcos-navales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/blogs.json"
+    },
+    "items": {
+        "lahistoriaconmapas.com/2012/03/el-d%C3%ADa-d-y-desembarco-de-normand%C3%ADa-1944-operation-overlord": {
+            "title": "El D\u00eda D y el Desembarco de Normand\u00eda 1944 Operation Overlord...",
+            "snippet": "Ninguno de los desembarcos navales fueron rechazados por las fuerzas alemanas y todos consiguieron sus objetivos, aunque en diversos grados. En la playa m\u00e1s occidental, la de Utah, la 4 Divisi\u00f3n estadounidense,...",
+            "date": "2012-03-21",
+            "author_name": "Jose",
+            "categories": "desembarcos-navales",
+            "recuweb_url": "http://es.recuweb.com/desembarcos-navales/lahistoriaconmapas.com/2012/03/el-d%C3%ADa-d-y-desembarco-de-normand%C3%ADa-1944-operation-overlord",
+            "resource_url": "http://www.google.com/search?q=desembarcos%2Bnavales&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lahistoriaconmapas.com/europa/alemania/la-operacion-overlord-el-dia-d-y-el-desembarco-de-normandia-1944-operation-overlord-d-day-and-normandy-landings-1944/"
+        }
+    }
+}

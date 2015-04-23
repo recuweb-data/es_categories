@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "religiones-indias",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/religiones-indias/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/religiones-indias/religiones-indias/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/religiones-indias/religiones-indias/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/religiones-indias/religiones-indias/blogs.json"
+    },
+    "items": {
+        "siempre.com.mx/2015/04/octavio-paz-el-escritor-m%C3%A1s-relevante-del-siglo-xx-siempre": {
+            "title": "Octavio Paz, el escritor m\u00e1s relevante del siglo XX - Siempre...",
+            "snippet": "SiempreOctavio Paz, el escritor m\u00e1s relevante del siglo XXSiempreLa obra recorre la literatura universal en busca de la g\u00e9nesis de la idea po\u00e9tica del amor, el amor cort\u00e9s provenzal, del que halla precedentes en las milenarias religiones indias...",
+            "date": "2015-04-19",
+            "categories": "religion,religiones-indias,literatura",
+            "recuweb_url": "http://es.recuweb.com/literatura/siempre.com.mx/2015/04/octavio-paz-el-escritor-m%C3%A1s-relevante-del-siglo-xx-siempre",
+            "resource_url": "http://news.google.es/?hl=es&q=religiones%2Bindias%2Breligiones%2Bindias&output=atom&nord=1",
+            "source_url": "http://siempre.com.mx/2015/04/octavio-paz-el-escritor-mas-relevante-del-siglo-xx/"
+        }
+    }
+}

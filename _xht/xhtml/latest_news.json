@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "xhtml",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/xhtml/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/blogs.json"
+    },
+    "items": {
+        "es.paperblog.com/2015/04/de-traductores-herramientas-trabajo-y-mac-okodia": {
+            "title": "De traductores, herramientas de trabajo y Mac. Okodia Traductores...",
+            "snippet": "es una herramienta escrita en Java, por lo tanto es multiplataforma, que soporta m\u00faltiples formatos de archivos, desde el simple TXT hasta el m\u00e1s complejo XHTML. Su soporte es Unicode UTF-8 lo que significa que podemos utilizarlo para traducir...",
+            "date": "2015-04-06",
+            "categories": "java,xhtml",
+            "tags": "trabajo,xhtml",
+            "recuweb_url": "http://es.recuweb.com/xhtml/es.paperblog.com/2015/04/de-traductores-herramientas-trabajo-y-mac-okodia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xhtml&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/de-traductores-herramientas-de-trabajo-y-mac-okodia-traductores-3145569/"
+        }
+    }
+}

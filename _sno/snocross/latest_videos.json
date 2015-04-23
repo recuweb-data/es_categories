@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "portal_name": "snocross",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/snocross/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/snocross/snocross/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/snocross/snocross/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/snocross/snocross/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/04/c%C3%B3mo-hacer-un-backflip-en-el-x-games-snocross-app": {
+            "title": "C\u00f3mo hacer un Backflip en el X Games SnoCross App...",
+            "snippet": "C\u00f3mo hacer un Backflip en el \"X Games SnoCross\" App From: p\u00e1gina web informaci\u00f3n Views: 13 1 ratings Time: 00:42 More in Howto & Style...",
+            "date": "2014-04-08",
+            "author_name": "p\u00e1gina web informaci\u00f3n",
+            "categories": "snocross",
+            "tags": "games,snocross",
+            "recuweb_url": "http://es.recuweb.com/snocross/youtube.com/2014/04/c%C3%B3mo-hacer-un-backflip-en-el-x-games-snocross-app",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=snocross%2Bsnocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=6_lDwuuT5Eo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/6_lDwuuT5Eo/0.jpg"
+        },
+        "youtube.com/2011/01/tucker-hibbert-checks-in": {
+            "title": "Tucker Hibbert checks in with...",
+            "snippet": "Tucker Hibbert checks in with 5 Winter X Games Snowmobile SnoCross gold medals, 6 Golds overall, 10 medals total. Monster Energy's Tucker Hibbert simply dominates. From: xeduda Views: 128 0 ratings Time: 00:35 More in Sports...",
+            "date": "2011-01-31",
+            "author_name": "xeduda",
+            "categories": "snocross",
+            "tags": "games,snocross",
+            "recuweb_url": "http://es.recuweb.com/snocross/youtube.com/2011/01/tucker-hibbert-checks-in",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=snocross%2Bsnocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=PB3NNrDo4-Q&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/PB3NNrDo4-Q/0.jpg"
+        }
+    }
+}

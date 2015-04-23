@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "lenguajes-web",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lenguajes-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/blogs.json"
+    },
+    "items": {
+        "larepublica.pe/2015/04/cursos-de-formaci%C3%B3n-continua-la-nueva-herramienta-labora-larep%C3%BA": {
+            "title": "Cursos de formaci\u00f3n continua: La nueva herramienta labora - LaRep\u00fa...",
+            "snippet": "LaRep\u00fa de formaci\u00f3n continua: La nueva herramienta laboraLaRep\u00fa ofrecer\u00e1n 4 tipos de talleres: Computaci\u00f3n y Lenguajes de Programaci\u00f3n; Dise\u00f1o Digital, Programaci\u00f3n Web y Animaci\u00f3n 3D; Reparaci\u00f3n de PC's y laptops; y finalmente reparaci\u00f3n...",
+            "date": "2015-04-17",
+            "tags": "web,dise\u00f1o,cursos,lenguajes,programaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/larepublica.pe/2015/04/cursos-de-formaci%C3%B3n-continua-la-nueva-herramienta-labora-larep%C3%BA",
+            "resource_url": "http://news.google.es/?hl=es&q=lenguajes%2Bweb&output=atom&nord=1",
+            "source_url": "http://larepublica.pe/17-04-2015/cursos-de-formacion-continua-la-nueva-herramienta-labora"
+        },
+        "elnuevodia.com/2015/04/boricua-publica-libro-sobre-apps-el-nuevo": {
+            "title": "Boricua publica libro sobre apps - El Nuevo...",
+            "snippet": "El Nuevo publica libro sobre appsEl Nuevo dos maneras de crear aplicaciones m\u00f3viles: Web Apps/H\u00edbridas, que significa que son peque\u00f1os websites que parecen ser apps, o aplicaciones nativas, que son escritas usando lenguajes diferentes a los...",
+            "date": "2015-04-13",
+            "tags": "web,dos,crear,lenguajes",
+            "recuweb_url": "http://es.recuweb.com/elnuevodia.com/2015/04/boricua-publica-libro-sobre-apps-el-nuevo",
+            "resource_url": "http://news.google.es/?hl=es&q=lenguajes%2Bweb&output=atom&nord=1",
+            "source_url": "http://elnuevodia.com/negocios/consumo/nota/boricuapublicalibrosobreapps-2033118/"
+        },
+        "lanacion.com.ar/2015/04/what-s-news-argentina": {
+            "title": "What's News - (Argentina)...",
+            "snippet": "What's (Argentina)LinkedIn acord\u00f3 comprar, sitio web de cursos vocacionales de., por unos millones, lo que constituye la mayor adquisici\u00f3n de la red social para profesionales. Dise\u00f1o web, lenguajes de programaci\u00f3n y software en varios idiomas...",
+            "date": "2015-04-10",
+            "categories": "red-social",
+            "tags": "cursos,web,dise\u00f1o,lenguajes,programaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/red-social/lanacion.com.ar/2015/04/what-s-news-argentina",
+            "resource_url": "http://news.google.es/?hl=es&q=lenguajes%2Bweb&output=atom&nord=1",
+            "source_url": "http://lanacion.com.ar/1783096-whats-news"
+        }
+    }
+}

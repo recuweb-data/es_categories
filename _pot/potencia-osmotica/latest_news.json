@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "potencia-osmotica",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/potencia-osmotica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/blogs.json"
+    },
+    "items": {
+        "noticiaspositivas.net/2010/03/se-inaugura-la-primera-central-de-energ%C3%ADa-osm%C3%B3tica-del-mundo-noticias": {
+            "title": "Se inaugura la primera central de energ\u00eda osm\u00f3tica del mundo - Noticias Positivas...",
+            "snippet": "Se inaugura la primera central de energ\u00eda osm\u00f3tica del mundoNoticias PositivasEsta difusi\u00f3n de l\u00edquido aumenta la presi\u00f3n en la c\u00e1mara del agua de mar hasta un nivel equiparable al de la potencia que podr\u00eda generar una gran catarata de agua.",
+            "date": "2010-03-25",
+            "recuweb_url": "http://es.recuweb.com/noticiaspositivas.net/2010/03/se-inaugura-la-primera-central-de-energ%C3%ADa-osm%C3%B3tica-del-mundo-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=potencia%2Bosmotica%2Bpotencia%2Bosmotica&output=atom&nord=1",
+            "source_url": "http://noticiaspositivas.net/2010/03/26/se-inaugura-la-primera-central-de-energia-osmotica-del-mundo/"
+        }
+    }
+}

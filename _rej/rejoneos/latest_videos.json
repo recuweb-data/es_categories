@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "rejoneos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rejoneos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rejoneos/rejoneos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rejoneos/rejoneos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rejoneos/rejoneos/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/04/pablo-hermoso-de-mendoza-la-revoluci%C3%B3n-del-rejoneo": {
+            "title": "Pablo Hermoso de Mendoza, La Revoluci\u00f3n del Rejoneo...",
+            "snippet": "Pablo Hermoso de Mendoza, La Revoluci\u00f3n del Rejoneo Pablo Hermoso de Mendoza rejoneador espa\u00f1ol. Actualmente est\u00e1 considerado el mejor torero a caballo del mundo y el parte aguas que hizo evolucionar el rejoneo. Se inici\u00f3 de ni\u00f1o en la...",
+            "date": "2014-04-28",
+            "author_name": "Juncal",
+            "categories": "torero",
+            "tags": "torero,rejoneo,pablo,hermoso,mendoza",
+            "recuweb_url": "http://es.recuweb.co/torero/youtube.com/2014/04/pablo-hermoso-de-mendoza-la-revoluci%C3%B3n-del-rejoneo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rejoneos%2Brejoneos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=sgXyiAlzjFg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sgXyiAlzjFg/0.jpg"
+        },
+        "dailymotion.com/2008/04/piel-de-toro-cap%C3%ADtulo-13-secretos-del-rejoneo": {
+            "title": "Piel de Toro - Cap\u00edtulo 13 - Secretos del Rejoneo...",
+            "snippet": "Serie Piel de Toro. Cap\u00edtulo 12. Secretos del: burladero_esTags: toros torero rejoneo piel toro Posted: 30 April 2008Rating:: 5...",
+            "date": "2008-04-30",
+            "author_name": "burladero_es",
+            "categories": "torero",
+            "tags": "torero,rejoneo",
+            "recuweb_url": "http://es.recuweb.co/torero/dailymotion.com/2008/04/piel-de-toro-cap%C3%ADtulo-13-secretos-del-rejoneo",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rejoneos+rejoneos/0?af=1",
+            "source_url": "http://dailymotion.com/video/x59k9b_piel-de-toro-capitulo-13-secretos-d_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x59k9b_piel-de-toro-capitulo-13-secretos-d_creation"
+        },
+        "youtube.com/2008/03/rejoneos-en-marbella": {
+            "title": "Rejoneos en Marbella...",
+            "snippet": "Rejoneos en Marbella Pablo Hermoso de Mendoza en una exibici\u00f3n de maestr\u00eda. Sabado 22 de marzo de 2008. Junto con Sabri. From: cordobaenmalaga Views: 757 0 ratings Time: 00:26 More in Sports...",
+            "date": "2008-03-24",
+            "author_name": "cordobaenmalaga",
+            "categories": "rejoneos",
+            "tags": "pablo,hermoso,mendoza",
+            "recuweb_url": "http://es.recuweb.com/rejoneos/youtube.com/2008/03/rejoneos-en-marbella",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rejoneos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=AHDkEcW8ko4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/AHDkEcW8ko4/0.jpg"
+        }
+    }
+}

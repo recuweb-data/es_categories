@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "friendfeed",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/friendfeed/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/friendfeed/friendfeed/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/friendfeed/friendfeed/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/friendfeed/friendfeed/blogs.json"
+    },
+    "items": {
+        "youtube.com/2011/02/friendfeed-y-las-unidades-de-informaci%C3%B3n": {
+            "title": "Friendfeed y las unidades de informaci\u00f3n...",
+            "snippet": "Friendfeed y las unidades de informaci\u00f3n Tutorial b\u00e1sico. Aplicaciones de FriendFeed en bibliotecas. From: Diana Rodriguez Views: 282 2 ratings Time: 05:30 More in Science & Technology...",
+            "date": "2011-02-07",
+            "author_name": "Diana Rodriguez",
+            "categories": "friendfeed",
+            "tags": "friendfeed",
+            "recuweb_url": "http://es.recuweb.com/friendfeed/youtube.com/2011/02/friendfeed-y-las-unidades-de-informaci%C3%B3n",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=friendfeed%2Bfriendfeed&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=jYRD5fJV2l0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jYRD5fJV2l0/0.jpg"
+        },
+        "youtube.com/2009/02/web-2-0-como-utilizar-friendfeed-integrado-en-redes-sociales": {
+            "title": "Web 2.0 Como utilizar friendfeed integrado en redes sociales...",
+            "snippet": "Web 2.0 Como utilizar friendfeed integrado en redes sociales - Friendfeed es una fant\u00e1stica herramienta para integrar tus diferentes contenidos procedentes de youtube, twitter, mi blog, en mis redes sociales como fecebook. From: Roberto Cerrada...",
+            "date": "2009-02-12",
+            "author_name": "Roberto Cerrada",
+            "categories": "friendfeed,twitter",
+            "tags": "friendfeed",
+            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2009/02/web-2-0-como-utilizar-friendfeed-integrado-en-redes-sociales",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=friendfeed%2Bfriendfeed&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=5V5xx_44d2o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5V5xx_44d2o/0.jpg"
+        },
+        "youtube.com/2008/06/friendfeed-y-como-usar": {
+            "title": "Friendfeed y Como Usar Friendfeed...",
+            "snippet": "Friendfeed y Como Usar Friendfeed video sobre friendfeed. From: Lasse Rouhiainen Views: 2386 4 ratings Time: 09:57 More in Howto & Style...",
+            "date": "2008-06-12",
+            "author_name": "Lasse Rouhiainen",
+            "categories": "friendfeed",
+            "tags": "friendfeed",
+            "recuweb_url": "http://es.recuweb.com/friendfeed/youtube.com/2008/06/friendfeed-y-como-usar",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=friendfeed%2Bfriendfeed&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=lycbQUnWM5M&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/lycbQUnWM5M/0.jpg"
+        }
+    }
+}

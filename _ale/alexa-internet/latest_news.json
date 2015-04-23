@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "alexa-internet",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/alexa-internet/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/blogs.json"
+    },
+    "items": {
+        "elespectador.com/2015/04/alexa-la-archirrival-de-siri-se-fortalece": {
+            "title": "Alexa, la 'archirrival'de Siri, se fortalece -...",
+            "snippet": ", la 'archirrival'de Siri, se gigante estadounidense de la distribuci\u00f3n en l\u00ednea tambi\u00e9n a\u00f1adi\u00f3 otras funciones, como la integraci\u00f3n del servicio de radio por internet Pandora, la informaci\u00f3n sobre el tr\u00e1fico y recordatorios de agenda. Estas...",
+            "date": "2015-04-09",
+            "categories": "radio,internet",
+            "tags": "tr\u00e1fico,integraci\u00f3n,integraci\u00f3n-del-servicio,servicio,servicio-de-radio,radio,gigante,gigante-estadounidense,estadounidense,distribuci\u00f3n,distribuci\u00f3n-en-l\u00ednea,l\u00ednea,l\u00ednea-tambi\u00e9n-a\u00f1adi\u00f3,a\u00f1adi\u00f3,a\u00f1adi\u00f3-otras-funciones,funciones,alexa,internet,pandora",
+            "recuweb_url": "http://es.recuweb.com/internet/elespectador.com/2015/04/alexa-la-archirrival-de-siri-se-fortalece",
+            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet%2Balexa%2Binternet&output=atom&nord=1",
+            "source_url": "http://elespectador.com/tecnologia/alexa-archirrival-de-siri-se-fortalece-articulo-554049"
+        },
+        "elcomercio.pe/2015/04/amazon-le-da-superpoderes-a-alexa-su-asistente-personal-el-comercio": {
+            "title": "Amazon le da 'superpoderes'a Alexa, su asistente personal - El Comercio...",
+            "snippet": "El ComercioAmazon le da 'superpoderes'a Alexa, su asistente personalEl ComercioEl gigante estadounidense de la distribuci\u00f3n en l\u00ednea tambi\u00e9n a\u00f1adi\u00f3 otras funciones a Alexa, como la integraci\u00f3n del servicio de radio por internet Pandora, la...",
+            "date": "2015-04-09",
+            "categories": "radio,internet",
+            "tags": "integraci\u00f3n,integraci\u00f3n-del-servicio,servicio,servicio-de-radio,radio,gigante,gigante-estadounidense,estadounidense,distribuci\u00f3n,distribuci\u00f3n-en-l\u00ednea,l\u00ednea,l\u00ednea-tambi\u00e9n-a\u00f1adi\u00f3,a\u00f1adi\u00f3,a\u00f1adi\u00f3-otras-funciones,funciones,alexa,internet,pandora",
+            "recuweb_url": "http://es.recuweb.com/internet/elcomercio.pe/2015/04/amazon-le-da-superpoderes-a-alexa-su-asistente-personal-el-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/tecnologia/empresas/amazon-le-da-superpoderes-alexa-su-asistente-personal-noticia-1802926"
+        }
+    }
+}

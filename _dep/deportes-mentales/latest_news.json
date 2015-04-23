@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "deportes-mentales",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-mentales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-mentales/deportes-mentales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-mentales/deportes-mentales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-mentales/deportes-mentales/blogs.json"
+    },
+    "items": {
+        "eltiempo.com/2015/03/el-joven-que-llev%C3%B3-ajedrez-a-la-ciclov%C3%ADa": {
+            "title": "El joven que llev\u00f3 el ajedrez a la ciclov\u00eda...",
+            "snippet": "Todo su trabajo y la lucha diaria golpeando puertas sirvieron para que el fin de semana pasado se diera la apertura del primero de diez puntos de Deportes mentales en la avenida Boyac\u00e1 con calle 138. Muy temprano no lleg\u00f3 mucha gente...",
+            "date": "2015-03-26",
+            "categories": "ajedrez",
+            "tags": "deportes,mentales",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/eltiempo.com/2015/03/el-joven-que-llev%C3%B3-ajedrez-a-la-ciclov%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bmentales&format=RSS&cc=es",
+            "source_url": "http://eltiempo.com/bogota/ajedrez-en-la-ciclovia-de-bogota/15471117"
+        },
+        "lapalma.diariodeavisos.com/2015/03/san-antonio-acoge-las-viii-olimpiadas-infantiles-de-deportes-mentales-primavera": {
+            "title": "San Antonio acoge las VIII Olimpiadas Infantiles de Deportes Mentales de Primavera...",
+            "snippet": "La Sociedad Juventud Espa\u00f1ola de San Antonio, en Bre\u00f1a Baja, acoger\u00e1 los pr\u00f3ximos d\u00edas 30 y 31 de marzo el proyecto Aprender Jugando La Palma, en cuyo marco se celebrar\u00e1n las VIII Olimpiadas Infantiles de Deportes Mentales de Primavera.",
+            "date": "2015-03-26",
+            "categories": "sociedad,deportes-mentales",
+            "tags": "deportes,deportes_mentales,mentales",
+            "recuweb_url": "http://es.recuweb.com/deportes-mentales/lapalma.diariodeavisos.com/2015/03/san-antonio-acoge-las-viii-olimpiadas-infantiles-de-deportes-mentales-primavera",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bmentales&format=RSS&cc=es",
+            "source_url": "http://lapalma.diariodeavisos.com/2015/03/26/san-antonio-acoge-las-viii-olimpiadas-infantiles-de-deportes-mentales-de-primavera/"
+        }
+    }
+}

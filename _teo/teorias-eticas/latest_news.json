@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "teorias-eticas",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/teorias-eticas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/teorias-eticas/teorias-eticas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/teorias-eticas/teorias-eticas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/teorias-eticas/teorias-eticas/blogs.json"
+    },
+    "items": {
+        "eleconomista.com.mx/2015/04/las-conspiraciones-que-todos-creen-el-economista": {
+            "title": "Las conspiraciones que todos creen - El Economista...",
+            "snippet": "Las conspiraciones que todos creenEl EconomistaQuiz\u00e1 abrazamos las teor\u00edas de conspiraci\u00f3n porque es m\u00e1s f\u00e1cil creerlas que pensar que nuestras estructuras sociales, morales y \u00e9ticas est\u00e1n fallando y requieren trabajo. Quiz\u00e1 porque encontrar...",
+            "date": "2015-04-22",
+            "tags": "teor\u00edas,\u00e9ticas",
+            "recuweb_url": "http://es.recuweb.com/eleconomista.com.mx/2015/04/las-conspiraciones-que-todos-creen-el-economista",
+            "resource_url": "http://news.google.es/?hl=es&q=teorias%2Beticas&output=atom&nord=1",
+            "source_url": "http://eleconomista.com.mx/las-horas-perdidas/2015/04/21/las-conspiraciones-que-todos-creen"
+        }
+    }
+}

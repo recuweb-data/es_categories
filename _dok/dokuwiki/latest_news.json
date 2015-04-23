@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "portal_name": "dokuwiki",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/dokuwiki/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
+    },
+    "items": {
+        "automatedbuildings.com/2015/03/self-learning-knowledge-sharing-platforms-press-release": {
+            "title": "Self-Learning Knowledge Sharing Platforms - (press release)...",
+            "snippet": "Self-Learning Knowledge Sharing (press release) DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database. It is loved by users for its clean and readable syntax. The ease of maintenance, backup and...",
+            "date": "2015-03-30",
+            "categories": "wiki,dokuwiki",
+            "tags": "wiki,that,open,source,simple,versatile,dokuwiki",
+            "recuweb_url": "http://es.recuweb.com/dokuwiki/automatedbuildings.com/2015/03/self-learning-knowledge-sharing-platforms-press-release",
+            "resource_url": "http://news.google.es/?hl=es&q=dokuwiki&output=atom&nord=1",
+            "source_url": "http://automatedbuildings.com/news/apr15/reviews/1503035901wiki.html"
+        },
+        "techrepublic.com/2013/10/handle-some-common-administration-tasks-in-dokuwiki-techrepublic-blog": {
+            "title": "Handle some common Administration tasks in DokuWiki - TechRepublic (blog)...",
+            "snippet": "Handle some common Administration tasks in DokuWikiTechRepublic (blog)Last week, I described why and how to set up your own wiki with Dokuwiki, a simple open source wiki package that works without any relational database. Now, as promised, I'll dig...",
+            "date": "2013-10-09",
+            "categories": "wiki,dokuwiki",
+            "tags": "simple,open,source,wiki,that,described,why,how,how-to-set,your,your-own,your-own-wiki,own,own-wiki,dokuwiki,techrepublic,dokuwikitechrepublic",
+            "recuweb_url": "http://es.recuweb.com/dokuwiki/techrepublic.com/2013/10/handle-some-common-administration-tasks-in-dokuwiki-techrepublic-blog",
+            "resource_url": "http://news.google.es/?hl=es&q=dokuwiki&output=atom&nord=1",
+            "source_url": "http://techrepublic.com/blog/linux-and-open-source/handle-some-common-administration-tasks-in-dokuwiki/"
+        },
+        "techrepublic.com/2013/10/why-and-how-to-set-up-your-own-wiki-with-dokuwiki": {
+            "title": "Why and how to set up your own wiki with Dokuwiki - TechRepublic (blog)...",
+            "snippet": "Why and how to set up your own wiki with DokuwikiTechRepublic (blog)DokuWiki is a simple but versatile wiki. It's a good solution for cases like the one I just described, demanding only a web hosting account with PHP support. In this post, I'll...",
+            "date": "2013-10-04",
+            "categories": "wiki,dokuwiki,php",
+            "tags": "web,described,simple,versatile,wiki,how,how-to-set,your,your-own,your-own-wiki,own,own-wiki,why,dokuwiki,techrepublic,dokuwikitechrepublic,hosting",
+            "recuweb_url": "http://es.recuweb.com/php/techrepublic.com/2013/10/why-and-how-to-set-up-your-own-wiki-with-dokuwiki",
+            "resource_url": "http://news.google.es/?hl=es&q=dokuwiki&output=atom&nord=1",
+            "source_url": "http://techrepublic.com/blog/linux-and-open-source/why-and-how-to-set-up-your-own-wiki-with-dokuwiki/"
+        },
+        "cmscritic.com/2011/05/dokuwiki-review-cms-critic": {
+            "title": "DokuWiki Review - CMS Critic...",
+            "snippet": "DokuWiki ReviewCMS CriticI've never reviewed a wiki platform yet, so I thought I'd break new ground and do so starting with one of my personal favourites, DokuWiki. Here is my DokuWiki Review for your enjoyment. DokuWiki is a standards compliant,...",
+            "date": "2011-05-25",
+            "categories": "wiki,dokuwiki",
+            "tags": "your,wiki,cms,dokuwiki",
+            "recuweb_url": "http://es.recuweb.com/dokuwiki/cmscritic.com/2011/05/dokuwiki-review-cms-critic",
+            "resource_url": "http://news.google.es/?hl=es&q=dokuwiki&output=atom&nord=1",
+            "source_url": "http://cmscritic.com/dokuwiki-review/"
+        },
+        "lifehacker.com.au/2010/10/dokuwiki-on-a-stick-packs-portable-wiki-in-tiny-package-lifehacker": {
+            "title": "DokuWiki On A Stick Packs A Portable Wiki In A Tiny Package - Lifehacker Australia...",
+            "snippet": "DokuWiki On A Stick Packs A Portable Wiki In A Tiny PackageLifehacker AustraliaWindows: If you've forgone installing a Wiki because configuring and running your own web server seemed like a pain, DokuWiki on a Stick packs DokuWiki into a tiny and...",
+            "date": "2010-10-25",
+            "categories": "dokuwiki,wiki",
+            "tags": "your,your-own,own,web,dokuwiki,wiki",
+            "recuweb_url": "http://es.recuweb.com/wiki/lifehacker.com.au/2010/10/dokuwiki-on-a-stick-packs-portable-wiki-in-tiny-package-lifehacker",
+            "resource_url": "http://news.google.es/?hl=es&q=dokuwiki&output=atom&nord=1",
+            "source_url": "http://lifehacker.com.au/2010/10/dokuwiki-on-a-stick-packs-a-portable-wiki-in-a-tiny-package/"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "rejoneos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/rejoneos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/rejoneos/rejoneos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/rejoneos/rejoneos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/rejoneos/rejoneos/blogs.json"
+    },
+    "items": {
+        "elperiodic.com/2014/02/valencia-cede-el-hist%C3%B3rico-caj%C3%B3n-de-curas-al-nuevo-museo-periodic": {
+            "title": "Valencia cede el hist\u00f3rico caj\u00f3n de curas al nuevo museo de... - el periodic...",
+            "snippet": "Valencia cede el hist\u00f3rico caj\u00f3n de curas al nuevo museo de...el periodicEn la plaza sirve para afeitar los pitones al toro en caso de que el reglamento lo estime necesario para rejoneos, festivales ben\u00e9ficos, etc; colgar los cencerros a los...",
+            "date": "2014-02-07",
+            "categories": "rejoneos",
+            "tags": "rejoneos,toro",
+            "recuweb_url": "http://es.recuweb.com/rejoneos/elperiodic.com/2014/02/valencia-cede-el-hist%C3%B3rico-caj%C3%B3n-de-curas-al-nuevo-museo-periodic",
+            "resource_url": "http://news.google.es/?hl=es&q=rejoneos&output=atom&nord=1",
+            "source_url": "http://elperiodic.com/requena/noticias/284878_valencia-cede-historico-cajon-curas-nuevo-museo-requena.html"
+        },
+        "lasprovincias.es/2013/05/la-comunitat-blinda-los-bous-al-carrer-las-provincias": {
+            "title": "La Comunitat blinda los bous al carrer - Las Provincias...",
+            "snippet": "La Comunitat blinda los bous al carrerLas ProvinciasAdem\u00e1s del bou al carrer, la Comunitat acogi\u00f3 otros 79 festejos taurinos el pasado ejercicio, entre los que destacan 34 corridas de toros, cuatro rejoneos con toros, otros tres con novillos, 16...",
+            "date": "2013-05-18",
+            "categories": "rejoneos",
+            "tags": "rejoneos,toros",
+            "recuweb_url": "http://es.recuweb.com/rejoneos/lasprovincias.es/2013/05/la-comunitat-blinda-los-bous-al-carrer-las-provincias",
+            "resource_url": "http://news.google.es/?hl=es&q=rejoneos&output=atom&nord=1",
+            "source_url": "http://lasprovincias.es/v/20130519/comunitat/comunitat-blinda-bous-carrer-20130519.html"
+        }
+    }
+}

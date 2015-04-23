@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "automovilismo-de-velocidad",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/automovilismo-de-velocidad/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/blogs.json"
+    },
+    "items": {
+        "noticiasdel6.com/2015/02/automovilismo-se-pospuso-una-semana-el-inicio-del-misionero": {
+            "title": "Automovilismo: se pospuso una semana el inicio del Misionero de... -...",
+            "snippet": "Automovilismo: se pospuso una semana el inicio del Misionero de... ra\u00edz de un pedido de los directivos responsables de la organizaci\u00f3n del Campeonato Argentino de Velocidad, que se corre en Posadas en la misma fecha en que se estar\u00eda...",
+            "date": "2015-02-25",
+            "categories": "automovilismo",
+            "tags": "argentino,automovilismo,velocidad",
+            "recuweb_url": "http://es.recuweb.com/automovilismo/noticiasdel6.com/2015/02/automovilismo-se-pospuso-una-semana-el-inicio-del-misionero",
+            "resource_url": "http://news.google.es/?hl=es&q=automovilismo%2Bde%2Bvelocidad&output=atom&nord=1",
+            "source_url": "http://noticiasdel6.com/ampliar.php?id=143313&t=automovilismo:-se-pospuso-una-semana-el-"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "carreras-de-relevos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/carreras-de-relevos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/carreras-de-relevos/carreras-de-relevos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/carreras-de-relevos/carreras-de-relevos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/carreras-de-relevos/carreras-de-relevos/blogs.json"
+    },
+    "items": {
+        "youtube.com/2012/10/ni%C3%B1os-de-la-comuna-18-cali-compitieron-en-carreras-relevos": {
+            "title": "Ni\u00f1os de la Comuna 18 de Cali compitieron en carreras de relevos para salvar la ni\u00f1ez...",
+            "snippet": "Ni\u00f1os de la Comuna 18 de Cali compitieron en carreras de relevos para salvar la ni\u00f1ez Unos 400 ni\u00f1os de la comuna 18 de Cali se dieron cita este martes en Comfandi de Pance para participar en una carrera de relevos y con ella celebrar un a\u00f1o...",
+            "date": "2012-10-16",
+            "author_name": "elpaiscali",
+            "categories": "carreras-de-relevos",
+            "recuweb_url": "http://es.recuweb.com/carreras-de-relevos/youtube.com/2012/10/ni%C3%B1os-de-la-comuna-18-cali-compitieron-en-carreras-relevos",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=carreras%2Bde%2Brelevos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=MpmRiq8BaGM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/MpmRiq8BaGM/0.jpg"
+        }
+    }
+}

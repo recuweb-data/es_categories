@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "computadoras-portables",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadoras-portables/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadoras-portables/computadoras-portables/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadoras-portables/computadoras-portables/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadoras-portables/computadoras-portables/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/11/como-cambiar-la-resolucion-de-pantalla-en-windows-8-para-computadoras": {
+            "title": "Como cambiar la resolucion de la pantalla en windows 8 para computadoras portables que no abren...",
+            "snippet": "Como cambiar la resolucion de la pantalla en windows 8 para computadoras portables que no abren apli Subscribanse codigos en ejecutar: regedit en la ventana buscar: Display1_DownScalingSupported. From: Super Tutoguias Views: 23 0 ratings Time: 04:52...",
+            "date": "2014-11-05",
+            "author_name": "Super Tutoguias",
+            "categories": "computadora,computadoras-portables",
+            "recuweb_url": "http://es.recuweb.com/computadoras-portables/youtube.com/2014/11/como-cambiar-la-resolucion-de-pantalla-en-windows-8-para-computadoras",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=computadoras%2Bportables&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=7ls9JjnMKmE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7ls9JjnMKmE/0.jpg"
+        }
+    }
+}

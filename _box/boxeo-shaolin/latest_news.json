@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "boxeo-shaolin",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/boxeo-shaolin/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/boxeo-shaolin/boxeo-shaolin/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/boxeo-shaolin/boxeo-shaolin/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/boxeo-shaolin/boxeo-shaolin/blogs.json"
+    },
+    "items": {
+        "lagranepoca.com/2014/10/zhang-sanfeng-el-incomparable-inmortal-del-monte-wudang-lagranepoca": {
+            "title": "Zhang Sanfeng, el incomparable inmortal del Monte Wudang - lagranepoca...",
+            "snippet": "Zhang Sanfeng, el incomparable inmortal del Monte WudanglagranepocaLa escuela de artes marciales del tao\u00edsmo de Wudang comparti\u00f3 el mismo prestigio que la escuela Shaolin de artes marciales del budismo, la m\u00e1s prestigiosa pr\u00e1ctica del boxeo...",
+            "date": "2014-10-01",
+            "categories": "budismo,escuela,boxeo",
+            "tags": "escuela,shaolin,boxeo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/lagranepoca.com/2014/10/zhang-sanfeng-el-incomparable-inmortal-del-monte-wudang-lagranepoca",
+            "resource_url": "http://news.google.es/?hl=es&q=boxeo%2Bshaolin%2Bboxeo%2Bshaolin&output=atom&nord=1",
+            "source_url": "http://lagranepoca.com/33042-zhang-sanfeng-incomparable-inmortal-del-monte-wudang"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "foros-internet",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/foros-internet/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/blogs.json"
+    },
+    "items": {
+        "14ymedio.com/2015/04/varela-y-zuckerberg-anuncian-internet-gratis-para-los-paname%C3%B1os": {
+            "title": "Varela y Zuckerberg anuncian Internet gratis para los paname\u00f1os -...",
+            "snippet": "y Zuckerberg anuncian Internet gratis para los paname\u00f1... hacer a internet accesible a m\u00e1s paname\u00f1os\", a\u00f1adi\u00f3 Varela. La II Cumbre empresarial es uno de los cuatro foros oficiales previos a la VII Cumbre de las Am\u00e9ricas que entre este viernes...",
+            "date": "2015-04-10",
+            "categories": "internet",
+            "tags": "gratis,internet,foros",
+            "recuweb_url": "http://es.recuweb.com/internet/14ymedio.com/2015/04/varela-y-zuckerberg-anuncian-internet-gratis-para-los-paname%C3%B1os",
+            "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet&output=atom&nord=1",
+            "source_url": "http://14ymedio.com/sociedad/Varela-Zuckerberg-anuncian-Internet-panamenos_0_1758424145.html"
+        }
+    }
+}

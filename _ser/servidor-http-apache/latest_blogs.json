@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "portal_name": "servidor-http-apache",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/servidor-http-apache/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/blogs.json"
+    },
+    "items": {
+        "thehackerway.com/2015/02/conceptos-b%C3%A1sicos-de-hsts-y-configuraci%C3%B3n-en-apache-seguridad": {
+            "title": "Conceptos b\u00e1sicos de HSTS y configuraci\u00f3n en Apache Seguridad...",
+            "snippet": "HSTS es un mecanismo que se encuentra soportado por los principales servidores web modernos, tales como Apache o NGNIX y adem\u00e1s, navegadores a la altura de Firefox, Opera o Chrome soportan las cabeceras HTTP...",
+            "date": "2015-02-19",
+            "author_name": "adastra",
+            "tags": "navegadores,adem\u00e1s,apache,configuraci\u00f3n,servidores,web,http",
+            "recuweb_url": "http://es.recuweb.com/thehackerway.com/2015/02/conceptos-b%C3%A1sicos-de-hsts-y-configuraci%C3%B3n-en-apache-seguridad",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://thehackerway.com/2015/02/19/conceptos-basicos-de-hsts-y-configuracion-en-apache/"
+        },
+        "blog.desdelinux.net/2015/02/apache-benchmark-gnuplot-medir-y-graficar-el-rendimiento": {
+            "title": "Apache Benchmark GNUPlot: Medir y graficar el rendimiento de tu...",
+            "snippet": "... ab, Apache, benchmark, rendimiendo 9; 2284. Da igual si se usa Nginx, Apache, Lighttpd u otro, cualquier administrador de red que tenga un servidor web desear\u00e1 en alg\u00fan punto saber qu\u00e9 tan r\u00e1pido responde el servidor web a un n\u00famero...",
+            "date": "2015-02-16",
+            "author_name": "KZKG^Gaara",
+            "tags": "alg\u00fan,saber,red,apache,servidor,web",
+            "recuweb_url": "http://es.recuweb.com/blog.desdelinux.net/2015/02/apache-benchmark-gnuplot-medir-y-graficar-el-rendimiento",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.desdelinux.net/apache-benchmark-gnuplot-medir-rendimiento-de-servidor-web/"
+        },
+        "albyta1989.wordpress.com/2015/02/creaci%C3%B3n-servidor-web-con-apache-en-ubuntu": {
+            "title": "CREACI\u00d3N SERVIDOR WEB CON APACHE EN UBUNTU...",
+            "snippet": "En otras entradas de este blog ya hemos hablado del servidor Apache. Ahora dicho servidor o vamos a utilizar para crear un servidor web en nuestra m\u00e1quina Ubuntu. Instalamos...",
+            "date": "2015-02-15",
+            "author_name": "albyta1989",
+            "tags": "servidor,servidor_web,web,apache,ubuntu,crear",
+            "recuweb_url": "http://es.recuweb.com/albyta1989.wordpress.com/2015/02/creaci%C3%B3n-servidor-web-con-apache-en-ubuntu",
+            "resource_url": "http://es.search.wordpress.com/?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&f=feed&page=1",
+            "source_url": "http://albyta1989.wordpress.com/2015/02/15/creacion-servidor-web-con-apache-en-ubuntu/"
+        },
+        "fresahost.com/2015/02/trucos-apache-como-servidor-web-fresahost": {
+            "title": "trucos apache como servidor web FresaHost...",
+            "snippet": "If you can read this page, it means that the. Apache HTTP server installed at this site is working properly. Esquema del Filesystem de Apache: x. apache. Document Root: Carpeta ra\u00edz de todos los archivos del servidor web...",
+            "date": "2015-02-15",
+            "author_name": "admin",
+            "tags": "archivos,apache,apache_http,http,servidor,web,server",
+            "recuweb_url": "http://es.recuweb.com/fresahost.com/2015/02/trucos-apache-como-servidor-web-fresahost",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fresahost.com/trucos-apache-como-servidor-web/"
+        },
+        "cyberspace.com.es/2015/02/servidor-http-apache-cyberspace": {
+            "title": "Servidor HTTP Apache Cyberspace...",
+            "snippet": "El servidor HTTP Apache es un servidor web HTTP de c\u00f3digo abierto, para plataformas Unix (BSD, GNU/L.",
+            "date": "2015-02-05",
+            "author_name": "admin",
+            "categories": "servidor-http-apache",
+            "tags": "plataformas,http,http_apache,apache,servidor,servidor_http,servidor_http_apache,web,c\u00f3digo,abierto,unix,bsd,gnu",
+            "recuweb_url": "http://es.recuweb.com/servidor-http-apache/cyberspace.com.es/2015/02/servidor-http-apache-cyberspace",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cyberspace.com.es/servidor-http-apache/"
+        },
+        "empiezoinformatica.wordpress.com/2015/02/servidor-http-apache-inform%C3%A1tica-educativa": {
+            "title": "Servidor HTTP Apache Inform\u00e1tica Educativa...",
+            "snippet": "El servidor HTTP Apache es un servidor web HTTP de c\u00f3digo abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras, que implementa el protocolo HTTP/1.1 2 y la noci\u00f3n de sitio virtual.",
+            "date": "2015-02-05",
+            "author_name": "carlosfmur1948",
+            "categories": "servidor-http-apache,macintosh",
+            "tags": "microsoft,microsoft_windows,windows,plataformas,http,http_apache,apache,servidor,servidor_http,servidor_http_apache,web,c\u00f3digo,abierto,unix,bsd,gnu,linux,etc,macintosh",
+            "recuweb_url": "http://es.recuweb.com/macintosh/empiezoinformatica.wordpress.com/2015/02/servidor-http-apache-inform%C3%A1tica-educativa",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://empiezoinformatica.wordpress.com/2015/02/05/servidor-http-apache/"
+        },
+        "hackplayers.com/2015/01/fortificaci%C3%B3n-ssl-en-servidores-web-apache-e-iis-hackplayers": {
+            "title": "Fortificaci\u00f3n SSL en servidores web Apache e IIS: hackplayers...",
+            "snippet": "HTTP Strict Transport Security Esta configuraci\u00f3n en el servidor instruye a los agentes de usuario (o navegadores) inyect\u00e1ndoles una cabecera para que s\u00f3lo hagan conexiones HTTPS al servidor web. OWASP lo detalla...",
+            "date": "2015-01-15",
+            "author_name": "Vicente Motos",
+            "tags": "s\u00f3lo,navegadores,configuraci\u00f3n,https,servidores,servidor,web,apache,iis",
+            "recuweb_url": "http://es.recuweb.com/hackplayers.com/2015/01/fortificaci%C3%B3n-ssl-en-servidores-web-apache-e-iis-hackplayers",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hackplayers.com/2015/01/fortificacion-ssl-en-servidores-web.html"
+        },
+        "blog.telmex.com/2015/01/telmexhub-certifica-a-25-alumnos-como-administradores": {
+            "title": "TelmexHub certifica a 25 alumnos como administradores de...",
+            "snippet": "Apache no s\u00f3lo es el nombre de una Tribu nativa de Norte Am\u00e9rica, tambi\u00e9n es la denominaci\u00f3n de uno de los servidores HTTP m\u00e1s populares, que adem\u00e1s tiene la ve.",
+            "date": "2015-01-15",
+            "author_name": "Telmex",
+            "tags": "adem\u00e1s,s\u00f3lo,apache,servidores,http",
+            "recuweb_url": "http://es.recuweb.com/blog.telmex.com/2015/01/telmexhub-certifica-a-25-alumnos-como-administradores",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.telmex.com/2015/01/15/telmexhub-certifica-a-25-alumnos-como-administradores-de-servidor-web-con-apache/"
+        },
+        "oscargascon.es/2014/11/ejecutar-en-un-servidor-apache-versiones-diferentes-de-php": {
+            "title": "Ejecutar en un servidor Apache versiones diferentes de PHP con...",
+            "snippet": "Pueden existir ocasiones en las que necesites ejecutar diferentes versiones de PHP en un \u00fanico servidor Apache. Los motivos pueden ser muy variados: necesitas varios entornos de desarrollo, tienes que servir alg\u00fan...",
+            "date": "2014-11-30",
+            "author_name": "oscar",
+            "categories": "php",
+            "tags": "alg\u00fan,entornos,pueden,diferentes,servidor,apache,php",
+            "recuweb_url": "http://es.recuweb.com/php/oscargascon.es/2014/11/ejecutar-en-un-servidor-apache-versiones-diferentes-de-php",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://oscargascon.es/ejecutar-en-un-servidor-apache-versiones-diferentes-de-phpfarm-guia-de-uso/"
+        },
+        "altabulador.com/2014/10/introducci%C3%B3n-al-servidor-web-apache-alt-tabulador": {
+            "title": "Introducci\u00f3n al servidor web Apache - Alt Tabulador...",
+            "snippet": "El cliente se comunica con el servidor a trav\u00e9s de comandos que representan las diferentes operaciones que se le pueden solicitar al servidor HTTP. Los comandos se componen de GET, POST, HEAD, PUT, DELETE,...",
+            "date": "2014-10-02",
+            "author_name": "Alan Garc\u00eda",
+            "tags": "diferentes,pueden,servidor,web,apache,http",
+            "recuweb_url": "http://es.recuweb.com/altabulador.com/2014/10/introducci%C3%B3n-al-servidor-web-apache-alt-tabulador",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://altabulador.com/introduccion-al-servidor-web-apache/"
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sqlite/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "items": {
+        "youtube.com/2015/03/tutorial-sqlite-studio-tema01-conociendo-la-aplicaci%C3%B3n": {
+            "title": "Tutorial SQLite Studio - Tema01: Conociendo la aplicaci\u00f3n...",
+            "snippet": "Tutorial SQLite Studio - Tema01: Conociendo la aplicaci\u00f3n From: conestecurso Views: 141 3 ratings Time: 19:49 More in Education...",
+            "date": "2015-03-11",
+            "author_name": "conestecurso",
+            "categories": "sqlite",
+            "tags": "tutorial,sqlite,studio,education",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2015/03/tutorial-sqlite-studio-tema01-conociendo-la-aplicaci%C3%B3n",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=wvD9D9GQS2o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/wvD9D9GQS2o/0.jpg"
+        },
+        "dailymotion.com/2015/02/extraer-los-conceptos-de-un-cfdi-v3-2-xml-en-c": {
+            "title": "Extraer los conceptos de un CFDI V3.2 XML en C...",
+            "snippet": "Que tal compa\u00f1eros, les dejo el videotutorial donde podran ver como extraer los conceptos de un CFDI y guardarlos en un archivo de base de datos SQLite, programando en Visual Studio C 2013Author: elJulius555Tags: Posted: 26 February 2015Rating:: 0...",
+            "date": "2015-02-26",
+            "author_name": "elJulius555",
+            "categories": "xml,sqlite",
+            "tags": "visual,studio,base,datos,dejo,videotutorial,tal,cfdi,xml,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/dailymotion.com/2015/02/extraer-los-conceptos-de-un-cfdi-v3-2-xml-en-c",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/sqlite+sqlite/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i4s7j_extraer-los-conceptos-de-un-cfdi-v3-2-xml-en-c_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i4s7j_extraer-los-conceptos-de-un-cfdi-v3-2-xml-en-c_lifestyle"
+        },
+        "dailymotion.com/2015/02/clase-de-conexi%C3%B3n-e-inserci%C3%B3n-en-sqlite-con-visual-studio-c": {
+            "title": "Clase de conexi\u00f3n e inserci\u00f3n en SQLite con Visual Studio C 2013 Express...",
+            "snippet": "Que tal camaradas. Hace unos dias, vimos como conectar C Sharp con SQLite. Como correcci\u00f3n en el video anterior, pusimos una libreria de SQlite con una versi\u00f3n anterior. Para corregir esto, solo tenemos que descargar las librerias de SQLite, para...",
+            "date": "2015-02-25",
+            "author_name": "elJulius555",
+            "categories": "sqlite",
+            "tags": "tenemos,descargar,conectar,tal,tal-camaradas,camaradas,visual,studio,conexi\u00f3n,sqlite,express",
+            "recuweb_url": "http://es.recuweb.com/sqlite/dailymotion.com/2015/02/clase-de-conexi%C3%B3n-e-inserci%C3%B3n-en-sqlite-con-visual-studio-c",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/sqlite+sqlite/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i1u4w_clase-de-conexion-e-insercion-en-sqlite-con-visual-studio-c-2013-express_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i1u4w_clase-de-conexion-e-insercion-en-sqlite-con-visual-studio-c-2013-express_lifestyle"
+        },
+        "dailymotion.com/2015/02/conexi%C3%B3n-sqlite-cs-2013-express-parte-1": {
+            "title": "Conexi\u00f3n SQLite CS 2013 Express Parte 1...",
+            "snippet": "Que tal camaradas les dejo este videotutorial continuando el proyecto de extracci\u00f3n del XML CFDI V3.2, esta parte es muy necesaria, ya que guardaremos los datos del CFDI en la base de datos, pero primero tenemos que agregar las referencias al...",
+            "date": "2015-02-23",
+            "author_name": "elJulius555",
+            "categories": "base-de-datos,xml,sqlite",
+            "tags": "tenemos,base,base-de-datos,datos,guardaremos,guardaremos-los-datos,xml,cfdi,tal,tal-camaradas,camaradas,dejo,videotutorial,proyecto,express,conexi\u00f3n,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/dailymotion.com/2015/02/conexi%C3%B3n-sqlite-cs-2013-express-parte-1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/sqlite+sqlite/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2hvgqd_conexion-sqlite-cs-2013-express-parte-1_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hvgqd_conexion-sqlite-cs-2013-express-parte-1_lifestyle"
+        },
+        "dailymotion.com/2015/02/manejo-sqlite-administrator": {
+            "title": "Manejo SQLite Administrator...",
+            "snippet": "Que tal camaradas, siguiendo el tutorial de C Express 2013, el siguiente video se tratara del manejo de base de datos en SQLite, en el cual guardaremos los datos necesarios de la factura. Utilizaremos SQLite por que guardaremos la informaci\u00f3n en un...",
+            "date": "2015-02-21",
+            "author_name": "elJulius555",
+            "categories": "base-de-datos,sqlite",
+            "tags": "guardaremos,informaci\u00f3n,guardaremos-los-datos,datos,manejo,base,base-de-datos,tutorial,tal,tal-camaradas,camaradas,sqlite,express",
+            "recuweb_url": "http://es.recuweb.com/sqlite/dailymotion.com/2015/02/manejo-sqlite-administrator",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/sqlite+sqlite/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2hquy8_manejo-sqlite-administrator_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hquy8_manejo-sqlite-administrator_lifestyle"
+        },
+        "youtube.com/2014/12/como-descargar-e-instalar-sqlite-cargar-una-base-de-datos": {
+            "title": "Como Descargar e Instalar SQLite - Cargar una Base de Datos...",
+            "snippet": "Como Descargar e Instalar SQLite - Cargar una Base de Datos Le gusto este v\u00eddeo Suscribete para obtener mas informaci\u00f3n: --------------------------------------------------------------------------------------------- l Link de Descarga del...",
+            "date": "2014-12-19",
+            "author_name": "ING. SISTEMAS E INFORMATICA UPTELESUP",
+            "categories": "sqlite",
+            "tags": "informaci\u00f3n,v\u00eddeo,sqlite,descargar,base,datos,descarga",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/12/como-descargar-e-instalar-sqlite-cargar-una-base-de-datos",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=rx6983emAuQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/rx6983emAuQ/0.jpg"
+        },
+        "youtube.com/2014/11/como-descargar-sqlite": {
+            "title": "como descargar sqlite...",
+            "snippet": "como descargar sqlite link de la descarga no se les olvide subscribirse si les sirvio el video;) From: jmaster tutos Views: 119 3 ratings Time: 01:46 More in Education...",
+            "date": "2014-11-04",
+            "author_name": "jmaster tutos",
+            "categories": "sqlite",
+            "tags": "descarga,descargar,sqlite,education",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/11/como-descargar-sqlite",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=7a1bLTSSZNQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7a1bLTSSZNQ/0.jpg"
+        },
+        "youtube.com/2014/10/manejo-de-bases-datos-sqlite-en-android": {
+            "title": "Manejo de Bases de Datos SQLite en Android...",
+            "snippet": "Manejo de Bases de Datos SQLite en Android En este video te muestro de manera sencilla como comenzar a trabajar con bases de datos en Android con SQLite. Veremos demos de dos maneras, como ContentValues y con consultas SQL. From: Gonzalo P\u00e9rez...",
+            "date": "2014-10-14",
+            "author_name": "Gonzalo P\u00e9rez",
+            "categories": "sqlite",
+            "tags": "datos,sqlite,manejo",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/10/manejo-de-bases-datos-sqlite-en-android",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=ziVM9JX7u5w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ziVM9JX7u5w/0.jpg"
+        },
+        "youtube.com/2014/10/conexi%C3%B3n-a-sqlite-c": {
+            "title": "Conexi\u00f3n a SQLite C...",
+            "snippet": "Conexi\u00f3n a SQLite C Vemos como podemos conectarnos a una base de datos de SQLite desde nuestro proyecto C Link del Dll: Ay\u00fadanos suscribiendote, compartiendo y d\u00e1ndole like al v\u00eddeo!!... From: Tutoriales y m\u00e1s Views: 340 2 ratings Time: 11:37...",
+            "date": "2014-10-07",
+            "author_name": "Tutoriales y m\u00e1s",
+            "categories": "base-de-datos,sqlite",
+            "tags": "v\u00eddeo,proyecto,base,base-de-datos,datos,conexi\u00f3n,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/10/conexi%C3%B3n-a-sqlite-c",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=IC5npdCOvOU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/IC5npdCOvOU/0.jpg"
+        },
+        "youtube.com/2014/06/como-conectar-java-a-sqlite-espa%C3%B1ol-allprogramando": {
+            "title": "Como Conectar Java a Sqlite Espa\u00f1ol Allprogramando...",
+            "snippet": "Como Conectar Java a Sqlite Espa\u00f1ol Allprogramando Conectar java a Sqlite espa\u00f1ol completo Suscribe-te si crees que existe algo interesante en el canal. Redes sociales.. From: Jordan Minota Views: 600 4 ratings Time: 10:04 More in People & Blogs...",
+            "date": "2014-06-19",
+            "author_name": "Jordan Minota",
+            "categories": "java,sqlite",
+            "tags": "conectar,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/06/como-conectar-java-a-sqlite-espa%C3%B1ol-allprogramando",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=kOX6K_TDRPQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/kOX6K_TDRPQ/0.jpg"
+        }
+    }
+}

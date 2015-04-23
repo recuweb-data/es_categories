@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "bbpress",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/bbpress/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/09/tutorial-del-foro-bbpress-de-tu-p%C3%A1gina-wordpress-a-nivel-usuario": {
+            "title": "Tutorial del foro bbPress de tu p\u00e1gina WordPress a nivel usuario...",
+            "snippet": "Tutorial del foro bbPress de tu p\u00e1gina WordPress a nivel usuario Tutorial muy sencillo que explica la utilizaci\u00f3n a nivel usuario de tu foro bbPress en tu p\u00e1gina web creada en WordPress. Poison Estudio pone a disposici\u00f3n d... From: PoisonEstudio...",
+            "date": "2014-09-25",
+            "author_name": "PoisonEstudio",
+            "categories": "bbpress,wordpress",
+            "tags": "web,bbpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/youtube.com/2014/09/tutorial-del-foro-bbpress-de-tu-p%C3%A1gina-wordpress-a-nivel-usuario",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bbpress%2Bbbpress&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=vwvMaPoYGDc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/vwvMaPoYGDc/0.jpg"
+        },
+        "youtube.com/2014/04/c%C3%B3mo-migrar-de-phpbb-a-bbpress-con-cms2cms": {
+            "title": "C\u00f3mo migrar de phpBB a bbPress con CMS2CMS...",
+            "snippet": "C\u00f3mo migrar de phpBB a bbPress con CMS2CMS CMS2CMS es un servicio online automatizado que se ha desarrollado para migrar el sitio web de phpBB a bbPress en unos pasos f\u00e1ciles. \u00bfPor qu\u00e9 mover sitio web... From: CMS2CMS Views: 11 0 ratings Time:...",
+            "date": "2014-04-09",
+            "author_name": "CMS2CMS",
+            "categories": "phpbb,bbpress",
+            "tags": "web,bbpress",
+            "recuweb_url": "http://es.recuweb.com/bbpress/youtube.com/2014/04/c%C3%B3mo-migrar-de-phpbb-a-bbpress-con-cms2cms",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bbpress%2Bbbpress&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Up1ErnDTRSY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Up1ErnDTRSY/0.jpg"
+        },
+        "youtube.com/2013/10/bbpress-sistemas-de-gesti%C3%B3n-contenidos-unimagdalena": {
+            "title": "Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Unimagdalena...",
+            "snippet": "Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Unimagdalena Presentaci\u00f3n B\u00e1sica de Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Taller Youtube Subir video Grupo 11. From: Joe Maestre Views: 58 0 ratings Time: 00:36 More in Education...",
+            "date": "2013-10-04",
+            "author_name": "Joe Maestre",
+            "categories": "bbpress",
+            "tags": "bbpress",
+            "recuweb_url": "http://es.recuweb.com/bbpress/youtube.com/2013/10/bbpress-sistemas-de-gesti%C3%B3n-contenidos-unimagdalena",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bbpress%2Bbbpress&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=OYxMJT-UGsk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/OYxMJT-UGsk/0.jpg"
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/sqlite/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "items": {
+        "computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better": {
+            "title": "Review: Office 2016 for Mac offers a new interface and better features - Computerworld...",
+            "snippet": "ComputerworldReview: Office 2016 for Mac offers a new interface and better featuresComputerworldMicrosoft says that's because it's switched from its previous proprietary database to SQLite. The company also says this makes Outlook's database not...",
+            "date": "2015-04-01",
+            "categories": "sqlite",
+            "tags": "database,not,company,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://computerworld.com/article/2904266/review-office-2016-for-mac-offers-a-new-interface-and-better-features.html"
+        },
+        "androidpit.es/2015/03/manejo-y-actualizaci%C3%B3n-de-fechas-sqlite": {
+            "title": "Manejo y actualizaci\u00f3n de fechas SQLite...",
+            "snippet": "Estoy haciendo una peque\u00f1a aplicaci\u00f3n en la que necesito actualizar fechas y sumarle d\u00edas, meses, etc. Estoy teniendo problemas con ese manejo de fechas, no se muy bien como utilizarlas. Las tengo que actualizar en una base de datos siguiendo...",
+            "date": "2015-03-25",
+            "categories": "sqlite",
+            "tags": "muy,aplicaci\u00f3n,manejo,sqlite,base,datos,siguiendo",
+            "recuweb_url": "http://es.recuweb.com/sqlite/androidpit.es/2015/03/manejo-y-actualizaci%C3%B3n-de-fechas-sqlite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=es",
+            "source_url": "http://androidpit.es/foro/643718/manejo-y-actualizacion-de-fechas-sqlite"
+        },
+        "arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup": {
+            "title": "Realm Raises 18 M series B to bring databases to Mobile - ArcticStartup...",
+            "snippet": "Realm Raises 18 M series B to bring databases to MobileArcticStartupIt uses a brand-new storage architecture, not SQLite, and an easier API designed for needs of modern mobile apps and smartphones. It is already used by tens of thousands of app...",
+            "date": "2015-03-25",
+            "categories": "sqlite",
+            "tags": "mobile,storage,realm,not,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://arcticstartup.com/2015/03/25/realm-raises-e18-m-series-b-to-bring-databases-to-mobile"
+        },
+        "businessinsider.com/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers": {
+            "title": "A startup launched 9 months ago by these former Nokia engineers is... - Business Insider...",
+            "snippet": "Business InsiderA startup launched 9 months ago by these former Nokia engineers is...Business InsiderRealm wants to take down SQLite, which is the mobile database recommended by Apple for iOS and Google for Android. SQLite is a rare form of...",
+            "date": "2015-03-24",
+            "categories": "sqlite,google",
+            "tags": "mobile,mobile-database,database,months,sqlite,ios,android",
+            "recuweb_url": "http://es.recuweb.com/google/businessinsider.com/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://businessinsider.com/realm-started-by-former-nokia-engineers-is-going-bonkers-2015-3"
+        },
+        "es.paperblog.com/2015/03/usando-sqlite-en-nuestros-programas-c": {
+            "title": "Usando SQLite en nuestros programas en C/C (I)...",
+            "snippet": "A menudo, nuestros programas necesitan almacenar informaci\u00f3n (temporal o no) de forma ordenada, r\u00e1pida y que no nos complique la vida. Luego tambi\u00e9n necesitamos poder acceder a ella con la misma facilidad. Para eso vale SQLite. Tendremos un...",
+            "date": "2015-03-23",
+            "categories": "sqlite",
+            "tags": "programas,sqlite,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/sqlite/es.paperblog.com/2015/03/usando-sqlite-en-nuestros-programas-c",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/usando-sqlite-en-nuestros-programas-en-cc-i-3127186/"
+        },
+        "applesfera.com/2015/03/al-parecer-la-navegaci%C3%B3n-privada-de-safari-no-es-tan": {
+            "title": "Al parecer la navegaci\u00f3n privada de Safari no es tan privada como dicen...",
+            "snippet": "Este archivo puede ser abierto f\u00e1cilmente con programas como SQLite browser que nos mostrar\u00e1 la lista completa de todas las webs visitadas con Safari tanto de manera normal como privada. As\u00ed que lo m\u00e1s recomendable es usar otro navegador en lo...",
+            "date": "2015-03-21",
+            "categories": "sqlite",
+            "tags": "manera,browser,archivo,programas,safari,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/applesfera.com/2015/03/al-parecer-la-navegaci%C3%B3n-privada-de-safari-no-es-tan",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=es",
+            "source_url": "http://applesfera.com/aplicaciones-os-x-1/al-parecer-la-navegacion-privada-de-safari-no-es-tan-privada-como-dice"
+        },
+        "fastcompany.com/2015/03/safari-private-browsing-history-is-not-forgotten-after-all-fast-company": {
+            "title": "Safari Private Browsing History Is Not Forgotten After All - Fast Company...",
+            "snippet": "Fast CompanySafari Private Browsing History Is Not Forgotten After AllFast CompanyTo find (and delete) your private browsing history, you need to access a database file and view it with a SQLite browser, as Lifehacker recommends. Other than being...",
+            "date": "2015-03-19",
+            "categories": "sqlite",
+            "tags": "than,need,database,not,after,company,safari,sqlite,browser",
+            "recuweb_url": "http://es.recuweb.com/sqlite/fastcompany.com/2015/03/safari-private-browsing-history-is-not-forgotten-after-all-fast-company",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://fastcompany.com/3044018/fast-feed/safari-private-browsing-history-is-not-forgotten-after-all"
+        },
+        "infoq.com/2014/10/realm-brings-sqlite-alternative-to-android": {
+            "title": "Realm Brings SQLite Alternative to Android -...",
+            "snippet": "Realm Brings SQLite Alternative to is an open-source, object oriented, mobile database. Last month, Realm for Android was released, less than 3 months after the iOS version was first available. As we wrote earlier, Realm does not use SQLite as it's...",
+            "date": "2014-10-24",
+            "categories": "sqlite",
+            "tags": "not,available,months,after,than,mobile,mobile-database,database,realm,sqlite,android,ios",
+            "recuweb_url": "http://es.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2014/10/Realm-android"
+        },
+        "drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb": {
+            "title": "iOS Data Storage: Core Data vs. SQLite - Dr. Dobb's...",
+            "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
+            "date": "2014-08-12",
+            "categories": "sqlite",
+            "tags": "need,storage,available,ios,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "json",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/json/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/json/json/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/json/json/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/json/json/blogs.json"
+    },
+    "items": {
+        "mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation": {
+            "title": "Geom\u00e1tica: JSON: JavaScript Object Notation...",
+            "snippet": "Un objeto JavaScript se transforma a un string JSON con (object), y un string JSON se transforma en el objeto original con (string_JSON). La Serializaci\u00f3n es una transformaci\u00f3n reversible de un tipo...",
+            "date": "2015-04-15",
+            "author_name": "Paloma Verdejo Herreras",
+            "categories": "javascript,json",
+            "tags": "tipo,objeto,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json",
+            "recuweb_url": "http://es.recuweb.com/json/mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mundogeomatica.blogspot.com/2015/04/json-javascript-object-notation.html"
+        },
+        "geekytheory.com/2015/04/trabajando-con-json-en-android-gson-geeky-theory": {
+            "title": "Trabajando con JSON en Android (GSON) Geeky Theory...",
+            "snippet": "Hace muy poco os ense\u00f1aba a utilizar JSON en Android para deserializarlo y utilizarlo con nuestras propias clases en Java. Entonces os adelant\u00e9 que mostrar\u00eda otra manera de trabajar con JSON en Android. Esta forma es...",
+            "date": "2015-04-03",
+            "author_name": "Miguel Catalan Ba\u00f1uls",
+            "categories": "json,java",
+            "tags": "manera,trabajar,clases,utilizar,geeky,geeky_theory,theory,trabajando,json,android,gson,hace,java",
+            "recuweb_url": "http://es.recuweb.com/java/geekytheory.com/2015/04/trabajando-con-json-en-android-gson-geeky-theory",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geekytheory.com/trabajando-con-json-en-android-gson/"
+        },
+        "cybmeta.com/2015/04/ajax-con-json-y-php-javascript-puro-cybmeta": {
+            "title": "Ajax con JSON y PHP con JavaScript puro CybMeta...",
+            "snippet": "Hace alg\u00fan tiempo hice un tutorial de Ajax con jQuery, JSON y PHP. Hoy vengo con lo mismo pero sin jQuery, es decir, vamos a ver como trabajar con Ajax y JSON utilizando JavaScript puro, sin ning\u00fan framework ni biblioteca. Volvemos a...",
+            "date": "2015-04-01",
+            "author_name": "CybMeta",
+            "categories": "json,php,javascript,jquery",
+            "tags": "biblioteca,trabajar,decir,ajax,json,php,javascript,hace,tutorial,jquery,utilizando",
+            "recuweb_url": "http://es.recuweb.com/jquery/cybmeta.com/2015/04/ajax-con-json-y-php-javascript-puro-cybmeta",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cybmeta.com/ajax-con-json-y-php-con-javascript-puro/"
+        },
+        "googlewebmaster-es.blogspot.com/2015/03/desarrollar-tu-sitio-web-es-f%C3%A1cil-con-components-y-json-ld": {
+            "title": "Desarrollar tu sitio web es f\u00e1cil con \"Web Components\" y JSON-LD...",
+            "snippet": "JSON-LD es un formato de datos basado en JSON que puedes utilizar para implementar datos estructurados que describan el contenido de tu sitio a Google y a otros motores de b\u00fasqueda. Por ejemplo, si tienes una lista de...",
+            "date": "2015-03-24",
+            "author_name": "Javier Perez",
+            "categories": "json,google",
+            "tags": "utilizar,f\u00e1cil,web,desarrollar,json,formato,datos,ejemplo",
+            "recuweb_url": "http://es.recuweb.com/google/googlewebmaster-es.blogspot.com/2015/03/desarrollar-tu-sitio-web-es-f%C3%A1cil-con-components-y-json-ld",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://googlewebmaster-es.blogspot.com/2015/03/desarrollar-tu-sitio-web-es-facil-con.html"
+        },
+        "geekytheory.com/2015/03/trabajando-con-json-en-android-geeky-theory": {
+            "title": "Trabajando con JSON en Android Geeky Theory...",
+            "snippet": "No es la primera vez que os hablamos de JSON, nuestro querido Alejandro ya lo coment\u00f3 en su momento en este tutorial para PHP. Esta vez pretendo dar un peque\u00f1o resumen de c\u00f3mo se trabajar\u00eda con Android para leer...",
+            "date": "2015-03-20",
+            "author_name": "Miguel Catalan Ba\u00f1uls",
+            "categories": "json,php",
+            "tags": "leer,c\u00f3mo,android,geeky,geeky_theory,theory,trabajando,json,tutorial,php",
+            "recuweb_url": "http://es.recuweb.com/php/geekytheory.com/2015/03/trabajando-con-json-en-android-geeky-theory",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geekytheory.com/trabajando-con-json-en-android/"
+        },
+        "genbetadev.com/2015/02/edici%C3%B3n-de-archivos-json-online-genbeta-dev": {
+            "title": "Edici\u00f3n de archivos JSON online - Genbeta Dev...",
+            "snippet": "El formato JSON nos rodea y cada d\u00eda es m\u00e1s importante disponer de una buena herramienta online que nos permita gestionarlo. Una de las herramientas m\u00e1s pr\u00e1cticas es JSONEditorOnline.",
+            "date": "2015-02-26",
+            "author_name": "Cecilio \u00c1lvarez",
+            "categories": "json",
+            "tags": "herramienta,archivos,edici\u00f3n,json,formato",
+            "recuweb_url": "http://es.recuweb.com/json/genbetadev.com/2015/02/edici%C3%B3n-de-archivos-json-online-genbeta-dev",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbetadev.com/desarrollo-web/edicion-de-archivos-json-online"
+        },
+        "hermosaprogramacion.com/2015/01/parsear-datos-json-en-android-con-jsonreader-y-gson": {
+            "title": "Parsear datos JSON en Android con JsonReader y Gson...",
+            "snippet": "\u00bfQuieres saber c\u00f3mo leer datos JSON alojados en un servidor desde tu aplicaci\u00f3n Android? \u00bfTe gustar\u00eda aprender formas r\u00e1pidas y comprensibles para convertir objetos JSON en objetos Java? \u00bfAdem\u00e1s de todo quieres...",
+            "date": "2015-01-24",
+            "author_name": "James Revelo",
+            "categories": "json,java",
+            "tags": "aprender,aplicaci\u00f3n,c\u00f3mo,leer,datos,json,android,gson,java",
+            "recuweb_url": "http://es.recuweb.com/java/hermosaprogramacion.com/2015/01/parsear-datos-json-en-android-con-jsonreader-y-gson",
+            "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hermosaprogramacion.com/2015/01/android-json-parsing.html"
+        },
+        "unpocodejava.wordpress.com/2015/01/qu%C3%A9-es-orderly": {
+            "title": "\u00bfQu\u00e9 es orderly?",
+            "snippet": "Orderly es una herramienta y un formato textual para describir JSON (al estilo de JSON Schema). Est\u00e1 dise\u00f1ado con la idea de ser f\u00e1cil de leer y escribir y []...",
+            "date": "2015-01-16",
+            "author_name": "Luis Miguel Gracia",
+            "categories": "json",
+            "tags": "f\u00e1cil,leer,herramienta,formato,json",
+            "recuweb_url": "http://es.recuweb.com/json/unpocodejava.wordpress.com/2015/01/qu%C3%A9-es-orderly",
+            "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
+            "source_url": "http://unpocodejava.wordpress.com/2015/01/16/que-es-orderly/"
+        },
+        "diegolopezdsdupc.wordpress.com/2014/10/popularidad-de-xml-y-json": {
+            "title": "POPULARIDAD DE XML Y JSON...",
+            "snippet": "JSON se esta abriendo paso en la comunidad de desarrolladores a comparasion de XML. Como se puede apreciar, ya en el 2011 JSON habia cobrado mas notoriedad sobre []...",
+            "date": "2014-10-11",
+            "author_name": "diegolopezdsdupc",
+            "categories": "xml,json",
+            "tags": "puede,xml,json",
+            "recuweb_url": "http://es.recuweb.com/json/diegolopezdsdupc.wordpress.com/2014/10/popularidad-de-xml-y-json",
+            "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
+            "source_url": "http://diegolopezdsdupc.wordpress.com/2014/10/11/xml-and-json/"
+        },
+        "silvercorp.wordpress.com/2014/05/top-10-de-generadores-archivos-json": {
+            "title": "Top 10 de generadores de archivos json...",
+            "snippet": "Despu\u00e9s de una breve ausencia les traigo otro top 10, en este caso para generar o validar archivos json, en ocasiones debemos generar un \"dummy\" mientras el servicio...",
+            "date": "2014-05-06",
+            "author_name": "silvercorp",
+            "categories": "json",
+            "tags": "archivos,json",
+            "recuweb_url": "http://es.recuweb.com/json/silvercorp.wordpress.com/2014/05/top-10-de-generadores-archivos-json",
+            "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
+            "source_url": "http://silvercorp.wordpress.com/2014/05/06/top-10-de-generadores-de-archivos-json/"
+        }
+    }
+}

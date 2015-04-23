@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "eventos-ecologistas",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/eventos-ecologistas/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/eventos-ecologistas/eventos-ecologistas/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/eventos-ecologistas/eventos-ecologistas/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/eventos-ecologistas/eventos-ecologistas/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/11/sexta-ruta-doramas-trofeo-loype-2014-hd": {
+            "title": "Sexta Ruta Doramas Trofeo Loype 2014 HD...",
+            "snippet": "Sexta Ruta Doramas Trofeo Loype 2014 HD Ruta Doramas Trofeo Loype Con el Patrocinio: Loype Eventos Patronato de Turismo Excmo Ayuntamiento de Firgas Colaboradores: La vinca Ecologistas en acci\u00f3n To... From: loype SLU Views: 785 6 ratings Time:...",
+            "date": "2014-11-28",
+            "author_name": "loype SLU",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/11/sexta-ruta-doramas-trofeo-loype-2014-hd",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=eventos%2Becologistas%2Beventos%2Becologistas&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=3d0G1ssruhk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3d0G1ssruhk/0.jpg"
+        }
+    }
+}

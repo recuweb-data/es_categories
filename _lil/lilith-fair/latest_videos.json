@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "lilith-fair",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/lilith-fair/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2011/02/indigo-girls-lilith-fair-tour-97": {
+            "title": "Indigo Girls - Lilith Fair Tour '97...",
+            "snippet": "Lilith Fair made rock and roll history in the summer of 1997 as the first all-female music tour. These sold-out concert performances could only be described as magical, boasting many once-in-a-lifetime collaborations. That magic is captured here in...",
+            "date": "2011-02-12",
+            "author_name": "timmoony",
+            "categories": "rock,lilith-fair",
+            "recuweb_url": "http://es.recuweb.com/lilith-fair/dailymotion.com/2011/02/indigo-girls-lilith-fair-tour-97",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/lilith+fair+lilith+fair/0?af=1",
+            "source_url": "http://dailymotion.com/video/xh0at0_indigo-girls-lilith-fair-tour-97_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xh0at0_indigo-girls-lilith-fair-tour-97_music"
+        }
+    }
+}

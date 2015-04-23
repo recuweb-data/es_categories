@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "ac-milan",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ac-milan/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ac-milan/ac-milan/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ac-milan/ac-milan/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ac-milan/ac-milan/blogs.json"
+    },
+    "items": {
+        "latercera.com/2015/04/hello-kitty-ser%C3%A1-la-nueva-mascota-del-ac-milan-latercera-registro": {
+            "title": "Hello Kitty ser\u00e1 la nueva mascota del AC Milan - LaTercera (Registro)...",
+            "snippet": "LaTercera (Registro)Hello Kitty ser\u00e1 la nueva mascota del AC MilanLaTercera (Registro)Hello Kitty ser\u00e1 desde mediados de abril la nueva mascota del equipo italiano de f\u00fatbol AC Milan, luego de un acuerdo con la compa\u00f1\u00eda Sanrio, el que contempla...",
+            "date": "2015-04-02",
+            "categories": "futbol",
+            "tags": "italiano,milan,f\u00fatbol",
+            "recuweb_url": "http://es.recuweb.com/futbol/latercera.com/2015/04/hello-kitty-ser%C3%A1-la-nueva-mascota-del-ac-milan-latercera-registro",
+            "resource_url": "http://news.google.es/?hl=es&q=ac%2Bmilan&output=atom&nord=1",
+            "source_url": "http://latercera.com/noticia/deportes/2015/04/656-623777-9-hello-kitty-sera-la-nueva-mascota-del-ac-milan.shtml"
+        }
+    }
+}

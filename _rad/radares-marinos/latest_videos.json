@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "radares-marinos",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/radares-marinos/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/radares-marinos/radares-marinos/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/radares-marinos/radares-marinos/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/radares-marinos/radares-marinos/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/05/monitoreo-de-olas-con-los-radares-satelitales": {
+            "title": "Monitoreo de olas con los radares satelitales...",
+            "snippet": "Monitoreo de olas con los radares satelitales Buques, plataformas petrol\u00edferas y parques e\u00f3licos marinos se ven amenazados por los mares tempestuosos. La informaci\u00f3n proporcionada por los radar de sat\u00e9lites pueden ayudar a la detecci\u00f3n... From:...",
+            "date": "2014-05-24",
+            "author_name": "Jes\u00fas C\u00e1ceres",
+            "categories": "radar",
+            "recuweb_url": "http://es.recuweb.com/radar/youtube.com/2014/05/monitoreo-de-olas-con-los-radares-satelitales",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radares%2Bmarinos%2Bradares%2Bmarinos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=XQIMCwr-JsU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/XQIMCwr-JsU/0.jpg"
+        }
+    }
+}

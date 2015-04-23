@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "portal_name": "mysql",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mysql/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mysql/mysql/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mysql/mysql/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
+    },
+    "items": {
+        "zonared.com/2015/04/anunciado-monster-hunter-stories-para-3ds-llegar%C3%A1-en-2016": {
+            "title": "Anunciado 'Monster Hunter: Stories'para 3DS; llegar\u00e1 en 2016...",
+            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
+            "date": "2015-04-11",
+            "categories": "mysql",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/anunciado-monster-hunter-stories-para-3ds-llegar%C3%A1-en-2016",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://zonared.com/3ds/videos/monster-hunter-stories-3ds-2016-video/"
+        },
+        "theregister.co.uk/2015/04/google-sticks-anti-sql-injection-vaccine-into-mysql-mariadb-fork": {
+            "title": "Google sticks anti-SQL injection vaccine into MySQL MariaDB fork - The Register...",
+            "snippet": "The RegisterGoogle sticks anti-SQL injection vaccine into MySQL MariaDB forkThe RegisterGoogle is dropping encryption into MariaDB, the fork of Oracle's MySQL, to help shut out SQL injection attacks. Mountain View is credited with developing and...",
+            "date": "2015-04-10",
+            "categories": "mysql,google",
+            "tags": "mysql,google,sql",
+            "recuweb_url": "http://es.recuweb.com/google/theregister.co.uk/2015/04/google-sticks-anti-sql-injection-vaccine-into-mysql-mariadb-fork",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/04/09/mariadb_google_security_injection/"
+        },
+        "imasters.com.br/2015/04/utilizando-docker-com-mysql-imasters": {
+            "title": "Utilizando Docker com MySQL - iMasters...",
+            "snippet": "iMastersUtilizando Docker com MySQLiMastersNuma defini\u00e7\u00e3o muito simplista, o Docker \u00e9 um modo de virtualiza\u00e7\u00e3o mais leve. Na virtualiza\u00e7\u00e3o tradicional para ter imagem utiliz\u00e1vel voc\u00ea precisa criar a m\u00e1quina virtual e depois instalar o...",
+            "date": "2015-04-10",
+            "categories": "mysql",
+            "tags": "virtual,muito,mysql,imasters,instalar",
+            "recuweb_url": "http://es.recuweb.com/mysql/imasters.com.br/2015/04/utilizando-docker-com-mysql-imasters",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://imasters.com.br/banco-de-dados/mysql/utilizando-docker-com-mysql/?trace=1519021197&source=home"
+        },
+        "databasejournal.com/2015/04/generating-reports-on-mysql-data-database-journal": {
+            "title": "Generating Reports on MySQL Data - Database Journal...",
+            "snippet": "Database JournalGenerating Reports on MySQL DataDatabase JournalNow, in looking for MySQL solutions, I find that most tools are geared towards leveraging application code using ODBC or JDBC drivers. Others, like dmyreports, are Web-based and run on...",
+            "date": "2015-04-09",
+            "categories": "mysql",
+            "tags": "that,mysql,web",
+            "recuweb_url": "http://es.recuweb.com/mysql/databasejournal.com/2015/04/generating-reports-on-mysql-data-database-journal",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://databasejournal.com/features/mysql/generating-reports-on-mysql-data.html"
+        },
+        "es.paperblog.com/2015/04/usuarios-linux-vs-defensores-de-software-libre": {
+            "title": "Usuarios Linux vs Defensores de Software Libre...",
+            "snippet": "Y me explico, no es lo mismo desarrollar webs usando tecnolog\u00edas libres, la archiconocida pareja php y mysql, que defender el software libre. No es lo mismo usar Gnu/Linux, como tecnolog\u00edas que son m\u00e1s productivas, eficientes y efectivas, que...",
+            "date": "2015-04-09",
+            "categories": "tecnologia,php,mysql",
+            "tags": "son,php,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/es.paperblog.com/2015/04/usuarios-linux-vs-defensores-de-software-libre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/usuarios-linux-vs-defensores-de-software-libre-3153140/"
+        },
+        "revistacloudcomputing.com/2015/04/curso-oficial-de-google-cloud-platform": {
+            "title": "Curso oficial de Google Cloud Platform...",
+            "snippet": "Cloud SQL: Es como suena, un cluster MySQL montado y funcionando en segundos. Es una forma muy eficiente de lanzar un proyecto lean en muy poco tiempo. El t\u00edtulo Google Cloud Platform Qualified Developer lo emite Google, y para conseguirlo no basta...",
+            "date": "2015-04-08",
+            "categories": "google,mysql",
+            "tags": "forma,proyecto,sql,google,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/revistacloudcomputing.com/2015/04/curso-oficial-de-google-cloud-platform",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://revistacloudcomputing.com/2015/04/curso-oficial-de-google-cloud-platform/"
+        },
+        "imasters.com.br/2015/04/mysql-utilities-tarefas-administrativas-imasters": {
+            "title": "MySQL Utilities Tarefas administrativas - iMasters...",
+            "snippet": "iMastersMySQL Utilities Tarefas administrativasiMastersNo \u00faltimo artigo, mostrei ao amigo leitor como configurar de forma muito f\u00e1cil a replica\u00e7\u00e3o GTID entre servidores de bancos de dados MySQL com alguns dos scripts do pacote MySQL Utilities,...",
+            "date": "2015-04-08",
+            "categories": "mysql",
+            "tags": "configurar,forma,muito,mysql,imasters",
+            "recuweb_url": "http://es.recuweb.com/mysql/imasters.com.br/2015/04/mysql-utilities-tarefas-administrativas-imasters",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://imasters.com.br/banco-de-dados/mysql/mysql-utilities-tarefas-administrativas/?trace=1519021197&source=single"
+        },
+        "diariopresente.com.mx/2015/04/tardan-meses-para-ser-atendidos-por-un-especialist": {
+            "title": "tardan meses para ser atendidos por un especialist...",
+            "snippet": "Warning: mysql_fetch_object(): supplied argument is not a valid MySQL result resource in/home/diariop/public_html/php/02/on line 861 Warning: mysql_free_result() expects parameter 1 to be resource, boolean given in/home/diariop/public_html/php...",
+            "date": "2015-04-08",
+            "categories": "mysql,html,php",
+            "tags": "resource,line,result,result-resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,php,free",
+            "recuweb_url": "http://es.recuweb.com/php/diariopresente.com.mx/2015/04/tardan-meses-para-ser-atendidos-por-un-especialist",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://diariopresente.com.mx/section/mundo/130125/dzhokhar-tsarnaev-declarado-culpable-atentado-boston-/"
+        },
+        "nexotrans.com/2015/04/confeb%C3%BAs-presentar%C3%A1-a-los-grupos-pol%C3%ADticos-un-documento-con-propuestas-empresariales": {
+            "title": "Confeb\u00fas presentar\u00e1 a los grupos pol\u00edticos un documento con propuestas empresariales para el...",
+            "snippet": "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND not_id_sec=6 ORDER BY not_tipo ASC'at line 1...",
+            "date": "2015-04-07",
+            "categories": "mysql",
+            "tags": "line,server,that,sql,mysql,not",
+            "recuweb_url": "http://es.recuweb.com/mysql/nexotrans.com/2015/04/confeb%C3%BAs-presentar%C3%A1-a-los-grupos-pol%C3%ADticos-un-documento-con-propuestas-empresariales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://nexotrans.com/nexobus/noticia/confebuacutes/presentaraacute/grupos/poliacuteticos/documento/propuestas/empresariales/sector/76029/"
+        },
+        "technologyreview.es/2015/04/c%C3%B3mo-los-distintos-lenguajes-de-facebook-y-google-imponen-sus-filosof%C3%ADas": {
+            "title": "C\u00f3mo los distintos lenguajes de Facebook y Google imponen sus filosof\u00edas de empresa...",
+            "snippet": "El ejemplo preferido de los programadores es una funci\u00f3n de PHP llamada mysql_escape_string, que libera a una pregunta de input malicioso antes de enviarla a una base de datos. (Como ejemplo de input malicioso, piensa en un formulario de un...",
+            "date": "2015-04-07",
+            "categories": "base-de-datos,facebook,google,php,mysql",
+            "tags": "datos,google,php,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/technologyreview.es/2015/04/c%C3%B3mo-los-distintos-lenguajes-de-facebook-y-google-imponen-sus-filosof%C3%ADas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://technologyreview.es/informatica/47226/"
+        }
+    }
+}

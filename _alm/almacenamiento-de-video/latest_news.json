@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "almacenamiento-de-video",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/almacenamiento-de-video/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/almacenamiento-de-video/almacenamiento-de-video/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/almacenamiento-de-video/almacenamiento-de-video/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/almacenamiento-de-video/almacenamiento-de-video/blogs.json"
+    },
+    "items": {
+        "noticias.terra.cl/2015/04/denuncian-video-de-adolescentes-manteniendo-relaciones-terra-chile": {
+            "title": "Denuncian video de adolescentes manteniendo relaciones - Terra Chile...",
+            "snippet": "Terra ChileDenuncian video de adolescentes manteniendo relacionesTerra ChileEl Sename advirti\u00f3 que el almacenamiento y la difusi\u00f3n de la grabaci\u00f3n es un delito, ya que los involucrados no superar\u00edan los 15 a\u00f1os de edad, informa radio...",
+            "date": "2015-04-07",
+            "categories": "radio",
+            "tags": "grabaci\u00f3n,chile,almacenamiento",
+            "recuweb_url": "http://es.recuweb.com/radio/noticias.terra.cl/2015/04/denuncian-video-de-adolescentes-manteniendo-relaciones-terra-chile",
+            "resource_url": "http://news.google.es/?hl=es&q=almacenamiento%2Bde%2Bvideo%2Balmacenamiento%2Bde%2Bvideo&output=atom&nord=1",
+            "source_url": "http://noticias.terra.cl/chile/denuncian-video-de-adolescentes-manteniendo-relaciones,c877c9e6dc59c410VgnCLD200000b2bf46d0RCRD.html"
+        },
+        "elveedordigital.com/2015/04/google-permite-almacenar-fotos-y-v%C3%ADdeos-en-drive-el-veedor-digital": {
+            "title": "Google permite almacenar fotos y v\u00eddeos en Drive - El Veedor Digital (Comunicado de prensa)...",
+            "snippet": "El Veedor Digital (Comunicado de prensa)Google permite almacenar fotos y v\u00eddeos en DriveEl Veedor Digital (Comunicado de prensa)Google ha activado el servicio de almacenamiento en la nube para im\u00e1genes y v\u00eddeos en Google Drive. Desde un espacio...",
+            "date": "2015-04-06",
+            "categories": "google",
+            "tags": "espacio,nube,im\u00e1genes,google,drive,almacenamiento",
+            "recuweb_url": "http://es.recuweb.com/google/elveedordigital.com/2015/04/google-permite-almacenar-fotos-y-v%C3%ADdeos-en-drive-el-veedor-digital",
+            "resource_url": "http://news.google.es/?hl=es&q=almacenamiento%2Bde%2Bvideo%2Balmacenamiento%2Bde%2Bvideo&output=atom&nord=1",
+            "source_url": "http://elveedordigital.com/actualidad/ciencia-y-tecnologia/6679-google-permite-almacenar-fotos-y-videos-en-drive"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "luchas-libres",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/luchas-libres/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/luchas-libres/luchas-libres/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/luchas-libres/luchas-libres/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/luchas-libres/luchas-libres/blogs.json"
+    },
+    "items": {
+        "youtube.com/2015/03/japoneses-peleando-luchas-libres": {
+            "title": "Japoneses Peleando luchas libres...",
+            "snippet": "Japoneses Peleando luchas libres Luchas de japoneses en peleas libres. From: gino ok Views: 52 2 ratings Time: 02:46 More in People & Blogs...",
+            "date": "2015-03-18",
+            "author_name": "gino ok",
+            "categories": "luchas-libres",
+            "recuweb_url": "http://es.recuweb.com/luchas-libres/youtube.com/2015/03/japoneses-peleando-luchas-libres",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=luchas%2Blibres&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=ilQHwYal_5o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ilQHwYal_5o/0.jpg"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "monarquismo",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/monarquismo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/monarquismo/monarquismo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/monarquismo/monarquismo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/monarquismo/monarquismo/blogs.json"
+    },
+    "items": {
+        "youtube.com/2012/09/definici%C3%B3n-de-monarquismo": {
+            "title": "Definici\u00f3n de monarquismo...",
+            "snippet": "Definici\u00f3n de monarquismo Descarga gratis esta aplicaci\u00f3n en monarquismo, diccionario, define, definir, significado, espa\u00f1ol, castellano, Dixio, monarquismos. From: Dixio Views: 76 1 ratings Time: 00:33 More in Science & Technology...",
+            "date": "2012-09-18",
+            "author_name": "Dixio",
+            "categories": "monarquismo",
+            "recuweb_url": "http://es.recuweb.com/monarquismo/youtube.com/2012/09/definici%C3%B3n-de-monarquismo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=monarquismo%2Bmonarquismo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=vqw4_Pu2z_I&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/vqw4_Pu2z_I/0.jpg"
+        }
+    }
+}

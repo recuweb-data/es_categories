@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "postgresql",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/postgresql/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
+    },
+    "items": {
+        "datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami": {
+            "title": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQL - Datanami...",
+            "snippet": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQLDatanamiFujitsu Laboratories last week announced that it's developed a column-oriented data storage and processing engine that can quickly analyze large amounts of data stored on a...",
+            "date": "2015-03-06",
+            "tags": "gresql",
+            "recuweb_url": "http://es.recuweb.com/datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami",
+            "resource_url": "http://news.google.es/?hl=es&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://datanami.com/2015/03/04/fujitsu-adding-column-oriented-processing-engine-to-postgresql/"
+        },
+        "globalsecuritymag.fr/2015/02/vigilnce-postgresql-multiples-vuln%C3%A9rabilit%C3%A9s-global-security-mag": {
+            "title": "Vigilnce - PostgreSQL: multiples vuln\u00e9rabilit\u00e9s - Global Security Mag...",
+            "snippet": "Vigilnce - PostgreSQL: multiples vuln\u00e9rabilit\u00e9sGlobal Security MagUn attaquant peut provoquer un buffer overflow dans to_char, afin de mener un d\u00e9ni de service, et \u00e9ventuellement d'ex\u00e9cuter du code. [grav:2/4; CVE-2015-0241]. Un attaquant peut...",
+            "date": "2015-02-20",
+            "tags": "gresql",
+            "recuweb_url": "http://es.recuweb.com/globalsecuritymag.fr/2015/02/vigilnce-postgresql-multiples-vuln%C3%A9rabilit%C3%A9s-global-security-mag",
+            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-PostgreSQL-multiples,20150220,50993.html"
+        },
+        "it.impressbm.co.jp/2015/02/oraclepostgresql-it-leaders": {
+            "title": "OraclePostgreSQL... - IT Leaders...",
+            "snippet": "OraclePostgreSQL...IT LeadersOSSOpen Source SoftwarePostgresDBEDB2015216Postgres Plus Advanced Server...Postgres Plus Advanced Server 9.4 WatchPostgres Plus Advanced Server9.4...BIGLOBEDBPostgres Enterprise ManagerDream News ()los 7 art\u00edculos...",
+            "date": "2015-02-17",
+            "tags": "gresql,gres",
+            "recuweb_url": "http://es.recuweb.com/it.impressbm.co.jp/2015/02/oraclepostgresql-it-leaders",
+            "resource_url": "http://news.google.es/?hl=es&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://it.impressbm.co.jp/articles/-/12068"
+        }
+    }
+}

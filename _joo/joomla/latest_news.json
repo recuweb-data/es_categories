@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "joomla",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/joomla/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/joomla/joomla/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/joomla/joomla/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
+    },
+    "items": {
+        "techrepublic.com/2015/03/new-joomla-release-warrants-second-look-for-cms-deployments-techrepublic": {
+            "title": "New Joomla release warrants second look for CMS deployments - TechRepublic...",
+            "snippet": "New Joomla release warrants second look for CMS deploymentsTechRepublicJoomla! is a highly-extendable content management system (CMS) licensed under the GNU GPL written in PHP that readily scales from small websites to large projects. Joomla was...",
+            "date": "2015-03-13",
+            "categories": "joomla,php",
+            "tags": "joomla,cms",
+            "recuweb_url": "http://es.recuweb.com/php/techrepublic.com/2015/03/new-joomla-release-warrants-second-look-for-cms-deployments-techrepublic",
+            "resource_url": "http://news.google.es/?hl=es&q=joomla%2Bjoomla&output=atom&nord=1",
+            "source_url": "http://techrepublic.com/article/new-joomla-release-warrants-second-look-for-cms-deployments/"
+        },
+        "computerhoy.com/2014/10/c%C3%B3mo-publicar-art%C3%ADculos-en-joomla-3-computer-hoy": {
+            "title": "C\u00f3mo publicar art\u00edculos en Joomla 3 - Computer Hoy...",
+            "snippet": "Computer HoyC\u00f3mo publicar art\u00edculos en Joomla 3Computer HoyUna de las grandes ventajas de los CMS como Joomla o Wordpress es poder escribir art\u00edculos directamente desde el panel de control, gracias al editor visual que integran. No hay que...",
+            "date": "2014-10-29",
+            "categories": "joomla,wordpress",
+            "tags": "computer,computer_hoy,hoy,c\u00f3mo,joomla,cms",
+            "recuweb_url": "http://es.recuweb.com/wordpress/computerhoy.com/2014/10/c%C3%B3mo-publicar-art%C3%ADculos-en-joomla-3-computer-hoy",
+            "resource_url": "http://news.google.es/?hl=es&q=joomla&output=atom&nord=1",
+            "source_url": "http://computerhoy.com/paso-a-paso/internet/como-publicar-articulos-joomla-3-6089"
+        },
+        "computerhoy.com/2014/10/primeros-pasos-con-joomla-3-instalaci%C3%B3n-y-conceptos-b%C3%A1sicos-computer-hoy": {
+            "title": "Primeros pasos con Joomla 3: Instalaci\u00f3n y conceptos b\u00e1sicos - Computer Hoy...",
+            "snippet": "Primeros pasos con Joomla 3: Instalaci\u00f3n y conceptos b\u00e1sicosComputer HoyLa instalaci\u00f3n de los CMS m\u00e1s recientes, como Joomla, no entra\u00f1a m\u00e1s dificultad que seguir los pasos de un asistente a trav\u00e9s del navegador. No obstante, para un usuario...",
+            "date": "2014-10-26",
+            "categories": "joomla",
+            "tags": "computer,computer_hoy,hoy,joomla,instalaci\u00f3n,cms",
+            "recuweb_url": "http://es.recuweb.com/joomla/computerhoy.com/2014/10/primeros-pasos-con-joomla-3-instalaci%C3%B3n-y-conceptos-b%C3%A1sicos-computer-hoy",
+            "resource_url": "http://news.google.es/?hl=es&q=joomla&output=atom&nord=1",
+            "source_url": "http://computerhoy.com/paso-a-paso/software/primeros-pasos-joomla-3-instalacion-conceptos-basicos-6042"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "deportes-de-lucha",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/deportes-de-lucha/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/blogs.json"
+    },
+    "items": {
+        "biobiochile.cl/2015/04/cobreloa-vence-a-deportes-antofagasta-y-consigue-puntos-vitales-radio-b%C3%ADo": {
+            "title": "Cobreloa vence a Deportes Antofagasta y consigue puntos vitales... - Radio B\u00edo-B\u00edo...",
+            "snippet": "Radio B\u00edo-B\u00edoCobreloa vence a Deportes Antofagasta y consigue puntos vitales...Radio B\u00edo-B\u00edoNo solo abrocharon tres puntos de oro en la lucha por mantener la categor\u00eda tras mostrar un buen juego, sino que adem\u00e1s festejaban la vuelta a su...",
+            "date": "2015-04-18",
+            "categories": "radio",
+            "tags": "solo,deportes,lucha",
+            "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/cobreloa-vence-a-deportes-antofagasta-y-consigue-puntos-vitales-radio-b%C3%ADo",
+            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha%2Bdeportes%2Bde%2Blucha&output=atom&nord=1",
+            "source_url": "http://biobiochile.cl/2015/04/18/cobreloa-y-deportes-antofagasta-se-miden-en-un-duelo-clave-en-la-lucha-por-evitar-el-descenso.shtml"
+        },
+        "excelsior.com.mx/2015/04/discuten-mejoras-en-deporte-de-contacto-exc%C3%A9lsior": {
+            "title": "Discuten mejoras en deporte de contacto - Exc\u00e9lsior...",
+            "snippet": "Exc\u00e9lsiorDiscuten mejoras en deporte de contactoExc\u00e9lsiorCIUDAD DE M\u00c9XICO, 15 de abril.- Autoridades de deportes de combate, como el boxeo y la lucha libre, se reunieron con senadores de la Rep\u00fablica para impulsar una iniciativa de ley que...",
+            "date": "2015-04-15",
+            "categories": "boxeo,deporte",
+            "tags": "deporte,contacto,deportes,combate,lucha",
+            "recuweb_url": "http://es.recuweb.com/deporte/excelsior.com.mx/2015/04/discuten-mejoras-en-deporte-de-contacto-exc%C3%A9lsior",
+            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha&output=atom&nord=1",
+            "source_url": "http://excelsior.com.mx/adrenalina/2015/04/15/1018845"
+        }
+    }
+}

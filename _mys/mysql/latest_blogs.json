@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "mysql",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/mysql/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/mysql/mysql/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/mysql/mysql/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
+    },
+    "items": {
+        "linux-party.com/2015/04/conocer-que-ips-est%C3%A1n-conectados-a-mysql-haciendo-consultas": {
+            "title": "Conocer que IPs est\u00e1n conectados a MySQL haciendo consultas a...",
+            "snippet": "He intentado averiguar que IPs \"externas\" estaban haciendo consultas a la BBDD de MySQL, bueno, yo al menos, por mucho que lo he intentado no he conseguido conocer m\u00e1s IP que la del server de la BBDD, y \u00e9sta, no es...",
+            "date": "2015-04-22",
+            "author_name": "Javier Orovengua",
+            "categories": "mysql",
+            "tags": "haciendo,mysql,server",
+            "recuweb_url": "http://es.recuweb.com/mysql/linux-party.com/2015/04/conocer-que-ips-est%C3%A1n-conectados-a-mysql-haciendo-consultas",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://linux-party.com/index.php/89-basesdedatos/9311-conocer-que-ips-estan-conectados-a-mysql-haciendo-consultas-a-la-base-de-datos"
+        },
+        "clubdelphi.com/2015/04/abm-delphi-con-mysql-foros-club": {
+            "title": "ABM Delphi con MySQL - Foros Club Delphi...",
+            "snippet": "Hola, buenas noches, es la primera vez que escribo para el foro. La cuesti\u00f3n es que tengo que hacer un ABM con bases de datos y estoy utilizando delphi7 Mysql con ODBC, la realidad es que me entregaron este trabajo...",
+            "date": "2015-04-16",
+            "author_name": "Mteje",
+            "categories": "mysql",
+            "tags": "estoy,utilizando,primera,mysql,datos,odbc",
+            "recuweb_url": "http://es.recuweb.com/mysql/clubdelphi.com/2015/04/abm-delphi-con-mysql-foros-club",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://clubdelphi.com/foros/showthread.php?t=88130"
+        },
+        "geeks.ms/2015/04/access-y-mysql-con-recorsets-desconectados-geeksms": {
+            "title": "Access y MySQL con recorsets desconectados - Access - Geeksms...",
+            "snippet": "El pr\u00f3ximo jueves 16/04/15 a las 21:00, Carlos Gonz\u00e1lez (Guarracuco) nos hablar\u00e1 de lo que son recordsets desconectados y c\u00f3mo utilizarlos a trav\u00e9s de una conexi\u00f3n en web con MySql. Nos ofrecer\u00e1 diversas sistem\u00e1ticas...",
+            "date": "2015-04-14",
+            "author_name": "Chea",
+            "categories": "mysql",
+            "tags": "c\u00f3mo,mysql,son,web",
+            "recuweb_url": "http://es.recuweb.com/mysql/geeks.ms/2015/04/access-y-mysql-con-recorsets-desconectados-geeksms",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geeks.ms/blogs/access/archive/2015/04/14/access-y-mysql-con-recorsets-desconectados.aspx"
+        },
+        "juank.io/2015/04/entity-framework-con-mysql-y-sql-server-c-juank-1-0": {
+            "title": "Entity Framework con MySql y SQL Server C - JuanK 1/0...",
+            "snippet": "Sino conoces EF es una buena oportunidad para conocerlo y si ya lo conocias es la oportunidad para ver como hacerlo funcionar con MySQL myu f\u00e1cilmente.",
+            "date": "2015-04-13",
+            "author_name": "Juan Carlos Ruiz",
+            "categories": "mysql",
+            "tags": "hacerlo,sql,server,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/juank.io/2015/04/entity-framework-con-mysql-y-sql-server-c-juank-1-0",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://juank.io/entity-framework-mysql-sqlserver-csharp/"
+        },
+        "elguillemola.com/2015/04/como-conectar-a-una-base-de-datos-mysql-en-un-servidor": {
+            "title": "como conectar a una base de datos de MySQL en un servidor Web...",
+            "snippet": "Pues eso hace unos d\u00edas he estado haciendo una peque\u00f1a aplicaci\u00f3n para acceder a una base de datos de MySQL creada en un servidor web de Domitienda y voy a aprovechar para comentarte las cosillas que he hecho...",
+            "date": "2015-04-13",
+            "author_name": "elGuille",
+            "categories": "mysql",
+            "tags": "haciendo,peque\u00f1a,acceder,base,conectar,datos,mysql,servidor,web",
+            "recuweb_url": "http://es.recuweb.com/mysql/elguillemola.com/2015/04/como-conectar-a-una-base-de-datos-mysql-en-un-servidor",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elguillemola.com/index.php/2015/04/como-conectar-a-una-base-de-datos-de-mysql-en-un-servidor-web-desde-net/"
+        },
+        "netsysblog.info/2015/03/netsys-blog-mysql-workbench-disponible-para-fedora-21": {
+            "title": "netSys blog: MySQL Workbench disponible para Fedora 21...",
+            "snippet": "Ahora que estoy un poco m\u00e1s descansado, os traigo una peque\u00f1a entrada sobre la nueva versi\u00f3n de MySQL Workbench. Un programa como hemos hablado anteriormente, es libre y gratuito; desarrollado por la comunidad...",
+            "date": "2015-03-29",
+            "author_name": "noreply@blogger.com (\u00c1lvaro Castillo)",
+            "categories": "mysql",
+            "tags": "libre,programa,peque\u00f1a,estoy,poco,mysql,mysql_workbench,workbench",
+            "recuweb_url": "http://es.recuweb.com/mysql/netsysblog.info/2015/03/netsys-blog-mysql-workbench-disponible-para-fedora-21",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://netsysblog.info/2015/03/mysql-workbench-disponible-para-fedora.html"
+        },
+        "brotebit.blogspot.com/2015/03/conectar-sql-a-excel-con-power-pivot": {
+            "title": "Conectar Sql a Excel con Power Pivot...",
+            "snippet": "Tener conectado Excel directamente con Sql puede ser muy \u00fatil a la hora de armar Dashboards y paneles. Hoy te ense\u00f1o como hacerlo con Power Pivot. Lo que vas a necesitar: Microsoft Excel Excel PowerPivot Plugin () MySQL Workbench ()...",
+            "date": "2015-03-26",
+            "author_name": "(Brote Bit)",
+            "categories": "mysql",
+            "tags": "mysql,mysql_workbench,workbench,hacerlo,muy,conectar,sql",
+            "recuweb_url": "http://es.recuweb.com/mysql/brotebit.blogspot.com/2015/03/conectar-sql-a-excel-con-power-pivot",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
+            "source_url": "http://brotebit.blogspot.com/2015/03/conectar-sql-excel-con-power-pivot.html"
+        },
+        "diegomacev.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu": {
+            "title": "Cambio de Puerto de MySql en Ubuntu...",
+            "snippet": "\u00bfPara que nos sirve el cambio de puerto? Este sirve para brindarle una mayor seguridad a mysql y para que no haya errores con el puerto. Al igual se utiliza para abrir un puerto en el router y dirigirlo al servidor donde se tiene instalado mysql de...",
+            "date": "2015-03-25",
+            "author_name": "diegomac93",
+            "categories": "mysql",
+            "tags": "puerto,haya,cambio,mysql,ubuntu,servidor",
+            "recuweb_url": "http://es.recuweb.com/mysql/diegomacev.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
+            "source_url": "http://diegomacev.wordpress.com/2015/03/25/cambio-de-puerto-de-mysql-en-ubuntu/"
+        },
+        "lizbethrojas.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu": {
+            "title": "Cambio de puerto de MySQL en Ubuntu...",
+            "snippet": "El puerto que esta por defecto en mysql es el 3306, en caso de contar con otro programa como xampp, tendr\u00edamos que detener el primero para poder ejecutarlo ya que se encuentran en el mismo puerto, evitando el funcionamiento del programa. Para no...",
+            "date": "2015-03-25",
+            "author_name": "liz31ropi",
+            "categories": "xampp,mysql",
+            "tags": "programa,puerto,cambio,mysql,ubuntu",
+            "recuweb_url": "http://es.recuweb.com/mysql/lizbethrojas.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
+            "source_url": "http://lizbethrojas.wordpress.com/2015/03/25/cambio-de-puerto-de-mysql-en-ubuntu/"
+        },
+        "alejovazquez.blogspot.com/2015/03/migraci%C3%B3n-de-joomla-un-servidor": {
+            "title": "Migraci\u00f3n de Joomla de un servidor a otro...",
+            "snippet": "Servidor Origen 1) Respaldar la BD mysqldump --user=--password=db/Ruta/Hacia/1) Acceder al directorio Joomla: cd 2) Comprimir todos los archivos del servidor en un.: tar cvzf. 3) Copiar los archivos creados al ser...",
+            "date": "2015-03-17",
+            "author_name": "(Alejandro V\u00e1zquez)",
+            "categories": "joomla",
+            "tags": "servidor,acceder",
+            "recuweb_url": "http://es.recuweb.com/joomla/alejovazquez.blogspot.com/2015/03/migraci%C3%B3n-de-joomla-un-servidor",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
+            "source_url": "http://alejovazquez.blogspot.com/2015/03/migracion-de-joomla-de-un-servidor-otro.html"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "formatos-web",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/formatos-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/blogs.json"
+    },
+    "items": {
+        "m.informe21.com/2015/04/luis-chataing-presenta-por-todos-los-medios-en-el-centro-cultural": {
+            "title": "Luis Chataing presenta Por Todos los Medios en el Centro Cultural BOD...",
+            "snippet": "Con el estreno de Por todos los medios, el locutor reconocido en radio, televisi\u00f3n, prensa tradicional y los nuevos formatos web, ha unido todas las plataformas en un unipersonal que fusiona el teatro con el largometraje a trav\u00e9s de una...",
+            "date": "2015-04-14",
+            "categories": "radio,television",
+            "tags": "nuevos,formatos,web",
+            "recuweb_url": "http://es.recuweb.com/television/m.informe21.com/2015/04/luis-chataing-presenta-por-todos-los-medios-en-el-centro-cultural",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formatos%2Bweb&format=RSS&cc=es",
+            "source_url": "http://m.informe21.com/arte-y-espectaculos/luis-chataing-presenta-por-todos-los-medios-en-el-centro-cultural-bod"
+        },
+        "lagranepoca.com/2015/04/buenos-aires-congrega-a-futuros-periodistas-de-argentina": {
+            "title": "Buenos Aires congrega a futuros periodistas de Argentina...",
+            "snippet": "Resulta imprescindible que los nuevos profesionales de la comunicaci\u00f3n aprendan a elaborar informaci\u00f3n de forma \u00e1gil y adaptable a diversos formatos web. Por primera vez en la Ciudad Aut\u00f3noma de Buenos Aires, del 16 al 18 de septiembre de...",
+            "date": "2015-04-10",
+            "tags": "nuevos,formatos,web",
+            "recuweb_url": "http://es.recuweb.com/lagranepoca.com/2015/04/buenos-aires-congrega-a-futuros-periodistas-de-argentina",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formatos%2Bweb&format=RSS&cc=es",
+            "source_url": "http://lagranepoca.com/36472-buenos-aires-congrega-futuros-periodistas-argentina"
+        }
+    }
+}

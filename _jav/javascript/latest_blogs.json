@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "javascript",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/javascript/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/javascript/javascript/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/javascript/javascript/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
+    },
+    "items": {
+        "dawjaroso.wordpress.com/2015/04/desarrollo-web-en-entorno-cliente": {
+            "title": "Desarrollo Web en Entorno Cliente...",
+            "snippet": "En este m\u00f3dulo aprenderemos, entre otras cosas: Arquitecturas y lenguajes de programaci\u00f3n en clientes web. Introducci\u00f3n al lenguaje JavaScript. Estructura del lenguaje JavaScript. Estructuras definidas por el usuario en JavaScript. Gesti\u00f3n de...",
+            "date": "2015-04-13",
+            "author_name": "dawjaroso",
+            "categories": "desarrollo-web,lenguaje,javascript",
+            "tags": "lenguajes,cosas,aprenderemos,entorno,desarrollo,web,programaci\u00f3n,introducci\u00f3n,lenguaje,javascript,gesti\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/javascript/dawjaroso.wordpress.com/2015/04/desarrollo-web-en-entorno-cliente",
+            "resource_url": "http://es.search.wordpress.com/?q=javascript&f=feed&page=1",
+            "source_url": "http://dawjaroso.wordpress.com/desarrollo-web-en-entorno-cliente/"
+        },
+        "blogs.kinetica-solutions.com/2015/03/javascript-tip-2clases-kinetica-solutions-blogs": {
+            "title": "JavaScript Tip 2Clases Kinetica Solutions Blogs...",
+            "snippet": "Luego, al crear una instancia de ClaseA obtenemos un objeto m\u00e1s o menos cl\u00e1sico si lo vemos desde la \u00f3ptica de lenguajes tipados. Pero JavaScript tiene otra forma de hacer las cosas que es m\u00e1s JavaScript. var ClaseA...",
+            "date": "2015-03-11",
+            "author_name": "miacono",
+            "categories": "javascript",
+            "tags": "cosas,forma,lenguajes,javascript,crear,hacer",
+            "recuweb_url": "http://es.recuweb.com/javascript/blogs.kinetica-solutions.com/2015/03/javascript-tip-2clases-kinetica-solutions-blogs",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogs.kinetica-solutions.com/blog/2015/03/11/javascript-tip-2clases/"
+        },
+        "muycomputer.com/2015/03/google-y-microsoft-trabajan-juntas-en-el-framework-de-javascript": {
+            "title": "Google y Microsoft trabajan juntas en el framework de JavaScript...",
+            "snippet": "Google y Microsoft se han aliado para desarrollar Angular 2, la siguiente versi\u00f3n del framework de JavaScript.",
+            "date": "2015-03-06",
+            "author_name": "Eduardo Medina",
+            "categories": "google,javascript",
+            "tags": "juntas,google,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/muycomputer.com/2015/03/google-y-microsoft-trabajan-juntas-en-el-framework-de-javascript",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/03/06/google-microsoft-framework-javascript-angular-2"
+        },
+        "forum.spip.net/2015/02/c%C3%B3mo-cargar-los-javascript-de-forma-as%C3%ADncrona-en-spip-3-0": {
+            "title": "\u00bfc\u00f3mo cargar los javascript de forma as\u00edncrona en SPIP 3.0? - SPIP...",
+            "snippet": "\u00bfEs posible que los js de/local/cache-js se carguen al final de la p\u00e1gina? Al cargarlos al principio se demora la carga y google pagespeed penaliza. No encuentro el esqueleto donde se carguen. Me gustar\u00eda ponerle el...",
+            "date": "2015-02-26",
+            "author_name": "danilubrin",
+            "categories": "google,javascript",
+            "tags": "google,p\u00e1gina,posible,forma,c\u00f3mo,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/forum.spip.net/2015/02/c%C3%B3mo-cargar-los-javascript-de-forma-as%C3%ADncrona-en-spip-3-0",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://forum.spip.net/es_260703.html"
+        },
+        "ranchoelectronico.org/2015/02/aprende-a-programar-con-javascript-rancho-electr%C3%B3nico": {
+            "title": "Aprende a programar con Javascript - Rancho Electr\u00f3nico...",
+            "snippet": "Aprender Programar con Javascript. Resumen del Taller: En este taller vamos a tratar de contestar las siguientes preguntas: C\u00f3mo se comunican servidores, apps, y navegadores del web? Cu\u00e1les herramientas se utilizan?",
+            "date": "2015-02-25",
+            "author_name": "carlosm2",
+            "categories": "javascript",
+            "tags": "herramientas,navegadores,vamos,electr\u00f3nico,javascript,c\u00f3mo,apps,web",
+            "recuweb_url": "http://es.recuweb.com/javascript/ranchoelectronico.org/2015/02/aprende-a-programar-con-javascript-rancho-electr%C3%B3nico",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ranchoelectronico.org/taller-de-javascript/"
+        },
+        "blog.koalite.com/2015/02/monitores-de-rendimiento-para-javascript-koalite": {
+            "title": "Monitores de rendimiento para Javascript Koalite...",
+            "snippet": "Desde hace ya bastante tiempo todos los navegadores (incluso Internet Explorer) incluyen herramientas de desarrollo muy completas para trabajar con Javascript, entre las cuales existen profilers que nos permiten identificar...",
+            "date": "2015-02-23",
+            "author_name": "Juan Mar\u00eda Hern\u00e1ndez",
+            "categories": "internet,javascript",
+            "tags": "herramientas,navegadores,javascript,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/javascript/blog.koalite.com/2015/02/monitores-de-rendimiento-para-javascript-koalite",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.koalite.com/2015/02/monitores-de-rendimiento-para-javascript/"
+        },
+        "geekytheory.com/2015/02/concurrencia-en-javascript-geeky-theory": {
+            "title": "Concurrencia en Javascript Geeky Theory...",
+            "snippet": "Tutorial sobre Javascript en el que aprenderemos a utilizar la paralelizaci\u00f3n de procesos para ejecutarlos en segundo plano de forma concurrente y con threads.",
+            "date": "2015-02-04",
+            "author_name": "Mario P\u00e9rez Esteso",
+            "categories": "javascript",
+            "tags": "aprenderemos,forma,javascript,javascript_geeky,javascript_geeky_theory,geeky,geeky_theory,theory,tutorial",
+            "recuweb_url": "http://es.recuweb.com/javascript/geekytheory.com/2015/02/concurrencia-en-javascript-geeky-theory",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geekytheory.com/concurrencia-en-javascript/"
+        },
+        "desarrolloweb.com/2015/01/primeros-algoritmos-y-su-codificaci%C3%B3n-en-javascript": {
+            "title": "Primeros algoritmos y su codificaci\u00f3n en Javascript...",
+            "snippet": "En esta entrega vamos a ahondar de manera m\u00e1s pr\u00e1ctica en el concepto de algoritmo y vamos a ver nuestros primeros programas en el lenguaje de programaci\u00f3n Javascript. Es una clase del Curso de Programaci\u00f3n que...",
+            "date": "2015-01-30",
+            "author_name": "desconocido",
+            "categories": "javascript,lenguaje",
+            "tags": "clase,vamos,manera,javascript,lenguaje,programaci\u00f3n,curso",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/desarrolloweb.com/2015/01/primeros-algoritmos-y-su-codificaci%C3%B3n-en-javascript",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://desarrolloweb.com/articulos/algoritmos-codificacion-javascript.html"
+        },
+        "geekytheory.com/2015/01/gesti%C3%B3n-de-cookies-en-javascript-geeky-theory": {
+            "title": "Gesti\u00f3n de cookies en Javascript Geeky Theory...",
+            "snippet": "Antes de comenzar a escribir sobre la gesti\u00f3n de cookies en Javascript, tenemos que saber qu\u00e9 es esto de las cookies. Muchos lo sabr\u00e9is ya, pero lo explico por si acaso.",
+            "date": "2015-01-26",
+            "author_name": "Mario P\u00e9rez Esteso",
+            "categories": "javascript",
+            "tags": "tenemos,gesti\u00f3n,javascript,javascript_geeky,javascript_geeky_theory,geeky,geeky_theory,theory",
+            "recuweb_url": "http://es.recuweb.com/javascript/geekytheory.com/2015/01/gesti%C3%B3n-de-cookies-en-javascript-geeky-theory",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geekytheory.com/gestion-de-cookies-en-javascript/"
+        },
+        "albertoromeu.com/2014/11/bower-c%C3%B3mo-publicar-librer%C3%ADas-javascript": {
+            "title": "Bower - \u00bfC\u00f3mo publicar librer\u00edas Javascript con Bower?",
+            "snippet": "C\u00f3mo publicar una librer\u00eda Javascript en el registro de Bower. Si has estado hibernando \u00faltimamente y no sabes lo que es Bower, te interesa leer esto.",
+            "date": "2014-11-25",
+            "author_name": "Alberto Romeu",
+            "categories": "javascript",
+            "tags": "c\u00f3mo,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/albertoromeu.com/2014/11/bower-c%C3%B3mo-publicar-librer%C3%ADas-javascript",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://albertoromeu.com/bower-publicar-libreria-javascript-bower/"
+        }
+    }
+}

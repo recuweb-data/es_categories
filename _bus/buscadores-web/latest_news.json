@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "buscadores-web",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/buscadores-web/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/buscadores-web/buscadores-web/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/buscadores-web/buscadores-web/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/buscadores-web/buscadores-web/blogs.json"
+    },
+    "items": {
+        "elobservador.com.uy/2015/03/terminar-en-tiempos-de-internet": {
+            "title": "Terminar en tiempos de internet...",
+            "snippet": "A su vez, herramientas para buscadores web como Eternal Sunshine y Block your Ex (ver recuadro) incluso proponen eliminar al rompecorazones de tu rinc\u00f3n personal de internet, al tiempo que mantienen tus fotos y actualizaciones de estado en su...",
+            "date": "2015-03-20",
+            "categories": "internet",
+            "tags": "internet,buscadores,web",
+            "recuweb_url": "http://es.recuweb.com/internet/elobservador.com.uy/2015/03/terminar-en-tiempos-de-internet",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=buscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://elobservador.com.uy/noticia/300840/terminar-en-tiempos-de-internet/"
+        },
+        "denoticias.es/2015/03/hiperbaric-rentabiliza-con-%C3%A9xito-su-apuesta-por-el-marketing-online": {
+            "title": "Hiperbaric rentabiliza con \u00e9xito su apuesta por el marketing online...",
+            "snippet": "y m\u00e1s recientemente tambi\u00e9n en el campo farmac\u00e9utico y los cosm\u00e9ticos), copando las primeras posiciones en los rankings de buscadores web de Estados Unidos por palabras claves estrat\u00e9gicas. El impacto positivo de la inversi\u00f3n en nuestra nueva...",
+            "date": "2015-03-17",
+            "tags": "marketing,marketing-online,online,buscadores,web",
+            "recuweb_url": "http://es.recuweb.com/denoticias.es/2015/03/hiperbaric-rentabiliza-con-%C3%A9xito-su-apuesta-por-el-marketing-online",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=buscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://denoticias.es/noticias/negocios/81913-hiperbaric-rentabiliza-con-exito-su-apuesta-por-el-marketing-online.html"
+        },
+        "periodistadigital.com/2015/03/los-perfiles-con-m%C3%A1s-salidas-profesionales-en-2015": {
+            "title": "Los perfiles con m\u00e1s salidas profesionales en 2015...",
+            "snippet": "Por otro lado, los profesionales de marketing en buscadores web (SEM) y en posicionamiento en los buscadores (SEO) se convierten en los m\u00e1s buscados en 2015. La creaci\u00f3n de campa\u00f1as de SEM y la optimizaci\u00f3n de los mecanismos SEO para ser el...",
+            "date": "2015-03-16",
+            "tags": "izaci\u00f3n,marketing,buscadores,web,posicionamiento,seo",
+            "recuweb_url": "http://es.recuweb.com/periodistadigital.com/2015/03/los-perfiles-con-m%C3%A1s-salidas-profesionales-en-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=buscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://periodistadigital.com/economia-de-la-vida/emprendimiento/2015/03/16/perfiles-mas-salidas-profesionales-2015-economia-vida-emilio-gonzalez.shtml"
+        }
+    }
+}

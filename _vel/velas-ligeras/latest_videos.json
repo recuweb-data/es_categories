@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "portal_name": "velas-ligeras",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/velas-ligeras/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/velas-ligeras/velas-ligeras/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/velas-ligeras/velas-ligeras/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/velas-ligeras/velas-ligeras/blogs.json"
+    },
+    "items": {
+        "youtube.com/2010/05/arte-auditivo-mcslac-big-one-raprevoll-2009": {
+            "title": "Arte auditivo - McSlac Big One (RapRevoll 2009)...",
+            "snippet": "Arte auditivo - McSlac Big One (RapRevoll 2009) Arte auditivo - McSlac (RapRevoll) el Arte impulsado por las velas. y en el remo las ligeras naves dejan una brisa como estela el Arte es guiando por veloces... From: BigOne records Views: 375 1...",
+            "date": "2010-05-12",
+            "author_name": "BigOne records",
+            "tags": "ligeras,velas",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2010/05/arte-auditivo-mcslac-big-one-raprevoll-2009",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=velas%2Bligeras&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=aOM0M-TLGII&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/aOM0M-TLGII/0.jpg"
+        },
+        "youtube.com/2009/11/regata-de-la-hispanidad": {
+            "title": "Regata de la Hispanidad...",
+            "snippet": "Regata de la Hispanidad SANTO DOMINGO. Decenas de embarcaciones de crucero y velas ligeras participaron de la Regata de la Hispanidad, que fue celebrada el s\u00e1bado 10 de octubre. La... From: Noticias Dominicanas Views: 127 0 ratings Time: 00:36 More...",
+            "date": "2009-11-01",
+            "author_name": "Noticias Dominicanas",
+            "categories": "velas-ligeras,regata",
+            "tags": "velas,ligeras",
+            "recuweb_url": "http://es.recuweb.com/regata/youtube.com/2009/11/regata-de-la-hispanidad",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=velas%2Bligeras&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=LnDpm2SU2wg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LnDpm2SU2wg/0.jpg"
+        }
+    }
+}

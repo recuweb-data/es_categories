@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "phpbb",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/phpbb/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
+    },
+    "items": {
+        "theregister.co.uk/2015/02/evil-css-injection-bug-warning-don-t-let-hackers-cross-paths": {
+            "title": "Evil CSS injection bug warning: Don't let hackers cross paths with... - The Register...",
+            "snippet": "Evil CSS injection bug warning: Don't let hackers cross paths with...The RegisterA blog post by the biz describes a real PRSSI flaw in the popular bulletin board phpBB31 as an example. PortSwigger, though, is unaware of crooks exploiting PRSSIs in...",
+            "date": "2015-02-21",
+            "categories": "css,phpbb",
+            "tags": "crooks,register,phpbb",
+            "recuweb_url": "http://es.recuweb.com/phpbb/theregister.co.uk/2015/02/evil-css-injection-bug-warning-don-t-let-hackers-cross-paths",
+            "resource_url": "http://news.google.es/?hl=es&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/02/20/prssi_web_vuln/"
+        },
+        "theregister.co.uk/2015/02/ransomware-2-0-crypts-website-databases-until-victims-pay-up": {
+            "title": "Ransomware 2.0 'crypts website databases until victims pay up - The Register...",
+            "snippet": "Ransomware 2.0 'crypts website databases until victims pay upThe RegisterTwo \"backdoors\", undetected by any antivirus platform, were inserted by the crooks into the phpBB software installed on the victims'small business server. One altered the file...",
+            "date": "2015-02-04",
+            "categories": "phpbb",
+            "tags": "crooks,website,register,phpbb",
+            "recuweb_url": "http://es.recuweb.com/phpbb/theregister.co.uk/2015/02/ransomware-2-0-crypts-website-databases-until-victims-pay-up",
+            "resource_url": "http://news.google.es/?hl=es&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/02/03/web_ransomware_scum_now_lay_waste_to_your_backups/"
+        },
+        "neoteo.com/2014/11/phpbb-los-mejores-desarrolladores-neoteo": {
+            "title": "phpBB: Los mejores desarrolladores - NeoTeo...",
+            "snippet": "phpBB: Los mejores desarrolladoresNeoTeoEn este art\u00edculo de los mejores desarrolladores hablaremos de phpBB, un sistema de foros basado en un paquete de c\u00f3digo que es desarrollado con el lenguaje de programaci\u00f3n web PHP (lenguaje de programaci\u00f3n...",
+            "date": "2014-11-01",
+            "categories": "lenguaje,phpbb,php",
+            "tags": "phpbb,foros,web",
+            "recuweb_url": "http://es.recuweb.com/php/neoteo.com/2014/11/phpbb-los-mejores-desarrolladores-neoteo",
+            "resource_url": "http://news.google.es/?hl=es&q=phpbb&output=atom&nord=1",
+            "source_url": "http://neoteo.com/phpbb-los-mejores-desarrolladores/"
+        }
+    }
+}

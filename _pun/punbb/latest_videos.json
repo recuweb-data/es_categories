@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "punbb",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/punbb/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/punbb/punbb/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/punbb/punbb/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/punbb/punbb/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/05/instalar-foro-con-hostinger-y-punbb-desde-cero-agregar-idioma-espa%C3%B1ol": {
+            "title": "Instalar foro con Hostinger y PunBB desde cero - agregar idioma espa\u00f1ol a PunBB...",
+            "snippet": "Instalar foro con Hostinger y PunBB desde cero - agregar idioma espa\u00f1ol a PunBB En el v\u00eddeo se describe como instalar unos de los mejores foros en este caso es PunBB en - Es muy facil de hacer ademas de eso les muestro como agregar el idioma...",
+            "date": "2014-05-17",
+            "author_name": "The gApps",
+            "categories": "punbb",
+            "recuweb_url": "http://es.recuweb.com/punbb/youtube.com/2014/05/instalar-foro-con-hostinger-y-punbb-desde-cero-agregar-idioma-espa%C3%B1ol",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=punbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=EGmm23JDgVg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/EGmm23JDgVg/0.jpg"
+        }
+    }
+}

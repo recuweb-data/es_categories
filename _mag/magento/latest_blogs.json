@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "magento",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/magento/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/magento/magento/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/magento/magento/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/magento/magento/blogs.json"
+    },
+    "items": {
+        "urbecom.com/2015/04/se-descubre-una-vulnerabilidad-en-magento-blog-urbecom": {
+            "title": "Se descubre una vulnerabilidad en Magento Blog UrbeCOM...",
+            "snippet": "Magento, la conocida plataforma de comercio electr\u00f3nico propiedad de eBay desde el a\u00f1o 2011 que se usa por innumerables tiendas online en todo el mundo,...",
+            "date": "2015-04-23",
+            "author_name": "urbeCOM Ecomercio",
+            "categories": "propiedad,magento",
+            "tags": "tiendas,tiendas-online,online,mundo,plataforma,comercio,comercio-electr\u00f3nico,electr\u00f3nico,magento",
+            "recuweb_url": "http://es.recuweb.com/magento/urbecom.com/2015/04/se-descubre-una-vulnerabilidad-en-magento-blog-urbecom",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://urbecom.com/blog/se-descubre-una-vulnerabilidad-en-magento/"
+        },
+        "drivemeca.blogspot.com/2015/04/como-instalar-magento-desde-cero-paso-a-videojuegos": {
+            "title": "Como instalar Magento desde cero paso a paso videoJuegos y...",
+            "snippet": "Entra al mundo del comercio electr\u00f3nico con Magento sobre un servidor Linux Ubuntu. En este articulo te muestro como instalarlo paso a paso.",
+            "date": "2015-04-22",
+            "author_name": "Manuel Cabrera Caballero",
+            "categories": "magento,videojuego",
+            "tags": "linux,servidor,mundo,comercio,comercio-electr\u00f3nico,electr\u00f3nico,instalar,magento",
+            "recuweb_url": "http://es.recuweb.com/videojuego/drivemeca.blogspot.com/2015/04/como-instalar-magento-desde-cero-paso-a-videojuegos",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://drivemeca.blogspot.com/2015/04/como-instalar-magento-desde-cero-paso.html"
+        },
+        "danielnavarroymas.com/2015/03/instalar-y-configurar-varnish-para-optimizar-magento-daniel-navarro": {
+            "title": "Instalar y configurar Varnish para optimizar Magento - Daniel Navarro...",
+            "snippet": "Ideas b\u00e1sicas acerca de Varnish y Magento. Si quieres conocer los aspectos b\u00e1sicos de la integraci\u00f3n de Magento y Varnish, puedes comenzar leyendo el art\u00edculo Acelerar Magento con Varnish Cach\u00e9...",
+            "date": "2015-03-23",
+            "author_name": "Daniel Navarro Murillo",
+            "categories": "magento",
+            "tags": "puedes,conocer,daniel,daniel_navarro,navarro,instalar,izar,magento,ideas",
+            "recuweb_url": "http://es.recuweb.com/magento/danielnavarroymas.com/2015/03/instalar-y-configurar-varnish-para-optimizar-magento-daniel-navarro",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://danielnavarroymas.com/instalar-y-configurar-varnish-para-optimizar-magento/"
+        },
+        "danielnavarroymas.com/2015/03/magento-obtener-todas-las-rutas-configuradas-programador": {
+            "title": "Magento: Obtener todas las rutas configuradas Programador...",
+            "snippet": "No es un caso muy habitual, pero a veces la mejor forma de saber qu\u00e9 m\u00f3dulos est\u00e1n instalados en nuestra tienda Magento es conocer todas las rutas posibles que cada uno de los m\u00f3dulos genera. En particular a nosotros...",
+            "date": "2015-03-21",
+            "author_name": "Daniel Navarro Murillo",
+            "categories": "magento",
+            "tags": "conocer,est\u00e1n,tienda,magento,programador",
+            "recuweb_url": "http://es.recuweb.com/magento/danielnavarroymas.com/2015/03/magento-obtener-todas-las-rutas-configuradas-programador",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://danielnavarroymas.com/magento-obtener-todas-las-rutas-configuradas/"
+        },
+        "danielnavarroymas.com/2015/03/optimizar-magento-reducir-el-n%C3%BAmero-de-peticiones-daniel-navarro": {
+            "title": "Optimizar Magento: Reducir el n\u00famero de peticiones - Daniel Navarro...",
+            "snippet": "Cuando un usuario desde su navegador web se conecta a tu tienda Magento, se debe descargar del servidor al navegador ciertos archivos, como los archivos de estilos css, archivos javascript, im\u00e1genes, tipograf\u00edas si los...",
+            "date": "2015-03-13",
+            "author_name": "Daniel Navarro Murillo",
+            "categories": "javascript,css,magento",
+            "tags": "descargar,servidor,web,tienda,daniel,daniel_navarro,navarro,izar,magento",
+            "recuweb_url": "http://es.recuweb.com/magento/danielnavarroymas.com/2015/03/optimizar-magento-reducir-el-n%C3%BAmero-de-peticiones-daniel-navarro",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://danielnavarroymas.com/optimizar-magento-reducir-el-numero-de-peticiones/"
+        },
+        "publimail.asx.mx/2015/03/modificaciones-en-magento": {
+            "title": "Modificaciones en Magento...",
+            "snippet": "Hola Asx, hay nuevos proyectos para ti Puedes mantenerte informado de la publicaci\u00f3n de todos los proyectos minuto a minuto en nuestro Twitter proyectosnubelo. \u00a1Ser\u00e1s el primero en enviar tu propuesta! Desarrollo Web y M\u00f3vil Modificaciones en...",
+            "date": "2015-03-07",
+            "author_name": "Alfonso S\u00e1nchez Gonz\u00e1lez",
+            "categories": "desarrollo-web,magento,twitter",
+            "tags": "web,magento,puedes,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/publimail.asx.mx/2015/03/modificaciones-en-magento",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=magento%2Bmagento&rss=1&lng=es",
+            "source_url": "http://publimail.asx.mx/2015/03/modificaciones-en-magento.html"
+        },
+        "muycomputer.com/2015/03/magento-un-gestor-de-contenidos-ideal-para-tiendas-online": {
+            "title": "Magento, un gestor de contenidos ideal para tiendas online...",
+            "snippet": "Dentro del comercio electr\u00f3nico y los gestores de contenidos Magento ostenta una posici\u00f3n de gran importancia y se ha convertido en una de las principales alternativas de un sector que no parar\u00e1 de crecer en los pr\u00f3ximos...",
+            "date": "2015-03-05",
+            "author_name": "Isidro Ros",
+            "categories": "magento",
+            "tags": "comercio,comercio-electr\u00f3nico,electr\u00f3nico,tiendas,tiendas-online,online,magento",
+            "recuweb_url": "http://es.recuweb.com/magento/muycomputer.com/2015/03/magento-un-gestor-de-contenidos-ideal-para-tiendas-online",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/03/05/ventajas-magento"
+        },
+        "danielnavarroymas.com/2015/03/c%C3%B3mo-actualizar-magento-cualquier-versi%C3%B3n-programador": {
+            "title": "C\u00f3mo actualizar Magento (cualquier versi\u00f3n) Programador...",
+            "snippet": "Os dejo a continuaci\u00f3n un peque\u00f1o checklist que solemos utilizar cuando tenemos que actualizar tiendas Magento a una nueva versi\u00f3n. La lista incluye ideas tanto para trabajar durante la fase de preparaci\u00f3n como durante...",
+            "date": "2015-03-04",
+            "author_name": "Daniel Navarro Murillo",
+            "categories": "magento",
+            "tags": "ideas,nueva,tenemos,tiendas,peque\u00f1o,c\u00f3mo,magento,programador",
+            "recuweb_url": "http://es.recuweb.com/magento/danielnavarroymas.com/2015/03/c%C3%B3mo-actualizar-magento-cualquier-versi%C3%B3n-programador",
+            "resource_url": "http://www.google.com/search?q=magento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://danielnavarroymas.com/como-actualizar-magento-cualquier-version/"
+        },
+        "dinaweb.net/2015/02/magento-front-end-certified-developer-hito-conseguido": {
+            "title": "Magento Front End Certified Developer, hito conseguido...",
+            "snippet": "Hace unas semanas obtuve la certificaci\u00f3n como Magento Front End Developer. Esta certificaci\u00f3n va destinada a los desarrolladores de Front End y prueba los conocimientos sobre modificaci\u00f3n y desarrollo de la parte p\u00fablica acorde a las buenas...",
+            "date": "2015-02-28",
+            "author_name": "admin",
+            "categories": "conocimiento,magento",
+            "tags": "magento,parte",
+            "recuweb_url": "http://es.recuweb.com/magento/dinaweb.net/2015/02/magento-front-end-certified-developer-hito-conseguido",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=magento%2Bmagento&rss=1&lng=es",
+            "source_url": "http://dinaweb.net/magento/magento-front-end-certified-developer/?utm_source=rss&utm_medium=rss&utm_campaign=magento-front-end-certified-developer"
+        },
+        "muycomputer.com/2015/02/c%C3%B3mo-instalar-magento-en-un-servidor-cloud-linux-muycomputer": {
+            "title": "C\u00f3mo instalar Magento en un servidor Cloud Linux MuyComputer...",
+            "snippet": "Tutorial para aprender a instalar Magento en un servidor basado en Linux e informaci\u00f3n para aprovechar el instalador autom\u00e1tico que ofrece Arsys en su paquete CloudBuilder.",
+            "date": "2015-02-23",
+            "author_name": "Isidro Ros",
+            "categories": "magento",
+            "tags": "servidor,instalar,cloud,linux,c\u00f3mo,magento",
+            "recuweb_url": "http://es.recuweb.com/magento/muycomputer.com/2015/02/c%C3%B3mo-instalar-magento-en-un-servidor-cloud-linux-muycomputer",
+            "resource_url": "http://www.google.com/search?q=magento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/02/23/como-instalar-magento-en-linux"
+        }
+    }
+}

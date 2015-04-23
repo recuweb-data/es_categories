@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "computadoras-apple",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadoras-apple/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/blogs.json"
+    },
+    "items": {
+        "iprofesional.com/2015/03/cofundador-de-apple-pronostica-que-las-computadoras-van": {
+            "title": "Cofundador de Apple pronostica que \"las computadoras van a... -...",
+            "snippet": "de Apple pronostica que \"las computadoras van a... Wozniak, el hombre que junto a Steve Jobs cre\u00f3 Apple en 1976, expres\u00f3 una oscura visi\u00f3n del futuro en una entrevista con el medio australiano Financial Review. Consultado sobre el desarrollo de...",
+            "date": "2015-03-25",
+            "categories": "computadora",
+            "tags": "steve,jobs,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/iprofesional.com/2015/03/cofundador-de-apple-pronostica-que-las-computadoras-van",
+            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
+            "source_url": "http://iprofesional.com/notas/208646-Cofundador-de-Apple-pronostica-que-las-computadoras-van-a-reemplazar-al-hombre"
+        },
+        "aztecanoticias.com.mx/2015/03/fotos-apple-entre-las-30-empresas-m%C3%A1s-importantes-azteca-noticias": {
+            "title": "Fotos: Apple, entre las 30 empresas m\u00e1s importantes - Azteca Noticias...",
+            "snippet": "Azteca NoticiasFotos: Apple, entre las 30 empresas m\u00e1s importantesAzteca NoticiasM\u00e9xico,, el fabricante de computadoras, tel\u00e9fonos y dispositivos digitales, se integr\u00f3 hoy al \u00edndice Dow Jones en sustituci\u00f3n de la telef\u00f3nica AT&T, lo que...",
+            "date": "2015-03-19",
+            "categories": "computadora",
+            "tags": "tel\u00e9fonos,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/aztecanoticias.com.mx/2015/03/fotos-apple-entre-las-30-empresas-m%C3%A1s-importantes-azteca-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
+            "source_url": "http://aztecanoticias.com.mx/notas/finanzas/216039/fotos-apple-entre-las-30-empresas-mas-importantes"
+        },
+        "eluniversal.com.mx/2015/03/usuarios-de-apple-y-google-espiados-durante-m%C3%A1s-una-d%C3%A9cada": {
+            "title": "Usuarios de Apple y Google espiados durante m\u00e1s de una d\u00e9cada - El Universal...",
+            "snippet": "El UniversalUsuarios de Apple y Google espiados durante m\u00e1s de una d\u00e9cadaEl UniversalApple se encuentra preparando una soluci\u00f3n para el problema, para su navegador Safari en computadoras y tel\u00e9fonos. Aunque Chrome no es vulnerable, el navegador...",
+            "date": "2015-03-06",
+            "categories": "google,computadora",
+            "tags": "tel\u00e9fonos,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/eluniversal.com.mx/2015/03/usuarios-de-apple-y-google-espiados-durante-m%C3%A1s-una-d%C3%A9cada",
+            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.mx/computacion-tecno/2015/apple-google-espiados-decada-102471.html"
+        }
+    }
+}

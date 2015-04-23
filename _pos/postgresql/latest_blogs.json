@@ -1,0 +1,114 @@
+{
+    "meta": {
+        "portal_name": "postgresql",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/postgresql/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
+    },
+    "items": {
+        "unaaldia.hispasec.com/2015/02/hispasec-unaaldia-vulnerabilidades-en-postgresql": {
+            "title": "Hispasec unaaldia: Vulnerabilidades en PostgreSQL...",
+            "snippet": "PostgreSQL ha publicado nuevas versiones para solucionar cinco nuevas vulnerabilidades que podr\u00edan ser empleadas por atacantes autenticados para conseguir informaci\u00f3n sensible, provocar denegaciones de servicio o...",
+            "date": "2015-02-15",
+            "author_name": "noreply@blogger.com (Antonio Ropero)",
+            "tags": "publicado,nuevas,informaci\u00f3n,gresql",
+            "recuweb_url": "http://es.recuweb.com/unaaldia.hispasec.com/2015/02/hispasec-unaaldia-vulnerabilidades-en-postgresql",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://unaaldia.hispasec.com/2015/02/vulnerabilidades-en-postgresql.html"
+        },
+        "postgresql.org.es/2015/02/m%C3%A1s-all%C3%A1-de-los-tipos-datos": {
+            "title": "M\u00e1s all\u00e1 de los tipos de datos...",
+            "snippet": "postgrespana, El lunes 16 de febrero de 2015, a las 19:00h, se celebra la reuni\u00f3n de febrero del grupo de usuarios PostgreSQL Espa\u00f1a. La reuni\u00f3n se celebrar\u00e1 en \"Madrid International Lab\". M\u00e1s informaci\u00f3n:...",
+            "date": "2015-02-06",
+            "author_name": "rafaelma",
+            "tags": "reuni\u00f3n,reuni\u00f3n-se-celebrar\u00e1,celebrar\u00e1,celebrar\u00e1-en-madrid,madrid,madrid-international,madrid-international-lab,international,international-lab,lab,gresql,gresql_espa\u00f1a,espa\u00f1a,celebra,celebra-la-reuni\u00f3n,grupo,grupo-de-usuarios,usuarios,datos,grespana,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/postgresql.org.es/2015/02/m%C3%A1s-all%C3%A1-de-los-tipos-datos",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://postgresql.org.es/node/2994"
+        },
+        "miguelpinia.wordpress.com/2015/01/instalando-postgresql-en-opensuse": {
+            "title": "Instalando PostgreSQL en openSuse...",
+            "snippet": "Primero: sudo zypper install postgresql postgresql-server pgadmin3 Iniciamos el servidor de postgreSQL: sudo/etc/init.d/postgresql start Nos logueamos como el usuario postgres haciendo lo siguiente: sudo su postgres psql Una ves adentro del shell de...",
+            "date": "2015-01-18",
+            "author_name": "miguelpinia",
+            "tags": "server,pgadmin,gresql,gres",
+            "recuweb_url": "http://es.recuweb.com/miguelpinia.wordpress.com/2015/01/instalando-postgresql-en-opensuse",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=es",
+            "source_url": "http://miguelpinia.wordpress.com/2015/01/18/instalando-postgresql-en-opensuse/"
+        },
+        "skatox.com/2014/12/crudgen-1-0-un-generador-de-crud-para-postgresql-el-blog": {
+            "title": "CrudGen 1.0 un generador de CRUD para Postgresql El blog de...",
+            "snippet": "CrudGen fue mi proyecto de tesis de mis estudios de pregrado, consiste en un generador de p\u00e1ginas Create, Report, Update y Delete para base de datos PostgreSQL utilizando el gestor phpPgAdmin. Es uno de los plugines...",
+            "date": "2014-12-26",
+            "author_name": "Skatox",
+            "tags": "gresql,base,datos",
+            "recuweb_url": "http://es.recuweb.com/skatox.com/2014/12/crudgen-1-0-un-generador-de-crud-para-postgresql-el-blog",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://skatox.com/blog/2014/12/25/crudgen-1-0-generador-de-crud-para-postgresql/"
+        },
+        "postgresql.org.es/2014/12/lanzamiento-de-postgresql-9-4": {
+            "title": "Lanzamiento de postgreSQL 9.4...",
+            "snippet": "postgresql El Grupo Global de Desarrollo de PostgreSQL ha anunciado PostgreSQL 9.4, la \u00faltima versi\u00f3n del l\u00edder en bases de datos de c\u00f3digo abierto. Esta versi\u00f3n agrega muchas nuevas caracter\u00edsticas que mejoran la...",
+            "date": "2014-12-19",
+            "author_name": "rafaelma",
+            "tags": "versi\u00f3n,nuevas,caracter\u00edsticas,bases,grupo,global,gresql,datos",
+            "recuweb_url": "http://es.recuweb.com/postgresql.org.es/2014/12/lanzamiento-de-postgresql-9-4",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://postgresql.org.es/node/2984"
+        },
+        "postgresql.org.es/2014/11/postgresql-en-cloud-desde-el-frente-de-batalla": {
+            "title": "PostgreSQL en Cloud, desde el frente de batalla...",
+            "snippet": "postgrespana, El jueves 04 de diciembre de 2014, a las 19:00h, se celebra la reuni\u00f3n de diciembre del grupo de usuarios PostgreSQL Espa\u00f1a. La reuni\u00f3n se celebrar\u00e1 en \"Madrid International Lab\". M\u00e1s informaci\u00f3n:...",
+            "date": "2014-11-25",
+            "author_name": "rafaelma",
+            "tags": "reuni\u00f3n,reuni\u00f3n-se-celebrar\u00e1,celebrar\u00e1,celebrar\u00e1-en-madrid,madrid,madrid-international,madrid-international-lab,international,international-lab,lab,celebra,celebra-la-reuni\u00f3n,grupo,grupo-de-usuarios,usuarios,gresql,grespana,espa\u00f1a,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/postgresql.org.es/2014/11/postgresql-en-cloud-desde-el-frente-de-batalla",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://postgresql.org.es/node/2979"
+        },
+        "postgresql.org.es/2014/09/migrando-de-oracle-a-postgres": {
+            "title": "Migrando de Oracle a Postgres...",
+            "snippet": "postgrespana, El martes 30 de septiembre de 2014, a las 19:00h, se celebra la reuni\u00f3n de septiembre del grupo de usuarios PostgreSQL Espa\u00f1a. La reuni\u00f3n se celebrar\u00e1 en \"Madrid International Lab\". M\u00e1s informaci\u00f3n:...",
+            "date": "2014-09-22",
+            "author_name": "rafaelma",
+            "tags": "reuni\u00f3n,reuni\u00f3n-se-celebrar\u00e1,celebrar\u00e1,celebrar\u00e1-en-madrid,madrid,madrid-international,madrid-international-lab,international,international-lab,lab,gresql,gresql_espa\u00f1a,espa\u00f1a,celebra,celebra-la-reuni\u00f3n,grupo,grupo-de-usuarios,usuarios,oracle,gres,grespana,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/postgresql.org.es/2014/09/migrando-de-oracle-a-postgres",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://postgresql.org.es/node/2963"
+        },
+        "elraski.wordpress.com/2014/09/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql": {
+            "title": "PgTune el Wizard que te ayuda a optimizar tu Postgresql...",
+            "snippet": "COMENTARIO T\u00e9cnico:) Muchos de Vosotros ya conoc\u00e9is pgtune, ahora hay alguien que publicado un panel para hacerlo a\u00fan mas f\u00e1cil. Nos ayudar\u00e1 a ajustar los par\u00e1metros para poder sacarle []...",
+            "date": "2014-09-04",
+            "author_name": "elraski",
+            "tags": "par\u00e1metros,publicado,f\u00e1cil,gresql",
+            "recuweb_url": "http://es.recuweb.com/elraski.wordpress.com/2014/09/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql",
+            "resource_url": "http://es.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
+            "source_url": "http://elraski.wordpress.com/2014/09/04/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql/"
+        },
+        "luzemywonka.wordpress.com/2014/05/configuraci%C3%B3n-avanzada-de-un-sgbd-postgresql": {
+            "title": "CONFIGURACI\u00d3N AVANZADA DE UN SGBD (POSTGRESQL)...",
+            "snippet": "PG_CONFIG Recupera informaci\u00f3n acerca de la versi\u00f3n instalada de PostgreSQL. Imprime los par\u00e1metros de configuraci\u00f3n de servicios p\u00fablicos de la versi\u00f3n actualmente instalada de PostgreSQL. Se pretende, por ejemplo,...",
+            "date": "2014-05-06",
+            "author_name": "Leticia Molina",
+            "tags": "par\u00e1metros,versi\u00f3n,informaci\u00f3n,gresql",
+            "recuweb_url": "http://es.recuweb.com/luzemywonka.wordpress.com/2014/05/configuraci%C3%B3n-avanzada-de-un-sgbd-postgresql",
+            "resource_url": "http://es.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
+            "source_url": "http://luzemywonka.wordpress.com/2014/05/06/sistemas-gestores-de-bases-de-datos/"
+        },
+        "pepemeza.wordpress.com/2014/04/postgresql-c%C3%B3mo-hacer-debug-de-funciones-con-pgadmin": {
+            "title": "PostgreSQL: C\u00f3mo hacer debug de funciones con PgAdmin...",
+            "snippet": "pgAdmin y pldebugger Hace unos d\u00edas ten\u00eda que hacer seguimiento a unas funciones en PostgreSQL, de antemano sab\u00eda que me iba a tomar buen tiempo y jugar con raise...",
+            "date": "2014-04-22",
+            "author_name": "pepemeza",
+            "tags": "gresql,pgadmin",
+            "recuweb_url": "http://es.recuweb.com/pepemeza.wordpress.com/2014/04/postgresql-c%C3%B3mo-hacer-debug-de-funciones-con-pgadmin",
+            "resource_url": "http://es.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
+            "source_url": "http://pepemeza.wordpress.com/2014/04/22/postgresql-debug-con-pgadmin/"
+        }
+    }
+}

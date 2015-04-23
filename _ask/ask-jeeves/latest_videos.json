@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "ask-jeeves",
+        "language": "es"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ask-jeeves/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/blogs.json"
+    },
+    "items": {
+        "youtube.com/2012/09/historia-de-los-motores-b%C3%BAsqueda-parte-ii-episodio-4-curso-seo": {
+            "title": "Historia de los motores de b\u00fasqueda - Parte II - Episodio 4 - Curso de SEO en video - SEOen3...",
+            "snippet": "Historia de los motores de b\u00fasqueda - Parte II - Episodio 4 - Curso de SEO en video - SEOen3 Historia de la primera generaci\u00f3n de motores de b\u00fasqueda, entre ellos, Lycos, Ask Jeeves,Yahoo y altavista y como \u00e9stos debido al abuso de algunos...",
+            "date": "2012-09-19",
+            "author_name": "SEOen3",
+            "categories": "ask-jeeves,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/youtube.com/2012/09/historia-de-los-motores-b%C3%BAsqueda-parte-ii-episodio-4-curso-seo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ask%2Bjeeves%2Bask%2Bjeeves&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=eAEiXUqb1oA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/eAEiXUqb1oA/0.jpg"
+        }
+    }
+}

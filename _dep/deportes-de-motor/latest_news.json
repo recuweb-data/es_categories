@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "deportes-de-motor",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deportes-de-motor/",
@@ -10,48 +11,56 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-motor/deportes-de-motor/blogs.json"
     },
     "items": {
-        "larazon.es/2015/04/monlau-repsol-de-donde-vienen-los-campeones": {
-            "title": "Monlau Repsol, de donde vienen los campeones...",
-            "snippet": "El talento es imprescindible para encontrar un hueco en la \u00e9lite de los deportes de motor, pero todo lo dem\u00e1s que hace falta para conseguirlo se aprende desde 1988 en la escuela Monlau Repsol. Este centro pionero y de referencia en la formaci\u00f3n...",
-            "date": "2015-04-21",
-            "categories": "escuela",
-            "tags": "deportes,motor",
-            "recuweb_url": "http://es.recuweb.com/escuela/larazon.es/2015/04/monlau-repsol-de-donde-vienen-los-campeones",
+        "uvitelonline.es/2015/04/el-pa-califica-de-cantos-a-la-galer%C3%ADa-las-propuestas-deportivas": {
+            "title": "El PA califica de cantos a la galer\u00eda las propuestas deportivas realizadas por el PSOE...",
+            "snippet": "Nueva zona de skateboard. Instalaciones para la pr\u00e1ctica de deportes de motor y BMX. Adem\u00e1s de las actuaciones en Vistalegre, el Partido Andalucista va a continuar dotando de infraestructuras deportivas a todas las barriadas, junto a otros...",
+            "date": "2015-04-24",
+            "tags": "instalaciones,deportes,motor",
+            "recuweb_url": "http://es.recuweb.com/uvitelonline.es/2015/04/el-pa-califica-de-cantos-a-la-galer%C3%ADa-las-propuestas-deportivas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://larazon.es/monlau-repsol-de-donde-vienen-los-campeones-JK9509803"
+            "source_url": "http://uvitelonline.es/general/noticias/0/14973/El-PA-califica-de-\u201ccantos-a-la-galeria\u201d-las-propuestas-deportivas-realizadas-por-el-PSOE-/"
+        },
+        "caranddriverthef1.com/2015/04/marko-no-conf%C3%ADa-en-alcanzar-a-mercedes-y-ferrari-hasta-final": {
+            "title": "Marko no conf\u00eda en alcanzar a Mercedes y Ferrari hasta final de temporada...",
+            "snippet": "Hemos hecho un gran esfuerzo al hacer el mejor chasis. Pero en los deportes de motor si no tienes motor es complicado, critica el asesor de Red Bull. El austr\u00edaco no pone prisas a Renault, pero les incita a resolver los problemas de fiabilidad...",
+            "date": "2015-04-23",
+            "tags": "red,red_bull,bull,gran,mejor,marko,mercedes,ferrari,deportes,motor,renault",
+            "recuweb_url": "http://es.recuweb.com/caranddriverthef1.com/2015/04/marko-no-conf%C3%ADa-en-alcanzar-a-mercedes-y-ferrari-hasta-final",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://caranddriverthef1.com/formula1/noticias/2015/04/23/109455-marko-no-confia-en-alcanzar-mercedes-y-ferrari-hasta-final-temporada"
+        },
+        "periodismodelmotor.com/2015/04/los-coches-de-dictadores-m%C3%A1s-famosos": {
+            "title": "Los coches de los dictadores m\u00e1s famosos...",
+            "snippet": "Gran fan de los deportes de motor y de Ferrari, el dictador adquiri\u00f3 varias unidades del fabricante italiano. Pero su amor por los coches tambi\u00e9n supuso un lado amargo para los dominicanos, cuando la guerrilla paramilitar del dictador se paseaba...",
+            "date": "2015-04-21",
+            "tags": "gran,deportes,motor,ferrari",
+            "recuweb_url": "http://es.recuweb.com/periodismodelmotor.com/2015/04/los-coches-de-dictadores-m%C3%A1s-famosos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://periodismodelmotor.com/coches-dictadores-famosos/91940/"
+        },
+        "vlcnoticias.com/2015/04/un-equipo-holand%C3%A9s-debuta-en-el-evento-de-valencia-las-tcr": {
+            "title": "Un equipo holand\u00e9s debuta en el evento de Valencia de las TCR International Series...",
+            "snippet": "Accesible, asequible y reconocible: esto es lo que se necesita para crear valor permanente en los deportes de motor, a nivel nacional e internacional. La iniciativa presentada por Marcello Lotti llega en el momento adecuado y tiene el potencial...",
+            "date": "2015-04-21",
+            "tags": "evento,deportes,motor",
+            "recuweb_url": "http://es.recuweb.com/vlcnoticias.com/2015/04/un-equipo-holand%C3%A9s-debuta-en-el-evento-de-valencia-las-tcr",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://vlcnoticias.com/un-equipo-holandes-debuta-en-el-evento-de-valencia-de-las-tcr-international-series/"
         },
         "es.eurosport.yahoo.com/2015/04/deportes-de-motor-l%C3%B3pez-sale-m%C3%A1s-l%C3%ADder-marrakech": {
             "title": "Deportes de Motor - L\u00f3pez sale m\u00e1s l\u00edder de Marrakech...",
             "snippet": "En la primera carrera 'Pechito'L\u00f3pez, actual campe\u00f3n, se impuso desde la 'pole'por delante de otros cuatro pilotos de Citroen: el chino Ma Qing Hua y el franc\u00e9s Sebastien Loeb, que lo acompa\u00f1aron en el podio; el marroqu\u00ed Mehdi Bennani y el...",
             "date": "2015-04-19",
-            "tags": "pilotos,carrera,deportes,motor",
+            "tags": "pilotos,deportes,motor",
             "recuweb_url": "http://es.recuweb.com/es.eurosport.yahoo.com/2015/04/deportes-de-motor-l%C3%B3pez-sale-m%C3%A1s-l%C3%ADder-marrakech",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
             "source_url": "http://es.eurosport.yahoo.com/noticias/deportes-de-motor-l\u00f3pez-sale-m\u00e1s-l\u00edder-de-172749756--spt.html"
-        },
-        "f1aldia.com/2015/04/lewis-hamilton-contento-con-la-victoria-en-bar%C3%A9in-ferrari": {
-            "title": "Lewis Hamilton contento con la victoria en Bar\u00e9in: Ferrari nos est\u00e1 presionando muy duro...",
-            "snippet": "Eso es lo que tiene los deportes de motor y por eso vamos a las carreras - para luchar con otros equipos. Nico Rosberg (3): Me sent\u00ed muy bien en el coche hoy y tuve una carrera muy emocionante. Tuve la oportunidad de recuperarme de mi mala salida...",
-            "date": "2015-04-19",
-            "tags": "carreras,rosberg,equipos,lewis,lewis_hamilton,hamilton,deportes,motor",
-            "recuweb_url": "http://es.recuweb.com/f1aldia.com/2015/04/lewis-hamilton-contento-con-la-victoria-en-bar%C3%A9in-ferrari",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://f1aldia.com/26286/lewis-hamilton-contento-victoria-barein-ferrari-esta-presionando-muy-duro/"
-        },
-        "uniradioinforma.com/2015/04/renault-necesita-dos-carreras-para-tener-motor-competitivo-uniradio-informa": {
-            "title": "Renault necesita dos carreras para tener motor competitivo - Uniradio Informa...",
-            "snippet": "ESPN DeportesRenault necesita dos carreras para tener motor competitivoUniradio InformaRenault necesita dos carreras para tener motor competitivo... Renault necesita otras dos carreras para poder suministrar un motor competitivo a los equipos de...",
-            "date": "2015-04-18",
-            "tags": "equipos,dos,carreras,tener,renault,motor",
-            "recuweb_url": "http://es.recuweb.com/uniradioinforma.com/2015/04/renault-necesita-dos-carreras-para-tener-motor-competitivo-uniradio-informa",
-            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Bmotor%2Bdeportes%2Bde%2Bmotor&output=atom&nord=1",
-            "source_url": "http://uniradioinforma.com/noticias/deportes/334878/renault-necesita-dos-carreras-para-tener-motor-competitivo.html"
         },
         "marca.com/2015/04/los-mercedes-mejor-por-separado": {
             "title": "Los Mercedes, mejor por separado...",
             "snippet": "El nuevo episodio de la rivalidad que mantienen ambos pilotos desde 2014 encendi\u00f3 las alarmas en Mercedes, por lo que el jefe de deportes de motor, Toto Wolff, pidi\u00f3 tener cuidado de que la situaci\u00f3n no escale. Pese a ello, Rosberg descart\u00f3 que...",
             "date": "2015-04-16",
-            "tags": "tener,jefe,pilotos,deportes,motor,rosberg",
+            "tags": "jefe,pilotos,mejor,mercedes,deportes,motor",
             "recuweb_url": "http://es.recuweb.com/marca.com/2015/04/los-mercedes-mejor-por-separado",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
             "source_url": "http://marca.com/2015/04/16/motor/formula1/gp-bahrein/1429186849.html"
@@ -78,7 +87,7 @@
             "title": "Lewis Hamilton vuelve a ser se\u00f1alado por sexismo...",
             "snippet": "Los deportes de motor colocan innecesariamente como objetos sexuales a las mujeres y esto complica que las mujeres se levanten por si solas ante este asunto. Esperamos y deseamos que la gente de la industria sea m\u00e1s respetuosos hacia las mujeres...",
             "date": "2015-04-14",
-            "tags": "deseamos,gente,industria,industria-sea,sea,sea-m\u00e1s-respetuosos,respetuosos,respetuosos-hacia,hacia,hacia-las-mujeres,mujeres,colocan,colocan-innecesariamente,innecesariamente,innecesariamente-como-objetos,objetos,objetos-sexuales,sexuales,sexuales-las-mujeres,mujeres-y-complica,complica,mujeres-se-levanten,levanten,solas,asunto,lewis,lewis_hamilton,hamilton,deportes,motor,esperamos",
+            "tags": "deseamos,gente,industria,industria-sea,sea,sea-m\u00e1s-respetuosos,respetuosos,respetuosos-hacia,hacia,hacia-las-mujeres,mujeres,colocan,colocan-innecesariamente,innecesariamente,innecesariamente-como-objetos,objetos,objetos-sexuales,sexuales,sexuales-las-mujeres,mujeres-y-complica,complica,mujeres-se-levanten,levanten,solas,asunto,hamilton,deportes,motor,esperamos",
             "recuweb_url": "http://es.recuweb.com/planetadeporte.es/2015/04/lewis-hamilton-vuelve-a-ser-se%C3%B1alado-por-sexismo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
             "source_url": "http://planetadeporte.es/motor/formula-1/2015/14041600-755443"
@@ -87,20 +96,10 @@
             "title": "Red Bull podr\u00eda dejar la F1 si Renault no mejora motor - La Rep\u00fablica Ecuador...",
             "snippet": "La Rep\u00fablica EcuadorRed Bull podr\u00eda dejar la F1 si Renault no mejora motorLa Rep\u00fablica EcuadorLos comentarios de Mateschitz se producen semanas despu\u00e9s de que el jefe de deportes de motor de la compa\u00f1\u00eda, Helmut Marko, desatase un debate sobre...",
             "date": "2015-04-09",
-            "tags": "jefe,renault,motor,deportes",
+            "tags": "marko,jefe,bull,red,red_bull,renault,motor,deportes",
             "recuweb_url": "http://es.recuweb.com/larepublica.ec/2015/04/red-bull-podr%C3%ADa-dejar-la-f1-si-renault-no-mejora-motor",
             "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Bmotor&output=atom&nord=1",
             "source_url": "http://larepublica.ec/blog/deportes/2015/04/09/red-bull-podria-dejar-f1-renault-no-mejora-motor/"
-        },
-        "es.eurosport.yahoo.com/2015/03/deportes-de-motor-muere-un-espectador-durante-una-carrera-en-yahoo": {
-            "title": "Deportes de Motor - Muere un espectador durante una carrera en... - Yahoo Eurosport ES...",
-            "snippet": "Yahoo Eurosport ESDeportes de Motor - Muere un espectador durante una carrera en...Yahoo Eurosport ESDeportes de Motor - Muere un espectador durante una carrera en N\u00fcrburgring. Un espectador muri\u00f3 este s\u00e1bado y otros dos resultaron heridos en un...",
-            "date": "2015-03-28",
-            "categories": "yahoo",
-            "tags": "dos,carrera,deportes,motor",
-            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/03/deportes-de-motor-muere-un-espectador-durante-una-carrera-en-yahoo",
-            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Bmotor%2Bdeportes%2Bde%2Bmotor&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/noticias/deportes-de-motor-muere-espectador-durante-carrera-n\u00fcrburgring-171010364--spt.html"
         }
     }
 }

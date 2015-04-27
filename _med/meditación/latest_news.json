@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "meditaci\u00f3n",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/meditaci\u00f3n/",
@@ -10,38 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/meditaci%C3%B3n/meditaci%C3%B3n/blogs.json"
     },
     "items": {
-        "diariodigital.com.do/2015/04/casa-holos-organiza-una-meditaci%C3%B3n-grupal-con-los-cuencos-diariodigitalrd": {
-            "title": "Casa Holos organiza una meditaci\u00f3n grupal con los Cuencos... - DiarioDigitalRD...",
-            "snippet": "DiarioDigitalRDCasa Holos organiza una meditaci\u00f3n grupal con los Cuencos...DiarioDigitalRDCasa Holos anunci\u00f3 la celebraci\u00f3n de una meditaci\u00f3n grupal guiada por el reconocido terapeuta argentino Rodolfo A. Jeckeln, quien estar\u00e1 acompa\u00f1ado de...",
-            "date": "2015-04-20",
-            "tags": "meditaci\u00f3n,guiada",
-            "recuweb_url": "http://es.recuweb.com/diariodigital.com.do/2015/04/casa-holos-organiza-una-meditaci%C3%B3n-grupal-con-los-cuencos-diariodigitalrd",
+        "publimetro.com.mx/2015/04/localizan-a-mexicano-en-nepal-estaba-centro-de-meditaci%C3%B3n": {
+            "title": "Localizan a mexicano en Nepal; estaba en centro de meditaci\u00f3n...",
+            "snippet": "Eduardo Chenandoa Ram\u00edrez, uno de los 30 mexicanos que se encontraban en la zona afectada por el sismo de 7.9 grados Richter en Nepal, fue localizado por sus familiares. Fue durante las primeras horas de este lunes que Chenandoa Ram\u00edrez habl\u00f3 con...",
+            "date": "2015-04-27",
+            "tags": "durante,horas,centro,meditaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/publimetro.com.mx/2015/04/localizan-a-mexicano-en-nepal-estaba-centro-de-meditaci%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
+            "source_url": "http://publimetro.com.mx/noticias/localizan-a-mexicano-en-nepal-estaba-en-centro-de-meditacion/modA!aa2X0iP5V2m4U/"
+        },
+        "elheraldo.co/2015/04/est%C3%A1bamos-meditando-cuando-se-sinti%C3%B3-el-temblor-miguel-mej%C3%ADa-heraldo-colombia": {
+            "title": "Est\u00e1bamos meditando cuando se sinti\u00f3 el temblor: Miguel Mej\u00eda - El Heraldo (Colombia)...",
+            "snippet": "\u00e1bamos meditando cuando se sinti\u00f3 el temblor: Miguel Mej\u00edaEl Heraldo (Colombia)Mej\u00eda, atribuy\u00f3 a las clases de meditaci\u00f3n el aplome que mantuvo el grupo durante el movimiento tel\u00farico. No s\u00e9 si en parte a los 10 d\u00edas de meditaci\u00f3n, de...",
+            "date": "2015-04-27",
+            "tags": "d\u00edas,durante,meditaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/elheraldo.co/2015/04/est%C3%A1bamos-meditando-cuando-se-sinti%C3%B3-el-temblor-miguel-mej%C3%ADa-heraldo-colombia",
             "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n&output=atom&nord=1",
+            "source_url": "http://elheraldo.co/internacional/estabamos-meditando-cuando-se-sintio-el-temblor-miguel-mejia-192979"
+        },
+        "noveldanoticias.es/2015/04/curso-de-meditaci%C3%B3n-con-james-low-en-ediciones-dharma": {
+            "title": "Curso de meditaci\u00f3n con James Low en Ediciones Dharma...",
+            "snippet": "Ediciones Dharma en Novelda organiza un curso de meditaci\u00f3n que impartir\u00e1 este fin de semana el autor brit\u00e1nico, psicoterapeuta y maestro de meditaci\u00f3n, James Low. El viernes, 24 de abril, a las 20 horas se ofrecer\u00e1 una introducci\u00f3n abierta a...",
+            "date": "2015-04-24",
+            "tags": "horas,introducci\u00f3n,maestro,organiza,meditaci\u00f3n,viernes",
+            "recuweb_url": "http://es.recuweb.com/noveldanoticias.es/2015/04/curso-de-meditaci%C3%B3n-con-james-low-en-ediciones-dharma",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
+            "source_url": "http://noveldanoticias.es/noticia.php?noticias=239028&orden="
+        },
+        "ellitoral.com/2015/04/meditaci%C3%B3n-uhlal%C3%A1-asamblea": {
+            "title": "Meditaci\u00f3n Uhlal\u00e1 Asamblea -...",
+            "snippet": "Meditaci\u00f3n Uhlal\u00e1 viernes se har\u00e1 en Aguas Azules, Ituzaing\u00f3 2141, un encuentro de meditaci\u00f3n de regresi\u00f3n vivencial. Ser\u00e1 dictado por la profesora Mar\u00eda Elena Fern\u00e1ndez, de C\u00f3rdoba. La cita es a las, con un valor de 60 pesos. M\u00e1s...",
+            "date": "2015-04-23",
+            "tags": "viernes,meditaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/ellitoral.com/2015/04/meditaci%C3%B3n-uhlal%C3%A1-asamblea",
+            "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n&output=atom&nord=1",
+            "source_url": "http://ellitoral.com/index.php/diarios/2015/04/23/escenariosysociedad/SOCI-16.html"
+        },
+        "diariodigital.com.do/2015/04/casa-holos-organiza-una-meditaci%C3%B3n-grupal-con-los-cuencos-tibetanos": {
+            "title": "Casa Holos organiza una meditaci\u00f3n grupal con los Cuencos tibetanos...",
+            "snippet": "Santo Domingo.- Casa Holos anunci\u00f3 la celebraci\u00f3n de una meditaci\u00f3n grupal guiada por el reconocido terapeuta argentino Rodolfo A. Jeckeln, quien estar\u00e1 acompa\u00f1ado de Rafael \u00c1lvarez y Melvin V\u00f3lquez, con la participaci\u00f3n de Noem\u00ed Castro...",
+            "date": "2015-04-21",
+            "tags": "organiza,meditaci\u00f3n,guiada",
+            "recuweb_url": "http://es.recuweb.com/diariodigital.com.do/2015/04/casa-holos-organiza-una-meditaci%C3%B3n-grupal-con-los-cuencos-tibetanos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
             "source_url": "http://diariodigital.com.do/2015/04/20/casa-holos-organiza-una-meditacion-grupal-con-los-cuencos-tibetanos/"
         },
-        "ciudad.com.ar/2015/04/el-%C3%A1lbum-de-viaje-liz-solari-y-su-novio-en-tulum": {
-            "title": "El \u00e1lbum de viaje de Liz Solari y su novio en Tulum: meditaci\u00f3n, selfie sexy y diversi\u00f3n en la...",
-            "snippet": "Lejos de la vor\u00e1gine laboral y del ruido de Buenos Aires, Liz Solari y su novio fot\u00f3grafo, Nacho Ricci, hicieron las valijas y partieron rumbo a un lugar paradis\u00edaco, Tulum, una ciudad ubicada en el sureste de M\u00e9xico llena de lugares bellos...",
-            "date": "2015-04-20",
-            "tags": "lugar,meditaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/ciudad.com.ar/2015/04/el-%C3%A1lbum-de-viaje-liz-solari-y-su-novio-en-tulum",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://ciudad.com.ar/espectaculos/131315/album-viaje-liz-solari-novio-tulum-meditacion-selfie-sexy-diversion-jungla"
-        },
-        "diariocronica.com.ar/2015/04/el-arte-de-vivir-ofrecer%C3%A1-cursos-y-meditaci%C3%B3n-masiva-cr%C3%B3nica-digital": {
-            "title": "El Arte de Vivir ofrecer\u00e1 cursos y meditaci\u00f3n masiva - Cr\u00f3nica Digital...",
-            "snippet": "Cr\u00f3nica DigitalEl Arte de Vivir ofrecer\u00e1 cursos y meditaci\u00f3n masivaCr\u00f3nica DigitalCada s\u00e1bado a las 17 horas en el Instituto Mart\u00edn Rivadavia, se desarrolla una meditaci\u00f3n masiva, guiada y gratuita con una hora de duraci\u00f3n. Sin embargo, a...",
+        "ratingcero.com/2015/04/la-b%C3%BAsqueda-espiritual-de-noelia-pompa-en-ecuador-me-fascina-rating": {
+            "title": "La b\u00fasqueda espiritual de Noelia Pompa en Ecuador: Me fascina la... - Rating Cero...",
+            "snippet": "Rating CeroLa b\u00fasqueda espiritual de Noelia Pompa en Ecuador: \"Me fascina la...Rating CeroLa b\u00fasqueda espiritual de Noelia Pompa en Ecuador: \"Me fascina la meditaci\u00f3n\". 18/04/2015 11:41 hs. NUEVOS CAMINOS. Despu\u00e9s de un verano intenso, la...",
             "date": "2015-04-19",
-            "tags": "horas,meditaci\u00f3n,guiada",
-            "recuweb_url": "http://es.recuweb.com/diariocronica.com.ar/2015/04/el-arte-de-vivir-ofrecer%C3%A1-cursos-y-meditaci%C3%B3n-masiva-cr%C3%B3nica-digital",
-            "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n&output=atom&nord=1",
-            "source_url": "http://diariocronica.com.ar/130996-el-arte-de-vivir-ofrecera-cursos-y-meditacion-masiva.html"
+            "tags": "meditaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/ratingcero.com/2015/04/la-b%C3%BAsqueda-espiritual-de-noelia-pompa-en-ecuador-me-fascina-rating",
+            "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n%2Bmeditaci%C3%B3n&output=atom&nord=1",
+            "source_url": "http://ratingcero.com/notas/124775-la-busqueda-espiritual-noelia-pompa-ecuador-me-fascina-la-meditacion"
         },
         "diariodeibiza.es/2015/04/meditaci%C3%B3n-y-observaci%C3%B3n-del-presente-para-lograr-armon%C3%ADa": {
             "title": "Meditaci\u00f3n y observaci\u00f3n del presente para lograr armon\u00eda...",
             "snippet": "c. c. ibiza El auditorio del Club Diario de Ibiza registr\u00f3 el pasado viernes un lleno absoluto de p\u00fablico que asisti\u00f3 a la conferencia ofrecida por Fernando A. de Torrijos, maestro de aplicaciones cl\u00ednicas de Mindfulness. La charla fue...",
             "date": "2015-04-18",
-            "tags": "maestro,diario,lograr,meditaci\u00f3n,mindfulness",
+            "tags": "maestro,viernes,diario,lograr,meditaci\u00f3n,mindfulness",
             "recuweb_url": "http://es.recuweb.com/diariodeibiza.es/2015/04/meditaci%C3%B3n-y-observaci%C3%B3n-del-presente-para-lograr-armon%C3%ADa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
             "source_url": "http://diariodeibiza.es/pitiuses-balears/2015/04/19/meditacion-observacion-presente-lograr-armonia/762289.html"
@@ -50,7 +78,7 @@
             "title": "5 t\u00e9cnicas de meditaci\u00f3n para concentrarte - Soy Entrepreneur...",
             "snippet": "Soy Entrepreneur5 t\u00e9cnicas de meditaci\u00f3n para concentrarteSoy EntrepreneurUna de las t\u00e9cnicas m\u00e1s b\u00e1sicas para meditar consiste en dirigir toda tu atenci\u00f3n hacia tu respiraci\u00f3n. Busca calmarla, inhalando y exhalando suavemente. Conc\u00e9ntrate...",
             "date": "2015-04-17",
-            "tags": "atenci\u00f3n,hacia,respiraci\u00f3n,meditaci\u00f3n",
+            "tags": "atenci\u00f3n,respiraci\u00f3n,meditaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/soyentrepreneur.com/2015/04/5-t%C3%A9cnicas-de-meditaci%C3%B3n-para-concentrarte-soy-entrepreneur",
             "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n&output=atom&nord=1",
             "source_url": "http://soyentrepreneur.com/28644-5-tecnicas-de-meditacion-para-aumentar-la-concentracion.html"
@@ -59,20 +87,10 @@
             "title": "Chopra y Cala presentan el nuevo Reto de Meditaci\u00f3n - El Nuevo Diario...",
             "snippet": "El Nuevo DiarioChopra y Cala presentan el nuevo Reto de Meditaci\u00f3nEl Nuevo DiarioDesde el 11 de mayo, el nuevo Reto de Meditaci\u00f3n de 21 D\u00edas del Centro Chopra, con Deepak Chopra e Ismael Cala, hace de la meditaci\u00f3n un aprendizaje f\u00e1cil,...",
             "date": "2015-04-17",
-            "tags": "ismael,deepak,centro,nuevo,mayo,diario,presentan,presentan-el-nuevo,chopra,cala,reto,meditaci\u00f3n,d\u00edas",
+            "tags": "centro,diario,meditaci\u00f3n,d\u00edas",
             "recuweb_url": "http://es.recuweb.com/elnuevodiario.com.ni/2015/04/chopra-y-cala-presentan-el-nuevo-reto-de-meditaci%C3%B3n-diario",
             "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n&output=atom&nord=1",
             "source_url": "http://elnuevodiario.com.ni/variedades/357828-chopra-cala-presentan-nuevo-reto-meditacion/"
-        },
-        "melillahoy.es/2015/04/en-mayo-retiro-de-meditaci%C3%B3n-y-yoga-con-el-maestro-karma": {
-            "title": "En mayo, retiro de meditaci\u00f3n y yoga con el maestro Karma Tenpa...",
-            "snippet": "Del 1 al 3 de mayo se desarrollar\u00e1 en los Pinares de Rostrogordo, un retiro de meditaci\u00f3n y yoga bajo la direcci\u00f3n del maestro Karma Tenpa, que vuelve a Melilla para guiarnos de manera sencilla y profunda hacia un lugar de sosiego y calma...",
-            "date": "2015-04-17",
-            "categories": "yoga",
-            "tags": "hacia,lugar,yoga,maestro,mayo,meditaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/yoga/melillahoy.es/2015/04/en-mayo-retiro-de-meditaci%C3%B3n-y-yoga-con-el-maestro-karma",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://melillahoy.es/noticia/52535/Sociedad/En-mayo-retiro-de-meditacion-y-yoga-con-el-maestro-Karma-Tenpa.html"
         },
         "misionesonline.net/2015/04/seminario-meditaci%C3%B3n-descubre-c%C3%B3mo-contactar-tu-verdadero": {
             "title": "Seminario: Meditaci\u00f3n, descubre c\u00f3mo contactar tu verdadero ser...",
@@ -82,25 +100,6 @@
             "recuweb_url": "http://es.recuweb.com/misionesonline.net/2015/04/seminario-meditaci%C3%B3n-descubre-c%C3%B3mo-contactar-tu-verdadero",
             "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
             "source_url": "http://misionesonline.net/2015/04/17/seminario-meditacion-descubre-como-contacter-tu-verdadero-ser/"
-        },
-        "enfemenino.com/2015/04/meditaci%C3%B3n-para-ni%C3%B1os-una-garant%C3%ADa-de-%C3%A9xito-su-salud": {
-            "title": "Meditaci\u00f3n para ni\u00f1os: una garant\u00eda de \u00e9xito para su salud en el futuro...",
-            "snippet": "Si para los adultos la meditaci\u00f3n es una buen\u00edsima v\u00eda de escape para salir del estr\u00e9s diario al que muchas de nos vemos sometidos, para los ni\u00f1os tambi\u00e9n puede servir de gran ayuda a lo largo de su vida si les ense\u00f1amos desde peque\u00f1os a...",
-            "date": "2015-04-16",
-            "categories": "salud",
-            "tags": "puede,vida,diario,meditaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/salud/enfemenino.com/2015/04/meditaci%C3%B3n-para-ni%C3%B1os-una-garant%C3%ADa-de-%C3%A9xito-su-salud",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=meditaci%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://enfemenino.com/bebes/meditacion-para-ninos-s1343905.html"
-        },
-        "prnewswire.com/2015/04/deepak-chopra-e-ismael-cala-presentan-el-nuevo-reto-de-pr": {
-            "title": "Deepak Chopra e Ismael Cala presentan el nuevo reto de... - PR Newswire (Comunicado de prensa)...",
-            "snippet": "DiarioDigitalRDDeepak Chopra e Ismael Cala presentan el nuevo reto de...PR Newswire (Comunicado de prensa)MIAMI, 13 de abril de 2015/PRNewswire-HISPANIC PR WIRE/-- Desde el 11 de mayo, el nuevo Reto de Meditaci\u00f3n de 21 D\u00edas del Centro Chopra con...",
-            "date": "2015-04-13",
-            "tags": "centro,chopra,nuevo,mayo,presentan,presentan-el-nuevo,reto,ismael,cala,deepak,meditaci\u00f3n,d\u00edas",
-            "recuweb_url": "http://es.recuweb.com/prnewswire.com/2015/04/deepak-chopra-e-ismael-cala-presentan-el-nuevo-reto-de-pr",
-            "resource_url": "http://news.google.es/?hl=es&q=meditaci%C3%B3n&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/deepak-chopra-e-ismael-cala-presentan-el-nuevo-reto-de-meditacion-salud-perfecta-499548781.html"
         }
     }
 }

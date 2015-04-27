@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tenis",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/tenis/",
@@ -64,7 +65,7 @@
             "date": "2015-04-11",
             "author_name": "noticiastvperuana",
             "categories": "futbol,realmadrid,tenis",
-            "tags": "james,conoce,jugando,solo,real,real_madrid,madrid,tenis,james_rodr\u00edguez,rodr\u00edguez",
+            "tags": "james,conoce,jugando,real,real_madrid,madrid,tenis,james_rodr\u00edguez,rodr\u00edguez",
             "recuweb_url": "http://es.recuweb.com/tenis/dailymotion.com/2015/04/james-rodr%C3%ADguez-se-divierte-jugando-al-tenis-video",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mbg76_james-rodriguez-se-divierte-jugando-al-tenis-video_news",
@@ -76,7 +77,7 @@
             "date": "2015-04-10",
             "author_name": "noticiastvperuana",
             "categories": "tenis,realmadrid,facebook",
-            "tags": "solo,tiene,partido,conoce,tenis,jugando,james,james_rodr\u00edguez,rodr\u00edguez,real,real_madrid,madrid",
+            "tags": "tiene,partido,conoce,tenis,cuenta,jugando,james,james_rodr\u00edguez,rodr\u00edguez,real,real_madrid,madrid",
             "recuweb_url": "http://es.recuweb.com/facebook/dailymotion.com/2015/04/real-madrid-james-rodr%C3%ADguez-se-divirti%C3%B3-jugando-tenis-video",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mb0vq_real-madrid-james-rodriguez-se-divirtio-jugando-tenis-video_news",
@@ -88,7 +89,7 @@
             "date": "2015-04-06",
             "author_name": "cerestv",
             "categories": "tenis",
-            "tags": "partido,hoy,t\u00edtulo,tenis,miami,abril,ceres,efe,masters",
+            "tags": "partido,t\u00edtulo,tenis,miami,abril,ceres,efe,masters",
             "recuweb_url": "http://es.recuweb.com/tenis/dailymotion.com/2015/04/tenis-djokovic-gana-su-quinto-t%C3%ADtulo-en-miami-ante-un-agotado",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lvo21_tenis-djokovic-gana-su-quinto-titulo-en-miami-ante-un-agotado-murray_news",
@@ -100,11 +101,23 @@
             "date": "2015-04-06",
             "author_name": "cerestv",
             "categories": "tenis",
-            "tags": "final,hoy,t\u00edtulo,carla,carla_su\u00e1rez,su\u00e1rez,tenis,miami,abril,ceres,efe,abierto,masters",
+            "tags": "final,t\u00edtulo,carla,carla_su\u00e1rez,su\u00e1rez,tenis,miami,abril,ceres,efe,masters",
             "recuweb_url": "http://es.recuweb.com/tenis/dailymotion.com/2015/04/tenis-serena-williams-apabulla-a-carla-su%C3%A1rez-y-logra-su-octavo",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lvo2a_tenis-serena-williams-apabulla-a-carla-suarez-y-logra-su-octavo-titulo-en-miami_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lvo2a_tenis-serena-williams-apabulla-a-carla-suarez-y-logra-su-octavo-titulo-en-miami_news"
+        },
+        "dailymotion.com/2015/03/argentina-inauguran-centro-nacional-de-tenis": {
+            "title": "Argentina: inauguran Centro Nacional de Tenis...",
+            "snippet": "La Secretar\u00eda de Deportes de Argentina inaugur\u00f3 el Centro Nacional de Tenis, el cual cuenta con cuatro canchas de cemento que permitir\u00e1n un buen entrenamiento de deportistas de alto rendimiento. teleSURAuthor: teleSUR_tvTags: Noticia Pol\u00edtica...",
+            "date": "2015-03-26",
+            "author_name": "teleSUR_tv",
+            "categories": "politica,tenis",
+            "tags": "cuenta,tenis,deportes",
+            "recuweb_url": "http://es.recuweb.com/tenis/dailymotion.com/2015/03/argentina-inauguran-centro-nacional-de-tenis",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ko9y6_argentina-inauguran-centro-nacional-de-tenis_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ko9y6_argentina-inauguran-centro-nacional-de-tenis_news"
         },
         "dailymotion.com/2015/03/tenis-wta-indian-wells-carla-su%C3%A1rez-pasa-a-la-siguiente-ronda": {
             "title": "TENIS: WTA Indian Wells: Carla Su\u00e1rez pasa a la siguiente ronda...",
@@ -117,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jte2s_tenis-wta-indian-wells-carla-suarez-pasa-a-la-siguiente-ronda_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2jte2s_tenis-wta-indian-wells-carla-suarez-pasa-a-la-siguiente-ronda_sport"
-        },
-        "dailymotion.com/2015/03/el-abierto-de-tenis-cerr%C3%B3-con-gran-fiesta": {
-            "title": "El Abierto de Tenis cerr\u00f3 con gran fiesta...",
-            "snippet": "Con una gran celebraci\u00f3n el Abierto Mexicano de Tenis en su edici\u00f3n del 2015 dijo adi\u00f3s. El complejo Mextenis ofreci\u00f3 una gran fiesta a todos sus asistentes para que el recuerdo del torneo que dur\u00f3 una semana en tierras acapulque\u00f1as fuera:...",
-            "date": "2015-03-03",
-            "author_name": "mediotiempo",
-            "categories": "tenis",
-            "tags": "abierto,tenis",
-            "recuweb_url": "http://es.recuweb.com/tenis/dailymotion.com/2015/03/el-abierto-de-tenis-cerr%C3%B3-con-gran-fiesta",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/tenis/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ik0xc_el-abierto-de-tenis-cerro-con-gran-fiesta_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ik0xc_el-abierto-de-tenis-cerro-con-gran-fiesta_sport"
         }
     }
 }

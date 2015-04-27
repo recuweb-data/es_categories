@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "servidor-http-apache",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servidor-http-apache/",
@@ -10,17 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/blogs.json"
     },
     "items": {
-        "youtube.com/2015/02/instalacion-de-un-servidor-http-apache-en-linux": {
-            "title": "instalacion de un servidor http Apache en Linux...",
-            "snippet": "instalacion de un servidor http Apache en Linux From: yoncayllahua Views: 7 0 ratings Time: 16:36 More in People & Blogs...",
-            "date": "2015-02-08",
-            "author_name": "yoncayllahua",
-            "tags": "instalacion,servidor,http,apache,linux,people",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2015/02/instalacion-de-un-servidor-http-apache-en-linux",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servidor%2Bhttp%2Bapache&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=xJWsDnMAM_k&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/xJWsDnMAM_k/0.jpg"
-        },
         "youtube.com/2015/02/instalar-y-arrancar-un-servidor-http-apache-en-entornos-linux-bajo": {
             "title": "Instalar y arrancar un servidor HTTP Apache en entornos Linux bajo el sistema operativo Centos.",
             "snippet": "Instalar y arrancar un servidor HTTP Apache en entornos Linux bajo el sistema operativo Centos. El servidor HTTP Apache es un servidor web HTTP de c\u00f3digo abierto, para plataformas Unix (BSD, GNU/Linux, etc.), Microsoft Windows, Macintosh y otras.",
@@ -35,11 +25,11 @@
         },
         "youtube.com/2015/01/curso-de-servidores-linux-3-instalacion-apache-http-server": {
             "title": "Curso de Servidores Linux 3 - Instalacion de Apache HTTP Server...",
-            "snippet": "Curso de Servidores Linux 3 - Instalacion de Apache HTTP Server Aprender\u00e1s a instalar APACHE HTTP SERVER, des de su c\u00f3digo fuente, compilado y desplegando lo en tu servidor para desarrollar o ejecutar tus archivos HTML de... From: ElgranDBA Views:...",
+            "snippet": "Curso de Servidores Linux 3 - Instalacion de Apache HTTP Server Aprender\u00e1s a instalar APACHE HTTP SERVER, des de su c\u00f3digo fuente, compilado y desplegando lo en tu servidor para desarrollar o ejecutar tus archivos HTML de manera f\u00e1cil y r\u00e1pida.",
             "date": "2015-01-05",
             "author_name": "ElgranDBA",
             "categories": "html",
-            "tags": "c\u00f3digo,instalar,apache,http,server,linux,instalacion",
+            "tags": "c\u00f3digo,instalar,apache,http,server,linux",
             "recuweb_url": "http://es.recuweb.com/html/youtube.com/2015/01/curso-de-servidores-linux-3-instalacion-apache-http-server",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=CjxYaff_5V0&feature=youtube_gdata",
@@ -50,7 +40,7 @@
             "snippet": "Como Crear un Servidor http con conexi\u00f3n segur usando Apache Crear un Servidor http con conexi\u00f3n segura (https) con Apache. From: SERGIO ALBERTO PRIETO DIAZ BUENROSTRO Views: 36 0 ratings Time: 11:02 More in People & Blogs...",
             "date": "2014-10-20",
             "author_name": "SERGIO ALBERTO PRIETO DIAZ BUENROSTRO",
-            "tags": "crear,servidor,apache,people",
+            "tags": "crear,servidor,apache",
             "recuweb_url": "http://es.recuweb.com/youtube.com/2014/10/como-crear-un-servidor-http-con-conexi%C3%B3n-segur-usando-apache",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servidor%2Bhttp%2Bapache&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=IT1sKD0_tD8&feature=youtube_gdata",
@@ -58,7 +48,7 @@
         },
         "youtube.com/2014/07/crear-servidor-web-con-no-ip-y-appserv-apache-video-mejorado": {
             "title": "CREAR SERVIDOR WEB CON: NO-IP Y APPSERV (APACHE). VIDEO MEJORADO CON VERDADERAS SOLUCIONES...",
-            "snippet": "CREAR SERVIDOR WEB CON: NO-IP Y APPSERV (APACHE). VIDEO MEJORADO CON VERDADERAS SOLUCIONES LISTO AMIGOS A PETICION DE LOS USUARIOS DEL VIDEO ANTERIOR LES DEJO EL NUEVO VIDEO PARA CREAR SU SERVIDOR CON NO-IP Y APPSERV. From: Luisito Alpe Views: 1810...",
+            "snippet": "CREAR SERVIDOR WEB CON: NO-IP Y APPSERV (APACHE). VIDEO MEJORADO CON VERDADERAS SOLUCIONES LISTO AMIGOS A PETICION DE LOS USUARIOS DEL VIDEO ANTERIOR LES DEJO EL NUEVO VIDEO PARA CREAR SU SERVIDOR CON NO-IP Y APPSERV. From: Luisito Alpe Views: 2746...",
             "date": "2014-07-02",
             "author_name": "Luisito Alpe",
             "tags": "amigos,crear,servidor,servidor_web,web,apache",
@@ -73,7 +63,7 @@
             "date": "2014-06-17",
             "author_name": "andersonj15",
             "categories": "mysql,computadora,php",
-            "tags": "servidor,servidor_apache,apache,instalar,php,tags",
+            "tags": "servidor,servidor_apache,apache,mysql,instalar,php,tags",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/06/instalar-y-configurar-los-programas-servidor-apache-mysql-php",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servidor+http+apache+servidor+http+apache/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zng5p_instalar-y-configurar-los-programas-servidor-apache-mysql-php_tech",
@@ -81,7 +71,7 @@
         },
         "youtube.com/2014/06/instalar-servidor-web-apache-en-ubuntu-server-de-windows-azure": {
             "title": "Instalar Servidor Web Apache en Ubuntu Server de Windows Azure...",
-            "snippet": "Instalar Servidor Web Apache en Ubuntu Server de Windows Azure Facebook Twitter Blog Google Suscribirse... From: JGA ITPro Views: 389 5 ratings Time: 09:23 More in Science & Technology...",
+            "snippet": "Instalar Servidor Web Apache en Ubuntu Server de Windows Azure Facebook Twitter Blog Google Suscribirse From: JGA ITPro Views: 491 6 ratings Time: 09:23 More in Science & Technology...",
             "date": "2014-06-12",
             "author_name": "JGA ITPro",
             "categories": "facebook,twitter,google",
@@ -93,11 +83,11 @@
         },
         "youtube.com/2014/03/tutorial-para-descargar-el-servidor-apache-y-php": {
             "title": "TUTORIAL para Descargar el SERVIDOR APACHE y PHP...",
-            "snippet": "TUTORIAL para Descargar el SERVIDOR APACHE y PHP Like- Comenten Sus Opiniones! Dale en MOSTRAR MAS!! Comparte El Video con Tus Amigos!:)) Link para Descargar el APACHE 2.2: http://ap... From: SAYAYIN NARCHY Views: 560 5 ratings Time: 08:48 More in...",
+            "snippet": "TUTORIAL para Descargar el SERVIDOR APACHE y PHP Like- Comenten Sus Opiniones! Dale en MOSTRAR MAS!! Comparte El Video con Tus Amigos!:)) Link para Descargar el APACHE 2.2:... From: SAYAYIN NARCHY Views: 656 6 ratings Time: 08:48 More in Gaming...",
             "date": "2014-03-26",
             "author_name": "SAYAYIN NARCHY",
             "categories": "php",
-            "tags": "servidor,servidor_apache,apache,php,amigos,http",
+            "tags": "servidor,servidor_apache,apache,descargar,php,amigos",
             "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/03/tutorial-para-descargar-el-servidor-apache-y-php",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=2socY9YLTaU&feature=youtube_gdata",
@@ -116,7 +106,7 @@
         },
         "youtube.com/2013/11/instalaci%C3%B3n-y-configuraci%C3%B3n-de-un-servidor-web-apache-ubuntu-jeparm%C3%A1tica-howto": {
             "title": "Instalaci\u00f3n y configuraci\u00f3n de un SERVIDOR WEB APACHE (Ubuntu) - jepaRm\u00e1tica HowTo - Programa 2...",
-            "snippet": "Instalaci\u00f3n y configuraci\u00f3n de un SERVIDOR WEB APACHE (Ubuntu) - jepaRm\u00e1tica HowTo - Programa 2 T\u00fa tambi\u00e9n puedes ser Partner de YouTube! Pincha aqu\u00ed para saber si eres apto para ser partner con RPM Network/Maker Studios: Bienvenido... From:...",
+            "snippet": "Instalaci\u00f3n y configuraci\u00f3n de un SERVIDOR WEB APACHE (Ubuntu) - jepaRm\u00e1tica HowTo - Programa 2 T\u00fa tambi\u00e9n puedes ser Partner de YouTube! Pincha aqu\u00ed para saber si eres apto para ser partner con RPM Network/Maker Studios: Bienvenidos al...",
             "date": "2013-11-13",
             "author_name": "jepaRcaHD | Tu televisi\u00f3n online",
             "tags": "servidor,servidor_web,servidor_web_apache,web,web_apache,apache,ubuntu",
@@ -124,6 +114,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=uqjVHlOsC90&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/uqjVHlOsC90/0.jpg"
+        },
+        "youtube.com/2013/10/conectarse-a-un-servidor-apache-php-mysql-con-android": {
+            "title": "Conectarse a un servidor Apache php mysql con Android...",
+            "snippet": "Conectarse a un servidor Apache php mysql con Android Video hecho por chalalo que indica como conectarse a un servidor WAMP Mediante Android. Pueden descargar el c\u00f3digo Java y PHP desde ac\u00e1:... From: Gonzalo P\u00e9rez Views: 21416 107 ratings Time:...",
+            "date": "2013-10-30",
+            "author_name": "Gonzalo P\u00e9rez",
+            "categories": "php,mysql,java",
+            "tags": "descargar,c\u00f3digo,servidor,php,mysql,apache",
+            "recuweb_url": "http://es.recuweb.com/java/youtube.com/2013/10/conectarse-a-un-servidor-apache-php-mysql-con-android",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=LXKQLuJQmAg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LXKQLuJQmAg/0.jpg"
         }
     }
 }

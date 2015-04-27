@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "xgames",
+        "language": "es",
+        "updated": "20150427"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/xgames/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/xgames/xgames/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/xgames/xgames/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/xgames/xgames/blogs.json"
+    },
+    "items": {
+        "xgames.espn.go.com/2015/03/the-glitch-mob-kid-ink-added-to-x-games-austin-espn": {
+            "title": "The Glitch Mob, Kid Ink added to X Games Austin - ESPN...",
+            "snippet": "ESPNThe Glitch Mob, Kid Ink added to X Games AustinESPNX Games Austin expands its robust competition and music lineup with three musical acts and two Major League Gaming competitions added to the event, taking place June 4-7. Tickets are on sale now...",
+            "date": "2015-03-26",
+            "tags": "music,musical,games",
+            "recuweb_url": "http://es.recuweb.com/xgames.espn.go.com/2015/03/the-glitch-mob-kid-ink-added-to-x-games-austin-espn",
+            "resource_url": "http://news.google.es/?hl=es&q=xgames&output=atom&nord=1",
+            "source_url": "http://xgames.espn.go.com/events/2015/austin/article/12551254/the-glitch-mob-kid-ink-joywave-mlg-added-x-games-austin"
+        }
+    }
+}

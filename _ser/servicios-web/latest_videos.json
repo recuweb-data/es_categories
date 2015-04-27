@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "servicios-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-web/",
@@ -10,18 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/servicios-web-matix-media-google-adwords": {
-            "title": "Servicios web - Matix Media (Google Adwords)...",
-            "snippet": "Servicios web - Matix Media (Google Adwords) Copyright Matix Media 2015.-- Created using PowToon -- Free sign up at -- Create animated videos and animated presentations for free. PowToon is a free tool that... From: Jairo Rodriguez Views: 66 1...",
-            "date": "2015-03-20",
-            "author_name": "Jairo Rodriguez",
-            "categories": "google,adwords",
-            "tags": "servicios,web",
-            "recuweb_url": "http://es.recuweb.com/adwords/youtube.com/2015/03/servicios-web-matix-media-google-adwords",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=LaA6HT0QZwY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/LaA6HT0QZwY/0.jpg"
-        },
         "youtube.com/2015/03/webinar-c%C3%B3mo-provisionar-servicios-web-con-azure": {
             "title": "Webinar: C\u00f3mo provisionar servicios web con Azure...",
             "snippet": "Webinar: C\u00f3mo provisionar servicios web con Azure Webinar dictado por Softline. From: Softline Latinoam\u00e9rica Views: 48 0 ratings Time: 59:44 More in Science & Technology...",
@@ -30,7 +19,7 @@
             "categories": "servicios-web",
             "tags": "servicios,servicios-web,web,c\u00f3mo",
             "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2015/03/webinar-c%C3%B3mo-provisionar-servicios-web-con-azure",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=L_qo5REZvac&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/L_qo5REZvac/0.jpg"
         },
@@ -78,7 +67,7 @@
             "categories": "base-de-datos,servicios-web,mysql",
             "tags": "dise\u00f1o,datos,servicios,servicios_web,web,rest,desarrollo",
             "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/07/tutorial-servicios-rest-parte-1-dise%C3%B1ando-la-base-de-datos",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=lxhDL06cz5A&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/lxhDL06cz5A/0.jpg"
         },
@@ -108,7 +97,7 @@
         },
         "youtube.com/2014/05/12-servicios-web-con-wcf": {
             "title": "12 Servicios Web con WCF...",
-            "snippet": "12 Servicios Web con WCF En este v\u00eddeo veremos c\u00f3mo crear un Servicio Web con WCF, c\u00f3mo definir los m\u00e9todos y las clases de datos y c\u00f3mo a\u00f1adir el c\u00f3digo necesario en cada m\u00e9todo. Una vez creado el Servicio... From: tolo toko Views: 199 2...",
+            "snippet": "12 Servicios Web con WCF En este v\u00eddeo veremos c\u00f3mo crear un Servicio Web con WCF, c\u00f3mo definir los m\u00e9todos y las clases de datos y c\u00f3mo a\u00f1adir el c\u00f3digo necesario en cada m\u00e9todo. Una vez creado el Servicio... From: tolo toko Views: 214 2...",
             "date": "2014-05-26",
             "author_name": "tolo toko",
             "categories": "servicios-web",
@@ -124,11 +113,22 @@
             "date": "2013-11-30",
             "author_name": "GiselaJenae511",
             "categories": "servicios-web",
-            "tags": "servicios,servicios-web,web,tags",
+            "tags": "hosting,servicios,servicios-web,web,below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,cheapest,tags",
             "recuweb_url": "http://es.recuweb.com/servicios-web/dailymotion.com/2013/11/dyn-server-proveedor-de-hosting-y-servicios-web",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web+servicios+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x17u3es_dyn-server-proveedor-de-hosting-y-servicios-web_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x17u3es_dyn-server-proveedor-de-hosting-y-servicios-web_news"
+        },
+        "dailymotion.com/2013/11/los-mejores-servicios-de-hosting-para-tu-pagina-web": {
+            "title": "los mejores servicios de hosting para tu pagina web...",
+            "snippet": "Click The Link Below To Find Honest Uptodate Reviews Of The Cheapest mejores servicios de hosting para tu pagina web los,mejores,servicios,de,hosting,para,tu,pagina,: BrittanyPatrina538Tags: los mejores servicios hosting para pagina web Posted: 24...",
+            "date": "2013-11-24",
+            "author_name": "BrittanyPatrina538",
+            "tags": "servicios,hosting,web,cheapest,below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,tags",
+            "recuweb_url": "http://es.recuweb.com/dailymotion.com/2013/11/los-mejores-servicios-de-hosting-para-tu-pagina-web",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web+servicios+web/0?af=1",
+            "source_url": "http://dailymotion.com/video/x17kpey_los-mejores-servicios-de-hosting-para-tu-pagina-web_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x17kpey_los-mejores-servicios-de-hosting-para-tu-pagina-web_news"
         }
     }
 }

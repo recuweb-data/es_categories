@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pelota-vasca",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pelota-vasca/",
@@ -10,100 +11,101 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pelota-vasca/pelota-vasca/blogs.json"
     },
     "items": {
-        "superdeporte.es/2015/03/un-papel-que-vale-su-peso-en-oro": {
-            "title": "Un papel que vale su peso en oro...",
-            "snippet": "J. CANO Poco m\u00e1s de cuatrocientos afortunados tendr\u00e1n la oportunidad de presenciar en Cheste la partida a front\u00f3n en la que participar\u00e1 el m\u00edtico delantero de la pelota vasca, Augusto Ib\u00e1\u00f1ez Tit\u00edn III, que ha programado dos festivales en...",
-            "date": "2015-03-31",
+        "noticiasdenavarra.com/2015/04/berasaluze-zubieta-y-bengoetxea-untoria-disputan-una-final-sin-favoritos": {
+            "title": "Berasaluze-Zubieta y Bengoetxea-Untoria disputan una final sin favoritos...",
+            "snippet": "BILBAO. La final del Parejas es, junto a las finales del Manomanista y del Cuatro y Medio, una de las tres grandes citas anuales de la pelota a mano, sin duda la especialidad reina y m\u00e1s seguida de la Pelota Vasca. Antes del disparo inicial todos...",
+            "date": "2015-04-25",
+            "categories": "pelota-vasca",
+            "tags": "pelota,pelota_vasca,vasca,mano,tres,grandes,final,bilbao,parejas,cuatro,medio",
+            "recuweb_url": "http://es.recuweb.com/pelota-vasca/noticiasdenavarra.com/2015/04/berasaluze-zubieta-y-bengoetxea-untoria-disputan-una-final-sin-favoritos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
+            "source_url": "http://noticiasdenavarra.com/2015/04/25/deportes/pelota/berasaluze-zubieta-y-bengoetxea-untoria-disputan-una-final-sin-favoritos"
+        },
+        "teinteresa.es/2015/04/la-gastronom%C3%ADa-de-calle-31-agosto-y-el-zurbano-cosmopolita": {
+            "title": "La gastronom\u00eda de la calle 31 de agosto y el Zurbano cosmopolita, en el top de calles del NYT...",
+            "snippet": "Como los calamares en su tinta o las aceitunas rellenas de vermut. En esta calle se esconde la plaza de la Trinidad, con un front\u00f3n para la pr\u00e1ctica de la pelota vasca, y una grada que es testigo de numerosos eventos musicales y culturales. Ripa...",
+            "date": "2015-04-20",
             "categories": "fronton",
-            "tags": "dos,front\u00f3n,pelota,vasca",
-            "recuweb_url": "http://es.recuweb.com/fronton/superdeporte.es/2015/03/un-papel-que-vale-su-peso-en-oro",
+            "tags": "front\u00f3n,pr\u00e1ctica,pelota,vasca",
+            "recuweb_url": "http://es.recuweb.com/fronton/teinteresa.es/2015/04/la-gastronom%C3%ADa-de-calle-31-agosto-y-el-zurbano-cosmopolita",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://superdeporte.es/polideportivo/2015/03/31/papel-vale-peso-oro/252981.html"
+            "source_url": "http://teinteresa.es/ocio/las_12_mejores_calles_del_mundo_0_1342667403.html"
         },
-        "diariovasco.com/2015/03/laxoa-txapelketa-comienza-hoy-con-once-equipos-en-liza": {
-            "title": "Laxoa Txapelketa comienza hoy con once equipos en liza...",
-            "snippet": "Hoy comienza una nueva edici\u00f3n del Laxoa Txapelketa, cuya presentaci\u00f3n de esta ancestral modalidad de pelota vasca tuvo lugar el mi\u00e9rcoles con la presencia de \u00d3scar Insausti, director de Instituciones de La Caixa en Navarra, y Tiburcio...",
-            "date": "2015-03-27",
-            "tags": "lugar,modalidad,nueva,edici\u00f3n,laxoa,pelota,vasca",
-            "recuweb_url": "http://es.recuweb.com/diariovasco.com/2015/03/laxoa-txapelketa-comienza-hoy-con-once-equipos-en-liza",
+        "eldiariodelarepublica.com/2015/04/otra-apuesta-fuerte-para-el-deporte-federado": {
+            "title": "Otra apuesta fuerte para el deporte federado...",
+            "snippet": "El Trinquete Modelo de Pelota Vasca, Sociedad Espa\u00f1ola y GEPU recibieron como club de pelota paleta, San Gabriel, Handball San Luis, Sport La Punta y ASEBA lo hicieron como club de handball y Uni\u00f3n San Luis, EFI Junior y Victoria como instituci\u00f3n...",
+            "date": "2015-04-19",
+            "categories": "sociedad,pelota-vasca,deporte",
+            "tags": "pelota,pelota_vasca,vasca,deporte",
+            "recuweb_url": "http://es.recuweb.com/deporte/eldiariodelarepublica.com/2015/04/otra-apuesta-fuerte-para-el-deporte-federado",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://diariovasco.com/bidasoa/201503/28/laxoa-txapelketa-comienza-once-20150328003938-v.html"
+            "source_url": "http://eldiariodelarepublica.com/deportes/Otra-apuesta-fuerte-para-el-deporte-federado-20150419-0014.html"
         },
-        "ocio.laprovincia.es/2015/03/all%C3%AD-abajo-la-nueva-comedia-de-antena-3": {
-            "title": "'All\u00ed abajo', la nueva comedia de Antena 3...",
-            "snippet": "As\u00ed, la actividad social de I\u00f1aki se reduce a la cuadrilla y sus sesiones de mus, de recogida de setas y de pelota vasca. Hasta que I\u00f1aki se ve obligado a ausentarse, provocando una vac\u00edo irremplazable en tan cohesionado grupo. Koldo es un...",
-            "date": "2015-03-26",
-            "tags": "provocando,provocando-una-vac\u00edo,vac\u00edo,vac\u00edo-irremplazable,irremplazable,irremplazable-en-tan,tan,tan-cohesionado,tan-cohesionado-grupo,cohesionado,cohesionado-grupo,grupo,obligado,obligado-ausentarse,ausentarse,recogida,recogida-de-setas,setas,reduce,reduce-la-cuadrilla,cuadrilla,cuadrilla-y-sesiones,sesiones,sesiones-de-mus,mus,actividad,actividad-social,social,nueva,comedia,all\u00ed,abajo,antena,i\u00f1aki,pelota,vasca,koldo",
-            "recuweb_url": "http://es.recuweb.com/ocio.laprovincia.es/2015/03/all%C3%AD-abajo-la-nueva-comedia-de-antena-3",
+        "levante-emv.com/2015/04/tit%C3%ADn-un-mago-de-palabra-y-obra": {
+            "title": "Tit\u00edn: un mago de palabra y obra...",
+            "snippet": "Tit\u00edn III no ha necesitado hablar euskera para ser considerado una de las leyendas de la pelota vasca, para meterse en las profundidades de los valles vasco-navarros y ganar el coraz\u00f3n de sus gentes. Hay algo en la pelota que une de una manera...",
+            "date": "2015-04-19",
+            "categories": "leyendas",
+            "tags": "iii,considerado,tit\u00edn,pelota,vasca",
+            "recuweb_url": "http://es.recuweb.com/leyendas/levante-emv.com/2015/04/tit%C3%ADn-un-mago-de-palabra-y-obra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://ocio.laprovincia.es/tv/series/alli-abajo-nueva-comedia-antena-3-nws400330.html"
+            "source_url": "http://levante-emv.com/deportes/2015/04/20/titin-mago-palabra-obra/1253287.html"
         },
-        "teinteresa.es/2015/03/as%C3%AD-son-los-protas-del-norte-y-sur-de-all%C3%AD-abajo": {
-            "title": "As\u00ed son los protas 'del norte'y 'del sur'de 'All\u00ed abajo'de Antena 3...",
-            "snippet": "As\u00ed, la actividad social de I\u00f1aki se reduce a la cuadrilla y sus sesiones de mus, de recogida de setas y de pelota vasca. Hasta que I\u00f1aki se ve obligado a ausentarse, provocando una vac\u00edo irremplazable en tan cohesionado grupo. Koldo es un...",
-            "date": "2015-03-26",
-            "tags": "provocando,provocando-una-vac\u00edo,vac\u00edo,vac\u00edo-irremplazable,irremplazable,irremplazable-en-tan,tan,tan-cohesionado,tan-cohesionado-grupo,cohesionado,cohesionado-grupo,grupo,obligado,obligado-ausentarse,ausentarse,recogida,recogida-de-setas,setas,reduce,reduce-la-cuadrilla,cuadrilla,cuadrilla-y-sesiones,sesiones,sesiones-de-mus,mus,actividad,actividad-social,social,son,all\u00ed,abajo,antena,i\u00f1aki,pelota,vasca,koldo",
-            "recuweb_url": "http://es.recuweb.com/teinteresa.es/2015/03/as%C3%AD-son-los-protas-del-norte-y-sur-de-all%C3%AD-abajo",
+        "superdeporte.es/2015/04/tit%C3%ADn-iii-la-pelota-es-bastante-m%C3%A1s-que-un-deporte": {
+            "title": "Tit\u00edn III: La pelota es bastante m\u00e1s que un deporte...",
+            "snippet": "J. CANO La afici\u00f3n valenciana disfruta estos d\u00edas con la presencia de una leyenda de la pelota vasca, Tit\u00edn III, que ha llegado para ser objeto de un merecido homenaje con motivo de su retirada como profesional. El delantero riojano ha programado...",
+            "date": "2015-04-18",
+            "categories": "deporte",
+            "tags": "riojano,programado,retirada,profesional,leyenda,deporte,tit\u00edn,tit\u00edn_iii,iii,pelota,cano,vasca",
+            "recuweb_url": "http://es.recuweb.com/deporte/superdeporte.es/2015/04/tit%C3%ADn-iii-la-pelota-es-bastante-m%C3%A1s-que-un-deporte",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://teinteresa.es/tele/protas-norte-sur-abajo-Antena_0_1327068868.html"
+            "source_url": "http://superdeporte.es/polideportivo/2015/04/18/titin-iii-pelota-deporte/254702.html"
         },
-        "noticiasdenavarra.com/2015/03/el-guante-laxoa-sigue-vivo": {
-            "title": "El guante laxoa sigue vivo...",
-            "snippet": "La relaci\u00f3n de la entidad con la pelota vasca es muy buena y duradera, ya que llevan a\u00f1os colaborando con diferentes actos pelotazales, tanto a nivel aficionado como profesional. Los m\u00e1s conocidos son el Campeonato Manomanista y el Torneo San...",
-            "date": "2015-03-26",
-            "tags": "campeonato,laxoa,pelota,vasca,son",
-            "recuweb_url": "http://es.recuweb.com/noticiasdenavarra.com/2015/03/el-guante-laxoa-sigue-vivo",
+        "lasprovincias.es/2015/04/t%C3%B3cala-otra-vez-tit%C3%ADn": {
+            "title": "T\u00f3cala otra vez, Tit\u00edn...",
+            "snippet": "Desde los primeros compases ofreci\u00f3 todo el repertorio propio de los mejores delanteros de la pelota vasca, con dejadas, dobles paredes y ganchos al aire con la izquierda. El intercambio de golpes con el tambi\u00e9n veterano Montesa hizo vibrar a...",
+            "date": "2015-04-18",
+            "tags": "paredes,tit\u00edn,pelota,vasca",
+            "recuweb_url": "http://es.recuweb.com/lasprovincias.es/2015/04/t%C3%B3cala-otra-vez-tit%C3%ADn",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://noticiasdenavarra.com/2015/03/26/deportes/pelota/el-guante-laxoa-sigue-vivo"
+            "source_url": "http://lasprovincias.es/deportes/mas-deportes/201504/19/tocala-otra-titin-20150418233510-v.html"
         },
-        "eldinero.com.do/2015/03/pelota-vasca-un-intento-fallido-en-rep%C3%BAblica-dominicana": {
-            "title": "Pelota Vasca, un intento fallido en Rep\u00fablica Dominicana...",
-            "snippet": "El deporte es una de las actividades m\u00e1s importantes del mundo. Todas las civilizaciones han practicado innumerables formas de juegos, las que a trav\u00e9s del tiempo han sido perfeccionadas para adaptarlas a las nuevas generaciones. Dentro de las...",
-            "date": "2015-03-26",
-            "categories": "deporte,pelota-vasca",
-            "tags": "deporte,pelota,pelota_vasca,vasca,mundo",
-            "recuweb_url": "http://es.recuweb.com/pelota-vasca/eldinero.com.do/2015/03/pelota-vasca-un-intento-fallido-en-rep%C3%BAblica-dominicana",
+        "superdeporte.es/2015/04/el-emperador-de-tricio-llega-a-valencia": {
+            "title": "El Emperador de Tricio llega a Valencia...",
+            "snippet": "J. CANO Augusto Ib\u00e1\u00f1ez Tit\u00edn III, leyenda de la pelota vasca retirada de la pr\u00e1ctica profesional tras veintid\u00f3s a\u00f1os de carrera, llega este jueves a Valencia, donde ha programado dos festivales de despedida que se jugar\u00e1n este viernes en...",
+            "date": "2015-04-17",
+            "tags": "programado,dos,retirada,pr\u00e1ctica,pr\u00e1ctica-profesional,profesional,leyenda,cano,tit\u00edn,tit\u00edn_iii,iii,pelota,vasca",
+            "recuweb_url": "http://es.recuweb.com/superdeporte.es/2015/04/el-emperador-de-tricio-llega-a-valencia",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://eldinero.com.do/10733/pelota-vasca-en-republica-dominicana/"
+            "source_url": "http://superdeporte.es/polideportivo/2015/04/16/emperador-tricio-llega-valencia/254485.html"
         },
-        "pizquita.com/2015/03/antena-3-presenta-la-comedia-all%C3%AD-abajo-en-el-festval": {
-            "title": "Antena 3 presenta la comedia All\u00ed abajo en el FesTVal de Murcia...",
-            "snippet": "As\u00ed, la actividad social de I\u00f1aki se reduce a la cuadrilla y sus sesiones de mus, de recogida de setas y de pelota vasca. Hasta que I\u00f1aki se ve obligado a ausentarse, provocando una vac\u00edo irremplazable en tan cohesionado grupo. Koldo es un...",
-            "date": "2015-03-25",
-            "tags": "provocando,provocando-una-vac\u00edo,vac\u00edo,vac\u00edo-irremplazable,irremplazable,irremplazable-en-tan,tan,tan-cohesionado,tan-cohesionado-grupo,cohesionado,cohesionado-grupo,grupo,obligado,obligado-ausentarse,ausentarse,recogida,recogida-de-setas,setas,reduce,reduce-la-cuadrilla,cuadrilla,cuadrilla-y-sesiones,sesiones,sesiones-de-mus,mus,actividad,actividad-social,social,abajo,comedia,antena,all\u00ed,i\u00f1aki,pelota,vasca,koldo",
-            "recuweb_url": "http://es.recuweb.com/pizquita.com/2015/03/antena-3-presenta-la-comedia-all%C3%AD-abajo-en-el-festval",
+        "elespectador.com/2015/04/los-naranjo-relevo-en-el-mando-de-dos-generales": {
+            "title": "Los Naranjo, relevo en el mando de dos generales...",
+            "snippet": "Despu\u00e9s se aferr\u00f3 al deporte, pero a diferencia de su progenitor, que siempre se aficion\u00f3 por la pelota vasca y sus derivados, escogi\u00f3 el voleibol, empez\u00f3 a destacarse y alcanz\u00f3 a ser seleccionado en Bogot\u00e1. Cuando concluy\u00f3 su tiempo escolar...",
+            "date": "2015-04-14",
+            "categories": "voleibol,deporte",
+            "tags": "deporte,dos,pelota,vasca",
+            "recuweb_url": "http://es.recuweb.com/deporte/elespectador.com/2015/04/los-naranjo-relevo-en-el-mando-de-dos-generales",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://pizquita.com/noticiasespana/antena-3-presenta-la-comedia-alli-abajo-en-el-festval-de-murcia/"
+            "source_url": "http://elespectador.com/noticias/judicial/los-naranjo-relevo-el-mando-de-dos-generales-articulo-554692"
         },
-        "diariovasco.com/2015/03/doble-derrota-para-los-pelotaris-de-urnieta-que-juegan-el-gravni": {
-            "title": "Doble derrota para los pelotaris de Urnieta que juegan el Gravni con la selecci\u00f3n guipuzcoana...",
-            "snippet": "Nafarroa e Iparralde y en todas las especialidades de la pelota vasca. En primer lugar, el s\u00e1bado por la ma\u00f1ana, en el front\u00f3n de la localidad vizca\u00edna de Zierbena, jug\u00f3 Jon Iturbe acompa\u00f1ado del hernaniarra Ander Arandia, en paleta goma,...",
-            "date": "2015-03-25",
-            "categories": "fronton",
-            "tags": "lugar,pelotaris,pelota,vasca,front\u00f3n,goma",
-            "recuweb_url": "http://es.recuweb.com/fronton/diariovasco.com/2015/03/doble-derrota-para-los-pelotaris-de-urnieta-que-juegan-el-gravni",
+        "lasprovincias.es/2015/04/tit%C3%ADn-iii-competir%C3%A1-en-el-puig-y-cheste": {
+            "title": "Tit\u00edn III competir\u00e1 en El Puig y Cheste...",
+            "snippet": "El pelotari riojano, considerado una de las mayores figuras en la historia de la pelota vasca, se ha retirado recientemente de la pr\u00e1ctica profesional poniendo fin a una exitosa trayectoria que se ha prolongado por espacio de 22 a\u00f1os. Tit\u00edn III...",
+            "date": "2015-04-14",
+            "tags": "pr\u00e1ctica,pr\u00e1ctica-profesional,profesional,considerado,riojano,tit\u00edn,tit\u00edn_iii,iii,pelota,vasca",
+            "recuweb_url": "http://es.recuweb.com/lasprovincias.es/2015/04/tit%C3%ADn-iii-competir%C3%A1-en-el-puig-y-cheste",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://diariovasco.com/buruntzaldea/201503/26/doble-derrota-para-pelotaris-20150326001459-v.html"
+            "source_url": "http://lasprovincias.es/deportes/mas-deportes/201504/16/titin-competira-puig-cheste-20150415235836-v.html"
         },
-        "entornointeligente.com/2015/03/uruguay-tendr%C3%A1-la-delegaci%C3%B3n-m%C3%A1s-grande-en-68": {
-            "title": "URUGUAY: Uruguay tendr\u00e1 la delegaci\u00f3n m\u00e1s grande en 68 a\u00f1os...",
-            "snippet": "En Guadalajara 2011, Uruguay gan\u00f3 tres medallas de plata (todas en pelota vasca) y dos de bronce (f\u00fatbol y clase snipe de yachting). En esta edici\u00f3n no hay pelota vasca y el f\u00fatbol tal como ocurri\u00f3 hace cuatro a\u00f1os es una inc\u00f3gnita porque...",
-            "date": "2015-03-23",
-            "categories": "futbol",
-            "tags": "f\u00fatbol,edici\u00f3n,dos,tres,uruguay,pelota,vasca",
-            "recuweb_url": "http://es.recuweb.com/futbol/entornointeligente.com/2015/03/uruguay-tendr%C3%A1-la-delegaci%C3%B3n-m%C3%A1s-grande-en-68",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://entornointeligente.com/articulo/5402831/URUGUAY-Uruguay-tendraacute;-la-delegacioacute;n-maacute;s-grande-en-68-antilde;os-23032015"
-        },
-        "invasor.cu/2015/03/pelota-vasca-en-bolivia-muros-de-ilusiones": {
-            "title": "Pelota vasca en Bolivia: Muros de ilusiones...",
-            "snippet": "A los habitantes del municipio de Bolivia puede atraerles, o no, el f\u00fatbol, el b\u00e9isbol y cuanto deporte se practique al caer la tarde; mas lo primero que debe saber el visitante es que al que no le guste la 'cancha'(pelota vasca) es como si no...",
-            "date": "2015-03-22",
-            "categories": "beisbol,deporte,futbol",
-            "tags": "deporte,f\u00fatbol,pelota,vasca,guste",
-            "recuweb_url": "http://es.recuweb.com/futbol/invasor.cu/2015/03/pelota-vasca-en-bolivia-muros-de-ilusiones",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://invasor.cu/deporte/3374-pelota-vasca-en-bolivia-muros-de-ilusiones"
+        "ccaa.elpais.com/2014/10/premiadas-las-investigaciones-sobre-pelota-vasca-y-mutuas-en-el-pa%C3%AD": {
+            "title": "Premiadas las investigaciones sobre pelota vasca y las mutuas en... - El Pa\u00ed (Espa\u00f1a)...",
+            "snippet": "Premiadas las investigaciones sobre pelota vasca y las mutuas en...El Pa\u00ed (Espa\u00f1a)La investigaci\u00f3n de Claudia G\u00f3mez Garc\u00eda, La pelota vasca y el NODO. Un s\u00edmbolo vasquista a trav\u00e9s del noticiario cinematogr\u00e1fico franquista, analiza el...",
+            "date": "2014-10-24",
+            "tags": "pelota,vasca,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/ccaa.elpais.com/2014/10/premiadas-las-investigaciones-sobre-pelota-vasca-y-mutuas-en-el-pa%C3%AD",
+            "resource_url": "http://news.google.es/?hl=es&q=pelota%2Bvasca&output=atom&nord=1",
+            "source_url": "http://ccaa.elpais.com/ccaa/2014/10/24/paisvasco/1414167054_438294.html"
         }
     }
 }

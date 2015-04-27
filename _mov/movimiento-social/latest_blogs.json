@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "movimiento-social",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/movimiento-social/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/movimiento-social/movimiento-social/blogs.json"
     },
     "items": {
+        "nodo50.org/2015/04/ante-la-escalada-represiva-de-los-movimientos-sociales-y-nodo-50": {
+            "title": "Ante la escalada represiva de los movimientos sociales y... - Nodo 50...",
+            "snippet": "El pasado 7 de abril, colectivos y sindicatos y compa\u00f1erxs a nivel personal, nos reunimos para consensuar una respuesta ante la escalada represiva contras los movimientos sociales y la criminalizaci\u00f3n del anarquismo.",
+            "date": "2015-04-22",
+            "author_name": "berri_otxoak",
+            "categories": "escalada",
+            "tags": "sindicatos,abril,movimientos,sociales,pasado",
+            "recuweb_url": "http://es.recuweb.com/escalada/nodo50.org/2015/04/ante-la-escalada-represiva-de-los-movimientos-sociales-y-nodo-50",
+            "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://nodo50.org/berri_otxoak/?p=637"
+        },
         "cafeverbal.com/2015/04/noticia-movimientos-sociales-en-la-pucv": {
             "title": "Noticia Movimientos sociales en la PUCV...",
             "snippet": "Movimientos sociales en la PUCV Seminario \"Derecho a la Comunicaci\u00f3n: Experiencias y Desaf\u00edos de los Movimientos Sociales\" Por Robinson Jim\u00e9nez Este mi\u00e9rcoles 15 de abril, dirigentes sociales del Cerro Bar\u00f3n, Caimanes...",
@@ -20,98 +32,88 @@
             "resource_url": "http://es.search.wordpress.com/?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&f=feed&page=1",
             "source_url": "http://cafeverbal.com/2015/04/20/noticia-movimientos-sociales-en-la-pucv/"
         },
-        "correodelorinoco.gob.ve/2015/03/movimientos-sociales-lanzan-petici%C3%B3n-para-el-retiro": {
-            "title": "Movimientos sociales lanzan petici\u00f3n para el retiro de la...",
-            "snippet": "El retiro inmediato de la orden ejecutiva firmada por el presidente de Estados Unidos, Barack Obama, contra Venezuela, es la solicitud que hacen los movimientos sociales en solidaridad con la Patria bolivariana y su pueblo.",
-            "date": "2015-03-12",
-            "author_name": "Correo del Orinoco",
-            "tags": "bolivariana,estados,estados_unidos,unidos,movimientos,sociales,presidente,contra,venezuela,solidaridad",
-            "recuweb_url": "http://es.recuweb.com/correodelorinoco.gob.ve/2015/03/movimientos-sociales-lanzan-petici%C3%B3n-para-el-retiro",
+        "aporrea.org/2015/04/videos-movimientos-sociales-del-mundo-ratifican-apoyo": {
+            "title": "(VIDEOS) Movimientos sociales del mundo ratifican apoyo a...",
+            "snippet": "Caracas, 19 Abr. 2015.- Movimientos pol\u00edticos y sociales del mundo participaron este domingo en una jornada de solidaridad con Venezuela, luego que el presidente de Estados Unidos, Barack Obama, p...",
+            "date": "2015-04-19",
+            "author_name": "desconocido",
+            "tags": "estados,estados_unidos,unidos,participaron,domingo,solidaridad,pol\u00edticos,movimientos,sociales,apoyo,abr,venezuela,presidente",
+            "recuweb_url": "http://es.recuweb.com/aporrea.org/2015/04/videos-movimientos-sociales-del-mundo-ratifican-apoyo",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://correodelorinoco.gob.ve/politica/movimientos-sociales-lanzan-peticion-para-retiro-declaracion-amenaza-eeuu/"
+            "source_url": "http://aporrea.org/actualidad/n268962.html"
         },
-        "redlatinasinfronteras.wordpress.com/2015/03/pr%C3%B3logo-del-libro-movimientos-sociales-y-poder-popular": {
-            "title": ": Pr\u00f3logo del libro Movimientos sociales y poder popular...",
-            "snippet": "Pr\u00f3logo del libro \"Movimientos sociales y poder popular en Chile. Retrospectivas y proyecciones pol\u00edticas de la izquierda latinoamericana\" Poder popular y memoria Miguel Mazzeo Los textos que componen este libro...",
-            "date": "2015-03-11",
-            "author_name": "redlatinasinfronteras",
-            "categories": "memoria,politica",
-            "tags": "libro,popular,movimientos,sociales,chile",
-            "recuweb_url": "http://es.recuweb.com/politica/redlatinasinfronteras.wordpress.com/2015/03/pr%C3%B3logo-del-libro-movimientos-sociales-y-poder-popular",
+        "tercerainformacion.es/2015/04/partidos-pol%C3%ADticos-sindicatos-y-movimientos-sociales-convergen": {
+            "title": "Partidos pol\u00edticos, sindicatos y movimientos sociales convergen en...",
+            "snippet": "Partidos pol\u00edticos, sindicatos y movimientos sociales convergen en Madrid para expresar su rechazo al TTIP. Miles de personas se manifestaron ayer con motivo del D\u00eda de Acci\u00f3n Global contra el Acuerdo Transatl\u00e1ntico de...",
+            "date": "2015-04-19",
+            "author_name": "desconocido",
+            "tags": "sindicatos,pol\u00edticos,movimientos,sociales,miles,personas,contra",
+            "recuweb_url": "http://es.recuweb.com/tercerainformacion.es/2015/04/partidos-pol%C3%ADticos-sindicatos-y-movimientos-sociales-convergen",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://redlatinasinfronteras.wordpress.com/2015/03/11/chile-prologo-del-libro-movimientos-sociales-y-poder-popular/"
+            "source_url": "http://tercerainformacion.es/spip.php?article84523"
         },
-        "albaciudad.org/2015/03/movimientos-sociales-del-mundo-emiten-comunicado-en-rechazo": {
-            "title": "Movimientos sociales del mundo emiten comunicado en rechazo a...",
-            "snippet": "M\u00e1s de 200 movimientos sociales e individualidades agrupados bajo la campa\u00f1a Los pueblos estamos con Venezuela han emitido un comunicado este martes en solidaridad con el pueblo venezolano, luego de que...",
-            "date": "2015-03-11",
-            "author_name": "tuliojgomez@gmail.com (Tulio)",
-            "tags": "pueblos,bajo,campa\u00f1a,movimientos,sociales,mundo,comunicado,venezuela,solidaridad",
-            "recuweb_url": "http://es.recuweb.com/albaciudad.org/2015/03/movimientos-sociales-del-mundo-emiten-comunicado-en-rechazo",
+        "aporrea.org/2015/04/movimientos-sociales-rinden-homenaje-a-hugo-ch%C3%A1vez-en-octavo": {
+            "title": "Movimientos Sociales rinden homenaje a Hugo Ch\u00e1vez en octavo...",
+            "snippet": "18 de abril de 2015.- Movimientos Sociales rindieron homenaje este viernes al l\u00edder de la Revoluci\u00f3n Bolivariana, Hugo Ch\u00e1vez, en el Cuartel de la Monta\u00f1a, en conmemoraci\u00f3n del octavo aniversario de la Uni\u00f3n de...",
+            "date": "2015-04-18",
+            "author_name": "desconocido",
+            "tags": "revoluci\u00f3n,revoluci\u00f3n_bolivariana,bolivariana,abril,movimientos,sociales,viernes",
+            "recuweb_url": "http://es.recuweb.com/aporrea.org/2015/04/movimientos-sociales-rinden-homenaje-a-hugo-ch%C3%A1vez-en-octavo",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://albaciudad.org/wp/index.php/2015/03/movimientos-sociales-del-mundo-emiten-comunicado-en-rechazo-a-amenazas-del-imperialismo-contra-venezuela/"
+            "source_url": "http://aporrea.org/actualidad/n268901.html"
         },
-        "kaosenlared.net/2015/03/granada-construyendo-alternativas-movimientos-sociales": {
-            "title": "(Granada): Construyendo Alternativas: Movimientos sociales...",
-            "snippet": "S\u00e1bado 14 de Marzo h. Biblioteca de las Palomas (Zaid\u00edn) Con el aumento de la conflictividad social de los \u00faltimos a\u00f1os (especialmente a partir de mayo de 2011) parec\u00edan resurgir viejas y nuevas formas de...",
-            "date": "2015-03-06",
-            "author_name": "Administrador",
-            "tags": "movimientos,sociales,social,marzo",
-            "recuweb_url": "http://es.recuweb.com/kaosenlared.net/2015/03/granada-construyendo-alternativas-movimientos-sociales",
+        "hoyvenezuela.info/2015/04/hoy-venezuela-movimientos-sociales-de-bolivia-marchar%C3%A1n": {
+            "title": "Hoy Venezuela Movimientos sociales de Bolivia marchar\u00e1n este...",
+            "snippet": "Diversos sectores y movimientos sociales de Bolivia se movilizar\u00e1n este domingo hasta la avenida Ballivi\u00e1n, en la ciudad de La Paz, para demostrar su respaldo a la soberan\u00eda de Venezuela ante los recientes ataques...",
+            "date": "2015-04-18",
+            "author_name": "Tulio",
+            "tags": "respaldo,domingo,venezuela,movimientos,sociales,bolivia,diversos,sectores",
+            "recuweb_url": "http://es.recuweb.com/hoyvenezuela.info/2015/04/hoy-venezuela-movimientos-sociales-de-bolivia-marchar%C3%A1n",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://kaosenlared.net/granada-construyendo-alternativas-movimientos-sociales-participacion-en-las-instituciones-y-propuestas-libertarias\u200f/"
+            "source_url": "http://hoyvenezuela.info/movimientos-sociales-de-bolivia-marcharan-este-domingo-en-apoyo-la-independencia-venezolana/"
         },
-        "youtube.com/2015/03/brasil-movimientos-sociales-recuerdan-legado-de-hugo-ch%C3%A1vez": {
-            "title": "Brasil: movimientos sociales recuerdan legado de Hugo Ch\u00e1vez...",
-            "snippet": "Al cumplirse dos a\u00f1os de la partida f\u00edsica del comandante Hugo Ch\u00e1vez, organizaciones sociales de Brasil recordaron el legado del l\u00edder de la Revoluci\u00f3n Boli...",
-            "date": "2015-03-06",
-            "author_name": "tuliojgomez@gmail.com (Tulio)",
-            "tags": "revoluci\u00f3n,dos,brasil,movimientos,sociales,organizaciones",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2015/03/brasil-movimientos-sociales-recuerdan-legado-de-hugo-ch%C3%A1vez",
-            "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://youtube.com/watch?v=9RkLQ0nToSA",
-            "img_url": "http://img.youtube.com/vi/9RkLQ0nToSA/0.jpg"
-        },
-        "aguaenmarcha.cl/2015/03/criminalizaci%C3%B3n-movimientos-sociales-del-wallmapu-agua-y-vida": {
-            "title": "Criminalizaci\u00f3n movimientos sociales del Wallmapu... - Agua y Vida...",
-            "snippet": "Por Francisca Fernandez Droguett. Antrop\u00f3loga. La criminalizaci\u00f3n de los movimientos sociales que se oponen al extractivismo y neoextractivismo, a la usurpaci\u00f3n territorial y de aguas, impulsada tanto por los gobiernos de...",
-            "date": "2015-03-06",
-            "author_name": "Movimiento Social por la Recuperacion del Agua y la Soberania",
-            "tags": "gobiernos,agua,movimientos,sociales,vida",
-            "recuweb_url": "http://es.recuweb.com/aguaenmarcha.cl/2015/03/criminalizaci%C3%B3n-movimientos-sociales-del-wallmapu-agua-y-vida",
+        "albamovimientos.org/2015/04/honduras-movimientos-sociales-y-populares-hondure%C3%B1os": {
+            "title": "(HONDURAS) Movimientos sociales y populares hondure\u00f1os...",
+            "snippet": "Organizado por la Escuela de formaci\u00f3n pol\u00edtica para el movimiento social y popular de Honduras, con el apoyo de laFriedrich Ebert Stiftung (FES) y el Instituto Ecum\u00e9nico de Servicios a la Comunidad (INEHSCO), el taller se...",
+            "date": "2015-04-17",
+            "author_name": "ALBA Movimientos",
+            "categories": "escuela,politica",
+            "tags": "taller,instituto,instituto_ecum\u00e9nico,ecum\u00e9nico,ebert,ebert_stiftung,stiftung,populares,formaci\u00f3n,honduras,movimientos,movimiento,sociales,social,hondure\u00f1os,organizado,escuela,pol\u00edtica,apoyo,fes,servicios,comunidad,inehsco",
+            "recuweb_url": "http://es.recuweb.com/politica/albamovimientos.org/2015/04/honduras-movimientos-sociales-y-populares-hondure%C3%B1os",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://aguaenmarcha.cl/wp/criminalizacion-movimientos-sociales-del-wallmapu-al-choapa/"
+            "source_url": "http://albamovimientos.org/2015/04/honduras-movimientos-sociales-y-populares-hondurenos-fortaleciendo-capacidades-de-comunicacion-alternativa/"
         },
-        "fugadetinta.cl/2015/03/comunicado-p%C3%BAblico-en-apoyo-a-comunidades-del-choapa": {
-            "title": "Comunicado P\u00fablico en apoyo a Comunidades del Choapa...",
-            "snippet": "Nuestro Movimiento Social por la Recuperaci\u00f3n del Agua y la Vida solidariza y respalda las acciones de presi\u00f3n de los pueblos del Choapa que exigen el cumplimiento del fallo de la Corte Suprema, que obliga a Minera Los Pelambres a...",
-            "date": "2015-03-03",
-            "author_name": "joseluis",
-            "categories": "movimiento-social",
-            "tags": "exigen,acciones,movimiento,movimiento_social,social,comunicado,p\u00fablico,apoyo,agua,vida,pueblos",
-            "recuweb_url": "http://es.recuweb.com/movimiento-social/fugadetinta.cl/2015/03/comunicado-p%C3%BAblico-en-apoyo-a-comunidades-del-choapa",
+        "nicaraguaymasespanol.blogspot.com/2015/04/lista-informativa-nicaragua-y-m%C3%A1s-movimientos-sociales": {
+            "title": "Lista Informativa Nicaragua y m\u00e1s: Movimientos sociales y...",
+            "snippet": "Organizado por la Escuela de formaci\u00f3n pol\u00edtica para el movimiento social y popular de Honduras, con el apoyo de la Friedrich Ebert Stiftung (FES) y el Instituto Ecum\u00e9nico de Servicios a la Comunidad (INEHSCO), el taller...",
+            "date": "2015-04-16",
+            "author_name": "nicaraguaymas",
+            "categories": "escuela,politica",
+            "tags": "taller,instituto,instituto_ecum\u00e9nico,ecum\u00e9nico,ebert,ebert_stiftung,stiftung,popular,formaci\u00f3n,movimientos,movimiento,sociales,social,organizado,escuela,pol\u00edtica,honduras,apoyo,fes,servicios,comunidad,inehsco",
+            "recuweb_url": "http://es.recuweb.com/politica/nicaraguaymasespanol.blogspot.com/2015/04/lista-informativa-nicaragua-y-m%C3%A1s-movimientos-sociales",
+            "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://nicaraguaymasespanol.blogspot.com/2015/04/movimientos-sociales-y-populares.html"
+        },
+        "diariometropolitano.com.ve/2015/04/movimiento-social-chileno-rechaza-la-visita-de-tintori-metropolitano": {
+            "title": "Movimiento social chileno rechaza la visita de Tintori... - Metropolitano...",
+            "snippet": "Movimiento social chileno rechaza la visita de Tintori y Capriles al Museo de la Memoria. Algunos grupos sociales chilenos conformados por v\u00edctimas de la dictadura pinochetista, rechazaron la visita de Lilian Tintori y Mitzy...",
+            "date": "2015-04-14",
+            "author_name": "Diario Metropolitano",
+            "categories": "memoria",
+            "tags": "visita,movimiento,sociales,algunos",
+            "recuweb_url": "http://es.recuweb.com/memoria/diariometropolitano.com.ve/2015/04/movimiento-social-chileno-rechaza-la-visita-de-tintori-metropolitano",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fugadetinta.cl/comunicado-publico-en-apoyo-a-comunidades-del-choapamovimiento-social-por-la-recuperacion-del-agua-y-la-vida/"
+            "source_url": "http://diariometropolitano.com.ve/2015/04/14/movimiento-social-chileno-rechaza-la-visita-de-tintori-y-capriles-al-museo-de-la-memoria/"
         },
-        "economiasolidaria.org/2015/03/cooperaci%C3%B3n-vasca-y-movimientos-sociales-donostia-reas": {
-            "title": "Cooperaci\u00f3n vasca y movimientos sociales (Donostia) - Reas...",
-            "snippet": "Os invitamos a la presentaci\u00f3n del libro Cooperaci\u00f3n vasca y movimientos sociales. Manual de implementaci\u00f3n de la agenda alternativa de solidaridad internacionalista, editado por Hegoa y que tendr\u00e1 lugar el 25 de marzo...",
-            "date": "2015-03-03",
-            "author_name": "caskunze",
-            "tags": "marzo,tendr\u00e1,tendr\u00e1-lugar,lugar,libro,movimientos,sociales,solidaridad",
-            "recuweb_url": "http://es.recuweb.com/economiasolidaria.org/2015/03/cooperaci%C3%B3n-vasca-y-movimientos-sociales-donostia-reas",
+        "educacionambiental26.wordpress.com/2015/04/la-educaci%C3%B3n-ambiental-desde-los-movimientos-sociales": {
+            "title": "La educaci\u00f3n ambiental desde los movimientos sociales...",
+            "snippet": "El nacimiento y desarrollo de la educaci\u00f3n ambiental est\u00e1 vinculado al surgimiento de los movimientos sociales ecologistas de los primeros a\u00f1os de la d\u00e9cada de los 70. Ellos fueron de los primeros en cuestionar el modelo...",
+            "date": "2015-04-14",
+            "author_name": "miriamnav",
+            "tags": "ambiental,movimientos,sociales",
+            "recuweb_url": "http://es.recuweb.com/educacionambiental26.wordpress.com/2015/04/la-educaci%C3%B3n-ambiental-desde-los-movimientos-sociales",
             "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://economiasolidaria.org/cooperacion_vasca_y_movimientos_sociales"
-        },
-        "lamarea.com/2015/02/gobiernos-progresistas-y-movimientos-sociales-la-marea": {
-            "title": "Gobiernos progresistas y movimientos sociales - La Marea...",
-            "snippet": "La renuncia a modificar la matriz productiva amenaza con resquebrajar los lazos con los movimientos sociales latinoamericanos que permitieron la ruptura.",
-            "date": "2015-02-27",
-            "author_name": "OMAL",
-            "tags": "gobiernos,movimientos,sociales",
-            "recuweb_url": "http://es.recuweb.com/lamarea.com/2015/02/gobiernos-progresistas-y-movimientos-sociales-la-marea",
-            "resource_url": "http://www.google.com/search?q=movimiento%2Bsocial%2Bmovimiento%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lamarea.com/2015/02/27/gobiernos-progresistas-y-movimientos-sociales-un-reencuentro-imprescindible/"
+            "source_url": "http://educacionambiental26.wordpress.com/2015/04/14/la-educacion-ambiental-desde-los-movimientos-sociales/"
         }
     }
 }

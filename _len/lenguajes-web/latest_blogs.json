@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lenguajes-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lenguajes-web/",
@@ -10,27 +11,47 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/blogs.json"
     },
     "items": {
-        "recbib.es/2015/03/redactor-de-contenidos-web-madrid-recbib-recursos": {
-            "title": "Redactor de Contenidos Web (Madrid) RecBib - Recursos...",
-            "snippet": "Facilidad de manejo en Internet. Conocimientos b\u00e1sicos de lenguaje HTML, CSS, otros lenguajes web. Conocimientos de Photoshop y/o otras herramientas de dise\u00f1o gr\u00e1fico. Buen nivel de ingl\u00e9s. Jornada laboral: Completa.",
-            "date": "2015-03-02",
-            "author_name": "JulianMarquina",
-            "categories": "lenguaje,internet,conocimiento,html,css",
-            "tags": "herramientas,lenguaje,web,html,lenguajes,dise\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/css/recbib.es/2015/03/redactor-de-contenidos-web-madrid-recbib-recursos",
-            "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://recbib.es/empleo/redactor-de-contenidos-web-madrid-1"
+        "arsys.info/2015/04/c%C3%B3mo-elegir-el-lenguaje-de-programaci%C3%B3n-adecuado": {
+            "title": "\u00bfC\u00f3mo elegir el lenguaje de programaci\u00f3n adecuado para cada...",
+            "snippet": "Cada vez existe un mayor n\u00famero de lenguajes de programaci\u00f3n, tanto para web como para m\u00f3viles, que nos permiten ampliar las posibilidades de desarrollo de una manera m\u00e1s sencilla, dependiendo de si lo estamos...",
+            "date": "2015-04-21",
+            "author_name": "Jose M\u00aa Baquero",
+            "categories": "lenguaje",
+            "tags": "m\u00f3viles,c\u00f3mo,lenguaje,programaci\u00f3n,lenguajes,web,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/arsys.info/2015/04/c%C3%B3mo-elegir-el-lenguaje-de-programaci%C3%B3n-adecuado",
+            "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb%2Blenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arsys.info/configuracion-de-programas/como-elegir-el-lenguaje-de-programacion-adecuado-para-cada-proyecto/"
         },
-        "itechnode.com/2015/02/5-lenguajes-de-programaci%C3%B3n-para-conseguir-empleo-itechnode": {
-            "title": "5 lenguajes de programaci\u00f3n para conseguir empleo ITechNode...",
-            "snippet": "... m\u00e1s populares para la anal\u00edtica de datos. Este lenguaje tambi\u00e9n sirve para desarrollar aplicaciones m\u00f3viles y programas montados sobre p\u00e1ginas web, funciones fundamentales para muchas organizaciones hoy en d\u00eda.",
-            "date": "2015-02-13",
-            "author_name": "Dvh Over",
-            "categories": "lenguaje,empleo",
-            "tags": "hoy,d\u00eda,lenguaje,aplicaciones,aplicaciones-m\u00f3viles,m\u00f3viles,programas,lenguajes,programaci\u00f3n,p\u00e1ginas,web",
-            "recuweb_url": "http://es.recuweb.com/empleo/itechnode.com/2015/02/5-lenguajes-de-programaci%C3%B3n-para-conseguir-empleo-itechnode",
+        "universoabierto.com/2015/04/aprender-a-dise%C3%B1ar-para-los-contenidos-y-crear-lenguajes-visuales": {
+            "title": "Aprender a dise\u00f1ar para los contenidos y crear lenguajes visuales...",
+            "snippet": "Aprender a dise\u00f1ar para los contenidos y crear lenguajes visuales. Publicado en Abril 16, 2015 por julio. Web UI Design for the Human Eye: Content Patterns & Typography: Learn How To Design For Content And Create Visual Languages...",
+            "date": "2015-04-16",
+            "author_name": "julio",
+            "tags": "web,julio,crear,lenguajes",
+            "recuweb_url": "http://es.recuweb.com/universoabierto.com/2015/04/aprender-a-dise%C3%B1ar-para-los-contenidos-y-crear-lenguajes-visuales",
             "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://itechnode.com/5-lenguajes-de-programacion-para-conseguir-empleo"
+            "source_url": "http://universoabierto.com/18983/aprender-a-disenar-para-los-contenidos-y-crear-lenguajes-visuales/"
+        },
+        "vidamrr.com/2015/04/los-lenguajes-de-programaci%C3%B3n-mejor-pagados-vida-mrr-blog": {
+            "title": "Los lenguajes de programaci\u00f3n mejor pagados: Vida MRR, blog de...",
+            "snippet": "... etc., es CSS y Javascript ya que por obvias razones mientras con C puedes hacer un algoritmo para que un robot aterrice en Marte, los lenguajes orientados a la web est\u00e1n encasillados en proyectos web, y por lo tanto...",
+            "date": "2015-04-08",
+            "author_name": "noreply@blogger.com (Marcos Rivas)",
+            "categories": "css,javascript",
+            "tags": "hacer,mejor,lenguajes,programaci\u00f3n,javascript,web",
+            "recuweb_url": "http://es.recuweb.com/javascript/vidamrr.com/2015/04/los-lenguajes-de-programaci%C3%B3n-mejor-pagados-vida-mrr-blog",
+            "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb%2Blenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://vidamrr.com/2015/04/los-lenguajes-de-programacion-mejor.html"
+        },
+        "idecrea.es/2015/04/lenguajes-para-hacer-p%C3%A1ginas-webs-din%C3%A1micas-idecrea-cursos": {
+            "title": "Lenguajes para hacer p\u00e1ginas webs din\u00e1micas Idecrea. Cursos...",
+            "snippet": "Da igual que sea m\u00f3vil, escritorio o web. Y menos si es Windows, Mac o Linux. Se adapta a todo, con un rendimiento excelente. Y si quieres trabajar con objetos, no encontrar\u00e1s nada mejor. Su plataforma web se denomina...",
+            "date": "2015-04-07",
+            "author_name": "Andros",
+            "tags": "mejor,din\u00e1micas,hacer,lenguajes,p\u00e1ginas,cursos,web",
+            "recuweb_url": "http://es.recuweb.com/idecrea.es/2015/04/lenguajes-para-hacer-p%C3%A1ginas-webs-din%C3%A1micas-idecrea-cursos",
+            "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb%2Blenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://idecrea.es/lenguajes-para-hacer-paginas-webs-dinamicas/"
         },
         "ticbeat.com/2015/01/ur-web-un-lenguaje-m%C3%A1s-sencillo-y-seguro-ticbeat": {
             "title": "Ur/Web, un lenguaje web m\u00e1s sencillo y seguro TICbeat...",
@@ -43,23 +64,23 @@
             "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb%2Blenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ticbeat.com/tecnologias/urweb-lenguaje-web-mas-sencillo-seguro/"
         },
-        "dary7guate.wordpress.com/2014/11/importancia-de-la-comunicaci%C3%B3n-visual-lenguajes-web-2014": {
-            "title": "Importancia de la Comunicaci\u00f3n Visual Lenguajes Web, 2014...",
-            "snippet": "Comunicaci\u00f3n Visual El lenguaje visual que hace referencia al conjunto de elementos gramaticales y sint\u00e1cticos que operan en cualquier imagen visual. Podr\u00edamos entender por lenguaje visual, al conjunto de principios que...",
-            "date": "2014-11-24",
-            "author_name": "gabrieldary",
-            "categories": "lenguaje,lenguajes-web",
-            "tags": "conjunto,lenguaje,hace,comunicaci\u00f3n,lenguajes,lenguajes_web,web",
-            "recuweb_url": "http://es.recuweb.com/lenguajes-web/dary7guate.wordpress.com/2014/11/importancia-de-la-comunicaci%C3%B3n-visual-lenguajes-web-2014",
+        "pavelarellano2460.wordpress.com/2014/11/lenguajes-web-adentr%C3%A1ndose-al-mundo-del-internet-el-blog": {
+            "title": "Lenguajes web: Adentr\u00e1ndose al mundo del Internet \u00a1El blog de...",
+            "snippet": "El nombre de la clase es Lenguajes web, dada por la licenciada Edna Rheiner, administradora de redes sociales de Emisoras Unidas, Experiencia docencia superior presencial y en el \u00e1rea de e-learning. Amplios...",
+            "date": "2014-11-20",
+            "author_name": "pavelarellano2460magu",
+            "categories": "internet",
+            "tags": "clase,lenguajes,web",
+            "recuweb_url": "http://es.recuweb.com/internet/pavelarellano2460.wordpress.com/2014/11/lenguajes-web-adentr%C3%A1ndose-al-mundo-del-internet-el-blog",
             "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://dary7guate.wordpress.com/2014/11/24/importancia-de-la-comunicacion-visual/"
+            "source_url": "http://pavelarellano2460.wordpress.com/2014/11/20/lenguajes-web-adentrandose-al-mundo-del-internet/"
         },
         "gpaossg.wordpress.com/2014/11/todo-de-lenguajes-web": {
             "title": "todo de lenguajes web...",
             "snippet": "El curso esta dise\u00f1ado para que los estudiantes conozcan algunas de las herramientas web existente para lograr una buena comunicaci\u00f3n de acuerdo a las necesidades de la profecion...",
             "date": "2014-11-17",
             "author_name": "gpaossg",
-            "tags": "comunicaci\u00f3n,curso,dise\u00f1ado,herramientas,lenguajes,web",
+            "tags": "comunicaci\u00f3n,curso,herramientas,lenguajes,web",
             "recuweb_url": "http://es.recuweb.com/gpaossg.wordpress.com/2014/11/todo-de-lenguajes-web",
             "resource_url": "http://es.search.wordpress.com/?q=lenguajes%2Bweb%2Blenguajes%2Bweb&f=feed&page=1",
             "source_url": "http://gpaossg.wordpress.com/todo-de-lenguajes-web/"
@@ -70,7 +91,7 @@
             "date": "2014-11-14",
             "author_name": "Javier Bustos",
             "categories": "lenguajes-web,computadora",
-            "tags": "d\u00eda,continua,idiomas,comunicaci\u00f3n,lenguajes,lenguajes_web,web,hoy",
+            "tags": "continua,comunicaci\u00f3n,lenguajes,lenguajes_web,web",
             "recuweb_url": "http://es.recuweb.com/computadora/berardobarmes.wordpress.com/2014/11/cmc-comunicacion-mediada-por-computadora-lenguajes-web",
             "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://berardobarmes.wordpress.com/2014/11/14/cmc-comunicacion-mediada-por-computadora/"
@@ -81,7 +102,7 @@
             "date": "2014-08-30",
             "author_name": "joylopez",
             "categories": "lenguaje,html",
-            "tags": "conjunto,lenguaje,lenguajes,programaci\u00f3n,tipos,html,p\u00e1ginas,web",
+            "tags": "lenguaje,lenguajes,programaci\u00f3n,tipos,html,p\u00e1ginas,web",
             "recuweb_url": "http://es.recuweb.com/html/joybaby1693.wordpress.com/2014/08/tipos-de-lenguaje-programaci%C3%B3n",
             "resource_url": "http://es.search.wordpress.com/?q=lenguajes%2Bweb%2Blenguajes%2Bweb&f=feed&page=1",
             "source_url": "http://joybaby1693.wordpress.com/2014/08/30/tipos-de-lenguaje-de-programacion/"
@@ -92,31 +113,10 @@
             "date": "2014-07-02",
             "author_name": "Juan Arias",
             "categories": "lenguajes-web,perl,php",
-            "tags": "son,utilizados,lenguajes,lenguajes_web,web,desarrollo,p\u00e1ginas",
+            "tags": "din\u00e1micas,son,utilizados,lenguajes,lenguajes_web,web,desarrollo,p\u00e1ginas",
             "recuweb_url": "http://es.recuweb.com/php/dimuroappi.blogspot.com/2014/07/appinfosantodomingo-lenguajes-web",
             "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://dimuroappi.blogspot.com/2014/07/lenguajes-web.html"
-        },
-        "crexentia.com/2014/02/qu%C3%A9-lenguajes-inform%C3%A1ticos-debe-usar-mi-web-crexentia": {
-            "title": "\u00bfQu\u00e9 lenguajes inform\u00e1ticos debe usar mi web? Crexentia...",
-            "snippet": "Esta es una cuesti\u00f3n t\u00e9cnica que el empresario debe al menos conocer. Es importante tener unas nociones b\u00e1sicas sobre lenguajes de desarrollo y dise\u00f1o web a la.",
-            "date": "2014-02-04",
-            "author_name": "Crexentia",
-            "tags": "lenguajes,web,desarrollo,dise\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/crexentia.com/2014/02/qu%C3%A9-lenguajes-inform%C3%A1ticos-debe-usar-mi-web-crexentia",
-            "resource_url": "http://www.google.com/search?q=lenguajes%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://crexentia.com/que-lenguajes-informaticos-debe-usar-mi-web/"
-        },
-        "kenianavarrete.wordpress.com/2014/01/lenguajes-de-programaci%C3%B3n-web": {
-            "title": "Lenguajes de programaci\u00f3n Web...",
-            "snippet": "Un lenguaje de programaci\u00f3n es un lenguaje formal dise\u00f1ado para expresar procesos que pueden llevarse a cabo por m\u00e1quinas como las computadoras. Los lenguajes de programaci\u00f3n para desarrollo web []...",
-            "date": "2014-01-29",
-            "author_name": "kenia2203",
-            "categories": "lenguaje,computadora",
-            "tags": "lenguaje,dise\u00f1ado,pueden,lenguajes,programaci\u00f3n,web,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/computadora/kenianavarrete.wordpress.com/2014/01/lenguajes-de-programaci%C3%B3n-web",
-            "resource_url": "http://es.search.wordpress.com/?q=lenguajes%2Bweb%2Blenguajes%2Bweb&f=feed&page=1",
-            "source_url": "http://kenianavarrete.wordpress.com/2014/01/29/lenguajes-de-programacion-web/"
         }
     }
 }

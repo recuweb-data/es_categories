@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "carta-astral",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/carta-astral/",
@@ -10,12 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/carta-astral/carta-astral/blogs.json"
     },
     "items": {
+        "eldiario.es/2015/04/santa-teresa-de-jes%C3%BAs-era-muy-moderna": {
+            "title": "Santa Teresa de Jes\u00fas era muy moderna...",
+            "snippet": "Fascinadas con su escritura, su pensamiento, su acci\u00f3n y su experiencia m\u00edstica, ambas presentaron recientemente en Conde Duque un acercamiento a Teresa de Jes\u00fas que incluy\u00f3 sorpresas in\u00e9ditas, como la carta astral de la santa. En 'La Noche de...",
+            "date": "2015-04-22",
+            "tags": "recientemente,acci\u00f3n,era,carta,astral",
+            "recuweb_url": "http://es.recuweb.com/eldiario.es/2015/04/santa-teresa-de-jes%C3%BAs-era-muy-moderna",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
+            "source_url": "http://eldiario.es/cultura/Teresa-Jesus-Noni-Benegas-Rossetti_0_380062051.html"
+        },
+        "www2.esmas.com/2015/04/la-energ%C3%ADa-que-nos-mueve-seg%C3%BAn-nuestro-signo-zodiacal": {
+            "title": "La energ\u00eda que nos mueve seg\u00fan nuestro signo zodiacal...",
+            "snippet": "Energ\u00eda: centr\u00edfuga que se mueve hac\u00eda fuera. La naturaleza esencial de estos signos es de inicio de acci\u00f3n. Si en tu carta astral tienes muchos planetas en signos cardinales, tendr\u00e1s muchas actividades y compromisos. Por el contrario, si...",
+            "date": "2015-04-21",
+            "categories": "planeta,naturaleza,signo-zodiacal",
+            "tags": "contrario,planetas,signos,signo,acci\u00f3n,energ\u00eda,carta,astral",
+            "recuweb_url": "http://es.recuweb.com/signo-zodiacal/www2.esmas.com/2015/04/la-energ%C3%ADa-que-nos-mueve-seg%C3%BAn-nuestro-signo-zodiacal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
+            "source_url": "http://www2.esmas.com/mujer/horoscopos/semanales/843437/energia-mueve-segun-nuestro-signo-zodiacal/"
+        },
+        "miamidiario.com/2015/04/la-energ%C3%ADa-de-tauro-en-el-d%C3%ADa-mundial-tierra": {
+            "title": "La energ\u00eda de Tauro en el D\u00eda Mundial de la Tierra...",
+            "snippet": "Haz click aqu\u00ed: CONSULTAS ASTROL\u00d3GICAS La carta astral te ayuda a conocer tu potencial, aprovechar tus aspectos positivos y trascender los negativos para evolucionar. La posibilidad de...",
+            "date": "2015-04-19",
+            "tags": "posibilidad,aprovechar,aprovechar-tus-aspectos,aspectos,aspectos-positivos,aspectos-positivos-trascender,positivos,positivos-trascender,trascender,trascender-los-negativos,negativos,negativos-para-evolucionar,evolucionar,ayuda,ayuda-conocer,conocer,conocer-tu-potencial,potencial,consultas,astrol\u00f3gicas,d\u00eda,energ\u00eda,tierra,carta,astral",
+            "recuweb_url": "http://es.recuweb.com/miamidiario.com/2015/04/la-energ%C3%ADa-de-tauro-en-el-d%C3%ADa-mundial-tierra",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
+            "source_url": "http://miamidiario.com/blogs/el-termometro-zodiacal-/9_6659"
+        },
+        "granadahoy.com/2015/04/la-ingratitud-hacia-el-que-ha-prestado-buenos-servicios-se-repite": {
+            "title": "La ingratitud hacia el que ha prestado buenos servicios se repite en Espa\u00f1a...",
+            "snippet": "Introduce en la trama elementos m\u00e1gicos como una carta astral que predice c\u00f3mo va a ser su vida. \u00bfSandro Rey podr\u00eda haber vivido con comodidad en la Espa\u00f1a de hace cinco siglos? -Gonzalo era un hombre profundamente supersticioso, de hecho...",
+            "date": "2015-04-15",
+            "tags": "era,c\u00f3mo,carta,astral",
+            "recuweb_url": "http://es.recuweb.com/granadahoy.com/2015/04/la-ingratitud-hacia-el-que-ha-prestado-buenos-servicios-se-repite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
+            "source_url": "http://granadahoy.com/article/ocio/2007630/la/ingratitud/hacia/ha/prestado/buenos/servicios/se/repite/espana.html"
+        },
         "elnuevodia.com/2015/04/s%C3%B3lo-hay-doce-signos-zodiacales": {
             "title": "S\u00f3lo hay doce signos zodiacales...",
             "snippet": "La NASA reconoce a Ophiucus como parte del zodiaco, por el contrario la Federaci\u00f3n Estadounidense de Astr\u00f3logos declara y asegura que este falso descubrimiento no afectar\u00e1 en nada la carta astral. (El Nuevo D\u00eda) Recientemente han surgido dudas...",
             "date": "2015-04-14",
             "categories": "zodiaco",
-            "tags": "asegura,signos,carta,astral",
+            "tags": "nuevo,d\u00eda,asegura,contrario,signos,carta,astral,recientemente",
             "recuweb_url": "http://es.recuweb.com/zodiaco/elnuevodia.com/2015/04/s%C3%B3lo-hay-doce-signos-zodiacales",
             "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
             "source_url": "http://elnuevodia.com/estilosdevida/amorysexualidad/nota/solohaydocesignoszodiacales-2033686/"
@@ -24,7 +62,7 @@
             "title": "Nodos Solares y Lunares: Como arriba es abajo...",
             "snippet": "Como es arriba es abajo. CONSULTAS ASTROL\u00d3GICAS La carta astral te ayuda a conocer tu potencial, aprovechar tus aspectos positivos y trascender los negativos para evolucionar. La posibilidad de \u00e9xito se incrementa cuando sabes c\u00f3mo aprovechar...",
             "date": "2015-04-12",
-            "tags": "posibilidad,posibilidad-de-\u00e9xito,\u00e9xito,aprovechar,aprovechar-tus-aspectos,aspectos,aspectos-positivos,aspectos-positivos-trascender,positivos,positivos-trascender,trascender,trascender-los-negativos,negativos,negativos-para-evolucionar,evolucionar,ayuda,ayuda-conocer,conocer,conocer-tu-potencial,potencial,consultas,consultas_astrol\u00f3gicas,astrol\u00f3gicas,carta,astral",
+            "tags": "posibilidad,c\u00f3mo,aprovechar,aprovechar-tus-aspectos,aspectos,aspectos-positivos,aspectos-positivos-trascender,positivos,positivos-trascender,trascender,trascender-los-negativos,negativos,negativos-para-evolucionar,evolucionar,ayuda,ayuda-conocer,conocer,conocer-tu-potencial,potencial,consultas,astrol\u00f3gicas,carta,astral",
             "recuweb_url": "http://es.recuweb.com/miamidiario.com/2015/04/nodos-solares-y-lunares-como-arriba-es-abajo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
             "source_url": "http://miamidiario.com/blogs/el-termometro-zodiacal-/9_6634"
@@ -34,77 +72,39 @@
             "snippet": "La Prensa (OEM)CARTA ASTRAL,Ignacio L\u00f3pez TarsoLa Prensa (OEM)Don Ignacio L\u00f3pez Tarso naci\u00f3 el jueves 15 de enero de 1925 en la ciudad de M\u00e9xico, Distrito Federal, a las 10:30 horas. Excelente actor de profesi\u00f3n, naci\u00f3 bajo el signo de...",
             "date": "2015-04-10",
             "categories": "carta-astral",
-            "tags": "naci\u00f3,bajo,distrito,distrito_federal,federal,ciudad,enero,naci\u00f3-el-jueves,jueves,l\u00f3pez,prensa,carta,carta_astral,astral,oem,m\u00e9xico",
+            "tags": "naci\u00f3,bajo,signo,ciudad,naci\u00f3-el-jueves,jueves,l\u00f3pez,prensa,carta,carta_astral,astral,oem",
             "recuweb_url": "http://es.recuweb.com/carta-astral/oem.com.mx/2015/04/carta-astral-ignacio-l%C3%B3pez-tarso-la-prensa-oem",
-            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral%2Bcarta%2Bastral&output=atom&nord=1",
             "source_url": "http://oem.com.mx/laprensa/notas/n3767765.htm"
-        },
-        "miamidiario.com/2015/04/aprendamos-a-drenar-marte-en-tauro": {
-            "title": "Aprendamos a drenar Marte en Tauro...",
-            "snippet": "\u00d3yelo aqu\u00ed: CONSULTAS ASTROL\u00d3GICAS La carta astral te ayuda a conocer tu potencial, aprovechar tus aspectos positivos y trascender los negativos para evolucionar. La posibilidad de \u00e9xito...",
-            "date": "2015-04-06",
-            "tags": "posibilidad,posibilidad-de-\u00e9xito,\u00e9xito,aprovechar,aprovechar-tus-aspectos,aspectos,aspectos-positivos,aspectos-positivos-trascender,positivos,positivos-trascender,trascender,trascender-los-negativos,negativos,negativos-para-evolucionar,evolucionar,ayuda,ayuda-conocer,conocer,conocer-tu-potencial,potencial,consultas,consultas_astrol\u00f3gicas,astrol\u00f3gicas,carta,astral",
-            "recuweb_url": "http://es.recuweb.com/miamidiario.com/2015/04/aprendamos-a-drenar-marte-en-tauro",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
-            "source_url": "http://miamidiario.com/blogs/el-termometro-zodiacal-/9_6602"
         },
         "argnoticias.com/2015/04/waldo-casal-un-profeta-en-su-tierra-astral-arg-noticias": {
             "title": "Waldo Casal, un profeta en su tierra astral - ARG Noticias...",
             "snippet": "ARG NoticiasWaldo Casal, un profeta en su tierra astralARG NoticiasHay una base que surge de lo que se llama carta natal, que est\u00e1 compuesta por los planetas y los signos en el momento en que uno nace. Y eso tiene un fundamento que es matem\u00e1tico.",
             "date": "2015-04-06",
             "categories": "planeta",
-            "tags": "signos,astral,carta",
+            "tags": "planetas,signos,tierra,astral,carta",
             "recuweb_url": "http://es.recuweb.com/planeta/argnoticias.com/2015/04/waldo-casal-un-profeta-en-su-tierra-astral-arg-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral&output=atom&nord=1",
             "source_url": "http://argnoticias.com/sociedad/item/28098-waldo-casal"
-        },
-        "blogs.eltiempo.com/2015/04/las-predicciones-de-los-salseros-con-ernesto-rodas": {
-            "title": "Las predicciones de los salseros con Ernesto Rodas...",
-            "snippet": "Ernesto Rodas es un reconocido astr\u00f3logo que ha predecido a trav\u00e9s de su carta astral el futuro de varios personajes conocidos: como por ejemplo la enfermedad de Hugo Chavez, los hijos de Shakira y Pique, entre otros. En su visita por Bogot\u00e1...",
-            "date": "2015-04-05",
-            "tags": "futuro,astr\u00f3logo,carta,astral",
-            "recuweb_url": "http://es.recuweb.com/blogs.eltiempo.com/2015/04/las-predicciones-de-los-salseros-con-ernesto-rodas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=carta%2Bastral&format=RSS&cc=es",
-            "source_url": "http://blogs.eltiempo.com/soneros/2015/04/05/las-predicciones-de-los-salseros-con-ernesto-rodas/"
         },
         "oem.com.mx/2015/04/carta-astral-jennifer-lopez-la-prensa-oem": {
             "title": "CARTA ASTRAL, Jennifer Lopez - La Prensa (OEM)...",
             "snippet": "La Prensa (OEM)CARTA ASTRAL, Jennifer LopezLa Prensa (OEM)Este bomb\u00f3n neoyorkino de origen puertorrique\u00f1o naci\u00f3 el jueves 24 de julio de 1969 en Castle Hill a las 11:00 de la ma\u00f1ana en la ciudad de Nueva York, Estados Unidos, y est\u00e1 regida bajo...",
             "date": "2015-04-03",
             "categories": "carta-astral",
-            "tags": "bajo,york,ciudad,julio,naci\u00f3,naci\u00f3-el-jueves,jueves,prensa,carta,carta_astral,astral,oem",
+            "tags": "bajo,ciudad,naci\u00f3,naci\u00f3-el-jueves,jueves,prensa,carta,carta_astral,astral,oem",
             "recuweb_url": "http://es.recuweb.com/carta-astral/oem.com.mx/2015/04/carta-astral-jennifer-lopez-la-prensa-oem",
-            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral%2Bcarta%2Bastral&output=atom&nord=1",
             "source_url": "http://oem.com.mx/laprensa/notas/n3760289.htm"
         },
-        "telemundo47.com/2015/03/revelan-carta-astral-de-yolanda-sald%C3%ADvar-telemundo-new-york": {
-            "title": "Revelan carta astral de Yolanda Sald\u00edvar - Telemundo New York...",
-            "snippet": "Telemundo New YorkRevelan carta astral de Yolanda Sald\u00edvarTelemundo New YorkRevelan carta astral de Yolanda Sald\u00edvar. El astr\u00f3logo Mario Vannucci revela razgos de la personalidad de la asesina de Selena Quintanilla. 0. 0. 0. El astr\u00f3logo Mario...",
-            "date": "2015-03-31",
-            "categories": "personalidad",
-            "tags": "selena,quintanilla,mario,mario_vannucci,vannucci,yolanda,yolanda_sald\u00edvartelemundo,sald\u00edvartelemundo,telemundo,york,yolanda_sald\u00edvar,sald\u00edvar,revelan,carta,astral,astr\u00f3logo",
-            "recuweb_url": "http://es.recuweb.com/personalidad/telemundo47.com/2015/03/revelan-carta-astral-de-yolanda-sald%C3%ADvar-telemundo-new-york",
-            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral&output=atom&nord=1",
-            "source_url": "http://telemundo47.com/videos/revelan-carta-astral-de-yolanda-saldivar-4144389426001-video.html"
-        },
-        "telemundo51.com/2015/03/selena-revelan-carta-astral-de-yolanda-sald%C3%ADvar-telemundo-51-miami": {
-            "title": "Selena: Revelan carta astral de Yolanda Sald\u00edvar - Telemundo 51 - Miami...",
-            "snippet": "Telemundo 51 - MiamiSelena: Revelan carta astral de Yolanda Sald\u00edvarTelemundo 51 - MiamiEl astr\u00f3logo Mario Vannucci ley\u00f3 la carta astral de Yolanda Sald\u00edvar, quien cumple condena por el asesinato de Selena Quintanilla, y \u00e9sta revel\u00f3 oscuros...",
-            "date": "2015-03-31",
-            "tags": "mario,mario_vannucci,vannucci,yolanda,yolanda_sald\u00edvartelemundo,sald\u00edvartelemundo,yolanda_sald\u00edvar,sald\u00edvar,selena,revelan,carta,astral,telemundo,astr\u00f3logo,quintanilla",
-            "recuweb_url": "http://es.recuweb.com/telemundo51.com/2015/03/selena-revelan-carta-astral-de-yolanda-sald%C3%ADvar-telemundo-51-miami",
-            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral&output=atom&nord=1",
-            "source_url": "http://telemundo51.com/entretenimiento/Revelan-carta-astral-de-Yolanda-Saldivar-298130951.html"
-        },
-        "oem.com.mx/2015/03/carta-astral-andrea-legarreta-y-erik-rub%C3%ADn-la-prensa-oem": {
-            "title": "CARTA ASTRAL, Andrea Legarreta y Erik Rub\u00edn - La Prensa (OEM)...",
-            "snippet": "La Prensa (OEM)CARTA ASTRAL, Andrea Legarreta y Erik Rub\u00ednLa Prensa (OEM)Andrea Legarreta Mart\u00ednez naci\u00f3 el lunes 12 de julio de 1972 en M\u00e9xico, Distrito Federal, y su esposo Erik Rub\u00edn Milanszenko el s\u00e1bado 30 de enero de 1971 en Puebla, por...",
-            "date": "2015-03-27",
-            "categories": "carta-astral",
-            "tags": "enero,distrito,distrito_federal,federal,julio,naci\u00f3,prensa,carta,carta_astral,astral,oem,m\u00e9xico",
-            "recuweb_url": "http://es.recuweb.com/carta-astral/oem.com.mx/2015/03/carta-astral-andrea-legarreta-y-erik-rub%C3%ADn-la-prensa-oem",
-            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral&output=atom&nord=1",
-            "source_url": "http://oem.com.mx/laprensa/notas/n3752447.htm"
+        "telemundochicago.com/2015/04/selena-revelan-carta-astral-de-yolanda-sald%C3%ADvar-telemundo-chicago": {
+            "title": "Selena: Revelan carta astral de Yolanda Sald\u00edvar - Telemundo Chicago...",
+            "snippet": "Selena: Revelan carta astral de Yolanda Sald\u00edvarTelemundo ChicagoEl astr\u00f3logo Mario Vannucci ley\u00f3 la carta astral de Yolanda Sald\u00edvar, quien cumple condena por el asesinato de Selena Quintanilla, y \u00e9sta revel\u00f3 oscuros detalles de su...",
+            "date": "2015-04-01",
+            "tags": "telemundo,selena,carta,astral,quintanilla",
+            "recuweb_url": "http://es.recuweb.com/telemundochicago.com/2015/04/selena-revelan-carta-astral-de-yolanda-sald%C3%ADvar-telemundo-chicago",
+            "resource_url": "http://news.google.es/?hl=es&q=carta%2Bastral%2Bcarta%2Bastral&output=atom&nord=1",
+            "source_url": "http://telemundochicago.com/entretenimiento/Revelan-carta-astral-de-Yolanda-Saldivar-298130951.html"
         }
     }
 }

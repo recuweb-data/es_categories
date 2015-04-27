@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "alexa-internet",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/alexa-internet/",
@@ -18,7 +19,7 @@
             "categories": "internet",
             "tags": "internet,alexa",
             "recuweb_url": "http://es.recuweb.com/internet/youtube.com/2014/03/alceo-angelini-capacitaci%C3%B3n-alexa-y-estad%C3%ADsticas",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=alexa%2Binternet&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=alexa%2Binternet%2Balexa%2Binternet&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=eNw7AFoHVfA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/eNw7AFoHVfA/0.jpg"
         },

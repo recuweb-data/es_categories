@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hardware-ibm",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-ibm/",
@@ -10,85 +11,85 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/blogs.json"
     },
     "items": {
-        "moneymorning.com/2015/03/why-the-ibm-stock-price-is-rising-right-now-money-morning": {
-            "title": "Why the IBM Stock Price Is Rising Right Now - Money Morning...",
-            "snippet": "Money MorningWhy the IBM Stock Price Is Rising Right NowMoney MorningAmong its hardest hit segments was hardware, which has seen revenue fall 12 consecutive quarters. That's why the z13 is so important right now. The last three years have seen IBM's...",
-            "date": "2015-03-24",
+        "moneymorning.com/2015/04/ibm-earnings-don-t-support-financial-media-bulls-money-morning": {
+            "title": "IBM Earnings Don't Support Financial Media Bulls - Money Morning...",
+            "snippet": "Money MorningIBM Earnings Don't Support Financial Media BullsMoney MorningThe problem is that in shedding low-end servers, in its 2014 sale to Lenovo Group Ltd. (OTCMKTS: LNVGY), and refocusing its hardware primarily on mainframes, IBM isn't...",
+            "date": "2015-04-22",
             "categories": "hardware",
-            "tags": "years,why,consecutive,which,its,was,ibm,price,hardware,that",
-            "recuweb_url": "http://es.recuweb.com/hardware/moneymorning.com/2015/03/why-the-ibm-stock-price-is-rising-right-now-money-morning",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm%2Bhardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://moneymorning.com/2015/03/24/why-the-ibm-stock-price-is-rising-right-now/"
-        },
-        "insidehpc.com/2015/03/ibm-s-dave-turek-on-the-first-look-at-openpower-hardware": {
-            "title": "IBM's Dave Turek on the First Look at OpenPOWER Hardware for HPC - insideHPC...",
-            "snippet": "ComputerworldIBM's Dave Turek on the First Look at OpenPOWER Hardware for HPCinsideHPCIn this video, Dave Turek from IBM provides and update on the OpenPOWER initiative. IBM and Wistron are jointly developing the first OpenPOWER-based high...",
-            "date": "2015-03-20",
-            "categories": "hardware",
-            "tags": "based,are,this,hardware,ibm",
-            "recuweb_url": "http://es.recuweb.com/hardware/insidehpc.com/2015/03/ibm-s-dave-turek-on-the-first-look-at-openpower-hardware",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm%2Bhardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://insidehpc.com/2015/03/ibms-dave-turek-on-the-first-look-at-openpower-hardware-for-hpc/"
-        },
-        "seekingalpha.com/2015/03/why-i-bought-shares-of-ibm-seeking-alpha-registration": {
-            "title": "Why I Bought Shares Of IBM - Seeking Alpha (registration)...",
-            "snippet": "Why I Bought Shares Of IBMSeeking Alpha (registration)IBM is coming off two consecutive years of poor performance, as it was notoriously slow in anticipating the cloud revolution. But IBM is making the necessary moves -- divesting old hardware...",
-            "date": "2015-03-17",
-            "categories": "hardware",
-            "tags": "was,cloud,consecutive,years,why,ibm,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/seekingalpha.com/2015/03/why-i-bought-shares-of-ibm-seeking-alpha-registration",
+            "tags": "primarily,refocusing,refocusing-its,its,lenovo,lenovo_group,lenovo_group_ltd,group,group_ltd,ltd,sale,end,end-servers,servers,problem,problem-is-that,that,that-in-shedding,shedding,shedding-low,low,support,earnings,earnings_don,don,ibm,otcmkts,lnvgy,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/moneymorning.com/2015/04/ibm-earnings-don-t-support-financial-media-bulls-money-morning",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://seekingalpha.com/article/3007176-why-i-bought-shares-of-ibm"
+            "source_url": "http://moneymorning.com/2015/04/21/international-business-machines-corp-nyse-ibm-earnings-dont-support-sudden-rally/"
         },
-        "computerweekly.com/2015/03/does-ibm-have-what-it-needs-to-succeed-in-the-cloud": {
-            "title": "Does IBM have what it needs to succeed in the cloud era? -...",
-            "snippet": "IBM have what it needs to succeed in the cloud era? a hardware level, IBM has maintained its faith in its own technologies. Namely the mainframe and its Power-based systems, which have managed to make it through while its competitors'equivalent...",
-            "date": "2015-03-16",
+        "tomshw.it/2015/04/ibm-spectrum-per-il-software-defined-storage-tom-s-hardware": {
+            "title": "IBM Spectrum per il software defined storage - Tom's Hardware...",
+            "snippet": "Tom's HardwareIBM Spectrum per il software defined storageTom's HardwareIBM ha anche creato una roadmap per estrarre intelligenza dai suoi tradizionali sistemi storage e il primo componente annunciato \u00e8 IBM Spectrum Accelerate. Si tratta di un...",
+            "date": "2015-04-22",
             "categories": "hardware",
-            "tags": "which,while,its,based,cloud,ibm,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/computerweekly.com/2015/03/does-ibm-have-what-it-needs-to-succeed-in-the-cloud",
+            "tags": "storage,ibm,software,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshw.it/2015/04/ibm-spectrum-per-il-software-defined-storage-tom-s-hardware",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://computerweekly.com/feature/Does-IBM-have-what-it-needs-to-succeed-in-the-cloud-era"
+            "source_url": "http://tomshw.it/articoli/ibm-spectrum-per-il-software-defined-storage-65689"
         },
-        "eleconomista.com.mx/2015/03/warren-buffett-sigue-apostando-por-ibm-conviene-seguirlo-el-economista": {
-            "title": "Warren Buffett sigue apostando por IBM, \u00bfconviene seguirlo? - El Economista...",
-            "snippet": "El EconomistaWarren Buffett sigue apostando por IBM, \u00bfconviene seguirlo?El EconomistaIBM est\u00e1 saliendo de los negocios relacionados al hardware y otras actividades de bajo margen para enfocarse en otros con mayor valor estrat\u00e9gico y niveles de...",
-            "date": "2015-03-12",
+        "etfdailynews.com/2015/04/international-business-machines-corp-ibm-earnings-don-t-support-etf-daily": {
+            "title": "International Business Machines Corp. (IBM) Earnings Don't Support... - ETF Daily News...",
+            "snippet": "ETF Daily NewsInternational Business Machines Corp. (IBM) Earnings Don't Support...ETF Daily NewsThe problem is that in shedding low-end servers, in its 2014 sale to Lenovo Group Ltd. (OTCMKTS: LNVGY), and refocusing its hardware primarily on...",
+            "date": "2015-04-22",
             "categories": "hardware",
-            "tags": "negocios,ibm,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/eleconomista.com.mx/2015/03/warren-buffett-sigue-apostando-por-ibm-conviene-seguirlo-el-economista",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm%2Bhardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://eleconomista.com.mx/fondos/2015/03/12/warren-buffett-sigue-apostando-ibm-conviene-seguirlo"
-        },
-        "itjungle.com/2015/03/ibm-discounts-let-cpus-and-memory-go-mobile-for-less-it": {
-            "title": "IBM Discounts Let CPUs And Memory Go Mobile For Less - IT Jungle...",
-            "snippet": "IT JungleIBM Discounts Let CPUs And Memory Go Mobile For LessIT JungleThere are ways to do this rather than just to cut the price on shiny new hardware, and IBM is usually pretty good at crafting deals that give customers an incentive to move in a...",
-            "date": "2015-03-09",
-            "categories": "hardware",
-            "tags": "that,are,this,than,price,mobile,ibm,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/itjungle.com/2015/03/ibm-discounts-let-cpus-and-memory-go-mobile-for-less-it",
+            "tags": "primarily,refocusing,refocusing-its,its,lenovo,lenovo_group,lenovo_group_ltd,group,group_ltd,ltd,sale,end,end-servers,servers,problem,problem-is-that,that,that-in-shedding,shedding,shedding-low,low,business,business_machines,machines,earnings,earnings_don,don,international,international_business,international_business_machines,ibm,support,otcmkts,lnvgy,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/etfdailynews.com/2015/04/international-business-machines-corp-ibm-earnings-don-t-support-etf-daily",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://itjungle.com/tfh/tfh030915-story04.html"
+            "source_url": "http://etfdailynews.com/2015/04/22/international-business-machines-corp-ibm-earnings-dont-support-financial-media-bulls/"
         },
-        "siliconangle.com/2015/02/apple-ibm-partnership-is-more-than-a-simple-hardware-distribution-siliconangle": {
-            "title": "Apple-IBM partnership is more than a simple hardware distribution... - SiliconANGLE (blog)...",
-            "snippet": "SiliconANGLE (blog)Apple-IBM partnership is more than a simple hardware distribution...SiliconANGLE (blog)apple-ibm The past week saw IBM host its annual cloud and mobile conference, InterConnect, in Las Vegas while the company's CEO, Ginni Rometty...",
-            "date": "2015-02-28",
+        "wsj.com/2015/04/behind-ginni-rometty-s-plan-to-reboot-ibm-wall-street-journal": {
+            "title": "Behind Ginni Rometty's Plan to Reboot IBM - Wall Street Journal...",
+            "snippet": "Wall Street JournalBehind Ginni Rometty's Plan to Reboot IBMWall Street JournalMs. Rometty sold off low-end servers and divested IBM's chip makerwhich her CFO likens to spinal removal surgeryonce integral elements of its hardware business. These...",
+            "date": "2015-04-21",
             "categories": "hardware",
-            "tags": "while,its,cloud,mobile,than,ibm,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/siliconangle.com/2015/02/apple-ibm-partnership-is-more-than-a-simple-hardware-distribution-siliconangle",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm%2Bhardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://siliconangle.com/blog/2015/02/28/apple-ibm-partnership-is-more-than-a-simple-hardware-distribution-deal/"
+            "tags": "its,end,end-servers,servers,low,ibm,hardware,business",
+            "recuweb_url": "http://es.recuweb.com/hardware/wsj.com/2015/04/behind-ginni-rometty-s-plan-to-reboot-ibm-wall-street-journal",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
+            "source_url": "http://wsj.com/articles/behind-ginni-romettys-plan-to-reboot-ibm-1429577076"
         },
-        "elcomercio.pe/2014/10/por-qu%C3%A9-ibm-dejar%C3%A1-de-ser-proveedor-hardware-an%C3%A1lisis-el-comercio": {
-            "title": "\u00bfPor qu\u00e9 IBM dejar\u00e1 de ser proveedor de hardware? AN\u00c1LISIS El... - El Comercio...",
-            "snippet": "El Comercio\u00bfPor qu\u00e9 IBM dejar\u00e1 de ser proveedor de hardware? AN\u00c1LISIS El...El ComercioIBM fue durante d\u00e9cadas el ic\u00f3nico proveedor de computadoras, ya sean peque\u00f1as o grandes. Antes del reinado comercial de HP y la aguerrida competencia en...",
-            "date": "2014-10-01",
-            "categories": "computadora,hardware",
-            "tags": "durante,ibm,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/elcomercio.pe/2014/10/por-qu%C3%A9-ibm-dejar%C3%A1-de-ser-proveedor-hardware-an%C3%A1lisis-el-comercio",
+        "lanacion.com.ar/2015/04/en-la-%C3%BAltima-reinvenci%C3%B3n-de-ibm-lo-nuevo-a%C3%BAn-no-reemplaza": {
+            "title": "En la \u00faltima reinvenci\u00f3n de IBM, lo nuevo a\u00fan no reemplaza a lo viejo - (Argentina)...",
+            "snippet": "(Argentina)En la \u00faltima reinvenci\u00f3n de IBM, lo nuevo a\u00fan no reemplaza a lo viejo (Argentina)Su desaf\u00edo es rejuvenecer lo que queda del negocio de hardware de IBM, como la recientemente reconstruida operaci\u00f3n de mainframe para transacciones...",
+            "date": "2015-04-21",
+            "categories": "hardware",
+            "tags": "nuevo,ibm,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/lanacion.com.ar/2015/04/en-la-%C3%BAltima-reinvenci%C3%B3n-de-ibm-lo-nuevo-a%C3%BAn-no-reemplaza",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
+            "source_url": "http://lanacion.com.ar/1786158-en-la-ultima-reinvencion-de-ibm-lo-nuevo-aun-no-reemplaza-a-lo-viejo"
+        },
+        "blogs.barrons.com/2015/04/ibm-slips-hardware-rebounds-but-all-eyes-on-software-barron": {
+            "title": "IBM Slips: Hardware Rebounds, But All Eyes on Software - Barron's (blog)...",
+            "snippet": "IBM Slips: Hardware Rebounds, But All Eyes on SoftwareBarron's (blog)Shares of International Business Machines (IBM) are down, or 1%, at, after the company yesterday afternoon missed Q1 revenue expectations but beat on the bottom line, and...",
+            "date": "2015-04-21",
+            "categories": "hardware",
+            "tags": "revenue,international,international_business,international_business_machines,business,business_machines,machines,hardware,ibm,software",
+            "recuweb_url": "http://es.recuweb.com/hardware/blogs.barrons.com/2015/04/ibm-slips-hardware-rebounds-but-all-eyes-on-software-barron",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
+            "source_url": "http://blogs.barrons.com/techtraderdaily/2015/04/21/ibm-slips-hardware-rebounds-but-all-eyes-on-software/"
+        },
+        "theregister.co.uk/2015/04/whee-ibm-storage-hardware-revenues-just-keep-sliding-and-the-register": {
+            "title": "Whee! IBM storage hardware revenues just keep sliding and sliding - The Register...",
+            "snippet": "The RegisterWhee! IBM storage hardware revenues just keep sliding and slidingThe RegisterIBM's storage hardware revenue decline has continued, according to its 2015 first quarter results. IBM's earnings statement said: \"Revenues from System Storage...",
+            "date": "2015-04-21",
+            "categories": "hardware",
+            "tags": "storage,earnings,its,revenue,ibm,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/theregister.co.uk/2015/04/whee-ibm-storage-hardware-revenues-just-keep-sliding-and-the-register",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/04/21/ibm_storage_hardware_revenue_slide/"
+        },
+        "law360.com/2015/04/ibm-hit-with-investor-suit-over-shedding-hardware-business-law360-subscription": {
+            "title": "IBM Hit With Investor Suit Over Shedding Hardware Business - Law360 (subscription)...",
+            "snippet": "IBM Hit With Investor Suit Over Shedding Hardware BusinessLaw360 (subscription)As a result of defendants'materially false and/or misleading statements and omissions, IBM's securities traded at inflated prices during the class period. However, as the...",
+            "date": "2015-04-03",
+            "categories": "hardware",
+            "tags": "ibm,shedding,hardware,business",
+            "recuweb_url": "http://es.recuweb.com/hardware/law360.com/2015/04/ibm-hit-with-investor-suit-over-shedding-hardware-business-law360-subscription",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bibm%2Bhardware%2Bibm&output=atom&nord=1",
-            "source_url": "http://elcomercio.pe/economia/negocios/que-ibm-dejara-proveedor-hardware-analisis-noticia-1760471"
+            "source_url": "http://law360.com/articles/638893/ibm-hit-with-investor-suit-over-shedding-hardware-business"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "flickr",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/flickr/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
     },
     "items": {
+        "youtube.com/2015/03/que-es-y-como-funciona-flickr-dymwebinars": {
+            "title": "Que es y como funciona FLICKR - DYMwebinars...",
+            "snippet": "Que es y como funciona FLICKR - DYMwebinars En este videotutorial de la serie DYMwebinars te vamos a ense\u00f1ar en qu\u00e9 consiste esta extraordinaria RED SOCIAL donde vas a poder compartir FOTOS y VIDEOS. davidymiriam, flickr. From: David y Miriam...",
+            "date": "2015-03-14",
+            "author_name": "David y Miriam Arbona",
+            "categories": "red-social,flickr",
+            "tags": "compartir,red,social,ense\u00f1ar,flickr,fotos",
+            "recuweb_url": "http://es.recuweb.com/flickr/youtube.com/2015/03/que-es-y-como-funciona-flickr-dymwebinars",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Km_c7IHtHx4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Km_c7IHtHx4/0.jpg"
+        },
         "youtube.com/2014/10/lightroom-5-c%C3%B3mo-subir-fotos-a-flickr": {
             "title": "Lightroom 5 - C\u00f3mo subir fotos a Flickr desde Lightroom?",
             "snippet": "Lightroom 5 - C\u00f3mo subir fotos a Flickr desde Lightroom? Explico como subir las fotos directamente desde Lightroom a Flickr y tambi\u00e9n lo controversial que es a la hora de eliminar fotos en LR. From: Escuela Lightroom en Espa\u00f1ol Views: 165 4...",
             "date": "2014-10-30",
             "author_name": "Escuela Lightroom en Espa\u00f1ol",
             "categories": "flickr,escuela",
-            "tags": "fotos,subir,c\u00f3mo,flickr",
+            "tags": "fotos,subir,subir-fotos,c\u00f3mo,flickr",
             "recuweb_url": "http://es.recuweb.com/escuela/youtube.com/2014/10/lightroom-5-c%C3%B3mo-subir-fotos-a-flickr",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=MwQmq8qYMDI&feature=youtube_gdata",
@@ -24,7 +37,7 @@
         },
         "youtube.com/2014/10/como-descargar-imagenes-de-flickr-cuando-no-te-da-la-opci%C3%B3n": {
             "title": "Como descargar imagenes de Flickr cuando no te da la opci\u00f3n de guardar (Soluci\u00f3n)...",
-            "snippet": "Como descargar imagenes de Flickr cuando no te da la opci\u00f3n de guardar (Soluci\u00f3n) Regalame un like y suscribete! cualquier duda lo puedes comentar. From: Alessio Lacayo Views: 221 11 ratings Time: 03:45 More in People & Blogs...",
+            "snippet": "Como descargar imagenes de Flickr cuando no te da la opci\u00f3n de guardar (Soluci\u00f3n) Regalame un like y suscribete! cualquier duda lo puedes comentar. From: Alessio Lacayo Views: 254 11 ratings Time: 03:45 More in People & Blogs...",
             "date": "2014-10-10",
             "author_name": "Alessio Lacayo",
             "categories": "flickr",
@@ -36,27 +49,15 @@
         },
         "youtube.com/2014/09/c%C3%B3mo-crear-album-flickr-e-insertar-slider-en-blogger-nuevo-2014": {
             "title": "C\u00f3mo crear album Flickr e insertar Slider en Blogger (NUEVO 2014)...",
-            "snippet": "C\u00f3mo crear album Flickr e insertar Slider en Blogger (NUEVO 2014) C\u00f3mo crear un album en Flickr e insertar un Slider en Blogger. From: la clase de laura Views: 1451 10 ratings Time: 05:28 More in Education...",
+            "snippet": "C\u00f3mo crear album Flickr e insertar Slider en Blogger (NUEVO 2014) C\u00f3mo crear un album en Flickr e insertar un Slider en Blogger. From: la clase de laura Views: 1610 10 ratings Time: 05:28 More in Education...",
             "date": "2014-09-09",
             "author_name": "la clase de laura",
             "categories": "flickr",
-            "tags": "insertar,c\u00f3mo,flickr,education",
+            "tags": "insertar,crear,c\u00f3mo,flickr,education",
             "recuweb_url": "http://es.recuweb.com/flickr/youtube.com/2014/09/c%C3%B3mo-crear-album-flickr-e-insertar-slider-en-blogger-nuevo-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ELF5kg_Abtc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ELF5kg_Abtc/0.jpg"
-        },
-        "youtube.com/2014/09/como-colocar-foto-do-flickr-no-minimundos": {
-            "title": "Como Colocar Foto Do Flickr No Minimundos...",
-            "snippet": "Como Colocar Foto Do Flickr No Minimundos '='='='='='='='adoro essa carinha:v. From: Flor MiniMundos Views: 1640 26 ratings Time: 07:17 More in People & Blogs...",
-            "date": "2014-09-06",
-            "author_name": "Flor MiniMundos",
-            "categories": "flickr",
-            "tags": "flickr,people",
-            "recuweb_url": "http://es.recuweb.com/flickr/youtube.com/2014/09/como-colocar-foto-do-flickr-no-minimundos",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=tzBkqmjYVdA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/tzBkqmjYVdA/0.jpg"
         },
         "youtube.com/2014/08/insertar-un-%C3%A1lbum-de-flickr-en-wordpress": {
             "title": "Insertar un \u00e1lbum de Flickr en WordPress...",
@@ -64,23 +65,11 @@
             "date": "2014-08-22",
             "author_name": "webempresa.com",
             "categories": "flickr,wordpress",
-            "tags": "opci\u00f3n,puede,\u00e1lbumes,im\u00e1genes,insertar,flickr",
+            "tags": "opci\u00f3n,puede,\u00e1lbumes,\u00e1lbum,compartir,im\u00e1genes,insertar,flickr",
             "recuweb_url": "http://es.recuweb.com/wordpress/youtube.com/2014/08/insertar-un-%C3%A1lbum-de-flickr-en-wordpress",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=sJDcHTIxDKU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/sJDcHTIxDKU/0.jpg"
-        },
-        "youtube.com/2014/08/flickr-lanza-una-nueva-plataforma-para-vender-fotograf%C3%ADas-hacker": {
-            "title": "Flickr lanza una nueva plataforma para vender fotograf\u00edas/Hacker...",
-            "snippet": "Flickr lanza una nueva plataforma para vender fotograf\u00edas/Hacker Flickr lanza una nueva plataforma para vender fotograf\u00edas/Hacker Paul Lara 01/08/14 Programa: Hackers&Bits. Conductor: Paul Lara. Horario: Lunes a Viernes:15:00-15:30. Para m\u00e1s...",
-            "date": "2014-08-01",
-            "author_name": "Exc\u00e9lsiorTv Dinero",
-            "categories": "fotografia,flickr",
-            "tags": "flickr",
-            "recuweb_url": "http://es.recuweb.com/flickr/youtube.com/2014/08/flickr-lanza-una-nueva-plataforma-para-vender-fotograf%C3%ADas-hacker",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=TEwqiEHFjzg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TEwqiEHFjzg/0.jpg"
         },
         "youtube.com/2014/07/como-no-perder-las-fotos-de-tu-iphone-usando-dropbox-flickr": {
             "title": "Como no perder las Fotos de tu iPhone usando Dropbox, Flickr, Google Drive...",
@@ -100,7 +89,7 @@
             "date": "2014-06-03",
             "author_name": "PlataformaProyecta",
             "categories": "red-social,flickr",
-            "tags": "im\u00e1genes,puede,flickr",
+            "tags": "ense\u00f1ar,im\u00e1genes,puede,red,social,flickr",
             "recuweb_url": "http://es.recuweb.com/flickr/youtube.com/2014/06/flickr-una-red-social-diferente-y-educativa",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=lpNV7wZXh_4&feature=youtube_gdata",
@@ -129,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr%2Bflickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=IleQzWSCOM8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/IleQzWSCOM8/0.jpg"
+        },
+        "youtube.com/2014/02/flickr-subir-fotos-y-crear-%C3%A1lbum": {
+            "title": "Flickr: subir fotos y crear \u00e1lbum...",
+            "snippet": "Flickr: subir fotos y crear \u00e1lbum Multimedia G. From: V\u00edctor Serrano Views: 949 2 ratings Time: 01:53 More in People & Blogs...",
+            "date": "2014-02-28",
+            "author_name": "V\u00edctor Serrano",
+            "categories": "flickr",
+            "tags": "subir,subir-fotos,fotos,crear,\u00e1lbum,flickr,people",
+            "recuweb_url": "http://es.recuweb.com/flickr/youtube.com/2014/02/flickr-subir-fotos-y-crear-%C3%A1lbum",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=flickr&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=EbPfbyKA0aU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/EbPfbyKA0aU/0.jpg"
         }
     }
 }

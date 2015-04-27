@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "robotica-medical",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/robotica-medical/",
@@ -10,25 +11,12 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/robotica-medical/robotica-medical/blogs.json"
     },
     "items": {
-        "youtube.com/2012/06/dr-fernando-bianco-cirugia-robotica": {
-            "title": "Dr. Fernando Bianco- Cirugia Robotica...",
-            "snippet": "Dr. Fernando Bianco- Cirugia Robotica Dr. Fernando Bianco \" Minima soluci\u00f3n a grandes problemas con la Cirug\u00eda Robotica\" From: Katalyst Medical Marketing Views: 233 1 ratings Time: 02:58 More in Science & Technology...",
-            "date": "2012-06-08",
-            "author_name": "Katalyst Medical Marketing",
-            "categories": "robotica",
-            "tags": "medical,cirug\u00eda",
-            "recuweb_url": "http://es.recuweb.com/robotica/youtube.com/2012/06/dr-fernando-bianco-cirugia-robotica",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=robotica%2Bmedical%2Brobotica%2Bmedical&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=L_OSPVA1-nE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/L_OSPVA1-nE/0.jpg"
-        },
         "youtube.com/2012/03/hm-hospitales-presenta-la-primera-c%C3%A1tedra-en-cirug%C3%ADa-rob%C3%B3tica-oncol%C3%B3gica-abdominal": {
             "title": "HM Hospitales presenta la primera C\u00e1tedra en Cirug\u00eda Rob\u00f3tica Oncol\u00f3gica Abdominal de Espa\u00f1a...",
             "snippet": "HM Hospitales presenta la primera C\u00e1tedra en Cirug\u00eda Rob\u00f3tica Oncol\u00f3gica Abdominal de Espa\u00f1a HM Hospitales, la Universidad CEU San Pablo y Palex Medical han firmado un convenio de colaboraci\u00f3n que supone el nacimiento de la innovadora y...",
             "date": "2012-03-20",
             "author_name": "prnoticias",
             "categories": "robotica",
-            "tags": "medical,cirug\u00eda",
             "recuweb_url": "http://es.recuweb.com/robotica/youtube.com/2012/03/hm-hospitales-presenta-la-primera-c%C3%A1tedra-en-cirug%C3%ADa-rob%C3%B3tica-oncol%C3%B3gica-abdominal",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=robotica%2Bmedical%2Brobotica%2Bmedical&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=jy9Vu1Dx6bc&feature=youtube_gdata",

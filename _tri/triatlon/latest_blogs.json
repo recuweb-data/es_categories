@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "triatlon",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/triatlon/",
@@ -16,7 +17,7 @@
             "date": "2015-04-23",
             "author_name": "admin",
             "categories": "triatlon",
-            "tags": "prueba,contar\u00e1,lugar,semana,triatlon,pr\u00f3ximo,segunda,cita,sprint",
+            "tags": "semana,triatlon,pr\u00f3ximo,segunda,prueba,sprint",
             "recuweb_url": "http://es.recuweb.com/triatlon/triatlonchannel.com/2015/04/ultima-semana-para-cambio-de-tarifas-en-el-triatlon-aritzaleku",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://triatlonchannel.com/2015/04/23/ultima-semana-para-cambio-de-tarifas-en-el-triatlon-de-aritzaleku/"
@@ -27,7 +28,7 @@
             "date": "2015-04-22",
             "author_name": "admin",
             "categories": "triatlon",
-            "tags": "triatleta,segundo,triatlon,triathlon",
+            "tags": "triatlon,triathlon,noticias,triatleta",
             "recuweb_url": "http://es.recuweb.com/triatlon/triatlonchannel.com/2015/04/conociendo-a-fernando-barroso-triatlon-triathlon-noticias",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://triatlonchannel.com/2015/04/22/conociendo-a-fernando-barroso/"
@@ -43,13 +44,24 @@
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://vidaextra.com/videos/correr-saltar-y-asesinar-son-las-pruebas-de-nuestro-triatlon-en-assassin-s-creed-chronicles"
         },
+        "triatlonchannel.com/2015/04/wts-cape-town-retornos-de-alistair-y-spirig-triatlon-channel": {
+            "title": "WTS Cape Town; retornos de Alistair y Spirig y... - Triatlon Channel...",
+            "snippet": "Los campeones ol\u00edmpicos dar\u00e1n un plus de emoci\u00f3n a las Series Mundiales de Triatlon en Sud\u00e1frica. Alistair_Brownlee Este fin de semana las Series Mundiales de Triatlon escribir\u00e1n la cuarta entrega del a\u00f1o. Cerrar\u00e1n el...",
+            "date": "2015-04-22",
+            "author_name": "admin",
+            "categories": "triatlon",
+            "tags": "cuarta,fin,emoci\u00f3n,triatlon,triatlon_channel,channel,semana",
+            "recuweb_url": "http://es.recuweb.com/triatlon/triatlonchannel.com/2015/04/wts-cape-town-retornos-de-alistair-y-spirig-triatlon-channel",
+            "resource_url": "http://www.google.com/search?q=triatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://triatlonchannel.com/2015/04/22/wts-cape-town-retornos-de-alistair-y-spirig-y-posibilidad-de-entrar-para-dapena/"
+        },
         "elecodejumilla.es/2015/04/el-club-triatl%C3%B3n-jumilla-presente-en-la-primera-prueba": {
             "title": "El Club Triatl\u00f3n Jumilla, presente en la primera prueba de la...",
             "snippet": "Los triatletas del Club Triatl\u00f3n Jumilla disfrutaron de una soleada ma\u00f1ana y un mar en calma que acompa\u00f1aba a disfrutar de este maravilloso deporte. As\u00ed pues, a las horas se daba la salida a la prueba de Distancia...",
             "date": "2015-04-21",
             "author_name": "El Eco de Jumilla",
             "categories": "deporte,triatlon",
-            "tags": "salida,prueba,club,triatl\u00f3n,primera,triatletas,distancia",
+            "tags": "salida,mar,deporte,triatletas,primera,club,triatl\u00f3n,prueba,distancia",
             "recuweb_url": "http://es.recuweb.com/triatlon/elecodejumilla.es/2015/04/el-club-triatl%C3%B3n-jumilla-presente-en-la-primera-prueba",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elecodejumilla.es/2015/04/el-club-triatlon-jumilla-presente-en-la-primera-prueba-de-la-triwhite-cup-2015/"
@@ -60,7 +72,7 @@
             "date": "2015-04-19",
             "author_name": "admin",
             "categories": "triatlon",
-            "tags": "prueba,cuatro,dos,triatlon,copa,segunda,europa,melilla,triatletas,g\u00f3mez",
+            "tags": "dos,triatletas,triatlon,copa,segunda,europa,melilla,prueba",
             "recuweb_url": "http://es.recuweb.com/triatlon/triatlonchannel.com/2015/04/anna-godoy-segunda-en-el-triatlon-copa-de-europa-melilla",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://triatlonchannel.com/2015/04/19/anna-godoy-segunda-en-el-triatlon-copa-de-europa-de-melilla/"
@@ -71,7 +83,7 @@
             "date": "2015-04-19",
             "author_name": "Comunicacion",
             "categories": "triatlon",
-            "tags": "abril,celebrada,espa\u00f1oles,tomaron,salida,oro,copa,europa,triatl\u00f3n,melilla,triatletas,domingo",
+            "tags": "abril,triatletas,espa\u00f1oles,salida,oro,copa,europa,triatl\u00f3n,melilla,domingo",
             "recuweb_url": "http://es.recuweb.com/triatlon/triatlon.org/2015/04/j%C3%BAniors-de-oro-espa%C3%B1oles-en-la-copa-europa-triatl%C3%B3n-melilla",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://triatlon.org/triweb/index.php/2015/04/19/juniors-de-oro-espanoles-en-la-copa-de-europa-de-triatlon-de-melilla/"
@@ -82,7 +94,7 @@
             "date": "2015-04-18",
             "author_name": "admin",
             "categories": "triatlon",
-            "tags": "triatlon,arenales,edici\u00f3n,elche,triatletas",
+            "tags": "triatletas,hubo,triatlon,arenales,triatlon_channel,channel,edici\u00f3n,elche,categor\u00eda",
             "recuweb_url": "http://es.recuweb.com/triatlon/triatlonchannel.com/2015/04/colosales-triunfos-de-aida-vali%C3%B1o-y-dom%C3%A9nico-triatlon-channel",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://triatlonchannel.com/2015/04/18/colosales-triunfos-de-aida-valino-y-domenico-pasuello-en-el-triatlon-de-elche/"
@@ -93,7 +105,7 @@
             "date": "2015-04-17",
             "author_name": "Rub\u00e9n Mart\u00ednez",
             "categories": "estrella,triatlon",
-            "tags": "distancia,campeonato,prueba,triatl\u00f3n,elche,pr\u00f3ximo,s\u00e1bado,abril,edici\u00f3n,arenales",
+            "tags": "distancia,campeonato,triatl\u00f3n,elche,pr\u00f3ximo,s\u00e1bado,abril,edici\u00f3n,prueba,arenales",
             "recuweb_url": "http://es.recuweb.com/triatlon/taymory.com/2015/04/taymorylife-triatl%C3%B3n-de-elche",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://taymory.com/taymorylife/triatlon-de-elche/"
@@ -104,21 +116,10 @@
             "date": "2015-04-17",
             "author_name": "Comunicacion",
             "categories": "triatlon,escuela",
-            "tags": "nacional,triatl\u00f3n",
+            "tags": "federaci\u00f3n,triatl\u00f3n,valencia",
             "recuweb_url": "http://es.recuweb.com/escuela/triatlon.org/2015/04/llega-el-curso-de-entrenador-nacional-triatl%C3%B3n-valencia",
             "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://triatlon.org/triweb/index.php/2015/04/17/llega-el-curso-de-entrenador-nacional-de-triatlon-de-valencia/"
-        },
-        "triatlon.org/2015/04/seis-abanderados-espa%C3%B1oles-en-las-competiciones-de-triatl%C3%B3n": {
-            "title": "Seis abanderados espa\u00f1oles en las competiciones de triatl\u00f3n de...",
-            "snippet": "Cabe se\u00f1alar que cuatro de nuestros triatletas participantes en Baku (G\u00f3mez, Casillas, Hern\u00e1ndez y Alarza) forman parte del programa de becas P\u00f3dium, promovidas por el Comit\u00e9 Ol\u00edmpico Espa\u00f1ol y Telef\u00f3nica y tienen...",
-            "date": "2015-04-17",
-            "author_name": "Comunicacion",
-            "categories": "triatlon",
-            "tags": "espa\u00f1oles,participantes,cuatro,triatl\u00f3n,triatletas,g\u00f3mez,hern\u00e1ndez",
-            "recuweb_url": "http://es.recuweb.com/triatlon/triatlon.org/2015/04/seis-abanderados-espa%C3%B1oles-en-las-competiciones-de-triatl%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=triatlon%2Btriatlon&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://triatlon.org/triweb/index.php/2015/04/17/seis-abanderados-espanoles-en-las-competiciones-de-triatlon-de-baku-2015/"
         }
     }
 }

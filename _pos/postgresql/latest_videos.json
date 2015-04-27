@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "postgresql",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/postgresql/",
@@ -10,12 +11,34 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/tutorial-02-django-1-8-configurando-postgresql": {
+            "title": "Tutorial 02 Django 1.8 [Configurando PostGreSQL]...",
+            "snippet": "Tutorial 02 Django 1.8 Configurando PostGreSQL Hola amigos! En este video veremos c\u00f3mo configurar PostGreSQL con nuestro proyecto KeyFlavor escrito en Django. El c\u00f3digo de cada video lo podr\u00e1n encontrar en mi cuenta de github: httpsgit... From:...",
+            "date": "2015-04-03",
+            "author_name": "Alex Dzul",
+            "tags": "tutorial,django,gresql",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2015/04/tutorial-02-django-1-8-configurando-postgresql",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=usiYGCHB6U4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/usiYGCHB6U4/0.jpg"
+        },
+        "youtube.com/2015/03/postgresql-version-descarga-instalaci%C3%B3n-y-configuraci%C3%B3n": {
+            "title": "PostgreSql Version Descarga instalaci\u00f3n y configuraci\u00f3n...",
+            "snippet": "PostgreSql Version Descarga instalaci\u00f3n y configuraci\u00f3n Saludos cordiales. Mi nombre es Luis Fernando Guti\u00e9rrez V\u00e9lez. En esta v\u00eddeo charla descargamos, instalamos y configuramos el gestor de base de datos PostgreSql Version para Microsoft...",
+            "date": "2015-03-17",
+            "author_name": "ingenieroluisfer",
+            "tags": "gresql,base,datos,v\u00eddeo,luis,instalaci\u00f3n,descarga",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2015/03/postgresql-version-descarga-instalaci%C3%B3n-y-configuraci%C3%B3n",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=tTP_kUV3z8A&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tTP_kUV3z8A/0.jpg"
+        },
         "dailymotion.com/2014/11/4-conexi%C3%B3n-de-django-con-postgresql-curso-pro-1-6": {
             "title": "4 Conexi\u00f3n de Django con PostgreSQL - Curso PRO de Django 1.6...",
             "snippet": "Curso PRO de Django: ReportajesDocumentalesTags: Curso de Django Posted: 25 November 2014Rating:: 0...",
             "date": "2014-11-25",
             "author_name": "ReportajesDocumentales",
-            "tags": "curso,conexi\u00f3n,gresql",
+            "tags": "curso,django,gresql",
             "recuweb_url": "http://es.recuweb.com/dailymotion.com/2014/11/4-conexi%C3%B3n-de-django-con-postgresql-curso-pro-1-6",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/postgresql+postgresql/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b0ksz_4-conexion-de-django-con-postgresql-curso-pro-de-django-1-6_school",
@@ -23,7 +46,7 @@
         },
         "youtube.com/2014/10/crear-tablas-y-relaciones-con-postgresql": {
             "title": "Crear tablas y relaciones con Postgresql...",
-            "snippet": "Crear tablas y relaciones con Postgresql From: Andres Rico Views: 514 0 ratings Time: 10:56 More in People & Blogs...",
+            "snippet": "Crear tablas y relaciones con Postgresql From: Andres Rico Views: 1274 5 ratings Time: 10:56 More in People & Blogs...",
             "date": "2014-10-17",
             "author_name": "Andres Rico",
             "tags": "crear,gresql,people",
@@ -32,97 +55,73 @@
             "source_url": "http://youtube.com/watch?v=hXoLB2u2UT0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/hXoLB2u2UT0/0.jpg"
         },
-        "youtube.com/2014/10/creacion-de-permisos-y-usuarios-en-postgresql": {
-            "title": "CREACION DE PERMISOS Y USUARIOS EN POSTGRESQL...",
-            "snippet": "CREACION DE PERMISOS Y USUARIOS EN POSTGRESQL From: LOURDES DE LA CRUZ Views: 483 0 ratings Time: 18:31 More in Film & Animation...",
-            "date": "2014-10-02",
-            "author_name": "LOURDES DE LA CRUZ",
-            "tags": "lourdes,gresql",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/10/creacion-de-permisos-y-usuarios-en-postgresql",
+        "youtube.com/2014/10/registros-de-excel-a-postgresql": {
+            "title": "Registros de Excel a PostgreSQL...",
+            "snippet": "Registros de Excel a PostgreSQL Importar registros almacenados en un archivo de Excel a una tabla perteneciente a una base de datos en Postgres. From: Juan Carlos Quispe Views: 742 7 ratings Time: 04:16 More in People & Blogs...",
+            "date": "2014-10-13",
+            "author_name": "Juan Carlos Quispe",
+            "categories": "base-de-datos",
+            "tags": "base,base-de-datos,datos,gresql,people",
+            "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2014/10/registros-de-excel-a-postgresql",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=MW6WUC08ziQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/MW6WUC08ziQ/0.jpg"
+            "source_url": "http://youtube.com/watch?v=qdf1uVrpvKI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/qdf1uVrpvKI/0.jpg"
         },
         "youtube.com/2014/06/curso-de-programaci%C3%B3n-y-bases-datos-v%C3%ADdeo-2-postgresql": {
             "title": "Curso de Programaci\u00f3n y Bases de Datos- V\u00eddeo 2 - PostgreSQL...",
-            "snippet": "Curso de Programaci\u00f3n y Bases de Datos- V\u00eddeo 2 - PostgreSQL Segundo v\u00eddeo de nuestro curso de programaci\u00f3n y bases de datos. V\u00eddeo dedicado a la base de datos PostgreSQL Caracter\u00edsticas de PostgreSQL. Instalaci\u00f3n en W... From: DPSistem...",
+            "snippet": "Curso de Programaci\u00f3n y Bases de Datos- V\u00eddeo 2 - PostgreSQL Segundo v\u00eddeo de nuestro curso de programaci\u00f3n y bases de datos. V\u00eddeo dedicado a la base de datos PostgreSQL Caracter\u00edsticas de PostgreSQL. Instalaci\u00f3n en Windows. Instalaci\u00f3n en...",
             "date": "2014-06-30",
             "author_name": "DPSistem",
             "categories": "base-de-datos",
-            "tags": "base,base-de-datos,datos,v\u00eddeo,curso,gresql",
+            "tags": "base,base-de-datos,datos,v\u00eddeo,curso,gresql,instalaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2014/06/curso-de-programaci%C3%B3n-y-bases-datos-v%C3%ADdeo-2-postgresql",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=89UmbYfCTmI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/89UmbYfCTmI/0.jpg"
         },
+        "youtube.com/2014/06/descargar-y-instalar-postgresql-64-bits": {
+            "title": "Descargar y Instalar PostGreSQL 64 bits...",
+            "snippet": "Descargar y Instalar PostGreSQL 64 bits Link de descarga: From: Migue Arias Views: 429 3 ratings Time: 04:13 More in People & Blogs...",
+            "date": "2014-06-29",
+            "author_name": "Migue Arias",
+            "tags": "descarga,gresql,people",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/06/descargar-y-instalar-postgresql-64-bits",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Zt563K43i_0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Zt563K43i_0/0.jpg"
+        },
         "youtube.com/2014/05/transacciones-en-postgresql": {
             "title": "transacciones en postgresql...",
-            "snippet": "transacciones en postgresql Se trata de un tutorial para principiantes de como realizar transacciones en postgresql desde la consola. From: Luis Pedro G. Views: 336 4 ratings Time: 13:13 More in Education...",
+            "snippet": "transacciones en postgresql Se trata de un tutorial para principiantes de como realizar transacciones en postgresql desde la consola. From: Luis Pedro G. Views: 371 4 ratings Time: 13:13 More in Education...",
             "date": "2014-05-27",
             "author_name": "Luis Pedro G.",
-            "tags": "gresql,tutorial,education",
+            "tags": "luis,gresql,tutorial,education",
             "recuweb_url": "http://es.recuweb.com/youtube.com/2014/05/transacciones-en-postgresql",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=r5jW9zQxZSo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/r5jW9zQxZSo/0.jpg"
         },
-        "youtube.com/2014/01/conexi%C3%B3n-de-postgresql-con-java-netbeans": {
-            "title": "conexi\u00f3n de postgreSQL con JAVA - Netbeans...",
-            "snippet": "conexi\u00f3n de postgreSQL con JAVA - Netbeans Establecer conexi\u00f3n entre java-Netbeans y Postgresql Aqu\u00ed les dejo el enlace del archivo.txt From: Adictos al conocimiento Views: 3571 40 ratings Time: 20:33 More in Education...",
-            "date": "2014-01-05",
-            "author_name": "Adictos al conocimiento",
-            "categories": "conocimiento,java",
-            "tags": "conexi\u00f3n,gresql,netbeans,education",
-            "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/01/conexi%C3%B3n-de-postgresql-con-java-netbeans",
+        "youtube.com/2014/05/creaci%C3%B3n-de-triggers-en-base-datos-postgresql-como-crear-trigger": {
+            "title": "Creaci\u00f3n de Triggers en Base de Datos Postgresql Como crear trigger en postgresql...",
+            "snippet": "Creaci\u00f3n de Triggers en Base de Datos Postgresql Como crear trigger en postgresql Video Tutorial para la creaci\u00f3n de triggers o disparadores en Base de Datos Postgresql. From: TrucosJen Jen Views: 2843 31 ratings Time: 08:38 More in Science &...",
+            "date": "2014-05-01",
+            "author_name": "TrucosJen Jen",
+            "tags": "tutorial,crear,base,datos,gresql",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/05/creaci%C3%B3n-de-triggers-en-base-datos-postgresql-como-crear-trigger",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=deGN5g20K_Q&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/deGN5g20K_Q/0.jpg"
-        },
-        "youtube.com/2013/10/tutorial-netbeans-con-conexion-a-postgres": {
-            "title": "TUTORIAL NETBEANS CON CONEXION A POSTGRES...",
-            "snippet": "TUTORIAL NETBEANS CON CONEXION A POSTGRES Este es un tutorial para crear una aplicaci\u00f3n en netbeans y conectar a una base de datos en postgresql. From: Lourdes Recalde Views: 4805 11 ratings Time: 29:46 More in People & Blogs...",
-            "date": "2013-10-31",
-            "author_name": "Lourdes Recalde",
-            "categories": "base-de-datos",
-            "tags": "lourdes,tutorial,crear,netbeans,base,base-de-datos,datos,gresql,people",
-            "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2013/10/tutorial-netbeans-con-conexion-a-postgres",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=WqaE6bDCVcg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/WqaE6bDCVcg/0.jpg"
-        },
-        "youtube.com/2013/10/5-postgresql-clave-primaria-externa-unique-check": {
-            "title": "5 Postgresql clave primaria, clave externa,unique, check...",
-            "snippet": "5 Postgresql clave primaria, clave externa,unique, check PostgreSQL: clave primaria, clave ajena, not null, unique, check. From: emt7 Views: 1371 1 ratings Time: 04:18 More in Education...",
-            "date": "2013-10-30",
-            "author_name": "emt7",
-            "tags": "gresql,emt,education",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2013/10/5-postgresql-clave-primaria-externa-unique-check",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=oDQhu3UlALs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/oDQhu3UlALs/0.jpg"
+            "source_url": "http://youtube.com/watch?v=uWWFTVX4zjg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/uWWFTVX4zjg/0.jpg"
         },
         "youtube.com/2013/10/4-postgresql-insertar-actualizar-eliminar-datos": {
             "title": "4 Postgresql insertar, actualizar, eliminar datos...",
-            "snippet": "4 Postgresql insertar, actualizar, eliminar datos Postgresql. insertar, actualizar, eliminar datos. From: emt7 Views: 1970 6 ratings Time: 02:47 More in Education...",
+            "snippet": "4 Postgresql insertar, actualizar, eliminar datos Postgresql. insertar, actualizar, eliminar datos. From: emt7 Views: 2230 6 ratings Time: 02:47 More in Education...",
             "date": "2013-10-28",
             "author_name": "emt7",
-            "tags": "datos,gresql,emt,education",
+            "tags": "datos,gresql,education",
             "recuweb_url": "http://es.recuweb.com/youtube.com/2013/10/4-postgresql-insertar-actualizar-eliminar-datos",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=m7ZfeHW1Px8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/m7ZfeHW1Px8/0.jpg"
-        },
-        "youtube.com/2013/08/crear-base-de-datos-en-postgresql": {
-            "title": "CREAR BASE DE DATOS EN POSTGRESQL...",
-            "snippet": "CREAR BASE DE DATOS EN POSTGRESQL En este v\u00eddeo se ense\u00f1a como crear una Base de datos de forma f\u00e1cil y r\u00e1pida en PostgreSQL a trav\u00e9s del pgAdmin III, de igual forma tambi\u00e9n se ense\u00f1a como cr... From: Oscar Alejandro Velasco Mera Views: 5353...",
-            "date": "2013-08-12",
-            "author_name": "Oscar Alejandro Velasco Mera",
-            "categories": "base-de-datos",
-            "tags": "datos,v\u00eddeo,crear,base,gresql",
-            "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2013/08/crear-base-de-datos-en-postgresql",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=g4DIBxp94_k&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/g4DIBxp94_k/0.jpg"
         }
     }
 }

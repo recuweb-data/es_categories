@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "karate",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/karate/",
@@ -10,103 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/karate/karate/blogs.json"
     },
     "items": {
-        "lavozdemichoacan.com.mx/2015/04/montserrat-competir%C3%A1-en-el-campeonato-centroamericano-y-del-la-voz": {
-            "title": "Montserrat competir\u00e1 en el Campeonato Centroamericano y del... - La Voz de Michoac\u00e1n...",
-            "snippet": "La Voz de Michoac\u00e1nMontserrat competir\u00e1 en el Campeonato Centroamericano y del...La Voz de Michoac\u00e1nCon la ilusi\u00f3n de lograr su primera medalla a nivel internacional, este jueves, la karateca michoacana, Montserrat Archundia Campos, competir\u00e1...",
-            "date": "2015-04-16",
-            "tags": "archundia,campos,karateca,karateca-michoacana,michoacana,jueves,nivel,campeonato,competir\u00e1,montserrat,michoac\u00e1n",
-            "recuweb_url": "http://es.recuweb.com/lavozdemichoacan.com.mx/2015/04/montserrat-competir%C3%A1-en-el-campeonato-centroamericano-y-del-la-voz",
-            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
-            "source_url": "http://lavozdemichoacan.com.mx/223631/montserrat-competira-en-el-campeonato-centroamericano-y-del-caribe-de-karate-do/"
-        },
-        "elcomercio.es/2015/04/el-k%C3%A1rate-y-l-a-ruta-del-sella-toman-arriondas": {
-            "title": "El k\u00e1rate y l a ruta del Sella toman Arriondas...",
-            "snippet": "El polideportivo de Arriondas acogi\u00f3 el pasado s\u00e1bado el tercer Trofeo de K\u00e1rate de la capital parraguesa, que cont\u00f3 con la participaci\u00f3n de m\u00e1s de 200 competidores de todas las edades, entre los 4 y los 50 a\u00f1os. Tambi\u00e9n Arriondas fue el...",
-            "date": "2015-04-15",
+        "diariodelosandes.com/2015/04/dojo-wilmer-pi%C3%B1ango-se-destac%C3%B3-en-xiv-nacional-de-karate": {
+            "title": "Dojo Wilmer Pi\u00f1ango se destac\u00f3 en XIV Nacional de Karate Do - Diario de Los Andes...",
+            "snippet": "Diario de Los AndesDojo Wilmer Pi\u00f1ango se destac\u00f3 en XIV Nacional de Karate DoDiario de Los AndesCon una participaci\u00f3n de siete atletas, el Dojo de Karate Do, Wilmer Pi\u00f1ango, asisti\u00f3 al XIV Campeonato Nacional Copa Maestro Kazuo Wada que se...",
+            "date": "2015-04-23",
             "categories": "karate",
-            "recuweb_url": "http://es.recuweb.com/karate/elcomercio.es/2015/04/el-k%C3%A1rate-y-l-a-ruta-del-sella-toman-arriondas",
+            "tags": "campeonato,nacional,participaci\u00f3n,karate,dojo,diario",
+            "recuweb_url": "http://es.recuweb.com/karate/diariodelosandes.com/2015/04/dojo-wilmer-pi%C3%B1ango-se-destac%C3%B3-en-xiv-nacional-de-karate",
+            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
+            "source_url": "http://diariodelosandes.com/index.php?r=site/noticiadeportes&id=2764"
+        },
+        "oem.com.mx/2015/04/morelos-espera-medalla-en-karate-y-tae-kwon-do-el-sol": {
+            "title": "Morelos espera medalla en Karate y Tae Kwon Do - El Sol de Cuernavaca...",
+            "snippet": "El Sol de CuernavacaMorelos espera medalla en Karate y Tae Kwon DoEl Sol de CuernavacaLa taekwondo\u00edn Mitzi Carrillo viene de ganar en Korea y espera dar presea a Morelos durante su participaci\u00f3n en la Olimpiada Nacional, as\u00ed lo se\u00f1al\u00f3 durante...",
+            "date": "2015-04-23",
+            "categories": "karate",
+            "tags": "nacional,participaci\u00f3n,espera,tae,kwon,sol,karate,cuernavaca",
+            "recuweb_url": "http://es.recuweb.com/karate/oem.com.mx/2015/04/morelos-espera-medalla-en-karate-y-tae-kwon-do-el-sol",
+            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
+            "source_url": "http://oem.com.mx/elsoldecuernavaca/notas/n3782347.htm"
+        },
+        "eldiariodeguayana.com.ve/2015/04/campeonato-centro-oriental-de-karate-ya-tiene-sede-el-diario-guayana": {
+            "title": "Campeonato Centro-Oriental de Karate ya tiene sede - El Diario de Guayana...",
+            "snippet": "Campeonato Centro-Oriental de Karate ya tiene sedeEl Diario de GuayanaEl m\u00e1ximo representante del karate en la regi\u00f3n, explic\u00f3, que tuvieron una reuni\u00f3n con el presidente del Instituto de Deportes del estado Bol\u00edvar (Idebol), Miguel Cambero, el...",
+            "date": "2015-04-22",
+            "categories": "karate",
+            "tags": "representante,diario,campeonato,karate,deportes",
+            "recuweb_url": "http://es.recuweb.com/karate/eldiariodeguayana.com.ve/2015/04/campeonato-centro-oriental-de-karate-ya-tiene-sede-el-diario-guayana",
+            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
+            "source_url": "http://eldiariodeguayana.com.ve/deportes/14102-campeonato-centro-oriental-de-karate-ya-tiene-sede.html"
+        },
+        "sevilla.abc.es/2015/04/c%C3%B3rdoba-acoge-el-campeonato-de-espa%C3%B1a-k%C3%A1rate-en-vista-alegre": {
+            "title": "C\u00f3rdoba acoge el Campeonato de Espa\u00f1a de k\u00e1rate en Vista Alegre...",
+            "snippet": "y el Delegado Provincial de Karate, C\u00e9sar Mart\u00ednez. Con motivo del Nacional de k\u00e1rate, la Delegaci\u00f3n Cordobesa est\u00e1 preparando una exhibici\u00f3n en la cual participar\u00e1n m\u00e1s de cien karatecas de la provincia. Dicha demostraci\u00f3n tendr\u00e1 lugar...",
+            "date": "2015-04-22",
+            "categories": "karate",
+            "tags": "exhibici\u00f3n,k\u00e1rate,karate,campeonato,nacional",
+            "recuweb_url": "http://es.recuweb.com/karate/sevilla.abc.es/2015/04/c%C3%B3rdoba-acoge-el-campeonato-de-espa%C3%B1a-k%C3%A1rate-en-vista-alegre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karate&format=RSS&cc=es",
-            "source_url": "http://elcomercio.es/asturias/oriente/201504/16/karate-ruta-sella-toman-20150416002847-v.html"
+            "source_url": "http://sevilla.abc.es/andalucia/cordoba/20150422/sevi-karate-campeonato-cordoba-201504221257.html"
         },
-        "diarioeltiempo.com.ve/2015/04/en-marcha-masificaci%C3%B3n-del-karate-do-valera-diario-el-tiempo": {
-            "title": "En marcha masificaci\u00f3n del Karate Do en Valera - Diario El Tiempo...",
-            "snippet": "En marcha masificaci\u00f3n del Karate Do en ValeraDiario El TiempoDimas Albornoz/CNP - Con la incorporaci\u00f3n del licenciado Froil\u00e1n Mart\u00ednez como promotor deportivo del IAMD Valera, los d\u00edas martes y jueves de 6 a 7 de la noche contin\u00faan las clases...",
-            "date": "2015-04-15",
-            "categories": "karate",
-            "tags": "clases,d\u00edas,martes,jueves,deportivo,karate",
-            "recuweb_url": "http://es.recuweb.com/karate/diarioeltiempo.com.ve/2015/04/en-marcha-masificaci%C3%B3n-del-karate-do-valera-diario-el-tiempo",
-            "resource_url": "http://news.google.es/?hl=es&q=karate%2Bkarate&output=atom&nord=1",
-            "source_url": "http://diarioeltiempo.com.ve/V3_Secciones/index.php?id=53102015&_Proc=Desp"
-        },
-        "pueblanoticias.com.mx/2015/04/equipo-mexicano-de-karate-do-competir%C3%A1-en-europa-rumbo-a-puebla": {
-            "title": "Equipo Mexicano de Karate Do Competir\u00e1 en Europa, Rumbo a... - Puebla Noticias...",
-            "snippet": "Puebla NoticiasEquipo Mexicano de Karate Do Competir\u00e1 en Europa, Rumbo a...Puebla NoticiasPrevio a dicha competencia, tendr\u00e1 tres campamentos, los cuales ser\u00e1n una muy buena oportunidad para observar algunos de los rivales con los que se ver\u00e1n...",
-            "date": "2015-04-15",
-            "categories": "karate",
-            "tags": "karate,competir\u00e1,equipo",
-            "recuweb_url": "http://es.recuweb.com/karate/pueblanoticias.com.mx/2015/04/equipo-mexicano-de-karate-do-competir%C3%A1-en-europa-rumbo-a-puebla",
+        "oem.com.mx/2015/04/en-karate-y-tae-kwon-do-con-buenas-cartas-esperan-preseas": {
+            "title": "En karate y en tae kwon do con buenas cartas esperan preseas - El Sol de Cuernavaca...",
+            "snippet": "El Sol de CuernavacaEn karate y en tae kwon do con buenas cartas esperan preseasEl Sol de CuernavacaListos para entrar en el \"deporte ciencia\" con Areli Jazm\u00edn De Loera Ben\u00edtez en quien se espera pueda llegar muy lejos, pero tambi\u00e9n en Karate Do...",
+            "date": "2015-04-22",
+            "categories": "deporte,ciencia,karate",
+            "tags": "espera,deporte,sol,tae,kwon,karate,cuernavaca",
+            "recuweb_url": "http://es.recuweb.com/karate/oem.com.mx/2015/04/en-karate-y-tae-kwon-do-con-buenas-cartas-esperan-preseas",
             "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
-            "source_url": "http://pueblanoticias.com.mx/noticia/equipo-mexicano-de-karate-do-competira-en-europa-rumbo-a-toronto-2015-67699/"
+            "source_url": "http://oem.com.mx/elsoldecuernavaca/notas/n3781201.htm"
         },
-        "digitallpost.mx/2015/04/equipo-de-karate-do-empieza-preparaci%C3%B3n-para-jp-toronto-2015": {
-            "title": "Equipo de karate do empieza preparaci\u00f3n para JP Toronto 2015...",
-            "snippet": "Categor\u00edas: karate do selecci\u00f3n mexicana Juegos Panamericanos Toronto 2015 preparaci\u00f3n Francia Par\u00eds segunda Copa Intercontinental Espa\u00f1a selecci\u00f3n femenil Guadalupe Quintanal Cecilia Cu\u00e9llar Merillela Arreola Con el objetivo de llegar con...",
-            "date": "2015-04-15",
+        "lasprovincias.es/2015/04/lidia-soriano-del-multi-sport-de-carlet-bronce-en-el-europeo": {
+            "title": "Lidia Soriano, del Multi-Sport de Carlet, bronce en el europeo de karate celebrado en Polonia...",
+            "snippet": "La carletense Lidia Soriano logr\u00f3 el bronce en el campeonato de Europa de karate celebrado en Polonia en la categor\u00eda de kumit\u00e9. Arturo P\u00e9rez y Adri\u00e1n G\u00f3mez, tambi\u00e9n del Gimnasio Multi-Sport de Carlet, consiguieron clasificarse entre los 8 y...",
+            "date": "2015-04-22",
             "categories": "karate",
-            "tags": "selecci\u00f3n,mexicana,equipo,karate",
-            "recuweb_url": "http://es.recuweb.com/karate/digitallpost.mx/2015/04/equipo-de-karate-do-empieza-preparaci%C3%B3n-para-jp-toronto-2015",
+            "tags": "campeonato,karate",
+            "recuweb_url": "http://es.recuweb.com/karate/lasprovincias.es/2015/04/lidia-soriano-del-multi-sport-de-carlet-bronce-en-el-europeo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karate&format=RSS&cc=es",
-            "source_url": "http://digitallpost.mx/noticias-detalle.php?contenido_id=81854&seccion_id=205"
+            "source_url": "http://lasprovincias.es/ribera-costera/201504/23/lidia-soriano-multi-sport-20150422235655-v.html"
         },
-        "cre.com.ec/2015/04/karatecas-sobresalieron-el-i-torneo-nacional-de-karate-cre": {
-            "title": "Karatecas sobresalieron el I Torneo Nacional de Karate - CRE...",
-            "snippet": "CREKaratecas sobresalieron el I Torneo Nacional de KarateCREGuayaquil.- Pichincha, Guayas y Azuay sobresalieron en el I Campeonato Nacional de Karate que se disput\u00f3 en el Complejo Deportivo Roberto Gilbert de Guayaquil, del 9 al 12 de abril. El...",
-            "date": "2015-04-15",
+        "diariovasco.com/2015/04/andoni-mart%C3%ADn-se-proclam%C3%B3-campe%C3%B3n-de-gipuzkoa-karate": {
+            "title": "Andoni Mart\u00edn se proclam\u00f3 campe\u00f3n de Gipuzkoa de karate...",
+            "snippet": "Hondarribia acogi\u00f3 el Campeonato de Gipuzkoa de karate en las categor\u00edas alev\u00edn, infantil y cadete. A dicho torneo acudieron varios representantes de la secci\u00f3n de k\u00e1rate de la UDA. En la categor\u00eda alev\u00edn el representante atxabaltarra fue...",
+            "date": "2015-04-21",
             "categories": "karate",
-            "tags": "abril,deportivo,roberto,campeonato,karatecas,karate,guayaquil",
-            "recuweb_url": "http://es.recuweb.com/karate/cre.com.ec/2015/04/karatecas-sobresalieron-el-i-torneo-nacional-de-karate-cre",
-            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
-            "source_url": "http://cre.com.ec/noticia/96787/karatecas-sobresalieron-el-i-torneo-nacional-de-karate/"
-        },
-        "infocostatropical.com/2015/04/la-%C3%A9lite-del-karate-entrena-en-granada": {
-            "title": "La \u00e9lite del Karate entrena en Granada...",
-            "snippet": "Nuevamente Granada se ha situado en el centro del panorama andaluz de Karate con las actividades que tanto la delegaci\u00f3n, la Federaci\u00f3n y sus clubes organizan en nuestra provincia. Una muestra de que el nivel de nuestra provincia se sit\u00faa cada...",
-            "date": "2015-04-15",
-            "categories": "karate",
-            "tags": "nivel,karate",
-            "recuweb_url": "http://es.recuweb.com/karate/infocostatropical.com/2015/04/la-%C3%A9lite-del-karate-entrena-en-granada",
+            "tags": "representante,torneo,k\u00e1rate,karate,campe\u00f3n,campeonato",
+            "recuweb_url": "http://es.recuweb.com/karate/diariovasco.com/2015/04/andoni-mart%C3%ADn-se-proclam%C3%B3-campe%C3%B3n-de-gipuzkoa-karate",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karate&format=RSS&cc=es",
-            "source_url": "http://infocostatropical.com/noticia.asp?id=62797&id_area=1&area=portada&id_seccion=2&seccion=Almu\u00f1\u00e9car"
+            "source_url": "http://diariovasco.com/alto-deba/201504/22/andoni-martin-proclamo-campeon-20150422000706-v.html"
         },
-        "cambiodemichoacan.com.mx/2015/04/montserrat-archundia-quiere-destacar-en-el-campeonato-cambio-de-michoac%C3%A1n": {
-            "title": "Montserrat Archundia quiere destacar en el Campeonato... - Cambio de Michoac\u00e1n...",
-            "snippet": "Montserrat Archundia quiere destacar en el Campeonato...Cambio de Michoac\u00e1nMorelia, Michoac\u00e1n.- La karateca michoacana Montserrat Archundia Campos, viaj\u00f3 este martes con la Selecci\u00f3n Mexicana de Karate con destino a San Salvador, El Salvador,...",
-            "date": "2015-04-15",
+        "lapatriaenlinea.com/2015/04/campeonato-selectivo-de-karate-municipal-se-cumpli%C3%B3-con-%C3%A9xito-la-patria": {
+            "title": "Campeonato selectivo de karate municipal se cumpli\u00f3 con \u00e9xito - La Patria (Bolivia)...",
+            "snippet": "La Patria (Bolivia)Campeonato selectivo de karate municipal se cumpli\u00f3 con \u00e9xitoLa Patria (Bolivia)El primer campeonato selectivo de karate, se llev\u00f3 adelante en medio de bastante expectativa este domingo en horas de la tarde, en la cancha ELEC...",
+            "date": "2015-04-21",
             "categories": "karate",
-            "tags": "selecci\u00f3n,mexicana,martes,karateca,karateca-michoacana,michoacana,montserrat,archundia,campeonato,michoac\u00e1n,campos,karate",
-            "recuweb_url": "http://es.recuweb.com/karate/cambiodemichoacan.com.mx/2015/04/montserrat-archundia-quiere-destacar-en-el-campeonato-cambio-de-michoac%C3%A1n",
+            "tags": "campeonato,karate",
+            "recuweb_url": "http://es.recuweb.com/karate/lapatriaenlinea.com/2015/04/campeonato-selectivo-de-karate-municipal-se-cumpli%C3%B3-con-%C3%A9xito-la-patria",
             "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
-            "source_url": "http://cambiodemichoacan.com.mx/nota-251127"
+            "source_url": "http://lapatriaenlinea.com/?t=campeonato-selectivo-de-karate-municipal-se-cumplio-con-exito&nota=217848"
         },
-        "andaluciainformacion.es/2015/04/ra%C3%BAl-pereira-garrido-incluido-en-la-selecci%C3%B3n-espa%C3%B1ola-de-karate": {
-            "title": "Ra\u00fal Pereira Garrido, incluido en la selecci\u00f3n espa\u00f1ola de karate...",
-            "snippet": "El joven karateca del Club Montes Ra\u00fal Pereira Garrido ha sido incluido en la selecci\u00f3n espa\u00f1ola de karate, con la que tomar\u00e1 parte entre los d\u00edas 19 al 24 de abril en los Rumi Kids Sport Games International que se celebran en la ciudad turca...",
-            "date": "2015-04-15",
+        "deportesrcn.com/2015/04/colombia-tercera-en-el-torneo-centroamericano-de-karate-deportes-rcn-comunicado": {
+            "title": "Colombia, tercera en el Torneo Centroamericano de Karate - Deportes RCN (Comunicado de prensa)...",
+            "snippet": "Deportes RCN (Comunicado de prensa) (Registro) (blog)Colombia, tercera en el Torneo Centroamericano de KarateDeportes RCN (Comunicado de prensa) (Registro) (blog)Colombia consigui\u00f3 el tercer puesto en el Campeonato Centroamericano y del Caribe de...",
+            "date": "2015-04-21",
             "categories": "karate",
-            "tags": "abril,d\u00edas,selecci\u00f3n,karateca,karate",
-            "recuweb_url": "http://es.recuweb.com/karate/andaluciainformacion.es/2015/04/ra%C3%BAl-pereira-garrido-incluido-en-la-selecci%C3%B3n-espa%C3%B1ola-de-karate",
+            "tags": "campeonato,deportes,torneo,karate",
+            "recuweb_url": "http://es.recuweb.com/karate/deportesrcn.com/2015/04/colombia-tercera-en-el-torneo-centroamericano-de-karate-deportes-rcn-comunicado",
+            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
+            "source_url": "http://deportesrcn.com/noticia-articulo/colombia-tercera-en-el-torneo-centroamericano-de-karate-deportes-36359"
+        },
+        "aztecanoticias.com.mx/2015/04/karate-en-el-senado-honor-a-jap%C3%B3n": {
+            "title": "Karate en el Senado en honor a Jap\u00f3n...",
+            "snippet": "M\u00e9xico, DF.- Una exhibici\u00f3n de Karate se dio en el Senado de la Rep\u00fablica. No se trat\u00f3 del esperado encontronazo entre legisladores de izquierda y derecha por las reformas pendientes sino de una actividad cultural propia del marco del acto...",
+            "date": "2015-04-21",
+            "categories": "karate",
+            "tags": "exhibici\u00f3n,karate",
+            "recuweb_url": "http://es.recuweb.com/karate/aztecanoticias.com.mx/2015/04/karate-en-el-senado-honor-a-jap%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karate&format=RSS&cc=es",
-            "source_url": "http://andaluciainformacion.es/alcala-la-real/497724/raul-pereira-garrido-incluido-en-la-seleccion-espanola-de-karate/"
-        },
-        "lostiempos.com/2015/04/beltr%C3%A1n-y-grimaldis-se-clasifican-al-mundial-de-karate-los-tiempos": {
-            "title": "Beltr\u00e1n y Grimaldis se clasifican al Mundial de karate - Los Tiempos...",
-            "snippet": "Beltr\u00e1n y Grimaldis se clasifican al Mundial de karateLos TiemposLos karatecas bolivianos Eivind Beltr\u00e1n y Marco Antonio Grimaldis se clasificaron este fin de semana al Mundial, a efectuarse a fin de a\u00f1o en Tokio, Jap\u00f3n, despu\u00e9s de su...",
-            "date": "2015-04-14",
-            "categories": "karate",
-            "tags": "karatecas,karate",
-            "recuweb_url": "http://es.recuweb.com/karate/lostiempos.com/2015/04/beltr%C3%A1n-y-grimaldis-se-clasifican-al-mundial-de-karate-los-tiempos",
-            "resource_url": "http://news.google.es/?hl=es&q=karate&output=atom&nord=1",
-            "source_url": "http://lostiempos.com/diario/actualidad/deportes/20150413/beltran-y-grimaldis-se-clasifican-al-mundial-de_298088_658275.html"
+            "source_url": "http://aztecanoticias.com.mx/notas/mexico/218871/karate-en-el-senado-en-honor-a-japon"
         }
     }
 }

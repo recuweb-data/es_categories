@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "servicios-telefonicos",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-telefonicos/",
@@ -10,32 +11,33 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-telefonicos/servicios-telefonicos/blogs.json"
     },
     "items": {
-        "aimdigital.com.ar/2015/03/18-de-marzo-d%C3%ADa-del-trabajador-telef%C3%B3nico-aim-digital": {
-            "title": "18 de marzo/D\u00eda del Trabajador Telef\u00f3nico - AIM Digital...",
-            "snippet": "AIM Digital18 de marzo/D\u00eda del Trabajador Telef\u00f3nicoAIM DigitalEl 18 de marzo de 1948, el gobierno de Juan Domingo Per\u00f3n, decidi\u00f3 nacionalizar los servicios telef\u00f3nicos y la Empresa Mixta Telef\u00f3nica Argentina (Emta) fue incorporada al Estado.",
-            "date": "2015-03-16",
-            "tags": "telef\u00f3nica,marzo,telef\u00f3nicos,servicios,estado",
-            "recuweb_url": "http://es.recuweb.com/aimdigital.com.ar/2015/03/18-de-marzo-d%C3%ADa-del-trabajador-telef%C3%B3nico-aim-digital",
+        "entornointeligente.com/2015/04/espa%C3%B1a-hacienda-alerta-sobre-la-picaresca-del-negocio-telef%C3%B3nico-entornointeligente": {
+            "title": "ESPA\u00d1A: Hacienda alerta sobre la picaresca del negocio telef\u00f3nico... - EntornoInteligente...",
+            "snippet": "ESPA\u00d1A: Hacienda alerta sobre la picaresca del negocio telef\u00f3nico...EntornoInteligenteLa Agencia Tributaria recuerda que los tel\u00e9fonos de informaci\u00f3n tributaria b\u00e1sica () y otros servicios telef\u00f3nicos son los que aparecen en su portal de...",
+            "date": "2015-04-22",
+            "tags": "alerta,telef\u00f3nicos,informaci\u00f3n,servicios",
+            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/espa%C3%B1a-hacienda-alerta-sobre-la-picaresca-del-negocio-telef%C3%B3nico-entornointeligente",
             "resource_url": "http://news.google.es/?hl=es&q=servicios%2Btelefonicos&output=atom&nord=1",
-            "source_url": "http://aimdigital.com.ar/2015/03/16/18-de-marzo-dia-del-trabajador-telefonico-2/"
+            "source_url": "http://entornointeligente.com/articulo/5736707/ESPANA-Hacienda-alerta-sobre-la-picaresca-del-negocio-telefonico-ajeno-a-la-declaracion-de-la-renta-22042015"
         },
-        "diariopresente.com.mx/2015/03/cuba-y-estados-unidos-restablecen-servicios-telef%C3%B3nicos-diario-presente": {
-            "title": "Cuba y Estados Unidos restablecen servicios telef\u00f3nicos - Diario Presente...",
-            "snippet": "Perlavisi\u00f3n, la tv de Cienfuegos en InternetCuba y Estados Unidos restablecen servicios telef\u00f3nicosDiario PresenteA finales del presente mes de marzo, el coordinador de comunicaciones del Departamento de Estado, Daniel Sep\u00falveda, tiene previsto...",
-            "date": "2015-03-12",
-            "tags": "marzo,estado,cuba,servicios,telef\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/diariopresente.com.mx/2015/03/cuba-y-estados-unidos-restablecen-servicios-telef%C3%B3nicos-diario-presente",
-            "resource_url": "http://news.google.es/?hl=es&q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&output=atom&nord=1",
-            "source_url": "http://diariopresente.com.mx/section/mundo/128604/cuba-estados-unidos-reestablecen-servicios-telefonicos-/"
+        "euroalert.net/2015/04/reino-unido-didcot-servicios-telef%C3%B3nicos-y-de-transmisi%C3%B3n-datos": {
+            "title": "Reino Unido-Didcot: Servicios telef\u00f3nicos y de transmisi\u00f3n de datos...",
+            "snippet": "Ayudamos a las PYMEs con informaci\u00f3n relevante en contratos con el sector p\u00fablico. Ahora puedes suscribirte a nuestras alertas de concursos p\u00fablicos por s\u00f3lo 192/a\u00f1o. No pierdas oportunidades que tus competidores pueden estar aprovechando...",
+            "date": "2015-04-22",
+            "categories": "reino",
+            "tags": "servicios,telef\u00f3nicos,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/reino/euroalert.net/2015/04/reino-unido-didcot-servicios-telef%C3%B3nicos-y-de-transmisi%C3%B3n-datos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Btelefonicos&format=RSS&cc=es",
+            "source_url": "http://euroalert.net/contracts.aspx?idl=2849860"
         },
-        "granma.cu/2015/02/mejoras-en-servicios-telef%C3%B3nicos-y-de-correos-santiago-cuba-granma-internacional": {
-            "title": "Mejoras en servicios telef\u00f3nicos y de correos en Santiago de Cuba - Granma Internacional...",
-            "snippet": "Mejoras en servicios telef\u00f3nicos y de correos en Santiago de CubaGranma InternacionalSANTIAGO DE en servicios de alta sensibilidad para la poblaci\u00f3n como la telefon\u00eda y el correo, comprendidas en los proyectos por el aniversario 62 de la gesta...",
-            "date": "2015-02-24",
-            "tags": "granma,servicios,telef\u00f3nicos,cuba",
-            "recuweb_url": "http://es.recuweb.com/granma.cu/2015/02/mejoras-en-servicios-telef%C3%B3nicos-y-de-correos-santiago-cuba-granma-internacional",
+        "nacion.com/2015/03/ice-deshabilitar%C3%A1-el-1115-para-consultas-sobre-servicios-telef%C3%B3nicos-la-naci%C3%B3n": {
+            "title": "ICE deshabilitar\u00e1 el 1115 para consultas sobre servicios telef\u00f3nicos - La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa RicaICE deshabilitar\u00e1 el 1115 para consultas sobre servicios telef\u00f3nicosLa Naci\u00f3n Costa RicaA partir del 22 de mayo el Instituto Costarricense de Electricidad dejar\u00e1 sin funcionamiento el n\u00famero 1115, el cual estaba habilitado...",
+            "date": "2015-03-30",
+            "tags": "servicios,telef\u00f3nicos,n\u00famero",
+            "recuweb_url": "http://es.recuweb.com/nacion.com/2015/03/ice-deshabilitar%C3%A1-el-1115-para-consultas-sobre-servicios-telef%C3%B3nicos-la-naci%C3%B3n",
             "resource_url": "http://news.google.es/?hl=es&q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&output=atom&nord=1",
-            "source_url": "http://granma.cu/cuba/2015-02-23/mejoras-en-servicios-telefonicos-y-de-correos-en-santiago-de-cuba"
+            "source_url": "http://nacion.com/nacional/servicios-publicos/ICE-deshabilitara-consultas-servicios-telefonicos_0_1478452242.html"
         }
     }
 }

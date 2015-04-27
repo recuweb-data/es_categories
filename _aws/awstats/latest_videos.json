@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "awstats",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/awstats/",
@@ -28,7 +29,7 @@
             "date": "2014-11-15",
             "author_name": "AQPhost",
             "categories": "awstats",
-            "tags": "ver,c\u00f3mo,estad\u00edsticas,awstats",
+            "tags": "hosting,c\u00f3mo,estad\u00edsticas,awstats,plesk",
             "recuweb_url": "http://es.recuweb.com/awstats/youtube.com/2014/11/conociendo-las-estad%C3%ADsticas-awstats-en-plesk",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=-6PDW65t5HQ&feature=youtube_gdata",
@@ -40,7 +41,7 @@
             "date": "2014-09-18",
             "author_name": "Hostingred",
             "categories": "awstats",
-            "tags": "awstats,hostingred,science,technology",
+            "tags": "estadisticas,estadisticas_awstats,awstats,hostingred,science,technology",
             "recuweb_url": "http://es.recuweb.com/awstats/youtube.com/2014/09/21-estadisticas-awstats",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=VhejsGUNAcw&feature=youtube_gdata",
@@ -52,7 +53,7 @@
             "date": "2014-09-05",
             "author_name": "American Dominios",
             "categories": "awstats",
-            "tags": "ver,estad\u00edsticas,awstats",
+            "tags": "estad\u00edsticas,awstats",
             "recuweb_url": "http://es.recuweb.com/awstats/youtube.com/2014/09/registros-ver-estad%C3%ADsticas-en-cpanel-awstats",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=IYM3gL78Bvo&feature=youtube_gdata",
@@ -94,25 +95,13 @@
             "source_url": "http://youtube.com/watch?v=TOpJITjSFGs&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/TOpJITjSFGs/0.jpg"
         },
-        "youtube.com/2014/07/awstats-estad%C3%ADstica-de-sitios-web-en-debian-linux-parte-15": {
-            "title": "AWStats - Estad\u00edstica de sitios Web en Debian Linux (Parte 15)...",
-            "snippet": "AWStats - Estad\u00edstica de sitios Web en Debian Linux (Parte 15) Visita lescifi, nuestro Canal de youtube para tener acceso a los video programas completos. Click aqu\u00ed: Obtener nuestro libro,... From: lescifi Views: 2 0 ratings Time: 08:27 More in...",
-            "date": "2014-07-17",
-            "author_name": "lescifi",
-            "categories": "awstats",
-            "tags": "libro,youtube,youtube-para-tener,tener,tener-acceso,acceso,acceso-los-video,programas,programas-completos,completos,debian,debian_linux,linux,sitios,awstats,estad\u00edstica,web,parte,visita,lescifi,canal,obtener",
-            "recuweb_url": "http://es.recuweb.com/awstats/youtube.com/2014/07/awstats-estad%C3%ADstica-de-sitios-web-en-debian-linux-parte-15",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=2yI4bVPlrG4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2yI4bVPlrG4/0.jpg"
-        },
         "youtube.com/2014/07/awstats-estad%C3%ADstica-de-sitios-web-en-debian-linux-parte-4": {
             "title": "AWStats - Estad\u00edstica de sitios Web en Debian Linux (Parte 4)...",
             "snippet": "AWStats - Estad\u00edstica de sitios Web en Debian Linux (Parte 4) Linux Enterprise Sci-Fi es un show donde aprender\u00e1s paso por paso c\u00f3mo se dise\u00f1a y construye la Infraestructura Tecnol\u00f3gica en la nube de una empresa con ser... From: lescifi Views:...",
             "date": "2014-07-17",
             "author_name": "lescifi",
             "categories": "awstats",
-            "tags": "c\u00f3mo,linux,debian,debian_linux,sitios,awstats,estad\u00edstica,web,parte,lescifi",
+            "tags": "empresa,c\u00f3mo,linux,debian,debian_linux,sitios,awstats,estad\u00edstica,web,parte,lescifi",
             "recuweb_url": "http://es.recuweb.com/awstats/youtube.com/2014/07/awstats-estad%C3%ADstica-de-sitios-web-en-debian-linux-parte-4",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=cJ7OA32ZrFE&feature=youtube_gdata",
@@ -129,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Ovc0SKhhodw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Ovc0SKhhodw/0.jpg"
+        },
+        "youtube.com/2014/06/estadisticas-awstats-plesk": {
+            "title": "Estadisticas AWStats Plesk...",
+            "snippet": "Estadisticas AWStats Plesk Conozca las estadisticas AWStats en su panel de control Plesk. Sintetix, Una empresa de confianza. From: Sintetix Hosting Views: 54 0 ratings Time: 01:18 More in Science & Technology...",
+            "date": "2014-06-02",
+            "author_name": "Sintetix Hosting",
+            "categories": "awstats",
+            "tags": "empresa,estadisticas,estadisticas_awstats,awstats,plesk,hosting,science,technology",
+            "recuweb_url": "http://es.recuweb.com/awstats/youtube.com/2014/06/estadisticas-awstats-plesk",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=qhNYitAkHhc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/qhNYitAkHhc/0.jpg"
         }
     }
 }

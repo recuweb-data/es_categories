@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "regata",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/regata/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/regata/regata/blogs.json"
     },
     "items": {
+        "cartagenaactualidad.com/2015/04/la-regata-spar-sureste-echa-el-cierre-del-acto-ii": {
+            "title": "La Regata Spar Sureste echa el cierre del Acto II de la XXV Vuelta a...",
+            "snippet": "Cerca de 50 barcos crucero se han inscritos en la regata que se celebrar\u00e1 este fin de semana, s\u00e1bado 25 y domingo 26 de abril, en el Real Club de Regatas de.",
+            "date": "2015-04-22",
+            "author_name": "jerolinares",
+            "categories": "regata",
+            "tags": "club,domingo,fin,crucero,inscritos,vuelta,cierre,regatas,regata_spar,regata_spar_sureste,spar,spar_sureste,sureste,echa,acto,barcos,celebrar\u00e1,semana,s\u00e1bado,abril",
+            "recuweb_url": "http://es.recuweb.com/regata/cartagenaactualidad.com/2015/04/la-regata-spar-sureste-echa-el-cierre-del-acto-ii",
+            "resource_url": "http://www.google.com/search?q=regata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cartagenaactualidad.com/2015/04/la-regata-spar-sureste-echa-el-cierre-del-acto-ii-de-la-xxv-vuelta-a-las-islas/"
+        },
         "juanpanews.com/2015/04/album-completo-de-fotos-la-regata-costera-en-itajai-juanpanews": {
             "title": "Album completo de fotos de la regata costera en Itajai Juanpanews...",
             "snippet": "Album completo de fotos de la regata costera en Itajai. Publicado el 19 abril, 2015 por Juanpa Para ver el album completo ir al Facebook de haciendo click ac\u00e1...",
             "date": "2015-04-19",
             "author_name": "Juanpa",
             "categories": "regata,facebook",
-            "tags": "juanpanews,regata,abril",
+            "tags": "haciendo,juanpanews,costera,regata,abril,facebook",
             "recuweb_url": "http://es.recuweb.com/facebook/juanpanews.com/2015/04/album-completo-de-fotos-la-regata-costera-en-itajai-juanpanews",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juanpanews.com/2015/04/album-completo-de-fotos-de-la-regata-costera-en-itajai/"
@@ -27,7 +39,7 @@
             "date": "2015-04-19",
             "author_name": "fremocv",
             "categories": "regata",
-            "tags": "embarcaciones,banco,banco-fijo,fijo,regata,equipos,viento,liga,liga_suma,suma,denia,jornada,hoy,mediterr\u00e1neo,sesenta,dos",
+            "tags": "dos,embarcaciones,banco,banco-fijo,fijo,regata,liga,suma,denia,mediterr\u00e1neo,sesenta",
             "recuweb_url": "http://es.recuweb.com/regata/ligasuma.com/2015/04/la-regata-de-denia-deja-sentenciada-liga-suma",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ligasuma.com/la-regata-de-denia-deja-sentenciada-la-liga-suma-para-muchas-categoria/"
@@ -38,10 +50,21 @@
             "date": "2015-04-18",
             "author_name": "Juanpa",
             "categories": "regata",
-            "tags": "luego,barco,team,juanpanews,regata,hoy",
+            "tags": "barco,espa\u00f1ol,m\u00e1stil,lugar,team,juanpanews,regata",
             "recuweb_url": "http://es.recuweb.com/regata/juanpanews.com/2015/04/juanpanews-en-la-regata-proam-2-a-bordo-del-team-alvimedica",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juanpanews.com/2015/04/juanpanews-en-la-regata-proam-2-a-bordo-del-team-alvimedica/"
+        },
+        "costadelriouruguay.com/2015/04/regata-comodoro-arnaldo-rebot-yacht-club-entrerriano": {
+            "title": "Regata Comodoro Arnaldo Rebot- Yacht Club Entrerriano...",
+            "snippet": "El domingo 26 de abril a las 15 horas, frente a Concepci\u00f3n del Uruguay, el Yacht Club Entrerriano realizar\u00e1 la regata Comodoro Arnaldo Rebot-.. La competencia se regir\u00e1 por el Reglamento de Regatas a Vela...",
+            "date": "2015-04-17",
+            "author_name": "YCE noticias",
+            "categories": "regata",
+            "tags": "club,regatas,domingo,abril",
+            "recuweb_url": "http://es.recuweb.com/regata/costadelriouruguay.com/2015/04/regata-comodoro-arnaldo-rebot-yacht-club-entrerriano",
+            "resource_url": "http://www.google.com/search?q=regata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://costadelriouruguay.com/regata-comodoro-arnaldo-rebot-p-h-r-f/"
         },
         "huelvaya.es/2015/04/cuarta-prueba-de-la-regata-invierno-huelva-ya-noticias": {
             "title": "Cuarta prueba de la regata de invierno Huelva Ya noticias...",
@@ -49,7 +72,7 @@
             "date": "2015-04-16",
             "author_name": "Redactor deportes",
             "categories": "regata",
-            "tags": "tres,club,n\u00e1utico,prueba,regata,s\u00e1bado",
+            "tags": "s\u00e1bado,club,n\u00e1utico,prueba,regata,noticias,\u00fal,orc",
             "recuweb_url": "http://es.recuweb.com/regata/huelvaya.es/2015/04/cuarta-prueba-de-la-regata-invierno-huelva-ya-noticias",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://huelvaya.es/2015/04/16/penultima-prueba-de-regata-de-invierno/"
@@ -60,7 +83,7 @@
             "date": "2015-04-16",
             "author_name": "Juanpa",
             "categories": "regata",
-            "tags": "barco,hecho,team,regata,equipo",
+            "tags": "barco,team,regata",
             "recuweb_url": "http://es.recuweb.com/regata/juanpanews.com/2015/04/vor-2014-15-team-vestas-wind-confirma-su-regreso",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juanpanews.com/2015/04/vor-2014-15-team-vestas-wind-confirma-su-regreso-a-la-regata-en-lisboa/"
@@ -71,7 +94,7 @@
             "date": "2015-04-15",
             "author_name": "maritim",
             "categories": "regata",
-            "tags": "club,regata",
+            "tags": "club,regata,participantes",
             "recuweb_url": "http://es.recuweb.com/regata/clubmaritimomahon.com/2015/04/i-regata-trofeus-dani-sarr%C3%B3-regals-club-mar%C3%ADtimo-mah%C3%B3n",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://clubmaritimomahon.com/i-regata-trofeus-dani-sarro-regals/"
@@ -82,7 +105,7 @@
             "date": "2015-04-13",
             "author_name": "RANC Gestion",
             "categories": "regata",
-            "tags": "embarcaciones,flota,club,n\u00e1utico,regata,s\u00e1bado,abril",
+            "tags": "embarcaciones,flota,club,n\u00e1utico,regata,trofeo,s\u00e1bado,abril",
             "recuweb_url": "http://es.recuweb.com/regata/ranc.es/2015/04/regata-trofeo-bodegas-tejoneras-en-el-cn-cervera-madrid",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ranc.es/2015/04/regata-trofeo-bodegas-tejoneras-en-el-cn-cervera-madrid/"
@@ -93,32 +116,10 @@
             "date": "2015-04-13",
             "author_name": "fremocv",
             "categories": "regata",
-            "tags": "ciudad,abril,banco,banco-fijo,fijo,regatas,regata,club,n\u00e1utico,alicante,liga,suma,remo,mediterr\u00e1neo,domingo,sesenta,dos",
+            "tags": "dos,banco,banco-fijo,fijo,regatas,regata,club,n\u00e1utico,liga,suma,mediterr\u00e1neo,domingo,abril,sesenta",
             "recuweb_url": "http://es.recuweb.com/regata/ligasuma.com/2015/04/el-n%C3%A1utico-de-campello-se-proclama-mejor-club-la-ix-regata",
             "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ligasuma.com/el-nautico-de-campello-se-proclama-mejor-club-de-la-ix-regata-liga-suma/"
-        },
-        "ligasuma.com/2015/04/la-ix-regata-liga-suma-de-remo-llega-este-domingo": {
-            "title": "La IX Regata Liga SUMA de remo llega este domingo a Alicante...",
-            "snippet": "Tras las vacaciones de Semana Santa, la Liga SUMA de remo de Banco fijo del Mediterr\u00e1neo retoma la competici\u00f3n este domingo, 12 de abril, en aguas alicantinas. Sesenta y dos embarcaciones representaran a sus...",
-            "date": "2015-04-11",
-            "author_name": "fremocv",
-            "categories": "regata",
-            "tags": "embarcaciones,abril,domingo,fijo,remo,liga,liga_suma,suma,regata,alicante,banco,mediterr\u00e1neo,sesenta,dos",
-            "recuweb_url": "http://es.recuweb.com/regata/ligasuma.com/2015/04/la-ix-regata-liga-suma-de-remo-llega-este-domingo",
-            "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ligasuma.com/la-ix-regata-liga-suma-de-remo-llega-este-domingo-a-alicante/"
-        },
-        "juanpanews.com/2015/04/mundial-de-soto-40-2015-regata-entrenamiento-oficial": {
-            "title": "Mundial de Soto 40 2015, regata de entrenamiento oficial...",
-            "snippet": "La regata dio comienzo a las luego de varias largadas de prueba con 10 nudos de viento del Noreste. Al Ita\u00fa, Santander y Patagonia en la largada se les di\u00f3 OCS ya que hab\u00edan largado pasados. El Crioula y el...",
-            "date": "2015-04-11",
-            "author_name": "Juanpa",
-            "categories": "regata",
-            "tags": "viento,luego,prueba,regata",
-            "recuweb_url": "http://es.recuweb.com/regata/juanpanews.com/2015/04/mundial-de-soto-40-2015-regata-entrenamiento-oficial",
-            "resource_url": "http://www.google.com/search?q=regata%2Bregata&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://juanpanews.com/2015/04/mundial-de-soto-40-2015-regata-de-entrenamiento-oficial/"
         }
     }
 }

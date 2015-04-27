@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cine",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cine/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cine/cine/blogs.json"
     },
     "items": {
-        "lacapital.com.ar/2015/04/convocan-al-concurso-de-cortometrajes-del-festival-cine-visi%C3%B3n": {
-            "title": "Convocan al concurso de cortometrajes del festival de cine Visi\u00f3n... -...",
-            "snippet": "al concurso de cortometrajes del festival de cine Visi\u00f3n... participar realizadores audiovisuales profesionales, estudiantes y aficionados. Los trabajos, que no deben exceder los 20 minutos, se recibir\u00e1n hasta el pr\u00f3ximo 30 de junio. El certamen...",
-            "date": "2015-04-21",
+        "milenio.com/2015/04/apuesta-manolo-caro-por-un-cine-de-autor": {
+            "title": "Apuesta Manolo Caro por un cine de autor -...",
+            "snippet": "Manolo Caro por un cine de \u00e9s de explorar el mundo del cine con 'No s\u00e9 si cortarme las venas o dej\u00e1rmelas largas'y 'Amor de mis amores', Manolo Caro entr\u00f3 en el terreno autoral, con una propuesta visual que lo acerca a lo que busca como...",
+            "date": "2015-04-25",
             "categories": "cine",
-            "tags": "audiovisuales,festival,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/lacapital.com.ar/2015/04/convocan-al-concurso-de-cortometrajes-del-festival-cine-visi%C3%B3n",
+            "tags": "autor,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/milenio.com/2015/04/apuesta-manolo-caro-por-un-cine-de-autor",
+            "resource_url": "http://news.google.es/?hl=es&q=cine%2Bcine&output=atom&nord=1",
+            "source_url": "http://milenio.com/hey/cine/Manolo_Caro_Riviera_Maya-Festival_Cine_Riviera_Maya-Manolo_Caro_Elvira_0_505749697.html"
+        },
+        "nacion.com/2015/04/pablo-rodr%C3%ADguez-est%C3%A1-en-festival-de-cine-m%C3%A9xico-la-naci%C3%B3n-costa": {
+            "title": "Pablo Rodr\u00edguez est\u00e1 en Festival de Cine en M\u00e9xico - La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa RicaPablo Rodr\u00edguez est\u00e1 en Festival de Cine en M\u00e9xicoLa Naci\u00f3n Costa RicaEs por ello que Rodr\u00edguez, quien actu\u00f3 en la pel\u00edcula Buscando la ola del cineasta mexicano Gabriel Retez, fue tomando en cuenta, al igual que el...",
+            "date": "2015-04-25",
+            "categories": "cine",
+            "tags": "cineasta,cineasta-mexicano,mexicano,rodr\u00edguez,pablo,festival,cine,m\u00e9xico,pel\u00edcula",
+            "recuweb_url": "http://es.recuweb.com/cine/nacion.com/2015/04/pablo-rodr%C3%ADguez-est%C3%A1-en-festival-de-cine-m%C3%A9xico-la-naci%C3%B3n-costa",
             "resource_url": "http://news.google.es/?hl=es&q=cine&output=atom&nord=1",
-            "source_url": "http://lacapital.com.ar/la-region/Convocan-al-concurso-de-cortometrajes-del-festival-de-cine-Vision-Riberea--20150420-0064.html"
+            "source_url": "http://nacion.com/ocio/cine/Pablo-Rodriguez-Festival-Cine-Mexi_0_1483651624.html"
         },
-        "loffit.abc.es/2015/04/crist%C3%B3bal-balenciaga-retales-de-cine-y-moda-en-el-hotel-viura": {
-            "title": "Crist\u00f3bal Balenciaga, retales de cine y moda en el Hotel Viura.",
-            "snippet": "Imagen de Crist\u00f3bal Balenciaga, retales de cine y moda en el Hotel Viura. Exposici\u00f3n fotograf\u00eda:Crist\u00f3bal Balenciaga, retales de cine y moda en el Hotel Viura. El Hotel Viura de \u00c1lava acoge por primera vez fuera del museo de Guetaria la...",
-            "date": "2015-04-20",
-            "categories": "moda,cine,fotografia",
-            "tags": "fuera,cine",
-            "recuweb_url": "http://es.recuweb.com/fotografia/loffit.abc.es/2015/04/crist%C3%B3bal-balenciaga-retales-de-cine-y-moda-en-el-hotel-viura",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=cine&format=RSS&cc=es",
-            "source_url": "http://loffit.abc.es/2015/04/20/cristobal-balenciaga-retales-de-cine-y-moda-en-el-hotel-viura/191804"
-        },
-        "teinteresa.es/2015/04/el-festival-de-cine-espa%C3%B1ol-marsella-proyectar%C3%A1-en-una-secci%C3%B3n-fija": {
-            "title": "El Festival de Cine Espa\u00f1ol de Marsella proyectar\u00e1 en una secci\u00f3n fija pel\u00edculas andaluzas...",
-            "snippet": "El acuerdo ha sido suscrito este lunes en el marco del Festival de M\u00e1laga. Cine Espa\u00f1ol, entre el presidente de Asecan (organizadores de los Premios del Cine Andaluz), Javier Paisano, y Jocelyne Faessel, presidenta de la asociaci\u00f3n Horizontes del...",
-            "date": "2015-04-20",
+        "elcomercio.pe/2015/04/50-sombras-de-grey-sale-la-primera-imagen-secuela-el-comercio": {
+            "title": "50 sombras de Grey: sale la primera imagen de la secuela - El Comercio...",
+            "snippet": "El Comercio\"50 sombras de Grey\": sale la primera imagen de la secuelaEl ComercioEl CinemaCon, la importante convenci\u00f3n de cine que se viene realizando en Las Vegas, fue el escenario para la presentaci\u00f3n de la primera imagen oficial de \"50 Sombras...",
+            "date": "2015-04-24",
             "categories": "cine",
-            "tags": "cine,presidente,sido,marco,pel\u00edculas,espa\u00f1ol,festival",
-            "recuweb_url": "http://es.recuweb.com/cine/teinteresa.es/2015/04/el-festival-de-cine-espa%C3%B1ol-marsella-proyectar%C3%A1-en-una-secci%C3%B3n-fija",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=cine&format=RSS&cc=es",
-            "source_url": "http://teinteresa.es/andalucia/malaga/Festival-Cine-Espanol-Marsella-proyectara_0_1342666849.html"
+            "tags": "primera,importante,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/elcomercio.pe/2015/04/50-sombras-de-grey-sale-la-primera-imagen-secuela-el-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=cine%2Bcine&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/luces/cine/50-sombras-grey-sale-primera-imagen-secuela-noticia-1806395"
         },
-        "laopiniondemalaga.es/2015/04/el-cine-espa%C3%B1ol-que-hay-evitar": {
-            "title": "El cine espa\u00f1ol que hay que evitar...",
-            "snippet": "No puedo con ese cine espa\u00f1ol que es de pl\u00e1stico, porque el pl\u00e1stico no huele ni sabe a nada, porque el pl\u00e1stico es mentira. Tiempo sin aire transcurre en Canarias pero ninguno de los personajes que pululan por all\u00ed tiene el m\u00e1s m\u00ednimo acento...",
-            "date": "2015-04-20",
-            "categories": "cine",
-            "tags": "personajes,tiene,espa\u00f1ol,hay,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/laopiniondemalaga.es/2015/04/el-cine-espa%C3%B1ol-que-hay-evitar",
+        "laopiniondemalaga.es/2015/04/no-estoy-a-favor-de-un-cine-espa%C3%B1ol-que-s%C3%B3lo-dependa": {
+            "title": "No estoy a favor de un cine espa\u00f1ol que s\u00f3lo dependa de las televisiones...",
+            "snippet": "Ha calificado esta pel\u00edcula como una historia de la decadencia del g\u00e9nero masculino. \u00bfNo hemos estado los hombres siempre en decadencia? S\u00ed, es verdad. Creo que las mujeres llevan siglos y siglos soportando nuestra imbecilidad y tengo la...",
+            "date": "2015-04-24",
+            "categories": "television,cine",
+            "tags": "hemos,decadencia,espa\u00f1ol,cine,pel\u00edcula,historia",
+            "recuweb_url": "http://es.recuweb.com/cine/laopiniondemalaga.es/2015/04/no-estoy-a-favor-de-un-cine-espa%C3%B1ol-que-s%C3%B3lo-dependa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=cine&format=RSS&cc=es",
-            "source_url": "http://laopiniondemalaga.es/festival-cine-malaga/2015/04/21/cine-espanol-hay-evitar/759897.html"
+            "source_url": "http://laopiniondemalaga.es/festival-cine-malaga/2015/04/25/favor-cine-espanol-dependa-televisiones/761095.html"
         },
-        "larazon.es/2015/04/el-cine-espa%C3%B1ol-recauda-hasta-abril-16-1-millones": {
-            "title": "El cine espa\u00f1ol recauda hasta abril 16,1 millones, con una cuota del 10,6%...",
-            "snippet": "El cine espa\u00f1ol ha recaudado hasta el 15 de abril de este a\u00f1o 16,1 millones de euros y ha sido visto por dos millones y medio de espectadores, con una cuota por recaudaci\u00f3n del 10,6 por ciento, seg\u00fan datos de la Federaci\u00f3n de Asociaciones de...",
-            "date": "2015-04-20",
+        "ehui.com/2015/04/cine-mexicano-con-mucho-talento-pero-fr%C3%A1gil-franco-ehui": {
+            "title": "Cine mexicano, con mucho talento pero fr\u00e1gil: Franco - Ehui...",
+            "snippet": "EhuiCine mexicano, con mucho talento pero fr\u00e1gil: FrancoEhuiEl cine mexicano est\u00e1 plagado de talentos pero es fr\u00e1gil, considera el cineasta mexicano Michel Franco, cuya cinta Chronic fue seleccionada este jueves para participar en competencia por...",
+            "date": "2015-04-24",
             "categories": "cine",
-            "tags": "recaudaci\u00f3n,sido,visto,abril,espa\u00f1ol,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/larazon.es/2015/04/el-cine-espa%C3%B1ol-recauda-hasta-abril-16-1-millones",
+            "tags": "cineasta,cineasta-mexicano,mexicano,michel,mexicano-est\u00e1-plagado,plagado,plagado-de-talentos,talentos,fr\u00e1gil,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/ehui.com/2015/04/cine-mexicano-con-mucho-talento-pero-fr%C3%A1gil-franco-ehui",
+            "resource_url": "http://news.google.es/?hl=es&q=cine%2Bcine&output=atom&nord=1",
+            "source_url": "http://ehui.com/2015/04/24/cine-mexicano-con-mucho-talento-pero-fragil-franco"
+        },
+        "ccaa.elpais.com/2015/04/cine-sobre-la-realidad": {
+            "title": "Cine sobre la realidad...",
+            "snippet": "Mikel Olaciregui (Pasaia, 1956) llevaba m\u00e1s de 20 a\u00f1os vinculado al Festival de Cine de San Sebasti\u00e1n cuando, en 2012, acudi\u00f3 a Madrid con el encargo de dirigir la Cineteca de Matadero, una sala dedicada al cine documental. Acababa de dejar...",
+            "date": "2015-04-24",
+            "categories": "cine",
+            "tags": "cine,festival,cineteca,documental",
+            "recuweb_url": "http://es.recuweb.com/cine/ccaa.elpais.com/2015/04/cine-sobre-la-realidad",
             "resource_url": "http://www.bing.com/news/search?first=1&q=cine&format=RSS&cc=es",
-            "source_url": "http://larazon.es/el-cine-espanol-recauda-hasta-abril-16-1-millones-con-una-cuota-del-10-6-EI9497611"
+            "source_url": "http://ccaa.elpais.com/ccaa/2015/04/24/madrid/1429908217_918634.html"
         },
-        "elimparcial.es/2015/04/el-cine-espa%C3%B1ol-vuelve-a-la-normalidad-tras-fen%C3%B3meno-ocho-apellidos": {
-            "title": "El cine espa\u00f1ol vuelve a la normalidad tras el fen\u00f3meno Ocho apellidos vascos...",
-            "snippet": "El presidente de FAPAE, Ram\u00f3n Col\u00f3n, pone de manifiesto el gran momento del cine espa\u00f1ol, pero alerta de la importancia de los enormes cambios que se est\u00e1n produciendo en el sistema. - La Confederaci\u00f3n de productores audiovisuales, en el marco...",
-            "date": "2015-04-20",
+        "efeeme.com/2015/04/cine-la-sombra-del-actor-de-barry-levinson": {
+            "title": "Cine: La sombra del actor, de Barry Levinson...",
+            "snippet": "Resulta imposible no pensar en Birdman (Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu, 2014) durante los primeros minutos de La sombra del actor, en los que Simon Axler, un int\u00e9rprete en decadencia, habla consigo mismo en un teatro justo antes de salir a escena.",
+            "date": "2015-04-24",
             "categories": "cine",
-            "tags": "marco,audiovisuales,momento,presidente,espa\u00f1ol,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/elimparcial.es/2015/04/el-cine-espa%C3%B1ol-vuelve-a-la-normalidad-tras-fen%C3%B3meno-ocho-apellidos",
+            "tags": "teatro,escena,decadencia,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/efeeme.com/2015/04/cine-la-sombra-del-actor-de-barry-levinson",
             "resource_url": "http://www.bing.com/news/search?first=1&q=cine&format=RSS&cc=es",
-            "source_url": "http://elimparcial.es/noticia/150336/cultura/El-cine-espanol-vuelve-a-la-normalidad-tras-el-fenomeno-Ocho-apellidos-vascos.html"
+            "source_url": "http://efeeme.com/cine-la-sombra-del-actor-de-barry-levinson/"
         },
-        "informador.com.mx/2015/04/el-reto-del-cine-recuperar-al-espectador": {
-            "title": "El reto del cine, recuperar al espectador -...",
-            "snippet": "reto del cine, recuperar al el contexto de una industria que ya tiene una veintena de pel\u00edculas que han rebasado la marca del bill\u00f3n de d\u00f3lares en la taquilla global (siendo la m\u00e1s reciente R\u00e1pidos y Furiosos 7) y con el 90% de las pantallas...",
-            "date": "2015-04-20",
+        "eluniversal.com.co/2015/04/court-fue-elegida-como-la-mejor-pel%C3%ADcula-de-festival-cine": {
+            "title": "Court fue elegida como la mejor pel\u00edcula de festival de cine de... - El Universal - Colombia...",
+            "snippet": "El Universal - ColombiaCourt fue elegida como la mejor pel\u00edcula de festival de cine de...El Universal - ColombiaEl film \"Court\" (Corte), del realizador indio Chaitanya Tamhane, que retrata con cr\u00edticas el sistema judicial de su pa\u00eds, se consagr\u00f3...",
+            "date": "2015-04-24",
             "categories": "cine",
-            "tags": "tiene,pel\u00edculas,cine,r\u00e1pidos,furiosos",
-            "recuweb_url": "http://es.recuweb.com/cine/informador.com.mx/2015/04/el-reto-del-cine-recuperar-al-espectador",
+            "tags": "festival,mejor,pel\u00edcula,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/eluniversal.com.co/2015/04/court-fue-elegida-como-la-mejor-pel%C3%ADcula-de-festival-cine",
+            "resource_url": "http://news.google.es/?hl=es&q=cine%2Bcine&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.co/farandula/court-fue-elegida-como-la-mejor-pelicula-de-festival-de-cine-de-buenos-aires-191620"
+        },
+        "jornada.unam.mx/2015/04/el-cine-latinoamericano-destaca-en-la-cartelera-de-cineteca-jornada-linea": {
+            "title": "El cine latinoamericano destaca en la cartelera de la Cineteca... - La Jornada en linea...",
+            "snippet": "La Jornada en lineaEl cine latinoamericano destaca en la cartelera de la Cineteca...La Jornada en lineaAsimismo, continua el ciclo G\u00f3tico: el coraz\u00f3n oscuro del cine. Homenaje a Pedro Armend\u00e1riz Jr. Para conmemorar el 75 aniversario de su...",
+            "date": "2015-04-24",
+            "categories": "cine",
+            "tags": "cine,cineteca",
+            "recuweb_url": "http://es.recuweb.com/cine/jornada.unam.mx/2015/04/el-cine-latinoamericano-destaca-en-la-cartelera-de-cineteca-jornada-linea",
+            "resource_url": "http://news.google.es/?hl=es&q=cine%2Bcine&output=atom&nord=1",
+            "source_url": "http://jornada.unam.mx/ultimas/2015/04/24/el-cine-latinoamericano-destaca-en-la-cartelera-de-la-cineteca-nacional-332.html"
+        },
+        "mexico.cnn.com/2015/04/el-cine-mexicano-est%C3%A1-plagado-de-talentos-pero-es-fr%C3%A1gil-michel": {
+            "title": "El cine mexicano est\u00e1 plagado de talentos, pero \"es fr\u00e1gil\": Michel... - CNN M\u00e9...",
+            "snippet": "CNN M\u00e9 cine mexicano est\u00e1 plagado de talentos, pero \"es fr\u00e1gil\": Michel...CNN M\u00e9 que cuidar que los apoyos estatales sigan, hay que ver c\u00f3mo logramos que las pel\u00edculas se distribuyan y agarren p\u00fablico, es importante seguir con la tendencia...",
+            "date": "2015-04-24",
+            "categories": "cine",
+            "tags": "importante,c\u00f3mo,fr\u00e1gil,mexicano,mexicano-est\u00e1-plagado,plagado,plagado-de-talentos,talentos,cine,michel",
+            "recuweb_url": "http://es.recuweb.com/cine/mexico.cnn.com/2015/04/el-cine-mexicano-est%C3%A1-plagado-de-talentos-pero-es-fr%C3%A1gil-michel",
             "resource_url": "http://news.google.es/?hl=es&q=cine&output=atom&nord=1",
-            "source_url": "http://informador.com.mx/entretenimiento/2015/587657/6/el-reto-del-cine-recuperar-al-espectador.htm"
-        },
-        "blogdecine.com/2015/04/hay-m%C3%A1s-cine-ah%C3%AD-fuera-13-20-de-abril-famosos-plagios": {
-            "title": "Hay m\u00e1s cine ah\u00ed fuera (13-20 de abril): Famosos plagios, pel\u00edculas censuradas y besos...",
-            "snippet": "Con un poco de retraso, pero ya ha llegado el momento de que en Blogdecine hagamos nuestro ya tradicional repaso a los mejores art\u00edculos sobre el mundo del cine publicados durante los \u00faltimos siete d\u00edas a lo largo y ancho de Internet. El men\u00fa de...",
-            "date": "2015-04-20",
-            "categories": "cine,internet",
-            "tags": "momento,pel\u00edculas,abril,fuera,hay,cine",
-            "recuweb_url": "http://es.recuweb.com/internet/blogdecine.com/2015/04/hay-m%C3%A1s-cine-ah%C3%AD-fuera-13-20-de-abril-famosos-plagios",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=cine&format=RSS&cc=es",
-            "source_url": "http://blogdecine.com/otros/hay-mas-cine-ahi-fuera-13-12-de-abril-famosos-plagios-peliculas-censuradas-y-besos-memorables"
-        },
-        "eluniversal.com/2015/04/isabelle-huppert-es-vital-para-el-cine-renovarse-lo-antes-posible": {
-            "title": "Isabelle Huppert: Es vital para el cine renovarse lo antes posible - El Universal (Venezuela)...",
-            "snippet": "El Universal (Venezuela)Isabelle Huppert: \"Es vital para el cine renovarse lo antes posible\"El Universal (Venezuela)Isabelle Huppert: \"Es vital para el cine renovarse lo antes posible\". La actriz fetiche de Claude Chabrol protagoniz\u00f3 hoy un...",
-            "date": "2015-04-20",
-            "categories": "cine",
-            "tags": "hoy,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/eluniversal.com/2015/04/isabelle-huppert-es-vital-para-el-cine-renovarse-lo-antes-posible",
-            "resource_url": "http://news.google.es/?hl=es&q=cine&output=atom&nord=1",
-            "source_url": "http://eluniversal.com/arte-y-entretenimiento/cine/150420/isabelle-huppert-es-vital-para-el-cine-renovarse-lo-antes-posible"
-        },
-        "elcomercio.pe/2015/04/las-10-pel%C3%ADculas-m%C3%A1s-taquilleras-de-la-historia-del-cine": {
-            "title": "Las 10 pel\u00edculas m\u00e1s taquilleras de la historia del cine - El Comercio...",
-            "snippet": "El ComercioLas 10 pel\u00edculas m\u00e1s taquilleras de la historia del cineEl ComercioLas cifras de recaudaci\u00f3n que viene logrando \"R\u00e1pidos y Furiosos 7\" a nivel mundial ha movido el r\u00e1nking de las 10 pel\u00edculas m\u00e1s taquilleras en la historia del...",
-            "date": "2015-04-20",
-            "categories": "cine",
-            "tags": "pel\u00edculas,recaudaci\u00f3n,r\u00e1pidos,historia,cine,furiosos",
-            "recuweb_url": "http://es.recuweb.com/cine/elcomercio.pe/2015/04/las-10-pel%C3%ADculas-m%C3%A1s-taquilleras-de-la-historia-del-cine",
-            "resource_url": "http://news.google.es/?hl=es&q=cine&output=atom&nord=1",
-            "source_url": "http://elcomercio.pe/luces/cine/10-peliculas-mas-taquilleras-historia-cine-noticia-1805341"
+            "source_url": "http://mexico.cnn.com/entretenimiento/2015/04/24/el-cine-mexicano-esta-plagado-de-talentos-pero-es-fragil-michel-franco"
         }
     }
 }

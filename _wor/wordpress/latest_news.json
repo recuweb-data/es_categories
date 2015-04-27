@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wordpress",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/wordpress/",
@@ -10,44 +11,84 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "es.paperblog.com/2015/04/c%C3%B3mo-hacer-seo-en-wordpress-sin-necesidad-de-insertar-c%C3%B3digo": {
-            "title": "C\u00f3mo hacer SEO en WordPress sin necesidad de insertar c\u00f3digo o plugins...",
-            "snippet": "Cuando se trata de SEO casi se tiene que ser un desarrollador para hacer peque\u00f1as modificaciones en los c\u00f3digos para mejorar la priorizaci\u00f3n de un sitio web o blog en p\u00e1ginas de resultados de b\u00fasqueda. Una ventaja importante de WP es que tiene...",
-            "date": "2015-04-22",
+        "subrayado.com.uy/2015/04/ex-presos-de-guant%C3%A1namo-crean-blog-con-reclamos-y-contin%C3%BAan-protesta": {
+            "title": "Ex presos de Guant\u00e1namo crean blog con reclamos y contin\u00faan protesta...",
+            "snippet": "El blog en la plataforma wordpress se llama Ex Guantanamo Refugees in Uruguay, Ex Refugiados de Guant\u00e1namo en Uruguay. Este s\u00e1bado publicaron su primer comunicado, que muestra los reclamos de los sirios Ali Shabaan, Ahmed, Abdul hadi faraj...",
+            "date": "2015-04-26",
             "categories": "wordpress",
-            "tags": "importante,web,p\u00e1ginas,trata,plugins,c\u00f3mo,seo,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/es.paperblog.com/2015/04/c%C3%B3mo-hacer-seo-en-wordpress-sin-necesidad-de-insertar-c%C3%B3digo",
+            "tags": "muestra,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/subrayado.com.uy/2015/04/ex-presos-de-guant%C3%A1namo-crean-blog-con-reclamos-y-contin%C3%BAan-protesta",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/como-hacer-seo-en-wordpress-sin-necesidad-de-insertar-codigo-o-plugins-3172918/"
+            "source_url": "http://subrayado.com.uy/Site/noticia/44340/ex-presos-de-guantanamo-crean-blog-con-reclamos-y-continuan-protesta"
         },
-        "zdnet.de/2015/04/sicherheitsupdate-f%C3%BCr-wordpress-verf%C3%BCgbar": {
-            "title": "Sicherheitsupdate f\u00fcr WordPress verf\u00fcgbar -...",
-            "snippet": "f\u00fcr WordPress verf\u00fc hat mit Version ein kritisches Sicherheitupdate f\u00fcr sein Content-Management-System ver\u00f6ffentlicht. Es empfiehlt dringend, alle fr\u00fcheren Versionen sofort auf den aktuellen Stand zu bringen durch einen Download oder aus dem...",
-            "date": "2015-04-22",
+        "missoulian.com/2015/04/shelf-life-missoula-public-library-to-host-class-on-using-wordpress": {
+            "title": "SHELF LIFE: Missoula Public Library to host class on using WordPress - The Missoulian...",
+            "snippet": "SHELF LIFE: Missoula Public Library to host class on using WordPressThe MissoulianHave you ever wanted to build your own website using WordPress? Well, now you can learn the tools of this popular website creation system when MPL hosts a class taught...",
+            "date": "2015-04-26",
             "categories": "wordpress",
-            "tags": "wordpress,version,content,management",
-            "recuweb_url": "http://es.recuweb.com/wordpress/zdnet.de/2015/04/sicherheitsupdate-f%C3%BCr-wordpress-verf%C3%BCgbar",
+            "tags": "host,this,website,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/missoulian.com/2015/04/shelf-life-missoula-public-library-to-host-class-on-using-wordpress",
             "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
-            "source_url": "http://zdnet.de/88232568/sicherheitsupdate-fuer-wordpress-verfuegbar/"
+            "source_url": "http://missoulian.com/news/state-and-regional/shelf-life-missoula-public-library-to-host-class-on-using/article_7da2ae6b-1ddc-5992-8a2a-fe37ab31f679.html"
         },
-        "htmlgoodies.com/2015/04/wordpress-announces-the-release-of-version-html-goodies": {
-            "title": "WordPress Announces the Release of Version - HTML Goodies...",
-            "snippet": "WordPress Announces the Release of Version GoodiesIn an effort to prevent anonymous users from compromising websites, WordPress has pushed out version of its content management software, calling it a critical security release and advising all users...",
-            "date": "2015-04-22",
-            "categories": "html,wordpress",
-            "tags": "version,content,management,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/htmlgoodies.com/2015/04/wordpress-announces-the-release-of-version-html-goodies",
+        "lacrossetribune.com/2015/04/uw-l-offers-workshop-on-wordpress-websites-la-crosse-tribune": {
+            "title": "UW-L offers workshop on WordPress websites - La Crosse Tribune...",
+            "snippet": "UW-L offers workshop on WordPress websitesLa Crosse TribuneThe UW-La Crosse Small Business Development Center is offering Building a WordPress Website to help businesses improve their online presence. The workshop runs from 5:30 to 8:30 p.m. May 5...",
+            "date": "2015-04-26",
+            "categories": "wordpress",
+            "tags": "website,businesses,business,their,small,small_business,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/lacrossetribune.com/2015/04/uw-l-offers-workshop-on-wordpress-websites-la-crosse-tribune",
             "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
-            "source_url": "http://htmlgoodies.com/daily_news/wordpress-announces-the-release-of-version-4.1.2.html"
+            "source_url": "http://lacrossetribune.com/news/local/state-and-regional/uw-l-offers-workshop-on-wordpress-websites/article_6a84d8fe-162d-533d-9d21-11aedda21c26.html"
+        },
+        "es.paperblog.com/2015/04/wordpress-quita-la-meta-etiqueta-generator-que-muestra-version-de-wp": {
+            "title": "WordPress - Quita la meta-etiqueta Generator que muestra la version de WP...",
+            "snippet": "Espero os sierva de ayuda, aunque recordar que este c\u00f3digo solo quita esa etiqueta meta del encabezado, si lo que deseamos es ocultar a la vista de todo el mundo que el sitio esta desarrollado con WP necesitaremos usar otras t\u00e9cnicas, ya que los...",
+            "date": "2015-04-25",
+            "categories": "wordpress",
+            "tags": "muestra,version,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/es.paperblog.com/2015/04/wordpress-quita-la-meta-etiqueta-generator-que-muestra-version-de-wp",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/wordpress-quita-la-meta-etiqueta-generator-que-muestra-la-version-de-wp-3178712/"
+        },
+        "searchenginejournal.com/2015/04/5-html-&-wordpress-hacks-for-non-coders-search-engine-journal": {
+            "title": "5 HTML & WordPress Hacks for Non-Coders - Search Engine Journal...",
+            "snippet": "Search Engine Journal5 HTML & WordPress Hacks for Non-CodersSearch Engine JournalHere are some basic HTML skills I've picked up along the way that even self-professed non-coders can implement on their paid WordPress website, including questions I've...",
+            "date": "2015-04-24",
+            "categories": "wordpress,html",
+            "tags": "their,that,engine,search,search_engine,wordpress,website",
+            "recuweb_url": "http://es.recuweb.com/html/searchenginejournal.com/2015/04/5-html-&-wordpress-hacks-for-non-coders-search-engine-journal",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "source_url": "http://searchenginejournal.com/5-html-wordpress-hacks-non-coders/129296/"
+        },
+        "sitepoint.com/2015/04/what-s-new-in-wordpress-4-2-sitepoint": {
+            "title": "What's New in WordPress 4.2 - SitePoint...",
+            "snippet": "SitePointWhat's New in WordPress 4.2 (Powell) has just landed and it's jam packed with goodness for users and developers alike. Led by Drew Jaynes of 10up, the team of 283 contributors brings us dozens of new features and fixes a total of 231 bugs.",
+            "date": "2015-04-24",
+            "categories": "wordpress",
+            "tags": "wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/sitepoint.com/2015/04/what-s-new-in-wordpress-4-2-sitepoint",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "source_url": "http://sitepoint.com/whats-new-in-wordpress-4-2/"
+        },
+        "wwwhatsnew.com/2015/04/lleg%C3%B3-wordpress-4-2-mejorando-la-forma-de-compartir-art%C3%ADculos-wwwhat": {
+            "title": "Lleg\u00f3 WordPress 4.2 mejorando la forma de compartir art\u00edculos... - WWWhat's new? (blog)...",
+            "snippet": "WWWhat's new? (blog)Lleg\u00f3 WordPress 4.2 mejorando la forma de compartir art\u00edculos...WWWhat's new? (blog)WordPress anuncia su versi\u00f3n 4.2 destacando su nuevo bot\u00f3n Press this. La idea es que al pulsar el bot\u00f3n de publicaci\u00f3n cuando estemos...",
+            "date": "2015-04-23",
+            "categories": "wordpress",
+            "tags": "versi\u00f3n,wordpress,this",
+            "recuweb_url": "http://es.recuweb.com/wordpress/wwwhatsnew.com/2015/04/lleg%C3%B3-wordpress-4-2-mejorando-la-forma-de-compartir-art%C3%ADculos-wwwhat",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "source_url": "http://wwwhatsnew.com/2015/04/23/llego-wordpress-4-2-mejorando-la-forma-de-compartir-articulos-anadiendo-mas-caracteres-y-mas/"
         },
         "smallbiztrends.com/2015/04/13-wordpress-plugins-small-business-owners-should-focus-on-trends": {
             "title": "13 WordPress Plugins Small Business Owners Should Focus On - Small Business Trends...",
             "snippet": "Small Business Trends13 WordPress Plugins Small Business Owners Should Focus OnSmall Business TrendsThousands of small businesses rely on the WordPress platform for their site design and content organization. But beyond the standard layouts and...",
             "date": "2015-04-21",
             "categories": "wordpress",
-            "tags": "site,content,wordpress,wordpress_plugins,plugins",
+            "tags": "their,small,small_business,businesses,business,wordpress,plugins",
             "recuweb_url": "http://es.recuweb.com/wordpress/smallbiztrends.com/2015/04/13-wordpress-plugins-small-business-owners-should-focus-on-trends",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://smallbiztrends.com/2015/04/small-business-wordpress-plugins.html"
         },
         "noticiaspress.es/2015/04/curso-un-blog-para-tu-negocio-como-herramienta-de-marketing": {
@@ -65,50 +106,10 @@
             "snippet": "Search Engine JournalSwarm of WordPress plugins susceptible to potentially dangerous...Ars TechnicaMore than a dozen WordPress plugins have been updated to patch vulnerabilities that allow attackers to inject potentially dangerous commands into the...",
             "date": "2015-04-21",
             "categories": "wordpress",
-            "tags": "plugins,search,search_engine,engine,wordpress",
+            "tags": "plugins,that,search,search_engine,engine,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/arstechnica.com/2015/04/swarm-of-wordpress-plugins-susceptible-to-potentially-dangerous-ars-technica",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://arstechnica.com/security/2015/04/swarm-of-wordpress-plugins-susceptible-to-potentially-dangerous-exploits/"
-        },
-        "actualidadipad.com/2015/04/wordpress-soporta-la-autenticaci%C3%B3n-multifactorial-en-su-nueva-versi%C3%B3n": {
-            "title": "WordPress soporta la autenticaci\u00f3n multifactorial en su nueva versi\u00f3n...",
-            "snippet": "En la actualidad tenemos decenas de sitios web con los que poder crear un blog: WordPress, Blogger, Jimdo no es una tarea tan complicada como hace unos a\u00f1os, donde se necesitaba saber algo m\u00e1s, seg\u00fan las habladur\u00edas. WordPress es uno de los...",
-            "date": "2015-04-21",
-            "categories": "wordpress",
-            "tags": "web,versi\u00f3n,wordpress,crear",
-            "recuweb_url": "http://es.recuweb.com/wordpress/actualidadipad.com/2015/04/wordpress-soporta-la-autenticaci%C3%B3n-multifactorial-en-su-nueva-versi%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
-            "source_url": "http://actualidadipad.com/wordpress-soporta-la-autenticacion-multifactorial-en-su-nueva-version/"
-        },
-        "iclarified.com/2015/04/wordpress-app-gets-multifactor-auth-support-new-stats-section-iclarified": {
-            "title": "WordPress App Gets Multifactor Auth Support, New Stats Section... - iClarified...",
-            "snippet": "iClarifiedWordPress App Gets Multifactor Auth Support, New Stats Section...iClarifiedManage your WordPress blog or website on the go, from your iOS device: view your stats, moderate comments, create and edit posts and pages, and upload media. All...",
-            "date": "2015-04-20",
-            "categories": "wordpress",
-            "tags": "your,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/iclarified.com/2015/04/wordpress-app-gets-multifactor-auth-support-new-stats-section-iclarified",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
-            "source_url": "http://iclarified.com/48607/wordpress-app-gets-multifactor-auth-support-new-stats-section-and-post-details-screen"
-        },
-        "wwwhatsnew.com/2015/04/cloudpress-una-pr%C3%A1ctica-forma-de-crear-temas-para-wordpress": {
-            "title": "cloudpress, una pr\u00e1ctica forma de crear temas para WordPress...",
-            "snippet": "Si os gustar\u00eda tener un tema de WordPress personalizado, dise\u00f1ado a medida, pero no ten\u00e9is presupuesto para contratarlo ni conocimiento de programaci\u00f3n para desarrollarlo desde cero, echad un vistazo en la soluci\u00f3n que os presentamos. Se trata...",
-            "date": "2015-04-17",
-            "categories": "conocimiento,wordpress",
-            "tags": "crear,wordpress,trata",
-            "recuweb_url": "http://es.recuweb.com/wordpress/wwwhatsnew.com/2015/04/cloudpress-una-pr%C3%A1ctica-forma-de-crear-temas-para-wordpress",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
-            "source_url": "http://wwwhatsnew.com/2015/04/17/cloudpress-una-practica-forma-de-crear-temas-para-wordpress/"
-        },
-        "searchenginejournal.com/2015/04/5-fantastic-wordpress-plugins-to-make-your-site-mobile-responsive-search": {
-            "title": "5 Fantastic WordPress Plugins to Make Your Site Mobile Responsive - Search Engine Journal...",
-            "snippet": "Search Engine Journal5 Fantastic WordPress Plugins to Make Your Site Mobile ResponsiveSearch Engine JournalWordPress takes center stage as one of the most manageable, accessible, and easy to use CMS solutions. It can become the front for a corporate...",
-            "date": "2015-04-14",
-            "categories": "wordpress",
-            "tags": "your,site,engine,search,search_engine,wordpress,wordpress_plugins,plugins,cms",
-            "recuweb_url": "http://es.recuweb.com/wordpress/searchenginejournal.com/2015/04/5-fantastic-wordpress-plugins-to-make-your-site-mobile-responsive-search",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/5-fantastic-wordpress-plugins-to-make-your-site-mobile-responsive/"
         }
     }
 }

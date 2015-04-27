@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "phpbb",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/phpbb/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
     },
     "items": {
+        "youtube.com/2015/03/crear-foro-con-phpbb-cambiar-estilo-cap-3": {
+            "title": "Crear foro con phpbb Cambiar estilo Cap 3...",
+            "snippet": "Crear foro con phpbb Cambiar estilo Cap 3 Como cambiar el estilo de nuestro foro phpbb. \u00a1ATENCI\u00d3N! El contenido en este manual es meramente educativo, las pr\u00e1cticas se llevaron a cabo en equipos supervisados y con el consentimien... From:...",
+            "date": "2015-03-20",
+            "author_name": "InformaticaSegura",
+            "categories": "phpbb",
+            "tags": "pr\u00e1cticas,pr\u00e1cticas-se-llevaron,llevaron,llevaron-cabo,cabo,cabo-en-equipos,equipos,contenido,manual,manual-es-meramente,meramente,meramente-educativo,educativo,foro,foro-phpbb,phpbb,foro-con-phpbb,crear,cap,\u00a1atenci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2015/03/crear-foro-con-phpbb-cambiar-estilo-cap-3",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb%2Bphpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=n7nk1Jolh40&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/n7nk1Jolh40/0.jpg"
+        },
         "youtube.com/2015/03/crear-foro-con-phpbb-capitulo-1": {
             "title": "Crear foro con phpbb Capitulo 1...",
             "snippet": "Crear foro con phpbb Capitulo 1 Aqui comineza una serie de capitulos donde os explicar\u00e9 como instalar y configurar un foro phpbb, en el cual instalaremos en un futuro Tapatalk. \u00a1ATENCI\u00d3N! El contenido en este manual... From: InformaticaSegura...",
@@ -28,55 +41,43 @@
             "date": "2015-03-20",
             "author_name": "InformaticaSegura",
             "categories": "phpbb",
-            "tags": "contenido,manual,crear,configurar,configurar-un-foro,foros,foro-con-phpbb,phpbb,categorias,capitulo,\u00a1atenci\u00f3n",
+            "tags": "pr\u00e1cticas,pr\u00e1cticas-se-llevaron,llevaron,llevaron-cabo,cabo,cabo-en-equipos,equipos,contenido,manual,manual-es-meramente,meramente,meramente-educativo,educativo,crear,configurar,configurar-un-foro,foros,foro-con-phpbb,phpbb,cap,capitulo,\u00a1atenci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2015/03/crear-foro-con-phpbb-foros-y-categorias-cap-2",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb%2Bphpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=_GlAeNQUHtc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/_GlAeNQUHtc/0.jpg"
         },
-        "youtube.com/2015/01/tutorial-categorias-y-foros-con-phpbb": {
-            "title": "Tutorial Categorias y foros con phpbb...",
-            "snippet": "Tutorial Categorias y foros con phpbb si acabas de crear un foro y te cuesta algo de trabajo entender como funciona este v\u00eddeo te ayudara a crear categor\u00edas y foros... si quieres crear uno puede... From: isac david Diaz Barros Views: 14 3 ratings...",
-            "date": "2015-01-22",
-            "author_name": "isac david Diaz Barros",
-            "categories": "phpbb",
-            "tags": "crear,foros,foro,phpbb,crear-un-foro,tutorial,categorias",
-            "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2015/01/tutorial-categorias-y-foros-con-phpbb",
+        "youtube.com/2014/11/radio-online-con-html5-en-foros-phpbb-por-enigmaelectronica": {
+            "title": "Radio Online con HTML5 en Foros phpBB por Enigmaelectronica...",
+            "snippet": "Radio Online con HTML5 en Foros phpBB por Enigmaelectronica Con este video les demuestro la forma de poner una Radio Online, una radio para escuchar las transmisiones que quieras emitir con alg\u00fan servidor de Streaming (por ejemplo con Shoutcast)...",
+            "date": "2014-11-02",
+            "author_name": "Enigma Hernandez",
+            "categories": "radio,html,phpbb",
+            "tags": "foros,phpbb",
+            "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2014/11/radio-online-con-html5-en-foros-phpbb-por-enigmaelectronica",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb%2Bphpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=yIXbSU1RrVk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/yIXbSU1RrVk/0.jpg"
+            "source_url": "http://youtube.com/watch?v=zkAar3Sqj4s&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/zkAar3Sqj4s/0.jpg"
         },
         "youtube.com/2014/05/c%C3%B3mo-instalar-estilos-en-phpbb": {
             "title": "C\u00f3mo instalar Estilos en phpBB...",
-            "snippet": "C\u00f3mo instalar Estilos en phpBB From: google informaci\u00f3n Views: 176 6 ratings Time: 01:34 More in Howto & Style...",
+            "snippet": "C\u00f3mo instalar Estilos en phpBB From: google informaci\u00f3n Views: 261 8 ratings Time: 01:34 More in Howto & Style...",
             "date": "2014-05-22",
             "author_name": "google informaci\u00f3n",
             "categories": "google,phpbb",
-            "tags": "google,instalar,phpbb,howto,style",
+            "tags": "instalar,phpbb",
             "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2014/05/c%C3%B3mo-instalar-estilos-en-phpbb",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb%2Bphpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=28wLWQHxxZ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/28wLWQHxxZ0/0.jpg"
         },
-        "youtube.com/2014/02/como-registrarse-en-phpbb-forum": {
-            "title": "Como registrarse en [phpbb forum]...",
-            "snippet": "Como registrarse en phpbb forum Tutorial de como registrarse en (foro phpbb) utilizando Google Chrome en Windows 7. Pasos: 1- Entrar a 2- Click en Re... From: jrvw02 Views: 241 1 ratings Time: 02:30 More in Howto & Style...",
-            "date": "2014-02-26",
-            "author_name": "jrvw02",
-            "categories": "google,phpbb",
-            "tags": "google,foro,foro-phpbb,phpbb,tutorial,howto,style",
-            "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2014/02/como-registrarse-en-phpbb-forum",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb%2Bphpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=fgASoJG8RLk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/fgASoJG8RLk/0.jpg"
-        },
         "youtube.com/2014/01/como-crear-un-foro-phpbb3-tutorial-1": {
             "title": "Como crear un foro phpbb3 - Tutorial 1...",
-            "snippet": "Como crear un foro phpbb3 - Tutorial 1 Aqui te ense\u00f1o como instalar y subir para poder tener tu propio foro phpbb3. Enlace: (Hosting gratuito sin publicidad) Enlace; http://www.... From: Daniel Orona Views: 844 2 ratings Time: 09:42 More in Science...",
+            "snippet": "Como crear un foro phpbb3 - Tutorial 1 Aqui te ense\u00f1o como instalar y subir para poder tener tu propio foro phpbb3. Enlace: (Hosting gratuito sin publicidad) Enlace; (Programa para... From: Daniel Orona Views: 972 3 ratings Time: 09:42 More in...",
             "date": "2014-01-29",
             "author_name": "Daniel Orona",
             "categories": "phpbb",
-            "tags": "instalar,foro,foro-phpbb,phpbb,crear,crear-un-foro,tutorial,hosting",
+            "tags": "instalar,foro,foro-phpbb,phpbb,crear,hosting",
             "recuweb_url": "http://es.recuweb.com/phpbb/youtube.com/2014/01/como-crear-un-foro-phpbb3-tutorial-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=phpbb%2Bphpbb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=qCH8vT0Z5mw&feature=youtube_gdata",

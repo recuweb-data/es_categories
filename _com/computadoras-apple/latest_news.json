@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "computadoras-apple",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/computadoras-apple/",
@@ -10,35 +11,75 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadoras-apple/computadoras-apple/blogs.json"
     },
     "items": {
-        "iprofesional.com/2015/03/cofundador-de-apple-pronostica-que-las-computadoras-van": {
-            "title": "Cofundador de Apple pronostica que \"las computadoras van a... -...",
-            "snippet": "de Apple pronostica que \"las computadoras van a... Wozniak, el hombre que junto a Steve Jobs cre\u00f3 Apple en 1976, expres\u00f3 una oscura visi\u00f3n del futuro en una entrevista con el medio australiano Financial Review. Consultado sobre el desarrollo de...",
-            "date": "2015-03-25",
+        "aporrea.org/2015/04/estados-unidos-fue-incapaz-de-batir-a-rusia-y-china-incluso": {
+            "title": "Estados Unidos fue incapaz de batir a Rusia y China incluso... - (blog)...",
+            "snippet": "(blog)Estados Unidos fue incapaz de batir a Rusia y China incluso... (blog)Ordenadores y tel\u00e9fonos m\u00f3viles, tales como los productos de Apple se producen principalmente en China, al igual que las computadoras port\u00e1tiles que se venden en todo el...",
+            "date": "2015-04-23",
             "categories": "computadora",
-            "tags": "steve,jobs,apple,computadoras",
-            "recuweb_url": "http://es.recuweb.com/computadora/iprofesional.com/2015/03/cofundador-de-apple-pronostica-que-las-computadoras-van",
+            "tags": "productos,tel\u00e9fonos,ordenadores,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/aporrea.org/2015/04/estados-unidos-fue-incapaz-de-batir-a-rusia-y-china-incluso",
             "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
-            "source_url": "http://iprofesional.com/notas/208646-Cofundador-de-Apple-pronostica-que-las-computadoras-van-a-reemplazar-al-hombre"
+            "source_url": "http://aporrea.org/internacionales/a206597.html"
         },
-        "aztecanoticias.com.mx/2015/03/fotos-apple-entre-las-30-empresas-m%C3%A1s-importantes-azteca-noticias": {
-            "title": "Fotos: Apple, entre las 30 empresas m\u00e1s importantes - Azteca Noticias...",
-            "snippet": "Azteca NoticiasFotos: Apple, entre las 30 empresas m\u00e1s importantesAzteca NoticiasM\u00e9xico,, el fabricante de computadoras, tel\u00e9fonos y dispositivos digitales, se integr\u00f3 hoy al \u00edndice Dow Jones en sustituci\u00f3n de la telef\u00f3nica AT&T, lo que...",
-            "date": "2015-03-19",
+        "elnuevodia.com/2015/04/incrementan-ataques-cibern%C3%A9ticos-a-computadoras-macintosh-el-nuevo": {
+            "title": "Incrementan ataques cibern\u00e9ticos a computadoras Macintosh - El Nuevo...",
+            "snippet": "El Nuevo ataques cibern\u00e9ticos a computadoras MacintoshEl Nuevo aumento en ventas de la l\u00ednea de computadoras Macintosh, producida por la empresa Apple, ha convertido a estos aparatos en un blanco atractivo para todo tipo de hackers, lo que ha...",
+            "date": "2015-04-22",
+            "categories": "computadora,macintosh",
+            "tags": "nuevo,computadoras,apple",
+            "recuweb_url": "http://es.recuweb.com/macintosh/elnuevodia.com/2015/04/incrementan-ataques-cibern%C3%A9ticos-a-computadoras-macintosh-el-nuevo",
+            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
+            "source_url": "http://elnuevodia.com/tecnologia/tecnologia/nota/incrementanataquesciberneticosacomputadorasmacintosh-2037730/"
+        },
+        "lavozdealmeria.es/2015/04/crece-la-moda-de-las-oficinas-coworking-en-el-centro-almer%C3%ADa": {
+            "title": "Crece la moda de las oficinas de coworking en el centro de Almer\u00eda...",
+            "snippet": "Apple y tazas de colores La luz entra a raudales en las habitaciones y hay mesas de reuniones desplegadas por las estancias para mantener encuentros a salto de mata entre computadoras Apple, tazas de colores y parqu\u00e9 sobre lo que hubo losa...",
+            "date": "2015-04-17",
+            "categories": "moda,computadora",
+            "tags": "hubo,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/lavozdealmeria.es/2015/04/crece-la-moda-de-las-oficinas-coworking-en-el-centro-almer%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadoras%2Bapple&format=RSS&cc=es",
+            "source_url": "http://lavozdealmeria.es/vernoticia.asp?IdNoticia=80939"
+        },
+        "noticias.terra.cl/2015/04/para-sorpresa-de-pocos-el-pr%C3%B3ximo-wwdc-que-apple-organice": {
+            "title": "Para sorpresa de pocos, el pr\u00f3ximo WWDC que Apple organice en junio podr\u00eda revelar al iOS 9...",
+            "snippet": "el sistema operativo para computadoras Apple. Como es costumbre, la cita ser\u00e1 en el Moscone Center de San Francisco, California. Adem\u00e1s de las probables actualizaciones de sus sistemas operativos y apps, se espera el anuncio de nuevo hardware...",
+            "date": "2015-04-14",
+            "categories": "hardware,computadora",
+            "tags": "nuevo,sistema,san,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/noticias.terra.cl/2015/04/para-sorpresa-de-pocos-el-pr%C3%B3ximo-wwdc-que-apple-organice",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadoras%2Bapple&format=RSS&cc=es",
+            "source_url": "http://noticias.terra.cl/tecnologia/nuevo-ios-o-os-x-en-el-wwdc-que-apple-organizara-en-junio,cd5046d36220118f1d73869a959be4613h1pwr8c.html"
+        },
+        "invdes.com.mx/2015/04/cimat-invita-a-conferencia-sobre-coches-autodirigidos": {
+            "title": "CIMAT invita a conferencia sobre coches autodirigidos...",
+            "snippet": "diversas patentes y varios productos tecnol\u00f3gicos como una tarjeta electr\u00f3nica para computadoras Apple, dispositivos de lectura para ciegos y un pizarr\u00f3n computarizado para el sal\u00f3n de clase. Actualmente, Ra\u00fal Rojas est\u00e1 adscrito al...",
+            "date": "2015-04-13",
+            "categories": "electronica,computadora",
+            "tags": "productos,electr\u00f3nica,computadoras,apple",
+            "recuweb_url": "http://es.recuweb.com/computadora/invdes.com.mx/2015/04/cimat-invita-a-conferencia-sobre-coches-autodirigidos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadoras%2Bapple&format=RSS&cc=es",
+            "source_url": "http://invdes.com.mx/tecnologia-mobil/7140-cimat-invita-a-conferencia-sobre-coches-autodirigidos"
+        },
+        "eldiariodecoahuila.com.mx/2015/04/los-titanes-del-futuro": {
+            "title": "Los titanes del futuro...",
+            "snippet": "Hoy en d\u00eda, Intel es la compa\u00f1\u00eda m\u00e1s grande de semiconductores del mundo por ingresos. Sus chips se utilizan en todo, desde computadoras Apple hasta los servidores en los centros de datos masivos que alimentan a muchas de las aplicaciones...",
+            "date": "2015-04-13",
             "categories": "computadora",
-            "tags": "tel\u00e9fonos,apple,computadoras",
-            "recuweb_url": "http://es.recuweb.com/computadora/aztecanoticias.com.mx/2015/03/fotos-apple-entre-las-30-empresas-m%C3%A1s-importantes-azteca-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
-            "source_url": "http://aztecanoticias.com.mx/notas/finanzas/216039/fotos-apple-entre-las-30-empresas-mas-importantes"
+            "tags": "aplicaciones,mundo,computadoras,apple",
+            "recuweb_url": "http://es.recuweb.com/computadora/eldiariodecoahuila.com.mx/2015/04/los-titanes-del-futuro",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadoras%2Bapple&format=RSS&cc=es",
+            "source_url": "http://eldiariodecoahuila.com.mx/notas/2015/4/13/titanes-futuro-501119.asp"
         },
-        "eluniversal.com.mx/2015/03/usuarios-de-apple-y-google-espiados-durante-m%C3%A1s-una-d%C3%A9cada": {
-            "title": "Usuarios de Apple y Google espiados durante m\u00e1s de una d\u00e9cada - El Universal...",
-            "snippet": "El UniversalUsuarios de Apple y Google espiados durante m\u00e1s de una d\u00e9cadaEl UniversalApple se encuentra preparando una soluci\u00f3n para el problema, para su navegador Safari en computadoras y tel\u00e9fonos. Aunque Chrome no es vulnerable, el navegador...",
-            "date": "2015-03-06",
-            "categories": "google,computadora",
-            "tags": "tel\u00e9fonos,apple,computadoras",
-            "recuweb_url": "http://es.recuweb.com/computadora/eluniversal.com.mx/2015/03/usuarios-de-apple-y-google-espiados-durante-m%C3%A1s-una-d%C3%A9cada",
-            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple&output=atom&nord=1",
-            "source_url": "http://eluniversal.com.mx/computacion-tecno/2015/apple-google-espiados-decada-102471.html"
+        "eluniversal.com.mx/2015/04/apple-pay-se-prepara-para-impulso-por-pagos-globales-el-universal": {
+            "title": "Apple Pay se prepara para impulso por pagos globales - El Universal...",
+            "snippet": "El UniversalApple Pay se prepara para impulso por pagos globalesEl UniversalA diferencia del negocio de la electr\u00f3nica de consumo, donde Apple presenta de forma regular nuevas computadoras o tel\u00e9fonos en decenas de pa\u00edses a la vez, no existe un...",
+            "date": "2015-04-08",
+            "categories": "electronica,computadora",
+            "tags": "tel\u00e9fonos,electr\u00f3nica,apple,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/eluniversal.com.mx/2015/04/apple-pay-se-prepara-para-impulso-por-pagos-globales-el-universal",
+            "resource_url": "http://news.google.es/?hl=es&q=computadoras%2Bapple%2Bcomputadoras%2Bapple&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.mx/computacion-tecno/2015/apple-pay-impulso-pagos-globales-103971.html"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "computadora",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/computadora/",
@@ -10,15 +11,45 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadora/computadora/blogs.json"
     },
     "items": {
-        "ultimahora.com/2015/04/dispar%C3%B3-8-veces-a-su-computadora-%C3%BA": {
-            "title": "Dispar\u00f3 8 veces a su computadora - \u00da...",
-            "snippet": "\u00da \u00f3 8 veces a su computadora\u00da \"\u00c9l estaba teniendo problemas tecnol\u00f3gicos, entonces llev\u00f3 la computadora hacia afuera y le dispar\u00f3\", dijo el teniente Jeff Strossner al peri\u00f3dico local Colorado Springs Gazette. Strossner escribi\u00f3 en Twitter...",
+        "sipse.com/2015/04/comer-frente-a-la-tv-o-computadora-engorda-cierto-falso": {
+            "title": "Comer frente a la TV o la computadora engorda, \u00bfcierto o falso? -...",
+            "snippet": "frente a la TV o la computadora engorda, \u00bfcierto o falso? est\u00e1s ocupado en otra cosa (que tambi\u00e9n puede ser la computadora, celular, videojuegos o hasta un libro), no te dar\u00e1s cuenta de lo que est\u00e1s consumiendo. Por ende, no s\u00f3lo comer\u00e1s...",
             "date": "2015-04-23",
-            "categories": "computadora,twitter",
-            "tags": "colorado,colorado_springs,springs,llev\u00f3,estaba,computadora,twitter",
-            "recuweb_url": "http://es.recuweb.com/twitter/ultimahora.com/2015/04/dispar%C3%B3-8-veces-a-su-computadora-%C3%BA",
-            "resource_url": "http://news.google.es/?hl=es&q=computadora&output=atom&nord=1",
-            "source_url": "http://ultimahora.com/disparo-8-veces-su-computadora-n890172.html"
+            "categories": "videojuego,computadora",
+            "tags": "s\u00f3lo,puede,frente,computadora,celular",
+            "recuweb_url": "http://es.recuweb.com/computadora/sipse.com/2015/04/comer-frente-a-la-tv-o-computadora-engorda-cierto-falso",
+            "resource_url": "http://news.google.es/?hl=es&q=computadora%2Bcomputadora&output=atom&nord=1",
+            "source_url": "http://sipse.com/novedades/secretos-para-bajar-de-peso-mitos-y-verdades-148250.html"
+        },
+        "pueblanoticias.com.mx/2015/04/estar-varias-horas-frente-a-la-computadora-puede-subir-de-peso": {
+            "title": "Estar varias horas frente a la computadora puede subir de peso - Puebla Noticias...",
+            "snippet": "Puebla NoticiasEstar varias horas frente a la computadora puede subir de pesoPuebla NoticiasPuebla, Pue.- Si eres de las personas que pasas varias horas sentado frente a la computadora, ten cuidado porque pueden subirte unos kilitos, debido a la...",
+            "date": "2015-04-23",
+            "categories": "computadora",
+            "tags": "porque,frente,puede,noticias,computadora",
+            "recuweb_url": "http://es.recuweb.com/computadora/pueblanoticias.com.mx/2015/04/estar-varias-horas-frente-a-la-computadora-puede-subir-de-peso",
+            "resource_url": "http://news.google.es/?hl=es&q=computadora%2Bcomputadora&output=atom&nord=1",
+            "source_url": "http://pueblanoticias.com.mx/noticia/estar-varias-horas-frente-a-la-computadora-puede-subir-de-peso-67973/"
+        },
+        "aztecanoticias.com.mx/2015/04/hombre-se-pelea-con-computadora-y-la-mata-a-balazos": {
+            "title": "Hombre se pelea con computadora y la mata a balazos...",
+            "snippet": "Sac\u00f3 la pistola, le dio 8 disparos y abandon\u00f3 el cuerpo en un callej\u00f3n; recibi\u00f3 una citaci\u00f3n judicial por matar a tiros a su computadora. M\u00e9xico, DF.- Sac\u00f3 la pistola, le dio 8 disparos y abandon\u00f3 el cuerpo en un callej\u00f3n. Pero le...",
+            "date": "2015-04-23",
+            "categories": "computadora",
+            "tags": "matar,mata,hombre,computadora,m\u00e9xico",
+            "recuweb_url": "http://es.recuweb.com/computadora/aztecanoticias.com.mx/2015/04/hombre-se-pelea-con-computadora-y-la-mata-a-balazos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadora&format=RSS&cc=es",
+            "source_url": "http://aztecanoticias.com.mx/notas/internacional/219023/hombre-se-pelea-con-computadora-y-la-mata-a-balazos"
+        },
+        "elsemanario.com/2015/04/pymes-vulneran-vida-de-sus-empresas-por-no-respaldar-computadoras-ni": {
+            "title": "PyMES vulneran vida de sus empresas por no respaldar computadoras ni nube...",
+            "snippet": "Virus como el CTB- Locker, secuestra no s\u00f3lo la computadora, sino tambi\u00e9n los archivos, representando un gran riesgo para las PyMES. Ciudad de M\u00e9xico.- En conferencia con el comisario general Ciro Humberto Ortiz Estrada, quien es el titular de...",
+            "date": "2015-04-23",
+            "categories": "computadora",
+            "tags": "s\u00f3lo,vida,computadoras,computadora,virus,m\u00e9xico",
+            "recuweb_url": "http://es.recuweb.com/computadora/elsemanario.com/2015/04/pymes-vulneran-vida-de-sus-empresas-por-no-respaldar-computadoras-ni",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadora&format=RSS&cc=es",
+            "source_url": "http://elsemanario.com/101596/pymes-vulneran-vida-de-sus-empresas-por-no-respaldar-computadoras-ni-nube/"
         },
         "agenciasanluis.com/2015/04/alumnos-de-la-escuela-modelo-ya-tienen-su-computadora-agencia-noticias": {
             "title": "Alumnos de la Escuela Modelo ya tienen su computadora - Agencia de Noticias San Luis (Comunicado de...",
@@ -50,24 +81,24 @@
             "resource_url": "http://news.google.es/?hl=es&q=computadora&output=atom&nord=1",
             "source_url": "http://laprensa.hn/tecnologia/833188-410/estudiantes-crean-un-minirrat\u00f3n-para-computadora-que-se-coloca-en-la-u\u00f1a"
         },
-        "larazon.com.ar/2015/04/harto-del-mal-desempe%C3%B1o-de-su-computadora-le-peg%C3%B3-ocho-tiros": {
-            "title": "Harto del mal desempe\u00f1o de su computadora, \u00a1le peg\u00f3 ocho tiros! - La Raz\u00f3n (Argentina)...",
-            "snippet": "La Raz\u00f3n (Argentina)Harto del mal desempe\u00f1o de su computadora, \u00a1le peg\u00f3 ocho tiros!La Raz\u00f3n (Argentina)22 ABR 2015 16:18 \u00bfReci\u00e9n enciende y ya est\u00e1 tildada? \u00bfClicke\u00e1s un archivo y mientras lo abre te hac\u00e9s unos mates? \u00bfViv\u00eds haciendo...",
+        "cnet.com/2015/04/google-project-fi-usa-tu-n%C3%BAmero-en-computadoras-y-tabletas-cnet": {
+            "title": "Google Project Fi: usa tu n\u00famero en computadoras y tabletas - CNET en Espa\u00f1ol...",
+            "snippet": "CNET en Espa\u00f1olGoogle Project Fi: usa tu n\u00famero en computadoras y tabletasCNET en Espa\u00f1olM\u00faltiples veces he recibido llamadas mientras tengo el celular en mi bolsillo y, en otra parte y recibo una notificaci\u00f3n en Gmail o Google para contestar...",
             "date": "2015-04-22",
-            "categories": "computadora",
-            "tags": "abre,enciende,peg\u00f3,tiros,mal,mal-desempe\u00f1o,desempe\u00f1o,computadora",
-            "recuweb_url": "http://es.recuweb.com/computadora/larazon.com.ar/2015/04/harto-del-mal-desempe%C3%B1o-de-su-computadora-le-peg%C3%B3-ocho-tiros",
-            "resource_url": "http://news.google.es/?hl=es&q=computadora&output=atom&nord=1",
-            "source_url": "http://larazon.com.ar/interesa/Harto-desempeno-computadora-pego-tiros_0_672000170.html"
+            "categories": "computadora,google",
+            "tags": "celular,computadoras,google",
+            "recuweb_url": "http://es.recuweb.com/google/cnet.com/2015/04/google-project-fi-usa-tu-n%C3%BAmero-en-computadoras-y-tabletas-cnet",
+            "resource_url": "http://news.google.es/?hl=es&q=computadora%2Bcomputadora&output=atom&nord=1",
+            "source_url": "http://cnet.com/es/noticias/google-project-fi-usa-tu-numero-en-computadoras-y-tabletas/"
         },
-        "rpp.com.pe/2015/04/hombre-acribill%C3%B3-su-computadora-luego-de-ver-pantalla-azul-rpp-noticias": {
-            "title": "Hombre acribill\u00f3 su computadora luego de ver pantalla azul - RPP Noticias...",
-            "snippet": "RPP NoticiasHombre acribill\u00f3 su computadora luego de ver \"pantalla azul\"RPP NoticiasTener una computadora lenta puede enfurecer a muchos, pero no al extremo al que lleg\u00f3 Lucas Linch. El due\u00f1o de una antigua Dell acribill\u00f3 al sistema luego de ver...",
+        "rpp.com.pe/2015/04/hombre-acribill%C3%B3-su-computadora-luego-de-ver-pantalla-azul": {
+            "title": "Hombre acribill\u00f3 su computadora luego de ver pantalla azul...",
+            "snippet": "Tener una computadora lenta puede enfurecer a muchos, pero no al extremo al que lleg\u00f3 Lucas Linch. El due\u00f1o de una antigua Dell acribill\u00f3 al sistema luego de ver la pantalla azul de la muerte, hecho que provoc\u00f3 su ira. Lo curioso es que Hinch...",
             "date": "2015-04-22",
             "categories": "computadora",
-            "tags": "ver,due\u00f1o,lucas,puede,noticias,hombre,computadora",
-            "recuweb_url": "http://es.recuweb.com/computadora/rpp.com.pe/2015/04/hombre-acribill%C3%B3-su-computadora-luego-de-ver-pantalla-azul-rpp-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=computadora&output=atom&nord=1",
+            "tags": "puede,hombre,computadora",
+            "recuweb_url": "http://es.recuweb.com/computadora/rpp.com.pe/2015/04/hombre-acribill%C3%B3-su-computadora-luego-de-ver-pantalla-azul",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=computadora&format=RSS&cc=es",
             "source_url": "http://rpp.com.pe/2015-04-22-hombre-acribillo-su-computadora-luego-de-ver-pantalla-azul-noticia_790237.html"
         },
         "eluniversal.com.mx/2015/04/hombre-en-eu-enfrenta-juicio-por-matar-a-su-computadora": {
@@ -79,36 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/computadora/eluniversal.com.mx/2015/04/hombre-en-eu-enfrenta-juicio-por-matar-a-su-computadora",
             "resource_url": "http://www.bing.com/news/search?first=1&q=computadora&format=RSS&cc=es",
             "source_url": "http://eluniversal.com.mx/el-mundo/2015/hombre-enfrenta-juicio-matar-computadora-1094475.html"
-        },
-        "aztecanoticias.com.mx/2015/04/hombre-se-pelea-con-computadora-y-la-mata-a-balazos": {
-            "title": "Hombre se pelea con computadora y la mata a balazos...",
-            "snippet": "Sac\u00f3 la pistola, le dio 8 disparos y abandon\u00f3 el cuerpo en un callej\u00f3n; recibi\u00f3 una citaci\u00f3n judicial por matar a tiros a su computadora. M\u00e9xico, DF.- Sac\u00f3 la pistola, le dio 8 disparos y abandon\u00f3 el cuerpo en un callej\u00f3n. Pero le...",
-            "date": "2015-04-22",
-            "categories": "computadora",
-            "tags": "matar,tiros,mata,hombre,computadora",
-            "recuweb_url": "http://es.recuweb.com/computadora/aztecanoticias.com.mx/2015/04/hombre-se-pelea-con-computadora-y-la-mata-a-balazos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=computadora&format=RSS&cc=es",
-            "source_url": "http://aztecanoticias.com.mx/notas/internacional/219023/hombre-se-pelea-con-computadora-y-la-mata-a-balazos"
-        },
-        "lanacion.com.ar/2015/04/la-computadora-no-le-andaba-bien-se-hart%C3%B3-y-peg%C3%B3-8": {
-            "title": "La computadora no le andaba bien: se hart\u00f3 y le peg\u00f3 8 tiros...",
-            "snippet": "La computadora de Lucas Hinch, un ciudadano de Colorado Springs, en Estados Unidos, llevaba varios meses sin funcionar bien. Tan frustrado estaba por el mal desempe\u00f1o de la PC, que Hinch, due\u00f1o de una tienda que vende t\u00e9 org\u00e1nico, llev\u00f3 el...",
-            "date": "2015-04-22",
-            "categories": "computadora",
-            "tags": "llev\u00f3,due\u00f1o,estaba,mal,mal-desempe\u00f1o,desempe\u00f1o,colorado,colorado_springs,springs,lucas,peg\u00f3,computadora,tiros",
-            "recuweb_url": "http://es.recuweb.com/computadora/lanacion.com.ar/2015/04/la-computadora-no-le-andaba-bien-se-hart%C3%B3-y-peg%C3%B3-8",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=computadora&format=RSS&cc=es",
-            "source_url": "http://lanacion.com.ar/1786630-la-computadora-no-le-andaba-bien-se-harto-y-le-pego-8-tiros"
-        },
-        "elcomercio.com/2015/04/pornhub-regala-computadora-a-persona-que-rompi%C3%B3-la-suya": {
-            "title": "PornHub regala computadora a persona que rompi\u00f3 la suya para... - El Comercio...",
-            "snippet": "El ComercioPornHub regala computadora a persona que rompi\u00f3 la suya para...El ComercioDe esta manera, PornHub premi\u00f3 la 'fidelidad'de Denzel con una nueva computadora, un servicio de suscripci\u00f3n Premium y una camiseta con el logo del portal,...",
-            "date": "2015-04-22",
-            "categories": "computadora",
-            "tags": "servicio,computadora",
-            "recuweb_url": "http://es.recuweb.com/computadora/elcomercio.com/2015/04/pornhub-regala-computadora-a-persona-que-rompi%C3%B3-la-suya",
-            "resource_url": "http://news.google.es/?hl=es&q=computadora&output=atom&nord=1",
-            "source_url": "http://elcomercio.com/tendencias/pornhub-regalo-computadora-pornografia-twitter.html"
         }
     }
 }

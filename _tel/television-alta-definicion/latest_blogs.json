@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "television-alta-definicion",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/television-alta-definicion/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/television-alta-definicion/television-alta-definicion/blogs.json"
     },
     "items": {
+        "radionotas.com/2015/04/el-nacimiento-de-la-radio-en-alta-definici%C3%B3n-radionotas": {
+            "title": "El nacimiento de la radio en Alta Definici\u00f3n Radionotas...",
+            "snippet": "Esto es algo parecido a lo que suceder\u00e1 en Colombia con la llegada de la Televisi\u00f3n Digital terrestre o TDT, que ya entr\u00f3 en funcionamiento y que en 2019 seg\u00fan c\u00e1lculos del Ministerio de Tecnolog\u00edas de la Informaci\u00f3n y...",
+            "date": "2015-04-21",
+            "author_name": "Fabric Echeverri",
+            "categories": "television,radio,tecnologia",
+            "tags": "televisi\u00f3n,televisi\u00f3n_digital,digital,alta,alta_definici\u00f3n,definici\u00f3n,radio,tdt",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/radionotas.com/2015/04/el-nacimiento-de-la-radio-en-alta-definici%C3%B3n-radionotas",
+            "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://radionotas.com/el-fin-de-la-radio-fm-el-inicio-de-la-radio-en-alta-definicion/"
+        },
         "radioaires.com/2015/04/televisi%C3%B3n-digital-la-abierta-radio-aires-hd": {
             "title": "TELEVISI\u00d3N DIGITAL La Televisi\u00f3n Digital Abierta... - Radio Aires HD...",
             "snippet": "La Televisi\u00f3n Digital Abierta (TDA), el sistema que permite ver 16 se\u00f1ales de TV en alta definici\u00f3n de manera gratuita, creci\u00f3 25% en el \u00faltimo a\u00f1o y se encamina a dar cobertura a dos de cada diez hogares del pa\u00eds. De esta...",
             "date": "2015-04-19",
             "author_name": "Sistema Noticias",
             "categories": "television,radio",
-            "tags": "hogares,pa\u00eds,se\u00f1ales,ver,televisi\u00f3n,digital,alta,definici\u00f3n",
+            "tags": "hogares,se\u00f1ales,televisi\u00f3n,televisi\u00f3n_digital,digital,abierta,radio,alta,definici\u00f3n",
             "recuweb_url": "http://es.recuweb.com/radio/radioaires.com/2015/04/televisi%C3%B3n-digital-la-abierta-radio-aires-hd",
             "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://radioaires.com/television-digital-la-television-digital-abierta-crecio-25-y-llegara-a-2-de-cada-10-hogares-a-fin-de-ano/"
@@ -27,7 +39,7 @@
             "date": "2015-04-17",
             "author_name": "Mundoplus.tv",
             "categories": "television",
-            "tags": "canales,hoy,gobierno,televisi\u00f3n,alta,definici\u00f3n",
+            "tags": "tres,seis,nuevos,concurso,concurso-p\u00fablico,p\u00fablico,aprobado,licitaci\u00f3n,finalmente,gobierno,canales,televisi\u00f3n,ellos,alta,definici\u00f3n",
             "recuweb_url": "http://es.recuweb.com/television/mundoplus.tv/2015/04/se-aprueba-en-consejo-de-ministros-la-licitaci%C3%B3n-6-nuevos",
             "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundoplus.tv/noticias/?seccion=tv_digital&id=11345"
@@ -38,10 +50,20 @@
             "date": "2015-04-16",
             "author_name": "Sebasti\u00e1n Vargas",
             "categories": "television",
-            "tags": "canales,gobierno,televisi\u00f3n,alta,definici\u00f3n",
+            "tags": "nacional,gobierno,canales,televisi\u00f3n,alta,definici\u00f3n",
             "recuweb_url": "http://es.recuweb.com/television/msgg.gob.cl/2015/04/gobierno-valor%C3%B3-compromiso-de-canales-para-implementar",
             "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://msgg.gob.cl/gobierno-valoro-compromiso-de-canales-para-implementar-la-television-digital-en-todo-chile/"
+        },
+        "guiatvd.cl/2015/04/cableoperadora-nacional-disminuye-se%C3%B1ales-de-alta-definici%C3%B3n": {
+            "title": "Cableoperadora nacional disminuye se\u00f1ales de Alta Definici\u00f3n en...",
+            "snippet": "As\u00ed es el caso de los clientes de la cableoperadora GTD/Telsur, quienes desde este 01 de abril cuentan con 24 se\u00f1ales HD en su pl\u00e1n b\u00e1sico de Alta Definici\u00f3n, uno menos que desde el 2013, cuando contaban con 25 canales de este tipo. El motivo...",
+            "date": "2015-04-03",
+            "author_name": "TVD Lover",
+            "tags": "clientes,alta,alta_definici\u00f3n,definici\u00f3n,nacional,se\u00f1ales,canales",
+            "recuweb_url": "http://es.recuweb.com/guiatvd.cl/2015/04/cableoperadora-nacional-disminuye-se%C3%B1ales-de-alta-definici%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://guiatvd.cl/2015/04/cableoperadora-nacional-disminuye.html"
         },
         "mundoplus.tv/2015/04/la-televisi%C3%B3n-local-asturiana-m%C3%A1s-que-tele-comienza-a-emitir": {
             "title": "La televisi\u00f3n local asturiana M\u00e1s Que Tele comienza a emitir en alta...",
@@ -49,7 +71,7 @@
             "date": "2015-04-02",
             "author_name": "Mundoplus.tv",
             "categories": "television",
-            "tags": "canal,convierte,emitir,televisi\u00f3n,alta,definici\u00f3n",
+            "tags": "canal,dentro,convierte,emitir,televisi\u00f3n,alta,definici\u00f3n",
             "recuweb_url": "http://es.recuweb.com/television/mundoplus.tv/2015/04/la-televisi%C3%B3n-local-asturiana-m%C3%A1s-que-tele-comienza-a-emitir",
             "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundoplus.tv/noticias/?seccion=tv_digital&id=11315"
@@ -60,7 +82,7 @@
             "date": "2015-03-28",
             "author_name": "woozybirdcircu",
             "categories": "television",
-            "tags": "hogares,alta,alta_definici\u00f3n,definici\u00f3n,tdt,hdtv,televisi\u00f3n",
+            "tags": "hogares,samsung,alta,alta_definici\u00f3n,definici\u00f3n,tdt,hdtv,televisi\u00f3n",
             "recuweb_url": "http://es.recuweb.com/television/woozybirdcircu.wordpress.com/2015/03/despu%C3%A9s-de-la-tdt-llega-hdtv",
             "resource_url": "http://es.search.wordpress.com/?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&f=feed&page=1",
             "source_url": "http://woozybirdcircu.wordpress.com/2015/03/28/despues-de-la-tdt-llega-la-hdtv/"
@@ -70,7 +92,7 @@
             "snippet": "Ins\u00f3lito paso atr\u00e1s de Radiotelevisi\u00f3n de Andaluc\u00eda, que desde hoy ha dejado de contar con una se\u00f1al de alta definici\u00f3n. Andaluc\u00eda TV, que comenz\u00f3 a emitir el pasado 28 de febrero en lugar de Canal Sur HD, ha convertido...",
             "date": "2015-03-26",
             "author_name": "Mundoplus.tv",
-            "tags": "canal,emitir,hoy,convierte,andaluc\u00eda,alta,definici\u00f3n",
+            "tags": "canal,emitir,convierte,alta,definici\u00f3n",
             "recuweb_url": "http://es.recuweb.com/mundoplus.tv/2015/03/andaluc%C3%ADa-tv-el-nuevo-canal-auton%C3%B3mico-andaluz-convierte",
             "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundoplus.tv/noticias/?seccion=tv_digital&id=11288"
@@ -81,21 +103,10 @@
             "date": "2015-03-16",
             "author_name": "kanjintharch",
             "categories": "television",
-            "tags": "televisores,hdtv,alta,definici\u00f3n,televisi\u00f3n",
+            "tags": "hdtv,alta,definici\u00f3n,espa\u00f1a,televisi\u00f3n",
             "recuweb_url": "http://es.recuweb.com/television/kanjintharch.wordpress.com/2015/03/la-hdtv-se-est%C3%A1-convirtiendo-en-una-commodity",
             "resource_url": "http://es.search.wordpress.com/?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&f=feed&page=1",
             "source_url": "http://kanjintharch.wordpress.com/2015/03/16/la-hdtv-se-esta-convirtiendo-en-una-commodity/"
-        },
-        "mundoplus.tv/2015/03/los-anunciantes-canarios-acogen-con-satisfacci%C3%B3n": {
-            "title": "Los anunciantes canarios acogen con satisfacci\u00f3n la... -...",
-            "snippet": "La Asociaci\u00f3n Canaria de Anunciantes ha afirmado que se siente satisfecha de la inversi\u00f3n realizada por las cadenas de televisi\u00f3n privada para mantener las desconexiones regionales en las se\u00f1ales de alta definici\u00f3n,...",
-            "date": "2015-03-11",
-            "author_name": "Mundoplus.tv",
-            "categories": "television",
-            "tags": "se\u00f1ales,televisi\u00f3n,alta,definici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/television/mundoplus.tv/2015/03/los-anunciantes-canarios-acogen-con-satisfacci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mundoplus.tv/noticias/?seccion=tv_digital&id=11232"
         },
         "mundodigital.net/2015/03/tdt-y-televisi%C3%B3n-de-alta-definici%C3%B3n-full-hd-ready-parte-2": {
             "title": "TDT y Televisi\u00f3n de Alta Definici\u00f3n Full HD y HD Ready Parte 2...",
@@ -107,16 +118,6 @@
             "recuweb_url": "http://es.recuweb.com/television/mundodigital.net/2015/03/tdt-y-televisi%C3%B3n-de-alta-definici%C3%B3n-full-hd-ready-parte-2",
             "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion%2Btelevision%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundodigital.net/tdt-y-television-de-alta-definicion-full-hd-y-hd-ready-parte-22/"
-        },
-        "panoramaaudiovisual.com/2015/03/rtve-andaluc%C3%ADa-emite-ya-toda-la-programaci%C3%B3n-de-1-en-alta": {
-            "title": "RTVE Andaluc\u00eda emite ya toda la programaci\u00f3n de La 1 en Alta...",
-            "snippet": "Los ciudadanos andaluces podr\u00e1n ver las noticias sobre su Comunidad y sus municipios a trav\u00e9s del canal La 1 HD., que se mantendr\u00e1 como definitivo de La 1 en Alta Definici\u00f3n cuando termine el proceso de liberaci\u00f3n del dividendo digital...",
-            "date": "2015-03-06",
-            "author_name": "REDACCION",
-            "tags": "definici\u00f3n,digital,canal,ver,andaluc\u00eda,alta",
-            "recuweb_url": "http://es.recuweb.com/panoramaaudiovisual.com/2015/03/rtve-andaluc%C3%ADa-emite-ya-toda-la-programaci%C3%B3n-de-1-en-alta",
-            "resource_url": "http://www.google.com/search?q=television%2Balta%2Bdefinicion&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://panoramaaudiovisual.com/2015/03/06/rtve-andalucia-emite-ya-toda-la-programacion-de-la-1-en-alta-definicion/"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tumblr",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/tumblr/",
@@ -10,60 +11,104 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/tumblr/tumblr/blogs.json"
     },
     "items": {
-        "machodominante.es/2015/02/james-curran-y-su-tumblr-animado-blog-de-dise%C3%B1o-gr%C3%A1fico": {
-            "title": "James Curran y su tumblr animado Blog de dise\u00f1o gr\u00e1fico y...",
-            "snippet": "Animaci\u00f3n 26 feb 2015 Jos\u00e9 M Quir\u00f3s. Este director de animaci\u00f3n londinense muestra su trabajo en su tumblr, y no tiene desperdicio. Animaos y echad un vistazo (perd\u00f3n por el chiste malo) James Curran. James Curran. Share Button...",
-            "date": "2015-02-26",
-            "author_name": "Jos\u00e9 M\u00aa Quir\u00f3s",
+        "microsiervos.com/2015/04/mapsdesign-el-tumblr-de-los-mapas-microsiervos-arte-y-dise%C3%B1o": {
+            "title": "MapsDesign: el tumblr de los mapas Microsiervos (Arte y Dise\u00f1o)...",
+            "snippet": "Por Alvy 21 de Abril de 2015. DesignMaps Tumblr. Para los amantes de los mapas, la cartograf\u00eda y los callejeros, sin dejar de lado los esquemas y gu\u00edas geogr\u00e1ficas bien dise\u00f1adas: MapsDesign, el tumblr de los mapas. (V\u00eda Swissmiss.).",
+            "date": "2015-04-21",
+            "author_name": "alvy@microsiervos.com (Alvy)",
             "categories": "tumblr",
-            "tags": "tumblr",
-            "recuweb_url": "http://es.recuweb.com/tumblr/machodominante.es/2015/02/james-curran-y-su-tumblr-animado-blog-de-dise%C3%B1o-gr%C3%A1fico",
+            "tags": "bien,tumblr",
+            "recuweb_url": "http://es.recuweb.com/tumblr/microsiervos.com/2015/04/mapsdesign-el-tumblr-de-los-mapas-microsiervos-arte-y-dise%C3%B1o",
             "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://machodominante.es/james-curran-y-su-tumblr-animado/"
+            "source_url": "http://microsiervos.com/archivo/arte-y-diseno/mapsdesign-tumblr-mapas.html"
         },
-        "wwwhatsnew.com/2015/02/tumblr-ahora-censura-los-resultados-de-b%C3%BAsqueda-relacionados": {
-            "title": "Tumblr ahora censura los resultados de b\u00fasqueda relacionados con...",
-            "snippet": "Las b\u00fasquedas de publicaciones en Tumblr que mencionen la palabra torrent as\u00ed como aquellos contenidos que contengan la etiqueta torrent, han.",
-            "date": "2015-02-23",
-            "author_name": "Juan David Qui\u00f1\u00f3nez",
+        "merca20.com/2015/04/el-nuevo-formato-publicitario-que-nike-ha-estrenado-en-tumblr": {
+            "title": "El nuevo formato publicitario que Nike ha estrenado en Tumblr...",
+            "snippet": "Un nuevo formato publicitario, reci\u00e9n lanzado por Tumblr y que propone a las marcas aparecer veinticuatro horas continuas en la parte superior de las p\u00e1ginas de los usuarios, ha sido estrenado por la marca deportiva,...",
+            "date": "2015-04-20",
+            "author_name": "Valeria Murgich",
             "categories": "tumblr",
-            "tags": "contenidos,tumblr,ahora",
-            "recuweb_url": "http://es.recuweb.com/tumblr/wwwhatsnew.com/2015/02/tumblr-ahora-censura-los-resultados-de-b%C3%BAsqueda-relacionados",
+            "tags": "sido,marcas,marcas-aparecer,aparecer,veinticuatro,veinticuatro-horas,horas,parte,parte-superior,superior,p\u00e1ginas,usuarios,lanzado,nuevo,nuevo-formato,nuevo-formato-publicitario,formato,formato-publicitario,publicitario,nike,tumblr",
+            "recuweb_url": "http://es.recuweb.com/tumblr/merca20.com/2015/04/el-nuevo-formato-publicitario-que-nike-ha-estrenado-en-tumblr",
             "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/02/23/tumblr-censura-resultados-busqueda-relacionadas-torrent/"
+            "source_url": "http://merca20.com/el-nuevo-formato-publicitario-que-nike-ha-estrenado-en-tumblr/"
         },
-        "genbeta.com/2015/02/alerta-en-tumblr-usuarios-son-expulsados-autom%C3%A1ticamente": {
-            "title": "Alerta en Tumblr, usuarios son expulsados autom\u00e1ticamente por...",
-            "snippet": "Tumblr redobla sus esfuerzos para eliminar contenido protegido, y muchos de sus usuarios son baneados...",
-            "date": "2015-02-17",
-            "author_name": "Y\u00fabal FM",
+        "marketingnews.es/2015/04/nike-estrena-el-nuevo-formato-publicitario-de-tumblr-marketing-news": {
+            "title": "Nike estrena el nuevo formato publicitario de Tumblr - Marketing News...",
+            "snippet": "Internacional: Nike es el primer anunciante de 'Sponsored Day', un nuevo formato publicitario lanzado por Tumblr que permite a las marcas aparecer durante veinticuatro horas en la parte superior de las p\u00e1ginas de los...",
+            "date": "2015-04-20",
+            "author_name": "desconocido",
             "categories": "tumblr",
-            "tags": "son,contenido,tumblr,usuarios",
-            "recuweb_url": "http://es.recuweb.com/tumblr/genbeta.com/2015/02/alerta-en-tumblr-usuarios-son-expulsados-autom%C3%A1ticamente",
+            "tags": "marcas,marcas-aparecer,aparecer,durante,veinticuatro,veinticuatro-horas,horas,parte,parte-superior,superior,p\u00e1ginas,nuevo,nuevo-formato,nuevo-formato-publicitario,formato,formato-publicitario,publicitario,lanzado,sponsored,sponsored_day,nike,tumblr,permite",
+            "recuweb_url": "http://es.recuweb.com/tumblr/marketingnews.es/2015/04/nike-estrena-el-nuevo-formato-publicitario-de-tumblr-marketing-news",
             "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://genbeta.com/redes-sociales-y-comunidades/alerta-en-tumblr-suarios-son-expulsados-automaticamente-por-subir-musica-protegida"
+            "source_url": "http://marketingnews.es/internacional/noticia/1089822028505/nike-estrena-formato-publicitario-tumblr.1.html?utm_source=rss&utm_medium=feed&utm_campaign=20150421"
         },
-        "drupalmexico.com/2015/02/de-tumblr-a-drupal-m%C3%A9xico": {
-            "title": "De tumblr a drupal Drupal M\u00e9xico...",
-            "snippet": "Es interesante encontrar un post de como mover contenidos de Tumblr a Drupal. Si bien no esta explicando a detalle es un buen comienzo.",
-            "date": "2015-02-10",
-            "author_name": "admin",
-            "categories": "drupal,tumblr",
-            "tags": "bien,contenidos,m\u00e9xico,tumblr",
-            "recuweb_url": "http://es.recuweb.com/tumblr/drupalmexico.com/2015/02/de-tumblr-a-drupal-m%C3%A9xico",
-            "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://drupalmexico.com/es/blog/tumblr-drupal"
-        },
-        "enter.co/2015/02/ahora-tumblr-deja-filtrar-tipo-de-publicaci%C3%B3n-en-el-archivo": {
-            "title": "Ahora Tumblr deja filtrar tipo de publicaci\u00f3n en el archivo...",
-            "snippet": "Los usuarios de Tumblr se pondr\u00e1n muy contentos al saber que ahora, cuando ingresen al archivo de sus blogs o, de otros blogs, van a tener una opci\u00f3n de filtrar el tipo de contenido que quieren que les aparezca seg\u00fan el...",
-            "date": "2015-02-06",
-            "author_name": "Laura Rojas",
+        "actualidadipad.com/2015/04/ya-podemos-crear-blogs-de-tumblr-desde-su-app": {
+            "title": "Ya podemos crear blogs de Tumblr desde su app...",
+            "snippet": "Tumblr es una de las redes sociales que aunque siga pasando el tiempo sigue estando ah\u00ed, sigue recogiendo a los millones de personas que suben diariamente su contenido para que todo el mundo pueda verlo: v\u00eddeos, textos, m\u00fasica Gracias a ellos...",
+            "date": "2015-04-19",
+            "author_name": "Angel Gonz\u00e1lez",
             "categories": "tumblr",
-            "tags": "contenido,opci\u00f3n,muy,ahora,tumblr,tipo,usuarios",
-            "recuweb_url": "http://es.recuweb.com/tumblr/enter.co/2015/02/ahora-tumblr-deja-filtrar-tipo-de-publicaci%C3%B3n-en-el-archivo",
+            "tags": "contenido,mundo,sociales,tiempo,app,crear,tumblr,redes,v\u00eddeos,m\u00fasica,gracias",
+            "recuweb_url": "http://es.recuweb.com/tumblr/actualidadipad.com/2015/04/ya-podemos-crear-blogs-de-tumblr-desde-su-app",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=tumblr%2Btumblr&rss=1&lng=es",
+            "source_url": "http://actualidadipad.com/ya-podemos-crear-blogs-de-tumblr-desde-su-app/"
+        },
+        "merca20.com/2015/04/tumblr-present%C3%B3-una-nueva-opci%C3%B3n-para-los-anunciantes-merca2-0": {
+            "title": "Tumblr present\u00f3 una nueva opci\u00f3n para los anunciantes - Merca2.0...",
+            "snippet": "Los usuarios de Tumblr ver\u00e1n de ahora un adelante un nuevo tipo de publicidad. El producto llamado \"Sponsored Day\" har\u00e1 que las marcas aparezcan en los dashboards durante un lapso de 24 horas.",
+            "date": "2015-04-17",
+            "author_name": "Oswaldo Olivas",
+            "categories": "tumblr",
+            "tags": "sponsored,marcas,durante,nuevo,usuarios,nueva,opci\u00f3n,anunciantes,tumblr,horas",
+            "recuweb_url": "http://es.recuweb.com/tumblr/merca20.com/2015/04/tumblr-present%C3%B3-una-nueva-opci%C3%B3n-para-los-anunciantes-merca2-0",
             "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://enter.co/cultura-digital/redes-sociales/ahora-tumblr-deja-filtrar-tipo-de-publicacion-en-el-archivo/"
+            "source_url": "http://merca20.com/tumblr-presento-una-nueva-opcion-para-los-anunciantes/"
+        },
+        "marketingdirecto.com/2015/04/tumblr-lanza-un-espacio-publicitario-que-permanece-fijo": {
+            "title": "Tumblr lanza un espacio publicitario que permanece fijo en su...",
+            "snippet": "Tumblr lanza el espacio publicitario Sponsored Day que permite a los anunciantes mantener su marca en la parte superior de la p\u00e1gina durante 24 horas.",
+            "date": "2015-04-16",
+            "author_name": "becario1",
+            "categories": "tumblr",
+            "tags": "anunciantes,parte,parte-superior,superior,sponsored,sponsored_day,publicitario,tumblr,permite,p\u00e1gina,durante,horas",
+            "recuweb_url": "http://es.recuweb.com/tumblr/marketingdirecto.com/2015/04/tumblr-lanza-un-espacio-publicitario-que-permanece-fijo",
+            "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://marketingdirecto.com/actualidad/publicidad/tumblr-lanza-espacio-publicitario-permanece-fijo-pagina-24-horas/"
+        },
+        "codigoespagueti.com/2015/04/tumblr-para-ios-ya-te-permite-crear-blogs-desde-c%C3%B3digo-espagueti": {
+            "title": "Tumblr para iOS ya te permite crear blogs desde... - C\u00f3digo Espagueti...",
+            "snippet": "Tumblr acaba de lanzar la versi\u00f3n 4.0 de su app en iOS, misma que implementa muchas mejoras solicitadas por los usuarios de la plataforma. Lo primero que sobresale es que el icono de la aplicaci\u00f3n se ha modificado,...",
+            "date": "2015-04-16",
+            "author_name": "El Becario",
+            "categories": "tumblr",
+            "tags": "aplicaci\u00f3n,mejoras,usuarios,app,acaba,acaba-de-lanzar,lanzar,lanzar-la-versi\u00f3n,versi\u00f3n,tumblr,ios,permite,crear",
+            "recuweb_url": "http://es.recuweb.com/tumblr/codigoespagueti.com/2015/04/tumblr-para-ios-ya-te-permite-crear-blogs-desde-c%C3%B3digo-espagueti",
+            "resource_url": "http://www.google.com/search?q=tumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://codigoespagueti.com/noticias/tumblr-4-0-actualizacion-ios/"
+        },
+        "applelizados.com/2015/04/tumblr-4-0-para-ios-otra-gran-actualizaci%C3%B3n-llena-de-novedades": {
+            "title": "Tumblr 4.0 para iOS, otra gran actualizaci\u00f3n llena de novedades...",
+            "snippet": "Tumblr para iOS acaba de lanzar una actualizaci\u00f3n de las de n\u00famero redondo, la 4.0, y como exige la tradici\u00f3n no escrita, lo hace incorporando un gran n\u00famero de interesantes nuevas caracter\u00edsticas como la opci\u00f3n de...",
+            "date": "2015-04-15",
+            "author_name": "Jose Alfocea",
+            "categories": "tumblr",
+            "tags": "gran,nuevas,opci\u00f3n,acaba,acaba-de-lanzar,lanzar,actualizaci\u00f3n,gran-actualizaci\u00f3n,novedades,tumblr,ios",
+            "recuweb_url": "http://es.recuweb.com/tumblr/applelizados.com/2015/04/tumblr-4-0-para-ios-otra-gran-actualizaci%C3%B3n-llena-de-novedades",
+            "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applelizados.com/tumblr-4-0-ios-gran-actualizacion-novedades-98789"
+        },
+        "tecnologia.starmedia.com/2015/04/tumblr-presenta-su-nueva-versi%C3%B3n-4-0-para-ios-starmedia": {
+            "title": "Tumblr presenta su nueva versi\u00f3n 4.0 para iOS starMedia...",
+            "snippet": "Tumblr se ha actualizado a una nueva versi\u00f3n en iOS, la 4.0, en la cual ha implementado grandes mejoras...",
+            "date": "2015-04-15",
+            "author_name": "desconocido",
+            "categories": "tumblr",
+            "tags": "mejoras,nueva,versi\u00f3n,ios,tumblr",
+            "recuweb_url": "http://es.recuweb.com/tumblr/tecnologia.starmedia.com/2015/04/tumblr-presenta-su-nueva-versi%C3%B3n-4-0-para-ios-starmedia",
+            "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tecnologia.starmedia.com/noticias/tumblr-presenta-su-nueva-version-4-0-para-ios.html"
         },
         "actualidadipad.com/2015/01/tumblr-mejora-considerablemente-su-aplicaci%C3%B3n": {
             "title": "Tumblr mejora considerablemente su aplicaci\u00f3n...",
@@ -71,54 +116,10 @@
             "date": "2015-01-30",
             "author_name": "Angel Gonz\u00e1lez",
             "categories": "tumblr,twitter,facebook",
-            "tags": "nueva,posibilidad,v\u00eddeos,redes,redes-sociales,sociales,novedades,tumblr,aplicaci\u00f3n,twitter,hoy,facebook",
+            "tags": "lanzar,nueva,sociales,lanzado,novedades,aplicaci\u00f3n,tumblr,redes,twitter,v\u00eddeos,facebook",
             "recuweb_url": "http://es.recuweb.com/facebook/actualidadipad.com/2015/01/tumblr-mejora-considerablemente-su-aplicaci%C3%B3n",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=tumblr%2Btumblr&rss=1&lng=es",
             "source_url": "http://actualidadipad.com/tumblr-mejora-considerablemente-su-aplicacion/"
-        },
-        "genbeta.com/2015/01/creatrs-tumblr-quiere-anuncios-creados-por-artistas-de-su-propia": {
-            "title": "Creatrs: Tumblr quiere anuncios creados por artistas de su propia...",
-            "snippet": "La idea de Tumblr es crearse su propia agencia de publicidad, en la que enlazar a los mejoras artistas de la comunidad de usuarios con los anunciantes para que puedan crear anuncios adecuados y efectivos para la web.",
-            "date": "2015-01-23",
-            "author_name": "Miguel L\u00f3pez",
-            "categories": "tumblr",
-            "tags": "anunciantes,tumblr,usuarios,crear",
-            "recuweb_url": "http://es.recuweb.com/tumblr/genbeta.com/2015/01/creatrs-tumblr-quiere-anuncios-creados-por-artistas-de-su-propia",
-            "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://genbeta.com/redes-sociales-y-comunidades/creatrs-tumblr-quiere-anuncios-creados-por-artistas-de-su-propia-comunidad"
-        },
-        "lucapiscitello.wordpress.com/2015/01/article-en-espanol": {
-            "title": "Article en espanol...",
-            "snippet": "En este articulo, personas hablan por que tumblr. Tumblr es en la red, y es en red social. Hay vente sies millon usars de tumblr, y tumblr es creciente. Mas personas en tumblr son joveines, y veinte cinco y abajo...",
-            "date": "2015-01-12",
-            "author_name": "esquiluca",
-            "categories": "tumblr",
-            "tags": "son,tumblr,red,social",
-            "recuweb_url": "http://es.recuweb.com/tumblr/lucapiscitello.wordpress.com/2015/01/article-en-espanol",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=tumblr%2Btumblr&rss=1&lng=es",
-            "source_url": "http://lucapiscitello.wordpress.com/2015/01/12/article-en-espanol/"
-        },
-        "seriesroom.blogspot.com/2015/01/renovaciones-de-the-cw-network": {
-            "title": "Renovaciones de 'The CW Network'...",
-            "snippet": "La cadena 'CW'ha confirmado algunas de las series renovadas este 2015 a trav\u00e9s de su cuenta oficial de Tumblr Tumblr/CW Leer m\u00e1s...",
-            "date": "2015-01-12",
-            "author_name": "(The Series Room)",
-            "categories": "tumblr",
-            "tags": "tumblr,cuenta",
-            "recuweb_url": "http://es.recuweb.com/tumblr/seriesroom.blogspot.com/2015/01/renovaciones-de-the-cw-network",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=tumblr%2Btumblr&rss=1&lng=es",
-            "source_url": "http://seriesroom.blogspot.com/2015/01/renovaciones-de-cw-network.html"
-        },
-        "upsocl.com/2015/01/una-joven-transg%C3%A9nero-de-17-a%C3%B1os-dej%C3%B3-nota-suicida-en-tumblr": {
-            "title": "Una Joven transg\u00e9nero de 17 a\u00f1os dej\u00f3 una nota suicida en Tumblr...",
-            "snippet": "La estudiante de preparatoria dej\u00f3 en su cuenta de Tumblr una nota suicida donde acusa a sus padres de negarse a reconocerla como mujer y pide que arreglemos nuestra sociedad. Medios locales as\u00ed como la escuela preparatoria donde...",
-            "date": "2015-01-03",
-            "author_name": "Simona Villela",
-            "categories": "escuela,sociedad,tumblr",
-            "tags": "cuenta,tumblr",
-            "recuweb_url": "http://es.recuweb.com/tumblr/upsocl.com/2015/01/una-joven-transg%C3%A9nero-de-17-a%C3%B1os-dej%C3%B3-nota-suicida-en-tumblr",
-            "resource_url": "http://www.google.com/search?q=tumblr%2Btumblr&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://upsocl.com/diversidad/una-joven-transgenero-de-17-anos-dejo-una-nota-suicida-en-tumblr-pidiendo-que-arreglemos-nuestra-sociedad/"
         }
     }
 }

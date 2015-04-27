@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "dokuwiki",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/dokuwiki/",
@@ -10,27 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
     },
     "items": {
+        "forobeta.com/2015/03/dokuwiki-ayuda-forobeta": {
+            "title": "DokuWiki - ayuda - ForoBeta...",
+            "snippet": "Hola buenos d\u00edas he estado mirando en el foro y en el buscador y no encuentro ninguna informaci\u00f3n relativa al gestor de contenidos Wiki llamado DocuWi.",
+            "date": "2015-03-17",
+            "author_name": "victorsnk",
+            "categories": "dokuwiki,wiki",
+            "tags": "foro,informaci\u00f3n,contenidos,dokuwiki,ayuda,hola,wiki",
+            "recuweb_url": "http://es.recuweb.com/wiki/forobeta.com/2015/03/dokuwiki-ayuda-forobeta",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://forobeta.com/otras-plataformas/401774-dokuwiki-ayuda.html"
+        },
         "forum.dokuwiki.org/2015/01/geotag-y-coordenadas-negativas-dokuwiki-user-forum": {
             "title": "Geotag y coordenadas negativas - DokuWiki User Forum...",
             "snippet": "Muy buenas a tods en mi primer post en este foro. Estoy teniendo un problema con Geotag y las ccordenadas negativas. geotaglat:, lon=, alt=90, placename=CTT-UM, region: ES-MC, country:ES...",
             "date": "2015-01-17",
             "author_name": "no_email@example.com (galopax)",
             "categories": "dokuwiki",
-            "tags": "problema,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,muy",
+            "tags": "problema,foro,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,muy",
             "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/01/geotag-y-coordenadas-negativas-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forum.dokuwiki.org/post/46750"
-        },
-        "mundonovedade.blogspot.com/2015/01/el-mundo-dokuwiki": {
-            "title": "El mundo: DOKUWIKI...",
-            "snippet": "DokuWiki es un software para gesti\u00f3n de web colaborativas de tipo wiki, escrito en lenguaje de programaci\u00f3n PHP y distribuido en c\u00f3digo abierto bajo la licencia GPL. Est\u00e1 enfocado para ser usado por grupos de des...",
-            "date": "2015-01-06",
-            "author_name": "Melanie Meza",
-            "categories": "lenguaje,dokuwiki,wiki,php",
-            "tags": "grupos,tipo,software,dokuwiki,web,wiki,php",
-            "recuweb_url": "http://es.recuweb.com/php/mundonovedade.blogspot.com/2015/01/el-mundo-dokuwiki",
-            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mundonovedade.blogspot.com/2015/01/dokuwiki.html"
         },
         "forum.dokuwiki.org/2014/10/ayuda-con-configuraci%C3%B3n-dokuwiki-user-forum": {
             "title": "Ayuda con configuraci\u00f3n. - DokuWiki User Forum...",
@@ -38,7 +39,7 @@
             "date": "2014-10-20",
             "author_name": "no_email@example.com (N3v3rtheless)",
             "categories": "dokuwiki",
-            "tags": "problema,trabajo,servidor,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,configuraci\u00f3n,web",
+            "tags": "problema,trabajo,servidor,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,configuraci\u00f3n,ayuda,hola,web",
             "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2014/10/ayuda-con-configuraci%C3%B3n-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/11813"
@@ -87,17 +88,6 @@
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://sobrebits.com/instalar-dokuwiki-como-wiki-personal-parte-1-preguntas-y-respuestas/"
         },
-        "actualidadgeek.org/2012/03/crea-una-p%C3%A1gina-web-tipo-wiki-con-dokuwiki-actualidad-geek": {
-            "title": "Crea una P\u00e1gina Web tipo Wiki con DokuWiki - Actualidad Geek...",
-            "snippet": "DokuWiki es un sistema Wiki de uso sencillo, en espa\u00f1ol y gratis, orientado a crear documentaci\u00f3n de cualquier tipo dentro de grupos de desarrollo, grupos de trabajo y peque\u00f1as empresas. Su sintaxis es simple y potente,...",
-            "date": "2012-03-30",
-            "author_name": "Javier",
-            "categories": "wiki,dokuwiki",
-            "tags": "grupos,trabajo,tipo,web,wiki,dokuwiki,simple",
-            "recuweb_url": "http://es.recuweb.com/dokuwiki/actualidadgeek.org/2012/03/crea-una-p%C3%A1gina-web-tipo-wiki-con-dokuwiki-actualidad-geek",
-            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://actualidadgeek.org/2012/03/crear-gratis-una-pagina-web-tipo-wiki-en-espanol/"
-        },
         "blog.jorgeivanmeza.com/2010/12/actualizar-dokuwiki-jorge-iv%C3%A1n-meza-mart%C3%ADnez": {
             "title": "Actualizar DokuWiki Jorge Iv\u00e1n Meza Mart\u00ednez...",
             "snippet": "Obtener la \u00faltima versi\u00f3n disponible en el sitio de descargas de DokuWiki. wget Realizar una copia de seguridad de la instalaci\u00f3n actual.",
@@ -119,6 +109,17 @@
             "recuweb_url": "http://es.recuweb.com/php/blog.jorgeivanmeza.com/2010/10/instalaci%C3%B3n-de-dokuwiki-2010-jorge-iv%C3%A1n-meza-mart%C3%ADnez",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.jorgeivanmeza.com/2010/10/instalacion-de-dokuwiki-2010/"
+        },
+        "catalogosl.wordpress.com/2008/01/dokuwiki-catalogo-de-s-l-para-gestores-informaci%C3%B3n": {
+            "title": "Dokuwiki Catalogo de S.L. para Gestores de Informaci\u00f3n...",
+            "snippet": "Dokuwiki es una herramienta de tipo wiki que cuenta con las siguientes caracter\u00edsticas (sacado de la wikipedia): Dentro de las principales caracter\u00edsticas de este software, se destacan: Gesti\u00f3n de espacios de contenidos...",
+            "date": "2008-01-31",
+            "author_name": "oskar calvo",
+            "categories": "dokuwiki,wiki",
+            "tags": "contenidos,software,tipo,dokuwiki,informaci\u00f3n,wiki",
+            "recuweb_url": "http://es.recuweb.com/wiki/catalogosl.wordpress.com/2008/01/dokuwiki-catalogo-de-s-l-para-gestores-informaci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://catalogosl.wordpress.com/2008/01/31/dokuwiki/"
         }
     }
 }

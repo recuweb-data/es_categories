@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mac-pro",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mac-pro/",
@@ -10,16 +11,41 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mac-pro/mac-pro/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/03/los-restauradores-136-discos-y-big-macs": {
-            "title": "LOS RESTAURADORES 136 - DISCOS Y BIG MACS.",
-            "snippet": "Rick se prepara para restaurar una 'C\u00e1rcel de Big Mac', un equipo del parque infantil del McDonald's de los a\u00f1os 70. \u00bfEl proyecto ser\u00e1 una Cajita Feliz o una caja de Pandora? El equipo se afana con un tocadiscos port\u00e1til Calliphone de los a\u00f1os...",
-            "date": "2015-03-19",
-            "author_name": "KiNg-CaRLiToS",
-            "tags": "feliz,mac,restaurar",
-            "recuweb_url": "http://es.recuweb.com/dailymotion.com/2015/03/los-restauradores-136-discos-y-big-macs",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mac+pro/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2jy2ng_los-restauradores-136-discos-y-big-macs_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jy2ng_los-restauradores-136-discos-y-big-macs_tech"
+        "youtube.com/2015/03/mac-pro-longwear-concealer-vale-la-pena-probar-rese%C3%B1a": {
+            "title": "MAC Pro Longwear Concealer Vale la Pena Probar? Rese\u00f1a...",
+            "snippet": "MAC Pro Longwear Concealer Vale la Pena Probar? Rese\u00f1a Ac\u00e1 les dejo esta serie de Rese\u00f1as o videos de si valen la pena probar con otros productos: Si... From: LS Beauty Views: 689 75 ratings Time: 13:20 More in Howto & Style...",
+            "date": "2015-03-16",
+            "author_name": "LS Beauty",
+            "categories": "mac-pro",
+            "tags": "pena,probar,productos,mac,mac_pro,mac_pro_longwear,pro,pro_longwear,pro_longwear_concealer,longwear,longwear_concealer,concealer,vale,rese\u00f1as",
+            "recuweb_url": "http://es.recuweb.com/mac-pro/youtube.com/2015/03/mac-pro-longwear-concealer-vale-la-pena-probar-rese%C3%B1a",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=dHMY2WXjGT8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/dHMY2WXjGT8/0.jpg"
+        },
+        "youtube.com/2015/02/mi-experiencia-con-el-macbook-pro-13-2014": {
+            "title": "Mi experiencia con el MacBook Pro 13 (2014)...",
+            "snippet": "Mi experiencia con el MacBook Pro 13\" (2014) En este v\u00eddeo os comento MI EXPERIENCIA con el MacBook Pro de 13\" del a\u00f1o 2014. He dividido el review en: pantalla, potencia y bater\u00eda. Para ver mas v\u00eddeos de Mac, pincha aqu\u00ed: From: Apple 5x1 Views:...",
+            "date": "2015-02-24",
+            "author_name": "Apple 5x1",
+            "categories": "macbook",
+            "tags": "v\u00eddeo,macbook,macbook_pro,pro,mac,apple",
+            "recuweb_url": "http://es.recuweb.com/macbook/youtube.com/2015/02/mi-experiencia-con-el-macbook-pro-13-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Z8uKxVsySIk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Z8uKxVsySIk/0.jpg"
+        },
+        "youtube.com/2015/02/macbook-pro-13-vs-air-cual-es-mejor": {
+            "title": "MacBook Pro 13 VS MacBook Air 13 - \u00bfCUAL ES MEJOR?",
+            "snippet": "MacBook Pro 13\" VS MacBook Air 13\" - \u00bfCUAL ES MEJOR? Comparativa del MacBook Pro vs MacBook Air, modelos de 2014 de 13\". \u00bfCual es mejor? en este v\u00eddeo les hemos sometido ha diferentes pruebas: test cinebench, apertura y cierre de apps,... From:...",
+            "date": "2015-02-17",
+            "author_name": "Apple 5x1",
+            "categories": "macbook",
+            "tags": "v\u00eddeo,macbook,macbook_air,air,macbook_pro,pro",
+            "recuweb_url": "http://es.recuweb.com/macbook/youtube.com/2015/02/macbook-pro-13-vs-air-cual-es-mejor",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=GcIPV0S2mkA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/GcIPV0S2mkA/0.jpg"
         },
         "dailymotion.com/2015/01/mini-displayport-to-vga-adapter-for-apple-macbook-air-pro-13": {
             "title": "Mini Displayport To VGA Adapter for Apple MacBook MacBook Air MacBook Pro 13 inch, MacBook Pro...",
@@ -27,7 +53,7 @@
             "date": "2015-01-04",
             "author_name": "Jimmyrbn",
             "categories": "imac,mac-pro,macbook",
-            "tags": "pro,mac,mac_pro,macbook_pro,macbook_air,air",
+            "tags": "pro,apple,mac,mac_pro,macbook,macbook_pro,macbook_air,air",
             "recuweb_url": "http://es.recuweb.com/macbook/dailymotion.com/2015/01/mini-displayport-to-vga-adapter-for-apple-macbook-air-pro-13",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mac+pro+mac+pro/0?af=1",
             "source_url": "http://dailymotion.com/video/x2e0dzd_mini-displayport-to-vga-adapter-for-apple-macbook-macbook-air-macbook-pro-13-inch-macbook-pro-15-inc_shortfilms",
@@ -39,7 +65,7 @@
             "date": "2014-12-31",
             "author_name": "neshudo",
             "categories": "mac-pro",
-            "tags": "guste,guste-el-video,unboxing,nueva,mac,mac_pro,pro,espero",
+            "tags": "guste,guste-el-video,nueva,mac,mac_pro,pro,espero",
             "recuweb_url": "http://es.recuweb.com/mac-pro/youtube.com/2014/12/unboxing-nueva-mac-pro-cilindro",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=sycZnManS0Y&feature=youtube_gdata",
@@ -62,7 +88,7 @@
             "date": "2014-10-30",
             "author_name": "Hispacast",
             "categories": "memoria,macbook",
-            "tags": "muestro,macbook_air,air,pro,c\u00f3mo,mac,macbook_pro",
+            "tags": "v\u00eddeo,muestro,macbook_air,air,pro,c\u00f3mo,mac,macbook_pro",
             "recuweb_url": "http://es.recuweb.com/macbook/youtube.com/2014/10/ampliar-memoria-de-la-macbook-pro-retina-air-upgrade-mac",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=86jCzwm49nE&feature=youtube_gdata",
@@ -73,7 +99,7 @@
             "snippet": "Como formatear tu Mac Restaurar a valores de fabrica En este sencillo video aprenderas a formatear tu mac e instalar una copia nueva del sistema operativo f\u00e1cil y r\u00e1pido tiempo promedio del procedimiento completo 2 horas. videos relacionados...",
             "date": "2014-10-02",
             "author_name": "NumberDZ",
-            "tags": "mac,nueva,restaurar",
+            "tags": "mac,nueva",
             "recuweb_url": "http://es.recuweb.com/youtube.com/2014/10/como-formatear-tu-mac-restaurar-a-valores-de-fabrica",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=AgoZ4E7gZgY&feature=youtube_gdata",
@@ -85,7 +111,7 @@
             "date": "2014-08-26",
             "author_name": "LS Beauty",
             "categories": "mac-pro",
-            "tags": "feliz,mac,mac_pro,mac_pro_longwear,pro,pro_longwear,longwear",
+            "tags": "rese\u00f1as,productos,mac,mac_pro,mac_pro_longwear,pro,pro_longwear,longwear,pena,probar,vale",
             "recuweb_url": "http://es.recuweb.com/mac-pro/youtube.com/2014/08/vale-la-pena-probar-mac-pro-longwear-foundation-aplicacion-rese%C3%B1a",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=uVPFc-o8GRQ&feature=youtube_gdata",
@@ -93,39 +119,15 @@
         },
         "youtube.com/2014/07/review-mac-pro-longwear-concealer": {
             "title": "Review: MAC Pro Longwear Concealer...",
-            "snippet": "Review: MAC Pro Longwear Concealer En este video les muestro c\u00f3mo uso el Pro Longwear Concealer de MAC y les doy mi opini\u00f3n del mismo. Espero que les guste el video. Besos. S\u00edgueme en Twitter realfashion: From: La Fashionista Realista Views: 4996...",
+            "snippet": "Review: MAC Pro Longwear Concealer En este video les muestro c\u00f3mo uso el Pro Longwear Concealer de MAC y les doy mi opini\u00f3n del mismo. Espero que les guste el video. Besos. S\u00edgueme en Twitter realfashion: From: La Fashionista Realista Views: 5293...",
             "date": "2014-07-22",
             "author_name": "La Fashionista Realista",
             "categories": "mac-pro,twitter",
-            "tags": "guste,guste-el-video,doy,doy-mi-opini\u00f3n,opini\u00f3n,pro,pro_longwear,longwear,muestro,c\u00f3mo,mac,mac_pro,mac_pro_longwear,espero",
+            "tags": "guste,guste-el-video,pro,pro_longwear,pro_longwear_concealer,longwear,longwear_concealer,concealer,muestro,c\u00f3mo,mac,mac_pro,mac_pro_longwear,espero",
             "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2014/07/review-mac-pro-longwear-concealer",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=gFWFApPBW7k&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/gFWFApPBW7k/0.jpg"
-        },
-        "youtube.com/2014/06/unboxing-mac-pro-en-espa%C3%B1ol-a-lo-loco": {
-            "title": "Unboxing Mac Pro en espa\u00f1ol \u00a1A lo loco!",
-            "snippet": "Unboxing Mac Pro en espa\u00f1ol \u00a1A lo loco! Si quer\u00e9is recordarnos que por 500 euros os mont\u00e1is un PC mucho mejor ten\u00e9is los comentarios aqu\u00ed abajo! XD. From: latchmere Views: 3830 240 ratings Time: 06:15 More in Entertainment...",
-            "date": "2014-06-27",
-            "author_name": "latchmere",
-            "categories": "mac-pro",
-            "tags": "unboxing,mac,mac_pro,pro",
-            "recuweb_url": "http://es.recuweb.com/mac-pro/youtube.com/2014/06/unboxing-mac-pro-en-espa%C3%B1ol-a-lo-loco",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=YDUwoA6qYY0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/YDUwoA6qYY0/0.jpg"
-        },
-        "youtube.com/2014/05/compras-en-mac-pro-y-burlesque": {
-            "title": "Compras en Mac Pro y Burlesque...",
-            "snippet": "Compras en Mac Pro y Burlesque No me considero ninguna experta en nada, s\u00f3lo doy mi opini\u00f3n personal y subjetiva. iherb: MEP679 BLOG:... From: porcelaineMakeup Views: 4826 190 ratings Time: 17:16 More in Howto & Style...",
-            "date": "2014-05-12",
-            "author_name": "porcelaineMakeup",
-            "categories": "mac-pro",
-            "tags": "doy,doy-mi-opini\u00f3n,opini\u00f3n,mac,mac_pro,pro",
-            "recuweb_url": "http://es.recuweb.com/mac-pro/youtube.com/2014/05/compras-en-mac-pro-y-burlesque",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mac%2Bpro%2Bmac%2Bpro&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=VwKx7pBZUaw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/VwKx7pBZUaw/0.jpg"
         }
     }
 }

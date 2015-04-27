@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "carta-astral",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/carta-astral/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/carta-astral/carta-astral/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/carta-astral-de-selena-quintanilla-un-nuevo-dia": {
+            "title": "Carta Astral de Selena Quintanilla-Un Nuevo Dia.",
+            "snippet": "Carta Astral de Selena Quintanilla-Un Nuevo Dia. From: Mundo Selefanatico Views: 1175 13 ratings Time: 04:07 More in People & Blogs...",
+            "date": "2015-04-02",
+            "author_name": "Mundo Selefanatico",
+            "categories": "carta-astral",
+            "tags": "carta,astral",
+            "recuweb_url": "http://es.recuweb.com/carta-astral/youtube.com/2015/04/carta-astral-de-selena-quintanilla-un-nuevo-dia",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=carta%2Bastral&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=5XkTZD_DziE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5XkTZD_DziE/0.jpg"
+        },
         "youtube.com/2015/03/al-rojo-vivo-astr%C3%B3loga-lee-carta-astral-de-alaia-hija-adamari": {
             "title": "Al Rojo Vivo Astr\u00f3loga lee carta astral de Alaia hija de Adamari L\u00f3pez Telemundo ARV...",
             "snippet": "Al Rojo Vivo Astr\u00f3loga lee carta astral de Alaia hija de Adamari L\u00f3pez Telemundo ARV Asegura que la peque\u00f1a naci\u00f3 en una buena etapa y que le depara un futuro brillante. SUBSCRIBETE: Al Rojo Vivo: Al Rojo Vivo con Mar\u00eda Celeste es una...",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=carta%2Bastral%2Bcarta%2Bastral&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=s6q_Ts9uPc4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/s6q_Ts9uPc4/0.jpg"
-        },
-        "youtube.com/2014/11/horoscopo-libra-2015-anual-trabajo-amor-salud-y-dinero-astrolog%C3%ADa-carta": {
-            "title": "HOROSCOPO LIBRA 2015 Anual - Trabajo, Amor, Salud y Dinero, astrolog\u00eda, carta astral...",
-            "snippet": "HOROSCOPO LIBRA 2015 Anual - Trabajo, Amor, Salud y Dinero, astrolog\u00eda, carta astral Si deseas recibir mas videos, Suscr\u00edbete a nuestro canal:) Aqui nuestro facebook, danos un \"megusta\"=):, HOROSCOPO ESCORPIO 2015 Anual - Trabajo,... From: Videos...",
-            "date": "2014-11-25",
-            "author_name": "Videos Muy Interesantes - Hor\u00f3scopo 2015",
-            "categories": "facebook,carta-astral,salud",
-            "tags": "horoscopo,horoscopo_escorpio,escorpio,danos,danos-un-megusta,megusta,facebook,canal,deseas,deseas-recibir,recibir,recibir-mas-videos,carta,carta-astral,astral,anual,trabajo,amor,salud,dinero,astrolog\u00eda,suscr\u00edbete",
-            "recuweb_url": "http://es.recuweb.com/salud/youtube.com/2014/11/horoscopo-libra-2015-anual-trabajo-amor-salud-y-dinero-astrolog%C3%ADa-carta",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=carta%2Bastral%2Bcarta%2Bastral&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=_1Ets5WSxMI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/_1Ets5WSxMI/0.jpg"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "base-de-datos",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/base-de-datos/",
@@ -10,24 +11,12 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/base-de-datos/base-de-datos/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/dividir-base-de-datos-en-cliente-servidor-access-2013-desde-cero": {
-            "title": "Dividir Base de Datos en Cliente-Servidor Access 2013 desde cero 15...",
-            "snippet": "Dividir Base de Datos en Cliente-Servidor Access 2013 desde cero 15 Por lo general necesitamos colaboraci\u00f3n para trabajar en equipo, una base de datos. Por lo que tenemos que buscar alternativas para crear un entorno de red en donde podamos colocar...",
-            "date": "2015-03-15",
-            "author_name": "Otto Javier Gonz\u00e1lez",
-            "categories": "base-de-datos",
-            "tags": "buscar,crear,base,base-de-datos,datos",
-            "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2015/03/dividir-base-de-datos-en-cliente-servidor-access-2013-desde-cero",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=DagLBxvXZLU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/DagLBxvXZLU/0.jpg"
-        },
         "youtube.com/2015/02/que-es-sql-y-nosql-curso-profesional-de-bases-datos": {
             "title": "\u00bfQue es SQL y NoSQL? Curso profesional de bases de datos...",
             "snippet": "\u00bfQue es SQL y NoSQL? Curso profesional de bases de datos Una peque\u00f1a muestra de lo que hay en el curso profesional de bases de datos. Suscr\u00edbete aqu\u00ed: No todo en la vida es SQL. Hay bases de datos relacionales pero no siempre... From: Platzi...",
             "date": "2015-02-23",
             "author_name": "Platzi",
-            "tags": "bases,datos,curso,profesional",
+            "tags": "bases,datos,relacionales,curso",
             "recuweb_url": "http://es.recuweb.com/youtube.com/2015/02/que-es-sql-y-nosql-curso-profesional-de-bases-datos",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=CuAYLX6reXE&feature=youtube_gdata",
@@ -39,7 +28,7 @@
             "date": "2015-01-19",
             "author_name": "jfksoft",
             "categories": "internet",
-            "tags": "excel,son,datos,base",
+            "tags": "excel,son,datos,macros,base",
             "recuweb_url": "http://es.recuweb.com/internet/dailymotion.com/2015/01/macros-para-conectar-excel-con-una-base-de-datos-internet",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/base+de+datos+base+de+datos/0?af=1",
             "source_url": "http://dailymotion.com/video/x2f29x4_macros-para-conectar-excel-con-una-base-de-datos-de-internet_tech",
@@ -47,7 +36,7 @@
         },
         "youtube.com/2014/07/c%C3%B3mo-armar-una-base-de-datos-excel-2013-curso-aavanzado-23": {
             "title": "C\u00f3mo armar una Base de Datos Excel 2013 Curso Aavanzado 23...",
-            "snippet": "C\u00f3mo armar una Base de Datos Excel 2013 Curso Aavanzado 23 C\u00f3mo crear una base de datos en Excel 2013 Listas de Reproducci\u00f3n Curso B\u00e1sico Excel 2007 Curso B\u00e1sico Excel 2013... From: Otto Javier Gonz\u00e1lez Views: 10492 34 ratings Time: 06:35 More...",
+            "snippet": "C\u00f3mo armar una Base de Datos Excel 2013 Curso Aavanzado 23 C\u00f3mo crear una base de datos en Excel 2013 Listas de Reproducci\u00f3n Curso B\u00e1sico Excel 2007 Curso B\u00e1sico Excel 2013... From: Otto Javier Gonz\u00e1lez Views: 11273 37 ratings Time: 06:35 More...",
             "date": "2014-07-12",
             "author_name": "Otto Javier Gonz\u00e1lez",
             "categories": "base-de-datos",
@@ -56,18 +45,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=oNqiEXkb-Nc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/oNqiEXkb-Nc/0.jpg"
-        },
-        "youtube.com/2014/06/base-de-datos-profesional-parte-1-app-inventor": {
-            "title": "Base de datos profesional Parte 1 App Inventor...",
-            "snippet": "Base de datos profesional Parte 1 App Inventor En este v\u00eddeo aprender\u00e1s paso a paso a saber hacer una base de datos en App Inventor en la cual puedas: -Agregar nuevos datos a la DB. -Modificar \u00f3 Actualizar los datos de la DB. -Eliminar... From:...",
-            "date": "2014-06-11",
-            "author_name": "Mvochoa Mv",
-            "categories": "base-de-datos",
-            "tags": "datos,paso,paso-paso,base,base-de-datos,profesional",
-            "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2014/06/base-de-datos-profesional-parte-1-app-inventor",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=d28MlTrRVw8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/d28MlTrRVw8/0.jpg"
         },
         "dailymotion.com/2014/06/borrar-mi-base-de-datos-my-business-pos": {
             "title": "Borrar mi base de datos - my business pos...",
@@ -83,11 +60,11 @@
         },
         "youtube.com/2014/05/bases-de-datos-con-wordpress": {
             "title": "Bases de datos con wordpress...",
-            "snippet": "Bases de datos con wordpress Creacion de un formulario que guarda los datos en la bd de wordpress, mas algo de practica con templates. From: Adolfo Vidangos Views: 1611 10 ratings Time: 40:22 More in Education...",
+            "snippet": "Bases de datos con wordpress Creacion de un formulario que guarda los datos en la bd de wordpress, mas algo de practica con templates. From: Adolfo Vidangos Views: 1679 11 ratings Time: 40:22 More in Education...",
             "date": "2014-05-29",
             "author_name": "Adolfo Vidangos",
             "categories": "wordpress",
-            "tags": "datos,bases",
+            "tags": "formulario,datos,bases",
             "recuweb_url": "http://es.recuweb.com/wordpress/youtube.com/2014/05/bases-de-datos-con-wordpress",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=DdbaUPHD_Uc&feature=youtube_gdata",
@@ -98,19 +75,31 @@
             "snippet": "Tutorial Excel (Cap. 30) Crear Bases de Datos Crea Bases de Datos en Excel, de forma r\u00e1pida y sencilla. Aprende a buscar en tu Base de Datos de Excel. Inserta m\u00e1s elementos en tu Base de Datos muy f\u00e1cilmente. Saca el m\u00e1ximo partido... From:...",
             "date": "2014-04-11",
             "author_name": "Indigorafa. Indigo Tutoriales",
-            "tags": "buscar,bases,crear,excel,datos,base",
+            "tags": "bases,crear,excel,datos,base",
             "recuweb_url": "http://es.recuweb.com/youtube.com/2014/04/tutorial-excel-cap-30-crear-bases-de-datos",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ljOc1GYKznI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ljOc1GYKznI/0.jpg"
         },
+        "youtube.com/2014/03/crear-una-base-de-datos-a-traves-un-formulario-en-excel": {
+            "title": "Crear una base de datos a traves de un formulario en excel con macros...",
+            "snippet": "Crear una base de datos a traves de un formulario en excel con macros Si les gusto pongale Manita Arriba! y compartan!:D Aqu\u00ed les dejo el C\u00f3digo que les dije en el v\u00eddeo, espero que les sirva=False Una cosa mas... No olviden... From: Master DRK...",
+            "date": "2014-03-26",
+            "author_name": "Master DRK",
+            "categories": "base-de-datos",
+            "tags": "base,base-de-datos,datos,formulario,excel,macros,crear",
+            "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2014/03/crear-una-base-de-datos-a-traves-un-formulario-en-excel",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=7lDKUUxc2jc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7lDKUUxc2jc/0.jpg"
+        },
         "youtube.com/2014/03/base-de-datos-con-im%C3%A1genes-en-excel-1": {
             "title": "Base de Datos con Im\u00e1genes en Excel 1...",
-            "snippet": "Base de Datos con Im\u00e1genes en Excel 1 Para aquellos que requieran de una base de datos o agenda con im\u00e1genes o fotos y s\u00f3lo cuenten con Excel. Son siete videos, explicados paso a paso. From: LUIS CARLOS GONZ\u00c1LEZ Views: 33085 85 ratings Time:...",
+            "snippet": "Base de Datos con Im\u00e1genes en Excel 1 Para aquellos que requieran de una base de datos o agenda con im\u00e1genes o fotos y s\u00f3lo cuenten con Excel. Son siete videos, explicados paso a paso. From: LUIS CARLOS GONZ\u00c1LEZ Views: 34357 90 ratings Time:...",
             "date": "2014-03-18",
             "author_name": "LUIS CARLOS GONZ\u00c1LEZ",
             "categories": "base-de-datos",
-            "tags": "gonz\u00e1lez,paso,paso-paso,base,base-de-datos,datos,excel,son",
+            "tags": "gonz\u00e1lez,paso,base,base-de-datos,datos,excel,son",
             "recuweb_url": "http://es.recuweb.com/base-de-datos/youtube.com/2014/03/base-de-datos-con-im%C3%A1genes-en-excel-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=LWna65ADda4&feature=youtube_gdata",
@@ -127,6 +116,17 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/base+de+datos+base+de+datos/0?af=1",
             "source_url": "http://dailymotion.com/video/x1cq7o8_anonymous-hackea-la-base-de-datos-del-ministerio-del-interior-de-ucrania_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1cq7o8_anonymous-hackea-la-base-de-datos-del-ministerio-del-interior-de-ucrania_news"
+        },
+        "youtube.com/2014/02/base-de-datos-relacionales-paso": {
+            "title": "Base de Datos Relacionales - Paso a paso...",
+            "snippet": "Base de Datos Relacionales - Paso a paso los Sistemas de Informaci\u00f3n Administrativos juegan un papel preponderante en la din\u00e1mica que toman las empresas en sus diferentes procesos; pues, gracias a estos, es posible resolver problemas... From:...",
+            "date": "2014-02-08",
+            "author_name": "Javier Ni\u00f1o",
+            "tags": "paso,datos,relacionales,base",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/02/base-de-datos-relacionales-paso",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=NVK6Twfwj_o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NVK6Twfwj_o/0.jpg"
         }
     }
 }

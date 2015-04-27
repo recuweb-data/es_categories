@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lucha-sumo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lucha-sumo/",
@@ -10,51 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lucha-sumo/lucha-sumo/blogs.json"
     },
     "items": {
-        "bariloche2000.com/2015/03/un-porotito-mundial-sum%C3%B3-luzzardi-en-la-villa-bariloche-2000": {
-            "title": "Un porotito mundial sum\u00f3 Luzzardi en la Villa - Bariloche 2000...",
-            "snippet": "Bariloche 2000Un \"porotito\" mundial sum\u00f3 Luzzardi en la VillaBariloche 2000Por su parte, Ferrandis se anot\u00f3 en la lucha y con el mismo puntaje que el holand\u00e9s, promete dar pelea en la 4 fecha. Jonass, por su parte,... en el primer puesto. Detr\u00e1s...",
-            "date": "2015-03-30",
-            "tags": "primer,puesto,mundial,sum\u00f3,lucha",
-            "recuweb_url": "http://es.recuweb.com/bariloche2000.com/2015/03/un-porotito-mundial-sum%C3%B3-luzzardi-en-la-villa-bariloche-2000",
+        "radiohc.cu/2015/04/per%C3%BA-invita-a-cuba-juegos-mundiales-de-combate-radio-habana": {
+            "title": "Per\u00fa invita a Cuba a Juegos Mundiales de Combate - Radio Habana Cuba...",
+            "snippet": "Per\u00fa invita a Cuba a Juegos Mundiales de CombateRadio Habana Cuba... Federaciones Internacionales involucradas: boxeo, esgrima, judo, taekwondo, halterofilia, lucha, jiu-jitsu, k\u00e1rate, kendo, aikido, kickboxing, muay thai, sambo, savate, sumo y...",
+            "date": "2015-04-22",
+            "categories": "muay-thai,radio,boxeo,esgrima,judo,taekwondo,karate",
+            "tags": "juegos,juegos_mundiales,mundiales,invita,lucha,sumo",
+            "recuweb_url": "http://es.recuweb.com/karate/radiohc.cu/2015/04/per%C3%BA-invita-a-cuba-juegos-mundiales-de-combate-radio-habana",
             "resource_url": "http://news.google.es/?hl=es&q=lucha%2Bsumo%2Blucha%2Bsumo&output=atom&nord=1",
-            "source_url": "http://bariloche2000.com/noticias/leer/un-porotito-mundial-sumo-luzzardi-en-la-villa/90435"
+            "source_url": "http://radiohc.cu/noticias/deportes/53498-peru-invita-a-cuba-a-juegos-mundiales-de-combate"
         },
-        "ole.com.ar/2015/03/le-baj%C3%B3-la-t%C3%A9rmica-ol%C3%A9": {
-            "title": "Le baj\u00f3 la t\u00e9rmica - Ol\u00e9...",
-            "snippet": "Ol\u00e9Le baj\u00f3 la t\u00e9rmicaOl\u00e9Boca se adhiri\u00f3 al apag\u00f3n por La Hora del Planeta y la Bombonera luci\u00f3 a oscuras por un rato. Es el \u00fanico club del pa\u00eds que se sum\u00f3 a la campa\u00f1a de sensibilizaci\u00f3n sobre la lucha contra el cambio clim\u00e1tico...",
-            "date": "2015-03-29",
-            "categories": "planeta",
-            "tags": "sum\u00f3,lucha,contra",
-            "recuweb_url": "http://es.recuweb.com/planeta/ole.com.ar/2015/03/le-baj%C3%B3-la-t%C3%A9rmica-ol%C3%A9",
+        "misionesonline.net/2015/04/lucha-ol%C3%ADmpica-se-sum%C3%B3-otro-misionero-al-seleccionado-que-misiones-online": {
+            "title": "Lucha Ol\u00edmpica: Se sum\u00f3 otro misionero al Seleccionado que... - Misiones OnLine...",
+            "snippet": "Misiones OnLineLucha Ol\u00edmpica: Se sum\u00f3 otro misionero al Seleccionado que...Misiones OnLineEl fin de semana pasado, en el CENARD se llev\u00f3 a cabo el selectivo para cadetes donde participaron los clubes m\u00e1s importantes de la Argentina, en el mismo...",
+            "date": "2015-04-20",
+            "tags": "lucha,argentina",
+            "recuweb_url": "http://es.recuweb.com/misionesonline.net/2015/04/lucha-ol%C3%ADmpica-se-sum%C3%B3-otro-misionero-al-seleccionado-que-misiones-online",
             "resource_url": "http://news.google.es/?hl=es&q=lucha%2Bsumo%2Blucha%2Bsumo&output=atom&nord=1",
-            "source_url": "http://ole.com.ar/boca-juniors/termica_0_1329467279.html"
-        },
-        "clarin.com/2015/03/pareto-sum%C3%B3-su-tercer-oro-del-a%C3%B1o-clar%C3%AD": {
-            "title": "Pareto: sum\u00f3 su tercer oro del a\u00f1o - Clar\u00ed...",
-            "snippet": "Clar\u00ed: sum\u00f3 su tercer oro del a\u00f1oClar\u00ed Pareto le sum\u00f3 un nuevo cap\u00edtulo glorioso a su carrera. En Turqu\u00eda... Y no fall\u00f3: en el primer minuto con un waza-ari (dos waza-ari equivalen a un ippon, que significa ganar la lucha) a la argentina le...",
-            "date": "2015-03-27",
-            "tags": "argentina,dos,primer,sum\u00f3,clar\u00ed,lucha",
-            "recuweb_url": "http://es.recuweb.com/clarin.com/2015/03/pareto-sum%C3%B3-su-tercer-oro-del-a%C3%B1o-clar%C3%AD",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Bsumo%2Blucha%2Bsumo&output=atom&nord=1",
-            "source_url": "http://clarin.com/deportes/polideportivo/Pareto-GP-Samsun-sumo-tercer_0_1328267497.html"
-        },
-        "clarin.com/2015/03/la-lucha-de-sumo-dos-koalas-clar%C3%AD": {
-            "title": "La lucha de sumo de dos koalas - Clar\u00ed...",
-            "snippet": "Clar\u00ed lucha de sumo de dos koalasClar\u00ed... encontraban en pleno combate. \"Paseaba tranquilamente cerca de mi casa cuando por sorpresa me encontr\u00e9 con una entrada de primera fila en un combate de lucha de sumo\", explic\u00f3 Webster en la presentaci\u00f3n...",
-            "date": "2015-03-16",
-            "tags": "sumo,dos,lucha,clar\u00ed",
-            "recuweb_url": "http://es.recuweb.com/clarin.com/2015/03/la-lucha-de-sumo-dos-koalas-clar%C3%AD",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Bsumo%2Blucha%2Bsumo&output=atom&nord=1",
-            "source_url": "http://clarin.com/sociedad/pelea-koalas_0_1321667965.html"
-        },
-        "rpp.com.pe/2015/03/youtube-luchador-de-sumo-obtiene-la-victoria-con-h%C3%A1bil-movimiento-rpp": {
-            "title": "YouTube: luchador de sumo obtiene la victoria con h\u00e1bil movimiento - RPP Noticias...",
-            "snippet": "RPP NoticiasYouTube: luchador de sumo obtiene la victoria con h\u00e1bil movimientoRPP NoticiasEn el video subido a YouTube se aprecia a los dos peleadores en el ring de lucha, al momento de recibir la se\u00f1al del \u00e1rbitro, ambos luchadores se alistan...",
-            "date": "2015-03-05",
-            "tags": "dos,noticias,sumo,lucha",
-            "recuweb_url": "http://es.recuweb.com/rpp.com.pe/2015/03/youtube-luchador-de-sumo-obtiene-la-victoria-con-h%C3%A1bil-movimiento-rpp",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Bsumo%2Blucha%2Bsumo&output=atom&nord=1",
-            "source_url": "http://rpp.com.pe/2015-03-05-youtube-luchador-de-sumo-obtiene-la-victoria-con-habil-movimiento-noticia_775037.html"
+            "source_url": "http://misionesonline.net/2015/04/20/lucha-olimpica-se-sumo-otro-misionero-al-seleccionado-que-entrena-en-el-cenard/"
         }
     }
 }

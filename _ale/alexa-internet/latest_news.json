@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "alexa-internet",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/alexa-internet/",
@@ -10,24 +11,54 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/alexa-internet/alexa-internet/blogs.json"
     },
     "items": {
-        "elespectador.com/2015/04/alexa-la-archirrival-de-siri-se-fortalece": {
-            "title": "Alexa, la 'archirrival'de Siri, se fortalece -...",
-            "snippet": ", la 'archirrival'de Siri, se gigante estadounidense de la distribuci\u00f3n en l\u00ednea tambi\u00e9n a\u00f1adi\u00f3 otras funciones, como la integraci\u00f3n del servicio de radio por internet Pandora, la informaci\u00f3n sobre el tr\u00e1fico y recordatorios de agenda. Estas...",
-            "date": "2015-04-09",
-            "categories": "radio,internet",
-            "tags": "tr\u00e1fico,integraci\u00f3n,integraci\u00f3n-del-servicio,servicio,servicio-de-radio,radio,gigante,gigante-estadounidense,estadounidense,distribuci\u00f3n,distribuci\u00f3n-en-l\u00ednea,l\u00ednea,l\u00ednea-tambi\u00e9n-a\u00f1adi\u00f3,a\u00f1adi\u00f3,a\u00f1adi\u00f3-otras-funciones,funciones,alexa,internet,pandora",
-            "recuweb_url": "http://es.recuweb.com/internet/elespectador.com/2015/04/alexa-la-archirrival-de-siri-se-fortalece",
+        "costar.com/2015/04/achieves-top-ranking-as-most-visited-apartment-costar-group": {
+            "title": "Achieves Top Ranking as Most Visited Apartment... - CoStar Group...",
+            "snippet": "Achieves Top Ranking as Most Visited Apartment...CoStar GroupCoStar Group said 's number-one ranking is based on traffic counts provided by comScore,, Experian Hitwise and Alexa, the industry's leading authoritative sources of internet traffic...",
+            "date": "2015-04-23",
+            "categories": "internet",
+            "tags": "most,visited,ranking,alexa,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/costar.com/2015/04/achieves-top-ranking-as-most-visited-apartment-costar-group",
             "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet%2Balexa%2Binternet&output=atom&nord=1",
-            "source_url": "http://elespectador.com/tecnologia/alexa-archirrival-de-siri-se-fortalece-articulo-554049"
+            "source_url": "http://costar.com/News/Article/Apartmentscom-Achieves-Top-Ranking-as-Most-Visited-Apartment-Listing-Website/170851"
+        },
+        "fool.com/2015/04/the-most-hated-companies-on-internet-facebook-inc-twitter-motley-fool": {
+            "title": "The Most Hated Companies on the Internet: Facebook Inc., Twitter... - Motley Fool...",
+            "snippet": "Motley FoolThe Most Hated Companies on the Internet: Facebook Inc., Twitter...Motley FoolAccording to Alexa, LinkedIn visitors only spend an average of less than eight minutes on the site per day. Facebook visitors spend nearly 18 minutes on the...",
+            "date": "2015-04-23",
+            "categories": "facebook,internet,twitter",
+            "tags": "most,internet,alexa",
+            "recuweb_url": "http://es.recuweb.com/twitter/fool.com/2015/04/the-most-hated-companies-on-internet-facebook-inc-twitter-motley-fool",
+            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet%2Balexa%2Binternet&output=atom&nord=1",
+            "source_url": "http://fool.com/investing/general/2015/04/23/the-most-hated-companies-on-the-internet-facebook.aspx"
+        },
+        "ibnlive.in.com/2015/04/youtube-turns-10-watch-the-first-video-ever-uploaded-ibnlive": {
+            "title": "YouTube turns 10: Watch the first YouTube video ever uploaded - IBNLive...",
+            "snippet": "IBNLiveYouTube turns 10: Watch the first YouTube video ever uploadedIBNLiveIt is estimated that in 2007 YouTube consumed as much bandwidth as the entire internet in 2000, International Business Times reported. Alexa, that analytically insights to...",
+            "date": "2015-04-23",
+            "categories": "internet",
+            "tags": "that,international,international_business,business,consumed,consumed-as-much,bandwidth,entire,ated,ated-that,youtube,internet,alexa",
+            "recuweb_url": "http://es.recuweb.com/internet/ibnlive.in.com/2015/04/youtube-turns-10-watch-the-first-video-ever-uploaded-ibnlive",
+            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet%2Balexa%2Binternet&output=atom&nord=1",
+            "source_url": "http://ibnlive.in.com/news/youtube-turns-10-watch-the-first-youtube-video-ever-uploaded/541601-11.html"
+        },
+        "ibtimes.co.uk/2015/04/happy-birthday-youtube-10-years-old-today-international-business-times-uk": {
+            "title": "Happy Birthday YouTube: 10 years old today - International Business Times UK...",
+            "snippet": "International Business Times UKHappy Birthday YouTube: 10 years old todayInternational Business Times UKIt is estimated that in 2007 YouTube consumed as much bandwidth as the entire Internet in 2000. Alexa ranks YouTube as the third most visited...",
+            "date": "2015-04-22",
+            "categories": "internet",
+            "tags": "most,visited,consumed,consumed-as-much,bandwidth,entire,ated,ated-that,that,business,youtube,international,international_business,internet,alexa",
+            "recuweb_url": "http://es.recuweb.com/internet/ibtimes.co.uk/2015/04/happy-birthday-youtube-10-years-old-today-international-business-times-uk",
+            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet&output=atom&nord=1",
+            "source_url": "http://ibtimes.co.uk/youtube-marks-ten-year-anniversary-1497872"
         },
         "elcomercio.pe/2015/04/amazon-le-da-superpoderes-a-alexa-su-asistente-personal-el-comercio": {
             "title": "Amazon le da 'superpoderes'a Alexa, su asistente personal - El Comercio...",
             "snippet": "El ComercioAmazon le da 'superpoderes'a Alexa, su asistente personalEl ComercioEl gigante estadounidense de la distribuci\u00f3n en l\u00ednea tambi\u00e9n a\u00f1adi\u00f3 otras funciones a Alexa, como la integraci\u00f3n del servicio de radio por internet Pandora, la...",
             "date": "2015-04-09",
             "categories": "radio,internet",
-            "tags": "integraci\u00f3n,integraci\u00f3n-del-servicio,servicio,servicio-de-radio,radio,gigante,gigante-estadounidense,estadounidense,distribuci\u00f3n,distribuci\u00f3n-en-l\u00ednea,l\u00ednea,l\u00ednea-tambi\u00e9n-a\u00f1adi\u00f3,a\u00f1adi\u00f3,a\u00f1adi\u00f3-otras-funciones,funciones,alexa,internet,pandora",
+            "tags": "alexa,internet",
             "recuweb_url": "http://es.recuweb.com/internet/elcomercio.pe/2015/04/amazon-le-da-superpoderes-a-alexa-su-asistente-personal-el-comercio",
-            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=alexa%2Binternet%2Balexa%2Binternet&output=atom&nord=1",
             "source_url": "http://elcomercio.pe/tecnologia/empresas/amazon-le-da-superpoderes-alexa-su-asistente-personal-noticia-1802926"
         }
     }

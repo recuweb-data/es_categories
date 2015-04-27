@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "automovilismo-de-velocidad",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/automovilismo-de-velocidad/",
@@ -10,15 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/automovilismo-de-velocidad/automovilismo-de-velocidad/blogs.json"
     },
     "items": {
-        "noticiasdel6.com/2015/02/automovilismo-se-pospuso-una-semana-el-inicio-del-misionero": {
-            "title": "Automovilismo: se pospuso una semana el inicio del Misionero de... -...",
-            "snippet": "Automovilismo: se pospuso una semana el inicio del Misionero de... ra\u00edz de un pedido de los directivos responsables de la organizaci\u00f3n del Campeonato Argentino de Velocidad, que se corre en Posadas en la misma fecha en que se estar\u00eda...",
-            "date": "2015-02-25",
+        "finanzas.com/2015/04/motorsport-participa-con-ocho-m4-en-la-temporada-dtm-2015": {
+            "title": "Motorsport participa con ocho M4 en la temporada DTM 2015...",
+            "snippet": "El Campeonato Alem\u00e1n de Turismos (Deutsche Tourenwagen Masters) es una competici\u00f3n de automovilismo de velocidad que se disputa en Alemania desde el a\u00f1o 2000. Los autom\u00f3viles que participan son turismos cuya apariencia es muy similar a la de...",
+            "date": "2015-04-17",
             "categories": "automovilismo",
-            "tags": "argentino,automovilismo,velocidad",
-            "recuweb_url": "http://es.recuweb.com/automovilismo/noticiasdel6.com/2015/02/automovilismo-se-pospuso-una-semana-el-inicio-del-misionero",
-            "resource_url": "http://news.google.es/?hl=es&q=automovilismo%2Bde%2Bvelocidad&output=atom&nord=1",
-            "source_url": "http://noticiasdel6.com/ampliar.php?id=143313&t=automovilismo:-se-pospuso-una-semana-el-"
+            "tags": "campeonato,temporada,competici\u00f3n,automovilismo,velocidad",
+            "recuweb_url": "http://es.recuweb.com/automovilismo/finanzas.com/2015/04/motorsport-participa-con-ocho-m4-en-la-temporada-dtm-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=automovilismo%2Bde%2Bvelocidad&format=RSS&cc=es",
+            "source_url": "http://finanzas.com/noticias/empresas/20150417/motorsport-participa-ocho-temporada-2918513.html"
+        },
+        "caranddriverthef1.com/2015/04/infogr%C3%A1fico-de-la-semana-gran-premio-bahrein-2015": {
+            "title": "Infogr\u00e1fico de la Semana: GRAN PREMIO DE BAHREIN 2015...",
+            "snippet": "solo debeis oprimir ctrl para hacer zoom.. y ctrl - para reducir. El Gran Premio de Bar\u00e9in es una carrera de automovilismo de velocidad v\u00e1lida para el campeonato de F\u00f3rmula 1 que se disput\u00f3 por primera vez el 4 de abril de 2004 en el Circuito...",
+            "date": "2015-04-16",
+            "categories": "automovilismo",
+            "tags": "campeonato,carrera,gran,automovilismo,velocidad,f\u00f3rmula",
+            "recuweb_url": "http://es.recuweb.com/automovilismo/caranddriverthef1.com/2015/04/infogr%C3%A1fico-de-la-semana-gran-premio-bahrein-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=automovilismo%2Bde%2Bvelocidad&format=RSS&cc=es",
+            "source_url": "http://caranddriverthef1.com/formula1/blogs/f1stats/infografico-la-semana-gran-premio-bahrein-2015"
         }
     }
 }

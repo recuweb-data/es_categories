@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "potencia-osmotica",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/potencia-osmotica/",
@@ -10,13 +11,33 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/potencia-osmotica/potencia-osmotica/blogs.json"
     },
     "items": {
-        "noticiaspositivas.net/2010/03/se-inaugura-la-primera-central-de-energ%C3%ADa-osm%C3%B3tica-del-mundo-noticias": {
-            "title": "Se inaugura la primera central de energ\u00eda osm\u00f3tica del mundo - Noticias Positivas...",
-            "snippet": "Se inaugura la primera central de energ\u00eda osm\u00f3tica del mundoNoticias PositivasEsta difusi\u00f3n de l\u00edquido aumenta la presi\u00f3n en la c\u00e1mara del agua de mar hasta un nivel equiparable al de la potencia que podr\u00eda generar una gran catarata de agua.",
-            "date": "2010-03-25",
-            "recuweb_url": "http://es.recuweb.com/noticiaspositivas.net/2010/03/se-inaugura-la-primera-central-de-energ%C3%ADa-osm%C3%B3tica-del-mundo-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=potencia%2Bosmotica%2Bpotencia%2Bosmotica&output=atom&nord=1",
-            "source_url": "http://noticiaspositivas.net/2010/03/26/se-inaugura-la-primera-central-de-energia-osmotica-del-mundo/"
+        "americaeconomia.com/2015/04/ift-energy-2015-chile-puede-ser-potencia-mundial-en-la-energ%C3%ADa": {
+            "title": "IFT Energy 2015: Chile puede ser potencia mundial en la energ\u00eda... - Am\u00e9ricaEconom\u00ed...",
+            "snippet": "Am\u00e9ricaEconom\u00ed Energy 2015: Chile puede ser potencia mundial en la energ\u00eda...Am\u00e9ricaEconom\u00ed... t\u00e9rmica oce\u00e1nica (que aprovecha la diferencia de temperaturas en los oc\u00e9anos), osm\u00f3tica o energ\u00eda azul (la que se alimenta de agua dulce y agua...",
+            "date": "2015-04-12",
+            "tags": "alimenta,alimenta-de-agua,agua,agua-dulce,agua-dulce-agua,dulce,dulce-agua,osm\u00f3tica,osm\u00f3tica-energ\u00eda,osm\u00f3tica-energ\u00eda-azul,energ\u00eda,energ\u00eda-azul,azul,aprovecha,aprovecha-la-diferencia,diferencia,diferencia-de-temperaturas,temperaturas,oc\u00e9anos,t\u00e9rmica,t\u00e9rmica-oce\u00e1nica,oce\u00e1nica,puede,potencia,potencia-mundial,mundial,ift,ift_energy,energy,chile",
+            "recuweb_url": "http://es.recuweb.com/americaeconomia.com/2015/04/ift-energy-2015-chile-puede-ser-potencia-mundial-en-la-energ%C3%ADa",
+            "resource_url": "http://news.google.es/?hl=es&q=potencia%2Bosmotica&output=atom&nord=1",
+            "source_url": "http://americaeconomia.com/negocios-industrias/ift-energy-2015-chile-puede-ser-potencia-mundial-en-la-energia-undimotriz"
+        },
+        "biobiochile.cl/2015/04/ift-energy-2015-chile-como-potencia-mundial-en-la-energ%C3%ADa-radio": {
+            "title": "IFT Energy 2015: Chile como potencia mundial en la energ\u00eda... - Radio B\u00edo-B\u00edo...",
+            "snippet": "Radio B\u00edo-B\u00edoIFT Energy 2015: Chile como potencia mundial en la energ\u00eda...Radio B\u00edo-B\u00edo... t\u00e9rmica oce\u00e1nica (que aprovecha la diferencia de temperaturas en los oc\u00e9anos), osm\u00f3tica o energ\u00eda azul (la que se alimenta de agua dulce y agua de...",
+            "date": "2015-04-10",
+            "categories": "radio",
+            "tags": "alimenta,alimenta-de-agua,agua,agua-dulce,agua-dulce-agua,dulce,dulce-agua,osm\u00f3tica,osm\u00f3tica-energ\u00eda,osm\u00f3tica-energ\u00eda-azul,energ\u00eda,energ\u00eda-azul,azul,aprovecha,aprovecha-la-diferencia,diferencia,diferencia-de-temperaturas,temperaturas,oc\u00e9anos,t\u00e9rmica,t\u00e9rmica-oce\u00e1nica,oce\u00e1nica,energy,potencia,potencia-mundial,mundial,ift,ift_energy,chile",
+            "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/ift-energy-2015-chile-como-potencia-mundial-en-la-energ%C3%ADa-radio",
+            "resource_url": "http://news.google.es/?hl=es&q=potencia%2Bosmotica&output=atom&nord=1",
+            "source_url": "http://biobiochile.cl/2015/04/10/ift-energy-2015-chile-como-potencia-mundial-en-la-energia-undimotriz.shtml"
+        },
+        "foodnewslatam.com/2014/06/productores-frut%C3%ADcolas-clonar%C3%A1n-plantines": {
+            "title": "Productores frut\u00edcolas clonar\u00e1n plantines -...",
+            "snippet": "frut\u00edcolas clonar\u00e1n Gen\u00e9tica puede ayudar a reducir la contaminaci\u00f3n transg\u00e9nica Deshidrataci\u00f3n osm\u00f3tica de durazno... \u00bfC\u00f3mo Am\u00e9rica Latina puede convertirse en una potencia agroalimentaria mundial? El cacao y el chocolate un tesoro de...",
+            "date": "2014-06-02",
+            "tags": "puede,potencia,mundial,osm\u00f3tica",
+            "recuweb_url": "http://es.recuweb.com/foodnewslatam.com/2014/06/productores-frut%C3%ADcolas-clonar%C3%A1n-plantines",
+            "resource_url": "http://news.google.es/?hl=es&q=potencia%2Bosmotica&output=atom&nord=1",
+            "source_url": "http://foodnewslatam.com/articulos/productores-frut\u00edcolas-clonar\u00e1n-plantines_005349"
         }
     }
 }

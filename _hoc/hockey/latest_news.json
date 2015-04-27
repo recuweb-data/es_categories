@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hockey",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hockey/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
-        "diariojornada.com.ar/2015/04/comienza-el-torneo-apertura-de-hockey-diario-jornada": {
-            "title": "Comienza el Torneo Apertura de Hockey - Diario Jornada...",
-            "snippet": "Diario JornadaComienza el Torneo Apertura de HockeyDiario JornadaSe pone en marcha hoy el Torneo Apertura de la Asociaci\u00f3n de Hockey del Valle de Chubut, luego de una larga postergaci\u00f3n. La espera se debi\u00f3 a los feriados que hubo durante el mes...",
-            "date": "2015-04-11",
+        "sitioandino.com/2015/04/hockey-para-todos-los-gustos-en-el-sur-provincial": {
+            "title": "Hockey para todos los gustos en el Sur provincial...",
+            "snippet": "La Asociaci\u00f3n Amateur Sanrafaelina de Hockey sobre C\u00e9sped dio a conocer el programa de partidos de la 2 fecha en damas y caballeros que quedaron pendientes la semana anterior y los correspondientes a la tercera fecha del Campeonato Apertura 2015.",
+            "date": "2015-04-25",
             "categories": "hockey",
-            "tags": "espera,hoy,diario,jornada,torneo,apertura,hockey",
-            "recuweb_url": "http://es.recuweb.com/hockey/diariojornada.com.ar/2015/04/comienza-el-torneo-apertura-de-hockey-diario-jornada",
-            "resource_url": "http://news.google.es/?hl=es&q=hockey&output=atom&nord=1",
-            "source_url": "http://diariojornada.com.ar/124406/deportes/Comienza_el_Torneo_Apertura_de_Hockey"
-        },
-        "mundodeportivo.com/2015/04/el-bar%C3%A7a-sentencia-la-ok-liga": {
-            "title": "El Bar\u00e7a sentencia la OK Liga...",
-            "snippet": "El FC Barcelona dej\u00f3 sentenciado este s\u00e1bado el t\u00edtulo de la OK Liga de hockey patines al derrotar por 7-4 a su m\u00e1ximo rival, el Liceo de La Coru\u00f1a, en el partido que abr\u00eda la 27 jornada. Los blaugrana ser\u00e1n campeones matem\u00e1ticamente sumando...",
-            "date": "2015-04-11",
-            "categories": "hockey",
-            "tags": "blaugrana,partido,patines,s\u00e1bado,t\u00edtulo,bar\u00e7a,liga,barcelona,hockey,liceo,jornada",
-            "recuweb_url": "http://es.recuweb.com/hockey/mundodeportivo.com/2015/04/el-bar%C3%A7a-sentencia-la-ok-liga",
+            "tags": "campeonato,apertura,fecha,semana,hockey,c\u00e9sped",
+            "recuweb_url": "http://es.recuweb.com/hockey/sitioandino.com/2015/04/hockey-para-todos-los-gustos-en-el-sur-provincial",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://mundodeportivo.com/hockey-patines/20150411/102807178480/el-barca-sentencia-la-ok-liga.html"
+            "source_url": "http://sitioandino.com/nota/155203-hockey-para-todos-los-gustos-en-el-sur-provincial/"
         },
-        "generaccion.com/2015/04/este-domingo-se-inicia-el-campeonato-nacional-de-hockey-indoor": {
-            "title": "Este domingo se inicia el Campeonato Nacional de Hockey Indoor en la Videna...",
-            "snippet": "Con la participaci\u00f3n de doce equipos, siete en varones y cinco en damas, este domingo 12 de abril se levantar\u00e1 el tel\u00f3n del Campeonato Nacional de Hockey Indoor 2015, el mismo que se disputar\u00e1 \u00edntegramente en la cancha de futsal de la Videna,...",
-            "date": "2015-04-11",
+        "lujanenlinea.com.ar/2015/04/hockey-en-casa-luj%C3%A1n-rc-a-busca-la-recuperaci%C3%B3n-l%C3%ADnea": {
+            "title": "Hockey: en casa, Luj\u00e1n RC A busca la recuperaci\u00f3n - Luj\u00e1n en L\u00ednea...",
+            "snippet": "Luj\u00e1n en L\u00edneaHockey: en casa, Luj\u00e1n RC A busca la recuperaci\u00f3nLuj\u00e1n en L\u00edneaLuj\u00e1n RC A busca levantar cabeza este s\u00e1bado, desde las 16, cuando reciba en el predio del barrio La Loma a Regatas B por la s\u00e9ptima jornada del torneo de la...",
+            "date": "2015-04-25",
+            "categories": "hockey,regata",
+            "tags": "torneo,busca,cabeza,s\u00e1bado,hockey",
+            "recuweb_url": "http://es.recuweb.com/regata/lujanenlinea.com.ar/2015/04/hockey-en-casa-luj%C3%A1n-rc-a-busca-la-recuperaci%C3%B3n-l%C3%ADnea",
+            "resource_url": "http://news.google.es/?hl=es&q=hockey%2Bhockey&output=atom&nord=1",
+            "source_url": "http://lujanenlinea.com.ar/8130120"
+        },
+        "laregion.es/2015/04/los-clubes-en-pie-de-guerra-contra-la-federaci%C3%B3n-gallega-hockey": {
+            "title": "Los clubes, en pie de guerra contra la Federaci\u00f3n Gallega de hockey...",
+            "snippet": "Los clubes se han puesto en pie de guerra contra la Federaci\u00f3n Gallega de Hockey. El motivo, el hecho de considerar desproporcionada e inasumible la sanci\u00f3n de un a\u00f1o sin poder participar en ninguna competici\u00f3n oficial interpuesta a once...",
+            "date": "2015-04-25",
             "categories": "hockey",
-            "tags": "disputar\u00e1,disputar\u00e1-\u00edntegramente,\u00edntegramente,cancha,cancha-de-futsal,futsal,levantar\u00e1,levantar\u00e1-el-tel\u00f3n,tel\u00f3n,domingo,equipos,hockey,hockey_indoor,indoor,campeonato,nacional,inicia,videna",
-            "recuweb_url": "http://es.recuweb.com/hockey/generaccion.com/2015/04/este-domingo-se-inicia-el-campeonato-nacional-de-hockey-indoor",
+            "tags": "hecho,clubes,federaci\u00f3n,hockey",
+            "recuweb_url": "http://es.recuweb.com/hockey/laregion.es/2015/04/los-clubes-en-pie-de-guerra-contra-la-federaci%C3%B3n-gallega-hockey",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://generaccion.com/noticia/201512/este-domingo-se-inicia-campeonato-nacional-hockey-indoor-videna"
+            "source_url": "http://laregion.es/articulo/deporte-local/clubes-pie-guerra-federacion-gallega-hockey/20150425084253539740.html"
         },
-        "sport.es/2015/04/horarios-de-la-final-four": {
-            "title": "Horarios de la Final Four...",
-            "snippet": "La CERH ya ha dado a conocer los horarios de la Final Four de la Liga Europea de hockey patines que se disputar\u00e1 en Bassano del Grappa (Italia) los d\u00edas 2 y 3 de mayo. FC Barcelona, el defensor del t\u00edtulo, Vic, Breganze (el anfitri\u00f3n) y Porto...",
-            "date": "2015-04-11",
+        "espndeportes.espn.go.com/2015/04/mitre-venci%C3%B3-4-2-a-quilmes-en-el-metro-de-hockey": {
+            "title": "Mitre venci\u00f3 4-2 a Quilmes en el Metro de hockey sobre c\u00e9sped - ESPN Deportes...",
+            "snippet": "Mitre venci\u00f3 4-2 a Quilmes en el Metro de hockey sobre c\u00e9spedESPN DeportesBUENOS AIRES -- Mitre le gan\u00f3 este s\u00e1bado como visitante a Quilmes \"A\" por 4 a 2, en el marco de la sexta fecha del Torneo Metropolitano de hockey sobre c\u00e9sped masculino.",
+            "date": "2015-04-25",
             "categories": "hockey",
-            "tags": "t\u00edtulo,patines,disputar\u00e1,liga,liga_europea,europea,hockey,bassano,barcelona",
-            "recuweb_url": "http://es.recuweb.com/hockey/sport.es/2015/04/horarios-de-la-final-four",
+            "tags": "c\u00e9sped,torneo,fecha,gan\u00f3,s\u00e1bado,deportes,hockey",
+            "recuweb_url": "http://es.recuweb.com/hockey/espndeportes.espn.go.com/2015/04/mitre-venci%C3%B3-4-2-a-quilmes-en-el-metro-de-hockey",
+            "resource_url": "http://news.google.es/?hl=es&q=hockey%2Bhockey&output=atom&nord=1",
+            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2356285/mitre-vencio-4-2-a-quilmes-en-el-metro-de-hockey-sobre-cesped"
+        },
+        "sport.es/2015/04/reus-sporting-de-portugal-la-final-copa-cers": {
+            "title": "Reus - Sporting de Portugal, la final de la Copa de la CERS...",
+            "snippet": "El Reus Deportiu disputar\u00e1 este domingo la final de la Copa CERS de hockey sobre patines, cuya fase final acoge Igualada (Barcelona), tras superar este s\u00e1bado en la primera semifinal al Barcelos de Portugal por 6-1, en un partido resuelto por...",
+            "date": "2015-04-25",
+            "categories": "hockey",
+            "tags": "partido,s\u00e1bado,fase,fase-final,final,patines,deportiu,domingo,reus,sporting,portugal,copa,cers,hockey,barcelona",
+            "recuweb_url": "http://es.recuweb.com/hockey/sport.es/2015/04/reus-sporting-de-portugal-la-final-copa-cers",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://sport.es/es/noticias/hockey/horarios-final-four-4090623"
+            "source_url": "http://sport.es/es/noticias/hockey/reus-sporting-portugal-final-copa-cers-4133509"
         },
-        "diariouno.com.ar/2015/04/las-leonas-debutaron-con-un-triunfo": {
-            "title": "Las Leonas debutaron con un triunfo...",
-            "snippet": "El seleccionado argentino femenino de hockey sobre c\u00e9sped, Las Leonas, debutaron este s\u00e1bado con un 2-0 ante Corea, en la primera fecha de la Hawke's Bay Cup, torneo que se desarrolla en la ciudad de Hastings, Nueva Zelanda. El triunfo de Las...",
-            "date": "2015-04-11",
+        "mundodeportivo.com/2015/04/reus-sporting-de-lisboa-final-la-copa-cers": {
+            "title": "Reus-Sporting de Lisboa, final de la Copa CERS...",
+            "snippet": "El Reus Deportiu y el Sporting Clube de Portugal luchar\u00e1n este domingo (h./Esport3) por el t\u00edtulo de la Copa CERS de hockey patines tras imponerse este s\u00e1bado en las semifinales de la Final Four que se disputa en el Poliesportiu de les Comes...",
+            "date": "2015-04-25",
             "categories": "hockey",
-            "tags": "nueva,nueva_zelanda,zelanda,torneo,fecha,s\u00e1bado,c\u00e9sped,femenino,hockey",
-            "recuweb_url": "http://es.recuweb.com/hockey/diariouno.com.ar/2015/04/las-leonas-debutaron-con-un-triunfo",
+            "tags": "disputa,final,patines,s\u00e1bado,t\u00edtulo,domingo,deportiu,copa,cers,reus,sporting,portugal,hockey",
+            "recuweb_url": "http://es.recuweb.com/hockey/mundodeportivo.com/2015/04/reus-sporting-de-lisboa-final-la-copa-cers",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://diariouno.com.ar/ovacion/Las-Leonas-debutaron-con-un-triunfo-20150411-0050.html"
+            "source_url": "http://mundodeportivo.com/hockey-patines/20150425/102935449088/reus-sporting-de-lisboa-final-de-la-copa-cers.html"
         },
-        "spherasports.com/2015/04/las-ligas-del-bar%C3%A7a": {
-            "title": "Las Ligas del Bar\u00e7a...",
-            "snippet": "De estas 18 secciones diez de ellas han ganado un campeonato nacional de liga y se han quedado sin ella el atletismo femenino, el basket en silla de ruedas, el hockey hierba masculino y femenino, el voleibol, el hockey sala, el patinaje art\u00edstico...",
-            "date": "2015-04-11",
-            "categories": "voleibol,atletismo,hockey",
-            "tags": "femenino,campeonato,nacional,ligas,bar\u00e7a,hockey",
-            "recuweb_url": "http://es.recuweb.com/hockey/spherasports.com/2015/04/las-ligas-del-bar%C3%A7a",
+        "nuevodiarioweb.com.ar/2015/04/se-jugar%C3%A1-entre-hoy-y-el-lunes-otra-fecha-del-hockey": {
+            "title": "Se jugar\u00e1 entre hoy y el lunes otra fecha del hockey local - Nuevo Diario de Santiago del Estero...",
+            "snippet": "Nuevo Diario de Santiago del EsteroSe jugar\u00e1 entre hoy y el lunes otra fecha del hockey localNuevo Diario de Santiago del EsteroEn las canchas de Old Lions y SLTC comienza hoy una nueva fecha del torneo Apertura de la Federaci\u00f3n Santiague\u00f1a de...",
+            "date": "2015-04-25",
+            "categories": "hockey",
+            "tags": "federaci\u00f3n,nueva,fecha,torneo,hockey,local,apertura",
+            "recuweb_url": "http://es.recuweb.com/hockey/nuevodiarioweb.com.ar/2015/04/se-jugar%C3%A1-entre-hoy-y-el-lunes-otra-fecha-del-hockey",
+            "resource_url": "http://news.google.es/?hl=es&q=hockey%2Bhockey&output=atom&nord=1",
+            "source_url": "http://nuevodiarioweb.com.ar/nota/deportes/601694/se-jugara-entre-hoy-lunes-otra-fecha-hockey-local.html"
+        },
+        "cndigital.com.ar/2015/04/torneo-regional-de-hockey-central-noticias": {
+            "title": "Torneo Regional de Hockey - Central de Noticias...",
+            "snippet": "Central de NoticiasTorneo Regional de HockeyCentral de NoticiasEl Torneo Regional de Clubes de Hockey Regi\u00f3n NEA D se llevar\u00e1 a cabo en Concordia entre el 30 de abril y el 3 de mayo en las instalaciones del Club H\u00edpico, con la participaci\u00f3n de 8...",
+            "date": "2015-04-25",
+            "categories": "hockey",
+            "tags": "clubes,mayo,torneo,hockey,noticias",
+            "recuweb_url": "http://es.recuweb.com/hockey/cndigital.com.ar/2015/04/torneo-regional-de-hockey-central-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=hockey%2Bhockey&output=atom&nord=1",
+            "source_url": "http://cndigital.com.ar/noticias/30960_torneo-regional-de-hockey.html"
+        },
+        "es.paperblog.com/2015/04/campeonato-mundial-de-hockey-2015": {
+            "title": "Campeonato Mundial de Hockey - 2015...",
+            "snippet": "El hockey sobre hielo ser\u00e1 el protagonista en la Rep\u00fablica Checa a partir del 1 de mayo hasta el 17 de mayo de 2015. La capital Praga y la ciudad de Ostrava ser\u00e1n el centro de atenci\u00f3n en estos d\u00edas para todos los aficionados al hockey. Por el...",
+            "date": "2015-04-24",
+            "categories": "hockey",
+            "tags": "mayo,hielo,campeonato,hockey",
+            "recuweb_url": "http://es.recuweb.com/hockey/es.paperblog.com/2015/04/campeonato-mundial-de-hockey-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://spherasports.com/las-ligas-del-barca-39764/"
+            "source_url": "http://es.paperblog.com/campeonato-mundial-de-hockey-2015-3177349/"
         },
-        "diariosanrafael.com.ar/2015/04/se-inicia-el-torneo-apertura-del-hockey-sanrafaelino-diario-san-rafael": {
-            "title": "Se inicia el torneo Apertura del hockey sanrafaelino - Diario San Rafael...",
-            "snippet": "Se inicia el torneo Apertura del hockey sanrafaelinoDiario San RafaelDespu\u00e9s de tanta espera, a partir de hoy comenzar\u00e1 a desarrollarse la 1 fecha del torneo Apertura sanrafaelino de hockey sobre c\u00e9sped. El primer cap\u00edtulo del certamen tendr\u00e1...",
-            "date": "2015-04-11",
+        "marca.com/2015/04/el-hockey-hielo-busca-a-sus-reinas": {
+            "title": "El hockey hielo busca a sus reinas...",
+            "snippet": "Barcelona alberga este fin de semana la fase final de la Copa de Espa\u00f1a de hockey hielo femenino en la que Majadahonda, Barcelona Ice Blue Cats, Steel Acorns y Jaca competir\u00e1n por estar en la gran final del domingo (h.) y hacerse con el t\u00edtulo.",
+            "date": "2015-04-24",
             "categories": "hockey",
-            "tags": "c\u00e9sped,fecha,torneo,hoy,espera,san,diario,inicia,apertura,hockey",
-            "recuweb_url": "http://es.recuweb.com/hockey/diariosanrafael.com.ar/2015/04/se-inicia-el-torneo-apertura-del-hockey-sanrafaelino-diario-san-rafael",
-            "resource_url": "http://news.google.es/?hl=es&q=hockey&output=atom&nord=1",
-            "source_url": "http://diariosanrafael.com.ar/deportes/37165-se-inicia-el-torneo-apertura-del-hockey-sanrafaelino"
-        },
-        "andina.com.pe/2015/04/campeonato-nacional-de-hockey-arrancar%C3%A1-este-domingo-en-la-andina": {
-            "title": "Campeonato nacional de hockey arrancar\u00e1 este domingo en la... - Andina...",
-            "snippet": "Campeonato nacional de hockey arrancar\u00e1 este domingo en la...AndinaLima, abr. 10. Este domingo se levantar\u00e1 el tel\u00f3n del Campeonato Nacional de Hockey Indoor 2015, el mismo que se disputar\u00e1 \u00edntegramente en la cancha de futsal de la Videna,...",
-            "date": "2015-04-10",
-            "categories": "hockey",
-            "tags": "disputar\u00e1,disputar\u00e1-\u00edntegramente,\u00edntegramente,cancha,cancha-de-futsal,futsal,hockey,hockey_indoor,indoor,nacional,domingo,levantar\u00e1,levantar\u00e1-el-tel\u00f3n,tel\u00f3n,campeonato,videna",
-            "recuweb_url": "http://es.recuweb.com/hockey/andina.com.pe/2015/04/campeonato-nacional-de-hockey-arrancar%C3%A1-este-domingo-en-la-andina",
-            "resource_url": "http://news.google.es/?hl=es&q=hockey&output=atom&nord=1",
-            "source_url": "http://andina.com.pe/agencia/noticia-campeonato-nacional-hockey-arrancara-este-domingo-la-videna-551145.aspx"
-        },
-        "deportebase.ideal.es/2015/04/el-c%C3%A1jar-rumbo-al-sector-en-d%C3%A9cimo-aniversario-de-su-estreno": {
-            "title": "El C\u00e1jar, rumbo al Sector en el d\u00e9cimo aniversario de su estreno nacional...",
-            "snippet": "Madrile\u00f1os y valencianos cuentan con un gran nivel de hockey y mucha tradici\u00f3n, en el caso de los madrile\u00f1os, han aumentado much\u00edsimo el n\u00famero de equipos en sus ligas regionales y esta competitividad queda de manifiesto en los sectores. Hoy...",
-            "date": "2015-04-10",
-            "categories": "hockey",
-            "tags": "equipos,ligas,nacional,hockey,hoy",
-            "recuweb_url": "http://es.recuweb.com/hockey/deportebase.ideal.es/2015/04/el-c%C3%A1jar-rumbo-al-sector-en-d%C3%A9cimo-aniversario-de-su-estreno",
+            "tags": "t\u00edtulo,final,domingo,hielo,femenino,semana,fase,fase-final,busca,hockey,barcelona,copa",
+            "recuweb_url": "http://es.recuweb.com/hockey/marca.com/2015/04/el-hockey-hielo-busca-a-sus-reinas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://deportebase.ideal.es/hockey/4021-el-patin-cajar-rumbo-al-sector-en-el-decimo-aniversario-de-su-estreno-nacional.html"
-        },
-        "lavozdegalicia.es/2015/04/el-liceo-se-juega-en-palau-su-%C3%BAltima-opci%C3%B3n-para-luchar": {
-            "title": "El Liceo se juega en el Palau su \u00faltima opci\u00f3n para luchar por el t\u00edtulo de Liga...",
-            "snippet": "El Hockey Club Liceo se enfrenta hoy (13 horas) en el Palau Blaugrana al Barcelona en el partido correspondiente a la jornada 27 de la OK Liga. Un partido al que ambos equipos llegan en lo m\u00e1s alto de la clasificaci\u00f3n y con una ventaja de tan solo...",
-            "date": "2015-04-10",
-            "categories": "hockey",
-            "tags": "partido,equipos,tan,jornada,blaugrana,hoy,hockey,club,liceo,t\u00edtulo,liga,barcelona",
-            "recuweb_url": "http://es.recuweb.com/hockey/lavozdegalicia.es/2015/04/el-liceo-se-juega-en-palau-su-%C3%BAltima-opci%C3%B3n-para-luchar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=es",
-            "source_url": "http://lavozdegalicia.es/noticia/coruna/2015/04/11/liceo-juega-palau-ultima-opcion-luchar-titulo-liga/0003_201504H11C119910.htm"
+            "source_url": "http://marca.com/2015/04/24/mas_deportes/otros_deportes/1429900199.html"
         }
     }
 }

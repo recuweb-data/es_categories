@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "natacion",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/natacion/",
@@ -10,29 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/natacion/natacion/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/01/legan%C3%A9s-acogi%C3%B3-el-campeonato-auton%C3%B3mico-de-madrid-nataci%C3%B3n-special-olympics": {
-            "title": "Legan\u00e9s acogi\u00f3 el Campeonato Auton\u00f3mico de Madrid de Nataci\u00f3n de Special Olympics...",
-            "snippet": "La piscina cubierta de El Carrascal acogi\u00f3 el pasado s\u00e1bado 24 de enero el Campeonato Auton\u00f3mico de Madrid de Nataci\u00f3n que Special Olympics Madrid organiz\u00f3, con la participaci\u00f3n de 58 deportistas con discapacidad intelectual de entre 5 y 50...",
-            "date": "2015-01-26",
-            "author_name": "legacomprensa",
-            "categories": "discapacidad,natacion",
-            "tags": "piscina,nataci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2015/01/legan%C3%A9s-acogi%C3%B3-el-campeonato-auton%C3%B3mico-de-madrid-nataci%C3%B3n-special-olympics",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fmjcw_leganes-acogio-el-campeonato-autonomico-de-madrid-de-natacion-de-special-olympics_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fmjcw_leganes-acogio-el-campeonato-autonomico-de-madrid-de-natacion-de-special-olympics_news"
-        },
-        "dailymotion.com/2014/11/nataci%C3%B3n-los-t%C3%A9cnicos-americanos-apoyan-el-regreso-de-phelps": {
-            "title": "Nataci\u00f3n - Los t\u00e9cnicos americanos apoyan el regreso de Phelps...",
-            "snippet": "El americano tiene entre sus objetivos el 2016Author: Omnisport-espTags: All Sports regreso Sports News Phelps Nataci\u00f3n Review Los Spanish apoyan News Posted: 28 November 2014Rating:: 0...",
-            "date": "2014-11-28",
-            "author_name": "Omnisport-esp",
+        "dailymotion.com/2015/03/bien-informado-cursos-vacacionales-de-nataci%C3%B3n": {
+            "title": "Bien Informado - Cursos Vacacionales de Nataci\u00f3n...",
+            "snippet": "Author: tctelevisionTags: cursos vacacionales nataci\u00f3n guayaquil ecuador Posted: 16 March 2015Rating:: 0...",
+            "date": "2015-03-16",
+            "author_name": "tctelevision",
             "categories": "natacion",
-            "tags": "spanish,sports,nataci\u00f3n,phelps,omnisport,esptags",
-            "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2014/11/nataci%C3%B3n-los-t%C3%A9cnicos-americanos-apoyan-el-regreso-de-phelps",
+            "tags": "nataci\u00f3n,bien,bien_informado,informado,tctelevisiontags",
+            "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2015/03/bien-informado-cursos-vacacionales-de-nataci%C3%B3n",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2b8u46_natacion-los-tecnicos-americanos-apoyan-el-regreso-de-phelps_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2b8u46_natacion-los-tecnicos-americanos-apoyan-el-regreso-de-phelps_sport"
+            "source_url": "http://dailymotion.com/video/x2jp39g_bien-informado-cursos-vacacionales-de-natacion_webcam",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jp39g_bien-informado-cursos-vacacionales-de-natacion_webcam"
+        },
+        "dailymotion.com/2015/03/mireia-belmonte-dos-records-del-mundo-para-en-46-minutos-natacion": {
+            "title": "MIREIA BELMONTE- DOS RECORDS DEL MUNDO PARA MIREIA BELMONTE EN 46 MINUTOS - NATACION -...",
+            "snippet": "Ultimas Noticias, MIREIA BELMONTE- DOS RECORDS DEL MUNDO PARA MIREIA BELMONTE EN 46 MINUTOS - NATACION - FINA-NATATIONAuthor: ultimas-noticiasTags: Ultimas Noticias MIREIA BELMONTE- DOS RECORDS DEL MUNDO PARA BELMONTE EN 46 MINUTOS - NATACION...",
+            "date": "2015-03-05",
+            "author_name": "ultimas-noticias",
+            "categories": "natacion",
+            "tags": "dos,mundo,natacion",
+            "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2015/03/mireia-belmonte-dos-records-del-mundo-para-en-46-minutos-natacion",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2is62j_mireia-belmonte-dos-records-del-mundo-para-mireia-belmonte-en-46-minutos-natacion-fina-natation_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2is62j_mireia-belmonte-dos-records-del-mundo-para-mireia-belmonte-en-46-minutos-natacion-fina-natation_news"
+        },
+        "dailymotion.com/2015/03/bien-informado-vacacional-de-crossfit-y-nataci%C3%B3n": {
+            "title": "Bien Informado - Vacacional de Crossfit y Nataci\u00f3n...",
+            "snippet": "Author: tctelevisionTags: CrossFit bien informado vacacional nataci\u00f3n deporte ejercicios ni\u00f1os Posted: 02 March 2015Rating:: 0...",
+            "date": "2015-03-02",
+            "author_name": "tctelevision",
+            "categories": "natacion,deporte",
+            "tags": "bien,bien_informado,informado,nataci\u00f3n,tctelevisiontags",
+            "recuweb_url": "http://es.recuweb.com/deporte/dailymotion.com/2015/03/bien-informado-vacacional-de-crossfit-y-nataci%C3%B3n",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2iiard_bien-informado-vacacional-de-crossfit-y-natacion_webcam",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2iiard_bien-informado-vacacional-de-crossfit-y-natacion_webcam"
+        },
+        "youtube.com/2015/02/nataci%C3%B3n-con-aletas-copa-del-mundo-barcelona-2015-finswimming-world-cup": {
+            "title": "Nataci\u00f3n con Aletas: Copa del Mundo Barcelona 2015 - Finswimming World Cup 2015...",
+            "snippet": "Nataci\u00f3n con Aletas: Copa del Mundo Barcelona 2015 - Finswimming World Cup 2015 La copa del mundo de nataci\u00f3n con aletas se celebrar\u00e1 en Barcelona, Espa\u00f1a, el 21 y 22 de marzo 2015. Esta competici\u00f3n internacional es una de las pruebas m\u00e1s...",
+            "date": "2015-02-13",
+            "author_name": "FECDAS: Federaci\u00f3 Catalana Activitats Subaqu\u00e0tiques",
+            "categories": "natacion",
+            "tags": "mundo,nataci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/natacion/youtube.com/2015/02/nataci%C3%B3n-con-aletas-copa-del-mundo-barcelona-2015-finswimming-world-cup",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=natacion%2Bnatacion&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=F6L4b_c5Z3w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/F6L4b_c5Z3w/0.jpg"
+        },
+        "youtube.com/2015/01/t%C3%A9cnica-de-respiraci%C3%B3n-crol-natacion": {
+            "title": "T\u00e9cnica de respiraci\u00f3n de crol - Natacion...",
+            "snippet": "T\u00e9cnica de respiraci\u00f3n de crol - Natacion En este video aprenderemos a realizar correctamente la respiraci\u00f3n para el nado de crol. M\u00e1s informaci\u00f3n en: Facebook: Web:... From: Carril4tro Views: 4339 46 ratings Time: 01:32 More in People & Blogs...",
+            "date": "2015-01-31",
+            "author_name": "Carril4tro",
+            "categories": "natacion,facebook",
+            "tags": "natacion,facebook,people",
+            "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2015/01/t%C3%A9cnica-de-respiraci%C3%B3n-crol-natacion",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=natacion%2Bnatacion&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Nd3_4AGtm1I&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Nd3_4AGtm1I/0.jpg"
         },
         "dailymotion.com/2014/11/melissa-rodr%C3%ADguez-salv%C3%B3-la-noche-en-nataci%C3%B3n": {
             "title": "Melissa Rodr\u00edguez salv\u00f3 la noche en nataci\u00f3n...",
@@ -40,23 +77,11 @@
             "date": "2014-11-20",
             "author_name": "mediotiempo",
             "categories": "natacion",
-            "tags": "metros,nataci\u00f3n",
+            "tags": "nataci\u00f3n,dos",
             "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2014/11/melissa-rodr%C3%ADguez-salv%C3%B3-la-noche-en-nataci%C3%B3n",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
             "source_url": "http://dailymotion.com/video/x2anpeu_melissa-rodriguez-salvo-la-noche-en-natacion_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2anpeu_melissa-rodriguez-salvo-la-noche-en-natacion_sport"
-        },
-        "dailymotion.com/2014/11/cay%C3%B3-oro-para-m%C3%A9xico-en-nataci%C3%B3n-de-jcc-2014": {
-            "title": "Cay\u00f3 Oro para M\u00e9xico en nataci\u00f3n de JCC 2014...",
-            "snippet": "Durante las clasificatorias, Fernanda Gonz\u00e1lez se gan\u00f3 la etiqueta de favorita al imponer un r\u00e9cord centroamericano en 50 metros dorso. la mexicana hizo v\u00e1lidos los pron\u00f3sticos y, pese que no pudo mejorar su tiempo, s\u00ed se colg\u00f3 la medalla:...",
-            "date": "2014-11-16",
-            "author_name": "mediotiempo",
-            "categories": "natacion",
-            "tags": "mejorar,metros,nataci\u00f3n,durante",
-            "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2014/11/cay%C3%B3-oro-para-m%C3%A9xico-en-nataci%C3%B3n-de-jcc-2014",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ac443_cayo-oro-para-mexico-en-natacion-de-jcc-2014_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ac443_cayo-oro-para-mexico-en-natacion-de-jcc-2014_sport"
         },
         "dailymotion.com/2014/10/nataci%C3%B3n-con-el-club-de-triatl%C3%B3n-moncada": {
             "title": "NATACI\u00d3N con el Club de Triatl\u00f3n Moncada...",
@@ -64,23 +89,11 @@
             "date": "2014-10-23",
             "author_name": "tcgoimatge",
             "categories": "triatlon,natacion,fotografia,facebook",
-            "tags": "nataci\u00f3n,facebook,durante,piscina",
+            "tags": "nataci\u00f3n,facebook",
             "recuweb_url": "http://es.recuweb.com/facebook/dailymotion.com/2014/10/nataci%C3%B3n-con-el-club-de-triatl%C3%B3n-moncada",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
             "source_url": "http://dailymotion.com/video/x28hz4c_natacion-con-el-club-de-triatlon-moncada_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x28hz4c_natacion-con-el-club-de-triatlon-moncada_sport"
-        },
-        "dailymotion.com/2014/10/nataci%C3%B3n-phelps-sancionado-6": {
-            "title": "Nataci\u00f3n - Phelps, sancionado 6 meses...",
-            "snippet": "El nadador estadounidense es castigado por su Federaci\u00f3nAuthor: Omnisport-espTags: All Sports Phelps Sports News sancionado Spanish Nataci\u00f3n meses News Swimming Posted: 07 October 2014Rating:: 0...",
-            "date": "2014-10-07",
-            "author_name": "Omnisport-esp",
-            "categories": "natacion",
-            "tags": "sports,sports-news,spanish,nataci\u00f3n,phelps,omnisport,esptags",
-            "recuweb_url": "http://es.recuweb.com/natacion/dailymotion.com/2014/10/nataci%C3%B3n-phelps-sancionado-6",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion/0?af=1",
-            "source_url": "http://dailymotion.com/video/x27ffk5_natacion-phelps-sancionado-6-meses_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x27ffk5_natacion-phelps-sancionado-6-meses_sport"
         },
         "dailymotion.com/2014/10/nataci%C3%B3n-phelps-se-disculpa-por-conducir-ebrio": {
             "title": "Nataci\u00f3n - Phelps se disculpa por conducir ebrio...",
@@ -88,7 +101,7 @@
             "date": "2014-10-01",
             "author_name": "Omnisport-esp",
             "categories": "natacion,twitter",
-            "tags": "sports,sports-news,nataci\u00f3n,phelps,twitter,omnisport,esptags,spanish",
+            "tags": "nataci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/twitter/dailymotion.com/2014/10/nataci%C3%B3n-phelps-se-disculpa-por-conducir-ebrio",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/natacion+natacion/0?af=1",
             "source_url": "http://dailymotion.com/video/x270bp3_natacion-phelps-se-disculpa-por-conducir-ebrio_sport",
@@ -108,26 +121,15 @@
         },
         "youtube.com/2014/09/natacion-para-bebes-de-1-a-6": {
             "title": "NATACION PARA BEBES de (1 a 6 meses)...",
-            "snippet": "NATACION PARA BEBES de (1 a 6 meses) From: Cristofer Rolando Jimenez Views: 19815 135 ratings Time: 03:06 More in People & Blogs...",
+            "snippet": "NATACION PARA BEBES de (1 a 6 meses) From: Cristofer Rolando Jimenez Views: 25601 177 ratings Time: 03:06 More in People & Blogs...",
             "date": "2014-09-05",
             "author_name": "Cristofer Rolando Jimenez",
             "categories": "natacion",
+            "tags": "natacion,people",
             "recuweb_url": "http://es.recuweb.com/natacion/youtube.com/2014/09/natacion-para-bebes-de-1-a-6",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=natacion%2Bnatacion&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=natacion&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=fG1qsXL8A38&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/fG1qsXL8A38/0.jpg"
-        },
-        "youtube.com/2014/09/5-trucos-para-mejorar-la-nataci%C3%B3n-con-saleta-castro": {
-            "title": "5 trucos para mejorar la nataci\u00f3n con Saleta Castro...",
-            "snippet": "5 trucos para mejorar la nataci\u00f3n con Saleta Castro 5 trucos para mejorar nadando, con Saleta Castro Facebook: Twitter: Running Sanjuanero S... From: ValentiEstaLoco Views: 30276 545 ratings Time: 06:34 More in Sports...",
-            "date": "2014-09-01",
-            "author_name": "ValentiEstaLoco",
-            "categories": "natacion,facebook,twitter",
-            "tags": "mejorar,nataci\u00f3n,facebook,twitter,sports",
-            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2014/09/5-trucos-para-mejorar-la-nataci%C3%B3n-con-saleta-castro",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=natacion%2Bnatacion&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=NUAT6uzbVzI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/NUAT6uzbVzI/0.jpg"
         }
     }
 }

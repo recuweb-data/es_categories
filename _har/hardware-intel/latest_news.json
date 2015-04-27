@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hardware-intel",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-intel/",
@@ -10,64 +11,74 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-intel/hardware-intel/blogs.json"
     },
     "items": {
-        "tecnologia.elpais.com/2015/04/tu-mano-comandar%C3%A1-hordas-de-robots-ara%C3%B1a": {
-            "title": "Tu mano comandar\u00e1 hordas de robots ara\u00f1a...",
-            "snippet": "El director ejecutivo de la compa\u00f1\u00eda de hardware Intel, Brian Krzanich, sorprendi\u00f3 el lunes con la presentaci\u00f3n de una pulsera capaz de dar instrucciones a peque\u00f1os robots-ara\u00f1a con meros movimientos naturales de su mano. La clave est\u00e1 en un...",
-            "date": "2015-04-10",
+        "news.thomasnet.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-thomasnet-news-press": {
+            "title": "ASSET Enhances Software Debug and Hardware Validation Tools... - ThomasNet News (press release)...",
+            "snippet": "ASSET Enhances Software Debug and Hardware Validation Tools...ThomasNet News (press release) (blog)Engineers designing microserver and other hyperscale workload systems based on the new Intel microarchitecture codenamed Broadwell-DE will be able to...",
+            "date": "2015-04-23",
             "categories": "hardware",
-            "tags": "hardware,intel",
-            "recuweb_url": "http://es.recuweb.com/hardware/tecnologia.elpais.com/2015/04/tu-mano-comandar%C3%A1-hordas-de-robots-ara%C3%B1a",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bintel&format=RSS&cc=es",
-            "source_url": "http://tecnologia.elpais.com/tecnologia/2015/04/09/actualidad/1428591935_464095.html"
-        },
-        "tomshardware.com/2015/04/why-intel-keeps-losing-money-in-mobile-op-ed-tom": {
-            "title": "Why Intel Keeps Losing Money In Mobile (Op-Ed) - Tom's Hardware...",
-            "snippet": "Tom's HardwareWhy Intel Keeps Losing Money In Mobile (Op-Ed)Tom's HardwareIntel announced that it's going to change its financial reporting structure by combining the operating results of its Mobile and Communications Group and its PC Client Group.",
-            "date": "2015-04-10",
-            "categories": "hardware",
-            "tags": "its,that,intel,mobile,tom,hardware,hardwareintel",
-            "recuweb_url": "http://es.recuweb.com/hardware/tomshardware.com/2015/04/why-intel-keeps-losing-money-in-mobile-op-ed-tom",
+            "tags": "will,will-be-able,able,microarchitecture,microarchitecture-codenamed,codenamed,designing,designing-microserver,microserver,microserver-and-other,other,other-hyperscale,other-hyperscale-workload,hyperscale,hyperscale-workload,hyperscale-workload-systems,workload,workload-systems,workload-systems-based,systems,systems-based,based,press,press-release,release,hardware,validation,tools,asset,enhances,software,debug,engineers,intel,broadwell",
+            "recuweb_url": "http://es.recuweb.com/hardware/news.thomasnet.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-thomasnet-news-press",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://tomshardware.com/news/intel-mobile-losses-earning-reports,28892.html"
+            "source_url": "http://news.thomasnet.com/companystory/asset-enhances-software-debug-and-hardware-validation-tools-for-intel-broadwell-de-microarchitecture-20043605"
         },
-        "milenio.com/2015/04/retrato-hablado-de-un-negocio": {
-            "title": "Retrato hablado de un negocio...",
-            "snippet": "Hasta ah\u00ed todo est\u00e1 claro para los jugadores. Sin embargo, las caracter\u00edsticas t\u00e9cnicas que el gobierno exige para las tabletas coinciden con las del procesador de un solo proveedor de hardware: Intel, cuyo socio de negocios en M\u00e9xico es Grupo...",
-            "date": "2015-04-09",
+        "emsnow.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-for-emsnow-press": {
+            "title": "ASSET enhances software debug and hardware validation tools for... - EMSNow (press release)...",
+            "snippet": "ASSET enhances software debug and hardware validation tools for...EMSNow (press release)Engineers designing microserver and other hyperscale workload systems based on the new Intel microarchitecture codenamed Broadwell-DE will be able to quickly...",
+            "date": "2015-04-22",
             "categories": "hardware",
-            "tags": "procesador,solo,hardware,intel",
-            "recuweb_url": "http://es.recuweb.com/hardware/milenio.com/2015/04/retrato-hablado-de-un-negocio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bintel&format=RSS&cc=es",
-            "source_url": "http://milenio.com/firmas/adriana_malvido/Retrato-hablado-negocio_18_496930366.html"
+            "tags": "will,will-be-able,able,microarchitecture,microarchitecture-codenamed,codenamed,designing,designing-microserver,microserver,microserver-and-other,other,other-hyperscale,other-hyperscale-workload,hyperscale,hyperscale-workload,hyperscale-workload-systems,workload,workload-systems,workload-systems-based,systems,systems-based,based,press,press-release,release,validation,tools,enhances,software,debug,asset,hardware,engineers,intel,broadwell",
+            "recuweb_url": "http://es.recuweb.com/hardware/emsnow.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-for-emsnow-press",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://emsnow.com/npps/story.cfm?pg=story&id=56239"
         },
-        "networkworld.com/2015/04/intel-courts-china-s-hardware-startups-to-popularize-its-mobile-iot": {
-            "title": "Intel courts China's hardware startups to popularize its mobile, IoT... - Network World...",
-            "snippet": "Tom's HardwareIntel courts China's hardware startups to popularize its mobile, IoT...Network WorldIn the battle for chip supremacy, the U.S. tech giant has been trying to dig deep into China's hardware industry, and ensure that not just big vendors...",
+        "tomshardware.com/2015/04/intel-compute-stick-with-bay-trail-on-board-now-available-tom": {
+            "title": "Intel Compute Stick With Bay Trail On Board Now Available - Tom's Hardware...",
+            "snippet": "Tom's HardwareIntel Compute Stick With Bay Trail On Board Now AvailableTom's HardwareAfter recently opening up preorders, Intel is now announcing the general availability of the Intel Compute Stick. The device, which plugs directly into a display's...",
+            "date": "2015-04-22",
+            "categories": "hardware",
+            "tags": "which,general,hardwareintel,intel,tom,hardware,hardwareafter",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshardware.com/2015/04/intel-compute-stick-with-bay-trail-on-board-now-available-tom",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://tomshardware.com/news/intel-hdmi-compute-stick-atom,28973.html"
+        },
+        "tomshw.it/2015/04/samsung-domina-il-mercato-degli-ssd-intel-e-sandisk-staccate-tom": {
+            "title": "Samsung domina il mercato degli SSD, Intel e SanDisk staccate - Tom's Hardware...",
+            "snippet": "Tom's HardwareSamsung domina il mercato degli SSD, Intel e SanDisk staccateTom's HardwareUna ricerca di mercato di IHS iSuppli inquadra il successo di Samsung nel mercato della memoria NAND Flash. Il produttore sudcoreano fattura il doppio dei...",
+            "date": "2015-04-22",
+            "categories": "memoria,hardware",
+            "tags": "intel,tom,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshw.it/2015/04/samsung-domina-il-mercato-degli-ssd-intel-e-sandisk-staccate-tom",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://tomshw.it/news/samsung-domina-il-mercato-degli-ssd-intel-e-sandisk-staccate-65678"
+        },
+        "tomshardware.com/2015/04/intel-fifty-years-under-moore-s-law-tom-hardware": {
+            "title": "Intel: Fifty Years Under Moore's Law - Tom's Hardware...",
+            "snippet": "Tom's HardwareIntel: Fifty Years Under Moore's LawTom's HardwareAfter co-founding Intel, Moore was placed in a situation where he had direct control and could push for greater innovation and advancement. Intel has striven to keep pace, and be it...",
+            "date": "2015-04-20",
+            "categories": "hardware",
+            "tags": "was,intel,tom,hardware,hardwareintel,hardwareafter",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshardware.com/2015/04/intel-fifty-years-under-moore-s-law-tom-hardware",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://tomshardware.com/news/fifty-years-under-moores-law,28961.html"
+        },
+        "pcworld.com/2015/04/intel-courts-china-s-hardware-startups-to-popularize-its-mobile-iot": {
+            "title": "Intel courts China's hardware startups to popularize its mobile, IoT... - PCWorld...",
+            "snippet": "Intel courts China's hardware startups to popularize its mobile, IoT...PCWorldLiu's company, CEIN Biotechnology, which develops finger vein scanners, is just one among the many Chinese tech startups Intel is courting. In the battle for chip...",
             "date": "2015-04-08",
             "categories": "hardware",
-            "tags": "that,chip,its,mobile,intel,hardware,tom,hardwareintel",
-            "recuweb_url": "http://es.recuweb.com/hardware/networkworld.com/2015/04/intel-courts-china-s-hardware-startups-to-popularize-its-mobile-iot",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://networkworld.com/article/2907714/intel-courts-chinas-hardware-startups-to-popularize-its-mobile-iot-chips.html"
-        },
-        "xatakamovil.com/2015/03/asus-zenfone-2-y-sus-4gb-de-ram-dan-primeros-pasos": {
-            "title": "Asus Zenfone 2 y sus 4GB de RAM dan sus primeros pasos por Europa...",
-            "snippet": "Lo consigue al optar por hardware Intel en toda su nueva gama. Estamos ante tel\u00e9fonos Android, que se empiezan a vender esta semana en Francia. Tambi\u00e9n en Italia. \u00bfCu\u00e1ndo en Espa\u00f1a? Pues no tenemos informaci\u00f3n al respecto, pero actualizaremos...",
-            "date": "2015-03-31",
-            "categories": "hardware",
-            "tags": "hardware,intel",
-            "recuweb_url": "http://es.recuweb.com/hardware/xatakamovil.com/2015/03/asus-zenfone-2-y-sus-4gb-de-ram-dan-primeros-pasos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bintel&format=RSS&cc=es",
-            "source_url": "http://xatakamovil.com/otras/asus-zenfone-2-y-sus-4gb-de-ram-dan-sus-primeros-pasos-por-europa"
+            "tags": "which,intel,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/pcworld.com/2015/04/intel-courts-china-s-hardware-startups-to-popularize-its-mobile-iot",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://pcworld.com/article/2907712/intel-courts-chinas-hardware-startups-to-popularize-its-mobile-iot-chips.html"
         },
         "forbes.com/2015/03/directx-12-delivers-amd-nvidia-and-intel-hardware-tested-with-forbes": {
             "title": "DirectX 12 Delivers: AMD, Nvidia, And Intel Hardware Tested With... - Forbes...",
-            "snippet": "DirectX 12 Delivers: AMD, Nvidia, And Intel Hardware Tested With...ForbesThey also equipped us with Windows 10 Technical Preview (Build 10041) and in-development DirectX 12 drivers for Nvidia, AMD, and Intel Intel hardware. Then they said go nuts.",
+            "snippet": "DirectX 12 Delivers: AMD, Nvidia, And Intel Hardware Tested With...ForbesYou may be skeptical about DirectX 12, and I don't blame you. After all, PC (and often by extension, console) games have been handicapped for years by prior versions of...",
             "date": "2015-03-26",
             "categories": "hardware",
-            "tags": "intel,hardware,amd,nvidia",
+            "tags": "intel,hardware,amd",
             "recuweb_url": "http://es.recuweb.com/hardware/forbes.com/2015/03/directx-12-delivers-amd-nvidia-and-intel-hardware-tested-with-forbes",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
             "source_url": "http://forbes.com/sites/jasonevangelho/2015/03/26/directx-12-delivers-amd-nvidia-and-intel-hardware-tested-with-awesome-improvements/"
         }
     }

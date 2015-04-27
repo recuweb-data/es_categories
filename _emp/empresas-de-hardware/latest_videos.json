@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "empresas-de-hardware",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/empresas-de-hardware/",
@@ -12,7 +13,7 @@
     "items": {
         "youtube.com/2015/01/qu%C3%A9-es-ietf-en-espa%C3%B1ol-claro": {
             "title": "Qu\u00e9 es IETF en espa\u00f1ol claro...",
-            "snippet": "Qu\u00e9 es IETF en espa\u00f1ol claro En Internet existen miles de empresas fabricando hardware, desarrollando software y prestando servicios, sin embargo, todo funciona muy bien. Eso es posible... From: NICbrvideos Views: 413 12 ratings Time: 05:43 More...",
+            "snippet": "Qu\u00e9 es IETF en espa\u00f1ol claro En Internet existen miles de empresas fabricando hardware, desarrollando software y prestando servicios, sin embargo, todo funciona muy bien. Eso es posible porque existen est\u00e1ndares tecnol\u00f3gicos. From: NICbrvideos...",
             "date": "2015-01-28",
             "author_name": "NICbrvideos",
             "categories": "hardware,internet",
@@ -24,7 +25,7 @@
         },
         "youtube.com/2014/09/presentaci%C3%B3n-hardware-y-software-mobile": {
             "title": "Presentaci\u00f3n Hardware y Software Mobile...",
-            "snippet": "Presentaci\u00f3n \"Hardware y Software Mobile\" Pascual Parada presenta la clase \"Hardware y Software Mobile\" de \"Postgrado en Creaci\u00f3n de Empresas: El Start-Up del Emprendedor\". M\u00e1s informaci\u00f3n: http://ww... From: Diana Otero Views: 2 0 ratings Time:...",
+            "snippet": "Presentaci\u00f3n \"Hardware y Software Mobile\" Pascual Parada presenta la clase \"Hardware y Software Mobile\" de \"Postgrado en Creaci\u00f3n de Empresas: El Start-Up del Emprendedor\". M\u00e1s informaci\u00f3n: http://ww... From: Diana Otero Views: 3 0 ratings Time:...",
             "date": "2014-09-10",
             "author_name": "Diana Otero",
             "categories": "hardware",
@@ -36,7 +37,7 @@
         },
         "youtube.com/2013/10/conozca-qu%C3%A9-es-la-ventaja-intel-para-peque%C3%B1as-empresas": {
             "title": "Conozca qu\u00e9 es la Ventaja Intel para Peque\u00f1as Empresas...",
-            "snippet": "Conozca qu\u00e9 es la Ventaja Intel para Peque\u00f1as Empresas Intel Small Business Advantage es una combinaci\u00f3n de hardware y software que proporciona capacidades exclusivas de seguridad y productividad listas para ser... From: intelscope Views: 236 4...",
+            "snippet": "Conozca qu\u00e9 es la Ventaja Intel para Peque\u00f1as Empresas Intel Small Business Advantage es una combinaci\u00f3n de hardware y software que proporciona capacidades exclusivas de seguridad y productividad listas para ser utilizadas por las peque\u00f1as...",
             "date": "2013-10-31",
             "author_name": "intelscope",
             "categories": "hardware",
@@ -46,13 +47,37 @@
             "source_url": "http://youtube.com/watch?v=LjfnfanKyMc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/LjfnfanKyMc/0.jpg"
         },
+        "youtube.com/2013/08/la-relacion-de-tecnologia-en-administraci%C3%B2n-y-el-hardware": {
+            "title": "La relacion de la tecnologia en la administraci\u00f2n y el hardware...",
+            "snippet": "La relacion de la tecnologia en la administraci\u00f2n y el hardware Hoy en d\u00eda la tecnolog\u00eda es una gran ayuda para las empresas y administradores. From: Erika Castillo Views: 46 0 ratings Time: 02:28 More in People & Blogs...",
+            "date": "2013-08-15",
+            "author_name": "Erika Castillo",
+            "categories": "tecnologia,hardware",
+            "tags": "empresas,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/08/la-relacion-de-tecnologia-en-administraci%C3%B2n-y-el-hardware",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empresas%2Bde%2Bhardware&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=5zcLLjhrbqY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5zcLLjhrbqY/0.jpg"
+        },
+        "youtube.com/2013/08/cipec-carrera-de-hardware": {
+            "title": "CIPEC - Carrera de hardware...",
+            "snippet": "CIPEC - Carrera de hardware Carreras a nivel t\u00e9cnico superior An\u00e1lisis de Sistemas Contabilidad General Administraci\u00f3n de Empresas Electr\u00f3nica Mercadotecnia Carreras a nivel t... From: guianegociosbolivia Views: 31 0 ratings Time: 00:32 More in...",
+            "date": "2013-08-13",
+            "author_name": "guianegociosbolivia",
+            "categories": "electronica,contabilidad,hardware",
+            "tags": "empresas,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/08/cipec-carrera-de-hardware",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empresas%2Bde%2Bhardware&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=3YciUkT2ZWU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3YciUkT2ZWU/0.jpg"
+        },
         "youtube.com/2013/03/charla-como-hacer-dinero-con-el-hardware-libre": {
             "title": "Charla \u00bfComo Hacer Dinero con el Hardware Libre?",
-            "snippet": "Charla \u00bfComo Hacer Dinero con el Hardware Libre? Charla a alumnos del CETIS 80 sobre empresas que hacen hardware libre, como han emprendido, su modelo de negocio y como ganan dinero. From: Andres Sabas Views: 288 4 ratings Time: 33:03 More in...",
+            "snippet": "Charla \u00bfComo Hacer Dinero con el Hardware Libre? Charla a alumnos del CETIS 80 sobre empresas que hacen hardware libre, como han emprendido, su modelo de negocio y como ganan dinero. From: Andres Sabas Views: 301 4 ratings Time: 33:03 More in...",
             "date": "2013-03-12",
             "author_name": "Andres Sabas",
             "categories": "hardware",
-            "tags": "empresas,hardware",
+            "tags": "negocio,empresas,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/03/charla-como-hacer-dinero-con-el-hardware-libre",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empresas%2Bde%2Bhardware%2Bempresas%2Bde%2Bhardware&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=GziZqZ9Hf5w&feature=youtube_gdata",
@@ -60,7 +85,7 @@
         },
         "youtube.com/2012/06/antonio-vazquez-brust-el-hardware-y-manejo-de-datos": {
             "title": "Antonio Vazquez Brust, el hardware y el manejo de datos...",
-            "snippet": "Antonio Vazquez Brust, el hardware y el manejo de datos Antonio Vazquez Brust, System Architect para IBM nos explica sobre el hardware y sus beneficios en el manejo y en la producci\u00f3n de datos para las empresas. L... From: IBMLatinoamerica Views:...",
+            "snippet": "Antonio Vazquez Brust, el hardware y el manejo de datos Antonio Vazquez Brust, System Architect para IBM nos explica sobre el hardware y sus beneficios en el manejo y en la producci\u00f3n de datos para las empresas. La innovaci\u00f3n tecnol\u00f3gica crece...",
             "date": "2012-06-29",
             "author_name": "IBMLatinoamerica",
             "categories": "hardware",
@@ -82,13 +107,25 @@
             "source_url": "http://youtube.com/watch?v=S9Ov1rI45oY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/S9Ov1rI45oY/0.jpg"
         },
+        "youtube.com/2011/02/oracle-comercializar%C3%A1-hardware-por-medio-de-avnet": {
+            "title": "Oracle comercializar\u00e1 hardware por medio de Avnet...",
+            "snippet": "Oracle comercializar\u00e1 hardware por medio de Avnet Con apoyo de sus socios de negocio, ambas empresas conf\u00edan en llegar a mercados y regiones donde a\u00fan pueden mejorar su presencia. From: iol2010 Views: 43 0 ratings Time: 02:13 More in Science &...",
+            "date": "2011-02-02",
+            "author_name": "iol2010",
+            "categories": "hardware",
+            "tags": "empresas,negocio,hardware,science",
+            "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2011/02/oracle-comercializar%C3%A1-hardware-por-medio-de-avnet",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empresas%2Bde%2Bhardware&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=nbRnLbKSFkM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/nbRnLbKSFkM/0.jpg"
+        },
         "youtube.com/2009/09/soluciones-netcorp-para-empresas-hardware": {
             "title": "Soluciones NetCorp para empresas: Hardware...",
-            "snippet": "Soluciones NetCorp para empresas: Hardware Se explica que tipo de servicios se dan al cliente en cuestion de harware para su beneficio. From: NetCorp2009 Views: 82 0 ratings Time: 02:44 More in Science & Technology...",
+            "snippet": "Soluciones NetCorp para empresas: Hardware Se explica que tipo de servicios se dan al cliente en cuestion de harware para su beneficio. From: NetCorp2009 Views: 84 0 ratings Time: 02:44 More in Science & Technology...",
             "date": "2009-09-30",
             "author_name": "NetCorp2009",
             "categories": "hardware",
-            "tags": "explica,servicios,empresas,hardware",
+            "tags": "explica,servicios,empresas,hardware,science",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2009/09/soluciones-netcorp-para-empresas-hardware",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empresas%2Bde%2Bhardware%2Bempresas%2Bde%2Bhardware&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=4SacbbI1rtc&feature=youtube_gdata",

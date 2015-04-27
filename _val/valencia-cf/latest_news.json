@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "valencia-cf",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/valencia-cf/",
@@ -10,97 +11,97 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/valencia-cf/valencia-cf/blogs.json"
     },
     "items": {
-        "valenciacf.lasprovincias.es/2015/03/alc%C3%A1cer-todo-lo-que-va-a-venir-es-bueno": {
-            "title": "Alc\u00e1cer: Todo lo que va a venir es bueno...",
-            "snippet": "Paco Alc\u00e1cer se ha convertido en uno de los referentes del Valencia CF dentro y fuera del terreno de juego. El delantero de Torrent es valencianista desde peque\u00f1o, cuesti\u00f3n que no pasa desapercibido para los aficionados. Sus goles no s\u00f3lo han...",
-            "date": "2015-03-24",
-            "tags": "aficionados,valencianista,delantero,alc\u00e1cer,paco,valencia",
-            "recuweb_url": "http://es.recuweb.com/valenciacf.lasprovincias.es/2015/03/alc%C3%A1cer-todo-lo-que-va-a-venir-es-bueno",
+        "superdeporte.es/2015/04/101-hechos-para-unir-solidaridad-y-valencia-cf": {
+            "title": "101 hechos para unir solidaridad y Valencia CF...",
+            "snippet": "SD Hay al menos 101 hechos legendarios en la historia de Valencia que servir\u00e1n para llevar adelante los proyectos de la Penya Valencianista per la Solidaritat, un grupo muy peculiar de aficionados que desde hace m\u00e1s de una d\u00e9cada decidieron que...",
+            "date": "2015-04-24",
+            "tags": "muy,menos,valencia,hay",
+            "recuweb_url": "http://es.recuweb.com/superdeporte.es/2015/04/101-hechos-para-unir-solidaridad-y-valencia-cf",
             "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://valenciacf.lasprovincias.es/noticias/201503/24/alcacer-todo-venir-bueno-20150324111756.html"
+            "source_url": "http://superdeporte.es/valencia/2015/04/24/101-hechos-unir-solidaridad-valencia/255304.html"
         },
-        "vavel.com/2015/03/el-once-de-oro-vavel-jornada-28": {
-            "title": "El Once de Oro de VAVEL: jornada 28 -...",
-            "snippet": "Once de Oro de VAVEL: jornada el aspecto ofensivo, Trashorras y Kakuta se convirtieron en protagonistas del partido ante el M\u00e1laga CF, mientras que Parejo y Alc\u00e1cer fueron los jugadores m\u00e1s destacados de la victoria del Valencia CF en Alicante.",
-            "date": "2015-03-24",
-            "tags": "victoria,partido,jornada,parejo,alc\u00e1cer,jugadores,valencia",
-            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/03/el-once-de-oro-vavel-jornada-28",
+        "grada.6cero.com/2015/04/amadeo-salvo-en-la-nueva-equipaci%C3%B3n-aplica-al-valencia-cf-mayores": {
+            "title": "Amadeo Salvo, en la nueva equipaci\u00f3n, aplica al Valencia CF mayores dosis de valencianismo...",
+            "snippet": "El presidente ejecutivo del Valencia, Amadeo Salvo y Adidas proveedor deportivo oficial del Valencia CF, va a seguir con la l\u00ednea emprendida en su primera temporada por lo tanto el Club de Mestalla dispondr\u00e1 s\u00f3lo dos camisetas oficiales, con...",
+            "date": "2015-04-24",
+            "tags": "dos,l\u00ednea,valencia,primera,club,mestalla",
+            "recuweb_url": "http://es.recuweb.com/grada.6cero.com/2015/04/amadeo-salvo-en-la-nueva-equipaci%C3%B3n-aplica-al-valencia-cf-mayores",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://grada.6cero.com/a/Marjaler/2015/abr/amadeo-salvo-equipacion-aplica-valencia-cf-mayores-dosis-valencianismo/250610"
+        },
+        "vavel.com/2015/04/atl%C3%A9tico-de-madrid-elche-pescando-la-tranquilidad": {
+            "title": "Atl\u00e9tico de Madrid - Elche: pescando la tranquilidad -...",
+            "snippet": "\u00e9tico de Madrid - Elche: pescando la obstante, la victoria para el equipo madrile\u00f1o ser\u00eda muy importante, ya que el Valencia C.F (4 clasificado, con 4 puntos menos) les pisa los talones para conseguir la plaza que les asegura competir en la...",
+            "date": "2015-04-24",
+            "tags": "menos,victoria,equipo,muy,atl\u00e9tico,madrid,valencia",
+            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/atl%C3%A9tico-de-madrid-elche-pescando-la-tranquilidad",
+            "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf%2Bvalencia%2Bcf&output=atom&nord=1",
+            "source_url": "http://vavel.com/es/futbol/elche-cf/480687-atletico-de-madrid-elche-pescando-la-tranquilidad.html"
+        },
+        "valenciacf.lasprovincias.es/2015/04/el-real-madrid-valencia-cf-9-de-mayo-a-las-20": {
+            "title": "El Real Madrid-Valencia CF, 9 de mayo a las 20 horas...",
+            "snippet": "La Liga de F\u00fatbol Profesional (LFP) anunci\u00f3 hoy los horarios de la jornada 36 de la Liga BBVA, en la que el partido Real Madrid-Valencia se disputar\u00e1 el s\u00e1bado 9 de mayo a las horas, mientras que el Levante-Atl\u00e9tico de Madrid se jugar\u00e1 el...",
+            "date": "2015-04-24",
+            "categories": "futbol,realmadrid",
+            "tags": "partido,liga,liga_bbva,bbva,f\u00fatbol,madrid,valencia,atl\u00e9tico",
+            "recuweb_url": "http://es.recuweb.com/realmadrid/valenciacf.lasprovincias.es/2015/04/el-real-madrid-valencia-cf-9-de-mayo-a-las-20",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://valenciacf.lasprovincias.es/noticias/201504/24/real-madrid-valencia-mayo-20150424134445.html"
+        },
+        "noticiaspress.es/2015/04/emran-el-palestino-que-sue%C3%B1a-con-entrenar-al-valencia-cf": {
+            "title": "Emran el Palestino que sue\u00f1a con entrenar al Valencia CF...",
+            "snippet": "Emran Badran es fan del Valencia CF desde los 10 a\u00f1os cuando vio en 1999 al Valencia CF de C\u00faper en el campo del Hapoel Haifa. En Israel, Emran es entrenador de un club, el Hapoel Ain Al-Sahla. Ahora, este palestino de 25 a\u00f1os visita por primera...",
+            "date": "2015-04-24",
+            "tags": "valencia,club,primera",
+            "recuweb_url": "http://es.recuweb.com/noticiaspress.es/2015/04/emran-el-palestino-que-sue%C3%B1a-con-entrenar-al-valencia-cf",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://noticiaspress.es/2015/04/emran-el-palestino-que-suena-con-entrenar-al-valencia-cf/"
+        },
+        "levante-emv.com/2015/04/javi-fuego-el-m%C3%A1s-fijo-en-trivote": {
+            "title": "Javi Fuego, el m\u00e1s fijo en el trivote...",
+            "snippet": "pau fuster valencia La intenci\u00f3n de Nuno es mantener la l\u00ednea de tres centrocampistas por el carril central, planteamiento con el que m\u00e1s ha rendido el Valencia CF en el curso actual. Ante el Granada, el t\u00e9cnico ya podr\u00e1 contar con Enzo...",
+            "date": "2015-04-24",
+            "tags": "l\u00ednea,valencia,granada",
+            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/04/javi-fuego-el-m%C3%A1s-fijo-en-trivote",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://levante-emv.com/valencia-cf/2015/04/24/javi-fuego-fijo-trivote/1255365.html"
+        },
+        "vavel.com/2015/04/mestalla-territorio-hostil-para-el-granada": {
+            "title": "Mestalla, territorio hostil para el Granada -...",
+            "snippet": ", territorio hostil para el conjunto rojiblanco no ha logrado nunca una victoria en sus 20 visitas al estadio del Valencia CF, todas ellas en Primera Divisi\u00f3n. El balance de resultados es de dieciocho derrotas y dos empates para el equipo granadino...",
+            "date": "2015-04-24",
+            "tags": "dos,equipo,primera,primera_divisi\u00f3n,divisi\u00f3n,conjunto,victoria,mestalla,granada,valencia",
+            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/mestalla-territorio-hostil-para-el-granada",
+            "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf%2Bvalencia%2Bcf&output=atom&nord=1",
+            "source_url": "http://vavel.com/es/futbol/granada-cf/480499-mestalla-territorio-hostil-para-el-granada.html"
+        },
+        "vavel.com/2015/04/roberto-fern%C3%A1ndez-a-valencia-hay-que-ir-ganar": {
+            "title": "Roberto Fern\u00e1ndez: \"A Valencia hay que ir a ganar\" -...",
+            "snippet": "Fern\u00e1ndez: \"A Valencia hay que ir a ganar\" portero del Granada CF, Roberto Fern\u00e1ndez, ha comparecido hoy ante los medios de comunicaci\u00f3n para hablar del momento complicado en el que se encuentra el equipo y como afrontan las seis jornadas de...",
+            "date": "2015-04-24",
+            "tags": "equipo,valencia,hay,granada",
+            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/roberto-fern%C3%A1ndez-a-valencia-hay-que-ir-ganar",
             "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf&output=atom&nord=1",
-            "source_url": "http://vavel.com/es/futbol/467326-el-once-de-oro-de-vavel-jornada-28.html"
+            "source_url": "http://vavel.com/es/futbol/granada-cf/480594-roberto-fernandez-a-valencia-hay-que-ir-a-ganar.html"
         },
-        "elmundo.es/2015/03/pilar-vicente-ex-directora-del-colegio-de-bonrep%C3%B2s-entre-las-v%C3%ADctimas": {
-            "title": "Pilar Vicente, ex directora del colegio de Bonrep\u00f2s, entre las v\u00edctimas del accidente a\u00e9reo...",
-            "snippet": "Una aficionada alemana del Valencia CF Por otra parte, el Valencia CF ha mostrado sus condolencias a la familia a Sonia Cercek, una gran aficionada valencianista que viajaba en el Airbus que se ha estrellado esta ma\u00f1ana. Sonia, junto con su...",
-            "date": "2015-03-24",
-            "tags": "junto,estrellado,aficionada,valencianista,sonia,mostrado,vicente,valencia",
-            "recuweb_url": "http://es.recuweb.com/elmundo.es/2015/03/pilar-vicente-ex-directora-del-colegio-de-bonrep%C3%B2s-entre-las-v%C3%ADctimas",
+        "elmundo.es/2015/04/un-informe-advirti%C3%B3-a-bankia-de-que-aedifica-podr%C3%ADa-desviar-fondos": {
+            "title": "Un informe advirti\u00f3 a Bankia de que Aedifica podr\u00eda 'desviar fondos'...",
+            "snippet": "La cuant\u00eda se habr\u00eda incrementado sustancialmente si hubiera prosperado el proyecto de Newcoval, sociedad participada al 50% por Aedifica y Bankia, para enjugar las deudas del Valencia CF mediante el desarrollo de una macroactuaci\u00f3n urban\u00edstica...",
+            "date": "2015-04-24",
+            "categories": "sociedad",
+            "tags": "valencia",
+            "recuweb_url": "http://es.recuweb.com/sociedad/elmundo.es/2015/04/un-informe-advirti%C3%B3-a-bankia-de-que-aedifica-podr%C3%ADa-desviar-fondos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/comunidad-valenciana/2015/03/24/55119fafe2704ea0138b456b.html"
+            "source_url": "http://elmundo.es/comunidad-valenciana/2015/04/24/5539fe2ae2704e2e398b456e.html"
         },
-        "diez.hn/2015/03/valencia-se-solidariza-por-muerte-de-aficionada-en-avi%C3%B3n-estrellado": {
-            "title": "Valencia se solidariza por muerte de aficionada en avi\u00f3n estrellado -...",
-            "snippet": "se solidariza por muerte de aficionada en avi\u00f3n \u00fan ha explicado el Valencia CF, Sonia, junto con su marido Oliver, era fiel seguidora del club y acud\u00eda ocasionalmente a Mestalla y tambi\u00e9n a todos los desplazamientos del equipo en Alemania y...",
-            "date": "2015-03-24",
-            "tags": "fiel,junto,aficionada,estrellado,valencia,sonia,club,mestalla",
-            "recuweb_url": "http://es.recuweb.com/diez.hn/2015/03/valencia-se-solidariza-por-muerte-de-aficionada-en-avi%C3%B3n-estrellado",
+        "vavel.com/2015/04/rcd-espanyol-y-valencia-cf-se-enfrentar%C3%A1n-en-la-copa": {
+            "title": "RCD Espanyol y Valencia CF se enfrentar\u00e1n en la Copa del Rey de... -...",
+            "snippet": "Espanyol y Valencia CF se enfrentar\u00e1n en la Copa del Rey de... conjunto blanquinegro se pone como objetivo llegar muy lejos en esta edici\u00f3n de la Copa del Rey, para olvidar la reci\u00e9n acabada liga que termin\u00f3 con un segundo puesto a un punto del...",
+            "date": "2015-04-22",
+            "tags": "liga,conjunto,muy,valencia",
+            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/rcd-espanyol-y-valencia-cf-se-enfrentar%C3%A1n-en-la-copa",
             "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf%2Bvalencia%2Bcf&output=atom&nord=1",
-            "source_url": "http://diez.hn/internacionales/825285-99/valencia-se-solidariza-por-muerte-de-aficionada-en-avi\u00f3n-estrellado"
-        },
-        "levante-emv.com/2015/03/dos-semanas-para-tener-a-tope-alc%C3%A1cer": {
-            "title": "Dos semanas para tener a tope a Alc\u00e1cer...",
-            "snippet": "pau fuster valencia A pesar de la lesi\u00f3n de Diego Costa, Vicente del Bosque sigui\u00f3 fiel a su idea inicial consensuada con el Valencia CF y opt\u00f3 por convocar a otro delantero en lugar de repescar a Paco Alc\u00e1cer, que a\u00fan no est\u00e1 al cien por...",
-            "date": "2015-03-23",
-            "tags": "delantero,paco,fiel,diego,dos,alc\u00e1cer,valencia,vicente",
-            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/03/dos-semanas-para-tener-a-tope-alc%C3%A1cer",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://levante-emv.com/valencia-cf/2015/03/24/semanas-tope-alcacer/1242440.html"
-        },
-        "es.noticias.yahoo.com/2015/03/javi-fuego-est%C3%A1-bien-que-la-afici%C3%B3n-tenga-ilusi%C3%B3n-pero-nosotros": {
-            "title": "Javi Fuego: \"Est\u00e1 bien que la afici\u00f3n tenga ilusi\u00f3n pero nosotros tenemos que mantener los pies...",
-            "snippet": "El centrocampista del Valencia CF Javi Fuego se ha mostrado satisfecho este lunes por la victoria \"importante y contundente\" ante el Elche el pasado viernes (0-4) que les hace mantenerse en la tercera plaza, pero ha destacado que los jugadores...",
-            "date": "2015-03-23",
-            "tags": "tercera,tercera-plaza,plaza,viernes,mostrado,victoria,importante,valencia,afici\u00f3n,elche,jugadores",
-            "recuweb_url": "http://es.recuweb.com/es.noticias.yahoo.com/2015/03/javi-fuego-est%C3%A1-bien-que-la-afici%C3%B3n-tenga-ilusi%C3%B3n-pero-nosotros",
-            "resource_url": "http://es.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=valencia%2Bcf",
-            "source_url": "http://es.noticias.yahoo.com/javi-fuego-afici\u00f3n-ilusi\u00f3n-mantener-pies-suelo-130717736--sow.html"
-        },
-        "levante-emv.com/2015/03/yo-presenci%C3%A9-la-supervictoria-del-valencia-cf-en-elche": {
-            "title": "Yo presenci\u00e9 la supervictoria del Valencia CF en Elche...",
-            "snippet": "LEVANTE-EMV No import\u00f3 el sue\u00f1o y el cansancio de la semana fallera. Dos mil aficionados, de todo tipo de poblaciones, acudieron al Mart\u00ednez Valero, un campo amigo, a quienes se le desearon todos los \u00e9xitos posibles a partir de este partido.",
-            "date": "2015-03-22",
-            "tags": "partido,mart\u00ednez,mart\u00ednez_valero,valero,aficionados,valencia,elche,levante,dos",
-            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/03/yo-presenci%C3%A9-la-supervictoria-del-valencia-cf-en-elche",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://levante-emv.com/valencia-cf/2015/03/23/presencie-supervictoria-valencia-cf-elche/1242033.html"
-        },
-        "es.blastingnews.com/2015/03/el-valencia-c-f-va-a-por-la-liga-blasting-news": {
-            "title": "El Valencia C.F. va a por la Liga - Blasting News...",
-            "snippet": "El Valencia C.F. va a por la LigaBlasting NewsEl Valencia C.F. va a por la Liga BBVA, es serio candidato y los n\u00fameros los avalan. Terceros y a 4 puntos del Real Madrid y a 5 puntos del F.C. Barcelona cuando el Domingo se disputa el Cl\u00e1sico, que...",
-            "date": "2015-03-21",
-            "categories": "realmadrid",
-            "tags": "disputa,real,real_madrid,madrid,puntos,valencia,liga,bbva,domingo",
-            "recuweb_url": "http://es.recuweb.com/realmadrid/es.blastingnews.com/2015/03/el-valencia-c-f-va-a-por-la-liga-blasting-news",
-            "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf%2Bvalencia%2Bcf&output=atom&nord=1",
-            "source_url": "http://es.blastingnews.com/deportes/2015/03/el-valencia-c-f-va-a-por-la-liga-00315247.html"
-        },
-        "vlcnoticias.com/2015/03/el-valencia-cf-se-pasea-por-elche-y-coloca-a-4": {
-            "title": "El Valencia CF se pasea por Elche y se coloca a 4 del Real Madrid (0-4)...",
-            "snippet": "Valencia Noticias Redacci\u00f3n. Fotos: VCF.- El Valencia CF vuelve de tierras ilicitanas como quer\u00eda: con tres puntos m\u00e1s en el bolsillo y dej\u00e1ndole toda la presi\u00f3n al Atl\u00e9tico de Madrid de Simeone, que recibe al Getafe en su feudo este s\u00e1bado a...",
-            "date": "2015-03-20",
-            "categories": "realmadrid",
-            "tags": "puntos,valencia,real,real_madrid,madrid,elche,atl\u00e9tico,simeone",
-            "recuweb_url": "http://es.recuweb.com/realmadrid/vlcnoticias.com/2015/03/el-valencia-cf-se-pasea-por-elche-y-coloca-a-4",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://vlcnoticias.com/el-valencia-cf-se-pasea-por-elche-y-se-coloca-a-4-del-real-madrid-0-4/"
-        },
-        "es.noticias.yahoo.com/2015/03/previa-el-valencia-defiende-su-tercera-plaza-en-derbi-ante-elche": {
-            "title": "(Previa) El Valencia defiende su tercera plaza en el derbi ante el Elche...",
-            "snippet": "El Valencia CF defender\u00e1 este viernes (horas) en el estadio Mart\u00ednez Valero su reci\u00e9n estrenada tercera plaza en la Liga BBVA en el derbi ante un Elche que espera volver a amargar al conjunto 'che'para tomar aire respecto al descenso, en el...",
-            "date": "2015-03-19",
-            "tags": "liga,liga_bbva,bbva,tercera,tercera-plaza,plaza,mart\u00ednez,mart\u00ednez_valero,valero,viernes,previa,valencia,elche",
-            "recuweb_url": "http://es.recuweb.com/es.noticias.yahoo.com/2015/03/previa-el-valencia-defiende-su-tercera-plaza-en-derbi-ante-elche",
-            "resource_url": "http://es.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=valencia%2Bcf",
-            "source_url": "http://es.noticias.yahoo.com/previa-valencia-defiende-plaza-derbi-elche-164105277--sow.html"
+            "source_url": "http://vavel.com/es/futbol/segunda-b/479339-emparejamientos-copa-del-rey.html"
         }
     }
 }

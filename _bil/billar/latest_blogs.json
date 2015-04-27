@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "billar",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/billar/",
@@ -16,7 +17,7 @@
             "date": "2015-04-20",
             "author_name": "Ronda Somontano",
             "categories": "billar",
-            "tags": "general,nuevo,regional,billar,fin,semana",
+            "tags": "conseguir,general,campe\u00f3n,jugador,regional,billar,fin,semana",
             "recuweb_url": "http://es.recuweb.com/billar/rondasomontano.com/2015/04/nuevo-t%C3%ADtulo-regional-para-el-jugador-de-billar-la-sma-barbastro",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rondasomontano.com/revista/92304/"
@@ -49,7 +50,7 @@
             "date": "2015-04-12",
             "author_name": "amontes",
             "categories": "billar",
-            "tags": "equipos,tres,tres_bandas,bandas,club,billar,final,fase,jugadores",
+            "tags": "clasificaci\u00f3n,tres,tres_bandas,bandas,nacional,club,club_billar,billar,final,fase,jugadores",
             "recuweb_url": "http://es.recuweb.com/billar/clubbillarsantadria.com/2015/04/club-billar-matar%C3%B3-clasificado-para-la-final-de-liga-nacional",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://clubbillarsantadria.com/club-billar-mataro-clasificado-para-la-final-de-la-liga-nacional-espanola/"
@@ -60,7 +61,7 @@
             "date": "2015-04-10",
             "author_name": "MarioCB",
             "categories": "deporte,billar",
-            "tags": "general,juego,deporte,billar,pool",
+            "tags": "pool,general,t\u00edpico,t\u00edpico-juego,juego,billar",
             "recuweb_url": "http://es.recuweb.com/billar/diferencia-entre.com/2015/04/diferencia-entre-billar-y-carambola",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diferencia-entre.com/diferencia-entre-billar-y-carambola/"
@@ -71,21 +72,10 @@
             "date": "2015-04-07",
             "author_name": "David",
             "categories": "videojuego,billar",
-            "tags": "mejores,billar,billartist,pool",
+            "tags": "ordenador,mejores,billar,billartist,pool,snooker",
             "recuweb_url": "http://es.recuweb.com/billar/thebillartist.com/2015/04/los-mejores-videojuegos-de-billar-the-billartist",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://thebillartist.com/07/04/2015/videojuegos-billar/"
-        },
-        "rentahousea1.wordpress.com/2015/04/bolas-de-billar-para-decorar-el-hogar": {
-            "title": "Bolas de billar \u00a1para decorar el hogar!",
-            "snippet": "La de veces que habr\u00e9 salido con los amigos a echar una partida de billar en un sal\u00f3n de juegos, con m\u00e1s o menos fortuna, pero...",
-            "date": "2015-04-02",
-            "author_name": "rentahousea1",
-            "categories": "billar",
-            "tags": "sal\u00f3n,amigos,billar,menos",
-            "recuweb_url": "http://es.recuweb.com/billar/rentahousea1.wordpress.com/2015/04/bolas-de-billar-para-decorar-el-hogar",
-            "resource_url": "http://es.search.wordpress.com/?q=billar&f=feed&page=1",
-            "source_url": "http://rentahousea1.wordpress.com/2015/04/02/bolas-de-billar-para-decorar-el-hogar/"
         },
         "blog.es.playstation.com/2015/03/disfruta-del-billar-a-1080p-en-tu-ps4-con-hustle-kings": {
             "title": "Disfruta del billar a 1080p en tu PS4 con Hustle Kings - PlayStation...",
@@ -93,32 +83,43 @@
             "date": "2015-03-18",
             "author_name": "Bruno Sol",
             "categories": "reino,billar,playstation",
-            "tags": "hace,hoy,billar",
+            "tags": "hace,dos,billar",
             "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/03/disfruta-del-billar-a-1080p-en-tu-ps4-con-hustle-kings",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.es.playstation.com/2015/03/18/disfruta-del-billar-1080p-en-tu-ps4-con-hustle-kings/"
         },
-        "marketingdeportivomd.com/2015/03/beckham-juega-al-billar-en-lo-%C3%BAltimo-de-h&m-marketing-deportivo": {
-            "title": "Beckham juega al billar en lo \u00faltimo de H&M - Marketing Deportivo MD...",
-            "snippet": "As\u00ed, para promocionar su nueva l\u00ednea Modern Essentials, perteneciente a su colecci\u00f3n para la temporada primavera de 2015, la firma ha puesto ha jugar a Beckham al billar en su \u00faltimo spot, donde el brit\u00e1nico viene a...",
-            "date": "2015-03-06",
-            "author_name": "Marketing Deportivo MD",
+        "juganding.com/2015/03/juega-a-billar-aleatorio-online-y-gratis-juganding": {
+            "title": "Juega a Billar aleatorio Online y Gratis - Juganding...",
+            "snippet": "\"Billar aleatorio\" no es el t\u00edpico juego de billar con el que uno suele encontrarse. En esta versi\u00f3n del popular juego gana el jugador que antes emboque 8 bolas. Da igual que sean lisas, rayadas o la bola negra, si embocas 8 bolas antes que...",
+            "date": "2015-03-01",
+            "author_name": "desconocido",
             "categories": "billar",
-            "tags": "spot,temporada,beckham,billar,jugar",
-            "recuweb_url": "http://es.recuweb.com/billar/marketingdeportivomd.com/2015/03/beckham-juega-al-billar-en-lo-%C3%BAltimo-de-h&m-marketing-deportivo",
-            "resource_url": "http://www.google.com/search?q=billar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://marketingdeportivomd.com/2015/03/beckham-juega-al-billar-en-lo-ultimo-de.html"
+            "tags": "bola,juego,jugador,billar,t\u00edpico,t\u00edpico-juego",
+            "recuweb_url": "http://es.recuweb.com/billar/juganding.com/2015/03/juega-a-billar-aleatorio-online-y-gratis-juganding",
+            "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://juganding.com/juegos-de-deportes/billar-aleatorio-8692"
         },
-        "deportes.sopitas.com/2015/03/david-beckham-tambi%C3%A9n-es-un-crack-del-billar-en-este-nuevo": {
-            "title": "David Beckham tambi\u00e9n es un crack del billar en este nuevo spot...",
-            "snippet": "David Beckham tambi\u00e9n es un crack del billar en este nuevo spot. Jueves. El astro ingl\u00e9s del futbol despleg\u00f3 su talento ahora en un nuevo deporte, y la verdad es que no lo hace nada mal \u00bfo ustedes que piensan? ETIQUETAS...",
-            "date": "2015-03-06",
-            "author_name": "sergior",
-            "categories": "futbol,deporte,billar",
-            "tags": "hace,nuevo,deporte,spot,beckham,billar",
-            "recuweb_url": "http://es.recuweb.com/billar/deportes.sopitas.com/2015/03/david-beckham-tambi%C3%A9n-es-un-crack-del-billar-en-este-nuevo",
-            "resource_url": "http://www.google.com/search?q=billar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://deportes.sopitas.com/9426-david-beckham-tambien-es-un-crack-del-billar-en-este-nuevo-spot/"
+        "notengotele.com/2015/02/no-tengo-tele-cuando-apuestas-en-el-billar-y-todo-te": {
+            "title": "No Tengo Tele Cuando apuestas en el billar y todo te sale bien...",
+            "snippet": "... en meneame. Etiquetas: apuesta billar bola epic humor suerte... neirolh Como se nota que nunca has jugado al billar y que no tienes ni idea de como funciona la edici\u00f3n de v\u00eddeo en ordenador... 1. A favor En contra 34(38...",
+            "date": "2015-02-27",
+            "author_name": "desconocido",
+            "categories": "humor,billar",
+            "tags": "ordenador,bola,humor,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/notengotele.com/2015/02/no-tengo-tele-cuando-apuestas-en-el-billar-y-todo-te",
+            "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://notengotele.com/humor/cuando-apuestas-en-el-billar-y-todo-te-sale-bien"
+        },
+        "elrellano.com/2015/02/apostando-en-el-billar-videos-de-humor-variado-elrellano": {
+            "title": "Apostando en el billar - videos de humor - humor variado elRellano...",
+            "snippet": "Apostarte una hamburguesa con los amigos jugando al billar y hacer esta pedazo de jugada. (Gracias Mike)...",
+            "date": "2015-02-26",
+            "author_name": "desconocido",
+            "categories": "humor,billar",
+            "tags": "jugando,humor,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/elrellano.com/2015/02/apostando-en-el-billar-videos-de-humor-variado-elrellano",
+            "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elrellano.com/videos_online/9788/apostando-en-el-billar.html"
         }
     }
 }

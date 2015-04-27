@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xhtml",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xhtml/",
@@ -10,15 +11,15 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/xhtml/xhtml/blogs.json"
     },
     "items": {
-        "es.paperblog.com/2015/04/de-traductores-herramientas-trabajo-y-mac-okodia": {
-            "title": "De traductores, herramientas de trabajo y Mac. Okodia Traductores...",
-            "snippet": "es una herramienta escrita en Java, por lo tanto es multiplataforma, que soporta m\u00faltiples formatos de archivos, desde el simple TXT hasta el m\u00e1s complejo XHTML. Su soporte es Unicode UTF-8 lo que significa que podemos utilizarlo para traducir...",
-            "date": "2015-04-06",
-            "categories": "java,xhtml",
-            "tags": "trabajo,xhtml",
-            "recuweb_url": "http://es.recuweb.com/xhtml/es.paperblog.com/2015/04/de-traductores-herramientas-trabajo-y-mac-okodia",
+        "adlatina.com/2015/04/dise%C3%B1ador-a-gr%C3%A1fico-especialista-online": {
+            "title": "Dise\u00f1ador/a Gr\u00e1fico/a, especialista ONLINE...",
+            "snippet": "Dominio de entorno Mac. Dominio de paquete Adobe CS. Dominio de programas de dise\u00f1o ONLINE y maquetado (Dreamweaver, Flash, Fireworks, Wordpress, Html, XHtml) Dominio de entornos resposive, y maquetado en html5 y CSS. Conocimientos de optimizaci\u00f3n...",
+            "date": "2015-04-20",
+            "categories": "wordpress,html,xhtml,css,conocimiento",
+            "tags": "html,xhtml,css,conocimientos",
+            "recuweb_url": "http://es.recuweb.com/conocimiento/adlatina.com/2015/04/dise%C3%B1ador-a-gr%C3%A1fico-especialista-online",
             "resource_url": "http://www.bing.com/news/search?first=1&q=xhtml&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/de-traductores-herramientas-de-trabajo-y-mac-okodia-traductores-3145569/"
+            "source_url": "http://adlatina.com/ofertas-laborales/dise\u00f1adora-gr\u00e1ficoa-especialista-online"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "grafiti",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/grafiti/",
@@ -10,19 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/blogs.json"
     },
     "items": {
+        "eluniverso.com/2015/04/arte-del-grafiti-en-una-bienal-sao-paulo": {
+            "title": "Arte del grafiti, en una Bienal en Sao Paulo...",
+            "snippet": "La Tercera Bienal Internacional Graffiti Fine Art se instal\u00f3 en el Pabell\u00f3n de las Culturas Brasile\u00f1as de Sao Paulo (Brasil), un edificio proyectado en los a\u00f1os cincuenta por el arquitecto brasile\u00f1o \u00d3scar Niemeyer. En un espacio de metros...",
+            "date": "2015-04-22",
+            "categories": "cultura,grafiti",
+            "tags": "espacio,culturas,culturas_brasile\u00f1as,brasile\u00f1as,internacional,graffiti,fine,art,instal\u00f3,tercera,sao,sao_paulo,paulo,arte,grafiti,bienal,pabell\u00f3n,brasil",
+            "recuweb_url": "http://es.recuweb.com/grafiti/eluniverso.com/2015/04/arte-del-grafiti-en-una-bienal-sao-paulo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
+            "source_url": "http://eluniverso.com/vida-estilo/2015/04/22/nota/4795071/arte-grafiti-bienal-sao-paulo"
+        },
+        "elperiodicodearagon.com/2015/04/el-arte-del-grafiti": {
+            "title": "El arte del 'grafiti'...",
+            "snippet": "Esta noticia pertenece a la edici\u00f3n en papel de El Peri\u00f3dico de Arag\u00f3n. Para acceder a los contenidos de la hemeroteca deber\u00e1s ser usuario registrado de El Peri\u00f3dico de Arag\u00f3n y tener una suscripci\u00f3n. Pulsa aqu\u00ed para ver archivo (pdf)...",
+            "date": "2015-04-21",
+            "categories": "grafiti",
+            "tags": "edici\u00f3n,arte,grafiti",
+            "recuweb_url": "http://es.recuweb.com/grafiti/elperiodicodearagon.com/2015/04/el-arte-del-grafiti",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
+            "source_url": "http://elperiodicodearagon.com/noticias/temadia/arte-grafiti_1020100.html"
+        },
+        "entornointeligente.com/2015/04/m%C3%A9xico-sao-paulo-capital-mundial-del-grafiti-entornointeligente": {
+            "title": "M\u00c9XICO: Sao Paulo, capital mundial del grafiti - EntornoInteligente...",
+            "snippet": "EntornoInteligenteM\u00c9XICO: Sao Paulo, capital mundial del grafitiEntornoInteligenteLa tercera edici\u00f3n de la Bienal Internacional Graffiti Fine Art se instal\u00f3 este fin de semana en el Pabell\u00f3n de las Culturas Brasile\u00f1as de la capital paulista, un...",
+            "date": "2015-04-19",
+            "categories": "cultura,grafiti",
+            "tags": "capital,culturas,culturas_brasile\u00f1as,brasile\u00f1as,instal\u00f3,bienal,internacional,graffiti,fine,art,tercera,edici\u00f3n,capital-mundial,mundial,sao,sao_paulo,paulo,grafiti,pabell\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/grafiti/entornointeligente.com/2015/04/m%C3%A9xico-sao-paulo-capital-mundial-del-grafiti-entornointeligente",
+            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
+            "source_url": "http://entornointeligente.com/articulo/5691713/MEXICO-Sao-Paulo-capital-mundial-del-grafiti-19042015"
+        },
         "noticiasnet.mx/2015/04/maestros-dan-clases-de-grafiti-en-oficinas-del-ieepco-ople-noticias": {
             "title": "Maestros dan 'clases'de grafiti en oficinas del IEEPCO-OPLE - Noticias Voz e Imagen de Oaxaca,...",
-            "snippet": "Maestros dan 'clases'de grafiti en oficinas del IEEPCO-OPLENoticias Voz e Imagen de Oaxaca, Chiapas y TuxtepecSin br\u00fajula y sin afectar las actividades del IEEPCO-OPLE, profesores de las regiones de la Sierra y la Mixteca, adheridos a la Secci\u00f3n...",
+            "snippet": "Noticias Voz e Imagen de Oaxaca, Chiapas y TuxtepecMaestros dan 'clases'de grafiti en oficinas del IEEPCO-OPLENoticias Voz e Imagen de Oaxaca, Chiapas y TuxtepecSin br\u00fajula y sin afectar las actividades del IEEPCO-OPLE, profesores de las regiones...",
             "date": "2015-04-18",
             "categories": "grafiti",
-            "tags": "grafiti",
+            "tags": "grafiti,imagen",
             "recuweb_url": "http://es.recuweb.com/grafiti/noticiasnet.mx/2015/04/maestros-dan-clases-de-grafiti-en-oficinas-del-ieepco-ople-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://noticiasnet.mx/portal/videos/general/protestas/274310-maestros-dan-clases-grafiti-oficinas-del-ieepco-ople"
+            "source_url": "http://noticiasnet.mx/portal/oaxaca/general/protestas/274287-maestros-dan-clases-grafiti-oficinas-del-ieepco-ople"
         },
         "ntrzacatecas.com/2015/04/participan-j%C3%B3venes-en-talleres-de-dibujo-y-grafiti-ntr-zacatecas": {
             "title": "Participan j\u00f3venes en talleres de dibujo y grafiti - NTR Zacatecas.com...",
-            "snippet": "NTR Zacatecas.comParticipan j\u00f3venes en talleres de dibujo y grafitiNTR Zacatecas.comJ\u00f3venes de la demarcaci\u00f3n participaron en talleres de dibujo y grafiti, como parte de las medidas y acuerdos para la prevenci\u00f3n del delito. Habitantes de la...",
+            "snippet": "NTR Zacatecas.comParticipan j\u00f3venes en talleres de dibujo y grafitiNTR Zacatecas.comTacoaleche.- J\u00f3venes de la demarcaci\u00f3n participaron en talleres de dibujo y grafiti, como parte de las medidas y acuerdos para la prevenci\u00f3n del delito.",
             "date": "2015-04-18",
             "categories": "grafiti",
             "tags": "j\u00f3venes,grafiti",
@@ -30,12 +61,22 @@
             "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
             "source_url": "http://ntrzacatecas.com/2015/04/17/participan-jovenes-en-talleres-de-dibujo-y-grafiti/"
         },
+        "excelsior.com.mx/2015/04/sao-paulo-capital-mundial-del-grafiti": {
+            "title": "Sao Paulo, capital mundial del grafiti...",
+            "snippet": "SAO PAULO, 19 de abril.- El \u00e9xito comercial es un fracaso para un grafitero, dec\u00eda Banksy, el artista callejero m\u00e1s cotizado del siglo XXI. Sin embargo, cada vez son m\u00e1s los pintores de aerosol que buscan un espacio en las galer\u00edas, e incluso...",
+            "date": "2015-04-18",
+            "categories": "grafiti",
+            "tags": "son,pintores,pintores-de-aerosol,aerosol,aerosol-que-buscan,buscan,buscan-un-espacio,espacio,artista,artista-callejero,callejero,callejero-m\u00e1s-cotizado,cotizado,cotizado-del-siglo,siglo,fracaso,grafitero,capital,capital-mundial,mundial,sao,sao_paulo,paulo,grafiti,\u00e9xito,comercial,dec\u00eda,banksy,xxi,embargo",
+            "recuweb_url": "http://es.recuweb.com/grafiti/excelsior.com.mx/2015/04/sao-paulo-capital-mundial-del-grafiti",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
+            "source_url": "http://excelsior.com.mx/expresiones/2015/04/19/1019498"
+        },
         "granadahoy.com/2015/04/detenido-el-autor-de-un-grafiti-en-la-catedral-gracias": {
             "title": "Detenido el autor de un grafiti en la Catedral gracias a una llamada...",
             "snippet": "La Catedral de Granada ha sufrido un nuevo da\u00f1o por pintadas en sus exteriores. La Polic\u00eda Local de la ciudad detuvo el martes a un hombre de 35 a\u00f1os que acababa de hacer un grafiti de grandes dimensiones en la Puerta del Perd\u00f3n, una de las...",
             "date": "2015-04-16",
             "categories": "grafiti",
-            "tags": "hacer,ciudad,polic\u00eda,da\u00f1o,gracias,autor,detenido,grafiti,hombre",
+            "tags": "ciudad,polic\u00eda,detenido,grafiti,hombre,hacer",
             "recuweb_url": "http://es.recuweb.com/grafiti/granadahoy.com/2015/04/detenido-el-autor-de-un-grafiti-en-la-catedral-gracias",
             "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
             "source_url": "http://granadahoy.com/article/granada/2007654/detenido/autor/grafiti/la/catedral/gracias/una/llamada.html"
@@ -55,59 +96,20 @@
             "snippet": "El Hombre de Negro nos ha dejado a todos con la boca abierta con el espectacular 'Arte a lo bestia'que nos ha mostrado. En tan solo dos minutos y acompa\u00f1ado de un equipo de grafiteros han homenajeado a la pel\u00edcula de Liam Neeson con un grafiti...",
             "date": "2015-04-16",
             "categories": "grafiti",
-            "tags": "neeson,acompa\u00f1ado,equipo,equipo-de-grafiteros,grafiteros,grafiteros-han-homenajeado,homenajeado,homenajeado-a-pel\u00edcula,pel\u00edcula,tan,tan-solo,solo,mostrado,bestia,dejado,boca,boca-abierta,abierta,espectacular,grafiti,liam,hombre,negro,arte,dos,minutos",
+            "tags": "neeson,minutos,minutos-acompa\u00f1ado,acompa\u00f1ado,equipo,equipo-de-grafiteros,grafiteros,grafiteros-han-homenajeado,homenajeado,homenajeado-a-pel\u00edcula,pel\u00edcula,tan,tan-solo,mostrado,bestia,dejado,boca,boca-abierta,abierta,espectacular,grafiti,liam,hombre,negro,arte,dos",
             "recuweb_url": "http://es.recuweb.com/grafiti/antena3.com/2015/04/un-grafiti-para-liam",
             "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
             "source_url": "http://antena3.com/programas/el-hormiguero/secciones/arte-bestia/grafiti-liam_2015041600450.html"
-        },
-        "periodicoelpionero.mx/2015/04/cuesta-100-mil-al-mes-reparar-da%C3%B1o-por-grafiti-el-pionero": {
-            "title": "Cuesta 100 mil al mes reparar da\u00f1o por grafiti - El Pionero...",
-            "snippet": "Cuesta 100 mil al mes reparar da\u00f1o por grafitiEl PioneroLas marcas de grafiti que proliferan en varios puntos de la ciudad son un verdadero problema, pues cuesta 100 mil pesos mensuales en pintura para reparar los da\u00f1os que esto causa a las...",
-            "date": "2015-04-14",
-            "categories": "pintura,grafiti",
-            "tags": "da\u00f1o,ciudad,son,grafitiel,grafiti",
-            "recuweb_url": "http://es.recuweb.com/grafiti/periodicoelpionero.mx/2015/04/cuesta-100-mil-al-mes-reparar-da%C3%B1o-por-grafiti-el-pionero",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://periodicoelpionero.mx/index.php/ramos-arizpe/3765-cuesta-100-mil-al-mes-reparar-dano-por-grafiti"
-        },
-        "oaxacacapital.com/2015/04/escrito-por-roger-oaxacacapital": {
-            "title": "Escrito por roger - OaxacaCapital...",
-            "snippet": "OaxacaCapitalEscrito por rogerOaxacaCapitalCon el prop\u00f3sito de proteger los inmuebles p\u00fablicos y particulares de pintas y grafitis que diversos grupos sociales realizan a manera de protesta, el diputado del grupo parlamentario del PRI en la LXII...",
-            "date": "2015-04-14",
-            "tags": "grupos,prop\u00f3sito,prop\u00f3sito-de-proteger,proteger,proteger-los-inmuebles,inmuebles,inmuebles-p\u00fablicos,inmuebles-p\u00fablicos-particulares,p\u00fablicos,p\u00fablicos-particulares,particulares,particulares-de-pintas,pintas,diversos,diversos-grupos,diversos-grupos-sociales,grupos-sociales,sociales,manera",
-            "recuweb_url": "http://es.recuweb.com/oaxacacapital.com/2015/04/escrito-por-roger-oaxacacapital",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
-            "source_url": "http://oaxacacapital.com/index.php?option=com_content&view=article&id=4357:proteger-propiedad-privada-y-publica-de-grafiti-y-pintas-pide-arsenio-mejia&catid=98&Itemid=666"
         },
         "expresocampeche.com/2015/04/chavos-piden-m%C3%A1s-espacios-para-el-grafiti-expreso-de-campeche": {
             "title": "'Chavos'piden m\u00e1s espacios para el grafiti - El Expreso de Campeche...",
             "snippet": "El Expreso de Campeche'Chavos'piden m\u00e1s espacios para el grafitiEl Expreso de CampecheA pesar de que el grafiti es uno de los mayores problemas que aqueja la ciudad, hay quienes lo hacen de manera legal, tal es el caso de El Flaco y sus amigos...",
             "date": "2015-04-13",
             "categories": "grafiti",
-            "tags": "amigos,manera,ciudad,grafitiel,grafiti",
+            "tags": "amigos,hay,ciudad,grafiti",
             "recuweb_url": "http://es.recuweb.com/grafiti/expresocampeche.com/2015/04/chavos-piden-m%C3%A1s-espacios-para-el-grafiti-expreso-de-campeche",
             "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
             "source_url": "http://expresocampeche.com/notas/estado/2015/04/13/chavos-piden-mas-espacios-para-el-grafiti/"
-        },
-        "elmundo.es/2015/04/el-arte-pop-se-hace-grafiti": {
-            "title": "El arte pop se hace grafiti...",
-            "snippet": "Antonio de Felipe se pasea \u00e1gilmente por una sala donde el arte crece como la vegetaci\u00f3n, incontrolable. Muros, suelos y mobiliario son invadidos por una tundra desbordante y vigorosa que se asemeja a la personalidad de su autor. De Felipe...",
-            "date": "2015-04-13",
-            "categories": "pop,grafiti",
-            "tags": "son,autor,arte,grafiti",
-            "recuweb_url": "http://es.recuweb.com/grafiti/elmundo.es/2015/04/el-arte-pop-se-hace-grafiti",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/madrid/2015/04/13/552c1198268e3e26228b4573.html"
-        },
-        "adnsureste.info/2015/04/proteger-propiedad-privada-y-p%C3%BAblica-de-grafiti-pintas-pide-adnl-sureste": {
-            "title": "Proteger propiedad privada y p\u00fablica de grafiti y pintas, pide... - ADNl sureste...",
-            "snippet": "ADNl suresteProteger propiedad privada y p\u00fablica de grafiti y pintas, pide...ADNl suresteOaxaca de Ju\u00e1rez, 13 de abril. Con el prop\u00f3sito de proteger los inmuebles p\u00fablicos y particulares de pintas y grafitis, que diversos grupos sociales...",
-            "date": "2015-04-13",
-            "categories": "propiedad,grafiti",
-            "tags": "diversos,diversos-grupos,diversos-grupos-sociales,grupos,grupos-sociales,sociales,prop\u00f3sito,prop\u00f3sito-de-proteger,proteger,proteger-los-inmuebles,inmuebles,inmuebles-p\u00fablicos,inmuebles-p\u00fablicos-particulares,p\u00fablicos,p\u00fablicos-particulares,particulares,particulares-de-pintas,pintas,grafiti",
-            "recuweb_url": "http://es.recuweb.com/grafiti/adnsureste.info/2015/04/proteger-propiedad-privada-y-p%C3%BAblica-de-grafiti-pintas-pide-adnl-sureste",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://adnsureste.info/?p=38615"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bing",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bing/",
@@ -10,45 +11,73 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
-        "portlandmercury.com/2015/04/bing-mi-oh-my-the-portland-mercury": {
-            "title": "Bing Mi! Oh My! - The Portland Mercury...",
-            "snippet": "The Portland MercuryBing Mi! Oh My!The Portland MercuryLITERALLY MILLIONS of people in China love jian bing. And there's only one spot in Portland to try one, Bing Mi! Hailing from the streets of Northern China, jian bing is Asia's breakfasty answer...",
-            "date": "2015-04-22",
-            "categories": "bing",
-            "tags": "bing,people,china",
-            "recuweb_url": "http://es.recuweb.com/bing/portlandmercury.com/2015/04/bing-mi-oh-my-the-portland-mercury",
-            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://portlandmercury.com/portland/bing-mi-oh-my/Content?oid=15463606"
+        "computerhoy.com/2015/04/desaparecer-de-internet-es-f%C3%A1cil-si-sabes-c%C3%B3mo": {
+            "title": "Desaparecer de Internet es f\u00e1cil si sabes c\u00f3mo...",
+            "snippet": "Seguramente nadie se libre de haber hecho esta acci\u00f3n. Entre los millones de resultados que contiene Google o Bing, por ejemplo, encontraremos fotos nuestras, informaci\u00f3n, p\u00e1ginas web o blogs relacionados con nosotros. Esto realmente llega a dar...",
+            "date": "2015-04-26",
+            "categories": "internet,google,bing",
+            "tags": "resultados,internet,c\u00f3mo,google,bing,p\u00e1ginas,web",
+            "recuweb_url": "http://es.recuweb.com/bing/computerhoy.com/2015/04/desaparecer-de-internet-es-f%C3%A1cil-si-sabes-c%C3%B3mo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
+            "source_url": "http://computerhoy.com/noticias/internet/desaparecer-internet-es-facil-si-sabes-como-26381"
         },
-        "searchengineland.com/2015/04/bing-shares-how-their-image-search-algorithm-works-adding-59-engine": {
-            "title": "Bing Shares How Their Image Search Algorithm Works; Adding 59... - Search Engine Land...",
-            "snippet": "Search Engine LandBing Shares How Their Image Search Algorithm Works; Adding 59...Search Engine LandBing shared in detail how Bing Image search provides relevant images for your queries while showing how they now also provide descriptions, captions...",
-            "date": "2015-04-22",
-            "categories": "bing",
-            "tags": "also,search,bing,search_engine,engine,their,search_engine_land,engine_land,land",
-            "recuweb_url": "http://es.recuweb.com/bing/searchengineland.com/2015/04/bing-shares-how-their-image-search-algorithm-works-adding-59-engine",
+        "techtudo.com.br/2015/04/microsoft-renova-parceria-entre-bing-e-yahoo-para-resultados": {
+            "title": "Microsoft renova parceria entre Bing e Yahoo! para resultados de... -...",
+            "snippet": "renova parceria entre Bing e Yahoo! para resultados de... entender as mudan\u00e7as, primeiro \u00e9 preciso saber como a parceria funcionava. Antes, todas as pesquisas feitas no desktop em ambos os sites mostravam os resultados do Bing. J\u00e1 nos...",
+            "date": "2015-04-26",
+            "categories": "bing,yahoo",
+            "tags": "sites,resultados,microsoft,bing,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/techtudo.com.br/2015/04/microsoft-renova-parceria-entre-bing-e-yahoo-para-resultados",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/bing-shares-how-their-image-search-algorithm-works-adding-59-of-images-on-the-web-have-duplicates-219546"
+            "source_url": "http://techtudo.com.br/noticias/noticia/2015/04/microsoft-renova-parceria-entre-bing-e-yahoo-para-resultados-de-busca.html"
         },
-        "programmableweb.com/2015/04/daily-api-roundup-bing-maps-flowplayer-cloudmade-programmableweb": {
-            "title": "Daily API RoundUp: Bing Maps, Flowplayer, CloudMade - ProgrammableWeb...",
-            "snippet": "ProgrammableWebDaily API RoundUp: Bing Maps, Flowplayer, CloudMadeProgrammableWebEvery day, the ProgrammableWeb team is busy, updating its three primary directories for APIs, clients (language-specific libraries or SDKs for consuming or providing...",
-            "date": "2015-04-22",
+        "searchengineland.com/2015/04/bing-providing-detailed-answers-from-third-party-web-sites-like-search": {
+            "title": "Bing Providing Detailed Answers From Third-Party Web Sites Like... - Search Engine Land...",
+            "snippet": "Search Engine LandBing Providing Detailed Answers From Third-Party Web Sites Like...Search Engine LandBing seems to now be providing detailed answers to your queries at the top of their search results, pulled/sourced from third-party web sites, much...",
+            "date": "2015-04-24",
+            "categories": "bing",
+            "tags": "search,search_engine,search_engine_landbing,engine,engine_landbing,landbing,search_engine_land,engine_land,land,web,sites,bing",
+            "recuweb_url": "http://es.recuweb.com/bing/searchengineland.com/2015/04/bing-providing-detailed-answers-from-third-party-web-sites-like-search",
+            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/bing-providing-detailed-answers-from-third-party-web-sites-like-google-219727"
+        },
+        "pdx.eater.com/2015/04/everybody-loves-bing-mi-eater-pdx": {
+            "title": "Everybody Loves Bing Mi! - Eater PDX...",
+            "snippet": "Everybody Loves Bing Mi!Eater PDXThe Merc's Andrea Damewood writes, \"jian bing is Asia's breakfasty answer to the Crunchwrap Supreme a savory cr\u00eape stuffed with scrambled egg, crunchy wonton-style crackers, black bean paste, cliantro, chives, and...",
+            "date": "2015-04-24",
             "categories": "bing",
             "tags": "bing",
-            "recuweb_url": "http://es.recuweb.com/bing/programmableweb.com/2015/04/daily-api-roundup-bing-maps-flowplayer-cloudmade-programmableweb",
+            "recuweb_url": "http://es.recuweb.com/bing/pdx.eater.com/2015/04/everybody-loves-bing-mi-eater-pdx",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://programmableweb.com/news/daily-api-roundup-bing-maps-flowplayer-cloudmade/brief/2015/04/22"
+            "source_url": "http://pdx.eater.com/2015/4/24/8493539/food-cart-reviews-bing-mi-portland-jian-bing"
         },
-        "chronicle.northcoastnow.com/2015/04/randy-blake-bing-chronicle-telegram": {
-            "title": "Randy Blake Bing - Chronicle-Telegram...",
-            "snippet": "Chronicle-TelegramRandy Blake BingChronicle-TelegramRandy Blake Bing, 66, of Medina, passed away Tuesday, April 21, 2015. Randy was born May 5, 1948 in Athens, Ohio. He worked for International Salt Min Bing_Randy es for many years. Randy graduated...",
-            "date": "2015-04-22",
-            "categories": "bing",
-            "tags": "bing",
-            "recuweb_url": "http://es.recuweb.com/bing/chronicle.northcoastnow.com/2015/04/randy-blake-bing-chronicle-telegram",
+        "searchengineland.com/2015/04/bing-ads-shopping-campaigns-now-in-beta-search-engine-land": {
+            "title": "Bing Ads Shopping Campaigns Now In Beta - Search Engine Land...",
+            "snippet": "Search Engine LandBing Ads Shopping Campaigns Now In BetaSearch Engine LandNo surprise, Bing Ads is now testing the waters with the Shopping Campaigns. The team announced that the beta round of Shopping Campaigns \u00e1 la Google AdWords is rolling out...",
+            "date": "2015-04-23",
+            "categories": "google,adwords,bing",
+            "tags": "google,that,bing,ads,engine,search,search_engine,search_engine_landbing,engine_landbing,landbing,search_engine_land,engine_land,land",
+            "recuweb_url": "http://es.recuweb.com/bing/searchengineland.com/2015/04/bing-ads-shopping-campaigns-now-in-beta-search-engine-land",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://chronicle.northcoastnow.com/2015/04/22/randy-blake-bing/"
+            "source_url": "http://searchengineland.com/bing-ads-shopping-campaigns-now-in-beta-219668"
+        },
+        "malaysia-chronicle.com/2015/04/china-s-sex-bomb-actress-fan-bingbing-upset-at-bust-cuts": {
+            "title": "China's sex-bomb actress Fan Bingbing upset at 'BUST'cuts in new... - Malaysia Chronicle...",
+            "snippet": "Malaysia ChronicleChina's sex-bomb actress Fan Bingbing upset at 'BUST'cuts in new...Malaysia ChronicleRegretful. That's how Chinese actress Fan Bingbing describes the Chinese censors'decision to remove all cleavage-baring scenes in her new...",
+            "date": "2015-04-23",
+            "tags": "baring,cleavage,malaysia,malaysia_chronicle,chronicle,fan,fan_bingbing,bingbing,china,that",
+            "recuweb_url": "http://es.recuweb.com/malaysia-chronicle.com/2015/04/china-s-sex-bomb-actress-fan-bingbing-upset-at-bust-cuts",
+            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
+            "source_url": "http://malaysia-chronicle.com/index.php?option=com_k2&view=item&id=499142:chinas-sex-bomb-actress-fan-bingbing-upset-at-bust-cuts-in-new-serial&Itemid=4"
+        },
+        "malaysia-chronicle.com/2015/04/censored-fan-bingbing-s-massive-d-cup-cleavage-in-new-malaysia": {
+            "title": "CENSORED! Fan Bingbing's massive D-CUP cleavage in new... - Malaysia Chronicle...",
+            "snippet": "Malaysia ChronicleCENSORED! Fan Bingbing's massive D-CUP cleavage in new...Malaysia ChronicleThe Empress Of China, the Tang dynasty drama that drew flak in China for baring the cleavages of female characters in the palace, will premiere on Sunday...",
+            "date": "2015-04-22",
+            "tags": "will,will-premiere,premiere,baring,baring-the-cleavages,cleavages,cleavages-of-female,female,female-characters,characters,palace,dynasty,dynasty-drama,dynasty-drama-that,drama,drama-that,drama-that-drew,that,that-drew,that-drew-flak,drew,drew-flak,flak,malaysia,empress,empress_of_china,china,malaysia_chronicle,chronicle,cleavage,fan,fan_bingbing,bingbing,tang,sunday",
+            "recuweb_url": "http://es.recuweb.com/malaysia-chronicle.com/2015/04/censored-fan-bingbing-s-massive-d-cup-cleavage-in-new-malaysia",
+            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
+            "source_url": "http://malaysia-chronicle.com/index.php?option=com_k2&view=item&id=498662:censored-fan-bingbings-massive-d-cup-cleavage-in-new-drama-wont-be-shown&Itemid=4"
         },
         "telva.com/2015/04/anine-bing-entrevistamos-a-la-influencer-de-que-todos-quieren-vestir": {
             "title": "Anine Bing, entrevistamos a la influencer de la que todos quieren vestir...",
@@ -60,21 +89,11 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
             "source_url": "http://telva.com/2015/04/21/moda/1429610406.html"
         },
-        "expertreviews.co.uk/2015/04/bing-ads-link-to-adware-infested-internet-explorer-as-sponsored-expert": {
-            "title": "Bing ads link to adware-infested Internet Explorer as sponsored... - Expert Reviews...",
-            "snippet": "Expert ReviewsBing ads link to adware-infested Internet Explorer as sponsored...Expert ReviewsAs Bing displays advertising at the top of the page, these download sites appear higher up than the product's official page, which could fool users into...",
-            "date": "2015-04-21",
-            "categories": "internet,bing",
-            "tags": "could,fool,internet,internet_explorer,explorer,bing,ads",
-            "recuweb_url": "http://es.recuweb.com/bing/expertreviews.co.uk/2015/04/bing-ads-link-to-adware-infested-internet-explorer-as-sponsored-expert",
-            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://expertreviews.co.uk/software/internet-security/1403095/bing-ads-link-to-adware-infested-internet-explorer-as-sponsored"
-        },
         "news.asiaone.com/2015/04/empress-of-china-to-be-aired-here-but-fan-bingbing": {
             "title": "Empress Of China to be aired here, but Fan Bingbing's cleavage will... - AsiaOne...",
             "snippet": "The Straits TimesEmpress Of China to be aired here, but Fan Bingbing's cleavage will...AsiaOneThe Empress Of China, the Tang dynasty drama that drew flak in China for baring the cleavages of female characters in the palace, will premiere on Sunday...",
             "date": "2015-04-21",
-            "tags": "that,bingbing,china",
+            "tags": "will,will-premiere,premiere,baring,baring-the-cleavages,cleavages,cleavages-of-female,female,female-characters,characters,palace,dynasty,dynasty-drama,dynasty-drama-that,drama,drama-that,drama-that-drew,that,that-drew,that-drew-flak,drew,drew-flak,flak,cleavage,fan,fan_bingbing,bingbing,empress,empress_of_china,china,tang,sunday",
             "recuweb_url": "http://es.recuweb.com/news.asiaone.com/2015/04/empress-of-china-to-be-aired-here-but-fan-bingbing",
             "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
             "source_url": "http://news.asiaone.com/news/showbiz/empress-china-be-aired-here-fan-bingbings-cleavage-will-be-covered-digitally"
@@ -88,26 +107,6 @@
             "recuweb_url": "http://es.recuweb.com/bing/configurarequipos.com/2015/04/la-pagina-de-bing-esta-bloqueada-y-no-me-entra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
             "source_url": "http://configurarequipos.com/respuestas/pregunta127292.html"
-        },
-        "searchengineland.com/2015/04/yahoo-or-bing-could-now-divorce-before-10-year-search-deal": {
-            "title": "Yahoo Or Bing Could Now Divorce Before 10-Year Search Deal... - Search Engine Land...",
-            "snippet": "Search Engine LandYahoo Or Bing Could Now Divorce Before 10-Year Search Deal...Search Engine LandLast week Yahoo and Microsoft announced some important new terms for their Search Alliance agreement. The renegotiated deal now allows Yahoo to serve...",
-            "date": "2015-04-21",
-            "categories": "bing,yahoo",
-            "tags": "search,their,search_engine,engine,bing,could,search_engine_land,engine_land,land,yahoo,microsoft",
-            "recuweb_url": "http://es.recuweb.com/yahoo/searchengineland.com/2015/04/yahoo-or-bing-could-now-divorce-before-10-year-search-deal",
-            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/yahoo-or-bing-could-now-divorce-before-10-year-search-deal-expires-219428"
-        },
-        "fool.com/2015/04/microsoft-corporation-could-bing-finally-be-a-real-challenger-to-motley": {
-            "title": "Microsoft Corporation: Could Bing Finally Be a Real Challenger to... - Motley Fool...",
-            "snippet": "Microsoft Corporation: Could Bing Finally Be a Real Challenger to...Motley FoolMicrosoft (NASDAQ: MSFT) Bing has always been an also-ran in the search engine market. It is not that Bing has been a low-ranking player -- the No. 2 choice in the United...",
-            "date": "2015-04-20",
-            "categories": "bing",
-            "tags": "that,search,engine,also,fool,could,bing,microsoft",
-            "recuweb_url": "http://es.recuweb.com/bing/fool.com/2015/04/microsoft-corporation-could-bing-finally-be-a-real-challenger-to-motley",
-            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://fool.com/investing/general/2015/04/20/microsoft-corporation-could-bing-finally-be-a-real.aspx"
         }
     }
 }

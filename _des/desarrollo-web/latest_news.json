@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "desarrollo-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/desarrollo-web/",
@@ -10,66 +11,83 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/desarrollo-web/desarrollo-web/blogs.json"
     },
     "items": {
-        "expansion.com/2015/04/10-errores-sobre-marketing-digital-que-toda-pyme-deber%C3%ADa-evitar": {
-            "title": "10 errores sobre marketing digital que toda pyme deber\u00eda evitar...",
-            "snippet": "Se basa en proporcionar a todos los usuarios de una web los mismos contenidos y una experiencia de usuario lo m\u00e1s similar posible, frente a otras aproximaciones al desarrollo web m\u00f3vil como la creaci\u00f3n de apps, el cambio de dominio o webs...",
-            "date": "2015-04-21",
-            "tags": "m\u00f3vil,contenidos,proporcionar,digital,web,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/expansion.com/2015/04/10-errores-sobre-marketing-digital-que-toda-pyme-deber%C3%ADa-evitar",
+        "milenio.com/2015/04/buscan-promover-el-desarrollo-econ%C3%B3mico-de-reynosa": {
+            "title": "Buscan promover el desarrollo econ\u00f3mico de Reynosa -...",
+            "snippet": "promover el desarrollo econ\u00f3mico de... \"Ese resumen consiste en detectar la parte m\u00e1s sensible de cada sector, infraestructura, desarrollo y proveedores, fomento econ\u00f3mico, turismo, energ\u00eda y una vez que est\u00e9 listo se subir\u00e1 a la p\u00e1gina web...",
+            "date": "2015-04-25",
+            "tags": "buscan,desarrollo,turismo,web",
+            "recuweb_url": "http://es.recuweb.com/milenio.com/2015/04/buscan-promover-el-desarrollo-econ%C3%B3mico-de-reynosa",
+            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb&output=atom&nord=1",
+            "source_url": "http://milenio.com/negocios/Buscan-regional-desarrollo-economico-Reynosa_0_505749677.html"
+        },
+        "diariopanorama.com/2015/04/realizar%C3%A1n-un-festival-de-desarrollo-tecnol%C3%B3gico-en-el-ccb-diario-panorama": {
+            "title": "Realizar\u00e1n un Festival de Desarrollo Tecnol\u00f3gico en el CCB - Diario Panorama de Santiago del...",
+            "snippet": "Diario Panorama de Santiago del EsteroRealizar\u00e1n un Festival de Desarrollo Tecnol\u00f3gico en el CCBDiario Panorama de Santiago del EsteroLas inscripciones ser\u00e1n realizadas a trav\u00e9s del sitio web hasta el d\u00eda 10 de mayo inclusive. Cabe destacar que...",
+            "date": "2015-04-24",
+            "tags": "d\u00eda,trav\u00e9s,sitio,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/diariopanorama.com/2015/04/realizar%C3%A1n-un-festival-de-desarrollo-tecnol%C3%B3gico-en-el-ccb-diario-panorama",
+            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb&output=atom&nord=1",
+            "source_url": "http://diariopanorama.com/seccion/locales_13/realizaran-un-festival-de-desarrollo-tecnolagico-en-el-ccb_a_196704"
+        },
+        "portalinformatico.com/2015/04/tecnil%C3%B3gica-afianza-su-propuesta-de-digital-signage": {
+            "title": "Tecnil\u00f3gica afianza su propuesta de digital signage...",
+            "snippet": "Los datos no pueden ser mejores para Tecnil\u00f3gica, empresa espa\u00f1ola especializada en digital signage y desarrollo web y m\u00f3vil ya que no solo ha finalizado su ejercicio fiscal 2014 con una facturaci\u00f3n un 20% superior a la del a\u00f1o anterior sino...",
+            "date": "2015-04-24",
+            "tags": "m\u00f3vil,empresa,empresa-espa\u00f1ola,empresa-espa\u00f1ola-especializada,espa\u00f1ola,espa\u00f1ola-especializada,especializada,digital,digital-signage,signage,tecnil\u00f3gica,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/portalinformatico.com/2015/04/tecnil%C3%B3gica-afianza-su-propuesta-de-digital-signage",
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
-            "source_url": "http://expansion.com/tecnologia/2015/04/21/5536286122601ddd238b4588.html"
+            "source_url": "http://portalinformatico.com/tpvnews/mercado/tecnilgica-afianza-propuesta-digital-signage--201504242671.htm"
+        },
+        "elnuevoherald.com/2015/04/empresa-de-espa%C3%B1a-construir%C3%A1-f%C3%A1brica-en-zona-desarrollo-del-el-nuevo": {
+            "title": "Empresa de Espa\u00f1a construir\u00e1 f\u00e1brica en zona de desarrollo del... - El Nuevo Herald...",
+            "snippet": "Empresa de Espa\u00f1a construir\u00e1 f\u00e1brica en zona de desarrollo del...El Nuevo HeraldEn su web, esta compa\u00f1\u00eda destaca que la normalizaci\u00f3n de relaciones entre Cuba y Estados Unidos supondr\u00e1 un impulso importante para el turismo en la isla. La Zona...",
+            "date": "2015-04-23",
+            "tags": "turismo,nuevo,empresa,espa\u00f1a,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/elnuevoherald.com/2015/04/empresa-de-espa%C3%B1a-construir%C3%A1-f%C3%A1brica-en-zona-desarrollo-del-el-nuevo",
+            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&output=atom&nord=1",
+            "source_url": "http://elnuevoherald.com/noticias/mundo/america-latina/cuba-es/article19267518.html"
+        },
+        "desarrolloweb.com/2015/04/entrevista-esteban-borges-cto-de-infranetworking": {
+            "title": "Entrevista Esteban Borges, CTO de Infranetworking...",
+            "snippet": "Esta semana hemos tenido la ocasi\u00f3n de juntarnos con Esteban Borges, entusiasta del desarrollo web, y las t\u00e9cnicas de optimizaci\u00f3n de servidores, para aumentar el rendimiento de sistemas y aplicaciones. Adem\u00e1s de todo ello es Uruguayo y CTO...",
+            "date": "2015-04-23",
+            "tags": "desarrollo,web,aplicaciones,adem\u00e1s",
+            "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/04/entrevista-esteban-borges-cto-de-infranetworking",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
+            "source_url": "http://desarrolloweb.com/de_interes/entrevista-esteban-borges-infranetworking-8852.html"
+        },
+        "informaria.com/2015/04/brasil-y-espa%C3%B1a-buscan-duplicar-los-intercambios-comerciales-las-inversiones-bilaterales": {
+            "title": "Brasil y Espa\u00f1a buscan duplicar los intercambios comerciales y las inversiones bilaterales en diez...",
+            "snippet": "Dani Seuba se incorpora a Tecnil\u00f3gica como responsable de dise\u00f1o estrat\u00e9gico de PosterDigital La empresa espa\u00f1ola experta en soluciones de Digital Signage y desarrollo web y m\u00f3vil, Tecnil\u00f3gica, ha nombrado a Dani Seuba como responsable de...",
+            "date": "2015-04-22",
+            "tags": "nombrado,m\u00f3vil,digital,digital_signage,signage,empresa,empresa-espa\u00f1ola,empresa-espa\u00f1ola-experta,espa\u00f1ola,espa\u00f1ola-experta,experta,experta-en-soluciones,soluciones,estrat\u00e9gico,responsable,incorpora,dani,dani_seuba,seuba,buscan,espa\u00f1a,tecnil\u00f3gica,dise\u00f1o,erdigital,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/informaria.com/2015/04/brasil-y-espa%C3%B1a-buscan-duplicar-los-intercambios-comerciales-las-inversiones-bilaterales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
+            "source_url": "http://informaria.com/22042015/brasil-y-espana-buscan-duplicar-intercambios-comerciales-inversiones-bilaterales-en-diez-anos/"
+        },
+        "informaria.com/2015/04/junkers-celebra-el-d%C3%ADa-de-la-tierra-con-%C3%A1rbol-vida": {
+            "title": "Junkers celebra el D\u00eda de la Tierra con El \u00c1rbol de la Vida, para plantar 10 millones de \u00e1rboles...",
+            "snippet": "Dani Seuba se incorpora a Tecnil\u00f3gica como responsable de dise\u00f1o estrat\u00e9gico de PosterDigital La empresa espa\u00f1ola experta en soluciones de Digital Signage y desarrollo web y m\u00f3vil, Tecnil\u00f3gica, ha nombrado a Dani Seuba como responsable de...",
+            "date": "2015-04-22",
+            "tags": "nombrado,m\u00f3vil,digital,digital_signage,signage,empresa,empresa-espa\u00f1ola,empresa-espa\u00f1ola-experta,espa\u00f1ola,espa\u00f1ola-experta,experta,experta-en-soluciones,soluciones,estrat\u00e9gico,responsable,incorpora,dani,dani_seuba,seuba,d\u00eda,tecnil\u00f3gica,dise\u00f1o,erdigital,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/informaria.com/2015/04/junkers-celebra-el-d%C3%ADa-de-la-tierra-con-%C3%A1rbol-vida",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
+            "source_url": "http://informaria.com/22042015/junkers-celebra-dia-de-tierra-con-el-arbol-de-la-vida-para-plantar-10-millones-de-arboles/"
         },
         "digitalavmagazine.com/2015/04/dani-seuba-nuevo-responsable-de-dise%C3%B1o-estrat%C3%A9gico-posterdigital-en-tecnil%C3%B3gica": {
             "title": "Dani Seuba, nuevo responsable de dise\u00f1o estrat\u00e9gico de PosterDigital en Tecnil\u00f3gica...",
             "snippet": "Tecnil\u00f3gica, empresa espa\u00f1ola especializada en soluciones de digital signage y desarrollo web y m\u00f3vil, ha nombrado a Dani Seuba responsable de dise\u00f1o y desarrollo de PosterDigital, su soluci\u00f3n de gesti\u00f3n de contenidos (CMS) para el mercado...",
             "date": "2015-04-21",
-            "tags": "contenidos,m\u00f3vil,empresa,digital,signage,nuevo,dise\u00f1o,tecnil\u00f3gica,desarrollo,web",
+            "tags": "soluciones,responsable,nombrado,m\u00f3vil,empresa,empresa-espa\u00f1ola,empresa-espa\u00f1ola-especializada,espa\u00f1ola,espa\u00f1ola-especializada,especializada,digital,digital-signage,signage,estrat\u00e9gico,nuevo,dani,dani_seuba,seuba,dise\u00f1o,erdigital,tecnil\u00f3gica,desarrollo,web",
             "recuweb_url": "http://es.recuweb.com/digitalavmagazine.com/2015/04/dani-seuba-nuevo-responsable-de-dise%C3%B1o-estrat%C3%A9gico-posterdigital-en-tecnil%C3%B3gica",
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
             "source_url": "http://digitalavmagazine.com/2015/04/21/dani-seuba-nuevo-responsable-de-diseno-estrategico-de-posterdigital-en-tecnilogica/"
-        },
-        "noticiaaldia.com/2015/04/el-zulia-fc-ya-cuenta-con-nueva-web-recargada-noticia-al": {
-            "title": "El Zulia FC ya cuenta con nueva web recargada - Noticia al Dia...",
-            "snippet": "Noticia al DiaEl Zulia FC ya cuenta con nueva web recargadaNoticia al DiaEste novel proyecto digital, que crecer\u00e1 y se potenciar\u00e1 con el paso de las semanas -ya que contin\u00faa en desarrollo-, le brindar\u00e1 una nueva ventana al aficionado zuliano y a...",
-            "date": "2015-04-21",
-            "tags": "brindar\u00e1,nueva,digital,cuenta,web,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/noticiaaldia.com/2015/04/el-zulia-fc-ya-cuenta-con-nueva-web-recargada-noticia-al",
-            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&output=atom&nord=1",
-            "source_url": "http://noticiaaldia.com/2015/04/el-zulia-fc-ya-cuenta-con-nueva-web-recargada/"
-        },
-        "channelbiz.es/2015/04/tecnil%C3%B3gica-el-digital-signage-ha-cobrado-inteligencia": {
-            "title": "Tecnil\u00f3gica: El Digital Signage ha cobrado inteligencia...",
-            "snippet": "Somos una empresas de desarrollo de proyectos en los \u00e1mbitos de desarrollo web, aplicaciones m\u00f3viles y carteler\u00eda digital, nos cuenta Jorge Guti\u00e9rrez, CEO de Tecnil\u00f3gica en esta entrevista en v\u00eddeo. Los planes de la compa\u00f1\u00eda son...",
-            "date": "2015-04-21",
-            "tags": "son,cuenta,m\u00f3viles,digital,signage,tecnil\u00f3gica,desarrollo,web,aplicaciones",
-            "recuweb_url": "http://es.recuweb.com/channelbiz.es/2015/04/tecnil%C3%B3gica-el-digital-signage-ha-cobrado-inteligencia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
-            "source_url": "http://channelbiz.es/2015/04/20/tecnilogica-digital-signage-cobrado-inteligencia/"
-        },
-        "dineroenimagen.com/2015/04/c%C3%B3mo-iniciar-en-el-desarrollo-de-aplicaciones-m%C3%B3viles-dinero-imagen": {
-            "title": "C\u00f3mo iniciar en el desarrollo de aplicaciones m\u00f3viles - Dinero en imagen...",
-            "snippet": "C\u00f3mo iniciar en el desarrollo de aplicaciones m\u00f3vilesDinero en imagenEl certificado de desarrollo consiste en una clave privada secreta y una clave p\u00fablica compartida. Si est\u00e1 familiarizado con certificados SSL para asegurar un sitio web,...",
-            "date": "2015-04-20",
-            "tags": "sitio,imagen,desarrollo,aplicaciones,m\u00f3viles,web",
-            "recuweb_url": "http://es.recuweb.com/dineroenimagen.com/2015/04/c%C3%B3mo-iniciar-en-el-desarrollo-de-aplicaciones-m%C3%B3viles-dinero-imagen",
-            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&output=atom&nord=1",
-            "source_url": "http://dineroenimagen.com/blogs/el-bit-pragmatico/como-iniciar-en-el-desarrollo-de-aplicaciones-moviles/54254"
-        },
-        "lat.wsj.com/2015/04/la-fundadora-de-se-gana-loter%C3%ADa-internet-tras-acuerdo-con-linkedin": {
-            "title": "La fundadora de se gana la loter\u00eda de Internet tras acuerdo con LinkedIn...",
-            "snippet": "Ella y Heavin fundaron una escuela de cursos para adultos en Ojai, California, donde ense\u00f1aban desarrollo web y filmaban videos instructivos en casetes de video VHS. Cuando sus cursos en l\u00ednea fueron lanzados por primera vez en 2002, tuvieron...",
-            "date": "2015-04-19",
-            "categories": "escuela,internet",
-            "tags": "desarrollo,web",
-            "recuweb_url": "http://es.recuweb.com/internet/lat.wsj.com/2015/04/la-fundadora-de-se-gana-loter%C3%ADa-internet-tras-acuerdo-con-linkedin",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
-            "source_url": "http://lat.wsj.com/articles/SB10614340823569294341404580582871729486614?tesla=y"
         },
         "eluniverso.com/2015/04/tendencias-de-desarrollo-web-en-charla-uees": {
             "title": "Tendencias de desarrollo web en charla en UEES...",
             "snippet": "Ma\u00f1ana, en la Universidad de Especialidades Esp\u00edritu Santo (UEES) se brindar\u00e1 una conferencia sobre tendencias en desarrollo web a trav\u00e9s de metodolog\u00edas h\u00e1biles, impartida por Lennon Shimokawa. \u00c9l es de origen peruano y se desempe\u00f1a como...",
             "date": "2015-04-19",
-            "tags": "tendencias,brindar\u00e1,desarrollo,web,conferencia",
+            "tags": "trav\u00e9s,desarrollo,web,conferencia",
             "recuweb_url": "http://es.recuweb.com/eluniverso.com/2015/04/tendencias-de-desarrollo-web-en-charla-uees",
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
             "source_url": "http://eluniverso.com/vida-estilo/2015/04/19/nota/4781086/tendencias-desarrollo-web-charla"
@@ -79,29 +97,10 @@
             "snippet": "Y para ver lo que esta bloqueando en cada sitio, basta con acceder a la consola web desde Herramientas Desarrollo Web Consola Web o usando el atajo Ctrl Shift K, en la pesta\u00f1a de seguridad nos muestra la informaci\u00f3n: Una excelente herramienta...",
             "date": "2015-04-17",
             "categories": "desarrollo-web",
-            "tags": "herramientas,desarrollo,desarrollo_web,web,sitio",
+            "tags": "herramientas,seguridad,desarrollo,desarrollo_web,web,sitio",
             "recuweb_url": "http://es.recuweb.com/desarrollo-web/es.paperblog.com/2015/04/activar-protecci%C3%B3n-de-rastreo-en-firefox",
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/activar-proteccion-de-rastreo-en-firefox-3162420/"
-        },
-        "desarrolloweb.com/2015/04/explorando-las-posiblidades-de-nodejs": {
-            "title": "Explorando las posiblidades de NodeJS...",
-            "snippet": "Este curso est\u00e1 pensado para proporcionar los conocimientos necesarios para programar y ejecutar aplicaciones de alto consumo con JavaScript del lado del servidor, el desarrollo basado en API REST y el desarrollo web con t\u00e9cnicas MVC. Damos...",
-            "date": "2015-04-16",
-            "categories": "conocimiento,javascript",
-            "tags": "basado,proporcionar,nodejs,curso,aplicaciones,javascript,desarrollo,web,mvc,damos",
-            "recuweb_url": "http://es.recuweb.com/javascript/desarrolloweb.com/2015/04/explorando-las-posiblidades-de-nodejs",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
-            "source_url": "http://desarrolloweb.com/de_interes/explorando-posibilidades-nodejs-8848.html"
-        },
-        "americatv.com.pe/2015/04/laboratoria-ong-capacita-a-mujeres-en-programaci%C3%B3n-y-desarrollo-web": {
-            "title": "Laboratoria: ONG capacita a mujeres en programaci\u00f3n y desarrollo web...",
-            "snippet": "J\u00f3venes de escasos recursos se convertir\u00e1n en programadores y desarrolladoras de productos digitales. Laboratoria es una ONG que le ense\u00f1a a j\u00f3venes mujeres que viven en zonas menos favorecidas a crear productos digitales, para que as\u00ed se...",
-            "date": "2015-04-16",
-            "tags": "programaci\u00f3n,desarrollo,web,crear",
-            "recuweb_url": "http://es.recuweb.com/americatv.com.pe/2015/04/laboratoria-ong-capacita-a-mujeres-en-programaci%C3%B3n-y-desarrollo-web",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
-            "source_url": "http://americatv.com.pe/tec/clips/laboratoria-ong-capacita-jovenes-mujeres-programacion-y-desarrollo-web-noticia-23814?ref=hult"
         }
     }
 }

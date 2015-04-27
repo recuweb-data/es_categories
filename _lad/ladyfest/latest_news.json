@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ladyfest",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ladyfest/",
@@ -10,12 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ladyfest/ladyfest/blogs.json"
     },
     "items": {
+        "citypaper.com/2015/04/happening-sunday-ladyfest-benefit-craft-fair-golden-tarot-night": {
+            "title": "Happening Sunday: Ladyfest Benefit Craft Fair, Golden Tarot Night, and more - Baltimore City Paper...",
+            "snippet": "Baltimore City Paper (blog)Happening Sunday: Ladyfest Benefit Craft Fair, Golden Tarot Night, and moreBaltimore City Paper (blog)-Ladyfest Benefit Craft Fair: Despite receiving loads of hate mail last year and initially planning not to recur, our...",
+            "date": "2015-04-19",
+            "categories": "ladyfest",
+            "tags": "night,ladyfest",
+            "recuweb_url": "http://es.recuweb.com/ladyfest/citypaper.com/2015/04/happening-sunday-ladyfest-benefit-craft-fair-golden-tarot-night",
+            "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
+            "source_url": "http://citypaper.com/blogs/the-news-hole/bcpnews-happening-sunday-ladyfest-benefit-craft-fair-golden-tarot-night-and-more-20150417,0,867260.story"
+        },
+        "clatl.com/2015/04/help-murmur-find-a-home-creative-loafing-atlanta": {
+            "title": "Help Murmur find a home! - Creative Loafing Atlanta...",
+            "snippet": "Creative Loafing AtlantaHelp Murmur find a home!Creative Loafing AtlantaSince AZL's beginnings back in 2011, Murmur has worked with the likes of MINT Gallery, the Low Museum, LadyFest Atlanta, the Mammal Gallery, Hodgepodge Coffeehouse and Gallery,...",
+            "date": "2015-04-17",
+            "categories": "ladyfest",
+            "tags": "ladyfest,ladyfest_atlanta,atlanta,creative,creative_loafing,loafing,murmur,creative_loafing_atlanta,loafing_atlanta",
+            "recuweb_url": "http://es.recuweb.com/ladyfest/clatl.com/2015/04/help-murmur-find-a-home-creative-loafing-atlanta",
+            "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
+            "source_url": "http://clatl.com/freshloaf/archives/2015/04/17/help-murmur-find-a-home"
+        },
         "abc.es/2015/04/una-retrospectiva-dedicada-a-codesal-centra-la-nueva-temporada-del-musac": {
             "title": "Una retrospectiva dedicada a Codesal centra la nueva temporada del MUSAC...",
             "snippet": "informaci\u00f3n y material gr\u00e1fico de m\u00e1s de una treintena de ferias de edici\u00f3n y colectivos (Ladyfest, Tenderete, Feira Morta, Gutter Fest, FLIA, o Libros Mutantes, entre otras). Por otra parte, Taller reunir\u00e1 una serie de actividades entre...",
             "date": "2015-04-17",
             "categories": "ladyfest",
-            "tags": "fest,morta,edici\u00f3n,colectivos,musac,ladyfest",
+            "tags": "parte,fest,morta,edici\u00f3n,colectivos,musac,ladyfest,taller",
             "recuweb_url": "http://es.recuweb.com/ladyfest/abc.es/2015/04/una-retrospectiva-dedicada-a-codesal-centra-la-nueva-temporada-del-musac",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ladyfest&format=RSS&cc=es",
             "source_url": "http://abc.es/agencias/noticia.asp?noticia=1844720"
@@ -30,85 +51,55 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=ladyfest&format=RSS&cc=es",
             "source_url": "http://ileon.com/cultura/050497/ponte-el-cuerpo-y-fuera-de-cobertura-nuevas-exposiciones-en-el-musac"
         },
-        "naine24.postimees.ee/2015/02/feministlik-festival-ladyfest-avalikustas-programmi5-postimees": {
-            "title": "Feministlik festival Ladyfest avalikustas programmi5 - Postimees...",
-            "snippet": "Feministlik festival Ladyfest avalikustas programmi5PostimeesM\u00e4rtsi esimesel n\u00e4dalal saab talvemasendusele puhkust anda, sest juba viiendat korda toimuv feministlik festival Ladyfest t\u00e4idab n\u00e4dala \u00f5pitubade, filmide, vestluste, etenduse,...",
-            "date": "2015-02-25",
+        "clatl.com/2015/04/atlanta-according-to-amanda-mills-creative-loafing": {
+            "title": "Atlanta according to Amanda Mills - Creative Loafing Atlanta...",
+            "snippet": "Creative Loafing AtlantaAtlanta according to Amanda MillsCreative Loafing AtlantaAs executive director for the local nonprofit Murmur, she also helps organize year-round programming ranging from workshops at Ladyfest Atlanta to youth summer camps to...",
+            "date": "2015-04-13",
             "categories": "ladyfest",
-            "tags": "feminist,festival,ladyfest",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/naine24.postimees.ee/2015/02/feministlik-festival-ladyfest-avalikustas-programmi5-postimees",
-            "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
-            "source_url": "http://naine24.postimees.ee/3102629/feministlik-festival-ladyfest-avalikustas-programmi"
+            "tags": "workshops,ladyfest,local,loafing,creative,atlanta,murmur",
+            "recuweb_url": "http://es.recuweb.com/ladyfest/clatl.com/2015/04/atlanta-according-to-amanda-mills-creative-loafing",
+            "resource_url": "http://news.google.es/?hl=es&q=ladyfest%2Bladyfest&output=atom&nord=1",
+            "source_url": "http://clatl.com/atlanta/atlanta-according-to-amanda-mills/Content?oid=13994479"
         },
-        "wonderingsound.com/2015/02/music-magic-and-comics-hearing-stories-drawing-the-invisible-wondering-sound": {
-            "title": "Music, Magic and Comics: Hearing Stories, Drawing the Invisible - Wondering Sound...",
-            "snippet": "Wondering SoundMusic, Magic and Comics: Hearing Stories, Drawing the InvisibleWondering SoundIn the opening sequence of the story arc Rue Brittania he attends a Ladyfest in Bristol, England, not because he believes in the festival's feminist cause,...",
-            "date": "2015-02-20",
+        "therapidian.org/2015/04/ladyfest-celebrates-grand-rapids-women-the-rapidian": {
+            "title": "LadyFest celebrates Grand Rapids women - The Rapidian...",
+            "snippet": "The RapidianLadyFest celebrates Grand Rapids womenThe RapidianDuring the first part of the day, from 12-6 p.m., LadyFest offers educational workshops. All of the workshops will be led by women, but people of all ages and genders are welcome to...",
+            "date": "2015-04-02",
             "categories": "ladyfest",
-            "tags": "feminist,festival,music,ladyfest",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/wonderingsound.com/2015/02/music-magic-and-comics-hearing-stories-drawing-the-invisible-wondering-sound",
+            "tags": "workshops,women,ladyfest,people",
+            "recuweb_url": "http://es.recuweb.com/ladyfest/therapidian.org/2015/04/ladyfest-celebrates-grand-rapids-women-the-rapidian",
             "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
-            "source_url": "http://wonderingsound.com/feature/music-comics-interview-blokhedz-wicked-divine-phonogram/"
+            "source_url": "http://therapidian.org/ladyfest-celebrates-grand-rapids-women"
         },
-        "list.co.uk/2015/02/sacred-paws-chat-sleater-kinney-and-the-legacy-of-90s-feminist": {
-            "title": "Sacred Paws chat Sleater-Kinney and the legacy of 90s feminist-punk - The List...",
-            "snippet": "The ListSacred Paws chat Sleater-Kinney and the legacy of 90s feminist-punkThe ListTheir feminist DIY ideology casts long shadows, too: Sleater-Kinney were a leading force behind global femme-pop hoopla Ladyfest, whose first grassroots venture...",
-            "date": "2015-02-20",
-            "categories": "pop,ladyfest",
-            "tags": "grassroots,feminist,punk,their,ladyfest",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/list.co.uk/2015/02/sacred-paws-chat-sleater-kinney-and-the-legacy-of-90s-feminist",
-            "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
-            "source_url": "http://list.co.uk/article/68629-sacred-paws-chat-sleater-kinney-and-the-legacy-of-90s-feminist-punk/"
-        },
-        "highlandernews.org/2014/11/ladyfest-ie-electrifies-riverside-underground-with-punk-spirit-highlander-newspaper": {
-            "title": "Ladyfest IE electrifies Riverside underground with punk spirit - Highlander Newspaper...",
-            "snippet": "Highlander NewspaperLadyfest IE electrifies Riverside underground with punk spiritHighlander NewspaperAccording to their website, Ladyfest is a grassroots, do-it-yourself, feminist and queer festival that is celebrated around the world. It often...",
-            "date": "2014-11-18",
+        "wabe.org/2015/03/ladyfest-atlanta-encourages-feminist-dialogue-in-local-arts-wabe-90-1": {
+            "title": "Ladyfest Atlanta Encourages Feminist Dialogue In Local Arts - WABE 90.1 FM...",
+            "snippet": "WABE 90.1 FMLadyfest Atlanta Encourages Feminist Dialogue In Local ArtsWABE 90.1 FMLadyfest Atlanta is a three-day showcase of local musicians, performance artists, and filmmakers, as well as a space for dialogue about feminist issues. It marks the...",
+            "date": "2015-03-20",
             "categories": "ladyfest",
-            "tags": "feminist,festival,grassroots,their,punk,ladyfest",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/highlandernews.org/2014/11/ladyfest-ie-electrifies-riverside-underground-with-punk-spirit-highlander-newspaper",
+            "tags": "artists,local,atlanta,ladyfest,ladyfest_atlanta",
+            "recuweb_url": "http://es.recuweb.com/ladyfest/wabe.org/2015/03/ladyfest-atlanta-encourages-feminist-dialogue-in-local-arts-wabe-90-1",
             "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
-            "source_url": "http://highlandernews.org/15144/ladyfest-ie-electrifies-riverside-underground-with-punk-spirit/"
+            "source_url": "http://wabe.org/post/ladyfest-atlanta-encourages-feminist-dialogue-local-arts"
         },
-        "clatl.com/2014/10/ladyfest-atlanta-to-promote-feminism-women-in-march-creative-loafing": {
-            "title": "Ladyfest Atlanta to promote feminism, women in March - Creative Loafing Atlanta...",
-            "snippet": "Ladyfest Atlanta to promote feminism, women in MarchCreative Loafing AtlantaLadyfest Atlanta, organized by Chelsea Dunn, Nina Dolgin, Verge Bliss, and Stephanie Pharr, is currently looking for volunteers, donations and sponsors, and submissions in...",
-            "date": "2014-10-21",
+        "clatl.com/2015/03/ladyfest-schedule-is-out-creative-loafing-atlanta": {
+            "title": "Ladyfest schedule is out! - Creative Loafing Atlanta...",
+            "snippet": "Ladyfest schedule is out!Creative Loafing AtlantaLadyfest Atlanta, a festival focusing on local women and gender non-conforming artists, released its schedule over the weekend, including everything from a Comingle workshop to a night of music and...",
+            "date": "2015-03-09",
             "categories": "ladyfest",
-            "tags": "women,ladyfest",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/clatl.com/2014/10/ladyfest-atlanta-to-promote-feminism-women-in-march-creative-loafing",
+            "tags": "night,artists,festival,local,women,creative,creative_loafing,loafing,atlanta,creative_loafing_atlanta,loafing_atlanta,ladyfest,music",
+            "recuweb_url": "http://es.recuweb.com/ladyfest/clatl.com/2015/03/ladyfest-schedule-is-out-creative-loafing-atlanta",
             "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
-            "source_url": "http://clatl.com/cribnotes/archives/2014/10/21/ladyfest-atlanta-to-promote-feminism-women-in-march"
+            "source_url": "http://clatl.com/cribnotes/archives/2015/03/09/ladyfest-schedule-is-out"
         },
         "peru.com/2014/10/lady-fest-2014-fue-postergado-por-problemas-log%C3%ADsticos-per%C3%BA": {
             "title": "Lady Fest 2014 fue postergado por problemas log\u00edsticos - Per\u00fa.com...",
             "snippet": "Per\u00fa.comLady Fest 2014 fue postergado por problemas log\u00edsticosPer\u00fa.comPrime Time Corp quiere informar, a todo el p\u00fablico en general, que debido a inconvenientes de car\u00e1cter administrativo y log\u00edstico el concierto Lady Fest 2014 programado para...",
             "date": "2014-10-08",
             "categories": "ladyfest",
-            "tags": "car\u00e1cter,concierto,fest,lady,lady_fest,per\u00fa",
+            "tags": "car\u00e1cter,fest,lady,lady_fest,per\u00fa",
             "recuweb_url": "http://es.recuweb.com/ladyfest/peru.com/2014/10/lady-fest-2014-fue-postergado-por-problemas-log%C3%ADsticos-per%C3%BA",
             "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
             "source_url": "http://peru.com/entretenimiento/musica/lady-fest-2014-fue-postergado-problemas-logisticos-noticia-290791"
-        },
-        "wlrn.org/2014/09/ladyfest-miami-celebrates-womanhood-and-promotes-activism-wlrn": {
-            "title": "LadyFest Miami Celebrates Womanhood And Promotes Activism - WLRN...",
-            "snippet": "LadyFest Miami Celebrates Womanhood And Promotes ActivismWLRNA collective of local artists and activists is encouraging unity among South Florida's women through an event called LadyFest. As women, we are fragmented, says Charo Valero, one of the...",
-            "date": "2014-09-18",
-            "categories": "ladyfest",
-            "tags": "women,ladyfest",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/wlrn.org/2014/09/ladyfest-miami-celebrates-womanhood-and-promotes-activism-wlrn",
-            "resource_url": "http://news.google.es/?hl=es&q=ladyfest%2Bladyfest&output=atom&nord=1",
-            "source_url": "http://wlrn.org/post/ladyfest-miami-celebrates-womanhood-and-promotes-activism"
-        },
-        "peru.com/2014/08/lali-esp%C3%B3sito-y-paty-cant%C3%BA-por-primera-vez-juntas-en-concierto": {
-            "title": "Lali Esp\u00f3sito y Paty Cant\u00fa por primera vez juntas en concierto - Per\u00fa.com...",
-            "snippet": "Per\u00fa.comLali Esp\u00f3sito y Paty Cant\u00fa por primera vez juntas en conciertoPer\u00fa.comLima se alista para disfrutar de uno de los conciertos m\u00e1s esperados y solicitados, el primer Lady Fest 2014 que tiene como protagonistas a dos de las princesas del...",
-            "date": "2014-08-06",
-            "categories": "ladyfest",
-            "tags": "lady,lady_fest,fest,concierto,per\u00fa",
-            "recuweb_url": "http://es.recuweb.com/ladyfest/peru.com/2014/08/lali-esp%C3%B3sito-y-paty-cant%C3%BA-por-primera-vez-juntas-en-concierto",
-            "resource_url": "http://news.google.es/?hl=es&q=ladyfest&output=atom&nord=1",
-            "source_url": "http://peru.com/entretenimiento/musica/lali-esposito-y-paty-cantu-primera-vez-juntas-concierto-noticia-273792"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "arte-urbano",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/arte-urbano/",
@@ -10,111 +11,112 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-urbano/arte-urbano/blogs.json"
     },
     "items": {
-        "labcd.mx/2015/03/taller-de-arte-urbano-ideas-milpa-alta-laboratorio-para-la-ciudad": {
-            "title": "Taller de Arte Urbano Ideas Milpa Alta - Laboratorio para la Ciudad...",
-            "snippet": "Taller de Arte Urbano Ideas Milpa Alta. March 21, 2015 por Laboratorio para la Ciudad. Segunda edici\u00f3n del Taller de Arte Urbano Ideas Milpa Alta. En esta ocasi\u00f3n, un grupo de j\u00f3venes colaborar\u00e1 con los artistas Joel Jaime & Motick en la...",
-            "date": "2015-03-21",
-            "author_name": "Laboratorio para la Ciudad",
+        "mediacionartistica.org/2015/04/mulacity-getafe-se-convertir%C3%A1-en-la-mayor-intervenci%C3%B3n-de-arte": {
+            "title": "MULAcity Getafe se convertir\u00e1 en la mayor intervenci\u00f3n de Arte...",
+            "snippet": "MULAcity Getafe se convertir\u00e1 en la mayor intervenci\u00f3n de Arte Urbano de Espa\u00f1a. ricardo_cavolo. Del 4 al 9 de mayo el festival acoger\u00e1 con m\u00e1s de metros cuadrados de murales, las intervenciones de los artistas...",
+            "date": "2015-04-23",
+            "author_name": "Ascensi\u00f3n Moreno Gonz\u00e1lez",
+            "tags": "cuadrados,festival,acoger\u00e1,urbano,mayor,intervenciones,mulacity,getafe,arte,espa\u00f1a,ricardo,cavolo,metros,murales,artistas",
+            "recuweb_url": "http://es.recuweb.com/mediacionartistica.org/2015/04/mulacity-getafe-se-convertir%C3%A1-en-la-mayor-intervenci%C3%B3n-de-arte",
+            "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mediacionartistica.org/2015/04/23/mulacity-getafe-se-convertira-en-la-mayor-intervencion-de-arte-urbano-de-espana/"
+        },
+        "microsiervos.com/2015/04/desordes-creativas-un-festival-de-arte-urbano-en-galicia": {
+            "title": "DesOrdes creativas, un festival de arte urbano en Galicia...",
+            "snippet": "Minia en DesOrdes 2014 - Foto por Sokram, de Mutante Creativo, y \u00darsula Prego. A ra\u00edz de la anotaci\u00f3n sobre el MIAU, el Museo Inacabado de Arte Urbano de Fanzara, Miguel nos escribi\u00f3 para ponernos en la pista de...",
+            "date": "2015-04-22",
+            "author_name": "wicho@microsiervos.com (Wicho)",
             "categories": "arte-urbano",
-            "tags": "arte,arte_urbano,urbano,ciudad,grupo,j\u00f3venes,artistas",
-            "recuweb_url": "http://es.recuweb.com/arte-urbano/labcd.mx/2015/03/taller-de-arte-urbano-ideas-milpa-alta-laboratorio-para-la-ciudad",
+            "tags": "arte,arte_urbano,urbano,museo,museo_inacabado,inacabado,festival,miau,fanzara",
+            "recuweb_url": "http://es.recuweb.com/arte-urbano/microsiervos.com/2015/04/desordes-creativas-un-festival-de-arte-urbano-en-galicia",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://labcd.mx/taller-arte-milpa/"
+            "source_url": "http://microsiervos.com/archivo/arte-y-diseno/desordes-creativas-un-festival-de-arte-urbano-en-galicia.html"
         },
-        "blogallangraphic.wordpress.com/2015/03/mucho-arte-urbano": {
-            "title": "Mucho arte urbano...",
-            "snippet": "Mr. THOMS es un artista italiano, que combina muchas disciplinas art\u00edsticas, desde escultura, video, ilustraci\u00f3n y arte urbano; pero lo que m\u00e1s me llamo la atenci\u00f3n fue su []...",
-            "date": "2015-03-18",
-            "author_name": "Edgar Allan",
-            "categories": "escultura",
-            "tags": "ilustraci\u00f3n,arte,urbano,artista",
-            "recuweb_url": "http://es.recuweb.com/escultura/blogallangraphic.wordpress.com/2015/03/mucho-arte-urbano",
-            "resource_url": "http://es.search.wordpress.com/?q=arte%2Burbano%2Barte%2Burbano&f=feed&page=1",
-            "source_url": "http://blogallangraphic.wordpress.com/2015/03/18/mucho-arte-urbano/"
-        },
-        "jofzblog.com/2015/03/desde-tu-ventana-adios-al-arte-urbano-en-el-centro": {
-            "title": "DESDE TU VENTANA: Adios al arte urbano en el centro de Lima...",
-            "snippet": "Luis Casta\u00f1eda Lossio, Alcalde Metropolitano de Lima desde el 1 de enero de 2015, ha ordenado el borrado de todos los murales realizados por artistas urbanos en el centro hist\u00f3rico de Lima. La raz\u00f3n que ha dado es que...",
-            "date": "2015-03-17",
-            "author_name": "Juanjo Fern\u00e1ndez",
-            "tags": "dado,urbanos,urbano,centro,murales,enero,arte,artistas",
-            "recuweb_url": "http://es.recuweb.com/jofzblog.com/2015/03/desde-tu-ventana-adios-al-arte-urbano-en-el-centro",
+        "graffitiworld.tv/2015/04/n3o-for-nueve-arte-urbano-queretaro-mexico": {
+            "title": "N3O For Nueve Arte Urbano Queretaro, Mexico.",
+            "snippet": "N3O For Nueve Arte Urbano. Queretaro, Mexico. The Mexican artist N3O paints Darks a new mural for Nueve Arte Urbano in Queretaro, Mexico. Source: N3O Nueve Arte Urbano Official Website N3O_1 2 N3O_2 2.",
+            "date": "2015-04-22",
+            "author_name": "Daniel Sierra",
+            "categories": "arte-urbano",
+            "tags": "mural,nueve,arte,arte_urbano,urbano",
+            "recuweb_url": "http://es.recuweb.com/arte-urbano/graffitiworld.tv/2015/04/n3o-for-nueve-arte-urbano-queretaro-mexico",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://jofzblog.com/2015/03/adios-alsusana-avenida-taca-arte-urbano.html"
+            "source_url": "http://graffitiworld.tv/n3o-queretaro-mexico/"
         },
-        "ntrzacatecas.com/2015/03/google-lleva-arte-urbano-a-aficionados-ntr-zacatecas": {
-            "title": "Google lleva arte urbano a aficionados NTR Zacatecas.com...",
-            "snippet": "M\u00e9xico.- Los amantes del arte en el mundo ahora podr\u00e1n disfrutar desde la comodidad de su hogar de fant\u00e1sticas colecciones de arte a trav\u00e9s de Google Art Project. La multinacional precisa en su blog que basta ingresar a...",
-            "date": "2015-03-17",
-            "author_name": "Noemi Figueroa",
-            "categories": "multinacional,google",
-            "tags": "art,project,mundo,podr\u00e1n,amantes,google,arte,urbano,trav\u00e9s",
-            "recuweb_url": "http://es.recuweb.com/google/ntrzacatecas.com/2015/03/google-lleva-arte-urbano-a-aficionados-ntr-zacatecas",
-            "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ntrzacatecas.com/2015/03/17/google-lleva-arte-urbano-a-aficionados/"
+        "diariomomento.com/2015/04/exposici%C3%B3n-de-arte-urbano-denominada-sagrada-calle-momento": {
+            "title": "Exposici\u00f3n de Arte Urbano denominada Sagrada calle Momento...",
+            "snippet": "Exposici\u00f3n de Arte Urbano denominada Sagrada calle. sagrada calle. Mousai Galer\u00eda (Pasadero cultural), en colaboraci\u00f3n con El Errante editor, La Virgen de Quito producciones, Grafica mestiza, Traficante de letras y...",
+            "date": "2015-04-21",
+            "author_name": "redaccion",
+            "categories": "arte-urbano",
+            "tags": "sagrada,calle,arte,arte_urbano,urbano,exposici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/arte-urbano/diariomomento.com/2015/04/exposici%C3%B3n-de-arte-urbano-denominada-sagrada-calle-momento",
+            "resource_url": "http://www.google.com/search?q=arte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diariomomento.com/exposicion-de-arte-urbano-denominada-sagrada-calle/"
         },
-        "googleamericalatinablog.blogspot.com/2015/03/llevando-el-arte-urbano-a-la-vida-cotidiana-blog-corporativo": {
-            "title": "Llevando el arte urbano a la vida cotidiana - El Blog Corporativo de...",
-            "snippet": "Durante m\u00e1s de 20 a\u00f1os, neoyorquinos y amantes del arte urbano de todo el mundo hicieron una peregrinaci\u00f3n a 5Pointz, un edificio en Long Island conocido como \"La Meca del Graffiti\" debido a sus paredes pintadas en...",
-            "date": "2015-03-17",
-            "author_name": "LatAm Blog Publisher",
-            "tags": "conocido,paredes,mundo,amantes,arte,urbano,vida,cotidiana,durante",
-            "recuweb_url": "http://es.recuweb.com/googleamericalatinablog.blogspot.com/2015/03/llevando-el-arte-urbano-a-la-vida-cotidiana-blog-corporativo",
+        "culturamas.es/2015/04/iii-bienal-de-arte-urbano-en-la-f%C3%A1brica-sider%C3%BArgica-v%C3%B6lklingen": {
+            "title": "III Bienal de Arte Urbano en la f\u00e1brica sider\u00fargica de V\u00f6lklingen...",
+            "snippet": "La f\u00e1brica sider\u00fargica de V\u00f6lklingen, situada en el sur de Alemania, es escenario de una Bienal de Arte Urbano. Se trata de la tercera edici\u00f3n de esta Bienal en.",
+            "date": "2015-04-20",
+            "author_name": "Mar\u00eda Bravo Sancha",
+            "categories": "arte-urbano",
+            "tags": "trata,arte,arte_urbano,urbano,iii",
+            "recuweb_url": "http://es.recuweb.com/arte-urbano/culturamas.es/2015/04/iii-bienal-de-arte-urbano-en-la-f%C3%A1brica-sider%C3%BArgica-v%C3%B6lklingen",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://googleamericalatinablog.blogspot.com/2015/03/llevando-el-arte-urbano-la-vida.html"
+            "source_url": "http://culturamas.es/blog/2015/04/20/iii-bienal-de-arte-urbano-en-la-fabrica-siderurgica-de-volklingen/"
         },
-        "taringa.net/2015/03/la-anatom%C3%ADa-explosiva-del-artista-urbano-nychos-taringa": {
-            "title": "la anatom\u00eda explosiva del artista urbano nychos - Taringa!",
-            "snippet": "Las im\u00e1genes que mezclan humor e ilustraci\u00f3n cient\u00edfica son incre\u00edblemente detalladas y te har\u00e1n ver el arte urbano de una manera diferente. Su trabajo siempre se hace presente en festivales y exposiciones. Durante el...",
-            "date": "2015-03-17",
-            "author_name": "desconocido",
-            "categories": "humor",
-            "tags": "trabajo,ilustraci\u00f3n,artista,urbano,im\u00e1genes,son,arte,durante",
-            "recuweb_url": "http://es.recuweb.com/humor/taringa.net/2015/03/la-anatom%C3%ADa-explosiva-del-artista-urbano-nychos-taringa",
+        "elmundo.com.sv/2015/04/diario-el-mundo-street-art-chilango-arte-urbano-en-m%C3%A9xico": {
+            "title": "Diario El Mundo Street Art Chilango: arte urbano en M\u00e9xico...",
+            "snippet": "El arte urbano hace incursi\u00f3n en la Ciudad de M\u00e9xico, y lo hace a trav\u00e9s de Street Art Chilango el proyecto que impulsa artistas emergentes, y que, a trav\u00e9s del uso de los muros y la pintura, intenta enviar un mensaje.",
+            "date": "2015-04-17",
+            "author_name": "Eduardo Orantes",
+            "categories": "pintura",
+            "tags": "muros,pintura,proyecto,street,art,diario,mundo,arte,urbano,m\u00e9xico,ciudad,trav\u00e9s,artistas",
+            "recuweb_url": "http://es.recuweb.com/pintura/elmundo.com.sv/2015/04/diario-el-mundo-street-art-chilango-arte-urbano-en-m%C3%A9xico",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/arte/18551884/La-anatomia-explosiva-del-artista-urbano-nychos.html"
+            "source_url": "http://elmundo.com.sv/street-art-chilango-arte-urbano-en-mexico/"
         },
-        "picnic.co/2015/03/3-artistas-urbanas-que-debes-conocer-miss-van-mademoiselle-kat": {
-            "title": "3 artistas urbanas que debes conocer: Miss Van, Mademoiselle Kat...",
-            "snippet": "En la escena del arte urbano una nueva ola de artistas, en su mayor\u00eda mujeres, comenzaron a estampar su trabajo en las paredes de la cuidad. Miss Van 4. Por Pen\u00e9lope Hidalgo YaraHeartbreak. Miss Van, Mademoiselle Kat y Fafi fueron...",
-            "date": "2015-03-12",
-            "author_name": "Picnic",
-            "tags": "trabajo,paredes,nueva,artistas,arte,urbano",
-            "recuweb_url": "http://es.recuweb.com/picnic.co/2015/03/3-artistas-urbanas-que-debes-conocer-miss-van-mademoiselle-kat",
+        "muralism0contemporane0uruguay0.blogs.upv.es/2015/04/millo-arte-urbano-con-sangre-italiana-gesti%C3%B3n-sostenible": {
+            "title": "Millo, Arte Urbano con sangre italiana - Gesti\u00f3n sostenible del...",
+            "snippet": "Los murales que realiza Millo, como se puede observar en la im\u00e1genes, generalmente son de gran formato, donde el blanco y negro son los colores predominantes, llamando la atenci\u00f3n de la escena narrativa, por medio de...",
+            "date": "2015-04-17",
+            "author_name": "evmarca2",
+            "categories": "arte-urbano",
+            "tags": "gran,formato,im\u00e1genes,arte,arte_urbano,urbano,gesti\u00f3n,murales,son",
+            "recuweb_url": "http://es.recuweb.com/arte-urbano/muralism0contemporane0uruguay0.blogs.upv.es/2015/04/millo-arte-urbano-con-sangre-italiana-gesti%C3%B3n-sostenible",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://picnic.co/3-artistas-urbanas-que-debes-conocer-miss-van-mademoiselle-kat-y-fafi/"
+            "source_url": "http://muralism0contemporane0uruguay0.blogs.upv.es/2015/04/17/millo-arte-urbano-con-sangre-italiana/"
         },
-        "lamiradadifusa.com/2015/03/artistas-urbanos-ze-carrion-la-mirada-difusa": {
-            "title": "ARTISTAS URBANOS: ZE CARRION. - La Mirada Difusa...",
-            "snippet": "Ze Carrion es un artista multidisciplinar insaciable, urbano y guerrillero. Licenciado en Bellas Artes, ha realizado intervenciones en todos los pa\u00edses europeos. Un obrero del aerosol y la pl\u00e1stica. Incansable trabajador, su...",
-            "date": "2015-03-12",
-            "author_name": "la Mirada Difusa",
-            "categories": "bellas-artes",
-            "tags": "pa\u00edses,artes,artistas,artista,urbanos,urbano",
-            "recuweb_url": "http://es.recuweb.com/bellas-artes/lamiradadifusa.com/2015/03/artistas-urbanos-ze-carrion-la-mirada-difusa",
-            "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lamiradadifusa.com/2015/03/artistas-urbanos-ze-carrion.html"
+        "laregion.es/2015/04/cocina-juegos-y-arte-urbano-en-los-s%C3%A1bados-da-mocidade": {
+            "title": "Cocina, juegos y arte urbano en los S\u00e1bados da Mocidade...",
+            "snippet": "Cocina, juegos y arte urbano en los \"S\u00e1bados da Mocidade\". Manuel, ganador de \"Master Chef Junior 2014\", ser\u00e1 el encargado de dar el pistoletazo de salida a la programaci\u00f3n, que se celebrar\u00e1 el 18 y el 25 de abril.",
+            "date": "2015-04-16",
+            "author_name": "Redacci\u00f3n",
+            "tags": "abril,ser\u00e1,dar,arte,urbano",
+            "recuweb_url": "http://es.recuweb.com/laregion.es/2015/04/cocina-juegos-y-arte-urbano-en-los-s%C3%A1bados-da-mocidade",
+            "resource_url": "http://www.google.com/search?q=arte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://laregion.es/articulo/ourense/cocina-juegos-y-arte-urbano-sabados-da-mocidade/20150416213024537771.html"
         },
-        "xatakandroid.com/2015/03/google-lanza-street-art-una-colecci%C3%B3n-de-pantallas-reloj-con-arte": {
-            "title": "Google lanza Street Art, una colecci\u00f3n de pantallas de reloj con arte...",
-            "snippet": "A trav\u00e9s del proyecto Street Art Project de Google Cultural Institute nos llega una aplicaci\u00f3n que incluye una hermosa colecci\u00f3n de arte urbano convertida en pantallas de reloj para nuestros relojes Android Wear, con estilos...",
-            "date": "2015-03-11",
-            "author_name": "Cosmos",
-            "categories": "google",
-            "tags": "llega,project,street,art,google,arte,trav\u00e9s,proyecto,urbano",
-            "recuweb_url": "http://es.recuweb.com/google/xatakandroid.com/2015/03/google-lanza-street-art-una-colecci%C3%B3n-de-pantallas-reloj-con-arte",
+        "microsiervos.com/2015/04/el-miau-de-fanzara-un-pueblo-convertido-en-museo-arte": {
+            "title": "El MIAU de Fanzara, un pueblo convertido en un museo de arte...",
+            "snippet": "El MIAU es el Museo Inacabado de Arte Urbano, situado en las calles de Fanzara, un peque\u00f1o pueblo de poco m\u00e1s de 300 habitantes a unos 80 kil\u00f3metros al norte de Valencia, en la provincia de Castell\u00f3n. El MIAU surgi\u00f3...",
+            "date": "2015-04-16",
+            "author_name": "wicho@microsiervos.com (Wicho)",
+            "categories": "arte-urbano",
+            "tags": "arte,arte_urbano,urbano,museo,museo_inacabado,inacabado,miau,fanzara,calles,poco",
+            "recuweb_url": "http://es.recuweb.com/arte-urbano/microsiervos.com/2015/04/el-miau-de-fanzara-un-pueblo-convertido-en-museo-arte",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xatakandroid.com/personalizacion/google-lanza-street-art-una-coleccion-de-pantallas-de-reloj-con-arte-urbano-para-tu-android-wear"
+            "source_url": "http://microsiervos.com/archivo/arte-y-diseno/miau-fanzara-pueblo-convertido-en-museo-arte-urbano.html"
         },
-        "tuteate.com/2015/03/admira-el-arte-urbano-de-millo-tut%C3%A9ate": {
-            "title": "Admira el arte urbano de Millo - Tut\u00e9ate y...",
-            "snippet": "Murales street art de Millo en Tur\u00edn Hoy en Tut\u00e9ate compartimos alguna de las obras de Francesco Camillo Giorgino, conocido como Millo. Este artista gan\u00f3 en 2014 el premio que le permiti\u00f3 pintar 13 murales urbanos...",
-            "date": "2015-03-06",
-            "author_name": "Tut\u00e9ate Team",
-            "tags": "murales,urbanos,urbano,conocido,alguna,hoy,street,art,arte,obras,artista",
-            "recuweb_url": "http://es.recuweb.com/tuteate.com/2015/03/admira-el-arte-urbano-de-millo-tut%C3%A9ate",
+        "muralism0contemporane0uruguay0.blogs.upv.es/2015/04/asalto-festival-internacional-de-arte-urbano-espa%C3%B1a-gesti%C3%B3n": {
+            "title": "Asalto, Festival internacional de arte urbano (Espa\u00f1a) - Gesti\u00f3n...",
+            "snippet": "Desde 2005 en Zaragoza (Espa\u00f1a) se est\u00e1 realizando uno de los festivales de arte urbano m\u00e1s importantes del pa\u00eds, conocido con el nombre de Asalto. En \u00e9l participan artistas nacionales e internacionales, como es el caso...",
+            "date": "2015-04-15",
+            "author_name": "evmarca2",
+            "tags": "caso,nacionales,nacionales-internacionales,internacionales,nombre,festival,arte,urbano,espa\u00f1a,gesti\u00f3n,importantes,pa\u00eds,artistas",
+            "recuweb_url": "http://es.recuweb.com/muralism0contemporane0uruguay0.blogs.upv.es/2015/04/asalto-festival-internacional-de-arte-urbano-espa%C3%B1a-gesti%C3%B3n",
             "resource_url": "http://www.google.com/search?q=arte%2Burbano%2Barte%2Burbano&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tuteate.com/2015/03/06/admira-el-arte-urbano-de-millo/"
+            "source_url": "http://muralism0contemporane0uruguay0.blogs.upv.es/2015/04/15/festival-internacional-de-arte-urbano-asalto-espana/"
         }
     }
 }

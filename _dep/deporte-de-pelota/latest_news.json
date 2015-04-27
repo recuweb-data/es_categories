@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "deporte-de-pelota",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deporte-de-pelota/",
@@ -10,22 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deporte-de-pelota/deporte-de-pelota/blogs.json"
     },
     "items": {
-        "es.eurosport.yahoo.com/2015/04/las-pelotas-de-mini-djokovic-yahoo-eurosport": {
-            "title": "Las pelotas de 'Mini Djokovic'- Yahoo Eurosport ES...",
-            "snippet": "Yahoo Eurosport ESLas pelotas de 'Mini Djokovic'Yahoo Eurosport ESComenz\u00f3 a jugar con su hermana a los 5 a\u00f1os al tenis, un deporte al que se aficion\u00f3 viendo jugar a su padre. A los 13 a\u00f1os ya ten\u00eda claro que dedicar\u00eda su vida al tenis. Y con...",
-            "date": "2015-04-20",
-            "categories": "tenis,yahoo,deporte",
-            "tags": "pelotas,deporte",
-            "recuweb_url": "http://es.recuweb.com/deporte/es.eurosport.yahoo.com/2015/04/las-pelotas-de-mini-djokovic-yahoo-eurosport",
+        "perfil.com/2015/04/los-millones-que-reparte-la-pelota": {
+            "title": "Los millones que reparte la pelota -...",
+            "snippet": "millones que reparte la \u00edtica Polic\u00eda Sociedad Mundo Medios Universidades Columnistas Econom\u00eda Deportes Espect\u00e1culos; Ciencia. Ciencia Tecnolog\u00eda Salud Cine Mujer Turismo. Temas del d\u00eda; PERFIL en la Feria del Libro El retiro de Moyano...",
+            "date": "2015-04-25",
+            "categories": "tecnologia,salud,cine,sociedad,economia,ciencia",
+            "tags": "d\u00eda,mundo,deportes,pelota",
+            "recuweb_url": "http://es.recuweb.com/ciencia/perfil.com/2015/04/los-millones-que-reparte-la-pelota",
+            "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bde%2Bpelota%2Bdeporte%2Bde%2Bpelota&output=atom&nord=1",
+            "source_url": "http://perfil.com/deportes/Los-millones-que-reparte-la-pelota---20150424-0069.html"
+        },
+        "espndeportes.espn.go.com/2015/04/siete-castigados-por-pelea-kc-chw-espn-deportes": {
+            "title": "Siete castigados por pelea KC-CHW - ESPN Deportes...",
+            "snippet": "ESPN DeportesSiete castigados por pelea KC-CHWESPN DeportesLas repeticiones de televisi\u00f3n muestran que Ventura le grit\u00f3 malas palabras a Eaton antes de lanzar la pelota a la inicial. El manager de los Medias Blancas confirm\u00f3 que Sale fue al...",
+            "date": "2015-04-25",
+            "categories": "television",
+            "tags": "deportes,pelota",
+            "recuweb_url": "http://es.recuweb.com/television/espndeportes.espn.go.com/2015/04/siete-castigados-por-pelea-kc-chw-espn-deportes",
             "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bde%2Bpelota&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/blogs/patada-a-seguir/las-pelotas-de--mini-djokovic--205122380.html"
+            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2356246/siete-castigados-por-pelea-kc-chw"
         },
         "jornada.unam.mx/2015/04/exhiben-40-fotograf%C3%ADas-de-gran-formato-sobre-deportes-pelota-la-jornada": {
             "title": "Exhiben 40 fotograf\u00edas de gran formato sobre deportes de pelota... - La Jornada en linea...",
             "snippet": "La Jornada en lineaExhiben 40 fotograf\u00edas de gran formato sobre deportes de pelota...La Jornada en lineaDe d\u00eda o de noche con una pelota de hule en llamas-- se practican en el pa\u00eds los deportes de pelota prehisp\u00e1nicos. Con esa combinaci\u00f3n...",
             "date": "2015-04-08",
             "categories": "fotografia",
-            "tags": "gran,deportes,pelota",
+            "tags": "d\u00eda,gran,deportes,pelota",
             "recuweb_url": "http://es.recuweb.com/fotografia/jornada.unam.mx/2015/04/exhiben-40-fotograf%C3%ADas-de-gran-formato-sobre-deportes-pelota-la-jornada",
             "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bde%2Bpelota%2Bdeporte%2Bde%2Bpelota&output=atom&nord=1",
             "source_url": "http://jornada.unam.mx/ultimas/2015/04/08/exhiben-40-fotografias-de-gran-formato-sobre-deportes-de-pelota-prehispanicos-5303.html"
@@ -37,7 +48,7 @@
             "categories": "squash,escuela,deporte",
             "tags": "escuela,deporte,deportes,pelota",
             "recuweb_url": "http://es.recuweb.com/deporte/es.euronews.com/2015/03/squash-el-deporte-de-la-raqueta-y-las-paredes-euronews",
-            "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bde%2Bpelota&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bde%2Bpelota%2Bdeporte%2Bde%2Bpelota&output=atom&nord=1",
             "source_url": "http://es.euronews.com/2015/03/27/squash-el-deporte-de-la-raqueta-y-las-paredes/"
         }
     }

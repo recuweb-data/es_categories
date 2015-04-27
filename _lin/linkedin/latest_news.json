@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "linkedin",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/linkedin/",
@@ -10,97 +11,98 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
     },
     "items": {
-        "venturebeat.com/2015/04/linkedin-eats-the-university-venturebeat": {
-            "title": "LinkedIn eats the university - VentureBeat...",
-            "snippet": "VentureBeatLinkedIn eats the universityVentureBeatIn 2011, Marc Andreessen's Wall Street Journal article Why Software is Eating the World asserted that software would continue to disrupt new industries, with the next targets being health care and...",
-            "date": "2015-04-17",
+        "genbeta.com/2015/04/linkedin-ser%C3%A1-capaz-de-adivinar-si-has-mentido-en-tu-curr%C3%ADculum": {
+            "title": "LinkedIn ser\u00e1 capaz de adivinar si has mentido en tu curr\u00edculum...",
+            "snippet": "A d\u00eda de hoy, LinkedIn sigue siendo una p\u00e1gina clave para buscar trabajo o trabajadores que encajen con un puesto. Es donde puedes colocar todo tu historial laboral, tu curr\u00edculum, tus logros acad\u00e9micos... y es donde casi todo el mundo ha...",
+            "date": "2015-04-24",
+            "tags": "mundo,puedes,buscar,buscar-trabajo,trabajo,edin",
+            "recuweb_url": "http://es.recuweb.com/genbeta.com/2015/04/linkedin-ser%C3%A1-capaz-de-adivinar-si-has-mentido-en-tu-curr%C3%ADculum",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://genbeta.com/redes-sociales-y-comunidades/linkedin-sera-capaz-de-adivinar-si-has-mentido-en-tu-curriculum"
+        },
+        "forbes.com/2015/04/seven-ways-to-make-linkedin-help-you-find-a-job-forbes": {
+            "title": "Seven Ways to Make LinkedIn Help You Find A Job - Forbes...",
+            "snippet": "ForbesSeven Ways to Make LinkedIn Help You Find A JobForbesCareer experts agree that LinkedIn is an essential job search tool. Not only can you instantly get the word out to hundreds, if not thousands, of colleagues, bosses and potential employers...",
+            "date": "2015-04-24",
             "tags": "edin",
-            "recuweb_url": "http://es.recuweb.com/venturebeat.com/2015/04/linkedin-eats-the-university-venturebeat",
+            "recuweb_url": "http://es.recuweb.com/forbes.com/2015/04/seven-ways-to-make-linkedin-help-you-find-a-job-forbes",
             "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://venturebeat.com/2015/04/16/linkedin-eats-the-university-2/"
+            "source_url": "http://forbes.com/sites/susanadams/2015/04/23/seven-ways-to-make-linkedin-help-you-find-a-job/"
         },
-        "elcomercio.pe/2015/04/linkedin-5-tips-b%C3%A1sicos-para-usar-la-red-como-profesional": {
-            "title": "LinkedIn: 5 tips b\u00e1sicos para usar la red como profesional - El Comercio...",
-            "snippet": "LinkedIn: 5 tips b\u00e1sicos para usar la red como profesionalEl ComercioSolo es necesario tener en claro el rubro al que se quiere llegar y cu\u00e1l es el objetivo: ventas, clientes en potencia, encontrar trabajo o incrementar su red profesional. 1.",
-            "date": "2015-04-17",
-            "tags": "tener,edin,usar,red,profesional",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-5-tips-b%C3%A1sicos-para-usar-la-red-como-profesional",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-5-tips-basicos-manejar-red-como-profesional-noticia-1804452"
-        },
-        "periodistadigital.com/2015/04/qu%C3%A9-foto-subir-a-linkedin-para-causar-buena-impresi%C3%B3n": {
-            "title": "Qu\u00e9 foto subir a LinkedIn para causar buena impresi\u00f3n...",
-            "snippet": "La fotograf\u00eda que uno elija subir a su perfil de LinkedIn es un elemento fundamental a la hora de causar buena impresi\u00f3n y, por tanto, de abrir posibilidades profesiones. A partir de esta realidad constatada se plantea la cuesti\u00f3n fundamental:...",
-            "date": "2015-04-17",
-            "categories": "fotografia",
-            "tags": "partir,foto,edin,perfil",
-            "recuweb_url": "http://es.recuweb.com/fotografia/periodistadigital.com/2015/04/qu%C3%A9-foto-subir-a-linkedin-para-causar-buena-impresi%C3%B3n",
+        "elcomercio.pe/2015/04/linkedin-por-qu%C3%A9-los-grupos-son-%C3%BAtiles-en-esta-red-social": {
+            "title": "LinkedIn: \u00bfpor qu\u00e9 los grupos son \u00fatiles en esta red social?",
+            "snippet": "La funci\u00f3n de Grupos de LinkedIn permite conectarse con otros usuarios en funci\u00f3n a sus intereses comunes. Existen aproximadamente dos millones de ellos en la red social y la cifra aumenta cada hora. La mayor\u00eda de los miembros de LinkedIn se han...",
+            "date": "2015-04-23",
+            "tags": "millones,usuarios,son,edin,red,social",
+            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-por-qu%C3%A9-los-grupos-son-%C3%BAtiles-en-esta-red-social",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://periodistadigital.com/economia-de-la-vida/economia/2015/04/17/foto-linkedin-buena-impresion-sonrisa-economia-vida-emilio-gonzalez.shtml"
+            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-que-grupos-son-utiles-esta-red-social-noticia-1806274"
         },
-        "wwwhatsnew.com/2015/04/yahoo-mail-ahora-integra-informaci%C3%B3n-de-twitter-y-linkedin": {
-            "title": "Yahoo Mail ahora integra informaci\u00f3n de Twitter y LinkedIn en sus... - WWWhat's new? (blog)...",
-            "snippet": "WWWhat's new? (blog)Yahoo Mail ahora integra informaci\u00f3n de Twitter y LinkedIn en sus...WWWhat's new? (blog)Anteriormente ya se nos mostraba la foto de perfil del contacto, algunos datos como su n\u00famero telef\u00f3nico y opciones sociales, pero ahora...",
-            "date": "2015-04-16",
-            "categories": "yahoo,twitter",
-            "tags": "sociales,contacto,foto,informaci\u00f3n,edin,perfil",
-            "recuweb_url": "http://es.recuweb.com/twitter/wwwhatsnew.com/2015/04/yahoo-mail-ahora-integra-informaci%C3%B3n-de-twitter-y-linkedin",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/04/16/yahoo-mail-ahora-integra-informacion-de-twitter-y-linkedin-en-sus-tarjetas-de-contacto/"
+        "mundohispanico.com/2015/04/conquista-linkedin-mundo-hispanico": {
+            "title": "Conquista LinkedIn - Mundo Hispanico...",
+            "snippet": "Mundo HispanicoConquista LinkedInMundo HispanicoConquista LinkedIn. Agencia Reforma 4/22/2015, 9:47 a.m.. Conquista LinkedIn. \u00c9chale un ojo a estos b\u00e1sicos para administrar tu cuenta de LinkedIn como un verdadero profesional. Impresiona. Puedes...",
+            "date": "2015-04-22",
+            "tags": "mundo,edin,profesional,puedes",
+            "recuweb_url": "http://es.recuweb.com/mundohispanico.com/2015/04/conquista-linkedin-mundo-hispanico",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
+            "source_url": "http://mundohispanico.com/news/2015/apr/22/conquista-linkedin/"
         },
-        "rrhhdigital.com/2015/04/linkedin-presenta-elevate-lo-m%C3%A1s-novedoso-en-el-reparto-de-contenido": {
-            "title": "LinkedIn presenta Elevate, lo m\u00e1s novedoso en el reparto de contenido corporativo...",
-            "snippet": "LinkedIn, la red profesional m\u00e1s grande del mundo, con m\u00e1s de 347 millones de usuarios a nivel global y m\u00e1s de 6 millones en Espa\u00f1a, present\u00f3 ayer su nuevo producto Elevate, una herramienta que ayuda a los empleados a identificar mejor los...",
-            "date": "2015-04-15",
-            "tags": "herramienta,empleados,nuevo,producto,millones,mundo,contenido,contenido-corporativo,corporativo,edin,elevate,red,profesional",
-            "recuweb_url": "http://es.recuweb.com/rrhhdigital.com/2015/04/linkedin-presenta-elevate-lo-m%C3%A1s-novedoso-en-el-reparto-de-contenido",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://rrhhdigital.com/secciones/tecnologia-e-innovacion/109319/LinkedIn-presenta-Elevate-lo-mas-novedoso-en-el-reparto-de-contenido-corporativo"
-        },
-        "trecebits.com/2015/04/elevate-la-herramienta-de-linkedin-para-compartir-contenido-corporativo": {
-            "title": "Elevate, la herramienta de LinkedIn para compartir contenido corporativo...",
-            "snippet": "En definitiva, es como una aplicaci\u00f3n para recopilar contenidos que puedan ser de utilidad (art\u00edculos, blogs, presentaciones, v\u00eddeos) y enviarlos a los empleados.Y todo de manera autom\u00e1tica Se trata de la curaci\u00f3n de contenidos aplicada al...",
-            "date": "2015-04-14",
-            "tags": "contenidos,contenido,empleados,compartir,compartir-contenido,compartir-contenido-corporativo,contenido-corporativo,corporativo,herramienta,elevate,edin",
-            "recuweb_url": "http://es.recuweb.com/trecebits.com/2015/04/elevate-la-herramienta-de-linkedin-para-compartir-contenido-corporativo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://trecebits.com/2015/04/15/elevate-la-herramienta-de-linkedin-para-compartir-contenido-corporativo/"
-        },
-        "elcomercio.pe/2015/04/linkedin-elevate-una-app-para-compartir-contenido-corporativo": {
-            "title": "LinkedIn Elevate, una app para compartir contenido corporativo...",
-            "snippet": "LinkedIn Elevate es la nueva herramienta de la red social profesional para la difusi\u00f3n de contenidos para las corporaciones y promover que sus empleados compartan informaci\u00f3n empresarial en medios sociales. La nueva herramienta de LinkedIn buscar...",
-            "date": "2015-04-14",
-            "tags": "herramienta,contenidos,contenido,empleados,informaci\u00f3n,sociales,social,compartir,compartir-contenido,compartir-contenido-corporativo,contenido-corporativo,corporativo,edin,edin_elevate,elevate,red,profesional",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-elevate-una-app-para-compartir-contenido-corporativo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-elevate-ya-se-puede-compartir-contenido-corporativo-noticia-1803884"
-        },
-        "es.paperblog.com/2015/04/linkedin-entra-en-el-sector-e-learning-con-lynda": {
-            "title": "LinkedIn entra en el sector e-learning con Lynda...",
-            "snippet": "El pasado 9 de abril LinkedIn anunciaba en un comunicado la compra por millones de d\u00f3lares de Lynda, un portal de formaci\u00f3n 'online'. Esta compra (la m\u00e1s importa de LinkedIn hasta el momento) representa un paso adelante en la estrategia de la...",
-            "date": "2015-04-14",
-            "tags": "paso,estrategia,millones,edin,lynda,online",
-            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/linkedin-entra-en-el-sector-e-learning-con-lynda",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/linkedin-entra-en-el-sector-e-learning-con-lynda-3160843/"
-        },
-        "cincodias.com/2015/04/linkedin-elevate-nuevo-servicio-para-hacer-networking-al-compartir-de-contenidos": {
-            "title": "LinkedIn Elevate, nuevo servicio para hacer networking al compartir de contenidos...",
-            "snippet": "Hoy en d\u00eda, muchos profesionales comparten contenido corporativo en las redes sociales para fortalecer sus marcas profesionales al igual que un mont\u00f3n de compa\u00f1\u00edas comparten contenidos para vender sus productos y servicios. Pero pocas...",
-            "date": "2015-04-13",
-            "tags": "contenidos,contenido,sociales,contenido-corporativo,corporativo,compartir,nuevo,edin,edin_elevate,elevate,hacer,profesionales,redes",
-            "recuweb_url": "http://es.recuweb.com/cincodias.com/2015/04/linkedin-elevate-nuevo-servicio-para-hacer-networking-al-compartir-de-contenidos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://cincodias.com/cincodias/2015/04/13/pymes/1428934571_629030.html"
-        },
-        "adlatina.com/2015/04/linkedin-adquiri%C3%B3-a-la-compa%C3%B1%C3%ADa-de-educaci%C3%B3n-online": {
-            "title": "LinkedIn adquiri\u00f3 a la compa\u00f1\u00eda de educaci\u00f3n online...",
-            "snippet": "Pero puede ser s\u00f3lo el comienzo. Si se sigue imaginando, deben considerarse las siguientes dos aplicaciones potenciales de la data de Lynda dentro el producto central de LinkedIn: - LinkedIn lanz\u00f3 recientemente un producto que permite a los...",
-            "date": "2015-04-13",
-            "tags": "producto,dentro,deben,online,edin,lynda",
-            "recuweb_url": "http://es.recuweb.com/adlatina.com/2015/04/linkedin-adquiri%C3%B3-a-la-compa%C3%B1%C3%ADa-de-educaci%C3%B3n-online",
+        "eleconomista.es/2015/04/latest-version-of-sailpoint-identityiq-advances-iam-on-mobile-devices": {
+            "title": "Latest Version of SailPoint IdentityIQ Advances IAM on Mobile Devices...",
+            "snippet": "For more information about SailPoint, please visit. Subscribe to the SailPoint Blog: Follow SailPoint on Twitter: Follow SailPoint on LinkedIn:...",
+            "date": "2015-04-22",
+            "categories": "twitter",
+            "tags": "edin",
+            "recuweb_url": "http://es.recuweb.com/twitter/eleconomista.es/2015/04/latest-version-of-sailpoint-identityiq-advances-iam-on-mobile-devices",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin%2Blinkedin&format=RSS&cc=es",
-            "source_url": "http://adlatina.com/digital/linkedin-adquiri\u00f3-la-compa\u00f1\u00eda-de-educaci\u00f3n-online-lyndacom"
+            "source_url": "http://eleconomista.es/empresas-finanzas/noticias/6650360/04/15/Latest-Version-of-SailPoint-IdentityIQ-Advances-IAM-on-Mobile-Devices.html"
+        },
+        "eleconomista.es/2015/04/lanzan-una-plataforma-que-potencia-la-viralidad-y-el-seo": {
+            "title": "Lanzan una plataforma que potencia la viralidad y el SEO de contenidos...",
+            "snippet": "La reciente actualizaci\u00f3n del algoritmo de Google as\u00ed como las nuevas tendencias del 2015 en SEO c\u00f3mo la nueva herramienta de Linkedin (Linkedin Elevate) para compartir contenidos son un buen bar\u00f3metro para ver que la tendencia a generar...",
+            "date": "2015-04-21",
+            "categories": "google",
+            "tags": "compartir,contenidos,son,herramienta,reciente,c\u00f3mo,edin,elevate",
+            "recuweb_url": "http://es.recuweb.com/google/eleconomista.es/2015/04/lanzan-una-plataforma-que-potencia-la-viralidad-y-el-seo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin%2Blinkedin&format=RSS&cc=es",
+            "source_url": "http://eleconomista.es/blogs/emprendedores/?p=10021"
+        },
+        "elcomercio.pe/2015/04/linkedin-quiere-mejorar-la-experiencia-del-usuario-en-yahoo": {
+            "title": "LinkedIn quiere mejorar la experiencia del usuario en Yahoo...",
+            "snippet": "\u00bfNo ser\u00eda genial conocer un poco m\u00e1s sobre las personas a las que se les env\u00eda un correo electr\u00f3nico diariamente y as\u00ed la comunicaci\u00f3n pueda ser m\u00e1s productiva? LinkedIn lo sabe. A partir de ahora, los usuarios que sincronicen sus cuentas...",
+            "date": "2015-04-21",
+            "categories": "yahoo",
+            "tags": "usuarios,partir,personas,mejorar,edin",
+            "recuweb_url": "http://es.recuweb.com/yahoo/elcomercio.pe/2015/04/linkedin-quiere-mejorar-la-experiencia-del-usuario-en-yahoo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-quiere-mejorar-experiencia-usuario-yahoo-noticia-1805698"
+        },
+        "mba.americaeconomia.com/2015/04/fundadores-de-pixar-linkedin-y-shazam-se-dar%C3%A1n-cita": {
+            "title": "Fundadores de Pixar, LinkedIn y Shazam se dar\u00e1n cita en el... - Am\u00e9ricaEconom\u00ed...",
+            "snippet": "ADN Chile (Comunicado de prensa) (Registro)Fundadores de Pixar, LinkedIn y Shazam se dar\u00e1n cita en el...Am\u00e9ricaEconom\u00ed 24 y 25 de abril se desarrollar\u00e1 en Santiago de Chile una nueva versi\u00f3n del MeetLatam Santiago 2015, donde se presentar\u00e1n...",
+            "date": "2015-04-20",
+            "tags": "nueva,edin",
+            "recuweb_url": "http://es.recuweb.com/mba.americaeconomia.com/2015/04/fundadores-de-pixar-linkedin-y-shazam-se-dar%C3%A1n-cita",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
+            "source_url": "http://mba.americaeconomia.com/articulos/notas/fundadores-de-pixar-linkedin-y-shazam-se-daran-cita-en-el-meetlatam-2015"
+        },
+        "elcomercio.pe/2015/04/linkedin-nintendo-est%C3%A1-trabajando-en-una-nueva-consola-el-comercio": {
+            "title": "LinkedIn: \u00bfNintendo est\u00e1 trabajando en una nueva consola? - El Comercio...",
+            "snippet": "El ComercioLinkedIn: \u00bfNintendo est\u00e1 trabajando en una nueva consola?El ComercioAunque lo que puso Lu Yang en su perfil de LinkedIn, va m\u00e1s acorde con el trabajo desarrollado con anterioridad, el hecho que califique este proyecto como no anunciado...",
+            "date": "2015-04-20",
+            "tags": "trabajo,nueva,edin,perfil",
+            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-nintendo-est%C3%A1-trabajando-en-una-nueva-consola-el-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-nintendo-esta-trabajando-nueva-consola-noticia-1805451"
+        },
+        "equiposytalento.com/2015/04/linkedin-presenta-elevate-su-novedad-m%C3%A1s-reciente-para-compartir-contenido-corporativo": {
+            "title": "LinkedIn presenta Elevate, su novedad m\u00e1s reciente para compartir contenido corporativo...",
+            "snippet": "15/04/2015 LinkedIn, la red profesional m\u00e1s grande del mundo, con m\u00e1s de 347 millones de usuarios a nivel global y m\u00e1s de 6 millones en Espa\u00f1a, present\u00f3 esta semana su nuevo producto Elevate, una herramienta que ayuda a los empleados a...",
+            "date": "2015-04-17",
+            "tags": "herramienta,nuevo,millones,usuarios,mundo,reciente,compartir,edin,elevate,red,profesional",
+            "recuweb_url": "http://es.recuweb.com/equiposytalento.com/2015/04/linkedin-presenta-elevate-su-novedad-m%C3%A1s-reciente-para-compartir-contenido-corporativo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://equiposytalento.com/noticias/2015/04/15/linkedin-presenta-elevate-su-novedad-mas-reciente-para-compartir-contenido-corporativo"
         }
     }
 }

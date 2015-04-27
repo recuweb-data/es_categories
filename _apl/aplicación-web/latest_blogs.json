@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "aplicaci\u00f3n-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/aplicaci\u00f3n-web/",
@@ -10,63 +11,85 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/aplicaci%C3%B3n-web/aplicaci%C3%B3n-web/blogs.json"
     },
     "items": {
-        "elmundo.cr/2015/03/hacienda-lanza-aplicaci%C3%B3n-web-para-denunciar": {
-            "title": "Hacienda lanza aplicaci\u00f3n web para denunciar...",
-            "snippet": "San Jos\u00e9, 26 mar () El Ministerio de Hacienda puso a disposici\u00f3n una aplicaci\u00f3n web para que los costarricenses denuncien desde cualquier dispositivo las irregularidades tributarias con el fin de mejorar la...",
-            "date": "2015-03-26",
-            "author_name": "Luis Manuel Madrigal",
-            "tags": "cualquier,lanza,aplicaci\u00f3n,web,mar",
-            "recuweb_url": "http://es.recuweb.com/elmundo.cr/2015/03/hacienda-lanza-aplicaci%C3%B3n-web-para-denunciar",
+        "esemanal.mx/2015/04/radware-protege-contra-ataques-a-las-aplicaciones-web-esemanal": {
+            "title": "Radware protege contra ataques a las aplicaciones web eSemanal...",
+            "snippet": "El proveedor dio a conocer un servicio Web Application Firewall (WAF) basado en la nube y administrado, ofreciendo protecci\u00f3n contra los ciberataques provenientes de la web. Se trata de Hybrid Cloud WAF, que de...",
+            "date": "2015-04-22",
+            "author_name": "Redacci\u00f3n",
+            "tags": "trata,web,application,servicio,aplicaciones",
+            "recuweb_url": "http://es.recuweb.com/esemanal.mx/2015/04/radware-protege-contra-ataques-a-las-aplicaciones-web-esemanal",
             "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elmundo.cr/costarica/hacienda-lanza-aplicacion-web-para-denunciar-evasion-fiscal/"
+            "source_url": "http://esemanal.mx/2015/04/radware-protege-contra-ataques-a-las-aplicaciones-web/"
         },
-        "wwwhatsnew.com/2015/03/12-aplicaciones-web-herramientas-%C3%BAtiles-wwwhat-s-new": {
-            "title": "12 aplicaciones web, 12 herramientas \u00fatiles - WWWhat's new?",
-            "snippet": "Las aplicaciones web en la nube, te permiten usar herramientas \u00fatiles sin instalarlas en tu ordenador, independientemente del ordenador o sistema operativo que tengas. La idea es sencilla, entras en una p\u00e1gina web,...",
-            "date": "2015-03-23",
-            "author_name": "Andy Garcia",
-            "tags": "p\u00e1gina,sencilla,independientemente,ordenador,sistema,sistema-operativo,operativo,operativo-que-tengas,tengas,\u00fatiles,permiten,nube,aplicaciones,web,wwwhat,usar",
-            "recuweb_url": "http://es.recuweb.com/wwwhatsnew.com/2015/03/12-aplicaciones-web-herramientas-%C3%BAtiles-wwwhat-s-new",
+        "freelibros.org/2015/04/desarrollo-seguro-de-aplicaciones-web-ariel-ayala-montes": {
+            "title": "Desarrollo Seguro de Aplicaciones Web Ariel Ayala Montes...",
+            "snippet": "Con el actual crecimiento en el uso y en el consumo de servicios web, la seguridad se torna en un elemento de vital importancia a la hora de dise\u00f1ar las aplicaciones o sistemas web empresariales. Debido a la gran...",
+            "date": "2015-04-19",
+            "author_name": "Turraserdo",
+            "tags": "sistemas,seguridad,uso,aplicaciones,aplicaciones_web,web,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/freelibros.org/2015/04/desarrollo-seguro-de-aplicaciones-web-ariel-ayala-montes",
             "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/03/23/12-aplicaciones-web-12-herramientas-utiles/"
+            "source_url": "http://freelibros.org/programacion/desarrollo-seguro-de-aplicaciones-web-ariel-ayala-montes.html"
         },
-        "wwwhatsnew.com/2015/03/aplicaciones-en-la-nube-para-gestionar-archivos-wwwhat-s-new": {
-            "title": "Aplicaciones en la nube para gestionar archivos - WWWhat's new?",
-            "snippet": "Las aplicaciones web te permiten usar ciertas utilidades en la nube, sin necesidad de tener que instalar nada en tu ordenador, independientemente del sistema operativo que tengas. La siguiente lista de aplicaciones en la...",
-            "date": "2015-03-22",
-            "author_name": "Andy Garcia",
-            "tags": "independientemente,sistema,sistema-operativo,operativo,operativo-que-tengas,tengas,necesidad,tener,ordenador,nube,permiten,aplicaciones,wwwhat,web,usar,siguiente",
-            "recuweb_url": "http://es.recuweb.com/wwwhatsnew.com/2015/03/aplicaciones-en-la-nube-para-gestionar-archivos-wwwhat-s-new",
+        "blogthinkbig.com/2015/04/aplicaciones-web-para-editar-v%C3%ADdeo-desde-el-navegador-think-big": {
+            "title": "Aplicaciones web para editar v\u00eddeo desde el navegador - Think Big...",
+            "snippet": "Existen varias aplicaciones web con interfaces amigables donde puedes crear y editar v\u00eddeos, tu propio contenido interesante que podr\u00e1s exportar y subir a cualquier red social que te guste. editores de v\u00eddeo online.",
+            "date": "2015-04-17",
+            "author_name": "Gabriela Gonz\u00e1lez",
+            "categories": "red-social",
+            "tags": "contenido,red,red-social,social,puedes,aplicaciones,web,varias,crear,online",
+            "recuweb_url": "http://es.recuweb.com/red-social/blogthinkbig.com/2015/04/aplicaciones-web-para-editar-v%C3%ADdeo-desde-el-navegador-think-big",
             "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/03/22/aplicaciones-en-la-nube-para-gestionar-archivos/"
+            "source_url": "http://blogthinkbig.com/aplicaciones-web-editar-video/"
         },
-        "cve.es/2015/03/mf0493-3-implantacion-de-aplicaciones-web-en-entorno-internet": {
-            "title": "mf0493_3 implantacion de aplicaciones web en entorno internet...",
-            "snippet": "MF0493_3 IMPLANTACION DE APLICACIONES WEB EN ENTORNO. INTERNET, INTRANET Y EXTRANET. (IFCD0210: DESARROLLO DE APLICACIONES CON TECNOLOG\u00cdAS WEB). 90 HORAS PRESENCIALES.",
-            "date": "2015-03-22",
-            "author_name": "formacioncve",
-            "categories": "tecnologia,internet",
-            "tags": "desarrollo,aplicaciones,tecnolog\u00edas,web,aplicaciones_web,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/cve.es/2015/03/mf0493-3-implantacion-de-aplicaciones-web-en-entorno-internet",
+        "larepublica.pe/2015/04/owasp-proyecto-abierto-de-seguridad-aplicaciones-web": {
+            "title": "OWASP: Proyecto abierto de seguridad de aplicaciones web...",
+            "snippet": "OWASP (Open Web, Application Security Project) respaldada a nivel mundial organza un evento enfocado a dar visibilidad a la seguridad en las aplicaciones web y combatir las causas que hacen inseguro el software de las...",
+            "date": "2015-04-13",
+            "author_name": "Miguel Guerra Le\u00f3n",
+            "tags": "seguridad,application,web,aplicaciones",
+            "recuweb_url": "http://es.recuweb.com/larepublica.pe/2015/04/owasp-proyecto-abierto-de-seguridad-aplicaciones-web",
             "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cve.es/cve/mf0493_3-implantacion-de-aplicaciones-web-en-entorno-internet-intranet-y-extranet/"
+            "source_url": "http://larepublica.pe/blogs/huella-digital/2015/04/13/owasp-proyecto-abierto-de-seguridad-de-aplicaciones-web/"
         },
-        "wwwhatsnew.com/2015/03/lista-de-aplicaciones-web-multimedia-en-la-nube-wwwhat-s-new": {
-            "title": "Lista de aplicaciones web multimedia en la nube - WWWhat's new?",
-            "snippet": "Las aplicaciones web en la nube te permiten abrir cualquier navegador y entrar en una p\u00e1gina web para usar una aplicaci\u00f3n online, que no necesitas tener instalada en tu ordenador, sea del tipo que sea y tenga el sistema...",
-            "date": "2015-03-20",
-            "author_name": "Andy Garcia",
-            "tags": "sea,sistema,tener,ordenador,nube,permiten,cualquier,p\u00e1gina,aplicaciones,aplicaci\u00f3n,web,wwwhat,usar,online",
-            "recuweb_url": "http://es.recuweb.com/wwwhatsnew.com/2015/03/lista-de-aplicaciones-web-multimedia-en-la-nube-wwwhat-s-new",
+        "chicageek.com/2015/04/facebook-messenger-ya-tiene-su-propia-aplicaci%C3%B3n-web-chica-geek": {
+            "title": "Facebook Messenger ya tiene su propia aplicaci\u00f3n web - Chica Geek...",
+            "snippet": "Pero ahora hay una nueva manera de usar Facebook Messenger, y es con su aplicaci\u00f3n web que puedes acceder en. As\u00ed puedes usar los mensajes de Facebook sin tener que entrar en la red social, con un...",
+            "date": "2015-04-09",
+            "author_name": "chicageek",
+            "categories": "red-social,facebook",
+            "tags": "red,red-social,social,puedes,usar,acceder,ahora,hay,nueva,manera,tiene,facebook,facebook_messenger,messenger,propia,aplicaci\u00f3n,web",
+            "recuweb_url": "http://es.recuweb.com/facebook/chicageek.com/2015/04/facebook-messenger-ya-tiene-su-propia-aplicaci%C3%B3n-web-chica-geek",
+            "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://chicageek.com/facebook-messenger-tiene-propia-aplicacion-web-2384680"
+        },
+        "codigoespagueti.com/2015/04/facebook-messenger-ya-tiene-su-propia-aplicaci%C3%B3n-web": {
+            "title": "Facebook Messenger ya tiene su propia aplicaci\u00f3n web...",
+            "snippet": "A partir de ahora est\u00e1 disponible una aplicaci\u00f3n del chat especial para navegadores. Algunas veces puede resultar algo engorroso atender a tus contactos de Facebook Messenger directamente en la p\u00e1gina, especialmente...",
+            "date": "2015-04-08",
+            "author_name": "El Becario",
+            "categories": "facebook",
+            "tags": "ahora,tiene,facebook,facebook_messenger,messenger,propia,aplicaci\u00f3n,web,p\u00e1gina",
+            "recuweb_url": "http://es.recuweb.com/facebook/codigoespagueti.com/2015/04/facebook-messenger-ya-tiene-su-propia-aplicaci%C3%B3n-web",
+            "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://codigoespagueti.com/noticias/facebook-messenger-navegador/"
+        },
+        "noticiasdot.com/2015/04/10-aplicaciones-web-que-te-ahorrar%C3%A1n-espacio-en-el-ordenador": {
+            "title": "10 aplicaciones web que te ahorrar\u00e1n espacio en el ordenador...",
+            "snippet": "Estas 10 aplicaciones web no solo te permitir\u00e1n ahorrar espacio en tu ordenador y evitar instalar tantos programas, sino que tambi\u00e9n te har\u00e1n m\u00e1s f\u00e1ci...",
+            "date": "2015-04-05",
+            "author_name": "admin",
+            "tags": "instalar,aplicaciones,web",
+            "recuweb_url": "http://es.recuweb.com/noticiasdot.com/2015/04/10-aplicaciones-web-que-te-ahorrar%C3%A1n-espacio-en-el-ordenador",
             "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/03/20/lista-de-aplicaciones-web-multimedia-en-la-nube/"
+            "source_url": "http://noticiasdot.com/wp2/2015/04/05/10-aplicaciones-web-que-te-ahorrarn-espacio-en-el-ordenador/"
         },
         "omicrono.com/2015/03/los-mejores-atajos-de-teclado-para-aplicaciones-web-omicrono": {
             "title": "Los mejores atajos de teclado para aplicaciones web - Omicrono...",
             "snippet": "Un hecho desconocido para mucha gente es que las aplicaciones web tienen atajos de teclado, y lo mejor de todo, que en la inmensa mayor\u00eda de ellas los atajos coinciden entre ellas. Los atajos de teclado son unos de los...",
             "date": "2015-03-18",
             "author_name": "Fernando Benito",
-            "tags": "son,tienen,mejor,aplicaciones,web",
+            "tags": "mejores,aplicaciones,web,tienen,son",
             "recuweb_url": "http://es.recuweb.com/omicrono.com/2015/03/los-mejores-atajos-de-teclado-para-aplicaciones-web-omicrono",
             "resource_url": "http://www.google.com/search?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://omicrono.com/2015/03/los-mejores-atajos-de-teclado-para-aplicaciones-web/"
@@ -76,7 +99,7 @@
             "snippet": "La programaci\u00f3n web es un t\u00e9rmino adecuado para describir el proceso general que engloba el dise\u00f1o y la creaci\u00f3n de un sitio web. Hace algunos a\u00f1os, los sitios []...",
             "date": "2015-03-14",
             "author_name": "buqueextremo",
-            "tags": "sitios,sitio,proceso,dise\u00f1o,aplicaciones,web,programaci\u00f3n,creaci\u00f3n,hace,algunos",
+            "tags": "sitio,aplicaciones,web,programaci\u00f3n,creaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/ppazul171993.wordpress.com/2015/03/1-evoluci%C3%B3n-de-las-aplicaciones-web",
             "resource_url": "http://es.search.wordpress.com/?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&f=feed&page=1",
             "source_url": "http://ppazul171993.wordpress.com/unidad-6-servicios-web/"
@@ -86,31 +109,10 @@
             "snippet": "La arquitectura tradicional de cliente/servidor tami\u00e9n es conocida como arquitectura de dos capas. Requiere una interfaz de usuario que se instala y se ejecuta en una PC o...",
             "date": "2015-03-14",
             "author_name": "buqueextremo",
-            "tags": "instala,servidor,arquitectura,dos,aplicaciones,web",
+            "tags": "servidor,arquitectura,dos,aplicaciones,web",
             "recuweb_url": "http://es.recuweb.com/ppazul171993.wordpress.com/2015/03/1-2-arquitectura-de-las-aplicaciones-web",
             "resource_url": "http://es.search.wordpress.com/?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&f=feed&page=1",
             "source_url": "http://ppazul171993.wordpress.com/1-2-arquitectura-de-las-aplicaciones-web/"
-        },
-        "ppazul171993.wordpress.com/2015/03/1-3-tecnolog%C3%ADas-para-el-desarrollo-de-aplicaciones-web": {
-            "title": "1.3. Tecnolog\u00edas para el desarrollo de aplicaciones web.",
-            "snippet": "Para desarrollar una web, lo primero que necesitamos es un Sistema Operativo, como es l\u00f3gico, y su elecci\u00f3n no es tan trivial. Hay que tener en cuenta las []...",
-            "date": "2015-03-14",
-            "author_name": "buqueextremo",
-            "categories": "tecnologia",
-            "tags": "tener,sistema,operativo,desarrollo,tecnolog\u00edas,aplicaciones,web",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/ppazul171993.wordpress.com/2015/03/1-3-tecnolog%C3%ADas-para-el-desarrollo-de-aplicaciones-web",
-            "resource_url": "http://es.search.wordpress.com/?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&f=feed&page=1",
-            "source_url": "http://ppazul171993.wordpress.com/1-3-tecnologias-para-el-desarrollo-de-aplicaciones-web/"
-        },
-        "ppazul171993.wordpress.com/2015/03/1-4-planificaci%C3%B3n-de-aplicaciones-web": {
-            "title": "1.4. Planificaci\u00f3n de aplicaciones web.",
-            "snippet": "A menudo antes de empezar un proyecto no tenemos claro cu\u00e1l es el objetivo del mismo o qu\u00e9 pretendemos alcanzar por eso esta peque\u00f1a lista te puede ayudar...",
-            "date": "2015-03-14",
-            "author_name": "buqueextremo",
-            "tags": "puede,empezar,proyecto,tenemos,peque\u00f1a,aplicaciones,web",
-            "recuweb_url": "http://es.recuweb.com/ppazul171993.wordpress.com/2015/03/1-4-planificaci%C3%B3n-de-aplicaciones-web",
-            "resource_url": "http://es.search.wordpress.com/?q=aplicaci%C3%B3n%2Bweb%2Baplicaci%C3%B3n%2Bweb&f=feed&page=1",
-            "source_url": "http://ppazul171993.wordpress.com/1-4-planificacion-de-aplicaciones-web/"
         }
     }
 }

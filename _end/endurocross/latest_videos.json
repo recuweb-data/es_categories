@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "endurocross",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/endurocross/",
@@ -10,124 +11,125 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/blogs.json"
     },
     "items": {
-        "youtube.com/2015/01/camaro-enduro-cross-de-manuel-fernandez-final-campeonato-nacional-piques-2014": {
-            "title": "Camaro Enduro Cross de Manuel Fernandez - Final de Campeonato Nacional de Piques 2014...",
-            "snippet": "Camaro \"Enduro Cross\" de Manuel Fernandez - Final de Campeonato Nacional de Piques 2014 V\u00eddeo Cortes\u00eda de Miguel Angel Cardozo Gonzalez - Canal Youtube: MCVIDEO Drag Racing Videos Pista The Valley Dragway Sector La Pica Pica... From: ENLOSPIQUES...",
-            "date": "2015-01-27",
-            "author_name": "ENLOSPIQUES",
+        "youtube.com/2015/03/motolife-endurocross-nocturno-en-xela": {
+            "title": "MOTOLIFE: ENDUROCROSS NOCTURNO EN XELA...",
+            "snippet": "MOTOLIFE: ENDUROCROSS NOCTURNO EN XELA La primera fecha del Endurocross Nocturno se llevo acabo en la Avenida las Americas, Quetzaltenango, que conto con 178 participantes y tambien con el Campeon latinoamericano de Trial Diego... From: Views: 188 2...",
+            "date": "2015-03-24",
+            "author_name": "MotoLife.Tv",
             "categories": "endurocross",
-            "tags": "canal,enduro,enduro_cross,cross,campeonato,campeonato_nacional,nacional,final",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/01/camaro-enduro-cross-de-manuel-fernandez-final-campeonato-nacional-piques-2014",
+            "tags": "participantes,endurocross",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/03/motolife-endurocross-nocturno-en-xela",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=0wNAu7-fxH4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/0wNAu7-fxH4/0.jpg"
+            "source_url": "http://youtube.com/watch?v=g7hBz6q0Mw8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/g7hBz6q0Mw8/0.jpg"
+        },
+        "dailymotion.com/2015/03/final-mundial-de-superenduro-2015-en-francia": {
+            "title": "Final Mundial de SuperEnduro 2015 en Francia...",
+            "snippet": "Final Mundial de SuperEnduro 2015 en Francia, un video cortes\u00eda de: pasionporlavelocidadTags: Red Bull Endurocross Mundial de SuperEnduro SuperEnduro Posted: 16 March 2015Rating:: 0...",
+            "date": "2015-03-16",
+            "author_name": "pasionporlavelocidad",
+            "categories": "endurocross",
+            "tags": "endurocross,final",
+            "recuweb_url": "http://es.recuweb.com/endurocross/dailymotion.com/2015/03/final-mundial-de-superenduro-2015-en-francia",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/endurocross+endurocross/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2jp2yw_final-mundial-de-superenduro-2015-en-francia_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jp2yw_final-mundial-de-superenduro-2015-en-francia_sport"
+        },
+        "youtube.com/2015/02/enduro-cross-medell%C3%ADn-2014": {
+            "title": "ENDURO CROSS MEDELL\u00cdN 2014...",
+            "snippet": "ENDURO CROSS MEDELL\u00cdN 2014 Un fin de semana lleno de adrenalina en el Enduro Cross Medell\u00edn. Con tribunas llenas y algunos de los mejores corredores del mundo, la ciudad de la eterna primavera disfrut\u00f3 de un espect\u00e1culo... From: IMLA de Colombia...",
+            "date": "2015-02-25",
+            "author_name": "IMLA de Colombia",
+            "categories": "endurocross",
+            "tags": "ciudad,enduro,enduro_cross,cross",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/02/enduro-cross-medell%C3%ADn-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=P5G7KgYt6BM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/P5G7KgYt6BM/0.jpg"
+        },
+        "youtube.com/2015/02/campeonato-de-enduro-cross-se-llevara-a-cabo-en-nuestra-ciudad": {
+            "title": "CAMPEONATO DE ENDURO CROSS: SE LLEVARA A CABO EN NUESTRA CIUDAD. EL CERTAMEN PROVINCIAL DE VERANO.",
+            "snippet": "CAMPEONATO DE ENDURO CROSS: SE LLEVARA A CABO EN NUESTRA CIUDAD. EL CERTAMEN PROVINCIAL DE VERANO. From: QuatroTV Rio Cuarto Views: 30 0 ratings Time: 01:54 More in News & Politics...",
+            "date": "2015-02-20",
+            "author_name": "QuatroTV Rio Cuarto",
+            "categories": "endurocross",
+            "tags": "ciudad,enduro,enduro_cross,cross,politics",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/02/campeonato-de-enduro-cross-se-llevara-a-cabo-en-nuestra-ciudad",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=6ZTIC_qJtXo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/6ZTIC_qJtXo/0.jpg"
         },
         "youtube.com/2015/01/endurocross-redbull-camino-de-los-nevados": {
             "title": "Endurocross Redbull Camino de los Nevados...",
-            "snippet": "Endurocross Redbull Camino de los Nevados Invitaci\u00f3n de participantes Endurocross Redbull Camino de los Nevados en la Feria de Manizales 2015. From: La Patria Editorial Views: 634 1 ratings Time: 01:48 More in News & Politics...",
+            "snippet": "Endurocross Redbull Camino de los Nevados Invitaci\u00f3n de participantes Endurocross Redbull Camino de los Nevados en la Feria de Manizales 2015. From: La Patria Editorial Views: 654 1 ratings Time: 01:48 More in News & Politics...",
             "date": "2015-01-07",
             "author_name": "La Patria Editorial",
             "categories": "endurocross",
-            "tags": "endurocross",
+            "tags": "participantes,endurocross,politics",
             "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/01/endurocross-redbull-camino-de-los-nevados",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=J6YtESXmaKo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/J6YtESXmaKo/0.jpg"
         },
-        "youtube.com/2014/12/enduro-cross-rieju-rr-50-cc-circuito-casero": {
-            "title": "enduro/cross-rieju rr 50 cc - circuito casero...",
-            "snippet": "enduro/cross-rieju rr 50 cc - circuito casero mi hermano rodrigorieju andando en moto. From: nachoRF66 Views: 100 2 ratings Time: 01:36 More in People & Blogs...",
-            "date": "2014-12-27",
-            "author_name": "nachoRF66",
-            "tags": "moto,enduro,cross,people",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/12/enduro-cross-rieju-rr-50-cc-circuito-casero",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=rK9gbZMO8yw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rK9gbZMO8yw/0.jpg"
-        },
-        "youtube.com/2014/11/endurocross-patate-y-motocross-quero-2014-hd": {
-            "title": "Endurocross Patate y Motocross Quero 2014 HD...",
-            "snippet": "Endurocross Patate y Motocross Quero 2014 HD Canal de deportes extremos, Rally, Downhill, Motocross, Bmx, Skate, Parapente, Jumping, Canopy, Salto Base, Puenting, Canioning, Autocross, etc. From: Adrenalina Ambato Views: 1331 4 ratings Time: 10:02...",
-            "date": "2014-11-07",
-            "author_name": "Adrenalina Ambato",
-            "categories": "motocross,endurocross,rally,parapente",
-            "tags": "canal,deportes,endurocross",
-            "recuweb_url": "http://es.recuweb.com/parapente/youtube.com/2014/11/endurocross-patate-y-motocross-quero-2014-hd",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=iObYN6bUcpo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/iObYN6bUcpo/0.jpg"
-        },
-        "youtube.com/2014/11/entrevista-promo-endurocross": {
-            "title": "entrevista promo endurocross...",
-            "snippet": "entrevista promo endurocross este domingo para Corozal. From: Solo 4x4 offroad Views: 469 6 ratings Time: 02:30 More in People & Blogs...",
-            "date": "2014-11-04",
-            "author_name": "Solo 4x4 offroad",
+        "youtube.com/2014/11/endurocross-prg-mx-punta-verde-luis-beltran": {
+            "title": "ENDUROCROSS PRG MX PUNTA VERDE LUIS BELTRAN...",
+            "snippet": "ENDUROCROSS PRG MX PUNTA VERDE LUIS BELTRAN From: endurocrosstv Views: 323 3 ratings Time: 27:27 More in Sports...",
+            "date": "2014-11-14",
+            "author_name": "endurocrosstv",
             "categories": "endurocross",
-            "tags": "endurocross,people",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/11/entrevista-promo-endurocross",
+            "tags": "endurocross,endurocrosstv,sports",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/11/endurocross-prg-mx-punta-verde-luis-beltran",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=1PKQjNRElMk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/1PKQjNRElMk/0.jpg"
+            "source_url": "http://youtube.com/watch?v=3xA00RJCs8M&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3xA00RJCs8M/0.jpg"
         },
         "youtube.com/2014/11/endurocross-ape-piedra-del-aguila-ii-parte": {
             "title": "ENDUROCROSS APE PIEDRA DEL AGUILA II PARTE...",
-            "snippet": "ENDUROCROSS APE PIEDRA DEL AGUILA II PARTE From: endurocrosstv Views: 246 0 ratings Time: 28:29 More in Sports...",
+            "snippet": "ENDUROCROSS APE PIEDRA DEL AGUILA II PARTE From: endurocrosstv Views: 263 0 ratings Time: 28:29 More in Sports...",
             "date": "2014-11-01",
             "author_name": "endurocrosstv",
             "categories": "endurocross",
-            "tags": "endurocross",
+            "tags": "endurocross,endurocross_ape,endurocross_ape_piedra,ape,ape_piedra,piedra,piedra_del_aguila,aguila,parte,endurocrosstv,sports",
             "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/11/endurocross-ape-piedra-del-aguila-ii-parte",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=GS6VID8UVZo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/GS6VID8UVZo/0.jpg"
         },
-        "youtube.com/2014/10/yarabamba-enduro-cross-2014-arequipa": {
-            "title": "Yarabamba Enduro Cross 2014 (Arequipa)...",
-            "snippet": "Yarabamba Enduro Cross 2014 (Arequipa) Im\u00e1genes de la Final del Campeonato Nacional de Enduro Cross 2014, Organizado por Moto Test Per\u00fa.. From: TODOMOTORPERU Views: 1921 8 ratings Time: 10:13 More in Autos & Vehicles...",
-            "date": "2014-10-15",
-            "author_name": "TODOMOTORPERU",
+        "youtube.com/2014/10/endurocross-ape-piedra-del-aguila-i-parte": {
+            "title": "ENDUROCROSS APE PIEDRA DEL AGUILA I PARTE...",
+            "snippet": "ENDUROCROSS APE PIEDRA DEL AGUILA I PARTE From: endurocrosstv Views: 138 0 ratings Time: 27:40 More in Sports...",
+            "date": "2014-10-25",
+            "author_name": "endurocrosstv",
             "categories": "endurocross",
-            "tags": "moto,enduro,enduro_cross,cross,campeonato,campeonato_nacional,nacional,final",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/10/yarabamba-enduro-cross-2014-arequipa",
+            "tags": "endurocross,endurocross_ape,endurocross_ape_piedra,ape,ape_piedra,piedra,piedra_del_aguila,aguila,parte,endurocrosstv,sports",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/10/endurocross-ape-piedra-del-aguila-i-parte",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=2BwepUsH_fM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2BwepUsH_fM/0.jpg"
+            "source_url": "http://youtube.com/watch?v=jkdQwwfhUVU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jkdQwwfhUVU/0.jpg"
         },
-        "youtube.com/2014/09/endurocross-internacional-30-agosto-de-2014": {
-            "title": "Endurocross Internacional - 30 Agosto de 2014...",
-            "snippet": "Endurocross Internacional - 30 Agosto de 2014 Los mejores pilotos del mundo se dan cita en el Internacional de Endurocross Medell\u00edn 2014. Transmisi\u00f3n de Teleantioquia Deportes. Hora: 3:00 p.m. Fecha: Ago... From: Teleantioquia Deportes Views: 102...",
-            "date": "2014-09-24",
-            "author_name": "Teleantioquia Deportes",
+        "youtube.com/2014/09/endurocross-ape-cerro-azul-ii-parte": {
+            "title": "ENDUROCROSS APE CERRO AZUL II PARTE...",
+            "snippet": "ENDUROCROSS APE CERRO AZUL II PARTE From: endurocrosstv Views: 399 2 ratings Time: 27:40 More in Sports...",
+            "date": "2014-09-19",
+            "author_name": "endurocrosstv",
             "categories": "endurocross",
-            "tags": "deportes,endurocross,endurocross_medell\u00edn,medell\u00edn,pilotos",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/endurocross-internacional-30-agosto-de-2014",
+            "tags": "endurocross,endurocross_ape,ape,parte,endurocrosstv,sports",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/endurocross-ape-cerro-azul-ii-parte",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=p9QpjpChi7Q&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/p9QpjpChi7Q/0.jpg"
+            "source_url": "http://youtube.com/watch?v=tjC_nq5N0nw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tjC_nq5N0nw/0.jpg"
         },
-        "youtube.com/2014/09/vive-el-endurocross-medell%C3%ADn-como-un-piloto": {
-            "title": "\u00a1Vive el Endurocross Medell\u00edn como un piloto!",
-            "snippet": "\u00a1Vive el Endurocross Medell\u00edn como un piloto! En este video grabado con una GoPro en plena competencia se registra la carrera desde la perspectiva de uno de los pilotos. \u00a1El evento m\u00e1s extremo de Colombi... From: IMLA de Colombia Views: 631 1...",
-            "date": "2014-09-03",
-            "author_name": "IMLA de Colombia",
+        "youtube.com/2014/09/carrera-final-e3-endurocross-medellin-2014": {
+            "title": "Carrera Final E3 EnduroCross Medellin 2014...",
+            "snippet": "Carrera Final E3 EnduroCross Medellin 2014 From: Michael Freydell Views: 197 2 ratings Time: 06:26 More in People & Blogs...",
+            "date": "2014-09-04",
+            "author_name": "Michael Freydell",
             "categories": "endurocross",
-            "tags": "pilotos,endurocross,endurocross_medell\u00edn,medell\u00edn",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/vive-el-endurocross-medell%C3%ADn-como-un-piloto",
+            "tags": "endurocross,final",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/carrera-final-e3-endurocross-medellin-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=u3to8774DC4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/u3to8774DC4/0.jpg"
-        },
-        "youtube.com/2014/08/esta-tarde-comenz%C3%B3-el-endurocross-medell%C3%ADn-noticias-telemedellin": {
-            "title": "Esta tarde comenz\u00f3 el EnduroCross Medell\u00edn Noticias - TeleMedellin...",
-            "snippet": "Esta tarde comenz\u00f3 el EnduroCross Medell\u00edn Noticias - TeleMedellin El motociclismo se toma desde esta tarde el Coliseo Iv\u00e1n de Bedout, porque el EnduroCross llega con todo su show para deleitar a los antioque\u00f1os. Suscribete... From:...",
-            "date": "2014-08-29",
-            "author_name": "Telemedell\u00edn Aqu\u00ed te ves",
-            "categories": "motociclismo,endurocross",
-            "tags": "endurocross,endurocross_medell\u00edn,medell\u00edn",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/08/esta-tarde-comenz%C3%B3-el-endurocross-medell%C3%ADn-noticias-telemedellin",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=7tSRMZeiqq8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/7tSRMZeiqq8/0.jpg"
+            "source_url": "http://youtube.com/watch?v=vPXC9EC74lM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/vPXC9EC74lM/0.jpg"
         }
     }
 }

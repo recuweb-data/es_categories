@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "maraton",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/maraton/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/maraton/maraton/blogs.json"
     },
     "items": {
-        "biobiochile.cl/2015/04/c%C3%B3mo-debes-alimentarte-antes-de-correr-una-marat%C3%B3n-radio-b%C3%ADo": {
-            "title": "C\u00f3mo debes alimentarte antes de correr una marat\u00f3n - Radio B\u00edo-B\u00edo...",
-            "snippet": "Radio B\u00edo-B\u00edoC\u00f3mo debes alimentarte antes de correr una marat\u00f3nRadio B\u00edo-B\u00edoEste 12 de abril se espera la gran fiesta deportiva del running en Chile, con una nueva versi\u00f3n de la Marat\u00f3n Internacional de Santiago. Con los cupos ya agotados...",
-            "date": "2015-04-06",
-            "categories": "maraton,radio",
-            "tags": "marat\u00f3n,abril,gran,correr,chile,santiago",
-            "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/c%C3%B3mo-debes-alimentarte-antes-de-correr-una-marat%C3%B3n-radio-b%C3%ADo",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
-            "source_url": "http://biobiochile.cl/2015/04/06/como-debes-alimentarte-antes-de-correr-una-maraton.shtml"
-        },
-        "es.euronews.com/2015/04/el-marat%C3%B3n-de-las-arenas-cumple-30": {
-            "title": "El Marat\u00f3n de las Arenas cumple 30 a\u00f1os...",
-            "snippet": "Arranc\u00f3 en Marruecos la trig\u00e9sima edici\u00f3n del Marat\u00f3n de las Arenas. Una impresionante carrera de seis d\u00edas de duraci\u00f3n en la que este a\u00f1o participan cerca de 1400 corredores de m\u00e1s de 50 pa\u00edses. Rachid El Morabiti, ganador en 2011 y en...",
-            "date": "2015-04-06",
+        "noticias24.com/2015/04/el-marat%C3%B3n-de-londres-es-un-negocio-redondo-para-la-ciudad": {
+            "title": "El marat\u00f3n de Londres es un negocio redondo para la ciudad - Noticias24...",
+            "snippet": "Noticias24El marat\u00f3n de Londres es un negocio redondo para la ciudadNoticias24(Caracas, 24 de abril de 2015. Noticias24).- Son casi 100 millones de euros que aportan unos 50 mil participantes y los 750 mil espectadores que disfrutan de la...",
+            "date": "2015-04-25",
             "categories": "maraton",
-            "tags": "d\u00edas,edici\u00f3n,marat\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/es.euronews.com/2015/04/el-marat%C3%B3n-de-las-arenas-cumple-30",
+            "tags": "espectadores,participantes,millones,millones-de-euros,euros,abril,negocio,negocio-redondo,redondo,ciudad,marat\u00f3n,londres,noticias,caracas,son",
+            "recuweb_url": "http://es.recuweb.com/maraton/noticias24.com/2015/04/el-marat%C3%B3n-de-londres-es-un-negocio-redondo-para-la-ciudad",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
+            "source_url": "http://noticias24.com/internacionales/noticia/101535/el-maraton-de-londres-es-un-negocio-redondo-para-la-ciudad/"
+        },
+        "almomento.mx/2015/04/inauguran-el-xiii-marat%C3%B3n-de-lectura-don-quijote-la-mancha-al": {
+            "title": "Inauguran el XIII marat\u00f3n de lectura de Don Quijote de la Mancha - Al Momento Noticias...",
+            "snippet": "Al Momento NoticiasInauguran el XIII marat\u00f3n de lectura de Don Quijote de la ManchaAl Momento Noticiasquijote CIUDAD DE M\u00c9XICO, 24 Abril (Al Momento Noticias) En el marco del D\u00eda Mundial del Libro, el embajador de Espa\u00f1a en M\u00e9xico Luis...",
+            "date": "2015-04-25",
+            "categories": "maraton",
+            "tags": "d\u00eda,mundial,momento,ciudad,noticias,marat\u00f3n,abril",
+            "recuweb_url": "http://es.recuweb.com/maraton/almomento.mx/2015/04/inauguran-el-xiii-marat%C3%B3n-de-lectura-don-quijote-la-mancha-al",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
+            "source_url": "http://almomento.mx/inauguran-el-xiii-maraton-de-lectura-de-don-quijote-de-la-mancha/"
+        },
+        "metropoli.com/2015/04/el-marat%C3%B3n-de-madrid-en-8-puntos": {
+            "title": "El Marat\u00f3n de Madrid en 8 puntos...",
+            "snippet": "El running est\u00e1 de fiesta ma\u00f1ana domingo 26 de abril, una ciudad que ver\u00e1 a decenas de miles de corredores pasar por rincones tan emblem\u00e1ticos de la ciudad como el Paseo de la Castellana, la Gran v\u00eda, la calle Mayor, la Casa de Campo o el Paseo...",
+            "date": "2015-04-24",
+            "categories": "maraton",
+            "tags": "ciudad,corredores,abril,marat\u00f3n,madrid,fiesta,ma\u00f1ana,domingo,gran",
+            "recuweb_url": "http://es.recuweb.com/maraton/metropoli.com/2015/04/el-marat%C3%B3n-de-madrid-en-8-puntos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://es.euronews.com/2015/04/05/el-maraton-de-las-arenas-cumple-30-anos/"
+            "source_url": "http://metropoli.com/salir/2015/04/24/553a2383e2704e2b398b4583.html"
         },
-        "lanacion.cl/2015/04/marat%C3%B3n-de-santiago-cuidado-con-el-exceso-entrenamiento-la-naci%C3%B3n-chile": {
-            "title": "Marat\u00f3n de Santiago: \u00a1Cuidado con el exceso de entrenamiento! - La Naci\u00f3n (Chile)...",
-            "snippet": "La Naci\u00f3n (Chile)Marat\u00f3n de Santiago: \u00a1Cuidado con el exceso de entrenamiento!La Naci\u00f3n (Chile)Se acerca la fecha de la Marat\u00f3n de Santiago y muchos deportistas entrenan por estos d\u00edas, porque quieren tener un papel destacado en el evento que...",
-            "date": "2015-04-06",
+        "elmundo.es/2015/04/el-marat%C3%B3n-bate-r%C3%A9cord-de-mujeres-participantes": {
+            "title": "El marat\u00f3n bate el r\u00e9cord de mujeres participantes...",
+            "snippet": "El Marat\u00f3n de Madrid ha logrado batir su r\u00e9cord de participantes inscritos. Ser\u00e1n los que tomar\u00e1n la salida ma\u00f1ana domingo de ellos un 11%mujeres. En la prueba de la Media Marat\u00f3n habr\u00e1 corredores, de ellos un 33% ser\u00e1n mujeres y en la...",
+            "date": "2015-04-24",
             "categories": "maraton",
-            "tags": "d\u00edas,fecha,marat\u00f3n,santiago,chile",
-            "recuweb_url": "http://es.recuweb.com/maraton/lanacion.cl/2015/04/marat%C3%B3n-de-santiago-cuidado-con-el-exceso-entrenamiento-la-naci%C3%B3n-chile",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
-            "source_url": "http://lanacion.cl/noticias/vida-y-estilo/salud/maraton-de-santiago-cuidado-con-el-exceso-de-entrenamiento/2015-04-02/173652.html"
-        },
-        "larazonsanluis.com/2015/04/recuerdan-inicios-del-medio-marat%C3%B3n-venado-charcas-con-la-raz%C3%B3n": {
-            "title": "Recuerdan inicios del Medio Marat\u00f3n Venado-Charcas, con... - La Raz\u00f3n...",
-            "snippet": "Recuerdan inicios del Medio Marat\u00f3n Venado-Charcas, con...La Raz\u00f3nUno de los atractivos que estuvo llamando la atenci\u00f3n entre atletas, visitantes y poblaci\u00f3n en general, fue que durante el desarrollo de los eventos deportivos del pasado s\u00e1bado...",
-            "date": "2015-04-06",
-            "categories": "maraton",
-            "tags": "medio,medio_marat\u00f3n,marat\u00f3n,raz\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/larazonsanluis.com/2015/04/recuerdan-inicios-del-medio-marat%C3%B3n-venado-charcas-con-la-raz%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
-            "source_url": "http://larazonsanluis.com/index.php/component/k2/item/72813-recuerdan-inicios-del-medio-maraton-venado-charcas-con-fotografias"
-        },
-        "en-cuba.com/2015/04/altimetr%C3%ADa-de-la-marat%C3%B3n-chicago-es-lo-que-m%C3%A1s-atrae": {
-            "title": "Altimetr\u00eda de la Marat\u00f3n de Chicago es lo que m\u00e1s atrae a los... - en...",
-            "snippet": "en \u00eda de la Marat\u00f3n de Chicago es lo que m\u00e1s atrae a los...en solo 33 cent\u00edmetros de diferencia en la altimetr\u00eda del recorrido es la raz\u00f3n m\u00e1s importante por la que los ticos prefieren la Marat\u00f3n de Chicago. V\u00edctor L\u00f3pez, empresario que...",
-            "date": "2015-04-05",
-            "categories": "maraton",
-            "tags": "recorrido,raz\u00f3n,importante,marat\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/en-cuba.com/2015/04/altimetr%C3%ADa-de-la-marat%C3%B3n-chicago-es-lo-que-m%C3%A1s-atrae",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
-            "source_url": "http://en-cuba.com/altimetria-de-la-maraton-de-chicago-es-lo-que-mas-atrae-a-los-fondistas-ticos-12192.html"
-        },
-        "abc.es/2015/04/david-mag%C3%A1n-y-ninfa-quevedo-ganan-la-media-marat%C3%B3n-de-toledo": {
-            "title": "David Mag\u00e1n y Ninfa Quevedo ganan la Media Marat\u00f3n de Toledo...",
-            "snippet": "En una ma\u00f1ana soleada, con muchos animadores en el recorrido y con algo menos de participaci\u00f3n que en a\u00f1os anteriores debido quiz\u00e1s a la fecha a\u00fan de Semana Santa, se disputaron en la matinal de ayer el XXXII Medio Marat\u00f3n y los 10 Kil\u00f3metros...",
-            "date": "2015-04-05",
-            "categories": "maraton",
-            "tags": "medio,medio_marat\u00f3n,marat\u00f3n,ayer,santa,recorrido,fecha,toledo",
-            "recuweb_url": "http://es.recuweb.com/maraton/abc.es/2015/04/david-mag%C3%A1n-y-ninfa-quevedo-ganan-la-media-marat%C3%B3n-de-toledo",
+            "tags": "corredores,marat\u00f3n,prueba,ma\u00f1ana,participantes,inscritos,r\u00e9cord,madrid,domingo",
+            "recuweb_url": "http://es.recuweb.com/maraton/elmundo.es/2015/04/el-marat%C3%B3n-bate-r%C3%A9cord-de-mujeres-participantes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://abc.es/toledo/20150406/abcp-david-magan-ninfa-quevedo-20150406.html"
+            "source_url": "http://elmundo.es/madrid/2015/04/24/553a97f0268e3e566e8b456b.html"
         },
-        "cines.com/2015/04/el-marat%C3%B3n-marvel-definitivo-un-sue%C3%B1o-al-alcance-de-unos-pocos": {
-            "title": "El Marat\u00f3n Marvel Definitivo: un sue\u00f1o al alcance de unos pocos...",
-            "snippet": "El Marat\u00f3n Marvel Definitivo: un sue\u00f1o al alcance de unos pocos valientes con suerte. \u00bfQuieres disfrutar de las mejores 29 horas de tu vida? No te ser\u00e1 f\u00e1cil sin cruzar el charco. El Teatro El Capit\u00e1n en la ciudad de Los \u00c1ngeles prepara la...",
-            "date": "2015-04-05",
+        "expansion.com/2015/04/el-marat%C3%B3n-un-negocio-redondo-para-londres": {
+            "title": "El marat\u00f3n, un negocio redondo para Londres...",
+            "snippet": "La carrera aporta a las arcas de la ciudad unos 100 millones de euros, gracias a los m\u00e1s de participantes y a los 7 espectadores que disfrutar\u00e1n de la competici\u00f3n en las calles. El Gobernador del Banco de Inglaterra y el CEO de Barclays...",
+            "date": "2015-04-24",
             "categories": "maraton",
-            "tags": "ciudad,marat\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/cines.com/2015/04/el-marat%C3%B3n-marvel-definitivo-un-sue%C3%B1o-al-alcance-de-unos-pocos",
+            "tags": "espectadores,participantes,millones,millones-de-euros,euros,carrera,ciudad,negocio,negocio-redondo,redondo,marat\u00f3n,londres",
+            "recuweb_url": "http://es.recuweb.com/maraton/expansion.com/2015/04/el-marat%C3%B3n-un-negocio-redondo-para-londres",
             "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://cines.com/noticias/maraton-marvel-definitivo-0604/"
+            "source_url": "http://expansion.com/sociedad/2015/04/24/553a932ae2704e2b2b8b4577.html"
         },
-        "cooperativa.cl/2015/04/el-calendario-de-actividades-del-marat%C3%B3n-santiago-y-la-expo": {
-            "title": "El calendario de actividades del Marat\u00f3n de Santiago y la Expo... -...",
-            "snippet": "calendario de actividades del Marat\u00f3n de Santiago y la Expo... est\u00e1 el medio marat\u00f3n (metros), distancia certificada por la Federaci\u00f3n de Atletismo de Chile. Finalmetne est\u00e1 el marat\u00f3n oficial (metros), distancia aprobaba por la Fedachi y la...",
-            "date": "2015-04-05",
-            "categories": "maraton,atletismo",
-            "tags": "medio,marat\u00f3n,santiago,chile",
-            "recuweb_url": "http://es.recuweb.com/atletismo/cooperativa.cl/2015/04/el-calendario-de-actividades-del-marat%C3%B3n-santiago-y-la-expo",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
-            "source_url": "http://cooperativa.cl/noticias/deportes/atletismo/maraton/el-calendario-de-actividades-del-maraton-de-santiago-y-la-expo-running/2015-04-05/125332.html"
+        "eluniversal.com/2015/04/este-domingo-el-tr%C3%A1nsito-en-caracas-estar%C3%A1-limitado-por-marat%C3%B3n-universal": {
+            "title": "Este domingo el tr\u00e1nsito en Caracas estar\u00e1 limitado por el Marat\u00f3n... - El Universal (Venezuela)...",
+            "snippet": "El Universal (Venezuela)Este domingo el tr\u00e1nsito en Caracas estar\u00e1 limitado por el Marat\u00f3n...El Universal (Venezuela)Un total de corredores est\u00e1n inscritos en los 42 kil\u00f3metros (42K), y en los 21 kil\u00f3metros (21K) o media marat\u00f3n y...",
+            "date": "2015-04-24",
+            "categories": "maraton",
+            "tags": "corredores,inscritos,domingo,caracas,marat\u00f3n,kil\u00f3metros",
+            "recuweb_url": "http://es.recuweb.com/maraton/eluniversal.com/2015/04/este-domingo-el-tr%C3%A1nsito-en-caracas-estar%C3%A1-limitado-por-marat%C3%B3n-universal",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
+            "source_url": "http://eluniversal.com/caracas/150424/este-domingo-el-transito-en-caracas-estara-limitado-por-el-maraton-caf"
         },
-        "abc.es/2015/04/labrador-promete-una-marat%C3%B3n": {
-            "title": "Labrador promete una marat\u00f3n...",
-            "snippet": "Toledo merece ser referente en el mundo del deporte. La ciudad contar\u00e1 con una marat\u00f3n. Es el tuit que ayer public\u00f3 Jes\u00fas Labrador, actual Delegado del Gobierno en Castilla-La Mancha y candidato del PP a la Alcald\u00eda de Toledo. Lo hizo despu\u00e9s...",
-            "date": "2015-04-05",
-            "categories": "deporte,maraton",
-            "tags": "ayer,ciudad,deporte,marat\u00f3n,toledo",
-            "recuweb_url": "http://es.recuweb.com/maraton/abc.es/2015/04/labrador-promete-una-marat%C3%B3n",
+        "masdeporte.as.com/2015/04/javi-guerra-en-londres-qu%C3%A9-la-marat%C3%B3n-me-diga": {
+            "title": "Javi Guerra, en Londres: Qu\u00e9 la marat\u00f3n me diga lo que valgo...",
+            "snippet": "Con 31 a\u00f1os, Javi Guerra se considera en la madurez para correr la marat\u00f3n. Estoy viviendo un gran momento y ya voy conociendo mejor tanto la prueba como la preparaci\u00f3n. Me he dado cuenta de que es importante escuchar al cuerpo, cuenta el...",
+            "date": "2015-04-24",
+            "categories": "maraton",
+            "tags": "gran,momento,prueba,londres,marat\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/maraton/masdeporte.as.com/2015/04/javi-guerra-en-londres-qu%C3%A9-la-marat%C3%B3n-me-diga",
             "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://abc.es/toledo/20150406/abcp-labrador-promete-maraton-20150406.html"
+            "source_url": "http://masdeporte.as.com/masdeporte/2015/04/24/atletismo/1429901079_672565.html"
         },
-        "rpp.com.pe/2015/04/marat%C3%B3n-8k-dio-inicio-a-actividades-por-aniversario-de-chiclayo-rpp": {
-            "title": "Marat\u00f3n 8k dio inicio a actividades por aniversario de Chiclayo - RPP Noticias...",
-            "snippet": "RPP NoticiasMarat\u00f3n 8k dio inicio a actividades por aniversario de ChiclayoRPP NoticiasM\u00e1s de 200 competidores participaron en la gran marat\u00f3n 8K que organiz\u00f3 el municipio de Chiclayo y el Instituto Peruano del Deporte (IPD), en el marco del...",
-            "date": "2015-04-05",
+        "elmundo.es/2015/04/los-h%C3%A9roes-del-marat%C3%B3n": {
+            "title": "Los h\u00e9roes del marat\u00f3n...",
+            "snippet": "Isabel tiene 20 meses. No habla. No entiende la palabra leucemia. Ni mucho menos mielobl\u00e1stica. El mundo le es indulgente y sencillo: hay parques, mu\u00f1ecas, besos. Y no recuerda -porque vive en la amnesia infantil previa a los tres a\u00f1os- que Dani,...",
+            "date": "2015-04-24",
+            "categories": "maraton",
+            "tags": "tres,mundo,menos,marat\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/maraton/elmundo.es/2015/04/los-h%C3%A9roes-del-marat%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/madrid/2015/04/25/553aca0b22601d965a8b457d.html"
+        },
+        "es.paperblog.com/2015/04/media-maraton-de-gijon-villa-jovellanos-dorsales-feria-del-corredor-e": {
+            "title": "MEDIA MARATON DE GIJON VILLA DE JOVELLANOS, dorsales, feria del corredor e informaci\u00f3n de \u00faltima...",
+            "snippet": "Como ya sab\u00e9is muchos de vosotros, el pr\u00f3ximo s\u00e1bado a las 18:00 horas se celebrar\u00e1 una nueva edici\u00f3n de la Media Marat\u00f3n de Gij\u00f3n Villa de Jovellanos. A falta de menos de 48 horas para la prueba, a continuaci\u00f3n os dejo algo de...",
+            "date": "2015-04-24",
+            "categories": "maraton",
+            "tags": "prueba,menos,marat\u00f3n,edici\u00f3n,pr\u00f3ximo",
+            "recuweb_url": "http://es.recuweb.com/maraton/es.paperblog.com/2015/04/media-maraton-de-gijon-villa-jovellanos-dorsales-feria-del-corredor-e",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/media-maraton-de-gijon-villa-de-jovellanos-dorsales-feria-del-corredor-e-informacion-de-ultima-hora-3175743/"
+        },
+        "m.informe21.com/2015/04/marat%C3%B3n-caf-ser%C3%A1-clasificatorio-a-los-juegos-ol%C3%ADmpicos-r%C3%ADo-2016": {
+            "title": "Marat\u00f3n CAF ser\u00e1 clasificatorio a los Juegos Ol\u00edmpicos R\u00edo 2016...",
+            "snippet": "La cuarta edici\u00f3n del Marat\u00f3n CAF-Caracas, a realizarse el pr\u00f3ximo domingo 26 de abril, ser\u00e1 clasificatorio a los Juegos Ol\u00edmpicos R\u00edo de Janeiro 2016, refiere nota de prensa del Ministerio del Poder Popular para la Juventud y el Deporte. Esta...",
+            "date": "2015-04-24",
             "categories": "maraton,deporte",
-            "tags": "gran,noticias,marat\u00f3n,deporte",
-            "recuweb_url": "http://es.recuweb.com/deporte/rpp.com.pe/2015/04/marat%C3%B3n-8k-dio-inicio-a-actividades-por-aniversario-de-chiclayo-rpp",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
-            "source_url": "http://rpp.com.pe/2015-04-05-maraton-8k-dio-inicio-a-actividades-por-aniversario-de-chiclayo-noticia_784511.html"
+            "tags": "prensa,abril,pr\u00f3ximo,edici\u00f3n,juegos,ol\u00edmpicos,marat\u00f3n,marat\u00f3n_caf,caf,ser\u00e1,caracas,domingo",
+            "recuweb_url": "http://es.recuweb.com/deporte/m.informe21.com/2015/04/marat%C3%B3n-caf-ser%C3%A1-clasificatorio-a-los-juegos-ol%C3%ADmpicos-r%C3%ADo-2016",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
+            "source_url": "http://m.informe21.com/deportes/maraton-caf-sera-clasificatorio-a-los-juegos-olimpicos-rio-2016"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bbpress",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bbpress/",
@@ -16,7 +17,7 @@
             "date": "2015-02-19",
             "author_name": "C\u00e9sar Jefferson Aquino Maximiliano",
             "categories": "bbpress,wordpress",
-            "tags": "plugin,bien,estoy,espa\u00f1ol,bbpress,wordpress",
+            "tags": "plugin,instalaci\u00f3n,primera,usando,bbpress,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/jovenred.com/2015/02/traducir-bbpress-al-espa%C3%B1ol-u-otro-idioma-desde-el-wp-admin",
             "resource_url": "http://www.google.com/search?q=bbpress%2Bbbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://jovenred.com/traducir-bbpress-2-5x-espanol/"
@@ -38,87 +39,65 @@
             "date": "2014-06-20",
             "author_name": "creador520",
             "categories": "google,bbpress",
-            "tags": "sistema,sistema-de-foros,foros,versi\u00f3n,integraci\u00f3n,bbpress",
+            "tags": "sistema,sistema-de-foros,foros,creadores,versi\u00f3n,bbpress",
             "recuweb_url": "http://es.recuweb.com/bbpress/miblggwordpress.wordpress.com/2014/06/admite-plantillas-y-widgets",
             "resource_url": "http://es.search.wordpress.com/?q=bbpress%2Bbbpress&f=feed&page=1",
             "source_url": "http://miblggwordpress.wordpress.com/2014/06/20/admite-plantillas-y-widgets/"
         },
-        "informatica.iesvalledeljerteplasencia.es/2014/03/aplicaci%C3%B3n-web-bbpress2-5-ies-valle-del-jerte-plasencia": {
-            "title": "Aplicaci\u00f3n web bbpress2.5 - IES Valle del Jerte - Plasencia...",
-            "snippet": "BBpress es un software libre para la creaci\u00f3n de foros dentro de wordpress. Instalacion de wordpress y bbPress. Lo primero que haremos antes de usar bbpress, tenemos que instalar wordpress, descargamos wordpress de...",
-            "date": "2014-03-13",
-            "author_name": "H\u00e9ctor Gerardo Gil Hern\u00e1ndez",
+        "samuelaguilera.com/2011/09/bbpress-2-0-al-fin-foros-decentes-para-wordpress-samuel": {
+            "title": "bbPress 2.0, \u00bfal fin foros decentes para WordPress? Samuel...",
+            "snippet": "Ayer se anunciaba en el blog oficial de bbPress el lanzamiento, tras no pocas esperas y expectativas, de la versi\u00f3n definitiva de este software de foros independiente desarrollado por Automattic, ahora convertido al fin a una...",
+            "date": "2011-09-22",
+            "author_name": "Samuel",
             "categories": "bbpress,wordpress",
-            "tags": "antes,usar,software,foros,web,bbpress,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/informatica.iesvalledeljerteplasencia.es/2014/03/aplicaci%C3%B3n-web-bbpress2-5-ies-valle-del-jerte-plasencia",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informatica.iesvalledeljerteplasencia.es/wordpress/aplicacion-web-bbpress2-5/"
+            "tags": "ahora,versi\u00f3n,software,foros,desarrollado,lanzamiento,oficial,bbpress,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/samuelaguilera.com/2011/09/bbpress-2-0-al-fin-foros-decentes-para-wordpress-samuel",
+            "resource_url": "http://www.google.com/search?q=bbpress%2Bbbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://samuelaguilera.com/archivo/bbpress-plugin-foros-wordpress.xhtml"
         },
-        "forobeta.com/2014/01/plug-in-para-bbpress-que-muestre-antiguedad-del-usuario": {
-            "title": "Plug-in para BBpress que muestre antiguedad del usuario y...",
-            "snippet": "Hola, Estoy buscando alg\u00fan plug-in para que los usuarios de mi foro bbpress cuando dejan un mensaje, abajo de su foto aparezca la cantidad de mensajes.",
-            "date": "2014-01-18",
-            "author_name": "goliver",
+        "giltesa.com/2011/03/sincronizaci%C3%B3n-de-bbpress-con-wordpress-el-blog-giltesa": {
+            "title": "Sincronizaci\u00f3n de bbPress con WordPress el blog de giltesa...",
+            "snippet": "Al parecer bbPress usa directorios duplicados, unos que empiezan con la coletilla bb- que se supone que son los que se usaban al principio, y otros con la coletilla my- que son los que se usan ahora, que me corrija alguien...",
+            "date": "2011-03-19",
+            "author_name": "giltesa",
+            "categories": "bbpress,wordpress",
+            "tags": "son,ahora,bbpress,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/giltesa.com/2011/03/sincronizaci%C3%B3n-de-bbpress-con-wordpress-el-blog-giltesa",
+            "resource_url": "http://www.google.com/search?q=bbpress%2Bbbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://giltesa.com/2011/03/19/sincronizacion-bbpress-con-wordpress"
+        },
+        "genbeta.com/2009/07/bbpress-1-0-ha-visto-la-luz-genbeta": {
+            "title": "bbPress 1.0 ha visto la luz - Genbeta...",
+            "snippet": "Casi tres a\u00f1os despu\u00e9s del lanzamiento de su primera versi\u00f3n bbPress 1.0 ve la luz de forma oficial. Aunque las versiones distribuidas hasta ahora eran m\u00e1s que funcionales, se le ha dado un toque final a\u00f1adi\u00e9ndole m\u00e1s...",
+            "date": "2009-07-04",
+            "author_name": "Sacha Fuentes",
             "categories": "bbpress",
-            "tags": "usuario,bbpress,hola,estoy,foro",
-            "recuweb_url": "http://es.recuweb.com/bbpress/forobeta.com/2014/01/plug-in-para-bbpress-que-muestre-antiguedad-del-usuario",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://forobeta.com/plugins-wp/251191-plug-in-bbpress-que-muestre-antiguedad-del-usuario-y-cantidad-de-mensajes.html"
+            "tags": "versi\u00f3n,ahora,oficial,lanzamiento,primera,bbpress,genbeta",
+            "recuweb_url": "http://es.recuweb.com/bbpress/genbeta.com/2009/07/bbpress-1-0-ha-visto-la-luz-genbeta",
+            "resource_url": "http://www.google.com/search?q=bbpress%2Bbbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbeta.com/web/bbpress-10-ha-visto-la-luz"
         },
-        "webempresa.com/2013/12/integra-un-foro-en-wordpress-con-bbpress-hosting": {
-            "title": "Integra un Foro en WordPress con bbPress - Hosting WordPress...",
-            "snippet": "No te voy a decir que ser\u00e1 coser y cantar la integraci\u00f3n de bbPress en WordPress pero estoy convencido que si le das una oportunidad a este plugin es posible que finalmente acabes viendo en este tipo de plugins una...",
-            "date": "2013-12-31",
-            "author_name": "desconocido",
+        "genbeta.com/2007/02/wordpress-y-bbpress-disponibles-genbeta": {
+            "title": "WordPress y bbPress disponibles - Genbeta...",
+            "snippet": "Por otro lado, cabe indicar que tambi\u00e9n se acaba de liberar el sistema de foros bbPress, con su versi\u00f3n, en el que cuenta con algunas interesantes novedades y algunos arreglos. As\u00ed que toca nuevas actualizaciones...",
+            "date": "2007-02-08",
+            "author_name": "Cyberfrancis",
             "categories": "wordpress,bbpress",
-            "tags": "plugins,plugin,estoy,integraci\u00f3n,foro,wordpress,bbpress,hosting",
-            "recuweb_url": "http://es.recuweb.com/bbpress/webempresa.com/2013/12/integra-un-foro-en-wordpress-con-bbpress-hosting",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://webempresa.com/blog/item/1325-integra-un-foro-en-wordpress-con-bbpress.html"
+            "tags": "versi\u00f3n,sistema,sistema-de-foros,foros,wordpress,bbpress,genbeta",
+            "recuweb_url": "http://es.recuweb.com/bbpress/genbeta.com/2007/02/wordpress-y-bbpress-disponibles-genbeta",
+            "resource_url": "http://www.google.com/search?q=bbpress%2Bbbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbeta.com/web/wordpress-208-y-bbpress-liberados"
         },
-        "farmaciafelipeiv.com/2013/12/farmacia-felipe-iv-envato-s-most-wanted-buddypress-&-bbpress": {
-            "title": "Farmacia Felipe IV Envato's Most Wanted: BuddyPress & bbPress...",
-            "snippet": "Estamos construyendo una nueva web para ofrecerte m\u00e1s y mejores servicios. Horario: de 9:00 a 13:30 y de 16:30 a 20:00. Avenida Felipe IV, 8. 20011 Donostia Fax/Tel.: 943 458 795 Mov.: 688 687436. -...",
-            "date": "2013-12-17",
-            "author_name": "farmaciafelipeiv",
-            "categories": "bbpress",
-            "tags": "buddypress,bbpress,web",
-            "recuweb_url": "http://es.recuweb.com/bbpress/farmaciafelipeiv.com/2013/12/farmacia-felipe-iv-envato-s-most-wanted-buddypress-&-bbpress",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://farmaciafelipeiv.com/grrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr-title/"
-        },
-        "forobeta.com/2013/12/bbpress-ayuda-forobeta": {
-            "title": "Bbpress Ayuda - ForoBeta...",
-            "snippet": "Hola amigos betas, tengo el siguiente problema: Tengo un blog creado con wordpress y buddypress, tambi\u00e9n tengo bbpres y antes todo funcionaba bien pero ahora que hice un tema en uno de los foros de bbpress y lo...",
-            "date": "2013-12-15",
-            "author_name": "Juvinao",
+        "genbeta.com/2006/10/bbpress-sistemas-de-foros-los-creadores-wordpress-genbeta": {
+            "title": "bbPress, sistemas de foros de los creadores de Wordpress - Genbeta...",
+            "snippet": "Los que hayan usando ya el popular sistema de blogs no tendr\u00e1n problemas con bbPress, pues tanto la instalaci\u00f3n como el c\u00f3digo interno son muy similares en estilo, por lo que ser\u00e1 f\u00e1cil de adaptar. Hablando de adaptar...",
+            "date": "2006-10-15",
+            "author_name": "Sacha Fuentes",
             "categories": "bbpress,wordpress",
-            "tags": "bbpress,antes,bien,foros,buddypress,hola,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/forobeta.com/2013/12/bbpress-ayuda-forobeta",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://forobeta.com/wordpress/243761-bbpress-ayuda.html"
-        },
-        "towebs.com/2013/12/bbpress-2-5-listo-para-que-pruebes-en-tu-hosting-blog": {
-            "title": "bbPress 2.5, listo para que pruebes en tu Hosting. Blog Oficial de...",
-            "snippet": "En esta ocasi\u00f3n les brindaremos las nuevas novedades de bbPress, la versi\u00f3n 2.5 y que permite crear foros en esta plataforma. Cuenta con las siguientes caracter\u00edsticas: Se ha a\u00f1adido un sistema propio de suscripciones a...",
-            "date": "2013-12-02",
-            "author_name": "Julian",
-            "categories": "bbpress",
-            "tags": "sistema,foros,versi\u00f3n,bbpress,hosting",
-            "recuweb_url": "http://es.recuweb.com/bbpress/towebs.com/2013/12/bbpress-2-5-listo-para-que-pruebes-en-tu-hosting-blog",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://towebs.com/blog/2013/12/02/bbpress-2-5-listo-para-que-pruebes-en-tu-hosting/"
-        },
-        "hotelzandu.com/2013/10/bbpress-compatible-hotel-zand%C3%BA": {
-            "title": "bbPress Compatible - Hotel Zand\u00fa...",
-            "snippet": "With Supreme theme you can start a community for your site visitors where all of you can communicate. Every once in a while you\"ll stumble upon a string that can\"t be translated using the.po or file. When that...",
-            "date": "2013-10-03",
-            "author_name": "angela_alvarez_v@yahoo.com",
-            "categories": "bbpress",
-            "tags": "using,site,start,bbpress,your",
-            "recuweb_url": "http://es.recuweb.com/bbpress/hotelzandu.com/2013/10/bbpress-compatible-hotel-zand%C3%BA",
-            "resource_url": "http://www.google.com/search?q=bbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hotelzandu.com/bbpress-compatible/"
+            "tags": "instalaci\u00f3n,son,muy,usando,sistemas,foros,creadores,bbpress,wordpress,genbeta",
+            "recuweb_url": "http://es.recuweb.com/wordpress/genbeta.com/2006/10/bbpress-sistemas-de-foros-los-creadores-wordpress-genbeta",
+            "resource_url": "http://www.google.com/search?q=bbpress%2Bbbpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbeta.com/web/bbpress-sistemas-de-foros-de-los-creadores-de-wordpress"
         }
     }
 }

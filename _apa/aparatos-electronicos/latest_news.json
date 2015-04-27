@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "aparatos-electronicos",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/aparatos-electronicos/",
@@ -10,20 +11,76 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/aparatos-electronicos/aparatos-electronicos/blogs.json"
     },
     "items": {
-        "imagendelgolfo.com.mx/2015/04/por-telara%C3%B1a-de-cables-sufren-nanchitecos": {
-            "title": "Por telara\u00f1a de cables sufren nanchitecos...",
-            "snippet": "Vecinos de la calle Juan Escutia de la colonia Nuestra Se\u00f1ora de Lourdes, se encuentran molestos debido a que los constantes apagones y fallas de energ\u00eda el\u00e9ctrica, ya han causado da\u00f1os en sus aparatos electr\u00f3nicos, por lo que solicitaran a...",
-            "date": "2015-04-09",
-            "tags": "juan,aparatos,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/imagendelgolfo.com.mx/2015/04/por-telara%C3%B1a-de-cables-sufren-nanchitecos",
+        "unocero.com/2015/04/koblenz-protege-dispositivos-electr%C3%B3nicos-contra-descargas-de-voltaje": {
+            "title": "Koblenz protege dispositivos electr\u00f3nicos contra descargas de voltaje...",
+            "snippet": "Las variaciones en el voltaje pueden ocasionar que tus aparatos electr\u00f3nicos sufran descomposturas que, en muchos casos, los dejan inservibles al momento debido al impacto de la corriente el\u00e9ctrica que llega de golpe, si no cuentan con...",
+            "date": "2015-04-24",
+            "tags": "momento,debido,pueden,electr\u00f3nicos,aparatos",
+            "recuweb_url": "http://es.recuweb.com/unocero.com/2015/04/koblenz-protege-dispositivos-electr%C3%B3nicos-contra-descargas-de-voltaje",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aparatos%2Belectronicos&format=RSS&cc=es",
-            "source_url": "http://imagendelgolfo.com.mx/resumen.php?id=41059888"
+            "source_url": "http://unocero.com/2015/04/24/koblenz-protege-dispositivos-electronicos-contra-descargas-de-voltaje/"
+        },
+        "espanol.rfi.fr/2015/04/reciclaje-de-aparatos-el%C3%A9ctricos-y-electr%C3%B3nicos-rfi": {
+            "title": "Reciclaje de aparatos el\u00e9ctricos y electr\u00f3nicos - RFI...",
+            "snippet": "RFIReciclaje de aparatos el\u00e9ctricos y electr\u00f3nicosRFIRFI explora el mundo del reciclaje, en este caso el de los desechos el\u00e9ctricos y electr\u00f3nicos, altamente contaminantes y objeto de una regulaci\u00f3n deficiente. Seg\u00fan un informe de la...",
+            "date": "2015-04-24",
+            "categories": "reciclaje",
+            "tags": "mundo,reciclaje,aparatos,el\u00e9ctricos,electr\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/reciclaje/espanol.rfi.fr/2015/04/reciclaje-de-aparatos-el%C3%A9ctricos-y-electr%C3%B3nicos-rfi",
+            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
+            "source_url": "http://espanol.rfi.fr/ciencia/20150424-reciclaje-de-aparatos-electricos-y-electronicos"
+        },
+        "que.es/2015/04/10-tablets-por-menos-de-100-euros": {
+            "title": "10 tablets por menos de 100 euros...",
+            "snippet": "En este recopilatorio de las mejores tablets por menos de 100 euros encontrar\u00e1s una selecci\u00f3n de este tipo de aparatos electr\u00f3nicos que sean capaces de cumplir con tus expectativas b\u00e1sicas sin hacer un gran desembolso de dinero. Es decir, estas...",
+            "date": "2015-04-21",
+            "tags": "aparatos,electr\u00f3nicos,hacer",
+            "recuweb_url": "http://es.recuweb.com/que.es/2015/04/10-tablets-por-menos-de-100-euros",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aparatos%2Belectronicos&format=RSS&cc=es",
+            "source_url": "http://que.es/tecnologia/201504220800-tablets-menos-euros.html"
+        },
+        "primerahora.com/2015/04/viral-la-impresionante-reacci%C3%B3n-de-los-ni%C3%B1os-al-ver-un-vcr": {
+            "title": "VIRAL. La impresionante reacci\u00f3n de los ni\u00f1os al ver un VCR/VHS...",
+            "snippet": "Al final, los chicos fueron duros jueces de los aparatos electr\u00f3nicos que se usaban antes, comparados con los que tienen a su disposici\u00f3n ahora. (YouTube) Estos chiquitines quedaron asombrados con los aparatos electr\u00f3nicos que se utilizaban antes...",
+            "date": "2015-04-21",
+            "tags": "ni\u00f1os,aparatos,electr\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/primerahora.com/2015/04/viral-la-impresionante-reacci%C3%B3n-de-los-ni%C3%B1os-al-ver-un-vcr",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aparatos%2Belectronicos&format=RSS&cc=es",
+            "source_url": "http://primerahora.com/tecnologia/nota/virallaimpresionantereacciondelosninosalverunvcrvhs-1078534/"
+        },
+        "debate.com.mx/2015/04/el-uso-de-aparatos-electr%C3%B3nicos-altera-ciclo-del-sue%C3%B1o-los-ni%C3%B1os": {
+            "title": "El uso de aparatos electr\u00f3nicos altera el ciclo del sue\u00f1o de los ni\u00f1os - EL DEBATE (Comunicado...",
+            "snippet": "EL DEBATE (Comunicado de prensa) (Registro)El uso de aparatos electr\u00f3nicos altera el ciclo del sue\u00f1o de los ni\u00f1osEL DEBATE (Comunicado de prensa) (Registro)CIUDAD DE M\u00c9XICO, (Al Momento Noticias).- El crecimiento y desarrollo de los ni\u00f1os es un...",
+            "date": "2015-04-18",
+            "tags": "ni\u00f1os,momento,m\u00e9xico,altera,altera-el-ciclo,ciclo,ciclo-del-sue\u00f1o,sue\u00f1o,uso,aparatos,electr\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/debate.com.mx/2015/04/el-uso-de-aparatos-electr%C3%B3nicos-altera-ciclo-del-sue%C3%B1o-los-ni%C3%B1os",
+            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
+            "source_url": "http://debate.com.mx/salud/El-uso-de-aparatos-electronicos-altera-el-ciclo-del-sueno-de-los-ninos-20150417-0203.html"
+        },
+        "notimex.com.mx/2015/04/uso-de-aparatos-electr%C3%B3nicos-altera-ciclo-del-sue%C3%B1o-en-ni%C3%B1os": {
+            "title": "Uso de aparatos electr\u00f3nicos altera ciclo del sue\u00f1o en ni\u00f1os...",
+            "snippet": "M\u00e9xico, 16 Abr (Notimex).- El uso de aparatos electr\u00f3nicos como celulares, tabletas, videojuegos y televisi\u00f3n, que forman parte del estilo de vida de los ni\u00f1os, altera el ciclo de sue\u00f1o debido a la luz que producen, asegura un especialista. La...",
+            "date": "2015-04-16",
+            "categories": "videojuego,television",
+            "tags": "altera,altera-el-ciclo,ciclo,sue\u00f1o,debido,vida,ni\u00f1os,celulares,uso,ciclo-del-sue\u00f1o,aparatos,electr\u00f3nicos,m\u00e9xico",
+            "recuweb_url": "http://es.recuweb.com/television/notimex.com.mx/2015/04/uso-de-aparatos-electr%C3%B3nicos-altera-ciclo-del-sue%C3%B1o-en-ni%C3%B1os",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aparatos%2Belectronicos&format=RSS&cc=es",
+            "source_url": "http://notimex.com.mx/acciones/verNota.php?clv=272761"
+        },
+        "diarioelargentino.com.ar/2015/04/contin%C3%BAa-la-campa%C3%B1a-de-recolecci%C3%B3n-aparatos-electr%C3%B3nicos-en-diario-el-argentino": {
+            "title": "Contin\u00faa la campa\u00f1a de recolecci\u00f3n de aparatos electr\u00f3nicos en... - Diario El Argentino...",
+            "snippet": "Diario El ArgentinoContin\u00faa la campa\u00f1a de recolecci\u00f3n de aparatos electr\u00f3nicos en...Diario El ArgentinoEsta es la cuarta edici\u00f3n de la campa\u00f1a y se invita a los vecinos a dejar sus aparatos de origen inform\u00e1tico, telefon\u00eda fija y celular y...",
+            "date": "2015-04-10",
+            "tags": "diario,aparatos,electr\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/diarioelargentino.com.ar/2015/04/contin%C3%BAa-la-campa%C3%B1a-de-recolecci%C3%B3n-aparatos-electr%C3%B3nicos-en-diario-el-argentino",
+            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
+            "source_url": "http://diarioelargentino.com.ar/noticias/149476/Contin\u00faa-la-campa\u00f1a-de-recolecci\u00f3n-de-aparatos-electr\u00f3nicos-en-desuso"
         },
         "reportur.com/2015/04/vivaaerobus-anuncia-total-uso-de-aparatos-electr%C3%B3nicos-en-vuelos-reportur": {
             "title": "VivaAerobus anuncia total uso de aparatos electr\u00f3nicos en vuelos - REPORTUR...",
             "snippet": "entrelineasVivaAerobus anuncia total uso de aparatos electr\u00f3nicos en vuelosREPORTUR-M\u00e9xico. Juan Carlos Zuazua, director de VivaAerobus anunci\u00f3 que desde este 7 de abril los pasajeros que transiten en sus aeronaves Airbus A320 podr\u00e1n utilizar...",
             "date": "2015-04-08",
-            "tags": "abril,pasajeros,director,juan,vuelos,uso,aparatos,electr\u00f3nicos,m\u00e9xico",
+            "tags": "abril,pasajeros,director,vuelos,uso,aparatos,electr\u00f3nicos,m\u00e9xico",
             "recuweb_url": "http://es.recuweb.com/reportur.com/2015/04/vivaaerobus-anuncia-total-uso-de-aparatos-electr%C3%B3nicos-en-vuelos-reportur",
             "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos&output=atom&nord=1",
             "source_url": "http://reportur.com/resumen/2015/04/08/vivaaerobus-anuncia-total-uso-de-aparatos-electronicos-en-vuelos/"
@@ -33,74 +90,19 @@
             "snippet": "El UniversoLos aparatos electr\u00f3nicos y su tiempo de vidaEl Universo\u00bfQu\u00e9 mat\u00f3 la tecnolog\u00eda que una vez amamos y cu\u00e1l logr\u00f3 sobrevivir al apocalipsis de fin de siglo? \u00bfQu\u00e9 va a durar lo suficiente como para justificar la inversi\u00f3n?",
             "date": "2015-04-06",
             "categories": "tecnologia",
-            "tags": "tiempo,universo,vida,aparatos,electr\u00f3nicos",
+            "tags": "tiempo,vida,aparatos,electr\u00f3nicos",
             "recuweb_url": "http://es.recuweb.com/tecnologia/eluniverso.com/2015/04/los-aparatos-electr%C3%B3nicos-y-su-tiempo-de-vida-el-universo",
             "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
             "source_url": "http://eluniverso.com/vida-estilo/2015/04/06/nota/4739421/aparatos-electronicos-su-tiempo-vida"
         },
-        "onemagazine.es/2015/04/si-paseas-por-el-oeste-de-madrid-te-puedes-encontrar-arsenales": {
-            "title": "Si paseas por el oeste de Madrid, te puedes encontrar arsenales como \u00e9ste...",
-            "snippet": "Armas de asalto, explosivos, aparatos electr\u00f3nicos... Un ciudadano an\u00f3nimo ha encontrado todo este arsenal en pleno Monte del Pilar -en Pozuelo de Alarc\u00f3n (Madrid)-. Las autoridades acudieron r\u00e1pidamente y ya lo tienen en su poder. Un hombre se...",
-            "date": "2015-04-06",
-            "tags": "aparatos,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/onemagazine.es/2015/04/si-paseas-por-el-oeste-de-madrid-te-puedes-encontrar-arsenales",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=aparatos%2Belectronicos&format=RSS&cc=es",
-            "source_url": "http://onemagazine.es/noticia/22480/Nacional/Si-paseas-por-el-oeste-de-Madrid-te-puedes-encontrar-arsenales-como-este.html"
-        },
         "minuto30.com/2015/03/el-uso-desmedido-de-aparatos-electr%C3%B3nicos": {
-            "title": "El uso desmedido de aparatos electr\u00f3nicos...",
-            "snippet": "Antes que nada, deseo expresar mi agradecimiento a los directivos, Mauricio Tob\u00f3n Franco y Jorge Pareja Casta\u00f1o, por permitirme exponer algunos puntos de vista sobre distintos temas en este peri\u00f3dico virtual. Hace un buen rato que vivimos a...",
+            "title": "El uso desmedido de aparatos electr\u00f3nicos -...",
+            "snippet": "uso desmedido de aparatos electr\u00f3 dicen, que hasta las relaciones sexuales de muchas parejas se han visto seriamente afectadas por la adicci\u00f3n absoluta a estos aparatos electr\u00f3nicos. Es com\u00fan escuchar que el tiempo no alcanza, que hay que hacer...",
             "date": "2015-03-30",
-            "tags": "algunos,puntos,temas,uso,aparatos,electr\u00f3nicos",
+            "tags": "tiempo,electr\u00f3,uso,aparatos,electr\u00f3nicos,hacer",
             "recuweb_url": "http://es.recuweb.com/minuto30.com/2015/03/el-uso-desmedido-de-aparatos-electr%C3%B3nicos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=aparatos%2Belectronicos&format=RSS&cc=es",
+            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
             "source_url": "http://minuto30.com/el-uso-desmedido-de-aparatos-electronicos/322643/"
-        },
-        "el-nacional.com/2015/03/uni%C3%B3n-europea-aumentar%C3%A1-alerta-sobre-aparatos-electr%C3%B3nicos": {
-            "title": "Uni\u00f3n Europea aumentar\u00e1 alerta sobre aparatos electr\u00f3nicos en... - El...",
-            "snippet": "El \u00f3n Europea aumentar\u00e1 alerta sobre aparatos electr\u00f3nicos en...El el pasado 1 de marzo existen nuevas medidas de control de seguridad en el equipaje de mano en la Uni\u00f3n Europea, con respecto a los aparatos electr\u00f3nicos como c\u00e1maras...",
-            "date": "2015-03-29",
-            "tags": "marzo,aparatos,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/el-nacional.com/2015/03/uni%C3%B3n-europea-aumentar%C3%A1-alerta-sobre-aparatos-electr%C3%B3nicos",
-            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
-            "source_url": "http://el-nacional.com/viajes/Union-Europea-aumentara-electronicos-equipaje_0_599940129.html"
-        },
-        "teletica.com/2015/03/qu%C3%A9-le-cuesta-apagar-los-aparatos-el%C3%A9ctricos-que-no-est%C3%A1-usando": {
-            "title": "\u00bfQu\u00e9 le cuesta apagar los aparatos el\u00e9ctricos que no est\u00e1 usando? - Teletica...",
-            "snippet": "Teletica\u00bfQu\u00e9 le cuesta apagar los aparatos el\u00e9ctricos que no est\u00e1 usando?TeleticaMa\u00f1ana es la hora del planeta, una actividad que consiste en apagar todos los dispositivos electr\u00f3nicos durante una hora para disminuir las emisiones de CO2 a la...",
-            "date": "2015-03-27",
-            "categories": "planeta",
-            "tags": "durante,el\u00e9ctricos,aparatos,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/planeta/teletica.com/2015/03/qu%C3%A9-le-cuesta-apagar-los-aparatos-el%C3%A9ctricos-que-no-est%C3%A1-usando",
-            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
-            "source_url": "http://teletica.com/Estilo-de-Vida/86129-Que-le-cuesta-apagar-los-aparatos-electricos-que-no-esta-usando.note.aspx"
-        },
-        "eldivisadero.cl/2015/03/c%C3%B3mo-proteger-nuestros-aparatos-el%C3%A9ctricos-de-los-cortes-el-divisadero": {
-            "title": "C\u00f3mo proteger nuestros aparatos el\u00e9ctricos de los cortes de... - El Divisadero...",
-            "snippet": "C\u00f3mo proteger nuestros aparatos el\u00e9ctricos de los cortes de...El DivisaderoEstas variaciones no son menores y es importante realizar algunos resguardos para evitar que nuestros aparatos electr\u00f3nicos, como computadores de escritorio, televisores,...",
-            "date": "2015-03-26",
-            "tags": "son,algunos,evitar,el\u00e9ctricos,c\u00f3mo,aparatos,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/eldivisadero.cl/2015/03/c%C3%B3mo-proteger-nuestros-aparatos-el%C3%A9ctricos-de-los-cortes-el-divisadero",
-            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
-            "source_url": "http://eldivisadero.cl/redac-31642"
-        },
-        "diaadia.com.ar/2015/03/decoraci%C3%B3n-c%C3%B3mo-acomodar-los-equipos-electr%C3%B3nicos-d%C3%ADa": {
-            "title": "Decoraci\u00f3n: c\u00f3mo acomodar los equipos electr\u00f3nicos - D\u00eda a d\u00eda...",
-            "snippet": "D\u00eda a d\u00edaDecoraci\u00f3n: c\u00f3mo acomodar los equipos electr\u00f3nicosD\u00eda a d\u00edaLos aparatos electr\u00f3nicos, que no paran de crearse para cubrir diferentes necesidades y facilitar tareas, ganan cada vez m\u00e1s terreno. Con dise\u00f1os \u00fanicos, algunos equipos...",
-            "date": "2015-03-26",
-            "tags": "algunos,c\u00f3mo,electr\u00f3nicos,aparatos",
-            "recuweb_url": "http://es.recuweb.com/diaadia.com.ar/2015/03/decoraci%C3%B3n-c%C3%B3mo-acomodar-los-equipos-electr%C3%B3nicos-d%C3%ADa",
-            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
-            "source_url": "http://diaadia.com.ar/tu-casa/decoracion-como-acomodar-los-equipos-electronicos"
-        },
-        "sinembargo.mx/2015/03/o-explota-engorda-estudio-liga-aparatos-electr%C3%B3nicos-con-obesidad-sinembargo": {
-            "title": "O explota o engorda: Estudio liga aparatos electr\u00f3nicos con obesidad - SinEmbargo...",
-            "snippet": "SinEmbargoO explota o engorda: Estudio liga aparatos electr\u00f3nicos con obesidadSinEmbargoCiudad de M\u00e9xico, 25 de marzo (SinEmbargo).- Como si la ingesta de alimentos procesados, el sedentarismo y hasta el aumento en restaurantes y clubes de...",
-            "date": "2015-03-25",
-            "tags": "marzo,aparatos,electr\u00f3nicos,m\u00e9xico",
-            "recuweb_url": "http://es.recuweb.com/sinembargo.mx/2015/03/o-explota-engorda-estudio-liga-aparatos-electr%C3%B3nicos-con-obesidad-sinembargo",
-            "resource_url": "http://news.google.es/?hl=es&q=aparatos%2Belectronicos%2Baparatos%2Belectronicos&output=atom&nord=1",
-            "source_url": "http://sinembargo.mx/25-03-2015/1291522"
         }
     }
 }

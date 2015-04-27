@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mysql",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
-        "zonared.com/2015/04/anunciado-monster-hunter-stories-para-3ds-llegar%C3%A1-en-2016": {
-            "title": "Anunciado 'Monster Hunter: Stories'para 3DS; llegar\u00e1 en 2016...",
+        "zonared.com/2015/04/puzzle-&-dragons-super-mario-bros-edition-muestra-su-tr%C3%A1iler": {
+            "title": "'Puzzle & Dragons: Super Mario Bros. Edition'muestra su tr\u00e1iler de lanzamiento...",
             "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
-            "date": "2015-04-11",
+            "date": "2015-04-22",
             "categories": "mysql",
-            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,datos,virtual,free",
-            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/anunciado-monster-hunter-stories-para-3ds-llegar%C3%A1-en-2016",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,tr\u00e1iler,warning,mysql,numrows,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/puzzle-&-dragons-super-mario-bros-edition-muestra-su-tr%C3%A1iler",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://zonared.com/3ds/videos/monster-hunter-stories-3ds-2016-video/"
+            "source_url": "http://zonared.com/3ds/videos/puzzle-dragons-mario-edition-trailer-lanzamiento-video/"
         },
-        "theregister.co.uk/2015/04/google-sticks-anti-sql-injection-vaccine-into-mysql-mariadb-fork": {
-            "title": "Google sticks anti-SQL injection vaccine into MySQL MariaDB fork - The Register...",
-            "snippet": "The RegisterGoogle sticks anti-SQL injection vaccine into MySQL MariaDB forkThe RegisterGoogle is dropping encryption into MariaDB, the fork of Oracle's MySQL, to help shut out SQL injection attacks. Mountain View is credited with developing and...",
-            "date": "2015-04-10",
-            "categories": "mysql,google",
-            "tags": "mysql,google,sql",
-            "recuweb_url": "http://es.recuweb.com/google/theregister.co.uk/2015/04/google-sticks-anti-sql-injection-vaccine-into-mysql-mariadb-fork",
+        "pcforum.hu/2015/04/1-gb-os-text-f%C3%A1jlb%C3%B3l-adott-sorok-mysql-be-%C3%ADr%C3%A1sa-pc": {
+            "title": "1 GB-os text f\u00e1jlb\u00f3l adott sorok mysql-be \u00edr\u00e1sa - PC F\u00f3rum...",
+            "snippet": "1 GB-os text f\u00e1jlb\u00f3l adott sorok mysql-be \u00edr\u00e1saPC F\u00f3rumVan egy k\u00f6zel 1 GB-os sz\u00f6vegf\u00e1jlom (.tsv), melyben soronk\u00e9nt vannak az inform\u00e1ci\u00f3s adatok, a sorokban pedig az adatok tabul\u00e1torral vannak elv\u00e1lasztva. (nagyj\u00e1b\u00f3l sor, \u00e9s...",
+            "date": "2015-04-22",
+            "categories": "mysql",
+            "tags": "mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/pcforum.hu/2015/04/1-gb-os-text-f%C3%A1jlb%C3%B3l-adott-sorok-mysql-be-%C3%ADr%C3%A1sa-pc",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://pcforum.hu/tudastar/119468/1+GB-os+text+fajlbol+adott+sorok+mysql-be+irasa.html"
+        },
+        "revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes": {
+            "title": "UPSLP certifica a m\u00e1s de M\u00e1s de 800 estudiantes...",
+            "snippet": "Java Solaris y MySQL). 120 certificaciones fueron entregadas a estudiantes, lo que refleja el compromiso de la Academia de profesores para fortalecer esos programas educativos. Los estudiantes tuvieron la oportunidad de compartir experiencias con...",
+            "date": "2015-04-21",
+            "categories": "java,mysql",
+            "tags": "estudiantes,certificaciones,java,java_solaris,solaris,certifica,mysql,programas",
+            "recuweb_url": "http://es.recuweb.com/mysql/revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://revistapuntodevista.com.mx/2015/04/21/upslp-certifica-a-mas-de-mas-de-800-estudiantes/63146/"
+        },
+        "planoinformativo.com/2015/04/universidad-polit%C3%A9cnica-certifica-a-800-estudiantes-de-ingenier%C3%ADa": {
+            "title": "Universidad Polit\u00e9cnica certifica a 800 estudiantes de ingenier\u00eda...",
+            "snippet": "Java Solaris y MySQL), adem\u00e1s, se impartieron dos conferencias por parte de ingenieros de Cisco Systems Latinoam\u00e9rica, mismos que egresaron de la Universidad Polit\u00e9cnica en Ingenier\u00eda en Telem\u00e1tica. Hasta ahora son 800 las certificaciones...",
+            "date": "2015-04-21",
+            "categories": "java,ingenieria,mysql",
+            "tags": "certificaciones,java,java_solaris,solaris,estudiantes,certifica,universidad,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/planoinformativo.com/2015/04/universidad-polit%C3%A9cnica-certifica-a-800-estudiantes-de-ingenier%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://planoinformativo.com/nota/id/386454/noticia/universidad-politecnica-certifica-a-800-estudiantes-de-ingenieria.html"
+        },
+        "pcworldenespanol.com/2015/04/escoge-la-distro-de-gnu-linux-apropiadamente": {
+            "title": "Escoge la distro de GNU/Linux apropiadamente...",
+            "snippet": "Por ejemplo, si el servidor debe ejecutar las \u00faltimas versiones de un paquete com\u00fan como MySQL o PHP, la elecci\u00f3n de una distribuci\u00f3n m\u00e1s estable como CentOS o RHEL con un calendario de lanzamientos ya que complicar\u00e1 las cosas. Es probable que...",
+            "date": "2015-04-19",
+            "categories": "mysql,php",
+            "tags": "servidor,mysql,php",
+            "recuweb_url": "http://es.recuweb.com/php/pcworldenespanol.com/2015/04/escoge-la-distro-de-gnu-linux-apropiadamente",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://pcworldenespanol.com/2015/04/20/escoge-la-distro-de-gnulinux-apropiadamente/"
+        },
+        "prweb.com/2015/04/software-company-anahata-announces-mysql-as-strategic-pr-web-press-release": {
+            "title": "Software Company Anahata Announces MySQL as Strategic... - PR Web (press release)...",
+            "snippet": "Software Company Anahata Announces MySQL as Strategic...PR Web (press release)The MySQL technology is easy to configure, stable and secure with competent support from the open source Anahata coding community. Clients have the option of getting...",
+            "date": "2015-04-19",
+            "categories": "mysql",
+            "tags": "open,open-source,source,release,mysql,web",
+            "recuweb_url": "http://es.recuweb.com/mysql/prweb.com/2015/04/software-company-anahata-announces-mysql-as-strategic-pr-web-press-release",
             "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/04/09/mariadb_google_security_injection/"
+            "source_url": "http://prweb.com/releases/softwarecompany/Perth/prweb12651515.htm"
         },
-        "imasters.com.br/2015/04/utilizando-docker-com-mysql-imasters": {
-            "title": "Utilizando Docker com MySQL - iMasters...",
-            "snippet": "iMastersUtilizando Docker com MySQLiMastersNuma defini\u00e7\u00e3o muito simplista, o Docker \u00e9 um modo de virtualiza\u00e7\u00e3o mais leve. Na virtualiza\u00e7\u00e3o tradicional para ter imagem utiliz\u00e1vel voc\u00ea precisa criar a m\u00e1quina virtual e depois instalar o...",
-            "date": "2015-04-10",
+        "consumerelectronicsnet.com/2015/04/clustrixdb-delivers-235-times-the-performance-of-mysql-in-consumer-electronics": {
+            "title": "ClustrixDB Delivers 235 Times the Performance of MySQL in... - Consumer Electronics Net...",
+            "snippet": "ClustrixDB Delivers 235 Times the Performance of MySQL in...Consumer Electronics NetSAN FRANCISCO, CA -- (Marketwired) -- 04/17/15 -- Clustrix, provider of the first distributed relational database (RDBMS) optimized to meet the needs of fast growing...",
+            "date": "2015-04-18",
             "categories": "mysql",
-            "tags": "virtual,muito,mysql,imasters,instalar",
-            "recuweb_url": "http://es.recuweb.com/mysql/imasters.com.br/2015/04/utilizando-docker-com-mysql-imasters",
+            "tags": "database,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/consumerelectronicsnet.com/2015/04/clustrixdb-delivers-235-times-the-performance-of-mysql-in-consumer-electronics",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://consumerelectronicsnet.com/article/ClustrixDB-Delivers-235-Times-the-Performance-of-MySQL-in-Magento-Benchmark--3852684"
+        },
+        "theregister.co.uk/2015/04/mysql-maestro-percona-makes-nosql-play-with-tokutek-gobble-the-register": {
+            "title": "MySQL maestro Percona makes NoSQL play with Tokutek gobble - The Register...",
+            "snippet": "The RegisterMySQL maestro Percona makes NoSQL play with Tokutek gobbleThe RegisterMySQL consulting and services outfit Percona has acquired Tokutek, makers of a commercial, transaction-safe distribution of the open source MongoDB NoSQL database.",
+            "date": "2015-04-15",
+            "categories": "play,mysql",
+            "tags": "open,open-source,source,mysql,database",
+            "recuweb_url": "http://es.recuweb.com/mysql/theregister.co.uk/2015/04/mysql-maestro-percona-makes-nosql-play-with-tokutek-gobble-the-register",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/04/14/percona_buys_tokutek/"
+        },
+        "dbta.com/2015/04/mysql-broadens-use-cases-for-open-source-database-with-5-7": {
+            "title": "MySQL Broadens Use Cases for Open Source Database With 5.7... - Database Trends and Applications...",
+            "snippet": "MySQL Broadens Use Cases for Open Source Database With 5.7...Database Trends and ApplicationsMySQL has announced MySQL Server 5.7, release candidate 1 (), which represents the first major release since the 5.6 GA release 2 years ago. MySQL 5.7 RC 1...",
+            "date": "2015-04-14",
+            "categories": "mysql",
+            "tags": "release,mysql,server,database,open,source",
+            "recuweb_url": "http://es.recuweb.com/mysql/dbta.com/2015/04/mysql-broadens-use-cases-for-open-source-database-with-5-7",
             "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://imasters.com.br/banco-de-dados/mysql/utilizando-docker-com-mysql/?trace=1519021197&source=home"
+            "source_url": "http://dbta.com/Editorial/News-Flashes/MySQL-Broadens-Use-Cases-for-Open-Source-Database-With-57-Release-103291.aspx"
         },
-        "databasejournal.com/2015/04/generating-reports-on-mysql-data-database-journal": {
-            "title": "Generating Reports on MySQL Data - Database Journal...",
-            "snippet": "Database JournalGenerating Reports on MySQL DataDatabase JournalNow, in looking for MySQL solutions, I find that most tools are geared towards leveraging application code using ODBC or JDBC drivers. Others, like dmyreports, are Web-based and run on...",
-            "date": "2015-04-09",
+        "zonared.com/2015/04/the-order-1886-tr%C3%A1iler-modo-foto": {
+            "title": "'The Order: 1886'Tr\u00e1iler modo Foto...",
+            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
+            "date": "2015-04-13",
             "categories": "mysql",
-            "tags": "that,mysql,web",
-            "recuweb_url": "http://es.recuweb.com/mysql/databasejournal.com/2015/04/generating-reports-on-mysql-data-database-journal",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://databasejournal.com/features/mysql/generating-reports-on-mysql-data.html"
-        },
-        "es.paperblog.com/2015/04/usuarios-linux-vs-defensores-de-software-libre": {
-            "title": "Usuarios Linux vs Defensores de Software Libre...",
-            "snippet": "Y me explico, no es lo mismo desarrollar webs usando tecnolog\u00edas libres, la archiconocida pareja php y mysql, que defender el software libre. No es lo mismo usar Gnu/Linux, como tecnolog\u00edas que son m\u00e1s productivas, eficientes y efectivas, que...",
-            "date": "2015-04-09",
-            "categories": "tecnologia,php,mysql",
-            "tags": "son,php,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/es.paperblog.com/2015/04/usuarios-linux-vs-defensores-de-software-libre",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,tr\u00e1iler,warning,mysql,numrows,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/the-order-1886-tr%C3%A1iler-modo-foto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/usuarios-linux-vs-defensores-de-software-libre-3153140/"
-        },
-        "revistacloudcomputing.com/2015/04/curso-oficial-de-google-cloud-platform": {
-            "title": "Curso oficial de Google Cloud Platform...",
-            "snippet": "Cloud SQL: Es como suena, un cluster MySQL montado y funcionando en segundos. Es una forma muy eficiente de lanzar un proyecto lean en muy poco tiempo. El t\u00edtulo Google Cloud Platform Qualified Developer lo emite Google, y para conseguirlo no basta...",
-            "date": "2015-04-08",
-            "categories": "google,mysql",
-            "tags": "forma,proyecto,sql,google,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/revistacloudcomputing.com/2015/04/curso-oficial-de-google-cloud-platform",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://revistacloudcomputing.com/2015/04/curso-oficial-de-google-cloud-platform/"
-        },
-        "imasters.com.br/2015/04/mysql-utilities-tarefas-administrativas-imasters": {
-            "title": "MySQL Utilities Tarefas administrativas - iMasters...",
-            "snippet": "iMastersMySQL Utilities Tarefas administrativasiMastersNo \u00faltimo artigo, mostrei ao amigo leitor como configurar de forma muito f\u00e1cil a replica\u00e7\u00e3o GTID entre servidores de bancos de dados MySQL com alguns dos scripts do pacote MySQL Utilities,...",
-            "date": "2015-04-08",
-            "categories": "mysql",
-            "tags": "configurar,forma,muito,mysql,imasters",
-            "recuweb_url": "http://es.recuweb.com/mysql/imasters.com.br/2015/04/mysql-utilities-tarefas-administrativas-imasters",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://imasters.com.br/banco-de-dados/mysql/mysql-utilities-tarefas-administrativas/?trace=1519021197&source=single"
-        },
-        "diariopresente.com.mx/2015/04/tardan-meses-para-ser-atendidos-por-un-especialist": {
-            "title": "tardan meses para ser atendidos por un especialist...",
-            "snippet": "Warning: mysql_fetch_object(): supplied argument is not a valid MySQL result resource in/home/diariop/public_html/php/02/on line 861 Warning: mysql_free_result() expects parameter 1 to be resource, boolean given in/home/diariop/public_html/php...",
-            "date": "2015-04-08",
-            "categories": "mysql,html,php",
-            "tags": "resource,line,result,result-resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,php,free",
-            "recuweb_url": "http://es.recuweb.com/php/diariopresente.com.mx/2015/04/tardan-meses-para-ser-atendidos-por-un-especialist",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://diariopresente.com.mx/section/mundo/130125/dzhokhar-tsarnaev-declarado-culpable-atentado-boston-/"
-        },
-        "nexotrans.com/2015/04/confeb%C3%BAs-presentar%C3%A1-a-los-grupos-pol%C3%ADticos-un-documento-con-propuestas-empresariales": {
-            "title": "Confeb\u00fas presentar\u00e1 a los grupos pol\u00edticos un documento con propuestas empresariales para el...",
-            "snippet": "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND not_id_sec=6 ORDER BY not_tipo ASC'at line 1...",
-            "date": "2015-04-07",
-            "categories": "mysql",
-            "tags": "line,server,that,sql,mysql,not",
-            "recuweb_url": "http://es.recuweb.com/mysql/nexotrans.com/2015/04/confeb%C3%BAs-presentar%C3%A1-a-los-grupos-pol%C3%ADticos-un-documento-con-propuestas-empresariales",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://nexotrans.com/nexobus/noticia/confebuacutes/presentaraacute/grupos/poliacuteticos/documento/propuestas/empresariales/sector/76029/"
-        },
-        "technologyreview.es/2015/04/c%C3%B3mo-los-distintos-lenguajes-de-facebook-y-google-imponen-sus-filosof%C3%ADas": {
-            "title": "C\u00f3mo los distintos lenguajes de Facebook y Google imponen sus filosof\u00edas de empresa...",
-            "snippet": "El ejemplo preferido de los programadores es una funci\u00f3n de PHP llamada mysql_escape_string, que libera a una pregunta de input malicioso antes de enviarla a una base de datos. (Como ejemplo de input malicioso, piensa en un formulario de un...",
-            "date": "2015-04-07",
-            "categories": "base-de-datos,facebook,google,php,mysql",
-            "tags": "datos,google,php,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/technologyreview.es/2015/04/c%C3%B3mo-los-distintos-lenguajes-de-facebook-y-google-imponen-sus-filosof%C3%ADas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://technologyreview.es/informatica/47226/"
+            "source_url": "http://zonared.com/ps4/videos/the-order-1886-trailer-modo-foto/"
         }
     }
 }

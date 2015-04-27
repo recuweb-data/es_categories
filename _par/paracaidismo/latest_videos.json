@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "paracaidismo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/paracaidismo/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/paracaidismo/paracaidismo/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/un-parapl%C3%A9jico-logra-volar-en-parapente": {
+            "title": "Un parapl\u00e9jico logra volar en parapente...",
+            "snippet": "La silla de ruedas no ha supuesto ninguna barrera para este brasile\u00f1o empe\u00f1ado en volar a cualquier precio. Author: Ruptly_spanishTags: parapente parapente en brasil paraplejia parapente en silla de ruedas paracaidismo en silla de ruedas...",
+            "date": "2015-04-22",
+            "author_name": "Ruptly_spanish",
+            "categories": "parapente,paracaidismo",
+            "tags": "paracaidismo",
+            "recuweb_url": "http://es.recuweb.com/paracaidismo/dailymotion.com/2015/04/un-parapl%C3%A9jico-logra-volar-en-parapente",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/paracaidismo+paracaidismo/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nhkbc_un-paraplejico-logra-volar-en-parapente_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nhkbc_un-paraplejico-logra-volar-en-parapente_news"
+        },
         "youtube.com/2015/03/un-instructor-de-paracaidismo-salva-la-vida-a-su-alumno": {
             "title": "Un instructor de paracaidismo salva la vida a su alumno en Australia...",
             "snippet": "Un instructor de paracaidismo salva la vida a su alumno en Australia El alumno Christopher Jones cay\u00f3 durante 30 segundos al vac\u00edo sin control luego que sufriera un ataque de epilepsia. El instructor tuvo que abrirle el paraca\u00eddas lo que le...",
@@ -52,9 +65,9 @@
             "date": "2015-01-15",
             "author_name": "themunsession7",
             "categories": "paracaidismo,facebook,twitter",
-            "tags": "paracaidismo,t\u00e9cnica,not,not-forget,forget,forget-to-subscribe,subscribe,helpful,costs,costs-nothing,nothing,this,this-video,olvides,olvides-suscribirte,suscribirte,ayuda,cuesta,cuesta-nada,nada,v\u00eddeo,v\u00eddeo-en-facebook,facebook,empuriabrava,empuriabrava_catalunya,catalunya,skydiving,saltos,salto,saltos_paracaidismo,comparte,twitter,gracias,share,thanks",
+            "tags": "paracaidismo,t\u00e9cnica,not,not-forget,forget,forget-to-subscribe,subscribe,helpful,costs,costs-nothing,nothing,this,this-video,olvides,olvides-suscribirte,suscribirte,ayuda,cuesta,cuesta-nada,nada,v\u00eddeo,v\u00eddeo-en-facebook,facebook,empuriabrava,empuriabrava_catalunya,catalunya,skydiving,saltos,saltos_paracaidismo,comparte,twitter,gracias,share,thanks",
             "recuweb_url": "http://es.recuweb.com/twitter/dailymotion.com/2015/01/skydiving-saltos-paracaidismo-momentos-previos-para-el-salto-en-empuriabrava-catalunya",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/paracaidismo+paracaidismo/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/paracaidismo/0?af=1",
             "source_url": "http://dailymotion.com/video/x29lcbx_skydiving-saltos-paracaidismo-momentos-previos-para-el-salto-en-empuriabrava-catalunya_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x29lcbx_skydiving-saltos-paracaidismo-momentos-previos-para-el-salto-en-empuriabrava-catalunya_sport"
         },
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=paracaidismo%2Bparacaidismo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=tCaT1Mrtosk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/tCaT1Mrtosk/0.jpg"
-        },
-        "dailymotion.com/2014/07/salto-126-de-paracaidismo-enrique-sol%C3%ADs": {
-            "title": "Salto 126 de paracaidismo de Enrique Sol\u00eds...",
-            "snippet": "Salto 126 de paracaidismo de Enrique Sol\u00edsAuthor: lealcanTags: Madrid Ca\u00edda Libre skydive enrique solis Posted: 24 July 2014Rating:: 0...",
-            "date": "2014-07-24",
-            "author_name": "lealcan",
-            "categories": "paracaidismo",
-            "tags": "ca\u00edda,ca\u00edda_libre,libre,paracaidismo,salto",
-            "recuweb_url": "http://es.recuweb.com/paracaidismo/dailymotion.com/2014/07/salto-126-de-paracaidismo-enrique-sol%C3%ADs",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/paracaidismo+paracaidismo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x221c8p_salto-126-de-paracaidismo-de-enrique-solis_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x221c8p_salto-126-de-paracaidismo-de-enrique-solis_sport"
         }
     }
 }

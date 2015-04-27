@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "php",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/php/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/curso-php-mysql-strings-v%C3%ADdeo-8": {
+            "title": "Curso PHP. MySQL. Strings. V\u00eddeo 8...",
+            "snippet": "Curso PHP. MySQL. Strings. V\u00eddeo 8 Vemos en este v\u00eddeo c\u00f3mo declarar String en php y c\u00f3mo comparar si dos string son iguales o no lo son con las funciones strcmp y strcasecmp. Para m\u00e1s cursos, ejercicios y manuales visita:... From:...",
+            "date": "2015-04-18",
+            "author_name": "pildorasinformaticas",
+            "categories": "php,mysql",
+            "tags": "curso,php,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2015/04/curso-php-mysql-strings-v%C3%ADdeo-8",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=IRKPW88SoYE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/IRKPW88SoYE/0.jpg"
+        },
         "dailymotion.com/2014/11/curso-de-mongodb-con-php-13-ejecutar-mapreduce": {
             "title": "Curso de MongoDB con PHP 13 - Ejecutar MapReduce en PHP...",
             "snippet": "Curso completo de MongoDB con PHP. Con el crecimiento de la web en tiempo real exist\u00eda una necesidad de proporcionar medios de procesamiento para grandes vol\u00famenes de datos de estructuras similares. Las principales compa\u00f1\u00edas de Internet, como...",
             "date": "2014-11-24",
             "author_name": "ReportajesDocumentales",
             "categories": "php,internet",
-            "tags": "web,php",
+            "tags": "web,tiempo,datos,curso,php",
             "recuweb_url": "http://es.recuweb.com/internet/dailymotion.com/2014/11/curso-de-mongodb-con-php-13-ejecutar-mapreduce",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2awaae_curso-de-mongodb-con-php-13-ejecutar-mapreduce-en-php_school",
@@ -58,6 +71,18 @@
             "source_url": "http://dailymotion.com/video/x1zvdf0_instalacion-de-apache-mysql-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zvdf0_instalacion-de-apache-mysql-php_tech"
         },
+        "youtube.com/2014/07/jquery-ajax-php-mysql-netbeans-parte-1": {
+            "title": "Jquery - Ajax - Php - Mysql - NetBeans - parte 1...",
+            "snippet": "Jquery - Ajax - Php - Mysql - NetBeans - parte 1 Ejercicio de JQUERY - AJAX - PHP - MYSQL Aplicacion para crear base de datos, ingresar registros, eliminarlos, crear campos de texto en tiempo de ejecuci\u00f3n saulo... From: Saulo Castro Views: 331 3...",
+            "date": "2014-07-09",
+            "author_name": "Saulo Castro",
+            "categories": "base-de-datos,mysql,jquery,php",
+            "tags": "crear,tiempo,datos,mysql,php",
+            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/07/jquery-ajax-php-mysql-netbeans-parte-1",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=kCVtJfunCnk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/kCVtJfunCnk/0.jpg"
+        },
         "dailymotion.com/2014/06/videotutorial-apache-mysql-php": {
             "title": "VIDEOTUTORIAL APACHE- MYSQL- PHP...",
             "snippet": "Videotutorial del Servidor Apache - MySQL y PHPAuthor: salascarlos40Tags: Posted: 20 June 2014Rating:: 0...",
@@ -88,47 +113,23 @@
             "date": "2014-04-20",
             "author_name": "begazoalvarez",
             "categories": "php",
-            "tags": "php",
+            "tags": "compras,php",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/04/carrito-de-compras-php",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x1px31q_carrito-de-compras-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1px31q_carrito-de-compras-php_tech"
         },
-        "youtube.com/2014/04/crear-un-formulario-de-registro-y-login-en-dreamweaver-php": {
-            "title": "Crear Un Formulario De Registro y Login En Dreamweaver PHP Sin Foto de perfil! B\u00e1sico...",
-            "snippet": "Crear Un Formulario De Registro y Login En Dreamweaver PHP Sin Foto de perfil! B\u00e1sico Pero.....Primero!! -_- SUSCRIBANSE A MI CANAL! Segundo...:\") SUSCRIBANSE A MI 2DO CANAL, DE DREAMWEAVER Muy pronto... From: Daniel Taboada Views: 37640 152...",
-            "date": "2014-04-08",
-            "author_name": "Daniel Taboada",
-            "categories": "php",
-            "tags": "php,crear",
-            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/04/crear-un-formulario-de-registro-y-login-en-dreamweaver-php",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=VZEunZjfQzE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/VZEunZjfQzE/0.jpg"
-        },
-        "dailymotion.com/2013/12/hosting-and-domains-cheap-domain-goedkoop-php-mysql-formularios": {
-            "title": "HOSTING AND DOMAINS CHEAP - HOSTING DOMAIN GOEDKOOP - PHP-MYSQL- FORMULARIOS...",
-            "snippet": "Click The Link Below To Find Honest Uptodate Reviews Of The Cheapest AND DOMAINS CHEAP - HOSTING DOMAIN GOEDKOOP - PHP-MYSQL- FORMULARIOS PHP HOSTING,AND,DOMAINS,CHEAP,HOSTING,DOMAIN,GOEDKOOP,WWWARENAWEBBE,PHPMYSQL,FORMULARIOS,: HyoMarlin129Tags:...",
-            "date": "2013-12-01",
-            "author_name": "HyoMarlin129",
+        "youtube.com/2014/03/sistema-ventas-compras-web-php-y-mysql-con-ticket": {
+            "title": "sistema ventas compras WEB php y mysql con ticket...",
+            "snippet": "sistema ventas compras WEB php y mysql con ticket se entrega codigo fuente y bd el sistema esta modificado sin errores si desean comprar el sistema me escriben a:. From: sistemas Peru World Views: 1653 8 ratings Time: 04:27 More in Education...",
+            "date": "2014-03-31",
+            "author_name": "sistemas Peru World",
             "categories": "php,mysql",
-            "tags": "below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,hosting,cheap,php,mysql,cheapest,tags",
-            "recuweb_url": "http://es.recuweb.com/mysql/dailymotion.com/2013/12/hosting-and-domains-cheap-domain-goedkoop-php-mysql-formularios",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php+php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x17uxj8_hosting-and-domains-cheap-hosting-domain-goedkoop-www-arenaweb-be-php-mysql-formularios-php_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x17uxj8_hosting-and-domains-cheap-hosting-domain-goedkoop-www-arenaweb-be-php-mysql-formularios-php_news"
-        },
-        "dailymotion.com/2013/12/simple-php-cheap-web-hosting-help": {
-            "title": "Simple PHP - Cheap Web Hosting Php Help...",
-            "snippet": "Click The Link Below To Find Honest Uptodate Reviews Of The Cheapest PHP - Cheap Web Hosting Php Help Simple,PHP,Cheap,Web,Hosting,Php,: JazmineLucille832Tags: Simple PHP Cheap Web Hosting Php Help Posted: 01 December 2013Rating:: 0...",
-            "date": "2013-12-01",
-            "author_name": "JazmineLucille832",
-            "categories": "php",
-            "tags": "below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,cheap,web,hosting,php,cheapest,tags",
-            "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2013/12/simple-php-cheap-web-hosting-help",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php+php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x17uyxd_simple-php-cheap-web-hosting-php-help_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x17uyxd_simple-php-cheap-web-hosting-php-help_news"
+            "tags": "php,mysql,compras,web",
+            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/03/sistema-ventas-compras-web-php-y-mysql-con-ticket",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=ckL8UlXBCTI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ckL8UlXBCTI/0.jpg"
         }
     }
 }

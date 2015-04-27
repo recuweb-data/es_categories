@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bbpress",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bbpress/",
@@ -10,9 +11,21 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bbpress/bbpress/blogs.json"
     },
     "items": {
+        "youtube.com/2015/02/presentaci%C3%B3n-nueva-web-2015-universo-outcast-spain-buddypress-bbpress": {
+            "title": "Presentaci\u00f3n nueva web 2015 - 'Universo Outcast Spain'(BuddyPress - bbPress)...",
+            "snippet": "Presentaci\u00f3n nueva web 2015 - 'Universo Outcast Spain'(BuddyPress - bbPress) JOAN MORCI - Video Podcast. Presentaci\u00f3n nueva web 2015 - 'Universo Outcast Spain'./universo. Los primeros 38 minutos de video hace un... From: JoanMorci Views: 139 3...",
+            "date": "2015-02-24",
+            "author_name": "JoanMorci",
+            "categories": "bbpress",
+            "tags": "web,presentaci\u00f3n,bbpress",
+            "recuweb_url": "http://es.recuweb.com/bbpress/youtube.com/2015/02/presentaci%C3%B3n-nueva-web-2015-universo-outcast-spain-buddypress-bbpress",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bbpress%2Bbbpress&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=ybKdazoRZ8A&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ybKdazoRZ8A/0.jpg"
+        },
         "youtube.com/2014/09/tutorial-del-foro-bbpress-de-tu-p%C3%A1gina-wordpress-a-nivel-usuario": {
             "title": "Tutorial del foro bbPress de tu p\u00e1gina WordPress a nivel usuario...",
-            "snippet": "Tutorial del foro bbPress de tu p\u00e1gina WordPress a nivel usuario Tutorial muy sencillo que explica la utilizaci\u00f3n a nivel usuario de tu foro bbPress en tu p\u00e1gina web creada en WordPress. Poison Estudio pone a disposici\u00f3n d... From: PoisonEstudio...",
+            "snippet": "Tutorial del foro bbPress de tu p\u00e1gina WordPress a nivel usuario Tutorial muy sencillo que explica la utilizaci\u00f3n a nivel usuario de tu foro bbPress en tu p\u00e1gina web creada en WordPress. Poison Estudio pone a disposici\u00f3n de sus clientes una...",
             "date": "2014-09-25",
             "author_name": "PoisonEstudio",
             "categories": "bbpress,wordpress",
@@ -24,7 +37,7 @@
         },
         "youtube.com/2014/04/c%C3%B3mo-migrar-de-phpbb-a-bbpress-con-cms2cms": {
             "title": "C\u00f3mo migrar de phpBB a bbPress con CMS2CMS...",
-            "snippet": "C\u00f3mo migrar de phpBB a bbPress con CMS2CMS CMS2CMS es un servicio online automatizado que se ha desarrollado para migrar el sitio web de phpBB a bbPress en unos pasos f\u00e1ciles. \u00bfPor qu\u00e9 mover sitio web... From: CMS2CMS Views: 11 0 ratings Time:...",
+            "snippet": "C\u00f3mo migrar de phpBB a bbPress con CMS2CMS CMS2CMS es un servicio online automatizado que se ha desarrollado para migrar el sitio web de phpBB a bbPress en unos pasos f\u00e1ciles. \u00bfPor qu\u00e9 mover sitio web de phpBB a bbPress con... From: CMS2CMS...",
             "date": "2014-04-09",
             "author_name": "CMS2CMS",
             "categories": "phpbb,bbpress",
@@ -36,11 +49,11 @@
         },
         "youtube.com/2013/10/bbpress-sistemas-de-gesti%C3%B3n-contenidos-unimagdalena": {
             "title": "Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Unimagdalena...",
-            "snippet": "Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Unimagdalena Presentaci\u00f3n B\u00e1sica de Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Taller Youtube Subir video Grupo 11. From: Joe Maestre Views: 58 0 ratings Time: 00:36 More in Education...",
+            "snippet": "Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Unimagdalena Presentaci\u00f3n B\u00e1sica de Bbpress - Sistemas de Gesti\u00f3n de Contenidos - Taller Youtube Subir video Grupo 11. From: Joe Maestre Views: 62 0 ratings Time: 00:36 More in Education...",
             "date": "2013-10-04",
             "author_name": "Joe Maestre",
             "categories": "bbpress",
-            "tags": "bbpress",
+            "tags": "presentaci\u00f3n,bbpress",
             "recuweb_url": "http://es.recuweb.com/bbpress/youtube.com/2013/10/bbpress-sistemas-de-gesti%C3%B3n-contenidos-unimagdalena",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bbpress%2Bbbpress&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=OYxMJT-UGsk&feature=youtube_gdata",

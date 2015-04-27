@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pantalla-t\u00e1ctil",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pantalla-t\u00e1ctil/",
@@ -10,23 +11,12 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pantalla-t%C3%A1ctil/pantalla-t%C3%A1ctil/blogs.json"
     },
     "items": {
-        "diariomotor.com/2015/04/volkswagen-estrena-una-pantalla-t%C3%A1ctil-que-reconoce": {
-            "title": "Volkswagen estrena una pantalla t\u00e1ctil que reconoce tus...",
-            "snippet": "Aunque te parezca un enorme contrasentido, que en parte lo es, la nueva generaci\u00f3n de sistemas de entretenimiento y navegaci\u00f3n t\u00e1ctiles no requerir\u00e1n contacto f\u00edsico con la superficie de la pantalla. Como lo oyes. En el...",
-            "date": "2015-04-17",
-            "author_name": "David Villarreal",
-            "categories": "entretenimiento",
-            "tags": "nueva,generaci\u00f3n,entretenimiento,t\u00e1ctiles,t\u00e1ctil,superficie,pantalla,aunque",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/diariomotor.com/2015/04/volkswagen-estrena-una-pantalla-t%C3%A1ctil-que-reconoce",
-            "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diariomotor.com/2015/04/17/volkswagen-t6-tecnologia-gestual/"
-        },
         "omicrono.com/2015/04/microsoft-contra-las-bacterias-en-pantallas-t%C3%A1ctiles-omicrono": {
             "title": "Microsoft contra las bacterias en las pantallas t\u00e1ctiles - Omicrono...",
             "snippet": "La \u00faltima patente de Microsoft revela un sistema que puede ser la soluci\u00f3n contra las bacterias en las pantallas t\u00e1ctiles. Que nuestros dispositivos son asquerosos es algo que ya sab\u00edamos; recordemos el estudio de la...",
             "date": "2015-04-16",
             "author_name": "Adrian Raya",
-            "tags": "estudio,dispositivos,son,algo,pantallas,pantallas-t\u00e1ctiles,t\u00e1ctiles,microsoft,omicrono,\u00fal,sistema",
+            "tags": "son,algo,sistema,puede,soluci\u00f3n,pantallas,pantallas-t\u00e1ctiles,t\u00e1ctiles,microsoft,omicrono,\u00fal",
             "recuweb_url": "http://es.recuweb.com/omicrono.com/2015/04/microsoft-contra-las-bacterias-en-pantallas-t%C3%A1ctiles-omicrono",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://omicrono.com/2015/04/microsoft-patenta-rayos-ultravioleta-contra-las-bacterias-en-las-pantallas-tactiles/"
@@ -37,7 +27,7 @@
             "date": "2015-04-16",
             "author_name": "Hector Russo",
             "categories": "tecnologia",
-            "tags": "trata,tecnolog\u00eda,pantallas,pantalla,pantallas-t\u00e1ctiles,t\u00e1ctiles,t\u00e1ctil,microsoft,acaba",
+            "tags": "tecnolog\u00eda,pantallas,pantalla,pantallas-t\u00e1ctiles,t\u00e1ctiles,t\u00e1ctil,microsoft",
             "recuweb_url": "http://es.recuweb.com/tecnologia/geeksroom.com/2015/04/microsoft-patenta-tecnolog%C3%ADa-para-desinfectar-pantallas-t%C3%A1ctiles",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geeksroom.com/2015/04/microsoft-patenta-tecnologia-para-desinfectar-pantallas-tactiles-en-forma-automatica-con-luz-uv/93430/"
@@ -47,7 +37,7 @@
             "snippet": "Carrefour lanza un autoesc\u00e1ner con pantalla t\u00e1ctil en B\u00e9lgica. El grupo franc\u00e9s Carrefour avanza en la innovaci\u00f3n tecnol\u00f3gica en el punto de venta con el lanzamiento mundial de su nuevo autoesc\u00e1ner con pantalla t\u00e1ctil.",
             "date": "2015-04-15",
             "author_name": "P\u00eda Bobadilla",
-            "tags": "punto,mundial,lanza,retail,pantalla,t\u00e1ctil,nuevo",
+            "tags": "venta,retail,pantalla,t\u00e1ctil,nuevo",
             "recuweb_url": "http://es.recuweb.com/america-retail.com/2015/04/am%C3%A9rica-retail-carrefour-lanza-un-autoesc%C3%A1ner-con-pantalla-t%C3%A1ctil",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://america-retail.com/tendencias-e-innovacion/carrefour-lanza-un-autoescaner-con-pantalla-tactil-en-belgica"
@@ -57,7 +47,7 @@
             "snippet": "EliteBook 840 es un Ultrabook con todas las ventajas de la gama premium Elite de HP y con una pantalla t\u00e1ctil que permite aprovechar a fondo las posibilidades del sistema operativo Windows 8.1. Est\u00e1 basado en un chasis...",
             "date": "2015-04-08",
             "author_name": "Juan",
-            "tags": "pantalla,t\u00e1ctil,sistema,operativo,windows",
+            "tags": "sistema,pantalla,t\u00e1ctil,windows",
             "recuweb_url": "http://es.recuweb.com/muycomputerpro.com/2015/04/hp-elitebook-840-ultrabook-con-pantalla-t%C3%A1ctil-muycomputerpro",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://muycomputerpro.com/movilidad-profesional/2015/04/08/hp-elitebook-840/"
@@ -67,7 +57,7 @@
             "snippet": "Cada vez son m\u00e1s los aparatos que tenemos por nuestra casa y, a veces, la cantidad de ellos suponen un caos; ahora llegan estos routers con pantalla t\u00e1ctil para mantener el orden. Durante los \u00faltimos a\u00f1os, los tel\u00e9fonos...",
             "date": "2015-04-02",
             "author_name": "Ignacio Losada Perez",
-            "tags": "\u00fal,son,pantalla,t\u00e1ctil,omicrono",
+            "tags": "\u00fal,ahora,son,casa,pantalla,t\u00e1ctil,omicrono",
             "recuweb_url": "http://es.recuweb.com/omicrono.com/2015/04/routers-con-pantalla-t%C3%A1ctil-de-almond-omicrono",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://omicrono.com/2015/04/routers-con-pantalla-tactil/"
@@ -77,7 +67,7 @@
             "snippet": "La mayor\u00eda de usuarios usan las pantallas t\u00e1ctiles para ver informaci\u00f3n de productos (el 78% de los individuos), aclarar dudas (74%), consultar el abanico de productos en la p\u00e1gina web (69%) o realizar una compra (64%).",
             "date": "2015-03-25",
             "author_name": "Retail360",
-            "tags": "compra,usuarios,pantallas,pantalla,pantallas-t\u00e1ctiles,t\u00e1ctiles,t\u00e1ctil,retail",
+            "tags": "productos,mayor\u00eda,pantallas,pantalla,pantallas-t\u00e1ctiles,t\u00e1ctiles,t\u00e1ctil,informaci\u00f3n,retail",
             "recuweb_url": "http://es.recuweb.com/retail360.es/2015/03/el-gigante-de-la-compra-es-pantalla-t%C3%A1ctil-retail-360",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://retail360.es/el-gigante-de-la-compra-es-la-pantalla-tactil/"
@@ -88,7 +78,7 @@
             "date": "2015-02-22",
             "author_name": "alvy@microsiervos.com (Alvy)",
             "categories": "television,tecnologia",
-            "tags": "aunque,pantallas,pantallas-t\u00e1ctiles,t\u00e1ctiles,tecnolog\u00eda",
+            "tags": "poco,aunque,pantallas,pantallas-t\u00e1ctiles,t\u00e1ctiles,tecnolog\u00eda",
             "recuweb_url": "http://es.recuweb.com/tecnologia/microsiervos.com/2015/02/as%C3%AD-eran-las-primitivas-pantallas-t%C3%A1ctiles-microsiervos-tecnolog%C3%ADa",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsiervos.com/archivo/tecnologia/primitivas-pantallas-tactiles.html"
@@ -99,7 +89,7 @@
             "date": "2014-12-31",
             "author_name": "jctg01",
             "categories": "tecnologia",
-            "tags": "ayuda,tecnolog\u00eda,t\u00e1ctil,pantalla,pulgadas",
+            "tags": "tecnolog\u00eda,t\u00e1ctil,pantalla,pulgadas",
             "recuweb_url": "http://es.recuweb.com/tecnologia/tecnologiaytendencias.wordpress.com/2014/12/tecnologia-tactil-la-tecnolog%C3%ADa-t%C3%A1ctil-ayuda-a-vender-monitores",
             "resource_url": "http://es.search.wordpress.com/?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&f=feed&page=1",
             "source_url": "http://tecnologiaytendencias.wordpress.com/2014/12/31/tecnologia-tactil-la-tecnologia-tactil-ayuda-a-vender-monitores-mas/"
@@ -114,6 +104,16 @@
             "recuweb_url": "http://es.recuweb.com/internet/blogthinkbig.com/2014/12/convierten-un-brazo-humano-en-una-pantalla-t%C3%A1ctil-think-big",
             "resource_url": "http://www.google.com/search?q=pantalla%2Bt%C3%A1ctil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogthinkbig.com/brazo-humano-en-una-pantalla-tactil/"
+        },
+        "tecnoglaerd.com/2014/11/resistiva-o-capacitiva-dos-maneras-de-entender-una-pantalla-t%C3%A1ctil": {
+            "title": "Resistiva o Capacitiva. Dos maneras de entender una pantalla t\u00e1ctil...",
+            "snippet": "La mayor\u00eda de nosotros tiene en casa alg\u00fan aparato que posee un panel t\u00e1ctil. Puede ser nuestro inseparable smartphone, una tablet, un reproductor de m\u00fasica MP4, la cafetera, []...",
+            "date": "2014-11-11",
+            "author_name": "glaerd",
+            "tags": "tablet,mayor\u00eda,tiene,casa,panel,dos,pantalla,t\u00e1ctil,puede",
+            "recuweb_url": "http://es.recuweb.com/tecnoglaerd.com/2014/11/resistiva-o-capacitiva-dos-maneras-de-entender-una-pantalla-t%C3%A1ctil",
+            "resource_url": "http://es.search.wordpress.com/?q=pantalla%2Bt%C3%A1ctil%2Bpantalla%2Bt%C3%A1ctil&f=feed&page=1",
+            "source_url": "http://tecnoglaerd.com/2014/11/11/resistiva-o-capacitiva-dos-maneras-de-entender-una-pantalla-tactil/"
         }
     }
 }

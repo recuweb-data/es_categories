@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "olympique-lyonnais",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/olympique-lyonnais/",
@@ -10,55 +11,103 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/blogs.json"
     },
     "items": {
-        "leprogres.fr/2015/04/la-mont%C3%A9e-en-puissance-de-l-olympique-lyonnais-se-poursuit": {
-            "title": "La mont\u00e9e en puissance de l'Olympique Lyonnais se poursuit - Le Progr\u00e8s...",
-            "snippet": "Le Progr\u00e8sLa mont\u00e9e en puissance de l'Olympique Lyonnais se poursuitLe Progr\u00e8sLes joueurs lyonnais ne vont pas en prendre l'habitude. Mais comme mardi dernier lors de l'excellent nul entre Monaco et Montpellier - on parle du r\u00e9sultat, pas du...",
-            "date": "2015-04-11",
-            "categories": "olympique-lyonnais",
-            "tags": "olympique,olympique_lyonnais,lyonnais,montpellier",
-            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/leprogres.fr/2015/04/la-mont%C3%A9e-en-puissance-de-l-olympique-lyonnais-se-poursuit",
+        "lemonde.fr/2015/04/football-il-y-aura-finalement-un-42-dans-le-futur-stade": {
+            "title": "Football: il y aura finalement un 42 dans le futur stade de Lyon - Le Monde...",
+            "snippet": ": il y aura finalement un 42 dans le futur stade de LyonLe MondeJean-Michel Aulas a fini par c\u00e9der. Apr\u00e8s un d\u00e9but de pol\u00e9mique, l'Olympique lyonnais (OL) est revenu sur sa d\u00e9cision de ne pas attribuer dans son futur stade de si\u00e8ge ni de loge...",
+            "date": "2015-04-23",
+            "tags": "est,dans,stade,par,michel,michel_aulas,aulas,lyon,olympique,lyonnais",
+            "recuweb_url": "http://es.recuweb.com/lemonde.fr/2015/04/football-il-y-aura-finalement-un-42-dans-le-futur-stade",
             "resource_url": "http://news.google.es/?hl=es&q=olympique%2Blyonnais%2Bolympique%2Blyonnais&output=atom&nord=1",
-            "source_url": "http://leprogres.fr/sports/2015/04/11/la-montee-en-puissance-se-poursuit-pafx"
+            "source_url": "http://lemonde.fr/football/article/2015/04/23/football-il-y-aura-finalement-un-42-dans-le-futur-stade-de-lyon_4620911_1616938.html"
         },
-        "spyghana.com/2015/04/olympique-lyonnais-emerged-as-new-suitors-for-bernard-mensah": {
-            "title": "Olympique Lyonnais emerged as new suitors for Bernard Mensah -...",
-            "snippet": "Lyonnais emerged as new suitors for Bernard Ligue 1 giants Olympique Lyonnais has emerged as the new suitors for Ghanaian youngster Bernard Mensah. According to the Portuguese publication A Bola, the 20-year-old is top on the wish list of the...",
-            "date": "2015-04-09",
+        "es.uefa.com/2015/04/los-cuartos-de-final-la-champions-en-n%C3%BAmeros-noticias-uefa": {
+            "title": "Los cuartos de final de la Champions, en n\u00fameros - Noticias - UEFA... -...",
+            "snippet": "cuartos de final de la Champions, en n\u00fameros - Noticias - UEFA... en 2004/05 entre el PSV Eindhoven y el Olympique Lyonnais, y el equipo holand\u00e9s acab\u00f3 imponi\u00e9ndose en los penaltis. Sigue siendo la \u00fanica eliminatoria de cuartos de la UEFA...",
+            "date": "2015-04-23",
+            "categories": "olympique-lyonnais,psv-eindhoven",
+            "tags": "olympique,olympique_lyonnais,lyonnais,final,champions,uefa",
+            "recuweb_url": "http://es.recuweb.com/psv-eindhoven/es.uefa.com/2015/04/los-cuartos-de-final-la-champions-en-n%C3%BAmeros-noticias-uefa",
+            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Blyonnais%2Bolympique%2Blyonnais&output=atom&nord=1",
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2238544.html"
+        },
+        "es.uefa.com/2015/04/marlet-y-grand-corps-malade-nuevos-embajadores": {
+            "title": "Marlet y Grand Corps Malade, nuevos embajadores...",
+            "snippet": "Ganador de la Ligue 1 con el Olympique Lyonnais en 2000/01, Marlet tambi\u00e9n jug\u00f3 en el Olympique de Marseille, AJ Auxerre, VfL Wolfsburg, FC Lorient y en el Fulham FC de Jean Tigana. Actualmente tiene 41 a\u00f1os y entrena al Red Star FC de...",
+            "date": "2015-04-22",
             "categories": "olympique-lyonnais",
-            "tags": "ligue,olympique,olympique_lyonnais,lyonnais",
-            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/spyghana.com/2015/04/olympique-lyonnais-emerged-as-new-suitors-for-bernard-mensah",
+            "tags": "red,jean,jean_tigana,tigana,wolfsburg,jug\u00f3,olympique,olympique_lyonnais,lyonnais,ligue,lorient",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/es.uefa.com/2015/04/marlet-y-grand-corps-malade-nuevos-embajadores",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
+            "source_url": "http://es.uefa.com/uefaeuro/finals/hosts/france/news/newsid=2237346.html"
+        },
+        "lyoncapitale.fr/2015/04/psg-le-paris-qatar-contre-l-olympique-lyonnais": {
+            "title": "PSG: le Paris Qatar contre l'Olympique lyonnais -...",
+            "snippet": ": le Paris Qatar contre l'Olympique cas exemplaire qui va dans le sens de ces profils est celui du pr\u00e9sident de l'Olympique Lyonnais. Jean Michel Aulas est un chef d'entreprise qui a aussi bien r\u00e9ussi ses introductions en bourse que l'accession de...",
+            "date": "2015-04-21",
+            "tags": "est,jean,michel,michel_aulas,aulas,dans,psg,olympique,lyonnais",
+            "recuweb_url": "http://es.recuweb.com/lyoncapitale.fr/2015/04/psg-le-paris-qatar-contre-l-olympique-lyonnais",
+            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Blyonnais%2Bolympique%2Blyonnais&output=atom&nord=1",
+            "source_url": "http://lyoncapitale.fr/Journal/Lyon/Actualite/Tribune-libre/PSG-le-Paris-Qatar-contre-l-Olympique-lyonnais"
+        },
+        "vavel.com/2015/04/le-petit-gar%C3%A7on": {
+            "title": "'Le Petit Gar\u00e7on'...",
+            "snippet": "Criado en las categor\u00edas inferiores del Olympique Lyonnais, no ser\u00eda hasta su fichaje por el Principado cuando el extremo franc\u00e9s comenzar\u00eda a hacerse un nombre. De la mano del entrenador que lo llev\u00f3 a debutar en Ligue 1, Jean Tigana, Ludovic...",
+            "date": "2015-04-20",
+            "categories": "olympique-lyonnais",
+            "tags": "jean,jean_tigana,tigana,olympique,olympique_lyonnais,lyonnais,ligue",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/vavel.com/2015/04/le-petit-gar%C3%A7on",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
+            "source_url": "http://vavel.com/es/futbol/fc-barcelona/478923-le-petit-garcon.html"
+        },
+        "vavel.com/2015/04/el-lyon-no-se-rinde-en-derbi-del-r%C3%B3dano": {
+            "title": "El Lyon no se rinde en el derbi del R\u00f3dano...",
+            "snippet": "Pod\u00eda haber sido un golpe que el Olympique Lyonnais acusara muy seriamente, pero nada m\u00e1s comenzar la segunda mitad reaccionar\u00eda el l\u00edder galo. Un gran centro al saque de una falta por el costado diestro de Nabil Fekir lo cabecear\u00eda Christophe...",
+            "date": "2015-04-20",
+            "categories": "olympique-lyonnais",
+            "tags": "olympique,olympique_lyonnais,lyonnais,derbi,lyon,r\u00f3dano",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/vavel.com/2015/04/el-lyon-no-se-rinde-en-derbi-del-r%C3%B3dano",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
+            "source_url": "http://vavel.com/es/internacional/francia/478902-el-lyon-no-se-rinde-en-el-derbi-del-rodano.html"
+        },
+        "es.uefa.com/2015/04/el-ol-recupera-liderato": {
+            "title": "El OL recupera el liderato...",
+            "snippet": "Un Olympique Lyonnais con diez jugadores empat\u00f3 en casa 2-2 ante el AS Saint-\u00c9tienne. Clinton Nji\u00e9 adelant\u00f3 al Lyon en el \u00faltimo derbi del R\u00f3dano que se jugar\u00e1 en el Stade de Gerland. Max-Alain Gradel empat\u00f3 desde el punto de penalti para...",
+            "date": "2015-04-19",
+            "categories": "olympique-lyonnais",
+            "tags": "derbi,\u00fal,olympique,olympique_lyonnais,lyonnais,saint,\u00e9tienne,lyon,r\u00f3dano,stade,gerland",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/es.uefa.com/2015/04/el-ol-recupera-liderato",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
+            "source_url": "http://es.uefa.com/memberassociations/association=fra/news/newsid=2236693.html"
+        },
+        "uefa.com/2015/04/ten-man-lyon-back-on-top-after-derby-draw-news": {
+            "title": "Ten-man Lyon back on top after derby draw - News - -...",
+            "snippet": "Lyon back on top after derby draw - News - UEFA.com Lyon back on top after derby draw. Published: Sunday 19 April 2015,. Olympique Lyonnais lost Lindsay Rose to a red card on 29 minutes but drew 2-2 with neighbours AS Saint-\u00c9tienne to return to...",
+            "date": "2015-04-19",
+            "categories": "olympique-lyonnais",
+            "tags": "red,olympique,olympique_lyonnais,lyonnais,lyon,uefa,saint,\u00e9tienne",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/uefa.com/2015/04/ten-man-lyon-back-on-top-after-derby-draw-news",
             "resource_url": "http://news.google.es/?hl=es&q=olympique%2Blyonnais&output=atom&nord=1",
-            "source_url": "http://spyghana.com/olympique-lyonnais-emerged-as-new-suitors-for-bernard-mensah/"
+            "source_url": "http://uefa.com/memberassociations/association=fra/news/newsid=2235743.html"
         },
-        "es.uefa.com/2015/04/cuatro-frentes-abiertos-para-el-paris": {
-            "title": "Cuatro frentes abiertos para el Paris...",
-            "snippet": "Y sobre todo en Marsella. Todos sabemos lo importante que es este partido, coment\u00f3 Blanc, cuyo equipo es ahora l\u00edder de la Ligue 1 con un punto de ventaja sobre el Olympique Lyonnais y cinco sobre el Olympique de Marseille, que ahora es tercero.",
-            "date": "2015-04-06",
+        "es.investing.com/2015/04/al-psg-le-falt%C3%B3-profundidad-para-llegar-a-la-cima-europea": {
+            "title": "Al PSG le falt\u00f3 profundidad para llegar a la cima europea...",
+            "snippet": "Estuvieron colectivamente limitados, dijo el exentrenador del Olympique Lyonnais R\u00e9mi Garde al diario deportivo L'Equipe. Podemos decirlo: colectivamente, el PSG no estuvo all\u00ed, no s\u00e9 por qu\u00e9. Nos habr\u00eda gustado ver al PSG que elimin\u00f3 al...",
+            "date": "2015-04-16",
             "categories": "olympique-lyonnais",
-            "tags": "olympique,olympique_lyonnais,lyonnais,paris,ligue",
-            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/es.uefa.com/2015/04/cuatro-frentes-abiertos-para-el-paris",
+            "tags": "olympique,olympique_lyonnais,lyonnais,psg",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/es.investing.com/2015/04/al-psg-le-falt%C3%B3-profundidad-para-llegar-a-la-cima-europea",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/memberassociations/association=fra/news/newsid=2231501.html"
+            "source_url": "http://es.investing.com/news/world-news/al-psg-le-falt\u00f3-profundidad-para-llegar-a-la-cima-europea-265032"
         },
-        "es.uefa.com/2015/04/el-lyon-se-coloca-al-frente": {
-            "title": "El Lyon se coloca al frente...",
-            "snippet": "El Olympique Lyonnais logr\u00f3 su primera victoria en tres partidos de la Ligue 1, el 1-3 frente al EA Guingamp. Con este resultado, el conjunto visitante se coloca al frente de la clasificaci\u00f3n con dos puntos m\u00e1s que el Paris Saint-Germain...",
-            "date": "2015-04-04",
+        "defensacentral.com/2015/04/la-estad%C3%ADstica-ve-gol-madridista-en-el-calder%C3%B3n": {
+            "title": "La estad\u00edstica ve gol madridista en el Calder\u00f3n...",
+            "snippet": "Y es que el Madrid, desde que cayeran por 1-0 ante el Olympique Lyonnais en los octavos de final de la edici\u00f3n 2009/10, tan solo han dejado de marcar gol, lejos de su estadio, en una de las \u00faltimas veintiocho ocasiones en la m\u00e1xima competici\u00f3n...",
+            "date": "2015-04-12",
             "categories": "olympique-lyonnais",
-            "tags": "paris,olympique,olympique_lyonnais,lyonnais,lyon,ligue",
-            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/es.uefa.com/2015/04/el-lyon-se-coloca-al-frente",
+            "tags": "\u00fal,final,olympique,olympique_lyonnais,lyonnais",
+            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/defensacentral.com/2015/04/la-estad%C3%ADstica-ve-gol-madridista-en-el-calder%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/memberassociations/association=fra/news/newsid=2230973.html"
-        },
-        "news.yahoo.com/2015/03/francia-se-recupera-tras-derrota-y-gana-2-0-a-dinamarca": {
-            "title": "Francia se recupera tras derrota y gana 2-0 a Dinamarca en amistoso...",
-            "snippet": "Lacazette, que fue abucheado por el p\u00fablico antes del comienzo porque juega para el rival de St Etienne, el Olympique Lyonnais, abri\u00f3 el marcador para los galos a los 14 minutos con un volea desde dentro del \u00e1rea. Giroud aument\u00f3 la cuenta siete...",
-            "date": "2015-03-29",
-            "categories": "olympique-lyonnais",
-            "tags": "minutos,olympique,olympique_lyonnais,lyonnais,derrota,francia",
-            "recuweb_url": "http://es.recuweb.com/olympique-lyonnais/news.yahoo.com/2015/03/francia-se-recupera-tras-derrota-y-gana-2-0-a-dinamarca",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=es",
-            "source_url": "http://news.yahoo.com/francia-recupera-derrota-gana-2-0-dinamarca-amistoso-214859643--sow.html"
+            "source_url": "http://defensacentral.com/real_madrid/122779-la-estadistica-apuesta-por-gol-madridista-en-el-derbi/"
         }
     }
 }

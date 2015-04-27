@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "literatura",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/literatura/",
@@ -10,13 +11,37 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/literatura/literatura/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/escritor-juan-goytisolo-recibe-premio-cervantes-de-literatura": {
+            "title": "Escritor Juan Goytisolo recibe Premio Cervantes de Literatura...",
+            "snippet": "El escritor espa\u00f1ol Juan Goytisolorecibi\u00f3 el Premio Cervantes de Literatura. teleSURAuthor: teleSUR_tvTags: Noticia Cultura Espa\u00f1a Madrid Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "teleSUR_tv",
+            "categories": "cultura,literatura",
+            "tags": "escritor,premio,literatura",
+            "recuweb_url": "http://es.recuweb.com/literatura/dailymotion.com/2015/04/escritor-juan-goytisolo-recibe-premio-cervantes-de-literatura",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/literatura+literatura/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nqsqk_escritor-juan-goytisolo-recibe-premio-cervantes-de-literatura_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nqsqk_escritor-juan-goytisolo-recibe-premio-cervantes-de-literatura_news"
+        },
+        "dailymotion.com/2015/04/pablo-piedras-cine-documental-en-primera-persona-5-y-literatura": {
+            "title": "Pablo Piedras: Cine documental en primera persona 5/5. Cine y Literatura...",
+            "snippet": "Pablo Piedras, autor de El cine documental en primera persona, plantea las relaciones que existen entre este tipo de cine y la literatura argentina reciente. Doctor en Filosof\u00eda y Letras con orientaci\u00f3n en Teor\u00eda e Historia de las Artes por la...",
+            "date": "2015-04-23",
+            "author_name": "DJaAM-Documentary-films",
+            "categories": "cine,literatura",
+            "tags": "literatura,autor,letras",
+            "recuweb_url": "http://es.recuweb.com/literatura/dailymotion.com/2015/04/pablo-piedras-cine-documental-en-primera-persona-5-y-literatura",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/literatura+literatura/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2noqtg_pablo-piedras-cine-documental-en-primera-persona-5-5-cine-y-literatura_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2noqtg_pablo-piedras-cine-documental-en-primera-persona-5-5-cine-y-literatura_shortfilms"
+        },
         "dailymotion.com/2015/04/falleci%C3%B3-a-los-87-a%C3%B1os-g%C3%BCnter-grass-premio-nobel-de-literatura": {
             "title": "Falleci\u00f3 a los 87 a\u00f1os G\u00fcnter Grass, premio Nobel de Literatura...",
             "snippet": "El autor de El tambor de hojalata falleci\u00f3 hoy a los 87 a\u00f1os en un hospital de la ciudad de L\u00fcbeck, Alemania. Falleci\u00f3 el escritor Eduardo Galeano a los 74 a\u00f1os de edadAuthor: noticiastvperuanaTags: videos de noticias noticias Per\u00fa noticias en...",
             "date": "2015-04-13",
             "author_name": "noticiastvperuana",
             "categories": "literatura",
-            "tags": "noticias,escritor,hospital,tambor,tambor-de-hojalata,hojalata,falleci\u00f3,hoy,autor,g\u00fcnter,g\u00fcnter_grass,grass,premio,nobel,literatura,l\u00fcbeck,noticiastvperuanatags",
+            "tags": "noticias,escritor,hospital,tambor,tambor-de-hojalata,hojalata,falleci\u00f3,autor,g\u00fcnter,g\u00fcnter_grass,grass,premio,nobel,literatura,l\u00fcbeck,noticiastvperuanatags",
             "recuweb_url": "http://es.recuweb.com/literatura/dailymotion.com/2015/04/falleci%C3%B3-a-los-87-a%C3%B1os-g%C3%BCnter-grass-premio-nobel-de-literatura",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/literatura+literatura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mkq0v_fallecio-a-los-87-anos-gunter-grass-premio-nobel-de-literatura_news",
@@ -28,7 +53,7 @@
             "date": "2015-04-13",
             "author_name": "ultimas-noticias",
             "categories": "literatura",
-            "tags": "g\u00fcnter,g\u00fcnter_grass,grass,tambor,tambor-de-hojalata,hojalata,muerto,autor,escritor,escritor-alem\u00e1n,alem\u00e1n,muere,nobel,literatura,l\u00fcbeck",
+            "tags": "g\u00fcnter,g\u00fcnter_grass,grass,tambor,tambor-de-hojalata,hojalata,muerto,autor,escritor,escritor-alem\u00e1n,alem\u00e1n,muere,nobel,literatura,l\u00fcbeck,letras",
             "recuweb_url": "http://es.recuweb.com/literatura/dailymotion.com/2015/04/g%C3%BCnter-grass-muere-el-nobel-de-literatura-escritor-alem%C3%A1n-ten%C3%ADa-87a%C3%B1os",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/literatura+literatura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mj4vs_gunter-grass-muere-el-nobel-de-literatura-gunter-grass-el-escritor-aleman-tenia-87anos-guntergrass_news",
@@ -64,23 +89,11 @@
             "date": "2015-03-15",
             "author_name": "euronews-es",
             "categories": "literatura",
-            "tags": "hospital,hoy,escritor,literatura,literatura-rusa,rusa,principal",
+            "tags": "hospital,escritor,literatura,principal",
             "recuweb_url": "http://es.recuweb.com/literatura/dailymotion.com/2015/03/la-literatura-rusa-llora-a-valentin-rasputin",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/literatura+literatura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jkixy_la-literatura-rusa-llora-a-valentin-rasputin_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2jkixy_la-literatura-rusa-llora-a-valentin-rasputin_news"
-        },
-        "youtube.com/2014/09/literatura-antigua-china": {
-            "title": "Literatura Antigua: China.",
-            "snippet": "Literatura Antigua: China. Open the doobly doo! Facebook: Twitter: Instagram: Tumblr: Goodreads: From: M de Libertad Views: 1398 15 ratings Time: 09:59 More in Film & Animation...",
-            "date": "2014-09-23",
-            "author_name": "M de Libertad",
-            "categories": "literatura,facebook,twitter,tumblr",
-            "tags": "literatura,facebook,twitter",
-            "recuweb_url": "http://es.recuweb.com/tumblr/youtube.com/2014/09/literatura-antigua-china",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=literatura%2Bliteratura&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=5u1askyCawE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/5u1askyCawE/0.jpg"
         },
         "youtube.com/2014/03/rant-los-estudiantes-de-literatura-hacen-nada-laspalabrasdefa": {
             "title": "Rant Los estudiantes de literatura hacen NADA LasPalabrasDeFa...",
@@ -108,27 +121,15 @@
         },
         "youtube.com/2014/02/literatura-1-pre-san-marcos": {
             "title": "Literatura 1 Pre San Marcos...",
-            "snippet": "Literatura 1 Pre San Marcos Semana Sigueme: Google: Facebook: Twitter: From: Marcos Elantiguo Views: 14375 94 ratings Time: 40:24 More in Education...",
+            "snippet": "Literatura 1 Pre San Marcos Semana Sigueme: Google: Facebook: Twitter: From: Marcos Elantiguo Views: 14596 95 ratings Time: 40:24 More in Education...",
             "date": "2014-02-05",
             "author_name": "Marcos Elantiguo",
             "categories": "literatura,google,facebook,twitter",
-            "tags": "marcos,pre,san,literatura,facebook,twitter",
+            "tags": "marcos,pre,san,literatura,facebook",
             "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2014/02/literatura-1-pre-san-marcos",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=literatura%2Bliteratura&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=x4qulsm97Yg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/x4qulsm97Yg/0.jpg"
-        },
-        "youtube.com/2013/10/sergio-pitol-la-%C3%A9poca-de-oro-literatura-rusa-1a-sesi%C3%B3n": {
-            "title": "SERGIO PITOL - La \u00e9poca de oro de la literatura rusa (1a sesi\u00f3n)...",
-            "snippet": "SERGIO PITOL - La \u00e9poca de oro de la literatura rusa (1a sesi\u00f3n) Seminario impartido por el escritor Sergio Pitol en el que analiza la literatura rusa, espec\u00edficamente la literatura rusa del siglo XIX. En esta primera sesi\u00f3n se revisan temas...",
-            "date": "2013-10-31",
-            "author_name": "C\u00e1tedra Alfonso Reyes",
-            "categories": "literatura",
-            "tags": "literatura,literatura-rusa,rusa,escritor",
-            "recuweb_url": "http://es.recuweb.com/literatura/youtube.com/2013/10/sergio-pitol-la-%C3%A9poca-de-oro-literatura-rusa-1a-sesi%C3%B3n",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=literatura&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=1BHKljc-vxI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/1BHKljc-vxI/0.jpg"
         }
     }
 }

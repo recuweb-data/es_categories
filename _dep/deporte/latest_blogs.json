@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "deporte",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deporte/",
@@ -10,16 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deporte/deporte/blogs.json"
     },
     "items": {
-        "lagaceta.com.ar/2015/04/todo-el-deporte-para-ver-hoy-por-tv-lg-deportiva": {
-            "title": "Todo el deporte para ver hoy por TV - LG Deportiva - La Gaceta...",
-            "snippet": "Todo el deporte para ver hoy por TV. Hace 3 horas. 0 0. ampliar (1 foto). La semana sigue con diversos encuentros que acaparan la atenci\u00f3n de los fan\u00e1ticos. Primera Divisi\u00f3n: Col\u00f3n - Atl\u00e9tico de Rafaela (TV P\u00fablica)...",
-            "date": "2015-04-21",
+        "pro-universitarios.com/2015/04/disfrutar-del-deporte-al-estilo-pda-pro-universitarios": {
+            "title": "Disfrutar del deporte al estilo PDA PRO Universitarios...",
+            "snippet": "Por decir algo (), es un portal de noticias sobre futbol y deportes en general con un enfoque en el humor y las curiosidades; una cooperativa.",
+            "date": "2015-04-23",
+            "author_name": "admin",
+            "categories": "humor,futbol,deporte",
+            "tags": "algo,universitarios,deporte,deportes",
+            "recuweb_url": "http://es.recuweb.com/deporte/pro-universitarios.com/2015/04/disfrutar-del-deporte-al-estilo-pda-pro-universitarios",
+            "resource_url": "http://www.google.com/search?q=deporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://pro-universitarios.com/emprendimientos/disfrutar-del-deporte-al-estilo-pda/"
+        },
+        "cnnespanol.cnn.com/2015/04/en-el-pa%C3%ADs-de-la-samba-y-f%C3%BAtbol-luchadores-sumo-impulsan": {
+            "title": "En el pa\u00eds de la samba y el f\u00fatbol, luchadores de sumo impulsan su...",
+            "snippet": "Pero ellos no se est\u00e1n entrenando en Jap\u00f3n, el lugar en donde hace siglos se origin\u00f3 este deporte. En cambio, est\u00e1n luchando en un pa\u00eds conocido por su amor por el f\u00fatbol y la samba... Brasil. Mientras crec\u00edan, a Willian...",
+            "date": "2015-04-23",
+            "author_name": "marpichel",
+            "categories": "futbol,deporte",
+            "tags": "pa\u00eds,lugar,hace,deporte,cambio",
+            "recuweb_url": "http://es.recuweb.com/deporte/cnnespanol.cnn.com/2015/04/en-el-pa%C3%ADs-de-la-samba-y-f%C3%BAtbol-luchadores-sumo-impulsan",
+            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/04/23/en-el-pais-de-la-samba-y-el-futbol-luchadores-de-sumo-impulsan-su-deporte/"
+        },
+        "taringa.net/2015/04/lo-hago-con-el-coraz%C3%B3n-desmotivaciones-del-deporte-taringa": {
+            "title": "Lo hago con el Coraz\u00f3n (Desmotivaciones del Deporte) - Taringa!",
+            "snippet": "Gente.. Este es un post de algunos momentos emotivos del deporte.. Entre tantos que hay.. Espero les guste.. PD: SON VIDEOS CORTOS, VALE LA PENA VERLO...",
+            "date": "2015-04-23",
             "author_name": "desconocido",
             "categories": "deporte",
-            "tags": "primera,ver,deporte,hace,semana,sigue,atl\u00e9tico",
-            "recuweb_url": "http://es.recuweb.com/deporte/lagaceta.com.ar/2015/04/todo-el-deporte-para-ver-hoy-por-tv-lg-deportiva",
+            "tags": "deporte,hay",
+            "recuweb_url": "http://es.recuweb.com/deporte/taringa.net/2015/04/lo-hago-con-el-coraz%C3%B3n-desmotivaciones-del-deporte-taringa",
             "resource_url": "http://www.google.com/search?q=deporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lagaceta.com.ar/nota/634485/deportes/todo-deporte-para-ver-hoy-tv.html"
+            "source_url": "http://taringa.net/posts/deportes/18621244/Lo-hago-con-el-Corazon-Desmotivaciones-del-Deporte.html"
+        },
+        "lagaceta.com.ar/2015/04/todo-el-deporte-para-ver-hoy-por-tv-lg-deportiva": {
+            "title": "Todo el deporte para ver hoy por TV - LG Deportiva - La Gaceta...",
+            "snippet": "Todo el deporte para ver hoy por TV. Hace 11 horas. 0 0. ampliar (1 foto). La semana sigue con encuentros que mantendr\u00e1n en vilo a los fan\u00e1ticos de todo el mundo. Copa Libertadores: Emelec - U. de Chile (Fox...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "deporte",
+            "tags": "semana,mundo,deporte,deportiva,gaceta,hace,horas",
+            "recuweb_url": "http://es.recuweb.com/deporte/lagaceta.com.ar/2015/04/todo-el-deporte-para-ver-hoy-por-tv-lg-deportiva",
+            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lagaceta.com.ar/nota/634623/deportes/todo-deporte-para-ver-hoy-tv.html"
         },
         "f1aldia.com/2015/04/toto-wolff-tras-el-espect%C3%A1culo-de-bar%C3%A9in-creo-que-deporte": {
             "title": "Toto Wolff, tras el espect\u00e1culo de Bar\u00e9in: \"Creo que el deporte est\u00e1...",
@@ -27,10 +61,43 @@
             "date": "2015-04-20",
             "author_name": "desconocido",
             "categories": "deporte",
-            "tags": "deporte",
+            "tags": "clave,primer,deporte",
             "recuweb_url": "http://es.recuweb.com/deporte/f1aldia.com/2015/04/toto-wolff-tras-el-espect%C3%A1culo-de-bar%C3%A9in-creo-que-deporte",
             "resource_url": "http://www.google.com/search?q=deporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://f1aldia.com/26299/toto-wolff-tras-espectaculo-barein-creo-deporte-esta-buena-forma/"
+        },
+        "upo.es/2015/04/la-facultad-de-ciencias-del-deporte-recibe-ma%C3%B1ana-a-cerca-700": {
+            "title": "La Facultad de Ciencias del Deporte recibe ma\u00f1ana a cerca de 700...",
+            "snippet": "La Facultad de Ciencias del Deporte recibe ma\u00f1ana a cerca de 700 estudiantes de 13 institutos sevillanos. Los alumnos podr\u00e1n participar en 28 actividades l\u00fadico-deportivas que se celebrar\u00e1n a lo largo de la ma\u00f1ana en el...",
+            "date": "2015-04-16",
+            "author_name": "adomrei",
+            "categories": "ciencias,ciencia,deporte",
+            "tags": "podr\u00e1n,recibe,deporte,deportivas,largo",
+            "recuweb_url": "http://es.recuweb.com/deporte/upo.es/2015/04/la-facultad-de-ciencias-del-deporte-recibe-ma%C3%B1ana-a-cerca-700",
+            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://upo.es/diario/institucional/2015/04/la-facultad-de-ciencias-del-deporte-recibe-manana-a-cerca-de-700-estudiantes-de-13-institutos-sevillanos/"
+        },
+        "almansadeporte.es/2015/04/p%C3%A1del-femenino-solidario-en-la-vi-semana-del-deporte": {
+            "title": "P\u00e1del femenino solidario en la VI Semana del Deporte: Deporte y...",
+            "snippet": "Desde la concejal\u00eda y el \u00c1rea de Deportes lanzan un torneo de p\u00e1del femenino gratuito a celebrar entre los d\u00edas 11 y 14 de mayo en las pistas de p\u00e1del municipales. La inscripci\u00f3n ser\u00e1 totalmente gratuita a cambio de...",
+            "date": "2015-04-15",
+            "author_name": "Redacci\u00f3n",
+            "categories": "deporte",
+            "tags": "ser\u00e1,cambio,d\u00edas,semana,deporte,deportes,mayo",
+            "recuweb_url": "http://es.recuweb.com/deporte/almansadeporte.es/2015/04/p%C3%A1del-femenino-solidario-en-la-vi-semana-del-deporte",
+            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://almansadeporte.es/padel-femenino-solidario-en-la-vi-semana-del-deporte-deporte-y-mujer/"
+        },
+        "ellitoral.com/2015/04/la-muerte-s%C3%BAbita-en-el-deporte-diario-litoral-santa-fe": {
+            "title": "La muerte s\u00fabita en el deporte:: Diario El Litoral - Santa Fe...",
+            "snippet": "El deporte argentino no escapa a esta realidad y los casos amateurs o profesionales duelen sin final. No hace falta ni siquiera recordar lo que pas\u00f3 con el chiquito Santiago Gilliard, de 14 a\u00f1os, que sufri\u00f3 dos paros...",
+            "date": "2015-04-13",
+            "author_name": "desconocido",
+            "categories": "deporte",
+            "tags": "hace,diario,deporte",
+            "recuweb_url": "http://es.recuweb.com/deporte/ellitoral.com/2015/04/la-muerte-s%C3%BAbita-en-el-deporte-diario-litoral-santa-fe",
+            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ellitoral.com/index.php/id_um/112012-la-muerte-subita-en-el-deporte"
         },
         "bosport.wordpress.com/2015/04/agresiones-en-el-deporte": {
             "title": "Agresiones en el Deporte...",
@@ -38,87 +105,21 @@
             "date": "2015-04-10",
             "author_name": "Borja Franganillo",
             "categories": "deporte",
-            "tags": "deportivo,diferentes,tipos,hace,deporte,violencia,fin",
+            "tags": "fin,hace,violencia,deporte",
             "recuweb_url": "http://es.recuweb.com/deporte/bosport.wordpress.com/2015/04/agresiones-en-el-deporte",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=deporte%2Bdeporte&rss=1&lng=es",
             "source_url": "http://bosport.wordpress.com/2015/04/10/agresiones-en-el-deporte/"
         },
-        "xatakaciencia.com/2015/04/el-deporte-es-saludable-hasta-cierto-punto-ciencia-xataka": {
-            "title": "El deporte es saludable hasta cierto punto - Ciencia Xataka...",
-            "snippet": "Si tenemos en cuenta la cantidad de lesiones que produce, el deporte ya no parece tan saludable. O mejor dicho: practicar deporte en dosis inadecuadas es poco saludable (aunque probablemente sea m\u00e1s poco saludable...",
-            "date": "2015-04-04",
-            "author_name": "Sergio Parra",
-            "categories": "ciencia,deporte",
-            "tags": "poco,cuenta,ciencia,deporte",
-            "recuweb_url": "http://es.recuweb.com/deporte/xatakaciencia.com/2015/04/el-deporte-es-saludable-hasta-cierto-punto-ciencia-xataka",
-            "resource_url": "http://www.google.com/search?q=deporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xatakaciencia.com/salud/el-deporte-es-saludable-hasta-cierto-punto"
-        },
-        "madridaveces.wordpress.com/2015/03/deportes-en-madrid-hockey": {
-            "title": "Deportes en Madrid: Hockey...",
-            "snippet": "En la ciudad de Madrid el fin de semana es tiempo de f\u00fatbol. Cuando juega el Madrid o el Atl\u00e9tico todo se paraliza, y si juegan el derbi \u00a1Hasta se puede andar por la Gran V\u00eda! El futbol es una parte esencial de la vida de muchos madrile\u00f1os y de...",
-            "date": "2015-03-30",
-            "author_name": "madridaveces",
-            "categories": "futbol,hockey",
-            "tags": "f\u00fatbol,parte,gran,puede,semana,tiempo,ciudad,deportes,madrid,fin,atl\u00e9tico",
-            "recuweb_url": "http://es.recuweb.com/hockey/madridaveces.wordpress.com/2015/03/deportes-en-madrid-hockey",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=deporte%2Bdeporte&rss=1&lng=es",
-            "source_url": "http://madridaveces.wordpress.com/2015/03/30/deportes-en-madrid-hockey/"
-        },
-        "bosport.wordpress.com/2015/03/cimientos-del-deporte-base-y-de-formaci%C3%B3n": {
-            "title": "Cimientos del Deporte Base y de Formaci\u00f3n...",
-            "snippet": "El deporte y el ejercicio f\u00edsico son muy importantes en la infancia, es una etapa complicada en la que influyen diferentes circunstancias. He podido comprobar que, en algunos casos, no se tienen en cuenta ciertas implicaciones psicol\u00f3gicas que...",
-            "date": "2015-03-25",
-            "author_name": "Borja Franganillo",
-            "categories": "deporte",
-            "tags": "cuenta,algunos,casos,diferentes,importantes,f\u00edsico,son,deporte,base,formaci\u00f3n,ejercicio,muy",
-            "recuweb_url": "http://es.recuweb.com/deporte/bosport.wordpress.com/2015/03/cimientos-del-deporte-base-y-de-formaci%C3%B3n",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=deporte%2Bdeporte&rss=1&lng=es",
-            "source_url": "http://bosport.wordpress.com/2015/03/25/cimientos-del-deporte-base-y-de-formacion/"
-        },
-        "laartrosis.com/2015/03/artrosis-y-deporte": {
-            "title": "Artrosis y deporte...",
-            "snippet": "Cada vez son m\u00e1s los casos de pacientes j\u00f3venes con artrosis, debido a una pr\u00e1ctica intensiva del deporte que sobrecarga sus articulaciones. Los triatletas y corredores de fondo, son dos ejemplos de quienes suelen...",
-            "date": "2015-03-16",
-            "author_name": "La artrosis",
-            "categories": "deporte",
-            "tags": "son,casos,deporte,j\u00f3venes",
-            "recuweb_url": "http://es.recuweb.com/deporte/laartrosis.com/2015/03/artrosis-y-deporte",
-            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://laartrosis.com/2015/03/16/artrosis-y-deporte/"
-        },
-        "elnuevodia.com/2015/03/exhiben-85-a%C3%B1os-del-deporte-boricua-en-el-mundo-nuevo-d%C3%ADa": {
-            "title": "Exhiben 85 a\u00f1os del deporte boricua en el mundo El Nuevo D\u00eda...",
-            "snippet": "Copur y Odecabe inauguran exposici\u00f3n sobre la historia del deporte puertorrique\u00f1o fuera de la Isla.",
-            "date": "2015-03-16",
-            "author_name": "admin",
-            "categories": "deporte",
-            "tags": "d\u00eda,deporte,mundo",
-            "recuweb_url": "http://es.recuweb.com/deporte/elnuevodia.com/2015/03/exhiben-85-a%C3%B1os-del-deporte-boricua-en-el-mundo-nuevo-d%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elnuevodia.com/deportes/otrosdeportes/nota/exhiben85anosdeldeporteboricuaenelmundo-2020427/"
-        },
-        "abc.com.py/2015/03/m%C3%BAsica-gastronom%C3%ADa-y-deporte-en-arena-circo-espectaculos-abc": {
-            "title": "M\u00fasica, gastronom\u00eda y deporte en Arena Circo - Espectaculos - ABC...",
-            "snippet": "M\u00fasica, gastronom\u00eda y deporte en Arena Circo. El 28 de marzo se realizar\u00e1 el Miller Lite American Xperience, evento que presentar\u00e1 conciertos de bandas tributo internacionales de grupos como Kiss, Metallica y Red Hot...",
-            "date": "2015-03-16",
+        "acnur.org/2015/04/entrevista-el-exl%C3%ADder-ol%C3%ADmpico-rogge-hace-foco-en-deporte": {
+            "title": "Entrevista: el exl\u00edder Ol\u00edmpico Rogge hace foco en el deporte para...",
+            "snippet": "El exregatista ol\u00edmpico y cirujano ortop\u00e9dico Jacques Rogge fue recientemente nombrado Eviado Especial para los J\u00f3venes Refugiados y el Deporte por...",
+            "date": "2015-04-07",
             "author_name": "desconocido",
             "categories": "deporte",
-            "tags": "evento,deporte",
-            "recuweb_url": "http://es.recuweb.com/deporte/abc.com.py/2015/03/m%C3%BAsica-gastronom%C3%ADa-y-deporte-en-arena-circo-espectaculos-abc",
+            "tags": "especial,ol\u00edmpico,hace,deporte",
+            "recuweb_url": "http://es.recuweb.com/deporte/acnur.org/2015/04/entrevista-el-exl%C3%ADder-ol%C3%ADmpico-rogge-hace-foco-en-deporte",
             "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/espectaculos/musica/musica-gastronomia-y-deporte-en-arena-circo-1346221.html"
-        },
-        "difundir.org/2015/03/40-tipos-de-cuerpo-seg%C3%BAn-el-deporte-que-practican": {
-            "title": "40 Tipos de cuerpo seg\u00fan el deporte que practican...",
-            "snippet": "Si lo que quieres es hacer deporte para tener un cuerpo de ensue\u00f1o, a continuaci\u00f3n te presentamos algunos tipos de cuerpos que puedes desarrollar, con ciertos deportes:...",
-            "date": "2015-03-15",
-            "author_name": "Difundir",
-            "categories": "deporte",
-            "tags": "algunos,tipos,deporte,practican,deportes",
-            "recuweb_url": "http://es.recuweb.com/deporte/difundir.org/2015/03/40-tipos-de-cuerpo-seg%C3%BAn-el-deporte-que-practican",
-            "resource_url": "http://www.google.com/search?q=deporte%2Bdeporte&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://difundir.org/2015/03/15/40-tipos-de-cuerpo-segun-el-deporte-que-practican/"
+            "source_url": "http://acnur.org/t3/noticias/noticia/entrevista-el-exlider-olimpico-rogge-hace-foco-en-el-deporte-para-los-jovenes-refugiados/"
         }
     }
 }

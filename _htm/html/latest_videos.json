@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "html",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/html/",
@@ -21,6 +22,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Ch1GG4xM8nw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Ch1GG4xM8nw/0.jpg"
+        },
+        "youtube.com/2015/01/como-hacer-un-men%C3%BA-pegajoso-sticky-menu-con-html-css": {
+            "title": "Como hacer un men\u00fa pegajoso/sticky menu con HTML, CSS y Javascript...",
+            "snippet": "Como hacer un men\u00fa pegajoso/sticky menu con HTML, CSS y Javascript En este video tutorial aprenderemos como hacer una barra de navegacion pegajosa (sticky men\u00fa) que se pega a la parte superior del navegador al scrollear. Blog de dise\u00f1o web:...",
+            "date": "2015-01-11",
+            "author_name": "FalconMasters",
+            "categories": "html,css,javascript",
+            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,hacer,barra,html,css,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2015/01/como-hacer-un-men%C3%BA-pegajoso-sticky-menu-con-html-css",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=9me1HvKs_1U&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/9me1HvKs_1U/0.jpg"
         },
         "dailymotion.com/2014/12/como-convertir-imagen-a-texto-html-txt-jpg": {
             "title": "Como Convertir Imagen a Texto (HTML, txt, JPG y M\u00e1s)...",
@@ -52,7 +65,7 @@
             "date": "2014-10-17",
             "author_name": "FalconMasters",
             "categories": "html,css",
-            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,pagina,hacer,html,css,necesitas,ayuda,falconmasters",
+            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,barra,pagina,hacer,html,css,necesitas,ayuda,falconmasters",
             "recuweb_url": "http://es.recuweb.com/css/youtube.com/2014/10/como-hacer-una-barra-social-vertical-y-fija-a-pantalla",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=oRhU90wCghY&feature=youtube_gdata",
@@ -64,23 +77,11 @@
             "date": "2014-09-15",
             "author_name": "crackmastersamm",
             "categories": "html,facebook,twitter,google",
-            "tags": "comentario,b\u00e1sico,crear,pagina,html,hola,facebook,fanpage,web",
+            "tags": "comentario,b\u00e1sico,crear,pagina,html,hola,web",
             "recuweb_url": "http://es.recuweb.com/google/dailymotion.com/2014/09/como-crear-una-pagina-insertar-video-con-html-5-b%C3%A1sico-bien",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/html+html/0?af=1",
             "source_url": "http://dailymotion.com/video/x25z76m_como-crear-una-pagina-insertar-video-con-html-5-basico-bien-explicado-para-empezar_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x25z76m_como-crear-una-pagina-insertar-video-con-html-5-basico-bien-explicado-para-empezar_tech"
-        },
-        "youtube.com/2014/08/crear-una-fanpage-en-facebook-instalar-static-html-iframes-actualizado-2014": {
-            "title": "Crear una Fanpage en Facebook: Instalar Static HTML Iframes - Actualizado 2014...",
-            "snippet": "Crear una Fanpage en Facebook: Instalar Static HTML Iframes - Actualizado 2014 - Crear una Fanpage en Facebook: en este video tutorial, aprender\u00e1s a instalar la aplicaci\u00f3n Static HTML Iframe Tab. Esta aplicaci\u00f3n te permitir\u00e1 agregar... From:...",
-            "date": "2014-08-15",
-            "author_name": "Juan Camilo Alvarez",
-            "categories": "html,iframe,facebook",
-            "tags": "html,tutorial,crear,fanpage,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2014/08/crear-una-fanpage-en-facebook-instalar-static-html-iframes-actualizado-2014",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=4T5M2guMX7c&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/4T5M2guMX7c/0.jpg"
         },
         "youtube.com/2014/08/qu%C3%A9-es-html-y-c%C3%B3mo-funciona": {
             "title": "Qu\u00e9 es HTML y c\u00f3mo funciona...",
@@ -96,11 +97,11 @@
         },
         "youtube.com/2014/07/como-hacer-un-slideshow-para-sitio-web-con-html-css": {
             "title": "Como hacer un slideshow para un sitio web con HTML, CSS y JS...",
-            "snippet": "Como hacer un slideshow para un sitio web con HTML, CSS y JS Aprende como crear un Slideshow para tu sitio web utilizando HTML, CSS y un poco de Javascript. Blog de dise\u00f1o web: Necesitas ayuda con el tutorial?... From: FalconMasters Views: 41942...",
+            "snippet": "Como hacer un slideshow para un sitio web con HTML, CSS y JS Aprende como crear un Slideshow para tu sitio web utilizando HTML, CSS y un poco de Javascript. Blog de dise\u00f1o web: Necesitas ayuda con el tutorial?... From: FalconMasters Views: 44254...",
             "date": "2014-07-23",
             "author_name": "FalconMasters",
             "categories": "html,css,javascript",
-            "tags": "ayuda,tutorial,dise\u00f1o,dise\u00f1o-web,web,poco,sitio,sitio-web,crear,hacer,html,css,necesitas,falconmasters",
+            "tags": "ayuda,tutorial,dise\u00f1o,dise\u00f1o-web,web,poco,sitio,sitio-web,crear,hacer,html,css,javascript,necesitas,falconmasters",
             "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2014/07/como-hacer-un-slideshow-para-sitio-web-con-html-css",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html%2Bhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=lgKg6lcsOAA&feature=youtube_gdata",

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hapkido",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hapkido/",
@@ -10,74 +11,94 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/blogs.json"
     },
     "items": {
-        "farodevigo.es/2015/04/cangas-acoge-el-d%C3%ADa-18-un-seminario-de-kenpo-k%C3%A1rate": {
-            "title": "Cangas acoge el d\u00eda 18 un seminario de kenpo k\u00e1rate...",
-            "snippet": "El Kenpo Karate Venezolano conCarlos Orellana; el Kempo Karate habitual, a cargo de Sergio Prieto; el Lima Lama con Alfredo y Alberto L\u00f3pez, de Madrid; y el hapkido, a cargo de Julio Oliveira. El seminario ser\u00e1 de 10 a 14 y uno se puede anotar en...",
-            "date": "2015-04-10",
-            "categories": "karate,hapkido",
-            "tags": "puede,sergio,hapkido",
-            "recuweb_url": "http://es.recuweb.com/hapkido/farodevigo.es/2015/04/cangas-acoge-el-d%C3%ADa-18-un-seminario-de-kenpo-k%C3%A1rate",
+        "deporpress.com/2015/04/el-pabell%C3%B3n-ana-bautista-acoge-s%C3%A1bado-open-wamai-de-canarias": {
+            "title": "El pabell\u00f3n Ana Bautista acoge el s\u00e1bado el Open Wamai de Canarias...",
+            "snippet": "Esta reuni\u00f3n de artes marciales conjuga k\u00e1rate, taekwondo, mugendo, kung-fu, aikido, kempo, jujitsu, kick boxing, tai chi, hapkido, kendo, pancrace y wushu, entre otros. El Organismo Aut\u00f3nomo de Deportes (OAD) del Ayuntamiento de Santa Cruz de...",
+            "date": "2015-04-21",
+            "categories": "wushu,kick-boxing,karate,taekwondo,hapkido",
+            "tags": "open,s\u00e1bado,hapkido,deportes",
+            "recuweb_url": "http://es.recuweb.com/hapkido/deporpress.com/2015/04/el-pabell%C3%B3n-ana-bautista-acoge-s%C3%A1bado-open-wamai-de-canarias",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
-            "source_url": "http://farodevigo.es/deportes/morrazo/2015/04/10/cangas-acoge-dia-18-seminario/1217411.html"
+            "source_url": "http://deporpress.com/index.php/2015/04/21/el-pabellon-ana-bautista-acoge-el-sabado-el-open-wamai-de-canarias/"
         },
-        "mdzol.com/2015/04/el-domingo-se-disputa-vendimia-taekwondo": {
-            "title": "El domingo se disputa el Vendimia Taekwondo...",
-            "snippet": "Adem\u00e1s, en esta ocasi\u00f3n, por primera vez en Mendoza, se llevar\u00e1 a cabo un Torneo de Hapkido, que es el arte de defensa personal. Para informes e inscripciones se puede visitar la pagina o contactarse al celular 261 5078481.",
-            "date": "2015-04-10",
-            "categories": "taekwondo,hapkido",
-            "tags": "informes,informes-inscripciones,inscripciones,inscripciones-se-puede,puede,puede-visitar,visitar,celular,arte,vendimia,taekwondo,domingo,adem\u00e1s,primera,mendoza,torneo,hapkido,defensa,personal",
-            "recuweb_url": "http://es.recuweb.com/hapkido/mdzol.com/2015/04/el-domingo-se-disputa-vendimia-taekwondo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
-            "source_url": "http://mdzol.com/nota/599010-el-domingo-se-disputa-el-vendimia-taekwondo/"
-        },
-        "mendozaopina.com/2015/04/variada-agenda-deportiva-para-el-fin-de-semana": {
-            "title": "Variada agenda deportiva para el fin de semana...",
-            "snippet": "Mientras que el domingo habr\u00e1 otros tres acontecimientos deportivos: la 11 edici\u00f3n del Desaf\u00edo Portinari, competencia de mountainbike que tendr\u00e1 como epicentro el Manzano Hist\u00f3rico, de Tunuy\u00e1n; el torneo Vendimia de Taekwondo y Hapkido, en...",
-            "date": "2015-04-10",
-            "categories": "taekwondo,hapkido",
-            "tags": "torneo,domingo,vendimia,taekwondo,hapkido",
-            "recuweb_url": "http://es.recuweb.com/hapkido/mendozaopina.com/2015/04/variada-agenda-deportiva-para-el-fin-de-semana",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
-            "source_url": "http://mendozaopina.com/mendoza/108-2/46594-variada-agenda-deportiva-para-el-fin-de-semana"
-        },
-        "hbvl.be/2015/04/hapkido-mudori-pakt-13-medailles-op-open-nederlands-het-belang-van": {
-            "title": "Hapkido Mudori pakt 13 medailles op Open Nederlands... - Het Belang van Limburg...",
-            "snippet": "Het Belang van LimburgHapkido Mudori pakt 13 medailles op Open Nederlands...Het Belang van LimburgElf hapkidoin (beoefenaars van het Koreaanse Hapkido) namen er deel aan het 13de Open Nederlandse Hapkido Kampioenschap. De verwachtingen stonden...",
-            "date": "2015-04-09",
+        "laprovincia.es/2015/04/homenaje-al-maestro-kim-sung-kun-por-la-obtenci%C3%B3n": {
+            "title": "Homenaje al maestro Kim Sung Kun por la obtenci\u00f3n de su d\u00e9cimo dan...",
+            "snippet": "El maestro de hapkido Kim Sung Kun recibir\u00e1 un c\u00e1lido homenaje por parte de sus alumnos en un acto que tendr\u00e1 lugar en el Restaurante La Terraza del Hotel Parque de Las Palmas, el pr\u00f3ximo s\u00e1bado 25 desde las 14:00 hasta las 17:00 horas, con...",
+            "date": "2015-04-21",
             "categories": "hapkido",
-            "tags": "open,open_nederlandse,nederlandse,nederlandse_hapkido,hapkido,het,van,van-het,nederlands",
-            "recuweb_url": "http://es.recuweb.com/hapkido/hbvl.be/2015/04/hapkido-mudori-pakt-13-medailles-op-open-nederlands-het-belang-van",
-            "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
-            "source_url": "http://hbvl.be/cnt/dmf20150409_01621772/hapkido-mudori-pakt-13-medailles-op-open-nederlands-kampioenschap"
-        },
-        "jornadaonline.com/2015/04/torneo-vendimia-de-taekwondo-en-maip%C3%BA": {
-            "title": "Torneo Vendimia de taekwondo en Maip\u00fa...",
-            "snippet": "Adem\u00e1s de realizarse por primera vez en Mendoza un torneo de Hapkido que es el Arte de la Defensa Personal. Para informes e inscripciones se puede visitar la p\u00e1gina o al celular 261 5078481.",
-            "date": "2015-04-09",
-            "categories": "taekwondo,hapkido",
-            "tags": "informes,informes-inscripciones,inscripciones,inscripciones-se-puede,puede,puede-visitar,visitar,celular,defensa,defensa_personal,personal,torneo,taekwondo,vendimia,adem\u00e1s,primera,mendoza,hapkido,arte",
-            "recuweb_url": "http://es.recuweb.com/hapkido/jornadaonline.com/2015/04/torneo-vendimia-de-taekwondo-en-maip%C3%BA",
+            "tags": "s\u00e1bado,parte,alumnos,maestro,hapkido",
+            "recuweb_url": "http://es.recuweb.com/hapkido/laprovincia.es/2015/04/homenaje-al-maestro-kim-sung-kun-por-la-obtenci%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
-            "source_url": "http://jornadaonline.com/Deporte/132904-Torneo-Vendimia-de-taekwondo-en-Maip\u00fa"
+            "source_url": "http://laprovincia.es/deportes/2015/04/22/homenaje-maestro-kim-sung-kun/697785.html"
         },
-        "joustercourant.nl/2015/04/kinderen-oase-scoren-goed-op-13e-onk-hapkido-jouster-courant": {
-            "title": "Kinderen Oase scoren goed op 13e ONK Hapkido - Jouster Courant...",
-            "snippet": "Jouster CourantKinderen Oase scoren goed op 13e ONK HapkidoJouster CourantCULEMBORG/FOLLEGA De kinderen van therapeutische AWBZ zorginstelling De Oase uit Follega hebben zondag 5 april meerdere prijzen behaald bij de dertiende Open Nederlandse...",
-            "date": "2015-04-08",
+        "europapress.es/2015/04/unas-jornadas-educar%C3%A1n-a-estudiantes-cacere%C3%B1os-en-estilos-de-vida-saludable": {
+            "title": "Unas jornadas educar\u00e1n a estudiantes cacere\u00f1os en estilos de vida saludable...",
+            "snippet": "Los alumnos del Javier Garc\u00eda T\u00e9llez podr\u00e1n participar y disfrutar de distintas alternativas de ocio saludable en los talleres simult\u00e1neos de escalada, skate, hapkido, pilates, baile y esgrima que les ofrecer\u00e1n las Escuelas Deportivas de...",
+            "date": "2015-04-21",
+            "categories": "escuela,esgrima,escalada,hapkido",
+            "tags": "escuelas,baile,baile-esgrima,esgrima,ofrecer\u00e1n,podr\u00e1n,podr\u00e1n-participar,podr\u00e1n-participar-disfrutar,participar,participar-disfrutar,disfrutar,disfrutar-de-distintas,distintas,distintas-alternativas,alternativas,alternativas-de-ocio,ocio,ocio-saludable,saludable,talleres,talleres-simult\u00e1neos,simult\u00e1neos,simult\u00e1neos-de-escalada,escalada,javier,javier_garc\u00eda,javier_garc\u00eda_t\u00e9llez,garc\u00eda,garc\u00eda_t\u00e9llez,t\u00e9llez,alumnos,jornadas,estilos,estilos-de-vida,vida,skate,hapkido,pilates",
+            "recuweb_url": "http://es.recuweb.com/hapkido/europapress.es/2015/04/unas-jornadas-educar%C3%A1n-a-estudiantes-cacere%C3%B1os-en-estilos-de-vida-saludable",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
+            "source_url": "http://europapress.es/extremadura/salud-00924/noticia-jornadas-educaran-estudiantes-cacerenos-estilos-vida-saludable-20150421112333.html"
+        },
+        "regiondigital.com/2015/04/unas-jornadas-en-el-ies-garc%C3%ADa-t%C3%A9llez-de-c%C3%A1ceres-formar%C3%A1n": {
+            "title": "Unas jornadas en el IES Garc\u00eda T\u00e9llez de C\u00e1ceres formar\u00e1n a sus alumnos en estilos de vida...",
+            "snippet": "Por tanto, los alumnos del Javier Garc\u00eda T\u00e9llez podr\u00e1n participar y disfrutar de distintas alternativas de ocio saludable en los talleres simult\u00e1neos de escalada, skate, hapkido, pilates, baile y esgrima que les ofrecer\u00e1n las Escuelas...",
+            "date": "2015-04-21",
+            "categories": "esgrima,escalada,hapkido,escuela",
+            "tags": "baile,baile-esgrima,esgrima,ofrecer\u00e1n,podr\u00e1n,podr\u00e1n-participar,podr\u00e1n-participar-disfrutar,participar,participar-disfrutar,disfrutar,disfrutar-de-distintas,distintas,distintas-alternativas,alternativas,alternativas-de-ocio,ocio,ocio-saludable,saludable,talleres,talleres-simult\u00e1neos,simult\u00e1neos,simult\u00e1neos-de-escalada,escalada,javier,javier_garc\u00eda,javier_garc\u00eda_t\u00e9llez,garc\u00eda,garc\u00eda_t\u00e9llez,t\u00e9llez,alumnos,estilos,estilos-de-vida,vida,jornadas,skate,hapkido,pilates,escuelas",
+            "recuweb_url": "http://es.recuweb.com/escuela/regiondigital.com/2015/04/unas-jornadas-en-el-ies-garc%C3%ADa-t%C3%A9llez-de-c%C3%A1ceres-formar%C3%A1n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
+            "source_url": "http://regiondigital.com/noticias/juventud/236108-unas-jornadas-en-el-ies-garcia-tellez-de-caceres-formaran-a-sus-alumnos-en-estilos-de-vida-saludable.html"
+        },
+        "radiohuesca.com/2015/04/monz%C3%B3n-presume-de-sus-deportistas-en-su-gala-anual": {
+            "title": "Monz\u00f3n presume de sus deportistas en su gala anual...",
+            "snippet": "Airon Club Alevin (Nataci\u00f3n. Campeones de Arag\u00f3n). Christopher Garc\u00eda (hapkido. Campe\u00f3n de Arag\u00f3n). Abdoulaye Bah (f\u00fatbol. Jugador divisi\u00f3n honor SD Huesca e integrante Selecci\u00f3n Aragonesa en Campeonato de Espa\u00f1a). Atl\u00e9tico Monz\u00f3n Juvenil...",
+            "date": "2015-04-18",
+            "categories": "natacion,hapkido,futbol",
+            "tags": "selecci\u00f3n,garc\u00eda,campeones,hapkido,campeonato",
+            "recuweb_url": "http://es.recuweb.com/futbol/radiohuesca.com/2015/04/monz%C3%B3n-presume-de-sus-deportistas-en-su-gala-anual",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
+            "source_url": "http://radiohuesca.com/noticia/539803/Monzon-presume-de-sus-deportistas-en-su-gala-anual"
+        },
+        "alphensnieuwsblad.nl/2015/04/nationale-sportweek-2015-open-lessen-hapkido-alphens-nieuwsblad": {
+            "title": "Nationale Sportweek 2015, Open lessen HAPKIDO - Alphens Nieuwsblad...",
+            "snippet": "Alphens NieuwsbladNationale Sportweek 2015, Open lessen HAPKIDOAlphens NieuwsbladDe basis van Hapkido bestaat uit jezelf verdedigen, door de kracht van de tegenstander te gebruiken en zonder veel kracht om te buigen, zodat je deze kracht tegen hem...",
+            "date": "2015-04-17",
             "categories": "hapkido",
-            "tags": "open,open_nederlandse,nederlandse,meerdere,prijzen,van,hapkido,uit",
-            "recuweb_url": "http://es.recuweb.com/hapkido/joustercourant.nl/2015/04/kinderen-oase-scoren-goed-op-13e-onk-hapkido-jouster-courant",
+            "tags": "van,uit,open,hapkido",
+            "recuweb_url": "http://es.recuweb.com/hapkido/alphensnieuwsblad.nl/2015/04/nationale-sportweek-2015-open-lessen-hapkido-alphens-nieuwsblad",
             "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
-            "source_url": "http://joustercourant.nl/nieuws/37260/kinderen-oase-scoren-goed-op-13e-onk-hapkido/"
+            "source_url": "http://alphensnieuwsblad.nl/agenda/nationale-sportweek-2015-open-lessen-hapkido-1.4862025"
+        },
+        "tehachapinews.com/2015/04/martial-arts-center-to-host-combat-hapkido-seminar-tehachapi-news": {
+            "title": "Martial Arts Center to host combat hapkido seminar - Tehachapi News...",
+            "snippet": "Tehachapi NewsMartial Arts Center to host combat hapkido seminarTehachapi NewsThe international seminar will be held on Saturday, May 16, from 9 a.m. to 3 p.m. Participants will learn how Combat Hapkido is a modern style of Hapkido utilizing a...",
+            "date": "2015-04-16",
+            "categories": "hapkido",
+            "tags": "hapkido",
+            "recuweb_url": "http://es.recuweb.com/hapkido/tehachapinews.com/2015/04/martial-arts-center-to-host-combat-hapkido-seminar-tehachapi-news",
+            "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
+            "source_url": "http://tehachapinews.com/archive/x1635361970/Martial-Arts-Center-to-host-combat-hapkido-seminar"
+        },
+        "elsoldemargarita.com.ve/2015/04/nueva-esparta-logr%C3%B3-bronce-en-hapkido": {
+            "title": "Nueva Esparta logr\u00f3 bronce en Hapkido...",
+            "snippet": "14 Abr, 2015 La delegaci\u00f3n del estado Nueva Esparta comenz\u00f3 con buen pie, su participaci\u00f3n en la I V\u00e1lida de Hapkido, que se realiz\u00f3 este fin de semana en el gimnasio Francisco Verde Rojas de La Asunci\u00f3n. En visita a la redacci\u00f3n del Sol...",
+            "date": "2015-04-14",
+            "categories": "hapkido",
+            "tags": "buen,estado,hapkido",
+            "recuweb_url": "http://es.recuweb.com/hapkido/elsoldemargarita.com.ve/2015/04/nueva-esparta-logr%C3%B3-bronce-en-hapkido",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hapkido&format=RSS&cc=es",
+            "source_url": "http://elsoldemargarita.com.ve/posts/post/id:148770/Nueva-Esparta-logr\u00f3-bronce-en-Hapkido"
         },
         "nieuwsbladgeldermalsen.nl/2015/04/topprestaties-si-jak-op-open-nk-hapkido": {
             "title": "Topprestaties Si-jak op Open NK hapkido -...",
             "snippet": "Si-jak op Open NK waren zelfs twee leerlingen van Si-Jak die de meeste prijzen van het hele toernooi behaalden: Mauricio Pouw en Ahmed Alijev, beiden lid van het Nederlands Hapkido selectie-team. bondscoach Martin Zingel uit Varik. Op verschillende...",
             "date": "2015-04-08",
             "categories": "hapkido",
-            "tags": "nederlands,hapkido,van,van-het,het,prijzen,waren,jak,topprestaties,open,uit",
+            "tags": "hapkido,van,mauricio,open,uit",
             "recuweb_url": "http://es.recuweb.com/hapkido/nieuwsbladgeldermalsen.nl/2015/04/topprestaties-si-jak-op-open-nk-hapkido",
-            "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hapkido%2Bhapkido&output=atom&nord=1",
             "source_url": "http://nieuwsbladgeldermalsen.nl/lokaal/topprestaties_sijak_op_open_nk_hapkido_3586336.html"
         },
         "hsbnoticias.com/2015/04/el-hapkido-un-deporte-que-toma-cada-vez-m%C3%A1s-fuerza": {
@@ -85,30 +106,10 @@
             "snippet": "HSB NoticiasEl Hapkido, un deporte que toma cada vez m\u00e1s fuerza en PalmiraHSB NoticiasDurante dos d\u00edas hizo presencia en las instalaciones del Instituto Municipal del Deporte de Palmira, el director de la Federaci\u00f3n Coreana de Hapkido para...",
             "date": "2015-04-07",
             "categories": "hapkido,deporte",
-            "tags": "palmirahsb,hsb,hapkido,hsb_noticias,noticias,palmira",
+            "tags": "dos,hapkido,noticias",
             "recuweb_url": "http://es.recuweb.com/deporte/hsbnoticias.com/2015/04/el-hapkido-un-deporte-que-toma-cada-vez-m%C3%A1s-fuerza",
             "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
             "source_url": "http://hsbnoticias.com/noticias/otros-deportes/el-hapkido-un-deporte-que-toma-cada-vez-mas-fuerza-en-palmir-132298"
-        },
-        "nieuwsbladgeldermalsen.nl/2015/04/topprestaties-si-jak-op-open-nederlandse-kampioenschappen": {
-            "title": "Topprestaties Si-jak op Open Nederlandse Kampioenschappen... -...",
-            "snippet": "Si-jak op Open Nederlandse Kampioenschappen... 5 april. De 13e Open Nederlandse Kampioenschappen in Culemborg waren weer super spannend! Deze werd georganiseerd door de Nederlandse Hapkido Bond. Er werd hard maar fair gestreden op meerdere...",
-            "date": "2015-04-07",
-            "categories": "hapkido",
-            "tags": "meerdere,nederlandse,nederlandse_hapkido,hapkido,waren,open,open_nederlandse,jak,topprestaties",
-            "recuweb_url": "http://es.recuweb.com/hapkido/nieuwsbladgeldermalsen.nl/2015/04/topprestaties-si-jak-op-open-nederlandse-kampioenschappen",
-            "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
-            "source_url": "http://nieuwsbladgeldermalsen.nl/lokaal/topprestaties_sijak_op_open_nederlandse_kampioenschappen_hapkido_3586704.html"
-        },
-        "hsbnoticias.com/2015/04/v%C3%ADctor-g%C3%B3mez-un-maestro-dedicado-al-hapkido-en-palmira-hsb-noticias": {
-            "title": "V\u00edctor G\u00f3mez, un maestro dedicado al hapkido en Palmira - HSB Noticias...",
-            "snippet": "HSB NoticiasV\u00edctor G\u00f3mez, un maestro dedicado al hapkido en PalmiraHSB NoticiasSon muchos los a\u00f1os de experiencia que tiene el maestro V\u00edctor G\u00f3mez, quien desde muy ni\u00f1o, se inclin\u00f3 a entrenar el hapkido, en una de las escuelas que en otrora...",
-            "date": "2015-04-07",
-            "categories": "escuela,hapkido",
-            "tags": "palmirahsb,hsb,hsb_noticias,noticias,maestro,hapkido,palmira",
-            "recuweb_url": "http://es.recuweb.com/hapkido/hsbnoticias.com/2015/04/v%C3%ADctor-g%C3%B3mez-un-maestro-dedicado-al-hapkido-en-palmira-hsb-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=hapkido&output=atom&nord=1",
-            "source_url": "http://hsbnoticias.com/noticias/otros-deportes/victor-gomez-un-maestro-dedicado-al-hapkido-en-palmira-132301"
         }
     }
 }

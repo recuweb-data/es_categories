@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "macbook",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/macbook/",
@@ -10,49 +11,104 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/macbook/macbook/blogs.json"
     },
     "items": {
+        "faq-mac.com/2015/04/macbook-no-podr%C3%A1s-migrar-datos-usando-el-modo-de-disco": {
+            "title": "MacBook: no podr\u00e1s migrar datos usando el modo de disco de...",
+            "snippet": "Apple ha actualizado el art\u00edculo dedicado a los adaptadores para el MacBook en su base de datos y conocimientos para indicar que no es posible usar el modo de disco de destino usando un cable USB para utilizar el...",
+            "date": "2015-04-20",
+            "author_name": "Carlos Burges Ruiz de Gopegui",
+            "categories": "base-de-datos,conocimiento,macbook",
+            "tags": "base,base-de-datos,datos,datos-conocimientos,conocimientos,art\u00edculo,macbook,apple,usb",
+            "recuweb_url": "http://es.recuweb.com/macbook/faq-mac.com/2015/04/macbook-no-podr%C3%A1s-migrar-datos-usando-el-modo-de-disco",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://faq-mac.com/2015/04/macbook-no-podras-migrar-datos-usando-el-modo-de-disco-de-destino/"
+        },
+        "xataka.com/2015/04/macbook-pro-retina-13-vs-dell-xps-xataka": {
+            "title": "\u00bfMacbook Pro Retina 13 vs Dell XPS 13? - Xataka...",
+            "snippet": "\u00bfQu\u00e9 tal?, desde hace tiempo pienso en renovar mi ya veterana Compaq y ahora que ha salido la gama Broadwell, estoy entre estos dos equipos, ya que son de dimensiones muy reducidas y cuentan con una gran bater\u00eda; el uso que pienso...",
+            "date": "2015-04-20",
+            "author_name": "desconocido",
+            "categories": "macbook",
+            "tags": "dos,ahora,renovar,tal,macbook,pro,retina,muy,bater\u00eda",
+            "recuweb_url": "http://es.recuweb.com/macbook/xataka.com/2015/04/macbook-pro-retina-13-vs-dell-xps-xataka",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://xataka.com/respuestas/macbook-pro-retina-13-vs-dell-xps-13"
+        },
+        "applelizados.com/2015/04/hydradock-11-puertos-para-el-nuevo-macbook-applelizados": {
+            "title": "HydraDock, 11 puertos para el nuevo Macbook - Applelizados...",
+            "snippet": "Mucho se ha hablado del nuevo Macbook y de su \u00fanico puerto USB-C, que para unos es suficiente y para otros no es pr\u00e1cticamente nada. En mi humilde opini\u00f3n, el \u00fanico puerto del Macbook es m\u00e1s que suficiente ya que se...",
+            "date": "2015-04-19",
+            "author_name": "Jos\u00e9 Ayoze S\u00e1nchez Silva",
+            "categories": "macbook",
+            "tags": "\u00fanico,\u00fanico-puerto,opini\u00f3n,nuevo,macbook,usb",
+            "recuweb_url": "http://es.recuweb.com/macbook/applelizados.com/2015/04/hydradock-11-puertos-para-el-nuevo-macbook-applelizados",
+            "resource_url": "http://www.google.com/search?q=macbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applelizados.com/hydradock-11-puertos-nuevo-macbook-98765"
+        },
+        "applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo": {
+            "title": "La imagen de la semana: el nuevo MacBook vs. el \u00faltimo MacBook...",
+            "snippet": "No me extra\u00f1ar\u00eda que muchos de los que est\u00e1n leyendo esto tengan o hayan tenido un MacBook blanco de policarbonato (y alguno negro tambi\u00e9n habr\u00e1). En su momento fue el Mac m\u00e1s vendido de la historia, sucediendo al...",
+            "date": "2015-04-19",
+            "author_name": "Matias S. Zavia",
+            "categories": "macbook",
+            "tags": "\u00fal,nuevo,macbook,mac",
+            "recuweb_url": "http://es.recuweb.com/macbook/applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applesfera.com/portatil/la-imagen-de-la-semana-el-nuevo-macbook-vs-el-ultimo-macbook-blanco-de-2009"
+        },
+        "applesfera.com/2015/04/sigues-preocupado-por-el-%C3%BAnico-puerto-del-nuevo-macbook": {
+            "title": "\u00bfSigues preocupado por el \u00fanico puerto del nuevo MacBook...",
+            "snippet": "Sin duda Apple ha decidido arriesgarse lanzando su nuevo MacBook con s\u00f3lo un puerto USB Type C, lo que ha ocasionado todo tipo de comentarios en contra y algunos a favor mencionando que \u00e9ste ser\u00e1 el est\u00e1ndar en un...",
+            "date": "2015-04-18",
+            "author_name": "Ra\u00fal \u00c1lvarez",
+            "categories": "macbook",
+            "tags": "tipo,ser\u00e1,usb,puerto,decidido,\u00fanico,\u00fanico-puerto,nuevo,macbook,apple",
+            "recuweb_url": "http://es.recuweb.com/macbook/applesfera.com/2015/04/sigues-preocupado-por-el-%C3%BAnico-puerto-del-nuevo-macbook",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applesfera.com/accesorios/sigues-preocupado-por-el-unico-puerto-del-nuevo-macbook-hydradock-llega-al-rescate"
+        },
+        "fansdeapple.com/2015/04/macbook-pro-retina-15-mid-2014-fans-de-apple": {
+            "title": "macbook pro retina 15 mid 2014/////- Fans de Apple...",
+            "snippet": "\u00bfRelacionado con Apple?: S\u00ed Sobre el producto Marca: APPLE Modelo: MACBOOK PRO RETINA 15\" MID 2014 Precio: 1450 Si vendes un tel\u00e9fono, \u00bfes libre o de operadora?: - \u00bfProducto nuevo o de segunda mano?",
+            "date": "2015-04-17",
+            "author_name": "zorkken",
+            "categories": "macbook",
+            "tags": "macbook,macbook_pro,pro,retina,apple,modelo,marca,precio,nuevo",
+            "recuweb_url": "http://es.recuweb.com/macbook/fansdeapple.com/2015/04/macbook-pro-retina-15-mid-2014-fans-de-apple",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fansdeapple.com/showthread.php?p=624977"
+        },
+        "applesfera.com/2015/04/el-nuevo-macbook-ya-disponible-para-su-compra-en-todo-mundo": {
+            "title": "El nuevo MacBook, ya disponible para su compra en todo el mundo...",
+            "snippet": "Todos estamos atentos al inicio de las reservas del Apple Watch en los primeros nueve pa\u00edses elegidos para ello, pero no nos olvidemos que hoy tambi\u00e9n tenemos a otro protagonista: el nuevo MacBook, que desde ya...",
+            "date": "2015-04-10",
+            "author_name": "Miguel L\u00f3pez",
+            "categories": "macbook",
+            "tags": "tenemos,disponible,nuevo,macbook,apple",
+            "recuweb_url": "http://es.recuweb.com/macbook/applesfera.com/2015/04/el-nuevo-macbook-ya-disponible-para-su-compra-en-todo-mundo",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applesfera.com/portatil/el-nuevo-macbook-ya-disponible-para-su-compra-en-todo-el-mundo"
+        },
+        "laventanadelingeniero.blogspot.com/2015/03/qu%C3%A9-macbook-me-compro": {
+            "title": "\u00bfQu\u00e9 MacBook me compro?",
+            "snippet": "Muy buenas, Creo que este post os puede ayudar a todos lo que estas indecisos. El punto de partida de esta entrada es que te has decidido a comprarte un Mac de una vez por todas o has decidido renovar el que tienes (que ya era hora de que lo...",
+            "date": "2015-03-25",
+            "author_name": "(Alberto Bacigalupe)",
+            "categories": "macbook",
+            "tags": "decidido,renovar,macbook,muy,puede,mac",
+            "recuweb_url": "http://es.recuweb.com/macbook/laventanadelingeniero.blogspot.com/2015/03/qu%C3%A9-macbook-me-compro",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=macbook%2Bmacbook&rss=1&lng=es",
+            "source_url": "http://laventanadelingeniero.blogspot.com/2015/03/que-macbook-me-compro.html"
+        },
         "rmarquez22.wordpress.com/2015/03/windows-7-32-bits-ya-no-ser%C3%A1-soportado-en-los-nuevos": {
             "title": "Windows 7 32 bits ya no ser\u00e1 soportado en los nuevos modelos de Macbook pro y Macbook air...",
             "snippet": "Apple ya no soportar\u00e1 mas el sistema operativo Windows 7 de 32 bits en sus nuevos modelos de MacBook pro y MacBook Air de acuerdo al reciente documento...",
             "date": "2015-03-20",
             "author_name": "rmarquez",
             "categories": "macbook",
-            "tags": "air,modelos,windows,nuevos,macbook,pro,apple",
+            "tags": "air,nuevos,ser\u00e1,macbook,pro,apple",
             "recuweb_url": "http://es.recuweb.com/macbook/rmarquez22.wordpress.com/2015/03/windows-7-32-bits-ya-no-ser%C3%A1-soportado-en-los-nuevos",
             "resource_url": "http://es.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
             "source_url": "http://rmarquez22.wordpress.com/2015/03/20/windows-7-32-bits-ya-no-sera-soportado-en-los-nuevos-modelos-de-macbook-pro-y-macbook-air/"
-        },
-        "genbeta.com/2015/03/as%C3%AD-acab%C3%B3-el-risitas-en-los-grandes-medios-de-tecnolog%C3%ADa-genbeta": {
-            "title": "As\u00ed acab\u00f3 el Risitas en los grandes medios de tecnolog\u00eda... - Genbeta...",
-            "snippet": "En \u00e9l, subtitulan al c\u00f3mico como si de un ingeniero de Apple se tratase y explican, en tono de humor, el proceso de dise\u00f1o del nuevo Macbook de la compa\u00f1\u00eda de la manzana mordida. \u00bfV\u00eddeo divertido o una soberana...",
-            "date": "2015-03-13",
-            "author_name": "Mar\u00eda Gonz\u00e1lez",
-            "categories": "humor,tecnologia,macbook",
-            "tags": "v\u00eddeo,divertido,compa\u00f1\u00eda,manzana,manzana-mordida,mordida,dise\u00f1o,ingeniero,risitas,tecnolog\u00eda,apple,nuevo,macbook",
-            "recuweb_url": "http://es.recuweb.com/macbook/genbeta.com/2015/03/as%C3%AD-acab%C3%B3-el-risitas-en-los-grandes-medios-de-tecnolog%C3%ADa-genbeta",
-            "resource_url": "http://www.google.com/search?q=macbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://genbeta.com/redes-sociales-y-comunidades/asi-acabo-el-risitas-en-los-grandes-medios-de-tecnologia-de-eeuu-hablando-de-macbooks"
-        },
-        "lagaceta.com.ar/2015/03/las-burlas-de-un-ingeniero-apple-a-la-nueva-macbook-se": {
-            "title": "Las burlas de un ingeniero de Apple a la nueva MacBook se...",
-            "snippet": "Con su risa caracter\u00edstica (le dicen \"Risitas\" en Espa\u00f1a), este nuevo 'ingeniero'se burla de las caracter\u00edsticas del \u00faltimo ultraligero MacBook: \"No USB ports\", \"Mobile processor\", \" d\u00f3lares\" y simula haber mantenido una...",
-            "date": "2015-03-13",
-            "author_name": "desconocido",
-            "categories": "macbook",
-            "tags": "haber,usb,caracter\u00edsticas,\u00fal,dicen,risitas,ingeniero,apple,nueva,macbook,espa\u00f1a,nuevo",
-            "recuweb_url": "http://es.recuweb.com/macbook/lagaceta.com.ar/2015/03/las-burlas-de-un-ingeniero-apple-a-la-nueva-macbook-se",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lagaceta.com.ar/nota/629977/tecnologia/burlas-ingeniero-apple-nueva-macbook-se-vuelven-virales.html"
-        },
-        "cnnexpansion.com/2015/03/usb-tipo-c-jubila-los-puertos-de-las-chromebook-y-macbook": {
-            "title": "USB Tipo C jubila los puertos de las Chromebook y MacBook...",
-            "snippet": "CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n) Apple y Google buscan conquistar el mercado de las computadoras port\u00e1tiles a trav\u00e9s de un dispositivo universal que conecte pr\u00e1cticamente cualquier equipo a la laptop.",
-            "date": "2015-03-13",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "computadora,macbook,google",
-            "tags": "dispositivo,cualquier,equipo,mercado,computadoras,puertos,usb,tipo,chromebook,macbook,apple,port\u00e1tiles",
-            "recuweb_url": "http://es.recuweb.com/google/cnnexpansion.com/2015/03/usb-tipo-c-jubila-los-puertos-de-las-chromebook-y-macbook",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/03/12/usb-tipo-c-el-todo-en-uno-de-la-chromebook-y-macbook"
         },
         "rss.feedsportal.com/2015/03/nuevos-macbook-y-chromebook-pixel-confundidos-al-nacer-entregados": {
             "title": "Nuevos MacBook y Chromebook Pixel, confundidos al nacer y entregados a los padres err\u00f3neos...",
@@ -60,65 +116,10 @@
             "date": "2015-03-12",
             "author_name": "Miguel Regueira",
             "categories": "macbook",
-            "tags": "parece,dos,reci\u00e9n,chromebook,nuevos,nuevo,macbook,pulgadas",
+            "tags": "dos,presentado,nuevos,nuevo,macbook,pulgadas",
             "recuweb_url": "http://es.recuweb.com/macbook/rss.feedsportal.com/2015/03/nuevos-macbook-y-chromebook-pixel-confundidos-al-nacer-entregados",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=macbook%2Bmacbook&rss=1&lng=es",
             "source_url": "http://rss.feedsportal.com/c/35191/f/653212/s/44501dcf/sc/28/l/0Lxombit0N0C20A150C0A30Cmacbook0Echromebook0Ecomparativa/story01.htm"
-        },
-        "cnnespanol.cnn.com/2015/03/as%C3%AD-es-la-nueva-macbook-ultra-delgada-de-12-pulgadas-apple": {
-            "title": "As\u00ed es la nueva MacBook ultra delgada de 12 pulgadas de Apple...",
-            "snippet": "CNNMoney (Nueva York) Olvida todos tus alambres y cables. No los necesitar\u00e1s si compras la nueva MacBook de Apple... solo tiene dos puertos. La nueva MacBook de Apple es la computadora port\u00e1til m\u00e1s delgada y...",
-            "date": "2015-03-11",
-            "author_name": "alvarovalde2020",
-            "categories": "macbook,computadora",
-            "tags": "delgada,dos,puertos,nueva,macbook,pulgadas,apple,tiene,computadora,port\u00e1til",
-            "recuweb_url": "http://es.recuweb.com/computadora/cnnespanol.cnn.com/2015/03/as%C3%AD-es-la-nueva-macbook-ultra-delgada-de-12-pulgadas-apple",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnespanol.cnn.com/2015/03/11/asi-es-la-nueva-macbook-ultra-delgada-de-12-pulgadas-de-apple/"
-        },
-        "applesfera.com/2015/03/primeros-datos-de-rendimiento-los-nuevos-macbook-air": {
-            "title": "Primeros datos de rendimiento de los nuevos MacBook Air y...",
-            "snippet": "Junto al Apple Watch y el nuevo MacBook tambi\u00e9n se produjo una ligera actualizaci\u00f3n de la gama MacBook Air y MacBook Pro con pantalla Retina de...",
-            "date": "2015-03-11",
-            "author_name": "Pedro Santamar\u00eda",
-            "categories": "macbook",
-            "tags": "pro,gama,macbook,macbook_air,air,nuevos,nuevo,apple,pantalla,retina",
-            "recuweb_url": "http://es.recuweb.com/macbook/applesfera.com/2015/03/primeros-datos-de-rendimiento-los-nuevos-macbook-air",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/portatil/primeros-datos-de-rendimiento-de-los-nuevos-macbook-air-y-macbook-pro-retina-de-13"
-        },
-        "cnnexpansion.com/2015/03/11-claves-sobre-la-nueva-mac-de-apple-tecnolog%C3%ADa": {
-            "title": "11 claves sobre la nueva Mac de Apple - Tecnolog\u00eda...",
-            "snippet": "La nueva MacBook es la computadora port\u00e1til m\u00e1s delgada y liviana hasta la fecha. Para lograr esta haza\u00f1a, los ingenieros de Apple simplificaron muchas caracter\u00edsticas tradicionalmente asociadas con las computadoras...",
-            "date": "2015-03-10",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "computadora,tecnologia,macbook",
-            "tags": "caracter\u00edsticas,computadoras,computadora,delgada,liviana,fecha,nueva,mac,apple,tecnolog\u00eda,macbook,port\u00e1til",
-            "recuweb_url": "http://es.recuweb.com/macbook/cnnexpansion.com/2015/03/11-claves-sobre-la-nueva-mac-de-apple-tecnolog%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/03/10/10-claves-sobre-la-nueva-mac-de-apple"
-        },
-        "applesfera.com/2015/03/apple-lanza-cinco-adaptadores-usb-c-para-el-nuevo-macbook": {
-            "title": "Apple lanza cinco adaptadores USB-C para el nuevo MacBook...",
-            "snippet": "Ayer se present\u00f3 el MacBook con pantalla Retina de 12 pulgadas, una nueva categor\u00eda de ultraport\u00e1tiles que compite en peso y tama\u00f1o con el...",
-            "date": "2015-03-10",
-            "author_name": "Miguel Mich\u00e1n",
-            "categories": "macbook",
-            "tags": "tama\u00f1o,present\u00f3,apple,usb,nuevo,macbook,pantalla,retina,pulgadas,nueva",
-            "recuweb_url": "http://es.recuweb.com/macbook/applesfera.com/2015/03/apple-lanza-cinco-adaptadores-usb-c-para-el-nuevo-macbook",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/apple-1/apple-lanza-cinco-adaptadores-usb-c-para-el-nuevo-macbook"
-        },
-        "muycomputer.com/2015/03/apple-presenta-nuevo-macbook-12-pulgadas-muycomputer": {
-            "title": "Apple presenta nuevo MacBook 12 pulgadas MuyComputer...",
-            "snippet": "El nuevo MacBook 12 ha sido la gran novedad -que no sorpresa- del evento Apple que te hemos ofrecido en directo. El port\u00e1til m\u00e1s ligero, eficiente y delgado jam\u00e1s fabricado publicitan desde la compa\u00f1\u00eda que ha sido...",
-            "date": "2015-03-09",
-            "author_name": "Juan Ranchal",
-            "categories": "macbook",
-            "tags": "delgado,compa\u00f1\u00eda,directo,gran,novedad,apple,presenta,nuevo,macbook,pulgadas,evento,port\u00e1til,ligero",
-            "recuweb_url": "http://es.recuweb.com/macbook/muycomputer.com/2015/03/apple-presenta-nuevo-macbook-12-pulgadas-muycomputer",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://muycomputer.com/2015/03/09/nuevo-macbook"
         }
     }
 }

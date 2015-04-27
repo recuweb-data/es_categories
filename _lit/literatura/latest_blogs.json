@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "literatura",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/literatura/",
@@ -10,115 +11,115 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/literatura/literatura/blogs.json"
     },
     "items": {
+        "culturamas.es/2015/04/alonso-bar%C3%A1n-aire-fresco-en-el-panorama-literario-actual-culturamas": {
+            "title": "Alonso Bar\u00e1n. Aire fresco en el panorama literario actual - Culturamas...",
+            "snippet": "Bueno, literatura significa el arte de la palabra, pero yo la veo desde el punto de vista del lector: te gusta algo porque te hace sentir emociones que te agradan. En este sentido, creo la literatura tiene que contar con las...",
+            "date": "2015-04-23",
+            "author_name": "pilarmartinez",
+            "categories": "sentido,literatura",
+            "tags": "arte,panorama,literario,actual,literatura",
+            "recuweb_url": "http://es.recuweb.com/literatura/culturamas.es/2015/04/alonso-bar%C3%A1n-aire-fresco-en-el-panorama-literario-actual-culturamas",
+            "resource_url": "http://www.google.com/search?q=literatura%2Bliteratura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://culturamas.es/blog/2015/04/23/alonso-baran-aire-fresco-en-el-panorama-literario-actual/"
+        },
+        "blog.cervantesvirtual.com/2015/04/presentaci%C3%B3n-en-manila-del-portal-sobre-literatura-filipina-espa%C3%B1ol": {
+            "title": "Presentaci\u00f3n en Manila del portal sobre literatura filipina en espa\u00f1ol...",
+            "snippet": "En el marco de las actividades para celebrar el D\u00eda del Libro, el sal\u00f3n de actos del Instituto Cervantes en Manila acoger\u00e1 hoy () la presentaci\u00f3n de nuestro portal dedicado a la literatura filipina en espa\u00f1ol.",
+            "date": "2015-04-23",
+            "author_name": "bvmc",
+            "categories": "literatura",
+            "tags": "presentaci\u00f3n,cervantes,literatura,espa\u00f1ol,d\u00eda,libro",
+            "recuweb_url": "http://es.recuweb.com/literatura/blog.cervantesvirtual.com/2015/04/presentaci%C3%B3n-en-manila-del-portal-sobre-literatura-filipina-espa%C3%B1ol",
+            "resource_url": "http://www.google.com/search?q=literatura%2Bliteratura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.cervantesvirtual.com/presentacion-en-manila-del-portal-sobre-literatura-filipina-en-espanol/"
+        },
+        "cvc.cervantes.es/2015/04/cvc-rinconete-literatura-el-pastiche-literario-en-los-cuentos": {
+            "title": "CVC. Rinconete. Literatura. El pastiche literario en los cuentos de...",
+            "snippet": "Literatura. El pastiche literario en los cuentos de Pilar Ad\u00f3n. Por Mar\u00eda Jos\u00e9 Furi\u00f3. Pilar Ad\u00f3n (Madrid, 1971), novelista, poeta y traductora, cultiva un estilo narrativo desacostumbrado en la narrativa espa\u00f1ola contempor\u00e1nea,...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "literatura",
+            "tags": "narrativa,contempor\u00e1nea,poeta,jos\u00e9,literario,literatura,madrid",
+            "recuweb_url": "http://es.recuweb.com/literatura/cvc.cervantes.es/2015/04/cvc-rinconete-literatura-el-pastiche-literario-en-los-cuentos",
+            "resource_url": "http://www.google.com/search?q=literatura%2Bliteratura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cvc.cervantes.es/el_rinconete/anteriores/abril_15/22042015_01.htm"
+        },
+        "supercurioso.com/2015/04/diez-curiosidades-sobre-la-literatura-i-supercurioso": {
+            "title": "Diez curiosidades sobre la literatura (I) Supercurioso...",
+            "snippet": "En la v\u00edspera del D\u00eda Internacional del Libro, en Supercurioso seguimos desvel\u00e1ndote algunos interesantes datos sobre la literatura. \u00bfSabr\u00edas decirnos qu\u00e9 libro fue prohibido por el nazismo, cu\u00e1l es la relaci\u00f3n entre Simba,...",
+            "date": "2015-04-22",
+            "author_name": "Noelia Mart\u00edn Esteban\u00e9",
+            "categories": "literatura",
+            "tags": "cu\u00e1l,interesantes,d\u00eda,d\u00eda_internacional,internacional,literatura,supercurioso,libro",
+            "recuweb_url": "http://es.recuweb.com/literatura/supercurioso.com/2015/04/diez-curiosidades-sobre-la-literatura-i-supercurioso",
+            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://supercurioso.com/diez-curiosidades-sobre-la-literatura-i/"
+        },
+        "lecturalia.com/2015/04/supersonic-una-nueva-revista-de-literatura-fant%C3%A1stica-lecturalia-blog": {
+            "title": "SuperSonic: una nueva revista de literatura fant\u00e1stica Lecturalia Blog...",
+            "snippet": "SuperSonic: una nueva revista de literatura fant\u00e1stica. Alfredo \u00c1lamo el 22 de abril de 2015 en Literatura electr\u00f3nica. Supone una novedad tras varios a\u00f1os sin novedades en el panorama fant\u00e1stico. Abren la recepci\u00f3n de relatos, novelas...",
+            "date": "2015-04-22",
+            "author_name": "Alfredo \u00c1lamo",
+            "categories": "literatura,electronica",
+            "tags": "panorama,abril,literatura",
+            "recuweb_url": "http://es.recuweb.com/electronica/lecturalia.com/2015/04/supersonic-una-nueva-revista-de-literatura-fant%C3%A1stica-lecturalia-blog",
+            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lecturalia.com/blog/2015/04/22/supersonic-una-nueva-revista-de-literatura-fantastica/"
+        },
+        "enfemenino.com/2015/04/10-libros-recomendados-para-mujeres-viva-la-literatura": {
+            "title": "10 libros recomendados para mujeres: \u00a1viva la literatura!",
+            "snippet": "El 23 de abril es el D\u00eda Internacional del Libro, una excusa perfecta para reservarte un buen rato tumbada en tu sof\u00e1 preferido con ese libro entre las manos que te haga so\u00f1ar, re\u00edr, emocionarte, aprender o, simplemente,...",
+            "date": "2015-04-21",
+            "author_name": "enfemenino.com",
+            "categories": "literatura",
+            "tags": "d\u00eda,d\u00eda_internacional,internacional,abril,libros,libro,literatura",
+            "recuweb_url": "http://es.recuweb.com/literatura/enfemenino.com/2015/04/10-libros-recomendados-para-mujeres-viva-la-literatura",
+            "resource_url": "http://www.google.com/search?q=literatura%2Bliteratura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://enfemenino.com/cultura/10-libros-recomendados-para-mujeres-viva-la-literatura-s1349587.html"
+        },
+        "supercurioso.com/2015/04/los-libros-m%C3%A1s-r%C3%A9cords-de-la-literatura-supercurioso": {
+            "title": "Los libros m\u00e1s: r\u00e9cords de la literatura Supercurioso...",
+            "snippet": "Cu\u00e1l es el libro m\u00e1s diminuto del mundo? \u00bfY el m\u00e1s caro? \u00bfY la librer\u00eda m\u00e1s grande del planeta? Recopilamos los m\u00e1s interesantes libros de r\u00e9cord.",
+            "date": "2015-04-21",
+            "author_name": "Noelia Mart\u00edn Esteban\u00e9",
+            "categories": "planeta,literatura",
+            "tags": "interesantes,libros,libro,mundo,literatura,supercurioso,cu\u00e1l",
+            "recuweb_url": "http://es.recuweb.com/literatura/supercurioso.com/2015/04/los-libros-m%C3%A1s-r%C3%A9cords-de-la-literatura-supercurioso",
+            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://supercurioso.com/los-libros-mas-records-de-la-literatura/"
+        },
+        "noticias.starmedia.com/2015/04/vargas-llosa-defiende-a-la-literatura-sobre-los-sistemas-noticias": {
+            "title": "Vargas Llosa defiende a la literatura sobre los sistemas... - Noticias...",
+            "snippet": "El ganador del Premio Nobel de Literatura 2010, Mario Vargas Llosa, subray\u00f3 que uno de los retos de la actualidad es impedir que la gran revoluci\u00f3n audiovisual acabe con la literatura. En su presentaci\u00f3n en el Auditorio...",
+            "date": "2015-04-21",
+            "author_name": "desconocido",
+            "categories": "literatura",
+            "tags": "presentaci\u00f3n,gran,premio,nobel,literatura,noticias",
+            "recuweb_url": "http://es.recuweb.com/literatura/noticias.starmedia.com/2015/04/vargas-llosa-defiende-a-la-literatura-sobre-los-sistemas-noticias",
+            "resource_url": "http://www.google.com/search?q=literatura%2Bliteratura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticias.starmedia.com/sociedad/vargas-llosa-defiende-literatura-sobre-sistemas-audiovisuales.html"
+        },
+        "cvc.cervantes.es/2015/04/el-ajedrez-y-la-literatura-39-un-alegato-de-igualdad-social": {
+            "title": "El ajedrez y la literatura (39). Un alegato de igualdad social...",
+            "snippet": "El ajedrez y la literatura (39). Un alegato de igualdad social. Por Fernando G\u00f3mez Redondo. En los Coloquios de Palatino y Pinciano de Juan de Arce de Ot\u00e1lora, compuestos a mediados del siglo xvi, se incluye una...",
+            "date": "2015-04-20",
+            "author_name": "desconocido",
+            "categories": "ajedrez,literatura",
+            "tags": "literatura,juan",
+            "recuweb_url": "http://es.recuweb.com/literatura/cvc.cervantes.es/2015/04/el-ajedrez-y-la-literatura-39-un-alegato-de-igualdad-social",
+            "resource_url": "http://www.google.com/search?q=literatura%2Bliteratura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cvc.cervantes.es/el_rinconete/anteriores/abril_15/20042015_01.htm"
+        },
         "holismoplanetario.com/2015/04/el-libro-negro-de-giovanni-papini-en-pdf-201-p%C3%A1ginas-descarga": {
             "title": "El Libro Negro de Giovanni Papini en pdf, 201 p\u00e1ginas (Descarga gratuita)...",
             "snippet": "Papini. El libro negro. Preparado por Patricio Barros. 201 p\u00e1ginas. (DESCARGA GRATUITA) Archivado en: Descargas (Downloads), ebooks, Literatura, Literatura italiana Tagged: descarga gratuita, El libro negro, Papini, Patricio Barros...",
             "date": "2015-04-17",
             "author_name": "Holismo Planetario en la Web",
             "categories": "literatura",
-            "tags": "descargas,gratuita,libro,archivado,literatura,tagged",
+            "tags": "libro,negro,literatura",
             "recuweb_url": "http://es.recuweb.com/literatura/holismoplanetario.com/2015/04/el-libro-negro-de-giovanni-papini-en-pdf-201-p%C3%A1ginas-descarga",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=literatura%2Bliteratura&rss=1&lng=es",
             "source_url": "http://holismoplanetario.com/2015/04/17/el-libro-negro-de-giovanni-papini-en-pdf-201-paginas-descarga-gratuita/"
-        },
-        "dejemoshablaralviento.wordpress.com/2015/04/y-el-coraz%C3%B3n-no-muere-cuando-uno-cree-que-deber%C3%ADa-joseph": {
-            "title": "Y el coraz\u00f3n no muere cuando uno cree que deber\u00eda: Joseph Brodsky...",
-            "snippet": "Una de las cosas que m\u00e1s agradezco de la literatura es su capacidad para estimular la imaginaci\u00f3n, la conciencia. Porque un libro, un relato, un poema, invitan a pensar y a sentir: esto significa, simplemente, que te hacen sentirte m\u00e1s humano.",
-            "date": "2015-04-17",
-            "author_name": "A. Prada",
-            "categories": "literatura",
-            "tags": "hacen,humano,sentir,muere,literatura,porque,libro",
-            "recuweb_url": "http://es.recuweb.com/literatura/dejemoshablaralviento.wordpress.com/2015/04/y-el-coraz%C3%B3n-no-muere-cuando-uno-cree-que-deber%C3%ADa-joseph",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=literatura%2Bliteratura&rss=1&lng=es",
-            "source_url": "http://dejemoshablaralviento.wordpress.com/2015/04/17/y-el-corazon-no-muere-cuando-uno-cree-que-deberia-joseph-brodsky/"
-        },
-        "chicaredactorainspirada.wordpress.com/2015/04/honores-en-venezuela-para-un-grande-de-la-literatura-eduardo-galeano": {
-            "title": "Honores en Venezuela para un Grande de la Literatura: Eduardo Galeano.",
-            "snippet": "Desde que a inicio de semana se conoci\u00f3 el fallecimiento del uruguayo Eduardo Galeano, quien perdiera este lunes 13 de Abril la batalla contra el c\u00e1ncer de pulm\u00f3n en un hospital de su ciudad natal, se ha hecho sentir en muchos pa\u00edses la tristeza...",
-            "date": "2015-04-15",
-            "author_name": "Jhoanna Bolivar R.",
-            "categories": "literatura",
-            "tags": "hecho,sentir,ciudad,semana,eduardo,eduardo_galeano,galeano,literatura,lunes,abril,hospital",
-            "recuweb_url": "http://es.recuweb.com/literatura/chicaredactorainspirada.wordpress.com/2015/04/honores-en-venezuela-para-un-grande-de-la-literatura-eduardo-galeano",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=literatura%2Bliteratura&rss=1&lng=es",
-            "source_url": "http://chicaredactorainspirada.wordpress.com/2015/04/14/honores-en-venezuela-para-un-grande-de-la-literatura-eduardo-galeano/"
-        },
-        "holismoplanetario.com/2015/04/11-pdfs-de-literatura-en-franc%C3%A9s-novelas-alejandro-dumas-v%C3%ADctor-hugo": {
-            "title": "11 pdfs de Literatura en franc\u00e9s Novelas de Alejandro Dumas V\u00edctor Hugo y Honor\u00e9 de Balzac...",
-            "snippet": "11 pdfs de Literatura en franc\u00e9s Alejandro Dumas V\u00edctor Hugo y Honor\u00e9 de Balzac (Descarga gratuita) Archivado en: Descargas (Downloads), E-books, Literatura, Literatura Francesa Tagged: Alejandro Dumas, Honor\u00e9 de Balzac, La Com\u00e9die humaine, Le...",
-            "date": "2015-04-13",
-            "author_name": "Holismo Planetario en la Web",
-            "categories": "literatura",
-            "tags": "tagged,literatura,descargas,gratuita,archivado",
-            "recuweb_url": "http://es.recuweb.com/literatura/holismoplanetario.com/2015/04/11-pdfs-de-literatura-en-franc%C3%A9s-novelas-alejandro-dumas-v%C3%ADctor-hugo",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=literatura%2Bliteratura&rss=1&lng=es",
-            "source_url": "http://holismoplanetario.com/2015/04/13/11-pdfs-de-literatura-en-frances-alejandro-dumas-victor-hugo-y-honore-de-balzac-descarga-gratuita/"
-        },
-        "taringa.net/2015/04/taringa-sagas-mas-importantes-de-la-literatura-fant%C3%A1stica": {
-            "title": "Taringa! - Sagas mas importantes de la literatura fant\u00e1stica.",
-            "snippet": "En este humilde post, puse algunas obras de literatura fant\u00e1stica, no se si son las mejores pero son las que le\u00ed en su gran mayor\u00eda. Puse ese titulo por que no se me ocurr\u00eda nada (:. Son sagas y algunos libros independientes pero...",
-            "date": "2015-04-10",
-            "author_name": "desconocido",
-            "categories": "literatura",
-            "tags": "nada,son,gran,obras,literatura,fant\u00e1stica,libros",
-            "recuweb_url": "http://es.recuweb.com/literatura/taringa.net/2015/04/taringa-sagas-mas-importantes-de-la-literatura-fant%C3%A1stica",
-            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/ebooks-tutoriales/18597280/Sagas-mas-importantes-de-la-literatura-fantastica.html"
-        },
-        "gentlemanmx.com/2015/04/literatura-fant%C3%A1stica-en-el-munal-gentleman-mexico": {
-            "title": "Literatura fant\u00e1stica en el MUNAL - Gentleman Mexico...",
-            "snippet": "Arte y literatura son la combinaci\u00f3n m\u00e1s exquisita de la cultura. Recientemente los invitamos a la m\u00e1s reciente exposici\u00f3n del Museo Nacional de Arte (MUNAL), la cual se complementar\u00e1 con una pl\u00e1tica sobre literatura...",
-            "date": "2015-04-09",
-            "author_name": "Gentlemanmx",
-            "categories": "cultura,literatura",
-            "tags": "nacional,son,cultura,fant\u00e1stica,literatura",
-            "recuweb_url": "http://es.recuweb.com/literatura/gentlemanmx.com/2015/04/literatura-fant%C3%A1stica-en-el-munal-gentleman-mexico",
-            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://gentlemanmx.com/literatura-fantastica-en-el-munal/"
-        },
-        "amazingstoriesmag.com/2015/04/amazing-stories-literatura-de-ciencia-ficci%C3%B3n-ecuatoriana-en-la-web": {
-            "title": "Amazing Stories Literatura de ciencia ficci\u00f3n ecuatoriana en la web...",
-            "snippet": "Informe acerca de las publicaciones de ciencia ficci\u00f3n en la web, medio por el cual generaciones actuales de escritores quieren alcanzar el mundo global.",
-            "date": "2015-04-09",
-            "author_name": "Iv\u00e1n Rodrigo Mendiz\u00e1bal",
-            "categories": "ciencia,literatura",
-            "tags": "medio,mundo,acerca,literatura",
-            "recuweb_url": "http://es.recuweb.com/literatura/amazingstoriesmag.com/2015/04/amazing-stories-literatura-de-ciencia-ficci%C3%B3n-ecuatoriana-en-la-web",
-            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://amazingstoriesmag.com/2015/04/literatura-de-ciencia-ficcion-ecuatoriana-en-la-web/"
-        },
-        "casadelaliteratura.gob.pe/2015/04/talleres-para-docentes-mediadores-de-lectura-e-ilustradores": {
-            "title": "Talleres para docentes, mediadores de lectura e ilustradores en el V...",
-            "snippet": "Como parte del V Congreso Nacional de Literatura Infantil y Juvenil: La ilustraci\u00f3n en la literatura infantil, la Casa de la Literatura Peruana organiza cuatro talleres para docentes, mediadores de lectura, ilustradores,...",
-            "date": "2015-04-09",
-            "author_name": "admin",
-            "categories": "literatura",
-            "tags": "cuatro,literatura,literatura_infantil,infantil,nacional,juvenil",
-            "recuweb_url": "http://es.recuweb.com/literatura/casadelaliteratura.gob.pe/2015/04/talleres-para-docentes-mediadores-de-lectura-e-ilustradores",
-            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://casadelaliteratura.gob.pe/?p=15911"
-        },
-        "juventudrebelde.cu/2015/04/me-apasiona-la-literatura-infantil-cultura-juventud-rebelde": {
-            "title": "Me apasiona la literatura infantil - Cultura - Juventud Rebelde...",
-            "snippet": "De hecho, Ram\u00f3n Luis ya hoje\u00f3 el Diccionario de autores de la Literatura Infantil Cubana, cuya autor\u00eda comparte con la profesora e investigadora espirituana Mirta Estupi\u00f1\u00e1n. El volumen sobresale por ser el \u00fanico texto de su...",
-            "date": "2015-04-08",
-            "author_name": "desconocido",
-            "categories": "literatura,cultura",
-            "tags": "literatura,literatura_infantil,infantil,cultura,hecho",
-            "recuweb_url": "http://es.recuweb.com/cultura/juventudrebelde.cu/2015/04/me-apasiona-la-literatura-infantil-cultura-juventud-rebelde",
-            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://juventudrebelde.cu/cultura/2015-04-07/me-apasiona-la-literatura-infantil/"
-        },
-        "cvc.cervantes.es/2015/04/cvc-rinconete-literatura-c%C3%B3mo-decir-lo-indecible": {
-            "title": "CVC. Rinconete. Literatura. C\u00f3mo decir lo indecible (literatura entre...",
-            "snippet": "C\u00f3mo decir lo indecible (literatura entre l\u00edneas) (6). El Libro de buen folgar. Por Eva Llergo Ojalvo e Ignacio Ceballos Viro. No se sabe c\u00f3mo lleg\u00f3 a nuestras manos un librillo titulado Libro de buen folgar, publicado por la...",
-            "date": "2015-04-06",
-            "author_name": "desconocido",
-            "categories": "literatura",
-            "tags": "literatura,libro",
-            "recuweb_url": "http://es.recuweb.com/literatura/cvc.cervantes.es/2015/04/cvc-rinconete-literatura-c%C3%B3mo-decir-lo-indecible",
-            "resource_url": "http://www.google.com/search?q=literatura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cvc.cervantes.es/el_rinconete/anteriores/abril_15/06042015_01.htm"
         }
     }
 }

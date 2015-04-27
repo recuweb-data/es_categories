@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "perl",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/perl/",
@@ -16,9 +17,9 @@
             "date": "2014-10-06",
             "author_name": "cuco pc",
             "categories": "xampp,php,perl,mysql",
-            "tags": "necesario,primer,v\u00eddeo,perl",
+            "tags": "necesario,primer,v\u00eddeo,php,perl",
             "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/10/descargar-e-instalar-xampp-servidor-apache-mysql-php-y-perl",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=xJ2dYhRjzaY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/xJ2dYhRjzaY/0.jpg"
         },
@@ -28,7 +29,7 @@
             "date": "2014-06-09",
             "author_name": "Manuel J. D\u00e1vila",
             "categories": "perl,pop",
-            "tags": "espa\u00f1ol,espa\u00f1ol-veremos,veremos,veremos-una-serie,serie,serie-de-funciones,funciones,funciones-muy,funciones-muy-\u00fatiles,muy,muy-\u00fatiles,\u00fatiles,parte,parte-del-tutorial,tutorial,perl,manuel",
+            "tags": "espa\u00f1ol,espa\u00f1ol-veremos,veremos,funciones,muy,parte,parte-del-tutorial,tutorial,perl,manuel",
             "recuweb_url": "http://es.recuweb.com/pop/youtube.com/2014/06/tutorial-de-perl-parte-22-funciones-para-arrays",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=akna5Bumkug&feature=youtube_gdata",
@@ -42,7 +43,7 @@
             "categories": "perl",
             "tags": "espa\u00f1ol,espa\u00f1ol-veremos,veremos,programaci\u00f3n,parte,parte-del-tutorial,tutorial,perl,manuel,d\u00e1vila,education",
             "recuweb_url": "http://es.recuweb.com/perl/youtube.com/2014/06/tutorial-de-perl-parte-25-programaci%C3%B3n-orientada-a-objetos-poo",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=T4IJ4BonNU0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/T4IJ4BonNU0/0.jpg"
         },
@@ -52,23 +53,11 @@
             "date": "2014-06-08",
             "author_name": "Manuel J. D\u00e1vila",
             "categories": "perl",
-            "tags": "espa\u00f1ol,espa\u00f1ol-empezamos,espa\u00f1ol-empezamos-ver,empezamos,empezamos-ver,ver,funciones,parte,parte-del-tutorial,tutorial,perl,manuel,d\u00e1vila,education",
+            "tags": "espa\u00f1ol,espa\u00f1ol-empezamos,espa\u00f1ol-empezamos-ver,empezamos,empezamos-ver,funciones,parte,parte-del-tutorial,tutorial,perl,manuel,d\u00e1vila,education",
             "recuweb_url": "http://es.recuweb.com/perl/youtube.com/2014/06/tutorial-de-perl-parte-19-crear-funciones-b%C3%A1sico",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ILtxKlk66Jk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ILtxKlk66Jk/0.jpg"
-        },
-        "youtube.com/2014/06/tutorial-de-perl-parte-21-funciones-para-strings": {
-            "title": "Tutorial de Perl parte 21 - Funciones para Strings...",
-            "snippet": "Tutorial de Perl parte 21 - Funciones para Strings En este parte del tutorial de Perl en espa\u00f1ol veremos una serie de funciones muy \u00fatiles para trabajar con strings: binmode, chomp, chop, index, length, substr, lc, uc, lcfirst, ucfirst. perl.",
-            "date": "2014-06-08",
-            "author_name": "Manuel J. D\u00e1vila",
-            "categories": "perl",
-            "tags": "espa\u00f1ol,espa\u00f1ol-veremos,veremos,veremos-una-serie,serie,serie-de-funciones,funciones,funciones-muy,funciones-muy-\u00fatiles,muy,muy-\u00fatiles,\u00fatiles,trabajar,parte,parte-del-tutorial,tutorial,perl",
-            "recuweb_url": "http://es.recuweb.com/perl/youtube.com/2014/06/tutorial-de-perl-parte-21-funciones-para-strings",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=Xyg-XGp12II&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Xyg-XGp12II/0.jpg"
         },
         "youtube.com/2014/06/tutorial-de-perl-parte-6-operadores-para-expresiones-regulares": {
             "title": "Tutorial de Perl parte 6 - Operadores para Expresiones Regulares...",
@@ -76,7 +65,7 @@
             "date": "2014-06-06",
             "author_name": "Manuel J. D\u00e1vila",
             "categories": "perl",
-            "tags": "veremos,muy,trabajar,parte,parte-del-tutorial,tutorial,perl,espa\u00f1ol,manuel",
+            "tags": "veremos,muy,parte,parte-del-tutorial,tutorial,perl,espa\u00f1ol,manuel",
             "recuweb_url": "http://es.recuweb.com/perl/youtube.com/2014/06/tutorial-de-perl-parte-6-operadores-para-expresiones-regulares",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=2OIH09-Xn70&feature=youtube_gdata",
@@ -96,11 +85,11 @@
         },
         "youtube.com/2014/06/tutorial-de-perl-parte-2-variables-y-constantes": {
             "title": "Tutorial de Perl parte 2 - Variables y Constantes...",
-            "snippet": "Tutorial de Perl parte 2 - Variables y Constantes En este cap\u00edtulo del tutorial de Perl en espa\u00f1ol empezamos a ver conceptos b\u00e1sicos del lenguaje perl tales como las variables y las constantes. perl. From: Manuel J. D\u00e1vila Views: 1140 9 ratings...",
+            "snippet": "Tutorial de Perl parte 2 - Variables y Constantes En este cap\u00edtulo del tutorial de Perl en espa\u00f1ol empezamos a ver conceptos b\u00e1sicos del lenguaje perl tales como las variables y las constantes. perl. From: Manuel J. D\u00e1vila Views: 1169 10 ratings...",
             "date": "2014-06-05",
             "author_name": "Manuel J. D\u00e1vila",
             "categories": "lenguaje,perl",
-            "tags": "espa\u00f1ol,espa\u00f1ol-empezamos,espa\u00f1ol-empezamos-ver,empezamos,empezamos-ver,ver,lenguaje,perl,tutorial,parte,manuel,d\u00e1vila",
+            "tags": "espa\u00f1ol,espa\u00f1ol-empezamos,espa\u00f1ol-empezamos-ver,empezamos,empezamos-ver,lenguaje,perl,tutorial,parte,manuel,d\u00e1vila",
             "recuweb_url": "http://es.recuweb.com/perl/youtube.com/2014/06/tutorial-de-perl-parte-2-variables-y-constantes",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=3mdP87NdOBk&feature=youtube_gdata",
@@ -129,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=perl%2Bperl&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ikn2qLqVZvg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ikn2qLqVZvg/0.jpg"
+        },
+        "dailymotion.com/2013/12/hosting-21-what-are-php-perl-python-and-ruby-on-rails": {
+            "title": "Hosting - 21 - What are PHP, Perl, Python, and Ruby on Rails?",
+            "snippet": "Click The Link Below To Find Honest Uptodate Reviews Of The Cheapest - 21 - What are PHP, Perl, Python, and Ruby on Rails? Hosting,21,What,are,PHP,Perl,Python,and,Ruby,on,: LarissaCarmel993Tags: Hosting 21 What are PHP Perl Python and Ruby on Rails...",
+            "date": "2013-12-06",
+            "author_name": "LarissaCarmel993",
+            "categories": "php,perl",
+            "tags": "php,perl",
+            "recuweb_url": "http://es.recuweb.com/perl/dailymotion.com/2013/12/hosting-21-what-are-php-perl-python-and-ruby-on-rails",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/perl+perl/0?af=1",
+            "source_url": "http://dailymotion.com/video/x183ay4_hosting-21-what-are-php-perl-python-and-ruby-on-rails_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x183ay4_hosting-21-what-are-php-perl-python-and-ruby-on-rails_news"
         }
     }
 }

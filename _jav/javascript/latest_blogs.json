@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "javascript",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/javascript/",
@@ -10,115 +11,115 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
+        "scio.com.mx/2015/04/javascript-una-herramienta-que-no-puedes-evadir-talento-scio": {
+            "title": "JavaScript una herramienta que no puedes evadir Talento Scio...",
+            "snippet": "JavaScript se ha convertido en una tecnolog\u00eda de la cual no puedes evadir, debido a que se encuentra en casi todas partes, el navegador, servidores, aplicaciones de escritorio, robots, drones, bases de datos celulares.",
+            "date": "2015-04-22",
+            "author_name": "Jhonatan",
+            "categories": "tecnologia,javascript",
+            "tags": "datos,aplicaciones,navegador,casi,puedes,herramienta,javascript,robots",
+            "recuweb_url": "http://es.recuweb.com/javascript/scio.com.mx/2015/04/javascript-una-herramienta-que-no-puedes-evadir-talento-scio",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://scio.com.mx/2015/04/22/javascript-una-herramienta-que-no-puedes-evadir/"
+        },
+        "tusejemplos.com/2015/04/ejemplos-de-javascript": {
+            "title": "Ejemplos de javascript Ejemplos...",
+            "snippet": "Javascript es un lenguaje de programaci\u00f3n orientado a objetos, basado en prototipos, imperativo y din\u00e1mico. Se trata del lenguaje de programaci\u00f3n m\u00e1s utilizado en la red, y permite obtener dinamismo e interactividad en...",
+            "date": "2015-04-17",
+            "author_name": "Jose",
+            "categories": "javascript,lenguaje",
+            "tags": "utilizado,objetos,ejemplos,javascript,lenguaje,programaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/tusejemplos.com/2015/04/ejemplos-de-javascript",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tusejemplos.com/ejemplos-de-javascript/"
+        },
+        "mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation": {
+            "title": "Geom\u00e1tica: JSON: JavaScript Object Notation...",
+            "snippet": "Un objeto JavaScript se transforma a un string JSON con (object), y un string JSON se transforma en el objeto original con (string_JSON). La Serializaci\u00f3n es una transformaci\u00f3n reversible de un tipo...",
+            "date": "2015-04-15",
+            "author_name": "Paloma Verdejo Herreras",
+            "categories": "javascript,json",
+            "tags": "javascript",
+            "recuweb_url": "http://es.recuweb.com/json/mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mundogeomatica.blogspot.com/2015/04/json-javascript-object-notation.html"
+        },
+        "stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript": {
+            "title": "Stratos:: Trabajo:: Programador MySQL, PHP y Javascript.",
+            "snippet": "Nombre de la empresa, FX Interactive S.L.. Web,. Correo electr\u00f3nico,. N\u00famero de trabajadores, 30. Ubicaci\u00f3n, Pozuelo de Alarc\u00f3n, Madrid (Espa\u00f1a). Actividades, Desarrollo de...",
+            "date": "2015-04-15",
+            "author_name": "desconocido",
+            "categories": "mysql,php,javascript",
+            "tags": "trabajo,javascript,web,correo,electr\u00f3nico,n\u00famero,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/javascript/stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://stratos-ad.com/index.php?section=2&subsection=1&vtipo=1&vfecha=2015-04-15&vhora=13:13:30"
+        },
+        "desarrolloweb.com/2015/04/nodejs-es-mucho-m%C3%A1s-que-javascript-del-lado-servidor": {
+            "title": "NodeJS es mucho m\u00e1s que Javascript del lado del servidor...",
+            "snippet": "Muchas veces se define a NodeJS como Javascript del lado del servidor, pero es una visi\u00f3n simplista de una estupenda herramienta que nos facilita bastantes tareas. Daremos un repaso a diversas utilidades que mejoran...",
+            "date": "2015-04-14",
+            "author_name": "desconocido",
+            "categories": "javascript",
+            "tags": "herramienta,tareas,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/desarrolloweb.com/2015/04/nodejs-es-mucho-m%C3%A1s-que-javascript-del-lado-servidor",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://desarrolloweb.com/en-directo/nodejs-mas-que-javascript-programadorio-8846.html"
+        },
+        "jotaeseymas.wordpress.com/2015/04/programacion-modular-con-javascript": {
+            "title": "PROGRAMACION MODULAR CON JAVASCRIPT...",
+            "snippet": "Javascript es un lenguaje de scripting, \u00fatil para hacer ciertas tareas que corresponden a un contexto determinado, que en este caso corresponde al Navegador Web. Las p\u00e1ginas y aplicaciones web dependen en mayor o menor medida de...",
+            "date": "2015-04-14",
+            "author_name": "ch1nux",
+            "categories": "javascript,lenguaje",
+            "tags": "aplicaciones,navegador,web,hacer,tareas,javascript,lenguaje",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/jotaeseymas.wordpress.com/2015/04/programacion-modular-con-javascript",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=es",
+            "source_url": "http://jotaeseymas.wordpress.com/2015/04/14/programacion-modular-con-javascript/"
+        },
+        "microsiervos.com/2015/04/javascript-es-el-lenguaje-de-programaci%C3%B3n-m%C3%A1s-utilizado": {
+            "title": "JavaScript es el lenguaje de programaci\u00f3n m\u00e1s utilizado y otros...",
+            "snippet": "En Quartz, algunos datos de la encuesta anual que hace Stack Overflow entre desarrolladores casi de todo el mundo este a\u00f1o...",
+            "date": "2015-04-13",
+            "author_name": "nacho@internality.com (Nacho)",
+            "categories": "javascript,lenguaje",
+            "tags": "casi,mundo,algunos,datos,hace,utilizado,javascript,lenguaje,programaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/microsiervos.com/2015/04/javascript-es-el-lenguaje-de-programaci%C3%B3n-m%C3%A1s-utilizado",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://microsiervos.com/archivo/tecnologia/javascript-lenguaje-programacion-mas-utilizado-otros-graficos-retratan-programadores.html"
+        },
         "dawjaroso.wordpress.com/2015/04/desarrollo-web-en-entorno-cliente": {
             "title": "Desarrollo Web en Entorno Cliente...",
             "snippet": "En este m\u00f3dulo aprenderemos, entre otras cosas: Arquitecturas y lenguajes de programaci\u00f3n en clientes web. Introducci\u00f3n al lenguaje JavaScript. Estructura del lenguaje JavaScript. Estructuras definidas por el usuario en JavaScript. Gesti\u00f3n de...",
             "date": "2015-04-13",
             "author_name": "dawjaroso",
             "categories": "desarrollo-web,lenguaje,javascript",
-            "tags": "lenguajes,cosas,aprenderemos,entorno,desarrollo,web,programaci\u00f3n,introducci\u00f3n,lenguaje,javascript,gesti\u00f3n",
+            "tags": "aprenderemos,desarrollo,web,programaci\u00f3n,introducci\u00f3n,lenguaje,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/dawjaroso.wordpress.com/2015/04/desarrollo-web-en-entorno-cliente",
-            "resource_url": "http://es.search.wordpress.com/?q=javascript&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
             "source_url": "http://dawjaroso.wordpress.com/desarrollo-web-en-entorno-cliente/"
         },
-        "blogs.kinetica-solutions.com/2015/03/javascript-tip-2clases-kinetica-solutions-blogs": {
-            "title": "JavaScript Tip 2Clases Kinetica Solutions Blogs...",
-            "snippet": "Luego, al crear una instancia de ClaseA obtenemos un objeto m\u00e1s o menos cl\u00e1sico si lo vemos desde la \u00f3ptica de lenguajes tipados. Pero JavaScript tiene otra forma de hacer las cosas que es m\u00e1s JavaScript. var ClaseA...",
-            "date": "2015-03-11",
-            "author_name": "miacono",
-            "categories": "javascript",
-            "tags": "cosas,forma,lenguajes,javascript,crear,hacer",
-            "recuweb_url": "http://es.recuweb.com/javascript/blogs.kinetica-solutions.com/2015/03/javascript-tip-2clases-kinetica-solutions-blogs",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.kinetica-solutions.com/blog/2015/03/11/javascript-tip-2clases/"
+        "ksesocss.blogspot.com/2015/04/javascript-con-furoya-c%C3%B3mo-a%C3%B1adir-estilos-si-en-el-contenido-hay": {
+            "title": "Javascript con Furoya: C\u00f3mo a\u00f1adir estilos si en el contenido hay...",
+            "snippet": "Nuevo art\u00edculo de Furoya sobre Javascript. En esta ocasi\u00f3n versa sobre c\u00f3mo saber si hay una palabra concreta en el texto, o no, y en funci\u00f3n de ello aplicar unos estilos Css u otros.",
+            "date": "2015-04-12",
+            "author_name": "Kseso",
+            "categories": "javascript,css",
+            "tags": "ocasi\u00f3n,c\u00f3mo,hay,contenido,javascript,nuevo,css",
+            "recuweb_url": "http://es.recuweb.com/css/ksesocss.blogspot.com/2015/04/javascript-con-furoya-c%C3%B3mo-a%C3%B1adir-estilos-si-en-el-contenido-hay",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ksesocss.blogspot.com/2015/04/indexOf-add-javascript.html"
         },
-        "muycomputer.com/2015/03/google-y-microsoft-trabajan-juntas-en-el-framework-de-javascript": {
-            "title": "Google y Microsoft trabajan juntas en el framework de JavaScript...",
-            "snippet": "Google y Microsoft se han aliado para desarrollar Angular 2, la siguiente versi\u00f3n del framework de JavaScript.",
-            "date": "2015-03-06",
-            "author_name": "Eduardo Medina",
-            "categories": "google,javascript",
-            "tags": "juntas,google,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/muycomputer.com/2015/03/google-y-microsoft-trabajan-juntas-en-el-framework-de-javascript",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://muycomputer.com/2015/03/06/google-microsoft-framework-javascript-angular-2"
-        },
-        "forum.spip.net/2015/02/c%C3%B3mo-cargar-los-javascript-de-forma-as%C3%ADncrona-en-spip-3-0": {
-            "title": "\u00bfc\u00f3mo cargar los javascript de forma as\u00edncrona en SPIP 3.0? - SPIP...",
-            "snippet": "\u00bfEs posible que los js de/local/cache-js se carguen al final de la p\u00e1gina? Al cargarlos al principio se demora la carga y google pagespeed penaliza. No encuentro el esqueleto donde se carguen. Me gustar\u00eda ponerle el...",
-            "date": "2015-02-26",
-            "author_name": "danilubrin",
-            "categories": "google,javascript",
-            "tags": "google,p\u00e1gina,posible,forma,c\u00f3mo,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/forum.spip.net/2015/02/c%C3%B3mo-cargar-los-javascript-de-forma-as%C3%ADncrona-en-spip-3-0",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://forum.spip.net/es_260703.html"
-        },
-        "ranchoelectronico.org/2015/02/aprende-a-programar-con-javascript-rancho-electr%C3%B3nico": {
-            "title": "Aprende a programar con Javascript - Rancho Electr\u00f3nico...",
-            "snippet": "Aprender Programar con Javascript. Resumen del Taller: En este taller vamos a tratar de contestar las siguientes preguntas: C\u00f3mo se comunican servidores, apps, y navegadores del web? Cu\u00e1les herramientas se utilizan?",
-            "date": "2015-02-25",
-            "author_name": "carlosm2",
-            "categories": "javascript",
-            "tags": "herramientas,navegadores,vamos,electr\u00f3nico,javascript,c\u00f3mo,apps,web",
-            "recuweb_url": "http://es.recuweb.com/javascript/ranchoelectronico.org/2015/02/aprende-a-programar-con-javascript-rancho-electr%C3%B3nico",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ranchoelectronico.org/taller-de-javascript/"
-        },
-        "blog.koalite.com/2015/02/monitores-de-rendimiento-para-javascript-koalite": {
-            "title": "Monitores de rendimiento para Javascript Koalite...",
-            "snippet": "Desde hace ya bastante tiempo todos los navegadores (incluso Internet Explorer) incluyen herramientas de desarrollo muy completas para trabajar con Javascript, entre las cuales existen profilers que nos permiten identificar...",
-            "date": "2015-02-23",
-            "author_name": "Juan Mar\u00eda Hern\u00e1ndez",
-            "categories": "internet,javascript",
-            "tags": "herramientas,navegadores,javascript,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/javascript/blog.koalite.com/2015/02/monitores-de-rendimiento-para-javascript-koalite",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.koalite.com/2015/02/monitores-de-rendimiento-para-javascript/"
-        },
-        "geekytheory.com/2015/02/concurrencia-en-javascript-geeky-theory": {
-            "title": "Concurrencia en Javascript Geeky Theory...",
-            "snippet": "Tutorial sobre Javascript en el que aprenderemos a utilizar la paralelizaci\u00f3n de procesos para ejecutarlos en segundo plano de forma concurrente y con threads.",
-            "date": "2015-02-04",
-            "author_name": "Mario P\u00e9rez Esteso",
-            "categories": "javascript",
-            "tags": "aprenderemos,forma,javascript,javascript_geeky,javascript_geeky_theory,geeky,geeky_theory,theory,tutorial",
-            "recuweb_url": "http://es.recuweb.com/javascript/geekytheory.com/2015/02/concurrencia-en-javascript-geeky-theory",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://geekytheory.com/concurrencia-en-javascript/"
-        },
-        "desarrolloweb.com/2015/01/primeros-algoritmos-y-su-codificaci%C3%B3n-en-javascript": {
-            "title": "Primeros algoritmos y su codificaci\u00f3n en Javascript...",
-            "snippet": "En esta entrega vamos a ahondar de manera m\u00e1s pr\u00e1ctica en el concepto de algoritmo y vamos a ver nuestros primeros programas en el lenguaje de programaci\u00f3n Javascript. Es una clase del Curso de Programaci\u00f3n que...",
-            "date": "2015-01-30",
+        "desarrolloweb.com/2015/03/trabajo-con-objetos-en-javascript": {
+            "title": "Trabajo con objetos en Javascript -...",
+            "snippet": "Estos dos puntos hacen que Javascript no sea el mejor lenguaje para aprender a programar con orientaci\u00f3n a objetos, pero esperamos que no sea un inconveniente para entender c\u00f3mo se aplican los conceptos de OOP.",
+            "date": "2015-03-31",
             "author_name": "desconocido",
             "categories": "javascript,lenguaje",
-            "tags": "clase,vamos,manera,javascript,lenguaje,programaci\u00f3n,curso",
-            "recuweb_url": "http://es.recuweb.com/lenguaje/desarrolloweb.com/2015/01/primeros-algoritmos-y-su-codificaci%C3%B3n-en-javascript",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/algoritmos-codificacion-javascript.html"
-        },
-        "geekytheory.com/2015/01/gesti%C3%B3n-de-cookies-en-javascript-geeky-theory": {
-            "title": "Gesti\u00f3n de cookies en Javascript Geeky Theory...",
-            "snippet": "Antes de comenzar a escribir sobre la gesti\u00f3n de cookies en Javascript, tenemos que saber qu\u00e9 es esto de las cookies. Muchos lo sabr\u00e9is ya, pero lo explico por si acaso.",
-            "date": "2015-01-26",
-            "author_name": "Mario P\u00e9rez Esteso",
-            "categories": "javascript",
-            "tags": "tenemos,gesti\u00f3n,javascript,javascript_geeky,javascript_geeky_theory,geeky,geeky_theory,theory",
-            "recuweb_url": "http://es.recuweb.com/javascript/geekytheory.com/2015/01/gesti%C3%B3n-de-cookies-en-javascript-geeky-theory",
-            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://geekytheory.com/gestion-de-cookies-en-javascript/"
-        },
-        "albertoromeu.com/2014/11/bower-c%C3%B3mo-publicar-librer%C3%ADas-javascript": {
-            "title": "Bower - \u00bfC\u00f3mo publicar librer\u00edas Javascript con Bower?",
-            "snippet": "C\u00f3mo publicar una librer\u00eda Javascript en el registro de Bower. Si has estado hibernando \u00faltimamente y no sabes lo que es Bower, te interesa leer esto.",
-            "date": "2014-11-25",
-            "author_name": "Alberto Romeu",
-            "categories": "javascript",
-            "tags": "c\u00f3mo,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/albertoromeu.com/2014/11/bower-c%C3%B3mo-publicar-librer%C3%ADas-javascript",
+            "tags": "c\u00f3mo,mejor,objetos,trabajo,javascript,lenguaje",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/desarrolloweb.com/2015/03/trabajo-con-objetos-en-javascript",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://albertoromeu.com/bower-publicar-libreria-javascript-bower/"
+            "source_url": "http://desarrolloweb.com/articulos/trabajo-objetos-javascript.html"
         }
     }
 }

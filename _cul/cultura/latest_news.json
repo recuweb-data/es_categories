@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cultura",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura/cultura/blogs.json"
     },
     "items": {
-        "abc.com.py/2015/04/agenda-de-arte-y-cultura-abc-color": {
-            "title": "Agenda de arte y cultura - ABC Color...",
-            "snippet": "ABC ColorAgenda de arte y culturaABC Color\u00bfQuer\u00e9s saber qu\u00e9 opciones art\u00edsticas y culturales tienen para hoy Asunci\u00f3n y otros puntos del pa\u00eds? Consult\u00e1 nuestra agenda y particip\u00e1 de los conciertos, encuentros, exposiciones, galer\u00edas,...",
-            "date": "2015-04-22",
-            "categories": "cultura",
-            "tags": "pa\u00eds,art\u00edsticas,hoy,arte,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/abc.com.py/2015/04/agenda-de-arte-y-cultura-abc-color",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://abc.com.py/espectaculos/cultura/agenda-de-arte-y-cultura-1359095.html"
-        },
-        "yucatan.com.mx/2015/04/breves-de-arte-y-cultura-el-diario-yucat%C3%A1n": {
-            "title": "Breves de arte y cultura - El Diario de Yucat\u00e1n...",
-            "snippet": "El UniversalBreves de arte y culturaEl Diario de Yucat\u00e1nEl ganador del Premio Nobel de Literatura 2010, el escritor peruano Mario Vargas Llosa, advirti\u00f3 que uno de los retos de la actualidad es impedir que la gran revoluci\u00f3n audiovisual acabe con...",
-            "date": "2015-04-22",
-            "categories": "cultura,literatura",
-            "tags": "culturael,arte,cultura",
-            "recuweb_url": "http://es.recuweb.com/literatura/yucatan.com.mx/2015/04/breves-de-arte-y-cultura-el-diario-yucat%C3%A1n",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://yucatan.com.mx/imagen/breves-culturales/breves-de-arte-y-cultura-224"
-        },
-        "latarde.com/2015/04/cultura-y-ahorro-algo-por-aprender": {
-            "title": "Cultura y ahorro algo por aprender -...",
-            "snippet": "Cultura y ahorro algo por y ahorro algo por aprender. A prop\u00f3sito de la celebraci\u00f3n internacional del D\u00eda de la Tierra, LaTarde hace un breve balance a nivel departamental y local en temas ambientales. En 1972, se llev\u00f3 a cabo la primera...",
-            "date": "2015-04-22",
-            "categories": "cultura",
-            "tags": "cabo,primera,nivel,cultura,internacional",
-            "recuweb_url": "http://es.recuweb.com/cultura/latarde.com/2015/04/cultura-y-ahorro-algo-por-aprender",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://latarde.com/noticias/pereira/149698-cultura-y-ahorro-algo-por-aprender"
-        },
-        "andina.com.pe/2015/04/ed-sheeran-cant%C3%B3-con-camiseta-de-la-selecci%C3%B3n-son-una-cultura": {
-            "title": "Ed Sheeran cant\u00f3 con camiseta de la selecci\u00f3n: Son una cultura... - Andina...",
-            "snippet": "El PopularEd Sheeran cant\u00f3 con camiseta de la selecci\u00f3n: Son una cultura...AndinaEl cantante Ed Sheeran luci\u00f3 la camiseta de la selecci\u00f3n peruana a lo largo de su concierto en el Per\u00fa y agit\u00f3 la bandera nacional casi al final su show...",
-            "date": "2015-04-22",
-            "categories": "cultura",
-            "tags": "cultura,andina",
-            "recuweb_url": "http://es.recuweb.com/cultura/andina.com.pe/2015/04/ed-sheeran-cant%C3%B3-con-camiseta-de-la-selecci%C3%B3n-son-una-cultura",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://andina.com.pe/agencia/noticia-ed-sheeran-canto-camiseta-de-seleccion-son-una-cultura-asombrosa-552796.aspx"
-        },
-        "granma.cu/2015/04/el-ideario-martiano-vigente-en-todos-los-rumbos-granma-internacional": {
-            "title": "El ideario martiano vigente en todos los rumbos - Granma Internacional...",
-            "snippet": "El ideario martiano vigente en todos los rumbosGranma InternacionalCon apoyo de la Unesco, la Organizaci\u00f3n de Estados Iberoamericanos para la Educaci\u00f3n, la Ciencia y la Cultura, y de muchas otras organizaciones, el Proyecto Jos\u00e9 Mart\u00ed fertiliza...",
-            "date": "2015-04-22",
-            "categories": "ciencia,cultura",
-            "tags": "proyecto,organizaciones,internacional,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/granma.cu/2015/04/el-ideario-martiano-vigente-en-todos-los-rumbos-granma-internacional",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura&output=atom&nord=1",
-            "source_url": "http://granma.cu/cultura/2015-04-21/el-ideario-martiano-vigente-en-todos-los-rumbos"
-        },
-        "finanzas.com/2015/04/la-falta-de-cultura-financiera-no-es-un-problema-exclusivo-espa%C3%B1a": {
-            "title": "La falta de cultura financiera no es un problema exclusivo de Espa\u00f1a...",
-            "snippet": "Pens\u00e1bamos que \u00e9ramos los campeones mundiales en falta de cultura financiera. Cre\u00edamos que \u00e9ramos el para\u00edso de los chiringuitos financieros por la facilidad con la que los clientes caen en sus redes. Pero no. El pa\u00eds de Afinsa, F\u00f3rum...",
-            "date": "2015-04-22",
-            "categories": "cultura",
-            "tags": "pa\u00eds,redes,falta,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/finanzas.com/2015/04/la-falta-de-cultura-financiera-no-es-un-problema-exclusivo-espa%C3%B1a",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=cultura&format=RSS&cc=es",
-            "source_url": "http://finanzas.com/opinion/alejandro-ramirez/20150422/falta-cultura-financiera-problema-5519.html"
-        },
-        "andina.com.pe/2015/04/ministerio-de-cultura-supervisa-trabajos-emergencia-en-edificio-andina": {
-            "title": "Ministerio de Cultura supervisa trabajos de emergencia en edificio - Andina...",
-            "snippet": "Ministerio de Cultura supervisa trabajos de emergencia en edificioAndinaEl Ministerio de Cultura hab\u00eda recomendado adoptar las medidas de emergencia necesarias para salvaguardar la integridad y la vida de las personas as\u00ed como para la...",
-            "date": "2015-04-22",
-            "categories": "cultura",
-            "tags": "ministerio,cultura,andina",
-            "recuweb_url": "http://es.recuweb.com/cultura/andina.com.pe/2015/04/ministerio-de-cultura-supervisa-trabajos-emergencia-en-edificio-andina",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://andina.com.pe/agencia/noticia-ministerio-cultura-supervisa-trabajos-emergencia-edificio-552792.aspx"
-        },
-        "eluniverso.com/2015/04/los-miserables-en-la-casa-de-cultura-el-universo": {
-            "title": "'Los miserables', en la Casa de la Cultura - El Universo...",
-            "snippet": "'Los miserables', en la Casa de la CulturaEl UniversoEn la Casa de la Cultura del Guayas (av. 9 de Octubre y Pedro Moncayo), hoy a las 18:30 se exhibe la cinta Los miserables (versi\u00f3n del 2012). Boleto: 1. (I). Curso de capoeira desde hoy en MAAC...",
-            "date": "2015-04-21",
-            "categories": "capoeira,cultura",
-            "tags": "hoy,culturael,casa,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/eluniverso.com/2015/04/los-miserables-en-la-casa-de-cultura-el-universo",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://eluniverso.com/vida-estilo/2015/04/21/nota/4793056/miserables-casa-cultura"
-        },
-        "de10.com.mx/2015/04/10-criaturas-m%C3%ADsticas-y-fantasmales-de-la-cultura-mexicana": {
-            "title": "10 criaturas m\u00edsticas y fantasmales de la cultura mexicana -...",
-            "snippet": "criaturas m\u00edsticas y fantasmales de la cultura \u00e9xico es un lugar de tradiciones, de creencias que est\u00e1n basadas en la cultura ind\u00edgena de la cual proviene nuestra poblaci\u00f3n. En la costumbre mixteca, en la tolteca, la zapoteca o la totonaca, se...",
-            "date": "2015-04-21",
+        "informador.com.mx/2015/04/alumnos-de-prepa-recibir%C3%A1n-cursos-sobre-cultura-vial": {
+            "title": "Alumnos de prepa recibir\u00e1n cursos sobre cultura vial -...",
+            "snippet": "de prepa recibir\u00e1n cursos sobre cultura, JALISCO (27/ABR/2015).- La Universidad de Guadalajara y la Secretar\u00eda de Movilidad de Jalisco (Semov) firmaron un convenio de colaboraci\u00f3n, para poner en marcha el programa Seguridad y prevenci\u00f3n vial,...",
+            "date": "2015-04-27",
             "categories": "cultura",
             "tags": "cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/de10.com.mx/2015/04/10-criaturas-m%C3%ADsticas-y-fantasmales-de-la-cultura-mexicana",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://de10.com.mx/top-10/2015/04/21/10-criaturas-misticas-y-fantasmales-de-la-cultura-mexicana"
+            "recuweb_url": "http://es.recuweb.com/cultura/informador.com.mx/2015/04/alumnos-de-prepa-recibir%C3%A1n-cursos-sobre-cultura-vial",
+            "resource_url": "http://news.google.es/?hl=es&q=cultura&output=atom&nord=1",
+            "source_url": "http://informador.com.mx/suplementos/2015/588747/6/alumnos-de-prepa-recibiran-cursos-sobre-cultura-vial.htm"
         },
-        "las2orillas.co/2015/04/cinco-libros-que-adoras-revelan-tu-falta-de-cultura-las2orillas": {
-            "title": "Cinco libros que adoras, que revelan tu falta de cultura - Las2orillas...",
-            "snippet": "Las2orillasCinco libros que adoras, que revelan tu falta de culturaLas2orillasDesprecio me producen esos se\u00f1ores que habitan espaciosos apartamentos en Rosales y que todav\u00eda creen que la alta cultura es encender su chimenea, leer T\u00e1ctica y...",
-            "date": "2015-04-21",
+        "diariocronica.com.ar/2015/04/amplia-presencia-en-territorio-busca-de-descentralizar-la-cultura-cr%C3%B3nica-digital": {
+            "title": "Amplia presencia en territorio en busca de descentralizar la cultura - Cr\u00f3nica Digital...",
+            "snippet": "Cr\u00f3nica DigitalAmplia presencia en territorio en busca de descentralizar la culturaCr\u00f3nica DigitalEn el marco de una fuerte presencia en territorio y bajo la impronta de descentralizar la cultura, el titular de la Subsecretar\u00eda de cultura Enrique...",
+            "date": "2015-04-27",
             "categories": "cultura",
-            "tags": "falta,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/las2orillas.co/2015/04/cinco-libros-que-adoras-revelan-tu-falta-de-cultura-las2orillas",
-            "resource_url": "http://news.google.es/?hl=es&q=cultura%2Bcultura&output=atom&nord=1",
-            "source_url": "http://las2orillas.co/cinco-libros-adoras-revelan-tu-falta-de-cultura/"
+            "tags": "presencia,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/diariocronica.com.ar/2015/04/amplia-presencia-en-territorio-busca-de-descentralizar-la-cultura-cr%C3%B3nica-digital",
+            "resource_url": "http://news.google.es/?hl=es&q=cultura&output=atom&nord=1",
+            "source_url": "http://diariocronica.com.ar/131473-amplia-presencia-en-territorio-en-busca-de-descentralizar-la-cultura.html"
+        },
+        "regiondigital.com/2015/04/el-ayuntamiento-de-malpartida-c%C3%A1ceres-recibe-premio-regional-fomento-la-lectura": {
+            "title": "El Ayuntamiento de Malpartida de C\u00e1ceres recibe el Premio Regional de Fomento de la Lectura 2015...",
+            "snippet": "La concejala de Cultura, M Dolores Plata, y la responsable t\u00e9cnica del proyecto, Pilar Montero, fueron las encargadas de recoger el premio de manos de la consejera de Educaci\u00f3n y Cultura, Trinidad Nogales. Cabe destacar que con \u00e9ste, se trata...",
+            "date": "2015-04-27",
+            "categories": "cultura",
+            "tags": "montero,lectura,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/regiondigital.com/2015/04/el-ayuntamiento-de-malpartida-c%C3%A1ceres-recibe-premio-regional-fomento-la-lectura",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=cultura&format=RSS&cc=es",
+            "source_url": "http://regiondigital.com/noticias/cultura/236512-el-ayuntamiento-de-malpartida-de-caceres-recibe-el-premio-regional-de-fomento-de-la-lectura-2015.html"
+        },
+        "jornada.unam.mx/2015/04/la-cultura-en-m%C3%A9xico-jornada-linea": {
+            "title": "La cultura en M\u00e9xico - La Jornada en linea...",
+            "snippet": "La cultura en M\u00e9xicoLa Jornada en lineal concepto de cultura se ha vuelto demasiado m\u00faltiple y se manosea en la voz de merolicos y pol\u00edticos (vengo de la cultura del esfuerzo, establezcamos una cultura del respeto o del ahorro), miembros de una...",
+            "date": "2015-04-27",
+            "categories": "cultura",
+            "tags": "cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/jornada.unam.mx/2015/04/la-cultura-en-m%C3%A9xico-jornada-linea",
+            "resource_url": "http://news.google.es/?hl=es&q=cultura&output=atom&nord=1",
+            "source_url": "http://jornada.unam.mx/2015/04/27/opinion/a09a1cul"
+        },
+        "abc.es/2015/04/montero-e-iu-sacan-pecho-rodeados-de-la-cultura": {
+            "title": "Montero e IU sacan pecho rodeados de la cultura...",
+            "snippet": "Lo m\u00e1s granado de la cultura, m\u00e1s concretamente la m\u00fasica y la poes\u00eda se uni\u00f3 este domingo en un acto multitudinario en La Riviera madrile\u00f1a para apoyar la candidatura de Luis Garc\u00eda Montero a la Comunidad de Madrid, y dar un empuj\u00f3n a...",
+            "date": "2015-04-27",
+            "categories": "cultura",
+            "tags": "luis,m\u00fasica,domingo,montero,cultura,comunidad",
+            "recuweb_url": "http://es.recuweb.com/cultura/abc.es/2015/04/montero-e-iu-sacan-pecho-rodeados-de-la-cultura",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=cultura&format=RSS&cc=es",
+            "source_url": "http://abc.es/videos-cultura/20150427/montero-sacan-pecho-rodeados-4198831899001.html"
+        },
+        "diariodeleon.es/2015/04/platero-trota-en-astorga": {
+            "title": "Platero trota en Astorga...",
+            "snippet": "El libro fue considerado pernicioso y se retir\u00f3 de las Escuelas y las Bibliotecas P\u00fablicas. Un libro en la trastienda de la cultura espa\u00f1ola, mientras que las ediciones se multiplicaban en Am\u00e9rica. Todo cambi\u00f3 cuando en 1956 el andaluz...",
+            "date": "2015-04-27",
+            "categories": "escuela,cultura",
+            "tags": "cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/diariodeleon.es/2015/04/platero-trota-en-astorga",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=cultura&format=RSS&cc=es",
+            "source_url": "http://diariodeleon.es/noticias/cultura/platero-trota-astorga_974386.html"
+        },
+        "elconfidencial.com/2015/04/tom-gauld-treinta-a%C3%B1os-matando-marcianos": {
+            "title": "Tom Gauld, treinta a\u00f1os matando marcianos...",
+            "snippet": "Una oportunidad para hablar con este escoc\u00e9s al que Maria Popova de Brain Pickings considera heredero de esa saludable tradici\u00f3n de autores que entiende que la divisi\u00f3n entre altura cultura y cultura popular es una afirmaci\u00f3n falsa y t\u00f3xica.",
+            "date": "2015-04-27",
+            "categories": "cultura",
+            "tags": "esa,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/elconfidencial.com/2015/04/tom-gauld-treinta-a%C3%B1os-matando-marcianos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=cultura&format=RSS&cc=es",
+            "source_url": "http://elconfidencial.com/cultura/2015-04-27/tom-gauld-treinta-anos-matando-marcianos_778131/"
+        },
+        "nuevodiarioweb.com.ar/2015/04/m%C3%BAsica-es-cultura-se-consolida-cada-domingo-nuevo-diario-de-santiago": {
+            "title": "M\u00fasica es Cultura se consolida cada domingo - Nuevo Diario de Santiago del Estero...",
+            "snippet": "Nuevo Diario de Santiago del EsteroM\u00fasica es Cultura se consolida cada domingoNuevo Diario de Santiago del EsteroM\u00fasica es Cultura, el ciclo que se lleva a cabo todos los domingos con el apoyo del Gobierno de la Provincia, conjuntamente con F\u00f3rum...",
+            "date": "2015-04-27",
+            "categories": "cultura",
+            "tags": "domingo,m\u00fasica,cultura,gobierno",
+            "recuweb_url": "http://es.recuweb.com/cultura/nuevodiarioweb.com.ar/2015/04/m%C3%BAsica-es-cultura-se-consolida-cada-domingo-nuevo-diario-de-santiago",
+            "resource_url": "http://news.google.es/?hl=es&q=cultura&output=atom&nord=1",
+            "source_url": "http://nuevodiarioweb.com.ar/nota/locales/602194/musica-cultura-se-consolida-cada-domingo.html"
+        },
+        "eldiario.es/2015/04/la-cultura-no-es-una-actividad-del-tiempo-libre": {
+            "title": "La cultura no es una actividad del tiempo libre; es lo que nos hace libres todo el tiempo...",
+            "snippet": "La escritora donostiarra Luisa Etxenike se\u00f1ala que la relaci\u00f3n con el lenguaje es la relaci\u00f3n estelar de nuestras vidas y el perder ese matiz, esa ambici\u00f3n, se convierte en una cat\u00e1strofe personal y social. Ante la p\u00e9rdida de riqueza en el...",
+            "date": "2015-04-26",
+            "categories": "lenguaje,cultura",
+            "tags": "esa,ese,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/eldiario.es/2015/04/la-cultura-no-es-una-actividad-del-tiempo-libre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=cultura&format=RSS&cc=es",
+            "source_url": "http://eldiario.es/norte/cultura/cultura-actividad-tiempo-libre-libres_0_380062062.html"
+        },
+        "aleteia.org/2015/04/diplomas-para-la-cultura-de-paz-y-del-perd%C3%B3n-aleteia": {
+            "title": "Diplomas para la cultura de la paz y del perd\u00f3n - Aleteia ES...",
+            "snippet": "Aleteia ESDiplomas para la cultura de la paz y del perd\u00f3nAleteia ESEn cuanto a los ejes tem\u00e1ticos que se abordar\u00e1n durante el Diplomado, los que mayormente llaman la atenci\u00f3n son los relativos a la violencia y sus causas; las consecuencias...",
+            "date": "2015-04-26",
+            "categories": "cultura",
+            "tags": "son,cultura,paz",
+            "recuweb_url": "http://es.recuweb.com/cultura/aleteia.org/2015/04/diplomas-para-la-cultura-de-paz-y-del-perd%C3%B3n-aleteia",
+            "resource_url": "http://news.google.es/?hl=es&q=cultura&output=atom&nord=1",
+            "source_url": "http://aleteia.org/es/politica/noticias/diplomas-para-la-cultura-de-la-paz-y-del-perdon-5229411825614848"
         }
     }
 }

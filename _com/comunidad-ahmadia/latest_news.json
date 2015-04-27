@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "comunidad-ahmadia",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/comunidad-ahmadia/",
@@ -10,6 +11,15 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/comunidad-ahmadia/comunidad-ahmadia/blogs.json"
     },
     "items": {
+        "informaciondelonuevo.com/2015/04/comunidad-musulmana-ahmad%C3%ADa-anuncia-primer-encuentro-inter-libertad-de-expresi%C3%B3n-yucat%C3%A1n": {
+            "title": "Comunidad Musulmana Ahmad\u00eda anuncia Primer Encuentro Inter... - Libertad de Expresi\u00f3n Yucat\u00e1n...",
+            "snippet": "Libertad de Expresi\u00f3n Yucat\u00e1nComunidad Musulmana Ahmad\u00eda anuncia Primer Encuentro Inter...Libertad de Expresi\u00f3n Yucat\u00e1nEl entrevistado explic\u00f3 que este evento se realiza al menos una vez al a\u00f1o en diversas sedes de la Comunidad Musulmana...",
+            "date": "2015-04-16",
+            "tags": "comunidad,comunidad_musulmana,musulmana,expresi\u00f3n,expresi\u00f3n_yucat\u00e1ncomunidad,expresi\u00f3n_yucat\u00e1ncomunidad_musulmana,yucat\u00e1ncomunidad,yucat\u00e1ncomunidad_musulmana,yucat\u00e1ncomunidad_musulmana_ahmad\u00eda,musulmana_ahmad\u00eda,ahmad\u00eda,expresi\u00f3n_yucat\u00e1n,yucat\u00e1n,encuentro,comunidad_musulmana_ahmad\u00eda,libertad",
+            "recuweb_url": "http://es.recuweb.com/informaciondelonuevo.com/2015/04/comunidad-musulmana-ahmad%C3%ADa-anuncia-primer-encuentro-inter-libertad-de-expresi%C3%B3n-yucat%C3%A1n",
+            "resource_url": "http://news.google.es/?hl=es&q=comunidad%2Bahmadia%2Bcomunidad%2Bahmadia&output=atom&nord=1",
+            "source_url": "http://informaciondelonuevo.com/2015/04/comunidad-musulmana-ahmadia-anuncia.html"
+        },
         "informaciondelonuevo.com/2015/03/comunidad-musulmana-ahmad%C3%ADa-presente-en-la-filey-libertad-de-expresi%C3%B3n-yucat%C3%A1n": {
             "title": "Comunidad Musulmana Ahmad\u00eda, presente en la Filey - Libertad de Expresi\u00f3n Yucat\u00e1n...",
             "snippet": "Libertad de Expresi\u00f3n Yucat\u00e1nComunidad Musulmana Ahmad\u00eda, presente en la FileyLibertad de Expresi\u00f3n Yucat\u00e1nM\u00c9RIDA, Yucat\u00e1n, 11 de marzo.- La Comunidad Musulmana Ahmad\u00eda de M\u00e9xico est\u00e1 presente en la Feria Internacional de la Lectura...",
@@ -28,22 +38,13 @@
             "resource_url": "http://news.google.es/?hl=es&q=comunidad%2Bahmadia%2Bcomunidad%2Bahmadia&output=atom&nord=1",
             "source_url": "http://informaciondelonuevo.com/2015/02/comunidad-musulmana-ahmadia-en-merida.html"
         },
-        "e-oaxaca.com/2015/01/el-l%C3%ADder-de-la-comunidad-musulmana-ahmad%C3%ADa-pide-reaccionar-e-oaxaca": {
-            "title": "El l\u00edder de la Comunidad musulmana Ahmad\u00eda pide reaccionar... - e-oaxaca Peri\u00f3dico Digital de...",
-            "snippet": "El l\u00edder de la Comunidad musulmana Ahmad\u00eda pide reaccionar...e-oaxaca Peri\u00f3dico Digital de OaxacaM\u00e9xico.- El l\u00edder Internacional de la Comunidad musulmana Ahmad\u00eda y Quinto Jalifa, Su Santidad, Hazrat Mirza Masrur Ahmad, ha respondido a la...",
-            "date": "2015-01-21",
-            "tags": "peri\u00f3dico,peri\u00f3dico_digital,digital,comunidad,musulmana,ahmad\u00eda,oaxaca,internacional",
-            "recuweb_url": "http://es.recuweb.com/e-oaxaca.com/2015/01/el-l%C3%ADder-de-la-comunidad-musulmana-ahmad%C3%ADa-pide-reaccionar-e-oaxaca",
-            "resource_url": "http://news.google.es/?hl=es&q=comunidad%2Bahmadia&output=atom&nord=1",
-            "source_url": "http://e-oaxaca.com/nota/2015-01-20/mundo/el-lider-de-la-comunidad-musulmana-ahmadia-pide-reaccionar-pacificamente-ante"
-        },
         "e-oaxaca.com/2015/01/la-comunidad-musulmana-ahmad%C3%ADa-de-m%C3%A9xico-asisti%C3%B3-al-homenaje-e-oaxaca": {
             "title": "La Comunidad Musulmana Ahmad\u00eda de M\u00e9xico asisti\u00f3 al Homenaje... - e-oaxaca Peri\u00f3dico Digital de...",
             "snippet": "La Comunidad Musulmana Ahmad\u00eda de M\u00e9xico asisti\u00f3 al Homenaje...e-oaxaca Peri\u00f3dico Digital de OaxacaLa Comunidad Musulmana Ahmad\u00eda de M\u00e9xico estuvo presente este s\u00e1bado en el homenaje a las v\u00edctimas del atentado al peri\u00f3dico galo Charlie...",
             "date": "2015-01-11",
-            "tags": "peri\u00f3dico,presente,comunidad,comunidad_musulmana,comunidad_musulmana_ahmad\u00eda,musulmana,musulmana_ahmad\u00eda,ahmad\u00eda,peri\u00f3dico_digital,digital,m\u00e9xico,oaxaca",
+            "tags": "presente,comunidad,comunidad_musulmana,comunidad_musulmana_ahmad\u00eda,musulmana,musulmana_ahmad\u00eda,ahmad\u00eda,m\u00e9xico",
             "recuweb_url": "http://es.recuweb.com/e-oaxaca.com/2015/01/la-comunidad-musulmana-ahmad%C3%ADa-de-m%C3%A9xico-asisti%C3%B3-al-homenaje-e-oaxaca",
-            "resource_url": "http://news.google.es/?hl=es&q=comunidad%2Bahmadia%2Bcomunidad%2Bahmadia&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=comunidad%2Bahmadia&output=atom&nord=1",
             "source_url": "http://e-oaxaca.com/nota/2015-01-10/sociedad/la-comunidad-musulmana-ahmadia-de-mexico-asistio-al-homenaje-por-las"
         },
         "rotativo.com.mx/2014/12/comunidad-musulmana-ahmad%C3%ADa-de-m%C3%A9xico-condena-el-serm%C3%B3n-rotativo-quer%C3%A9taro": {
@@ -60,7 +61,7 @@
             "snippet": "La Comunidad Ahmad\u00eda proclama la paz mundial en su encuentro...Diario C\u00f3rdobaPol\u00edticos de varios pa\u00edses, como la exministra canadiense Judy Sgro; el alcalde de Turnhout (B\u00e9lgica), Franscis Stijnen; y el parlamentario belga Ward Kennes han...",
             "date": "2014-09-05",
             "categories": "comunidad-ahmadia",
-            "tags": "paz,mundial,comunidad,comunidad_ahmad\u00eda,ahmad\u00eda",
+            "tags": "paz,mundial,encuentro,comunidad,comunidad_ahmad\u00eda,ahmad\u00eda",
             "recuweb_url": "http://es.recuweb.com/comunidad-ahmadia/diariocordoba.com/2014/09/la-comunidad-ahmad%C3%ADa-proclama-paz-mundial-en-su-encuentro-diario-c%C3%B3rdoba",
             "resource_url": "http://news.google.es/?hl=es&q=comunidad%2Bahmadia%2Bcomunidad%2Bahmadia&output=atom&nord=1",
             "source_url": "http://diariocordoba.com/noticias/altoguadalquivir/comunidad-ahmadia-proclama-paz-mundial-encuentro-inglaterra_905060.html"

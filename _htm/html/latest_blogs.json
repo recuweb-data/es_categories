@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "html",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/html/",
@@ -10,27 +11,38 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/html/html/blogs.json"
     },
     "items": {
+        "descargasnsn.com/2015/04/curso-fundamentos-de-html-descargasnsn-archivos": {
+            "title": "Curso Fundamentos de HTML DescargasNsN - Archivos en...",
+            "snippet": "Conocer HTML es imprescindible para ser programador: el formato final de la mayor parte de las aplicaciones que se crean, de los contenidos que se muestran o de las interfaces que se usan en nuestra sociedad es HTML.",
+            "date": "2015-04-22",
+            "author_name": "RoBeRtS",
+            "categories": "sociedad,html",
+            "tags": "contenidos,parte,imprescindible,html,curso",
+            "recuweb_url": "http://es.recuweb.com/html/descargasnsn.com/2015/04/curso-fundamentos-de-html-descargasnsn-archivos",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://descargasnsn.com/cursos/desarrollo-web-diseno/20248-curso-fundamentos-de-html.html"
+        },
+        "unaaldia.hispasec.com/2015/04/operaci%C3%B3n-mu%C3%B1eca-rusa-una-nueva-campa%C3%B1a-de-ataques-dirigidos": {
+            "title": "Operaci\u00f3n Mu\u00f1eca Rusa, una nueva campa\u00f1a de ataques dirigidos...",
+            "snippet": "La p\u00e1gina lanzadora en HTML/JS dispon\u00eda de dos archives Flash en funci\u00f3n de la plataforma del usuario atacado (Windows 32 bits o 64bits). Tanto el HTML/JS como el exploit Flash no dispon\u00edan de ninguna ofuscaci\u00f3n...",
+            "date": "2015-04-20",
+            "author_name": "noreply@blogger.com (Antonio Ropero)",
+            "categories": "html",
+            "tags": "ninguna,p\u00e1gina,html",
+            "recuweb_url": "http://es.recuweb.com/html/unaaldia.hispasec.com/2015/04/operaci%C3%B3n-mu%C3%B1eca-rusa-una-nueva-campa%C3%B1a-de-ataques-dirigidos",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://unaaldia.hispasec.com/2015/04/operacion-muneca-rusa-una-nueva-campana.html"
+        },
         "icalderond.wordpress.com/2015/04/web-app-con-node-js-ii-utilizando-documentos-html-rutas": {
             "title": "Web App con Node JS (II) Utilizando documentos html con rutas...",
             "snippet": "Ya vimos en la entrada anterior como crear nuestro propio servidor utilizando express. Ahora lo que sigue es indicarle a nuestro servidor las rutas que aceptar\u00e1 y la p\u00e1gina a mostrar. Para ello vamos a crear una p\u00e1gina de tipo html en nuestro...",
             "date": "2015-04-13",
             "author_name": "Israel Calderon",
             "categories": "html",
-            "tags": "p\u00e1gina,tipo,vamos,utilizando,web,html,crear",
+            "tags": "p\u00e1gina,tipo,vamos,utilizando,web,documentos,html,crear",
             "recuweb_url": "http://es.recuweb.com/html/icalderond.wordpress.com/2015/04/web-app-con-node-js-ii-utilizando-documentos-html-rutas",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=html%2Bhtml&rss=1&lng=es",
             "source_url": "http://icalderond.wordpress.com/2015/04/13/web-app-con-node-js-ii-utilizando-documentos-html-con-rutas/"
-        },
-        "hostsiete.com/2015/04/6-7-etiqueta-html-applet-comunidad-web-hostsiete": {
-            "title": "6.7. Etiqueta HTML applet Comunidad Web - HostSiete...",
-            "snippet": "No soportado en HTML5, en su lugar se usa u La etiqueta define un applet (aplicaci\u00f3n externa generalmente.",
-            "date": "2015-04-08",
-            "author_name": "Fabi\u00e1n",
-            "categories": "html",
-            "tags": "aplicaci\u00f3n,web,html",
-            "recuweb_url": "http://es.recuweb.com/html/hostsiete.com/2015/04/6-7-etiqueta-html-applet-comunidad-web-hostsiete",
-            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hostsiete.com/comunidad/html-5-referencia/etiqueta-html-applet/"
         },
         "luisracinecervantes.blogspot.com/2015/03/introducci%C3%B3n-al-html": {
             "title": "INTRODUCCI\u00d3N AL HTML...",
@@ -38,7 +50,7 @@
             "date": "2015-03-23",
             "author_name": "luis adolfo racine cervantes",
             "categories": "lenguaje,html,internet",
-            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,p\u00e1gina,introducci\u00f3n,html,internet",
+            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,desarrollo,p\u00e1gina,introducci\u00f3n,html,internet",
             "recuweb_url": "http://es.recuweb.com/internet/luisracinecervantes.blogspot.com/2015/03/introducci%C3%B3n-al-html",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=html%2Bhtml&rss=1&lng=es",
             "source_url": "http://luisracinecervantes.blogspot.com/2015/03/introduccion-al-html-1.html"
@@ -49,9 +61,9 @@
             "date": "2015-03-18",
             "author_name": "desconocido",
             "categories": "html",
-            "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,martes,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
+            "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
             "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-martes-17-marzo-2015",
-            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://iisd.ca/vol26/enb2614s.html"
         },
         "iisd.ca/2015/03/hechos-destacados-de-wcdrr-lunes-16-marzo-2015": {
@@ -62,7 +74,7 @@
             "categories": "html",
             "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
             "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-lunes-16-marzo-2015",
-            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://iisd.ca/vol26/enb2613s.html"
         },
         "iisd.ca/2015/03/hechos-destacados-de-wcdrr-domingo-15-marzo-2015": {
@@ -73,52 +85,41 @@
             "categories": "html",
             "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
             "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-domingo-15-marzo-2015",
-            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://iisd.ca/vol26/enb2612s.html"
         },
-        "duilio.me/2015/02/integrando-los-componentes-html-y-form-a-laravel": {
-            "title": "Integrando los componentes Html y Form a Laravel...",
-            "snippet": "Hoy aprenderemos c\u00f3mo integrar los componentes de Html y Form que fueron removidos del n\u00facleo del framework Laravel.",
-            "date": "2015-02-26",
-            "author_name": "Rafael Torrealba",
+        "iisd.ca/2015/03/hechos-destacados-de-wcdrr-s%C3%A1bado-14-marzo-2015": {
+            "title": "Hechos Destacados de WCDRR S\u00e1bado, 14 de marzo de 2015...",
+            "snippet": "Idiomas: IN (HTML/PDF) FR (HTML/PDF) ES (HTML/PDF) AR (HTML/PDF) JA (HTML/PDF). Visite la cobertura de IISD/ENB de la conferencia de Sendai, Jap\u00f3n en:...",
+            "date": "2015-03-15",
+            "author_name": "desconocido",
             "categories": "html",
-            "tags": "html,c\u00f3mo",
-            "recuweb_url": "http://es.recuweb.com/html/duilio.me/2015/02/integrando-los-componentes-html-y-form-a-laravel",
+            "tags": "conferencia,cobertura,marzo,wcdrr,hechos,hechos_destacados,destacados,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-s%C3%A1bado-14-marzo-2015",
             "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://duilio.me/integrando-los-componentes-html-y-form-a-laravel/"
+            "source_url": "http://iisd.ca/vol26/enb2611s.html"
         },
-        "drupalmexico.com/2015/02/presentaci%C3%B3n-html-limpio-y-semantico-en-drupal-m%C3%A9xico": {
-            "title": "Presentaci\u00f3n Html Limpio Y Semantico En Drupal Drupal M\u00e9xico...",
-            "snippet": "Html Limpio Y Semantico En Drupal from Jorge Salins Buena la presentaci\u00f3n, no es tan nueva pero ayuda a mirar diferente el html de drupal.",
-            "date": "2015-02-17",
-            "author_name": "admin",
-            "categories": "drupal,html",
-            "tags": "html,ayuda",
-            "recuweb_url": "http://es.recuweb.com/html/drupalmexico.com/2015/02/presentaci%C3%B3n-html-limpio-y-semantico-en-drupal-m%C3%A9xico",
+        "librosweb.es/2008/06/cap%C3%ADtulo-1-introducci%C3%B3n-a-css-librosweb": {
+            "title": "Cap\u00edtulo 1. Introducci\u00f3n (Introducci\u00f3n a CSS) - LibrosWeb...",
+            "snippet": "CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentaci\u00f3n de los documentos electr\u00f3nicos definidos con HTML y XHTML. CSS es la mejor forma de separar los contenidos y su presentaci\u00f3n y es imprescindible...",
+            "date": "2008-06-05",
+            "author_name": "desconocido",
+            "categories": "lenguaje,css,html,xhtml",
+            "tags": "contenidos,imprescindible,lenguaje,creado,documentos,introducci\u00f3n,css,html",
+            "recuweb_url": "http://es.recuweb.com/xhtml/librosweb.es/2008/06/cap%C3%ADtulo-1-introducci%C3%B3n-a-css-librosweb",
             "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://drupalmexico.com/es/presentaci\u00f3n-html-limpio-y-semantico-drupal"
+            "source_url": "http://librosweb.es/libro/css/capitulo_1.html"
         },
-        "enter.co/2015/01/youtube-rompe-el-coraz%C3%B3n-de-flash-y-se-casa-con-html": {
-            "title": "YouTube rompe el coraz\u00f3n de Flash y se casa con HTML 5 -...",
-            "snippet": "Un golpe duro a Flash fue publicado en el blog de YouTube la noche de ayer martes. La plataforma de video decidi\u00f3 implementar HTML 5 por defecto en la reproducci\u00f3n de videos en su versi\u00f3n web. Este cambio lo ver\u00e1n...",
-            "date": "2015-01-28",
-            "author_name": "Sergio Fabara",
-            "categories": "html",
-            "tags": "martes,html,web",
-            "recuweb_url": "http://es.recuweb.com/html/enter.co/2015/01/youtube-rompe-el-coraz%C3%B3n-de-flash-y-se-casa-con-html",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://enter.co/chips-bits/apps-software/youtube-rompe-el-corazon-de-flash-y-se-casa-con-html-5/"
-        },
-        "microsiervos.com/2015/01/la-tabla-peri%C3%B3dica-del-html-microsiervos-internet": {
-            "title": "La tabla peri\u00f3dica del HTML Microsiervos (Internet)...",
-            "snippet": "Robert nos hizo llegar un enlace a su Tabla peri\u00f3dica de de los elementos HTML (que actualiza una idea antigua que ya...",
-            "date": "2015-01-19",
-            "author_name": "alvy@microsiervos.com (Alvy)",
-            "categories": "html,internet",
-            "tags": "idea,enlace,html,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/microsiervos.com/2015/01/la-tabla-peri%C3%B3dica-del-html-microsiervos-internet",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsiervos.com/archivo/internet/tabla-periodica-html.html"
+        "desarrolloweb.com/2008/05/html-a-fondo": {
+            "title": "HTML a fondo -...",
+            "snippet": "Introducciones. Para quien desee unos conocimientos te\u00f3ricos de base, estos manuales ayudar\u00e1n a ubicar HTML dentro del mundo del desarrollo. Publicar en Internet Introducci\u00f3n a lenguajes web...",
+            "date": "2008-05-21",
+            "author_name": "desconocido",
+            "categories": "internet,conocimiento,html",
+            "tags": "internet,introducci\u00f3n,desarrollo,base,html,web",
+            "recuweb_url": "http://es.recuweb.com/html/desarrolloweb.com/2008/05/html-a-fondo",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://desarrolloweb.com/html/"
         }
     }
 }

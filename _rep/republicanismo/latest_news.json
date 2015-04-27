@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "republicanismo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/republicanismo/",
@@ -10,25 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/republicanismo/republicanismo/blogs.json"
     },
     "items": {
+        "lacapital.com.ar/2015/04/cleri-lo-que-est%C3%A1-pasando-es-vergonzoso": {
+            "title": "Cleri: Lo que est\u00e1 pasando es vergonzoso -...",
+            "snippet": ": Lo que est\u00e1 pasando es esta l\u00ednea, Cleri asegur\u00f3 que su espacio est\u00e1 esperando el escrutinio definitivo que lamentablemente se est\u00e1 haciendo en medio de un mar de dudas que no le hacen ning\u00fan favor al republicanismo, ni a la honestidad...",
+            "date": "2015-04-23",
+            "categories": "republicanismo",
+            "tags": "honestidad,escrutinio,escrutinio-definitivo,definitivo,haciendo,haciendo-en-medio,medio,mar,mar-de-dudas,dudas,hacen,hacen-ning\u00fan,hacen-ning\u00fan-favor,ning\u00fan,ning\u00fan-favor,favor,republicanismo",
+            "recuweb_url": "http://es.recuweb.com/republicanismo/lacapital.com.ar/2015/04/cleri-lo-que-est%C3%A1-pasando-es-vergonzoso",
+            "resource_url": "http://news.google.es/?hl=es&q=republicanismo&output=atom&nord=1",
+            "source_url": "http://lacapital.com.ar/ed_impresa/2015/4/edicion_2346/contenidos/noticia_5170.html"
+        },
+        "momarandu.com/2015/04/sanz-anticipa-cambios-bruscos-en-lo-institucional-y-gradual": {
+            "title": "Sanz anticipa cambios bruscos en lo institucional y gradual en lo... -...",
+            "snippet": "anticipa cambios bruscos en lo institucional y gradual en lo... un programa b\u00e1sico, com\u00fan y cumplible, que se sintetiza en progreso, desarrollo, decencia, republicanismo y apertura al mundo, explicit\u00f3. Queremos hacernos cargo del poder para...",
+            "date": "2015-04-23",
+            "categories": "republicanismo",
+            "tags": "com\u00fan,republicanismo",
+            "recuweb_url": "http://es.recuweb.com/republicanismo/momarandu.com/2015/04/sanz-anticipa-cambios-bruscos-en-lo-institucional-y-gradual",
+            "resource_url": "http://news.google.es/?hl=es&q=republicanismo&output=atom&nord=1",
+            "source_url": "http://momarandu.com/amanoticias.php?a=1&b=0&c=143034"
+        },
         "elargentinorosario.infonews.com/2015/04/habr%C3%A1-que-esperar-m%C3%A1s-de-10-d%C3%ADas-para-conocer-el-resultado": {
             "title": "Habr\u00e1 que esperar m\u00e1s de 10 d\u00edas para conocer el resultado final... - Infonews...",
             "snippet": "InfonewsHabr\u00e1 que esperar m\u00e1s de 10 d\u00edas para conocer el resultado final...InfonewsLamentablemente el escrutinio definitivo se est\u00e1 haciendo en medio de un mar de dudas que no le hacen ning\u00fan favor al republicanismo, ni a la honestidad...",
             "date": "2015-04-22",
             "categories": "republicanismo",
-            "tags": "republicanismo",
+            "tags": "honestidad,escrutinio,escrutinio-definitivo,definitivo,haciendo,haciendo-en-medio,medio,mar,mar-de-dudas,dudas,hacen,hacen-ning\u00fan,hacen-ning\u00fan-favor,ning\u00fan,ning\u00fan-favor,favor,republicanismo",
             "recuweb_url": "http://es.recuweb.com/republicanismo/elargentinorosario.infonews.com/2015/04/habr%C3%A1-que-esperar-m%C3%A1s-de-10-d%C3%ADas-para-conocer-el-resultado",
             "resource_url": "http://news.google.es/?hl=es&q=republicanismo&output=atom&nord=1",
             "source_url": "http://elargentinorosario.infonews.com/nota/196030/habra-que-esperar-mas-de-10-dias-para-conocer-el-resultado-final-de-las-paso"
-        },
-        "diariovasco.com/2015/04/irabazi-ganar-presenta-una-candidatura-comprometida-con-la-justicia-social": {
-            "title": "Irabazi-Ganar presenta una candidatura comprometida con la justicia social...",
-            "snippet": "Seg\u00fan Merino, la candidatura electoral que encabeza tiene propugna un programa serio desde la izquierda social, el ecologismo, el republicanismo y la convivencia entre diferentes por el beneficio de toda la ciudadan\u00eda de Arrasate. Con estas...",
-            "date": "2015-04-22",
-            "categories": "ecologismo,republicanismo",
-            "tags": "tiene,serio,republicanismo",
-            "recuweb_url": "http://es.recuweb.com/republicanismo/diariovasco.com/2015/04/irabazi-ganar-presenta-una-candidatura-comprometida-con-la-justicia-social",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=republicanismo&format=RSS&cc=es",
-            "source_url": "http://diariovasco.com/alto-deba/201504/23/irabazi-ganar-presenta-candidatura-20150423002024-v.html"
         },
         "blogs.20minutos.es/2015/04/do%C3%B1a-letizia-la-reina-que-crea-tendencias": {
             "title": "Do\u00f1a Letizia: la Reina que crea tendencias...",
@@ -43,7 +54,7 @@
         "abc.es/2015/04/la-crisis-del-republicanismo-centrista": {
             "title": "La crisis del republicanismo centrista...",
             "snippet": "Los ataques a la formaci\u00f3n de una mayor\u00eda parlamentaria moderada tras las elecciones de 1933 se iniciaron, como ve\u00edamos en la pasada entrega de esta serie, en los \u00e1mbitos del alfonsismo m\u00e1s crispado y en un tradicionalismo en el que iban...",
-            "date": "2015-04-21",
+            "date": "2015-04-20",
             "categories": "republicanismo",
             "tags": "republicanismo",
             "recuweb_url": "http://es.recuweb.com/republicanismo/abc.es/2015/04/la-crisis-del-republicanismo-centrista",
@@ -55,27 +66,17 @@
             "snippet": "No s\u00f3lo de quienes hoy aqu\u00ed estamos y somos, repito, una parte representativa del republicanismo en este pa\u00eds: la Reflexi\u00f3n deber ser, tanto o m\u00e1s que nuestra, de quienes, en la actualidad, est\u00e1n en puestos pol\u00edticos preeminentes. El Discurso...",
             "date": "2015-04-20",
             "categories": "republicanismo",
-            "tags": "hoy,republicano,serio,republicanismo",
+            "tags": "republicano,republicanismo",
             "recuweb_url": "http://es.recuweb.com/republicanismo/cronicapopular.es/2015/04/un-serio-aviso-republicano",
             "resource_url": "http://www.bing.com/news/search?first=1&q=republicanismo&format=RSS&cc=es",
             "source_url": "http://cronicapopular.es/2015/04/un-serio-aviso-republicano/"
-        },
-        "bariloche2000.com/2015/04/una-mujer-inolvidable-bariloche-2000": {
-            "title": "UNA MUJER INOLVIDABLE - Bariloche 2000...",
-            "snippet": "Bariloche 2000UNA MUJER INOLVIDABLEBariloche 2000Una Rep\u00fablica sin instituciones firmes poco anda. El republicanismo que se basa en varias premisas, como la divisi\u00f3n y la independencia de los tres poderes, est\u00e1 desapareciendo porque el Poder...",
-            "date": "2015-04-19",
-            "categories": "republicanismo",
-            "tags": "rep\u00fablica,republicanismo",
-            "recuweb_url": "http://es.recuweb.com/republicanismo/bariloche2000.com/2015/04/una-mujer-inolvidable-bariloche-2000",
-            "resource_url": "http://news.google.es/?hl=es&q=republicanismo&output=atom&nord=1",
-            "source_url": "http://bariloche2000.com/especiales/90847"
         },
         "lanacion.com.ar/2015/04/una-apelaci%C3%B3n-al-sustrato-com%C3%BAn-liberal-argentina": {
             "title": "Una apelaci\u00f3n al sustrato com\u00fan liberal - (Argentina)...",
             "snippet": "Una apelaci\u00f3n al sustrato com\u00fan (Argentina)Finalmente, el liberalismo deontol\u00f3gico o socialdem\u00f3crata invoca la preeminencia de los medios o \"lo debido\" (deon), la moral, la ley, el Estado de Derecho, el idealismo, el republicanismo, el consenso,...",
             "date": "2015-04-18",
             "categories": "idealismo,liberalismo,republicanismo",
-            "tags": "liberalismo,estado,republicanismo",
+            "tags": "com\u00fan,liberalismo,estado,republicanismo",
             "recuweb_url": "http://es.recuweb.com/republicanismo/lanacion.com.ar/2015/04/una-apelaci%C3%B3n-al-sustrato-com%C3%BAn-liberal-argentina",
             "resource_url": "http://news.google.es/?hl=es&q=republicanismo&output=atom&nord=1",
             "source_url": "http://lanacion.com.ar/1785445-una-apelacion-al-sustrato-comun-liberal"

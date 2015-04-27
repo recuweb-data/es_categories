@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tradici\u00f3n",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/tradici\u00f3n/",
@@ -10,102 +11,97 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/tradici%C3%B3n/tradici%C3%B3n/blogs.json"
     },
     "items": {
-        "elcolombiano.com/2015/04/hay-ingenier%C3%ADas-que-son-de-tradici%C3%B3n-el-colombiano": {
-            "title": "Hay ingenier\u00edas que son de tradici\u00f3n - El Colombiano...",
-            "snippet": "El ColombianoHay ingenier\u00edas que son de tradici\u00f3nEl ColombianoCon los a\u00f1os, carreras de tradici\u00f3n como Contabilidad y Negocios Internacionales, entre otras, que por a\u00f1os han sido de preferencia por afinidad o gusto como las Ciencias Sociales y...",
-            "date": "2015-04-21",
-            "categories": "ciencias,ciencia,ingenieria,contabilidad",
-            "tags": "sido,son,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/contabilidad/elcolombiano.com/2015/04/hay-ingenier%C3%ADas-que-son-de-tradici%C3%B3n-el-colombiano",
-            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
-            "source_url": "http://elcolombiano.com/hay-ingenierias-que-son-de-tradicion-NY1760834"
-        },
-        "laopiniondezamora.es/2015/04/en-la-vida-es-fundamental-mantener-el-hilo-de-tradici%C3%B3n": {
-            "title": "En la vida es fundamental mantener el hilo de la tradici\u00f3n...",
-            "snippet": "C\u00c9SAR COMBARROS, VALLADOLID Con una quincena de poemarios en su haber e infinidad de galardones a sus espaldas, el poeta soriano afincado en Valladolid Ferm\u00edn Herrero (Ausejo de la Sierra, 1963) alcanza la culminaci\u00f3n a su trayectoria, al recibir...",
-            "date": "2015-04-20",
-            "tags": "vida,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/laopiniondezamora.es/2015/04/en-la-vida-es-fundamental-mantener-el-hilo-de-tradici%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://laopiniondezamora.es/castilla-leon/2015/04/21/vida-fundamental-mantener-hilo-tradicion/837441.html"
-        },
-        "cambiodemichoacan.com.mx/2015/04/el-juego-del-palillo-tradici%C3%B3n-con-origen-en-la-actividad": {
-            "title": "El juego del palillo, tradici\u00f3n con origen en la actividad de los forajidos - Cambio de Michoac\u00e1n...",
-            "snippet": "El juego del palillo, tradici\u00f3n con origen en la actividad de los forajidosCambio de Michoac\u00e1nZinap\u00e9cuaro, Michoac\u00e1n.- Tradici\u00f3n muy centenaria entre los vecinos de San Nicol\u00e1s Simirao, en la tenencia de Arar\u00f3, del municipio de Zinap\u00e9cuaro,...",
-            "date": "2015-04-20",
-            "tags": "municipio,san,vecinos,actividad,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/cambiodemichoacan.com.mx/2015/04/el-juego-del-palillo-tradici%C3%B3n-con-origen-en-la-actividad",
-            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
-            "source_url": "http://cambiodemichoacan.com.mx/nota-251506"
-        },
-        "elperiodic.com/2015/04/la-tradici%C3%B3n-de-cr%C3%ADa-gusanos-seda-vuelve-al-museu-comarcal-lhorta": {
-            "title": "La tradici\u00f3n de la cr\u00eda de gusanos de seda vuelve al Museu Comarcal de lHorta Sud...",
-            "snippet": "Alrededor de veinte ni\u00f1os entre 3 y 12 a\u00f1os, acompa\u00f1ados de sus padres, han participado en el taller familiar did\u00e1ctico organizado por el Museu Comarcal Josep Ferr\u00eds March, dentro de la actividad La Memoria de la seda, con el objetivo de...",
-            "date": "2015-04-20",
-            "categories": "memoria",
-            "tags": "dentro,actividad,organizado,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/memoria/elperiodic.com/2015/04/la-tradici%C3%B3n-de-cr%C3%ADa-gusanos-seda-vuelve-al-museu-comarcal-lhorta",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://elperiodic.com/torrent/noticias/369044_tradicion-cria-gusanos-seda-vuelve-museu-comarcal-lhorta.html"
-        },
-        "jornada.unam.mx/2015/04/la-tradici%C3%B3n-de-traducir-jornada-en-linea": {
-            "title": "La tradici\u00f3n de traducir - La Jornada en linea...",
-            "snippet": "La tradici\u00f3n de traducirLa Jornada en lineaiene la poes\u00eda moderna mexicana una vertiente caudalosa que pocas veces se destaca, y que le da una caracter\u00edstica peculiar en el \u00e1mbito de la escritura en lengua castellana. Nuestros poetas del XX se...",
-            "date": "2015-04-20",
+        "oem.com.mx/2015/04/el-sol-tradici%C3%B3n-vuelta-peri%C3%B3dico-del-centro": {
+            "title": "EL SOL, tradici\u00f3n vuelta peri\u00f3dico - El Sol del Centro...",
+            "snippet": "El Sol del CentroEL SOL, tradici\u00f3n vuelta peri\u00f3dicoEl Sol del CentroEl Sol del Centro, tradici\u00f3n vuelta peri\u00f3dico, lo mismo da, en su conjunto, una visi\u00f3n panor\u00e1mica del acontecer diario, que proporciona, en lo particular, a quien se interesa,...",
+            "date": "2015-04-25",
             "tags": "tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/jornada.unam.mx/2015/04/la-tradici%C3%B3n-de-traducir-jornada-en-linea",
+            "recuweb_url": "http://es.recuweb.com/oem.com.mx/2015/04/el-sol-tradici%C3%B3n-vuelta-peri%C3%B3dico-del-centro",
             "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
-            "source_url": "http://jornada.unam.mx/2015/04/20/opinion/a10a1cul"
+            "source_url": "http://oem.com.mx/elsoldelcentro/notas/n3785380.htm"
         },
-        "laopiniondezamora.es/2015/04/primavera-y-tradici%C3%B3n": {
-            "title": "Primavera y tradici\u00f3n...",
-            "snippet": "G. B. Pese a lo que muchos digan o piensen, el folclore y lo tradicional est\u00e1 de moda. Prueba de ello son la decena de actividades programadas en Zamora desde hoy hasta el pr\u00f3ximo 17 de mayo, englobadas dentro de Folklore primavera, organizado por...",
-            "date": "2015-04-20",
-            "categories": "folclore,moda",
-            "tags": "organizado,dentro,hoy,son,tradicional,moda,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/moda/laopiniondezamora.es/2015/04/primavera-y-tradici%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://laopiniondezamora.es/zamora/2015/04/21/primavera-tradicion/837450.html"
-        },
-        "diariodelaltoaragon.es/2015/04/tradici%C3%B3n-y-naturaleza-ejes-de-las-jornadas-del-r%C3%ADo-g%C3%A1llego": {
-            "title": "Tradici\u00f3n y naturaleza, ejes de las jornadas del r\u00edo G\u00e1llego...",
-            "snippet": "HUESCA.- La dinamizaci\u00f3n de la vida cultural y la promoci\u00f3n tur\u00edstica de la Galliguera constituyen el eje de las XIII Jornadas por el R\u00edo G\u00e1llego que se celebran esta semana y que tienen, como evento destacado, el tradicional descenso de...",
-            "date": "2015-04-20",
-            "categories": "naturaleza",
-            "tags": "tradicional,destacado,celebran,vida,tradici\u00f3n,semana",
-            "recuweb_url": "http://es.recuweb.com/naturaleza/diariodelaltoaragon.es/2015/04/tradici%C3%B3n-y-naturaleza-ejes-de-las-jornadas-del-r%C3%ADo-g%C3%A1llego",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://diariodelaltoaragon.es/NoticiasDetalle.aspx?Id=929209"
-        },
-        "m.larioja.com/2015/04/zarrat%C3%B3n-tradici%C3%B3n-y-nuevas-tecnolog%C3%ADas": {
-            "title": "Zarrat\u00f3n, tradici\u00f3n y nuevas tecnolog\u00edas...",
-            "snippet": "'Hijos de Alejandro Tof\u00e9'y 'Riojaselecto', dos de las empresas del municipio, han recibido la visita de Sanz, quien ha destacado su labor en el desarrollo del municipio El presidente del Gobierno de La Rioja, Pedro Sanz, ha destacado hoy la labor...",
-            "date": "2015-04-20",
-            "categories": "tecnologia",
-            "tags": "destacado,hoy,municipio,visita,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/m.larioja.com/2015/04/zarrat%C3%B3n-tradici%C3%B3n-y-nuevas-tecnolog%C3%ADas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
-            "source_url": "http://m.larioja.com/comarcas/201504/20/zarraton-tradicion-nuevas-tecnologias-20150420175608.html"
-        },
-        "es.eurosport.yahoo.com/2015/04/amstel-gold-race-tradici%C3%B3n-cervecera-y-vestidos-con-posavasos-yahoo-eurosport": {
-            "title": "Amstel Gold Race: tradici\u00f3n cervecera y vestidos con posavasos - Yahoo Eurosport ES...",
-            "snippet": "Yahoo Eurosport ESAmstel Gold Race: tradici\u00f3n cervecera y vestidos con posavasosYahoo Eurosport ESLa Amstel Gold Race es una de las grandes cl\u00e1sicas ciclistas del calendario, una carrera de enorme tradici\u00f3n y que abre el llamado 'Tr\u00edptico de las...",
-            "date": "2015-04-19",
-            "categories": "yahoo",
-            "tags": "tradici\u00f3n,enorme",
-            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/04/amstel-gold-race-tradici%C3%B3n-cervecera-y-vestidos-con-posavasos-yahoo-eurosport",
-            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/blogs/chorreo-digital/amstel-gold-race--tradici\u00f3n-cervecera-y-vestidos-con-posavasos-173058100.html"
-        },
-        "laprensa.com.ar/2015/04/bonfatti-dijo-que-esperaba-elecciones-tranquilas-como-es-tradici%C3%B3n-la-prensa": {
-            "title": "Bonfatti dijo que esperaba elecciones tranquilas como es tradici\u00f3n... - La Prensa (Argentina)...",
-            "snippet": "La Prensa (Argentina)Bonfatti dijo que esperaba \"elecciones tranquilas como es tradici\u00f3n...La Prensa (Argentina) El gobernador santafesino emiti\u00f3 su voto con la boleta \u00fanica en una cabina de la escuela San Francisco de As\u00eds y record\u00f3 que era su...",
-            "date": "2015-04-19",
+        "eldiariomontanes.es/2015/04/estandarte-de-la-tradici%C3%B3n": {
+            "title": "Estandarte de la tradici\u00f3n...",
+            "snippet": "Desde los 13 a\u00f1os est\u00e1 entre fogones -empez\u00f3 en la Escuela de Hosteler\u00eda de Santander con pantalones cortos- y, tras pasar por otras cocinas, desde el 23 de junio de 1993 gu\u00eda su propio restaurante junto a su inseparable esposa Andrea, que...",
+            "date": "2015-04-25",
             "categories": "escuela",
-            "tags": "san,tradici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/escuela/laprensa.com.ar/2015/04/bonfatti-dijo-que-esperaba-elecciones-tranquilas-como-es-tradici%C3%B3n-la-prensa",
+            "tags": "esposa,tradici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/escuela/eldiariomontanes.es/2015/04/estandarte-de-la-tradici%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
+            "source_url": "http://eldiariomontanes.es/planes/201504/25/estandarte-tradicion-20150425013608-v.html"
+        },
+        "diaadia.com.ar/2015/04/falta-y-resto-revoluci%C3%B3n-mucha-tradici%C3%B3n-d%C3%ADa": {
+            "title": "Falta y Resto: revoluci\u00f3n y mucha tradici\u00f3n - D\u00eda a d\u00eda...",
+            "snippet": "D\u00eda a d\u00edaFalta y Resto: revoluci\u00f3n y mucha tradici\u00f3nD\u00eda a d\u00edaTradici\u00f3n Revolucionaria y Murguera Vuelve el teatro negro de Praga. La evoluci\u00f3n, que pretendi\u00f3 ser revoluci\u00f3n, la marcaron los muchachos del coro. Con la base de la actuaci\u00f3n...",
+            "date": "2015-04-25",
+            "tags": "revoluci\u00f3n,d\u00eda,tradici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/diaadia.com.ar/2015/04/falta-y-resto-revoluci%C3%B3n-mucha-tradici%C3%B3n-d%C3%ADa",
             "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
-            "source_url": "http://laprensa.com.ar/433107-Bonfatti-dijo-que-esperaba-elecciones-tranquilas-como-es-tradicion-en-la-provincia.note.aspx"
+            "source_url": "http://diaadia.com.ar/show/falta-y-resto-revolucion-y-mucha-tradicion"
+        },
+        "diariodigital.com.do/2015/04/guti%C3%A9rrez-f%C3%A9lix-destaca-tradici%C3%B3n-combativa-del-pueblo-dominicano-diariodigitalrd": {
+            "title": "Guti\u00e9rrez F\u00e9lix destaca tradici\u00f3n combativa del pueblo dominicano - DiarioDigitalRD...",
+            "snippet": "DiarioDigitalRDGuti\u00e9rrez F\u00e9lix destaca tradici\u00f3n combativa del pueblo dominicanoDiarioDigitalRDAl conmemorarse este 24 abril 50 a\u00f1os de la Revoluci\u00f3n de Abril, Euclides Guti\u00e9rrez F\u00e9lix, miembro del Comit\u00e9 Pol\u00edtico del Partido de la...",
+            "date": "2015-04-25",
+            "tags": "tradici\u00f3n,pueblo,abril,revoluci\u00f3n,partido",
+            "recuweb_url": "http://es.recuweb.com/diariodigital.com.do/2015/04/guti%C3%A9rrez-f%C3%A9lix-destaca-tradici%C3%B3n-combativa-del-pueblo-dominicano-diariodigitalrd",
+            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
+            "source_url": "http://diariodigital.com.do/2015/04/24/gutierrez-felix-destaca-tradicion-combativa-del-pueblo-dominicano/"
+        },
+        "elsiglodetorreon.com.mx/2015/04/hamburguesas-jaramillo-una-exquisita-tradici%C3%B3n-el-siglo-de-torre%C3%B3n": {
+            "title": "Hamburguesas Jaramillo, una exquisita tradici\u00f3n - El Siglo de Torre\u00f3n...",
+            "snippet": "El Siglo de Torre\u00f3nHamburguesas Jaramillo, una exquisita tradici\u00f3nEl Siglo de Torre\u00f3nSi de hamburguesas se habla, las Jaramillo son unas de las que m\u00e1s tradici\u00f3n tienen en Torre\u00f3n, pues con treinta a\u00f1os en el ramo, acompa\u00f1ado de su esposa,...",
+            "date": "2015-04-25",
+            "tags": "esposa,son,tradici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/elsiglodetorreon.com.mx/2015/04/hamburguesas-jaramillo-una-exquisita-tradici%C3%B3n-el-siglo-de-torre%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
+            "source_url": "http://elsiglodetorreon.com.mx/noticia/1108888.hamburguesas-jaramillo-una-exquisita-tradicion.html"
+        },
+        "hoy.com.do/2015/04/per%C3%BA-muestra-su-centenaria-tradici%C3%B3n-cultural-en-la-feria-hoy-digital": {
+            "title": "Per\u00fa muestra su centenaria tradici\u00f3n cultural en la Feria... - Hoy Digital (Rep\u00fablica...",
+            "snippet": "Hoy Digital (Rep\u00fablica Dominicana)Per\u00fa muestra su centenaria tradici\u00f3n cultural en la Feria...Hoy Digital (Rep\u00fablica Dominicana)La Rep\u00fablica de Per\u00fa lleg\u00f3 hasta la XVIII Feria Internacional del Libro Santo Domingo 2015 para instalarse con su...",
+            "date": "2015-04-25",
+            "tags": "per\u00fa,tradici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/hoy.com.do/2015/04/per%C3%BA-muestra-su-centenaria-tradici%C3%B3n-cultural-en-la-feria-hoy-digital",
+            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n&output=atom&nord=1",
+            "source_url": "http://hoy.com.do/peru-muestra-su-centenaria-tradicion-cultural-en-la-feria-internacional-del-libro-santo-domingo-2015/"
+        },
+        "hoy.es/2015/04/una-tradici%C3%B3n-en-entredicho": {
+            "title": "Una tradici\u00f3n en entredicho...",
+            "snippet": "c\u00e1ceres. Es uno de los actos m\u00e1s simb\u00f3licos de la procesi\u00f3n de bajada de la Virgen de la Monta\u00f1a. Fuente Concejo. El alcalde o alcaldesa de turno se aproxima hasta la imagen y le hace entrega del bast\u00f3n de mando, momento a partir del cual la...",
+            "date": "2015-04-25",
+            "tags": "entrega,bajada,tradici\u00f3n,monta\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/hoy.es/2015/04/una-tradici%C3%B3n-en-entredicho",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
+            "source_url": "http://hoy.es/caceres/201504/25/tradicion-entredicho-20150425001809-v.html"
+        },
+        "elmundo.es/2015/04/una-tradici%C3%B3n-sin-palabras": {
+            "title": "Una tradici\u00f3n sin palabras...",
+            "snippet": "13 peregrinos han partido este viernes desde Les Useres para recorrer caminando, cantando y en su mayor parte en silencio, 70 km de monta\u00f1a hasta el santuario del pico Pe\u00f1agolosa, en una rogativa ancestral que pide salud, paz y lluvia.",
+            "date": "2015-04-25",
+            "categories": "salud",
+            "tags": "monta\u00f1a,santuario,mayor,partido,tradici\u00f3n,parte,ancestral",
+            "recuweb_url": "http://es.recuweb.com/salud/elmundo.es/2015/04/una-tradici%C3%B3n-sin-palabras",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/album/comunidad-valenciana/2015/04/24/553a0412ca474153018b457a.html"
+        },
+        "diariodeleon.es/2015/04/de-la-tradici%C3%B3n-secular-las-cabezadas": {
+            "title": "De la tradici\u00f3n secular de las Cabezadas...",
+            "snippet": "La referencia tiene registro en el cap\u00edtulo XLI de Los Milagros de San Isidoro, de Lucas de Tuy. Corr\u00eda el a\u00f1o 1158. Fernando II, hijo del emperador Alfonso VII, reinaba en Le\u00f3n. Una pertinaz sequ\u00eda agostaba la tierra leonesa. Ante esta...",
+            "date": "2015-04-24",
+            "tags": "tradici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/diariodeleon.es/2015/04/de-la-tradici%C3%B3n-secular-las-cabezadas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradici%C3%B3n&format=RSS&cc=es",
+            "source_url": "http://diariodeleon.es/noticias/opinion/tradicion-secular-cabezadas_973791.html"
+        },
+        "elcomercio.pe/2015/04/hermosa-tradici%C3%B3n-mira-esta-casa-de-t%C3%A9-en-lo-alto-kyoto": {
+            "title": "Hermosa tradici\u00f3n: mira esta casa de t\u00e9 en lo alto de Kyoto - El Comercio...",
+            "snippet": "El ComercioHermosa tradici\u00f3n: mira esta casa de t\u00e9 en lo alto de KyotoEl ComercioJap\u00f3n es un pa\u00eds con tradiciones muy arraigadas que no solo se notan en sus costumbres sino tambi\u00e9n en su arquitectura. Las casas de t\u00e9 son un tipo de...",
+            "date": "2015-04-24",
+            "tags": "casa,son,tradiciones,tradici\u00f3n,costumbres",
+            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/hermosa-tradici%C3%B3n-mira-esta-casa-de-t%C3%A9-en-lo-alto-kyoto",
+            "resource_url": "http://news.google.es/?hl=es&q=tradici%C3%B3n%2Btradici%C3%B3n&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/casa-y-mas/arquitectura/hermosa-tradicion-mira-esta-casa-te-lo-alto-kyoto-noticia-1806504"
         }
     }
 }

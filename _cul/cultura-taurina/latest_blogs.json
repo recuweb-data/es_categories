@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cultura-taurina",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura-taurina/",
@@ -10,112 +11,100 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura-taurina/cultura-taurina/blogs.json"
     },
     "items": {
-        "radiotelevisionalhaurinelgrande.wordpress.com/2015/03/vii-jornadas-de-cultura-taurina": {
-            "title": "VII JORNADAS DE CULTURA TAURINA...",
-            "snippet": "SENTIDO HOMENAJE A ANTONIO BAD\u00cdA EN LAS VII JORNADAS DE CULTURA TAURINA DE ALHAUR\u00cdN EL GRANDE La Pe\u00f1a Taurina El Estoque organiz\u00f3 ayer mi\u00e9rcoles en el Teatro Municipal Antonio...",
+        "ambitotoros.blogspot.com/2015/04/ambitotoros-la-tertulia-cultural-taurina-david-de-miranda-presenta": {
+            "title": "ambitotoros: La Tertulia Cultural Taurina David de Miranda presenta...",
+            "snippet": "En un sabroso acto celebrado en Trigueros la tertulia Cultural Taurina David de Miranda present\u00f3 su primera revista. Al precio de 1 se puede solicitar a cualquier miembro de la pe\u00f1a o en Bar \"Lolo Manzano\".",
+            "date": "2015-04-10",
+            "author_name": "Javier",
+            "tags": "cultural,cultural_taurina,taurina,pe\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/ambitotoros.blogspot.com/2015/04/ambitotoros-la-tertulia-cultural-taurina-david-de-miranda-presenta",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ambitotoros.blogspot.com/2015/04/la-tertulia-cultural-taurina-david-de.html"
+        },
+        "decatafalcoyoro.blogspot.com/2015/04/pe%C3%B1a-cultural-taurina-de-roquetas-mar-catafalco-y-oro": {
+            "title": "pe\u00f1a cultural taurina de roquetas de mar - De Catafalco y Oro...",
+            "snippet": "La Pe\u00f1a Cultural Taurina de Roquetas de Mar se complace en ponerse en contacto con usted para hacerle llegar la informaci\u00f3n relativa a la celebraci\u00f3n de un viaje que nos llevar\u00e1 hasta Sanl\u00facar de Barrameda para...",
+            "date": "2015-04-10",
+            "author_name": "Jose Cisneros",
+            "tags": "pe\u00f1a,pe\u00f1a_cultural,pe\u00f1a_cultural_taurina,cultural,cultural_taurina,taurina,mar,oro",
+            "recuweb_url": "http://es.recuweb.com/decatafalcoyoro.blogspot.com/2015/04/pe%C3%B1a-cultural-taurina-de-roquetas-mar-catafalco-y-oro",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://decatafalcoyoro.blogspot.com/2015/04/pena-cultural-taurina-de-roquetas-de-mar.html"
+        },
+        "jaentaurino.com/2015/04/ninguna-plaza-jiennense-en-el-fomento-de-la-cultura-taurina": {
+            "title": "Ninguna plaza jiennense en el fomento de la cultura taurina...",
+            "snippet": "La provincia de Ja\u00e9n no acoger\u00e1 ninguno de los festejos de promoci\u00f3n para el fomento de la cultura taurina en Andaluc\u00eda que anualmente se celebran...",
+            "date": "2015-04-08",
+            "author_name": "Jos\u00e9 Luis Mar\u00edn Weil",
+            "categories": "cultura",
+            "tags": "plaza,fomento,cultura,taurina",
+            "recuweb_url": "http://es.recuweb.com/cultura/jaentaurino.com/2015/04/ninguna-plaza-jiennense-en-el-fomento-de-la-cultura-taurina",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://jaentaurino.com/2015/04/ninguna-plaza-jiennense-en-el-fomento-de-la-cultura-taurina-andaluza-en-2015/"
+        },
+        "lavanguardia.com/2015/03/pe%C3%B1a-taurina-sonseca-premia-al-matador-rafaelillo-en-su-xxx": {
+            "title": "Pe\u00f1a Taurina Sonseca premia al matador Rafaelillo en su XXX...",
+            "snippet": "Toledo, 31 mar (EFE).- La Pe\u00f1a Taurina de Sonseca ha presentado su XXX Semana Cultural, que se celebra del 9 al 12 y concluye con la entrega de galardones que han reca\u00eddo en el diestro Rafael Rubio, Rafaelillo,...",
+            "date": "2015-03-31",
+            "author_name": "desconocido",
+            "tags": "entrega,galardones,celebra,semana,cultural,presentado,pe\u00f1a,pe\u00f1a_taurina,taurina,premia,matador,mar",
+            "recuweb_url": "http://es.recuweb.com/lavanguardia.com/2015/03/pe%C3%B1a-taurina-sonseca-premia-al-matador-rafaelillo-en-su-xxx",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lavanguardia.com/cultura/20150331/54428601811/pena-taurina-sonseca-premia-al-matador-rafaelillo-en-su-xxx-semana-cultural.html"
+        },
+        "radiotelevisionalhaurinelgrande.wordpress.com/2015/03/vii-jornadas-de-cultura-taurina-radio-televisi%C3%B3n-alhaur%C3%ADn": {
+            "title": "VII JORNADAS DE CULTURA TAURINA Radio Televisi\u00f3n Alhaur\u00edn...",
+            "snippet": "SENTIDO HOMENAJE A ANTONIO BAD\u00cdA EN LAS VII JORNADAS DE CULTURA TAURINA DE ALHAUR\u00cdN EL GRANDE La Pe\u00f1a Taurina El Estoque organiz\u00f3 ayer mi\u00e9rcoles en el Teatro Municipal Antonio Gala sus VII...",
             "date": "2015-03-26",
             "author_name": "radiotelevisionalhaurin",
-            "categories": "sentido,cultura,cultura-taurina",
-            "tags": "teatro,antonio,alhaur\u00edn,alhaur\u00edn-el-grande,grande,pe\u00f1a,taurina,sentido,sentido-homenaje,sentido-homenaje-antonio,homenaje,bad\u00eda,vii,jornadas,cultura,cultura_taurina",
-            "recuweb_url": "http://es.recuweb.com/cultura-taurina/radiotelevisionalhaurinelgrande.wordpress.com/2015/03/vii-jornadas-de-cultura-taurina",
-            "resource_url": "http://es.search.wordpress.com/?q=cultura%2Btaurina%2Bcultura%2Btaurina&f=feed&page=1",
+            "categories": "sentido,cultura,cultura-taurina,radio,television",
+            "tags": "antonio,mi\u00e9rcoles,sentido,homenaje,homenaje_antonio,homenaje_antonio_bad\u00eda,antonio_bad\u00eda,bad\u00eda,vii,jornadas,cultura,cultura_taurina,taurina,alhaur\u00edn,grande,pe\u00f1a,pe\u00f1a_taurina",
+            "recuweb_url": "http://es.recuweb.com/television/radiotelevisionalhaurinelgrande.wordpress.com/2015/03/vii-jornadas-de-cultura-taurina-radio-televisi%C3%B3n-alhaur%C3%ADn",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://radiotelevisionalhaurinelgrande.wordpress.com/2015/03/26/vii-jornadas-de-cultura-taurina/"
         },
-        "ntrzacatecas.com/2015/03/juventud-taurina-zacatecas-ntr": {
-            "title": "Juventud Taurina Zacatecas NTR Zacatecas.com...",
-            "snippet": "La conferencia se ofrecer\u00e1 en el auditorio del Instituto Zacatecano de Cultura Ram\u00f3n L\u00f3pez Velarde, en punto de las 20 horas, con entrada gratuita, por lo que se hace extensa la invitaci\u00f3n al p\u00fablico en general para que...",
-            "date": "2015-03-10",
-            "author_name": "jose.silva",
+        "elperiodicomediterraneo.com/2015/03/el-consell-apuesta-por-la-cultura-taurina-con-los-premios-va": {
+            "title": "El Consell apuesta por la cultura taurina con los premios Va de Bous...",
+            "snippet": "El pleno de les Corts prev\u00e9 aprobar hoy la declaraci\u00f3n como bien de inter\u00e9s cultural. Enrique Ponce y Manuel Vicent reciben los galardones del conseller de Gobernaci\u00f3n.",
+            "date": "2015-03-25",
+            "author_name": "ESTEFANIA MOLINER",
             "categories": "cultura",
-            "tags": "entrada,gratuita,cultura,taurina,zacatecas,horas,p\u00fablico",
-            "recuweb_url": "http://es.recuweb.com/cultura/ntrzacatecas.com/2015/03/juventud-taurina-zacatecas-ntr",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ntrzacatecas.com/2015/03/10/juventud-taurina-zacatecas/"
-        },
-        "elperiodicodetlaxcala.info/2015/03/impulsa-itdt-diplomado-sobre-valores-culturales-en-la-tradici%C3%B3n": {
-            "title": "Impulsa ITDT diplomado sobre valores culturales en la tradici\u00f3n...",
-            "snippet": "Durante la apertura de las actividades del diplomado Los Valores Culturales en la Tradici\u00f3n Taurina, que se llevar\u00e1 a cabo hasta agosto pr\u00f3ximo, la titular de la Secretar\u00eda de Turismo y Desarrollo Econ\u00f3mico (SETyDE),...",
-            "date": "2015-03-09",
-            "author_name": "El Periodico de Tlaxcala",
-            "tags": "desarrollo,desarrollo_econ\u00f3mico,econ\u00f3mico,titular,llevar\u00e1,llevar\u00e1-cabo,cabo,cabo-hasta-agosto,agosto,agosto-pr\u00f3ximo,pr\u00f3ximo,tradici\u00f3n,tradici\u00f3n_taurina,taurina,valores,valores-culturales,culturales,apertura,actividades,actividades-del-diplomado,diplomado,durante,secretar\u00eda,turismo,setyde",
-            "recuweb_url": "http://es.recuweb.com/elperiodicodetlaxcala.info/2015/03/impulsa-itdt-diplomado-sobre-valores-culturales-en-la-tradici%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elperiodicodetlaxcala.info/2015/03/impulsa-itdt-diplomado-sobre-valores-culturales-en-la-tradicion-taurina/"
-        },
-        "lajornadadeoriente.com.mx/2015/03/los-valores-culturales-en-la-tradici%C3%B3n-taurina-jornada-de-oriente": {
-            "title": "Los valores culturales en la tradici\u00f3n taurina - La Jornada de Oriente...",
-            "snippet": "Durante la apertura de las actividades del diplomado Los valores culturales en la tradici\u00f3n taurina, que se llevar\u00e1 a cabo hasta agosto pr\u00f3ximo, la titular de la Secretar\u00eda de Turismo y Desarrollo Econ\u00f3mico (Setyde), Adriana...",
-            "date": "2015-03-09",
-            "author_name": "E. P. Armas",
-            "tags": "desarrollo,desarrollo_econ\u00f3mico,econ\u00f3mico,titular,llevar\u00e1,llevar\u00e1-cabo,cabo,cabo-hasta-agosto,agosto,agosto-pr\u00f3ximo,pr\u00f3ximo,apertura,actividades,actividades-del-diplomado,diplomado,valores,valores-culturales,culturales,tradici\u00f3n,taurina,jornada,durante,secretar\u00eda,turismo,setyde",
-            "recuweb_url": "http://es.recuweb.com/lajornadadeoriente.com.mx/2015/03/los-valores-culturales-en-la-tradici%C3%B3n-taurina-jornada-de-oriente",
+            "tags": "galardones,enrique,enrique_ponce,ponce,cultura,taurina,bous,cultural",
+            "recuweb_url": "http://es.recuweb.com/cultura/elperiodicomediterraneo.com/2015/03/el-consell-apuesta-por-la-cultura-taurina-con-los-premios-va",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lajornadadeoriente.com.mx/2015/03/09/iniciaron-las-actividades-del-diplomado-los-valores-culturales-en-la-tradicion-taurina/"
+            "source_url": "http://elperiodicomediterraneo.com/noticias/espectaculos/consell-apuesta-cultura-taurina-premios-va-bous_925536.html"
         },
-        "laeconomiadeltoro.wordpress.com/2015/03/optimismo-taurino-2015-va-a-ser-nuestro-a%C3%B1o-la-econom%C3%ADa": {
-            "title": "Optimismo taurino: 2015 va a ser nuestro a\u00f1o la econom\u00eda del toro...",
-            "snippet": "Dolce & Gabbana tambi\u00e9n arranca 2015 con una campa\u00f1a basada en el Arte y la Cultura Taurina. Como protagonista, el diestro Jos\u00e9 Mar\u00eda Manzanares: 1419355219_930477_39439800_fotograma_2. Tambi\u00e9n Valentino y...",
-            "date": "2015-03-06",
-            "author_name": "diegosanchezdelacruz",
-            "categories": "cultura,cultura-taurina,economia",
-            "tags": "jos\u00e9,mar\u00eda,cultura,cultura_taurina,taurina,toro,taurino,arte",
-            "recuweb_url": "http://es.recuweb.com/economia/laeconomiadeltoro.wordpress.com/2015/03/optimismo-taurino-2015-va-a-ser-nuestro-a%C3%B1o-la-econom%C3%ADa",
+        "cajasol.es/2015/03/iii-concierto-de-exaltaci%C3%B3n-la-cultura-taurina-fundaci%C3%B3n-cajasol": {
+            "title": "III Concierto de Exaltaci\u00f3n de la Cultura Taurina - Fundaci\u00f3n Cajasol...",
+            "snippet": "La Fundaci\u00f3n Cajasol acoge este mi\u00e9rcoles 25 de marzo, a las., el III Concierto de Exaltaci\u00f3n de la Cultura Taurina, presentado en el patio de la sede.",
+            "date": "2015-03-24",
+            "author_name": "Fundacion Cajasol",
+            "categories": "cultura,cultura-taurina",
+            "tags": "presentado,sede,mi\u00e9rcoles,cultura,cultura_taurina,taurina",
+            "recuweb_url": "http://es.recuweb.com/cultura-taurina/cajasol.es/2015/03/iii-concierto-de-exaltaci%C3%B3n-la-cultura-taurina-fundaci%C3%B3n-cajasol",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://laeconomiadeltoro.wordpress.com/2015/03/06/optimismo-taurino-2015-va-a-ser-nuestro-ano/"
+            "source_url": "http://cajasol.es/fundacion-cajasol-presenta-el-iii-concierto-de-exaltacion-de-la-cultura-taurina/"
         },
-        "lja.mx/2015/03/las-corridas-de-toros-son-parte-la-cultura-presidente": {
-            "title": "Las corridas de toros son parte de la cultura: presidente de la...",
-            "snippet": "El art\u00edculo 1 del Reglamento de la Academia Taurina del Municipio de Aguascalientes se\u00f1ala que la finalidad es impartir e impulsar la educaci\u00f3n taurina, divulgar la cultura y conocimientos sobre tauromaquia, as\u00ed como...",
-            "date": "2015-03-04",
-            "author_name": "Alejandra Huerta",
-            "categories": "conocimiento,cultura,tauromaquia",
-            "tags": "conocimientos,academia,taurina,parte,toros,son,cultura,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/lja.mx/2015/03/las-corridas-de-toros-son-parte-la-cultura-presidente",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lja.mx/2015/03/las-corridas-de-toros-son-parte-de-la-cultura-presidente-de-la-academia-taurina-municipal/"
-        },
-        "luisolmedaparis.blogspot.com/2015/03/uceda-28-febrero-2015-inauguracion-asociacion-cultural-taurina": {
-            "title": "Uceda 28 Febrero 2015 Inauguracion Asociacion Cultural Taurina...",
-            "snippet": "Uceda 28 Febrero 2015 Inauguracion Asociacion Cultural Taurina \"La Charcuela\" Asistier\u00f3n Personalidades, Profesionales, Aficionados del Mundo del Toro. Publicado por luis Olmeda en martes, marzo 03, 2015 Enviar por...",
-            "date": "2015-03-03",
-            "author_name": "luis Olmeda",
-            "categories": "personalidad",
-            "tags": "luis,cultural,cultural_taurina,taurina,mundo,toro",
-            "recuweb_url": "http://es.recuweb.com/personalidad/luisolmedaparis.blogspot.com/2015/03/uceda-28-febrero-2015-inauguracion-asociacion-cultural-taurina",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://luisolmedaparis.blogspot.com/2015/03/uceda-28-febrero-2015-inauguracion.html"
-        },
-        "gentetlx.com.mx/2015/02/tlaxcala-ser%C3%A1-sede-de-diplomado-sobre-cultura-taurina-impartido": {
-            "title": "Tlaxcala ser\u00e1 sede de diplomado sobre cultura taurina impartido por...",
-            "snippet": "Tlaxcala Gerardo Orta.- Tlaxcala ser\u00e1 sede el diplomado Valores Culturales en la Tradici\u00f3n Taurina que ser\u00e1 impartido por el catedr\u00e1tico de la Universidad Popular Aut\u00f3noma de Puebla (UPAEP), Jos\u00e9 Antonio Luna Alarc\u00f3n...",
-            "date": "2015-02-16",
-            "author_name": "Gerardo",
-            "categories": "cultura",
-            "tags": "jos\u00e9,antonio,ser\u00e1,tradici\u00f3n,tradici\u00f3n_taurina,taurina,valores,culturales,sede,diplomado,tlaxcala,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/gentetlx.com.mx/2015/02/tlaxcala-ser%C3%A1-sede-de-diplomado-sobre-cultura-taurina-impartido",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://gentetlx.com.mx/2015/02/16/tlaxcala-sera-sede-de-diplomado-sobre-cultura-taurina-impartido-por-la-upaep/"
-        },
-        "alternativa.torosradio.com/2015/02/una-pareja-tlaxcalteca-ejemplo-de-riqueza-taurina-cultural": {
-            "title": "una pareja tlaxcalteca, ejemplo de riqueza taurina-cultural...",
-            "snippet": "Alternativa Toros Radio por tal motivo aplaude y agradece la extraordinaria labor que el Gobernador de Tlaxcala, Mariano Gonz\u00e1lez Zarur, realiza para comprender, valorar, preservar y fomentar la cultura taurina a trav\u00e9s de...",
-            "date": "2015-02-10",
-            "author_name": "Alternativa TorosRadio",
-            "categories": "radio,cultura",
-            "tags": "fomentar,toros,taurina,cultural,tlaxcala,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/alternativa.torosradio.com/2015/02/una-pareja-tlaxcalteca-ejemplo-de-riqueza-taurina-cultural",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://alternativa.torosradio.com/blog/?p=1006"
-        },
-        "vadebraus.com/2015/02/la-pe%C3%B1a-%C3%A1ngel-leria-celebra-su-semana-cultural-taurina-va": {
-            "title": "La Pe\u00f1a \u00c1ngel Leria celebra su semana cultural Taurina VA DE...",
+        "vadebraus.com/2015/02/la-pe%C3%B1a-%C3%A1ngel-leria-celebra-su-semana-cultural-taurina": {
+            "title": "La Pe\u00f1a \u00c1ngel Leria celebra su semana cultural Taurina...",
             "snippet": "La pe\u00f1a \u00c1ngel Leria de Zarza Capilla de L'Hospitalet que preside Juan Gallego, organiza una vez m\u00e1s, su semana cultural taurina, que este a\u00f1o rinde homenaje a el recordado Luis Mar\u00eda Gibert, y que tiene como principal...",
             "date": "2015-02-06",
             "author_name": "Santiago Miron",
-            "tags": "luis,mar\u00eda,homenaje,semana,juan,celebra,pe\u00f1a,cultural,taurina",
-            "recuweb_url": "http://es.recuweb.com/vadebraus.com/2015/02/la-pe%C3%B1a-%C3%A1ngel-leria-celebra-su-semana-cultural-taurina-va",
+            "tags": "tiene,homenaje,semana,juan,celebra,pe\u00f1a,cultural,taurina",
+            "recuweb_url": "http://es.recuweb.com/vadebraus.com/2015/02/la-pe%C3%B1a-%C3%A1ngel-leria-celebra-su-semana-cultural-taurina",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://vadebraus.com/la-pena-angel-leria-celebra-su-semana-cultural-taurina"
+            "source_url": "http://vadebraus.com/la-pena-angel-leria-celebra-su-semana-cultural-taurina/"
+        },
+        "otracordobaesposible.wordpress.com/2014/03/cuanto-dinero-p%C3%BAblico-se-habr%C3%A1-gastado-el-ayuntamiento-de-c%C3%B3rdoba": {
+            "title": "\u00bfCuanto dinero p\u00fablico se habr\u00e1 gastado el Ayuntamiento de C\u00f3rdoba en el Ciclo de Conferencias...",
+            "snippet": "La Delegaci\u00f3n de Cultura del Ayuntamiento de C\u00f3rdoba ha destinado fondos p\u00fablicos a la organizaci\u00f3n de un flamante Ciclo de Conferencias Taurinas en la sala Orive. Lo cual []...",
+            "date": "2014-03-10",
+            "author_name": "Gerardo Pedr\u00f3s",
+            "categories": "cultura",
+            "tags": "taurinas,p\u00fablico,ciclo,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/otracordobaesposible.wordpress.com/2014/03/cuanto-dinero-p%C3%BAblico-se-habr%C3%A1-gastado-el-ayuntamiento-de-c%C3%B3rdoba",
+            "resource_url": "http://es.search.wordpress.com/?q=cultura%2Btaurina%2Bcultura%2Btaurina&f=feed&page=1",
+            "source_url": "http://otracordobaesposible.wordpress.com/2014/03/10/cuanto-dinero-publico-se-habra-gastado-el-ayuntamiento-de-cordoba-en-el-ciclo-de-conferencias-taurinas/"
         }
     }
 }

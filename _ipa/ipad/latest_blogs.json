@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ipad",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ipad/",
@@ -10,27 +11,71 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipad/ipad/blogs.json"
     },
     "items": {
-        "todoiphone.net/2015/04/c%C3%B3mo-borrar-la-cache-de-dns-en-ios-iphone-ipad": {
-            "title": "C\u00f3mo borrar la cache de la DNS en iOS (iPhone, iPad)...",
-            "snippet": "Gu\u00eda para borrar o limpiar la cache de DNS en iPhone y iPad. Si alguna vez has querido cambiar la configuraci\u00f3n DNS que viene por defecto en iOS para lograr navegar con mayor velocidad te habr\u00e1s dado cuenta que este...",
-            "date": "2015-04-19",
-            "author_name": "Mailen Bravo",
-            "categories": "iphone,ipad",
-            "tags": "mayor,cuenta,viene,c\u00f3mo,ios,iphone,ipad",
-            "recuweb_url": "http://es.recuweb.com/ipad/todoiphone.net/2015/04/c%C3%B3mo-borrar-la-cache-de-dns-en-ios-iphone-ipad",
+        "todoiphone.net/2015/04/apps-y-juegos-gratis-o-en-oferta-para-iphone-ipad-25": {
+            "title": "Apps y Juegos GRATIS o en oferta para iPhone y iPad (25/04/15)...",
+            "snippet": "Consigue los mejores descuentos de la App Store en aplicaciones y juegos para iPhone, iPad y iPod touch Si eres amante de las aplicaciones y de los juegos.",
+            "date": "2015-04-25",
+            "author_name": "Rosa Liarte",
+            "categories": "iphone,ipad,ipod",
+            "tags": "aplicaciones,app,app_store,store,juegos,apps,iphone,ipad,mejores,ipod,touch",
+            "recuweb_url": "http://es.recuweb.com/ipod/todoiphone.net/2015/04/apps-y-juegos-gratis-o-en-oferta-para-iphone-ipad-25",
             "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://todoiphone.net/como-borrar-cache-dns-ios-iphone-ipad/"
+            "source_url": "http://todoiphone.net/apps-juegos-gratis-oferta-iphone-ipad-250415/"
         },
-        "esferaiphone.com/2015/04/stealth-inc-para-iphone-y-ipad-gratis-por-tiempo-muy-limitado": {
-            "title": "Stealth Inc para iPhone y iPad gratis por tiempo muy limitado...",
-            "snippet": "Stealth Inc para iPhone y iPad gratis por tiempo muy limitado. by M. Alejandro W. Garc\u00eda Fuentes (Esfera) 19 abril, 2015. Parece que lleva en oferta gratuita desde ayer, con lo que no sabemos muy bien hasta cuando durar\u00e1, as\u00ed que os...",
-            "date": "2015-04-19",
-            "author_name": "M. Alejandro W. Garc\u00eda Fuentes (Esfera)",
-            "categories": "iphone,ipad",
-            "tags": "sabemos,muy,tiempo,iphone,ipad,parece,bien",
-            "recuweb_url": "http://es.recuweb.com/ipad/esferaiphone.com/2015/04/stealth-inc-para-iphone-y-ipad-gratis-por-tiempo-muy-limitado",
+        "muyseguridad.net/2015/04/no-ios-zone-vulnerabilidad-iphone-e-ipad-muyseguridad": {
+            "title": "No iOS Zone: vulnerabilidad iPhone e iPad - MuySeguridad...",
+            "snippet": "No iOS Zone es una vulnerabilidad revelada por SkySecure que expone a dispositivos como iPhone, iPad o iPod.",
+            "date": "2015-04-25",
+            "author_name": "desconocido",
+            "categories": "iphone,ipad,ipod",
+            "tags": "ios,iphone,ipad,ipod",
+            "recuweb_url": "http://es.recuweb.com/ipod/muyseguridad.net/2015/04/no-ios-zone-vulnerabilidad-iphone-e-ipad-muyseguridad",
             "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://esferaiphone.com/iphone/stealth-inc-para-iphone-y-ipad-gratis-por-tiempo-muy-limitado/"
+            "source_url": "http://muyseguridad.net/2015/04/25/no-ios-zone"
+        },
+        "todoiphone.net/2015/04/ea-sports-ufc-juego-iphone-ipad": {
+            "title": "ea-sports-ufc-juego-iphone-ipad",
+            "snippet": "Est\u00e1 disponible en la App Store uno de los m\u00e1s emocionantes juego de pelea cuerpo a cuerpo para iPhone, iPad y iPod touch, hablamos de EA SPORTS UFC. Este juego llega de la mano de la famosa Electronic Arts y...",
+            "date": "2015-04-25",
+            "author_name": "Cento Salvi",
+            "categories": "iphone,ipad,ipod",
+            "tags": "juego,llega,mano,app,app_store,store,disponible,iphone,ipad,ipod,touch",
+            "recuweb_url": "http://es.recuweb.com/ipod/todoiphone.net/2015/04/ea-sports-ufc-juego-iphone-ipad",
+            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://todoiphone.net/ea-sports-ufc-juego-iphone-ipad/"
+        },
+        "applesfera.com/2015/04/los-nueve-mejores-juegos-de-cartas-para-ipad-no": {
+            "title": "Los nueve mejores juegos de cartas para iPad: no todo es Hearsthone...",
+            "snippet": "Los mejores juegos de cartas coleccionables para iPad. Lista con informaci\u00f3n, v\u00eddeos y enlace de descarga de las mejores alternativas a...",
+            "date": "2015-04-23",
+            "author_name": "Ruben Marquez",
+            "categories": "ipad",
+            "tags": "v\u00eddeos,mejores,juegos,ipad,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/ipad/applesfera.com/2015/04/los-nueve-mejores-juegos-de-cartas-para-ipad-no",
+            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applesfera.com/juegos-ios/los-nueve-mejores-juegos-de-cartas-para-ipad-no-todo-es-hearsthone"
+        },
+        "todoiphone.net/2015/04/trials-frontier-un-divertido-juego-de-motos-para-iphone-y-ipad": {
+            "title": "Trials Frontier un divertido juego de motos para iPhone y iPad...",
+            "snippet": "Est\u00e1 disponible en la App Store el juego de motos basado en trials para iPhone y iPad, llamado Trials Frontier. Esta aplicaci\u00f3n que llega de la mano de Ubisoft cuenta con un adictivo estilo de juego que har\u00e1 que no pares de...",
+            "date": "2015-04-22",
+            "author_name": "Cento Salvi",
+            "categories": "iphone,ipad",
+            "tags": "juego,aplicaci\u00f3n,llega,mano,app,app_store,store,disponible,iphone,ipad",
+            "recuweb_url": "http://es.recuweb.com/ipad/todoiphone.net/2015/04/trials-frontier-un-divertido-juego-de-motos-para-iphone-y-ipad",
+            "resource_url": "http://www.google.com/search?q=ipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://todoiphone.net/trials-frontier-juego-motos-iphone-ipad/"
+        },
+        "miscuriosidades.com/2015/04/sabes-en-cuanto-se-vendi%C3%B3-el-viejo-ipad-del-papa": {
+            "title": "\u00bfSABES EN CUANTO SE VENDI\u00d3 EL VIEJO IPAD DEL PAPA...",
+            "snippet": "El papa Francisco (Mario Begoglio) vendi\u00f3 su antiguo y obsoleto iPad en una subasta en Uruguay, ganando la no muy despreciable suma de USD, seg\u00fan reportaron los medios internacionales. Esto quiere decir que...",
+            "date": "2015-04-19",
+            "author_name": "Carlos Mario Torres",
+            "categories": "ipad",
+            "tags": "muy,subasta,ipad,decir",
+            "recuweb_url": "http://es.recuweb.com/ipad/miscuriosidades.com/2015/04/sabes-en-cuanto-se-vendi%C3%B3-el-viejo-ipad-del-papa",
+            "resource_url": "http://www.google.com/search?q=ipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://miscuriosidades.com/2015/04/sabes-en-cuanto-se-vendio-el-viejo-ipad-del-papa-francisco.html"
         },
         "elmundotoday.com/2015/04/pap%C3%A1-subraya-el-ipad-mundo-today": {
             "title": "Pap\u00e1 subraya el iPad - El Mundo Today...",
@@ -38,10 +83,21 @@
             "date": "2015-04-17",
             "author_name": "Kike Garc\u00eda",
             "categories": "ipad,iphone",
-            "tags": "reloj,compra,noticias,mundo,ipad,iphone",
+            "tags": "noticias,mundo,ipad,iphone",
             "recuweb_url": "http://es.recuweb.com/iphone/elmundotoday.com/2015/04/pap%C3%A1-subraya-el-ipad-mundo-today",
             "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elmundotoday.com/2015/04/papa-subraya-el-ipad/"
+        },
+        "es.gizmodo.com/2015/04/halo-spartan-al-completo-ya-est%C3%A1-disponible-para-iphone-y-ipad": {
+            "title": "Halo: Spartan al completo ya est\u00e1 disponible para iPhone y iPad...",
+            "snippet": "Microsoft acaba de lanzar los videojuegos Halo: Spartan Assault y el nuevo Halo: Spartan Strike para iOS, por lo que ahora la m\u00edtica saga protagonizada por Master Chief ya est\u00e1 disponible en otra plataforma m\u00f3vil adem\u00e1s...",
+            "date": "2015-04-16",
+            "author_name": "desconocido",
+            "categories": "videojuego,iphone,ipad",
+            "tags": "disponible,iphone,ipad,microsoft,nuevo,ios",
+            "recuweb_url": "http://es.recuweb.com/ipad/es.gizmodo.com/2015/04/halo-spartan-al-completo-ya-est%C3%A1-disponible-para-iphone-y-ipad",
+            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://es.gizmodo.com/toda-la-accion-de-halo-spartan-ya-esta-disponible-para-1698227996"
         },
         "applesfera.com/2015/04/digital-director-de-manfrotto-nos-permitir%C3%A1-controlar-nuestra-dslr": {
             "title": "Digital Director de Manfrotto nos permitir\u00e1 controlar nuestra DSLR...",
@@ -49,7 +105,7 @@
             "date": "2015-04-15",
             "author_name": "Aitor Carbajo",
             "categories": "ipad",
-            "tags": "c\u00e1mara,transformar,muy,digital,digital_director,director,manfrotto,ipad,lighting",
+            "tags": "transformar,muy,digital,digital_director,director,manfrotto,ipad,lighting",
             "recuweb_url": "http://es.recuweb.com/ipad/applesfera.com/2015/04/digital-director-de-manfrotto-nos-permitir%C3%A1-controlar-nuestra-dslr",
             "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://applesfera.com/accesorios/digital-director-de-manfrotto-nos-permitira-controlar-nuestra-dslr-con-nuestro-ipad"
@@ -62,63 +118,8 @@
             "categories": "ipad",
             "tags": "ipad,ipad_air,air,transformar,digital,digital_director,director,manfrotto",
             "recuweb_url": "http://es.recuweb.com/ipad/xatakafoto.com/2015/04/con-digital-director-de-manfrotto-podemos-transformar-un-ipad-air",
-            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=ipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakafoto.com/accesorios/con-digital-director-de-manfrotto-podemos-transformar-un-ipad-air-en-un-monitor-externo-para-nuestra-dslr"
-        },
-        "elpais.com.uy/2015/04/el-ipad-del-papa-francisco-se-vendi%C3%B3-por-us-noticias": {
-            "title": "El iPad del Papa Francisco se vendi\u00f3 por US Noticias...",
-            "snippet": "Esta tarde se remat\u00f3 el iPad que perteneci\u00f3 al Papa Francisco y que el exdirector del liceo Jubilar don\u00f3 al liceo Francisco de Paysand\u00fa que a\u00fan est\u00e1 en obra pese a que en marzo empez\u00f3 las clases.",
-            "date": "2015-04-14",
-            "author_name": "Diario EL PAIS",
-            "categories": "papa-francisco,ipad",
-            "tags": "marzo,ipad,noticias",
-            "recuweb_url": "http://es.recuweb.com/ipad/elpais.com.uy/2015/04/el-ipad-del-papa-francisco-se-vendi%C3%B3-por-us-noticias",
-            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elpais.com.uy/informacion/ipad-papa-francisco-se-vendio.html"
-        },
-        "applesfera.com/2015/04/leef-ibridge-otra-soluci%C3%B3n-de-almacenamiento-extra-para-tu-iphone": {
-            "title": "Leef iBridge, otra soluci\u00f3n de almacenamiento extra para tu iPhone...",
-            "snippet": "El almacenamiento disponible en los iPhone y iPad suele ser un problema para muchos. A pesar de opciones como iCloud si no tienes ya 64GB m\u00ednimo...",
-            "date": "2015-04-14",
-            "author_name": "Pedro Santamar\u00eda",
-            "categories": "iphone,ipad",
-            "tags": "iphone,ipad,icloud",
-            "recuweb_url": "http://es.recuweb.com/ipad/applesfera.com/2015/04/leef-ibridge-otra-soluci%C3%B3n-de-almacenamiento-extra-para-tu-iphone",
-            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/accesorios/leef-ibridge-otra-solucion-de-almacenamiento-extra-para-tu-iphone-o-ipad"
-        },
-        "applesfera.com/2015/04/una-monta%C3%B1a-rusa-llamada-ipad-pasado-presente-y-futuro": {
-            "title": "Una monta\u00f1a rusa llamada iPad: pasado, presente y futuro del...",
-            "snippet": "C\u00f3mo son las cosas. Cuando Apple present\u00f3 el iPad en enero de 2010, la mayor parte del p\u00fablico entusiasta y de las publicaciones tecnol\u00f3gicas tuvo una reacci\u00f3n negativa. Un iPod Touch grande, lo llamaron con desd\u00e9n.",
-            "date": "2015-04-09",
-            "author_name": "Eduardo Archanco",
-            "categories": "ipod,ipad",
-            "tags": "touch,mayor,ipad,c\u00f3mo,son,apple",
-            "recuweb_url": "http://es.recuweb.com/ipad/applesfera.com/2015/04/una-monta%C3%B1a-rusa-llamada-ipad-pasado-presente-y-futuro",
-            "resource_url": "http://www.google.com/search?q=ipad%2Bipad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/ipad/una-montana-rusa-llamada-ipad-pasado-presente-y-futuro-del-tablet-de-apple"
-        },
-        "e-learningperu.blogspot.com/2015/04/c%C3%B3mo-implementar-el-uso-de-ipads-tabletas-y-e-books": {
-            "title": "C\u00f3mo implementar el uso de Ipads, Tabletas y E-books en los Centros Educativos...",
-            "snippet": "C\u00f3mo implementar el uso de iPads, Tabletas y E-books en los centros educativos. Figura 1: Meme que parodia el avance tecnol\u00f3gico(relacionados a dispositivos port\u00e1tiles) de algunas universidades peruanas. En el 2014, la UPC(Universidad de Ciencias...",
-            "date": "2015-04-07",
-            "author_name": "(Victor Ramos)",
-            "categories": "ipad,ciencias,ciencia",
-            "tags": "dispositivos,uso,c\u00f3mo,ipads,tabletas",
-            "recuweb_url": "http://es.recuweb.com/ciencia/e-learningperu.blogspot.com/2015/04/c%C3%B3mo-implementar-el-uso-de-ipads-tabletas-y-e-books",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=ipad%2Bipad&rss=1&lng=es",
-            "source_url": "http://e-learningperu.blogspot.com/2015/04/como-implementar-el-uso-de-ipads.html"
-        },
-        "misiongeek.com/2015/04/prep%C3%A1rate-para-la-llegada-del-apple-watch-con-estos-geniales-wallpapers": {
-            "title": "Prep\u00e1rate para la llegada del Apple Watch con estos geniales wallpapers para iPhone, iPad y Mac...",
-            "snippet": "Decora tus dispositivos con estos fant\u00e1sticos wallpapers del Apple Watch y recibe el reloj de la manzana con estilo Este mismo viernes ya podr\u00e1 comenzar a reservarse el Apple Watch en los 9 pa\u00edses iniciales seleccionados por la compa\u00f1\u00eda y,...",
-            "date": "2015-04-06",
-            "author_name": "Geek Admin",
-            "categories": "iphone,ipad",
-            "tags": "reloj,dispositivos,apple,iphone,ipad",
-            "recuweb_url": "http://es.recuweb.com/ipad/misiongeek.com/2015/04/prep%C3%A1rate-para-la-llegada-del-apple-watch-con-estos-geniales-wallpapers",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=ipad%2Bipad&rss=1&lng=es",
-            "source_url": "http://misiongeek.com/2015/04/preparate-para-la-llegada-del-apple-watch-con-estos-geniales-wallpapers-para-iphone-ipad-y-mac-2/"
         }
     }
 }

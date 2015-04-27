@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "jquery",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/jquery/",
@@ -16,7 +17,7 @@
             "date": "2015-04-23",
             "author_name": "Juan Luis Berm\u00fadez",
             "categories": "jquery",
-            "tags": "aprender,uso,jquery,mobile,web",
+            "tags": "aprender,jquery,mobile,uso,web",
             "recuweb_url": "http://es.recuweb.com/jquery/softandapps.info/2015/04/manual-de-jquery-mobile-gratuito-y-en-espa%C3%B1ol-soft-&-apps",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://softandapps.info/2015/04/23/manual-de-jquery-mobile-gratuito-y-en-espanol/"
@@ -27,10 +28,32 @@
             "date": "2015-04-20",
             "author_name": "ArielMax",
             "categories": "html,jquery",
-            "tags": "head,html,html-lang,lang,utilizando,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,doctype",
+            "tags": "head,html,html-lang,lang,veremos,utilizando,jquery,cursos,curso,mobile,arielmax,tutorial,doctype",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/47-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/47-cursos-de-jquery-jquery-mobile/"
+        },
+        "entredesarrolladores.com/2015/04/redirecci%C3%B3n-de-un-div-a-otra-p%C3%A1gina-con-jquery-entre-desarrolladores": {
+            "title": "Redirecci\u00f3n de un div a otra p\u00e1gina con jquery - entre Desarrolladores...",
+            "snippet": "Buenas, tengo una web en Wordpress en la que utilizo un plugin para coger los \u00e1lbumes de una... pero no funciona.. Gracias de antemano, Un saludo.",
+            "date": "2015-04-16",
+            "author_name": "desconocido",
+            "categories": "jquery,wordpress",
+            "tags": "funciona,p\u00e1gina,jquery,desarrolladores,web",
+            "recuweb_url": "http://es.recuweb.com/wordpress/entredesarrolladores.com/2015/04/redirecci%C3%B3n-de-un-div-a-otra-p%C3%A1gina-con-jquery-entre-desarrolladores",
+            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://entredesarrolladores.com/8553/redirecci\u00f3n-de-un-div-a-otra-p\u00e1gina-con-jquery"
+        },
+        "entredesarrolladores.com/2015/04/soap-asmx-en-jquery-o-php-entre-desarrolladores": {
+            "title": "SOAP ASMX en JQuery o PHP - entre Desarrolladores...",
+            "snippet": "He intentado enviar/recibir datos del webservice desde otro servidor donde esta la aplicaci\u00f3n que estoy desarrollando, he intenado con JQuery y PHP pero sin exito. He investigado y al pareces se debe a que no se puede...",
+            "date": "2015-04-15",
+            "author_name": "desconocido",
+            "categories": "jquery,php",
+            "tags": "puede,aplicaci\u00f3n,enviar,jquery,php,desarrolladores,datos",
+            "recuweb_url": "http://es.recuweb.com/php/entredesarrolladores.com/2015/04/soap-asmx-en-jquery-o-php-entre-desarrolladores",
+            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://entredesarrolladores.com/8530/soap-asmx-en-jquery-o-php"
         },
         "arielmax.com.ar/2015/04/45-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
             "title": "45 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
@@ -38,7 +61,7 @@
             "date": "2015-04-13",
             "author_name": "ArielMax",
             "categories": "html,jquery",
-            "tags": "html,html-lang,lang,mobile,p\u00e1gina,jquery,cursos,curso,arielmax,tutorial,veremos,doctype",
+            "tags": "html,html-lang,lang,mobile,veremos,p\u00e1gina,jquery,cursos,curso,arielmax,tutorial,doctype",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/45-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/45-cursos-de-jquery-jquery-mobile/"
@@ -49,7 +72,7 @@
             "date": "2015-04-13",
             "author_name": "ArielMax",
             "categories": "jquery,html",
-            "tags": "p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,doctype,html",
+            "tags": "veremos,p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,doctype,html",
             "recuweb_url": "http://es.recuweb.com/html/arielmax.com.ar/2015/04/46-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/46-cursos-de-jquery-jquery-mobile/"
@@ -60,7 +83,7 @@
             "date": "2015-04-06",
             "author_name": "ArielMax",
             "categories": "jquery",
-            "tags": "sitio,navegaci\u00f3n,permite,widget,jquery,cursos,curso,arielmax,tutorial,veremos,crear,web",
+            "tags": "navegaci\u00f3n,permite,veremos,veremos-el-widget,widget,jquery,cursos,curso,arielmax,tutorial,crear,contenido,sitio,web",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/42-cursos-de-jquery-ui-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/42-cursos-de-jquery-jquery-ui/"
@@ -82,7 +105,7 @@
             "date": "2015-03-30",
             "author_name": "ArielMax",
             "categories": "jquery",
-            "tags": "m\u00e9todo,permite,widget,jquery,cursos,curso,arielmax,tutorial,veremos",
+            "tags": "m\u00e9todo,permite,aplicaci\u00f3n,veremos,veremos-el-widget,widget,jquery,cursos,curso,arielmax,tutorial",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/03/40-cursos-de-jquery-ui-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/40-cursos-de-jquery-jquery-ui/"
@@ -93,32 +116,10 @@
             "date": "2015-03-30",
             "author_name": "ArielMax",
             "categories": "html,jquery",
-            "tags": "head,html,html-lang,lang,permite,widget,slider,jquery,cursos,curso,arielmax,tutorial,veremos,crear,doctype",
+            "tags": "head,html,html-lang,lang,permite,veremos,veremos-el-widget,widget,slider,jquery,cursos,curso,arielmax,tutorial,crear,doctype",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/03/41-cursos-de-jquery-ui-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/41-cursos-de-jquery-jquery-ui/"
-        },
-        "desarrolloweb.com/2015/03/scroll-en-jquery": {
-            "title": "Scroll en jQuery -...",
-            "snippet": "Una de las facetas t\u00edpicas donde podemos sacar un buen partido de jQuery es trabajando con las propiedades de scroll de la ventana o los elementos. Para realizaci\u00f3n de interfaces de usuario y para la interacci\u00f3n con el...",
-            "date": "2015-03-02",
-            "author_name": "desconocido",
-            "categories": "propiedad,jquery",
-            "tags": "jquery",
-            "recuweb_url": "http://es.recuweb.com/jquery/desarrolloweb.com/2015/03/scroll-en-jquery",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/scroll-posibilidades-en-jquery.html"
-        },
-        "dominandophp.wordpress.com/2015/03/qu%C3%A9-es-jquery": {
-            "title": "\u00bfQu\u00e9 es jQuery?",
-            "snippet": "Originalmente publicado en Dominando jQuery: jQuery consiste en un \u00fanico fichero JavaScript que contiene las funcionalidades comunes de DOM, eventos, efectos y AJAX. Seg\u00fan wikipedia: jQuery es una biblioteca de JavaScript, creada inicialmente por...",
-            "date": "2015-03-02",
-            "author_name": "dominandophp",
-            "categories": "jquery,javascript",
-            "tags": "biblioteca,jquery,javascript,dom,ajax",
-            "recuweb_url": "http://es.recuweb.com/javascript/dominandophp.wordpress.com/2015/03/qu%C3%A9-es-jquery",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=es",
-            "source_url": "http://dominandophp.wordpress.com/2015/03/02/que-es-jquery/"
         }
     }
 }

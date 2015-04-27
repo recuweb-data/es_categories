@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pintura",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pintura/",
@@ -10,115 +11,115 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pintura/pintura/blogs.json"
     },
     "items": {
+        "taringa.net/2015/04/algo-de-lo-%C3%BAltimo-pintura-taringa": {
+            "title": "Algo de lo \u00faltimo/Pintura - Taringa!",
+            "snippet": "Hola Taringa. Hace un tiempo fui a un curso de pintura barroca, donde aprend\u00ed a pintar con velados y otras t\u00e9cnicas propias del estilo. El velado co...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "pintura",
+            "tags": "t\u00e9cnicas,\u00fal,pintura,taringa,hace,curso,pintar",
+            "recuweb_url": "http://es.recuweb.com/pintura/taringa.net/2015/04/algo-de-lo-%C3%BAltimo-pintura-taringa",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/arte/18620165/Algo-de-lo-ultimo-Pintura.html"
+        },
+        "saudeglobal.org/2015/04/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-2020": {
+            "title": "La onu quiere pinturas sin plomo en todo el mundo en 2020 Sa\u00fade...",
+            "snippet": "Calcula que provoca unos casos de discapacidad intelectual en ni\u00f1os al a\u00f1o. La Alianza Mundial para Eliminar el Uso de Plomo en las Pinturas, gestionada por la Organizaci\u00f3n Mundial de la...",
+            "date": "2015-04-22",
+            "author_name": "Sa\u00fade Global",
+            "categories": "discapacidad,pintura",
+            "tags": "mundo,pinturas,ni\u00f1os,uso",
+            "recuweb_url": "http://es.recuweb.com/pintura/saudeglobal.org/2015/04/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-2020",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://saudeglobal.org/2015/04/22/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-en-2020-leer-mas-la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-en-2020-ecodiario-es-httpecodiario-eleconomista-essociedadnoticias66489/"
+        },
+        "puromarketing.com/2015/04/marca-personal-mucho-m%C3%A1s-que-chapa-y-pintura": {
+            "title": "Marca Personal: mucho m\u00e1s que Chapa y Pintura...",
+            "snippet": "Se ha hablado hasta la saciedad de lo importante que es causar una primera buena impresi\u00f3n. Los expertos en psicolog\u00eda insisten en que no tenemos una segunda oportunidad para conquistar a nuestro p\u00fablico y nos...",
+            "date": "2015-04-22",
+            "author_name": "Silvia Rinc\u00f3n",
+            "categories": "pintura",
+            "tags": "p\u00fablico,importante,primera,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/puromarketing.com/2015/04/marca-personal-mucho-m%C3%A1s-que-chapa-y-pintura",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://puromarketing.com/29/24504/marca-personal-mucho-mas-chapa-pintura.html"
+        },
+        "iqt.utero.pe/2015/04/calvo-de-araujo-el-padre-la-pintura-moderna-amaz%C3%B3nica-%C3%BAtero": {
+            "title": "-Calvo de Araujo, el padre de la pintura moderna amaz\u00f3nica \u00datero...",
+            "snippet": "Christian Benday\u00e1n, celebrado artista y curador amaz\u00f3nico, se atrevi\u00f3 a recuperar la imagen de quien es considerado el padre de la pintura amaz\u00f3nica moderna. Luego de incesantes viajes, encontr\u00f3 que esta verdad era...",
+            "date": "2015-04-21",
+            "author_name": "Paco Bardales",
+            "categories": "pintura",
+            "tags": "pintura,artista",
+            "recuweb_url": "http://es.recuweb.com/pintura/iqt.utero.pe/2015/04/calvo-de-araujo-el-padre-la-pintura-moderna-amaz%C3%B3nica-%C3%BAtero",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://iqt.utero.pe/2015/04/21/calvo-de-araujo-el-padre-de-la-pintura-moderna-amazonica/"
+        },
+        "abc.com.py/2015/04/embajada-dominicana-premi%C3%B3-a-ganadores-de-concurso-pintura": {
+            "title": "Embajada dominicana premi\u00f3 a ganadores de concurso de pintura...",
+            "snippet": "La embajada de Rep\u00fablica Dominicana en Paraguay premi\u00f3 a los ganadores del concurso escolar de pintura Pinta el rostro de Juan Pablo Duarte, realizado en la escuela Rep\u00fablica Dominicana de Fernando de la Mora.",
+            "date": "2015-04-18",
+            "author_name": "desconocido",
+            "categories": "escuela,pintura",
+            "tags": "escuela,concurso,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/abc.com.py/2015/04/embajada-dominicana-premi%C3%B3-a-ganadores-de-concurso-pintura",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/nacionales/embajada-dominicana-premio-a-ganadores-de-concurso-de-pintura-1357897.html"
+        },
+        "taringa.net/2015/04/la-pintura-maldita-hecha-con-sangre-taringa": {
+            "title": "La pintura maldita hecha con sangre! - Taringa!",
+            "snippet": "el artista de este cuadro tenia problemas mentales,uso su propia sangre mezclada con pintura, esta fue su ultima obra y despues de terminarla por completo se suicido,se llama el hombre angustiado pertenese a una familia...",
+            "date": "2015-04-18",
+            "author_name": "desconocido",
+            "categories": "pintura",
+            "tags": "completo,uso,pintura,taringa,artista",
+            "recuweb_url": "http://es.recuweb.com/pintura/taringa.net/2015/04/la-pintura-maldita-hecha-con-sangre-taringa",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/paranormal/18612022/La-pintura-maldita-hecha-con-sangre.html"
+        },
+        "prensa.argentina.ar/2015/04/%C3%BAltimas-semanas-para-inscribirse-al-premio-de-pintura": {
+            "title": "\u00daltimas semanas para inscribirse al premio de pintura de la...",
+            "snippet": "La Fundaci\u00f3n Banco de la Naci\u00f3n Argentina record\u00f3 a todos los artistas pl\u00e1sticos mayores de 18 a\u00f1os que se pueden anotar para participar del premio m\u00e1s importante de pintura del pa\u00eds hasta el 30 de abril. Se otorgar\u00e1n...",
+            "date": "2015-04-17",
+            "author_name": "infojudicial",
+            "categories": "pintura",
+            "tags": "abril,importante,fundaci\u00f3n,\u00fal,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/prensa.argentina.ar/2015/04/%C3%BAltimas-semanas-para-inscribirse-al-premio-de-pintura",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prensa.argentina.ar/2015/04/17/57536-ltimas-semanas-para-inscribirse-al-premio-de-pintura-de-la-fundacion-banco-de-la-nacion.php"
+        },
+        "fundacionunam.org.mx/2015/04/pintura-expresionista-descubre-fundaci%C3%B3n-unam": {
+            "title": "Pintura expresionista Descubre Fundaci\u00f3n UNAM...",
+            "snippet": "El expresionismo se form\u00f3 a partir de la est\u00e9tica manifestada por pintores que, en Dresde, Alemania, se reun\u00edan en el grupo que llamaron Die Br\u00fccke (El Puente), en 1905, quienes al siguiente a\u00f1o tuvieron su primera...",
+            "date": "2015-04-16",
+            "author_name": "Maribel Farf\u00e1n",
+            "categories": "pintura",
+            "tags": "primera,fundaci\u00f3n,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/fundacionunam.org.mx/2015/04/pintura-expresionista-descubre-fundaci%C3%B3n-unam",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fundacionunam.org.mx/arte-y-cultura/pintura-expresionista/"
+        },
+        "ztfnews.wordpress.com/2015/04/el-lado-ineluctable-de-la-pintura-y-las-matem%C3%A1ticas": {
+            "title": "El lado ineluctable de la pintura y las matem\u00e1ticas::...",
+            "snippet": "El pintor Olivier Debr\u00e9 (1920-1999) cumplir\u00eda hoy 95 a\u00f1os. Il y a dans la peinture, comme dans les math\u00e9matiques, un c\u00f4t\u00e9 in\u00e9luctable (En la pintura hay, como en las matem\u00e1ticas, un lado ineluctable). Olivier Debr\u00e9.",
+            "date": "2015-04-14",
+            "author_name": "Marta MS",
+            "categories": "pintura",
+            "tags": "pintura,pintor",
+            "recuweb_url": "http://es.recuweb.com/pintura/ztfnews.wordpress.com/2015/04/el-lado-ineluctable-de-la-pintura-y-las-matem%C3%A1ticas",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ztfnews.wordpress.com/2015/04/14/el-lado-ineluctable-de-la-pintura-y-las-matematicas/"
+        },
         "holismoplanetario.com/2015/04/la-vida-cotidiana-en-pintura-del-trecento-de-marta-cend%C3%B3n-fern%C3%A1ndez": {
             "title": "La vida cotidiana en la pintura del Trecento de Marta Cend\u00f3n Fern\u00e1ndez (Universidad Santiago de...",
             "snippet": "Ambrogio Lorenzetti. Efectos del buen gobierno en la ciudad. Siena: Palacio P\u00fablico. Cend\u00f3n Fern\u00e1ndez, Marta. La vida cotidiana en la pintura del Trecento, en SEMATA, Ciencias Sociais e Humanidades, vol. 21: 241-263. Archivado en: Art\u00edculos de...",
             "date": "2015-04-05",
             "author_name": "Holismo Planetario en la Web",
             "categories": "ciencias,ciencia,pintura,humanidades",
-            "tags": "ciudad,vida,pintura",
+            "tags": "p\u00fablico,gobierno,universidad,vida,pintura",
             "recuweb_url": "http://es.recuweb.com/humanidades/holismoplanetario.com/2015/04/la-vida-cotidiana-en-pintura-del-trecento-de-marta-cend%C3%B3n-fern%C3%A1ndez",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=pintura%2Bpintura&rss=1&lng=es",
             "source_url": "http://holismoplanetario.com/2015/04/05/la-vida-cotidiana-en-la-pintura-del-trecento-de-marta-cendon-fernandez-universidad-santiago-de-compostela/"
-        },
-        "ernestdescals.wordpress.com/2015/03/alejandro-magno-pintura-arte-rey-historia-macedonia-coleccion-artista-pintor-ernest": {
-            "title": "ALEJANDRO MAGNO-PINTURA-ARTE-REY-HISTORIA-MACEDONIA-COLECCION-ARTISTA-PINTOR-ERNEST DESCALS...",
-            "snippet": "ALEJANDRO MAGNO-PINTURA-ARTE-REY-HISTORIA-MACEDONIA-COLECCION-ARTISTA-PINTOR-ERNEST DESCALS Algunas de las Pinturas de la Colecci\u00f3n de Pintura del artista Pintor ERNEST DESCALS que nos acercan a la Historia del Rey de Macedonia ALEJANDRO MAGNO, son...",
-            "date": "2015-03-28",
-            "author_name": "ernestdescals",
-            "categories": "alejandro-magno,pintura",
-            "tags": "artista,pintor,pinturas,arte,historia,son",
-            "recuweb_url": "http://es.recuweb.com/pintura/ernestdescals.wordpress.com/2015/03/alejandro-magno-pintura-arte-rey-historia-macedonia-coleccion-artista-pintor-ernest",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pintura%2Bpintura&rss=1&lng=es",
-            "source_url": "http://ernestdescals.wordpress.com/2015/03/28/alejandro-magno-pintura-arte-rey-historia-macedonia-coleccion-artista-pintor-ernest-descals/"
-        },
-        "seordelbiombo.blogspot.com/2015/03/carre%C3%B1o-de-miranda-la-pintura-espa%C3%B1ola-del-se%C3%B1or-biombo": {
-            "title": "carre\u00f1o de miranda. la pintura espa\u00f1ola del... - se\u00f1or del biombo...",
-            "snippet": "Habitualmente, y oscurecida por los grandes maestros (Zurbar\u00e1n, Ribera, Vel\u00e1zquez o Alonso Cano), se suele prestar poca atenci\u00f3n al tercer tercio de nuestra pintura. En ella, sin embargo, encontramos grand\u00edsimas figuras,...",
-            "date": "2015-03-13",
-            "author_name": "Vicente Camarasa",
-            "categories": "pintura",
-            "tags": "suele,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/seordelbiombo.blogspot.com/2015/03/carre%C3%B1o-de-miranda-la-pintura-espa%C3%B1ola-del-se%C3%B1or-biombo",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://seordelbiombo.blogspot.com/2015/03/carreno-de-miranda-la-pintura-espanola.html"
-        },
-        "chubutcultural.com.ar/2015/03/salon-nacional-de-pintura-banco-nacion-argentina-chubut-cultural": {
-            "title": "salon nacional de pintura banco nacion argentina... - Chubut Cultural...",
-            "snippet": "La Fundaci\u00f3n Banco de la Naci\u00f3n Argentina (FBNA) convoca a todos los artistas pl\u00e1sticos mayores de 18 a\u00f1os, argentinos o naturalizados, y extranjeros con residencia legal en el pa\u00eds, a participar del Premio Sal\u00f3n Nacional...",
-            "date": "2015-03-13",
-            "author_name": "Juan Jose De Focatiis",
-            "categories": "pintura",
-            "tags": "argentina,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/chubutcultural.com.ar/2015/03/salon-nacional-de-pintura-banco-nacion-argentina-chubut-cultural",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://chubutcultural.com.ar/2015/03/13/salon-nacional-de-pintura-banco-nacion-argentina-100-000-premio-adquisicion/"
-        },
-        "cdamaya.com/2015/03/ciudad-deportiva-amaya-exposici%C3%B3n-de-pintura": {
-            "title": "Ciudad Deportiva Amaya EXPOSICI\u00d3N DE PINTURA...",
-            "snippet": "Queremos celebrar con todos, nuestro 50 Aniversario, por eso nos gustar\u00eda que compartieras tu forma de ver el club, su gente, sus rincones No lo dudes y participa!!! Exposici\u00f3n pintura. Comments are closed.",
-            "date": "2015-03-11",
-            "author_name": "C. D. Amaya",
-            "categories": "pintura",
-            "tags": "gente,ciudad,exposici\u00f3n,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/cdamaya.com/2015/03/ciudad-deportiva-amaya-exposici%C3%B3n-de-pintura",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cdamaya.com/exposicion-de-pintura/"
-        },
-        "pinamar.gov.ar/2015/03/servicios-urbanos-limpieza-y-pintura-en-v%C3%ADa-p%C3%BAblica-escuelas": {
-            "title": "Servicios Urbanos: Limpieza y Pintura en V\u00eda P\u00fablica y Escuelas...",
-            "snippet": "La secretar\u00eda de Servicios Urbanos contin\u00faa trabajando fuertemente en la limpieza y pintura en v\u00eda p\u00fablica y escuelas de todo el Partido de Pinamar. A estas tareas est\u00e1n abocados trabajadores de los corralones...",
-            "date": "2015-03-11",
-            "author_name": "prensa",
-            "categories": "escuela,pintura",
-            "tags": "pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/pinamar.gov.ar/2015/03/servicios-urbanos-limpieza-y-pintura-en-v%C3%ADa-p%C3%BAblica-escuelas",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pinamar.gov.ar/prensa/index.php/servicios-urbanos-limpieza-y-pintura-en-via-publica-y-escuelas/"
-        },
-        "decoesfera.com/2015/03/antes-y-despu%C3%A9s-una-entrada-diferente-s%C3%B3lo-con-pintura-creatividad": {
-            "title": "Antes y despu\u00e9s: una entrada diferente s\u00f3lo con pintura y creatividad...",
-            "snippet": "Se ha buscado un bonito tono entre azul y verde, en concreto se llama tono Amalfi, pero en otras casas de pintura lo podemos encontrar con otros nombres, por ejemplo en Valentine el Azul Bali que nos enamor\u00f3 hace un...",
-            "date": "2015-03-10",
-            "author_name": "Maria SJB",
-            "categories": "pintura",
-            "tags": "verde,pintura,hace",
-            "recuweb_url": "http://es.recuweb.com/pintura/decoesfera.com/2015/03/antes-y-despu%C3%A9s-una-entrada-diferente-s%C3%B3lo-con-pintura-creatividad",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://decoesfera.com/hazlo-tu-mismo/antes-y-despues-una-entrada-diferente-solo-con-pintura-y-creatividad"
-        },
-        "elimpulso.com/2015/03/estonia-mart%C3%ADnez-es-esencia-de-la-pintura-y-los-colores": {
-            "title": "Estonia Mart\u00ednez es esencia de la pintura y los colores - El Impulso...",
-            "snippet": "Estonia Felicia Mart\u00ednez, lleva con orgullo el nombre de su abuela paterna. Su esencia est\u00e1 \u00edntimamente ligada a la pintura y los colores.",
-            "date": "2015-03-10",
-            "author_name": "desconocido",
-            "categories": "pintura",
-            "tags": "nombre,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/elimpulso.com/2015/03/estonia-mart%C3%ADnez-es-esencia-de-la-pintura-y-los-colores",
-            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elimpulso.com/articulo/estonia-martinez-es-esencia-de-la-pintura-y-los-colores"
-        },
-        "mieducacioncreativa.com/2015/03/puffy-paint-exprimiendo-pintura-educaci%C3%B3n-creativa": {
-            "title": "Puffy Paint: Exprimiendo Pintura Educaci\u00f3n Creativa...",
-            "snippet": "A los ni\u00f1os les encantan las experiencias con Pinturas. En esta oportunidad, preparamos en casa Puffy Paint o Pintura Inflada. Los peques estaban fascinados exprimiendo la pintura directamente desde las botellas.",
-            "date": "2015-03-10",
-            "author_name": "Natalia",
-            "categories": "pintura",
-            "tags": "pinturas,ni\u00f1os,casa",
-            "recuweb_url": "http://es.recuweb.com/pintura/mieducacioncreativa.com/2015/03/puffy-paint-exprimiendo-pintura-educaci%C3%B3n-creativa",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mieducacioncreativa.com/2015/03/puffy-paint-exprimiendo-pintura/"
-        },
-        "labrecha40k.blogspot.com/2015/03/hobby-pintura-del-nuevo-devorador-de-almas-la-brecha-40k": {
-            "title": "[Hobby] Pintura del nuevo Devorador de Almas. La Brecha 40k...",
-            "snippet": "Los chicos de Games Workshop, han lanzado un video tutorial de pintura para poder pintar con pintura el nuevo Devorador de Almas bien pintado. Ah\u00ed es nada. Mucha gente puede decir \"eh, que los de Workshop no pintan...",
-            "date": "2015-03-10",
-            "author_name": "Sergio Bermejo",
-            "categories": "pintura",
-            "tags": "gente,puede,pintado,lanzado,tutorial,chicos,pintura,pintar",
-            "recuweb_url": "http://es.recuweb.com/pintura/labrecha40k.blogspot.com/2015/03/hobby-pintura-del-nuevo-devorador-de-almas-la-brecha-40k",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://labrecha40k.blogspot.com/2015/03/hobby-pintura-del-nuevo-devorador-de.html"
         }
     }
 }

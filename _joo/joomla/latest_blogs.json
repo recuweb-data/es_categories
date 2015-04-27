@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "joomla",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/joomla/",
@@ -10,16 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
     },
     "items": {
+        "exelisis.com/2015/04/wordpress-drupal-joomla-blogger-exelisis": {
+            "title": "\u00bfWordpress, Drupal, Joomla, Blogger? - Exelisis...",
+            "snippet": "Esta es la cl\u00e1sica decisi\u00f3n que se suele basar m\u00e1s en afinidades propias que en una l\u00f3gica racional a la hora de montar un CMS. Pero es lo que suele ocurrir en casi todos los \u00e1mbitos de la vida, o eres de PC o de Mac (o de...",
+            "date": "2015-04-15",
+            "author_name": "Jose Salgado",
+            "categories": "drupal,joomla",
+            "tags": "casi,drupal,joomla,blogger,cms",
+            "recuweb_url": "http://es.recuweb.com/joomla/exelisis.com/2015/04/wordpress-drupal-joomla-blogger-exelisis",
+            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://exelisis.com/wordpress-drupal-joomla-blogger/"
+        },
+        "educursovirtual.wordpress.com/2015/04/curso-de-joomla-aprende-como-instalar-y-usar-paso": {
+            "title": "Curso de Joomla aprende como Instalar y Usar Joomla Paso a Paso en Video Full Tutoriales...",
+            "snippet": "Curso de Joomla aprende como Instalar y Usar Joomla Paso a Paso en Video Full Tutoriales Que es Joomla? Es un sistema administrador de contenidos instalable en servidores web...",
+            "date": "2015-04-14",
+            "author_name": "educursovirtual",
+            "categories": "joomla",
+            "tags": "curso,joomla,instalar,contenidos,web",
+            "recuweb_url": "http://es.recuweb.com/joomla/educursovirtual.wordpress.com/2015/04/curso-de-joomla-aprende-como-instalar-y-usar-paso",
+            "resource_url": "http://es.search.wordpress.com/?q=joomla&f=feed&page=1",
+            "source_url": "http://educursovirtual.wordpress.com/curso-de-joomla-aprende-como-instalar-y-usar-joomla-paso-a-paso-en-video-full-tutoriales/"
+        },
+        "arsys.info/2015/04/primeros-pasos-con-joomla-instalaci%C3%B3n-y-configuraci%C3%B3n": {
+            "title": "Primeros pasos con Joomla! Instalaci\u00f3n y configuraci\u00f3n -...",
+            "snippet": "Aunque Joomla! puede instalarse f\u00e1cilmente desde el Pack de Aplicaciones que incluimos en nuestros planes de hosting compartido, en este primer post nos centraremos en instalaci\u00f3n y configuraci\u00f3n manual. Serial joomla.",
+            "date": "2015-04-14",
+            "author_name": "Jose M\u00aa Baquero",
+            "categories": "joomla",
+            "tags": "pasos,primeros,joomla,instalaci\u00f3n,hosting",
+            "recuweb_url": "http://es.recuweb.com/joomla/arsys.info/2015/04/primeros-pasos-con-joomla-instalaci%C3%B3n-y-configuraci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arsys.info/programacion/primeros-pasos-con-joomla-instalacion-y-configuracion/"
+        },
         "magazine.joomla.org/2015/04/el-programa-jet-en-latinoamerica-joomla-community-magazine": {
             "title": "El programa JET en latinoamerica - Joomla! Community Magazine...",
             "snippet": "El 7 de marzo de 2014 se anunciaba en el blog de Joomla! el lanzamiento de la inciativa JET o del Joomla! Event Travel Programme. La primera iniciativ...",
             "date": "2015-04-01",
             "author_name": "no_reply_magazine@joomla.org (Guillermo Bravo)",
             "categories": "joomla",
-            "tags": "lanzamiento,community,community_magazine,magazine,joomla",
+            "tags": "marzo,community,community_magazine,magazine,joomla",
             "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/04/el-programa-jet-en-latinoamerica-joomla-community-magazine",
             "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/abril-2015/item/2700-el-programa-jet-en-latinoamerica"
+        },
+        "magazine.joomla.org/2015/04/joomgouts-tu-conexi%C3%B3n-con-joomla-community-magazine": {
+            "title": "Joomgouts, tu conexi\u00f3n con Joomla - Joomla! Community Magazine...",
+            "snippet": "Llevan m\u00e1s de tres a\u00f1os d\u00e1ndole voz e imagen a la comunidad Hispanohablante de Joomla y adem\u00e1s con programas que en muchos casos son clases magistrales para aprender a hacer web. Si quieres aprender Joomla!",
+            "date": "2015-04-01",
+            "author_name": "no_reply_magazine@joomla.org (Carlos C\u00e1mara)",
+            "categories": "joomla",
+            "tags": "programas,son,comunidad,community,community_magazine,magazine,joomla,web,quieres",
+            "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/04/joomgouts-tu-conexi%C3%B3n-con-joomla-community-magazine",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/abril-2015/item/2687-joomgouts-tu-conexion-con-joomla"
         },
         "magazine.joomla.org/2015/04/optimizar-im%C3%A1genes-para-nuestros-sitios-joomla": {
             "title": "Optimizar im\u00e1genes para nuestros sitios Joomla!",
@@ -27,7 +72,7 @@
             "date": "2015-04-01",
             "author_name": "no_reply_magazine@joomla.org (Andrea Kekan)",
             "categories": "joomla",
-            "tags": "joomla",
+            "tags": "im\u00e1genes,joomla",
             "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/04/optimizar-im%C3%A1genes-para-nuestros-sitios-joomla",
             "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/abril-2015/item/2697-optimizar-imagenes-para-nuestros-sitios-joomla"
@@ -38,21 +83,10 @@
             "date": "2015-04-01",
             "author_name": "no_reply_magazine@joomla.org (Luciano Mart\u00ednez)",
             "categories": "joomla",
-            "tags": "componente,versi\u00f3n,community,community_magazine,magazine,joomla,tags,espa\u00f1ol",
+            "tags": "versi\u00f3n,community,community_magazine,magazine,joomla,tags,espa\u00f1ol",
             "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/04/potencia-tu-joomla-con-etiquetas-community-magazine",
             "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/abril-2015/item/2692-potencia-tu-joomla-con-etiquetas"
-        },
-        "blogger3cero.com/2015/03/seo-para-joomla-la-gu%C3%ADa-definitiva-blogger-3-0": {
-            "title": "SEO para Joomla - La Gu\u00eda definitiva Blogger 3.0...",
-            "snippet": "Quieres hacer SEO en Joomla? Despu\u00e9s de leer este post sabr\u00e1s por donde empezar: SEO para Joomla de 0 a 100.",
-            "date": "2015-03-26",
-            "author_name": "Dean Romero",
-            "categories": "joomla",
-            "tags": "joomla,definitiva,quieres,hacer",
-            "recuweb_url": "http://es.recuweb.com/joomla/blogger3cero.com/2015/03/seo-para-joomla-la-gu%C3%ADa-definitiva-blogger-3-0",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogger3cero.com/seo-para-joomla/"
         },
         "diariomatica.com/2015/03/209-error-jhtmlbehavior-tabstate-not-found-en-joomla-3": {
             "title": "209. Error JHtmlBehavior::tabstate not found en Joomla 3.",
@@ -60,65 +94,32 @@
             "date": "2015-03-24",
             "author_name": "Chris Rico",
             "categories": "joomla",
-            "tags": "joomla,panel,instalaci\u00f3n",
+            "tags": "est\u00e1n,joomla,panel,instalaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/joomla/diariomatica.com/2015/03/209-error-jhtmlbehavior-tabstate-not-found-en-joomla-3",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=joomla%2Bjoomla&rss=1&lng=es",
             "source_url": "http://diariomatica.com/2015/03/209-error-jhtmlbehaviortabstate-not.html"
         },
         "magazine.joomla.org/2015/03/gr%C3%A1fica-para-joomla-3-4-community-magazine": {
             "title": "Gr\u00e1fica para Joomla! 3.4 - Joomla! Community Magazine...",
-            "snippet": "Junto con el lanzamiento de cada versi\u00f3n nueva de Joomla!, se prepara el correspondiente material gr\u00e1fico para su promoci\u00f3n. Joomla! 3.4 no pod\u00eda ser...",
+            "snippet": "Joomla! 3.4 no pod\u00eda ser la excepci\u00f3n y el equipo de Marketing ha liberado un set de im\u00e1genes para cubrir todas las posibles necesidades de im\u00e1genes que puedas tener, cubriendo \u00e1reas como Banners, Blog o Newsletters,...",
             "date": "2015-03-01",
             "author_name": "no_reply_magazine@joomla.org (Guillermo Bravo)",
             "categories": "joomla",
-            "tags": "lanzamiento,versi\u00f3n,community,community_magazine,magazine,joomla",
+            "tags": "im\u00e1genes,puedas,tener,community,community_magazine,magazine,joomla",
             "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/03/gr%C3%A1fica-para-joomla-3-4-community-magazine",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/marzo-2015/item/2671-grafica-para-joomla-3-4"
         },
-        "margaritasil.wordpress.com/2015/02/qu%C3%A9-diferencia-hay-entre-extensiones-plugins-y-m%C3%B3dulos": {
-            "title": "\u00bfQu\u00e9 diferencia hay entre extensiones, plugins y m\u00f3dulos?",
-            "snippet": "Extension es un generalismo para denominar aplicaciones para joomla, como los son Componentes Joomla! - M\u00f3dulos Joomla! - Plugins Joomla!. \u00bfQue es un Componente Joomla? \u00bfQue es un M\u00f3dulo Joomla? \u00bfQue []...",
-            "date": "2015-02-25",
-            "author_name": "margatitas",
-            "categories": "joomla",
-            "tags": "joomla,componente,hay,extensiones",
-            "recuweb_url": "http://es.recuweb.com/joomla/margaritasil.wordpress.com/2015/02/qu%C3%A9-diferencia-hay-entre-extensiones-plugins-y-m%C3%B3dulos",
-            "resource_url": "http://es.search.wordpress.com/?q=joomla%2Bjoomla&f=feed&page=1",
-            "source_url": "http://margaritasil.wordpress.com/2015/02/25/que-diferencia-hay-entre-extensiones-plugins-y-modulos/"
-        },
-        "hostinet.com/2015/02/capacidades-de-los-grupos-usuario-en-joomla-3": {
-            "title": "Capacidades de los grupos de usuario en Joomla!3...",
-            "snippet": "En tutoriales anteriores ve\u00edamos c\u00f3mo pod\u00edamos asignar permisos a los usuarios de Joomla, pero en ocasiones no nos queda demasiado claro qu\u00e9 es lo que realmente pueden o dejan de poder hacer estos usuarios. Hoy explicaremos brevemente todas las...",
-            "date": "2015-02-17",
-            "author_name": "\u00c1lex \u00c1lvarez",
-            "categories": "joomla",
-            "tags": "poder,hacer,usuario,tutoriales,joomla,c\u00f3mo,hoy",
-            "recuweb_url": "http://es.recuweb.com/joomla/hostinet.com/2015/02/capacidades-de-los-grupos-usuario-en-joomla-3",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=joomla%2Bjoomla&rss=1&lng=es",
-            "source_url": "http://hostinet.com/formacion/general/capacidades-grupos-usuario-joomla/"
-        },
-        "soportebyhackslash.wordpress.com/2015/02/cursos-y-tutoriales": {
-            "title": "Cursos y Tutoriales...",
-            "snippet": "Les traigo este valioso aporte por parte del usuario Jonathan fiel seguidor del Team The Hack Network Support 3 Cursos alojados en Mega. Curso de Joomla Joomla es un Sistema de gesti\u00f3n de contenidos o CMS (por sus siglas en ingl\u00e9s, Content...",
-            "date": "2015-02-17",
-            "author_name": "soportebyhackslash",
-            "categories": "joomla",
-            "tags": "joomla,traigo,usuario,curso,tutoriales,cms,content",
-            "recuweb_url": "http://es.recuweb.com/joomla/soportebyhackslash.wordpress.com/2015/02/cursos-y-tutoriales",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=joomla%2Bjoomla&rss=1&lng=es",
-            "source_url": "http://soportebyhackslash.wordpress.com/2015/02/17/cursos-y-tutoriales/"
-        },
-        "magazine.joomla.org/2015/02/bienvenido-joomla-3-4-community-magazine": {
-            "title": "Bienvenido Joomla 3.4 - Joomla! Community Magazine...",
-            "snippet": "El proyecto Joomla! se siente orgulloso de poder anunciar las fechas de las versiones previas y definitiva de Joomla! CMS versi\u00f3n 3.4.- Esta es una ve...",
-            "date": "2015-02-01",
+        "magazine.joomla.org/2015/03/haz-m%C3%A1s-con-joomla-3-4-community-magazine": {
+            "title": "Haz m\u00e1s con Joomla! 3.4 - Joomla! Community Magazine...",
+            "snippet": "Llego marzo y junto la nueva edici\u00f3n de la revista de la comunidad Joomla! en Espa\u00f1ol, le damos la bienvenida a nuestra nueva versi\u00f3n de Joomla!, la v...",
+            "date": "2015-03-01",
             "author_name": "no_reply_magazine@joomla.org (Guillermo Bravo)",
             "categories": "joomla",
-            "tags": "poder,versi\u00f3n,definitiva,community,community_magazine,magazine,joomla,cms",
-            "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/02/bienvenido-joomla-3-4-community-magazine",
+            "tags": "versi\u00f3n,marzo,comunidad,community,community_magazine,magazine,joomla,espa\u00f1ol",
+            "recuweb_url": "http://es.recuweb.com/joomla/magazine.joomla.org/2015/03/haz-m%C3%A1s-con-joomla-3-4-community-magazine",
             "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/febrero-2015/item/2537-bienvenido-joomla-3-4"
+            "source_url": "http://magazine.joomla.org/es/ediciones-anteriores/marzo-2015/item/2673-haz-mas-con-joomla-3-4"
         }
     }
 }

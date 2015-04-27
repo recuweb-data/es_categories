@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xml",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xml/",
@@ -10,46 +11,79 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/xml/xml/blogs.json"
     },
     "items": {
+        "elconta.com/2015/04/convertir-xml-de-recibo-n%C3%B3mina-en-pdf-forma-masiva": {
+            "title": "Convertir XML de recibo de n\u00f3mina en PDF de forma masiva. El...",
+            "snippet": "Convertir XML de n\u00f3mina a PDF en forma MASIVA. Mucho m\u00e1s poder a nuestro programa de Descarga Masiva de XML desde p\u00e1gina del SAT.",
+            "date": "2015-04-16",
+            "author_name": "Fernando Leal",
+            "categories": "xml",
+            "tags": "descarga,descarga_masiva,masiva,forma,convertir,convertir_xml,xml,pdf,programa,sat",
+            "recuweb_url": "http://es.recuweb.com/xml/elconta.com/2015/04/convertir-xml-de-recibo-n%C3%B3mina-en-pdf-forma-masiva",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elconta.com/2015/04/16/convertir-xml-recibo-nomina-en-pdf-masiva/"
+        },
+        "elconta.com/2015/04/convertir-xml-a-pdf-en-forma-masiva-el-conta-punto": {
+            "title": "Convertir XML a PDF en forma MASIVA. El Conta punto com...",
+            "snippet": "La representaci\u00f3n gr\u00e1fica en formato PDF de forma masiva de varios archivos XML ha sido incorporada a nuestro ya famoso programa de Descarga Masiva de XML desde.",
+            "date": "2015-04-14",
+            "author_name": "Fernando Leal",
+            "categories": "xml",
+            "tags": "descarga,descarga_masiva,masiva,sido,forma,formato,punto,convertir,convertir_xml,xml,pdf,archivos,programa",
+            "recuweb_url": "http://es.recuweb.com/xml/elconta.com/2015/04/convertir-xml-a-pdf-en-forma-masiva-el-conta-punto",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elconta.com/2015/04/14/convertir-xml-a-pdf-forma-masiva/"
+        },
+        "cyberhades.com/2015/04/play-xml-entities-ejercicio-de-explotaci%C3%B3n-cyberhades": {
+            "title": "Play XML Entities, ejercicio de explotaci\u00f3n Cyberhades...",
+            "snippet": "Una vez m\u00e1s la aplicaci\u00f3n vulnerable est\u00e1 construida sobre el framework Play. En este caso exponen una vulnarabilidad (que ya ha sido corregida) que se aprovecha de un error en el procesado de documentos XML.",
+            "date": "2015-04-09",
+            "author_name": "tuxotron",
+            "categories": "play,xml",
+            "tags": "sido,caso,xml,aplicaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/xml/cyberhades.com/2015/04/play-xml-entities-ejercicio-de-explotaci%C3%B3n-cyberhades",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cyberhades.com/2015/04/09/play-xml-entities-ejercicio-de-explotacion/"
+        },
+        "sistemasumma.com/2015/04/programaci%C3%B3n-android-4-introducci%C3%B3n-a-xml-sistemasumma": {
+            "title": "Programaci\u00f3n Android 4: Introducci\u00f3n a XML Sistemasumma...",
+            "snippet": "Llegamos al momento de comenzar a trabajar en el dise\u00f1o de la interfaz dentro de nuestro curso de programaci\u00f3n en Android. El dise\u00f1o de la interfaz se hace en el fichero, para lo cual se hace uso del...",
+            "date": "2015-04-05",
+            "author_name": "sistemasumma",
+            "categories": "xml",
+            "tags": "fichero,trabajar,xml,curso",
+            "recuweb_url": "http://es.recuweb.com/xml/sistemasumma.com/2015/04/programaci%C3%B3n-android-4-introducci%C3%B3n-a-xml-sistemasumma",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://sistemasumma.com/2015/04/04/programacion-android-4-introduccion-a-xml/"
+        },
+        "blog.gosocket.net/2015/03/la-importancia-del-xml-gosocket": {
+            "title": "La importancia del.XML Gosocket...",
+            "snippet": "XML. El.XML es el archivo en el cual se encuentra una factura electr\u00f3nica, y saber qu\u00e9 es y como funciona es parte vital de cualquier negocio o empresa. Entender la funci\u00f3n, objetivo, caracter\u00edsticas y alcance del archivo.",
+            "date": "2015-03-31",
+            "author_name": "Kim De Anda",
+            "categories": "electronica,xml",
+            "tags": "empresa,xml,archivo,parte",
+            "recuweb_url": "http://es.recuweb.com/xml/blog.gosocket.net/2015/03/la-importancia-del-xml-gosocket",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.gosocket.net/la-importancia-del-xml/"
+        },
         "javahispano.org/2015/03/javahispano-portada-duda-sobre-xml-schemas": {
             "title": "javaHispano - Portada - Duda sobre XML Schemas...",
             "snippet": "Realizando cambios sobre unos XML Schemas que me pasaron, surgi\u00f3 el siguiente caso: -Tenemos un fichero \" \" que definen el tipo de dato \"edad\". -Posteriormente, tenemos un fichero \" \"...",
             "date": "2015-03-12",
             "author_name": "jcarmonaloeches",
             "categories": "xml",
-            "tags": "tenemos,caso,xml,duda",
+            "tags": "tenemos,fichero,caso,xml",
             "recuweb_url": "http://es.recuweb.com/xml/javahispano.org/2015/03/javahispano-portada-duda-sobre-xml-schemas",
-            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/3/12/duda-sobre-xml-schemas.html"
         },
-        "blog.elhacker.net/2015/03/blog-virus-usando-macros-en-ficheros-xml-maliciosos": {
-            "title": "Blog: Virus usando Macros en ficheros XML maliciosos...",
-            "snippet": "Los archivos XML son ficheros de texto totalmente inofensivos \u00bfno? \u00a1Falso! Un nuevo grupo est\u00e1 detr\u00e1s de las campa\u00f1as con documentos maliciosos de Microsoft Office que han comenzado a utilizar Microsoft Office con...",
-            "date": "2015-03-11",
-            "author_name": "el-brujo",
-            "categories": "xml",
-            "tags": "microsoft,nuevo,totalmente,usando,xml,archivos,son",
-            "recuweb_url": "http://es.recuweb.com/xml/blog.elhacker.net/2015/03/blog-virus-usando-macros-en-ficheros-xml-maliciosos",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.elhacker.net/2015/03/virus-usando-macros-en-ficheros-xml-office-word.html"
-        },
-        "chamlaty.com/2015/03/y-s%C3%AD-hay-valientes-que-ya-est%C3%A1n-enviando-los-xml": {
-            "title": "Y s\u00ed; hay valientes que ya est\u00e1n enviando los XML... -...",
-            "snippet": "Con independencia de la posibilidad de enviar POR PRIMERA VEZ hasta el mes de abril 2015 lo correspondiente al mes de enero 2015 relativo a los XML del CATALOGO DE CUENTAS Y LA BALANZA DE.",
-            "date": "2015-03-11",
-            "author_name": "chamlaty",
-            "categories": "xml",
-            "tags": "cuentas,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/chamlaty.com/2015/03/y-s%C3%AD-hay-valientes-que-ya-est%C3%A1n-enviando-los-xml",
-            "resource_url": "http://www.google.com/search?q=xml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://chamlaty.com/2015/03/11/y-si-hay-valientes-que-ya-estan-enviando-los-xml-de-contabilidad-electronica/"
-        },
         "chamlaty.com/2015/03/y-descarga-masiva-xml-deja-de-ser-gratuito": {
-            "title": "Y DESCARGA MASIVA XML deja de ser GRATUITO. -...",
-            "snippet": "Con fecha 10 de marzo de 2015 surge la novedad que el programa DESCARGA MASIVA XML deja de ser GRATUITO, lo bueno a un s\u00faper costo. Al adquirir la licencia tienes lo siguientes beneficios: Descargas ilimitadas de...",
+            "title": "Y DESCARGA MASIVA XML deja de ser GRATUITO... -...",
+            "snippet": "Con fecha 10 de marzo de 2015 surge la novedad que el programa DESCARGA MASIVA XML deja de ser GRATUITO, lo bueno a un s\u00faper costo. SI YA TENIAS RFCs registrados hasta el 9/03/2015 y deseas seguir...",
             "date": "2015-03-10",
             "author_name": "chamlaty",
             "categories": "xml",
-            "tags": "programa,masiva,xml",
+            "tags": "seguir,descarga,descarga_masiva,masiva,xml,programa",
             "recuweb_url": "http://es.recuweb.com/xml/chamlaty.com/2015/03/y-descarga-masiva-xml-deja-de-ser-gratuito",
             "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://chamlaty.com/2015/03/10/y-descarga-masiva-deja-de-ser-gratuito/"
@@ -60,21 +94,10 @@
             "date": "2015-03-09",
             "author_name": "Rafaseros",
             "categories": "desarrollo-web,javascript,xml",
-            "tags": "decir,usuarios,web,crear,javascript,xml",
+            "tags": "crear,xml",
             "recuweb_url": "http://es.recuweb.com/xml/rafaseros.wordpress.com/2015/03/ajax-javascript-as%C3%ADncrono-y-xml-asynchronous",
             "resource_url": "http://es.search.wordpress.com/?q=xml%2Bxml&f=feed&page=1",
             "source_url": "http://rafaseros.wordpress.com/2015/03/09/ajax-javascript-asincrono-y-xml-asynchronous-javascript-and-xml/"
-        },
-        "factupronto.com/2015/03/cuentas-por-pagar-cxp-importaci%C3%B3n-de-xml-factupronto": {
-            "title": "Cuentas Por Pagar CxP (Importaci\u00f3n de XML) FACTUPRONTO...",
-            "snippet": "Home Blog Cuentas Por Pagar CxP (Importaci\u00f3n de XML). Cuentas Por Pagar CxP (Importaci\u00f3n de XML). Posted on mar 3, 2015. Buscar. Buscar: Estimado Contribuyente. La facturaci\u00f3n electr\u00f3nica es una obligaci\u00f3n para todos, sin...",
-            "date": "2015-03-03",
-            "author_name": "Eleazar Pe\u00f1a",
-            "categories": "electronica,xml",
-            "tags": "electr\u00f3nica,cuentas,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/factupronto.com/2015/03/cuentas-por-pagar-cxp-importaci%C3%B3n-de-xml-factupronto",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://factupronto.com/factura_electronica/cuentas-por-pagar-cxp-importacion-de-xml/"
         },
         "tosblama.blogspot.com/2015/02/consumir-un-webservice-desde-php-xml-json": {
             "title": "Consumir un webservice desde PHP (XML/JSON)...",
@@ -82,7 +105,7 @@
             "date": "2015-02-05",
             "author_name": "(Tosblama)",
             "categories": "php,xml,json",
-            "tags": "muy,necesidad,serie,php,xml,json,vamos",
+            "tags": "muy,llamada,trabajar,php,xml,json",
             "recuweb_url": "http://es.recuweb.com/json/tosblama.blogspot.com/2015/02/consumir-un-webservice-desde-php-xml-json",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=es",
             "source_url": "http://tosblama.blogspot.com/2015/02/llamada-un-webservice-desde-php-xmljson.html"
@@ -93,32 +116,10 @@
             "date": "2015-01-30",
             "author_name": "admin",
             "categories": "php,xml,json",
-            "tags": "clase,formato,caso,php,generar,archivos,archivo,xml,json",
+            "tags": "clase,ser\u00e1,formato,caso,php,generar,archivos,archivo,xml,c\u00f3mo,json",
             "recuweb_url": "http://es.recuweb.com/json/codigoactionscript.org/2015/01/generar-archivos-xml-desde-php",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xml%2Bxml&rss=1&lng=es",
             "source_url": "http://codigoactionscript.org/generar-archivos-xml-desde-php/"
-        },
-        "analoyo.wordpress.com/2015/01/bases-de-datos-xml": {
-            "title": "\u00bfBases de datos XML?",
-            "snippet": "Aqu\u00ed estoy de nuevo, dej\u00e9 un poco olvidado el blog, necesitaba inspiraci\u00f3n, \u00a1me disculpo! Vamos a seguir en donde nos quedamos... Voy a comenzar por decir que XML es...",
-            "date": "2015-01-22",
-            "author_name": "ana2lp",
-            "categories": "xml",
-            "tags": "decir,nuevo,bases,datos,xml,vamos",
-            "recuweb_url": "http://es.recuweb.com/xml/analoyo.wordpress.com/2015/01/bases-de-datos-xml",
-            "resource_url": "http://es.search.wordpress.com/?q=xml%2Bxml&f=feed&page=1",
-            "source_url": "http://analoyo.wordpress.com/2015/01/22/bases-de-datos-xml/"
-        },
-        "oloblogger.com/2015/01/nuevo-sitemap-xml-de-serie-en-blogger-oloblogger": {
-            "title": "Nuevo sitemap XML de serie en Blogger Oloblogger...",
-            "snippet": "Blogger ha incluido de manera autom\u00e1tica un sitemap en formato XML para todos los sitios alojados en el servicio. Una buena noticia sin duda.",
-            "date": "2015-01-08",
-            "author_name": "Oloman Oloman",
-            "categories": "xml",
-            "tags": "duda,manera,formato,serie,nuevo,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/oloblogger.com/2015/01/nuevo-sitemap-xml-de-serie-en-blogger-oloblogger",
-            "resource_url": "http://www.google.com/search?q=xml%2Bxml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://oloblogger.com/2015/01/nuevo-sitemap-xml-para-blogger.html"
         }
     }
 }

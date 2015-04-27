@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "surf",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/surf/",
@@ -10,17 +11,52 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/surf/surf/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/urparcel-men-nylon-shorts-beach-surf-board-swim-sports-pants-review": {
+            "title": "Urparcel Men Nylon Shorts Beach Surf Board Swim Sports Pants Review...",
+            "snippet": "Urparcel Men Nylon Shorts Beach Surf Board Swim Sports Pants ReviewAuthor: AvisrqtTags: Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "Avisrqt",
+            "categories": "surf",
+            "tags": "surf,sports",
+            "recuweb_url": "http://es.recuweb.com/surf/dailymotion.com/2015/04/urparcel-men-nylon-shorts-beach-surf-board-swim-sports-pants-review",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/surf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nm8jn_urparcel-men-nylon-shorts-beach-surf-board-swim-sports-pants-review_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nm8jn_urparcel-men-nylon-shorts-beach-surf-board-swim-sports-pants-review_videogames"
+        },
+        "dailymotion.com/2015/04/swimsuit-for-women-new-fashion-design-one-piece-short-sleeve-surfing": {
+            "title": "Swimsuit for Women New Fashion Design One Piece Short-sleeve surfing suit Sun Protection Review...",
+            "snippet": "Swimsuit for Women New Fashion Design One Piece Short-sleeve surfing suit Sun Protection ReviewAuthor: Lyda2fsTags: Posted: 22 April 2015Rating:: 0...",
+            "date": "2015-04-22",
+            "author_name": "Lyda2fs",
+            "tags": "surfing",
+            "recuweb_url": "http://es.recuweb.com/dailymotion.com/2015/04/swimsuit-for-women-new-fashion-design-one-piece-short-sleeve-surfing",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/surf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2njyvn_swimsuit-for-women-new-fashion-design-one-piece-short-sleeve-surfing-suit-sun-protection-review_travel",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2njyvn_swimsuit-for-women-new-fashion-design-one-piece-short-sleeve-surfing-suit-sun-protection-review_travel"
+        },
         "youtube.com/2015/03/el-lado-salvaje-del-surf-muerte-andy-irons": {
             "title": "El lado salvaje del Surf: Muerte Andy Irons...",
             "snippet": "El lado salvaje del Surf: Muerte Andy Irons Andy Irons (Oahu, 24 de julio de 1978 Dallas, 2 de noviembre de 2010) fue un surfista profesional, campe\u00f3n del mundo de surf en tres ocasiones 2002, 2003 y 2004. Su hermano, Bruce Irons,... From: hugo van...",
             "date": "2015-03-24",
             "author_name": "hugo van damme",
             "categories": "surf",
-            "tags": "mundo,surf,surfista",
+            "tags": "surf",
             "recuweb_url": "http://es.recuweb.com/surf/youtube.com/2015/03/el-lado-salvaje-del-surf-muerte-andy-irons",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=YAnyqp2ZY0o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/YAnyqp2ZY0o/0.jpg"
+        },
+        "youtube.com/2015/03/backyardigans-15-el-surf-es-la-moda": {
+            "title": "Backyardigans - 15 - El Surf Es La Moda...",
+            "snippet": "Backyardigans - 15 - El Surf Es La Moda From: TreehouseDirect - Views: 800908 1475 ratings Time: 24:21 More in People & Blogs...",
+            "date": "2015-03-02",
+            "author_name": "TreehouseDirect - Lat.Am",
+            "categories": "surf,moda",
+            "tags": "surf",
+            "recuweb_url": "http://es.recuweb.com/moda/youtube.com/2015/03/backyardigans-15-el-surf-es-la-moda",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=QCtC_qoteok&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/QCtC_qoteok/0.jpg"
         },
         "dailymotion.com/2015/03/canary-islands-water-sports-experience-surfing-in-teneerife": {
             "title": "Canary Islands Water Sports Experience: Surfing in Teneerife...",
@@ -92,42 +128,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2f7r2m_con-78-anos-este-cura-sorprende-a-sus-parroquianos-practicando-surf-de-remo_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2f7r2m_con-78-anos-este-cura-sorprende-a-sus-parroquianos-practicando-surf-de-remo_sport"
-        },
-        "dailymotion.com/2015/01/surf-general-el-surfista-ricardo-dos-santos-muere-tras-ser-tiroteado": {
-            "title": "SURF: General: El surfista Ricardo dos Santos muere tras ser tiroteado por un polic\u00eda...",
-            "snippet": "Gran p\u00e9rdida en el mundo del deporteAuthor: Omnisport-espTags: tiroteado muere Santos ser surfista General: Global Football por Ricardo SURF: Posted: 21 January 2015Rating:: 0...",
-            "date": "2015-01-21",
-            "author_name": "Omnisport-esp",
-            "categories": "surf",
-            "tags": "surfista,mundo,surf,omnisport,esptags",
-            "recuweb_url": "http://es.recuweb.com/surf/dailymotion.com/2015/01/surf-general-el-surfista-ricardo-dos-santos-muere-tras-ser-tiroteado",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2f8wgm_surf-general-el-surfista-ricardo-dos-santos-muere-tras-ser-tiroteado-por-un-policia_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2f8wgm_surf-general-el-surfista-ricardo-dos-santos-muere-tras-ser-tiroteado-por-un-policia_sport"
-        },
-        "dailymotion.com/2015/01/surf-las-mejores-im%C3%A1genes-del-circuito-femenino-desde-china": {
-            "title": "Surf - Las mejores im\u00e1genes del circuito femenino desde China...",
-            "snippet": "Donde las mejores surfistas del mundo se reunieron para una nueva pruebaAuthor: Omnisport-espTags: All Sports Surf Surfing Sports News femenino Highlights Review circuito desde China Posted: 20 January 2015Rating:: 0...",
-            "date": "2015-01-20",
-            "author_name": "Omnisport-esp",
-            "categories": "surf",
-            "tags": "surfing,sports,mundo,surf,omnisport,esptags",
-            "recuweb_url": "http://es.recuweb.com/surf/dailymotion.com/2015/01/surf-las-mejores-im%C3%A1genes-del-circuito-femenino-desde-china",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2f3hn4_surf-las-mejores-imagenes-del-circuito-femenino-desde-china_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2f3hn4_surf-las-mejores-imagenes-del-circuito-femenino-desde-china_sport"
-        },
-        "youtube.com/2015/01/surf-extremo-05-01-2015": {
-            "title": "Surf extremo (05-01-2015)...",
-            "snippet": "\"Surf extremo\" (05-01-2015) From: Combate Views: 28123 93 ratings Time: 23:08 More in People & Blogs...",
-            "date": "2015-01-05",
-            "author_name": "Combate",
-            "categories": "surf",
-            "tags": "surf",
-            "recuweb_url": "http://es.recuweb.com/surf/youtube.com/2015/01/surf-extremo-05-01-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=W0UdBO3W9IA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/W0UdBO3W9IA/0.jpg"
         }
     }
 }

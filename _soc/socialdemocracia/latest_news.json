@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "socialdemocracia",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/socialdemocracia/",
@@ -10,32 +11,92 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/socialdemocracia/socialdemocracia/blogs.json"
     },
     "items": {
-        "blogs.elconfidencial.com/2015/04/el-orate-pedro-s%C3%A1nchez-asusta-a-las-multinacionales-extranjeras-en-espa%C3%B1a": {
-            "title": "El orate Pedro S\u00e1nchez asusta a las multinacionales extranjeras en Espa\u00f1a...",
-            "snippet": "Pero no se esperaban, ni mucho menos, este grado de iracundia contra ellos y sus actividades de lo que se supone es la representaci\u00f3n de la socialdemocracia moderada en nuestro arco parlamentario. Si algo preocupa al capital extranjero es la...",
-            "date": "2015-04-19",
-            "categories": "multinacional,socialdemocracia",
-            "tags": "pedro,pedro_s\u00e1nchez,s\u00e1nchez,espa\u00f1a,contra,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/blogs.elconfidencial.com/2015/04/el-orate-pedro-s%C3%A1nchez-asusta-a-las-multinacionales-extranjeras-en-espa%C3%B1a",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://blogs.elconfidencial.com/mercados/valor-anadido/2015-04-20/el-orate-pedro-sanchez-asusta-a-las-multinacionales-extranjeras-en-espana_762736/"
+        "noticiasaominuto.com/2015/04/afinal-a-social-democracia-n%C3%A3o-est%C3%A1-morta-not%C3%ADcias-ao-minuto": {
+            "title": "Afinal a social-democracia n\u00e3o est\u00e1 morta - Not\u00edcias ao Minuto...",
+            "snippet": "\"Afinal a social-democracia n\u00e3o est\u00e1 morta\"Not\u00edcias ao MinutoAfinal de contas a social-democracia n\u00e3o est\u00e1 morta, nem t\u00e3o pouco se encontra inerme perante os seus advers\u00e1rios, remata. Com esta prova de vida, o PS exp\u00f5e-se a cr\u00edticas,...",
+            "date": "2015-04-23",
+            "categories": "democracia",
+            "tags": "social,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/noticiasaominuto.com/2015/04/afinal-a-social-democracia-n%C3%A3o-est%C3%A1-morta-not%C3%ADcias-ao-minuto",
+            "resource_url": "http://news.google.es/?hl=es&q=socialdemocracia%2Bsocialdemocracia&output=atom&nord=1",
+            "source_url": "http://noticiasaominuto.com/politica/379817/afinal-a-social-democracia-nao-esta-morta"
         },
-        "laopiniondezamora.es/2015/04/pablo-iglesias-ante-el-rey": {
-            "title": "Pablo Iglesias ante el rey...",
-            "snippet": "La agilidad de respuesta a los criterios de realidad y la t\u00e1ctica de adaptaci\u00f3n entre cr\u00edticas apocal\u00edpticas y comprensibles recelos consolidan las bazas de Podemos, tanto si pelea por vampirizar la socialdemocracia como si quiere barrer a...",
-            "date": "2015-04-19",
-            "categories": "socialdemocracia",
-            "tags": "pablo,pablo_iglesias,iglesias,podemos,tanto,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/laopiniondezamora.es/2015/04/pablo-iglesias-ante-el-rey",
+        "es.investing.com/2015/04/el-oro-baja-un-0-29%-y-cierra-en-75-d%C3%B3lares": {
+            "title": "El oro baja un 0,29% y cierra en,75 d\u00f3lares - Espa\u00f1a...",
+            "snippet": "El oro baja un 0,29% y cierra en,75 d\u00f3 Espa\u00f1aPor EFE -. Brasilia, 23 abr (EFE).- El Partido de la Social Democracia Brasile\u00f1a (PSDB), la principal fuerza opositora del pa\u00eds, afirm\u00f3 hoy que las p\u00e9rdidas de unos millones de d\u00f3lares... El...",
+            "date": "2015-04-23",
+            "categories": "socialdemocracia,democracia",
+            "tags": "principal,principal-fuerza,fuerza,social,social_democracia,social_democracia_brasile\u00f1a,democracia,democracia_brasile\u00f1a,brasile\u00f1a,partido,espa\u00f1a,psdb",
+            "recuweb_url": "http://es.recuweb.com/democracia/es.investing.com/2015/04/el-oro-baja-un-0-29%-y-cierra-en-75-d%C3%B3lares",
+            "resource_url": "http://news.google.es/?hl=es&q=socialdemocracia%2Bsocialdemocracia&output=atom&nord=1",
+            "source_url": "http://es.investing.com/news/noticias-de-commodities---futuros/el-oro-baja-un-0,29--y-cierra-en-1.185,75-d\u00f3lares-266027"
+        },
+        "prensa.com/2015/04/excandidato-presidencial-a%C3%A9cio-neves-acusa-a-lula-da-silva": {
+            "title": "Excandidato presidencial A\u00e9cio Neves acusa a Lula da Silva y a... - La Prensa (Comunicado de...",
+            "snippet": "La Prensa (Comunicado de prensa) (Suscripci\u00f3n) (blog)Excandidato presidencial A\u00e9cio Neves acusa a Lula da Silva y a...La Prensa (Comunicado de prensa) (Suscripci\u00f3n) (blog)El Partido de la Social Democracia Brasile\u00f1a (PSDB), la principal fuerza...",
+            "date": "2015-04-23",
+            "categories": "socialdemocracia,democracia",
+            "tags": "principal,principal-fuerza,fuerza,social,social_democracia,social_democracia_brasile\u00f1a,democracia,democracia_brasile\u00f1a,brasile\u00f1a,neves,presidencial,partido,psdb",
+            "recuweb_url": "http://es.recuweb.com/democracia/prensa.com/2015/04/excandidato-presidencial-a%C3%A9cio-neves-acusa-a-lula-da-silva",
+            "resource_url": "http://news.google.es/?hl=es&q=socialdemocracia%2Bsocialdemocracia&output=atom&nord=1",
+            "source_url": "http://prensa.com/mundo/Petrobras-Brasil-corrupcion-Rousseff_0_4192830852.html"
+        },
+        "laopiniondezamora.es/2015/04/la-pol%C3%ADtica-al-servicio-del-ciudadano": {
+            "title": "La pol\u00edtica al servicio del ciudadano...",
+            "snippet": "Quien ha ocupado, y lo sigue haciendo, la centralidad pol\u00edtica en Espa\u00f1a y en Europa es el Partido Socialista o la socialdemocracia que ha impulsado y garantizado, con ese empe\u00f1o y compromiso ideol\u00f3gico, ocupar la centralidad, que no tiene nada...",
+            "date": "2015-04-22",
+            "categories": "politica,socialdemocracia",
+            "tags": "tiene,centralidad,partido,espa\u00f1a,europa,socialdemocracia",
+            "recuweb_url": "http://es.recuweb.com/socialdemocracia/laopiniondezamora.es/2015/04/la-pol%C3%ADtica-al-servicio-del-ciudadano",
             "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://laopiniondezamora.es/opinion/2015/04/20/pablo-iglesias-rey/837140.html"
+            "source_url": "http://laopiniondezamora.es/opinion/2015/04/23/politica-servicio-ciudadano/838000.html"
+        },
+        "elconfidencial.com/2015/04/diferencias-estrat%C3%A9gicas-entre-iglesias-y-errej%C3%B3n-retrasan-el-programa-de-podemos": {
+            "title": "Diferencias estrat\u00e9gicas entre Iglesias y Errej\u00f3n retrasan el programa de Podemos...",
+            "snippet": "exactamente el terreno que ha abandonado la socialdemocracia, como amargamente se\u00f1alaba Zapatero. Esto es: Cometer\u00edamos un grave error si nos dej\u00e1ramos llevar a un terreno que no nos es propio. Por lo dem\u00e1s, pedimos a nuestros usuarios que se...",
+            "date": "2015-04-21",
+            "categories": "socialdemocracia",
+            "tags": "propio,programa,iglesias,podemos,socialdemocracia",
+            "recuweb_url": "http://es.recuweb.com/socialdemocracia/elconfidencial.com/2015/04/diferencias-estrat%C3%A9gicas-entre-iglesias-y-errej%C3%B3n-retrasan-el-programa-de-podemos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
+            "source_url": "http://elconfidencial.com/espana/2015-04-22/diferencias-estrategicas-entre-iglesias-y-errejon-retrasan-el-programa-de-podemos_764204/"
+        },
+        "eldiario.es/2015/04/el-psoe-su-ubicaci%C3%B3n-y-papel-del-estado": {
+            "title": "El PSOE, su ubicaci\u00f3n y el papel del Estado...",
+            "snippet": "Hace bastante tiempo que la Socialdemocracia debate sobre su funci\u00f3n en las sociedades modernas. Este debate en los pa\u00edses del norte de Europa, donde los niveles de igualdad y derechos atemperan casi todo, no les crea grandes problemas, lo...",
+            "date": "2015-04-20",
+            "categories": "sociedad,socialdemocracia",
+            "tags": "psoe,estado,socialdemocracia,europa",
+            "recuweb_url": "http://es.recuweb.com/socialdemocracia/eldiario.es/2015/04/el-psoe-su-ubicaci%C3%B3n-y-papel-del-estado",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
+            "source_url": "http://eldiario.es/canariasahora/canariasopina/PSOE-ubicacion-papel_6_379422096.html"
+        },
+        "es.euronews.com/2015/04/el-opositor-neves-recuerda-a-su-abuelo-presidente-que-nunca-euronews": {
+            "title": "El opositor Neves recuerda a su abuelo, el presidente que nunca... - euronews...",
+            "snippet": "euronewsEl opositor Neves recuerda a su abuelo, el presidente que nunca...euronewsEn la v\u00edspera del trig\u00e9simo aniversario del fallecimiento de Tancredo Neves, el l\u00edder del Partido de la Social Democracia Brasile\u00f1a (PSDB) public\u00f3 un art\u00edculo en...",
+            "date": "2015-04-20",
+            "categories": "socialdemocracia,democracia",
+            "tags": "art\u00edculo,social,social_democracia,social_democracia_brasile\u00f1a,democracia,democracia_brasile\u00f1a,brasile\u00f1a,l\u00edder,presidente,neves,partido,psdb",
+            "recuweb_url": "http://es.recuweb.com/democracia/es.euronews.com/2015/04/el-opositor-neves-recuerda-a-su-abuelo-presidente-que-nunca-euronews",
+            "resource_url": "http://news.google.es/?hl=es&q=socialdemocracia&output=atom&nord=1",
+            "source_url": "http://es.euronews.com/teletipos/3008811-el-opositor-neves-recuerda-a-su-abuelo-el-presidente-que-nunca-llego-a-gobernar/"
+        },
+        "blogs.publico.es/2015/04/la-centralidad-no-es-el-centro": {
+            "title": "La centralidad no es el centro...",
+            "snippet": "El ex presidente se\u00f1ala que: mientras la socialdemocracia no ponga encima de la mesa un modelo alternativo a los fundamentos b\u00e1sicos de la visi\u00f3n econ\u00f3mica dominante en las \u00faltimas d\u00e9cadas, las pol\u00edticas que expresan el significado de las...",
+            "date": "2015-04-19",
+            "categories": "socialdemocracia,politica",
+            "tags": "mesa,econ\u00f3mica,presidente,centralidad,socialdemocracia,pol\u00edticas",
+            "recuweb_url": "http://es.recuweb.com/politica/blogs.publico.es/2015/04/la-centralidad-no-es-el-centro",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
+            "source_url": "http://blogs.publico.es/pablo-iglesias/1005/la-centralidad-no-es-el-centro/"
         },
         "republica.com.uy/2015/04/izquierda-y-socialdemocracia-en-am%C3%A9rica-latina": {
             "title": "Izquierda y socialdemocracia en Am\u00e9rica Latina...",
             "snippet": "Reconozco que descontextualic\u00e9 la afirmaci\u00f3n de Ra\u00fal Zibechi en el art\u00edculo pasado, pero lo hice porque la frase ten\u00eda fuerza propia. Veamos la cita completa: Si los gobiernos progresistas persisten en su alianza con los emergentes y con...",
             "date": "2015-04-16",
             "categories": "socialdemocracia",
-            "tags": "izquierda,socialdemocracia",
+            "tags": "fuerza,art\u00edculo,izquierda,socialdemocracia",
             "recuweb_url": "http://es.recuweb.com/socialdemocracia/republica.com.uy/2015/04/izquierda-y-socialdemocracia-en-am%C3%A9rica-latina",
             "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
             "source_url": "http://republica.com.uy/izquierda-y-socialdemocracia/511891/"
@@ -45,70 +106,10 @@
             "snippet": "La propuesta econ\u00f3mica encargada a los catedr\u00e1ticos Juan Torres y Vicen\u00e7 Navarro ya pivotaba sobre las tesis de la socialdemocracia, en las que cada vez se sienten m\u00e1s c\u00f3modos los dirigentes de la formaci\u00f3n. El propio secretario general...",
             "date": "2015-04-16",
             "categories": "socialdemocracia",
-            "tags": "secretario,secretario-general,general,formaci\u00f3n,juan,propuesta,propuesta-econ\u00f3mica,econ\u00f3mica,podemos,socialdemocracia",
+            "tags": "propio,secretario,secretario-general,general,formaci\u00f3n,juan,econ\u00f3mica,podemos,socialdemocracia",
             "recuweb_url": "http://es.recuweb.com/socialdemocracia/elconfidencial.com/2015/04/podemos-busca-economistas-n%C3%B3rdicos-para-romper-con-su-imagen-chavista",
             "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
             "source_url": "http://elconfidencial.com/espana/2015-04-16/podemos-busca-economistas-nordicos-para-superar-su-imagen-chavista_760531/"
-        },
-        "eleconomista.es/2015/04/el-exceso-de-democracia-en-suiza-podr%C3%ADa-lastrar-su-econom%C3%ADa": {
-            "title": "El 'exceso'de democracia en Suiza podr\u00eda lastrar su econom\u00eda y asustar a los inversores...",
-            "snippet": "Suiza es un buen ejemplo de democracia directa y econom\u00eda liberal, si alg\u00fan d\u00eda la sociedad espa\u00f1ola decide desmantelar el disparate del estado auton\u00f3mico y la socialdemocracia ya tiene a quien imitar. Es bueno recordar que la socialdemocracia...",
-            "date": "2015-04-15",
-            "categories": "sociedad,democracia,economia,socialdemocracia",
-            "tags": "tiene,podr\u00eda,estado,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/eleconomista.es/2015/04/el-exceso-de-democracia-en-suiza-podr%C3%ADa-lastrar-su-econom%C3%ADa",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://eleconomista.es/economia/noticias/6633656/04/15/Proponen-acabar-con-los-referendum-en-Suiza-porque-lastran-su-economia.html"
-        },
-        "abc.es/2015/04/socialdemocracia-frente-al-auge-de-los-populismos": {
-            "title": "Socialdemocracia frente al auge de los populismos...",
-            "snippet": "Los nuevos tiempos exigen a la socialdemocracia responder, con su propuesta econ\u00f3mica, a las incertidumbres econ\u00f3micas, laborales y sociales que tiene la poblaci\u00f3n El auge de los populismos de distinto signo viene siendo un fen\u00f3meno creciente en...",
-            "date": "2015-04-14",
-            "categories": "socialdemocracia",
-            "tags": "siendo,sociales,tiene,econ\u00f3mica,propuesta,propuesta-econ\u00f3mica,frente,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/abc.es/2015/04/socialdemocracia-frente-al-auge-de-los-populismos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://abc.es/catalunya/20150414/abci-socialdemocracia-frente-auge-populismos-201504140957.html"
-        },
-        "blogs.lavanguardia.com/2015/04/muere-g%C3%BCnter-grass-recuerdo-a-una-d%C3%A9cada-prodigiosa-para-la-socialdemocracia": {
-            "title": "Muere G\u00fcnter Grass. Recuerdo a una d\u00e9cada prodigiosa para la socialdemocracia.",
-            "snippet": "Muere el \u00faltimo intelectual socialdemocrata. La editorial Steidl inform\u00f3 de la muerte de G\u00fcnter Gras a los 87 a\u00f1os. En 2013 apareci\u00f3 la correspondencia, esperada hace tiempo, entre G\u00fcnter Grass y Willy Brandt. ela muerte Hace una a\u00f1os...",
-            "date": "2015-04-12",
-            "categories": "socialdemocracia",
-            "tags": "hace,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/blogs.lavanguardia.com/2015/04/muere-g%C3%BCnter-grass-recuerdo-a-una-d%C3%A9cada-prodigiosa-para-la-socialdemocracia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://blogs.lavanguardia.com/diario-de-futuro/?p=2857"
-        },
-        "elperiodicodearagon.com/2015/04/la-crisis-de-socialdemocracia": {
-            "title": "La crisis de la socialdemocracia...",
-            "snippet": "Esta noticia pertenece a la edici\u00f3n en papel de El Peri\u00f3dico de Arag\u00f3n. Para acceder a los contenidos de la hemeroteca deber\u00e1s ser usuario registrado de El Peri\u00f3dico de Arag\u00f3n y tener una suscripci\u00f3n. Pulsa aqu\u00ed para ver archivo (pdf) En...",
-            "date": "2015-04-11",
-            "categories": "socialdemocracia",
-            "tags": "crisis,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/elperiodicodearagon.com/2015/04/la-crisis-de-socialdemocracia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://elperiodicodearagon.com/noticias/opinion/crisis-socialdemocracia_1018048.html"
-        },
-        "aporrea.org/2015/04/socialdemocracia-es-capitalismo-iii": {
-            "title": "Socialdemocracia es capitalismo (III)...",
-            "snippet": "En 1848 en Francia, Luis Blanc propaga la teor\u00eda socialdem\u00f3crata. En 1863 Ferdinad Lasalle constituye la Asociaci\u00f3n General de los Trabajadores Alemanes sentando un precedente unitario. En el a\u00f1o 1864 Marx y Engels hab\u00edan creado la I...",
-            "date": "2015-04-11",
-            "categories": "capitalismo,socialdemocracia",
-            "tags": "trabajadores,general,socialdemocracia",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/aporrea.org/2015/04/socialdemocracia-es-capitalismo-iii",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://aporrea.org/ideologia/a205940.html"
-        },
-        "republica.com/2015/04/podemos-pedro-s%C3%A1nchez-y-la-socialdemocracia": {
-            "title": "Podemos, Pedro S\u00e1nchez y la socialdemocracia...",
-            "snippet": "El actual discurso pol\u00edtico goza de una enorme ingravidez, se encuentra vac\u00edo, carece de toda profundidad. Quiz\u00e1s se hace m\u00e1s interesante cuando niega o se equivoca. Zapatero, fiel a esa constante suya de practicar el irenismo y que tanto...",
-            "date": "2015-04-09",
-            "categories": "socialdemocracia",
-            "tags": "hace,encuentra,pedro,pedro_s\u00e1nchez,s\u00e1nchez,podemos,socialdemocracia,tanto",
-            "recuweb_url": "http://es.recuweb.com/socialdemocracia/republica.com/2015/04/podemos-pedro-s%C3%A1nchez-y-la-socialdemocracia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=socialdemocracia&format=RSS&cc=es",
-            "source_url": "http://republica.com/contrapunto/2015/04/09/podemos-pedro-sanchez-y-la-socialdemocracia/"
         }
     }
 }

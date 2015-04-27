@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "objetivismo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/objetivismo/",
@@ -10,75 +11,85 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/objetivismo/objetivismo/blogs.json"
     },
     "items": {
+        "revistaenie.clarin.com/2015/04/la-poes%C3%ADa-toma-ciudad": {
+            "title": "La poes\u00eda toma la ciudad...",
+            "snippet": "El espectro est\u00e9tico es tambi\u00e9n muy amplio: desde el lirismo acendrado de Anad\u00f3n, pasando por lo que se llam\u00f3 el neo-romanticismo de Redondo, al objetivismo de Aulicino, y el derrotero personal\u00edsimo de Zabalj\u00e1uregui que en su \u00faltimo libro une...",
+            "date": "2015-04-24",
+            "categories": "objetivismo",
+            "tags": "objetivismo",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/revistaenie.clarin.com/2015/04/la-poes%C3%ADa-toma-ciudad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=objetivismo&format=RSS&cc=es",
+            "source_url": "http://revistaenie.clarin.com/literatura/Festival_de_Poesia-poesia-toma-ciudad_0_1345665445.html"
+        },
+        "elmercurio.com.ec/2015/04/culto-a-la-objetividad-period%C3%ADstica": {
+            "title": "Culto a la objetividad period\u00edstica...",
+            "snippet": "Como sujeto, persona at\u00f3mica y de madura personalidad, me anclo en la corriente subjetivista, por ello impugno el objetivismo period\u00edstico tan decantado en gobiernos conservadores que apuestan por el positivismo a ultranza, y que hoy, apelan...",
+            "date": "2015-04-20",
+            "categories": "personalidad,objetivismo",
+            "tags": "persona,objetivismo",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/elmercurio.com.ec/2015/04/culto-a-la-objetividad-period%C3%ADstica",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=objetivismo&format=RSS&cc=es",
+            "source_url": "http://elmercurio.com.ec/476147-culto-a-la-objetividad-periodistica/"
+        },
+        "la-razon.com/2015/04/galeano-lleg%C3%B3-a-la-mente-y-al-coraz%C3%B3n-de-dos-generaciones": {
+            "title": "Galeano lleg\u00f3 a la mente y al coraz\u00f3n de dos generaciones - La Raz\u00f3n (Bolivia)...",
+            "snippet": "Galeano lleg\u00f3 a la mente y al coraz\u00f3n de dos generacionesLa Raz\u00f3n (Bolivia)Galeano rechaz\u00f3 el falso objetivismo, no solo tom\u00f3 partido sino que convoc\u00f3 a la acci\u00f3n por las causas m\u00e1s nobles como el respeto rec\u00edproco entre pueblos y culturas,...",
+            "date": "2015-04-19",
+            "categories": "objetivismo",
+            "tags": "partido,acci\u00f3n,raz\u00f3n,objetivismo",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/la-razon.com/2015/04/galeano-lleg%C3%B3-a-la-mente-y-al-coraz%C3%B3n-de-dos-generaciones",
+            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
+            "source_url": "http://la-razon.com/suplementos/animal_politico/Galeano-llego-mente-corazon-generaciones_0_2255174522.html"
+        },
+        "infovaticana.com/2015/04/la-verdad-de-donde-viene-infovaticana": {
+            "title": "La verdad, de donde viene - Infovaticana...",
+            "snippet": "InfovaticanaLa verdad, de donde vieneInfovaticanaDebemos reposar con confianza en el s\u00ed que le dice al ser, en el mundo real, la raz\u00f3n especulativa: es el objetivismo intelectual. Pero la inteligencia que es su acto es la medida y el ideal de toda...",
+            "date": "2015-04-16",
+            "categories": "objetivismo",
+            "tags": "raz\u00f3n,verdad,objetivismo",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/infovaticana.com/2015/04/la-verdad-de-donde-viene-infovaticana",
+            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
+            "source_url": "http://infovaticana.com/blog/info-caotica/2015/04/15/la-verdad-de-donde-viene/"
+        },
+        "sdpnoticias.com/2015/04/amparo-colectivo-aristeguionline-y-su-equipo-enga%C3%B1an-usan": {
+            "title": "Amparo colectivo: AristeguiOnLine y su equipo enga\u00f1an y usan a... -...",
+            "snippet": "Amparo colectivo: AristeguiOnLine y su equipo enga\u00f1an y usan a... \u00f3n que es una mentira vil, no solo en materia legal, sino en cuesti\u00f3n de l\u00f3gica, objetivismo y sentido com\u00fan, ya que, el despido de Aristegui fue conocido nacionalmente en el...",
+            "date": "2015-04-13",
+            "categories": "sentido,objetivismo",
+            "tags": "objetivismo",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/sdpnoticias.com/2015/04/amparo-colectivo-aristeguionline-y-su-equipo-enga%C3%B1an-usan",
+            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
+            "source_url": "http://sdpnoticias.com/nacional/2015/04/13/amparo-colectivo-aristeguionline-y-su-equipo-enganan-y-usan-a-sus-seguidores"
+        },
+        "losandes.com.ar/2015/04/viaje-a-lo-profundo-del-lenguaje-los-andes-argentina": {
+            "title": "Viaje a lo profundo del lenguaje - Los Andes (Argentina)...",
+            "snippet": "Viaje a lo profundo del lenguajeLos Andes (Argentina)Pienso en el objetivismo. \u00bfLe\u00edste a Nathalie Sarraute? -No, la verdad que no. -Hay algo de Beckett dando vueltas, \u00bfno? -Hay de todos mis amores, mis lecturas, mis locuras, y Beckett es una de...",
+            "date": "2015-04-11",
+            "categories": "lenguaje,objetivismo",
+            "tags": "verdad,objetivismo,hay",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/losandes.com.ar/2015/04/viaje-a-lo-profundo-del-lenguaje-los-andes-argentina",
+            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
+            "source_url": "http://losandes.com.ar/article/viaje-a-lo-profundo-del-lenguaje"
+        },
+        "cultura.elpais.com/2015/04/rafael-s%C3%A1nchez-ferlosio-la-profundidad-es-un-invento": {
+            "title": "Rafael S\u00e1nchez Ferlosio: La profundidad es un invento...",
+            "snippet": "El Jarama es una invenci\u00f3n de Castellet, que lo puso por las nubes. Llamaba a eso objetivismo P. \u00bfA su padre le gustaba que escribiera? R. Mucho. Cuando escrib\u00ed el Alfanhu\u00ed les le\u00eda cada cap\u00edtulo a mi madre y a mi padre. Estaban...",
+            "date": "2015-04-10",
+            "categories": "objetivismo",
+            "tags": "objetivismo",
+            "recuweb_url": "http://es.recuweb.com/objetivismo/cultura.elpais.com/2015/04/rafael-s%C3%A1nchez-ferlosio-la-profundidad-es-un-invento",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=objetivismo&format=RSS&cc=es",
+            "source_url": "http://cultura.elpais.com/cultura/2015/04/09/babelia/1428589949_744383.html"
+        },
         "lavoz.com.ar/2015/03/daniel-samoilovich-o-el-remedio-contra-la-solemnidad-voz-del-interior": {
             "title": "Daniel Samoilovich, o el remedio contra la solemnidad - La Voz del Interior...",
             "snippet": "La Voz del InteriorDaniel Samoilovich, o el remedio contra la solemnidadLa Voz del InteriorEntonces, aquella etiqueta del objetivismo serv\u00eda para definir otro tipo de l\u00ednea de orientaci\u00f3n. Creo que en algunos poemas de El mago y otros de La...",
             "date": "2015-03-26",
             "categories": "objetivismo",
-            "tags": "algunos,objetivismo",
+            "tags": "objetivismo",
             "recuweb_url": "http://es.recuweb.com/objetivismo/lavoz.com.ar/2015/03/daniel-samoilovich-o-el-remedio-contra-la-solemnidad-voz-del-interior",
             "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
             "source_url": "http://lavoz.com.ar/ciudad-equis/daniel-samoilovich-o-el-remedio-contra-la-solemnidad"
-        },
-        "mas.org.ar/2015/03/llamamiento-por-un-reagrupamiento-internacional-de-los-movimiento-al-socialismo": {
-            "title": "Llamamiento por un reagrupamiento internacional de los... - Movimiento al Socialismo...",
-            "snippet": "Movimiento al SocialismoLlamamiento por un reagrupamiento internacional de los...Movimiento al SocialismoEl objetivismo consist\u00eda en considerar que, aun en ausencia de la clase obrera en el centro del proceso, con sus propios organismos y partidos...",
-            "date": "2015-03-26",
-            "categories": "socialismo,objetivismo",
-            "tags": "movimiento,objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/mas.org.ar/2015/03/llamamiento-por-un-reagrupamiento-internacional-de-los-movimiento-al-socialismo",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://mas.org.ar/?p=4889"
-        },
-        "vavel.com/2015/03/simeone-si-seguimos-as%C3%AD-competiremos-con-los-que-tienen": {
-            "title": "Simeone: \"Si seguimos as\u00ed competiremos con los que tienen un... -...",
-            "snippet": ": \"Si seguimos as\u00ed competiremos con los que tienen un... \u00faltimo Simeone cerr\u00f3 la rueda de prensa con una conclusi\u00f3n llena de objetivismo y alegr\u00eda: \"Estoy contento, seguimos compitiendo muy bien en Liga y por segundo a\u00f1o consecutivo estamos en...",
-            "date": "2015-03-21",
-            "categories": "objetivismo",
-            "tags": "objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/vavel.com/2015/03/simeone-si-seguimos-as%C3%AD-competiremos-con-los-que-tienen",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://vavel.com/es/futbol/atletico-de-madrid/466264-simeone-si-seguimos-asi-competiremos-con-los-que-tienen-un-presupuesto-un-poco-mejor.html"
-        },
-        "eldiario.com.co/2015/03/olympia-de-gouges-guillotinada-por-defender-sus-derechos-el-diario-ot%C3%BAn": {
-            "title": "Olympia de Gouges, guillotinada por defender sus derechos - El Diario de Ot\u00fan...",
-            "snippet": "El Diario de Ot\u00fanOlympia de Gouges, guillotinada por defender sus derechosEl Diario de Ot\u00fan... m\u00e1s tarde, con las luces del amanecer de aquel siglo decimon\u00f3nico que, al tratar vanamente de inventariarlo todo con su objetivismo inocuo y...",
-            "date": "2015-03-08",
-            "categories": "objetivismo",
-            "tags": "derechos,objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/eldiario.com.co/2015/03/olympia-de-gouges-guillotinada-por-defender-sus-derechos-el-diario-ot%C3%BAn",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://eldiario.com.co/seccion/CULTURA/olympia-de-gouges-guillotinada-por-defender-sus-derechos1503.html"
-        },
-        "alainet.org/2015/03/producci%C3%B3n-y-precios-en-la-crisis-capitalista-mundial-alai-am%C3%A9rica-latina": {
-            "title": "Producci\u00f3n y precios en la crisis capitalista mundial - ALAI-Am\u00e9rica Latina en Movimiento...",
-            "snippet": "Producci\u00f3n y precios en la crisis capitalista mundialALAI-Am\u00e9rica Latina en MovimientoNo existe la posibilidad de la imparcialidad o el objetivismo. La riqueza producida es disputada, m\u00e1s a\u00fan en condiciones de l\u00edmites y dificultades para el...",
-            "date": "2015-03-02",
-            "categories": "objetivismo",
-            "tags": "movimiento,objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/alainet.org/2015/03/producci%C3%B3n-y-precios-en-la-crisis-capitalista-mundial-alai-am%C3%A9rica-latina",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://alainet.org/es/active/81208"
-        },
-        "perfil.com/2015/03/poes%C3%ADa-y-censura-administrativa": {
-            "title": "Poes\u00eda y censura administrativa -...",
-            "snippet": "Poes\u00eda y censura al menos fuera un poeta de los 90, uno de esos influenciados por el objetivismo, podr\u00eda haber escrito un poema, de tono lac\u00f3nico y neutro, s\u00f3lo tomando al azar algunos fragmentos de los requerimientos. A saber: primero, un mail...",
-            "date": "2015-03-01",
-            "categories": "objetivismo",
-            "tags": "algunos,menos,objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/perfil.com/2015/03/poes%C3%ADa-y-censura-administrativa",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://perfil.com/columnistas/Poesia-y-censura-administrativa-20150301-0026.html"
-        },
-        "lanacion.com.ar/2015/02/microficciones-at%C3%ADpicas-argentina": {
-            "title": "Microficciones at\u00edpicas - (Argentina)...",
-            "snippet": "(Argentina)Microficciones at\u00edpicas (Argentina)La distancia formal que se impone en estas cinco cartas es ideal para ejercitar el objetivismo, una materia en la que la autora sobresale. En las ant\u00edpodas de la distante impersonalidad de estas...",
-            "date": "2015-02-27",
-            "categories": "objetivismo",
-            "tags": "objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/lanacion.com.ar/2015/02/microficciones-at%C3%ADpicas-argentina",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://lanacion.com.ar/1772009-microficciones-atipicas"
         },
         "esblog.panampost.com/2014/12/nathaniel-branden-1930-2014-el-psic%C3%B3logo-que-populariz%C3%B3-canal": {
             "title": "Nathaniel Branden (1930-2014), el psic\u00f3logo que populariz\u00f3 el... - El Canal...",
@@ -89,16 +100,6 @@
             "recuweb_url": "http://es.recuweb.com/objetivismo/esblog.panampost.com/2014/12/nathaniel-branden-1930-2014-el-psic%C3%B3logo-que-populariz%C3%B3-canal",
             "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
             "source_url": "http://esblog.panampost.com/adam-dubove/2014/12/04/nathaniel-branden-1930-2014-el-psicologo-que-popularizo-el-objetivismo/"
-        },
-        "bitacora.com.uy/2012/07/drogas-y-objetivismo-revolucionario-bit%C3%A1cora": {
-            "title": "Drogas y... \u00bfobjetivismo revolucionario? - Bit\u00e1cora...",
-            "snippet": "Drogas y... \u00bfobjetivismo revolucionario?Bit\u00e1coraComo asiduo lector de Sin Permiso le\u00ed el art\u00edculo de Rolando Astarita Drogas y relativismo cognitivo progre, publicado en esta revista on-line el pasado 22 de abril de 2012, en el que el autor...",
-            "date": "2012-07-25",
-            "categories": "objetivismo",
-            "tags": "objetivismo",
-            "recuweb_url": "http://es.recuweb.com/objetivismo/bitacora.com.uy/2012/07/drogas-y-objetivismo-revolucionario-bit%C3%A1cora",
-            "resource_url": "http://news.google.es/?hl=es&q=objetivismo&output=atom&nord=1",
-            "source_url": "http://bitacora.com.uy/noticia_4533_1.html"
         }
     }
 }

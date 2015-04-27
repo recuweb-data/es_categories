@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "arte-ambiental",
+        "language": "es",
+        "updated": "20150427"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/arte-ambiental/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/blogs.json"
+    },
+    "items": {
+        "elnuevoherald.com/2015/04/anuncian-los-premios-heinz-desde-arte-hasta-pol%C3%ADtica-el-nuevo-herald": {
+            "title": "Anuncian los Premios Heinz desde arte hasta pol\u00edtica - El Nuevo Herald...",
+            "snippet": "Anuncian los Premios Heinz desde arte hasta pol\u00edticaEl Nuevo HeraldFrederica Perera, fundadora y directora del Centro para la Salud Ambiental Infantil de la Universidad de Columbia, en Nueva York, gan\u00f3 en la categor\u00eda ambiental. Su trabajo se...",
+            "date": "2015-04-23",
+            "categories": "salud,politica",
+            "tags": "ambiental,arte,centro",
+            "recuweb_url": "http://es.recuweb.com/politica/elnuevoherald.com/2015/04/anuncian-los-premios-heinz-desde-arte-hasta-pol%C3%ADtica-el-nuevo-herald",
+            "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental%2Barte%2Bambiental&output=atom&nord=1",
+            "source_url": "http://elnuevoherald.com/vivir-mejor/salud/article19297362.html"
+        },
+        "milenio.com/2015/04/donan-arte-para-centro-de-educaci%C3%B3n-ambiental": {
+            "title": "Donan arte para Centro de Educaci\u00f3n Ambiental -...",
+            "snippet": "arte para Centro de Educaci\u00f3n \u00e1s de 30 artistas concedieron algunas de sus obras para la \"Subasta de Arte, yo con Jimulco\", el objetivo es la construcci\u00f3n del lugar en la Reserva Ecol\u00f3gica Municipal Sierra y Ca\u00f1\u00f3n de obras para centro de...",
+            "date": "2015-04-21",
+            "tags": "centro,ambiental,arte",
+            "recuweb_url": "http://es.recuweb.com/milenio.com/2015/04/donan-arte-para-centro-de-educaci%C3%B3n-ambiental",
+            "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental&output=atom&nord=1",
+            "source_url": "http://milenio.com/cultura/Subasta_de_Arte-yo_con_Jimulco-Fundacion_Jimulco-Canon_de_Jimulco_0_503350019.html"
+        }
+    }
+}

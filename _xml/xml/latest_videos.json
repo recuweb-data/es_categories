@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xml",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xml/",
@@ -16,7 +17,7 @@
             "date": "2015-03-21",
             "author_name": "Mi AdminXML",
             "categories": "xml",
-            "tags": "archivos,permite,xml,masiva,descarga,portal,sat",
+            "tags": "archivos,directamente,descargar,xml,gratis,masiva,descarga,portal,sat",
             "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2015/03/descarga-y-administraci%C3%B3n-masiva-de-xml-gratis",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xml%2Bxml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=6HXnGosBUyM&feature=youtube_gdata",
@@ -28,7 +29,7 @@
             "date": "2015-03-02",
             "author_name": "CONTPAQi",
             "categories": "xml",
-            "tags": "masiva,archivos,portal,xml,descarga,cfdi,sat",
+            "tags": "masiva,archivos,portal,contpaqi,contpaqi_xml,xml,descarga,cfdi,sat",
             "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2015/03/facilita-la-b%C3%BAsqueda-y-descarga-de-tus-cfdi-con-contpaqi-xml",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xml%2Bxml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=5cfqocmqGZg&feature=youtube_gdata",
@@ -52,7 +53,7 @@
             "date": "2015-02-23",
             "author_name": "elJulius555",
             "categories": "base-de-datos,xml,sqlite",
-            "tags": "base,datos,xml,xml_cfdi,cfdi,tal,camaradas,dejo,videotutorial,sqlite",
+            "tags": "base,datos,parte,xml,xml_cfdi,cfdi,tal,camaradas,dejo,videotutorial,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/dailymotion.com/2015/02/conexi%C3%B3n-sqlite-cs-2013-express-parte-1",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/xml+xml/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hvgqd_conexion-sqlite-cs-2013-express-parte-1_lifestyle",
@@ -70,17 +71,29 @@
             "source_url": "http://dailymotion.com/video/x2hu1ov_extraer-informacion-de-un-xml-cfdi-c_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hu1ov_extraer-informacion-de-un-xml-cfdi-c_lifestyle"
         },
-        "youtube.com/2015/01/descarga-masiva-de-archivos-xml-desde-el-portal-del-sat": {
-            "title": "Descarga masiva de archivos XML desde el portal del SAT.",
-            "snippet": "Descarga masiva de archivos XML desde el portal del SAT. Software XMLSAT Software que permite la descarga masiva de archivos XML desde el portal del SAT, lectura masiva de archivos XML y exportaci\u00f3n a Excel. Dise\u00f1ado para contadores,...",
+        "youtube.com/2015/01/descarga-masiva-de-archivos-xml-desde-el-portal-del-sat-gratis": {
+            "title": "Descarga masiva de archivos XML desde el portal del SAT. GRATIS!!",
+            "snippet": "Descarga masiva de archivos XML desde el portal del SAT. GRATIS!! Actualizaciones m\u00e1s recientes: caduca el demo, podr\u00e1s seguir descargando facturas electr\u00f3nicas sin limitaciones XML, Multi RFC \u00f3n masiva del XML ante el SAT Se agreg\u00f3... From:...",
             "date": "2015-01-08",
             "author_name": "Invecloud",
-            "categories": "xml",
-            "tags": "masiva,archivos,permite,descarga,portal,xml,sat,excel",
-            "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2015/01/descarga-masiva-de-archivos-xml-desde-el-portal-del-sat",
+            "categories": "electronica,xml",
+            "tags": "masiva,portal,archivos,descarga,xml,sat,gratis",
+            "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2015/01/descarga-masiva-de-archivos-xml-desde-el-portal-del-sat-gratis",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xml%2Bxml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=du3uNsalzsA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/du3uNsalzsA/0.jpg"
+        },
+        "youtube.com/2014/12/demostraci%C3%B3n-de-contpaqi-xml-en-linea": {
+            "title": "Demostraci\u00f3n de CONTPAQi XML en linea...",
+            "snippet": "Demostraci\u00f3n de CONTPAQi XML en linea 2da Parte de la demostraci\u00f3n del sistema CONTPAQi XML en linea. Te ayudara a descargar o cargar directamente al ADD de CONTPAQi Contabilidad los XML. \u00a1Ahorra tiempo! From: Franco Cabanillas Consultores Views:...",
+            "date": "2014-12-10",
+            "author_name": "Franco Cabanillas Consultores",
+            "categories": "contabilidad,xml",
+            "tags": "contpaqi,descargar,directamente,contpaqi_xml,xml,parte",
+            "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2014/12/demostraci%C3%B3n-de-contpaqi-xml-en-linea",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xml%2Bxml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=hNV0zRczujY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/hNV0zRczujY/0.jpg"
         },
         "dailymotion.com/2014/12/motores-cruceros-1": {
             "title": "Motores Cruceros 1...",
@@ -112,23 +125,11 @@
             "date": "2014-12-03",
             "author_name": "IMEFI TV",
             "categories": "xml",
-            "tags": "archivos,xml,excel",
+            "tags": "archivos,xml",
             "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2014/12/creaci%C3%B3n-de-archivos-xml-en-excel-complementos-adicionales-imefi-tv",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xml%2Bxml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=4qxgGxCrRmA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/4qxgGxCrRmA/0.jpg"
-        },
-        "youtube.com/2014/11/generar-xml-en-excel-para-contabilidad-electronica": {
-            "title": "Generar XML en Excel para Contabilidad Electronica...",
-            "snippet": "Generar XML en Excel para Contabilidad Electronica Sistema Contable en excel genera XML para contabilidad electr\u00f3nica. From: Nolberto Lopez Views: 3648 1 ratings Time: 04:04 More in Education...",
-            "date": "2014-11-25",
-            "author_name": "Nolberto Lopez",
-            "categories": "contabilidad,electronica,xml",
-            "tags": "excel,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/youtube.com/2014/11/generar-xml-en-excel-para-contabilidad-electronica",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xml%2Bxml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=lnJxDiGzCaw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/lnJxDiGzCaw/0.jpg"
         }
     }
 }

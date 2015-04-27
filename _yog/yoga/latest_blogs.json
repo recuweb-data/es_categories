@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yoga",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/yoga/",
@@ -10,13 +11,101 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
     },
     "items": {
+        "kripaela-web.blogspot.com/2015/04/yoga-en-zona-oeste": {
+            "title": "Yoga en Zona Oeste...",
+            "snippet": "Centro de Artes Orientales Kripaela con Yoga Kripa y mucho mas para el 2015 Como todo el a\u00f1o aun en vacaciones, el Centro Kripaela, a trav\u00e9s de su Maestra en Artes Orientales y Monje Budista Kripa, brinda un sistema de Yoga que tiene sus or\u00edgenes...",
+            "date": "2015-04-22",
+            "author_name": "Kripa",
+            "categories": "yoga",
+            "tags": "tiene,sistema,zona,yoga,centro",
+            "recuweb_url": "http://es.recuweb.com/yoga/kripaela-web.blogspot.com/2015/04/yoga-en-zona-oeste",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
+            "source_url": "http://kripaela-web.blogspot.com/2015/04/yoga-en-ituzaingo.html"
+        },
+        "greenvivant.com/2015/04/yoga-y-sobrepeso-greenvivant": {
+            "title": "Yoga y Sobrepeso GreenVivant...",
+            "snippet": "En los gimnasios y otras t\u00e9cnicas de entrenamiento f\u00edsico se trabaja sobre m\u00fasculos, columna vertebral y articulaciones. Pero en yoga, adem\u00e1s de hacer esto, vamos m\u00e1s profundo. Trabajando las gl\u00e1ndulas importantes del...",
+            "date": "2015-04-21",
+            "author_name": "Monte",
+            "categories": "yoga",
+            "tags": "entrenamiento,yoga,hacer",
+            "recuweb_url": "http://es.recuweb.com/yoga/greenvivant.com/2015/04/yoga-y-sobrepeso-greenvivant",
+            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://greenvivant.com/2015/04/yoga-y-sobrepeso/"
+        },
+        "clasesdeyogalugo.blogspot.com/2015/04/profesores-de-karmah-lugo": {
+            "title": "PROFESORES DE KARMAH LUGO...",
+            "snippet": "... Quieres conocer a los profesores de KARMAH Lugo?... Te gustar\u00eda iniciarte en el yoga?... Has practicado yoga y quieres continuar con la modalidad que m\u00e1s te gusta? En KARMAH TE OFRECEMOS 4 modalidades: 1 Hatha yoga (yoga cl\u00e1sico) 2 Kundalini...",
+            "date": "2015-04-21",
+            "author_name": "Jasanjot Singh",
+            "categories": "yoga",
+            "tags": "yoga",
+            "recuweb_url": "http://es.recuweb.com/yoga/clasesdeyogalugo.blogspot.com/2015/04/profesores-de-karmah-lugo",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
+            "source_url": "http://clasesdeyogalugo.blogspot.com/2015/04/profesores-de-karmah-lugo.html"
+        },
+        "saludnatural.biomanantial.com/2015/04/c%C3%B3mo-realizar-correctamente-asanas-de-yoga": {
+            "title": "\u00bfC\u00f3mo realizar correctamente Asanas de Yoga?",
+            "snippet": "Hola a tods! Las asanas son uno de los pilares del yoga, realizarlas correctamente es cuesti\u00f3n de pr\u00e1ctica y de un buen profesor. Y es que como en cualqui.",
+            "date": "2015-04-19",
+            "author_name": "rachel",
+            "categories": "yoga",
+            "tags": "buen,profesor,correctamente,asanas,son,c\u00f3mo,yoga,pr\u00e1ctica",
+            "recuweb_url": "http://es.recuweb.com/yoga/saludnatural.biomanantial.com/2015/04/c%C3%B3mo-realizar-correctamente-asanas-de-yoga",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://saludnatural.biomanantial.com/como-realizar-correctamente-asanas/"
+        },
+        "trendenciasbelleza.com/2015/04/especial-novias-ejercicios-relajantes-de-yoga-trendencias-belleza": {
+            "title": "Especial novias: ejercicios relajantes de Yoga - Trendencias Belleza...",
+            "snippet": "Tres rutinas de Yoga diferentes para relajarnos de cara al d\u00eda de la boda. Estiramientos, flexibilidad y relajaci\u00f3n para liberarnos del...",
+            "date": "2015-04-17",
+            "author_name": "Lady Fitness",
+            "categories": "yoga",
+            "tags": "relajaci\u00f3n,diferentes,ejercicios,yoga,estiramientos",
+            "recuweb_url": "http://es.recuweb.com/yoga/trendenciasbelleza.com/2015/04/especial-novias-ejercicios-relajantes-de-yoga-trendencias-belleza",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://trendenciasbelleza.com/ejercicio/especial-novias-ejercicios-relajantes-de-yoga"
+        },
+        "museodeantioquia.co/2015/04/laboratorio-de-yoga-cuerpo-mente-esp%C3%ADritu-museo-antioquia": {
+            "title": "Laboratorio de Yoga: cuerpo, mente, esp\u00edritu - Museo de Antioquia...",
+            "snippet": "En el Museo de Antioquia se comenz\u00f3 el Laboratorio de Yoga. El inicio del pr\u00f3ximo laboratorio ser\u00e1 el 14 de mayo, para las personas interesadas que no alcanzaron a inscribirse este mes. Docente: Margarita Carvajal M.",
+            "date": "2015-04-17",
+            "author_name": "Catalina Rodas",
+            "categories": "yoga",
+            "tags": "personas,mayo,yoga",
+            "recuweb_url": "http://es.recuweb.com/yoga/museodeantioquia.co/2015/04/laboratorio-de-yoga-cuerpo-mente-esp%C3%ADritu-museo-antioquia",
+            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://museodeantioquia.co/noticia/laboratorio-de-yoga-cuerpo-mente-espiritu/"
+        },
+        "mysteryplanet.com.ar/2015/04/inti-yoga-en-busca-del-conocimiento-perdido": {
+            "title": "INTI YOGA: En busca del conocimiento perdido...",
+            "snippet": "La correspondencia sublime entre el Inti Yoga y los universalmente ya conocidos no reside especialmente en la pr\u00e1ctica; lo hace sobre algo m\u00e1s importante: su filosof\u00eda. Los principios de Metempsicosis, Reencarnaci\u00f3n,...",
+            "date": "2015-04-15",
+            "author_name": "Arkantos",
+            "categories": "conocimiento,yoga",
+            "tags": "hace,especialmente,busca,yoga,pr\u00e1ctica",
+            "recuweb_url": "http://es.recuweb.com/yoga/mysteryplanet.com.ar/2015/04/inti-yoga-en-busca-del-conocimiento-perdido",
+            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mysteryplanet.com.ar/site/inti-yoga-en-busca-del-conocimiento-perdido/"
+        },
+        "medicablogs.diariomedico.com/2015/04/yoga-para-tu-salud-archivo-del-blog-el-y-la-artritis": {
+            "title": "Yoga para tu salud Archivo del Blog EL YOGA Y LA ARTRITIS...",
+            "snippet": "Si tiene artritis reumatoide (AR), el yoga puede ser especialmente bueno para usted. Y, las investigaciones sobre la artritis han logrado desenlaces variados, de tal modo que aun no se sabe si el yoga podr\u00eda resultar \u00fatil para...",
+            "date": "2015-04-14",
+            "author_name": "yogaparaembarazadas",
+            "categories": "yoga,salud",
+            "tags": "especialmente,tiene,yoga,puede",
+            "recuweb_url": "http://es.recuweb.com/salud/medicablogs.diariomedico.com/2015/04/yoga-para-tu-salud-archivo-del-blog-el-y-la-artritis",
+            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://medicablogs.diariomedico.com/yogaparatusalud/2015/04/14/el-yoga-y-la-artritis/"
+        },
         "yogacasa.blogspot.com/2015/04/c%C3%B3mo-hacer-correctamente-las-asanas": {
             "title": "C\u00f3mo hacer correctamente las asanas...",
             "snippet": "Las asanas, o posturas de yoga, a pesar de ser similares aparentemente a los ejercicios o estiramientos, son sustancialmente diferentes. Hay varias fases en su aprendizaje y perfeccionamiento, como ahora veremos. Definici\u00f3n de asana: Una postura...",
             "date": "2015-04-14",
             "author_name": "(Aimar Roll\u00e1n)",
             "categories": "yoga",
-            "tags": "ahora,son,diferentes,ejercicios,c\u00f3mo,hacer,uras,yoga,hay,definici\u00f3n,ura",
+            "tags": "asanas,son,diferentes,ejercicios,estiramientos,uras,correctamente,c\u00f3mo,hacer,yoga",
             "recuweb_url": "http://es.recuweb.com/yoga/yogacasa.blogspot.com/2015/04/c%C3%B3mo-hacer-correctamente-las-asanas",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
             "source_url": "http://yogacasa.blogspot.com/2015/04/como-hacer-asanas.html"
@@ -27,97 +116,10 @@
             "date": "2015-04-06",
             "author_name": "J. Hundred",
             "categories": "yoga",
-            "tags": "fin,mal,ver,son,hacer,yoga",
+            "tags": "dos,son,hacer,yoga",
             "recuweb_url": "http://es.recuweb.com/yoga/juanhundred.blogspot.com/2015/04/leo-en-la-terraza",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
             "source_url": "http://juanhundred.blogspot.com/2015/04/leo-en-la-terraza.html"
-        },
-        "libreyoga.blogspot.com/2015/04/yoga-&-meditaci%C3%B3n-horario-activo-enero-junio-2015": {
-            "title": "Yoga & Meditaci\u00f3n Horario Activo -Enero/Junio- 2015...",
-            "snippet": "HATHA YOGA YOGA DIN\u00c1MICO YIN YOGA YOGA RESTAURATIVO YOGA KURUNTA MEDITACI\u00d3N/MINDFULNESS -DURACI\u00d3N DE CADA PR\u00c1CTICA: 90 MINUTOS. -ABONO POR CLASE SUELTA: 6 -ABONO POR MENSUALIDAD (DON DERECHO ILIMITADO DE ASISTENCIA A TODAS LAS HORAS O CLAS ES...",
-            "date": "2015-04-06",
-            "categories": "yoga",
-            "tags": "clase,pr\u00e1ctica,yoga,din\u00e1mico,minutos",
-            "recuweb_url": "http://es.recuweb.com/yoga/libreyoga.blogspot.com/2015/04/yoga-&-meditaci%C3%B3n-horario-activo-enero-junio-2015",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
-            "source_url": "http://libreyoga.blogspot.com/2015/04/horario-activo-enerojunio-2015.html"
-        },
-        "caminodelyogalibre.blogspot.com/2015/04/estilos-diferentes-de-yoga": {
-            "title": "ESTILOS DIFERENTES DE YOGA...",
-            "snippet": "Los diferentes estilos de yoga: Originario de la India antigua, disciplinas y pr\u00e1cticas de yoga tienen como objetivo ayudar a las personas a experimentar su verdadera naturaleza a trav\u00e9s de la paz permanente de la mente. Se ha convertido en una...",
-            "date": "2015-04-05",
-            "author_name": "Jose Gelices",
-            "categories": "naturaleza,yoga",
-            "tags": "mente,diferentes,yoga,personas",
-            "recuweb_url": "http://es.recuweb.com/yoga/caminodelyogalibre.blogspot.com/2015/04/estilos-diferentes-de-yoga",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
-            "source_url": "http://caminodelyogalibre.blogspot.com/2015/04/estilos-diferentes-de-yoga.html"
-        },
-        "yogaconciencia.blogspot.com/2015/04/las-doctrinas-yoguicas": {
-            "title": "Las doctrinas yoguicas...",
-            "snippet": "Libro: YOGA INMORTALIDAD Y LIBERTAD de Mircea Eliade LAS DOCTRINAS YOGAS PUNTO DE PARTIDA Cuatro conceptos fundamentales y solidarios, cuatro ideas-fuerza, nos introducen de inmediato en el coraz\u00f3n del espiritualismo indio: el karman, la maya, el...",
-            "date": "2015-04-04",
-            "author_name": "Patricia Aballay",
-            "categories": "yoga",
-            "tags": "coraz\u00f3n,yoga",
-            "recuweb_url": "http://es.recuweb.com/yoga/yogaconciencia.blogspot.com/2015/04/las-doctrinas-yoguicas",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
-            "source_url": "http://yogaconciencia.blogspot.com/2015/04/las-doctrinas-yoguicas.html"
-        },
-        "lacajadepandora.eu/2014/12/curso-online-de-iniciaci%C3%B3n-al-yoga-inmaculada-mart%C3%ADnez-la-caja": {
-            "title": "Curso online de Iniciaci\u00f3n al YOGA - Inmaculada Mart\u00ednez La Caja...",
-            "snippet": "El yoga es una ciencia que ayuda a equilibrar nuestras vidas, da vitalidad y salud al cuerpo aunque su prop\u00f3sito es alcanzar el equilibrio interior. Con este programa aprender\u00e1s a alinear y equilibrar los cuerpos f\u00edsico,...",
-            "date": "2014-12-19",
-            "author_name": "cajadepandora",
-            "categories": "salud,ciencia,yoga",
-            "tags": "cuerpo,salud,aunque,equilibrio,equilibrar,online,yoga",
-            "recuweb_url": "http://es.recuweb.com/yoga/lacajadepandora.eu/2014/12/curso-online-de-iniciaci%C3%B3n-al-yoga-inmaculada-mart%C3%ADnez-la-caja",
-            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lacajadepandora.eu/2014/12/curso-online-de-iniciacion-al-yoga-inmaculada-martinez/"
-        },
-        "elrellano.com/2014/12/yoga-y-dron-videos-de-humor-variado": {
-            "title": "Yoga y dron - videos de humor - humor variado...",
-            "snippet": "Mientras vosotros haceis yoga, yo os grabo con el dron. Ver\u00e1s que tomas m\u00e1s guapas, ver\u00e1s. (Gracias Mausk)...",
-            "date": "2014-12-17",
-            "author_name": "desconocido",
-            "categories": "humor,yoga",
-            "tags": "yoga",
-            "recuweb_url": "http://es.recuweb.com/yoga/elrellano.com/2014/12/yoga-y-dron-videos-de-humor-variado",
-            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elrellano.com/videos_online/9508/yoga-y-dron.html"
-        },
-        "muycomputer.com/2014/12/lenovo-yoga-3-m%C3%A1s-peque%C3%B1o-y-barato-muycomputer": {
-            "title": "Lenovo Yoga 3, m\u00e1s peque\u00f1o y barato MuyComputer...",
-            "snippet": "Lenovo prepara el lanzamiento de un Yoga 3 que rebaja el tama\u00f1o a las 11 pulgadas y se comercializar\u00e1 a un precio mucho m\u00e1s contenido.",
-            "date": "2014-12-12",
-            "author_name": "Juan Ranchal",
-            "categories": "yoga",
-            "tags": "lenovo,yoga",
-            "recuweb_url": "http://es.recuweb.com/yoga/muycomputer.com/2014/12/lenovo-yoga-3-m%C3%A1s-peque%C3%B1o-y-barato-muycomputer",
-            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://muycomputer.com/2014/12/12/lenovo-yoga-3-precio"
-        },
-        "arturogoga.com/2014/12/lenovo-presenta-la-yoga-tablet-2-pro-en-lima": {
-            "title": "Lenovo presenta la Yoga Tablet 2 Pro en Lima; una Tablet de 13.3...",
-            "snippet": "Ya hemos hablado de c\u00f3mo las tablets est\u00e1n condenadas a desaparecer, si es que no evolucionan a algo m\u00e1s \u00fatil. Esto, debido a la popularizaci\u00f3n de las Phablets y el crecimiento, en general de los tel\u00e9fonos, como...",
-            "date": "2014-12-12",
-            "author_name": "Arturo Goga",
-            "categories": "yoga",
-            "tags": "c\u00f3mo,tablet,yoga,lenovo,pro",
-            "recuweb_url": "http://es.recuweb.com/yoga/arturogoga.com/2014/12/lenovo-presenta-la-yoga-tablet-2-pro-en-lima",
-            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arturogoga.com/2014/12/11/lenovo-presenta-la-yoga-tablet-2-pro-en-lima-una-tablet-de-13-3-con-proyector-incluido/"
-        },
-        "elnuevodiario.com.ni/2014/12/superando-los-prejuicios-contra-el-yoga-nuevo-diario": {
-            "title": "Superando los prejuicios contra el yoga El Nuevo Diario...",
-            "snippet": "Superando los prejuicios contra el yoga. Granada. En Nicaragua existe poca pr\u00e1ctica de esta disciplina, aunque un grupo de personas la promueve y organiz\u00f3 un encuentro centroamericano...",
-            "date": "2014-12-10",
-            "author_name": "desconocido",
-            "categories": "prejuicio,yoga",
-            "tags": "aunque,pr\u00e1ctica,nuevo,diario,yoga,personas",
-            "recuweb_url": "http://es.recuweb.com/yoga/elnuevodiario.com.ni/2014/12/superando-los-prejuicios-contra-el-yoga-nuevo-diario",
-            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elnuevodiario.com.ni/nacionales/336822-superando-prejuicios-contra-yoga"
         }
     }
 }

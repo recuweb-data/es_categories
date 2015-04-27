@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xhtml",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xhtml/",
@@ -16,7 +17,7 @@
             "date": "2013-07-05",
             "author_name": "iDESWEB UA",
             "categories": "lenguaje,desarrollo-web,html,xhtml",
-            "tags": "web,desarrollo,html,xhtml,curso",
+            "tags": "lenguaje,web,desarrollo,html,xhtml,curso",
             "recuweb_url": "http://es.recuweb.com/xhtml/youtube.com/2013/07/cu%C3%A1l-es-el-mejor-html-xhtml-html5",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=vay6y6exqfg&feature=youtube_gdata",
@@ -40,7 +41,7 @@
             "date": "2012-08-29",
             "author_name": "Daimonikos",
             "categories": "xhtml,css,html",
-            "tags": "curso,son,p\u00e1gina,web,xhtml,css,html",
+            "tags": "curso,son,web,xhtml,css,html",
             "recuweb_url": "http://es.recuweb.com/html/youtube.com/2012/08/creaci%C3%B3n-de-una-p%C3%A1gina-web-en-xhtml-y-css-parte-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=AxaQiikMOHk&feature=youtube_gdata",
@@ -64,23 +65,23 @@
             "date": "2011-12-18",
             "author_name": "CasaMadrugada",
             "categories": "google,facebook,html,xhtml,css",
-            "tags": "google,google_facebook,facebook,canal,subscribete,html,xhtml,tutorial,tutorial_xhtml,css,casamadrugada,education",
+            "tags": "google,google_facebook,facebook,canal,subscribete,html,xhtml,tutorial,tutorial_xhtml,css,introduccion,casamadrugada,education",
             "recuweb_url": "http://es.recuweb.com/css/youtube.com/2011/12/tutorial-xhtml-y-css-1-introduccion-e-instalacion-notepad",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=qYlpu5wpSak&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/qYlpu5wpSak/0.jpg"
         },
-        "youtube.com/2011/10/tutorial-de-html-&-css-en-espa%C3%B1ol-06-las-estructuras-xhtml": {
-            "title": "Tutorial de HTML & CSS en Espa\u00f1ol 06 - Las estructuras XHTML...",
-            "snippet": "Tutorial de HTML & CSS en Espa\u00f1ol 06 - Las estructuras XHTML Tutorial de HTML & CSS en Espa\u00f1ol 06 - Las estructuras XHTML Agradecimientos a Ales Martil Ibarzabal y a VideoBrain. From: TutorialesEnozke Views: 1614 14 ratings Time: 04:32 More in...",
-            "date": "2011-10-16",
-            "author_name": "TutorialesEnozke",
-            "categories": "html,css,xhtml",
-            "tags": "tutorial,html,css,xhtml",
-            "recuweb_url": "http://es.recuweb.com/xhtml/youtube.com/2011/10/tutorial-de-html-&-css-en-espa%C3%B1ol-06-las-estructuras-xhtml",
+        "youtube.com/2011/08/introduccion-al-xhtml-001": {
+            "title": "Introduccion al XHTML (001)...",
+            "snippet": "Introduccion al XHTML (001) Introduccion al lenguaje xhtml, conociendo lo m\u00e1s basico e ir nivelando conocimientos. From: Guido Mendoza Views: 133 3 ratings Time: 11:48 More in Science & Technology...",
+            "date": "2011-08-28",
+            "author_name": "Guido Mendoza",
+            "categories": "conocimiento,lenguaje,xhtml",
+            "tags": "lenguaje,xhtml,introduccion",
+            "recuweb_url": "http://es.recuweb.com/xhtml/youtube.com/2011/08/introduccion-al-xhtml-001",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=RlXICYQskhM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/RlXICYQskhM/0.jpg"
+            "source_url": "http://youtube.com/watch?v=m6sywTjueSA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/m6sywTjueSA/0.jpg"
         },
         "youtube.com/2011/05/46-curso-xhtml-javascript-gestores-de-eventos": {
             "title": "46.- Curso XHTML. JavaScript. Gestores de Eventos...",
@@ -100,15 +101,27 @@
             "date": "2011-05-01",
             "author_name": "Jes\u00fas Conde",
             "categories": "xhtml,javascript",
-            "tags": "nuevo,curso,n\u00famero,curso_xhtml,xhtml,javascript,empezamos",
+            "tags": "nuevo,bloque,seguimos,curso,videotutorial,videotutorial-n\u00famero,n\u00famero,curso_xhtml,xhtml,javascript,strings,empezamos,arrays",
             "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2011/05/35-curso-xhtml-javascript-trabajo-con-strings",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=fALddTxboAQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/fALddTxboAQ/0.jpg"
         },
+        "youtube.com/2011/05/xhtml-uso-de-arrays-en-javascript": {
+            "title": "XHTML. Uso de Arrays en JavaScript...",
+            "snippet": "XHTML. Uso de Arrays en JavaScript VideoTutorial n\u00famero 36 del curso de XHTML en el que seguimos con el bloque dedicado a Strings y Arrays en JavaScript. Usar Arrays Num\u00e9ricos; Crear un Array num\u00e9rico; Tama\u00f1o de un Array;... From: Jes\u00fas Conde...",
+            "date": "2011-05-01",
+            "author_name": "Jes\u00fas Conde",
+            "categories": "xhtml,javascript",
+            "tags": "jes\u00fas,jes\u00fas_conde,conde,seguimos,bloque,curso,videotutorial,videotutorial-n\u00famero,n\u00famero,xhtml,arrays,javascript,strings,crear",
+            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2011/05/xhtml-uso-de-arrays-en-javascript",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=YwRo0ltR6Mc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/YwRo0ltR6Mc/0.jpg"
+        },
         "youtube.com/2011/04/avanzado-xhtml-entender": {
             "title": "Avanzado XHTML Entender XHTML...",
-            "snippet": "Avanzado XHTML Entender XHTML Descarga Cursos completos con c\u00f3digos en Descargar videotutoriales sueltos en Empezamos un nuevo curso en profundidad. Se trata de... From: Jes\u00fas Conde Views: 33778 240 ratings Time: 52:47 More in Education...",
+            "snippet": "Avanzado XHTML Entender XHTML Descarga Cursos completos con c\u00f3digos en Descargar videotutoriales sueltos en Empezamos un nuevo curso en profundidad. Se trata de... From: Jes\u00fas Conde Views: 33897 240 ratings Time: 52:47 More in Education...",
             "date": "2011-04-30",
             "author_name": "Jes\u00fas Conde",
             "categories": "xhtml",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=G4plcpG9vPQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/G4plcpG9vPQ/0.jpg"
-        },
-        "youtube.com/2011/04/xhtml-comenzar-una-p%C3%A1gina-web": {
-            "title": "XHTML Comenzar una p\u00e1gina Web...",
-            "snippet": "XHTML Comenzar una p\u00e1gina Web Video Tutorial n\u00famero 3 del Curso de XHTML. Comenzar una p\u00e1gina Web: Normas b\u00e1sicas para el c\u00f3digo HTML; Crear la estructura b\u00e1sica; Declarar un Tipo de Documento; Especificar un T\u00edtulo... From: Jes\u00fas Conde...",
-            "date": "2011-04-30",
-            "author_name": "Jes\u00fas Conde",
-            "categories": "xhtml,html",
-            "tags": "jes\u00fas,jes\u00fas_conde,conde,tutorial,n\u00famero,p\u00e1gina,xhtml,web,curso,html,crear",
-            "recuweb_url": "http://es.recuweb.com/html/youtube.com/2011/04/xhtml-comenzar-una-p%C3%A1gina-web",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=y0LIVQxises&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/y0LIVQxises/0.jpg"
         }
     }
 }

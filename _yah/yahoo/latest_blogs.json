@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yahoo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/yahoo/",
@@ -10,27 +11,71 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/yahoo/yahoo/blogs.json"
     },
     "items": {
+        "iprofesional.com/2015/04/yahoo-decepciona-con-beneficios-e-ingresos-peores-de-lo-esperado": {
+            "title": "Yahoo decepciona con beneficios e ingresos peores de lo esperado...",
+            "snippet": "Yahoo decepcion\u00f3 a los mercados con un anuncio de beneficios e ingresos que se situaron por debajo de las expectativas de los mercados. Estos resultados negativos se enmarcan en momentos que la compa\u00f1\u00eda de...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "yahoo",
+            "tags": "resultados,momentos,compa\u00f1\u00eda,anuncio,beneficios,debajo,decepciona,ingresos,esperado,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/iprofesional.com/2015/04/yahoo-decepciona-con-beneficios-e-ingresos-peores-de-lo-esperado",
+            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://iprofesional.com/notas/210357-Yahoo-decepciona-con-beneficios-e-ingresos-peores-de-lo-esperado"
+        },
+        "elblogsalmon.com/2015/04/yahoo-y-su-continuo-intento-de-supervivencia-los-inversores": {
+            "title": "Yahoo y su continuo intento de supervivencia: \u00bfLos inversores...",
+            "snippet": "\"Yahoo est\u00e1 en medio de una transformaci\u00f3n que durar\u00e1 varios a\u00f1os\". Son las palabras de la consejera delegada de Yahoo, Marissa Mayer, durante la comparecencia tras sus decepcionantes resultados trimestrales.",
+            "date": "2015-04-22",
+            "author_name": "Jes\u00fas Mart\u00ednez",
+            "categories": "yahoo",
+            "tags": "resultados,yahoo,varios",
+            "recuweb_url": "http://es.recuweb.com/yahoo/elblogsalmon.com/2015/04/yahoo-y-su-continuo-intento-de-supervivencia-los-inversores",
+            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elblogsalmon.com/empresas/yahoo-y-su-intento-plurianual0-de-supervivencia-los-inversores-daran-mas-tiempo"
+        },
+        "carmona.mx/2015/04/yahoo-podr%C3%ADa-lanzar-una-aplicaci%C3%B3n-para-smartphones-con-la-que-combatir": {
+            "title": "Yahoo podr\u00eda lanzar una aplicaci\u00f3n para smartphones con la que combatir a Google Now...",
+            "snippet": "Aunque a d\u00eda de hoy pocos buscadores pueden competir contra el gigante Google, hace unos a\u00f1os, otros buscadores como por ejemplo Yahoo eran muy utilizados. Poco a []...",
+            "date": "2015-04-22",
+            "author_name": "pacosite",
+            "categories": "yahoo,google",
+            "tags": "d\u00eda,competir,podr\u00eda,yahoo,google",
+            "recuweb_url": "http://es.recuweb.com/google/carmona.mx/2015/04/yahoo-podr%C3%ADa-lanzar-una-aplicaci%C3%B3n-para-smartphones-con-la-que-combatir",
+            "resource_url": "http://es.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
+            "source_url": "http://carmona.mx/2015/04/22/yahoo-podria-lanzar-una-aplicacion-para-smartphones-con-la-que-combatir-a-google-now/"
+        },
+        "siliconnews.es/2015/04/yahoo-decepciona-en-sus-resultados-del-q1-de-2015-silicon-news": {
+            "title": "Yahoo decepciona en sus resultados del Q1 de 2015 - Silicon News...",
+            "snippet": "Los resultados financieros de Yahoo para el primer trimestre han estado por debajo de lo esperado, ya que sus ingresos y sus beneficios han sufrido un retroceso.",
+            "date": "2015-04-21",
+            "author_name": "Jaime Domenech",
+            "categories": "yahoo",
+            "tags": "ingresos,beneficios,primer,primer-trimestre,trimestre,estado,debajo,esperado,resultados,silicon,silicon_news,decepciona,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/siliconnews.es/2015/04/yahoo-decepciona-en-sus-resultados-del-q1-de-2015-silicon-news",
+            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://siliconnews.es/2015/04/21/yahoo-decepciona-en-sus-resultados-del-q1-de-2015/"
+        },
+        "cnnexpansion.com/2015/04/las-ventas-de-yahoo-caen-4%-en-el-primer-trimestre-cnn": {
+            "title": "Las ventas de Yahoo caen 4% en el primer trimestre - CNN Expansi\u00f3n...",
+            "snippet": "NUEVA YORK (Reuters) Yahoo report\u00f3 este martes ingresos en el primer trimestre menores a los previstos por los analistas, en momentos que la compa\u00f1\u00eda de Internet intenta reforzar su negocio clave de publicidad.",
+            "date": "2015-04-21",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "yahoo,internet",
+            "tags": "momentos,compa\u00f1\u00eda,ingresos,primer,primer-trimestre,trimestre,yahoo,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/cnnexpansion.com/2015/04/las-ventas-de-yahoo-caen-4%-en-el-primer-trimestre-cnn",
+            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/negocios/2015/04/21/ingresos-de-yahoo-caen-4-en-primer-trimestre"
+        },
         "redsocial56.com/2015/04/pronto-todos-los-anuncios-de-google-productos-ser%C3%A1n-cifrados-y-yahoo": {
             "title": "Pronto Todos los anuncios de Google productos ser\u00e1n cifrados y Yahoo contin\u00faa alentando Ad Socios...",
             "snippet": "Tanto Google y Yahoo est\u00e1n empujando por delante el movimiento \"HTTPS Everywhere\" con el anuncio de los planes (y una dedicaci\u00f3n a la creaci\u00f3n) asegurar los anuncios en...",
             "date": "2015-04-21",
             "author_name": "redsocial56",
             "categories": "google,yahoo",
-            "tags": "anuncios,anuncio,google,yahoo,socios",
+            "tags": "anuncio,google,yahoo",
             "recuweb_url": "http://es.recuweb.com/yahoo/redsocial56.com/2015/04/pronto-todos-los-anuncios-de-google-productos-ser%C3%A1n-cifrados-y-yahoo",
-            "resource_url": "http://es.search.wordpress.com/?q=yahoo&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
             "source_url": "http://redsocial56.com/2015/04/20/pronto-todos-los-anuncios-de-google-productos-seran-cifrados-y-yahoo-continua-alentando-ad-socios-para-ir-a-ssl/"
-        },
-        "consejosinternet.wordpress.com/2015/04/las-acquihires-de-yahoo-o-c%C3%B3mo-comprar-el-talento-los-competidores": {
-            "title": "Las acquihires de Yahoo o c\u00f3mo comprar el talento de los competidores...",
-            "snippet": "En los \u00faltimos tiempos y sobre todo a ra\u00edz de la incorporaci\u00f3n de Marissa Mayer como CEO de Yahoo, la compa\u00f1\u00eda ha crecido notablemente en captaci\u00f3n de talento...",
-            "date": "2015-04-20",
-            "author_name": "sergiotorrellanoinfo",
-            "categories": "yahoo",
-            "tags": "c\u00f3mo,yahoo,compa\u00f1\u00eda",
-            "recuweb_url": "http://es.recuweb.com/yahoo/consejosinternet.wordpress.com/2015/04/las-acquihires-de-yahoo-o-c%C3%B3mo-comprar-el-talento-los-competidores",
-            "resource_url": "http://es.search.wordpress.com/?q=yahoo&f=feed&page=1",
-            "source_url": "http://consejosinternet.wordpress.com/2015/04/20/las-acquihires-de-yahoo-o-como-comprar-el-talento-de-los-competidores/"
         },
         "entuespaciotv.wordpress.com/2015/04/yahoo-renov%C3%B3-acuerdo-con-microsoft-seguir%C3%A1-usando-bing": {
             "title": "Yahoo renov\u00f3 acuerdo con Microsoft, seguir\u00e1 usando Bing...",
@@ -38,87 +83,43 @@
             "date": "2015-04-18",
             "author_name": "entuespaciotv",
             "categories": "yahoo,bing",
-            "tags": "buscador,acuerdo,yahoo,microsoft,bing",
+            "tags": "seguir\u00e1,yahoo,microsoft,bing",
             "recuweb_url": "http://es.recuweb.com/bing/entuespaciotv.wordpress.com/2015/04/yahoo-renov%C3%B3-acuerdo-con-microsoft-seguir%C3%A1-usando-bing",
-            "resource_url": "http://es.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=yahoo&f=feed&page=1",
             "source_url": "http://entuespaciotv.wordpress.com/2015/04/18/yahoo-renovo-acuerdo-con-microsoft-seguira-usando-bing/"
         },
-        "consejosinternet.wordpress.com/2015/04/yahoo-y-microsoft-renuevan-su-alianza-aunque-con-cambios-importantes": {
-            "title": "Yahoo! y Microsoft renuevan su alianza aunque con cambios importantes...",
-            "snippet": "Yahoo! y Microsoft acaban de renovar su acuerdo con algunas importantes modificaciones. Actualmente Yahoo! usa los anuncios de Bing para las b\u00fasquedas desde el ordenador y Microsoft provee []...",
-            "date": "2015-04-16",
-            "author_name": "sergiotorrellanoinfo",
-            "categories": "yahoo,bing",
-            "tags": "anuncios,acuerdo,algunas,yahoo,microsoft,bing",
-            "recuweb_url": "http://es.recuweb.com/bing/consejosinternet.wordpress.com/2015/04/yahoo-y-microsoft-renuevan-su-alianza-aunque-con-cambios-importantes",
-            "resource_url": "http://es.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
-            "source_url": "http://consejosinternet.wordpress.com/2015/04/16/yahoo-y-microsoft-renuevan-su-alianza-aunque-con-cambios-importantes/"
-        },
-        "blogdeviajes.com.ar/2015/03/tumblr-blogs-sobre-viajes-y-turismo-un-experimento-de-yahoo-travel": {
-            "title": "Tumblr blogs sobre viajes y turismo, un experimento de Yahoo Travel...",
-            "snippet": "La trayectoria de Yahoo Travel ha sido un poco complicada de seguir, a medida que algunas de sus estrategias fueron variando con el tiempo. Algunos de sus servicios apuntados a la comunidad, como Trip Planner y My Travel Map fueron cerrados en marzo...",
-            "date": "2015-03-28",
-            "author_name": "Jorge Gobbi",
-            "categories": "yahoo,tumblr",
-            "tags": "algunas,yahoo",
-            "recuweb_url": "http://es.recuweb.com/tumblr/blogdeviajes.com.ar/2015/03/tumblr-blogs-sobre-viajes-y-turismo-un-experimento-de-yahoo-travel",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yahoo%2Byahoo&rss=1&lng=es",
-            "source_url": "http://blogdeviajes.com.ar/2015/03/28/tumblr-blogs-sobre-viajes-y-turismo-un-experimento-de-yahoo-travel/"
-        },
-        "calle56.com/2015/03/yahoo-readquirir%C3%A1-acciones-de-la-empresa": {
-            "title": "Yahoo readquirir\u00e1 acciones de la empresa...",
-            "snippet": "NUEVA YORK Yahoo dijo que invertir\u00e1 millones de d\u00f3lares en readquirir acciones de la compa\u00f1\u00eda, mientras se prepara para derivar su participaci\u00f3n en la compa\u00f1\u00eda china de comercio por internet Alibaba. Los inversionistas estuvieron presionando...",
-            "date": "2015-03-27",
-            "author_name": "Josu\u00e9 Canals",
-            "categories": "yahoo,internet",
-            "tags": "china,comercio,dijo,acciones,york,yahoo,compa\u00f1\u00eda,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/calle56.com/2015/03/yahoo-readquirir%C3%A1-acciones-de-la-empresa",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yahoo%2Byahoo&rss=1&lng=es",
-            "source_url": "http://calle56.com/2015/03/yahoo-readquirira-acciones-de-la-empresa.html"
-        },
-        "sincuento.com/2015/03/yahoo-pide-a-usuarios-de-firefox-configurarlo-como-buscador": {
-            "title": "Yahoo pide a usuarios de Firefox configurarlo como buscador por...",
-            "snippet": "Cerca de finalizar el 2014, Mozilla confirm\u00f3 que el nuevo buscador por defecto de Firefox ser\u00eda Yahoo, algo que repercuti\u00f3 de inmediato en el aumento de cuota de mercado para el buscador en el periodo de noviembre a enero. Cuando...",
-            "date": "2015-03-25",
-            "author_name": "Angel Rivero",
-            "categories": "yahoo",
-            "tags": "buscador,noviembre,nuevo,usuarios,yahoo",
-            "recuweb_url": "http://es.recuweb.com/yahoo/sincuento.com/2015/03/yahoo-pide-a-usuarios-de-firefox-configurarlo-como-buscador",
-            "resource_url": "http://www.google.com/search?q=yahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://sincuento.com/category/yahoo-pide-a-usuarios-de-firefox-configurarlo-como-buscador-por-defecto/"
-        },
-        "informationweek.com.mx/2015/03/yahoo-y-microsoft-quieren-acabar-con-las-contrase%C3%B1as-iwm": {
-            "title": "Yahoo y Microsoft quieren acabar con las contrase\u00f1as IWM...",
-            "snippet": "Esta semana, Yahoo y Microsoft ofrecieron algunas alternativas. Yahoo dice que puede textear contrase\u00f1as temporales a los usuarios de tel\u00e9fonos cada vez que quieran abrir sus cuentas de Yahoo, Microsoft dijo que est\u00e1...",
-            "date": "2015-03-20",
-            "author_name": "Francisco Iglesias",
-            "categories": "yahoo",
-            "tags": "dijo,usuarios,cuentas,algunas,yahoo,microsoft,semana",
-            "recuweb_url": "http://es.recuweb.com/yahoo/informationweek.com.mx/2015/03/yahoo-y-microsoft-quieren-acabar-con-las-contrase%C3%B1as-iwm",
-            "resource_url": "http://www.google.com/search?q=yahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informationweek.com.mx/ultimosarticulos/yahoo-y-microsoft-quieren-acabar-con-las-contrasenas/"
-        },
-        "tecno.americaeconomia.com/2015/03/yahoo-cierra-su-%C3%BAnica-oficina-en-beijing-y-abandona-china-tecno": {
-            "title": "Yahoo! cierra su \u00fanica oficina en Beijing y \"abandona\" China tecno...",
-            "snippet": "Yahoo! anunci\u00f3, como parte de su proceso de reducci\u00f3n de personal y oficinas en todo el mundo, el cierre del centro de investigaci\u00f3n que manten\u00eda en Beijing, su \u00fanica presencia f\u00edsica en China. El gigante estadounidense...",
-            "date": "2015-03-20",
-            "author_name": "Daniela Z\u00e1rate",
-            "categories": "yahoo",
-            "tags": "gigante,gigante-estadounidense,estadounidense,\u00fanica,\u00fanica-presencia,\u00fanica-presencia-f\u00edsica,presencia,presencia-f\u00edsica,f\u00edsica,centro,centro-de-investigaci\u00f3n,investigaci\u00f3n,investigaci\u00f3n-que-manten\u00eda,manten\u00eda,proceso,proceso-de-reducci\u00f3n,reducci\u00f3n,reducci\u00f3n-de-personal,personal,personal-oficinas,oficinas,mundo,abandona,yahoo,china,anunci\u00f3,parte,cierre",
-            "recuweb_url": "http://es.recuweb.com/yahoo/tecno.americaeconomia.com/2015/03/yahoo-cierra-su-%C3%BAnica-oficina-en-beijing-y-abandona-china-tecno",
-            "resource_url": "http://www.google.com/search?q=yahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tecno.americaeconomia.com/articulos/yahoo-cierra-su-unica-oficina-en-beijing-y-abandona-china"
-        },
-        "elmundo.com.sv/2015/03/diario-el-mundo-yahoo-abandona-china-con-cierre": {
-            "title": "Diario El Mundo Yahoo abandona China con el cierre de su...",
-            "snippet": "El gigante estadounidense de internet Yahoo ha anunciado el cierre de su \u00fanica presencia f\u00edsica en China, el centro de investigaci\u00f3n que manten\u00eda en Pek\u00edn, como parte de su proceso de reducci\u00f3n de personal y oficinas en...",
-            "date": "2015-03-19",
-            "author_name": "Erika Ventura",
-            "categories": "yahoo,internet",
-            "tags": "proceso,proceso-de-reducci\u00f3n,reducci\u00f3n,reducci\u00f3n-de-personal,personal,personal-oficinas,oficinas,centro,centro-de-investigaci\u00f3n,investigaci\u00f3n,investigaci\u00f3n-que-manten\u00eda,manten\u00eda,\u00fanica,\u00fanica-presencia,\u00fanica-presencia-f\u00edsica,presencia,presencia-f\u00edsica,f\u00edsica,gigante,gigante-estadounidense,estadounidense,mundo,yahoo,abandona,china,cierre,internet,parte",
-            "recuweb_url": "http://es.recuweb.com/internet/elmundo.com.sv/2015/03/diario-el-mundo-yahoo-abandona-china-con-cierre",
+        "ticbeat.com/2015/04/yahoo-seguir%C3%A1-ofreciendo-b%C3%BAsquedas-de-microsoft-hasta-2020": {
+            "title": "Yahoo seguir\u00e1 ofreciendo b\u00fasquedas de Microsoft hasta 2020...",
+            "snippet": "Yahoo y Microsoft decidieron unir sus caminos en 2009, cuando sellaron una alianza que permitir\u00eda a los dos grandes rivales de Google competir con m\u00e1s fuerza en el lucrativo mercado de las b\u00fasquedas. Un a\u00f1o despu\u00e9s...",
+            "date": "2015-04-17",
+            "author_name": "Alberto Iglesias Fraga",
+            "categories": "yahoo,google",
+            "tags": "competir,b\u00fasquedas,alianza,permitir\u00eda,seguir\u00e1,yahoo,microsoft,google",
+            "recuweb_url": "http://es.recuweb.com/google/ticbeat.com/2015/04/yahoo-seguir%C3%A1-ofreciendo-b%C3%BAsquedas-de-microsoft-hasta-2020",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elmundo.com.sv/yahoo-abandona-china-con-el-cierre-de-su-unica-oficina-de-operaciones/"
+            "source_url": "http://ticbeat.com/economia/yahoo-seguira-ofreciendo-resultados-busqueda-microsoft-hasta-2020/"
+        },
+        "pulsoslp.com.mx/2015/04/yahoo-y-microsoft-renuevan-alianza-en-b%C3%BAsquedas-de-internet": {
+            "title": "Yahoo y Microsoft renuevan alianza en b\u00fasquedas de internet...",
+            "snippet": "SAN FRANCISCO, California,. (AP) Yahoo y Microsoft seguir\u00e1n trabajando juntos en las b\u00fasquedas de internet, pero Yahoo tendr\u00e1 mayor control sobre c\u00f3mo se presentan los resultados al usuario, informaron el...",
+            "date": "2015-04-17",
+            "author_name": "3",
+            "categories": "internet,yahoo",
+            "tags": "c\u00f3mo,resultados,b\u00fasquedas,internet,alianza,yahoo,microsoft",
+            "recuweb_url": "http://es.recuweb.com/yahoo/pulsoslp.com.mx/2015/04/yahoo-y-microsoft-renuevan-alianza-en-b%C3%BAsquedas-de-internet",
+            "resource_url": "http://www.google.com/search?q=yahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://pulsoslp.com.mx/2015/04/16/yahoo-y-microsoft-renuevan-alianza-en-busquedas-de-internet/"
+        },
+        "siliconnews.es/2015/04/est%C3%A1-yahoo-cerca-de-adquirir-foursquare-silicon-news": {
+            "title": "\u00bfEst\u00e1 Yahoo cerca de adquirir Foursquare? - Silicon News...",
+            "snippet": "Yahoo desea crecer en el ecosistema m\u00f3vil y todo apunta a que la compa\u00f1\u00eda californiana podr\u00eda optar por una importante compra que le dar\u00eda m\u00fasculo en ese apartado. Seg\u00fan publican en TechCrunch la compa\u00f1\u00eda de...",
+            "date": "2015-04-15",
+            "author_name": "Jaime Domenech",
+            "categories": "yahoo",
+            "tags": "compa\u00f1\u00eda,podr\u00eda,silicon,silicon_news,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/siliconnews.es/2015/04/est%C3%A1-yahoo-cerca-de-adquirir-foursquare-silicon-news",
+            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://siliconnews.es/2015/04/15/esta-yahoo-cerca-de-adquirir-foursquare/"
         }
     }
 }

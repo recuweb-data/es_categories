@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hardware-apple",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-apple/",
@@ -10,42 +11,62 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/blogs.json"
     },
     "items": {
-        "dayherald.com/2015/04/apple-ipad-mini-4-rumors-and-leaked-hardware-specs-device-day": {
-            "title": "Apple iPad Mini 4 Rumors and Leaked Hardware Specs, Device... - Day Herald...",
-            "snippet": "Day HeraldApple iPad Mini 4 Rumors and Leaked Hardware Specs, Device...Day HeraldCurrently, there have been a lot of rumors involving the Apple iPad Mini, and recent photos suggest the upcoming release of an Apple iPad Mini 4. Apple could be...",
-            "date": "2015-04-17",
-            "categories": "hardware,ipad",
-            "tags": "recent,day,hardware,ipad,mini,apple,device",
-            "recuweb_url": "http://es.recuweb.com/ipad/dayherald.com/2015/04/apple-ipad-mini-4-rumors-and-leaked-hardware-specs-device-day",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://dayherald.com/apple-ipad-mini-4-rumors-and-leaked-hardware-specs-device-compared-to-latest-microsoft-surface-3/1681/"
-        },
-        "extremetech.com/2015/04/new-apple-macbook-ties-for-worst-repairability-score-ever-extremetech": {
-            "title": "New Apple MacBook ties for worst repairability score ever - ExtremeTech...",
-            "snippet": "ExtremeTechNew Apple MacBook ties for worst repairability score everExtremeTechThe full teardown is available online, but it's not a happy read for anyone who likes being able to replace broken hardware. Not only does the MacBook retain the standard...",
-            "date": "2015-04-16",
-            "categories": "macbook,hardware",
-            "tags": "being,apple,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/extremetech.com/2015/04/new-apple-macbook-ties-for-worst-repairability-score-ever-extremetech",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://extremetech.com/extreme/203580-new-apple-macbook-ties-for-worst-repairability-score-ever"
-        },
-        "hardwareluxx.de/2015/04/ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus-hardwareluxx": {
-            "title": "IBM wertet mit Apple-Hardware gesammelte Gesundheitsdaten aus - HardwareLuxx...",
-            "snippet": "IBM wertet mit Apple-Hardware gesammelte Gesundheitsdaten ausHardwareLuxxibm 2014 Die Zusammenarbeit zwischen Apple und IBM wird weiter ausgebaut. Nachdem die beiden Unternehmen bereits im Bereich Enterprise-L\u00f6sungen kooperieren, soll nun der...",
-            "date": "2015-04-14",
+        "noticias.terra.com/2015/04/deshacen-un-apple-watch-para-conocer-sus-entra%C3%B1as": {
+            "title": "Deshacen un Apple Watch para conocer sus entra\u00f1as -...",
+            "snippet": "un Apple Watch para conocer sus entra\u00f1 las dificultades por las que pasaron los expertos de iFixit para desarmar el ponible, aparecen serias dudas sobre su capacidad de actualizar su hardware en el futuro. \"Recomendamos considerar esto antes de...",
+            "date": "2015-04-24",
             "categories": "hardware",
-            "tags": "enterprise,apple,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/hardwareluxx.de/2015/04/ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus-hardwareluxx",
+            "tags": "antes,apple,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/noticias.terra.com/2015/04/deshacen-un-apple-watch-para-conocer-sus-entra%C3%B1as",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://hardwareluxx.de/index.php/news/allgemein/wirtschaft/34935-ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus.html"
+            "source_url": "http://noticias.terra.com/tecnologia/desarman-apple-watch-para-conocerlo-mejor,2c93ec18d273d0e8304f2de716f09129uty1RCRD.html"
+        },
+        "military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies": {
+            "title": "Technology Hardware, Storage and Peripherals Stocks Review... - Military Technologies...",
+            "snippet": "Technology Hardware, Storage and Peripherals Stocks Review...Military TechnologiesInvestor-Edge has initiated coverage on the following equities: Apple Inc. (NASDAQ: AAPL), Hewlett-Packard Company (NYSE: HPQ), SanDisk Corporation (NASDAQ: SNDK),...",
+            "date": "2015-04-24",
+            "categories": "hardware",
+            "tags": "apple,hardware,aapl",
+            "recuweb_url": "http://es.recuweb.com/hardware/military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://military-technologies.net/2015/04/24/technology-hardware-storage-and-peripherals-stocks-review-apple-hewlett-packard-sandisk-seagate-technology-and-qlogic/"
+        },
+        "es.gizmodo.com/2015/04/la-app-store-del-apple-watch-ya-est%C3%A1-disponible": {
+            "title": "La App Store del Apple Watch ya est\u00e1 disponible, con m\u00e1s de... - Gizmodo en Espa\u00f1ol...",
+            "snippet": "Gizmodo en Espa\u00f1olLa App Store del Apple Watch ya est\u00e1 disponible, con m\u00e1s de...Gizmodo en Espa\u00f1olPero Apple siempre ha hecho mucho \u00e9nfasis en la importancia del software m\u00e1s all\u00e1 del hardware en sus dispositivos, por lo que esta vez un alud...",
+            "date": "2015-04-23",
+            "categories": "hardware",
+            "tags": "software,apple,espa\u00f1ol,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/es.gizmodo.com/2015/04/la-app-store-del-apple-watch-ya-est%C3%A1-disponible",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://es.gizmodo.com/la-app-store-del-apple-watch-ya-esta-disponible-con-ma-1699810164"
+        },
+        "liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-etc-liliputing": {
+            "title": "YouTube drops support for older hardware (Apple TV, Google TV etc) - Liliputing...",
+            "snippet": "LiliputingYouTube drops support for older hardware (Apple TV, Google TV etc)LiliputingOverall this is a good reminder of why it's a good idea to spend 30 100 on a smart TV box like a Google Chromecast, Amazon Fire TV, Roku, Apple TV, or Google Nexus...",
+            "date": "2015-04-21",
+            "categories": "google,hardware",
+            "tags": "google,smart,this,hardware,apple",
+            "recuweb_url": "http://es.recuweb.com/hardware/liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-etc-liliputing",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-tv-etc.html"
+        },
+        "seekingalpha.com/2015/04/apple-linx-acquisition-addresses-a-hardware-risk-aapl-seeking-alpha": {
+            "title": "Apple: LinX Acquisition Addresses A Hardware Risk (AAPL) - Seeking Alpha...",
+            "snippet": "Apple: LinX Acquisition Addresses A Hardware Risk (AAPL)Seeking AlphaGiven LinX's expertise in CMOS camera module and depth-sensing algo, I believe this could be a precursor to what consumers can expect with the launch of the iPhone7 next year as...",
+            "date": "2015-04-18",
+            "categories": "hardware,iphone",
+            "tags": "this,hardware,apple,aapl,iphone",
+            "recuweb_url": "http://es.recuweb.com/iphone/seekingalpha.com/2015/04/apple-linx-acquisition-addresses-a-hardware-risk-aapl-seeking-alpha",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://seekingalpha.com/article/3077676-apple-linx-acquisition-addresses-a-hardware-risk"
         },
         "unocero.com/2015/04/la-wwdc-2015-de-apple-ya-tiene-fechas-qu%C3%A9-habr%C3%A1-nuevo": {
             "title": "La WWDC 2015 de Apple ya tiene fechas \u00bfqu\u00e9 habr\u00e1 de nuevo?",
             "snippet": "En cuanto a hardware, Apple podr\u00eda presentar la tan rumorada versi\u00f3n pro del iPad, con una pantalla cercana a las 12 pulgadas de tama\u00f1o; y una renovada iPad Mini. Como cada a\u00f1o, y tal como sucede con otros eventos de desarrolladores como Google...",
             "date": "2015-04-14",
             "categories": "hardware,ipad,google",
-            "tags": "nuevo,apple,hardware,ipad,mini",
+            "tags": "apple,hardware,ipad,mini,google",
             "recuweb_url": "http://es.recuweb.com/google/unocero.com/2015/04/la-wwdc-2015-de-apple-ya-tiene-fechas-qu%C3%A9-habr%C3%A1-nuevo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bapple&format=RSS&cc=es",
             "source_url": "http://unocero.com/2015/04/14/la-wwdc-2015-de-apple-ya-tiene-fechas/"
@@ -55,9 +76,9 @@
             "snippet": "ZDNetSurvey: Is Apple your go-to hardware provider?ZDNetApple has quietly changed from being shunned in the enterprise to become one of the most popular vendors for end-user hardware within organizations. The ease of use of products such as the...",
             "date": "2015-04-14",
             "categories": "hardware",
-            "tags": "being,enterprise,most,apple,hardware",
+            "tags": "most,apple,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/zdnet.com/2015/04/survey-is-apple-your-go-to-hardware-provider-zdnet",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
             "source_url": "http://zdnet.com/article/survey-is-apple-your-go-to-hardware-provider/"
         },
         "slashgear.com/2015/04/apple-vs-android-winning-in-hardware-software-slashgear": {
@@ -65,30 +86,10 @@
             "snippet": "SlashGearApple vs Android: winning in hardware, winning in softwareSlashGearWhile Apple wins in Hardware in the United States, Android wins in software. So says the most recent report on smart device usage in the United States. This week comScore...",
             "date": "2015-04-10",
             "categories": "hardware",
-            "tags": "most,recent,device,apple,hardware,software",
+            "tags": "most,smart,software,apple,hardware,this",
             "recuweb_url": "http://es.recuweb.com/hardware/slashgear.com/2015/04/apple-vs-android-winning-in-hardware-software-slashgear",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
             "source_url": "http://slashgear.com/apple-vs-android-winning-in-hardware-winning-in-software-10378447/"
-        },
-        "pcworldenespanol.com/2015/03/nuevo-hardware-de-apple-tv-llegar%C3%A1-en-verano-pc-world-espanol": {
-            "title": "Nuevo hardware de Apple TV llegar\u00e1 en verano - PC World en Espanol...",
-            "snippet": "PC World en EspanolNuevo hardware de Apple TV llegar\u00e1 en veranoPC World en EspanolDe acuerdo con ciertos rumores, Apple est\u00e1 preparando su nuevo hardware para Apple TV, con Siri, la App Store, y la automatizaci\u00f3n del hogar como ejes centrales. El...",
-            "date": "2015-03-21",
-            "categories": "hardware",
-            "tags": "nuevo,hardware,apple",
-            "recuweb_url": "http://es.recuweb.com/hardware/pcworldenespanol.com/2015/03/nuevo-hardware-de-apple-tv-llegar%C3%A1-en-verano-pc-world-espanol",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://pcworldenespanol.com/2015/03/20/nuevo-hardware-de-apple-tv-llegara-en-verano/"
-        },
-        "forbes.com/2015/03/new-apple-tv-hardware-may-finally-see-the-light-of-day": {
-            "title": "New Apple TV Hardware May Finally See The Light Of Day - Forbes...",
-            "snippet": "ForbesNew Apple TV Hardware May Finally See The Light Of DayForbesApple is prepping for a hardware refresh of its Apple TV, the tech giant's set-top box, according to BuzzFeed, which cites anonymous sources. The device, which has been mostly...",
-            "date": "2015-03-20",
-            "categories": "hardware",
-            "tags": "apple,hardware,day,device",
-            "recuweb_url": "http://es.recuweb.com/hardware/forbes.com/2015/03/new-apple-tv-hardware-may-finally-see-the-light-of-day",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/aarontilley/2015/03/20/new-apple-tv-hardware-may-finally-see-the-light-of-day/"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "internet",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/internet/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "rpp.com.pe/2015/04/arequipa-intervienen-cabina-de-internet-usada-como-prost%C3%ADbulo-rpp-noticias": {
-            "title": "Arequipa: intervienen cabina de internet usada como prost\u00edbulo - RPP Noticias...",
-            "snippet": "RPP NoticiasArequipa: intervienen cabina de internet usada como prost\u00edbuloRPP NoticiasUna cabina de internet, donde se concentraban j\u00f3venes de diferente opci\u00f3n sexual para sostener relaciones sexuales, fue intervenida esta tarde por el grupo...",
-            "date": "2015-04-23",
+        "lmcordoba.com.ar/2015/04/el-50%-de-los-adolescentes-se-sinti%C3%B3-mal-en-internet": {
+            "title": "El 50% de los adolescentes se sinti\u00f3 mal en Internet, pero no habl\u00f3... - LA MA\u00d1ANA de C\u00f3rdoba...",
+            "snippet": "LA MA\u00d1ANA de C\u00f3rdobaEl 50% de los adolescentes se sinti\u00f3 mal en Internet, pero no habl\u00f3...LA MA\u00d1ANA de C\u00f3rdobaUna encuesta realizada a 650 j\u00f3venes de 15 a 17 a\u00f1os de escuelas p\u00fablicas y privadas arroj\u00f3 adem\u00e1s que el 40% revel\u00f3 que alguna...",
+            "date": "2015-04-27",
+            "categories": "escuela,internet",
+            "tags": "revel\u00f3,internet,ma\u00f1ana,c\u00f3rdoba",
+            "recuweb_url": "http://es.recuweb.com/internet/lmcordoba.com.ar/2015/04/el-50%-de-los-adolescentes-se-sinti%C3%B3-mal-en-internet",
+            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
+            "source_url": "http://lmcordoba.com.ar/nota/202435_el-50-de-los-adolescentes-se-sintio-mal-en-internet-pero-no-hablo-con-los-padres-al-respecto"
+        },
+        "elmundo.es/2015/04/el-inicio-de-la-venta-entradas-sueltas-garantiza-los-primeros-no": {
+            "title": "El inicio de la venta de entradas sueltas garantiza los primeros 'no hay billetes'en San Isidro...",
+            "snippet": "Este lunes a las 10 de la ma\u00f1ana ha comenzado la venta de localidades sueltas para la Feria de San Isidro, tanto en las taquillas de la plaza como por tel\u00e9fono e internet. La masiva afluencia de aficionados, muchos de ellos junto a las taquillas...",
+            "date": "2015-04-27",
             "categories": "internet",
-            "tags": "noticias,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/rpp.com.pe/2015/04/arequipa-intervienen-cabina-de-internet-usada-como-prost%C3%ADbulo-rpp-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
-            "source_url": "http://rpp.com.pe/2015-04-22-arequipa-intervienen-cabina-de-internet-usada-como-prostibulo-noticia_790350.html"
-        },
-        "quieromasfutbol.laopinion.com/2015/04/el-chicharito-y-su-gol-la-rompen-en-internet-opini%C3%B3n": {
-            "title": "El Chicharito y su gol la rompen en internet - La Opini\u00f3n...",
-            "snippet": "La Opini\u00f3nEl Chicharito y su gol la rompen en internetLa Opini\u00f3nTras el triunfo al l\u00edmite del Real Madrid ante el Atl\u00e9tico de Madrid con el que se clasific\u00f3 a las semifinales de la Champions League, las portadas de los medios electr\u00f3nicos de...",
-            "date": "2015-04-23",
-            "categories": "realmadrid,internet",
-            "tags": "internet",
-            "recuweb_url": "http://es.recuweb.com/internet/quieromasfutbol.laopinion.com/2015/04/el-chicharito-y-su-gol-la-rompen-en-internet-opini%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
-            "source_url": "http://quieromasfutbol.laopinion.com/chicharito-gol-rompen-internet/"
-        },
-        "infobae.com/2015/04/as%C3%AD-son-los-globos-de-google-para-llevar-internet-a-zonas": {
-            "title": "As\u00ed son los globos de Google para llevar internet a zonas poco... -...",
-            "snippet": "\u00ed son los globos de Google para llevar internet a zonas poco... apareci\u00f3 en escena, explicando que se trataba de uno de sus globos aerost\u00e1ticos en plena prueba para ofrecer acceso a internet en zonas despobladas, donde por una cuesti\u00f3n...",
-            "date": "2015-04-22",
-            "categories": "google,internet",
-            "tags": "acceso,google,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/infobae.com/2015/04/as%C3%AD-son-los-globos-de-google-para-llevar-internet-a-zonas",
-            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
-            "source_url": "http://infobae.com/2015/04/21/1723719-asi-son-los-globos-google-llevar-internet-zonas-poco-pobladas"
-        },
-        "eldia.com.bo/2015/04/cuestionan-informe-sobre-el-internet-m%C3%B3vil-en-bolivia": {
-            "title": "Cuestionan informe sobre el internet m\u00f3vil en Bolivia...",
-            "snippet": "Ref. Fotografia: Red. El internet m\u00f3vil es la herramienta de acceso a internet que m\u00e1s creci\u00f3 en Bolivia. La C\u00e1mara de Telecomunicaciones de Bolivia (Catelbo) inform\u00f3 a trav\u00e9s de un estudio elaborado por la GSMA, que las tarifas de internet...",
-            "date": "2015-04-22",
-            "categories": "internet,fotografia,telecomunicacion",
-            "tags": "tarifas,inform\u00f3,inform\u00f3-trav\u00e9s,trav\u00e9s,estudio,estudio-elaborado,elaborado,creci\u00f3,m\u00f3vil,herramienta,herramienta-de-acceso,acceso,informe,cuestionan,internet,bolivia,red,c\u00e1mara,telecomunicaciones,catelbo,gsma",
-            "recuweb_url": "http://es.recuweb.com/telecomunicacion/eldia.com.bo/2015/04/cuestionan-informe-sobre-el-internet-m%C3%B3vil-en-bolivia",
+            "tags": "tel\u00e9fono,ma\u00f1ana,san,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/elmundo.es/2015/04/el-inicio-de-la-venta-entradas-sueltas-garantiza-los-primeros-no",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=es",
-            "source_url": "http://eldia.com.bo/index.php?articulo=Cuestionan-informe-sobre-el-internet-movil-en-Bolivia&cat=357&pla=3&id_articulo=170092"
+            "source_url": "http://elmundo.es/cultura/2015/04/27/553e16e8e2704e2e478b4576.html"
         },
-        "eju.tv/2015/04/cuestionan-informe-sobre-el-internet-m%C3%B3vil-en-bolivia": {
-            "title": "Cuestionan informe sobre el internet m\u00f3vil en Bolivia -...",
-            "snippet": "informe sobre el internet m\u00f3vil en internet m\u00f3vil es la herramienta de acceso a internet que m\u00e1s creci\u00f3 en Bolivia. La C\u00e1mara de Telecomunicaciones de Bolivia (Catelbo) inform\u00f3 a trav\u00e9s de un estudio elaborado por la GSMA, que las tarifas de...",
-            "date": "2015-04-22",
-            "categories": "internet,telecomunicacion",
-            "tags": "tarifas,inform\u00f3,inform\u00f3-trav\u00e9s,trav\u00e9s,estudio,estudio-elaborado,elaborado,creci\u00f3,m\u00f3vil,herramienta,herramienta-de-acceso,acceso,informe,cuestionan,internet,bolivia,c\u00e1mara,telecomunicaciones,catelbo,gsma",
-            "recuweb_url": "http://es.recuweb.com/telecomunicacion/eju.tv/2015/04/cuestionan-informe-sobre-el-internet-m%C3%B3vil-en-bolivia",
-            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
-            "source_url": "http://eju.tv/2015/04/cuestionan-informe-sobre-el-internet-movil-en-bolivia/"
-        },
-        "cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-cnnexpansi%C3%B3": {
-            "title": "El 44% de los mexicanos leen p\u00e1ginas de Internet - CNNExpansi\u00f3...",
-            "snippet": "CNNExpansi\u00f3 44% de los mexicanos leen p\u00e1ginas de InternetCNNExpansi\u00f3 DE M\u00c9XICO (CNNExpansi\u00f3n) S\u00f3lo 44% de los mexicanos leen p\u00e1ginas de internet, foros o blogs, de acuerdo con una encuesta realizada por el Instituto Nacional de Estad\u00edstica y...",
-            "date": "2015-04-22",
-            "categories": "internet",
-            "tags": "acuerdo,m\u00e9xico,internet,s\u00f3lo",
-            "recuweb_url": "http://es.recuweb.com/internet/cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-cnnexpansi%C3%B3",
-            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
-            "source_url": "http://cnnexpansion.com/economia/2015/04/22/el-44-de-los-mexicanos-leen-paginas-de-internet"
-        },
-        "noticieros.televisa.com/2015/04/enrique-krauze-en-cuba-el-internet-es-imprescindible": {
-            "title": "Enrique Krauze: En Cuba el internet es imprescindible...",
-            "snippet": "CIUDAD DE M\u00c9XICO, M\u00e9xico, abr. 22, 2015.- El escritor mexicano Enrique Krauze calific\u00f3 este mi\u00e9rcoles como sorprendente y alentador el acercamiento entre Estados Unidos y Cuba. El escritor consider\u00f3, en entrevista en Primero Noticias, que la...",
-            "date": "2015-04-22",
-            "categories": "internet",
-            "tags": "noticias,escritor,mi\u00e9rcoles,sorprendente,m\u00e9xico,internet,abr",
-            "recuweb_url": "http://es.recuweb.com/internet/noticieros.televisa.com/2015/04/enrique-krauze-en-cuba-el-internet-es-imprescindible",
+        "hispanidad.com/2015/04/internet-gana-por-primera-vez-a-la-radio-el-62-4%": {
+            "title": "Internet gana, por primera vez, a la radio: el 62,4% lo usan habitualmente...",
+            "snippet": "No es ning\u00fan secreto que Internet crece cada mes y se va haciendo m\u00e1s fuerte en el panorama medi\u00e1tico espa\u00f1ol. En concreto, ha superado por primera vez a la radio en nivel de penetraci\u00f3n (62,4% frente a 60,4%), seg\u00fan el \u00faltimo Estudio General...",
+            "date": "2015-04-27",
+            "categories": "radio,internet",
+            "tags": "estudio,\u00fal,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/hispanidad.com/2015/04/internet-gana-por-primera-vez-a-la-radio-el-62-4%",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=es",
-            "source_url": "http://noticieros.televisa.com/mundo/1504/enrique-krauze-cuba-internet-es-imprescindible/"
+            "source_url": "http://hispanidad.com/Breves/internet-gana-por-primera-vez-a-la-radio-el-624-lo-usan-habitualmente-20150427-169664.html"
         },
-        "elcomercio.com/2015/04/francia-pacta-con-los-gigantes-de-internet-colaborar-contra-el-comercio": {
-            "title": "Francia pacta con los gigantes de Internet colaborar contra el... - El Comercio...",
-            "snippet": "El ComercioFrancia pacta con los gigantes de Internet colaborar contra el...El ComercioEl ministro franc\u00e9s del Interior, Bernard Cazeneuve, lleg\u00f3 hoy, 22 de abril, a un acuerdo con las grandes compa\u00f1\u00edas de Internet (Google, Facebook, Microsoft,...",
-            "date": "2015-04-22",
-            "categories": "internet,google,facebook",
-            "tags": "acuerdo,grandes,grandes-compa\u00f1\u00edas,compa\u00f1\u00edas,lleg\u00f3,lleg\u00f3-hoy,hoy,bernard,bernard_cazeneuve,cazeneuve,ministro,ministro-franc\u00e9s,franc\u00e9s,colaborar,colaborar-contra,contra,pacta,gigantes,francia,internet,interior,abril,google,facebook,microsoft",
-            "recuweb_url": "http://es.recuweb.com/facebook/elcomercio.com/2015/04/francia-pacta-con-los-gigantes-de-internet-colaborar-contra-el-comercio",
+        "nacion.com/2015/04/muchos-ya-prefieren-ver-la-televisi%C3%B3n-en-internet-naci%C3%B3n-costa-rica": {
+            "title": "Muchos ya prefieren ver la televisi\u00f3n en Internet - La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa RicaMuchos ya prefieren ver la televisi\u00f3n en InternetLa Naci\u00f3n Costa RicaLos \u00c1ngeles. EFE. A la hora de consumir televisi\u00f3n, la mayor\u00eda de los estadounidenses ya prefiere hacerlo a trav\u00e9s de Internet, revel\u00f3 un estudio...",
+            "date": "2015-04-27",
+            "categories": "television,internet",
+            "tags": "revel\u00f3,estudio,trav\u00e9s,naci\u00f3n,naci\u00f3n_costa,costa,naci\u00f3n_costa_rica,costa_rica,rica,televisi\u00f3n,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/nacion.com/2015/04/muchos-ya-prefieren-ver-la-televisi%C3%B3n-en-internet-naci%C3%B3n-costa-rica",
             "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
-            "source_url": "http://elcomercio.com/actualidad/francia-pacta-internet-combatir-terrorismo.html"
+            "source_url": "http://nacion.com/tecnologia/avances/prefieren-ver-television-Internet_0_1484051615.html"
         },
-        "lavanguardia.com/2015/04/francia-pacta-con-los-gigantes-de-internet-colaborar-contra-el-terrorismo": {
-            "title": "Francia pacta con los gigantes de internet colaborar contra el terrorismo...",
-            "snippet": "Par\u00eds, 22 abr (EFE).- El ministro franc\u00e9s del Interior, Bernard Cazeneuve, lleg\u00f3 hoy a un acuerdo con las grandes compa\u00f1\u00edas de internet (Google, Facebook, Microsoft, Apple y Twitter) para crear una plataforma de buenas pr\u00e1cticas en la lucha...",
-            "date": "2015-04-22",
-            "categories": "internet,google,facebook,twitter",
-            "tags": "lleg\u00f3,lleg\u00f3-hoy,hoy,acuerdo,grandes,grandes-compa\u00f1\u00edas,compa\u00f1\u00edas,bernard,bernard_cazeneuve,cazeneuve,ministro,ministro-franc\u00e9s,franc\u00e9s,colaborar,colaborar-contra,contra,pacta,gigantes,francia,internet,abr,interior,google,facebook,microsoft,twitter",
-            "recuweb_url": "http://es.recuweb.com/twitter/lavanguardia.com/2015/04/francia-pacta-con-los-gigantes-de-internet-colaborar-contra-el-terrorismo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=es",
-            "source_url": "http://lavanguardia.com/tecnologia/internet/20150422/54430124099/francia-pacta-con-los-gigantes-de-internet-colaborar-contra-el-terrorismo.html"
-        },
-        "es.kioskea.net/2015/04/no-me-funciona-conexi%C3%B3n-a-internet": {
-            "title": "No me funciona conexi\u00f3n a Internet...",
-            "snippet": "Se pone un triangular amarillo ago las pruebas de internet y dice. es posible que haya un problema con el controlador del adaptador Conexi\u00f3n de \u00e1rea local, haber si pod\u00e9is darme la soluci\u00f3n gracias y saludos. Sigue leyendo No me funciona...",
-            "date": "2015-04-22",
+        "oem.com.mx/2015/04/subi%C3%B3-20%-compra-por-internet-de-seguros-para-autos-el-sol": {
+            "title": "Subi\u00f3 20% compra por internet de seguros para autos - El Sol de M\u00e9xico...",
+            "snippet": "El Sol de M\u00e9xicoSubi\u00f3 20% compra por internet de seguros para autosEl Sol de M\u00e9xicoCiudad de M\u00e9xico.- La contrataci\u00f3n de seguros automotrices por internet tuvo un incremento de 20 por ciento en 2014 comparado con 2013, pues en M\u00e9xico existen...",
+            "date": "2015-04-27",
             "categories": "internet",
             "tags": "internet",
-            "recuweb_url": "http://es.recuweb.com/internet/es.kioskea.net/2015/04/no-me-funciona-conexi%C3%B3n-a-internet",
+            "recuweb_url": "http://es.recuweb.com/internet/oem.com.mx/2015/04/subi%C3%B3-20%-compra-por-internet-de-seguros-para-autos-el-sol",
+            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
+            "source_url": "http://oem.com.mx/elsoldemexico/notas/n3787225.htm"
+        },
+        "milenio.com/2015/04/creo-que-debemos-ense%C3%B1ar-literatura-de-internet": {
+            "title": "Creo que debemos ense\u00f1ar literatura de internet -...",
+            "snippet": "que debemos ense\u00f1ar literatura de internet que debemos ense\u00f1ar literatura de internet. La especialista en educaci\u00f3n afirma que el actual m\u00e9todo de ense\u00f1anza corresponde al ritmo industrial de hace 150 a\u00f1os, y no al mundo globalizado impulsado...",
+            "date": "2015-04-27",
+            "categories": "literatura,internet",
+            "tags": "mundo,hace,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/milenio.com/2015/04/creo-que-debemos-ense%C3%B1ar-literatura-de-internet",
+            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
+            "source_url": "http://milenio.com/cultura/ensenar-literatura-internet_0_507549270.html"
+        },
+        "eldiario.es/2015/04/el-internet-de-las-cosas-es-m%C3%A1s-revolucionario-que-original": {
+            "title": "El Internet de las Cosas es m\u00e1s revolucionario que el Internet original de los noventa...",
+            "snippet": "John Bates es uno de los pioneros del llamado Internet de las Cosas y en el an\u00e1lisis de datos masivos. De hecho, est\u00e1 reconocido como una de las 50 personas m\u00e1s influyentes del mundo en el campo de la tecnolog\u00eda seg\u00fan diferentes organizaciones...",
+            "date": "2015-04-27",
+            "categories": "tecnologia,internet",
+            "tags": "mundo,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/eldiario.es/2015/04/el-internet-de-las-cosas-es-m%C3%A1s-revolucionario-que-original",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=es",
-            "source_url": "http://es.kioskea.net/forum/affich-1555156-no-me-funciona-conexion-a-internet"
+            "source_url": "http://eldiario.es/turing/big_data/Internet-Cosas-revolucionario-original-noventa_0_380412935.html"
+        },
+        "elconfidencial.com/2015/04/desconectarse-de-internet-es-una-herramienta-revolucionaria": {
+            "title": "Desconectarse de internet es una herramienta revolucionaria...",
+            "snippet": "Remedios Zafra (C\u00f3rdoba, 1973) ha pasado las \u00faltimas dos d\u00e9cadas estudiando las relaciones entre el yo y el nosotros en la era digital, c\u00f3mo se construye sociedad en internet y c\u00f3mo la red construye una nueva sociedad. Escritora y profesora de...",
+            "date": "2015-04-26",
+            "categories": "sociedad,internet",
+            "tags": "red,nueva,dos,\u00fal,internet,c\u00f3rdoba,c\u00f3mo",
+            "recuweb_url": "http://es.recuweb.com/internet/elconfidencial.com/2015/04/desconectarse-de-internet-es-una-herramienta-revolucionaria",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=es",
+            "source_url": "http://elconfidencial.com/cultura/2015-04-27/desconectarse-de-internet-es-una-herramienta-revolucionaria_780366/"
+        },
+        "nacion.com/2015/04/el-futuro-de-internet-est%C3%A1-en-tel%C3%A9fono-m%C3%B3vil-la-naci%C3%B3n-costa": {
+            "title": "'El futuro de Internet est\u00e1 en el tel\u00e9fono m\u00f3vil'- La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa Rica'El futuro de Internet est\u00e1 en el tel\u00e9fono m\u00f3vil'La Naci\u00f3n Costa RicaQuiz\u00e1s por esa raz\u00f3n, Fadi Chehad\u00e9, el presidente de la Corporaci\u00f3n de Internet para la Asignaci\u00f3n de Nombres y N\u00fameros (ICANN), considera que su...",
+            "date": "2015-04-26",
+            "categories": "internet",
+            "tags": "naci\u00f3n,naci\u00f3n_costa,costa,naci\u00f3n_costa_rica,costa_rica,rica,tel\u00e9fono,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/nacion.com/2015/04/el-futuro-de-internet-est%C3%A1-en-tel%C3%A9fono-m%C3%B3vil-la-naci%C3%B3n-costa",
+            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
+            "source_url": "http://nacion.com/data/Futuro-Internet-telefono_movil_0_1483851628.html"
+        },
+        "voltairenet.org/2015/04/bcp-y-fallas-por-internet-red-voltaire": {
+            "title": "BCP y fallas por Internet - Red Voltaire...",
+            "snippet": "BCP y fallas por InternetRed VoltaireSoy cliente del Banco de Cr\u00e9dito del Per\u00fa (BCP) hace m\u00e1s de una d\u00e9cada, cuando en un trabajo me abrieron una cuenta en donde depositaban mi sueldo. R\u00e1pidamente me gust\u00f3 usar la banca por internet del BCP:...",
+            "date": "2015-04-26",
+            "categories": "internet",
+            "tags": "hace,red,internet,per\u00fa",
+            "recuweb_url": "http://es.recuweb.com/internet/voltairenet.org/2015/04/bcp-y-fallas-por-internet-red-voltaire",
+            "resource_url": "http://news.google.es/?hl=es&q=internet&output=atom&nord=1",
+            "source_url": "http://voltairenet.org/article187421.html"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "medio-ambiente",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/medio-ambiente/",
@@ -10,102 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/medio-ambiente/medio-ambiente/blogs.json"
     },
     "items": {
-        "eluniversal.com.co/2015/04/colombia-pierde-hect%C3%A1reas-de-bosque-al-a%C3%B1o-el-universal": {
-            "title": "Colombia pierde hect\u00e1reas de bosque al a\u00f1o - El Universal - Colombia...",
-            "snippet": "El Universal - ColombiaColombia pierde hect\u00e1reas de bosque al a\u00f1oEl Universal - ColombiaPor un lado, seg\u00fan denuncias del Ministerio de Medio Ambiente, los traficantes falsifican con facilidad los documentos que acreditan la extracci\u00f3n legal de...",
-            "date": "2015-04-21",
+        "elmundo.es/2015/04/fosfoyesos-bajo-la-alfombra": {
+            "title": "Fosfoyesos bajo la alfombra...",
+            "snippet": "El Ministerio de Agricultura, Alimentaci\u00f3n y Medio Ambiente considera v\u00e1lido e id\u00f3neo el proyecto presentado por la empresa Fertiberia para restaurar la marisma onubense en la que se acumulan 120 millones de toneladas de fosfoyesos, el residuo...",
+            "date": "2015-04-25",
             "categories": "medio-ambiente",
-            "tags": "medio,medio_ambiente,ambiente,colombia,ministerio",
-            "recuweb_url": "http://es.recuweb.com/medio-ambiente/eluniversal.com.co/2015/04/colombia-pierde-hect%C3%A1reas-de-bosque-al-a%C3%B1o-el-universal",
-            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente&output=atom&nord=1",
-            "source_url": "http://eluniversal.com.co/ambiente/colombia-pierde-48000-hectareas-de-bosque-al-ano-191197"
-        },
-        "elespectador.com/2015/04/defender-el-medio-ambiente-un-riesgo-en-colombia": {
-            "title": "Defender el medio ambiente, un riesgo en Colombia -...",
-            "snippet": "el medio ambiente, un riesgo en experto resalt\u00f3 la importancia de identificar a los defensores del medio ambiente y las condiciones en las que se encuentran para crear mecanismos de protecci\u00f3n, en especial en el caso de las comunidades ind\u00edgenas...",
-            "date": "2015-04-21",
-            "tags": "caso,ind\u00edgenas,defensores,medio,ambiente,colombia",
-            "recuweb_url": "http://es.recuweb.com/elespectador.com/2015/04/defender-el-medio-ambiente-un-riesgo-en-colombia",
-            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente&output=atom&nord=1",
-            "source_url": "http://elespectador.com/noticias/infografia/defender-el-medio-ambiente-un-riesgo-colombia-articulo-556171"
-        },
-        "ecoticias.com/2015/04/ecologia-medio-ambiente-y-energias-renovables": {
-            "title": "Ecologia, Medio Ambiente y Energias Renovables...",
-            "snippet": "La consejera de Medio Ambiente y Ordenaci\u00f3n del Territorio en funciones, Mar\u00eda Jes\u00fas Serrano, ha mostrado su rechazo y disconformidad con el Ministerio de Agricultura, Alimentaci\u00f3n y Medio Ambiente sobre el reparto de fondos con cargo a...",
-            "date": "2015-04-21",
-            "categories": "medio-ambiente",
-            "tags": "renovables,medio,medio_ambiente,ambiente,territorio,ministerio,agricultura",
-            "recuweb_url": "http://es.recuweb.com/medio-ambiente/ecoticias.com/2015/04/ecologia-medio-ambiente-y-energias-renovables",
+            "tags": "proyecto,medio,medio_ambiente,ambiente,ministerio,agricultura,alimentaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/elmundo.es/2015/04/fosfoyesos-bajo-la-alfombra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
-            "source_url": "http://ecoticias.com/sostenibilidad/102572/Andalucia-siente-discriminada-distribucion-fondos-programas-apoyo-biodiversidad-Gobierno"
+            "source_url": "http://elmundo.es/andalucia/2015/04/25/553a7940e2704e192a8b4580.html"
         },
-        "20minutos.es/2015/04/el-delegado-de-medio-ambiente-declara-ante-la-jueza-que-dio": {
-            "title": "El delegado de Medio Ambiente declara ante la jueza que dio el ok a lo dicho por los t\u00e9cnicos...",
-            "snippet": "El delegado de Agricultura, Pesca y Medio Ambiente de la Junta en Almer\u00eda, Jos\u00e9 Manuel Ortiz Bono, ha indicado este martes ante la jueza que su intervenci\u00f3n en los tres expedientes para autorizar el cambio de uso de suelo forestal a agr\u00edcola en...",
-            "date": "2015-04-21",
-            "categories": "medio-ambiente",
-            "tags": "tres,uso,medio,medio_ambiente,ambiente,agricultura,pesca",
-            "recuweb_url": "http://es.recuweb.com/medio-ambiente/20minutos.es/2015/04/el-delegado-de-medio-ambiente-declara-ante-la-jueza-que-dio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
-            "source_url": "http://20minutos.es/noticia/2438141/0/delegado-medio-ambiente-declara-ante-jueza-que-dio-ok-lo-dicho-por-tecnicos/"
-        },
-        "abc.es/2015/04/honduras-es-el-pa%C3%ADs-m%C3%A1s-peligroso-para-los-defensores-del-medio": {
-            "title": "Honduras es el pa\u00eds m\u00e1s peligroso para los defensores del medio ambiente...",
-            "snippet": "Honduras es el pa\u00eds con el mayor n\u00famero de asesinatos per c\u00e1pita de defensores del medio ambiente y de la tierra, seg\u00fan un informe publicado hoy, que alerta tambi\u00e9n del creciente n\u00famero de cr\u00edmenes contra ese colectivo de personas en toda...",
-            "date": "2015-04-21",
-            "tags": "defensores,medio,ambiente",
-            "recuweb_url": "http://es.recuweb.com/abc.es/2015/04/honduras-es-el-pa%C3%ADs-m%C3%A1s-peligroso-para-los-defensores-del-medio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
-            "source_url": "http://abc.es/sociedad/20150421/abci-honduras-peor-pais-medioambiente-201504211021.html"
-        },
-        "radiogranada.es/2015/04/imputan-a-sandra-garc%C3%ADa-e-inma-oria-por-los-vertidos": {
-            "title": "Imputan a Sandra Garc\u00eda e Inma Oria por los vertidos de la c\u00e1rcel...",
-            "snippet": "El Juzgado de Instrucci\u00f3n 6 de Granada ha imputado a la actual delegada del Gobierno andaluz en Granada, Sandra Garc\u00eda, a la delegada de Agricultura, Pesca y Medio Ambiente, Inmaculada Oria, por su presunta implicaci\u00f3n en el caso de los vertidos...",
-            "date": "2015-04-21",
-            "categories": "medio-ambiente",
-            "tags": "caso,medio,medio_ambiente,ambiente,agricultura,pesca",
-            "recuweb_url": "http://es.recuweb.com/medio-ambiente/radiogranada.es/2015/04/imputan-a-sandra-garc%C3%ADa-e-inma-oria-por-los-vertidos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
-            "source_url": "http://radiogranada.es/2015/04/21/90174/"
-        },
-        "elargentinozonanorte.infonews.com/2015/04/la-cooperativa-de-cartoneros-que-cuida-el-medio-ambiente-en-tigre": {
-            "title": "La cooperativa de cartoneros que cuida el medio ambiente en Tigre - Infonews...",
-            "snippet": "InfonewsLa cooperativa de cartoneros que cuida el medio ambiente en TigreInfonewsFunciona desde 2006 en Benav\u00eddez y sus miembros se encargan de recolectar, separar, clasificar y reciclar residuos que luego venden para su reutilizaci\u00f3n, adem\u00e1s de...",
-            "date": "2015-04-21",
-            "tags": "medio,ambiente",
-            "recuweb_url": "http://es.recuweb.com/elargentinozonanorte.infonews.com/2015/04/la-cooperativa-de-cartoneros-que-cuida-el-medio-ambiente-en-tigre",
-            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente&output=atom&nord=1",
-            "source_url": "http://elargentinozonanorte.infonews.com/nota/195597/la-cooperativa-de-cartoneros-que-cuida-el-medio-ambiente-en-tigre"
-        },
-        "infoaxarquia.es/2015/04/la-web-de-gran-senda-recoge-informaci%C3%B3n-detallada-y-planos": {
-            "title": "La web de la Gran Senda recoge informaci\u00f3n detallada y planos de toda la red de senderos...",
-            "snippet": "La Diputaci\u00f3n de M\u00e1laga, a trav\u00e9s del \u00e1rea de Medio Ambiente y Sostenibilidad, y el equipo de trabajo del proyecto de la Gran Senda de M\u00e1laga han llevado a cabo un exhaustivo trabajo de recopilaci\u00f3n de datos sobre la red de senderos...",
-            "date": "2015-04-21",
-            "categories": "medio-ambiente",
-            "tags": "cabo,trabajo,proyecto,medio,medio_ambiente,ambiente,trav\u00e9s",
-            "recuweb_url": "http://es.recuweb.com/medio-ambiente/infoaxarquia.es/2015/04/la-web-de-gran-senda-recoge-informaci%C3%B3n-detallada-y-planos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
-            "source_url": "http://infoaxarquia.es/2015/04/21/la-web-de-la-gran-senda-recoge-informacion-detallada-y-planos-de-toda-la-red-de-senderos/"
-        },
-        "dineroenimagen.com/2015/04/los-10-pa%C3%ADses-m%C3%A1s-y-menos-amigables-con-el-medio-ambiente": {
-            "title": "Los 10 pa\u00edses m\u00e1s y menos amigables con el medio ambiente - Dinero en imagen...",
-            "snippet": "Los 10 pa\u00edses m\u00e1s y menos amigables con el medio ambienteDinero en imagen... mundo a trav\u00e9s de indicadores como la calidad del aire, los impactos a la salud, los recursos acu\u00e1ticos, agricultura, bosques, pesca biodiversidad y energ\u00eda...",
-            "date": "2015-04-21",
+        "diarioelargentino.com.ar/2015/04/la-juventud-socialista-invita-a-una-jornada-sobre-medioambiente-diario": {
+            "title": "La Juventud Socialista invita a una jornada sobre medioambiente... - Diario El Argentino...",
+            "snippet": "La Juventud Socialista invita a una jornada sobre medioambiente...Diario El ArgentinoHoy a las 18, la Juventud Socialista del Departamento Gualeguaych\u00fa realizar\u00e1 una jornada de debate y formaci\u00f3n sobre medioambiente, salud y participaci\u00f3n, e...",
+            "date": "2015-04-25",
             "categories": "salud",
-            "tags": "pesca,biodiversidad,energ\u00eda,trav\u00e9s,amigables,medio,ambiente,recursos,agricultura",
-            "recuweb_url": "http://es.recuweb.com/salud/dineroenimagen.com/2015/04/los-10-pa%C3%ADses-m%C3%A1s-y-menos-amigables-con-el-medio-ambiente",
-            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente&output=atom&nord=1",
-            "source_url": "http://dineroenimagen.com/2015-04-21/54314"
+            "tags": "medioambiente,diario,invita,debate",
+            "recuweb_url": "http://es.recuweb.com/salud/diarioelargentino.com.ar/2015/04/la-juventud-socialista-invita-a-una-jornada-sobre-medioambiente-diario",
+            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente%2Bmedio%2Bambiente&output=atom&nord=1",
+            "source_url": "http://diarioelargentino.com.ar/noticias/149990/La-Juventud-Socialista-invita-a-una-jornada-sobre-medioambiente,-salud-y-participaci\u00f3n"
         },
-        "elperiodic.com/2015/04/medio-ambiente-libera-siete-gal%C3%A1pagos-europeos-en-el-tancat": {
-            "title": "Medio Ambiente libera siete gal\u00e1pagos europeos en el Tancat de la Pipa...",
-            "snippet": "La Conselleria de Infraestructuras, Territorio y Medio Ambiente en ha liberado siete gal\u00e1pagos europeos (Emys orbicularis) en el Tancat de la Pipa, una de las tres zonas h\u00famedas artificiales que forman parte del proyecto europeo LIFE Albufera.",
-            "date": "2015-04-21",
+        "elperiodic.com/2015/04/medio-ambiente-y-la-fundaci%C3%B3n-global-nature-realizan-jornadas-de-anillamiento": {
+            "title": "Medio Ambiente y la Fundaci\u00f3n Global Nature realizan jornadas de anillamiento en El Saler...",
+            "snippet": "La conselleria de Infraestructuras, Territorio y Medio Ambient en el marco del convenio de colaboraci\u00f3n con la Fundaci\u00f3n Global Nature para actuaciones en el Parque Natural de L'Albufera, realiza jornadas de anillamiento cient\u00edfico de aves en el...",
+            "date": "2015-04-25",
             "categories": "medio-ambiente",
-            "tags": "tres,proyecto,medio,medio_ambiente,ambiente,territorio",
-            "recuweb_url": "http://es.recuweb.com/medio-ambiente/elperiodic.com/2015/04/medio-ambiente-libera-siete-gal%C3%A1pagos-europeos-en-el-tancat",
+            "tags": "natural,marco,medio,conselleria,global,medio_ambiente,ambiente,infraestructuras,territorio",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/elperiodic.com/2015/04/medio-ambiente-y-la-fundaci%C3%B3n-global-nature-realizan-jornadas-de-anillamiento",
             "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
-            "source_url": "http://elperiodic.com/valencia/noticias/369341_medio-ambiente-libera-siete-galapagos-europeos-tancat-pipa.html"
+            "source_url": "http://elperiodic.com/valencia/noticias/370301_medio-ambiente-fundacion-global-nature-realizan-jornadas-anillamiento-saler.html"
+        },
+        "elintransigente.com/2015/04/medioambiente-los-chicos-de-el-mirador-dan-ejemplo-intransigente": {
+            "title": "Medioambiente: Los chicos de El Mirador dan el ejemplo - El Intransigente...",
+            "snippet": "El IntransigenteMedioambiente: Los chicos de El Mirador dan el ejemploEl IntransigenteSALTA.- Los chicos del s\u00e9ptimo a\u00f1o de la escuela Fray Honorato Pistoia recibieron una charla de educaci\u00f3n ambiental y posteriormente, realizaron la forestaci\u00f3n...",
+            "date": "2015-04-25",
+            "categories": "escuela",
+            "tags": "medioambiente",
+            "recuweb_url": "http://es.recuweb.com/escuela/elintransigente.com/2015/04/medioambiente-los-chicos-de-el-mirador-dan-ejemplo-intransigente",
+            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente&output=atom&nord=1",
+            "source_url": "http://elintransigente.com/salta/2015/4/24/medioambiente-chicos-mirador-ejemplo-311264.html"
+        },
+        "opinion.com.bo/2015/04/machicao-se-cuida-el-medio-ambiente-opini%C3%B3n-bolivia": {
+            "title": "Machicao: se cuida el medio ambiente - Opini\u00f3n Bolivia...",
+            "snippet": "Opini\u00f3n BoliviaMachicao: se cuida el medio ambienteOpini\u00f3n BoliviaEl ministro de Culturas, Marko Machicao, dijo ayer que garantiza que el Rally Dakar 2016 no cruzar\u00e1 por espacios patrimoniales en el pa\u00eds y anticip\u00f3 el dise\u00f1o de un plan de...",
+            "date": "2015-04-25",
+            "categories": "rally,rally-dakar,cultura",
+            "tags": "rally,dakar,medio,ambiente",
+            "recuweb_url": "http://es.recuweb.com/cultura/opinion.com.bo/2015/04/machicao-se-cuida-el-medio-ambiente-opini%C3%B3n-bolivia",
+            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente%2Bmedio%2Bambiente&output=atom&nord=1",
+            "source_url": "http://opinion.com.bo/opinion/articulos/2015/0425/noticias.php?id=159245"
+        },
+        "paginasiete.bo/2015/04/dakar-2016-promete-que-respetar%C3%A1-patrimonio-y-medio-ambiente-diario-pagina": {
+            "title": "Dakar 2016 promete que respetar\u00e1 patrimonio y medio ambiente - Diario Pagina Siete...",
+            "snippet": "Diario Pagina SieteDakar 2016 promete que respetar\u00e1 patrimonio y medio ambienteDiario Pagina SieteLos organizadores de Dakar 2016 garantizaron hoy el respeto al patrimonio y medio ambiente de los pa\u00edses por donde pasar\u00e1 el rally en enero...",
+            "date": "2015-04-24",
+            "categories": "rally",
+            "tags": "rally,respeto,diario,dakar,medio,ambiente",
+            "recuweb_url": "http://es.recuweb.com/rally/paginasiete.bo/2015/04/dakar-2016-promete-que-respetar%C3%A1-patrimonio-y-medio-ambiente-diario-pagina",
+            "resource_url": "http://news.google.es/?hl=es&q=medio%2Bambiente%2Bmedio%2Bambiente&output=atom&nord=1",
+            "source_url": "http://paginasiete.bo/campeones/2015/4/24/dakar-2016-promete-respetara-patrimonio-medio-ambiente-54468.html"
+        },
+        "diarioinformacion.com/2015/04/fotograf%C3%ADa-y-medio-ambiente-en-el-coto-de-mon%C3%B3var": {
+            "title": "Fotograf\u00eda y medio ambiente en el Coto de Mon\u00f3var...",
+            "snippet": "La concejal\u00eda de Medio Ambiente de Mon\u00f3var contin\u00faa celebrando el VIII Aniversario de la declaraci\u00f3n del monte Coto como Paraje Natural Municipal. En esta ocasi\u00f3n, de forma conjunta con la Associaci\u00f3 de Fot\u00f3grafs de Mon\u00f2ver, se ha organizado...",
+            "date": "2015-04-24",
+            "categories": "medio-ambiente,fotografia",
+            "tags": "natural,medio,medio_ambiente,ambiente",
+            "recuweb_url": "http://es.recuweb.com/fotografia/diarioinformacion.com/2015/04/fotograf%C3%ADa-y-medio-ambiente-en-el-coto-de-mon%C3%B3var",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
+            "source_url": "http://diarioinformacion.com/elda/2015/04/25/fotografia-medio-ambiente-coto-monovar/1625041.html"
+        },
+        "laopinion.es/2015/04/medio-ambiente-invierte-euros-para-poder-abrir-el-acceso-a-mesa": {
+            "title": "Medio Ambiente invierte euros para poder abrir el acceso a Mesa Mota...",
+            "snippet": "El \u00e1rea de Medio Ambiente, que gestina Cristina Darias, invertir\u00e1 euros en las labores de desbroce y poda de maleza y arboledas en la Mesa Mota. El camino que conduce al \u00e1rea recreativa permanece cerrado desde el pasado mes de noviembre,...",
+            "date": "2015-04-24",
+            "categories": "medio-ambiente",
+            "tags": "medio,medio_ambiente,ambiente",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/laopinion.es/2015/04/medio-ambiente-invierte-euros-para-poder-abrir-el-acceso-a-mesa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
+            "source_url": "http://laopinion.es/tenerife/2015/04/24/medio-ambiente-invierte-15000-euros/602738.html"
+        },
+        "elperiodic.com/2015/04/medio-ambiente-participa-en-la-reintroducci%C3%B3n-de-cercetas-pardillas-con-emisor": {
+            "title": "Medio Ambiente participa en la reintroducci\u00f3n de cercetas pardillas con emisor sat\u00e9lite en el...",
+            "snippet": "La Conselleria de Infraestructuras, Territorio y Medio Ambiente participa, junto con la Universidad Miguel Hern\u00e1ndez, en el proyecto de reintroducci\u00f3n de cercetas pardillas equipadas con emisor sat\u00e9lite para conocer y evaluar los movimientos...",
+            "date": "2015-04-24",
+            "categories": "medio-ambiente",
+            "tags": "proyecto,medio,medio_ambiente,ambiente,conselleria,infraestructuras,territorio",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/elperiodic.com/2015/04/medio-ambiente-participa-en-la-reintroducci%C3%B3n-de-cercetas-pardillas-con-emisor",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
+            "source_url": "http://elperiodic.com/elx/noticias/370031_medio-ambiente-participa-reintroduccion-cercetas-pardillas-emisor-satelite-hondo.html"
+        },
+        "europapress.es/2015/04/medio-ambiente-premia-a-los-chiringuitos-responsables-con-la-costa": {
+            "title": "Medio Ambiente premia a los chiringuitos responsables con la costa...",
+            "snippet": "El Ministerio de Agricultura, Alimentaci\u00f3n y Medio Ambiente, ha abierto el plazo de presentaci\u00f3n de candidaturas al IV Premio Chiringuitos Responsables, que destaca las mejores iniciativas ambientales desarrolladas por los establecimientos...",
+            "date": "2015-04-24",
+            "categories": "medio-ambiente",
+            "tags": "medio,medio_ambiente,ambiente,ministerio,agricultura,alimentaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/europapress.es/2015/04/medio-ambiente-premia-a-los-chiringuitos-responsables-con-la-costa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=medio%2Bambiente&format=RSS&cc=es",
+            "source_url": "http://europapress.es/sociedad/medio-ambiente-00647/noticia-medio-ambiente-premia-chiringuitos-responsables-costa-20150424124618.html"
         }
     }
 }

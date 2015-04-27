@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "foros-internet",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/foros-internet/",
@@ -10,15 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/blogs.json"
     },
     "items": {
-        "14ymedio.com/2015/04/varela-y-zuckerberg-anuncian-internet-gratis-para-los-paname%C3%B1os": {
-            "title": "Varela y Zuckerberg anuncian Internet gratis para los paname\u00f1os -...",
-            "snippet": "y Zuckerberg anuncian Internet gratis para los paname\u00f1... hacer a internet accesible a m\u00e1s paname\u00f1os\", a\u00f1adi\u00f3 Varela. La II Cumbre empresarial es uno de los cuatro foros oficiales previos a la VII Cumbre de las Am\u00e9ricas que entre este viernes...",
-            "date": "2015-04-10",
+        "diario.mx/2015/04/traductor-en-internet-rinde-homenaje-a-el-quijote-diario-digital-ju%C3%A1rez": {
+            "title": "Traductor en Internet rinde homenaje a 'El Quijote'- Diario Digital Ju\u00e1rez...",
+            "snippet": "Traductor en Internet rinde homenaje a 'El Quijote'Diario Digital Ju\u00e1rezEs de su entendimiento que en los foros de discusi\u00f3n, El Diario supervisa el contenido publicado y se reserva el derecho de eliminar, editar o alterar el contenido que parezca...",
+            "date": "2015-04-23",
             "categories": "internet",
-            "tags": "gratis,internet,foros",
-            "recuweb_url": "http://es.recuweb.com/internet/14ymedio.com/2015/04/varela-y-zuckerberg-anuncian-internet-gratis-para-los-paname%C3%B1os",
+            "tags": "internet,foros,discusi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/internet/diario.mx/2015/04/traductor-en-internet-rinde-homenaje-a-el-quijote-diario-digital-ju%C3%A1rez",
             "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet&output=atom&nord=1",
-            "source_url": "http://14ymedio.com/sociedad/Varela-Zuckerberg-anuncian-Internet-panamenos_0_1758424145.html"
+            "source_url": "http://diario.mx/Economia/2015-04-23_44bb7985/traductor-en-internet-rinde-homenaje-a-el-quijote/"
+        },
+        "cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-cnnexpansi%C3%B3": {
+            "title": "El 44% de los mexicanos leen p\u00e1ginas de Internet - CNNExpansi\u00f3...",
+            "snippet": "CNNExpansi\u00f3 44% de los mexicanos leen p\u00e1ginas de InternetCNNExpansi\u00f3 DE M\u00c9XICO (CNNExpansi\u00f3n) S\u00f3lo 44% de los mexicanos leen p\u00e1ginas de internet, foros o blogs, de acuerdo con una encuesta realizada por el Instituto Nacional de Estad\u00edstica y...",
+            "date": "2015-04-22",
+            "categories": "internet",
+            "tags": "p\u00e1ginas,internet,foros",
+            "recuweb_url": "http://es.recuweb.com/internet/cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-cnnexpansi%C3%B3",
+            "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet%2Bforos%2Binternet&output=atom&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/22/el-44-de-los-mexicanos-leen-paginas-de-internet"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "economia",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/economia/",
@@ -10,115 +11,115 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/economia/economia/blogs.json"
     },
     "items": {
-        "americaeconomia.com/2015/04/econom%C3%ADa-uruguaya-confirma-desacoplamiento-de-la-regi%C3%B3n": {
-            "title": "Econom\u00eda uruguaya confirma desacoplamiento de la regi\u00f3n en el...",
-            "snippet": "En un informe que recoge la prensa local, el Comit\u00e9, que re\u00fane al ministerio de Econom\u00eda y el Banco Central (BCU), eval\u00faa positivamente el \u00faltimo dato anual de crecimiento del Producto Interno Bruto (PIB).",
-            "date": "2015-04-09",
+        "cnnexpansion.com/2015/04/la-econom%C3%ADa-mexicana-se-estanca-en-febrero-cnn-expansi%C3%B3n": {
+            "title": "La econom\u00eda mexicana se estanca en febrero... - CNN Expansi\u00f3n...",
+            "snippet": "CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n) La econom\u00eda mexicana, medida a trav\u00e9s del Indicador Global de la Actividad Econ\u00f3mica (IGAE), no tuvo variaci\u00f3n en febrero respecto a enero, de acuerdo al Instituto Nacional de...",
+            "date": "2015-04-23",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "economia",
+            "tags": "nacional,febrero,actividad,econ\u00f3mica,global,medida,m\u00e9xico,cnn,cnn_expansi\u00f3n,expansi\u00f3n,mexicana,econom\u00eda",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/la-econom%C3%ADa-mexicana-se-estanca-en-febrero-cnn-expansi%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/23/la-economia-mexicana-se-estanca-en-febrero"
+        },
+        "cnnexpansion.com/2015/04/la-econom%C3%ADa-arma-de-doble-filo-para-hillary-clinton-cnn-expansi%C3%B3n": {
+            "title": "La econom\u00eda, arma de doble filo para Hillary Clinton - CNN Expansi\u00f3n...",
+            "snippet": "La econom\u00eda estadounidense ha estado creciendo durante 71 meses, seg\u00fan la Oficina Nacional de Investigaci\u00f3n Econ\u00f3mica, el \u00e1rbitro oficial de las recesiones. Para decirlo de otra manera, la Gran Recesi\u00f3n de 2007-2008...",
+            "date": "2015-04-23",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "economia",
+            "tags": "econ\u00f3mica,nacional,creciendo,durante,cnn,cnn_expansi\u00f3n,expansi\u00f3n,econom\u00eda,estado",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/la-econom%C3%ADa-arma-de-doble-filo-para-hillary-clinton-cnn-expansi%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/22/el-problema-de-hillary-la-recuperacion-economica-de-eu"
+        },
+        "cnnexpansion.com/2015/04/los-precios-bajan%-en-la-primera-mitad-de-abril-econom%C3%ADa": {
+            "title": "Los precios bajan% en la primera mitad de abril - Econom\u00eda...",
+            "snippet": "En el periodo destac\u00f3 el descenso en el precio de la electricidad y en algunos alimentos; a tasa anual, la inflaci\u00f3n se desaceler\u00f3 a%. Jueves, 23 de abril de 2015 a las 08:42. Texto. El precio de la calabacita baj\u00f3%.",
+            "date": "2015-04-23",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "economia",
+            "tags": "precios,abril,periodo,primera,econom\u00eda,texto",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/los-precios-bajan%-en-la-primera-mitad-de-abril-econom%C3%ADa",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/23/la-inflacion-baja-a-303-en-la-primera-quincena-de-abril"
+        },
+        "americaeconomia.com/2015/04/ent%C3%A9rese-de-los-comentarios-y-las-proyecciones-sobre-la-econom%C3%ADa": {
+            "title": "Ent\u00e9rese de los comentarios y las proyecciones sobre la econom\u00eda...",
+            "snippet": "El panorama a futuro luce complejo debido a factores como la pr\u00f3xima subida de tasas de inter\u00e9s de la Reserva Federal de Estados Unidos y una menor confianza financiera en la regi\u00f3n.",
+            "date": "2015-04-22",
+            "author_name": "Gast\u00f3n Meza",
+            "categories": "economia",
+            "tags": "confianza,estados,estados_unidos,unidos,econom\u00eda",
+            "recuweb_url": "http://es.recuweb.com/economia/americaeconomia.com/2015/04/ent%C3%A9rese-de-los-comentarios-y-las-proyecciones-sobre-la-econom%C3%ADa",
+            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://americaeconomia.com/economia-mercados/finanzas/enterese-de-los-comentarios-y-las-proyecciones-sobre-la-economia-de-la-re"
+        },
+        "cnnexpansion.com/2015/04/obama-aprueba-en-econom%C3%ADa-por-primera-vez-cnn-expansi%C3%B3n": {
+            "title": "Obama aprueba en econom\u00eda, por primera vez... - CNN Expansi\u00f3n...",
+            "snippet": "Cincuenta y dos por ciento de las personas encuestadas en un nuevo sondeo de CNN/ORC describe la econom\u00eda de Estados Unidos como muy buena o bastante buena, mientras que el 48% dice que es muy pobre o...",
+            "date": "2015-04-22",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "economia",
+            "tags": "muy,buena,estados,estados_unidos,unidos,dos,nuevo,cnn,cnn_expansi\u00f3n,expansi\u00f3n,primera,econom\u00eda",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/obama-aprueba-en-econom%C3%ADa-por-primera-vez-cnn-expansi%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/21/52-de-los-estadounidenses-aprueba-la-economia-de-obama"
+        },
+        "cnnexpansion.com/2015/04/rusia-perder%C3%A1-106-000-mdd-por-sanciones-de-occidente": {
+            "title": "Rusia perder\u00e1 106,000 mdd por sanciones de Occidente...",
+            "snippet": "Mi\u00e9rcoles, 22 de abril de 2015 a las 06:01. Texto. CNNMoney. A pesar de estimaciones poco favorables, Vladimir Putin pronostic\u00f3 a principios de este mes que la econom\u00eda rusa crecer\u00e1 de nuevo en 2017. (Foto: Reuters). Art\u00edculos...",
+            "date": "2015-04-22",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "economia",
+            "tags": "crecer\u00e1,nuevo,aciones,abril,texto,cnnmoney,econom\u00eda",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/rusia-perder%C3%A1-106-000-mdd-por-sanciones-de-occidente",
+            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/21/sanciones-costaran-a-rusia-mas-de-100000-mdd"
+        },
+        "americaeconomia.com/2015/04/luis-videgaray-no-hay-contracci%C3%B3n-la-econom%C3%ADa-mexicana-se-acelera": {
+            "title": "Luis Videgaray: no hay contracci\u00f3n, la econom\u00eda mexicana se acelera...",
+            "snippet": "El titular de hacienda dijo que en 2015 la econom\u00eda nacional se est\u00e1 acelerando y expuso que la confianza del pa\u00eds se reconoce en foros internacionales.",
+            "date": "2015-04-21",
             "author_name": "Patricio D\u00edaz",
             "categories": "economia",
-            "tags": "banco,banco_central,central,ministerio,recoge,prensa,prensa-local,local,uruguaya,econom\u00eda,crecimiento",
-            "recuweb_url": "http://es.recuweb.com/economia/americaeconomia.com/2015/04/econom%C3%ADa-uruguaya-confirma-desacoplamiento-de-la-regi%C3%B3n",
+            "tags": "confianza,pa\u00eds,mexicana,contracci\u00f3n,econom\u00eda,nacional",
+            "recuweb_url": "http://es.recuweb.com/economia/americaeconomia.com/2015/04/luis-videgaray-no-hay-contracci%C3%B3n-la-econom%C3%ADa-mexicana-se-acelera",
             "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://americaeconomia.com/economia-mercados/finanzas/economia-uruguaya-confirma-desacoplamiento-de-la-region-en-el-aspecto-eco"
+            "source_url": "http://americaeconomia.com/economia-mercados/finanzas/luis-videgaray-no-hay-contraccion-la-economia-mexicana-se-acelera"
         },
-        "cnnexpansion.com/2015/04/banxico-prev%C3%A9-mejora-gradual-en-la-econom%C3%ADa-cnn-expansi%C3%B3n": {
-            "title": "Banxico prev\u00e9 mejora gradual en la econom\u00eda... - CNN Expansi\u00f3n...",
-            "snippet": "Uno de ellos a\u00f1adi\u00f3 que la trayectoria esperada de la econom\u00eda estadounidense a lo largo de 2015 y la depreciaci\u00f3n del peso podr\u00edan apoyar al sector exportador, dicen las minutas del encuentro de pol\u00edtica monetaria del...",
-            "date": "2015-04-09",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "politica,economia",
-            "tags": "pol\u00edtica,sector,cnn,mejora,econom\u00eda",
-            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/banxico-prev%C3%A9-mejora-gradual-en-la-econom%C3%ADa-cnn-expansi%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/economia/2015/04/09/banxico-preve-mejora-gradual-en-la-economia"
-        },
-        "cnnexpansion.com/2015/04/el-gobierno-griego-pagar%C3%A1-este-jueves-450-mde-al-fmi-econom%C3%ADa": {
-            "title": "El Gobierno griego pagar\u00e1 este jueves 450 mde al FMI - Econom\u00eda...",
-            "snippet": "Noticias de los principales indicadores econ\u00f3micos y lo m\u00e1s relevante de las industrias y servicios.",
-            "date": "2015-04-09",
+        "cnnexpansion.com/2015/04/problemas-internos-atoran-a-econom%C3%ADa-de-eu-summers-paulson": {
+            "title": "Problemas internos atoran a econom\u00eda de EU: Summers-Paulson...",
+            "snippet": "NUEVA YORK (CNNMoney) Los economistas dem\u00f3cratas y los republicanos concuerdan en algo: la econom\u00eda de Estados Unidos podr\u00eda tener mejor desempe\u00f1o. La buena noticia es que estamos creciendo, estamos...",
+            "date": "2015-04-21",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "economia",
-            "tags": "indicadores,jueves,gobierno,fmi,econom\u00eda,noticias",
-            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/el-gobierno-griego-pagar%C3%A1-este-jueves-450-mde-al-fmi-econom%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/economia/2015/04/09/el-gobierno-griego-pagara-este-jueves-450-mde-al-fmi"
+            "tags": "buena,estamos,creciendo,podr\u00eda,tener,desempe\u00f1o,estados,estados_unidos,unidos,nueva,internos,problemas,econom\u00eda,cnnmoney",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/problemas-internos-atoran-a-econom%C3%ADa-de-eu-summers-paulson",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/20/economia-de-eu-en-crecimiento-insuficiente"
         },
-        "cnnexpansion.com/2015/04/fitch-advierte-rebaja-a-calificaci%C3%B3n-de-brasil-econom%C3%ADa": {
-            "title": "Fitch advierte rebaja a calificaci\u00f3n de Brasil - Econom\u00eda...",
-            "snippet": "SAO PAULO (Reuters) La agencia Fitch advirti\u00f3 el jueves que podr\u00eda rebajar la calificaci\u00f3n de cr\u00e9dito de Brasil en los pr\u00f3ximos dos a\u00f1os si la econom\u00eda se deteriora m\u00e1s, mientras la presidenta, Dilma Rousseff, intenta...",
-            "date": "2015-04-09",
+        "economiasolidaria.org/2015/04/econom%C3%ADa-social-y-contrataci%C3%B3n-p%C3%BAblica-portal-de-solidaria": {
+            "title": "Econom\u00eda social y contrataci\u00f3n p\u00fablica Portal de Econom\u00eda Solidaria...",
+            "snippet": "Garc\u00eda, J.M., Bakaikoa, B., El papel de la Econom\u00eda Social en la contrataci\u00f3n p\u00fablica del Gobierno Vasco entre 2010 y 2012. Ciriec-Espa\u00f1a. Revista de Econom\u00eda P\u00fablica, Social y Cooperativa, n. 82, 2014, p. 207-232.",
+            "date": "2015-04-20",
+            "author_name": "caskunze",
+            "categories": "economia",
+            "tags": "gobierno,econom\u00eda,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/economia/economiasolidaria.org/2015/04/econom%C3%ADa-social-y-contrataci%C3%B3n-p%C3%BAblica-portal-de-solidaria",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://economiasolidaria.org/economia_social_y_contratacion_publica"
+        },
+        "cnnexpansion.com/2015/04/china-lanza-est%C3%ADmulo-para-su-econom%C3%ADa-cnn-expansi%C3%B3n": {
+            "title": "China lanza est\u00edmulo para su econom\u00eda... - CNN Expansi\u00f3n...",
+            "snippet": "La entidad monetaria anunci\u00f3 el domingo que disminuy\u00f3 el monto de dinero que los bancos deben de tener en sus reservas en 1% a 18.5%, un movimiento que puede impulsar a la econom\u00eda al liberarles fondos para...",
+            "date": "2015-04-20",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "economia",
-            "tags": "mientras,dos,jueves,podr\u00eda,advierte,fitch,econom\u00eda,reuters,agencia",
-            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/fitch-advierte-rebaja-a-calificaci%C3%B3n-de-brasil-econom%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/economia/2015/04/09/fitch-advierte-rebaja-a-calificacion-de-brasil"
-        },
-        "cnnexpansion.com/2015/04/ir%C3%A1n-otro-problema-petrolero-para-m%C3%A9xico-econom%C3%ADa": {
-            "title": "Ir\u00e1n, otro problema petrolero para M\u00e9xico - Econom\u00eda...",
-            "snippet": "Su regreso al mercado energ\u00e9tico implicar\u00e1 que el precio del barril siga bajo por mayor tiempo; Ir\u00e1n cuenta con bajos costos de producci\u00f3n por cada barril de crudo. Por: Carmen Luna. Jueves, 09 de abril de 2015 a las 06:...",
-            "date": "2015-04-09",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "economia",
-            "tags": "abril,m\u00e9xico,econom\u00eda,mayor,jueves",
-            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/ir%C3%A1n-otro-problema-petrolero-para-m%C3%A9xico-econom%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/economia/2015/04/08/iran-otro-problema-petrolero-para-mexico"
-        },
-        "taringa.net/2015/04/la-economia-nazi-el-motivo-de-sgm-taringa": {
-            "title": "La economia Nazi el motivo de la SGM - Taringa!",
-            "snippet": "Ni\u00f1os jugando con pilas de marcos que no valen nada. La economia Nazi el motivo de la SGM Mujer con pilas de dinero, Hombre barriendo dinero que no vale nada nazi 1923 el tipo de cambio es 1 dolar=marcos.",
-            "date": "2015-04-09",
-            "author_name": "desconocido",
-            "categories": "economia",
-            "tags": "nada,taringa",
-            "recuweb_url": "http://es.recuweb.com/economia/taringa.net/2015/04/la-economia-nazi-el-motivo-de-sgm-taringa",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/info/18595434/La-economia-Nazi-el-motivo-de-la-SGM.html"
-        },
-        "americaeconomia.com/2015/04/ocde-econom%C3%ADa-de-la-zona-euro-se-est%C3%A1-acelerando": {
-            "title": "OCDE: econom\u00eda de la zona euro se est\u00e1 acelerando y el panorama...",
-            "snippet": "En un reporte mensual, la entidad dijo que dentro de la zona euro, Francia e Italia est\u00e1n mostrando signos de mejora en el crecimiento.",
-            "date": "2015-04-09",
-            "author_name": "Patricio D\u00edaz",
-            "categories": "economia",
-            "tags": "mejora,dijo,zona,zona-euro,euro,econom\u00eda,crecimiento",
-            "recuweb_url": "http://es.recuweb.com/economia/americaeconomia.com/2015/04/ocde-econom%C3%ADa-de-la-zona-euro-se-est%C3%A1-acelerando",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://americaeconomia.com/economia-mercados/finanzas/ocde-economia-de-la-zona-euro-se-esta-acelerando-y-el-panorama-mas-amplio"
-        },
-        "taringa.net/2015/04/pirotecnia-k-a-la-bomba-en-econom%C3%ADa-y-granada-judicial-taringa": {
-            "title": "Pirotecnia K: A la bomba en la econom\u00eda y granada judicial - Taringa!",
-            "snippet": "Una herencia terrible que dejan los K es la inseguridad jur\u00eddica, la desconfianza que provoca la cuesti\u00f3n judicial argentina, que se le suma a todos los problemas ya conocidos de la econom\u00eda -conocidos como 'la bomba'de...",
-            "date": "2015-04-09",
-            "author_name": "desconocido",
-            "categories": "pirotecnia,economia",
-            "tags": "econom\u00eda,taringa",
-            "recuweb_url": "http://es.recuweb.com/economia/taringa.net/2015/04/pirotecnia-k-a-la-bomba-en-econom%C3%ADa-y-granada-judicial-taringa",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/noticias/18595784/Pirotecnia-K-A-la-bomba-en-la-economia-y-granada-judicial.html"
-        },
-        "cnnexpansion.com/2015/04/corea-del-norte-exige-a-m%C3%A9xico-que-libere-barco-econom%C3%ADa": {
-            "title": "Corea del Norte exige a M\u00e9xico que libere barco - Econom\u00eda...",
-            "snippet": "El pa\u00eds asegura que la embarcaci\u00f3n no pertenece a la empresa Ocean Maritime, sancionada por la ONU; el barco encall\u00f3 en julio pasado tras golpear un arrecife en la costa de Veracruz. Mi\u00e9rcoles, 08 de abril de 2015 a las 15:10. Texto.",
-            "date": "2015-04-08",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "economia",
-            "tags": "abril,pasado,m\u00e9xico,econom\u00eda,mi\u00e9rcoles",
-            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/corea-del-norte-exige-a-m%C3%A9xico-que-libere-barco-econom%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/economia/2015/04/08/coreal-del-norte-exige-a-mexico-que-libere-uno-de-sus-barcos"
-        },
-        "americaeconomia.com/2015/04/presidente-uruguayo-tabar%C3%A9-v%C3%A1zquez-econom%C3%ADa-uruguaya": {
-            "title": "Presidente uruguayo Tabar\u00e9 V\u00e1zquez: econom\u00eda uruguaya est\u00e1...",
-            "snippet": "... seg\u00fan recoge hoy la prensa local. La econom\u00eda uruguaya, que se expandi\u00f3 3,5% en 2014 para completar 12 alzas anuales consecutivas, est\u00e1 \"firme y consolidada\", enfatiz\u00f3 a un grupo de periodistas el martes a la noche.",
-            "date": "2015-04-08",
-            "author_name": "Patricio D\u00edaz",
-            "categories": "economia",
-            "tags": "grupo,recoge,prensa,prensa-local,local,uruguaya,presidente,econom\u00eda",
-            "recuweb_url": "http://es.recuweb.com/economia/americaeconomia.com/2015/04/presidente-uruguayo-tabar%C3%A9-v%C3%A1zquez-econom%C3%ADa-uruguaya",
-            "resource_url": "http://www.google.com/search?q=economia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://americaeconomia.com/economia-mercados/finanzas/presidente-uruguayo-tabare-vazquez-economia-uruguaya-esta-firme"
+            "tags": "impulsar,monto,deben,tener,reservas,cnn,cnn_expansi\u00f3n,expansi\u00f3n,china,econom\u00eda",
+            "recuweb_url": "http://es.recuweb.com/economia/cnnexpansion.com/2015/04/china-lanza-est%C3%ADmulo-para-su-econom%C3%ADa-cnn-expansi%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=economia%2Beconomia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/20/china-recorta-las-reservas-de-los-bancos"
         }
     }
 }

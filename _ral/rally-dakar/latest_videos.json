@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rally-dakar",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/rally-dakar/",
@@ -10,6 +11,30 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally-dakar/rally-dakar/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado": {
+            "title": "Rally Dakar 2016: Ministerio de Cultura no ha sido notificado de su realizaci\u00f3n...",
+            "snippet": "En un comunicado difundido esta noche en las redes sociales, el sector se\u00f1al\u00f3 que no ha sido notificado sobre las rutas ni el desarrollo del: 24HorasPTVTags: rally dakar rally dakar 2016 ministerio de cultura panamericana televisi\u00f3n 24 horas -...",
+            "date": "2015-04-18",
+            "author_name": "24HorasPTV",
+            "categories": "cultura,television,rally,rally-dakar",
+            "tags": "rally,rally_dakar,dakar,dakar-rally",
+            "recuweb_url": "http://es.recuweb.com/rally-dakar/dailymotion.com/2015/04/rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+dakar+rally+dakar/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n4ay2_rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado-de-su-realizacion_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n4ay2_rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado-de-su-realizacion_news"
+        },
+        "youtube.com/2015/04/el-rally-dakar-2016-finalizar%C3%A1-en-monumento-a-la-bandera": {
+            "title": "El Rally Dakar 2016 finalizar\u00e1 en el monumento a la Bandera...",
+            "snippet": "El Rally Dakar 2016 finalizar\u00e1 en el monumento a la Bandera Para esta edici\u00f3n el rally se iniciar\u00e1 en Lima, Per\u00fa, el 3 de enero, luego transitar\u00e1 por Bolivia, y cruzar\u00e1 hacia Argentina donde el 10 ser\u00e1 el d\u00eda de descanso en Salta, y...",
+            "date": "2015-04-16",
+            "author_name": "AudiovisualTelam",
+            "categories": "rally,rally-dakar",
+            "tags": "rally,rally_dakar,dakar,bolivia,argentina,salta",
+            "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/04/el-rally-dakar-2016-finalizar%C3%A1-en-monumento-a-la-bandera",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=boZwLF6wKSk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/boZwLF6wKSk/0.jpg"
+        },
         "dailymotion.com/2015/02/nunca-el-dakar-se-corri%C3%B3-en-cielo": {
             "title": "NUNCA EL DAKAR SE CORRI\u00d3 EN EL CIELO!",
             "snippet": "NUNCA EL DAKAR SE CORRI\u00d3 EN EL CIELO!Author: boliviatravelTags: Rally Dakar Salar de Uyuni Potos\u00ed Dakar 2015 Rally Bolivia Posted: 02 February 2015Rating:: 0...",
@@ -24,23 +49,35 @@
         },
         "youtube.com/2015/01/increible-aparece-el-fantasma-de-la-llorona-en-rally-dakar-2015": {
             "title": "!INCREIBLE! Aparece el fantasma de la llorona en Rally Dakar 2015!",
-            "snippet": "!INCREIBLE! Aparece el fantasma de la llorona en Rally Dakar 2015! Increible aparicion de un fastama en la competencia del dakar 2015. From: NotiWeb PERU Views: 114413 178 ratings Time: 02:47 More in People & Blogs...",
+            "snippet": "!INCREIBLE! Aparece el fantasma de la llorona en Rally Dakar 2015! Increible aparicion de un fastama en la competencia del dakar 2015. From: NotiWeb PERU Views: 190553 288 ratings Time: 02:47 More in People & Blogs...",
             "date": "2015-01-24",
             "author_name": "NotiWeb PERU",
             "categories": "rally,rally-dakar",
-            "tags": "competencia,dakar,rally,rally_dakar",
+            "tags": "competencia,dakar,rally,rally_dakar,llorona",
             "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/increible-aparece-el-fantasma-de-la-llorona-en-rally-dakar-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar%2Brally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=XsMsWZiTJHo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XsMsWZiTJHo/0.jpg"
         },
+        "youtube.com/2015/01/llorona-en-el-dakar-analizando-video-hd": {
+            "title": "Llorona en el Dakar analizando el video (HD)...",
+            "snippet": "Llorona en el Dakar analizando el video (HD) no se sabe la ubicaci\u00f3n exacta del video... unos dicen que es de Dakar y otros de UK. Hola en esta ocaci\u00f3n les presentare un video sobre un supuesto fantasmaen el rally Dakar (UBICACI\u00d3N... From: maray...",
+            "date": "2015-01-21",
+            "author_name": "maray en marte",
+            "categories": "rally",
+            "tags": "rally,llorona,dakar",
+            "recuweb_url": "http://es.recuweb.com/rally/youtube.com/2015/01/llorona-en-el-dakar-analizando-video-hd",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=BxaP5BXpGrg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/BxaP5BXpGrg/0.jpg"
+        },
         "youtube.com/2015/01/rally-dakar-2015-resumen-final-18-01-15-1-de-4": {
             "title": "Rally Dakar 2015 - Resumen final - 18-01-15 (1 de 4)...",
-            "snippet": "Rally Dakar 2015 - Resumen final - 18-01-15 (1 de 4) El Rally Dakar 2015 lleg\u00f3 a su fin y compartimos el resumen final de la competencia que dur\u00f3 14 d\u00edas y recorri\u00f3 territorios de en Argentina, Bolivia y Chile.... From: TV P\u00fablica - Argentina...",
+            "snippet": "Rally Dakar 2015 - Resumen final - 18-01-15 (1 de 4) El Rally Dakar 2015 lleg\u00f3 a su fin y compartimos el resumen final de la competencia que dur\u00f3 14 d\u00edas y recorri\u00f3 territorios de en Argentina, Bolivia y Chile. Con la conducci\u00f3n de Ra\u00fal...",
             "date": "2015-01-20",
             "author_name": "TV P\u00fablica - Argentina",
             "categories": "rally,rally-dakar",
-            "tags": "resumen,competencia,rally,rally_dakar,dakar,argentina,bolivia,chile,p\u00fablica",
+            "tags": "conducci\u00f3n,resumen,competencia,rally,rally_dakar,dakar,argentina,bolivia,chile,ra\u00fal",
             "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/rally-dakar-2015-resumen-final-18-01-15-1-de-4",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar%2Brally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=qfKU9mm4bWg&feature=youtube_gdata",
@@ -64,7 +101,7 @@
             "date": "2015-01-17",
             "author_name": "Omnisport-esp",
             "categories": "rally,rally-dakar",
-            "tags": "dakar,rally,rally_dakar",
+            "tags": "dakar,dakar-rally,rally,rally_dakar",
             "recuweb_url": "http://es.recuweb.com/rally-dakar/dailymotion.com/2015/01/rally-dakar-pentacampe%C3%B3n-coma",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+dakar/0?af=1",
             "source_url": "http://dailymotion.com/video/x2exp1g_rally-dakar-pentacampeon-coma_sport",
@@ -72,63 +109,27 @@
         },
         "youtube.com/2015/01/rally-dakar-2015-etapa-11-resumen-15-01-1-de-4": {
             "title": "Rally Dakar 2015 - Etapa 11: Resumen - 15-01-15 (1 de 4)...",
-            "snippet": "Rally Dakar 2015 - Etapa 11: Resumen - 15-01-15 (1 de 4) Compartimos el resumen de la Etapa 11 del Rally Dakar 2015 que comprende el recorrido Salta - Termas de R\u00edo Hondo, Argentina. Con la conducci\u00f3n de Ra\u00fal Barce... From: TV P\u00fablica -...",
+            "snippet": "Rally Dakar 2015 - Etapa 11: Resumen - 15-01-15 (1 de 4) Compartimos el resumen de la Etapa 11 del Rally Dakar 2015 que comprende el recorrido Salta - Termas de R\u00edo Hondo, Argentina. Con la conducci\u00f3n de Ra\u00fal Barcel\u00f3 y Mauricio Gallardo y con...",
             "date": "2015-01-16",
             "author_name": "TV P\u00fablica - Argentina",
             "categories": "rally,rally-dakar",
-            "tags": "ra\u00fal,ra\u00fal_barce,barce,conducci\u00f3n,r\u00edo,r\u00edo_hondo,hondo,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,salta,termas,argentina,p\u00fablica",
+            "tags": "mauricio,mauricio_gallardo,gallardo,ra\u00fal,ra\u00fal_barcel\u00f3,barcel\u00f3,conducci\u00f3n,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,salta,argentina",
             "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/rally-dakar-2015-etapa-11-resumen-15-01-1-de-4",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar%2Brally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=hbf48OObN8A&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/hbf48OObN8A/0.jpg"
         },
-        "youtube.com/2015/01/rally-dakar-2015-etapa-11-resumen-15-01-2-de-4": {
-            "title": "Rally Dakar 2015 - Etapa 11: Resumen - 15-01-15 (2 de 4)...",
-            "snippet": "Rally Dakar 2015 - Etapa 11: Resumen - 15-01-15 (2 de 4) Compartimos el resumen de la Etapa 11 del Rally Dakar 2015 que comprende el recorrido Salta - Termas de R\u00edo Hondo, Argentina. Con la conducci\u00f3n de Ra\u00fal Barce... From: TV P\u00fablica -...",
-            "date": "2015-01-16",
-            "author_name": "TV P\u00fablica - Argentina",
-            "categories": "rally,rally-dakar",
-            "tags": "ra\u00fal,ra\u00fal_barce,barce,conducci\u00f3n,r\u00edo,r\u00edo_hondo,hondo,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,salta,termas,argentina,p\u00fablica",
-            "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/rally-dakar-2015-etapa-11-resumen-15-01-2-de-4",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=CU7QRki1ms8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/CU7QRki1ms8/0.jpg"
-        },
-        "youtube.com/2015/01/rally-dakar-2015-etapa-10-resumen-14-01-15-2": {
-            "title": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (2 de 4)...",
-            "snippet": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (2 de 4) Compartimos el resumen de la Etapa 10 del Rally Dakar 2015 que comprende el recorrido Calama, Chile - Salta, Argentina. Con la conducci\u00f3n de Ra\u00fal Barcel\u00f3 y M... From: TV P\u00fablica -...",
-            "date": "2015-01-15",
-            "author_name": "TV P\u00fablica - Argentina",
-            "categories": "rally,rally-dakar",
-            "tags": "ra\u00fal,ra\u00fal_barcel\u00f3,barcel\u00f3,conducci\u00f3n,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,calama,chile,salta,argentina,p\u00fablica",
-            "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/rally-dakar-2015-etapa-10-resumen-14-01-15-2",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar%2Brally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=oL4paK3i6vw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/oL4paK3i6vw/0.jpg"
-        },
         "youtube.com/2015/01/rally-dakar-2015-etapa-10-resumen-14-01-15-3": {
             "title": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (3 de 4)...",
-            "snippet": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (3 de 4) Compartimos el resumen de la Etapa 10 del Rally Dakar 2015 que comprende el recorrido Calama, Chile - Salta, Argentina. Con la conducci\u00f3n de Ra\u00fal Barcel\u00f3 y M... From: TV P\u00fablica -...",
+            "snippet": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (3 de 4) Compartimos el resumen de la Etapa 10 del Rally Dakar 2015 que comprende el recorrido Calama, Chile - Salta, Argentina. Con la conducci\u00f3n de Ra\u00fal Barcel\u00f3 y Mauricio Gallardo y con...",
             "date": "2015-01-15",
             "author_name": "TV P\u00fablica - Argentina",
             "categories": "rally,rally-dakar",
-            "tags": "ra\u00fal,ra\u00fal_barcel\u00f3,barcel\u00f3,conducci\u00f3n,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,calama,chile,salta,argentina,p\u00fablica",
+            "tags": "mauricio,mauricio_gallardo,gallardo,ra\u00fal,ra\u00fal_barcel\u00f3,barcel\u00f3,conducci\u00f3n,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,chile,salta,argentina",
             "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/rally-dakar-2015-etapa-10-resumen-14-01-15-3",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar%2Brally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=RucwxCuFS3E&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/RucwxCuFS3E/0.jpg"
-        },
-        "youtube.com/2015/01/rally-dakar-2015-etapa-10-resumen-14-01-15-4": {
-            "title": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (4 de 4)...",
-            "snippet": "Rally Dakar 2015 - Etapa 10: Resumen - 14-01-15 (4 de 4) Compartimos el resumen de la Etapa 10 del Rally Dakar 2015 que comprende el recorrido Calama, Chile - Salta, Argentina. Con la conducci\u00f3n de Ra\u00fal Barcel\u00f3 y M... From: TV P\u00fablica -...",
-            "date": "2015-01-15",
-            "author_name": "TV P\u00fablica - Argentina",
-            "categories": "rally,rally-dakar",
-            "tags": "ra\u00fal,ra\u00fal_barcel\u00f3,barcel\u00f3,conducci\u00f3n,comprende,comprende-el-recorrido,recorrido,resumen,rally,rally_dakar,dakar,etapa,compar,calama,chile,salta,argentina,p\u00fablica",
-            "recuweb_url": "http://es.recuweb.com/rally-dakar/youtube.com/2015/01/rally-dakar-2015-etapa-10-resumen-14-01-15-4",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Bdakar&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=or12HogrBQw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/or12HogrBQw/0.jpg"
         }
     }
 }

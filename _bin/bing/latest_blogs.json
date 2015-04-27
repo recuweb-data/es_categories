@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bing",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bing/",
@@ -27,10 +28,43 @@
             "date": "2015-04-17",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "bing",
-            "tags": "acuerdo,estados,estados_unidos,unidos,b\u00fasqueda,primera,buscador,bing,microsoft",
+            "tags": "estados,unidos,mercado,b\u00fasqueda,primera,buscador,bing,microsoft,comscore",
             "recuweb_url": "http://es.recuweb.com/bing/cnnexpansion.com/2015/04/1-de-cada-5-personas-utiliza-el-buscador-bing-microsoft",
             "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/tecnologia/2015/04/17/1-de-cada-5-personas-utiliza-el-buscador-bing-de-microsoft"
+        },
+        "muycomputer.com/2015/04/bing-alcanza-el-20%-de-cuota-en-b%C3%BAsquedas-desde-pc-estados": {
+            "title": "Bing alcanza el 20% de cuota en b\u00fasquedas desde PC en Estados...",
+            "snippet": "Bing sigue subiendo en Estados Unidos, donde ha alcanzado el 20% de cuota de b\u00fasquedas realizadas desde un PC.",
+            "date": "2015-04-17",
+            "author_name": "Eduardo Medina",
+            "categories": "bing",
+            "tags": "cuota,bing,estados,unidos",
+            "recuweb_url": "http://es.recuweb.com/bing/muycomputer.com/2015/04/bing-alcanza-el-20%-de-cuota-en-b%C3%BAsquedas-desde-pc-estados",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/04/17/bing-20-por-ciento-cuota-busquedas-pc-estados-unidos"
+        },
+        "microsoftinsider.es/2015/04/bing-supera-el-20%-de-cuota-mercado-en-usa-seg%C3%BAn-comscore": {
+            "title": "Bing supera el 20% de cuota de mercado en USA seg\u00fan comScore...",
+            "snippet": "Microsoft no vio, o no quiso ver, la importancia de este bum, y no ser\u00eda hasta 2009 cuando con la salida de Bing pusiese en el mercado un competidor decente, dejando atr\u00e1s MSN Search. Bing, el buscador de Microsoft, fue...",
+            "date": "2015-04-17",
+            "author_name": "\u00c1lex Rodr\u00edguez",
+            "categories": "bing",
+            "tags": "buscador,search,mercado,cuota,bing,comscore,microsoft",
+            "recuweb_url": "http://es.recuweb.com/bing/microsoftinsider.es/2015/04/bing-supera-el-20%-de-cuota-mercado-en-usa-seg%C3%BAn-comscore",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://microsoftinsider.es/68159/bing-supera-el-20-de-cuota-de-mercado-en-usa-segun-comscore/"
+        },
+        "geeksroom.com/2015/04/bing-mejora-la-b%C3%BAsqueda-de-im%C3%A1genes-en-ios-y-android-escribir": {
+            "title": "Bing mejora la b\u00fasqueda de im\u00e1genes en iOS y Android: escribir...",
+            "snippet": "Bing acaba de anunciar una actualizaci\u00f3n de en iOS y Android que mejora la b\u00fasqueda de im\u00e1genes, escribiendo menos y buscando im\u00e1genes m\u00e1s r\u00e1pido. Como ejemplo, supongamos que buscamos por...",
+            "date": "2015-04-16",
+            "author_name": "Hector Russo",
+            "categories": "bing",
+            "tags": "b\u00fasqueda,bing,ios,ejemplo",
+            "recuweb_url": "http://es.recuweb.com/bing/geeksroom.com/2015/04/bing-mejora-la-b%C3%BAsqueda-de-im%C3%A1genes-en-ios-y-android-escribir",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geeksroom.com/2015/04/bing-mejora-la-busqueda-de-imagenes-en-ios-y-android-escribir-menos-buscar-imagenes-mas-rapido/93463/"
         },
         "microsoftinsider.es/2015/04/bing-ads-disponible-para-ios-monitoriza-tus-campa%C3%B1as": {
             "title": "Bing Ads disponible para iOS, monitoriza tus campa\u00f1as - Bing...",
@@ -49,10 +83,21 @@
             "date": "2015-04-15",
             "author_name": "Juan David Qui\u00f1\u00f3nez",
             "categories": "bing,adwords,iphone,ipad",
-            "tags": "servicio,bing,bing_ads,ads,nueva,ios,microsoft",
+            "tags": "bing,bing_ads,ads,nueva,ios,microsoft,adwords",
             "recuweb_url": "http://es.recuweb.com/ipad/wwwhatsnew.com/2015/04/nueva-aplicaci%C3%B3n-m%C3%B3vil-oficial-de-bing-ads-para-ios-wwwhat",
             "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/04/15/nueva-aplicacion-movil-oficial-bing-ads/"
+        },
+        "techweek.es/2015/04/bing-predice-la-victoria-del-real-madrid-en-el-calder%C3%B3n": {
+            "title": "Bing predice la victoria del Real Madrid en el Calder\u00f3n y la derrota...",
+            "snippet": "Seg\u00fan las predicciones de Bing, el Real Madrid es favorito en el derbi madrile\u00f1o contra el Atl\u00e9tico, ya que el actual campe\u00f3n de Europa cuenta con m\u00e1s de un 60% de opciones de tomar el estadio de su eterno rival en la...",
+            "date": "2015-04-14",
+            "author_name": "desconocido",
+            "categories": "realmadrid,bing",
+            "tags": "tomar,bing,cuenta",
+            "recuweb_url": "http://es.recuweb.com/bing/techweek.es/2015/04/bing-predice-la-victoria-del-real-madrid-en-el-calder%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://techweek.es/servicios-web/noticias/1015068004901/bing-predice-victoria-real-madrid.1.html"
         },
         "microsoftinsider.es/2015/04/bing-pronostica-el-resultado-del-primer-cruce-de-cuartos-final": {
             "title": "Bing pronostica el resultado del primer cruce de Cuartos de Final de...",
@@ -71,53 +116,10 @@
             "date": "2015-04-13",
             "author_name": "dianaort",
             "categories": "pintura,bing",
-            "tags": "pinturas,curva,curva-cirgelia,cirgelia,cirgelia-se-forma,forma,forma-de-dos,dos,dos-arcos,dos-arcos-propiamente,arcos,arcos-propiamente,propiamente,elipse,inspiraci\u00f3n,inspiraci\u00f3n-org\u00e1nica,org\u00e1nica,empieza,empieza-tomar,tomar,referencia,tendencia,tendencia-hacer,hacer,hacer-las-cosas,cosas,cosas-simples,simples,samuel,samuel_bing,samuel_bing_hab\u00eda,bing,bing_hab\u00eda,hab\u00eda,tema,fuente,oculencia,alfonso,muchart",
+            "tags": "forma,dos,empieza,tomar,hacer,bing",
             "recuweb_url": "http://es.recuweb.com/bing/dianaort.wordpress.com/2015/04/tema-8-vanguardias-art%C3%ADsticas",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=bing%2Bbing&rss=1&lng=es",
             "source_url": "http://dianaort.wordpress.com/2015/04/13/tema-8-vanguardias-artisticas/"
-        },
-        "microsoftinsider.es/2015/04/bing-se-redise%C3%B1a-y-a%C3%B1ade-nuevas-funciones-en-su-servicio": {
-            "title": "Bing se redise\u00f1a y a\u00f1ade nuevas funciones en su servicio de...",
-            "snippet": "LLevamos unas semanas con numerosas implementaciones de novedades en el buscador Bing para Estados Unidos. Pero no se olvidan del resto, hoy nos hemos dado cuenta que el apartado Im\u00e1genes de Bing ha inclu\u00eddo...",
-            "date": "2015-04-08",
-            "author_name": "Izan Gonz\u00e1lez",
-            "categories": "bing",
-            "tags": "hoy,dado,estados,estados_unidos,unidos,buscador,nuevas,servicio,bing,cuenta",
-            "recuweb_url": "http://es.recuweb.com/bing/microsoftinsider.es/2015/04/bing-se-redise%C3%B1a-y-a%C3%B1ade-nuevas-funciones-en-su-servicio",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsoftinsider.es/67180/bing-se-redisena-y-anade-nuevas-funciones-en-su-servicio-de-imagenes/"
-        },
-        "dianaort.wordpress.com/2015/04/tema-7-arte-nouveau": {
-            "title": "TEMA 7: ARTE NOUVEAU...",
-            "snippet": "Samuel Bing Bing Hab\u00eda tendencia hacer las cosas simples, empieza a tomar a la naturaleza como referencia Fuente de inspiraci\u00f3n org\u00e1nica, curva cirgelia se forma de dos arcos propiamente de una elipse Oculencia en las pinturas. Alfonso muchart,...",
-            "date": "2015-04-07",
-            "author_name": "dianaort",
-            "categories": "pintura,bing",
-            "tags": "pinturas,curva,curva-cirgelia,cirgelia,cirgelia-se-forma,forma,forma-de-dos,dos,dos-arcos,dos-arcos-propiamente,arcos,arcos-propiamente,propiamente,elipse,inspiraci\u00f3n,inspiraci\u00f3n-org\u00e1nica,org\u00e1nica,empieza,empieza-tomar,tomar,referencia,tendencia,tendencia-hacer,hacer,hacer-las-cosas,cosas,cosas-simples,simples,samuel,samuel_bing,samuel_bing_hab\u00eda,bing,bing_hab\u00eda,hab\u00eda,tema,fuente,oculencia,alfonso,muchart",
-            "recuweb_url": "http://es.recuweb.com/bing/dianaort.wordpress.com/2015/04/tema-7-arte-nouveau",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=bing%2Bbing&rss=1&lng=es",
-            "source_url": "http://dianaort.wordpress.com/2015/04/07/tema-7-arte-nouveau/"
-        },
-        "microsoftinsider.es/2015/03/yahoo-y-microsoft-confirman-nuevas-negociaciones-en-torno-a-bing": {
-            "title": "Yahoo y Microsoft confirman nuevas negociaciones en torno a Bing...",
-            "snippet": "Microsoft Bing Search Engine es el motor de b\u00fasqueda de Yahoo desde 2010, dicho acuerdo ten\u00eda 5 a\u00f1os de vigencia y ha habido multitud de rumores sobre su continuidad. Parece que ambas compa\u00f1\u00edas se quieren dar...",
-            "date": "2015-03-28",
-            "author_name": "Pautr\u00e9 Ful\u00f3",
-            "categories": "yahoo,bing",
-            "tags": "quieren,acuerdo,search,search-engine,engine,b\u00fasqueda,nuevas,yahoo,microsoft,bing",
-            "recuweb_url": "http://es.recuweb.com/bing/microsoftinsider.es/2015/03/yahoo-y-microsoft-confirman-nuevas-negociaciones-en-torno-a-bing",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsoftinsider.es/66279/yahoo-y-microsoft-confirman-nuevas-negociaciones-entorno-a-bing/"
-        },
-        "lkpdifudiendoelkpopenpanama.blogspot.com/2015/03/super-asia-music-fan-bingbing-es-una-sirena-capturada-pierce": {
-            "title": "SUPER ASIA MUSIC: Fan Bingbing es una sirena capturada Pierce...",
-            "snippet": "Hermosa actriz china Fan Bingbing de Empress of China, la fama es ahora una sirena en el embrague del Rey Sol franc\u00e9s. Pierce Brosnan interpreta a Luis XIV, que quiere que el secreto de la inmortalidad de ella. Basado...",
-            "date": "2015-03-27",
-            "author_name": "Gisela Preciado",
-            "tags": "luis,fan,fan_bingbing,bingbing,asia,music,china,empress",
-            "recuweb_url": "http://es.recuweb.com/lkpdifudiendoelkpopenpanama.blogspot.com/2015/03/super-asia-music-fan-bingbing-es-una-sirena-capturada-pierce",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lkpdifudiendoelkpopenpanama.blogspot.com/2015/03/fan-bingbing-es-una-sirena-capturada.html"
         }
     }
 }

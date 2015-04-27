@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "macintosh",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/macintosh/",
@@ -33,18 +34,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/macintosh+macintosh/0?af=1",
             "source_url": "http://dailymotion.com/video/x23pocq_retro-vistazo-a-las-primeras-macintosh_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x23pocq_retro-vistazo-a-las-primeras-macintosh_tech"
-        },
-        "youtube.com/2014/07/evoluci%C3%B3n-de-macintosh": {
-            "title": "Evoluci\u00f3n de Macintosh...",
-            "snippet": "Evoluci\u00f3n de Macintosh... From: Joa Shagratha Astarte Astaroth Views: 30 1 ratings Time: 04:55 More in People & Blogs...",
-            "date": "2014-07-12",
-            "author_name": "Joa Shagratha Astarte Astaroth",
-            "categories": "macintosh",
-            "tags": "macintosh",
-            "recuweb_url": "http://es.recuweb.com/macintosh/youtube.com/2014/07/evoluci%C3%B3n-de-macintosh",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=macintosh&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=WuLaPtDFmPE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/WuLaPtDFmPE/0.jpg"
         },
         "youtube.com/2014/04/retro-informatica-exposici%C3%B3n-en-zaragoza-sobre-el-xxx-aniversario-del-apple": {
             "title": "Retro informatica Exposici\u00f3n en Zaragoza sobre el XXX Aniversario del Apple Macintosh by...",
@@ -124,11 +113,23 @@
             "date": "2014-01-23",
             "author_name": "K-tuin Apple Premium Reseller",
             "categories": "macintosh",
-            "tags": "steve,steve_jobs,jobs,aniversario,macintosh,cumple,apple",
+            "tags": "steve,steve_jobs,jobs,d\u00eda,aniversario,macintosh,cumple,apple",
             "recuweb_url": "http://es.recuweb.com/macintosh/youtube.com/2014/01/30-aniversario-del-macintosh-1984-2014-especial-k-tuin",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=macintosh&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=cuOk5kasceQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/cuOk5kasceQ/0.jpg"
+        },
+        "youtube.com/2014/01/mlp-muestra-de-voz-big-macintosh-2t": {
+            "title": "MLP Muestra de voz: Big Macintosh 2T...",
+            "snippet": "MLP Muestra de voz: Big Macintosh 2T Actor de doblaje: Hector Moreno Toma: 1x17 El d\u00eda de los corazones y cascos \".\" \u00bfSabes de Doblaje? Entra a los Anexos Epis\u00f3dicos y ay\u00fadanos a completar el art\u00edculo de My Little... From: Doblaje MLP Latino...",
+            "date": "2014-01-07",
+            "author_name": "Doblaje MLP Latino",
+            "categories": "doblaje,macintosh",
+            "tags": "d\u00eda,macintosh",
+            "recuweb_url": "http://es.recuweb.com/macintosh/youtube.com/2014/01/mlp-muestra-de-voz-big-macintosh-2t",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=macintosh%2Bmacintosh&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=9_Tp4uru5MY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/9_Tp4uru5MY/0.jpg"
         }
     }
 }

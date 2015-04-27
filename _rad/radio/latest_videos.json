@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "radio",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/radio/",
@@ -10,30 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/la-chiki-504-entrevista-en-radio-activa-sps-sea-humilde": {
-            "title": "La Chiki 504 entrevista en Radio Activa SPS Sea Humilde chiki...",
-            "snippet": "La Chiki 504 entrevista en Radio Activa SPS Sea Humilde chiki La Chiki 504 entrevista en Radio Activa SPS Sea Humilde chiki \"La Chiqui 504\" From: La Chiki 504 Views: 23430 326 ratings Time: 30:25 More in Entertainment...",
-            "date": "2015-04-15",
-            "author_name": "La Chiki 504 \u30c4",
-            "categories": "radio",
-            "tags": "radio,entertainment",
-            "recuweb_url": "http://es.recuweb.com/radio/youtube.com/2015/04/la-chiki-504-entrevista-en-radio-activa-sps-sea-humilde",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=N9QQlYGR-Lo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/N9QQlYGR-Lo/0.jpg"
-        },
-        "youtube.com/2015/04/atlas-1-colo-3-radio-cooperativa-chile-copa-libertadores-2015": {
-            "title": "Atlas 1 Colo Colo 3 (Radio Cooperativa Chile) Copa Libertadores 2015...",
-            "snippet": "Atlas 1 Colo Colo 3 (Radio Cooperativa Chile) Copa Libertadores 2015 Los goles del partido con relato de Ernesto Diaz Correa Radio Cooperativa de Chile. From: Futbolpasionmundial3 Views: 65859 307 ratings Time: 06:31 More in Sports...",
-            "date": "2015-04-08",
-            "author_name": "Futbolpasionmundial3",
-            "categories": "radio",
-            "tags": "radio",
-            "recuweb_url": "http://es.recuweb.com/radio/youtube.com/2015/04/atlas-1-colo-3-radio-cooperativa-chile-copa-libertadores-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=MQa0F55vKAA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/MQa0F55vKAA/0.jpg"
-        },
         "youtube.com/2015/04/bonvallet-radio-la-clave-mi%C3%A9rcoles-08-04-15": {
             "title": "Bonvallet - Radio La Clave - Mi\u00e9rcoles 08/04/15...",
             "snippet": "Bonvallet - Radio La Clave - Mi\u00e9rcoles 08/04/15 From: Fabi\u00e1n Troncoso Bustamante Views: 2897 52 ratings Time: 01:24:04 More in Entertainment...",
@@ -42,7 +19,7 @@
             "categories": "radio",
             "tags": "radio,radio_la_clave,clave,entertainment",
             "recuweb_url": "http://es.recuweb.com/radio/youtube.com/2015/04/bonvallet-radio-la-clave-mi%C3%A9rcoles-08-04-15",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=uU09lBY_u8o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/uU09lBY_u8o/0.jpg"
         },
@@ -58,21 +35,21 @@
             "source_url": "http://youtube.com/watch?v=lxKWhdaxm4g&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/lxKWhdaxm4g/0.jpg"
         },
-        "youtube.com/2015/04/cr-2012-ep-14-la-linea-omega-conciencia-radio": {
-            "title": "CR 2012 EP 14 LA LINEA OMEGA CONCIENCIA RADIO...",
-            "snippet": "CR 2012 EP 14 LA LINEA OMEGA CONCIENCIA RADIO Programa Especial de sobre el Fin de los Tiempos y El Regreso de de Jes\u00fas Cristo a la Tierra. Episodio 14 de la Temporada 2012 del programa CONCIENCIA RADIO conducido por M\u00f3nica Gahbler... From:...",
-            "date": "2015-04-01",
-            "author_name": "concienciaradio",
+        "youtube.com/2015/04/radio-libre-de-difool-01-04-2015": {
+            "title": "Radio Libre de Difool - 01/04/2015...",
+            "snippet": "Radio Libre de Difool - 01/04/2015 Avec la venue de Kaaris dans les studios! Les replays continuent sur www... From: Tart'Views: 2366 25 ratings Time: 02:46:53 More in Entertainment...",
+            "date": "2015-04-02",
+            "author_name": "Tart'",
             "categories": "radio",
-            "tags": "radio",
-            "recuweb_url": "http://es.recuweb.com/radio/youtube.com/2015/04/cr-2012-ep-14-la-linea-omega-conciencia-radio",
+            "tags": "radio,entertainment",
+            "recuweb_url": "http://es.recuweb.com/radio/youtube.com/2015/04/radio-libre-de-difool-01-04-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=jUu9LxDlFRc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/jUu9LxDlFRc/0.jpg"
+            "source_url": "http://youtube.com/watch?v=3hdPmxmLdwo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3hdPmxmLdwo/0.jpg"
         },
         "youtube.com/2015/03/la-trakalosa-de-monterrey-en-vivo-fiesta-radio-ke-buena-bandamax": {
             "title": "La Trakalosa De Monterrey En Vivo La Fiesta De La Radio Ke Buena Bandamax 2015 HD...",
-            "snippet": "La Trakalosa De Monterrey En Vivo La Fiesta De La Radio Ke Buena Bandamax 2015 HD SUSCRIBTE: REDES SOCIALES: FACEBOOK: TWITTER: 3BallMTY AK-7 Akwid Alacranes Musical... From: MUSICATU2015 Views: 37365 155 ratings Time: 13:51 More in Music...",
+            "snippet": "La Trakalosa De Monterrey En Vivo La Fiesta De La Radio Ke Buena Bandamax 2015 HD SUSCRIBTE: REDES SOCIALES: FACEBOOK: TWITTER: 3BallMTY AK-7 Akwid Alacranes Musical... From: MUSICATU2015 Views: 39867 160 ratings Time: 13:51 More in Music...",
             "date": "2015-03-29",
             "author_name": "MUSICATU2015",
             "categories": "radio,facebook,twitter",
@@ -84,19 +61,19 @@
         },
         "youtube.com/2015/03/banda-ms-en-vivo-la-fiesta-de-radio-ke-buena-bandamax": {
             "title": "Banda MS En Vivo La Fiesta De La Radio Ke Buena Bandamax 2015 HD...",
-            "snippet": "Banda MS En Vivo La Fiesta De La Radio Ke Buena Bandamax 2015 HD SUSCRIBTE: REDES SOCIALES: FACEBOOK: TWITTER: 3BallMTY AK-7 Akwid Alacranes Musical... From: MUSICATU2015 Views: 88875 490 ratings Time: 13:18 More in Music...",
+            "snippet": "Banda MS En Vivo La Fiesta De La Radio Ke Buena Bandamax 2015 HD SUSCRIBTE: REDES SOCIALES: FACEBOOK: TWITTER: 3BallMTY AK-7 Akwid Alacranes Musical... From: MUSICATU2015 Views: 90667 499 ratings Time: 13:18 More in Music...",
             "date": "2015-03-26",
             "author_name": "MUSICATU2015",
             "categories": "radio,facebook,twitter",
             "tags": "akwid,akwid_alacranes,akwid_alacranes_musical,alacranes,alacranes_musical,musical,redes,redes_sociales,sociales,vivo,vivo_la_fiesta,fiesta,radio,radio_ke_buena,buena,buena_bandamax,bandamax,suscribte,facebook,twitter,ballmty,musicatu,music",
             "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2015/03/banda-ms-en-vivo-la-fiesta-de-radio-ke-buena-bandamax",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=7R29nrjUaV0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/7R29nrjUaV0/0.jpg"
         },
         "youtube.com/2015/03/tigres-del-norte-en-la-fiesta-de-radio": {
             "title": "Tigres del Norte en la fiesta de la radio...",
-            "snippet": "Tigres del Norte en la fiesta de la radio Tigres del Norte en la fiesta de la radio Ke buena, cantando a dueto con Marco Antonio Solis. From: juan1199 Views: 21180 74 ratings Time: 01:06:04 More in Music...",
+            "snippet": "Tigres del Norte en la fiesta de la radio Tigres del Norte en la fiesta de la radio Ke buena, cantando a dueto con Marco Antonio Solis. From: juan1199 Views: 21765 77 ratings Time: 01:06:04 More in Music...",
             "date": "2015-03-26",
             "author_name": "juan1199",
             "categories": "radio",
@@ -118,17 +95,41 @@
             "source_url": "http://youtube.com/watch?v=J4lKdCPrRzQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/J4lKdCPrRzQ/0.jpg"
         },
-        "youtube.com/2015/02/luisito-radio-el-noviazgo": {
-            "title": "Luisito Radio - El noviazgo...",
-            "snippet": "Luisito Radio - El noviazgo Utiliza el HT LuisitoRadio Contacto Prensa Negocios Conferencias y eventos Firma de aut\u00f3grafos Llamanos 5511982665 Redes Oficiales de Luisito Rey: Twitter... From: Luisito Kingdom Views: 137854 9115 ratings Time:...",
-            "date": "2015-02-20",
-            "author_name": "Luisito Kingdom",
+        "youtube.com/2015/01/luisito-radio-nueva-temporada": {
+            "title": "Luisito radio - Nueva Temporada...",
+            "snippet": "Luisito radio - Nueva Temporada Utiliza el HT LuisitoRadio en Twitter para responder sus preguntas. El tema de hoy es; LOS CELULARES Llamanos 551198 2665 Contacto Prensa Negocios Conferencias y eventos Firma de... From: luisitorey Views: 313708...",
+            "date": "2015-01-30",
+            "author_name": "luisitorey",
             "categories": "radio,twitter",
-            "tags": "redes,radio,twitter",
-            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2015/02/luisito-radio-el-noviazgo",
+            "tags": "radio,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2015/01/luisito-radio-nueva-temporada",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=jAAOuWRXDOc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/jAAOuWRXDOc/0.jpg"
+            "source_url": "http://youtube.com/watch?v=IZDyUPX27FQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/IZDyUPX27FQ/0.jpg"
+        },
+        "youtube.com/2015/01/conciencia-radio-ep-46-2014-depresion-global-alexander-backman": {
+            "title": "CONCIENCIA RADIO EP 46 2014 - DEPRESION GLOBAL - ALEXANDER BACKMAN...",
+            "snippet": "CONCIENCIA RADIO EP 46 2014 - DEPRESION GLOBAL - ALEXANDER BACKMAN Alexander Backman en su programa Conciencia Radio de SUSCRIBETE AL PROGRAMA DE CONCIENCIA RADIO EN VIVO::::: TRANSMITIMOS TODOS LOS VIERNES A... From: concienciaradio Views: 13964...",
+            "date": "2015-01-10",
+            "author_name": "concienciaradio",
+            "categories": "radio",
+            "tags": "radio,vivo",
+            "recuweb_url": "http://es.recuweb.com/radio/youtube.com/2015/01/conciencia-radio-ep-46-2014-depresion-global-alexander-backman",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radio%2Bradio&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=tpo3g_jlYzg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tpo3g_jlYzg/0.jpg"
+        },
+        "dailymotion.com/2015/01/pedro-llegando-a-la-radio-de-jes%C3%BAs-mar%C3%ADa-instagram-08-enero": {
+            "title": "Pedro llegando a la radio de Jes\u00fas Mar\u00eda (instagram radio Jes\u00fas Mar\u00eda) - 08 de Enero...",
+            "snippet": "Pedro llegando a la radio de Jes\u00fas Mar\u00eda (instagram radio Jes\u00fas Mar\u00eda) - 08 de EneroAuthor: chavesyalfonsooTags: Posted: 08 January 2015Rating:: 0...",
+            "date": "2015-01-08",
+            "author_name": "chavesyalfonsoo",
+            "categories": "radio",
+            "tags": "radio",
+            "recuweb_url": "http://es.recuweb.com/radio/dailymotion.com/2015/01/pedro-llegando-a-la-radio-de-jes%C3%BAs-mar%C3%ADa-instagram-08-enero",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/radio+radio/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2e9usr_pedro-llegando-a-la-radio-de-jesus-maria-instagram-radio-jesus-maria-08-de-enero_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2e9usr_pedro-llegando-a-la-radio-de-jesus-maria-instagram-radio-jesus-maria-08-de-enero_shortfilms"
         }
     }
 }

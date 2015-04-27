@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xampp",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xampp/",
@@ -21,6 +22,61 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=es",
             "source_url": "http://cotidianaplace.blogspot.com/2015/04/mi-nube-instalacion-local-de-owncloud.html"
         },
+        "gcalvetty.wordpress.com/2015/04/xampp-apache-error-err-connection-refused-gecn": {
+            "title": "xampp Apache error ERR_CONNECTION_REFUSED GECN...",
+            "snippet": "Al configurar tu sitio en localhost si tienes este error: ERR_CONNECTION_REFUSED no te preocupes es problema de puerto de escucha que usa Apache para resolverlo ingresa al archivo: xampp/apache/conf/...",
+            "date": "2015-04-16",
+            "author_name": "gcalvetty",
+            "categories": "xampp",
+            "tags": "escucha,error,xampp,apache,configurar,puerto",
+            "recuweb_url": "http://es.recuweb.com/xampp/gcalvetty.wordpress.com/2015/04/xampp-apache-error-err-connection-refused-gecn",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://gcalvetty.wordpress.com/2015/04/16/xampp-apache-error-err_connection_refused/"
+        },
+        "andoandoprogramando.wordpress.com/2015/04/c%C3%B3digo-php-dentro-de-html-no-se-interpreta-xampp-ando": {
+            "title": "C\u00f3digo php dentro de html no se interpreta (xampp) Ando ando...",
+            "snippet": "C\u00f3digo php dentro de html no se interpreta (xampp). De seguro has tenido la misma dificultad que yo. Escribes un pedazo de c\u00f3digo en php dentro de un html y este no se procesa. Tu idea es que al final dentro del html te...",
+            "date": "2015-04-13",
+            "author_name": "Jhoed Ram",
+            "categories": "html,php,xampp",
+            "tags": "final,c\u00f3digo,php,xampp",
+            "recuweb_url": "http://es.recuweb.com/xampp/andoandoprogramando.wordpress.com/2015/04/c%C3%B3digo-php-dentro-de-html-no-se-interpreta-xampp-ando",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://andoandoprogramando.wordpress.com/2015/04/13/codigo-php-dentro-de-html-no-se-interpreta-xampp/"
+        },
+        "sololinux.es/2015/04/instalar-y-configurar-xampp-en-linux": {
+            "title": "Instalar y configurar Xampp en linux - Linux para todos...",
+            "snippet": "XAMPP es un paquete de c\u00f3digo libre, con el cual podr\u00e1s instalar de forma muy sencilla un servidor Apache en ordenador, es compatible con los sistemas operativos Linux, Windows, MAC o Solaris. Esta instalacion que...",
+            "date": "2015-04-08",
+            "author_name": "Sergio G.B.",
+            "categories": "xampp",
+            "tags": "ordenador,muy,c\u00f3digo,instalar,configurar,xampp,linux,libre,servidor,apache,windows,mac",
+            "recuweb_url": "http://es.recuweb.com/xampp/sololinux.es/2015/04/instalar-y-configurar-xampp-en-linux",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://sololinux.es/post/Instalar-y-configurar-Xampp-en-linux"
+        },
+        "sololinux.es/2015/04/historial-de-versiones-xampp-apache-mysql-php-y-fecha": {
+            "title": "Historial de versiones XAMPP: Apache, MySQL, PHP y Fecha...",
+            "snippet": "Apache Friends ofrece versiones antiguas de XAMPP para su descarga a trav\u00e9s de SourceForge, permitiendo a los desarrolladores el poder utilizar la versi\u00f3n que m\u00e1s se asemeje a su entorno de servidor, pero por extra\u00f1o...",
+            "date": "2015-04-07",
+            "author_name": "Sergio G.B.",
+            "categories": "xampp,mysql,php",
+            "tags": "entorno,descarga,xampp,apache,mysql,php,servidor",
+            "recuweb_url": "http://es.recuweb.com/php/sololinux.es/2015/04/historial-de-versiones-xampp-apache-mysql-php-y-fecha",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://sololinux.es/post/Historial-de-versiones-XAMPP-Apache-MySQL-PHP-y-Fecha"
+        },
+        "yii2enespanol.com/2015/04/instalando-xampp-en-linux-yii-2-espa%C3%B1ol": {
+            "title": "Instalando XAMPP en Linux Yii 2 en Espa\u00f1ol...",
+            "snippet": "Me decid\u00ed entonces a instalar Xampp y ver si podr\u00eda tenerlo funcionando sin arrancerme demasiados cabellos. Para aquellos que hablan linux como su lengua materna, lo que escribo aqu\u00ed podr\u00e1 parecerles una obviedad,...",
+            "date": "2015-04-05",
+            "author_name": "vihugarcia",
+            "categories": "xampp",
+            "tags": "linux,xampp,espa\u00f1ol,instalar",
+            "recuweb_url": "http://es.recuweb.com/xampp/yii2enespanol.com/2015/04/instalando-xampp-en-linux-yii-2-espa%C3%B1ol",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://yii2enespanol.com/2015/04/05/instalando-xampp-en-linux/"
+        },
         "tonsigasi.wordpress.com/2015/03/xampp-download-espa%C3%B1ol-ultima-version": {
             "title": "Xampp download espa\u00f1ol ultima version...",
             "snippet": "Download Descargar gratis xampp ultima version - XAMPP Windows: Monta tu p\u00e1gina web en local con este pack de f\u00e1cil instalaci\u00f3n, y m\u00e1s programas. XAMPP is the most...",
@@ -38,10 +94,21 @@
             "date": "2015-03-02",
             "author_name": "jsstoni",
             "categories": "xampp,mysql",
-            "tags": "software,plataforma,instalar,xampp,servidor,base,datos,mysql,web,apache",
+            "tags": "plataforma,ubuntu,instalar,xampp,servidor,software,libre,base,datos,mysql,web,apache",
             "recuweb_url": "http://es.recuweb.com/mysql/jsstoni.wordpress.com/2015/03/instalar-xampp-en-ubuntu",
             "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
             "source_url": "http://jsstoni.wordpress.com/2015/03/02/instalar-xampp-en-ubuntu/"
+        },
+        "blogs.ua.es/2015/02/problemas-con-xampp-y-el-puerto-80-blogs-ua": {
+            "title": "Problemas con XAMPP y el puerto 80? - Blogs UA...",
+            "snippet": "\u00bfA qui\u00e9n no le ha pasado que despu\u00e9s de instalar el XAMPP ha intentado iniciar el Apache y no le ha funcionado? Xampp_01a. Error del Apache porque se est\u00e1 usando el puerto 80. Este problema se suele dar porque ya...",
+            "date": "2015-02-16",
+            "author_name": "Xavi",
+            "categories": "xampp",
+            "tags": "usando,iniciar,xampp,puerto,instalar,apache,error",
+            "recuweb_url": "http://es.recuweb.com/xampp/blogs.ua.es/2015/02/problemas-con-xampp-y-el-puerto-80-blogs-ua",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogs.ua.es/labseps/2015/02/16/problemas-con-xampp-y-el-puerto-80/"
         },
         "inforoberto.wordpress.com/2015/01/xampp-para-windows-php": {
             "title": "XAMPP para Windows (PHP)...",
@@ -49,76 +116,10 @@
             "date": "2015-01-30",
             "author_name": "haldford",
             "categories": "xampp,php,mysql",
-            "tags": "completamente,completamente-gratuita,gratuita,f\u00e1cil,entorno,entorno-m\u00e1s-popular,popular,popular-de-desarrollo,desarrollo,xampp,windows,php,apache,instalar,mysql",
+            "tags": "completamente,f\u00e1cil,entorno,desarrollo,xampp,windows,php,apache,instalar,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/inforoberto.wordpress.com/2015/01/xampp-para-windows-php",
             "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
             "source_url": "http://inforoberto.wordpress.com/2015/01/30/xampp-para-windows-v5-6-3-php-5-6-3/"
-        },
-        "frikipandi.com/2014/10/c%C3%B3mo-instalar-xampp-frikipandi": {
-            "title": "\u00bfC\u00f3mo instalar XAMPP? - Frikipandi...",
-            "snippet": "XAMPP es el entorno m\u00e1s popular de desarrollo con PHP. XAMPP... XAMPP es un servidor, para desarrollar aplicaciones en php, con conexi\u00f3n a base de datos sql (LAMPP=Linux Apache MySQL PHP Perl). Facilita...",
-            "date": "2014-10-09",
-            "author_name": "Juan Casc\u00f3n Ba\u00f1os",
-            "categories": "mysql,php,xampp,perl",
-            "tags": "linux,apache,mysql,desarrollar,aplicaciones,php,entorno,entorno-m\u00e1s-popular,popular,popular-de-desarrollo,desarrollo,instalar,xampp,servidor,base,datos",
-            "recuweb_url": "http://es.recuweb.com/perl/frikipandi.com/2014/10/c%C3%B3mo-instalar-xampp-frikipandi",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://frikipandi.com/public/post/como-instalar-xampp/"
-        },
-        "tuxapuntes.com/2014/10/configurar-servidor-local-lamp-con-xampp-tuxapuntes": {
-            "title": "Configurar servidor local lamp con xampp - TuxApuntes...",
-            "snippet": "Gu\u00eda pr\u00e1ctica de como configurar un servidor local lamp con xampp en tu propio server de forma sencilla.",
-            "date": "2014-10-05",
-            "author_name": "jagilgarcia",
-            "categories": "xampp",
-            "tags": "forma,configurar,servidor,local,xampp,server",
-            "recuweb_url": "http://es.recuweb.com/xampp/tuxapuntes.com/2014/10/configurar-servidor-local-lamp-con-xampp-tuxapuntes",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tuxapuntes.com/2014/10/configurar-servidor-local-lamp-con-xampp/"
-        },
-        "emslinux.com/2014/10/forma-de-instalar-xampp-en-linux-emslinux-el-mundo": {
-            "title": "Forma de instalar XAMPP en Linux - emsLinux El mundo seg\u00fan...",
-            "snippet": "XAMPP es una plataforma compatible con Linux que nos permitir\u00e1 poder crear servidores locales en nuestro equipo de una manera completamente gratuita.",
-            "date": "2014-10-04",
-            "author_name": "simon",
-            "categories": "xampp",
-            "tags": "completamente,completamente-gratuita,gratuita,plataforma,compatible,forma,instalar,xampp,linux,crear",
-            "recuweb_url": "http://es.recuweb.com/xampp/emslinux.com/2014/10/forma-de-instalar-xampp-en-linux-emslinux-el-mundo",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://emslinux.com/forma-de-instalar-xampp-en-linux/"
-        },
-        "nosolounix.com/2014/10/forma-de-crear-un-servidor-local-con-xampp-en-linux-no": {
-            "title": "Forma de crear un servidor local con XAMPP en Linux - No solo Unix...",
-            "snippet": "XAMPP es uno de los recursos m\u00e1s recomendados para montar un servidor local dentro de Linux, puesto que es compatible con la mayor\u00eda de las distribuciones de este sistema operativo, y porque consigue incorporar...",
-            "date": "2014-10-03",
-            "author_name": "Unix",
-            "categories": "xampp",
-            "tags": "compatible,forma,crear,servidor,local,xampp,linux",
-            "recuweb_url": "http://es.recuweb.com/xampp/nosolounix.com/2014/10/forma-de-crear-un-servidor-local-con-xampp-en-linux-no",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://nosolounix.com/2014/10/forma-de-crear-un-servidor-local-con.html"
-        },
-        "pathros.blogspot.com/2014/09/xampp-php-fatal-error-maximum-execution-time-of-x-seconds": {
-            "title": "XAMPP, PHP: Fatal error: Maximum execution time of X seconds...",
-            "snippet": "XAMPP, PHP: Fatal error: Maximum execution time of X seconds exceeded in. Este error resulta de que, en la configuraci\u00f3n del PHP, el tiempo de ejecuci\u00f3n de tu script excedi\u00f3 el tiempo de ejecuci\u00f3n por default. Para evitar...",
-            "date": "2014-09-28",
-            "author_name": "pathros",
-            "categories": "xampp,php",
-            "tags": "error,xampp,php",
-            "recuweb_url": "http://es.recuweb.com/php/pathros.blogspot.com/2014/09/xampp-php-fatal-error-maximum-execution-time-of-x-seconds",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pathros.blogspot.com/2014/09/xampp-php-fatal-error-maximum-execution.html"
-        },
-        "duilio.me/2014/09/creando-virtual-hosts-con-apache-en-windows-para-wamp-o-xampp": {
-            "title": "Creando Virtual Hosts con Apache en Windows para WAMP o XAMPP...",
-            "snippet": "En este tutorial aprenderemos paso a paso c\u00f3mo crear virtual hosts de apache en instalaciones MAMP o XAMPP en Windows.",
-            "date": "2014-09-17",
-            "author_name": "Yoel Monzon",
-            "categories": "xampp",
-            "tags": "paso,paso-paso,apache,windows,wamp,xampp,tutorial,c\u00f3mo,crear",
-            "recuweb_url": "http://es.recuweb.com/xampp/duilio.me/2014/09/creando-virtual-hosts-con-apache-en-windows-para-wamp-o-xampp",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://duilio.me/creando-virtual-hosts-con-apache-en-windows-para-wamp-o-xampp/"
         }
     }
 }

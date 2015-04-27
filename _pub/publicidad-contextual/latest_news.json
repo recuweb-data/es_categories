@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "publicidad-contextual",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/publicidad-contextual/",
@@ -10,41 +11,70 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/publicidad-contextual/publicidad-contextual/blogs.json"
     },
     "items": {
-        "prensalibre.com/2015/02/herramientas-para-hacer-ventas-efectivas": {
-            "title": "Herramientas para hacer ventas efectivas...",
-            "snippet": "Las dos mejores maneras para generar tr\u00e1fico en la p\u00e1gina web de un emprendedor son: por posicionamiento pagado en Google o publicidad contextual en Facebook. \u00bfCu\u00e1l es la mejor? Eso depender\u00e1 de la estrategia y el producto que se impulse,...",
-            "date": "2015-02-17",
-            "categories": "google,facebook",
-            "tags": "web,google,publicidad,contextual",
-            "recuweb_url": "http://es.recuweb.com/facebook/prensalibre.com/2015/02/herramientas-para-hacer-ventas-efectivas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
-            "source_url": "http://prensalibre.com/economia/expertos-negocios-emprendedores-ventas-internet_0_1304869704.html"
+        "milenio.com/2015/04/cu%C3%A1l-es-el-reto-de-cadena-tres-y-radio-centro": {
+            "title": "\u00bfCu\u00e1l es el reto de Cadena Tres y Radio Centro para ganar... -...",
+            "snippet": "\u00bfCu\u00e1l es el reto de Cadena Tres y Radio Centro para ganar... Los prospectos de publicidad mejorada como inserciones din\u00e1micas, publicidad contextual y de acceso, las m\u00faltiples plataformas digitales, dan oportunidad a las televisoras de generar...",
+            "date": "2015-04-06",
+            "categories": "radio",
+            "tags": "m\u00faltiples,digitales,ganar,publicidad,contextual",
+            "recuweb_url": "http://es.recuweb.com/radio/milenio.com/2015/04/cu%C3%A1l-es-el-reto-de-cadena-tres-y-radio-centro",
+            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
+            "source_url": "http://milenio.com/negocios/nuevas_cadenas_de_television-publicidad_nuevas_cadenas_TV-Accenture_TV_0_494950568.html"
+        },
+        "elobservador.com.uy/2015/03/tracci%C3%B3n-en-las-4-ruedas-el-observador": {
+            "title": "Tracci\u00f3n en las 4 ruedas - El Observador...",
+            "snippet": "Tracci\u00f3n en las 4 ruedasEl ObservadorSe pueden utilizar m\u00faltiples medios para captar la atenci\u00f3n del p\u00fablico objetivo; desde publicidad contextual (SEM), posicionar bien en buscadores (SEO), acciones de relaciones p\u00fablicas, o cualquier acci\u00f3n...",
+            "date": "2015-03-23",
+            "tags": "posicionar,m\u00faltiples,medios,publicidad,contextual,seo",
+            "recuweb_url": "http://es.recuweb.com/elobservador.com.uy/2015/03/tracci%C3%B3n-en-las-4-ruedas-el-observador",
+            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
+            "source_url": "http://elobservador.com.uy/emprendedores/post/1849/traccion-en-las-4-ruedas/"
         },
         "mundo.sputniknews.com/2015/02/ciudadano-ruso-denuncia-a-google-por-violar-el-secreto-de-sputnik": {
             "title": "Ciudadano ruso denuncia a Google por violar el secreto de... - Sputnik Mundo...",
             "snippet": "Ciudadano ruso denuncia a Google por violar el secreto de...Sputnik MundoEl motivo de la denuncia de Ant\u00f3n Burkov, jefe de c\u00e1tedra de la Universidad Humanitaria de Ekaterimburgo, fue la publicidad contextual que le propuso el buscador a base de su...",
             "date": "2015-02-16",
             "categories": "google",
-            "tags": "google,publicidad,contextual",
+            "tags": "denuncia,google,publicidad,contextual",
             "recuweb_url": "http://es.recuweb.com/google/mundo.sputniknews.com/2015/02/ciudadano-ruso-denuncia-a-google-por-violar-el-secreto-de-sputnik",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://mundo.sputniknews.com/tecnologia/20150216/1034400033.html"
         },
-        "blog.kaspersky.es/2015/02/gran-hermano-qui%C3%A9n-nos-esp%C3%ADa-en-la-web": {
-            "title": "Gran hermano: \u00bfqui\u00e9n nos esp\u00eda en la Web?",
-            "snippet": "As\u00ed es como la publicidad contextual funciona: existen muchos m\u00e9todos leg\u00edtimos para el seguimiento de la actividad online de los usuarios. Hoy en d\u00eda, te podemos decir c\u00f3mo deshacerte de los m\u00e1s conocidos. \u00bfQui\u00e9n nos est\u00e1 observando? Solo...",
-            "date": "2015-02-06",
-            "tags": "online,usuarios,m\u00e9todos,web,publicidad,contextual",
-            "recuweb_url": "http://es.recuweb.com/blog.kaspersky.es/2015/02/gran-hermano-qui%C3%A9n-nos-esp%C3%ADa-en-la-web",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
-            "source_url": "http://blog.kaspersky.es/gran-hermano-nos-espia-en-la-web/5318/"
+        "bolsamania.com/2014/11/internet-te-esp%C3%ADa-y-no-puedes-hacer-casi-nada-para-remediarlo": {
+            "title": "Internet te esp\u00eda... y no puedes hacer (casi) nada para remediarlo -...",
+            "snippet": "te esp\u00eda... y no puedes hacer (casi) nada para respuesta es sencilla: Google utiliza todos los datos a su disposici\u00f3n a trav\u00e9s de la llamada publicidad contextual: visitas un sitio y en lugar de ver publicidad indiferente encuentras banners de...",
+            "date": "2014-11-14",
+            "categories": "internet,google",
+            "tags": "lugar,disposici\u00f3n,google,publicidad,contextual,sitio",
+            "recuweb_url": "http://es.recuweb.com/google/bolsamania.com/2014/11/internet-te-esp%C3%ADa-y-no-puedes-hacer-casi-nada-para-remediarlo",
+            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual%2Bpublicidad%2Bcontextual&output=atom&nord=1",
+            "source_url": "http://bolsamania.com/noticias/tecnologia/internet-te-espia-y-no-puedes-hacer-casi-nada-para-remediarlo--622083.html"
+        },
+        "genbeta.com/2014/08/google-denuncia-a-uno-de-sus-usuarios-al-detectar-im%C3%A1genes-genbeta": {
+            "title": "Google denuncia a uno de sus usuarios al detectar im\u00e1genes... - Genbeta...",
+            "snippet": "GenbetaGoogle denuncia a uno de sus usuarios al detectar im\u00e1genes...GenbetaLo que todos pens\u00e1bamos es que el robot encargado de escanear esos correos electr\u00f3nicos se dedicaba, b\u00e1sicamente, a seleccionar publicidad contextual para nosotros.",
+            "date": "2014-08-03",
+            "categories": "google",
+            "tags": "denuncia,usuarios,im\u00e1genes,google,publicidad,contextual",
+            "recuweb_url": "http://es.recuweb.com/google/genbeta.com/2014/08/google-denuncia-a-uno-de-sus-usuarios-al-detectar-im%C3%A1genes-genbeta",
+            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
+            "source_url": "http://genbeta.com/correo/google-denuncia-a-uno-de-sus-usuarios-al-detectar-imagenes-sospechosas-en-su-e-mail"
+        },
+        "prnoticias.com/2013/10/escrito-por-nahir-vallejos-pr-noticias-comunicado-de-prensa": {
+            "title": "Escrito por Nahir Vallejos - PR Noticias (Comunicado de prensa)...",
+            "snippet": "Escrito por Nahir VallejosPR Noticias (Comunicado de prensa)El concepto 'publicidad segmentada'ya est\u00e1 integrado en el vocabulario de anunciantes y agencias. De lo que no hablan tanto es de una de sus variantes, la publicidad contextual. Dominique...",
+            "date": "2013-10-11",
+            "tags": "hablan,hablan-tanto,variantes,integrado,vocabulario,vocabulario-de-anunciantes,anunciantes,anunciantes-agencias,agencias,concepto,publicidad,segmentada,contextual,dominique",
+            "recuweb_url": "http://es.recuweb.com/prnoticias.com/2013/10/escrito-por-nahir-vallejos-pr-noticias-comunicado-de-prensa",
+            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
+            "source_url": "http://prnoticias.com/hemeroteca/658-entrevistas-prmarketing/20124889-video-dominique-loumaye-pan-explica-en-que-consiste-la-publicidad-contextual"
         },
         "laverdad.es/2012/09/twitter-ofrecer%C3%A1-publicidad-contextual-a-sus-usuarios-seg%C3%BAn-la-verdad-murcia": {
             "title": "Twitter ofrecer\u00e1 publicidad contextual a sus usuarios seg\u00fan sus... - La Verdad (Murcia)...",
             "snippet": "Twitter ofrecer\u00e1 publicidad contextual a sus usuarios seg\u00fan sus...La Verdad (Murcia)Twitter anunci\u00f3 el pasado jueves que permitir\u00e1 a sus anunciantes orientarse directamente sobre los intereses de los usuarios de la red de microblogging. Seg\u00fan...",
             "date": "2012-09-03",
             "categories": "microblogging,twitter",
-            "tags": "anunciantes,usuarios,publicidad,contextual",
+            "tags": "anunciantes,usuarios,red,publicidad,contextual",
             "recuweb_url": "http://es.recuweb.com/twitter/laverdad.es/2012/09/twitter-ofrecer%C3%A1-publicidad-contextual-a-sus-usuarios-seg%C3%BAn-la-verdad-murcia",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://laverdad.es/murcia/20120903/gente/twitter-ofrecera-publicidad-contextual-201209032012.html"
@@ -53,10 +83,19 @@
             "title": "Cookies, publicidad contextual y publicidad basada en el... - Expansi\u00f3...",
             "snippet": "Cookies, publicidad contextual y publicidad basada en el...Expansi\u00f3 ponente coment\u00f3 que, en un estudio que hab\u00edan realizado sobre la disposici\u00f3n de los usuarios a recibir publicidad online personalizada, se hab\u00eda confirmado que, a la hora de...",
             "date": "2012-04-03",
-            "tags": "online,usuarios,publicidad,contextual",
+            "tags": "disposici\u00f3n,usuarios,publicidad,contextual",
             "recuweb_url": "http://es.recuweb.com/expansion.com/2012/04/cookies-publicidad-contextual-y-basada-en-el-expansi%C3%B3",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://expansion.com/blogs/ribas/2012/04/03/cookies-publicidad-contextual-y.html"
+        },
+        "europapress.es/2011/11/los-editores-espa%C3%B1oles-crean-una-red-de-publicidad-contextual-europa-press": {
+            "title": "Los editores espa\u00f1oles crean una red de publicidad contextual... - Europa Press...",
+            "snippet": "Los editores espa\u00f1oles crean una red de publicidad contextual...Europa PressLos medios digitales espa\u00f1oles han formado una alianza para crear una red de publicidad contextual, que se comercialice conjuntamente y cuyos anuncios se visualicen en...",
+            "date": "2011-11-22",
+            "tags": "anuncios,medios,digitales,red,publicidad,contextual",
+            "recuweb_url": "http://es.recuweb.com/europapress.es/2011/11/los-editores-espa%C3%B1oles-crean-una-red-de-publicidad-contextual-europa-press",
+            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
+            "source_url": "http://europapress.es/portaltic/internet/noticia-editores-espanoles-crean-red-publicidad-contextual-alternativa-google-20111122154759.html"
         }
     }
 }

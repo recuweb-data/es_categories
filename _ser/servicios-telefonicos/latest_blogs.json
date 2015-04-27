@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "servicios-telefonicos",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-telefonicos/",
@@ -10,48 +11,67 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-telefonicos/servicios-telefonicos/blogs.json"
     },
     "items": {
-        "supernoticias.do/2015/03/indotel-informa-sobre-el-monto-de-sanciones-a-empresas": {
-            "title": "Indotel informa sobre el monto de sanciones a empresas de...",
-            "snippet": "Indotel informa sobre el monto de sanciones a empresas de servicios telef\u00f3nicos. 0. El Instituto Dominicano de las Telecomunicaciones (Indotel), actualiz\u00f3 las penalidades econ\u00f3micas a las prestadoras de servicios de...",
-            "date": "2015-03-06",
-            "author_name": "Supernoticias",
-            "categories": "telecomunicacion",
-            "tags": "prestadoras,instituto,instituto_dominicano,dominicano,informa,empresas,indotel,servicios,telef\u00f3nicos,telecomunicaciones",
-            "recuweb_url": "http://es.recuweb.com/telecomunicacion/supernoticias.do/2015/03/indotel-informa-sobre-el-monto-de-sanciones-a-empresas",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://supernoticias.do/indotel-informa-sobre-el-monto-de-sanciones-a-empresas-de-servicios-telefonicos/"
-        },
-        "blog.empleoguinea.com/2015/02/getesa-y-muni-firman-un-acuerdo-de-cooperaci%C3%B3n-para-mejorar": {
-            "title": "GETESA y MUNI firman un acuerdo de cooperaci\u00f3n para mejorar...",
-            "snippet": "GETESA y MUNI firman un acuerdo de cooperaci\u00f3n para mejorar los servicios telef\u00f3nicos del pa\u00eds. Publicado el 02/18/2015 por. Guinea Ecuatorial de Telecomunicaciones Sociedad An\u00f3nima (GETESA). La empresa...",
-            "date": "2015-02-18",
-            "author_name": "EMPLEOGUINEA.COM",
-            "categories": "telecomunicacion,sociedad",
-            "tags": "telecomunicaciones,mejorar,servicios,telef\u00f3nicos,empresa",
-            "recuweb_url": "http://es.recuweb.com/sociedad/blog.empleoguinea.com/2015/02/getesa-y-muni-firman-un-acuerdo-de-cooperaci%C3%B3n-para-mejorar",
+        "trabajosparatodos.com/2015/04/promotor-de-servicios-telefonicos-trabajos": {
+            "title": "PROMOTOR DE SERVICIOS TELEFONICOS Trabajos Para Todos...",
+            "snippet": "FERNANDO ESPINO DEL CASTILLO BARRON Ubicaci\u00f3n: Tijuana BCN MX Ocupaci\u00f3n: Promotor de ventas Funciones: Ventas promotor atenci\u00f3n a clientes Tipo de empleo: Tiempo completo D\u00edas laborales: D L Ma Mi J V S...",
+            "date": "2015-04-12",
+            "author_name": "admin",
+            "categories": "empleo,servicios-telefonicos",
+            "tags": "atenci\u00f3n,ventas,servicios,servicios_telefonicos,telefonicos,clientes",
+            "recuweb_url": "http://es.recuweb.com/servicios-telefonicos/trabajosparatodos.com/2015/04/promotor-de-servicios-telefonicos-trabajos",
             "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.empleoguinea.com/getesa-y-muni-firman-un-acuerdo-de-cooperacion-para-mejorar-los-servicios-telefonicos-del-pais/"
+            "source_url": "http://trabajosparatodos.com/archives/3492"
+        },
+        "noticiasconobjetividad.wordpress.com/2015/04/abusos-de-los-servicios-telef%C3%B3nicos-registro-no-llamar": {
+            "title": "Abusos De Los Servicios Telef\u00f3nicos: REGISTRO NO LLAMAR...",
+            "snippet": "DEFENSOR DEL PUEBLO LA MATANZA El 30 de septiembre de 2013 se public\u00f3 en el Bolet\u00edn Oficial el Decreto N 559/13, por medio del cual se reglamenta la Ley Provincial N denominada REGISTRO NO...",
+            "date": "2015-04-03",
+            "author_name": "elnco",
+            "categories": "servicios-telefonicos",
+            "tags": "provincial,llamar,servicios,servicios_telef\u00f3nicos,telef\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/servicios-telefonicos/noticiasconobjetividad.wordpress.com/2015/04/abusos-de-los-servicios-telef%C3%B3nicos-registro-no-llamar",
+            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticiasconobjetividad.wordpress.com/2015/04/03/abusos-de-los-servicios-telefonicos-registro-no-llamar/"
+        },
+        "vamosuruguay.com.uy/2015/03/llamadas-telef%C3%B3nicas-residuales-a-los-servicios-de-emergencia": {
+            "title": "Llamadas telef\u00f3nicas residuales a los servicios de emergencia...",
+            "snippet": "La Ursec comunicar\u00e1 la suspensi\u00f3n a las empresas prestatarias de servicios telef\u00f3nicos, en los casos en los que la llamada provenga de una l\u00ednea fija o de una l\u00ednea m\u00f3vil, cuando su titular sea una persona f\u00edsica. Cuando la...",
+            "date": "2015-03-24",
+            "author_name": "Vamos Uruguay",
+            "tags": "casos,llamadas,empresas,servicios,telef\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/vamosuruguay.com.uy/2015/03/llamadas-telef%C3%B3nicas-residuales-a-los-servicios-de-emergencia",
+            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://vamosuruguay.com.uy/llamadas-telefonicas-residuales-a-los-servicios-de-emergencia/"
+        },
+        "dominicanoshoy.com/2015/03/cuba-y-eeuu-reanudan-servicios-telef%C3%B3nicos-directos": {
+            "title": "Cuba y EEUU reanudan servicios telef\u00f3nicos directos...",
+            "snippet": "El monopolio estatal de las comunicaciones de Cuba y una compa\u00f1\u00eda de Estados Unidos reanudaron los servicios de telefon\u00eda directa internacional, tras el primer acuerdo suscrito entre empresas de ambos pa\u00edses luego del...",
+            "date": "2015-03-12",
+            "author_name": "desconocido",
+            "tags": "empresas,telefon\u00eda,servicios,telef\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/dominicanoshoy.com/2015/03/cuba-y-eeuu-reanudan-servicios-telef%C3%B3nicos-directos",
+            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://dominicanoshoy.com/index.php?id=58&tx_ttnews[year]=2015&tx_ttnews[month]=03&tx_ttnews[tt_news]=127795&cHash=c54f11aeb8aec9ea47bdeaf968d27820"
         },
         "ibericanews.com/2015/02/servicios-telef%C3%B3nicos-de-cita-previa-ajenos-a-la-agencia-tributaria": {
             "title": "Servicios telef\u00f3nicos de cita previa ajenos a la Agencia Tributaria...",
             "snippet": "Se han detectado servicios de pago a trav\u00e9s de n\u00fameros que ofrecen acceso al tel\u00e9fono que la Agencia Tributaria pone a disposici\u00f3n de todos los contribuyentes para concertar cita previa para ser atendidos en sus oficinas.",
             "date": "2015-02-10",
             "author_name": "Borja O.",
-            "tags": "servicios,telef\u00f3nicos,pago,trav\u00e9s,tel\u00e9fono",
+            "tags": "agencia,agencia_tributaria,tributaria,servicios,telef\u00f3nicos,pago,trav\u00e9s,tel\u00e9fono",
             "recuweb_url": "http://es.recuweb.com/ibericanews.com/2015/02/servicios-telef%C3%B3nicos-de-cita-previa-ajenos-a-la-agencia-tributaria",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ibericanews.com/servicios-telefonicos-de-cita-previa-ajenos-a-la-agencia-tributaria-2/"
+            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ibericanews.com/2015/02/10/servicios-telefonicos-de-cita-previa-ajenos-a-la-agencia-tributaria-2/"
         },
-        "agenciaorbita.org/2015/02/se-normalizaron-servicios-telefonicos-en-el-centro-y-oriente": {
-            "title": "Se normalizaron servicios Telefonicos en el Centro y Oriente del...",
-            "snippet": "Lima.- Telef\u00f3nica informa a sus clientes y al p\u00fablico en general que ya se encuentran funcionando en forma normal sus servicios de telefon\u00eda fija, m\u00f3vil, internet y datos, lamentablemente afectados en dos oportunidades por...",
-            "date": "2015-02-10",
-            "author_name": "redactor1",
-            "categories": "internet",
-            "tags": "internet,telefon\u00eda,informa,servicios,telefonicos,centro,telef\u00f3nica,clientes",
-            "recuweb_url": "http://es.recuweb.com/internet/agenciaorbita.org/2015/02/se-normalizaron-servicios-telefonicos-en-el-centro-y-oriente",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://agenciaorbita.org/se-normalizaron-servicios-telefonicos-en-el-centro-y-oriente-del-pais/"
+        "pymesyautonomos.com/2015/02/la-calidad-de-los-servicios-telef%C3%B3nicos-informaci%C3%B3n-tributaria": {
+            "title": "La calidad de los servicios telef\u00f3nicos de informaci\u00f3n tributaria de la...",
+            "snippet": "La calidad de los servicios de atenci\u00f3n telef\u00f3nica parece que ya no es la mismas, pero realmente es la Agencia Tributaria la que esta al otro...",
+            "date": "2015-02-08",
+            "author_name": "De la Cigo\u00f1a",
+            "tags": "agencia,agencia_tributaria,tributaria,atenci\u00f3n,telef\u00f3nica,calidad,servicios,telef\u00f3nicos,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/pymesyautonomos.com/2015/02/la-calidad-de-los-servicios-telef%C3%B3nicos-informaci%C3%B3n-tributaria",
+            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://pymesyautonomos.com/fiscalidad-y-contabilidad/la-calidad-de-los-servicios-telefonicos-de-informacion-tributaria-de-la-agencia-tributaria"
         },
         "radiovertientes.wordpress.com/2015/01/prosiguen-acciones-para-mejorar-servicios-telef%C3%B3nicos-en-vertientes": {
             "title": "Prosiguen acciones para mejorar servicios telef\u00f3nicos en Vertientes...",
@@ -59,32 +79,10 @@
             "date": "2015-01-22",
             "author_name": "Radio Vertientes",
             "categories": "telecomunicacion",
-            "tags": "per\u00edodo,trabajadores,deben,deben-percibir,percibir,percibir-una-mejor\u00eda,mejor\u00eda,mejor\u00eda-paulatina,paulatina,telefon\u00eda,eovalis,eovalis_matos,eovalis_matos_arias,matos,matos_arias,arias,acciones,acciones-para-mejorar,mejorar,servicios,telef\u00f3nicos,vertientes,durante,empresa,telecomunicaciones",
+            "tags": "trabajadores,telefon\u00eda,servicios,telef\u00f3nicos,durante,empresa",
             "recuweb_url": "http://es.recuweb.com/telecomunicacion/radiovertientes.wordpress.com/2015/01/prosiguen-acciones-para-mejorar-servicios-telef%C3%B3nicos-en-vertientes",
             "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://radiovertientes.wordpress.com/2015/01/22/prosiguen-acciones-para-mejorar-servicios-telefonicos-en-vertientes/"
-        },
-        "trapitocom.blogspot.com/2015/01/suspeder%C3%A1n-servicios-telefonicos-a-usuarios": {
-            "title": ": Suspeder\u00e1n servicios telefonicos a usuarios que...",
-            "snippet": "El Instituto Dominicano de las Telecomunicaciones (Indotel) autoriz\u00f3 hoy a las prestadoras de servicios de telefon\u00eda a suspender, de manera parcial, el servicio telef\u00f3nico a los usuarios que realicen llamadas molestosas,...",
-            "date": "2015-01-20",
-            "author_name": "Trapitoonline.net",
-            "categories": "telecomunicacion",
-            "tags": "servicios,telefonicos,llamadas,telefon\u00eda,prestadoras,instituto,instituto_dominicano,dominicano,telecomunicaciones,indotel",
-            "recuweb_url": "http://es.recuweb.com/telecomunicacion/trapitocom.blogspot.com/2015/01/suspeder%C3%A1n-servicios-telefonicos-a-usuarios",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://trapitocom.blogspot.com/2015/01/suspederan-servicios-telefonicos.html"
-        },
-        "radiovertientes.wordpress.com/2015/01/proseguir%C3%A1n-este-a%C3%B1o-acciones-para-mejorar-servicios-telef%C3%B3nicos": {
-            "title": "Proseguir\u00e1n este a\u00f1o acciones para mejorar servicios telef\u00f3nicos...",
-            "snippet": "Por Eovalis Matos Arias Los servicios de telefon\u00eda en Vertientes deben percibir una mejor\u00eda paulatina durante el 2015, per\u00edodo en el que los trabajadores de la Empresa de Telecomunicaciones...",
-            "date": "2015-01-09",
-            "author_name": "Radio Vertientes",
-            "categories": "telecomunicacion",
-            "tags": "per\u00edodo,trabajadores,deben,deben-percibir,percibir,percibir-una-mejor\u00eda,mejor\u00eda,mejor\u00eda-paulatina,paulatina,telefon\u00eda,eovalis,eovalis_matos,eovalis_matos_arias,matos,matos_arias,arias,acciones,acciones-para-mejorar,mejorar,servicios,telef\u00f3nicos,vertientes,durante,empresa,telecomunicaciones",
-            "recuweb_url": "http://es.recuweb.com/telecomunicacion/radiovertientes.wordpress.com/2015/01/proseguir%C3%A1n-este-a%C3%B1o-acciones-para-mejorar-servicios-telef%C3%B3nicos",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://radiovertientes.wordpress.com/2015/01/09/proseguiran-este-ano-acciones-para-mejorar-servicios-telefonicos/"
         },
         "elbaluartedecadiz.es/2014/12/nuevo-fraude-en-los-servicios-telef%C3%B3nicos-el-baluarte-de-c%C3%A1diz": {
             "title": "Nuevo fraude en los servicios telef\u00f3nicos El Baluarte de C\u00e1diz...",
@@ -92,21 +90,10 @@
             "date": "2014-12-03",
             "author_name": "Redacci\u00f3n",
             "categories": "conocimiento",
-            "tags": "nuevos,servicios,telef\u00f3nicos,consumidores",
+            "tags": "nuevos,casos,servicios,telef\u00f3nicos,consumidores",
             "recuweb_url": "http://es.recuweb.com/conocimiento/elbaluartedecadiz.es/2014/12/nuevo-fraude-en-los-servicios-telef%C3%B3nicos-el-baluarte-de-c%C3%A1diz",
             "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elbaluartedecadiz.es/2014/12/nuevo-fraude-en-los-servicios-telefonicos/"
-        },
-        "economiacubana.blogspot.com/2014/10/econom%C3%ADa-cubana-servicios-telef%C3%B3nicos-interrumpidos": {
-            "title": "Econom\u00eda Cubana: Servicios telef\u00f3nicos interrumpidos...",
-            "snippet": "Servicios telef\u00f3nicos interrumpidos 30-10-2014 14:02:37 Juan Carlos D\u00edaz Fonseca Red Cubana de Comunicadores Comunitarios ().- Aunque el lema del Ministerio de. Comunicaciones es:...",
-            "date": "2014-10-31",
-            "author_name": "Cuba Verdad",
-            "categories": "economia",
-            "tags": "juan,carlos,servicios,telef\u00f3nicos,comunicaciones",
-            "recuweb_url": "http://es.recuweb.com/economia/economiacubana.blogspot.com/2014/10/econom%C3%ADa-cubana-servicios-telef%C3%B3nicos-interrumpidos",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://economiacubana.blogspot.com/2014/10/servicios-telefonicos-interrumpidos.html"
         },
         "empleosdominicanos.com/2005/09/empresa-contratista-solicita-bachilleres-con-experiencia-en-ventas": {
             "title": "Empresa Contratista solicita bachilleres con experiencia en Ventas...",
@@ -114,9 +101,9 @@
             "date": "2005-09-26",
             "author_name": "EmpleosDominicanos",
             "categories": "servicios-telefonicos",
-            "tags": "servicios,servicios_telef\u00f3nicos,telef\u00f3nicos,empresa",
+            "tags": "ventas,servicios,servicios_telef\u00f3nicos,telef\u00f3nicos,empresa",
             "recuweb_url": "http://es.recuweb.com/servicios-telefonicos/empleosdominicanos.com/2005/09/empresa-contratista-solicita-bachilleres-con-experiencia-en-ventas",
-            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos%2Bservicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servicios%2Btelefonicos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://empleosdominicanos.com/empresa-contratista-solicita-bachilleres-con-experiencia-en-ventas-de-servicios-telefonicos/"
         }
     }

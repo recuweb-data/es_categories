@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "telefon\u00eda-m\u00f3vil",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/telefon\u00eda-m\u00f3vil/",
@@ -10,97 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/telefon%C3%ADa-m%C3%B3vil/telefon%C3%ADa-m%C3%B3vil/blogs.json"
     },
     "items": {
-        "tiempo.hn/2015/04/cn-revisar%C3%A1-esta-semana-las-limitaciones-de-telefon%C3%ADa-m%C3%B3vil": {
-            "title": "CN revisar\u00e1 esta semana las limitaciones de telefon\u00eda m\u00f3vil en las... -...",
-            "snippet": "La revisar\u00e1 esta semana las limitaciones de telefon\u00eda m\u00f3vil en las... - Los parlamentarios del Congreso Nacional de Honduras discutir\u00e1n en las sesiones programadas para esta semana una ampliaci\u00f3n a la Ley de Limitaci\u00f3n de Servicios de...",
-            "date": "2015-04-20",
-            "tags": "telefon\u00eda,m\u00f3vil,servicios",
-            "recuweb_url": "http://es.recuweb.com/tiempo.hn/2015/04/cn-revisar%C3%A1-esta-semana-las-limitaciones-de-telefon%C3%ADa-m%C3%B3vil",
+        "abc.es/2015/04/google-cumple-su-amenaza-y-lanza-un-servicio-de-telefon%C3%ADa-m%C3%B3vil": {
+            "title": "Google cumple su amenaza y lanza un servicio de telefon\u00eda m\u00f3vil...",
+            "snippet": "Google anunci\u00f3 este mi\u00e9rcoles el lanzamiento de un servicio de telefon\u00eda m\u00f3vil, accesible s\u00f3lo con invitaci\u00f3n previapor un precio base de 20 d\u00f3lares al mes (llamadas de voz, SMS, conexi\u00f3n wifi y conbertura internacional en m\u00e1s de 120...",
+            "date": "2015-04-23",
+            "categories": "google",
+            "tags": "conexi\u00f3n,s\u00f3lo,invitaci\u00f3n,anunci\u00f3,anunci\u00f3-este-mi\u00e9rcoles,mi\u00e9rcoles,mi\u00e9rcoles-el-lanzamiento,lanzamiento,lanza,google,servicio,telefon\u00eda,m\u00f3vil",
+            "recuweb_url": "http://es.recuweb.com/google/abc.es/2015/04/google-cumple-su-amenaza-y-lanza-un-servicio-de-telefon%C3%ADa-m%C3%B3vil",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
+            "source_url": "http://abc.es/economia/20150423/abci-google-servicio-telefonia-201504231045.html"
+        },
+        "expansion.com/2015/04/am%C3%A9rica-latina-piensa-en-5g-pero-su-telefon%C3%ADa-m%C3%B3vil-sigue": {
+            "title": "Am\u00e9rica Latina piensa en 5G, pero su telefon\u00eda m\u00f3vil sigue en el 2G...",
+            "snippet": "El mundo de las telecomunicaciones ya empieza a hablar de redes celulares de quinta generaci\u00f3n o 5G. Es la tecnolog\u00eda que, en teor\u00eda, permitir\u00edan que aparatos se comuniquen entre s\u00ed en cuesti\u00f3n de milisegundos. Am\u00e9rica Latina, mientras tanto,...",
+            "date": "2015-04-22",
+            "categories": "tecnologia,telecomunicacion",
+            "tags": "tecnolog\u00eda,redes,telefon\u00eda,m\u00f3vil",
+            "recuweb_url": "http://es.recuweb.com/telecomunicacion/expansion.com/2015/04/am%C3%A9rica-latina-piensa-en-5g-pero-su-telefon%C3%ADa-m%C3%B3vil-sigue",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
+            "source_url": "http://expansion.com/latinoamerica/2015/04/23/553794b6ca4741ec448b457d.html"
+        },
+        "omicrono.com/2015/04/google-fi-el-servicio-de-telefon%C3%ADa-m%C3%B3vil": {
+            "title": "Google Fi, el servicio de telefon\u00eda m\u00f3vil de Google...",
+            "snippet": "Despu\u00e9s de muchos rumores, se ha confirmado Google Fi, el servicio de telefon\u00eda m\u00f3vil de Google. Google Fi parece ser la evoluci\u00f3n l\u00f3gica de la compa\u00f1\u00eda, despu\u00e9s de ofrecer conexiones de fibra \u00f3ptica en varias ciudades de EEUU. Ahora toca...",
+            "date": "2015-04-22",
+            "categories": "google",
+            "tags": "rumores,google,servicio,telefon\u00eda,m\u00f3vil,compa\u00f1\u00eda,eeuu,ahora",
+            "recuweb_url": "http://es.recuweb.com/google/omicrono.com/2015/04/google-fi-el-servicio-de-telefon%C3%ADa-m%C3%B3vil",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
+            "source_url": "http://omicrono.com/2015/04/servicio-de-telefonia-movil-de-google/"
+        },
+        "cnnexpansion.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-m%C3%B3vil-cnnexpansi%C3%B3": {
+            "title": "Google lanza servicio de telefon\u00eda m\u00f3vil - CNNExpansi\u00f3...",
+            "snippet": "CNNExpansi\u00f3 lanza servicio de telefon\u00eda m\u00f3vilCNNExpansi\u00f3 YORK (Reuters) Google Inc lanz\u00f3 este mi\u00e9rcoles un nuevo servicio para telefon\u00eda celular en Estados Unidos que les permitir\u00e1 a los clientes pagar s\u00f3lo por los datos que emplean,...",
+            "date": "2015-04-22",
+            "categories": "google",
+            "tags": "permitir\u00e1,clientes,clientes-pagar,pagar,s\u00f3lo,datos,estados,estados_unidos,unidos,mi\u00e9rcoles,google,lanza,servicio,telefon\u00eda,m\u00f3vil",
+            "recuweb_url": "http://es.recuweb.com/google/cnnexpansion.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-m%C3%B3vil-cnnexpansi%C3%B3",
             "resource_url": "http://news.google.es/?hl=es&q=telefon%C3%ADa%2Bm%C3%B3vil&output=atom&nord=1",
-            "source_url": "http://tiempo.hn/nacion/item/27795-cn-revisara-esta-semana-las-limitaciones-de-telefonia-movil-en-las-carceles-en-honduras"
+            "source_url": "http://cnnexpansion.com/negocios/2015/04/22/google-entra-al-servicio-inalambrico-movil-con-fi"
         },
-        "telam.com.ar/2015/04/las-l%C3%ADneas-de-telefon%C3%ADa-m%C3%B3vil-activas-superan-los-37-millones-aparatos": {
-            "title": "Las l\u00edneas de telefon\u00eda m\u00f3vil activas superan los 37 millones de aparatos...",
-            "snippet": "Las l\u00edneas efectivamente en uso son aproximadamente 37 millones, dijo el analista del mercado de telecomunicaciones Enrique Carrier, para luego precisar que los dem\u00e1s aparatos corresponden a tel\u00e9fonos de resguardo que s\u00f3lo reciben comunicaciones...",
-            "date": "2015-04-20",
-            "categories": "telecomunicacion",
-            "tags": "aparatos,mercado,l\u00edneas,l\u00edneas-efectivamente,efectivamente,efectivamente-en-uso,uso,uso-son,son,millones,millones-de-aparatos,activas,superan,telefon\u00eda,m\u00f3vil",
-            "recuweb_url": "http://es.recuweb.com/telecomunicacion/telam.com.ar/2015/04/las-l%C3%ADneas-de-telefon%C3%ADa-m%C3%B3vil-activas-superan-los-37-millones-aparatos",
+        "lopezdoriga.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-m%C3%B3vil-l%C3%B3pez-d%C3%B3riga-digital": {
+            "title": "Google lanza servicio de telefon\u00eda m\u00f3vil - L\u00f3pez D\u00f3riga Digital...",
+            "snippet": "L\u00f3pez D\u00f3riga DigitalGoogle lanza servicio de telefon\u00eda m\u00f3vilL\u00f3pez D\u00f3riga DigitalEl d\u00eda de hoy Google anunci\u00f3 desde su blog la llegada de su servicio inal\u00e1mbrico de telefon\u00eda m\u00f3vil llamado Project Fi en Estados Unidos. Google se ha...",
+            "date": "2015-04-22",
+            "categories": "google",
+            "tags": "estados,estados_unidos,unidos,anunci\u00f3,google,lanza,servicio,telefon\u00eda,m\u00f3vil,project",
+            "recuweb_url": "http://es.recuweb.com/google/lopezdoriga.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-m%C3%B3vil-l%C3%B3pez-d%C3%B3riga-digital",
+            "resource_url": "http://news.google.es/?hl=es&q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&output=atom&nord=1",
+            "source_url": "http://lopezdoriga.com/detalle/31808/ciencia-tecnologia/novedades/google-lanza-servicio-de-telefonia-movil"
+        },
+        "cooperativa.cl/2015/04/google-lanza-su-propio-servicio-de-telefon%C3%ADa-m%C3%B3vil-en-estados-unidos": {
+            "title": "Google lanza su propio servicio de telefon\u00eda m\u00f3vil en Estados Unidos...",
+            "snippet": "El gigante de la tecnolog\u00eda Google anunci\u00f3 este mi\u00e9rcoles el lanzamiento de su propio servicio de telefon\u00eda m\u00f3vil en Estados Unidos, que bautiz\u00f3 con el nombre de Project Fi y est\u00e1 disponible de momento solo por invitaci\u00f3n. El servicio...",
+            "date": "2015-04-22",
+            "categories": "tecnologia,google",
+            "tags": "disponible,invitaci\u00f3n,bautiz\u00f3,nombre,anunci\u00f3,anunci\u00f3-este-mi\u00e9rcoles,mi\u00e9rcoles,mi\u00e9rcoles-el-lanzamiento,lanzamiento,propio,gigante,tecnolog\u00eda,estados,estados_unidos,unidos,lanza,google,servicio,telefon\u00eda,m\u00f3vil,project",
+            "recuweb_url": "http://es.recuweb.com/google/cooperativa.cl/2015/04/google-lanza-su-propio-servicio-de-telefon%C3%ADa-m%C3%B3vil-en-estados-unidos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
-            "source_url": "http://telam.com.ar/notas/201504/102073-telefonia-movil-lineas-activas.html"
+            "source_url": "http://cooperativa.cl/noticias/tecnologia/industria/telefonia-movil/google-lanza-su-propio-servicio-de-telefonia-movil-en-estados-unidos/2015-04-22/235319.html"
         },
-        "aplicacionesnokia.es/2015/04/nokia-volver%C3%A1-al-negocio-de-la-telefon%C3%ADa-m%C3%B3vil-durante-2016": {
-            "title": "Nokia volver\u00e1 al negocio de la telefon\u00eda m\u00f3vil durante 2016...",
-            "snippet": "Nokia vuelve a la palestra de vez en cuando en los \u00faltimos tiempos por rumores sin confirmaci\u00f3n oficial que hablan de su retorno al mundo de la telefon\u00eda m\u00f3vil. Esta nueva noticia no tendr\u00eda tampoco nada de sorprendente, si no fuera porque...",
-            "date": "2015-04-20",
-            "tags": "tiempos,mundo,\u00fal,negocio,telefon\u00eda,m\u00f3vil,durante,nueva,noticia",
-            "recuweb_url": "http://es.recuweb.com/aplicacionesnokia.es/2015/04/nokia-volver%C3%A1-al-negocio-de-la-telefon%C3%ADa-m%C3%B3vil-durante-2016",
+        "expansion.com/2015/04/google-lanza-un-operador-virtual-de-telefon%C3%ADa-m%C3%B3vil-en-eeuu": {
+            "title": "Google lanza un operador virtual de telefon\u00eda m\u00f3vil en EEUU...",
+            "snippet": "Permitir\u00e1 a los clientes pagar solamente por los datos que utilicen, aprovechando el uso de redes Wi-Fi para reducir el consumo. Este operador funcionar\u00e1 \u00fanicamente en los 'smartphones'Nexus 6 -\u00faltimo modelo de la compa\u00f1\u00eda-, y utilizar\u00e1 las...",
+            "date": "2015-04-22",
+            "categories": "google",
+            "tags": "redes,clientes,clientes-pagar,pagar,datos,lanza,virtual,google,telefon\u00eda,m\u00f3vil,eeuu,permitir\u00e1,\u00fal,compa\u00f1\u00eda",
+            "recuweb_url": "http://es.recuweb.com/google/expansion.com/2015/04/google-lanza-un-operador-virtual-de-telefon%C3%ADa-m%C3%B3vil-en-eeuu",
             "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
-            "source_url": "http://aplicacionesnokia.es/nokia-volvera-al-negocio-de-la-telefonia-movil-durante-2016/"
+            "source_url": "http://expansion.com/empresas/tecnologia/2015/04/22/5537ec6122601d9b368b457a.html"
         },
-        "mdzol.com/2015/04/telefon%C3%ADa-m%C3%B3vil-37-millones-de-l%C3%ADneas-activas-en-argentina": {
-            "title": "Telefon\u00eda m\u00f3vil: 37 millones de l\u00edneas activas en Argentina...",
-            "snippet": "La cantidad de l\u00edneas activas de telefon\u00eda m\u00f3vil superan los 37 millones de aparatos en el pa\u00eds, mientras que el total de l\u00edneas declaradas asciende a alrededor de 62 millones, seg\u00fan un informe privado. Las l\u00edneas efectivamente en uso son...",
-            "date": "2015-04-20",
-            "tags": "l\u00edneas,l\u00edneas-efectivamente,efectivamente,efectivamente-en-uso,uso,uso-son,son,informe,informe-privado,privado,mientras,total,total-de-l\u00edneas,l\u00edneas-declaradas,l\u00edneas-declaradas-asciende,declaradas,declaradas-asciende,declaradas-asciende-alrededor,asciende,asciende-alrededor,alrededor,millones,millones-de-aparatos,aparatos,pa\u00eds,superan,cantidad,cantidad-de-l\u00edneas,l\u00edneas-activas,activas,telefon\u00eda,m\u00f3vil,argentina",
-            "recuweb_url": "http://es.recuweb.com/mdzol.com/2015/04/telefon%C3%ADa-m%C3%B3vil-37-millones-de-l%C3%ADneas-activas-en-argentina",
+        "noticiasrcn.com/2015/04/google-lanza-un-servicio-de-telefon%C3%ADa-m%C3%B3vil": {
+            "title": "Google lanza un servicio de telefon\u00eda m\u00f3vil...",
+            "snippet": "El servicio se basa en una tecnolog\u00eda capaz de determinar la red m\u00e1s r\u00e1pida en el lugar en el que se encuentre el usuario y conectarlo autom\u00e1ticamente. El gigante estadounidense en internet Google anunci\u00f3 el mi\u00e9rcoles el lanzamiento de un...",
+            "date": "2015-04-22",
+            "categories": "internet,tecnologia,google",
+            "tags": "anunci\u00f3,mi\u00e9rcoles,mi\u00e9rcoles-el-lanzamiento,lanzamiento,gigante,gigante-estadounidense,estadounidense,estadounidense-en-internet,internet,basa,tecnolog\u00eda,tecnolog\u00eda-capaz,capaz,capaz-de-determinar,determinar,red,lanza,google,servicio,telefon\u00eda,m\u00f3vil",
+            "recuweb_url": "http://es.recuweb.com/google/noticiasrcn.com/2015/04/google-lanza-un-servicio-de-telefon%C3%ADa-m%C3%B3vil",
             "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
-            "source_url": "http://mdzol.com/nota/600883-telefonia-movil-37-millones-de-lineas-activas-en-argentina/"
+            "source_url": "http://noticiasrcn.com/tecnologia-tecnologia/google-lanza-un-servicio-telefonia-movil"
         },
-        "entornointeligente.com/2015/04/venezuela-servicios-de-telefon%C3%ADa-m%C3%B3vil-aumentan-sus-tarifas-entornointeligente": {
-            "title": "VENEZUELA: Servicios de telefon\u00eda m\u00f3vil aumentan sus tarifas - EntornoInteligente...",
-            "snippet": "EntornoInteligenteVENEZUELA: Servicios de telefon\u00eda m\u00f3vil aumentan sus tarifasEntornoInteligenteVENEZUELA: Servicios de telefon\u00eda m\u00f3vil aumentan sus tarifas. Globovision/Las compa\u00f1\u00edas telef\u00f3nicas Movistar y Digitel publicaron nuevas tarifas...",
-            "date": "2015-04-20",
-            "tags": "nuevas,servicios,telefon\u00eda,m\u00f3vil,tarifas,movistar",
-            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/venezuela-servicios-de-telefon%C3%ADa-m%C3%B3vil-aumentan-sus-tarifas-entornointeligente",
-            "resource_url": "http://news.google.es/?hl=es&q=telefon%C3%ADa%2Bm%C3%B3vil&output=atom&nord=1",
-            "source_url": "http://entornointeligente.com/articulo/5669714/VENEZUELA-Servicios-de-telefonia-movil-aumentan-sus-tarifas-15042015"
-        },
-        "madridactual.es/2015/04/vecinos-de-coslada-incomunicados-ante-la-falta-cobertura-m%C3%B3vil": {
-            "title": "Vecinos de Coslada incomunicados ante la falta de cobertura m\u00f3vil...",
-            "snippet": "Los coslade\u00f1os exigen a los operadores de telefon\u00eda m\u00f3vil que solucionen de forma definitiva la falta de cobertura en el municipio. El Alcalde de Coslada, Ra\u00fal L\u00f3pez, pide una soluci\u00f3n urgente y definitiva a los operadores de telefon\u00eda...",
-            "date": "2015-04-20",
-            "tags": "m\u00f3vil,telefon\u00eda",
-            "recuweb_url": "http://es.recuweb.com/madridactual.es/2015/04/vecinos-de-coslada-incomunicados-ante-la-falta-cobertura-m%C3%B3vil",
+        "lavozdegalicia.es/2015/04/google-lanza-un-servicio-de-telefon%C3%ADa-m%C3%B3vil-en-ee-uu": {
+            "title": "Google lanza un servicio de telefon\u00eda m\u00f3vil en EE. UU.",
+            "snippet": "El gigante estadounidense en Internet Google anunci\u00f3 ayer el lanzamiento de un servicio de telefon\u00eda m\u00f3vil, que solo estar\u00e1 disponible por ahora mediante invitaci\u00f3n. El servicio se basa en una tecnolog\u00eda capaz de determinar cu\u00e1l es la red...",
+            "date": "2015-04-22",
+            "categories": "tecnologia,internet,google",
+            "tags": "basa,tecnolog\u00eda,tecnolog\u00eda-capaz,capaz,capaz-de-determinar,determinar,red,estar\u00e1,estar\u00e1-disponible,disponible,ahora,invitaci\u00f3n,anunci\u00f3,lanzamiento,gigante,gigante-estadounidense,estadounidense,estadounidense-en-internet,internet,lanza,google,servicio,telefon\u00eda,m\u00f3vil",
+            "recuweb_url": "http://es.recuweb.com/google/lavozdegalicia.es/2015/04/google-lanza-un-servicio-de-telefon%C3%ADa-m%C3%B3vil-en-ee-uu",
             "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
-            "source_url": "http://madridactual.es/20150417679516/los-vecinos-de-coslada-incomunicados-ante-la-falta-de-cobertura-movil"
+            "source_url": "http://lavozdegalicia.es/noticia/tecnologia/2015/04/23/google-lanza-servicio-telefonia-movil-ee-uu/0003_201504G23P56991.htm"
         },
-        "cincodias.com/2015/04/las-ofertas-convergentes-provocan-otro-desplome-del-prepago-m%C3%B3vil": {
-            "title": "Las ofertas convergentes provocan otro desplome del prepago m\u00f3vil...",
-            "snippet": "La transformaci\u00f3n del mundo de la telefon\u00eda m\u00f3vil en el mercado espa\u00f1ol contin\u00faa su marcha. Y es que, en los \u00faltimos tiempos, la estructura de este negocio ha experimentado fuertes cambios, motivados en gran parte por la popularizaci\u00f3n de...",
-            "date": "2015-04-19",
-            "tags": "negocio,tiempos,\u00fal,mercado,marcha,mundo,m\u00f3vil,telefon\u00eda",
-            "recuweb_url": "http://es.recuweb.com/cincodias.com/2015/04/las-ofertas-convergentes-provocan-otro-desplome-del-prepago-m%C3%B3vil",
+        "noticiasrcn.com/2015/04/google-present%C3%B3-su-propio-servicio-de-telefon%C3%ADa-m%C3%B3vil-en-estados-unidos": {
+            "title": "Google present\u00f3 su propio servicio de telefon\u00eda m\u00f3vil en Estados Unidos...",
+            "snippet": "Project Fi estar\u00e1 disponible en 120 pa\u00edses sin cargos adicionales por conexi\u00f3n en el extranjero. El gigante de la tecnolog\u00eda Google anunci\u00f3 el lanzamiento de su propio servicio de telefon\u00eda m\u00f3vil en Estados Unidos, que bautiz\u00f3 con el nombre...",
+            "date": "2015-04-22",
+            "categories": "tecnologia,google",
+            "tags": "bautiz\u00f3,nombre,anunci\u00f3,lanzamiento,propio,gigante,tecnolog\u00eda,cargos,conexi\u00f3n,estar\u00e1,estar\u00e1-disponible,disponible,estados,estados_unidos,unidos,google,servicio,telefon\u00eda,m\u00f3vil,project",
+            "recuweb_url": "http://es.recuweb.com/google/noticiasrcn.com/2015/04/google-present%C3%B3-su-propio-servicio-de-telefon%C3%ADa-m%C3%B3vil-en-estados-unidos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
-            "source_url": "http://cincodias.com/cincodias/2015/04/17/empresas/1429291603_015067.html"
-        },
-        "diarionorte.com/2015/04/telefon%C3%ADa-m%C3%B3vil-las-l%C3%ADneas-en-uso-activo-superan-los-37-millones": {
-            "title": "Telefon\u00eda m\u00f3vil: las l\u00edneas en uso activo superan los 37 millones de aparatos...",
-            "snippet": "La cantidad de l\u00edneas activas de telefon\u00eda m\u00f3vil superan los 37 millones de aparatos en el pa\u00eds, mientras que el total de l\u00edneas declaradas asciende a alrededor de 62 millones, seg\u00fan un informe privado. Las l\u00edneas efectivamente en uso son...",
-            "date": "2015-04-19",
-            "tags": "l\u00edneas,l\u00edneas-efectivamente,efectivamente,efectivamente-en-uso,uso,uso-son,son,informe,informe-privado,privado,mientras,total,total-de-l\u00edneas,l\u00edneas-declaradas,l\u00edneas-declaradas-asciende,declaradas,declaradas-asciende,declaradas-asciende-alrededor,asciende,asciende-alrededor,alrededor,millones,millones-de-aparatos,aparatos,pa\u00eds,superan,cantidad,cantidad-de-l\u00edneas,l\u00edneas-activas,activas,telefon\u00eda,m\u00f3vil",
-            "recuweb_url": "http://es.recuweb.com/diarionorte.com/2015/04/telefon%C3%ADa-m%C3%B3vil-las-l%C3%ADneas-en-uso-activo-superan-los-37-millones",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=telefon%C3%ADa%2Bm%C3%B3vil&format=RSS&cc=es",
-            "source_url": "http://diarionorte.com/article/121931/telefonia-movil-las-lineas-en-uso-activo-superan-los-37-millones-de-aparatos"
-        },
-        "diariocorreo.pe/2015/04/rotura-de-fibra-%C3%B3ptica-habr%C3%ADa-afectado-telefon%C3%ADa-m%C3%B3vil-e-internet": {
-            "title": "Rotura de fibra \u00f3ptica habr\u00eda afectado telefon\u00eda m\u00f3vil e internet en el... - Diario Correo...",
-            "snippet": "Rotura de fibra \u00f3ptica habr\u00eda afectado telefon\u00eda m\u00f3vil e internet en el...Diario CorreoEl Per\u00fa, gracias a sus pol\u00edticas econ\u00f3micas, seguir\u00e1 creciendo por encima del promedio regional en los pr\u00f3ximos a\u00f1os, estim\u00f3 el economista en jefe de...",
-            "date": "2015-04-18",
-            "categories": "politica,internet",
-            "tags": "per\u00fa,internet,telefon\u00eda,m\u00f3vil",
-            "recuweb_url": "http://es.recuweb.com/internet/diariocorreo.pe/2015/04/rotura-de-fibra-%C3%B3ptica-habr%C3%ADa-afectado-telefon%C3%ADa-m%C3%B3vil-e-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=telefon%C3%ADa%2Bm%C3%B3vil&output=atom&nord=1",
-            "source_url": "http://diariocorreo.pe/ciudad/rotura-de-fibra-optica-habria-afectado-telefonia-movil-e-internet-en-el-sur-580950/"
-        },
-        "geekye.infonews.com/2015/04/cu%C3%A1ntos-usuarios-de-telefon%C3%ADa-m%C3%B3vil-hay-realmente-infonews": {
-            "title": "\u00bfCu\u00e1ntos usuarios de telefon\u00eda m\u00f3vil hay realmente? - Infonews...",
-            "snippet": "Infonews\u00bfCu\u00e1ntos usuarios de telefon\u00eda m\u00f3vil hay realmente?InfonewsEsta cifra asume que todo individuo de 10 a\u00f1os o m\u00e1s tiene una l\u00ednea m\u00f3vil, independientemente de su condici\u00f3n socio econ\u00f3mica, motivo por el cual es el potencial m\u00e1ximo.",
-            "date": "2015-04-18",
-            "tags": "tiene,telefon\u00eda,m\u00f3vil",
-            "recuweb_url": "http://es.recuweb.com/geekye.infonews.com/2015/04/cu%C3%A1ntos-usuarios-de-telefon%C3%ADa-m%C3%B3vil-hay-realmente-infonews",
-            "resource_url": "http://news.google.es/?hl=es&q=telefon%C3%ADa%2Bm%C3%B3vil&output=atom&nord=1",
-            "source_url": "http://geekye.infonews.com/nota/195218/cuantos-usuarios-de-telefonia-movil-hay-realmente"
+            "source_url": "http://noticiasrcn.com/tecnologia-tecnologia/google-presento-su-propio-servicio-telefonia-movil-estados-unidos"
         }
     }
 }

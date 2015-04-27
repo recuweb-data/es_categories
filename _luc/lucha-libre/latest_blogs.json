@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lucha-libre",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lucha-libre/",
@@ -15,7 +16,7 @@
             "snippet": "Cole Fox, un adolescente de Iowa, ha salido del armario ante su padre, que es tambi\u00e9n su entrenador de lucha libre, y que hab\u00eda tenido palabras hom\u00f3fobas en diversas ocasiones. La respuesta del padre ha sido sin...",
             "date": "2015-04-20",
             "author_name": "Hans",
-            "tags": "dos,joven,lucha,libre",
+            "tags": "padre,dos,lucha,libre",
             "recuweb_url": "http://es.recuweb.com/dosmanzanas.com/2015/04/dos-manzanas-joven-jugador-de-lucha-libre-sale-del-armario",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://dosmanzanas.com/2015/04/joven-jugador-de-lucha-libre-sale-del-armario-y-se-suma-al-activismo-en-el-deporte-y-como-catolico-lgtb.html"
@@ -26,7 +27,7 @@
             "date": "2015-04-17",
             "author_name": "Journal Encuadre",
             "categories": "deporte",
-            "tags": "llaves,deporte,recibi\u00f3,jueves,lucha,libre,mexicana,mejor",
+            "tags": "deporte,tarde,lucha,libre,mexicana,mejor",
             "recuweb_url": "http://es.recuweb.com/deporte/journalencuadre.com/2015/04/journal-encuadre-inicia-la-luchalibre-en-feriadepuebla-2015",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://journalencuadre.com/?p=2060"
@@ -37,7 +38,7 @@
             "date": "2015-04-11",
             "author_name": "SML",
             "categories": "deporte",
-            "tags": "son,deporte,espect\u00e1culo,lucha,libre",
+            "tags": "son,deporte,show,lucha,libre,est\u00e1n",
             "recuweb_url": "http://es.recuweb.com/deporte/revistasml.cl/2015/04/lucha-libre-poca-mucho-show-revista-sml",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://revistasml.cl/articulos/deporte-articulos/lucha-libre-poca-lucha-mucho-show/"
@@ -48,7 +49,7 @@
             "date": "2015-04-08",
             "author_name": "lupillotimes",
             "categories": "discapacidad,lucha-libre",
-            "tags": "programa,san,lucha,lucha-libre,libre,abril,parte",
+            "tags": "sera,san,lucha,lucha-libre,libre,causa,abril,parte",
             "recuweb_url": "http://es.recuweb.com/lucha-libre/lupillotimes.wordpress.com/2015/04/lucha-libre-con-causa-social-este-18-de-abril-en-cabo",
             "resource_url": "http://es.search.wordpress.com/?q=lucha%2Blibre&f=feed&page=1",
             "source_url": "http://lupillotimes.wordpress.com/2015/04/08/lucha-libre-con-causa-social-este-18-de-abril-en-cabo-san-lucas/"
@@ -59,7 +60,7 @@
             "date": "2015-03-31",
             "author_name": "Helena y \u00c1nxel",
             "categories": "pop",
-            "tags": "son,ring,lucha,libre",
+            "tags": "son,lucha,libre,ring",
             "recuweb_url": "http://es.recuweb.com/pop/blogs.20minutos.es/2015/03/yannick-fourni%C3%A9-m%C3%A1scaras-de-lucha-libre-alejadas-del-ring-trasd%C3%B3s",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogs.20minutos.es/trasdos/2015/03/31/mascaras-lucha-libre-mexicana-yannick-fournie/"
@@ -69,7 +70,7 @@
             "snippet": "Despu\u00e9s de que 'Rey Bucanero'asegurara que 'Rey Mysterio'abandonar\u00eda la lucha libre por el cargo de conciencia que tiene ante la muerte del 'Hijo del Perro Aguayo', el gladiador desmiente la revelaci\u00f3n.",
             "date": "2015-03-27",
             "author_name": "desconocido",
-            "tags": "perro,perro_aguayo,aguayo,muerte,rey,lucha,libre,hijo",
+            "tags": "gladiador,perro,perro_aguayo,aguayo,tiene,muerte,retira,lucha,libre,hijo",
             "recuweb_url": "http://es.recuweb.com/tvnotas.com.mx/2015/03/rey-mysterio-no-se-retira-de-la-lucha-libre-tvnotas-irresistible",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tvnotas.com.mx/2015/03/27/C-71605-rey-mysterio-no-se-retira-de-la-lucha-libre.php"
@@ -79,10 +80,21 @@
             "snippet": "La lucha libre es uno de los deportes m\u00e1s peligros que existe. Sin embargo, llena de emociones a los observadores as\u00ed como a los mismo participantes de esta competencia extrema. A la reciente...",
             "date": "2015-03-25",
             "author_name": "manuel.menendez",
-            "tags": "ring,wwe,lucha,libre",
+            "tags": "wwe,ring,lucha,libre,deportes,participantes",
             "recuweb_url": "http://es.recuweb.com/libero.pe/2015/03/wwe-conoce-quienes-murieron-en-el-ring-de-lucha-libre-video",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://libero.pe/futbol-peruano/2015-03-25-wwe-conoce-quienes-murieron-en-el-ring-de-lucha-libre-video"
+        },
+        "misionesonline.net/2015/03/lucha-libre-un-peleador-muri%C3%B3-y-sus-compa%C3%B1eros-no-se-dieron": {
+            "title": "Lucha libre: un peleador muri\u00f3 y sus compa\u00f1eros no se dieron...",
+            "snippet": "El Hijo del Perro Aguayo, una de las estrellas de la lucha libre local, estaba siendo parte del show cuando muri\u00f3 a causa de un traumatismo cervical, ocasionado por una patada, y sus compa\u00f1eros continuaron la exhibici\u00f3n...",
+            "date": "2015-03-22",
+            "author_name": "andreapatriciaorama@gmail.com",
+            "categories": "estrella",
+            "tags": "compa\u00f1eros,patada,show,muri\u00f3,causa,perro,perro_aguayo,aguayo,lucha,libre,hijo,parte",
+            "recuweb_url": "http://es.recuweb.com/estrella/misionesonline.net/2015/03/lucha-libre-un-peleador-muri%C3%B3-y-sus-compa%C3%B1eros-no-se-dieron",
+            "resource_url": "http://www.google.com/search?q=lucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://misionesonline.net/2015/03/22/lucha-libre-un-peleador-murio-y-sus-companeros-no-se-dieron-cuenta/"
         },
         "cnnespanol.cnn.com/2015/03/muere-la-estrella-de-lucha-libre-mexicana-hijo-del-perro-aguayo": {
             "title": "Muere la estrella de la lucha libre mexicana Hijo del Perro Aguayo...",
@@ -90,32 +102,20 @@
             "date": "2015-03-22",
             "author_name": "CNN en Espa\u00f1ol",
             "categories": "estrella",
-            "tags": "madrugada,madrugada-del-s\u00e1bado,s\u00e1bado,patada,estrella,perro,perro_aguayo,aguayo,muere,lucha,libre,mexicana,hijo,luchador",
+            "tags": "muri\u00f3,patada,perro,perro_aguayo,aguayo,lucha,libre,mexicana,hijo,luchador",
             "recuweb_url": "http://es.recuweb.com/estrella/cnnespanol.cnn.com/2015/03/muere-la-estrella-de-lucha-libre-mexicana-hijo-del-perro-aguayo",
             "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/03/22/estrella-de-la-lucha-libre-mexicana-hijo-del-perro-aguayo-muere-tras-una-patada-en-el-ring/"
         },
-        "quadratin.com.mx/2015/03/invitan-a-funci%C3%B3n-de-lucha-libre-en-zamora-quadrat%C3%ADn": {
-            "title": "Invitan a funci\u00f3n de lucha libre en Zamora - Quadrat\u00edn...",
-            "snippet": "ZAMORA Mich., 12 de Marzo de 2015.- En respaldo al deporte local y quienes se dedican a la pr\u00e1ctica de la lucha libre, la Presidencia Municipal de Zamora, mediante la Regidur\u00eda de Juventud, Deporte y Capacidades...",
-            "date": "2015-03-13",
-            "author_name": "Redacci\u00f3n Quadratin",
-            "categories": "deporte",
-            "tags": "deporte,funci\u00f3n,lucha,libre,marzo",
-            "recuweb_url": "http://es.recuweb.com/deporte/quadratin.com.mx/2015/03/invitan-a-funci%C3%B3n-de-lucha-libre-en-zamora-quadrat%C3%ADn",
-            "resource_url": "http://www.google.com/search?q=lucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://quadratin.com.mx/regiones/Invitan-funcion-de-lucha-libre-en-Zamora/"
-        },
-        "estoenlinea.oem.com.mx/2015/03/sin-cara-ense%C3%B1a-lucha-libre-en-el-hormiguero-mx": {
-            "title": "Sin Cara ense\u00f1a lucha libre en El Hormiguero MX ESTO...",
-            "snippet": "EL d\u00eda de ayer, El Hormiguero MX recibi\u00f3 al luchador Sin Cara, quien comparti\u00f3 sus t\u00e9cnicas de lucha con Mauricio Mancera. Adem\u00e1s, fue testigo en la secci\u00f3n de Ciencia de c\u00f3mo un autom\u00f3vil es elevado a varios...",
-            "date": "2015-03-12",
-            "author_name": "Redacci\u00f3n ESTO",
-            "categories": "ciencia",
-            "tags": "recibi\u00f3,luchador,lucha,libre",
-            "recuweb_url": "http://es.recuweb.com/ciencia/estoenlinea.oem.com.mx/2015/03/sin-cara-ense%C3%B1a-lucha-libre-en-el-hormiguero-mx",
-            "resource_url": "http://www.google.com/search?q=lucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://estoenlinea.oem.com.mx/59118-sin-cara-ensena-lucha-libre-en-el-hormiguero-mx/"
+        "rpp.com.pe/2015/03/wwe-undertaker-y-sus-espectaculares-regresos-al-ring-de-lucha-libre": {
+            "title": "WWE: Undertaker y sus espectaculares regresos al ring de lucha libre...",
+            "snippet": "Undertaker regresar\u00e1 al ring el pr\u00f3ximo 29 de marzo en Wrestlemania 31. Los amantes de la lucha libre lo esperan. Fuente: P\u00fablica Web oficial WWE. \u00a1Alista la vuelta! 1994 2000 2003 2004 2005 2006 2007 2008...",
+            "date": "2015-03-11",
+            "author_name": "RPP Noticias",
+            "tags": "marzo,pr\u00f3ximo,wwe,ring,lucha,libre,oficial",
+            "recuweb_url": "http://es.recuweb.com/rpp.com.pe/2015/03/wwe-undertaker-y-sus-espectaculares-regresos-al-ring-de-lucha-libre",
+            "resource_url": "http://www.google.com/search?q=lucha%2Blibre%2Blucha%2Blibre&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://rpp.com.pe/2015-03-11-wwe-undertaker-y-sus-espectaculares-regresos-al-ring-de-lucha-libre-noticia_776917.html"
         }
     }
 }

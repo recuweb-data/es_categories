@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "estadisticas-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/estadisticas-web/",
@@ -10,33 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/estadisticas-web/estadisticas-web/blogs.json"
     },
     "items": {
-        "paginasiete.bo/2015/04/tde-chuquisaca-incumple-su-propia-resoluci%C3%B3n-al-publicar-como-diario-pagina": {
-            "title": "TDE Chuquisaca incumple su propia resoluci\u00f3n al publicar como... - Diario Pagina Siete...",
-            "snippet": "Diario Pagina SieteTDE Chuquisaca incumple su propia resoluci\u00f3n al publicar como...Diario Pagina SietePese a ello, desde el primer d\u00eda del c\u00f3mputo hasta ahora, el TED publica en la p\u00e1gina web del \u00f3rgano electoral estad\u00edsticas en las que los...",
-            "date": "2015-04-09",
-            "tags": "primer,propia,web,estad\u00edsticas",
-            "recuweb_url": "http://es.recuweb.com/paginasiete.bo/2015/04/tde-chuquisaca-incumple-su-propia-resoluci%C3%B3n-al-publicar-como-diario-pagina",
+        "eltiempo.com/2015/04/aplicaciones-mas-visitadas-en-facebook": {
+            "title": "Aplicaciones mas visitadas en Facebook -...",
+            "snippet": "Aplicaciones mas visitadas en en cuenta las cifras medidas por el portal de estad\u00edsticas Statista, Candy Crush sigue siendo el juego m\u00e1s popular de la red social. Muchas personas no saben que Facebook es, ante todo, una plataforma web, una suerte...",
+            "date": "2015-04-20",
+            "categories": "red-social,facebook",
+            "tags": "facebook,estad\u00edsticas,web",
+            "recuweb_url": "http://es.recuweb.com/facebook/eltiempo.com/2015/04/aplicaciones-mas-visitadas-en-facebook",
             "resource_url": "http://news.google.es/?hl=es&q=estadisticas%2Bweb&output=atom&nord=1",
-            "source_url": "http://paginasiete.bo/nacional/2015/4/9/chuquisaca-incumple-propia-resolucion-publicar-como-validos-votos-52882.html"
+            "source_url": "http://eltiempo.com/tecnosfera/novedades-tecnologia/aplicaciones-mas-visitadas-en-facebook/15602037"
         },
-        "informador.com.mx/2015/04/mam%C3%A1s-blogueras-revolucionan-la-web": {
-            "title": "Mam\u00e1s blogueras revolucionan la web -...",
-            "snippet": "\u00e1s blogueras revolucionan la las estad\u00edsticas nos confirman que las madres consultan sus dudas en internet como primer paso antes que consultar a un familiar o amigo, y las estad\u00edsticas van en aumento, definitivamente estamos en otra generaci\u00f3n...",
-            "date": "2015-04-08",
-            "categories": "internet",
-            "tags": "primer,web,estad\u00edsticas",
-            "recuweb_url": "http://es.recuweb.com/internet/informador.com.mx/2015/04/mam%C3%A1s-blogueras-revolucionan-la-web",
+        "nacion.com/2015/04/pa%C3%ADs-inicia-largo-proceso-para-ingresar-a-la-ocde-naci%C3%B3n-costa": {
+            "title": "Pa\u00eds inicia largo proceso para ingresar a la OCDE - La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa RicaPa\u00eds inicia largo proceso para ingresar a la OCDELa Naci\u00f3n Costa RicaLa OCDE evaluar\u00e1 las estad\u00edsticas del pa\u00eds. El Instituto Nacional de Estad\u00edstica y Censos genera buena parte de... En la p\u00e1gina web de la OCDE, se...",
+            "date": "2015-04-20",
+            "tags": "genera,estad\u00edsticas,web",
+            "recuweb_url": "http://es.recuweb.com/nacion.com/2015/04/pa%C3%ADs-inicia-largo-proceso-para-ingresar-a-la-ocde-naci%C3%B3n-costa",
             "resource_url": "http://news.google.es/?hl=es&q=estadisticas%2Bweb&output=atom&nord=1",
-            "source_url": "http://informador.com.mx/tecnologia/2015/585492/6/mamas-blogueras-revolucionan-la-web.htm"
-        },
-        "es.blastingnews.com/2015/04/eurovisi%C3%B3n-salen-a-la-luz-las-primeras-estad%C3%ADsticas-blasting-news": {
-            "title": "Eurovisi\u00f3n: salen a la luz las primeras estad\u00edsticas - Blasting News...",
-            "snippet": "Blasting NewsEurovisi\u00f3n: salen a la luz las primeras estad\u00edsticasBlasting NewsComo dijimos anteriormente, Suecia se pone en cabeza como la mayor favorita en el certamen, seg\u00fan ha publicado la web \"Oddschecker\" en su secci\u00f3n de Eurovisi\u00f3n, que...",
-            "date": "2015-04-01",
-            "tags": "estad\u00edsticas,web",
-            "recuweb_url": "http://es.recuweb.com/es.blastingnews.com/2015/04/eurovisi%C3%B3n-salen-a-la-luz-las-primeras-estad%C3%ADsticas-blasting-news",
-            "resource_url": "http://news.google.es/?hl=es&q=estadisticas%2Bweb%2Bestadisticas%2Bweb&output=atom&nord=1",
-            "source_url": "http://es.blastingnews.com/showbiz-y-tv/2015/04/eurovision-salen-a-la-luz-las-primeras-estadisticas-00330543.html"
+            "source_url": "http://nacion.com/economia/finanzas/Pais-inicia-proceso-adhirse-OCDE_0_1482651729.html"
         }
     }
 }

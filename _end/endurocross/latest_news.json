@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "endurocross",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/endurocross/",
@@ -10,14 +11,53 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/endurocross/endurocross/blogs.json"
     },
     "items": {
-        "microfonodigital.com/2015/04/endurocross-entrerriano-la-segunda-fecha-se-realiz%C3%B2-en-el-balneario": {
-            "title": "ENDUROCROSS ENTRERRIANO: LA SEGUNDA FECHA SE REALIZ\u00d2 EN EL BALNEARIO DE VALLE MARIA CON EXELENTE...",
+        "es.paperblog.com/2015/04/1-copa-resistencia-agolada-3-de-mayo-2015": {
+            "title": "1 COPA RESISTENCIA AGOLADA, 3 de MAYO 2015...",
+            "snippet": "Tienes quad, ATV, moto (enduro, cross) y quieres competir en una carrera de verdad, contra rivales de tu mismo cronometradores oficiales de la FGMOTO, y asistencia medica (por si acaso).Apuntate al I TROFEO RESISTENCIA CONCELLO DA AGOLADA...",
+            "date": "2015-04-26",
+            "tags": "carrera,quad,moto,enduro,cross",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/1-copa-resistencia-agolada-3-de-mayo-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/1a-copa-resistencia-agolada-3-de-mayo-2015-3178376/"
+        },
+        "cyclenews.com/2015/04/exciting-list-of-riders-for-x-games-step-up-qualifier-cycle": {
+            "title": "Exciting List of Riders for X Games Step Up Qualifier - Cycle News...",
+            "snippet": "Cycle NewsExciting List of Riders for X Games Step Up QualifierCycle NewsIrvine, CA (April 24, 2015) Last month, X Games announced the first ever X Games Step Up qualifier event to be held in collaboration with the 2015 GEICO AMA EnduroCross Round 3...",
+            "date": "2015-04-24",
+            "categories": "endurocross",
+            "tags": "geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,endurocross,round,newsirvine,cycle,cycle_news",
+            "recuweb_url": "http://es.recuweb.com/endurocross/cyclenews.com/2015/04/exciting-list-of-riders-for-x-games-step-up-qualifier-cycle",
+            "resource_url": "http://news.google.es/?hl=es&q=endurocross%2Bendurocross&output=atom&nord=1",
+            "source_url": "http://cyclenews.com/45/33847/Racing-Article/Exciting-List-of-Riders-for-X-Games-Step-Up-Qualifier.aspx"
+        },
+        "microfonodigital.com/2015/04/basquet-viale-derroto-a-rivadavia-de-santa-fe": {
+            "title": "BASQUET: VIALE DERROTO A RIVADAVIA DE SANTA FE...",
             "snippet": "21-04-2015 Ante buen numero de espectadores se realiz\u00f3 la 2da. Fecha del Endurocross Entrerriano en el Circuito ubicado en el predio del Balneario Camping Municipal de Valle Mar\u00eda donde se dieron excelentes competencias, muy peleadas y con...",
+            "date": "2015-04-23",
+            "categories": "endurocross",
+            "tags": "muy,dieron,dieron-excelentes,dieron-excelentes-competencias,excelentes,excelentes-competencias,competencias,valle,valle_mar\u00eda,mar\u00eda,balneario,balneario_camping,balneario_camping_municipal,camping,camping_municipal,municipal,ubicado,predio,endurocross,endurocross_entrerriano,entrerriano,fecha,circuito",
+            "recuweb_url": "http://es.recuweb.com/endurocross/microfonodigital.com/2015/04/basquet-viale-derroto-a-rivadavia-de-santa-fe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=es",
+            "source_url": "http://microfonodigital.com/index.php/seccion/detalle.php?id=21566"
+        },
+        "off-road.com/2015/04/webb-and-haaker-tied-on-points-leading-into-las-vegas-blog": {
+            "title": "Webb and Haaker Tied On Points Leading Into Las Vegas... - (blog)...",
+            "snippet": "(blog)Webb and Haaker Tied On Points Leading Into Las Vegas... (blog)Irvine, CA. (April 22nd) Round three of the GEICO AMA EnduroCross Championship will take place inside the Orleans Arena Friday, May1st. And if the challenging track and crazy...",
+            "date": "2015-04-23",
+            "categories": "endurocross",
+            "tags": "track,orleans,orleans_arena,arena,friday,will,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,vegas,round",
+            "recuweb_url": "http://es.recuweb.com/endurocross/off-road.com/2015/04/webb-and-haaker-tied-on-points-leading-into-las-vegas-blog",
+            "resource_url": "http://news.google.es/?hl=es&q=endurocross%2Bendurocross&output=atom&nord=1",
+            "source_url": "http://off-road.com/blog/2015/04/22/webb-and-haaker-tied-on-points-leading-into-las-vegas-endurocross/"
+        },
+        "microfonodigital.com/2015/04/endurocross-entrerriano-la-segunda-fecha-se-micr%C3%B3fono-digital": {
+            "title": "ENDUROCROSS ENTRERRIANO: LA SEGUNDA FECHA SE... - Micr\u00f3fono Digital...",
+            "snippet": "Micr\u00f3fono DigitalENDUROCROSS ENTRERRIANO: LA SEGUNDA FECHA SE...Micr\u00f3fono DigitalFecha del Endurocross Entrerriano en el Circuito ubicado en el predio del Balneario Camping Municipal de Valle Mar\u00eda donde se dieron excelentes competencias, muy...",
             "date": "2015-04-21",
             "categories": "endurocross",
-            "tags": "fecha,endurocross,circuito",
-            "recuweb_url": "http://es.recuweb.com/endurocross/microfonodigital.com/2015/04/endurocross-entrerriano-la-segunda-fecha-se-realiz%C3%B2-en-el-balneario",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=es",
+            "tags": "dieron,dieron-excelentes,dieron-excelentes-competencias,excelentes,excelentes-competencias,competencias,valle,valle_mar\u00eda,mar\u00eda,balneario,balneario_camping,balneario_camping_municipal,camping,camping_municipal,municipal,ubicado,predio,entrerriano,fecha,endurocross,endurocross_entrerriano,circuito,muy",
+            "recuweb_url": "http://es.recuweb.com/endurocross/microfonodigital.com/2015/04/endurocross-entrerriano-la-segunda-fecha-se-micr%C3%B3fono-digital",
+            "resource_url": "http://news.google.es/?hl=es&q=endurocross%2Bendurocross&output=atom&nord=1",
             "source_url": "http://microfonodigital.com/seccion/detalle.php?id=21526"
         },
         "motos.coches.net/2015/04/fox-instict-2015": {
@@ -34,16 +74,26 @@
             "title": "Protector cervical Leatt Fusion 3.0...",
             "snippet": "Est\u00e1 disponible en color blanco y en las tallas S/M, L/XL y XXL. Su peso es de gr. Y su aplicaci\u00f3n se dirige a las disciplinas de trail, raid, enduro, cross, quad.",
             "date": "2015-04-17",
-            "tags": "disciplinas,trail,enduro,cross",
+            "tags": "disciplinas,trail,enduro,cross,quad",
             "recuweb_url": "http://es.recuweb.com/msn.com/2015/04/protector-cervical-leatt-fusion-3-0",
             "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=es",
             "source_url": "http://msn.com/pt-pt/motor/other/protector-cervical-leatt-fusion-30/ar-AAb5yiK"
+        },
+        "cyclenews.com/2015/04/2015-las-vegas-endurocross-track-map-cycle-news": {
+            "title": "2015 Las Vegas EnduroCross Track Map - Cycle News...",
+            "snippet": "Cycle News2015 Las Vegas EnduroCross Track MapCycle NewsIrvine, CA (April 16, 2015) The 2015 GEICO AMA EnduroCross Championship returns home to Las Vegas on Friday, May 1. Just like it all began in 2004, the Orleans Arena in Las Vegas will host the...",
+            "date": "2015-04-16",
+            "categories": "endurocross",
+            "tags": "will,orleans,orleans_arena,arena,geico,geico_ama,geico_ama_endurocross,ama,ama_endurocross,ama_endurocross_championship,endurocross,endurocross_championship,championship,vegas,track,newsirvine,cycle,cycle_news,friday",
+            "recuweb_url": "http://es.recuweb.com/endurocross/cyclenews.com/2015/04/2015-las-vegas-endurocross-track-map-cycle-news",
+            "resource_url": "http://news.google.es/?hl=es&q=endurocross%2Bendurocross&output=atom&nord=1",
+            "source_url": "http://cyclenews.com/45/32798/Racing-Article/2015-Las-Vegas-EnduroCross-Track-Map.aspx"
         },
         "bikezona.com/2015/04/todo-sobre-el-esperado-shimano-deore-xt-m8000": {
             "title": "Todo sobre el esperado Shimano DEORE XT M8000...",
             "snippet": "Shimano se enorgullece de presentar un nuevo grupo de mountain bike en el mercado, abarcando las disciplinas de enduro, cross country y trail. El grupo ser\u00e1 desvelado por primera vez esta tarde en el festival Sea Otter en California. El grupo...",
             "date": "2015-04-16",
-            "tags": "sea,sea_otter,otter,grupo,tarde,trail,abarcando,abarcando-las-disciplinas,disciplinas,presentar,nuevo,nuevo-grupo,mountain,mountain-bike,bike,mercado,shimano,deore,enduro,cross",
+            "tags": "sea,sea_otter,otter,grupo,primera,trail,abarcando,abarcando-las-disciplinas,disciplinas,presentar,nuevo,nuevo-grupo,mountain,mountain-bike,bike,mercado,shimano,deore,enduro,cross",
             "recuweb_url": "http://es.recuweb.com/bikezona.com/2015/04/todo-sobre-el-esperado-shimano-deore-xt-m8000",
             "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=es",
             "source_url": "http://bikezona.com/noticias-ciclismo/todo-sobre-esperado-shimano-deore-xt-m8000/24224/"
@@ -56,56 +106,6 @@
             "recuweb_url": "http://es.recuweb.com/iberobike.com/2015/04/nuevo-deore-xt-m8000-rendimiento-premium-con-11-velocidades",
             "resource_url": "http://www.bing.com/news/search?first=1&q=endurocross&format=RSS&cc=es",
             "source_url": "http://iberobike.com/nuevo-deore-xt-m8000-rendimiento-premium-con-11-velocidades/"
-        },
-        "cyclenews.com/2015/02/2015-endurocross-xgames-rider-qualification-process-announced-cycle-news": {
-            "title": "2015 EnduroCross XGames Rider Qualification Process Announced - Cycle News...",
-            "snippet": "2015 EnduroCross XGames Rider Qualification Process AnnouncedCycle News3 additional spots will be filled from the Daytona, Salt Lake City and Las Vegas GEICO AMA EnduroCross events. The invites will go to next highest placed riders not already...",
-            "date": "2015-02-24",
-            "categories": "endurocross,xgames",
-            "tags": "will,riders,geico,geico_ama,ama,endurocross,cycle",
-            "recuweb_url": "http://es.recuweb.com/xgames/cyclenews.com/2015/02/2015-endurocross-xgames-rider-qualification-process-announced-cycle-news",
-            "resource_url": "http://news.google.es/?hl=es&q=endurocross&output=atom&nord=1",
-            "source_url": "http://cyclenews.com/45/30596/Racing-Article/2015-EnduroCross-XGames-Rider-Qualification-Process-Announced.aspx"
-        },
-        "motorcycle-usa.com/2015/02/mcss-returns-as-sponsor-of-2015-endurocross": {
-            "title": "MCSS Returns as Sponsor of 2015 EnduroCross -...",
-            "snippet": "Cycle NewsMCSS Returns as Sponsor of 2015 Superstore is proud to announce they will return as the official online retailer of motorcycle parts and accessories for the GEICO EnduroCross series. The series opens up the 2015 season at a new venue and...",
-            "date": "2015-02-24",
-            "categories": "endurocross",
-            "tags": "will,returns,official,geico,cycle,endurocross",
-            "recuweb_url": "http://es.recuweb.com/endurocross/motorcycle-usa.com/2015/02/mcss-returns-as-sponsor-of-2015-endurocross",
-            "resource_url": "http://news.google.es/?hl=es&q=endurocross&output=atom&nord=1",
-            "source_url": "http://motorcycle-usa.com/507/22068/Motorcycle-Article/MCSS-Returns-as-Sponsor-of-2015-EnduroCross.aspx"
-        },
-        "motorcycle-usa.com/2015/02/first-3-endurocross-rounds-x-games-qualifiers": {
-            "title": "First 3 EnduroCross Rounds X Games Qualifiers -...",
-            "snippet": "3 EnduroCross Rounds X Games the second year in a row, the 2015 X Games will take place at the Circuit Of The America's in Austin, Texas and it will again feature Enduro X competition. The Enduro X will take place on Friday, June 5th and aired on...",
-            "date": "2015-02-23",
-            "categories": "endurocross",
-            "tags": "will,place,endurocross,enduro",
-            "recuweb_url": "http://es.recuweb.com/endurocross/motorcycle-usa.com/2015/02/first-3-endurocross-rounds-x-games-qualifiers",
-            "resource_url": "http://news.google.es/?hl=es&q=endurocross&output=atom&nord=1",
-            "source_url": "http://motorcycle-usa.com/507/22055/Motorcycle-Article/First-3-EnduroCross-Rounds-X-Games-Qualifiers.aspx"
-        },
-        "ozarksfirst.com/2015/02/endurocross-in-springfield": {
-            "title": "Endurocross in Springfield -...",
-            "snippet": "in 'm talking Endurocross. Tonight is KOLR10 Kids Night. Inside the Corwin Arena at the Fairgrounds, it is much warmer and the snow has been replaced by dirt for Endurocross. The event is normally a 2 hour event outdoors; racing through backwoods...",
-            "date": "2015-02-21",
-            "categories": "endurocross",
-            "tags": "racing,endurocross",
-            "recuweb_url": "http://es.recuweb.com/endurocross/ozarksfirst.com/2015/02/endurocross-in-springfield",
-            "resource_url": "http://news.google.es/?hl=es&q=endurocross&output=atom&nord=1",
-            "source_url": "http://ozarksfirst.com/story/d/story/endurocross-in-springfield/13161/LSeOBv2-WkedtPbJ_Qd4Uw"
-        },
-        "motorcycle-usa.com/2015/02/k&n-filters-returns-as-endurocross-filter": {
-            "title": "K&N Filters Returns as EnduroCross Filter -...",
-            "snippet": "&N Filters Returns as EnduroCross is both challenging for the riders and exciting for the fans making it a great place to showcase the full line of K&N performance products. K&N Filters returns as the official Air and Oil filters of the GEICO AMA...",
-            "date": "2015-02-20",
-            "categories": "endurocross",
-            "tags": "geico,geico_ama,ama,returns,official,riders,place,endurocross",
-            "recuweb_url": "http://es.recuweb.com/endurocross/motorcycle-usa.com/2015/02/k&n-filters-returns-as-endurocross-filter",
-            "resource_url": "http://news.google.es/?hl=es&q=endurocross&output=atom&nord=1",
-            "source_url": "http://motorcycle-usa.com/507/22041/Motorcycle-Article/K-N-Filters-Returns-as-EnduroCross-Filter.aspx"
         }
     }
 }

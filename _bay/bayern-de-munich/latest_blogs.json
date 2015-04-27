@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bayern-de-munich",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bayern-de-munich/",
@@ -10,15 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bayern-de-munich/bayern-de-munich/blogs.json"
     },
     "items": {
+        "futbolsapiens.com/2015/04/memes-de-la-remontada-del-bayern-m%C3%BAnich-futbol-sapiens": {
+            "title": "Memes de la remontada del Bayern M\u00fanich - Futbol Sapiens...",
+            "snippet": "Memes de la remontada del Bayern M\u00fanich frente al Porto de los mexicanos Diego Reyes y H\u00e9ctor Herrera.",
+            "date": "2015-04-22",
+            "author_name": "Redacci\u00f3n",
+            "categories": "futbol",
+            "tags": "futbol,futbol_sapiens,sapiens,bayern,bayern_m\u00fanich,m\u00fanich,remontada,porto",
+            "recuweb_url": "http://es.recuweb.com/futbol/futbolsapiens.com/2015/04/memes-de-la-remontada-del-bayern-m%C3%BAnich-futbol-sapiens",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://futbolsapiens.com/la-mele/memes-de-la-remontada-del-bayern-munich/"
+        },
         "extradeportes.net/2015/04/bayern-munich-vs-porto-futbol": {
             "title": "Bayern Munich vs Porto - Futbol...",
             "snippet": "Bayern M\u00fanich vs Porto 2015 En Vivo definen este martes su suerte en la Champions League, luego de un gran partido de ida, el cuadro portugu\u00e9s sali\u00f3 con ventaja y ahora tendr\u00e1 que demostrar en suelo alem\u00e1n, que ese...",
             "date": "2015-04-21",
             "author_name": "desconocido",
             "categories": "futbol",
-            "tags": "cuadro,ventaja,ahora,tendr\u00e1,alem\u00e1n,ida,luego,gran,champions,champions_league,league,martes,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,porto,futbol,vivo,partido",
+            "tags": "cuadro,ahora,suelo,ida,luego,gran,champions,champions_league,league,martes,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,porto,futbol,vivo,partido,alem\u00e1n",
             "recuweb_url": "http://es.recuweb.com/futbol/extradeportes.net/2015/04/bayern-munich-vs-porto-futbol",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://extradeportes.net/33511-bayern-munich-vs-porto-2015-en-vivo-champions-ver-cuartos-vuelta-online-horarios.html"
         },
         "neymarfutbol.com/2015/04/bayern-munich-vs-porto-2015-en-vivo-ver-cuartos-de-champions": {
@@ -26,9 +38,9 @@
             "snippet": "Bayern Munich vs Porto En Vivo ser\u00e1 el segundo encuentro en esta emocionante UEFA Champions League, la cual llegara con todo su esplendor para mostrarnos dos de los partidos m\u00e1s interesantes en el fecha que llenas...",
             "date": "2015-04-21",
             "author_name": "bcedeno",
-            "tags": "ser\u00e1,encuentro,uefa,ver,cuartos,bayern,bayern_munich,munich,porto,vivo,champions,league,dos,fecha",
+            "tags": "dos,partidos,uefa,cuartos,bayern,bayern_munich,munich,porto,vivo,champions,league",
             "recuweb_url": "http://es.recuweb.com/neymarfutbol.com/2015/04/bayern-munich-vs-porto-2015-en-vivo-ver-cuartos-de-champions",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://neymarfutbol.com/1771-bayern-munich-vs-porto-2015-en-vivo-ver-cuartos-de-champions-por-foxsports.html"
         },
         "extrafutbol.com/2015/04/bayern-munich-vs-porto-2015-en-vivo-vuelta-cuartos": {
@@ -36,9 +48,9 @@
             "snippet": "El Bayern M\u00fanich recibe este martes al Porto en busca de la remontada. Los B\u00e1varos tendr\u00e1n que salir a marcar diferencias para poder revertir el marcador en la ida y poder acceder a las semifinales de los cuartos de final...",
             "date": "2015-04-21",
             "author_name": "FUTBOL EN VIVO",
-            "tags": "tendr\u00e1n,marcar,ida,cuartos,cuartos-de-final,final,recibe,martes,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,vuelta,porto,vivo",
+            "tags": "cuartos,ida,remontada,martes,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,vuelta,porto,vivo,b\u00e1varos,semifinales,final",
             "recuweb_url": "http://es.recuweb.com/extrafutbol.com/2015/04/bayern-munich-vs-porto-2015-en-vivo-vuelta-cuartos",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://extrafutbol.com/2367-bayern-munich-vs-porto-2015-en-vivo-vuelta-cuartos-de-champions-online.html"
         },
         "futbolsapiens.com/2015/04/bayern-munich-vs-porto-champions-2015-futbol-sapiens": {
@@ -47,9 +59,9 @@
             "date": "2015-04-21",
             "author_name": "Jairo Antonio",
             "categories": "futbol",
-            "tags": "futbol,porto,champions,bayern,bayern_munich,munich",
+            "tags": "resumen,futbol,futbol_sapiens,sapiens,porto,champions,bayern,bayern_munich,munich,goles",
             "recuweb_url": "http://es.recuweb.com/futbol/futbolsapiens.com/2015/04/bayern-munich-vs-porto-champions-2015-futbol-sapiens",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://futbolsapiens.com/partidos/bayern-munich-vs-porto-champions-2015/"
         },
         "rpp.com.pe/2015/04/bayern-munich-las-postales-de-la-goleada-al-porto": {
@@ -57,19 +69,29 @@
             "snippet": "El rodillo del Bayern de M\u00fanich aplast\u00f3 al Porto, derrotado 6-1 e incapaz de frenar la primera parte perfecta del cuadro germano, que remont\u00f3 el 3-1 de la ida para clasificarse a unas semifinales. Fuente: EFE EFE.",
             "date": "2015-04-21",
             "author_name": "RPP Noticias",
-            "tags": "ida,semifinales,primera,cuadro,goleada,bayern,bayern_munich,m\u00fanich,porto,derrotado",
+            "tags": "ida,primera,cuadro,pase,bayern,bayern_munich,m\u00fanich,porto,derrotado,semifinales",
             "recuweb_url": "http://es.recuweb.com/rpp.com.pe/2015/04/bayern-munich-las-postales-de-la-goleada-al-porto",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rpp.com.pe/2015-04-21-bayern-munich-las-postales-de-la-goleada-al-porto-y-el-pase-en-champions-noticia_789804.html"
+        },
+        "larepublica.pe/2015/04/bayern-m%C3%BAnich-vs-porto-b%C3%A1varos-golearon-6-1-por-champions": {
+            "title": "Bayern M\u00fanich vs. Porto: b\u00e1varos golearon 6-1 por Champions...",
+            "snippet": "Con facilidad y autoridad, el Bayern M\u00fanich consigui\u00f3 su pase a las semifinales de la Champions League, luego de vencer por 6 goles a 1 a un desconocido Porto que no supo ser rival en el Allianz Arena.",
+            "date": "2015-04-21",
+            "author_name": "desconocido",
+            "tags": "allianz,allianz_arena,arena,rival,luego,pase,bayern,bayern_m\u00fanich,m\u00fanich,porto,b\u00e1varos,champions,semifinales,league,goles",
+            "recuweb_url": "http://es.recuweb.com/larepublica.pe/2015/04/bayern-m%C3%BAnich-vs-porto-b%C3%A1varos-golearon-6-1-por-champions",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://larepublica.pe/20-04-2015/bayern-munich-vs-porto-bavaros-obligados-a-ganar-para-pasar-a-las-semifinales-de-la-champions-league"
         },
         "eluniversal.com.co/2015/04/barcelona-2-0-psg-bayern-m%C3%BAnich-5-1-oporto-champions-league": {
             "title": "Barcelona 2-0 PSG; Bayern M\u00fanich 5-1 Oporto Champions League...",
             "snippet": "Con la serie casi resuelta, Barcelona le da tr\u00e1mite al juego de vuelta de los cuartos de final de la Champions League. Bayern intenta remontar en casa.",
             "date": "2015-04-21",
             "author_name": "ggarcia",
-            "tags": "champions,champions_league,league,vuelta,cuartos,cuartos-de-final,final,oporto,bayern,bayern_m\u00fanich,m\u00fanich,barcelona",
+            "tags": "champions,champions_league,league,cuartos,oporto,bayern,bayern_m\u00fanich,m\u00fanich,barcelona,psg,vuelta,final,casa",
             "recuweb_url": "http://es.recuweb.com/eluniversal.com.co/2015/04/barcelona-2-0-psg-bayern-m%C3%BAnich-5-1-oporto-champions-league",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eluniversal.com.co/deportes/futbol/barcelona-2-0-psg-bayern-munich-5-0-oporto-191233"
         },
         "cnnespanol.cnn.com/2015/04/bar%C3%A7a-y-bayern-munich-clasifican-a-semifinales-de-la-champions": {
@@ -78,42 +100,20 @@
             "date": "2015-04-21",
             "author_name": "(CNNEspa\u00f1ol)",
             "categories": "paris-saint-germain",
-            "tags": "league,semifinales,bayern,bayern_munich,munich,champions,barcelona,porto",
+            "tags": "league,bayern,bayern_munich,munich,semifinales,champions,barcelona,porto",
             "recuweb_url": "http://es.recuweb.com/paris-saint-germain/cnnespanol.cnn.com/2015/04/bar%C3%A7a-y-bayern-munich-clasifican-a-semifinales-de-la-champions",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/21/barca-y-bayern-munich-clasifican-semifinales-de-la-champions-league/"
         },
-        "extrafutbol.com/2015/04/bayern-munich-vs-porto-2015-en-vivo-champions-desde-el-estadio": {
-            "title": "Bayern Munich vs Porto 2015 En Vivo: Champions desde el Estadio...",
-            "snippet": "Porto recibe este mi\u00e9rcoles al Bayern Munich con la ilusi\u00f3n de conseguir un triunfo que lo deje a las puertas de volver a una semifinal de la Champions League. Ser\u00e1 un duelo bastante complicad, entre dos equipos que les...",
-            "date": "2015-04-15",
-            "author_name": "FUTBOL EN VIVO",
-            "tags": "bastante,recibe,mi\u00e9rcoles,bayern,bayern_munich,munich,porto,vivo,champions,estadio,league,ser\u00e1,dos",
-            "recuweb_url": "http://es.recuweb.com/extrafutbol.com/2015/04/bayern-munich-vs-porto-2015-en-vivo-champions-desde-el-estadio",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://extrafutbol.com/2294-bayern-munich-vs-porto-2015-en-vivo-champions-desde-el-estadio-do-dragao.html"
-        },
-        "extradeportes.net/2015/04/porto-da-la-gran-sorpresa-y-supera-a-bayern-munich": {
-            "title": "Porto da la gran sorpresa y supera a Bayern Munich en la... - Futbol...",
-            "snippet": "Este mi\u00e9rcoles el Porto y Bayern Munich disputan el primero de sus juegos por los cuartos de final de la Champions League 2014-2015, un partido al que llegan con varias bajas importantes, pero con las suficientes armas y...",
-            "date": "2015-04-15",
-            "author_name": "desconocido",
-            "categories": "futbol",
-            "tags": "champions,champions_league,league,cuartos,cuartos-de-final,final,mi\u00e9rcoles,bayern,bayern_munich,munich,gran,porto,futbol,partido",
-            "recuweb_url": "http://es.recuweb.com/futbol/extradeportes.net/2015/04/porto-da-la-gran-sorpresa-y-supera-a-bayern-munich",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://extradeportes.net/33392-porto-vs-bayern-munich-2015-en-vivo-cuartos-de-final-de-champions-online.html"
-        },
-        "redfutbol-tv.com/2015/04/porto-vs-bayern-munich-red-futbol-tv": {
-            "title": "Porto vs Bayern Munich - Red Futbol-TV...",
-            "snippet": "El Bayern M\u00fanich cay\u00f3 derrotado por 3-1 en su visita a Oporto, en el partido de ida de los cuartos de final de la Liga de Campeones, disputado este mi\u00e9rcoles en el Estadio do Dragao de Portugal En tres graves errores...",
-            "date": "2015-04-15",
-            "author_name": "REDFUTBOL TV",
-            "categories": "futbol",
-            "tags": "tres,mi\u00e9rcoles,ida,cuartos,cuartos-de-final,final,visita,derrotado,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,red,futbol,porto,oporto,partido,estadio",
-            "recuweb_url": "http://es.recuweb.com/futbol/redfutbol-tv.com/2015/04/porto-vs-bayern-munich-red-futbol-tv",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://redfutbol-tv.com/2015/04/en-vivo-porto-vs-bayern-munich-espn-vivo.html"
+        "depor.pe/2015/04/bayern-munich-con-claudio-pizarro-venci%C3%B3-2-0-a-hoffenheim": {
+            "title": "Bayern Munich, con Claudio Pizarro, venci\u00f3 2-0 a Hoffenheim por la...",
+            "snippet": "El l\u00edder Bayern M\u00fanich, con Claudio Pizarro desde los 89', venci\u00f3 este s\u00e1bado en casa del Hoffenheim, s\u00e9ptimo, por 2-0. Bayern Munich sigue su camino directo al t\u00edtulo de la Bundesliga, tras la disputa de la 29 jornada del...",
+            "date": "2015-04-18",
+            "author_name": "Locura Xeneize",
+            "tags": "camino,s\u00e1bado,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,claudio,claudio_pizarro,pizarro,casa,s\u00e9p,directo,t\u00edtulo,bundesliga,jornada",
+            "recuweb_url": "http://es.recuweb.com/depor.pe/2015/04/bayern-munich-con-claudio-pizarro-venci%C3%B3-2-0-a-hoffenheim",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://depor.pe/futbol-internacional/bayern-munich-vs-hoffenheim-vivo-bundesliga-hora-y-canal-1040515"
         }
     }
 }

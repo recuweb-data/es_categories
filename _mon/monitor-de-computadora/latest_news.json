@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "monitor-de-computadora",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/monitor-de-computadora/",
@@ -10,42 +11,72 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/monitor-de-computadora/monitor-de-computadora/blogs.json"
     },
     "items": {
-        "primerahora.com/2015/04/el-s%C3%ADndrome-del-codo-qu%C3%A9-es-eso-primera-hora": {
-            "title": "El s\u00edndrome del codo, \u00bfqu\u00e9 es eso? - Primera Hora...",
-            "snippet": "Primera HoraEl s\u00edndrome del codo, \u00bfqu\u00e9 es eso?Primera HoraEn cuanto a la distancia entre tus ojos y el monitor de la computadora, debe haber, alrededor de, unas doce pulgadas. Adem\u00e1s, que cuando vayas a hacer un movimiento de cabeza, para mirar...",
+        "pulsoslp.com.mx/2015/04/3-trastornos-de-la-visi%C3%B3n-m%C3%A1s-detectados-en-las-consultas-pulso": {
+            "title": "3 trastornos de la visi\u00f3n m\u00e1s detectados en las consultas - Pulso de San Luis...",
+            "snippet": "Pulso de San Luis3 trastornos de la visi\u00f3n m\u00e1s detectados en las consultasPulso de San LuisSi trabajas frente a un monitor o pasas horas en la computadora, no esperes a que aparezcan los s\u00edntomas y empieza a prevenir el problema desde hoy. Aun...",
+            "date": "2015-04-24",
+            "categories": "computadora",
+            "tags": "frente,monitor,computadora",
+            "recuweb_url": "http://es.recuweb.com/computadora/pulsoslp.com.mx/2015/04/3-trastornos-de-la-visi%C3%B3n-m%C3%A1s-detectados-en-las-consultas-pulso",
+            "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
+            "source_url": "http://pulsoslp.com.mx/2015/04/24/3-trastornos-de-la-vision-mas-detectados-en-las-consultas/"
+        },
+        "eltribuno.info/2015/04/buscan-un-lugar-para-la-basura-electr%C3%B3nica": {
+            "title": "Buscan un lugar para la basura electr\u00f3nica - El...",
+            "snippet": "El un lugar para la basura electr\u00f3nicaEl denominada \"basura electr\u00f3nica\" corresponde a productos descartados por su obsolescencia tales como computadoras, CPU, monitores, notebooks, los llamados perif\u00e9ricos como teclado, mouse, parlantes y otros,...",
+            "date": "2015-04-24",
+            "categories": "electronica,computadora",
+            "tags": "lugar,cpu",
+            "recuweb_url": "http://es.recuweb.com/computadora/eltribuno.info/2015/04/buscan-un-lugar-para-la-basura-electr%C3%B3nica",
+            "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
+            "source_url": "http://eltribuno.info/buscan-un-lugar-la-basura-electronica-n538795"
+        },
+        "elcomercio.pe/2015/04/endeless-la-pc-de-bajo-costo-creada-para-pa%C3%ADses-en-desarrollo": {
+            "title": "Endeless la PC de bajo costo creada para pa\u00edses en desarrollo...",
+            "snippet": "Qu\u00e9 la hace tan llamativa? En primer lugar, Endless es una equipo que se conecta a cualquier televisor, sin importar la marca, y lo vuelve un monitor de computadora. Con un dise\u00f1o muy refinado, esta PC cuesta menos que una tablet y contiene...",
+            "date": "2015-04-24",
+            "categories": "computadora",
+            "tags": "equipo,televisor,lugar,monitor,computadora",
+            "recuweb_url": "http://es.recuweb.com/computadora/elcomercio.pe/2015/04/endeless-la-pc-de-bajo-costo-creada-para-pa%C3%ADses-en-desarrollo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=monitor%2Bde%2Bcomputadora&format=RSS&cc=es",
+            "source_url": "http://elcomercio.pe/tecnologia/inventos/endeless-pc-bajo-costo-creada-paises-desarrollo-noticia-1806191"
+        },
+        "lr21.com.uy/2015/04/c%C3%B3mo-sentarse-correctamente-frente-a-la-computadora-lared21": {
+            "title": "\u00bfC\u00f3mo sentarse correctamente frente a la computadora? - LaRed21...",
+            "snippet": "LaRed21\u00bfC\u00f3mo sentarse correctamente frente a la computadora?LaRed214- La altura del monitor debe estar preferiblemente a la de los ojos para poder mantener la postura, y aproximadamente a un brazo de distancia. 5- La iluminaci\u00f3n de la habitaci\u00f3n...",
+            "date": "2015-04-24",
+            "categories": "computadora",
+            "tags": "poder,c\u00f3mo,frente,computadora,monitor",
+            "recuweb_url": "http://es.recuweb.com/computadora/lr21.com.uy/2015/04/c%C3%B3mo-sentarse-correctamente-frente-a-la-computadora-lared21",
+            "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
+            "source_url": "http://lr21.com.uy/salud/1229206-sentarse-correctamente-frente-computadora"
+        },
+        "barilocheopina.com/2015/04/robaron-en-la-estaci%C3%B3n-del-tren-patag%C3%B3nico": {
+            "title": "Robaron en la estaci\u00f3n del Tren Patag\u00f3nico...",
+            "snippet": "De la caja registradora robaron unos 400 pesos y tambi\u00e9n se llevaron un monitor de computadora. Adem\u00e1s, del hall central se apoderaron de un TV Led de 32. Los ladrones habr\u00edan aprovechado el momento que la atenci\u00f3n en la ciudad se centraba en...",
+            "date": "2015-04-23",
+            "categories": "computadora",
+            "tags": "pesos,llevaron,caja,caja-registradora,registradora,monitor,computadora,led",
+            "recuweb_url": "http://es.recuweb.com/computadora/barilocheopina.com/2015/04/robaron-en-la-estaci%C3%B3n-del-tren-patag%C3%B3nico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=monitor%2Bde%2Bcomputadora&format=RSS&cc=es",
+            "source_url": "http://barilocheopina.com/locales/18409-robaron-en-la-estacion-del-tren-patagonico"
+        },
+        "sitioandino.com/2015/04/entraron-a-una-casa-de-rama-ca%C3%ADda-y-se-llevaron": {
+            "title": "Entraron a una casa de Rama Ca\u00edda y se llevaron de todo...",
+            "snippet": "un equipo musical, un monitor de computadora y casi toda la ropa de cama por lo que radic\u00f3 la denuncia en la Subcomisaria Rana Ca\u00edd.",
             "date": "2015-04-21",
             "categories": "computadora",
-            "tags": "monitor,computadora",
-            "recuweb_url": "http://es.recuweb.com/computadora/primerahora.com/2015/04/el-s%C3%ADndrome-del-codo-qu%C3%A9-es-eso-primera-hora",
-            "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
-            "source_url": "http://primerahora.com/estilos-de-vida/salud/nota/elsindromedelcodoqueeseso-1078422/"
-        },
-        "informe21.com/2015/04/seg%C3%BAn-abc-chavistas-a%C3%B1adieron-votos-falsos-en-2013": {
-            "title": "Seg\u00fan ABC: Chavistas a\u00f1adieron votos falsos en 2013 -...",
-            "snippet": "Seg\u00fan ABC: Chavistas a\u00f1adieron votos falsos en que: Las computadoras secretas de los chavistas lo indicaban bien claro. A las seis... En la sala, dispuestos en forma de U, hab\u00eda veinticuatro monitores, uno por cada estado venezolano, m\u00e1s uno...",
-            "date": "2015-04-20",
-            "categories": "computadora",
-            "tags": "forma,computadoras",
-            "recuweb_url": "http://es.recuweb.com/computadora/informe21.com/2015/04/seg%C3%BAn-abc-chavistas-a%C3%B1adieron-votos-falsos-en-2013",
-            "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
-            "source_url": "http://informe21.com/venezuela/segun-abc-chavistas-anadieron-votos-falsos-en-2013"
-        },
-        "monitoreconomico.org/2015/04/tumban-sitio-de-aristegui-noticias-en-internet-monitor-economico": {
-            "title": "Tumban sitio de Aristegui Noticias en Internet - Monitor Economico...",
-            "snippet": "Tumban sitio de Aristegui Noticias en InternetMonitor EconomicoEl sitio volvi\u00f3 a estar en l\u00ednea de forma intermitente logr\u00e1ndose ver en algunas computadoras, y en otras no, seg\u00fan pudimos constatar. El ataque se perpetr\u00f3 en la v\u00edspera de la...",
-            "date": "2015-04-20",
-            "categories": "computadora,internet",
-            "tags": "forma,computadoras,monitor,noticias",
-            "recuweb_url": "http://es.recuweb.com/internet/monitoreconomico.org/2015/04/tumban-sitio-de-aristegui-noticias-en-internet-monitor-economico",
-            "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
-            "source_url": "http://monitoreconomico.org/noticias/2015/apr/20/tumban-sitio-de-aristegui-noticias-en-internet/"
+            "tags": "casi,equipo,llevaron,monitor,computadora",
+            "recuweb_url": "http://es.recuweb.com/computadora/sitioandino.com/2015/04/entraron-a-una-casa-de-rama-ca%C3%ADda-y-se-llevaron",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=monitor%2Bde%2Bcomputadora&format=RSS&cc=es",
+            "source_url": "http://sitioandino.com/nota/154773/"
         },
         "elancasti.com.ar/2015/04/cuantioso-robo-en-un-vivero-de-valle-viejo": {
             "title": "Cuantioso robo en un vivero de Valle Viejo...",
             "snippet": "El martes a la ma\u00f1ana cuando entramos a trabajar nos damos con que hab\u00edan violentado la puerta para ingresar y se llevaron un monitor de computadora y la caja registradora con cuatrocientos pesos, entre otros elementos, narr\u00f3 a El Ancasti Julio...",
             "date": "2015-04-17",
             "categories": "computadora",
-            "tags": "monitor,computadora",
+            "tags": "caja,caja-registradora,registradora,pesos,monitor,computadora",
             "recuweb_url": "http://es.recuweb.com/computadora/elancasti.com.ar/2015/04/cuantioso-robo-en-un-vivero-de-valle-viejo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=monitor%2Bde%2Bcomputadora&format=RSS&cc=es",
             "source_url": "http://elancasti.com.ar/policiales/2015/4/17/cuantioso-robo-vivero-valle-viejo-257043.html"
@@ -55,7 +86,7 @@
             "snippet": "Como se vio en el episodio de CSI donde se present\u00f3 a la agente del FBI Avery Ryan, este nuevo equipo de CSI: Washington D.C. lleva a cabo casi toda su funci\u00f3n frente a un monitor de computadora. Las escenas de acci\u00f3n est\u00e1n a cargo \u00fanicamente...",
             "date": "2015-04-17",
             "categories": "computadora",
-            "tags": "monitor,computadora",
+            "tags": "casi,frente,equipo,monitor,computadora",
             "recuweb_url": "http://es.recuweb.com/computadora/diario.mx/2015/04/csi-cyber-un-fracaso",
             "resource_url": "http://www.bing.com/news/search?first=1&q=monitor%2Bde%2Bcomputadora&format=RSS&cc=es",
             "source_url": "http://diario.mx/Espectaculos/2015-04-17_3d9069cd/csi-cyber-_un-fracaso/?/"
@@ -75,7 +106,7 @@
             "snippet": "RPP NoticiasGoogle lanza dispositivo que convierte TV en computadoraRPP NoticiasAsimismo, Chromebit no solo se conectar\u00e1 con televisores, ya que un monitor con puerto HDMI tambi\u00e9n puede ser convertido en una computadora con el dispositivo. Google...",
             "date": "2015-04-01",
             "categories": "google,computadora",
-            "tags": "televisores,noticias,google,computadora,monitor,hdmi",
+            "tags": "televisores,lanza,google,computadora,monitor,hdmi",
             "recuweb_url": "http://es.recuweb.com/computadora/rpp.com.pe/2015/04/google-lanza-dispositivo-que-convierte-tv-en-computadora-rpp-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=monitor%2Bde%2Bcomputadora%2Bmonitor%2Bde%2Bcomputadora&output=atom&nord=1",
             "source_url": "http://rpp.com.pe/2015-03-31-google-lanza-dispositivo-que-convierte-tv-en-computadora-por-us$-99-noticia_783258.html"

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "html",
+        "language": "es",
+        "updated": "20150427"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/html/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/html/html/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/html/html/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/html/html/blogs.json"
+    },
+    "items": {
+        "betanews.com/2015/04/create-quality-html-prototypes-with-pingendo-betanews": {
+            "title": "Create quality HTML prototypes with Pingendo - BetaNews...",
+            "snippet": "BetaNewsCreate quality HTML prototypes with PingendoBetaNewsPingendo is a free cross-platform WYSIWYG application for prototyping web pages. It uses Twitter's Bootstrap as a base, and responsive web design support ensures your sites will adapt to...",
+            "date": "2015-04-24",
+            "categories": "html,twitter",
+            "tags": "html,web,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/betanews.com/2015/04/create-quality-html-prototypes-with-pingendo-betanews",
+            "resource_url": "http://news.google.es/?hl=es&q=html&output=atom&nord=1",
+            "source_url": "http://betanews.com/2015/04/24/create-quality-html-prototypes-with-pingendo/"
+        }
+    }
+}

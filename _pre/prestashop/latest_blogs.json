@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "prestashop",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/prestashop/",
@@ -10,93 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/prestashop/prestashop/blogs.json"
     },
     "items": {
-        "vichaunter.wordpress.com/2015/04/c%C3%B3mo-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop": {
-            "title": "C\u00f3mo eliminar los datos y pedidos de prueba en Prestashop...",
-            "snippet": "Cuando montas una tienda con esta plataforma, al igual que con muchas otras, tienes una serie de productos, clientes y pedidos de prueba, que desear\u00edas no estuvieran ah\u00ed...",
-            "date": "2015-04-14",
-            "author_name": "vichaunter",
+        "informax.es/2015/04/estad%C3%ADsticas-propias-de-prestashop-iii-mantenimiento-informatico": {
+            "title": "Estad\u00edsticas propias de Prestashop (III) Mantenimiento Informatico...",
+            "snippet": "Es un apartado sencillo pero importante, porque \u00bfno es realmente interesante saber qu\u00e9 buscan los clientes cuando navegan por nuestro Prestashop? Los datos disponibles son las palabras buscadas, las veces que se...",
+            "date": "2015-04-17",
+            "author_name": "Daniel Vazquez",
             "categories": "prestashop",
-            "tags": "productos,c\u00f3mo,prestashop,tienda,plataforma",
-            "recuweb_url": "http://es.recuweb.com/prestashop/vichaunter.wordpress.com/2015/04/c%C3%B3mo-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop",
-            "resource_url": "http://es.search.wordpress.com/?q=prestashop%2Bprestashop&f=feed&page=1",
-            "source_url": "http://vichaunter.wordpress.com/2015/04/14/como-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop-1-6-x-xx/"
-        },
-        "wanatop.com/2015/02/5-consejos-seo-para-tu-tienda-en-prestashop-wanatop": {
-            "title": "5 consejos SEO para tu tienda en Prestashop - Wanatop...",
-            "snippet": "Prestashop es un buen CMS para ecommerce de proyectos medianos. Te damos 5 consejos SEO para tu tienda en Prestashop que mejoren tu posicionamiento web.",
-            "date": "2015-02-17",
-            "author_name": "Pedro Novell\u00f3n",
-            "categories": "prestashop",
-            "tags": "seo,tienda,prestashop,cms,ecommerce,web",
-            "recuweb_url": "http://es.recuweb.com/prestashop/wanatop.com/2015/02/5-consejos-seo-para-tu-tienda-en-prestashop-wanatop",
+            "tags": "datos,son,clientes,importante,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/informax.es/2015/04/estad%C3%ADsticas-propias-de-prestashop-iii-mantenimiento-informatico",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wanatop.com/consejos-seo-para-tu-tienda-en-prestashop/"
+            "source_url": "http://informax.es/2015/04/17/estadsticas-propias-de-prestashop-iii/"
         },
-        "eduardoarea.blogspot.com/2015/02/social-media-8-m%C3%B3dulos-para-prestashop-mejor-instalaci%C3%B3n-sencilla": {
-            "title": "Social Media: 8 M\u00f3dulos para Prestashop Mejor Instalaci\u00f3n Sencilla...",
-            "snippet": "electr\u00f3nico para la mayor\u00eda de... Prestashop es una excelente soluci\u00f3n de comercio electr\u00f3nico para la mayor\u00eda de las empresas de tama\u00f1o mediano. Adem\u00e1s, est\u00e1 disponible gratuitamente para su descarga. Viene con...",
-            "date": "2015-02-15",
-            "author_name": "Eduardo Area",
-            "categories": "prestashop",
-            "tags": "comercio,comercio-electr\u00f3nico,electr\u00f3nico,tama\u00f1o,prestashop",
-            "recuweb_url": "http://es.recuweb.com/prestashop/eduardoarea.blogspot.com/2015/02/social-media-8-m%C3%B3dulos-para-prestashop-mejor-instalaci%C3%B3n-sencilla",
-            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://eduardoarea.blogspot.com/2015/02/8-modulos-para-prestashop-mejor.html"
-        },
-        "es.econsultoria.net/2015/02/tutorial-para-crer-tu-tienda-online-con-prestashop": {
-            "title": "Tutorial para crer tu tienda online con Prestashop...",
-            "snippet": "Aprende a crear y configuar tu propia ecommerce mediante Prestashop. C\u00f3mo configurarlo, dise\u00f1arlo, sistemas de pago y optimizarla para SEO.",
-            "date": "2015-02-12",
-            "author_name": "Alfonso",
-            "categories": "prestashop",
-            "tags": "pago,tutorial,tienda,online,prestashop,crear,ecommerce,c\u00f3mo,seo",
-            "recuweb_url": "http://es.recuweb.com/prestashop/es.econsultoria.net/2015/02/tutorial-para-crer-tu-tienda-online-con-prestashop",
-            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://es.econsultoria.net/blog/como-crear-y-configurar-una-tienda-online-con-prestashop/"
-        },
-        "agencia365.com/2015/02/principales-caracter%C3%ADsticas-del-cms-prestashop-para-tiendas": {
-            "title": "Principales caracter\u00edsticas del CMS Prestashop, para tiendas...",
-            "snippet": "PrestaShop es un software CMS (Content Management System) de comercio electr\u00f3nico GRATUITO y de c\u00f3digo abierto, LIDER en el sector de las tiendas online o tiendas de ecommerce. PrestaShop contiene m\u00e1s de 365...",
-            "date": "2015-02-10",
-            "author_name": "Diego Galmarini",
-            "categories": "prestashop",
-            "tags": "tiendas,c\u00f3digo,comercio,comercio-electr\u00f3nico,electr\u00f3nico,software,cms,prestashop,gratuito,online,ecommerce",
-            "recuweb_url": "http://es.recuweb.com/prestashop/agencia365.com/2015/02/principales-caracter%C3%ADsticas-del-cms-prestashop-para-tiendas",
-            "resource_url": "http://www.google.com/search?q=prestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://agencia365.com/principales-caracteristicas-del-cms-prestashop-para-tiendas-ecommerce/"
-        },
-        "blog.hacce.com/2015/02/oferta-de-empleo-buscamos-2-programadores-en-magento": {
-            "title": "Oferta de empleo: buscamos 2 programadores en Magento y...",
-            "snippet": "Reclutamos para nuestro equipo de desarrollo 2 programadores con experiencia trabajando con Magento y Prestashop. Se valorar\u00e1 experiencia en integraci\u00f3n de.",
-            "date": "2015-02-09",
+        "desarrolloweb.com/2015/04/instalaci%C3%B3n-de-prestashop": {
+            "title": "Instalaci\u00f3n de Prestashop -...",
+            "snippet": "En el art\u00edculo de hoy vamos a analizar la mejor forma de descargar e instalar el CMS para comercio electr\u00f3nico Prestashop en un servidor, paso inicial para comenzar la creaci\u00f3n de un completo sitio de ecommerce. Primero...",
+            "date": "2015-04-17",
             "author_name": "desconocido",
-            "categories": "empleo,magento,prestashop",
-            "tags": "prestashop",
-            "recuweb_url": "http://es.recuweb.com/prestashop/blog.hacce.com/2015/02/oferta-de-empleo-buscamos-2-programadores-en-magento",
-            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.hacce.com/2015/02/09/oferta-de-empleo-buscamos-2-programadores-en-magento-y-prestashop/"
-        },
-        "ticbeat.com/2015/01/joomla-y-prestashop-imitan-a-wp-ofrecen-hosting-gratis-ticbeat": {
-            "title": "Joomla y Prestashop imitan a WP y ofrecen hosting gratis TICbeat...",
-            "snippet": "Joomla y Prestashop imitan a WordPress ofreciendo alojamiento gratis. Tecnolog\u00eda. 25 enero, 2015. mobile-6024f8a. Joomla, uno de los CMS open source m\u00e1s usados del mundo, anunci\u00f3 hace unos d\u00edas el lanzamiento de su nuevo servicio...",
-            "date": "2015-01-25",
-            "author_name": "Marcos Merino",
-            "categories": "joomla,prestashop,wordpress,tecnologia",
-            "tags": "lanzamiento,servicio,alojamiento,hosting,joomla,prestashop,wordpress,cms,open,source",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/ticbeat.com/2015/01/joomla-y-prestashop-imitan-a-wp-ofrecen-hosting-gratis-ticbeat",
-            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ticbeat.com/tecnologias/joomla-prestashop-imitan-wordpress-ofreciendo-alojamiento-gratis/"
-        },
-        "loogic.com/2015/01/ya-es-oficial-prestashop-cloud-loogic": {
-            "title": "Ya es oficial: Prestashop Cloud Loogic...",
-            "snippet": "Despu\u00e9s de varios meses de pruebas y m\u00e1s de 5mil tiendas en funcionamiento, el CEO de Prestashop Benjamin Tezner ha hecho oficial el lanzamiento de Prestashop Cloud, el servicio de creaci\u00f3n de tiendas online como...",
-            "date": "2015-01-16",
-            "author_name": "Ignacio de Miguel",
             "categories": "prestashop",
-            "tags": "servicio,tiendas,prestashop,cloud,lanzamiento,online",
-            "recuweb_url": "http://es.recuweb.com/prestashop/loogic.com/2015/01/ya-es-oficial-prestashop-cloud-loogic",
+            "tags": "paso,completo,sitio,comercio,comercio-electr\u00f3nico,electr\u00f3nico,vamos,forma,prestashop,cms,ecommerce",
+            "recuweb_url": "http://es.recuweb.com/prestashop/desarrolloweb.com/2015/04/instalaci%C3%B3n-de-prestashop",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://loogic.com/ya-es-oficial-prestashop-cloud/"
+            "source_url": "http://desarrolloweb.com/articulos/instalacion-prestashop-servidor.html"
+        },
+        "javier-valero.es/2015/04/traduce-los-emails-de-prestashop-javier-valero": {
+            "title": "Traduce los emails de Prestashop - Javier Valero...",
+            "snippet": "Traduce los textos de los emails de Prestashop, un aspecto muy importante en Prestashop es la comunicaci\u00f3n que tienes con tus clientes, es m\u00e1s, te puedo asegurar que la comunicaci\u00f3n via email marketing funciona muy bien, y es algo que...",
+            "date": "2015-04-15",
+            "author_name": "Javier Valero",
+            "categories": "prestashop",
+            "tags": "marketing,muy,bien,clientes,aspecto,importante,javier,javier_valero,valero,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/javier-valero.es/2015/04/traduce-los-emails-de-prestashop-javier-valero",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://javier-valero.es/2015/04/traduce-los-emails-de-prestashop/"
+        },
+        "vichaunter.org/2015/04/c%C3%B3mo-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop": {
+            "title": "C\u00f3mo eliminar los datos y pedidos de prueba en Prestashop...",
+            "snippet": "Si te trae de cabeza vamos a ver como eliminar los pedidos de prueba en prestashop y versiones posteriores. A pesar de que vamos a realizarlo en un prestashop 1.6, es verdad que puede servirte para versiones...",
+            "date": "2015-04-14",
+            "author_name": "VicHaunter",
+            "categories": "prestashop",
+            "tags": "puede,vamos,datos,c\u00f3mo,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/vichaunter.org/2015/04/c%C3%B3mo-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://vichaunter.org/como-se-hace/como-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop-1-6-x-xx"
+        },
+        "informax.es/2015/04/como-borrar-todos-los-productos-en-prestashop-con-pscleaner": {
+            "title": "Como borrar todos los productos en Prestashop con PSCLEANER...",
+            "snippet": "Este es uno de los m\u00f3dulos para Prestashop que m\u00e1s usamos en Informax, ya que al tener tantos cat\u00e1logos de Dropshipping, hay que probarlos todos en nuestros.",
+            "date": "2015-04-10",
+            "author_name": "admin",
+            "categories": "prestashop",
+            "tags": "productos,prestashop,dropshipping",
+            "recuweb_url": "http://es.recuweb.com/prestashop/informax.es/2015/04/como-borrar-todos-los-productos-en-prestashop-con-pscleaner",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://informax.es/2015/04/10/como-borrar-todos-los-productos-en-prestashop-con-pscleaner/"
+        },
+        "javier-valero.es/2015/03/freelance-experto-en-prestashop-venta-de-plantillas": {
+            "title": "Freelance experto en Prestashop venta de plantillas prestashop...",
+            "snippet": "Atenci\u00f3n: Haz tu tienda Prestashop Responsive antes del 21 de abril si no quieres que Google penalice tu sitio web, para ello debes de ponerte las pilas.",
+            "date": "2015-03-19",
+            "author_name": "Javier Valero",
+            "categories": "prestashop,google",
+            "tags": "ello,sitio,freelance,prestashop,tienda,google,web",
+            "recuweb_url": "http://es.recuweb.com/google/javier-valero.es/2015/03/freelance-experto-en-prestashop-venta-de-plantillas",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://javier-valero.es/2015/03/atencion-haz-tu-tienda-prestashop-responsive-antes-del-21-de-abril/"
+        },
+        "blog-marketing-internet.es/2015/03/prestashop-y-las-campa%C3%B1as-de-marketing-por-mail": {
+            "title": "Prestashop y las campa\u00f1as de marketing por mail...",
+            "snippet": "Cada vez es m\u00e1s habitual efectuar todo tipo de comprar a trav\u00e9s de Internet, ya que esto resulta pr\u00e1ctico y puede ser realizado a cualquier hora del d\u00eda y desde cualquier lugar. Adem\u00e1s, el Ecommerce o comercio electr\u00f3nico esta representando...",
+            "date": "2015-03-18",
+            "author_name": "Juan Paterna",
+            "categories": "prestashop,internet",
+            "tags": "comercio,comercio-electr\u00f3nico,electr\u00f3nico,resulta,puede,trav\u00e9s,marketing,prestashop,internet,ecommerce",
+            "recuweb_url": "http://es.recuweb.com/internet/blog-marketing-internet.es/2015/03/prestashop-y-las-campa%C3%B1as-de-marketing-por-mail",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=prestashop%2Bprestashop&rss=1&lng=es",
+            "source_url": "http://blog-marketing-internet.es/index.php/2015/03/18/prestashop-y-las-campanas-de-marketing-por-mail/?utm_source=rss&utm_medium=rss&utm_campaign=prestashop-y-las-campanas-de-marketing-por-mail"
         },
         "nadinnecastillo.wordpress.com/2014/12/curso-prestashop-desde-cero": {
             "title": "Curso Prestashop desde cero...",
@@ -104,21 +94,32 @@
             "date": "2014-12-29",
             "author_name": "nadinnecastillo",
             "categories": "prestashop",
-            "tags": "aprender,gratuito,curso,crear,curso_prestashop,prestashop,tienda,online",
+            "tags": "crear,espa\u00f1ol,curso,curso_prestashop,prestashop,tienda,aprender",
             "recuweb_url": "http://es.recuweb.com/prestashop/nadinnecastillo.wordpress.com/2014/12/curso-prestashop-desde-cero",
             "resource_url": "http://es.search.wordpress.com/?q=prestashop%2Bprestashop&f=feed&page=1",
             "source_url": "http://nadinnecastillo.wordpress.com/2014/12/29/curso-prestashop-desde-cero/"
         },
-        "aplicacioneswebbfpmislatasmr.wordpress.com/2014/11/como-instalar-prestashop": {
-            "title": "Como instalar PRESTASHOP...",
-            "snippet": "Deberemos bajarnos el.zip de prestashop link: o descomprimimos con unzip y lo movemos al servidor con el comando scp \"Nombre del archivo\":/var/www/html/Prestashop/prestashop pero antes en []...",
-            "date": "2014-11-24",
-            "author_name": "pjavi",
-            "categories": "prestashop,html",
-            "tags": "prestashop",
-            "recuweb_url": "http://es.recuweb.com/html/aplicacioneswebbfpmislatasmr.wordpress.com/2014/11/como-instalar-prestashop",
-            "resource_url": "http://es.search.wordpress.com/?q=prestashop%2Bprestashop&f=feed&page=1",
-            "source_url": "http://aplicacioneswebbfpmislatasmr.wordpress.com/2014/11/24/como-instalar-prestashop/"
+        "insidenet.es/2014/12/curso-de-prestashop-en-barcelona-tiendas-online-insidenet": {
+            "title": "Curso de Prestashop en Barcelona - Tiendas Online - Insidenet...",
+            "snippet": "Curso de Prestashop en Barcelona presencial. Aprende a crear tiendas online con Prestashop. Formaci\u00f3n para particulares y empresas. Material gratis en PDF.",
+            "date": "2014-12-29",
+            "author_name": "joel",
+            "categories": "prestashop",
+            "tags": "crear,tiendas,curso,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/insidenet.es/2014/12/curso-de-prestashop-en-barcelona-tiendas-online-insidenet",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://insidenet.es/curso/prestashop-barcelona/"
+        },
+        "colorvivo.com/2014/11/como-integrar-google-analytics-en-prestashop-color-vivo-internet": {
+            "title": "Como integrar Google Analytics en Prestashop Color Vivo Internet...",
+            "snippet": "Para ello prestashop dispone de un m\u00f3dulo que viene por defecto, Google Analytics, muy f\u00e1cil de usar, basta con introducir la ID que nos proporciona Google Analytics a trav\u00e9s de nuestra cuenta de gmail, un c\u00f3digo que...",
+            "date": "2014-11-27",
+            "author_name": "admin",
+            "categories": "prestashop,internet,google",
+            "tags": "trav\u00e9s,muy,f\u00e1cil,defecto,prestashop,internet,google,ello",
+            "recuweb_url": "http://es.recuweb.com/google/colorvivo.com/2014/11/como-integrar-google-analytics-en-prestashop-color-vivo-internet",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://colorvivo.com/google-analytics-como-activar-la-opcion-de-comercio-electronico-en-prestashop/"
         }
     }
 }

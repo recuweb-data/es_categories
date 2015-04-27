@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "java",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/java/",
@@ -10,34 +11,64 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "g1.globo.com/2015/04/atualiza%C3%A7%C3%A3o-do-navegador-chrome-desativa-java-e-silverlight": {
-            "title": "Atualiza\u00e7\u00e3o do navegador Chrome desativa Java e Silverlight -...",
-            "snippet": "\u00e7\u00e3o do navegador Chrome desativa Java e Google lan\u00e7ou a vers\u00e3o 42 do Chrome e, junto das atualiza\u00e7\u00f5es e mudan\u00e7as e rotineiras, a nova vers\u00e3o do navegador desativou o suporte a uma tecnologia chamada NPAPI, usada por plugins de navegadores,...",
-            "date": "2015-04-22",
-            "categories": "java,google",
-            "tags": "chrome,java,silverlight,google,npapi",
-            "recuweb_url": "http://es.recuweb.com/google/g1.globo.com/2015/04/atualiza%C3%A7%C3%A3o-do-navegador-chrome-desativa-java-e-silverlight",
+        "jamaica-gleaner.com/2015/04/java-looking-professionalise-sport-jamaica-gleaner-subscription": {
+            "title": "JaVA looking professionalise sport - Jamaica Gleaner (subscription)...",
+            "snippet": "Jamaica Gleaner (subscription)JaVA looking professionalise sportJamaica Gleaner (subscription)Jamaica Volleyball Association (JaVA) president, Rudolph Speid, says the ball is in his court to take a game viewed as recreational to a professional...",
+            "date": "2015-04-23",
+            "categories": "java",
+            "tags": "his,java",
+            "recuweb_url": "http://es.recuweb.com/java/jamaica-gleaner.com/2015/04/java-looking-professionalise-sport-jamaica-gleaner-subscription",
             "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://g1.globo.com/tecnologia/noticia/2015/04/atualizacao-do-navegador-chrome-desativa-java-e-silverlight.html"
+            "source_url": "http://jamaica-gleaner.com/article/sports/20150423/java-looking-professionalise-sport"
+        },
+        "rantoulpress.com/2015/04/java-connection-exists-for-a-higher-cause-rantoul-press": {
+            "title": "Java Connection exists for a higher cause - Rantoul Press...",
+            "snippet": "Rantoul PressJava Connection exists for a higher causeRantoul PressAuthor Betty Graham and Rob Davis, chairman of the board of Java Connection in downtown Rantoul. Proceeds from Graham's recently released book, Betty Graham: A Life of Miracles, are...",
+            "date": "2015-04-23",
+            "categories": "java",
+            "tags": "java,are",
+            "recuweb_url": "http://es.recuweb.com/java/rantoulpress.com/2015/04/java-connection-exists-for-a-higher-cause-rantoul-press",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
+            "source_url": "http://rantoulpress.com/news/living/2015-04-23/java-connection-exists-higher-cause.html"
+        },
+        "patch.com/2015/04/senator-hill-hosts-java-with-jerry-in-portola-valley": {
+            "title": "Senator Hill Hosts 'Java with Jerry'in Portola Valley -...",
+            "snippet": "Hill Hosts 'Java with Jerry'in Portola Senator Jerry Hill for his Java with Jerry community coffee meeting about state legislative issues from 9 to 10 a.m. on Saturday, April 25, at Konditorei in the Ladera Country Shopper shopping center, 3130...",
+            "date": "2015-04-23",
+            "categories": "java",
+            "tags": "his,java",
+            "recuweb_url": "http://es.recuweb.com/java/patch.com/2015/04/senator-hill-hosts-java-with-jerry-in-portola-valley",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
+            "source_url": "http://patch.com/california/paloalto/senator-hill-hosts-java-jerry-portola-valley"
         },
         "techworm.net/2015/04/java-ditched-in-google-s-chrome-42-and-microsoft-spartan-browsers": {
             "title": "Java ditched in Google's Chrome 42 and Microsoft's Spartan Browsers - Techworm...",
             "snippet": "Java ditched in Google's Chrome 42 and Microsoft's Spartan BrowsersTechwormGoogle has now disabled NPAPI (Netscape Plugin Application Programming Interface) support in Chrome 42 and it will be completely removed from Chrome 45 in September 2015.",
             "date": "2015-04-22",
             "categories": "java,google",
-            "tags": "support,plugin,spartan,java,google,chrome,microsoft,npapi",
+            "tags": "support,spartan,java,google,chrome",
             "recuweb_url": "http://es.recuweb.com/google/techworm.net/2015/04/java-ditched-in-google-s-chrome-42-and-microsoft-spartan-browsers",
-            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
             "source_url": "http://techworm.net/2015/04/java-ditched-in-googles-chrome-42-and-microsofts-spartan-browsers.html"
+        },
+        "newscientist.com/2015/04/jolt-of-java-helps-spermbots-in-final-race-to-the-finish": {
+            "title": "Jolt of java helps spermbots in final race to the finish - New Scientist...",
+            "snippet": "Jolt of java helps spermbots in final race to the finishNew ScientistCAFFEINE gives you a spike of energy before you crash back down even if you're a robot made from bull sperm. Spermbots, as they are called, were first developed in 2013 by Veronika...",
+            "date": "2015-04-22",
+            "categories": "java",
+            "tags": "are,java",
+            "recuweb_url": "http://es.recuweb.com/java/newscientist.com/2015/04/jolt-of-java-helps-spermbots-in-final-race-to-the-finish",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
+            "source_url": "http://newscientist.com/article/mg22630181.800-jolt-of-java-helps-spermbots-in-final-race-to-the-finish.html"
         },
         "thejakartapost.com/2015/04/w-java-governor-to-deliver-friday-sermon-on-asia-africa-jakarta": {
             "title": "W. Java governor to deliver Friday sermon on Asia-Africa - Jakarta Post...",
             "snippet": "W. Java governor to deliver Friday sermon on Asia-AfricaJakarta PostWest Java Governor Ahmad \"Aher\" Heryawan said on Wednesday that he was ready to deliver sermon for Muslim delegates of the 60th Asian African Conference Commemoration (AACC) during...",
             "date": "2015-04-22",
             "categories": "java",
-            "tags": "java",
+            "tags": "that,java,asia",
             "recuweb_url": "http://es.recuweb.com/java/thejakartapost.com/2015/04/w-java-governor-to-deliver-friday-sermon-on-asia-africa-jakarta",
-            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
             "source_url": "http://thejakartapost.com/news/2015/04/22/w-java-governor-deliver-friday-sermon-asia-africa-unity.html"
         },
         "es.paperblog.com/2015/04/google-avisa-a-los-usuarios-de-la-plataforma-cloud": {
@@ -45,39 +76,29 @@
             "snippet": "La mayor\u00eda de usuarios de la plataforma PaaS(Plataforma como Servicio) conocida como GAE (Google App Engine) est\u00e1n recibiendo un correo electr\u00f3nico para que migren sus viejas aplicaciones maestro/esclavo construidas en Python,Java...",
             "date": "2015-04-21",
             "categories": "google,java",
-            "tags": "aplicaciones,usuarios,plataforma,google,java",
+            "tags": "aplicaciones,engine,plataforma,google,java",
             "recuweb_url": "http://es.recuweb.com/java/es.paperblog.com/2015/04/google-avisa-a-los-usuarios-de-la-plataforma-cloud",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/google-avisa-a-los-usuarios-de-la-plataforma-de-google-cloud-3172187/"
         },
         "techrepublic.com/2015/04/java-gets-browser-eviction-notices-from-spartan-and-chrome-42-techrepublic": {
             "title": "Java gets browser eviction notices from Spartan and Chrome 42 - TechRepublic...",
-            "snippet": "Java gets browser eviction notices from Spartan and Chrome 42TechRepublicOracle has not provided a PPAPI-compatible plugin for Java, nor has Microsoft for Silverlight. PPAPI is not a standardized technology -- it is only supported in Chrome and...",
+            "snippet": "Java gets browser eviction notices from Spartan and Chrome 42TechRepublicOracle's solution to this issue is to release more rapid updates for the Java Runtime Engine, a change that has led to widespread criticism, as the Java installer bundles the...",
             "date": "2015-04-21",
             "categories": "java",
-            "tags": "technology,plugin,java,spartan,chrome,microsoft,silverlight",
+            "tags": "that,updates,java,spartan,chrome,run,engine",
             "recuweb_url": "http://es.recuweb.com/java/techrepublic.com/2015/04/java-gets-browser-eviction-notices-from-spartan-and-chrome-42-techrepublic",
-            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
             "source_url": "http://techrepublic.com/article/java-gets-browser-eviction-notices-from-spartan-and-chrome-42/"
-        },
-        "diariodeboadilla.es/2015/04/jefe-de-proyectos-canales-java": {
-            "title": "Jefe de Proyectos Canales (JAVA)...",
-            "snippet": "En \u00e1reas que se habiliten para la participaci\u00f3n de los USUARIOS (a t\u00edtulo enunciativo env\u00edos, foros, chats, comentarios, comparticiones, etc.) el PORTAL se limitar\u00e1 a habilitar un espacio, pero no participar\u00e1 en modo alguno en los mismos,...",
-            "date": "2015-04-21",
-            "categories": "java",
-            "tags": "java,usuarios",
-            "recuweb_url": "http://es.recuweb.com/java/diariodeboadilla.es/2015/04/jefe-de-proyectos-canales-java",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
-            "source_url": "http://diariodeboadilla.es/20150421350387/boadilla-del-monte-jefe-proyectos-canales-java-of-i038d9dc0cc4756b36d493e39d1e885"
         },
         "oem.com.mx/2015/04/mar-de-penas-ajenas-java-la-prensa-oem": {
             "title": "Mar de penas (Ajenas)/Java - La Prensa (OEM)...",
             "snippet": "Mar de penas (Ajenas)/JavaLa Prensa (OEM)La actriz espa\u00f1ola Paz Vega se encuentra en nuestro pa\u00eds, invitada por Azteca para grabar El Hormiguero MX. Dicen que la bella mujer se divertir\u00e1 much\u00edsimo, toda vez que el titular del programa, Mauricio...",
             "date": "2015-04-21",
             "categories": "java",
-            "tags": "java",
+            "tags": "mar,java",
             "recuweb_url": "http://es.recuweb.com/java/oem.com.mx/2015/04/mar-de-penas-ajenas-java-la-prensa-oem",
-            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
             "source_url": "http://oem.com.mx/laprensa/notas/n3779819.htm"
         },
         "i-programmer.info/2015/04/oracle-ending-java-7-updates-iprogrammer": {
@@ -85,30 +106,10 @@
             "snippet": "Oracle Ending Java 7 UpdatesiProgrammerCustomers who need continued access to critical bug fixes and security fixes as well as general maintenance for Java SE 7 or older versions can get long-term support through Oracle Java SE Support. The process...",
             "date": "2015-04-21",
             "categories": "java",
-            "tags": "support,java",
+            "tags": "support,java,updates",
             "recuweb_url": "http://es.recuweb.com/java/i-programmer.info/2015/04/oracle-ending-java-7-updates-iprogrammer",
             "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
             "source_url": "http://i-programmer.info/news/80-java/8507-oracle-ending-java-7-updates.html"
-        },
-        "news.mongabay.com/2015/04/farmers-fall-short-in-legal-challenge-to-java-cement-plant": {
-            "title": "Farmers fall short in legal challenge to Java cement plant -...",
-            "snippet": "fall short in legal challenge to Java cement grassroots movement to halt construction of a cement factory and mine in Indonesia's Rembang regency suffered a major setback last week when a Central Java court rejected a lawsuit against a permit held...",
-            "date": "2015-04-20",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://es.recuweb.com/java/news.mongabay.com/2015/04/farmers-fall-short-in-legal-challenge-to-java-cement-plant",
-            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
-            "source_url": "http://news.mongabay.com/2015/0420-jacobson-rembang-verdict.html"
-        },
-        "noticiasdemajadahonda.es/2015/04/programador-javascript-java": {
-            "title": "Programador Javascript/Java...",
-            "snippet": "Descripci\u00f3n: Programador Javascript avanzado y web con al menos 3 a\u00f1os de experiencia. Conocimientos de Java y Spring MVC. Se requiere un conocimiento avanzado de Eclipse. Altos conocimientos de JSP(JSTL),...",
-            "date": "2015-04-20",
-            "categories": "conocimiento,javascript,java",
-            "tags": "requiere,java,eclipse",
-            "recuweb_url": "http://es.recuweb.com/java/noticiasdemajadahonda.es/2015/04/programador-javascript-java",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
-            "source_url": "http://noticiasdemajadahonda.es/2015042042610/madrid-programador-javascript-java-of-ia1605c9ef046e4b51253071a18a251"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cultura",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura/",
@@ -10,16 +11,71 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura/cultura/blogs.json"
     },
     "items": {
+        "abc.com.py/2015/04/agenda-de-arte-y-cultura-espectaculos-abc-color-digital": {
+            "title": "Agenda de arte y cultura - Espectaculos - ABC Color - ABC Digital...",
+            "snippet": "\u00bfQuer\u00e9s saber qu\u00e9 opciones art\u00edsticas y culturales tienen para hoy Asunci\u00f3n y otros puntos del pa\u00eds? Consult\u00e1 nuestra agenda y particip\u00e1 de los conciertos, encuentros, exposiciones, galer\u00edas, presentaciones y m\u00e1s.",
+            "date": "2015-04-23",
+            "author_name": "desconocido",
+            "categories": "cultura",
+            "tags": "agenda,digital,arte,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/abc.com.py/2015/04/agenda-de-arte-y-cultura-espectaculos-abc-color-digital",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/espectaculos/cultura/agenda-de-arte-y-cultura-1359520.html"
+        },
+        "ramenparados.blogspot.com/2015/04/cr%C3%B3nica-del-sal%C3%B3n-manga-de-jerez-la-frontera-2015-ramen": {
+            "title": "Cr\u00f3nica del Sal\u00f3n Manga de Jerez de la Frontera 2015 Ramen...",
+            "snippet": "En el segundo pasillo se concentraba todo lo referente a la cultura gamer. El stand de HP presenta sus equipos m\u00e1s potentes orientados al mundo del videojuego para PC. Es curioso que justo en frente de estos equipos de...",
+            "date": "2015-04-23",
+            "author_name": "noreply@blogger.com (Leo)",
+            "categories": "videojuego,frontera,cultura",
+            "tags": "cr\u00f3nica,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/ramenparados.blogspot.com/2015/04/cr%C3%B3nica-del-sal%C3%B3n-manga-de-jerez-la-frontera-2015-ramen",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ramenparados.blogspot.com/2015/04/cronica-del-salon-manga-de-jerez-de-la.html"
+        },
+        "arteycultura.com.mx/2015/04/feliz-d%C3%ADa-del-libro-a-celebrar-con-culturaunam-arte-y-cultura": {
+            "title": "\u00a1Feliz D\u00eda del Libro! A celebrar con culturaunam... - Arte y Cultura...",
+            "snippet": "Durante cuatro d\u00edasdel 23 al 26 de abril, el festival literario que se caracteriza por las rosas que se obsequian a los compradores de libros, se desarrollar\u00e1, adem\u00e1s del Centro Cultural Universitario (CCU) de Ciudad...",
+            "date": "2015-04-23",
+            "author_name": "Gerardo L\u00f3pez",
+            "categories": "cultura",
+            "tags": "cultural,desarrollar\u00e1,libro,abril,d\u00eda,arte,cultura,durante",
+            "recuweb_url": "http://es.recuweb.com/cultura/arteycultura.com.mx/2015/04/feliz-d%C3%ADa-del-libro-a-celebrar-con-culturaunam-arte-y-cultura",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arteycultura.com.mx/feliz-dia-del-libro-a-celebrar-con-culturaunam-en-la-fiesta-del-libro-y-la-rosa/"
+        },
+        "audio-lingua.eu/2015/04/marcos-la-crisis-afecta-a-cultura-audio-lingua-mp3-en-anglais": {
+            "title": "Marcos: la crisis afecta a la cultura - Audio Lingua - mp3 en anglais...",
+            "snippet": "Langues du site. Accueil; Espagnol; Marcos: la crisis afecta a la cultura. Marcos: la crisis afecta a la cultura. Twitter Facebook. mercredi 22 avril 2015 Marcos de Aranjuez B1 masculin adulte 60-90 secondes cin\u00e9ma culture...",
+            "date": "2015-04-22",
+            "author_name": "Marcos de Aranjuez",
+            "categories": "twitter,facebook,cultura",
+            "tags": "facebook,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/audio-lingua.eu/2015/04/marcos-la-crisis-afecta-a-cultura-audio-lingua-mp3-en-anglais",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://audio-lingua.eu/spip.php?article4368"
+        },
         "eugeniomateo.blogspot.com/2015/04/heraldo-de-arag%C3%B3n-se-hace-eco-los-premios-b%C3%BAho": {
             "title": "HERALDO DE ARAG\u00d3N SE HACE ECO DE LOS PREMIOS B\u00daHO...",
             "snippet": "En En Google Arag\u00f3n Deportes Real Zaragoza Internacional Nacional Econom\u00eda Sociedad Comunicaci\u00f3n Cultura Cultura Agenda Cartelera Turismo y viajes Ambar Z Music Ocio Pisos Ocio Y Cultura Cultura Literatura La cultura es una forma constante de...",
             "date": "2015-04-21",
             "author_name": "Eugenio Mateo",
             "categories": "cultura,literatura,google,economia,sociedad",
-            "tags": "cultura,literatura,internacional,nacional,agenda,hace",
+            "tags": "cultura,internacional,agenda,hace",
             "recuweb_url": "http://es.recuweb.com/sociedad/eugeniomateo.blogspot.com/2015/04/heraldo-de-arag%C3%B3n-se-hace-eco-los-premios-b%C3%BAho",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=cultura%2Bcultura&rss=1&lng=es",
             "source_url": "http://eugeniomateo.blogspot.com/2015/04/heraldo-de-aragon-se-hace-eco-de-los.html"
+        },
+        "filosofo-cervecero.com/2015/04/popularidad-gustos-personales-y-cultura-cervecera-pivn%C3%AD-filosof": {
+            "title": "Popularidad, gustos personales y cultura cervecera - Pivn\u00ed Filosof...",
+            "snippet": "\u00bfEn serio? Si Staropramen dice tanto sobre la cultura cervecera checa, me pregunto entonces qu\u00e9 es lo que Jupiler, Oettinger Pils y Carling Lager dicen sobre la cultura cervecera en B\u00e9lgica, Alemania y el Reino Unido,...",
+            "date": "2015-04-19",
+            "author_name": "noreply@blogger.com (Pivn\u00ed Filosof)",
+            "categories": "reino,cultura",
+            "tags": "cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/filosofo-cervecero.com/2015/04/popularidad-gustos-personales-y-cultura-cervecera-pivn%C3%AD-filosof",
+            "resource_url": "http://www.google.com/search?q=cultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://filosofo-cervecero.com/2015/04/popularidad-gustos-personales-y-cultura.html"
         },
         "luissoravilla.blogspot.com/2015/04/la-prosa-de-mayr%C3%A9n-beneyto": {
             "title": "La prosa de Mayr\u00e9n Beneyto...",
@@ -27,10 +83,21 @@
             "date": "2015-04-15",
             "author_name": "Luis Soravilla",
             "categories": "facebook,cultura",
-            "tags": "anunciado,digital,facebook,hoy,cultura",
+            "tags": "concejala,digital,facebook,cultura,ayuntamiento",
             "recuweb_url": "http://es.recuweb.com/cultura/luissoravilla.blogspot.com/2015/04/la-prosa-de-mayr%C3%A9n-beneyto",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=cultura%2Bcultura&rss=1&lng=es",
             "source_url": "http://luissoravilla.blogspot.com/2015/04/la-prosa-de-mayren-beneyto.html"
+        },
+        "endefensadelacultura.org/2015/04/se-aplaza-la-movilizaci%C3%B3n-del-19-de-abril-t%C3%BA-eres-cultura": {
+            "title": "se aplaza la movilizaci\u00f3n del 19 de abril: t\u00fa eres cultura - plataforma...",
+            "snippet": "SE APLAZA EL ACTO FESTIVO DE LA CULTURA QUE ESTABA PREVISTO PARA EL D\u00cdA 19 DE ABRIL. Hasta la nueva fecha en la que celebraremos una gran movilizaci\u00f3n festiva en defensa de la cultura, estamos...",
+            "date": "2015-04-15",
+            "author_name": "admin",
+            "categories": "cultura",
+            "tags": "acto,cultura,d\u00eda,abril",
+            "recuweb_url": "http://es.recuweb.com/cultura/endefensadelacultura.org/2015/04/se-aplaza-la-movilizaci%C3%B3n-del-19-de-abril-t%C3%BA-eres-cultura",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://endefensadelacultura.org/se-aplaza-la-movilizacion-del-19-de-abril-tu-eres-cultura/"
         },
         "umbralesculturabyoliviapalacios.wordpress.com/2015/04/hacia-la-deriva-cultural-una-visi%C3%B3n-cr%C3%ADtica": {
             "title": "Hacia la deriva cultural. Una visi\u00f3n cr\u00edtica.",
@@ -38,7 +105,7 @@
             "date": "2015-04-13",
             "author_name": "Olivia Palacios",
             "categories": "conocimiento,cultura",
-            "tags": "vida,cultura,cultural,hacia",
+            "tags": "cultura,cultural,hacia",
             "recuweb_url": "http://es.recuweb.com/cultura/umbralesculturabyoliviapalacios.wordpress.com/2015/04/hacia-la-deriva-cultural-una-visi%C3%B3n-cr%C3%ADtica",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=cultura%2Bcultura&rss=1&lng=es",
             "source_url": "http://umbralesculturabyoliviapalacios.wordpress.com/2015/04/13/hacia-la-deriva-cultural-una-vision-critica/"
@@ -49,76 +116,10 @@
             "date": "2015-04-09",
             "author_name": "Luis Miguel Morales Peinado",
             "categories": "cultura",
-            "tags": "d\u00eda,hacia,abril,cultura,hoy",
+            "tags": "d\u00eda,hacia,abril,cultura",
             "recuweb_url": "http://es.recuweb.com/cultura/lasombradelashoras.blogspot.com/2015/04/art%C3%ADculo-abril-vallecasva-los-c%C3%ADnicos",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=cultura%2Bcultura&rss=1&lng=es",
             "source_url": "http://lasombradelashoras.blogspot.com/2015/04/articulo-abril-vallecasva-los-cinicos.html"
-        },
-        "todaunaamalgama.blogspot.com/2015/04/toda-una-amalgama-cultura-chinchorro-las-momias-m%C3%A1s-antiguas": {
-            "title": "Toda una amalgama: Cultura Chinchorro: las momias m\u00e1s antiguas...",
-            "snippet": "Pertenecen a la Cultura Chinchorro, la cual se desarroll\u00f3 a lo largo de los 7000 y 1500 a\u00f1os a.C. Entre sus restos, encontramos que fueron capaces de momificar fetos, ni\u00f1os y adultos. Los chinchorros fueron un grupo de...",
-            "date": "2015-04-09",
-            "author_name": "Ana Guia",
-            "categories": "cultura",
-            "tags": "grupo,largo,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/todaunaamalgama.blogspot.com/2015/04/toda-una-amalgama-cultura-chinchorro-las-momias-m%C3%A1s-antiguas",
-            "resource_url": "http://www.google.com/search?q=cultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://todaunaamalgama.blogspot.com/2015/04/cultura-chinchorro-las-momias-mas.html"
-        },
-        "abc.com.py/2015/04/agenda-de-arte-y-cultura-espectaculos-abc-color-digital": {
-            "title": "Agenda de arte y cultura - Espectaculos - ABC Color - Abc Digital...",
-            "snippet": "Quer\u00e9s saber qu\u00e9 opciones art\u00edsticas y culturales tienen para hoy Asunci\u00f3n y otros puntos del pa\u00eds? Consult\u00e1 nuestra agenda y particip\u00e1 de los conciertos, encuentros, exposiciones, galer\u00edas, presentaciones y m\u00e1s.",
-            "date": "2015-04-08",
-            "author_name": "desconocido",
-            "categories": "cultura",
-            "tags": "agenda,agenda-particip\u00e1,particip\u00e1,conciertos,puntos,tienen,saber,saber-qu\u00e9-opciones,opciones,abc,digital,abc_color,color,arte,cultura,quer\u00e9s,art\u00edsticas,hoy,asunci\u00f3n,pa\u00eds,consult\u00e1,encuentros,exposiciones,galer\u00edas",
-            "recuweb_url": "http://es.recuweb.com/cultura/abc.com.py/2015/04/agenda-de-arte-y-cultura-espectaculos-abc-color-digital",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/espectaculos/cultura/agenda-de-arte-y-cultura-1354423.html"
-        },
-        "ramenparados.blogspot.com/2015/04/artbook-n-13-bel%C3%A9n-ortega-a-la-venta": {
-            "title": "Artbook n 13 Bel\u00e9n Ortega a la venta este mes de abril por Ominiky...",
-            "snippet": "Esta granadina naci\u00f3 en 1986. Muy pronto descubri\u00f3 la cultura otaku y se sumergi\u00f3 en ella, especialmente gracias a series como Rurouni Kenshin. Pas\u00f3 por varios fanzines y revistas de manera cada vez m\u00e1s profesional.",
-            "date": "2015-04-08",
-            "author_name": "noreply@blogger.com (Ruisu)",
-            "categories": "cultura",
-            "tags": "abril,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/ramenparados.blogspot.com/2015/04/artbook-n-13-bel%C3%A9n-ortega-a-la-venta",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ramenparados.blogspot.com/2015/04/artbook-n-13-belen-ortega-la-venta-este.html"
-        },
-        "recital.cl/2015/04/ministra-de-cultura-claudia-barattini-y-quilapay%C3%BAn-en-conferencia": {
-            "title": "Ministra de Cultura, Claudia Barattini y Quilapay\u00fan en Conferencia...",
-            "snippet": "Ministra de Cultura, Claudia Barattini y Quilapay\u00fan en Conferencia de Prensa 2015. Ministra de Cultura, Claudia Barattini y Quilapay\u00fan en Conferencia de Prensa 2015 8 de abril de 2015. 190 Flares Twitter 4 Facebook 186 Made...",
-            "date": "2015-04-08",
-            "author_name": "Sergio Garcia",
-            "categories": "twitter,cultura,facebook",
-            "tags": "cultura,abril,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/recital.cl/2015/04/ministra-de-cultura-claudia-barattini-y-quilapay%C3%BAn-en-conferencia",
-            "resource_url": "http://www.google.com/search?q=cultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://recital.cl/2015/04/ministra-de-cultura-claudia-barattini-y-quilapayun-en-conferencia-de-prensa-2015/"
-        },
-        "elperiodicoextremadura.com/2015/04/m%C3%A9rida-ser%C3%A1-la-sede-del-centro-de-interpretaci%C3%B3n-cultura-gitana": {
-            "title": "M\u00e9rida ser\u00e1 la sede del Centro de Interpretaci\u00f3n de la Cultura Gitana...",
-            "snippet": "El Centro de Interpretaci\u00f3n de la Cultura Gitana impulsado por el Gobierno de Extremadura tendr\u00e1 su sede en M\u00e9rida, seg\u00fan ha anunciado hoy la consejera de Empleo y Pol\u00edtica Social, Mar\u00eda \u00c1ngeles Mu\u00f1oz.",
-            "date": "2015-04-08",
-            "author_name": "EFE",
-            "categories": "politica,cultura,empleo",
-            "tags": "pol\u00edtica,anunciado,cultura,gobierno,hoy",
-            "recuweb_url": "http://es.recuweb.com/empleo/elperiodicoextremadura.com/2015/04/m%C3%A9rida-ser%C3%A1-la-sede-del-centro-de-interpretaci%C3%B3n-cultura-gitana",
-            "resource_url": "http://www.google.com/search?q=cultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elperiodicoextremadura.com/noticias/extremadura/merida-sera-sede-centro-interpretacion-cultura-gitana_864295.html"
-        },
-        "cultura.gov.py/2015/04/secretar%C3%ADa-nacional-de-cultura-blog-archive-proyecto-fondos": {
-            "title": "Secretar\u00eda Nacional de Cultura Blog Archive Proyecto Fondos...",
-            "snippet": "Hasta el pr\u00f3ximo viernes 17 de abril se encuentra abierta la convocatoria 2015 del Proyecto Fondos de Cultura, con el cual, mediante el apoyo a iniciativas ciudadanas, la instituci\u00f3n busca promover la cultura como...",
-            "date": "2015-04-04",
-            "author_name": "editor",
-            "categories": "cultura",
-            "tags": "apoyo,proyecto,cultura,nacional,pr\u00f3ximo,abril",
-            "recuweb_url": "http://es.recuweb.com/cultura/cultura.gov.py/2015/04/secretar%C3%ADa-nacional-de-cultura-blog-archive-proyecto-fondos",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bcultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cultura.gov.py/lang/es-es/2015/04/proyecto-fondos-de-cultura-continua-recibiendo-postulaciones-de-iniciativas-culturales-ciudadanas"
         }
     }
 }

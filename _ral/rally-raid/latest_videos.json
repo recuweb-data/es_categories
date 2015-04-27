@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rally-raid",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/rally-raid/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally-raid/rally-raid/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/earth-one-rally-raid-video-presentaci%C3%B3n-earthone": {
+            "title": "Earth One Rally Raid (Video Presentaci\u00f3n) EarthOne...",
+            "snippet": "Earth One Rally Raid (Video Presentaci\u00f3n) EarthOne From: cxocommunity Views: 11 1 ratings Time: 04:26 More in Education...",
+            "date": "2015-04-04",
+            "author_name": "cxocommunity",
+            "categories": "rally,rally-raid",
+            "tags": "rally,rally_raid,raid",
+            "recuweb_url": "http://es.recuweb.com/rally-raid/youtube.com/2015/04/earth-one-rally-raid-video-presentaci%C3%B3n-earthone",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Braid%2Brally%2Braid&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=JpV1Rbuaga8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/JpV1Rbuaga8/0.jpg"
+        },
         "youtube.com/2015/03/2015-03-zakatyn-05-rally-raid-paris-dakar-pasa-por-caravaca": {
             "title": "2015_03 zAkAtYn 05 Rally Raid Paris Dakar pasa por Caravaca de la Cruz...",
             "snippet": "2015_03 zAkAtYn 05 Rally Raid Paris Dakar pasa por Caravaca de la Cruz by zAkAtYn 05 Los participantes del Par\u00eds Dakar de la Guardia Civil, campeones de su categor\u00eda de piloto solo. Jos\u00e9 M Salinero. \u00danico espa\u00f1ol en conseguirlo, pasaron por...",
@@ -18,7 +31,7 @@
             "categories": "rally,rally-raid",
             "tags": "categor\u00eda,dakar,rally,rally_raid,raid",
             "recuweb_url": "http://es.recuweb.com/rally-raid/youtube.com/2015/03/2015-03-zakatyn-05-rally-raid-paris-dakar-pasa-por-caravaca",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Braid&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Braid%2Brally%2Braid&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=BltnNHOgdBU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BltnNHOgdBU/0.jpg"
         },
@@ -30,7 +43,7 @@
             "categories": "rally,rally-raid",
             "tags": "toyota,toyota_imperial,toyota_imperial_team,imperial,imperial_team,team,villiers,villiers_giniel,giniel,tercera,tercera-posici\u00f3n,posici\u00f3n,monster,monster_energy,monster_energy_rally,energy,energy_rally,energy_rally_raid,rally,rally_raid,rally_raid_team,raid,raid_team,terranova,terranova_orlando,orlando,segunda,segunda-posici\u00f3n,ganado,ganado-la-etapa,etapa,qatar,qatar_rally,qatar_rally_team,rally_team,attiyah,attiyah_nasser,nasser,categor\u00eda,categor\u00eda-coche,coche,salta,moto,resumen",
             "recuweb_url": "http://es.recuweb.com/rally-raid/dailymotion.com/2015/01/etapa-11-coche-moto-resumen-de-la-salta-termas-rio-hondo",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid+rally+raid/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid/0?af=1",
             "source_url": "http://dailymotion.com/video/x2etqwc_etapa-11-coche-moto-resumen-de-la-etapa-salta-termas-rio-hondo_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2etqwc_etapa-11-coche-moto-resumen-de-la-etapa-salta-termas-rio-hondo_auto"
         },
@@ -42,7 +55,7 @@
             "categories": "rally,rally-raid",
             "tags": "yazeed,alrajhi,alrajhi_yazeed,tercera,tercera-posici\u00f3n,posici\u00f3n,monster,monster_energy,monster_energy_rally,energy,energy_rally,energy_rally_raid,rally,rally_raid,rally_raid_team,raid,raid_team,team,terranova,terranova_orlando,orlando,segunda,segunda-posici\u00f3n,ganado,ganado-la-etapa,etapa,qatar,qatar_rally,qatar_rally_team,rally_team,attiyah,attiyah_nasser,nasser,categor\u00eda,categor\u00eda-coche,coche,calama,salta,moto,resumen",
             "recuweb_url": "http://es.recuweb.com/rally-raid/dailymotion.com/2015/01/etapa-10-coche-moto-resumen-de-la-calama-salta",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid+rally+raid/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid/0?af=1",
             "source_url": "http://dailymotion.com/video/x2er5yx_etapa-10-coche-moto-resumen-de-la-etapa-calama-salta_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2er5yx_etapa-10-coche-moto-resumen-de-la-etapa-calama-salta_auto"
         },
@@ -54,21 +67,9 @@
             "categories": "rally,deporte",
             "tags": "dakar,carrera,chile,bolivia,rally,amaury,amaury_sport,amaury_sport_organisation,sport,sport_organisation,organisation,information,etapa,adentro,coche,dakartags,raid,deporte,motor,vmag",
             "recuweb_url": "http://es.recuweb.com/deporte/dailymotion.com/2015/01/etapa-11-adentro-del-dakar-2015-t-coronel-coche",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid+rally+raid/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid/0?af=1",
             "source_url": "http://dailymotion.com/video/x2eqzqy_etapa-11-adentro-del-dakar-2015-t-coronel-coche_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2eqzqy_etapa-11-adentro-del-dakar-2015-t-coronel-coche_auto"
-        },
-        "youtube.com/2015/01/rally-raid-guitiriz-baleira-bidueiras-2015-bmw-g650-x-challenge": {
-            "title": "Rally-Raid: Guitiriz-Baleira-Bidueiras 2015 (BMW G650 X-Challenge)...",
-            "snippet": "Rally-Raid: Guitiriz-Baleira-Bidueiras 2015 (BMW G650 X-Challenge) Rally-Raid: \"Guitiriz-Baleira-Bidueiras 2015\" By: - LULO - & Ga\u00f1anes-TRAIL. From: - LULO - Views: 354 5 ratings Time: 02:51 More in Travel & Events...",
-            "date": "2015-01-13",
-            "author_name": "- LULO -",
-            "categories": "rally",
-            "tags": "rally,raid",
-            "recuweb_url": "http://es.recuweb.com/rally/youtube.com/2015/01/rally-raid-guitiriz-baleira-bidueiras-2015-bmw-g650-x-challenge",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rally%2Braid%2Brally%2Braid&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=tVsFkM7QWMk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/tVsFkM7QWMk/0.jpg"
         },
         "dailymotion.com/2015/01/etapa-9-adentro-del-dakar-2015-y-alrajhi-auto": {
             "title": "Etapa 9 - Adentro del Dakar 2015 - Y. Alrajhi - Auto...",
@@ -90,7 +91,7 @@
             "categories": "rally",
             "tags": "bolivia,rally,amaury,amaury_sport,amaury_sport_organisation,sport,sport_organisation,organisation,information,dakar,dakartags,raid,motor,chile",
             "recuweb_url": "http://es.recuweb.com/rally/dailymotion.com/2015/01/stage-8-paisaje-del-d%C3%ADa-landscape-of-the-day-paysage-du",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid+rally+raid/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid/0?af=1",
             "source_url": "http://dailymotion.com/video/x2el00v_stage-8-paisaje-del-dia-landscape-of-the-day-paysage-du-jour-powered-by-bolivia-travel_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2el00v_stage-8-paisaje-del-dia-landscape-of-the-day-paysage-du-jour-powered-by-bolivia-travel_auto"
         },
@@ -114,7 +115,7 @@
             "categories": "rally,deporte",
             "tags": "chile,copiapo,carrera,rally,deporte,vmag,amaury,amaury_sport,amaury_sport_organisation,sport,sport_organisation,organisation,information,etapa,adentro,dakar,dakartags,motor,raid",
             "recuweb_url": "http://es.recuweb.com/deporte/dailymotion.com/2015/01/etapa-5-adentro-del-dakar-2015-ales-loprais",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid+rally+raid/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/rally+raid/0?af=1",
             "source_url": "http://dailymotion.com/video/x2eapfr_etapa-5-adentro-del-dakar-2015-ales-loprais_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2eapfr_etapa-5-adentro-del-dakar-2015-ales-loprais_auto"
         },

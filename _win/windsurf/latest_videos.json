@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "windsurf",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/windsurf/",
@@ -10,25 +11,13 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/windsurf/windsurf/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/f%C3%B3rmula-windsurf-cazalegas": {
-            "title": "F\u00f3rmula Windsurf Cazalegas...",
-            "snippet": "F\u00f3rmula Windsurf Cazalegas Gran d\u00eda de F\u00f3rmula Windsurf en el Pantano de Cazalegas, en Toledo. Viento de NE de entre 15 y 20 kn al principio de la ma\u00f1ana, bajando a 7 - 10 kn al final. Material: Starboard LWR, aleta... From: Roberto Ortiz Views:...",
-            "date": "2015-03-16",
-            "author_name": "Roberto Ortiz",
-            "categories": "windsurf",
-            "tags": "windsurf,d\u00eda,viento",
-            "recuweb_url": "http://es.recuweb.com/windsurf/youtube.com/2015/03/f%C3%B3rmula-windsurf-cazalegas",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=windsurf%2Bwindsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=4AyQj4RiEwg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/4AyQj4RiEwg/0.jpg"
-        },
         "youtube.com/2015/01/cuesta-del-viento-windsurf-2014-2015": {
             "title": "Cuesta Del Viento Windsurf 2014-2015...",
             "snippet": "Cuesta Del Viento Windsurf 2014-2015 7 dias de navegacion con amigos Gopro Hero 4 Silver, 1080 60 FPS Cuesta Del Viento, San Juan, Argentina. From: Alejo Genoud Views: 1260 9 ratings Time: 04:20 More in Entertainment...",
             "date": "2015-01-09",
             "author_name": "Alejo Genoud",
             "categories": "windsurf",
-            "tags": "viento,windsurf,argentina",
+            "tags": "juan,windsurf,argentina",
             "recuweb_url": "http://es.recuweb.com/windsurf/youtube.com/2015/01/cuesta-del-viento-windsurf-2014-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=windsurf%2Bwindsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=-g13LwiTPnI&feature=youtube_gdata",
@@ -68,6 +57,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=windsurf%2Bwindsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=MdtPJ_n0X1A&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/MdtPJ_n0X1A/0.jpg"
+        },
+        "youtube.com/2014/10/windsurf-planning-and-catapulted": {
+            "title": "windsurf planning and catapulted...",
+            "snippet": "windsurf planning and catapulted Esto es pura adrenalina se\u00f1ores un deporte muy gratificante. From: Juan Carlos Fleitas Views: 1074 6 ratings Time: 03:41 More in Sports...",
+            "date": "2014-10-01",
+            "author_name": "Juan Carlos Fleitas",
+            "categories": "deporte,windsurf",
+            "tags": "juan,windsurf,sports",
+            "recuweb_url": "http://es.recuweb.com/windsurf/youtube.com/2014/10/windsurf-planning-and-catapulted",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=windsurf%2Bwindsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=gyUS2K22Zjc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/gyUS2K22Zjc/0.jpg"
         },
         "youtube.com/2014/08/corsica-windsurf-2014": {
             "title": "Corsica Windsurf 2014...",
@@ -122,7 +123,7 @@
             "date": "2014-04-21",
             "author_name": "Maria Elvira Salazar",
             "categories": "windsurf",
-            "tags": "windsurf,d\u00eda,mar",
+            "tags": "windsurf,mar",
             "recuweb_url": "http://es.recuweb.com/windsurf/youtube.com/2014/04/jorge-a-martinez-cruza-el-mar-en-una-tabla-de-windsurf",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=windsurf%2Bwindsurf&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=0SLH8QL_fgM&feature=youtube_gdata",

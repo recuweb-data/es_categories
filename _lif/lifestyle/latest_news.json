@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lifestyle",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lifestyle/",
@@ -10,6 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
     },
     "items": {
+        "stilo.es/2015/04/las-gafas-de-sol-sinner": {
+            "title": "Las Gafas de Sol Sinner...",
+            "snippet": "La firma holandesa, presenta en su l\u00ednea Lifestyle Series unas gafas de sol que se adaptan a cada estilo y actitud. Una mezcla perfecta entre las jornadas de ciudad y la vida soleada en la monta\u00f1a. Los est\u00e9ticos dise\u00f1os de SINNER est\u00e1n acabados...",
+            "date": "2015-04-26",
+            "categories": "lifestyle",
+            "tags": "vida,estilo,lifestyle",
+            "recuweb_url": "http://es.recuweb.com/lifestyle/stilo.es/2015/04/las-gafas-de-sol-sinner",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=es",
+            "source_url": "http://stilo.es/2015/04/las-gafas-de-sol-sinner/"
+        },
+        "blogs.lavanguardia.com/2015/04/blog-sobre-gastronom%C3%ADa-y-lifestyle": {
+            "title": "Blog sobre Gastronom\u00eda y Lifestyle de...",
+            "snippet": "Llega Sant Jordi. Esa festividad que recuerda cada a\u00f1o que hay que comprar una rosa o devanearse los sesos para encontrar el libro perfecto para regalar atendiendo a la tem\u00e1tica de inter\u00e9s de la pareja. Jardiner\u00eda, bricolaje, best sellers,...",
+            "date": "2015-04-23",
+            "categories": "lifestyle",
+            "tags": "lifestyle",
+            "recuweb_url": "http://es.recuweb.com/lifestyle/blogs.lavanguardia.com/2015/04/blog-sobre-gastronom%C3%ADa-y-lifestyle",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=es",
+            "source_url": "http://blogs.lavanguardia.com/por-amor-al-ocio/10-libros-de-cocina-y-gastronomia-para-regalar-en-sant-jordi-64716"
+        },
         "es.paperblog.com/2015/04/lifestyle-probando-el-ems-electro-estimulaci%C3%B3n-muscular": {
             "title": "LIFESTYLE: Probando el EMS (Electro-estimulaci\u00f3n Muscular)!",
             "snippet": "\u00a1Buenos d\u00edas! Hoy quiero hablaros de un nuevo proyecto en el que me he embarcado.\u00bfConoc\u00e9is la frase de meterse en camisa de once varas?Pues yo lo he hecho en chaleco con enchufes.Y es que comienza la operaci\u00f3n bikini y es hora de que os cuente...",
@@ -25,30 +46,10 @@
             "snippet": "HipertextualLa tecnolog\u00eda ya no es solo tecnolog\u00edaHipertextualA mediados de la d\u00e9cada pasada empez\u00f3 a verse una tendencia entre la moda, seguida por la industria de lifestyle y de deportes, de ir, poco a poco, convergiendo hacia el modelo...",
             "date": "2015-04-14",
             "categories": "moda,tecnologia,lifestyle",
-            "tags": "lifestyle",
+            "tags": "moda,lifestyle",
             "recuweb_url": "http://es.recuweb.com/lifestyle/hipertextual.com/2015/04/la-tecnolog%C3%ADa-ya-no-es-solo-hipertextual",
-            "resource_url": "http://news.google.es/?hl=es&q=lifestyle&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=lifestyle%2Blifestyle&output=atom&nord=1",
             "source_url": "http://hipertextual.com/2015/04/tecnologia-lifestyle"
-        },
-        "hosteltur.com/2015/04/cinco-tendencias-de-mercado-en-los-hoteles-boutique": {
-            "title": "Cinco tendencias de mercado en los hoteles boutique...",
-            "snippet": "Aunque los segmentos de hoteles boutique y lifestyle siempre han sido dif\u00edciles de definir, un panel de expertos en la 27 conferencia anual de Hunter Hotel lo hicieron antes de reevaluar su \u00e1mbito de arriba abajo. Para ellos, los...",
-            "date": "2015-04-12",
-            "categories": "lifestyle",
-            "tags": "hoteles,lifestyle",
-            "recuweb_url": "http://es.recuweb.com/lifestyle/hosteltur.com/2015/04/cinco-tendencias-de-mercado-en-los-hoteles-boutique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=es",
-            "source_url": "http://hosteltur.com/110619_cinco-tendencias-mercado-hoteles-boutique.html"
-        },
-        "blogs.periodistadigital.com/2015/04/lanzamiento-de-wysk-collection-polo-edition-&-lifestyle-argentina": {
-            "title": "Lanzamiento de WYSK Collection Polo Edition & Lifestyle - Argentina...",
-            "snippet": "El 9 de Abril en el exclusivo Hotel HUB PORTE\u00d1O con un coctail glamoroso se presento el lanzamiento de WYSK Collection Polo Edition & Lifestyle - Argentina WYSK Collection es una empresa de representaci\u00f3n que agrupa los mejores Resorts & Hoteles...",
-            "date": "2015-04-11",
-            "categories": "lifestyle",
-            "tags": "hoteles,exclusivo,lifestyle",
-            "recuweb_url": "http://es.recuweb.com/lifestyle/blogs.periodistadigital.com/2015/04/lanzamiento-de-wysk-collection-polo-edition-&-lifestyle-argentina",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=es",
-            "source_url": "http://blogs.periodistadigital.com/dona-press.php/2015/04/12/lanzamiento-de-wysk-collection-polo-edit"
         }
     }
 }

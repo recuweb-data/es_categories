@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "juego-de-mesa",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/juego-de-mesa/",
@@ -10,97 +11,99 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/juego-de-mesa/juego-de-mesa/blogs.json"
     },
     "items": {
-        "noticias.terra.com/2015/04/cultura-de-valores-tema-feria-para-ni%C3%B1os-en-oaxaca": {
-            "title": "Cultura de valores, tema de feria para ni\u00f1os en Oaxaca...",
-            "snippet": "El IEEPO detall\u00f3 que la Loter\u00eda de Valores es juego de mesa muy popular en M\u00e9xico, donde se resaltan los principios de solidaridad, responsabilidad, amistad, paciencia, disciplina, honestidad, tolerancia, as\u00ed como paz y ayuda, entre otros.",
-            "date": "2015-04-18",
-            "categories": "cultura",
-            "tags": "popular,juego,mesa",
-            "recuweb_url": "http://es.recuweb.com/cultura/noticias.terra.com/2015/04/cultura-de-valores-tema-feria-para-ni%C3%B1os-en-oaxaca",
+        "es.paperblog.com/2015/04/bandai-namco-estar%C3%A1-en-el-expomanga-2015-de-madrid": {
+            "title": "Bandai Namco estar\u00e1 en el Expomanga 2015 de Madrid...",
+            "snippet": "Por otro lado y contando con la colaboraci\u00f3n de Edge, tambi\u00e9n podr\u00e1 probarse el juego de mesa de The Witcher: el juego de Aventuras, que adem\u00e1s, tendr\u00e1 premio, ya que todos aquellos que se animen a probar el juego participar\u00e1n en concurso...",
+            "date": "2015-04-24",
+            "tags": "probar,adem\u00e1s,colaboraci\u00f3n,estar\u00e1,bandai,bandai_namco,namco,expomanga,madrid,juego,mesa,witcher,aventuras",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/bandai-namco-estar%C3%A1-en-el-expomanga-2015-de-madrid",
             "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://noticias.terra.com/mundo/latinoamerica/cultura-de-valores-tema-de-feria-para-ninos-en-oaxaca,90add2cebfdcc410VgnCLD200000b1bf46d0RCRD.html"
+            "source_url": "http://es.paperblog.com/bandai-namco-estara-en-el-expomanga-2015-de-madrid-3177280/"
+        },
+        "vandal.net/2015/04/bandai-namco-estar%C3%A1-en-el-expomanga-de-madrid-2015": {
+            "title": "Bandai Namco estar\u00e1 en el Expomanga de Madrid de 2015...",
+            "snippet": "Adem\u00e1s, la compa\u00f1\u00eda llevar\u00e1 tambi\u00e9n The Witcher 3 Wild Hunt y el juego de mesa The Witcher el juego de aventuras, para dos y cuatro jugadores. Nos permite jugar como uno de los cuatro famosos personajes de las novelas y los videojuegos.",
+            "date": "2015-04-24",
+            "categories": "videojuego",
+            "tags": "dos,aventuras,wild,wild_hunt,hunt,estar\u00e1,bandai,bandai_namco,namco,expomanga,madrid,adem\u00e1s,witcher,juego,mesa,jugar",
+            "recuweb_url": "http://es.recuweb.com/videojuego/vandal.net/2015/04/bandai-namco-estar%C3%A1-en-el-expomanga-de-madrid-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
+            "source_url": "http://vandal.net/noticia/1350663411/bandai-namco-estara-en-el-expomanga-de-madrid-de-2015/"
+        },
+        "latribuna.hn/2015/04/monopolio-el-origen-del-famoso-juego-de-mesa": {
+            "title": "Monopolio: El origen del famoso juego de mesa...",
+            "snippet": "El juego del Monopolio tiene su origen en un juego creado por Elizabeth Maggie en 1903 y patentado en 1904, llamado The Landlords Game. El juego se hizo popular en varias ciudades de los Estados Unidos en los a\u00f1os siguientes, se edit\u00f3 en varias...",
+            "date": "2015-04-24",
+            "tags": "juego,mesa",
+            "recuweb_url": "http://es.recuweb.com/latribuna.hn/2015/04/monopolio-el-origen-del-famoso-juego-de-mesa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
+            "source_url": "http://latribuna.hn/2015/04/24/monopolio-el-origen-del-famoso-juego-de-mesa/"
+        },
+        "elreino.net/2015/04/namco-bandai-games-acudir%C3%A1-al-expomanga-2015": {
+            "title": "Namco Bandai Games acudir\u00e1 al Expomanga 2015...",
+            "snippet": "La joya de la corona la pone el inminente lanzamiento de The Witcher 3: Wild Hunt y su distribuidos Fantasy Flight Games que hablar\u00e1 del juego de mesa oficial. Si te acercas a probar el juego de mesa entrar\u00e1n en el sorteo de ganar el juego de mesa...",
+            "date": "2015-04-24",
+            "tags": "probar,games,wild,wild_hunt,hunt,namco,bandai,expomanga,witcher,juego,mesa",
+            "recuweb_url": "http://es.recuweb.com/elreino.net/2015/04/namco-bandai-games-acudir%C3%A1-al-expomanga-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
+            "source_url": "http://elreino.net/noticia/12656/namco-bandai-games-acudira-al-expomanga-2015"
+        },
+        "todojuegos.com/2015/04/anunciado-total-war-warhammer": {
+            "title": "Anunciado Total War: Warhammer...",
+            "snippet": "Est\u00e1 basado en el juego de mesa b\u00e9lico Warhammer. Sega ha anunciado el desarrollo por parte del estudio Creative Assembly, en colaboraci\u00f3n con Games Workshop, del t\u00edtulo Total War: Warhammer que llegar\u00e1 pr\u00f3ximamente para PC, Mac y SteamOS...",
+            "date": "2015-04-22",
+            "tags": "games,colaboraci\u00f3n,desarrollo,juego,mesa",
+            "recuweb_url": "http://es.recuweb.com/todojuegos.com/2015/04/anunciado-total-war-warhammer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
+            "source_url": "http://todojuegos.com/noticia-20757/Anunciado-Total-War-Warhammer"
+        },
+        "elsiglo.com/2015/04/promueven-salud-sexual-a-trav%C3%A9s-de-juegos-mesa-el-siglo-panam%C3%A1": {
+            "title": "Promueven salud sexual a trav\u00e9s de juegos de mesa - El Siglo Panam\u00e1...",
+            "snippet": "El Siglo Panam\u00e1Promueven salud sexual a trav\u00e9s de juegos de mesaEl Siglo Panam\u00e1Este material viene acompa\u00f1ado de juegos de mesa como bingo, india y cartas, en los que se les ense\u00f1a sobre m\u00e9todos anticonceptivos, planificaci\u00f3n y prevenci\u00f3n de...",
+            "date": "2015-04-22",
+            "categories": "salud",
+            "tags": "juegos,mesa",
+            "recuweb_url": "http://es.recuweb.com/salud/elsiglo.com/2015/04/promueven-salud-sexual-a-trav%C3%A9s-de-juegos-mesa-el-siglo-panam%C3%A1",
+            "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
+            "source_url": "http://elsiglo.com/panama/promueven-salud-sexual-traves-juegos-mesa/23860247"
+        },
+        "elcomercio.pe/2015/04/c%C3%B3mo-se-crea-un-juego-de-mesa-el-comercio": {
+            "title": "\u00bfC\u00f3mo se crea un juego de mesa? - El Comercio...",
+            "snippet": "El Comercio\u00bfC\u00f3mo se crea un juego de mesa?El ComercioHace una semana particip\u00e9 de un taller de desarrollo de juegos de mesa dictado por Antoine Bauza, creador de juegos como 7 Wonders o Hanabi que se han convertido en cl\u00e1sicos modernos. \u00c9l...",
+            "date": "2015-04-20",
+            "tags": "desarrollo,c\u00f3mo,juegos,mesa",
+            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/c%C3%B3mo-se-crea-un-juego-de-mesa-el-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/blog/geekgames/2015/04/como-se-crea-un-juego-de-mesa"
+        },
+        "biobiochile.cl/2015/04/catan-y-carcassonne-dos-juegos-de-mesa-que-te-pueden-llevar": {
+            "title": "Catan y Carcassonne: Dos juegos de mesa que te pueden llevar... - Radio B\u00edo-B\u00edo...",
+            "snippet": "Radio B\u00edo-B\u00edoCatan y Carcassonne: Dos juegos de mesa que te pueden llevar...Radio B\u00edo-B\u00edoMis primeros recuerdos de un juego de mesa son La gran Capital y La Carrera del saber en los cuales, o no hac\u00eda nada bien o simplemente causaba risas de mi...",
+            "date": "2015-04-19",
+            "categories": "radio",
+            "tags": "dos,juegos,juego,mesa",
+            "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/catan-y-carcassonne-dos-juegos-de-mesa-que-te-pueden-llevar",
+            "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
+            "source_url": "http://biobiochile.cl/2015/04/19/catan-y-carcassonne-dos-juegos-de-mesa-que-te-pueden-llevar-gratis-a-alemania.shtml"
+        },
+        "americatv.com.pe/2015/04/monopoly-busca-al-campe%C3%B3n-mundial-del-juego-de-mesa-am%C3%A9rica-televisi%C3%B3n": {
+            "title": "Monopoly busca al campe\u00f3n mundial del juego de mesa - Am\u00e9rica Televisi\u00f3n...",
+            "snippet": "Am\u00e9rica Televisi\u00f3nMonopoly busca al campe\u00f3n mundial del juego de mesaAm\u00e9rica Televisi\u00f3nTras el \u00e9xito de la votaci\u00f3n Mundial de Monopoly, los fan\u00e1ticos peruanos tendr\u00e1n la oportunidad de participar de una nueva iniciativa internacional...",
+            "date": "2015-04-19",
+            "categories": "television",
+            "tags": "televisi\u00f3n,juego,mesa",
+            "recuweb_url": "http://es.recuweb.com/television/americatv.com.pe/2015/04/monopoly-busca-al-campe%C3%B3n-mundial-del-juego-de-mesa-am%C3%A9rica-televisi%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
+            "source_url": "http://americatv.com.pe/noticias/espectaculos/monopoly-busca-al-campeon-mundial-juego-mesa-n178071"
         },
         "unocero.com/2015/04/findesemanageek-dual-city-juegos-de-mesa-tuxanime-y-j-fest-unocero": {
             "title": "FindeSemanaGeek: Dual City, Juegos de mesa, TuxAnime y J'Fest - unocero...",
             "snippet": "unoceroFindeSemanaGeek: Dual City, Juegos de mesa, TuxAnime y J'FestunoceroEl mes de abril es considerado el mes de los superh\u00e9roes, debido al pr\u00f3ximo estreno de Avengers: Era de Ultr\u00f3n, y en este evento podr\u00e1n disfrutar de Juegos de Estrategia,...",
             "date": "2015-04-17",
-            "tags": "evento,disfrutar,juegos,mesa",
+            "tags": "disfrutar,juegos,mesa",
             "recuweb_url": "http://es.recuweb.com/unocero.com/2015/04/findesemanageek-dual-city-juegos-de-mesa-tuxanime-y-j-fest-unocero",
             "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
             "source_url": "http://unocero.com/2015/04/17/findesemanageek-dual-city-juegos-de-mesa-tuxanime-y-jfest/"
-        },
-        "vandal.net/2015/04/blood-bowl-2-nos-ofrece-un-nuevo-v%C3%ADdeo-de-su-jugabilidad": {
-            "title": "Blood Bowl 2 nos ofrece un nuevo v\u00eddeo de su jugabilidad...",
-            "snippet": "Focus Home y Cyanide han distribuido un nuevo v\u00eddeo de Blood Bowl 2, la secuela de este juego basado en el juego de mesa de Games Workshop, que se convierte especie de juego de f\u00fatbol americano adaptado al universo de Warhammer. As\u00ed, podemos...",
-            "date": "2015-04-16",
-            "categories": "futbol",
-            "tags": "v\u00eddeo,juego,mesa",
-            "recuweb_url": "http://es.recuweb.com/futbol/vandal.net/2015/04/blood-bowl-2-nos-ofrece-un-nuevo-v%C3%ADdeo-de-su-jugabilidad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://vandal.net/noticia/1350663101/blood-bowl-2-nos-ofrece-un-nuevo-video-de-su-jugabilidad/"
-        },
-        "es.paperblog.com/2015/04/juego-de-mesa-rush-hour": {
-            "title": "Juego de mesa Rush Hour...",
-            "snippet": "Hoy he tenido una de esas ma\u00f1anas tranquilas en que me apetec\u00eda tomar el caf\u00e9 tranquilamente con una vecina mientras habl\u00e1bamos de nuestras cosas. Y en lo que est\u00e1bamos de ch\u00e1chara me ha comentado un juego de l\u00f3gica que le han regalado a...",
-            "date": "2015-04-16",
-            "tags": "juego,mesa",
-            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/juego-de-mesa-rush-hour",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/juego-de-mesa-rush-hour-3164196/"
-        },
-        "eleconomista.es/2015/04/mar%C3%ADa-teresa-campos-tarde-de-amigas": {
-            "title": "Mar\u00eda Teresa Campos, tarde de amigas...",
-            "snippet": "As\u00ed lo ha declarado en m\u00e1s de una ocasi\u00f3n. La periodista queda un d\u00eda a la semana con varias amigas con las que comparte juego de mesa. Tras cumplir con sus compromisos profesionales en?S\u00e1lvame?, Mar\u00eda Teresa se dirigi\u00f3 al domicilio de una...",
-            "date": "2015-04-16",
-            "tags": "d\u00eda,juego,mesa,s\u00e1lvame",
-            "recuweb_url": "http://es.recuweb.com/eleconomista.es/2015/04/mar%C3%ADa-teresa-campos-tarde-de-amigas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://eleconomista.es/evasion/gente-y-estilo/noticias/6635091/04/15/Maria-Teresa-Campos-tarde-de-amigas.html"
-        },
-        "tienda.todoseries.com/2015/04/juego-de-mesa-cluedo-sherlock-serie-tv-edici%C3%B3n-en-ingl%C3%A9s": {
-            "title": "Juego de Mesa Cluedo Sherlock (Serie TV). Edici\u00f3n en ingl\u00e9s...",
-            "snippet": "Divertido juego de mesa perteneciente a la popular serie de TV Sherlock. \u00bfQui\u00e9n mat\u00f3 a Moriarty? \u00bfFue la se\u00f1ora Hudson, en la Torre de Londres con la llave, o Irene Adler, en 221B, con un Candelabro?, Sherlock o Watson, ahora en pleno Siglo...",
-            "date": "2015-04-15",
-            "tags": "popular,ingl\u00e9s,mesa,juego,edici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/tienda.todoseries.com/2015/04/juego-de-mesa-cluedo-sherlock-serie-tv-edici%C3%B3n-en-ingl%C3%A9s",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://tienda.todoseries.com/juegos-de-mesa-de-series-cat-3-10-1-2/sherlock-holmes-cat-291/juego-de-mesa-cluedo-sherlock-serie-tv-edicion-en-ingles-ref-51045.html"
-        },
-        "tienda.todoseries.com/2015/04/juego-de-mesa-risk-the-walking-dead-edici%C3%B3n-en-ingl%C3%A9s": {
-            "title": "Juego de mesa Risk. The Walking Dead, Edici\u00f3n en ingl\u00e9s...",
-            "snippet": "Risk es un juego de mesa de car\u00e1cter estrat\u00e9gico, creado por Albert Lamorisse en 1950 que se ha convertido en uno de los m\u00e1s populares y con m\u00e1s seguidores de nuestro tiempo. Gracias a sus licencias, los fans de sagas como Star Wars, Walking...",
-            "date": "2015-04-15",
-            "tags": "ingl\u00e9s,juego,mesa,edici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/tienda.todoseries.com/2015/04/juego-de-mesa-risk-the-walking-dead-edici%C3%B3n-en-ingl%C3%A9s",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://tienda.todoseries.com/juegos-de-mesa-de-series-cat-3-10-1-2/the-walking-dead-cat-243/juego-de-mesa-risk-the-walking-dead-edicion-en-ingles-ref-51030.html"
-        },
-        "elmanana.com/2015/04/d%C3%ADa-internacional-de-los-juegos-mesa": {
-            "title": "D\u00eda Internacional de los Juegos de Mesa -...",
-            "snippet": "\u00eda Internacional de los Juegos de evento se empez\u00f3 a celebrar hace tres a\u00f1os como una manera de que el mundo se uniera a trav\u00e9s de un juego de mesa, el evento creci\u00f3 tanto que para el a\u00f1o pasado se celebr\u00f3 en 80 pa\u00edses con m\u00e1s de 3 mil...",
-            "date": "2015-04-14",
-            "tags": "evento,tanto,hace,d\u00eda,juegos,juego,mesa",
-            "recuweb_url": "http://es.recuweb.com/elmanana.com/2015/04/d%C3%ADa-internacional-de-los-juegos-mesa",
-            "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
-            "source_url": "http://elmanana.com/diainternacionaldelosjuegosdemesa-2859765.html"
-        },
-        "cromosomax.com/2015/04/jay-z-tiene-un-tel%C3%A9fono-s%C3%B3lo-para-hablar-con-rihanna": {
-            "title": "Jay Z tiene un tel\u00e9fono s\u00f3lo para hablar con Rihanna...",
-            "snippet": "Es que acaso no pudo jugar ella al juego de mesa 'L\u00ednea directa'en los 90? Tags: beyonce celosa jay rihanna, beyonce rihanna jay z, rihanna jay z.",
-            "date": "2015-04-14",
-            "tags": "jugar,juego,mesa",
-            "recuweb_url": "http://es.recuweb.com/cromosomax.com/2015/04/jay-z-tiene-un-tel%C3%A9fono-s%C3%B3lo-para-hablar-con-rihanna",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juego%2Bde%2Bmesa&format=RSS&cc=es",
-            "source_url": "http://cromosomax.com/29504-jay-z-tiene-un-telefono-solo-para-hablar-con-rihanna"
-        },
-        "es.reuters.com/2015/04/los-juegos-de-mesa-ganan-nuevos-adeptos-en-detrimento-reuters-espa%C3%B1a": {
-            "title": "Los juegos de mesa ganan nuevos adeptos en detrimento de los... - Reuters Espa\u00f1a...",
-            "snippet": "Reuters Espa\u00f1aLos juegos de mesa ganan nuevos adeptos en detrimento de los...Reuters Espa\u00f1aFILADELFIA (Reuters) - Cuando Justin Becker se mud\u00f3 a una nueva casa en el sur de Filadelfia, puso los juegos de TV y v\u00eddeo en el s\u00f3tano y dej\u00f3 a sus...",
-            "date": "2015-04-12",
-            "tags": "v\u00eddeo,juegos,mesa",
-            "recuweb_url": "http://es.recuweb.com/es.reuters.com/2015/04/los-juegos-de-mesa-ganan-nuevos-adeptos-en-detrimento-reuters-espa%C3%B1a",
-            "resource_url": "http://news.google.es/?hl=es&q=juego%2Bde%2Bmesa&output=atom&nord=1",
-            "source_url": "http://es.reuters.com/article/entertainmentNews/idESKBN0N30J420150412"
         }
     }
 }

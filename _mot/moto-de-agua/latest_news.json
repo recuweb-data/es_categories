@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "moto-de-agua",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/moto-de-agua/",
@@ -10,97 +11,77 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/moto-de-agua/moto-de-agua/blogs.json"
     },
     "items": {
-        "noroeste.com.mx/2015/04/supera-jumapam-los-d%C3%ADas-santos-noroeste": {
-            "title": "'Supera'Jumapam los d\u00edas santos - Noroeste...",
-            "snippet": "'Supera'Jumapam los d\u00edas santosNoroesteMAZATL\u00c0N._La Junta Municipal de Agua Potable y Alcantarillado de Mazatl\u00e1n se prepara para estos pr\u00f3ximos d\u00edas de la Semana de Pascua y de la Moto, que exige alta demanda de agua. El departamento de...",
-            "date": "2015-04-10",
-            "tags": "agua,pascua,moto",
-            "recuweb_url": "http://es.recuweb.com/noroeste.com.mx/2015/04/supera-jumapam-los-d%C3%ADas-santos-noroeste",
+        "heraldo.es/2015/04/aparece-el-cad%C3%A1ver-de-un-hombre-flotando-en-ebro-junto-al": {
+            "title": "Aparece el cad\u00e1ver de un hombre flotando en el Ebro junto al Puente de Hierro...",
+            "snippet": "Hasta el lugar de los hechos se han desplazado cuatro veh\u00edculos de los Bomberos, incluido uno para el arrastre de una moto de agua con la que se ha realizado el rescate. El forense y el juez de guardia han acudido tambi\u00e9n al lugar de los...",
+            "date": "2015-04-22",
+            "tags": "moto,agua",
+            "recuweb_url": "http://es.recuweb.com/heraldo.es/2015/04/aparece-el-cad%C3%A1ver-de-un-hombre-flotando-en-ebro-junto-al",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bde%2Bagua&format=RSS&cc=es",
+            "source_url": "http://heraldo.es/noticias/aragon/zaragoza_provincia/zaragoza/2015/04/21/aparece_cadaver_hombre_flotando_ebro_junto_puente_hierro_355929_301.html"
+        },
+        "eltiempo.com/2015/04/turismo-por-providencia": {
+            "title": "Turismo por Providencia -...",
+            "snippet": "Turismo por unos cien metros, el agua cambia de tonalidad: pasa a ser azul oscuro y m\u00e1s adelante verde esmeralda. Es el famoso mar... El alquiler es muy econ\u00f3mico e informal: el d\u00eda en moto cuesta pesos y el de carritos, desde. Y el hospedaje...",
+            "date": "2015-04-22",
+            "tags": "d\u00eda,muy,mar,agua,moto",
+            "recuweb_url": "http://es.recuweb.com/eltiempo.com/2015/04/turismo-por-providencia",
             "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua&output=atom&nord=1",
-            "source_url": "http://noroeste.com.mx/publicaciones.php?id=1021190"
+            "source_url": "http://eltiempo.com/estilo-de-vida/viajar/turismo-por-providencia/15611775"
         },
-        "poderpda.com/2015/04/an%C3%A1lisis-a-fondo-del-moto-maxx-poderpda": {
-            "title": "An\u00e1lisis a fondo del Moto Maxx - PoderPDA...",
-            "snippet": "PoderPDAAn\u00e1lisis a fondo del Moto MaxxPoderPDASu pantalla OLED de 5.2 pulgadas tiene una resoluci\u00f3n QHD, con una densidad de pixeles de 565 ppi, y est\u00e1 protegida con Gorilla Glass 3, adem\u00e1s el Moto Maxx es resistente a salpicaduras de agua.",
-            "date": "2015-04-10",
-            "tags": "adem\u00e1s,moto,agua",
-            "recuweb_url": "http://es.recuweb.com/poderpda.com/2015/04/an%C3%A1lisis-a-fondo-del-moto-maxx-poderpda",
-            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua%2Bmoto%2Bde%2Bagua&output=atom&nord=1",
-            "source_url": "http://poderpda.com/analisis/analisis-a-fondo-del-moto-maxx/"
-        },
-        "diariojornada.com.ar/2015/04/desde-ma%C3%B1ana-playa-uni%C3%B3n-ser%C3%A1-sede-de-la-competencia": {
-            "title": "Desde ma\u00f1ana, Playa Uni\u00f3n ser\u00e1 sede de la competencia...",
-            "snippet": "enmarcada dentro del calendario Nacional y que traer\u00e1 a 50 competidores de todo el pa\u00eds, se desarrollar\u00e1n a su vez, torneos de Kit Surf, en la modalidad Free Style y Slalom, y tambi\u00e9n un certamen de Moto de Agua, en modalidad Free Style.",
-            "date": "2015-04-08",
-            "categories": "surf",
-            "tags": "modalidad,certamen,free,free_style,style,surf,playa,playa_uni\u00f3n,uni\u00f3n,ma\u00f1ana,nacional,moto,agua",
-            "recuweb_url": "http://es.recuweb.com/surf/diariojornada.com.ar/2015/04/desde-ma%C3%B1ana-playa-uni%C3%B3n-ser%C3%A1-sede-de-la-competencia",
+        "diariodeteruel.es/2015/04/la-huerta-comienza-temporada-con-buenos-resultados-en-caspe": {
+            "title": "La huerta comienza la temporada con buenos resultados en Caspe...",
+            "snippet": "El turolense Ra\u00fal Lahuerta comenz\u00f3 la temporada el pasado fin de semana con muy buenas sensaciones encima de su moto de agua. El de Mart\u00edn del R\u00edo se desplaz\u00f3 hasta Caspe para disputar la primera prueba del Campeonato de Arag\u00f3n, que se...",
+            "date": "2015-04-15",
+            "tags": "pasado,fin,muy,moto,agua,r\u00edo,campeonato",
+            "recuweb_url": "http://es.recuweb.com/diariodeteruel.es/2015/04/la-huerta-comienza-temporada-con-buenos-resultados-en-caspe",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bde%2Bagua&format=RSS&cc=es",
-            "source_url": "http://diariojornada.com.ar/124192/deportes/Desde_maana_Playa_Union_sera_sede_de_la_competencia_"
+            "source_url": "http://diariodeteruel.es/noticia/63067/la-huerta-comienza-la-temporada-con-buenos-resultados-en-caspe"
         },
-        "puntobiz.com.ar/2015/04/el-campeonato-argentino-de-jet-ski-y-motos-agua-se-har%C3%A1": {
-            "title": "El campeonato Argentino de jet ski y motos de agua se har\u00e1 en... - Punto Biz...",
-            "snippet": "campeonato Argentino de jet ski y motos de agua se har\u00e1 en...Punto BizAll\u00ed se desarrollar\u00e1 la sexta fecha del Campeonato organizado por la Asociaci\u00f3n Argentina de Pilotos de Jet Ski y Motos de Agua. El campeonato, que cuenta con la...",
-            "date": "2015-04-07",
-            "tags": "jet,jet-ski,ski,fecha,har\u00e1,motos,agua",
-            "recuweb_url": "http://es.recuweb.com/puntobiz.com.ar/2015/04/el-campeonato-argentino-de-jet-ski-y-motos-agua-se-har%C3%A1",
-            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua%2Bmoto%2Bde%2Bagua&output=atom&nord=1",
-            "source_url": "http://puntobiz.com.ar/noticias/val/97803/val_s/52/a_-el-campeonato-argentino-de-jet-ski-y-motos-de-agua-se-hara-en-baigorria-.html"
-        },
-        "planoinformativo.com/2015/04/jennifer-lopez-y-sus-mellizos-viajaron-a-m%C3%A9xico-junto-casper-smart": {
-            "title": "Jennifer Lopez y sus mellizos viajaron a M\u00e9xico junto a Casper Smart...",
-            "snippet": "Casper estaba muy familiarizado con la zona y sab\u00eda a d\u00f3nde ir, revel\u00f3 el confidente. El domingo de Pascua, Smart pas\u00f3 el d\u00eda en su moto de agua paseando junto a varios amigos. Entretanto, Lopez y sus gemelos, Emme y Max, se quedaron en casa...",
-            "date": "2015-04-07",
-            "tags": "pas\u00f3,d\u00eda,muy,zona,pascua,moto,agua",
-            "recuweb_url": "http://es.recuweb.com/planoinformativo.com/2015/04/jennifer-lopez-y-sus-mellizos-viajaron-a-m%C3%A9xico-junto-casper-smart",
+        "populartvcantabria.com/2015/04/una-ma%C3%B1ana-en-la-playa": {
+            "title": "UNA MA\u00d1ANA EN LA PLAYA...",
+            "snippet": "Comen un bocadillo a la sombra, porque el sol aprieta, y contemplan las evoluciones de una moto de agua cuyo piloto trata de lucirse, aunque no parece muy experto. Una chica le dice a otra que ya no sabe qu\u00e9 hacer para perder peso, aunque yo no la...",
+            "date": "2015-04-15",
+            "tags": "hacer,parece,muy,moto,agua",
+            "recuweb_url": "http://es.recuweb.com/populartvcantabria.com/2015/04/una-ma%C3%B1ana-en-la-playa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bde%2Bagua&format=RSS&cc=es",
-            "source_url": "http://planoinformativo.com/nota/id/383627"
+            "source_url": "http://populartvcantabria.com/2015/04/15/una-manana-en-la-playa/"
+        },
+        "elliberal.com.ar/2015/04/buscan-contrarrestar-el-robo-de-motos-en-villa-ojo-agua-liberal": {
+            "title": "Buscan contrarrestar el robo de motos en Villa Ojo de Agua - El Liberal Digital...",
+            "snippet": "El Liberal DigitalBuscan contrarrestar el robo de motos en Villa Ojo de AguaEl Liberal DigitalPersonal policial del \u00e1rea de investigaciones de la Seccional 31 viene realizando un arduo trabajo con el fin de contrarrestar los robos de motos que se...",
+            "date": "2015-04-12",
+            "tags": "fin,motos,agua",
+            "recuweb_url": "http://es.recuweb.com/elliberal.com.ar/2015/04/buscan-contrarrestar-el-robo-de-motos-en-villa-ojo-agua-liberal",
+            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua&output=atom&nord=1",
+            "source_url": "http://elliberal.com.ar/ampliada.php?ID=180785"
+        },
+        "on24.com.ar/2015/04/campeonato-argentino-de-jet-ski-y-motos-agua-on24": {
+            "title": "Campeonato Argentino de Jet Ski y Motos de Agua - ON24...",
+            "snippet": "Campeonato Argentino de Jet Ski y Motos de AguaON24Tif\u00f3n Water Planet, el complejo n\u00e1utico de Baigorria, recibe la sexta fecha del Campeonato Argentino de Jet Ski y Motos de Agua. La velocidad y el v\u00e9rtigo n\u00e1utico se dar\u00e1n cita los pr\u00f3ximos...",
+            "date": "2015-04-07",
+            "tags": "velocidad,jet,ski,campeonato,motos,agua",
+            "recuweb_url": "http://es.recuweb.com/on24.com.ar/2015/04/campeonato-argentino-de-jet-ski-y-motos-agua-on24",
+            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua&output=atom&nord=1",
+            "source_url": "http://on24.com.ar/locales/8213/campeonato-argentino-de-jet-ski-y-motos-de-agua"
         },
         "smnoticias.com/2015/04/un-muerto-tras-choque-entre-jet-ski-y-una-lancha": {
             "title": "Un muerto tras un choque entre un jet ski y una lancha en el Delta - SMnoticias...",
             "snippet": "SMnoticiasUn muerto tras un choque entre un jet ski y una lancha en el DeltaSMnoticiasOcurri\u00f3 el jueves pasado cerca de las 17:30 en el r\u00edo Sarmiento, cuando un grupo de seis personas circulaba a gran velocidad en sus motos de agua. Uno de ellos...",
             "date": "2015-04-07",
-            "tags": "seis,gran,gran-velocidad,velocidad,muerto,choque,jet,jet-ski,ski,ski-una-lancha,motos,agua",
+            "tags": "seis,gran,gran-velocidad,velocidad,r\u00edo,pasado,muerto,choque,jet,jet-ski,ski,ski-una-lancha,motos,agua",
             "recuweb_url": "http://es.recuweb.com/smnoticias.com/2015/04/un-muerto-tras-choque-entre-jet-ski-y-una-lancha",
-            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua%2Bmoto%2Bde%2Bagua&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua&output=atom&nord=1",
             "source_url": "http://smnoticias.com/tigre/13538.html"
-        },
-        "elpatagonico.net/2015/04/playa-uni%C3%B3n-har%C3%A1-la-3-fecha-del-circuito-nacional-de-surf": {
-            "title": "Playa Uni\u00f3n har\u00e1 la 3 fecha del Circuito Nacional de Surf...",
-            "snippet": "y tambi\u00e9n un certamen de Moto de Agua, en modalidad Free Style. En la reuni\u00f3n se determin\u00f3 tambi\u00e9n que ma\u00f1ana, a las 11 en Chubut Deportes, se realizar\u00e1 la presentaci\u00f3n oficial a la prensa, en la cual se brindar\u00e1n mayores detalles respecto...",
-            "date": "2015-04-06",
-            "categories": "surf",
-            "tags": "ma\u00f1ana,free,free_style,style,modalidad,certamen,nacional,fecha,har\u00e1,playa,playa_uni\u00f3n,uni\u00f3n,surf,moto,agua",
-            "recuweb_url": "http://es.recuweb.com/surf/elpatagonico.net/2015/04/playa-uni%C3%B3n-har%C3%A1-la-3-fecha-del-circuito-nacional-de-surf",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bde%2Bagua&format=RSS&cc=es",
-            "source_url": "http://elpatagonico.net/nota/276182/"
         },
         "clarin.com/2015/04/un-muerto-por-choque-entre-jet-ski-y-una-lancha-clar%C3%AD": {
             "title": "Un muerto por un choque entre un jet ski y una lancha - Clar\u00ed...",
             "snippet": "Un muerto por un choque entre un jet ski y una lanchaClar\u00ed \u00fan los testigos, al menos seis j\u00f3venes navegaban a gran velocidad a bordo de sus motos de agua, en una zona muy transitada, m\u00e1s en un d\u00eda feriado. Entre lanchas, kayaks, canoas y todo...",
             "date": "2015-04-04",
-            "tags": "d\u00eda,zona,muy,seis,gran,gran-velocidad,velocidad,muerto,choque,jet,jet-ski,ski,ski-una-lancha,motos,agua",
+            "tags": "d\u00eda,muy,seis,gran,gran-velocidad,velocidad,muerto,choque,jet,jet-ski,ski,ski-una-lancha,motos,agua,kayaks",
             "recuweb_url": "http://es.recuweb.com/clarin.com/2015/04/un-muerto-por-choque-entre-jet-ski-y-una-lancha-clar%C3%AD",
-            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua%2Bmoto%2Bde%2Bagua&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=moto%2Bde%2Bagua&output=atom&nord=1",
             "source_url": "http://clarin.com/sociedad/muerto-choque-jet-ski-Delta_0_1333066897.html"
-        },
-        "diarioepoca.com/2015/04/un-campe%C3%B3n-pas%C3%B3-por-esquina-y-visita-corrientes": {
-            "title": "Un campe\u00f3n pas\u00f3 por Esquina y visita Corrientes...",
-            "snippet": "El boxeador santafesino de 31 a\u00f1os, Marcos Ren\u00e9 Chino Maidana, pas\u00f3 ayer por el puerto de Esquina donde hizo una parada para abastecerse de mercader\u00eda y combustible para seguir viaje en su jet sky (moto de agua) hasta la capital correntina.",
-            "date": "2015-04-03",
-            "tags": "jet,pas\u00f3,moto,agua",
-            "recuweb_url": "http://es.recuweb.com/diarioepoca.com/2015/04/un-campe%C3%B3n-pas%C3%B3-por-esquina-y-visita-corrientes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bde%2Bagua&format=RSS&cc=es",
-            "source_url": "http://diarioepoca.com/429952/un-campeon-paso-por-esquina-y-visita-corrientes/"
-        },
-        "lavozdelanzarote.com/2015/04/el-cabildo-adquiere-nuevos-veh%C3%ADculos-y-equipamiento-de-excarcelaci%C3%B3n-para-consorcio": {
-            "title": "El Cabildo adquiere nuevos veh\u00edculos y equipamiento de excarcelaci\u00f3n para el Consorcio de...",
-            "snippet": "Adem\u00e1s de este cami\u00f3n, en el que se han invertido euros, el Cabildo de Lanzarote ha adquirido un utilitario urbano, valorado en unos euros; una moto de agua preparada para rescate mart\u00edtimo, cuyo coste ha sido de unos euros...",
-            "date": "2015-04-02",
-            "tags": "adem\u00e1s,moto,agua",
-            "recuweb_url": "http://es.recuweb.com/lavozdelanzarote.com/2015/04/el-cabildo-adquiere-nuevos-veh%C3%ADculos-y-equipamiento-de-excarcelaci%C3%B3n-para-consorcio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bde%2Bagua&format=RSS&cc=es",
-            "source_url": "http://lavozdelanzarote.com/articulo/politica/cabildo-adquiere-nuevos-vehiculos-y-equipamiento-excarcelacion-consorcio-seguridad-y-emergencias-lanzarote/20150403063616097375.html"
         }
     }
 }

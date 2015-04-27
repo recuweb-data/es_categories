@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "deporte-extremo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deporte-extremo/",
@@ -10,41 +11,91 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deporte-extremo/deporte-extremo/blogs.json"
     },
     "items": {
-        "eltrecetv.com.ar/2015/04/cambio-de-look-el-rifle-varela-se-at%C3%B3-pelo-ya-mar%C3%ADa": {
-            "title": "\u00bfCambio de look? El Rifle Varela se at\u00f3 el pelo ya Mar\u00eda Laura... - El Trece...",
-            "snippet": "El Trece\u00bfCambio de look? El Rifle Varela se at\u00f3 el pelo ya Mar\u00eda Laura...El TreceEl especialista en deportes extremos ya hab\u00eda recibido un halago en la red social que la conductora del noticiero de El Trece hab\u00eda retuiteado. El Rifle Varela...",
-            "date": "2015-04-22",
-            "categories": "red-social",
-            "tags": "red,deportes,extremos",
-            "recuweb_url": "http://es.recuweb.com/red-social/eltrecetv.com.ar/2015/04/cambio-de-look-el-rifle-varela-se-at%C3%B3-pelo-ya-mar%C3%ADa",
+        "eldiariodechihuahua.mx/2015/04/acci%C3%B3n-de-motocross-en-chihuahua": {
+            "title": "Acci\u00f3n de Motocross en Chihuahua...",
+            "snippet": "El inmueble cont\u00f3 con una presencia notable de aficionados a este deporte extremo, que desde tempranas horas hicieron acto de presencia. Cabe destacar que la seguridad estuvo a cargo del Departamento de Protecci\u00f3n Civil y Cruz Roja. Please...",
+            "date": "2015-04-26",
+            "categories": "motocross,deporte",
+            "tags": "seguridad,deporte,extremo",
+            "recuweb_url": "http://es.recuweb.com/deporte/eldiariodechihuahua.mx/2015/04/acci%C3%B3n-de-motocross-en-chihuahua",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
+            "source_url": "http://eldiariodechihuahua.mx/Deportes/2015-04-26/Acci\u00f3n-de-Motocross-en-Chihuahua/7c29bb2f1b929ab31d6977344ce11a7f"
+        },
+        "eldiario.com.co/2015/04/ciclomonta%C3%B1ismo-en-la-perla-del-ot%C3%BAn": {
+            "title": "Ciclomonta\u00f1ismo en la Perla del Ot\u00fan...",
+            "snippet": "El evento, que promete dar una muestra de lo mejor del deporte extremo premiar\u00e1 a los campeones en cada una de las categor\u00edas con medallas, art\u00edculos deportivos y dinero en efectivo. Quienes quieran participar, deber\u00e1n pagar una inscripci\u00f3n de.",
+            "date": "2015-04-26",
+            "categories": "deporte",
+            "tags": "deporte,extremo",
+            "recuweb_url": "http://es.recuweb.com/deporte/eldiario.com.co/2015/04/ciclomonta%C3%B1ismo-en-la-perla-del-ot%C3%BAn",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
+            "source_url": "http://eldiario.com.co/seccion/DEPORTES/ciclomonta-ismo-en-la-perla-del-ot-n1504.html"
+        },
+        "sport.es/2015/04/gary-hunt-ganador-de-la-primera-etapa-serie-mundial-clavados": {
+            "title": "Gary Hunt, ganador de la primera etapa de la serie mundial de clavados...",
+            "snippet": "abarrotaron las calles del centro amurallado frente a la emblem\u00e1tica Torre del Reloj y convirtieron a Cartagena en toda una fiesta de este deporte extremo. La segunda fase de la serie mundial se disputar\u00e1 el pr\u00f3ximo 17 de mayo en La Rochelle...",
+            "date": "2015-04-26",
+            "categories": "deporte",
+            "tags": "mayo,segunda,segunda-fase,fase,serie,serie-mundial,mundial,mundial-se-disputar\u00e1,disputar\u00e1,disputar\u00e1-el-pr\u00f3ximo,pr\u00f3ximo,fiesta,convirtieron,abarrotaron,abarrotaron-las-calles,calles,calles-del-centro,centro,centro-amurallado,centro-amurallado-frente,amurallado,amurallado-frente,frente,frente-la-emblem\u00e1tica,emblem\u00e1tica,ganador,primera,primera-etapa,etapa,mundial-de-clavados,clavados,gary,gary_hunt,hunt,torre,reloj,cartagena,deporte,extremo,rochelle",
+            "recuweb_url": "http://es.recuweb.com/deporte/sport.es/2015/04/gary-hunt-ganador-de-la-primera-etapa-serie-mundial-clavados",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
+            "source_url": "http://sport.es/es/noticias/mas-deportes/gary-hunt-ganador-primera-etapa-serie-mundial-clavados-4133793"
+        },
+        "ultimahora.com/2015/04/rapel-en-salto-cristal-el-2-y-3-de-mayo-%C3%BA": {
+            "title": "Rapel en Salto Cristal, el 2 y 3 de mayo - \u00da...",
+            "snippet": "\u00da en Salto Cristal, el 2 y 3 de mayo\u00da rapel consiste en \"lanzarse\" desde los 45 metros de altura en el Salto Cristal, sujet\u00e1ndose a una cuerda con todos los elementos de seguridad necesarios para este deporte extremo. Embed. La actividad est\u00e1 a...",
+            "date": "2015-04-26",
+            "categories": "deporte",
+            "tags": "seguridad,mayo,deporte,extremo",
+            "recuweb_url": "http://es.recuweb.com/deporte/ultimahora.com/2015/04/rapel-en-salto-cristal-el-2-y-3-de-mayo-%C3%BA",
             "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bextremo&output=atom&nord=1",
-            "source_url": "http://eltrecetv.com.ar/telenoche/cambio-de-look-el-rifle-varela-se-ato-el-pelo-y-a-maria-laura-santillan-le_076696"
+            "source_url": "http://ultimahora.com/rapel-salto-cristal-el-2-y-3-mayo-n890839.html"
         },
-        "europapress.es/2015/04/abierto-el-plazo-de-inscripci%C3%B3n-pel%C3%ADculas-del-bilbao-mendi-film": {
-            "title": "Abierto el plazo de inscripci\u00f3n de pel\u00edculas del Bilbao Mendi Film...",
-            "snippet": "Bilbao Mendi Film Festival, el certamen de cine de monta\u00f1a, aventura y deporte extremo, ha abierto el plazo de inscripci\u00f3n de pel\u00edculas que quieran optar a participar en la secci\u00f3n oficial de su octava edici\u00f3n, a celebrarse en la capital...",
-            "date": "2015-04-20",
-            "categories": "cine,deporte",
-            "tags": "celebrarse,capital,abierto,abierto-el-plazo,plazo,plazo-de-inscripci\u00f3n,inscripci\u00f3n,inscripci\u00f3n-de-pel\u00edculas,pel\u00edculas,pel\u00edculas-que-quieran,quieran,quieran-optar,quieran-optar-participar,optar,optar-participar,participar,secci\u00f3n,secci\u00f3n-oficial,oficial,octava,octava-edici\u00f3n,edici\u00f3n,aventura,certamen,certamen-de-cine,cine,cine-de-monta\u00f1a,monta\u00f1a,bilbao,bilbao_mendi,bilbao_mendi_film,mendi,mendi_film,film,festival,deporte,extremo",
-            "recuweb_url": "http://es.recuweb.com/deporte/europapress.es/2015/04/abierto-el-plazo-de-inscripci%C3%B3n-pel%C3%ADculas-del-bilbao-mendi-film",
+        "tvnotas.com.mx/2015/04/mexicanos-sobreviven-a-desastre-en-el-everest-tras-terremoto-nepal": {
+            "title": "Mexicanos sobreviven a desastre en el Everest \u00a1tras terremoto en Nepal!",
+            "snippet": "Posted by Fans Page Orlando Castro/Deporte extremo, alpinismo,ciclismo,nataci\u00f3n on S\u00e1bado, 25 de abril de 2015 Orlando castro alpinista Despu\u00e9s de momentos de gran tensi\u00f3n les comunico que me encuentro bien en el campamento base... Posted by...",
+            "date": "2015-04-25",
+            "categories": "natacion,deporte",
+            "tags": "gran,deporte,extremo",
+            "recuweb_url": "http://es.recuweb.com/deporte/tvnotas.com.mx/2015/04/mexicanos-sobreviven-a-desastre-en-el-everest-tras-terremoto-nepal",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
-            "source_url": "http://europapress.es/euskadi/noticia-abierto-plazo-inscripcion-peliculas-octava-edicion-bilbao-mendi-film-festival-20150420183119.html"
+            "source_url": "http://tvnotas.com.mx/2015/04/25/C-72546-mexicanos-sobreviven-a-desastre-en-el-everest-tras-terremoto-en-nepal.php"
         },
-        "20minutos.es/2015/04/abierto-el-plazo-de-inscripci%C3%B3n-pel%C3%ADculas-para-la-octava-edici%C3%B3n": {
-            "title": "Abierto el plazo de inscripci\u00f3n de pel\u00edculas para la octava edici\u00f3n del Bilbao Mendi Film...",
-            "snippet": "Bilbao Mendi Film Festival, el certamen de cine de monta\u00f1a, aventura y deporte extremo, ha abierto el plazo de inscripci\u00f3n de pel\u00edculas que quieran optar a participar en la secci\u00f3n oficial de su octava edici\u00f3n, a celebrarse en la capital...",
-            "date": "2015-04-20",
-            "categories": "cine,deporte",
-            "tags": "celebrarse,capital,abierto,abierto-el-plazo,plazo,plazo-de-inscripci\u00f3n,inscripci\u00f3n,inscripci\u00f3n-de-pel\u00edculas,pel\u00edculas,pel\u00edculas-que-quieran,quieran,quieran-optar,quieran-optar-participar,optar,optar-participar,participar,secci\u00f3n,secci\u00f3n-oficial,oficial,octava,octava-edici\u00f3n,edici\u00f3n,aventura,certamen,certamen-de-cine,cine,cine-de-monta\u00f1a,monta\u00f1a,bilbao,bilbao_mendi,bilbao_mendi_film,mendi,mendi_film,film,festival,deporte,extremo",
-            "recuweb_url": "http://es.recuweb.com/deporte/20minutos.es/2015/04/abierto-el-plazo-de-inscripci%C3%B3n-pel%C3%ADculas-para-la-octava-edici%C3%B3n",
+        "minuto30.com/2015/04/el-brit%C3%A1nico-gary-hunt-es-ganador-en-la-primera-etapa": {
+            "title": "El brit\u00e1nico Gary Hunt es el ganador en la primera etapa de la serie mundial de clavados...",
+            "snippet": "abarrotaron las calles del centro amurallado frente a la emblem\u00e1tica Torre del Reloj y convirtieron a Cartagena en toda una fiesta de este deporte extremo. La segunda fase de la serie mundial se disputar\u00e1 el pr\u00f3ximo 17 de mayo en La Rochelle...",
+            "date": "2015-04-24",
+            "categories": "deporte",
+            "tags": "mayo,segunda,segunda-fase,fase,serie,serie-mundial,mundial,mundial-se-disputar\u00e1,disputar\u00e1,disputar\u00e1-el-pr\u00f3ximo,pr\u00f3ximo,fiesta,convirtieron,abarrotaron,abarrotaron-las-calles,calles,calles-del-centro,centro,centro-amurallado,centro-amurallado-frente,amurallado,amurallado-frente,frente,frente-la-emblem\u00e1tica,emblem\u00e1tica,ganador,primera,primera-etapa,etapa,mundial-de-clavados,clavados,gary,gary_hunt,hunt,torre,reloj,cartagena,deporte,extremo,rochelle",
+            "recuweb_url": "http://es.recuweb.com/deporte/minuto30.com/2015/04/el-brit%C3%A1nico-gary-hunt-es-ganador-en-la-primera-etapa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
-            "source_url": "http://20minutos.es/noticia/2437557/0/abierto-plazo-inscripcion-peliculas-para-octava-edicion-bilbao-mendi-film-festival/"
+            "source_url": "http://minuto30.com/el-britanico-gary-hunt-es-el-ganador-en-la-primera-etapa-de-la-serie-mundial-de-clavados/332899/"
+        },
+        "estrategiaynegocios.net/2015/04/fox-reconoce-deporte-extremo-en-guatemala": {
+            "title": "FOX reconoce deporte extremo en Guatemala...",
+            "snippet": "En Guatemala d\u00eda a d\u00eda sigue creciendo el porcentaje de personas que practican deportes extremos, por lo que se vuelve un movimiento en crecimiento y aceptaci\u00f3n. Pero todos estos deportistas se exponen a consecuencias de alto riesgo corporal...",
+            "date": "2015-04-22",
+            "categories": "deporte",
+            "tags": "personas,deporte,extremos,deportes",
+            "recuweb_url": "http://es.recuweb.com/deporte/estrategiaynegocios.net/2015/04/fox-reconoce-deporte-extremo-en-guatemala",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
+            "source_url": "http://estrategiaynegocios.net/empresasymanagement/lanzamientos/833524-330/fox-reconoce-deporte-extremo-en-guatemala"
+        },
+        "entornointeligente.com/2015/04/j%C3%B3venes-caraque%C3%B1os-participaron-en-festival-de-deportes-extremos-entornointeligente": {
+            "title": "J\u00f3venes caraque\u00f1os participaron en Festival de Deportes Extremos... - EntornoInteligente...",
+            "snippet": "J\u00f3venes caraque\u00f1os participaron en Festival de Deportes Extremos...EntornoInteligenteAVN/Caracas, 22 Abr. AVN.- J\u00f3venes de Caracas participaron ese martes en el Festival de Deportes Extremos que tuvo lugar en la Escuela de Masificaci\u00f3n y...",
+            "date": "2015-04-22",
+            "categories": "escuela",
+            "tags": "deportes,deportes_extremos,extremos",
+            "recuweb_url": "http://es.recuweb.com/escuela/entornointeligente.com/2015/04/j%C3%B3venes-caraque%C3%B1os-participaron-en-festival-de-deportes-extremos-entornointeligente",
+            "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bextremo%2Bdeporte%2Bextremo&output=atom&nord=1",
+            "source_url": "http://entornointeligente.com/articulo/5734534/Jovenes-caraquenos-participaron-en-Festival-de-Deportes-Extremos-en-El-Paraiso-22042015"
         },
         "telam.com.ar/2015/04/la-experiencia-de-alta-competencia-y-los-deportes-extremos-en-t%C3%A9lam": {
             "title": "La experiencia de la alta competencia y los deportes extremos en... - T\u00e9lam...",
             "snippet": "T\u00e9lamLa experiencia de la alta competencia y los deportes extremos en...T\u00e9lamA la hora de escribir \"Desafiar el cuerpo\", el periodista Federico Bianchini utiliza la fuerza de las palabras para conectarnos con la aventura a trav\u00e9s de un manojo de...",
             "date": "2015-04-20",
-            "tags": "aventura,hora,deportes,extremos",
+            "tags": "hora,deportes,extremos",
             "recuweb_url": "http://es.recuweb.com/telam.com.ar/2015/04/la-experiencia-de-alta-competencia-y-los-deportes-extremos-en-t%C3%A9lam",
             "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bextremo%2Bdeporte%2Bextremo&output=atom&nord=1",
             "source_url": "http://telam.com.ar/notas/201504/102202-desafiar-el-cuerpo-traduce-en-palabras-la-experiencia-de-la-alta-competencia-y-los-deportes-extremos.html"
@@ -54,60 +105,10 @@
             "snippet": "Eric Barone, un amante del deporte extremo, acaba de batir su propio r\u00e9cord a sus 54 a\u00f1os. El franc\u00e9s dedic\u00f3 varios de los \u00faltimos a\u00f1os de su vida y lo ha conseguido: ha batido el r\u00e9cord de velocidad sobre una bicicleta bajando a 223,3 km/h.",
             "date": "2015-04-19",
             "categories": "deporte",
-            "tags": "vida,nuevo,hora,deporte,extremo",
+            "tags": "nuevo,mundial,hora,deporte,extremo",
             "recuweb_url": "http://es.recuweb.com/deporte/es.eurosport.yahoo.com/2015/04/a-223-km-hora-sobre-una-bici-nuevo-r%C3%A9cord-mundial",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
             "source_url": "http://es.eurosport.yahoo.com/blogs/chorreo-digital/a-223-km--hora-sobre-una-bici--nuevo-r\u00e9cord-mundial-135346034.html"
-        },
-        "notimex.com.mx/2015/04/playa-bonfil-icono-en-guerrero-para-practicar-surf": {
-            "title": "Playa Bonfil, icono en Guerrero para practicar surf...",
-            "snippet": "V\u00edctor P\u00e9rez, quien tiene siete a\u00f1os surfeando, se\u00f1ala que est\u00e1 actividad, adem\u00e1s de ser un deporte extremo, para \u00e9l es un estilo de vida y es su pasi\u00f3n. Durante una entrevista realizada en el interior de su negocio Bonfil Surf School y...",
-            "date": "2015-04-19",
-            "categories": "surf,deporte",
-            "tags": "vida,deporte,extremo",
-            "recuweb_url": "http://es.recuweb.com/deporte/notimex.com.mx/2015/04/playa-bonfil-icono-en-guerrero-para-practicar-surf",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
-            "source_url": "http://notimex.com.mx/acciones/verNota.php?clv=273991"
-        },
-        "losandes.com.ar/2015/04/deporte-extremo-con-un-final-impensado-hombre-mordido": {
-            "title": "Deporte extremo con un final impensado: un hombre mordido en su... - Los Andes (Argentina)...",
-            "snippet": "Los Andes (Argentina)Deporte extremo con un final impensado: un hombre mordido en su...Los Andes (Argentina)Un hecho inesperado se sucedi\u00f3 cuando un cuidador abri\u00f3 la fauces de un cocodrilo y \u00e9ste reaccion\u00f3 mordi\u00e9ndole la cabeza, lo cual...",
-            "date": "2015-04-13",
-            "categories": "deporte",
-            "tags": "deporte,extremo,hecho",
-            "recuweb_url": "http://es.recuweb.com/deporte/losandes.com.ar/2015/04/deporte-extremo-con-un-final-impensado-hombre-mordido",
-            "resource_url": "http://news.google.es/?hl=es&q=deporte%2Bextremo%2Bdeporte%2Bextremo&output=atom&nord=1",
-            "source_url": "http://losandes.com.ar/article/deporte-extremo-con-un-final-impensado-un-hombre-mordido-en-su-cabeza-por-un-cocodrilo-842596"
-        },
-        "finanzas.com/2015/04/expertos-en-deporte-extremo-un-congreso-previo-a-la-ruta": {
-            "title": "Expertos en deporte extremo en un congreso previo a la Ruta de las Fortalezas...",
-            "snippet": "Psic\u00f3logos deportivos, periodistas, docentes y deportistas extremos, entre otros expertos, participan los pr\u00f3ximos 16 y 17 de abril en un congreso internacional que complementar\u00e1 la Ruta de las Fortalezas, que se celebra el pr\u00f3ximo d\u00eda 18 en...",
-            "date": "2015-04-12",
-            "categories": "deporte",
-            "tags": "celebra,pr\u00f3ximos,abril,congreso,congreso-internacional,internacional,internacional-que-complementar\u00e1,complementar\u00e1,participan,participan-los-pr\u00f3ximos,expertos,docentes,docentes-deportistas,deportistas,congreso-previo,previo,deporte,extremos,ruta,fortalezas,psic\u00f3logos,deportivos,periodistas",
-            "recuweb_url": "http://es.recuweb.com/deporte/finanzas.com/2015/04/expertos-en-deporte-extremo-un-congreso-previo-a-la-ruta",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
-            "source_url": "http://finanzas.com/noticias/empresas/20150412/expertos-deporte-extremo-congreso-2914107.html"
-        },
-        "laverdad.es/2015/04/un-congreso-previo-a-la-ruta-de-las-fortalezas-re%C3%BAne-expertos": {
-            "title": "Un congreso previo a la Ruta de las Fortalezas re\u00fane a expertos en deporte extremo...",
-            "snippet": "Psic\u00f3logos deportivos, periodistas, docentes y deportistas extremos, entre otros expertos, participan los pr\u00f3ximos 16 y 17 de abril en un congreso internacional que complementar\u00e1 la Ruta de las Fortalezas, que se celebra este pr\u00f3ximo s\u00e1bado...",
-            "date": "2015-04-12",
-            "categories": "deporte",
-            "tags": "celebra,pr\u00f3ximos,abril,congreso,congreso-internacional,internacional,internacional-que-complementar\u00e1,complementar\u00e1,participan,participan-los-pr\u00f3ximos,expertos,docentes,docentes-deportistas,deportistas,congreso-previo,previo,ruta,fortalezas,deporte,extremos,psic\u00f3logos,deportivos,periodistas",
-            "recuweb_url": "http://es.recuweb.com/deporte/laverdad.es/2015/04/un-congreso-previo-a-la-ruta-de-las-fortalezas-re%C3%BAne-expertos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
-            "source_url": "http://laverdad.es/murcia/deportes/mas-deportes/201504/13/congreso-previo-ruta-fortalezas-20150413010823-v.html"
-        },
-        "digitallpost.mx/2015/04/top-5-skateparks-en-el-df-para-patinar-este-fin": {
-            "title": "Top 5: skateparks en el DF para patinar este fin de semana...",
-            "snippet": "Aunque no dejamos fuera a los que apenas inician en este deporte extremo o llama su atenci\u00f3n, pues tambi\u00e9n est\u00e1n disponibles estos parques para ustedes. Con la ayuda, del sitio mexicano en l\u00ednea, Ollie Shit, expertos y dedicados como medio y...",
-            "date": "2015-04-10",
-            "categories": "deporte",
-            "tags": "expertos,llama,deporte,extremo",
-            "recuweb_url": "http://es.recuweb.com/deporte/digitallpost.mx/2015/04/top-5-skateparks-en-el-df-para-patinar-este-fin",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deporte%2Bextremo&format=RSS&cc=es",
-            "source_url": "http://digitallpost.mx/noticias-detalle.php?contenido_id=81553&seccion_id=50"
         }
     }
 }

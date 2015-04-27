@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "television",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/television/",
@@ -10,13 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/television/television/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/william-levy-quiere-producir-m%C3%A1s-cine-y-televisi%C3%B3n": {
+            "title": "William Levy quiere producir m\u00e1s cine y televisi\u00f3n...",
+            "snippet": "Este ha sido su primer viaje al Per\u00fa y est\u00e1 feliz. El actor cubano estadounidense William Levy lleg\u00f3 invitado por \u00c9sika para la presentaci\u00f3n de su fragancia Magnat, en una campa\u00f1a que lo ha llevado por M\u00e9xico, Guatemala, Colombia y Ecuador, y...",
+            "date": "2015-04-22",
+            "author_name": "noticiastvperuana",
+            "categories": "cine,television",
+            "tags": "televisi\u00f3n,per\u00fa",
+            "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/william-levy-quiere-producir-m%C3%A1s-cine-y-televisi%C3%B3n",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television+television/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ni3tz_william-levy-quiere-producir-mas-cine-y-television_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ni3tz_william-levy-quiere-producir-mas-cine-y-television_news"
+        },
+        "youtube.com/2015/04/videoblog-9-las-series-de-television": {
+            "title": "VIDEOBLOG 9: LAS SERIES DE TELEVISION...",
+            "snippet": "VIDEOBLOG 9: LAS SERIES DE TELEVISION Sabes que hice? Me compre ropa. From: El Uriel Views: 16628 1613 ratings Time: 04:55 More in Gaming...",
+            "date": "2015-04-20",
+            "author_name": "El Uriel",
+            "categories": "television",
+            "tags": "television",
+            "recuweb_url": "http://es.recuweb.com/television/youtube.com/2015/04/videoblog-9-las-series-de-television",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=television&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=8gfQ8A0A8xU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/8gfQ8A0A8xU/0.jpg"
+        },
+        "dailymotion.com/2015/04/conocido-reality-de-televisi%C3%B3n-podr%C3%ADa-llegar-a-su-fin": {
+            "title": "Conocido reality de televisi\u00f3n podr\u00eda llegar a su fin...",
+            "snippet": "Y Karen Dejo, una de sus integrantes, ech\u00f3 m\u00e1s le\u00f1a al fuego: Se descubri\u00f3 que hab\u00eda gente que no era confiable en el: PanamericanaPTVTags: karen dejo combate la bater\u00eda panamericana televisi\u00f3n Posted: 18 April 2015Rating:: 0...",
+            "date": "2015-04-18",
+            "author_name": "PanamericanaPTV",
+            "categories": "television",
+            "tags": "panamericana,panamericana-televisi\u00f3n,televisi\u00f3n,podr\u00eda,panamericanaptvtags",
+            "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/conocido-reality-de-televisi%C3%B3n-podr%C3%ADa-llegar-a-su-fin",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television+television/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n236e_conocido-reality-de-television-podria-llegar-a-su-fin_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n236e_conocido-reality-de-television-podria-llegar-a-su-fin_news"
+        },
         "dailymotion.com/2015/04/el-encanto-de-corazon-en-programa-al-aire-16-04-2015": {
             "title": "EL ENCANTO DE CORAZON - EN PROGRAMA AL AIRE 16-04-2015 AMERICA TELEVISION...",
             "snippet": "LA PRIMERA FARANDULA ONLINE DE LA CUMBIA SANJUANERA: SHOWDENOTICIAS2Tags: Posted: 17 April 2015Rating:: 0...",
             "date": "2015-04-16",
             "author_name": "SHOWDENOTICIAS2",
             "categories": "television",
-            "tags": "primera,farandula,programa",
+            "tags": "primera,farandula,television,programa",
             "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/el-encanto-de-corazon-en-programa-al-aire-16-04-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mwwu4_el-encanto-de-corazon-en-programa-al-aire-16-04-2015-america-television_music",
@@ -40,11 +77,23 @@
             "date": "2015-04-15",
             "author_name": "PanamericanaPTV",
             "categories": "television",
-            "tags": "farandula,panamericana,televisi\u00f3n,lado",
+            "tags": "farandula,panamericana,panamericana-televisi\u00f3n,televisi\u00f3n,panamericanaptvtags",
             "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/la-negra-petr%C3%B3leo-otra-cara-de-diana-canto-fuera-las-c%C3%A1maras",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television+television/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mpw2f_la-negra-petroleo-la-otra-cara-de-diana-canto-fuera-de-las-camaras-de-television_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mpw2f_la-negra-petroleo-la-otra-cara-de-diana-canto-fuera-de-las-camaras-de-television_news"
+        },
+        "youtube.com/2015/04/programas-de-televisi%C3%B3n-improvlog-26-abipower": {
+            "title": "PROGRAMAS DE TELEVISI\u00d3N (IMPROVLOG 26) ABIPOWER...",
+            "snippet": "PROGRAMAS DE TELEVISI\u00d3N (IMPROVLOG 26) ABIPOWER Suscr\u00edbete y dale like si quieres vivir en un mundo de golosinas. Camisetas chachis: Contacto: Dime lo guapa y adorable que... From: Abi Power Views: 50051 5330 ratings Time: 04:25 More in Comedy...",
+            "date": "2015-04-15",
+            "author_name": "Abi Power",
+            "categories": "television",
+            "tags": "televisi\u00f3n,contacto",
+            "recuweb_url": "http://es.recuweb.com/television/youtube.com/2015/04/programas-de-televisi%C3%B3n-improvlog-26-abipower",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=television%2Btelevision&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=RVtuDKOgpoI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/RVtuDKOgpoI/0.jpg"
         },
         "dailymotion.com/2015/04/am%C3%A9rica-televisi%C3%B3n-anuncia-lanzamiento-de-telenovelas-turcas": {
             "title": "Am\u00e9rica Televisi\u00f3n anuncia lanzamiento de telenovelas turcas...",
@@ -58,27 +107,15 @@
             "source_url": "http://dailymotion.com/video/x2mld4k_america-television-anuncia-lanzamiento-de-telenovelas-turcas_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mld4k_america-television-anuncia-lanzamiento-de-telenovelas-turcas_news"
         },
-        "youtube.com/2015/04/clarissa-demostr%C3%B3-su-talento-para-conducir-un-programa-de-televisi%C3%B3n": {
-            "title": "Clarissa demostr\u00f3 su talento para conducir un programa de televisi\u00f3n...",
-            "snippet": "Clarissa demostr\u00f3 su talento para conducir un programa de televisi\u00f3n El \u00faltimo reto de la concursante durante la competencia fue hacer un segmento de un programa al lado de Lourdes Stephen. Nuestra Belleza Latina: la b\u00fasqueda de la latina m\u00e1s...",
-            "date": "2015-04-13",
-            "author_name": "Nuestra Belleza Latina",
-            "categories": "television",
-            "tags": "programa,lado,talento,televisi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/television/youtube.com/2015/04/clarissa-demostr%C3%B3-su-talento-para-conducir-un-programa-de-televisi%C3%B3n",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=television%2Btelevision&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=Mgt_4C990WY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Mgt_4C990WY/0.jpg"
-        },
         "dailymotion.com/2015/04/rocky-belmonte-regresar%C3%A1-a-la-televisi%C3%B3n-con-programa-similar-fant%C3%A1stico": {
             "title": "Rocky Belmonte regresar\u00e1 a la televisi\u00f3n con programa similar a 'Fant\u00e1stico'...",
             "snippet": "Rocky Belmonte asegur\u00f3 que el formato de su recordado programa Fant\u00e1stico podr\u00eda regresar a la pantalla chica, pues una productora mexicana ya se puso en contacto con \u00e9: noticiastvperuanaTags: videos de noticias noticias Per\u00fa noticias en Per\u00fa...",
             "date": "2015-04-11",
             "author_name": "noticiastvperuana",
             "categories": "television",
-            "tags": "noticias,asegur\u00f3,programa,televisi\u00f3n,noticiastvperuanatags,per\u00fa",
+            "tags": "noticias,contacto,podr\u00eda,programa,televisi\u00f3n,noticiastvperuanatags,per\u00fa",
             "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/rocky-belmonte-regresar%C3%A1-a-la-televisi%C3%B3n-con-programa-similar-fant%C3%A1stico",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television+television/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mdw25_rocky-belmonte-regresara-a-la-television-con-programa-similar-a-fantastico_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mdw25_rocky-belmonte-regresara-a-la-television-con-programa-similar-a-fantastico_news"
         },
@@ -88,47 +125,11 @@
             "date": "2015-04-10",
             "author_name": "chilevision",
             "categories": "television,moda",
-            "tags": "televisi\u00f3n,sqp,canal,chilevisiontags",
+            "tags": "televisi\u00f3n,canal",
             "recuweb_url": "http://es.recuweb.com/moda/dailymotion.com/2015/04/la-guerra-del-dise%C3%B1o-entre-bolocco-y-tomicic-se-toma-televisi%C3%B3n",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ma5ts_la-guerra-del-diseno-entre-bolocco-y-tomicic-se-toma-la-television-sqp_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ma5ts_la-guerra-del-diseno-entre-bolocco-y-tomicic-se-toma-la-television-sqp_fun"
-        },
-        "dailymotion.com/2015/04/luli-le-da-un-ultim%C3%A1tum-a-la-televisi%C3%B3n-chilena-sqp": {
-            "title": "Luli le da un ultim\u00e1tum a la televisi\u00f3n chilena - SQP...",
-            "snippet": "La blonda del acento cantadito, asegur\u00f3 que si no le dan un espacio en la televisi\u00f3n, se ir\u00e1 de: chilevisionTags: Posted: 09 April 2015Rating:: 0...",
-            "date": "2015-04-09",
-            "author_name": "chilevision",
-            "categories": "television",
-            "tags": "asegur\u00f3,televisi\u00f3n,sqp,chilevisiontags",
-            "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/luli-le-da-un-ultim%C3%A1tum-a-la-televisi%C3%B3n-chilena-sqp",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m6q6z_luli-le-da-un-ultimatum-a-la-television-chilena-sqp_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m6q6z_luli-le-da-un-ultimatum-a-la-television-chilena-sqp_fun"
-        },
-        "dailymotion.com/2015/04/sem-vip-el-opening-m%C3%A1s-de-la-televisi%C3%B3n-ecuatoriana": {
-            "title": "SEM - VIP: El Opening m\u00e1s VIP de la televisi\u00f3n ecuatoriana.",
-            "snippet": "9PM El show m\u00e1s grande regresa con una tercera temporada llena de sorpresas y recargada de talento, sue\u00f1os, emociones y diversi\u00f3n. \u00bfEres EL MEJOR? \u00a1Somos VIP! Facebook: Twitter: SoyElMejorVIPTCAuthor: tctelevisionTags: Calle 7 soy el mejor vip...",
-            "date": "2015-04-09",
-            "author_name": "tctelevision",
-            "categories": "television,facebook,twitter",
-            "tags": "talento,televisi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/twitter/dailymotion.com/2015/04/sem-vip-el-opening-m%C3%A1s-de-la-televisi%C3%B3n-ecuatoriana",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m6xjw_sem-vip-el-opening-mas-vip-de-la-television-ecuatoriana_tv",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m6xjw_sem-vip-el-opening-mas-vip-de-la-television-ecuatoriana_tv"
-        },
-        "dailymotion.com/2015/04/iv%C3%A1n-m%C3%A1rquez-la-voz-de-tele-en-panamericana-televisi%C3%B3n-1-2": {
-            "title": "Iv\u00e1n M\u00e1rquez: la voz de la tele en Panamericana Televisi\u00f3n (1/2)...",
-            "snippet": "Panorama convers\u00f3 con Iv\u00e1n M\u00e1rquez, una leyenda viviente que marc\u00f3 historia en la Televisi\u00f3n Nacional y en la mente de miles de peruanos a trav\u00e9s de las pantallas de: panoramaptvTags: panamericana televisi\u00f3n iv\u00e1n m\u00e1rquez televisi\u00f3n peruana...",
-            "date": "2015-04-08",
-            "author_name": "panoramaptv",
-            "categories": "television",
-            "tags": "panamericana,televisi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/television/dailymotion.com/2015/04/iv%C3%A1n-m%C3%A1rquez-la-voz-de-tele-en-panamericana-televisi%C3%B3n-1-2",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/television/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m2pvm_ivan-marquez-la-voz-de-la-tele-en-panamericana-television-1-2_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m2pvm_ivan-marquez-la-voz-de-la-tele-en-panamericana-television-1-2_news"
         }
     }
 }

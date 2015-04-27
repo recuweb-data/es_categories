@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "desarrollo-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/desarrollo-web/",
@@ -15,9 +16,9 @@
             "snippet": "Miguel es fundador de y la plataforma de formaci\u00f3n online EscuelaIT. Comenz\u00f3 en el mundo del desarrollo web en el a\u00f1o 1997, transformando su hobby en su trabajo. Subir...",
             "date": "2015-04-06",
             "author_name": "desconocido",
-            "tags": "trabajo,escuelait,mundo,desarrollo,web",
+            "tags": "trabajo,sensible,escuelait,mundo,desarrollo,web",
             "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/04/url-sensible-o-no-a-las-may%C3%BAsculas-y-min%C3%BAsculas-configuraci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/articulos/url-mayusculas-minusculas-apache.html"
         },
         "sistematicamx.wordpress.com/2015/03/desarrollo-de-p%C3%A1ginas-web": {
@@ -25,7 +26,7 @@
             "snippet": "Contamos con diferentes paquetes de p\u00e1ginas web responsivas que se ajustan a la medida y necesidades de su empresa. Paquete b\u00e1sico: P\u00e1gina informativa Dominio y hospedaje por un a\u00f1o 5 cuentas de []...",
             "date": "2015-03-28",
             "author_name": "azucenaorea",
-            "tags": "web,desarrollo,empresa,dominio",
+            "tags": "p\u00e1gina,web,desarrollo,empresa",
             "recuweb_url": "http://es.recuweb.com/sistematicamx.wordpress.com/2015/03/desarrollo-de-p%C3%A1ginas-web",
             "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://sistematicamx.wordpress.com/2015/03/28/desarrollo-de-paginas-web/"
@@ -35,7 +36,7 @@
             "snippet": "Generalmente ser\u00e1 suficiente para muchos casos, ahora bien, en el desarrollo de la web actual, no siempre te vale con probar las cosas con tu ordenador local para ver si est\u00e1 todo correcto, lo quieres hacer desde otros...",
             "date": "2015-03-25",
             "author_name": "desconocido",
-            "tags": "hacer,ver,correcto,red,desarrollo,web,actual",
+            "tags": "hacer,correcto,red,desarrollo,web",
             "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/03/accede-a-virtualhost-desde-cualquier-dispositivo-de-la-red-local",
             "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/articulos/acceso-virtualhost-dispositivo-red-local.html"
@@ -46,30 +47,21 @@
             "date": "2015-03-14",
             "author_name": "buqueextremo",
             "categories": "tecnologia",
-            "tags": "tan,tecnolog\u00edas,desarrollo,aplicaciones,web,cuenta",
+            "tags": "tecnolog\u00edas,desarrollo,aplicaciones,web",
             "recuweb_url": "http://es.recuweb.com/tecnologia/ppazul171993.wordpress.com/2015/03/1-3-tecnolog%C3%ADas-para-el-desarrollo-de-aplicaciones-web",
             "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://ppazul171993.wordpress.com/1-3-tecnologias-para-el-desarrollo-de-aplicaciones-web/"
         },
-        "desarrolloweb.com/2015/02/flujo-de-desarrollo-un-sitio-responsive": {
-            "title": "Flujo de desarrollo de un sitio responsive -...",
-            "snippet": "C\u00f3mo se desarrolla un sitio adaptativo, aproximaci\u00f3n de los procesos usados para la creaci\u00f3n de un dise\u00f1o Responsive Web Design. En el Manual de Responsive hemos conocido muchas caracter\u00edsticas deseables de los...",
-            "date": "2015-02-02",
+        "desarrolloweb.com/2015/03/arquitectura-de-la-web-con-nodejs-programadorio": {
+            "title": "Arquitectura de la web con NodeJS programadorIO...",
+            "snippet": "Este martes 3 de marzo vamos a abordar las tecnolog\u00edas relacionadas con Javascript para el desarrollo de sitios web, en lo que se llama \"Javascript Fullstack\", una alternativa que ha ganado mucha fuerza en los \u00faltimos...",
+            "date": "2015-03-03",
             "author_name": "desconocido",
-            "tags": "responsive,responsive_web,responsive_web_design,web,web_design,design,creaci\u00f3n,flujo,desarrollo,sitio,c\u00f3mo,dise\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/02/flujo-de-desarrollo-un-sitio-responsive",
+            "categories": "javascript,tecnologia",
+            "tags": "javascript,sitios,vamos,tecnolog\u00edas,web,nodejs,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/desarrolloweb.com/2015/03/arquitectura-de-la-web-con-nodejs-programadorio",
             "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/flujo-desarrollo-responsive-web-design.html"
-        },
-        "desarrolloweb.com/2015/01/qu%C3%A9-es-responsive-web-design": {
-            "title": "Qu\u00e9 es Responsive Web Design -...",
-            "snippet": "Comenzamos con una descripci\u00f3n general del t\u00e9rmino Responsive Web Design de modo que todos podamos entender de d\u00f3nde viene y por qu\u00e9 es tan importante en el mundo actual del desarrollo. Responsive Web Design...",
-            "date": "2015-01-19",
-            "author_name": "desconocido",
-            "tags": "actual,tan,responsive,responsive_web,responsive_web_design,web,web_design,design,mundo,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/01/qu%C3%A9-es-responsive-web-design",
-            "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/que-es-responsive-web-design.html"
+            "source_url": "http://desarrolloweb.com/en-directo/arquitectura-web-nodejs-programadorio-8829.html"
         },
         "botonescreativos.wordpress.com/2015/01/dise%C3%B1o-y-desarrollo-web": {
             "title": "Dise\u00f1o y Desarrollo Web...",
@@ -77,7 +69,7 @@
             "date": "2015-01-03",
             "author_name": "Botones Creativos",
             "categories": "internet,desarrollo-web",
-            "tags": "red,internet,desarrollo,desarrollo_web,web,dise\u00f1o",
+            "tags": "red,sitios,desarrollo,desarrollo_web,web,dise\u00f1o",
             "recuweb_url": "http://es.recuweb.com/desarrollo-web/botonescreativos.wordpress.com/2015/01/dise%C3%B1o-y-desarrollo-web",
             "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://botonescreativos.wordpress.com/diseno-y-desarrollo-web/"

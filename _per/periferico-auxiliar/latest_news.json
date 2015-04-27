@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "periferico-auxiliar",
+        "language": "es",
+        "updated": "20150427"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/periferico-auxiliar/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/periferico-auxiliar/periferico-auxiliar/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/periferico-auxiliar/periferico-auxiliar/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/periferico-auxiliar/periferico-auxiliar/blogs.json"
+    },
+    "items": {
+        "pulsoslp.com.mx/2015/04/atropellan-y-matan-a-hombre-en-el-perif%C3%A9rico-pulso-de-san": {
+            "title": "Atropellan y matan a hombre en el perif\u00e9rico - Pulso de San Luis...",
+            "snippet": "Pulso de San LuisAtropellan y matan a hombre en el perif\u00e9ricoPulso de San LuisTestigos de los hechos dieron aviso a param\u00e9dicos de la Cruz Roja, quienes acudieron al lugar, para tratar de auxiliar a la v\u00edctima, pero al examinarlo, determinaron...",
+            "date": "2015-04-05",
+            "tags": "san,perif\u00e9rico,auxiliar",
+            "recuweb_url": "http://es.recuweb.com/pulsoslp.com.mx/2015/04/atropellan-y-matan-a-hombre-en-el-perif%C3%A9rico-pulso-de-san",
+            "resource_url": "http://news.google.es/?hl=es&q=periferico%2Bauxiliar&output=atom&nord=1",
+            "source_url": "http://pulsoslp.com.mx/2015/04/05/atropellan-y-matan-a-hombre-en-el-periferico/"
+        }
+    }
+}

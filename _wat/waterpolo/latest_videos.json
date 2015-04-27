@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "waterpolo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/waterpolo/",
@@ -10,17 +11,53 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/waterpolo/waterpolo/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/nota-waterpolo-en-el-cae-once-tv": {
-            "title": "NOTA Waterpolo en el CAE - El Once Tv...",
-            "snippet": "NOTA Waterpolo en el CAE - El Once Tv Waterpolo, nueva actividad deportiva en la ciudad. From: unadedostv Views: 216 3 ratings Time: 04:51 More in Music...",
-            "date": "2015-03-02",
-            "author_name": "unadedostv",
+        "youtube.com/2015/04/waterpolo-femenino-9802-vs-hospitalet": {
+            "title": "Waterpolo Femenino. Waterpolo 9802 vs Hospitalet...",
+            "snippet": "Waterpolo Femenino. Waterpolo 9802 vs Hospitalet Partido decisivo de Primera Divisi\u00f3n Femenina. From: deportenavarro Views: 426 8 ratings Time: 01:19:25 More in Sports...",
+            "date": "2015-04-19",
+            "author_name": "deportenavarro",
             "categories": "waterpolo",
-            "tags": "waterpolo",
-            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2015/03/nota-waterpolo-en-el-cae-once-tv",
+            "tags": "primera,primera_divisi\u00f3n,divisi\u00f3n,partido,waterpolo,sports",
+            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2015/04/waterpolo-femenino-9802-vs-hospitalet",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=tJ4X7QL5G_4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/tJ4X7QL5G_4/0.jpg"
+            "source_url": "http://youtube.com/watch?v=wdxpiWhOL00&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/wdxpiWhOL00/0.jpg"
+        },
+        "youtube.com/2015/04/waterpolo-primera-div-masculina-cn-madrid-moscard%C3%B3-vs-tres-cantos": {
+            "title": "WATERPOLO: PRIMERA DIV MASCULINA CN Madrid Moscard\u00f3 vs CN Tres Cantos.",
+            "snippet": "WATERPOLO: PRIMERA DIV MASCULINA CN Madrid Moscard\u00f3 vs CN Tres Cantos. Derby madrile\u00f1o correspondiente a la 21 jornada de la Liga Masculina de Primera Divisi\u00f3n de waterpolo. Ultimo partido en casa del equipo de Usera ante un rival directo. From:...",
+            "date": "2015-04-18",
+            "author_name": "Voley Playa Madrid",
+            "categories": "waterpolo",
+            "tags": "partido,waterpolo,primera,primera_divisi\u00f3n,divisi\u00f3n,madrid",
+            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2015/04/waterpolo-primera-div-masculina-cn-madrid-moscard%C3%B3-vs-tres-cantos",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=oedZiIzdZRI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/oedZiIzdZRI/0.jpg"
+        },
+        "youtube.com/2015/02/2015-02-20-waterpolo-sevilla": {
+            "title": "2015 02 20 Waterpolo Sevilla...",
+            "snippet": "2015 02 20 Waterpolo Sevilla Reportaje Canal Sur Noticias - Colaboraci\u00f3n de Club Waterpolo Sevilla Emasesa con el Colegio Matadero. From: Club Waterpolo Sevilla Emasesa Views: 613 8 ratings Time: 01:43 More in Sports...",
+            "date": "2015-02-21",
+            "author_name": "Club Waterpolo Sevilla Emasesa",
+            "categories": "waterpolo",
+            "tags": "club,canal,waterpolo,sports",
+            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2015/02/2015-02-20-waterpolo-sevilla",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=3YsgGbjb6rs&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3YsgGbjb6rs/0.jpg"
+        },
+        "youtube.com/2015/02/campeonato-nacional-apertura-sub-15-de-waterpolo-puro-deporte": {
+            "title": "Campeonato Nacional Apertura sub-15 de Waterpolo - PURO DEPORTE...",
+            "snippet": "Campeonato Nacional Apertura sub-15 de Waterpolo - PURO DEPORTE El club Aqu\u00e1tica Sport Center de Lima logr\u00f3 el t\u00edtulo en varones del Campeonato Nacional Apertura de Waterpolo Sub-15 desarrollado en Arequipa; mientras que en damas, el t\u00edtulo...",
+            "date": "2015-02-16",
+            "author_name": "PURODEPORTETV",
+            "categories": "deporte,waterpolo",
+            "tags": "club,nacional,waterpolo",
+            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2015/02/campeonato-nacional-apertura-sub-15-de-waterpolo-puro-deporte",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=LDcIVfM2cG4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LDcIVfM2cG4/0.jpg"
         },
         "youtube.com/2015/01/selectivo-de-waterpolo-para-la-olimpiada-nacional-en-m%C3%A9xico-2015": {
             "title": "Selectivo de Waterpolo para la Olimpiada Nacional en M\u00e9xico 2015...",
@@ -28,47 +65,23 @@
             "date": "2015-01-24",
             "author_name": "VamosDeportes",
             "categories": "waterpolo,natacion",
-            "tags": "waterpolo,nataci\u00f3n",
+            "tags": "nacional,waterpolo,nataci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/natacion/youtube.com/2015/01/selectivo-de-waterpolo-para-la-olimpiada-nacional-en-m%C3%A9xico-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Aa8o0qFwOLk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Aa8o0qFwOLk/0.jpg"
         },
-        "youtube.com/2014/12/final-campeonato-europa-2014-espana-vs-holanda-waterpolo-femenino": {
-            "title": "Final Campeonato Europa 2014 Espana vs Holanda Waterpolo Femenino...",
-            "snippet": "Final Campeonato Europa 2014 Espana vs Holanda Waterpolo Femenino Visita nuestra web. From: Waterpolo Madrid Views: 1638 6 ratings Time: 01:38:02 More in People & Blogs...",
-            "date": "2014-12-31",
-            "author_name": "Waterpolo Madrid",
-            "categories": "waterpolo",
-            "tags": "waterpolo,waterpolo_madrid,madrid,visita,web,people",
-            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2014/12/final-campeonato-europa-2014-espana-vs-holanda-waterpolo-femenino",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=78jSJgZQSAc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/78jSJgZQSAc/0.jpg"
-        },
         "youtube.com/2014/12/entrevista-a-los-medallistas-de-waterpolo-barcelona-92-y-atlanta-96": {
             "title": "Entrevista a los medallistas de waterpolo Barcelona 92 y Atlanta 96...",
-            "snippet": "Entrevista a los medallistas de waterpolo Barcelona 92 y Atlanta 96 Visita nuestra web. From: Waterpolo Madrid Views: 1185 11 ratings Time: 34:01 More in People & Blogs...",
+            "snippet": "Entrevista a los medallistas de waterpolo Barcelona 92 y Atlanta 96 Visita nuestra web. From: Waterpolo Madrid Views: 1227 11 ratings Time: 34:01 More in People & Blogs...",
             "date": "2014-12-21",
             "author_name": "Waterpolo Madrid",
             "categories": "waterpolo",
-            "tags": "waterpolo,waterpolo_madrid,madrid,web,visita,people",
+            "tags": "waterpolo,madrid",
             "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2014/12/entrevista-a-los-medallistas-de-waterpolo-barcelona-92-y-atlanta-96",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=hlB4C87FoPU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/hlB4C87FoPU/0.jpg"
-        },
-        "youtube.com/2014/12/documental-waterpolo-agua-infierno-cielo": {
-            "title": "Documental waterpolo; Agua, infierno, cielo...",
-            "snippet": "Documental waterpolo; \"Agua, infierno, cielo\" Visita nuestra web. From: Waterpolo Madrid Views: 2098 15 ratings Time: 52:18 More in People & Blogs...",
-            "date": "2014-12-12",
-            "author_name": "Waterpolo Madrid",
-            "categories": "waterpolo",
-            "tags": "waterpolo,waterpolo_madrid,madrid,web,visita,people",
-            "recuweb_url": "http://es.recuweb.com/waterpolo/youtube.com/2014/12/documental-waterpolo-agua-infierno-cielo",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=n37P-VLrayM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/n37P-VLrayM/0.jpg"
         },
         "youtube.com/2014/12/nataci%C3%B3n-y-fitness-entrenamiento-para-waterpolo": {
             "title": "Nataci\u00f3n y Fitness Entrenamiento para waterpolo...",
@@ -76,7 +89,7 @@
             "date": "2014-12-12",
             "author_name": "fitymovimiento",
             "categories": "salud,waterpolo,natacion",
-            "tags": "waterpolo,nataci\u00f3n",
+            "tags": "canal,waterpolo,nataci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/natacion/youtube.com/2014/12/nataci%C3%B3n-y-fitness-entrenamiento-para-waterpolo",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=waterpolo%2Bwaterpolo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=CTH6Yr77POY&feature=youtube_gdata",
@@ -88,7 +101,7 @@
             "date": "2014-12-06",
             "author_name": "elcuervowaterpolo",
             "categories": "waterpolo",
-            "tags": "waterpolo,waterpolo-vizilabda,waterpolo-vizilabda-pallanuoto,vizilabda,vizilabda-pallanuoto,vizilabda-pallanuoto-wasserball,pallanuoto,pallanuoto-wasserball,pallanuoto-wasserball-vaterpolo,wasserball,wasserball-vaterpolo,vaterpolo,waterpolo_stars,stars,merchandising,elcuervowaterpolotags",
+            "tags": "waterpolo,waterpolo-vizilabda,waterpolo-vizilabda-pallanuoto,vizilabda,vizilabda-pallanuoto,vizilabda-pallanuoto-wasserball,pallanuoto,pallanuoto-wasserball,pallanuoto-wasserball-vaterpolo,wasserball,wasserball-vaterpolo,vaterpolo,merchandising,elcuervowaterpolotags",
             "recuweb_url": "http://es.recuweb.com/waterpolo/dailymotion.com/2014/12/harry-van-der-meer-ned-90-waterpolo-stars",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/waterpolo+waterpolo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2bv146_harry-van-der-meer-ned-90-waterpolo-stars_sport",
@@ -105,18 +118,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/waterpolo+waterpolo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2bv3ru_honved-olympiacos-euroleague-08-waterpolo_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2bv3ru_honved-olympiacos-euroleague-08-waterpolo_sport"
-        },
-        "dailymotion.com/2014/12/franco-porzio-the-mortal-flash-waterpolo-stars": {
-            "title": "Franco Porzio The Mortal Flash Waterpolo Stars...",
-            "snippet": "Merchandising-: elcuervowaterpoloTags: waterpolo vizilabda pallanuoto wasserball vaterpolo Posted: 05 December 2014Rating:: 0...",
-            "date": "2014-12-05",
-            "author_name": "elcuervowaterpolo",
-            "categories": "waterpolo",
-            "tags": "waterpolo,waterpolo-vizilabda,waterpolo-vizilabda-pallanuoto,vizilabda,vizilabda-pallanuoto,vizilabda-pallanuoto-wasserball,pallanuoto,pallanuoto-wasserball,pallanuoto-wasserball-vaterpolo,wasserball,wasserball-vaterpolo,vaterpolo,waterpolo_stars,stars,merchandising,elcuervowaterpolotags",
-            "recuweb_url": "http://es.recuweb.com/waterpolo/dailymotion.com/2014/12/franco-porzio-the-mortal-flash-waterpolo-stars",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/waterpolo+waterpolo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2bunoh_franco-porzio-the-mortal-flash-waterpolo-stars_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bunoh_franco-porzio-the-mortal-flash-waterpolo-stars_sport"
         },
         "dailymotion.com/2014/12/gabor-csapo-hungary-70-80-waterpolo-legends": {
             "title": "Gabor Csapo Hungary 70'80'Waterpolo Legends...",

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ipod",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ipod/",
@@ -10,32 +11,72 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
     },
     "items": {
-        "elpais.com.uy/2015/04/fallas-en-los-equipos-de-la-compa%C3%B1%C3%ADa-apple": {
-            "title": "Fallas en los equipos de la compa\u00f1\u00eda Apple...",
-            "snippet": "Las vulnerabilidades afectan a productos m\u00f3viles iOS (iPhone, iPad, iPod Touch) y computadores Mac, a trav\u00e9s de su sistema operativo OS X. El problema en m\u00f3viles no depende de Apple pero s\u00ed afecta a sus dispositivos, ya que se trata de una...",
+        "onemorething.nl/2015/04/langverwachte-nieuwe-ipod-in-september-one-more-thing": {
+            "title": "'Langverwachte nieuwe iPod in september'- One More Thing...",
+            "snippet": "One More Thing'Langverwachte nieuwe iPod in september'One More ThingHet is op moment van schijven is de introductie van de vijfde generatie iPod Touch maar liefst 920 dagen geleden. Hoog tijd voor een nieuwe dus. Volgens inside info die AppleInsider...",
             "date": "2015-04-23",
-            "categories": "ipod,iphone,ipad",
-            "tags": "trata,s\u00ed,s\u00ed-afecta,afecta,afecta-sus-dispositivos,dispositivos,problema-en-m\u00f3viles,m\u00f3viles,m\u00f3viles-no-depende,depende,trav\u00e9s,sistema,sistema-operativo,operativo,computadores,ipod,ipod_touch,touch,vulnerabilidades,vulnerabilidades-afectan,vulnerabilidades-afectan-productos,afectan,afectan-productos,afectan-productos-m\u00f3viles,productos,productos-m\u00f3viles,apple,ios,iphone,ipad,mac",
-            "recuweb_url": "http://es.recuweb.com/ipad/elpais.com.uy/2015/04/fallas-en-los-equipos-de-la-compa%C3%B1%C3%ADa-apple",
+            "categories": "ipod",
+            "tags": "touch,ipod",
+            "recuweb_url": "http://es.recuweb.com/ipod/onemorething.nl/2015/04/langverwachte-nieuwe-ipod-in-september-one-more-thing",
+            "resource_url": "http://news.google.es/?hl=es&q=ipod%2Bipod&output=atom&nord=1",
+            "source_url": "http://onemorething.nl/2015/04/langverwachte-nieuwe-ipod-in-september/"
+        },
+        "appleinsider.com/2015/04/apple-s-dwindling-ipod-lineup-to-see-long-awaited-refresh-this": {
+            "title": "Apple's dwindling iPod lineup to see long-awaited refresh this year - Apple Insider...",
+            "snippet": "Apple InsiderApple's dwindling iPod lineup to see long-awaited refresh this yearApple InsiderIf previous iPod touch updates are any indication, it's likely that Apple will recycle parts from previous-generation iPhones. Given that the current iPod...",
+            "date": "2015-04-23",
+            "categories": "ipod",
+            "tags": "that,apple,ipod,touch,generation",
+            "recuweb_url": "http://es.recuweb.com/ipod/appleinsider.com/2015/04/apple-s-dwindling-ipod-lineup-to-see-long-awaited-refresh-this",
+            "resource_url": "http://news.google.es/?hl=es&q=ipod%2Bipod&output=atom&nord=1",
+            "source_url": "http://appleinsider.com/articles/15/04/23/apples-dwindling-ipod-lineup-to-see-long-awaited-refresh-this-year"
+        },
+        "autocasion.com/2015/04/nissan-note-5p-90cv-acenta-con-pack-sport": {
+            "title": "NISSAN Note 5P. 90CV ACENTA ACENTA CON PACK SPORT...",
+            "snippet": "Control de velocidad, elevalunas el\u00e9ctricos delanteros y traseros, mandos equipo de audio en el volante, manos libres Bluetooth, aire acondicionado, conexi\u00f3n iPod, conexi\u00f3n jac, puerto USB, espejos retrovisores de regulaci\u00f3n el\u00e9ctrica, llantas...",
+            "date": "2015-04-23",
+            "categories": "ipod",
+            "tags": "ipod",
+            "recuweb_url": "http://es.recuweb.com/ipod/autocasion.com/2015/04/nissan-note-5p-90cv-acenta-con-pack-sport",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=es",
-            "source_url": "http://elpais.com.uy/vida-actual/detectan-fallas-equipos-compania-apple.html"
+            "source_url": "http://autocasion.com/coches-segunda-mano/nissan-note-ocasion/5p-1-5dci-90cv-acenta-acenta-con-pack-sport-ref2390334"
+        },
+        "webnews.it/2015/04/un-nuovo-ipod-touch-entro-la-fine-del-2015-webnews": {
+            "title": "Un nuovo iPod Touch entro la fine del 2015 - Webnews...",
+            "snippet": "WebnewsUn nuovo iPod Touch entro la fine del 2015WebnewsGli iPod non sono morti, non almeno le versioni pi\u00f9 tecnologiche. Sembra che Apple sia intenzionata a rilasciare una nuova versione di iPod Touch entro la fine del 2015, cos\u00ec da aggiornare la...",
+            "date": "2015-04-23",
+            "categories": "ipod",
+            "tags": "ipod,ipod_touch,touch,apple",
+            "recuweb_url": "http://es.recuweb.com/ipod/webnews.it/2015/04/un-nuovo-ipod-touch-entro-la-fine-del-2015-webnews",
+            "resource_url": "http://news.google.es/?hl=es&q=ipod%2Bipod&output=atom&nord=1",
+            "source_url": "http://webnews.it/2015/04/23/nuovo-ipod-touch-fine-2015/"
         },
         "gospelherald.com/2015/04/ipod-touch-6th-generation-release-date-fans-still-hoping-for-fall": {
             "title": "iPod Touch 6th Generation Release Date: Fans Still Hoping for Fall... - Gospel Herald...",
             "snippet": "Gospel HeraldiPod Touch 6th Generation Release Date: Fans Still Hoping for Fall...Gospel HeraldThough Apple's iPod Touch 6th Generation failed to materialize last year, the rumor mill continues to speculate a September 2015 release date. Initially,...",
             "date": "2015-04-23",
             "categories": "ipod",
-            "tags": "apple,touch,ipod,ipod_touch",
+            "tags": "apple,touch,herald,generation,ipod,ipod_touch",
             "recuweb_url": "http://es.recuweb.com/ipod/gospelherald.com/2015/04/ipod-touch-6th-generation-release-date-fans-still-hoping-for-fall",
             "resource_url": "http://news.google.es/?hl=es&q=ipod&output=atom&nord=1",
             "source_url": "http://gospelherald.com/articles/55222/20150422/ipod-touch-6th-generation-release-date-fans-still-hoping-fall-launch.htm"
+        },
+        "itavisen.no/2015/04/ipod-gjenopplives-i-%C3%A5r": {
+            "title": "iPod gjenopplives i \u00e5r -...",
+            "snippet": "iPod gjenopplives i \u00e5r Ingen andre detaljer ble avsl\u00f8rt, men det skal alts\u00e5 v\u00e6re snakk om flere modeller, og ikke bare Touch. iPod Touch, femte generasjon med Apple A5-brikkesett (iPhone 4s), ble sist oppdatert i oktober 2012, s\u00e5 det er...",
+            "date": "2015-04-23",
+            "categories": "ipod,iphone",
+            "tags": "ipod,touch,apple,iphone",
+            "recuweb_url": "http://es.recuweb.com/iphone/itavisen.no/2015/04/ipod-gjenopplives-i-%C3%A5r",
+            "resource_url": "http://news.google.es/?hl=es&q=ipod%2Bipod&output=atom&nord=1",
+            "source_url": "http://itavisen.no/nyheter/\u2013-ipod-gjenopplives-i-\u00e5r-383378"
         },
         "emol.com/2015/04/alertan-de-problemas-seguridad-en-computadores-y-m%C3%B3viles-apple": {
             "title": "Alertan de problemas de seguridad en computadores y m\u00f3viles de Apple...",
             "snippet": "Las vulnerabilidades afectan a productos m\u00f3viles iOS (iPhone, iPad, iPod Touch) y computadores Mac, a trav\u00e9s de su sistema operativo OS X. El problema en m\u00f3viles no depende de Apple pero s\u00ed afecta a sus dispositivos, ya que se trata de una...",
             "date": "2015-04-22",
             "categories": "ipod,iphone,ipad",
-            "tags": "trata,s\u00ed,s\u00ed-afecta,afecta,afecta-sus-dispositivos,dispositivos,problemas,problema-en-m\u00f3viles,m\u00f3viles,m\u00f3viles-no-depende,depende,trav\u00e9s,sistema,sistema-operativo,operativo,computadores,ipod,ipod_touch,touch,vulnerabilidades,vulnerabilidades-afectan,vulnerabilidades-afectan-productos,afectan,afectan-productos,afectan-productos-m\u00f3viles,productos,productos-m\u00f3viles,apple,ios,iphone,ipad,mac",
+            "tags": "s\u00ed,dispositivos,sistema,sistema-operativo,operativo,ipod,ipod_touch,touch,apple,ios,iphone,ipad",
             "recuweb_url": "http://es.recuweb.com/ipad/emol.com/2015/04/alertan-de-problemas-seguridad-en-computadores-y-m%C3%B3viles-apple",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=es",
             "source_url": "http://emol.com/noticias/tecnologia/2015/04/22/713728/alertan-de-problemas-de-seguridad-en-computadores-y-moviles-de-apple.html"
@@ -45,70 +86,30 @@
             "snippet": "Los afectados ser\u00e1nlos iPhone, iPad y iPod Touch con sistema operativo inferior a iOS 7 y los Apple TV y Google TV de primera y segunda generaci\u00f3n. El sitio web oficial del servicio dio a conocer una nueva actualizaci\u00f3n de la interfaz de su...",
             "date": "2015-04-22",
             "categories": "ipod,iphone,ipad,google",
-            "tags": "oficial,conocer,generaci\u00f3n,sistema,sistema-operativo,operativo,ipod,ipod_touch,touch,dispositivos,app,iphone,ipad,ios,apple",
+            "tags": "oficial,conocer,generaci\u00f3n,sistema,sistema-operativo,operativo,ipod,ipod_touch,touch,dispositivos,app,youtube,iphone,ipad,ios,apple",
             "recuweb_url": "http://es.recuweb.com/google/capital.cl/2015/04/app-de-youtube-dejar%C3%A1-funcionar-en-dispositivos-antiguos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=es",
             "source_url": "http://capital.cl/negocios/2015/04/22/050432-app-de-youtube-dejara-de-funcionar-en-dispositivos-antiguos"
+        },
+        "miamiherald.com/2015/04/man-stabbed-in-south-beach-over-an-ipod-miami-herald": {
+            "title": "Man stabbed in South Beach over an iPod - Miami Herald...",
+            "snippet": "Man stabbed in South Beach over an iPodMiami HeraldA man was stabbed in the 200 block of 14th Street in Miami Beach early Wednesday morning. According to Miami Beach police, the incident occurred just after 4 a.m. The victim, who has not been...",
+            "date": "2015-04-22",
+            "categories": "ipod",
+            "tags": "miami,miami_beach,beach,man,stabbed,herald,ipod,early,wednesday,morning",
+            "recuweb_url": "http://es.recuweb.com/ipod/miamiherald.com/2015/04/man-stabbed-in-south-beach-over-an-ipod-miami-herald",
+            "resource_url": "http://news.google.es/?hl=es&q=ipod%2Bipod&output=atom&nord=1",
+            "source_url": "http://miamiherald.com/news/local/community/miami-dade/miami-beach/article19225686.html"
         },
         "local10.com/2015/04/man-stabbed-in-apparent-dispute-over-ipod-miami-beach-local-10": {
             "title": "Man stabbed in apparent dispute over iPod in Miami Beach - Local 10...",
             "snippet": "Local 10Man stabbed in apparent dispute over iPod in Miami BeachLocal 10A man is stabbed in an apparent dispute over an iPod in Miami Beach early Wednesday morning. Show Transcript Hide Transcript. MOVING INTO OUR AREA. I HAVE A LOT MORE ON THAT...",
             "date": "2015-04-22",
             "categories": "ipod",
-            "tags": "that,ipod",
+            "tags": "that,man,stabbed,miami,miami_beach,beach,ipod,early,wednesday,morning",
             "recuweb_url": "http://es.recuweb.com/ipod/local10.com/2015/04/man-stabbed-in-apparent-dispute-over-ipod-miami-beach-local-10",
             "resource_url": "http://news.google.es/?hl=es&q=ipod&output=atom&nord=1",
             "source_url": "http://local10.com/news/man-stabbed-in-apparent-dispute-over-ipod-in-miami-beach/32507902"
-        },
-        "dailymail.co.uk/2015/04/nurse-found-doctor-s-naked-photos-of-patients-while-scrolling-daily": {
-            "title": "Nurse 'found doctor's naked photos of patients while scrolling... - Daily Mail...",
-            "snippet": "Daily MailNurse 'found doctor's naked photos of patients while scrolling...Daily MailYesterday, the Medical Practitioners'Tribunal in Manchester heard that Miss White saw the pictures on the iPod in April 2013 at a leaving party for a member of...",
-            "date": "2015-04-22",
-            "categories": "ipod",
-            "tags": "that,patients,ipod",
-            "recuweb_url": "http://es.recuweb.com/ipod/dailymail.co.uk/2015/04/nurse-found-doctor-s-naked-photos-of-patients-while-scrolling-daily",
-            "resource_url": "http://news.google.es/?hl=es&q=ipod&output=atom&nord=1",
-            "source_url": "http://dailymail.co.uk/news/article-3050266/Doctor-s-secret-naked-pictures-patients-discovered-nurse-scrolling-photo-library-work-night-out.html"
-        },
-        "es.kioskea.net/2015/04/qu%C3%A9-hacer-si-la-c%C3%A1mara-frontal-de-tu-iphone-ipad-ipod": {
-            "title": "Qu\u00e9 hacer si la c\u00e1mara frontal de tu iPhone/iPad/iPod no abre...",
-            "snippet": "Algunos usuarios de dispositivos iOS (iPhone, iPad o iPod Touch) tienen problemas al querer tomar fotos con la c\u00e1mara frontal de sus dispositivos, ya sea porque la c\u00e1mara no abre o porque aparece una pantalla negra. En ciertos casos, el problema...",
-            "date": "2015-04-22",
-            "categories": "iphone,ipad,ipod",
-            "tags": "problemas,dispositivos,iphone,ipad,ipod,ios,touch",
-            "recuweb_url": "http://es.recuweb.com/ipod/es.kioskea.net/2015/04/qu%C3%A9-hacer-si-la-c%C3%A1mara-frontal-de-tu-iphone-ipad-ipod",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=es",
-            "source_url": "http://es.kioskea.net/faq/21621-que-hacer-si-la-camara-frontal-de-tu-iphone-ipad-ipod-no-abre"
-        },
-        "madridhifi.com/2015/04/yamaha-mcr-b142-naranja-microcadena-cd": {
-            "title": "YAMAHA MCR-B142 Naranja Microcadena CD...",
-            "snippet": "Reproduce m\u00fasica desde numerosas fuentes: CD, iPod/iPhone, iPad (v\u00eda USB), USB, radio y una entrada auxiliar para otras fuentes. Pr\u00e1ctica funci\u00f3n IntelliAlarm para la vida diaria. Una aplicaci\u00f3n especial que permite un control m\u00e1s f\u00e1cil de la...",
-            "date": "2015-04-22",
-            "categories": "radio,ipod,iphone,ipad",
-            "tags": "f\u00e1cil,m\u00fasica,ipod,iphone,ipad",
-            "recuweb_url": "http://es.recuweb.com/ipad/madridhifi.com/2015/04/yamaha-mcr-b142-naranja-microcadena-cd",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=es",
-            "source_url": "http://madridhifi.com/p/yamaha-mcr-b142-naranja-microcadena-cd/"
-        },
-        "mirror.co.uk/2015/04/angry-ex-girlfriend-tried-to-strangle-former-partner-with-ipod-lead": {
-            "title": "Angry ex-girlfriend tried to strangle former partner with iPod lead... -...",
-            "snippet": "ex-girlfriend tried to strangle former partner with iPod lead... angry ex-girlfriend has been spared jail after she tried to strangle her former partner with an iPod lead. Chef Ann Malsbury, 22, also battered Lee Judson, 21, with a saucepan and...",
-            "date": "2015-04-21",
-            "categories": "ipod",
-            "tags": "ipod",
-            "recuweb_url": "http://es.recuweb.com/ipod/mirror.co.uk/2015/04/angry-ex-girlfriend-tried-to-strangle-former-partner-with-ipod-lead",
-            "resource_url": "http://news.google.es/?hl=es&q=ipod&output=atom&nord=1",
-            "source_url": "http://mirror.co.uk/news/uk-news/angry-ex-girlfriend-tried-strangle-former-5562446"
-        },
-        "wtnh.com/2015/04/recycle-ipod-to-help-dementia-patients-wtnh": {
-            "title": "Recycle iPod to help dementia patients - WTNH...",
-            "snippet": "WTNHRecycle iPod to help dementia patientsWTNHMINEOLA, N.Y., (WTNH) There's a unique way you can make a difference in the life of someone who suffers from Alzheimer's Disease or dementia. All it involves is donating your old iPod or other digital...",
-            "date": "2015-04-21",
-            "categories": "ipod",
-            "tags": "patients,ipod",
-            "recuweb_url": "http://es.recuweb.com/ipod/wtnh.com/2015/04/recycle-ipod-to-help-dementia-patients-wtnh",
-            "resource_url": "http://news.google.es/?hl=es&q=ipod&output=atom&nord=1",
-            "source_url": "http://wtnh.com/2015/04/21/recycle-ipod-to-help-dementia-patients/"
         }
     }
 }

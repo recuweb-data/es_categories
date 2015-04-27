@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "beisbol",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/beisbol/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/beisbol/beisbol/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/urbano-lugo-preferir%C3%ADa-alargar-la-temporada-de-b%C3%A9isbol": {
+            "title": "Urbano Lugo preferir\u00eda alargar la temporada de b\u00e9isbol...",
+            "snippet": "El exlanzador de los Leones del Caracas Urbano Lugo confes\u00f3 que \u00e9l es de la vieja escuela y, ante el cambio de formato de la Liga Venezolana de B\u00e9isbol Profesional, hubiera preferido una semifinal de cuatro equipos y una final de 9:...",
+            "date": "2015-04-24",
+            "author_name": "Globovision",
+            "categories": "beisbol,escuela",
+            "tags": "b\u00e9isbol,profesional,liga,temporada,temporada-de-b\u00e9isbol",
+            "recuweb_url": "http://es.recuweb.com/escuela/dailymotion.com/2015/04/urbano-lugo-preferir%C3%ADa-alargar-la-temporada-de-b%C3%A9isbol",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nt2yx_urbano-lugo-preferiria-alargar-la-temporada-de-beisbol_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nt2yx_urbano-lugo-preferiria-alargar-la-temporada-de-beisbol_news"
+        },
         "dailymotion.com/2015/04/arranca-en-eeuu-la-temporada-de-b%C3%A9isbol-sin-grandes-favoritos": {
             "title": "Arranca en EEUU la temporada de b\u00e9isbol sin grandes favoritos...",
             "snippet": "Washington, 6 abr (EFE).- (Imagen: Greg Miller) En el inicio de la temporada 2015 de las Grandes Ligas tiene este a\u00f1o como denominador com\u00fan la falta de un equipo que pueda presentarse como favorito a conseguir el t\u00edtulo de la Serie Mundial.",
             "date": "2015-04-07",
             "author_name": "AgenciaEFE",
             "categories": "beisbol",
-            "tags": "grandes,grandes_ligas,ligas,temporada,b\u00e9isbol",
+            "tags": "grandes,grandes_ligas,ligas,temporada,temporada-de-b\u00e9isbol,b\u00e9isbol",
             "recuweb_url": "http://es.recuweb.com/beisbol/dailymotion.com/2015/04/arranca-en-eeuu-la-temporada-de-b%C3%A9isbol-sin-grandes-favoritos",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol+beisbol/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lx74c_arranca-en-eeuu-la-temporada-de-beisbol-sin-grandes-favoritos_news",
@@ -40,7 +53,7 @@
             "date": "2015-03-20",
             "author_name": "mediotiempo",
             "categories": "futbol,beisbol",
-            "tags": "beisbol",
+            "tags": "liga,beisbol",
             "recuweb_url": "http://es.recuweb.com/beisbol/dailymotion.com/2015/03/yankee-stadium-del-beisbol-al-f%C3%BAtbol",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol+beisbol/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k34zp_yankee-stadium-del-beisbol-al-futbol_sport",
@@ -48,13 +61,13 @@
         },
         "youtube.com/2015/03/peleas-en-el-futbol-vs-del-beisbol": {
             "title": "Peleas en el futbol vs peleas del beisbol...",
-            "snippet": "Peleas en el futbol vs peleas del beisbol aqui una peque\u00f1a comparacion de lo que son las trifulcas en el futbol y en el beisbol siguenos en facebook! From: el tio Guerron Views: 4397 21 ratings Time: 02:31 More in People & Blogs...",
+            "snippet": "Peleas en el futbol vs peleas del beisbol aqui una peque\u00f1a comparacion de lo que son las trifulcas en el futbol y en el beisbol siguenos en facebook! From: el tio Guerron Views: 5457 27 ratings Time: 02:31 More in People & Blogs...",
             "date": "2015-03-12",
             "author_name": "el tio Guerron",
             "categories": "futbol,beisbol,facebook",
             "tags": "beisbol",
             "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2015/03/peleas-en-el-futbol-vs-del-beisbol",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beisbol&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beisbol%2Bbeisbol&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=rO_QLm79J0E&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rO_QLm79J0E/0.jpg"
         },
@@ -64,9 +77,9 @@
             "date": "2015-03-11",
             "author_name": "elnacionalweb",
             "categories": "beisbol",
-            "tags": "b\u00e9isbol,beisbol,baseball,cortes\u00eda,puede,puede-ver,ver,pelota,hace",
+            "tags": "b\u00e9isbol,beisbol,baseball,cortes\u00eda,puede,puede-ver,pelota,hace",
             "recuweb_url": "http://es.recuweb.com/beisbol/dailymotion.com/2015/03/as%C3%AD-es-como-se-hace-desde-cero-una-pelota-de-beisbol",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol+beisbol/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol/0?af=1",
             "source_url": "http://dailymotion.com/video/x2j962i_asi-es-como-se-hace-desde-cero-una-pelota-de-beisbol_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2j962i_asi-es-como-se-hace-desde-cero-una-pelota-de-beisbol_sport"
         },
@@ -88,7 +101,7 @@
             "date": "2015-03-07",
             "author_name": "pplascencia",
             "categories": "beisbol",
-            "tags": "made,made_baseball,baseball,b\u00e9isbol,beisbol_fabricacion,beisbol_fabricacion_how,fabricacion_how,how,hace,pelota,pplascenciatags",
+            "tags": "made,made_baseball,baseball,b\u00e9isbol,beisbol_fabricacion,beisbol_fabricacion_how,fabricacion_how,how,hace,pelota,profesional,pplascenciatags",
             "recuweb_url": "http://es.recuweb.com/beisbol/dailymotion.com/2015/03/realizaci%C3%B3n-de-una-pelota-b%C3%A9isbol-profesional",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ixudy_realizacion-de-una-pelota-de-beisbol-profesional_sport",
@@ -112,23 +125,11 @@
             "date": "2015-02-27",
             "author_name": "elnacionalweb",
             "categories": "beisbol",
-            "tags": "puede,puede-ver,ver,bate,bate-de-b\u00e9isbol,b\u00e9isbol,cortes\u00eda",
+            "tags": "puede,puede-ver,b\u00e9isbol,cortes\u00eda",
             "recuweb_url": "http://es.recuweb.com/beisbol/dailymotion.com/2015/02/vendedor-evita-que-lo-roben-con-un-bate-de-b%C3%A9isbol",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol+beisbol/0?af=1",
             "source_url": "http://dailymotion.com/video/x2i9wte_vendedor-evita-que-lo-roben-con-un-bate-de-beisbol_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2i9wte_vendedor-evita-que-lo-roben-con-un-bate-de-beisbol_news"
-        },
-        "dailymotion.com/2015/02/repele-un-asalto-con-bate-de-b%C3%A9isbol": {
-            "title": "\u00a1Repele un asalto con un bate de b\u00e9isbol!",
-            "snippet": "Este dependiente demostr\u00f3 tener nervios de acero. Resolvi\u00f3 un atraco pegando varios golpes al mostrador con un: estoescrazyTags: Birmingham baseball bate atraco asalto thiefs ladrones viral Posted: 27 February 2015Rating:: 0...",
-            "date": "2015-02-27",
-            "author_name": "estoescrazy",
-            "categories": "beisbol",
-            "tags": "baseball,bate,bate-de-b\u00e9isbol,b\u00e9isbol",
-            "recuweb_url": "http://es.recuweb.com/beisbol/dailymotion.com/2015/02/repele-un-asalto-con-bate-de-b%C3%A9isbol",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/beisbol+beisbol/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2i9b5q_repele-un-asalto-con-un-bate-de-beisbol_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i9b5q_repele-un-asalto-con-un-bate-de-beisbol_news"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "atletismo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/atletismo/",
@@ -16,23 +17,23 @@
             "date": "2015-03-13",
             "author_name": "noticiastvperuana",
             "categories": "atletismo",
-            "tags": "metros,pista,nueva,atletismo",
+            "tags": "pista,nueva,atletismo",
             "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2015/03/youtube-anciano-de-95-a%C3%B1os-bate-r%C3%A9cord-mundial-atletismo",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo+atletismo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jdm3f_youtube-anciano-de-95-anos-bate-record-mundial-de-atletismo_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2jdm3f_youtube-anciano-de-95-anos-bate-record-mundial-de-atletismo_news"
         },
-        "dailymotion.com/2015/02/carrera-de-atletismo": {
-            "title": "Carrera de Atletismo...",
-            "snippet": "Carrera de Atletismo \"Por Amor Al Deporte\"Author: TheBennyMGTags: Posted: 25 February 2015Rating:: 0...",
-            "date": "2015-02-24",
-            "author_name": "TheBennyMG",
-            "categories": "deporte,atletismo",
-            "tags": "deporte,atletismo",
-            "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2015/02/carrera-de-atletismo",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2hxwbi_carrera-de-atletismo_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hxwbi_carrera-de-atletismo_fun"
+        "youtube.com/2015/02/li-campeonato-de-espa%C3%B1a-absoluto-atletismo-en-pista-cubierta-antequera-1": {
+            "title": "LI CAMPEONATO DE ESPA\u00d1A ABSOLUTO DE ATLETISMO EN PISTA CUBIERTA - ANTEQUERA - 1 JORNADA...",
+            "snippet": "LI CAMPEONATO DE ESPA\u00d1A ABSOLUTO DE ATLETISMO EN PISTA CUBIERTA - ANTEQUERA - 1 JORNADA Fecha: Tipo Competici\u00f3n: Pista Cubierta Tipo Campeonato: Campeonato de Espa\u00f1a Individual Descripci\u00f3n: LI Campeonato de Espa\u00f1a Absoluto en Pista Cubierta...",
+            "date": "2015-02-23",
+            "author_name": "Antonio LORENTE MURCIA",
+            "categories": "atletismo",
+            "tags": "pista,atletismo",
+            "recuweb_url": "http://es.recuweb.com/atletismo/youtube.com/2015/02/li-campeonato-de-espa%C3%B1a-absoluto-atletismo-en-pista-cubierta-antequera-1",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=atletismo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=muzWUZF3F6k&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/muzWUZF3F6k/0.jpg"
         },
         "dailymotion.com/2015/02/atletismo-general-vuelve-bolt-la-velocidad": {
             "title": "ATLETISMO: General: Vuelve Bolt, vuelve la velocidad...",
@@ -46,13 +47,37 @@
             "source_url": "http://dailymotion.com/video/x2gz7t4_atletismo-general-vuelve-bolt-vuelve-la-velocidad_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2gz7t4_atletismo-general-vuelve-bolt-vuelve-la-velocidad_sport"
         },
+        "dailymotion.com/2014/10/atletismo-la-sentencia-de-pistorius-podr%C3%ADa-haber-sido-homicidio-culpable-dice": {
+            "title": "Atletismo - La sentencia de Pistorius podr\u00eda haber sido de homicidio culpable, dice una activista...",
+            "snippet": "El atleta sudafricano, sentenciado finalmente a un m\u00e1ximo de cinco a\u00f1os de c\u00e1rcel por homicidio involuntario de su parejaAuthor: Omnisport-espTags: All Sports Pistorius homicidio culpable Olympics Interview activista La sentencia dice Posted: 22...",
+            "date": "2014-10-22",
+            "author_name": "Omnisport-esp",
+            "categories": "atletismo",
+            "tags": "sentencia,dice,olympics,sports,sudafricano,atletismo,pistorius,omnisport,esptags",
+            "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2014/10/atletismo-la-sentencia-de-pistorius-podr%C3%ADa-haber-sido-homicidio-culpable-dice",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28fo1d_atletismo-la-sentencia-de-pistorius-podria-haber-sido-de-homicidio-culpable-dice-una-activista_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28fo1d_atletismo-la-sentencia-de-pistorius-podria-haber-sido-de-homicidio-culpable-dice-una-activista_sport"
+        },
+        "dailymotion.com/2014/10/atletismo-expertos-cuestionan-la-sentencia-a-pistorius-tras-los-comentarios": {
+            "title": "Atletismo - Expertos cuestionan la sentencia a Pistorius tras los comentarios de la jueza...",
+            "snippet": "Julian Knight, experto legal sudafricano, confundido por las explicaciones de MasipaAuthor: Omnisport-espTags: All Sports sentencia Sports News jueza Crimes and Court tras Atletismo Pistorius Paralympics Olympics Posted: 22 October 2014Rating:: 0...",
+            "date": "2014-10-22",
+            "author_name": "Omnisport-esp",
+            "categories": "atletismo",
+            "tags": "olympics,sports,sports_news,sudafricano,julian,julian_knight,knight,jueza,sentencia,atletismo,pistorius,omnisport,esptags,crimes,court",
+            "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2014/10/atletismo-expertos-cuestionan-la-sentencia-a-pistorius-tras-los-comentarios",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28fz64_atletismo-expertos-cuestionan-la-sentencia-a-pistorius-tras-los-comentarios-de-la-jueza_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28fz64_atletismo-expertos-cuestionan-la-sentencia-a-pistorius-tras-los-comentarios-de-la-jueza_sport"
+        },
         "dailymotion.com/2014/09/atletismo-la-sentencia-de-pistorius-es-incorrecta-dice-un-letrado-sudafricano": {
             "title": "Atletismo - La sentencia de Pistorius es incorrecta, dice un letrado sudafricano...",
             "snippet": "Julian Knight: \"Dispar\u00f3 sabiendo que hab\u00eda alguien detr\u00e1s de la puerta, ah\u00ed su culpa\"Author: Omnisport-espTags: All Sports sentencia incorrecta Sports News Crimes and Court letrado Atletismo Posted: 13 September 2014Rating:: 0...",
             "date": "2014-09-13",
             "author_name": "Omnisport-esp",
             "categories": "atletismo",
-            "tags": "sports,sports_news,crimes,sentencia,atletismo,pistorius,omnisport,esptags,court",
+            "tags": "sports,sports_news,crimes,sentencia,julian,julian_knight,knight,dice,sudafricano,atletismo,pistorius,omnisport,esptags,court",
             "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2014/09/atletismo-la-sentencia-de-pistorius-es-incorrecta-dice-un-letrado-sudafricano",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo+atletismo/0?af=1",
             "source_url": "http://dailymotion.com/video/x25vzrh_atletismo-la-sentencia-de-pistorius-es-incorrecta-dice-un-letrado-sudafricano_sport",
@@ -64,7 +89,7 @@
             "date": "2014-09-08",
             "author_name": "Omnisport-esp",
             "categories": "atletismo",
-            "tags": "sports,sentencia,atletismo,pistorius,omnisport,esptags,crimes,court,spanish",
+            "tags": "sports,sentencia,jueza,atletismo,pistorius,omnisport,esptags,crimes,court,spanish",
             "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2014/09/atletismo-el-reality-de-pistorius-expectante-ante-veredicto-final",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo/0?af=1",
             "source_url": "http://dailymotion.com/video/x25gglt_atletismo-el-reality-de-pistorius-expectante-ante-el-veredicto-final_sport",
@@ -72,7 +97,7 @@
         },
         "youtube.com/2014/08/carreras-de-velocidad-en-el-atletismo": {
             "title": "Carreras de velocidad en el Atletismo...",
-            "snippet": "Carreras de velocidad en el Atletismo Las carreras de velocidad se practican de la siguiente forma, conozca detalles en el siguiente video. Sinart Digital, visite nuestro sitio o siguenos en facebook/Sinartcanal13. From: SINARTCanal13 Views: 5513 9...",
+            "snippet": "Carreras de velocidad en el Atletismo Las carreras de velocidad se practican de la siguiente forma, conozca detalles en el siguiente video. Sinart Digital, visite nuestro sitio o siguenos en facebook/Sinartcanal13. From: SINARTCanal13 Views: 5752 9...",
             "date": "2014-08-21",
             "author_name": "SINARTCanal13",
             "categories": "facebook,atletismo",
@@ -96,39 +121,15 @@
         },
         "youtube.com/2014/08/atletismo-extremo-parte-1-deporte-%C3%A9pico": {
             "title": "Atletismo Extremo Parte 1 Deporte \u00c9pico...",
-            "snippet": "Atletismo Extremo Parte 1 Deporte \u00c9pico Enga va! vamos a hacer un poco de ejercicio que os veo mu paraos! Si os ha molao tranquilos que hay segunda parte, y mas larga;) S\u00edgueme en TWITTER! S\u00edgueme... From: ConDosHuevos Views: 68952 2068 ratings...",
+            "snippet": "Atletismo Extremo Parte 1 Deporte \u00c9pico Enga va! vamos a hacer un poco de ejercicio que os veo mu paraos! Si os ha molao tranquilos que hay segunda parte, y mas larga;) S\u00edgueme en TWITTER! S\u00edgueme... From: ConDosHuevos Views: 69298 2078 ratings...",
             "date": "2014-08-04",
             "author_name": "ConDosHuevos",
             "categories": "deporte,atletismo,twitter",
-            "tags": "deporte,atletismo,twitter",
+            "tags": "atletismo,twitter",
             "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2014/08/atletismo-extremo-parte-1-deporte-%C3%A9pico",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=atletismo%2Batletismo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=MtqZ8OgYVYQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/MtqZ8OgYVYQ/0.jpg"
-        },
-        "dailymotion.com/2014/08/200-metros-femenil-campeonato-iberoamericano-de-atletismo-2014": {
-            "title": "200 metros Femenil Campeonato Iberoamericano de Atletismo 2014...",
-            "snippet": "Final de los 200 metros femenil del Campeonato Iberoamericano de Atletismo 2014, Sao Paulo,: edgarmendozaTags: iberoamericano de atletismo Posted: 03 August 2014Rating:: 0...",
-            "date": "2014-08-03",
-            "author_name": "edgarmendoza",
-            "categories": "atletismo",
-            "tags": "iberoamericano,atletismo,metros,edgarmendozatags",
-            "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2014/08/200-metros-femenil-campeonato-iberoamericano-de-atletismo-2014",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo+atletismo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x22pvvp_200-metros-femenil-campeonato-iberoamericano-de-atletismo-2014_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x22pvvp_200-metros-femenil-campeonato-iberoamericano-de-atletismo-2014_sport"
-        },
-        "dailymotion.com/2014/08/tres-oros-y-una-plata-iberoamericano-de-atletismo": {
-            "title": "Tres Oros y una Plata Iberoamericano de Atletismo...",
-            "snippet": "Resumen de la actividad del d\u00eda dos en el Iberoamericano al ganar tres oros y una plata M\u00e9: edgarmendozaTags: Posted: 03 August 2014Rating:: 0...",
-            "date": "2014-08-03",
-            "author_name": "edgarmendoza",
-            "categories": "atletismo",
-            "tags": "iberoamericano,atletismo,edgarmendozatags",
-            "recuweb_url": "http://es.recuweb.com/atletismo/dailymotion.com/2014/08/tres-oros-y-una-plata-iberoamericano-de-atletismo",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/atletismo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x22p7qp_tres-oros-y-una-plata-iberoamericano-de-atletismo_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x22p7qp_tres-oros-y-una-plata-iberoamericano-de-atletismo_sport"
         }
     }
 }

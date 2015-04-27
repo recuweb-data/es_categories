@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "robotica",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/robotica/",
@@ -10,17 +11,29 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/robotica/robotica/blogs.json"
     },
     "items": {
-        "youtube.com/2014/10/estudiantes-bolivianas-ganan-certamen-de-rob%C3%B3tica": {
-            "title": "Estudiantes bolivianas ganan certamen de rob\u00f3tica...",
-            "snippet": "Estudiantes bolivianas ganan certamen de rob\u00f3tica Un par de ni\u00f1as estudiantes bolivianas gan\u00f3 un certamen de rob\u00f3tica patrocinado por el gobierno plurinominal a\u00f1o con a\u00f1o que busca incentivar la investigaci\u00f3n entre la poblaci\u00f3n...",
-            "date": "2014-10-08",
-            "author_name": "teleSUR tv",
+        "youtube.com/2015/04/mexicanos-triunfan-en-concurso-mundial-de-rob%C3%B3tica": {
+            "title": "Mexicanos triunfan en concurso mundial de rob\u00f3tica...",
+            "snippet": "Mexicanos triunfan en concurso mundial de rob\u00f3tica Estudiantes mexicanos del IPN, BUAP y ITS de Poza Rica se llevaron el primer lugar en el concurso m\u00e1s importante de rob\u00f3tica en Europa, conocido como RobotChallenge 2015. 17 abril de 2015...",
+            "date": "2015-04-17",
+            "author_name": "Cadenatres Noticias",
             "categories": "robotica",
-            "tags": "rob\u00f3tica",
-            "recuweb_url": "http://es.recuweb.com/robotica/youtube.com/2014/10/estudiantes-bolivianas-ganan-certamen-de-rob%C3%B3tica",
+            "tags": "primer,lugar,rob\u00f3tica",
+            "recuweb_url": "http://es.recuweb.com/robotica/youtube.com/2015/04/mexicanos-triunfan-en-concurso-mundial-de-rob%C3%B3tica",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=robotica%2Brobotica&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=L_BV3rh2mJY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/L_BV3rh2mJY/0.jpg"
+            "source_url": "http://youtube.com/watch?v=p0n9cQ_i8WA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/p0n9cQ_i8WA/0.jpg"
+        },
+        "youtube.com/2015/01/bienvenida-ingenier%C3%ADa-en-rob%C3%B3tica-2015-cucei": {
+            "title": "Bienvenida Ingenier\u00eda en Rob\u00f3tica 2015 CUCEI...",
+            "snippet": "Bienvenida Ingenier\u00eda en Rob\u00f3tica 2015 CUCEI Curso de inducci\u00f3n 2015A a primera generaci\u00f3n de Ingenier\u00eda en Rob\u00f3tica CUCEI. From: TV CUCEI Views: 1172 12 ratings Time: 13:29 More in People & Blogs...",
+            "date": "2015-01-15",
+            "author_name": "TV CUCEI",
+            "categories": "ingenieria,robotica",
+            "tags": "rob\u00f3tica",
+            "recuweb_url": "http://es.recuweb.com/robotica/youtube.com/2015/01/bienvenida-ingenier%C3%ADa-en-rob%C3%B3tica-2015-cucei",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=robotica%2Brobotica&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=tvkkPAFKGKQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tvkkPAFKGKQ/0.jpg"
         },
         "dailymotion.com/2014/10/cirug%C3%ADa-rob%C3%B3tica-para-redimir-el-c%C3%A1ncer-de-recto": {
             "title": "Cirug\u00eda rob\u00f3tica para redimir el c\u00e1ncer de recto...",
@@ -34,21 +47,9 @@
             "source_url": "http://dailymotion.com/video/x272w30_cirugia-robotica-para-redimir-el-cancer-de-recto_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x272w30_cirugia-robotica-para-redimir-el-cancer-de-recto_tech"
         },
-        "youtube.com/2014/09/2da-copa-internacional-robotica-ipn-2014-catykanal": {
-            "title": "2da copa internacional robotica IPN 2014/Catykanal...",
-            "snippet": "2da copa internacional robotica IPN 2014/Catykanal Un resumen de lo que paso en este concurso de robotica organizada por el Instituto Polit\u00e9cnico Nacional. Pagina web Suscribete gratis: Facebook... From: Caty Kanal Views: 4011 112 ratings Time:...",
-            "date": "2014-09-30",
-            "author_name": "Caty Kanal",
-            "categories": "robotica,facebook",
-            "tags": "paso,robotica",
-            "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2014/09/2da-copa-internacional-robotica-ipn-2014-catykanal",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=robotica%2Brobotica&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=_dYpBc-hOgg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/_dYpBc-hOgg/0.jpg"
-        },
         "youtube.com/2014/09/motorreductor-para-robotica-casero-muy-f%C3%A1cil-homemade-gear-motor-for-robotics": {
             "title": "Motorreductor para robotica casero, muy f\u00e1cil. Homemade gear motor for robotics, very easy.",
-            "snippet": "Motorreductor para robotica casero, muy f\u00e1cil. Homemade gear motor for robotics, very easy. Como hacer un Motoreductor para rob\u00f3tica muy f\u00e1cil, paso... From: Espacio de C\u00e9sar Views: 15728 106 ratings Time: 08:24 More in Science & Technology...",
+            "snippet": "Motorreductor para robotica casero, muy f\u00e1cil. Homemade gear motor for robotics, very easy. Como hacer un Motoreductor para rob\u00f3tica muy f\u00e1cil, paso... From: Espacio de C\u00e9sar Views: 16630 109 ratings Time: 08:24 More in Science & Technology...",
             "date": "2014-09-24",
             "author_name": "Espacio de C\u00e9sar",
             "categories": "robotica",
@@ -60,7 +61,7 @@
         },
         "youtube.com/2014/06/mano-robotica-casera-automatizada-facil-de-hacer": {
             "title": "Mano Robotica Casera Automatizada (Facil de hacer)...",
-            "snippet": "Mano Robotica Casera Automatizada (Facil de hacer) Como se hace una mano robotica casera paso a paso facil de hacer (robot hand) Construcci\u00f3n de la Mano: Servo programar... From: El profe Garc\u00eda Views: 131190 1192 ratings Time: 06:35 More in...",
+            "snippet": "Mano Robotica Casera Automatizada (Facil de hacer) Como se hace una mano robotica casera paso a paso facil de hacer (robot hand) Construcci\u00f3n de la Mano: Servo programar... From: El profe Garc\u00eda Views: 134769 1216 ratings Time: 06:35 More in...",
             "date": "2014-06-04",
             "author_name": "El profe Garc\u00eda",
             "categories": "robotica",
@@ -76,7 +77,7 @@
             "date": "2014-06-02",
             "author_name": "DW_Espanol",
             "categories": "robotica",
-            "tags": "humano,rob\u00f3tica",
+            "tags": "humano,lugar,rob\u00f3tica",
             "recuweb_url": "http://es.recuweb.com/robotica/dailymotion.com/2014/06/inteligencia-artificial-una-f%C3%B3rmula-es-la-base-para-autonom%C3%ADa-rob%C3%B3tica-visi%C3%B3n",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/robotica+robotica/0?af=1",
             "source_url": "http://dailymotion.com/video/x1y1mo5_inteligencia-artificial-una-formula-es-la-base-para-la-autonomia-robotica-vision-futuro_tech",
@@ -88,7 +89,7 @@
             "date": "2014-05-31",
             "author_name": "Jorge A. Robledo",
             "categories": "robotica",
-            "tags": "robotica,science,technology",
+            "tags": "robotica,primer,science,technology",
             "recuweb_url": "http://es.recuweb.com/robotica/youtube.com/2014/05/protesis-robotica-novahand-primer-usuario",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=robotica%2Brobotica&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=OvalNb6Koa8&feature=youtube_gdata",
@@ -126,7 +127,7 @@
             "categories": "tecnologia,ciencia,robotica,videojuego",
             "tags": "rob\u00f3tica",
             "recuweb_url": "http://es.recuweb.com/videojuego/dailymotion.com/2014/04/museo-de-chicago-acerca-el-mundo-la-rob%C3%B3tica-a-grandes",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/robotica+robotica/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/robotica/0?af=1",
             "source_url": "http://dailymotion.com/video/x1qmsbl_museo-de-chicago-acerca-el-mundo-de-la-robotica-a-grandes-y-chicos_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1qmsbl_museo-de-chicago-acerca-el-mundo-de-la-robotica-a-grandes-y-chicos_tech"
         }

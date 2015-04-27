@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "zen",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/zen/",
@@ -16,7 +17,7 @@
             "date": "2015-04-17",
             "author_name": "Dra. Paula Olivencia",
             "categories": "tecnologia,zen",
-            "tags": "nuevas,zen",
+            "tags": "nuevas,zen,app",
             "recuweb_url": "http://es.recuweb.com/zen/cuidatuboca.com/2015/04/zen-dental-estrena-app-dra-olivencia",
             "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cuidatuboca.com/zen-dental-estrena-app/"
@@ -27,7 +28,7 @@
             "date": "2015-04-16",
             "author_name": "Suzanne Powell",
             "categories": "zen",
-            "tags": "\u00fal,zen,abril",
+            "tags": "curso,\u00fal,zen,abril",
             "recuweb_url": "http://es.recuweb.com/zen/suzannepowell.blogspot.com/2015/04/curso-zen-en-santiago-de-chile-con-suzanne-powell-20-26",
             "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://suzannepowell.blogspot.com/2015/04/curso-zen-en-santiago-de-chile-con.html"
@@ -65,16 +66,38 @@
             "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://zenguipuzcoa.blogspot.com/2015/04/carta-de-despedida-como-director-de-la.html"
         },
+        "suzannepowell.blogspot.com/2015/04/expo-guadalajara-m%C3%A9xico-gran-evento-mdu-y-curso-zen": {
+            "title": "Expo Guadalajara, M\u00e9xico: Gran evento MDU y Curso Zen con...",
+            "snippet": "Dar\u00e9 una conferencia el viernes 8 de mayo a las \"Nuevos tiempos, nuevos maestros\" y participar\u00e9 en un panel el d\u00eda 6 de mayo a las con 2 ponentes m\u00e1s. El curso zen: 1 nivel 4, 5, 6 de mayo, 2 nivel 8, 9,...",
+            "date": "2015-04-10",
+            "author_name": "Suzanne Powell",
+            "categories": "zen",
+            "tags": "curso,zen",
+            "recuweb_url": "http://es.recuweb.com/zen/suzannepowell.blogspot.com/2015/04/expo-guadalajara-m%C3%A9xico-gran-evento-mdu-y-curso-zen",
+            "resource_url": "http://www.google.com/search?q=zen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://suzannepowell.blogspot.com/2015/04/expo-guadalajara-mexico-gran-evento-mdu.html"
+        },
         "muycomputer.com/2015/04/posibles-especificaciones-de-la-apu-zen-16-nucleos": {
             "title": "Posibles especificaciones de la APU Zen de 16 nucleos...",
             "snippet": "Fudzilla ha recogido una filtraci\u00f3n en forma de imagen que nos ha dejado ver las posibles especificaciones de las pr\u00f3ximas APUs Zen de 16 n\u00facleos, y lo cierto es que la sorpresa que nos hemos llevado ha sido may\u00fascula.",
             "date": "2015-04-10",
             "author_name": "Isidro Ros",
             "categories": "zen",
-            "tags": "sorpresa,zen,forma,apu,apu_zen,n\u00facleos",
+            "tags": "sorpresa,zen,apu,apu_zen,n\u00facleos,fudzilla",
             "recuweb_url": "http://es.recuweb.com/zen/muycomputer.com/2015/04/posibles-especificaciones-de-la-apu-zen-16-nucleos",
             "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://muycomputer.com/2015/04/10/especificaciones-apu-zen-16-nucleos"
+        },
+        "muycomputer.com/2015/03/apu-zen-con-16-n%C3%BAcleos-y-gpu-memoria-hbm-muycomputer": {
+            "title": "APU Zen con 16 n\u00facleos y GPU con memoria HBM - MuyComputer...",
+            "snippet": "AMD dar\u00eda una enorme sorpresa en 2016 con sus nuevas soluciones de consumo genera, entre las que destacar\u00eda una APU Zen con 16 n\u00facleos.",
+            "date": "2015-03-31",
+            "author_name": "Isidro Ros",
+            "categories": "memoria,zen",
+            "tags": "nuevas,sorpresa,n\u00facleos,apu,apu_zen,zen,amd",
+            "recuweb_url": "http://es.recuweb.com/zen/muycomputer.com/2015/03/apu-zen-con-16-n%C3%BAcleos-y-gpu-memoria-hbm-muycomputer",
+            "resource_url": "http://www.google.com/search?q=zen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/03/31/apu-zen-16-nucleos-hbm"
         },
         "presenciazen.com/2015/03/meditaci%C3%B3n-zen-versus-mindfulness-presencia": {
             "title": "Meditaci\u00f3n Zen versus Mindfulness Presencia Zen...",
@@ -82,7 +105,7 @@
             "date": "2015-03-31",
             "author_name": "Laia Monserrat",
             "categories": "zen",
-            "tags": "experiencia,occidental,zen,meditaci\u00f3n,ahora,barcelona",
+            "tags": "ahora,experiencia,zen,meditaci\u00f3n,barcelona",
             "recuweb_url": "http://es.recuweb.com/zen/presenciazen.com/2015/03/meditaci%C3%B3n-zen-versus-mindfulness-presencia",
             "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://presenciazen.com/meditacion-zen-versus-mindfulness/"
@@ -93,32 +116,10 @@
             "date": "2015-03-29",
             "author_name": "Xabier",
             "categories": "zen",
-            "tags": "maestro,zen,jap\u00f3n",
+            "tags": "momento,zen",
             "recuweb_url": "http://es.recuweb.com/zen/onlainzen.blogspot.com/2015/03/zen-online-la-perpetuada-patra%C3%B1a",
             "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://onlainzen.blogspot.com/2015/03/la-perpetuada-patrana-del-zen.html"
-        },
-        "grupozenbuenosaires.blogspot.com/2015/03/para-el-zen-persona-es-cuerpo-mente-emoci%C3%B3n-y-lenguaje": {
-            "title": "\"Para el zen, persona es cuerpo, mente, emoci\u00f3n y lenguaje, todo...",
-            "snippet": "Para Alberto Silva la sociolog\u00eda y el zen comparten un mismo talante cr\u00edtico. De la sociolog\u00eda aprendi\u00f3 a desviarse del camino trillado y a compartir, a tomar en cuenta a los dem\u00e1s. Vivir en Jap\u00f3n, luego, lo puso delante del...",
-            "date": "2015-03-08",
-            "author_name": "Grupo Zen Buenos Aires",
-            "categories": "lenguaje,zen",
-            "tags": "camino,cuerpo,zen,mente,jap\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/zen/grupozenbuenosaires.blogspot.com/2015/03/para-el-zen-persona-es-cuerpo-mente-emoci%C3%B3n-y-lenguaje",
-            "resource_url": "http://www.google.com/search?q=zen%2Bzen&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://grupozenbuenosaires.blogspot.com/2015/03/para-el-zen-persona-es-cuerpo-mente.html"
-        },
-        "meditacionbudistazen.blogspot.com/2015/03/el-foco-de-la-mente-zen-charla-dharma-01-mar-2015": {
-            "title": "EL FOCO DE LA MENTE ZEN Charla Dharma 01/MAR/2015...",
-            "snippet": "EL FOCO DE LA MENTE ZEN Charla Dharma 01/MAR/2015 Rev. Dr. Hyonjin Prajna Cambio continuo es la V\u00eda del Zen, la que transciende todo nombre y etiqueta. Toda forma en el universo es la Esencia vac\u00eda, es Buddha, y toda forma tiene su funci\u00f3n en el...",
-            "date": "2015-03-04",
-            "author_name": "Rev. Dr. Hyonjin Prajna",
-            "categories": "zen",
-            "tags": "forma,mente,zen,mar",
-            "recuweb_url": "http://es.recuweb.com/zen/meditacionbudistazen.blogspot.com/2015/03/el-foco-de-la-mente-zen-charla-dharma-01-mar-2015",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=zen%2Bzen&rss=1&lng=es",
-            "source_url": "http://meditacionbudistazen.blogspot.com/2015/03/el-foco-de-la-mente-zen-charla-dharma.html"
         }
     }
 }

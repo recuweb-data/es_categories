@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "baha\u00edsmo",
+        "language": "es",
+        "updated": "20150427"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/baha\u00edsmo/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/baha%C3%ADsmo/baha%C3%ADsmo/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/baha%C3%ADsmo/baha%C3%ADsmo/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/baha%C3%ADsmo/baha%C3%ADsmo/blogs.json"
+    },
+    "items": {
+        "youtube.com/2015/02/la-historia-de-mois%C3%A9s": {
+            "title": "La historia de Mois\u00e9s...",
+            "snippet": "La historia de Mois\u00e9s Mois\u00e9s es una figura importante para el juda\u00edsmo, el cristianismo, el islam y el baha\u00edsmo, donde se loconoce como profeta, legislador y l\u00edder espiritual. En hebreo su nombre es \"Mosh\u00e9\"... From: Angel Xool Views: 90 0...",
+            "date": "2015-02-24",
+            "author_name": "Angel Xool",
+            "categories": "islam,cristianismo",
+            "recuweb_url": "http://es.recuweb.com/cristianismo/youtube.com/2015/02/la-historia-de-mois%C3%A9s",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=baha%C3%ADsmo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=SsECeiNriOQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/SsECeiNriOQ/0.jpg"
+        }
+    }
+}

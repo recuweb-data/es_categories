@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "fc-barcelona",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/fc-barcelona/",
@@ -10,12 +11,22 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/fc-barcelona/fc-barcelona/blogs.json"
     },
     "items": {
+        "deporteshora.wordpress.com/2015/04/fc-barcelona-2-0-psg-uefa-champions-league": {
+            "title": "FC Barcelona 2 - 0 PSG UEFA Champions League...",
+            "snippet": "Alineaci\u00f3n inicial FC Barcelona: Portero: Marc Andr\u00e9 Ter Stegen Defensas: Jordi Alba, Javier Marcherano, Gerard Piqu\u00e9, Dani Alves Medios: Andr\u00e9s Iniesta, Sergio Busquets, Ivan Rakitic Delanteros: Neymar Jr, Luis Su\u00e1rez, Lionel Messi Paris Saint...",
+            "date": "2015-04-24",
+            "author_name": "gustavomarrerotovar",
+            "tags": "lionel,lionel_messi,messi,luis,ivan,ivan_rakitic,rakitic,andr\u00e9s,gerard,psg,uefa,champions,champions_league,league,barcelona,inicial,neymar",
+            "recuweb_url": "http://es.recuweb.com/deporteshora.wordpress.com/2015/04/fc-barcelona-2-0-psg-uefa-champions-league",
+            "resource_url": "http://es.search.wordpress.com/?q=fc%2Bbarcelona&f=feed&page=1",
+            "source_url": "http://deporteshora.wordpress.com/fc-barcelona-2-0-psg-uefa-champions-league/"
+        },
         "cre.com.ec/2015/04/pep-guardiola-desea-que-fc-barcelona-llegue-a-la-final": {
             "title": "Pep Guardiola desea que FC Barcelona llegue a la Final en Liga de...",
             "snippet": "Munich.- Pep Guardiola lo tiene claro: prefiere evitar al Barcelona, su exequipo, en las semifinales y que le toque enfrentarlo en una hipot\u00e9tica final que se disputar\u00eda en Berl\u00edn, a partido \u00fanico, el pr\u00f3ximo 6 de junio.",
             "date": "2015-04-23",
             "author_name": "Xavier Farah",
-            "tags": "junio,pr\u00f3ximo,evitar,barcelona,final,liga,partido",
+            "tags": "semifinales,barcelona,final,liga,claro,partido",
             "recuweb_url": "http://es.recuweb.com/cre.com.ec/2015/04/pep-guardiola-desea-que-fc-barcelona-llegue-a-la-final",
             "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cre.com.ec/noticia/97835/pep-guardiola-desea-que-fc-barcelona-llegue-a-la-final-en-liga-de-campeones/"
@@ -25,10 +36,20 @@
             "snippet": "FC Barcelona y Valencia se enfrentan este s\u00e1bado 18 de abril en el Camp Nou. El partido corresponde a la 32 jornada de la Liga BBVA y podr\u00e1 verse en vivo a partir de las 16:00/4:00 PM. A continuaci\u00f3n repasamos la gu\u00eda...",
             "date": "2015-04-22",
             "author_name": "FC Barcelona Noticias",
-            "tags": "liga,liga_bbva,bbva,camp,camp_nou,nou,abril,s\u00e1bado,barcelona,valencia,noticias,partido,jornada",
+            "tags": "liga,liga_bbva,bbva,camp,camp_nou,nou,abril,s\u00e1bado,barcelona,valencia,partido,jornada",
             "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/barcelona-vs-valencia-fc-noticias",
             "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fcbarcelonanoticias.com/2015/04/barcelona-vs-valencia-tv-online.html"
+        },
+        "cre.com.ec/2015/04/harry-kane-en-la-mira-del-fc-barcelona-cre-satelital": {
+            "title": "Harry Kane en la mira del FC Barcelona - CRE Satelital...",
+            "snippet": "Barcelona.- Con apenas 21 a\u00f1os, el delantero ingl\u00e9s de los Spurs, Harry Kane, se ha convertido en una de las grandes revelaciones de la presente temporada en la Premier League, con 20 goles que lo acreditan como el...",
+            "date": "2015-04-22",
+            "author_name": "Xavier Farah",
+            "tags": "goles,league,delantero,barcelona,temporada",
+            "recuweb_url": "http://es.recuweb.com/cre.com.ec/2015/04/harry-kane-en-la-mira-del-fc-barcelona-cre-satelital",
+            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cre.com.ec/noticia/97631/harry-kane-en-la-mira-del-fc-barcelona/"
         },
         "fcbarcelonanoticias.com/2015/04/las-posibles-alineaciones-del-fc-barcelona-valencia-liga-bbva": {
             "title": "Las posibles alineaciones del FC Barcelona-Valencia (Liga BBVA...",
@@ -36,10 +57,20 @@
             "date": "2015-04-22",
             "author_name": "FC Barcelona Noticias",
             "categories": "realmadrid",
-            "tags": "nueva,real,real_madrid,madrid,puntos,victoria,victoria-que-pueda,pueda,mantener,enfrenta,s\u00e1bado,liga,liga_bbva,bbva,alineaciones,barcelona,valencia,dos,bar\u00e7a",
+            "tags": "l\u00edder,real,real_madrid,madrid,victoria,mantener,enfrenta,enfrenta-este-s\u00e1bado,s\u00e1bado,liga,liga_bbva,bbva,alineaciones,barcelona,valencia,bar\u00e7a",
             "recuweb_url": "http://es.recuweb.com/realmadrid/fcbarcelonanoticias.com/2015/04/las-posibles-alineaciones-del-fc-barcelona-valencia-liga-bbva",
             "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fcbarcelonanoticias.com/2015/04/posibles-alineaciones-barca-valencia-liga.html"
+        },
+        "fcbarcelonanoticias.com/2015/04/agenda-del-fc-barcelona-semana-20-al-26-de-abril": {
+            "title": "Agenda del FC Barcelona: semana del 20 al 26 de abril - FC...",
+            "snippet": "El FC Barcelona afronta una semana marcada por la disputa del partido de vuelta de cuartos de final de la Champions League contra el PSG. El martes, los azulgranas buscar\u00e1n en el Camp Nou certificar el pase a las...",
+            "date": "2015-04-19",
+            "author_name": "FC Barcelona Noticias",
+            "tags": "camp,camp_nou,nou,azulgranas,buscar\u00e1n,contra,champions,champions_league,league,afronta,abril,barcelona,partido,final,psg",
+            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/agenda-del-fc-barcelona-semana-20-al-26-de-abril",
+            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fcbarcelonanoticias.com/2015/04/agenda-barca-semana-20-26-abril.html"
         },
         "es.atpworldtour.com/2015/04/marin-cilic-visit%C3%B3-a-ivan-rakitic-el-futbolista-del-fc-barcelona": {
             "title": "Marin Cilic visit\u00f3 a Ivan Rakitic, el futbolista del FC Barcelona - Tenis...",
@@ -47,71 +78,40 @@
             "date": "2015-04-19",
             "author_name": "Equipo ATP",
             "categories": "estrella,tenis,futbol",
-            "tags": "barcelona,f\u00fatbol,equipo",
+            "tags": "barcelona,ivan,ivan_rakitic,rakitic,f\u00fatbol",
             "recuweb_url": "http://es.recuweb.com/futbol/es.atpworldtour.com/2015/04/marin-cilic-visit%C3%B3-a-ivan-rakitic-el-futbolista-del-fc-barcelona",
             "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://es.atpworldtour.com/News/Tennis/2015/04/15/Barcelona-Domingo-Cilic-Rakitic.aspx"
-        },
-        "fcbarcelonanoticias.com/2015/04/del-20-al-26-de-abril-fc-barcelona-noticias": {
-            "title": "del 20 al 26 de abril - FC Barcelona Noticias...",
-            "snippet": "El FC Barcelona afronta una semana marcada por la disputa del partido de vuelta de cuartos de final de la Champions League contra el PSG. El martes, los azulgranas buscar\u00e1n en el Camp Nou certificar el pase a las...",
-            "date": "2015-04-19",
-            "author_name": "FC Barcelona Noticias",
-            "tags": "camp,camp_nou,nou,azulgranas,champions,champions_league,league,vuelta,afronta,barcelona,noticias,abril,partido,cuartos,final,contra,psg,martes",
-            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/del-20-al-26-de-abril-fc-barcelona-noticias",
-            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fcbarcelonanoticias.com/2015/04/agenda-barca-semana-20-26-abril.html"
         },
         "fcbarcelonanoticias.com/2015/04/alineaciones-confirmadas-para-el-partido-fc-barcelona-valencia": {
             "title": "Alineaciones confirmadas para el partido FC Barcelona-Valencia...",
             "snippet": "Ya est\u00e1n confirmadas las alineaciones para el partido entre el FC Barcelona y el Valencia, correspondiente a la 32 jornada de la Liga BBVA 2014-2015. El 11 del Bar\u00e7a contar\u00e1 con Claudio Bravo en la porter\u00eda; Gerard...",
             "date": "2015-04-18",
             "author_name": "FC Barcelona Noticias",
-            "tags": "claudio,claudio_bravo,bravo,liga,liga_bbva,bbva,correspondiente,alineaciones,partido,barcelona,valencia,jornada,bar\u00e7a",
+            "tags": "claudio,claudio_bravo,bravo,liga,liga_bbva,bbva,alineaciones,partido,barcelona,valencia,correspondiente,jornada,bar\u00e7a,gerard",
             "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/alineaciones-confirmadas-para-el-partido-fc-barcelona-valencia",
             "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fcbarcelonanoticias.com/2015/04/alineaciones-fc-barcelona-valencia-liga.html"
+        },
+        "fcbarcelonanoticias.com/2015/04/lista-de-convocados-para-el-partido-fc-barcelona-valencia-liga-j32": {
+            "title": "Lista de convocados para el partido FC Barcelona-Valencia (Liga J32)...",
+            "snippet": "El FC Barcelona se enfrenta este s\u00e1bado contra el Valencia en el Camp Nou (16:00/4:00 PM), en la 32 jornada de la Liga BBVA. Los de Luis Enrique buscar\u00e1n un buen resultado en casa que permita mantener o ampliar la...",
+            "date": "2015-04-18",
+            "author_name": "FC Barcelona Noticias",
+            "tags": "buscar\u00e1n,resultado,mantener,luis,luis_enrique,enrique,liga,liga_bbva,bbva,camp,camp_nou,nou,enfrenta,enfrenta-este-s\u00e1bado,s\u00e1bado,contra,partido,barcelona,valencia,jornada",
+            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/lista-de-convocados-para-el-partido-fc-barcelona-valencia-liga-j32",
+            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fcbarcelonanoticias.com/2015/04/lista-de-convocados-barcelona-valencia.html"
         },
         "deportes.starmedia.com/2015/04/video-resumen-y-goles-partido-fc-barcelona-vs-valencia-liga": {
             "title": "Video resumen y goles partido FC Barcelona vs. Valencia, Liga...",
             "snippet": "Video resumen y goles partido entre FC Barcelona y Valencia por la fecha 32 de la Liga Espa\u00f1ola 2015, disputado este 18 de abril en el Camp Nou.",
             "date": "2015-04-18",
             "author_name": "desconocido",
-            "tags": "camp,camp_nou,nou,abril,fecha,goles,resumen,partido,barcelona,valencia,liga,espa\u00f1ola",
+            "tags": "camp,camp_nou,nou,abril,disputado,goles,resumen,partido,barcelona,valencia,liga",
             "recuweb_url": "http://es.recuweb.com/deportes.starmedia.com/2015/04/video-resumen-y-goles-partido-fc-barcelona-vs-valencia-liga",
             "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://deportes.starmedia.com/futbol/liga-espanola/video-resumen-goles-partido-fc-barcelona-vs-valencia-liga-espanola-2015.html"
-        },
-        "fcbarcelonanoticias.com/2015/04/v%C3%ADdeo-resumen-barcelona-2-valencia-0-fc-noticias": {
-            "title": "V\u00eddeo resumen: Barcelona 2 Valencia 0 - FC Barcelona Noticias...",
-            "snippet": "V\u00eddeo resumen, goles y mejores jugadas del partido FC Barcelona vs Valencia (2-0), correspondiente a la 32 jornada de la Liga BBVA. Los goles de Luis Su\u00e1rez y Leo Messi han dado al equipo azulgrana una trabajada...",
-            "date": "2015-04-18",
-            "author_name": "FC Barcelona Noticias",
-            "tags": "leo,leo_messi,messi,luis,luis_su\u00e1rez,su\u00e1rez,goles,liga,liga_bbva,bbva,correspondiente,goles-mejores,goles-mejores-jugadas,mejores,mejores-jugadas,jugadas,v\u00eddeo,resumen,barcelona,valencia,noticias,partido,jornada,equipo",
-            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/v%C3%ADdeo-resumen-barcelona-2-valencia-0-fc-noticias",
-            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fcbarcelonanoticias.com/2015/04/video-resumen-barcelona-2-valencia-0.html"
-        },
-        "fcbarcelonanoticias.com/2015/04/la-previa-del-partido-fc-barcelona-vs-valencia-liga-bbva-j32": {
-            "title": "La previa del partido: FC Barcelona vs Valencia (Liga BBVA J32...",
-            "snippet": "El FC Barcelona buscar\u00e1 este s\u00e1bado en el Camp Nou una nueva victoria que pueda servirle para mantener o ampliar la ventaja de 2 puntos respecto a un Real Madrid que se enfrenta al M\u00e1laga (20:00/8:00 PM, Canal 1)...",
-            "date": "2015-04-17",
-            "author_name": "FC Barcelona Noticias",
-            "categories": "realmadrid",
-            "tags": "enfrenta,real,real_madrid,madrid,puntos,nueva,victoria,victoria-que-pueda,pueda,mantener,camp,camp_nou,nou,s\u00e1bado,liga,liga_bbva,bbva,partido,barcelona,valencia",
-            "recuweb_url": "http://es.recuweb.com/realmadrid/fcbarcelonanoticias.com/2015/04/la-previa-del-partido-fc-barcelona-vs-valencia-liga-bbva-j32",
-            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fcbarcelonanoticias.com/2015/04/fc-barcelona-vs-valencia-18-04-2015.html"
-        },
-        "fcbarcelonanoticias.com/2015/04/v%C3%ADdeo-resumen-par%C3%ADs-saint-germain-1-fc-barcelona-3-15-04": {
-            "title": "V\u00eddeo resumen: Par\u00eds Saint-Germain 1 FC Barcelona 3 (15/04/2015...",
-            "snippet": "V\u00eddeo resumen, goles y mejores jugadas del partido Par\u00eds Saint-Germain vs FC Barcelona (1-3), correspondiente a la ida de cuartos de final de la Champions League. Victoria importante de los de Luis Enrique, que deber\u00e1n...",
-            "date": "2015-04-15",
-            "author_name": "FC Barcelona Noticias",
-            "tags": "luis,luis_enrique,enrique,importante,champions,champions_league,league,correspondiente,ida,goles,goles-mejores,goles-mejores-jugadas,mejores,mejores-jugadas,jugadas,par\u00eds,par\u00eds_saint,saint,v\u00eddeo,resumen,germain,barcelona,partido,cuartos,final,victoria",
-            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/v%C3%ADdeo-resumen-par%C3%ADs-saint-germain-1-fc-barcelona-3-15-04",
-            "resource_url": "http://www.google.com/search?q=fc%2Bbarcelona%2Bfc%2Bbarcelona&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fcbarcelonanoticias.com/2015/04/video-resumen-paris-st-germain-1.html"
         }
     }
 }

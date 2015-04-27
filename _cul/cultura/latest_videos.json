@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cultura",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura/",
@@ -10,6 +11,30 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura/cultura/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/guaran%C3%ADes-aportan-su-cultura-e-idioma-a-brasil": {
+            "title": "Guaran\u00edes aportan su cultura e idioma a Brasil...",
+            "snippet": "Lo guaran\u00edes han vivido en tierras que pertenecen a Brasil, Paraguay y Argentina; sus aportes a la cultura brasile\u00f1a son evidentes sobre todo en el idioma. teleSURAuthor: teleSUR_tvTags: Noticia Pol\u00edtica Brasil Brasilia Posted: 26 April...",
+            "date": "2015-04-26",
+            "author_name": "teleSUR_tv",
+            "categories": "politica,cultura",
+            "tags": "noticia,pol\u00edtica,cultura,telesur,tvtags",
+            "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/guaran%C3%ADes-aportan-su-cultura-e-idioma-a-brasil",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o2uhx_guaranies-aportan-su-cultura-e-idioma-a-brasil_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o2uhx_guaranies-aportan-su-cultura-e-idioma-a-brasil_news"
+        },
+        "dailymotion.com/2015/04/gast%C3%B3n-ugalde-me-sent%C3%ADa-un-ignorante-de-mi-propia-cultura": {
+            "title": "Gast\u00f3n Ugalde: Me sent\u00eda un ignorante de mi propia cultura...",
+            "snippet": "Gast\u00f3n Ugalde fue un miembro activo de la comunidad hippie de Norteam\u00e9rica entre los a\u00f1os sesenta y setenta. Aunque las vivencias de aquella \u00e9poca marcaron los inicios de sus trabajos art\u00edsticos (influenciados por el movimiento pop,...",
+            "date": "2015-04-25",
+            "author_name": "noticiastvperuana",
+            "categories": "pop,cultura",
+            "tags": "comunidad,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/gast%C3%B3n-ugalde-me-sent%C3%ADa-un-ignorante-de-mi-propia-cultura",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nyclv_gaston-ugalde-me-sentia-un-ignorante-de-mi-propia-cultura_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nyclv_gaston-ugalde-me-sentia-un-ignorante-de-mi-propia-cultura_news"
+        },
         "dailymotion.com/2015/04/rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado": {
             "title": "Rally Dakar 2016: Ministerio de Cultura no ha sido notificado de su realizaci\u00f3n...",
             "snippet": "En un comunicado difundido esta noche en las redes sociales, el sector se\u00f1al\u00f3 que no ha sido notificado sobre las rutas ni el desarrollo del: 24HorasPTVTags: rally dakar rally dakar 2016 ministerio de cultura panamericana televisi\u00f3n 24 horas -...",
@@ -64,7 +89,7 @@
             "date": "2015-04-08",
             "author_name": "teleSUR_tv",
             "categories": "cultura",
-            "tags": "proceso,proceso-de-paz,paz,colombiana,cultura,colombia,telesur",
+            "tags": "comunidad,proceso,proceso-de-paz,paz,colombiana,cultura,colombia,telesur",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/experta-la-cultura-debe-figurar-en-el-proceso-de-paz-colombia",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m2yd9_experta-la-cultura-debe-figurar-en-el-proceso-de-paz-de-colombia_news",
@@ -88,7 +113,7 @@
             "date": "2015-04-08",
             "author_name": "teleSUR_tv",
             "categories": "cultura",
-            "tags": "diego,armando,maradona,internacional,proceso,proceso-de-paz,paz,creadores,colombiana,bogot\u00e1,cumbre,arte,cultura,colombia",
+            "tags": "diego,armando,maradona,internacional,proceso,proceso-de-paz,paz,colombiana,bogot\u00e1,cumbre,arte,cultura,colombia",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/sigue-en-bogot%C3%A1-cumbre-de-arte-y-cultura-por-la-paz",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m3nqd_sigue-en-bogota-cumbre-de-arte-y-cultura-por-la-paz-colombiana_news",
@@ -100,35 +125,11 @@
             "date": "2015-04-07",
             "author_name": "teleSUR_tv",
             "categories": "politica,cultura",
-            "tags": "abril,pr\u00f3ximo,debaten,arte,diversos,diversos-sectores,diversos-sectores-sociales,sectores,sectores-sociales,sociales,cumbre,cumbre_mundial,mundial,avanza,colombia,cultura,paz,telesur",
+            "tags": "pol\u00edtica,arte,sociales,cumbre,colombia,cultura,paz,telesur,tvtags,noticia",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/colombia-avanza-la-cumbre-mundial-de-arte-y-cultura-por-paz",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m03oj_colombia-avanza-la-cumbre-mundial-de-arte-y-cultura-por-la-paz_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m03oj_colombia-avanza-la-cumbre-mundial-de-arte-y-cultura-por-la-paz_news"
-        },
-        "dailymotion.com/2015/04/debaten-en-colombia-papel-del-arte-y-cultura-como-instrumentos": {
-            "title": "Debaten en Colombia papel del arte y cultura como instrumentos de paz...",
-            "snippet": "En Colombia avanza, hasta el pr\u00f3ximo 12 de abril, la llamada Cumbre Mundial del Arte y la Cultura para la Paz. Referentes de diversos sectores sociales del pa\u00eds suramericano debaten sobre el aporte de las disciplinas art\u00edsticas a la estabilidad y...",
-            "date": "2015-04-07",
-            "author_name": "teleSUR_tv",
-            "categories": "cultura",
-            "tags": "diversos,diversos-sectores,diversos-sectores-sociales,sectores,sectores-sociales,sociales,debaten,cumbre,cumbre_mundial,mundial,abril,pr\u00f3ximo,arte,cultura,paz,colombia,avanza",
-            "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/debaten-en-colombia-papel-del-arte-y-cultura-como-instrumentos",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m0doi_debaten-en-colombia-papel-del-arte-y-cultura-como-instrumentos-de-paz_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m0doi_debaten-en-colombia-papel-del-arte-y-cultura-como-instrumentos-de-paz_news"
-        },
-        "dailymotion.com/2015/04/colombia-inicia-en-bogot%C3%A1-la-cumbre-de-arte-y-cultura": {
-            "title": "Colombia: inicia en Bogot\u00e1 la Cumbre de Arte y Cultura por la paz...",
-            "snippet": "Este lunes inicia en Bogot\u00e1 la Cumbre de Arte y Cultura por la paz; esta es la primera vez que este evento se lleva a cabo en la capital de Colombia. El objetivo de este proyecto, en donde participan artistas y creadores de todo el mundo, es...",
-            "date": "2015-04-06",
-            "author_name": "teleSUR_tv",
-            "categories": "cultura",
-            "tags": "creadores,paz,colombia,bogot\u00e1,cumbre,arte,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/colombia-inicia-en-bogot%C3%A1-la-cumbre-de-arte-y-cultura",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lvhbv_colombia-inicia-en-bogota-la-cumbre-de-arte-y-cultura-por-la-paz_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lvhbv_colombia-inicia-en-bogota-la-cumbre-de-arte-y-cultura-por-la-paz_news"
         }
     }
 }

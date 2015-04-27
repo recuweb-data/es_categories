@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "placa-base",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/placa-base/",
@@ -10,108 +11,109 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/placa-base/placa-base/blogs.json"
     },
     "items": {
-        "hardaily.com/2015/03/gigabyte-presenta-la-nueva-serie-de-placas-base-x99-champion": {
-            "title": "GIGABYTE presenta la nueva serie de placas base X99 Champion...",
-            "snippet": "Cuatro nuevas placas base con mayor soporte de frecuencia para memorias con un rendimiento a Nivel de Campeonato Taip\u00e9i (Taiw\u00e1n), 6 de marzo del 2015 GIGABYTE TECHNOLOGY Co. Ltd., l\u00edder en la fabricaci\u00f3n de...",
-            "date": "2015-03-10",
-            "author_name": "Dpto. Redacci\u00f3n y Prensa",
+        "forodvd.com/2015/04/qu%C3%A9-placa-base-comprar-foro-dvd": {
+            "title": "\u00bfQu\u00e9 placa base comprar? - foro DVD...",
+            "snippet": "Hola chicos, necesito una peque\u00f1a ayuda sobre una placa base,es la ASUS E2KM1I-DELUXE es una mini-itx,tiene wifi y le pondria 4 gb de ram, un.",
+            "date": "2015-04-22",
+            "author_name": "baliillazul",
+            "tags": "ram,wifi,mini,necesito,peque\u00f1a,ayuda,placa,base,foro,hola,asus,itx,tiene",
+            "recuweb_url": "http://es.recuweb.com/forodvd.com/2015/04/qu%C3%A9-placa-base-comprar-foro-dvd",
+            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://forodvd.com/tema/150187-que-placa-base-comprar/"
+        },
+        "hardware.tecnogaming.com/2015/04/asus-anuncia-el-soporte-de-nvme-para-sus-placas-base": {
+            "title": "ASUS anuncia el soporte de NVMe para sus placas base...",
+            "snippet": "ASUS anunci\u00f3 oficialmente el soporte de sus placas madre para todos los dispositivos de almacenamiento NVM Express (NVMe) por medio de una simple actualizaci\u00f3n de UEFI BIOS o bien de una tarjeta de expansi\u00f3n...",
+            "date": "2015-04-17",
+            "author_name": "Alejandro Dau",
+            "tags": "tarjeta,uefi,bios,madre,anuncia,asus,placas,base",
+            "recuweb_url": "http://es.recuweb.com/hardware.tecnogaming.com/2015/04/asus-anuncia-el-soporte-de-nvme-para-sus-placas-base",
+            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hardware.tecnogaming.com/2015/04/asus-anuncia-el-soporte-de-nvme-para-sus-placas-base/"
+        },
+        "hardware.tecnogaming.com/2015/04/asus-anuncia-su-placa-base-tuf-trooper-b85-tecnogaming": {
+            "title": "ASUS anuncia su placa base TUF Trooper B85 TecnoGaming...",
+            "snippet": "El chipset de Intel B85 tiene gran aceptaci\u00f3n y brinda un buen rendimiento junto a un costo bienvenido por lo cual varios fabricantes lanzan sus productos basados en el mismo con sus propias modificaciones para hacerlo...",
+            "date": "2015-04-15",
+            "author_name": "Alejandro Dau",
+            "tags": "chipset,tuf,tuf_trooper,trooper,anuncia,asus,placa,base,tecnogaming,intel,tiene,hacerlo",
+            "recuweb_url": "http://es.recuweb.com/hardware.tecnogaming.com/2015/04/asus-anuncia-su-placa-base-tuf-trooper-b85-tecnogaming",
+            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hardware.tecnogaming.com/2015/04/asus-anuncia-su-placa-base-tuf-trooper-b85/"
+        },
+        "hardaily.com/2015/04/an%C3%A1lisis-gigabyte-ga-z97m-ds3h-compacta-placa-base-micro": {
+            "title": "An\u00e1lisis GIGABYTE GA-Z97M-DS3H, compacta placa base Micro...",
+            "snippet": "1. Introducci\u00f3n. Ficha del producto Introducci\u00f3n GIGABYTE posee un pu\u00f1ado interesante de placas base de formato reducido (Micro ATX) para equipos m\u00e1s peque\u00f1os; lo cual no quiere decir precisamente que todos sean...",
+            "date": "2015-04-15",
+            "author_name": "Hardaily Labs.",
+            "tags": "decir,formato,gigabyte,placas,base,micro,atx",
+            "recuweb_url": "http://es.recuweb.com/hardaily.com/2015/04/an%C3%A1lisis-gigabyte-ga-z97m-ds3h-compacta-placa-base-micro",
+            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hardaily.com/analisis-gigabyte-ga-z97m-ds3h-compacta-placa-base-micro-atx-socket-intel-lga-1150-ideal-entornos-trabajo/"
+        },
+        "idamovil.com/2015/04/desmontaje-del-macbook-de-12-pulgadas-muestra-una-peque%C3%B1a": {
+            "title": "Desmontaje del Macbook de 12 pulgadas muestra una peque\u00f1a...",
+            "snippet": "Las fuentes que ha proporcionado estas im\u00e1genes, muestran que la placa base del nuevo Macbook de 12 pulgadas es un 67 por ciento m\u00e1s peque\u00f1a que Macbook Air.",
+            "date": "2015-04-15",
+            "author_name": "javirol",
+            "categories": "macbook",
+            "tags": "peque\u00f1a,nuevo,placa,base",
+            "recuweb_url": "http://es.recuweb.com/macbook/idamovil.com/2015/04/desmontaje-del-macbook-de-12-pulgadas-muestra-una-peque%C3%B1a",
+            "resource_url": "http://www.google.com/search?q=placa%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://idamovil.com/desmontaje-del-macbook-de-12-pulgadas-muestra-una-pequena-placa-base-y-gran-bateria/"
+        },
+        "profesionalreview.com/2015/04/sorteo-placa-base-gigabyte-x99-ud4-profesional-review": {
+            "title": "Sorteo placa base Gigabyte X99-UD4 Profesional Review...",
+            "snippet": "Sorteo de la placa base Gigabyte X99-UD4 para el socket 2011-3, 64 GB de memoria DDR4, 4 way SLI/Crossfire, BIOS UEFI y un excelente precio.",
+            "date": "2015-04-14",
+            "author_name": "MiguePR",
             "categories": "memoria",
-            "tags": "presenta,gigabyte,placas,base",
-            "recuweb_url": "http://es.recuweb.com/memoria/hardaily.com/2015/03/gigabyte-presenta-la-nueva-serie-de-placas-base-x99-champion",
+            "tags": "bios,uefi,memoria,placa,base,gigabyte,socket,ddr,sli",
+            "recuweb_url": "http://es.recuweb.com/memoria/profesionalreview.com/2015/04/sorteo-placa-base-gigabyte-x99-ud4-profesional-review",
             "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hardaily.com/gigabyte-presenta-nueva-serie-placas-base-x99-champion/"
+            "source_url": "http://profesionalreview.com/2015/04/14/sorteo-placa-base-gigabyte-x99-ud4/"
         },
-        "hardware.tecnogaming.com/2015/03/biostar-lanza-una-nueva-placa-base-para-am3-con-acc": {
-            "title": "Biostar lanza una nueva placa base para AM3 con ACC...",
-            "snippet": "Biostar recientemente present\u00f3 su modelo basado en el socket AM3 de AMD, se trata del modelo TA970 Plus que soporta los procesadores AMD FX/Phenom II/Athlon II (de varios n\u00facleos) hasta un TDP de 140W.",
-            "date": "2015-03-09",
+        "hardware.tecnogaming.com/2015/04/biostar-lanza-su-placa-base-h81mdc-lsp-tecnogaming": {
+            "title": "BIOSTAR lanza su placa base H81MDC-LSP TecnoGaming...",
+            "snippet": "Biostar acaba de lanzar su nueva placa madre con formato micro-ATX basado en el chipset de Intel H81 soportando la cuarta generaci\u00f3n de procesadores Intel Core i7 y Core i5 pertenecientes al socket LGA 1150. Soporta...",
+            "date": "2015-04-13",
             "author_name": "Alejandro Dau",
-            "tags": "varios,soporta,procesadores,trata,trata-del-modelo,modelo,nueva,placa,base,socket,amd",
-            "recuweb_url": "http://es.recuweb.com/hardware.tecnogaming.com/2015/03/biostar-lanza-una-nueva-placa-base-para-am3-con-acc",
+            "tags": "intel,intel_core,core,chipset,madre,formato,micro,acaba,nueva,tecnogaming,lanza,placa,base,atx,socket",
+            "recuweb_url": "http://es.recuweb.com/hardware.tecnogaming.com/2015/04/biostar-lanza-su-placa-base-h81mdc-lsp-tecnogaming",
             "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hardware.tecnogaming.com/2015/03/biostar-lanza-una-nueva-placa-base-para-am3-con-acc/"
+            "source_url": "http://hardware.tecnogaming.com/2015/04/biostar-lanza-su-placa-base-h81mdc-lsp/"
         },
-        "hardware.tecnogaming.com/2015/03/gigabyte-revela-su-placa-base-x99-gaming-5p-tecnogaming": {
-            "title": "Gigabyte revela su placa base X99 Gaming 5P TecnoGaming...",
-            "snippet": "Gigabyte sac\u00f3 de su galera una nueva placa base basada en el socket LGA2011 v3 orientada al p\u00fablico entusiasta high-end para gamers. Se trata del modelo X99 Gaming 5P. Su gran atractivo radica en que soporta de...",
-            "date": "2015-03-06",
-            "author_name": "Alejandro Dau",
-            "tags": "soporta,trata,trata-del-modelo,modelo,basada,nueva,gigabyte,placa,base,tecnogaming,socket,lga",
-            "recuweb_url": "http://es.recuweb.com/hardware.tecnogaming.com/2015/03/gigabyte-revela-su-placa-base-x99-gaming-5p-tecnogaming",
-            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hardware.tecnogaming.com/2015/03/gigabyte-revela-su-placa-base-x99-gaming-5p/"
-        },
-        "hardware.tecnogaming.com/2015/03/asrock-anuncia-su-nueva-placa-base-x99-ws-e-tecnogaming": {
-            "title": "ASRock anuncia su nueva placa base X99 WS-E TecnoGaming...",
-            "snippet": "ASRock anunci\u00f3 su m\u00e1s reciente plataforma basada en el chipset de Intel X99, se trata del modelo X99 WS-E compatible con el socket LGA 2011-3 para con los procesadores Intel Core i7 y familia Xeon E5-1600/2600 v3,...",
-            "date": "2015-03-04",
-            "author_name": "Alejandro Dau",
-            "tags": "intel,intel_core,core,procesadores,compatible,trata,trata-del-modelo,modelo,plataforma,basada,chipset,nueva,asrock,placa,base,tecnogaming,socket,lga",
-            "recuweb_url": "http://es.recuweb.com/hardware.tecnogaming.com/2015/03/asrock-anuncia-su-nueva-placa-base-x99-ws-e-tecnogaming",
-            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hardware.tecnogaming.com/2015/03/asrock-anuncia-su-nueva-placa-base-x99-ws-e/"
-        },
-        "pccomponentes.com/2015/03/asrock-980de3-u3s3-rev-2-0-90-mxgwv0-a0uayz-placa-base": {
-            "title": "Asrock 980DE3/U3S3 Rev 2.0 90-MXGWV0-A0UAYZ Placa Base...",
-            "snippet": "Asrock 980DE3/U3S3 Rev 2.0 90-MXGWV0-A0UAYZ Placa Base comprar en tienda online, oferta descuento para venta Asrock 980DE3/U3S3 Rev 2.0 90-MXGWV0-A0UAYZ Placa Base.",
-            "date": "2015-03-03",
-            "author_name": "desconocido",
+        "hard-h2o.com/2015/04/recomendacion-placa-base-hard-h2o": {
+            "title": "Recomendacion Placa Base - Hard-H2o...",
+            "snippet": "hola asunto es que mi cu\u00f1ado tiene que cambiar la placa (Asus M2N68-AM) al equipo pues la fuente le hizo un corto y le fundio la encuentro en la texitura de elejir otra que sea de las mismas...",
+            "date": "2015-04-09",
+            "author_name": "Krokus",
             "categories": "placa-base",
-            "tags": "placa,placa_base,base,asrock",
-            "recuweb_url": "http://es.recuweb.com/placa-base/pccomponentes.com/2015/03/asrock-980de3-u3s3-rev-2-0-90-mxgwv0-a0uayz-placa-base",
+            "tags": "corto,corto-le-fundio,fundio,fundio-la-encuentro,encuentro,texitura,texitura-de-elejir,elejir,equipo,equipo-pues,pues,pues-la-fuente,fuente,asunto,cu\u00f1ado,placa,placa_base,base,hola,tiene,cambiar,asus,hizo,sea",
+            "recuweb_url": "http://es.recuweb.com/placa-base/hard-h2o.com/2015/04/recomendacion-placa-base-hard-h2o",
             "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pccomponentes.com/asrock_980de3_u3s3_rev_2_0.html"
+            "source_url": "http://hard-h2o.com/foros/showthread.php/138365-Recomendacion-Placa-Base"
         },
-        "foro3d.com/2015/02/compro-placa-base-socket-1366-foros-3dpoder": {
-            "title": "Compro Placa base socket 1366 - Foros 3DPoder...",
-            "snippet": "Pues eso, si alguien quiere actualizar plataformam estoy interesado en una placa base con socket 1366, tambien puedo ofrecer cambio por plataforma 115.",
-            "date": "2015-02-27",
-            "author_name": "venonm",
-            "tags": "puedo,cambio,plataforma,placa,base,socket,foros,pues",
-            "recuweb_url": "http://es.recuweb.com/foro3d.com/2015/02/compro-placa-base-socket-1366-foros-3dpoder",
+        "profesionalreview.com/2015/03/previo-msi-lanza-la-primera-placa-base-amd-del-mundo": {
+            "title": "Previo: MSI lanza la primera placa base AMD del mundo con USB 3.1...",
+            "snippet": "MSI, l\u00edder tecnol\u00f3gico en Placas Base, tiene el placer de presentar la primera placa base AMD con USB 3.1 del mundo, la blanca y elegante 970A SLI Krait.",
+            "date": "2015-03-26",
+            "author_name": "MiguePR",
+            "categories": "placer",
+            "tags": "sli,presentar,primera,placas,placa,placas_base,base,lanza,msi,amd,usb,tiene",
+            "recuweb_url": "http://es.recuweb.com/placer/profesionalreview.com/2015/03/previo-msi-lanza-la-primera-placa-base-amd-del-mundo",
             "resource_url": "http://www.google.com/search?q=placa%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://foro3d.com/f36/compro-placa-base-socket-1366-a-120843.html"
-        },
-        "muycomputer.com/2015/02/asus-presenta-placas-base-usb-3-1-muycomputer": {
-            "title": "ASUS presenta placas base USB 3.1 MuyComputer...",
-            "snippet": "ASUS ha presentado placas base USB 3.1 y tarjetas PCIe adicionales para soportar el nuevo est\u00e1ndar de conexi\u00f3n de perif\u00e9ricos.",
-            "date": "2015-02-25",
-            "author_name": "Juan Ranchal",
-            "tags": "nuevo,asus,presenta,placas,base,usb",
-            "recuweb_url": "http://es.recuweb.com/muycomputer.com/2015/02/asus-presenta-placas-base-usb-3-1-muycomputer",
-            "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://muycomputer.com/2015/02/25/placas-base-usb-3-1-asus"
-        },
-        "hard-h2o.com/2015/02/conexiones-ventiladores-y-bomba-a-placa-base-hard-h2o": {
-            "title": "Conexiones ventiladores y bomba a placa base - Hard-H2o...",
-            "snippet": "He estado leyendo varios foros y webs sin llegar a una conclusi\u00f3n clara de a qu\u00e9 conectores de la placa base es recomendado conectar la bomba y los ventiladores. \u00bfBomba a CPU Fan? \u00bfo bien a ChaFan (chasis)?",
-            "date": "2015-02-17",
-            "author_name": "homers",
-            "tags": "cpu,estado,varios,foros,placa,base",
-            "recuweb_url": "http://es.recuweb.com/hard-h2o.com/2015/02/conexiones-ventiladores-y-bomba-a-placa-base-hard-h2o",
-            "resource_url": "http://www.google.com/search?q=placa%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hard-h2o.com/foros/showthread.php/138309-Conexiones-ventiladores-y-bomba-a-placa-base"
+            "source_url": "http://profesionalreview.com/2015/03/26/msi-lanza-la-primera-placa-base-amd-del-mundo-con-usb-3-1/"
         },
         "omicrono.com/2015/02/la-primera-placa-base-con-usb-3-1-omicrono": {
             "title": "La primera placa base con USB 3.1 - Omicrono...",
             "snippet": "Ya tenemos ante nosotros una placa base con USB 3.1, y resulta ser del fabricante ASRock, aunque para ello haya tenido que usar un \"truco\".",
             "date": "2015-02-16",
             "author_name": "Adrian Raya",
-            "tags": "aunque,placa,base,usb,asrock",
+            "tags": "aunque,primera,placa,base,usb,asrock",
             "recuweb_url": "http://es.recuweb.com/omicrono.com/2015/02/la-primera-placa-base-con-usb-3-1-omicrono",
             "resource_url": "http://www.google.com/search?q=placa%2Bbase%2Bplaca%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://omicrono.com/2015/02/placa-base-con-usb-3-1/"
-        },
-        "htcmania.com/2015/02/consulta-placa-base-del-m2-2303-en-aqua-htcmania": {
-            "title": "Consulta Placa Base del M2 2303 en M2 Aqua - HTCMania...",
-            "snippet": "Buenas,tengo una duda: Se me ha roto la pantalla de mi M2 2303 y me han ofrecido un M2 Aqua con placa base pregunta es si podr\u00eda instalar la placa base del 2303 en el M2 Aqua,ya que revisando sus...",
-            "date": "2015-02-13",
-            "author_name": "DrRobotnik",
-            "categories": "placa-base",
-            "tags": "tengo,placa,placa_base,base,buenas",
-            "recuweb_url": "http://es.recuweb.com/placa-base/htcmania.com/2015/02/consulta-placa-base-del-m2-2303-en-aqua-htcmania",
-            "resource_url": "http://www.google.com/search?q=placa%2Bbase&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://htcmania.com/showthread.php?p=17445182"
         }
     }
 }

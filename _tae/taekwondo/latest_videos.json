@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "taekwondo",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/taekwondo/",
@@ -10,117 +11,93 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/taekwondo/taekwondo/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/d%C3%ADa-11-open-de-espa%C3%B1a-taekwondo-1": {
-            "title": "D\u00eda 11 - Open de Espa\u00f1a Taekwondo 1...",
-            "snippet": "D\u00eda 11 - Open de Espa\u00f1a Taekwondo 1 From: PASION MEDIA COMUNICACION - Views: 5513 10 ratings Time: 11:55:02 More in Sports...",
-            "date": "2015-04-12",
-            "author_name": "PASION MEDIA COMUNICACION A.C.-LEYMABASKETENGLISH-",
-            "categories": "taekwondo",
-            "tags": "pasion,pasion_media,pasion_media_comunicacion,comunicacion,espa\u00f1a,espa\u00f1a_taekwondo,taekwondo,d\u00eda,open,sports",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/04/d%C3%ADa-11-open-de-espa%C3%B1a-taekwondo-1",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=p-qp5pOFjg4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/p-qp5pOFjg4/0.jpg"
-        },
-        "youtube.com/2015/04/d%C3%ADa-12-open-de-espa%C3%B1a-taekwondo-2": {
-            "title": "D\u00eda 12 Open de Espa\u00f1a Taekwondo 2...",
-            "snippet": "D\u00eda 12 Open de Espa\u00f1a Taekwondo 2 From: PASION MEDIA COMUNICACION - Views: 4660 9 ratings Time: 11:59:39 More in Sports...",
-            "date": "2015-04-12",
-            "author_name": "PASION MEDIA COMUNICACION A.C.-LEYMABASKETENGLISH-",
-            "categories": "taekwondo",
-            "tags": "pasion,pasion_media,pasion_media_comunicacion,comunicacion,espa\u00f1a,espa\u00f1a_taekwondo,taekwondo,d\u00eda,open,sports",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/04/d%C3%ADa-12-open-de-espa%C3%B1a-taekwondo-2",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=f--6VCRhC50&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/f--6VCRhC50/0.jpg"
-        },
-        "youtube.com/2015/04/d%C3%ADa-12-open-de-espa%C3%B1a-taekwondo-6": {
-            "title": "D\u00eda 12 Open de Espa\u00f1a Taekwondo 6...",
-            "snippet": "D\u00eda 12 Open de Espa\u00f1a Taekwondo 6 From: PASION MEDIA COMUNICACION - Views: 2957 2 ratings Time: 10:16:47 More in Sports...",
-            "date": "2015-04-11",
-            "author_name": "PASION MEDIA COMUNICACION A.C.-LEYMABASKETENGLISH-",
-            "categories": "taekwondo",
-            "tags": "pasion,pasion_media,pasion_media_comunicacion,comunicacion,espa\u00f1a,espa\u00f1a_taekwondo,taekwondo,d\u00eda,open,sports",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/04/d%C3%ADa-12-open-de-espa%C3%B1a-taekwondo-6",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=CcYYAkMXScQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/CcYYAkMXScQ/0.jpg"
-        },
-        "youtube.com/2015/04/d%C3%ADa-11-open-de-espa%C3%B1a-taekwondo-5": {
-            "title": "D\u00eda 11 Open de Espa\u00f1a de Taekwondo 5...",
-            "snippet": "D\u00eda 11 Open de Espa\u00f1a de Taekwondo 5 From: PASION MEDIA COMUNICACION - Views: 3242 9 ratings Time: 11:55:01 More in Sports...",
+        "youtube.com/2015/04/asesinan-a-balazos-maestro-de-taekwondo-en-teapa": {
+            "title": "Asesinan a balazos a maestro de Taekwondo en Teapa...",
+            "snippet": "Asesinan a balazos a maestro de Taekwondo en Teapa From: AlertaTH TabascoHOY Views: 1326 3 ratings Time: 06:06 More in People & Blogs...",
             "date": "2015-04-10",
-            "author_name": "PASION MEDIA COMUNICACION A.C.-LEYMABASKETENGLISH-",
+            "author_name": "AlertaTH TabascoHOY",
             "categories": "taekwondo",
-            "tags": "pasion,pasion_media,pasion_media_comunicacion,comunicacion,d\u00eda,open,espa\u00f1a,taekwondo,sports",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/04/d%C3%ADa-11-open-de-espa%C3%B1a-taekwondo-5",
+            "tags": "taekwondo,people",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/04/asesinan-a-balazos-maestro-de-taekwondo-en-teapa",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=6ohak-3fAhQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/6ohak-3fAhQ/0.jpg"
+            "source_url": "http://youtube.com/watch?v=4vV6_JLP6Os&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/4vV6_JLP6Os/0.jpg"
         },
-        "youtube.com/2015/04/d%C3%ADa-10-open-de-espa%C3%B1a-taekwondo-1-y-exhibici%C3%B3n": {
-            "title": "D\u00eda 10 - Open de Espa\u00f1a Taekwondo 1 y EXHIBICI\u00d3N...",
-            "snippet": "D\u00eda 10 - Open de Espa\u00f1a Taekwondo 1 y EXHIBICI\u00d3N From: PASION MEDIA COMUNICACION - Views: 2924 5 ratings Time: 00:00 More in Sports...",
-            "date": "2015-04-07",
-            "author_name": "PASION MEDIA COMUNICACION A.C.-LEYMABASKETENGLISH-",
+        "youtube.com/2015/02/taekwondo-patadas-b%C3%A1sicas": {
+            "title": "Taekwondo: Patadas b\u00e1sicas...",
+            "snippet": "Taekwondo: Patadas b\u00e1sicas Actualmente, Francisco Garrido imparte clases de taekwondo en Barcelona, en el Esportiu Badrena: En este v\u00eddeo... From: DeportesUncomo Views: 2911 116 ratings Time: 03:51 More in Sports...",
+            "date": "2015-02-17",
+            "author_name": "DeportesUncomo",
             "categories": "taekwondo",
-            "tags": "pasion,pasion_media,pasion_media_comunicacion,comunicacion,espa\u00f1a,espa\u00f1a_taekwondo,taekwondo,d\u00eda,open,sports",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/04/d%C3%ADa-10-open-de-espa%C3%B1a-taekwondo-1-y-exhibici%C3%B3n",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=B_2F8EHXoFI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/B_2F8EHXoFI/0.jpg"
-        },
-        "dailymotion.com/2015/01/taekwondo-nichole-andrade-pide-apoyo-econ%C3%B3mico-para-entrenar-en-argentina": {
-            "title": "Taekwondo: Nichole Andrade pide apoyo econ\u00f3mico para entrenar en Argentina...",
-            "snippet": "La taekwondista Nichole Andrade lucha dentro y fuera del tatami para alcanzar sus sue\u00f1os. Est\u00e1 recolectado dinero para viajar a Argentina y entrenar all\u00e1 con los mejores. Para que llegue lejos en los torneos internacionales, hay que:...",
-            "date": "2015-01-29",
-            "author_name": "noticiastvperuana",
-            "categories": "taekwondo",
-            "tags": "mejores,taekwondo",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/dailymotion.com/2015/01/taekwondo-nichole-andrade-pide-apoyo-econ%C3%B3mico-para-entrenar-en-argentina",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/taekwondo+taekwondo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fydz1_taekwondo-nichole-andrade-pide-apoyo-economico-para-entrenar-en-argentina_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fydz1_taekwondo-nichole-andrade-pide-apoyo-economico-para-entrenar-en-argentina_news"
-        },
-        "youtube.com/2014/11/juegos-centroamericanos-y-del-caribe-veracruz-2014-taekwondo-momentos": {
-            "title": "Juegos Centroamericanos y del Caribe Veracruz 2014, Taekwondo (Momentos)...",
-            "snippet": "Juegos Centroamericanos y del Caribe Veracruz 2014, Taekwondo (Momentos) Algunas de las mejores acciones e los combates celebradas en los Juegos Centro Americanos Centroamericanos y del Caribe Veracruz 2014. From: Sobre Taekwondo Views: 8725 41...",
-            "date": "2014-11-19",
-            "author_name": "Sobre Taekwondo",
-            "categories": "taekwondo",
-            "tags": "mejores,taekwondo",
-            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/11/juegos-centroamericanos-y-del-caribe-veracruz-2014-taekwondo-momentos",
+            "tags": "v\u00eddeo,esportiu,esportiu_badrena,badrena,imparte,imparte-clases,clases,clases-de-taekwondo,taekwondo,francisco,francisco_garrido,garrido,actualmente,barcelona,deportesuncomo,sports",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/02/taekwondo-patadas-b%C3%A1sicas",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo%2Btaekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=9hGMix25Fqk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/9hGMix25Fqk/0.jpg"
+            "source_url": "http://youtube.com/watch?v=0X3wVAJ6S5w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/0X3wVAJ6S5w/0.jpg"
+        },
+        "youtube.com/2015/02/taekwondo-defensa-personal": {
+            "title": "Taekwondo: Defensa personal...",
+            "snippet": "Taekwondo: Defensa personal Actualmente, Francisco Garrido imparte clases de taekwondo en Barcelona, en el Esportiu Badrena: En este v\u00eddeo... From: DeportesUncomo Views: 4097 118 ratings Time: 02:02 More in Sports...",
+            "date": "2015-02-12",
+            "author_name": "DeportesUncomo",
+            "categories": "taekwondo",
+            "tags": "v\u00eddeo,esportiu,esportiu_badrena,badrena,imparte,imparte-clases,clases,clases-de-taekwondo,taekwondo,francisco,francisco_garrido,garrido,actualmente,barcelona,deportesuncomo,sports",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2015/02/taekwondo-defensa-personal",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo%2Btaekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=WtWlS2SNddE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/WtWlS2SNddE/0.jpg"
         },
         "youtube.com/2014/11/tercia-de-oros-para-m%C3%A9xico-en-taekwondo-los-jcc": {
             "title": "Tercia de oros para M\u00e9xico en taekwondo en los JCC...",
-            "snippet": "Tercia de oros para M\u00e9xico en taekwondo en los JCC M\u00e1s VIDEOS en. S\u00edguenos El_UniversalTV, en Facebook ElUniversal TV y en Google ElUniversalTV La delegaci\u00f3n mexicana sum\u00f3 tres oros... From: ElUniversalTV Views: 7391 19 ratings Time: 03:46 More...",
+            "snippet": "Tercia de oros para M\u00e9xico en taekwondo en los JCC M\u00e1s VIDEOS en. S\u00edguenos El_UniversalTV, en Facebook ElUniversal TV y en Google ElUniversalTV La delegaci\u00f3n mexicana sum\u00f3 tres oros y un bronce sobre el tatami. From: ElUniversalTV Views: 8726...",
             "date": "2014-11-17",
             "author_name": "ElUniversalTV",
             "categories": "google,facebook,taekwondo",
             "tags": "taekwondo",
             "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/11/tercia-de-oros-para-m%C3%A9xico-en-taekwondo-los-jcc",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo%2Btaekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=KlxgN2eeWA8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/KlxgN2eeWA8/0.jpg"
         },
         "youtube.com/2014/10/taekwondo-vs-muay-thai-2014-artes-marciales-mixtas": {
             "title": "Taekwondo vs Muay Thai 2014 Artes Marciales Mixtas...",
-            "snippet": "Taekwondo vs Muay Thai 2014 Artes Marciales Mixtas From: Crafteando En Minecraft Views: 49057 472 ratings Time: 04:39 More in People & Blogs...",
+            "snippet": "Taekwondo vs Muay Thai 2014 Artes Marciales Mixtas From: Crafteando En Minecraft Views: 55785 553 ratings Time: 04:39 More in People & Blogs...",
             "date": "2014-10-10",
             "author_name": "Crafteando En Minecraft",
             "categories": "artes-marciales-mixtas,muay-thai,taekwondo",
-            "tags": "taekwondo",
+            "tags": "taekwondo,people",
             "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/10/taekwondo-vs-muay-thai-2014-artes-marciales-mixtas",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=9hHQpP07hp0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/9hHQpP07hp0/0.jpg"
         },
+        "youtube.com/2014/09/entrenamiento-intermitente-taekwondo-itf": {
+            "title": "Entrenamiento intermitente Taekwondo ITF...",
+            "snippet": "Entrenamiento intermitente Taekwondo ITF Javier Reyes cintur\u00f3n negro realizando su trabajo intermitente. Se ve f\u00e1cil. From: PAULO CASTRO MOLINA Views: 6406 22 ratings Time: 04:19 More in People & Blogs...",
+            "date": "2014-09-04",
+            "author_name": "PAULO CASTRO MOLINA",
+            "categories": "taekwondo",
+            "tags": "taekwondo,people",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/09/entrenamiento-intermitente-taekwondo-itf",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=LQhMFPkQ4tQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LQhMFPkQ4tQ/0.jpg"
+        },
+        "youtube.com/2014/08/ejercicio-de-pliometr%C3%ADa-para-ni%C3%B1os-taekwondo-parte-2": {
+            "title": "Ejercicio de pliometr\u00eda para ni\u00f1os de Taekwondo (Parte 2)...",
+            "snippet": "Ejercicio de pliometr\u00eda para ni\u00f1os de Taekwondo (Parte 2) El ejercicio comienza desde la posici\u00f3n de parado a un lado del banco. - Se realiza un salto por encima del banco de ida y regreso. - Doble Bandal... From: Sobre Taekwondo Views: 17757 54...",
+            "date": "2014-08-11",
+            "author_name": "Sobre Taekwondo",
+            "categories": "taekwondo",
+            "tags": "ni\u00f1os,taekwondo",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/08/ejercicio-de-pliometr%C3%ADa-para-ni%C3%B1os-taekwondo-parte-2",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo%2Btaekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=b-StVgIIU6g&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/b-StVgIIU6g/0.jpg"
+        },
         "youtube.com/2014/08/academia-herus-treino-tatico-de-contra-ataque-taekwondo": {
             "title": "ACADEMIA HERUS Treino Tatico de Contra Ataque TAEKWONDO...",
-            "snippet": "ACADEMIA HERUS Treino Tatico de Contra Ataque TAEKWONDO Academia Herus, Taekwondo WTF, Treino de Contra Ataque. From: Lucas Abreu Views: 1460 13 ratings Time: 06:34 More in Sports...",
+            "snippet": "ACADEMIA HERUS Treino Tatico de Contra Ataque TAEKWONDO Academia Herus, Taekwondo WTF, Treino de Contra Ataque. From: Lucas Abreu Views: 2296 22 ratings Time: 06:34 More in Sports...",
             "date": "2014-08-03",
             "author_name": "Lucas Abreu",
             "categories": "taekwondo",
@@ -129,6 +106,30 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=xXzVJpCSAVE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/xXzVJpCSAVE/0.jpg"
+        },
+        "youtube.com/2014/06/ni%C3%B1os-peleando-taekwondo-combate-mortal": {
+            "title": "ni\u00f1os peleando taekwondo combate mortal...",
+            "snippet": "ni\u00f1os peleando taekwondo combate mortal eso fue una mascacre de madrazos q brus lee y van dame ni que nada se dieron con todo estos nenes. From: asviyonder cadillac Views: 22909 51 ratings Time: 01:06 More in People & Blogs...",
+            "date": "2014-06-12",
+            "author_name": "asviyonder cadillac",
+            "categories": "taekwondo",
+            "tags": "ni\u00f1os,taekwondo,people",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/06/ni%C3%B1os-peleando-taekwondo-combate-mortal",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo%2Btaekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=GuttgqRE4oA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/GuttgqRE4oA/0.jpg"
+        },
+        "youtube.com/2014/06/increible-taekwondo-extremo": {
+            "title": "INCREIBLE TAEKWONDO EXTREMO...",
+            "snippet": "INCREIBLE TAEKWONDO EXTREMO Increible Taekwondo extremo de Corea del Norte. Sentir dolor solo con verlo. From: MMMMax Views: 24586 93 ratings Time: 04:29 More in Sports...",
+            "date": "2014-06-06",
+            "author_name": "MMMMax",
+            "categories": "taekwondo",
+            "tags": "taekwondo,sports",
+            "recuweb_url": "http://es.recuweb.com/taekwondo/youtube.com/2014/06/increible-taekwondo-extremo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=taekwondo%2Btaekwondo&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=TvTKBRZmjm0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/TvTKBRZmjm0/0.jpg"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microblogging",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/microblogging/",
@@ -10,103 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/microblogging/microblogging/blogs.json"
     },
     "items": {
-        "laverdadnoticias.com/2015/04/twitter-quiere-ayudarte-a-tomar-selfies-con-su-nuevo-dispositivo-diario": {
-            "title": "Twitter quiere ayudarte a tomar Selfies con su nuevo dispositivo - Diario La Verdad...",
-            "snippet": "Diario La VerdadTwitter quiere ayudarte a tomar Selfies con su nuevo dispositivoDiario La VerdadLa red de microblogging dio a conocer su Twelfie Stick que busca facilitar a los usuarios la forma de tomarse fotograf\u00edas. abr 3, 2015. 13. 0. Cuota.",
-            "date": "2015-04-04",
-            "categories": "fotografia,twitter,microblogging",
-            "tags": "usuarios,twitter,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/laverdadnoticias.com/2015/04/twitter-quiere-ayudarte-a-tomar-selfies-con-su-nuevo-dispositivo-diario",
-            "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
-            "source_url": "http://laverdadnoticias.com/twitter-quiere-ayudarte-a-tomar-selfies-con-su-nuevo-dispositivo/496706/"
-        },
-        "lavozdelpueblo.com.ar/2015/04/el-aniversario-del-conflicto-atl%C3%A1ntico-sur-fue-trend-la-voz-pueblo": {
-            "title": ": El aniversario del conflicto del Atl\u00e1ntico Sur fue trend... - La Voz del Pueblo...",
-            "snippet": "La Voz del: El aniversario del conflicto del Atl\u00e1ntico Sur fue trend...La Voz del PuebloEn esa red de microblogging, el perfil de la banda de reggae \"Nonpalidece\" public\u00f3 una imagen con dos nubes cuyas formas representan a las Malvinas,...",
-            "date": "2015-04-03",
+        "inforegion.com.ar/2015/04/android-tiene-su-aplicaci%C3%B3n-para-escribir-a-mano-inforegi%C3%B3n": {
+            "title": "Android tiene su aplicaci\u00f3n para escribir a mano - InfoRegi\u00f3n...",
+            "snippet": "Android tiene su aplicaci\u00f3n para escribir a manoInfoRegi\u00f3nTwitter cumple 7 a\u00f1os. La red social de microblogging naci\u00f3 el 21 de marzo de 2006 en San Francisco, California, como un proyecto de investigaci\u00f3n de un peque\u00f1o... YouTube alcanz\u00f3 los...",
+            "date": "2015-04-25",
             "categories": "microblogging",
-            "tags": "cuyas,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/lavozdelpueblo.com.ar/2015/04/el-aniversario-del-conflicto-atl%C3%A1ntico-sur-fue-trend-la-voz-pueblo",
-            "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
-            "source_url": "http://lavozdelpueblo.com.ar/nota-25775-malvinas-tendencia-en-las-redes-en-argentina"
-        },
-        "noticiaaldia.com/2015/04/midecretoparaobama-se-ubic%C3%B3-como-primer-tt-mundial-en-twitter-noticia-al": {
-            "title": "MiDecretoParaObama se ubic\u00f3 como primer TT mundial en Twitter - Noticia al Dia...",
-            "snippet": "Noticia al DiaMiDecretoParaObama se ubic\u00f3 como primer TT mundial en TwitterNoticia al DiaCabe destacar que la etiqueta lleg\u00f3 hasta las menciones. Despu\u00e9s de las 6:00 de la tarde la tendencia empez\u00f3 a bajar en la red de microblogging y hacia las...",
-            "date": "2015-04-02",
-            "categories": "twitter,microblogging",
-            "tags": "tarde,tendencia,primer,twitter,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/noticiaaldia.com/2015/04/midecretoparaobama-se-ubic%C3%B3-como-primer-tt-mundial-en-twitter-noticia-al",
+            "tags": "social,tiene,aplicaci\u00f3n,mano,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/inforegion.com.ar/2015/04/android-tiene-su-aplicaci%C3%B3n-para-escribir-a-mano-inforegi%C3%B3n",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging%2Bmicroblogging&output=atom&nord=1",
-            "source_url": "http://noticiaaldia.com/2015/04/midecretoparaobama-se-ubico-como-primer-tt-mundial-en-twitter/"
+            "source_url": "http://inforegion.com.ar/noticia/131524/android-tiene-su-aplicacion-para-escribir-a-mano"
         },
-        "ohmygeek.net/2015/04/curator-la-herramienta-de-twitter-para-filtrar-contenidos-ohmygeek": {
-            "title": "Curator: la herramienta de Twitter para filtrar contenidos - OhMyGeek!",
-            "snippet": "OhMyGeek!Curator: la herramienta de Twitter para filtrar contenidosOhMyGeek!En la red de microblogging tienen claro que la difusi\u00f3n de informaci\u00f3n es uno de los principales usos que le dan los usuarios, por eso lanz\u00f3 Curator. Esta es una...",
-            "date": "2015-04-02",
+        "ohmygeek.net/2015/04/si-amenazas-a-alguien-en-twitter-te-bloquear%C3%A1n-la-cuenta-ohmygeek": {
+            "title": "Si amenazas a alguien en Twitter, te bloquear\u00e1n la cuenta - OhMyGeek!",
+            "snippet": "OhMyGeek!Si amenazas a alguien en Twitter, te bloquear\u00e1n la cuentaOhMyGeek!Si amenazas a alguien en Twitter, te bloquear\u00e1n la cuenta. La red de microblogging anunci\u00f3 nuevas medidas contra quienes usen la plataforma para amenazas o emitir...",
+            "date": "2015-04-24",
             "categories": "twitter,microblogging",
-            "tags": "usuarios,herramienta,curator,twitter,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/ohmygeek.net/2015/04/curator-la-herramienta-de-twitter-para-filtrar-contenidos-ohmygeek",
-            "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
-            "source_url": "http://ohmygeek.net/2015/04/02/twitter-curator/"
-        },
-        "eluniversal.com.mx/2015/04/cierra-con-%C3%A9xito-semana-de-museos-organizada-por-twitter-el-universal": {
-            "title": "Cierra con \u00e9xito semana de museos organizada por Twitter - El Universal...",
-            "snippet": "El UniversalCierra con \u00e9xito semana de museos organizada por TwitterEl UniversalEn su blog oficial, el servicio de microblogging subraya que usuarios del mundo obtuvieron acceso especial a miles de museos y galer\u00edas. Precisa que 600 mil etiquetas...",
-            "date": "2015-04-01",
-            "categories": "twitter,microblogging",
-            "tags": "usuarios,\u00e9xito,twitter,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/eluniversal.com.mx/2015/04/cierra-con-%C3%A9xito-semana-de-museos-organizada-por-twitter-el-universal",
+            "tags": "anunci\u00f3,nuevas,nuevas-medidas,nuevas-medidas-contra,medidas,medidas-contra,contra,plataforma,cuenta,twitter,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/ohmygeek.net/2015/04/si-amenazas-a-alguien-en-twitter-te-bloquear%C3%A1n-la-cuenta-ohmygeek",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging%2Bmicroblogging&output=atom&nord=1",
-            "source_url": "http://eluniversal.com.mx/sociedad/2015/museo-twitter-1089216.html"
+            "source_url": "http://ohmygeek.net/2015/04/24/amenazas-twitter-bloqueo/"
         },
-        "redusers.com/2015/04/twitter-a%C3%B1ade-tuits-patrocinados-en-el-timeline-de-los-usuarios-redusers": {
-            "title": "Twitter a\u00f1ade tuits patrocinados en el timeline de los usuarios - RedUSERS...",
-            "snippet": "RedUSERSTwitter a\u00f1ade tuits patrocinados en el timeline de los usuariosRedUSERSAhora, seg\u00fan cuenta en exclusiva el sitio Re/Code, la red social de microblogging experimenta nuevos mecanismos publicitarios dentro de su entorno. En concreto, Twitter...",
-            "date": "2015-04-01",
-            "categories": "twitter,microblogging",
-            "tags": "social,cuenta,sitio,usuarios,twitter,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/redusers.com/2015/04/twitter-a%C3%B1ade-tuits-patrocinados-en-el-timeline-de-los-usuarios-redusers",
-            "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
-            "source_url": "http://redusers.com/noticias/twitter-anade-tutis-patrocinados-en-el-timeline-de-los-usuarios/"
-        },
-        "wwwhatsnew.com/2015/04/twitter-comienza-a-probar-la-inclusi%C3%B3n-de-tweets-promocionados": {
-            "title": "Twitter comienza a probar la inclusi\u00f3n de tweets promocionados en los perfiles de los usuarios...",
-            "snippet": "La raz\u00f3n es que algunos usuarios de la popular red social de microblogging est\u00e1n comenzando a ver aparecer tweets promocionados en las p\u00e1ginas de perfil de otros usuarios. Con el objetivo de distinguir estos tweets del contenido publicado por el...",
-            "date": "2015-04-01",
-            "categories": "twitter,microblogging",
-            "tags": "est\u00e1n,ver,usuarios,social,twitter,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/wwwhatsnew.com/2015/04/twitter-comienza-a-probar-la-inclusi%C3%B3n-de-tweets-promocionados",
+        "siliconweek.es/2015/04/twitter-ahorra-tiempo-a-los-usuarios-entregando-res%C3%BAmenes-de-contenido": {
+            "title": "Twitter ahorra tiempo a los usuarios entregando res\u00famenes de contenido...",
+            "snippet": "Con la nueva funci\u00f3n de Highlights, la plataforma de microblogging podr\u00e1 entregar notificaciones push un par de veces al d\u00eda que revelen los acontecimientos m\u00e1s destacados. Mientras Facebook ha introducido la aplicaci\u00f3n m\u00f3vil Hello para...",
+            "date": "2015-04-24",
+            "categories": "facebook,twitter,microblogging",
+            "tags": "aplicaci\u00f3n,d\u00eda,destacados,plataforma,nueva,nueva-funci\u00f3n,funci\u00f3n,tiempo,usuarios,twitter,highlights,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/siliconweek.es/2015/04/twitter-ahorra-tiempo-a-los-usuarios-entregando-res%C3%BAmenes-de-contenido",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
-            "source_url": "http://wwwhatsnew.com/2015/04/01/twitter-comienza-a-probar-la-inclusion-de-tweets-promocionados-en-los-perfiles-de-los-usuarios/"
+            "source_url": "http://siliconweek.es/mobility/smartphones/twitter-ahorra-tiempo-a-los-usuarios-entregando-resumenes-de-contenido-79635"
         },
-        "teinteresa.es/2015/04/twitter-presenta-curator-una-herramienta-enfocada-a-los-medios-de-comunicaci%C3%B3n": {
-            "title": "Twitter presenta Curator, una herramienta enfocada a los medios de comunicaci\u00f3n...",
-            "snippet": "Ante el \u00e9xito de Storify, la red de 'microblogging'ha decidido lanzar una herramienta incluso m\u00e1s avanzada que su propio buscador y es que, seg\u00fan la propia p\u00e1gina de la aplicaci\u00f3n, ofrece una mejor anal\u00edtica web que permite medir la audiencia...",
-            "date": "2015-04-01",
+        "elcomercio.pe/2015/04/twitter-presentar%C3%A1-sugerencias-a-sus-usuarios-m%C3%B3viles": {
+            "title": "Twitter presentar\u00e1 sugerencias a sus usuarios m\u00f3viles...",
+            "snippet": "Es por eso que la compa\u00f1\u00eda parece estar probando una nueva funci\u00f3n llamada Highlights (Destacados) mediante la cual el servicio de microblogging compartir\u00e1 dos veces al d\u00eda los tuits m\u00e1s importantes de la jornada. Introducing Highlights.",
+            "date": "2015-04-23",
             "categories": "twitter,microblogging",
-            "tags": "mejor,p\u00e1gina,herramienta,\u00e9xito,twitter,curator,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/teinteresa.es/2015/04/twitter-presenta-curator-una-herramienta-enfocada-a-los-medios-de-comunicaci%C3%B3n",
+            "tags": "d\u00eda,tuits,mediante,compa\u00f1\u00eda,parece,nueva,nueva-funci\u00f3n,funci\u00f3n,usuarios,twitter,highlights,destacados,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/elcomercio.pe/2015/04/twitter-presentar%C3%A1-sugerencias-a-sus-usuarios-m%C3%B3viles",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
-            "source_url": "http://teinteresa.es/tecno/internet/Twitter-Curator-herramienta-enfocada-comunicacion_0_1331267658.html"
+            "source_url": "http://elcomercio.pe/redes-sociales/twitter/twitter-presentara-sugerencias-sus-usuarios-moviles-noticia-1806234?ref=portada_home"
         },
-        "bharatpress.com/2015/04/twitteratis-vent-their-grief-over-sapa-closure-on-micro-blogging-bharat": {
-            "title": "Twitteratis vent their grief over Sapa closure on micro-blogging... - Bharat Press...",
-            "snippet": "Twitteratis vent their grief over Sapa closure on micro-blogging...Bharat PressJohannesburg, Apr 01(ANI): The South African Press Association's announcement of its closure, stating that it might ship its final story on March 31, has elicited a...",
-            "date": "2015-04-01",
-            "recuweb_url": "http://es.recuweb.com/bharatpress.com/2015/04/twitteratis-vent-their-grief-over-sapa-closure-on-micro-blogging-bharat",
+        "elcomercio.pe/2015/04/twitter-un-pueblo-espa%C3%B1ol-gobierna-a-trav%C3%A9s-de-la-red": {
+            "title": "Twitter: un pueblo espa\u00f1ol gobierna a trav\u00e9s de la red - El Comercio...",
+            "snippet": "El ComercioTwitter: un pueblo espa\u00f1ol \"gobierna\" a trav\u00e9s de la redEl ComercioEn la actualidad, la red de microblogging es la principal v\u00eda de comunicaci\u00f3n del pueblo. (Captura: Twitter). Lea Tambi\u00e9n... Critican broma sobre Viuda Negra de Chris...",
+            "date": "2015-04-23",
+            "categories": "twitter,microblogging",
+            "tags": "twitter,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/elcomercio.pe/2015/04/twitter-un-pueblo-espa%C3%B1ol-gobierna-a-trav%C3%A9s-de-la-red",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
-            "source_url": "http://bharatpress.com/2015/04/01/twitteratis-vent-their-grief-over-sapa-closure-on-micro-blogging-platform/"
+            "source_url": "http://elcomercio.pe/redes-sociales/twitter/twitter-pueblo-espanol-gobierna-traves-red-noticia-1806304"
         },
-        "spanish.latinospost.com/2015/04/me-estoy-comiendo-a-tu-ex-un-video-viral-que-caus%C3%B3": {
-            "title": "Me Estoy Comiendo A Tu Ex Un Video Viral Que Caus\u00f3 Reacci\u00f3n... - Latinos Post en Espa\u00f1ol...",
-            "snippet": "Latinos Post en Espa\u00f1olMe Estoy Comiendo A Tu Ex Un Video Viral Que Caus\u00f3 Reacci\u00f3n...Latinos Post en Espa\u00f1olEl video fue colgado en la paltaforma de YouTube y en poco tiempo se convirti\u00f3 en tendencia en la red de microblogging Twitter en...",
-            "date": "2015-04-01",
-            "categories": "microblogging,twitter",
-            "tags": "tiempo,tendencia,red,microblogging,twitter",
-            "recuweb_url": "http://es.recuweb.com/twitter/spanish.latinospost.com/2015/04/me-estoy-comiendo-a-tu-ex-un-video-viral-que-caus%C3%B3",
-            "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
-            "source_url": "http://spanish.latinospost.com/articles/25775/20150401/me-estoy-comiendo-a-tu-ex-un-video-viral-reaccion-twitter.htm"
+        "siliconweek.es/2015/04/as%C3%AD-guerrea-twitter-contra-los-abusos-en-su-plataforma": {
+            "title": "As\u00ed guerrea Twitter contra los abusos en su plataforma...",
+            "snippet": "Entre otras cosas, la red de microblogging se dispondr\u00e1 a bloquear las cuentas de aquella gente que mantenga comportamientos poco deseables. Internet es fuente de grandes beneficios, como la posibilidad de comparar el precio de productos a golpe de...",
+            "date": "2015-04-22",
+            "categories": "twitter,microblogging,internet",
+            "tags": "bloquear,cuentas,contra,plataforma,twitter,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/internet/siliconweek.es/2015/04/as%C3%AD-guerrea-twitter-contra-los-abusos-en-su-plataforma",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
+            "source_url": "http://siliconweek.es/cloud/asi-guerrea-twitter-contra-los-abusos-en-su-plataforma-79438"
+        },
+        "tecnonews.info/2015/04/google-a-por-twitter": {
+            "title": "Google a por Twitter...",
+            "snippet": "El motivo, seg\u00fan afirman los analistas burs\u00e1tiles fue las intenciones de Google de hacerse con la compa\u00f1\u00eda de microblogging. Es por este motivo que Twitter habr\u00eda requerido de los servicios de Goldamn Sachs para poder eludir las propuestas de...",
+            "date": "2015-04-22",
+            "categories": "google,twitter,microblogging",
+            "tags": "compa\u00f1\u00eda,twitter,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/tecnonews.info/2015/04/google-a-por-twitter",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
+            "source_url": "http://tecnonews.info/ebd/5958/Google-a-por-Twitter45958"
+        },
+        "infobae.com/2015/04/twitter-suspender%C3%A1-a-quienes-fomenten-la-violencia-en-red": {
+            "title": "Twitter suspender\u00e1 a quienes \"fomenten la violencia en la red\" -...",
+            "snippet": "suspender\u00e1 a quienes \"fomenten la violencia en la red\" anunci\u00f3 hoy nuevas medidas contra el abuso y la violencia en la red de microblogging, como la puesta en marcha de una funcionalidad que detecta tuits abusivos o la capacidad de bloquear...",
+            "date": "2015-04-22",
+            "categories": "twitter,microblogging",
+            "tags": "puesta,puesta-en-marcha,marcha,funcionalidad,funcionalidad-que-detecta,detecta,detecta-tuits,detecta-tuits-abusivos,tuits,tuits-abusivos,abusivos,abusivos-la-capacidad,capacidad,capacidad-de-bloquear,bloquear,violencia,red,anunci\u00f3,anunci\u00f3-hoy,anunci\u00f3-hoy-nuevas,nuevas,nuevas-medidas,nuevas-medidas-contra,medidas,medidas-contra,contra,contra-el-abuso,abuso,twitter,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/infobae.com/2015/04/twitter-suspender%C3%A1-a-quienes-fomenten-la-violencia-en-red",
+            "resource_url": "http://news.google.es/?hl=es&q=microblogging%2Bmicroblogging&output=atom&nord=1",
+            "source_url": "http://infobae.com/2015/04/21/1723760-twitter-suspendera-quienes-fomenten-la-violencia-la-red"
+        },
+        "lne.es/2015/04/twitter-ya-puede-detectar-tuits-violentos": {
+            "title": "Twitter ya puede detectar tuits violentos...",
+            "snippet": "EFE/Madrid Twitter anunci\u00f3 hoy nuevas medidas contra el abuso y la violencia en la red de microblogging, como la puesta en marcha de una funcionalidad que detecta tuits abusivos o la capacidad de bloquear cuentas de forma temporal. La compa\u00f1\u00eda...",
+            "date": "2015-04-22",
+            "categories": "twitter,microblogging",
+            "tags": "puesta,puesta-en-marcha,marcha,funcionalidad,funcionalidad-que-detecta,detecta,detecta-tuits,detecta-tuits-abusivos,tuits,tuits-abusivos,abusivos,abusivos-la-capacidad,capacidad,capacidad-de-bloquear,bloquear,cuentas,anunci\u00f3,anunci\u00f3-hoy,anunci\u00f3-hoy-nuevas,nuevas,nuevas-medidas,nuevas-medidas-contra,medidas,medidas-contra,contra,contra-el-abuso,abuso,violencia,twitter,red,microblogging,compa\u00f1\u00eda",
+            "recuweb_url": "http://es.recuweb.com/microblogging/lne.es/2015/04/twitter-ya-puede-detectar-tuits-violentos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
+            "source_url": "http://lne.es/vida-y-estilo/tecnologia/2015/04/21/twitter-detectar-tuits-violentos/1744665.html"
+        },
+        "unocero.com/2015/04/enviar-y-recibir-mensajes-directos-sin-seguirse-la-peor-idea": {
+            "title": "Enviar y recibir Mensajes Directos sin seguirse: la peor idea que ha... - unocero...",
+            "snippet": "unoceroEnviar y recibir Mensajes Directos sin seguirse: la peor idea que ha...unoceroEste cambio ha generado varias reacciones entre los usuarios de la red de microblogging, la mayor\u00eda negativas, y es que, a todas luces, esta parece la peor idea...",
+            "date": "2015-04-21",
+            "categories": "microblogging",
+            "tags": "parece,usuarios,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/unocero.com/2015/04/enviar-y-recibir-mensajes-directos-sin-seguirse-la-peor-idea",
+            "resource_url": "http://news.google.es/?hl=es&q=microblogging%2Bmicroblogging&output=atom&nord=1",
+            "source_url": "http://unocero.com/2015/04/21/enviar-y-recibir-mensajes-directos-sin-seguirse-la-peor-idea-que-ha-tenido-twitter/"
         }
     }
 }

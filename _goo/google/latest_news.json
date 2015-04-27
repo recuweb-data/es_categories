@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "google",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/google/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
-        "infobae.com/2015/04/as%C3%AD-son-los-globos-de-google-para-llevar-internet-a-zonas": {
-            "title": "As\u00ed son los globos de Google para llevar internet a zonas poco... -...",
-            "snippet": "\u00ed son los globos de Google para llevar internet a zonas poco... desconoce cu\u00e1ndo Google pondr\u00e1 en marcha el Proyecto Loon, pero lo cierto es que acaba de informar que lograron una mejora en el sistema de fabricaci\u00f3n de los globos, lo cual...",
-            "date": "2015-04-22",
-            "categories": "internet,google",
-            "tags": "internet,google",
-            "recuweb_url": "http://es.recuweb.com/google/infobae.com/2015/04/as%C3%AD-son-los-globos-de-google-para-llevar-internet-a-zonas",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://infobae.com/2015/04/21/1723719-asi-son-los-globos-google-llevar-internet-zonas-poco-pobladas"
-        },
-        "elmundo.es/2015/04/cuestionario-del-d%C3%ADa-de-la-tierra-en-google-qu%C3%A9-animal-eres": {
-            "title": "Cuestionario del D\u00eda de la Tierra en Google: \u00bf'Qu\u00e9 animal eres?'...",
-            "snippet": "Las grandes decisiones que tenemos por delante no corresponden solo a los legisladores y los dirigentes mundiales. Hoy, en este D\u00eda de la Madre Tierra, hago un llamamiento para que todos nosotros seamos conscientes de las consecuencias que...",
-            "date": "2015-04-22",
+        "mexico.cnn.com/2015/04/ejecutivo-de-google-entre-los-alpinistas-muertos-tras-sismo-en-nepal": {
+            "title": "Ejecutivo de Google, entre los alpinistas muertos tras sismo en Nepal - CNN M\u00e9...",
+            "snippet": "CNN M\u00e9 de Google, entre los alpinistas muertos tras sismo en NepalCNN M\u00e9 (CNN) El sismo de magnitud 7.8 que sacudi\u00f3 este s\u00e1bado a Nepal no solo afect\u00f3 ciudades como Katmand\u00fa y Pokhara, tambi\u00e9n caus\u00f3 avalanchas en el monte Everest y picos...",
+            "date": "2015-04-26",
             "categories": "google",
-            "tags": "animal,animal-eres,eres,cuestionario,d\u00eda,tierra,google,hoy",
-            "recuweb_url": "http://es.recuweb.com/google/elmundo.es/2015/04/cuestionario-del-d%C3%ADa-de-la-tierra-en-google-qu%C3%A9-animal-eres",
+            "tags": "avalanchas,sacudi\u00f3,s\u00e1bado,magnitud,ejecutivo,google,nepal,everest",
+            "recuweb_url": "http://es.recuweb.com/google/mexico.cnn.com/2015/04/ejecutivo-de-google-entre-los-alpinistas-muertos-tras-sismo-en-nepal",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://mexico.cnn.com/mundo/2015/04/25/ejecutivo-de-google-entre-los-alpinistas-muertos-tras-sismo-en-nepal"
+        },
+        "elcomercio.pe/2015/04/facebook-y-google-ayudan-a-ubicar-personas-de-terremoto": {
+            "title": "Facebook y Google ayudan a ubicar a personas de terremoto en... - El Comercio...",
+            "snippet": "El ComercioFacebook y Google ayudan a ubicar a personas de terremoto en...El ComercioLa red social Facebook y el buscador Google presentaron herramientas para ubicar personas tras el terremoto de 7,9 en Nepal, que hasta el momento ha dejado m\u00e1s de...",
+            "date": "2015-04-26",
+            "categories": "red-social,facebook,google",
+            "tags": "momento,terremoto,facebook,google,buscador,nepal",
+            "recuweb_url": "http://es.recuweb.com/google/elcomercio.pe/2015/04/facebook-y-google-ayudan-a-ubicar-personas-de-terremoto",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/redes-sociales/facebook/facebook-y-google-lanzan-herramientas-terremoto-nepal-noticia-1806698"
+        },
+        "eluniversal.com.mx/2015/04/fallece-ejecutivo-de-google-en-avalancha-del-everest-el-universal": {
+            "title": "Fallece ejecutivo de Google en avalancha del Everest - El Universal...",
+            "snippet": "El UniversalFallece ejecutivo de Google en avalancha del EverestEl UniversalDe acuerdo con su perfil de LinkedIn, Fredinburg trabaj\u00f3 en Google durante ocho a\u00f1os, actualmente fung\u00eda como Jefe de Privacidad de Google, realizando el manejo de equipo...",
+            "date": "2015-04-26",
+            "categories": "google",
+            "tags": "durante,ocho,avalancha,ejecutivo,google,everest,universal,fredinburg",
+            "recuweb_url": "http://es.recuweb.com/google/eluniversal.com.mx/2015/04/fallece-ejecutivo-de-google-en-avalancha-del-everest-el-universal",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.mx/el-mundo/2015/fallece-ejecutivo-de-google-en-avalancha-del-everest-1095323.html"
+        },
+        "es.gizmodo.com/2015/04/adi%C3%B3s-a-la-nexus-7-google-ya-no-producir%C3%A1-peque%C3%B1a-tablet": {
+            "title": "Adi\u00f3s a la Nexus 7: Google ya no producir\u00e1 la peque\u00f1a tablet Android - Gizmodo en Espa\u00f1ol...",
+            "snippet": "Gizmodo en Espa\u00f1olAdi\u00f3s a la Nexus 7: Google ya no producir\u00e1 la peque\u00f1a tablet AndroidGizmodo en Espa\u00f1olGoogle ha descontinuado la producci\u00f3n de la Nexus 7, su tablet pure Android m\u00e1s peque\u00f1a y econ\u00f3mica que, durante alg\u00fan tiempo, fue un...",
+            "date": "2015-04-25",
+            "categories": "google",
+            "tags": "durante,tiempo,google,android,espa\u00f1ol",
+            "recuweb_url": "http://es.recuweb.com/google/es.gizmodo.com/2015/04/adi%C3%B3s-a-la-nexus-7-google-ya-no-producir%C3%A1-peque%C3%B1a-tablet",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://es.gizmodo.com/adios-a-la-nexus-7-google-ya-no-producira-la-pequena-t-1700166964"
+        },
+        "adslzone.net/2015/04/google-abre-un-buscador-por-los-desaparecidos-en-el-terremoto": {
+            "title": "Google abre un buscador por los desaparecidos en el terremoto de Nepal...",
+            "snippet": "Un terremoto de magnitud 7,9 en Nepal ha provocado avalanchas en el Everest, en estos momentos la situaci\u00f3n es tr\u00e1gica. Para colaborar con la causa, y agilizar los procesos de b\u00fasqueda de los afectados e informar a los familiares, Google ha...",
+            "date": "2015-04-25",
+            "categories": "google",
+            "tags": "avalanchas,terremoto,magnitud,google,buscador,nepal,everest",
+            "recuweb_url": "http://es.recuweb.com/google/adslzone.net/2015/04/google-abre-un-buscador-por-los-desaparecidos-en-el-terremoto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/tecnologia/2015/04/22/55373420e2704ebb588b4570.html"
+            "source_url": "http://adslzone.net/2015/04/25/google-terremoto-nepal/"
         },
-        "latercera.com/2015/04/doodle-de-google-celebra-el-d%C3%ADa-la-tierra-y-una-encuesta": {
-            "title": "Doodle de Google celebra el D\u00eda de la Tierra y una encuesta: \u00bfqu\u00e9... - LaTercera (Registro)...",
-            "snippet": "LaTercera (Registro)Doodle de Google celebra el D\u00eda de la Tierra y una encuesta: \u00bfqu\u00e9...LaTercera (Registro)Y Google, como es habitual en fechas especiales, lanz\u00f3 un nuevo Doodle conmemorativo, esta vez agregando una entretenida encuesta que te...",
-            "date": "2015-04-22",
+        "20minutos.es/2015/04/google-pide-disculpas-por-un-logo-de-android-orinando": {
+            "title": "Google pide disculpas por un logo de Android orinando sobre el de Apple que se col\u00f3 en Maps...",
+            "snippet": "Google ha pedido disculpas despu\u00e9s de que este viernes fuera hallado en su aplicaci\u00f3n de mapas, Google Maps, el dibujo del logotipo de Android (la plataforma de telefon\u00eda m\u00f3vil de la compa\u00f1\u00eda californiana) orinando sobre el logo de Apple,...",
+            "date": "2015-04-25",
             "categories": "google",
-            "tags": "lanz\u00f3,celebra,doodle,google,d\u00eda,tierra",
-            "recuweb_url": "http://es.recuweb.com/google/latercera.com/2015/04/doodle-de-google-celebra-el-d%C3%ADa-la-tierra-y-una-encuesta",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://latercera.com/noticia/tendencias/2015/04/659-626549-9-doodle-de-google-celebra-el-dia-de-la-tierra-y-una-encuesta-que-animal-eres.shtml"
-        },
-        "infobae.com/2015/04/google-celebra-el-d%C3%ADa-de-la-tierra-con-un-juego": {
-            "title": "Google celebra el D\u00eda de la Tierra con un juego: \"\u00bfQu\u00e9 animal eres?\" -...",
-            "snippet": "celebra el D\u00eda de la Tierra con un juego: \"\u00bfQu\u00e9 animal eres?\" de haber reactivado la b\u00fasqueda del m\u00edtico monstruo del Lago Ness, Google decidi\u00f3 festejar este mi\u00e9rcoles el D\u00eda de la Tierra y lo hizo con uno de sus cl\u00e1sicos \"doodles\". Pero a...",
-            "date": "2015-04-22",
-            "categories": "google",
-            "tags": "mi\u00e9rcoles,lago,lago_ness,ness,haber,monstruo,animal,animal-eres,eres,celebra,google,d\u00eda,tierra",
-            "recuweb_url": "http://es.recuweb.com/google/infobae.com/2015/04/google-celebra-el-d%C3%ADa-de-la-tierra-con-un-juego",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://infobae.com/2015/04/22/1723932-google-celebra-el-dia-la-tierra-un-juego-que-animal-eres"
-        },
-        "noticieros.televisa.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-celular": {
-            "title": "Google lanza servicio de telefon\u00eda celular...",
-            "snippet": "DALLAS, Texas, EU. 22 Abr. 2015.- Google, el gigante de los servicios en internet, lanz\u00f3 hoy un servicio de telefon\u00eda celular con el que pretende explorar nuevas formas de conectarse y comunicarse para incrementar la comodidad y accesibilidad del...",
-            "date": "2015-04-22",
-            "categories": "internet,google",
-            "tags": "lanz\u00f3,hoy,servicios,telefon\u00eda,gigante,internet,lanza,google",
-            "recuweb_url": "http://es.recuweb.com/google/noticieros.televisa.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-celular",
+            "tags": "compa\u00f1\u00eda,aplicaci\u00f3n,pide,google,android,telefon\u00eda,m\u00f3vil",
+            "recuweb_url": "http://es.recuweb.com/google/20minutos.es/2015/04/google-pide-disculpas-por-un-logo-de-android-orinando",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://noticieros.televisa.com/ee-uu/1504/google-lanza-servicio-telefonia-celular/"
+            "source_url": "http://20minutos.es/noticia/2442641/0/google-pide-disculpas/logo-android-orinando-apple/maps/"
         },
-        "lavanguardia.com/2015/04/google-lanza-una-operadora-m%C3%B3vil-virtual-en-la-que-se-paga": {
-            "title": "Google lanza una operadora m\u00f3vil virtual en la que se paga seg\u00fan el uso de datos...",
-            "snippet": "Barcelona (Redacci\u00f3n) - Durante el pasado Mobile World Congress de Barcelona, Google confirm\u00f3 su intenci\u00f3n de crear una operadora m\u00f3vil virtual en Estados Unidos. Seg\u00fan The Washington Post, el servicio podr\u00eda lanzarse esta misma semana. El...",
-            "date": "2015-04-22",
+        "eluniversal.com.mx/2015/04/lo-m%C3%A1s-visto-el-animal-que-eres-seg%C3%BAn-google-universal": {
+            "title": "Lo m\u00e1s visto: El animal que eres, seg\u00fan Google - El Universal...",
+            "snippet": "El UniversalLo m\u00e1s visto: El animal que eres, seg\u00fan GoogleEl UniversalLuego, Google pregunta a sus usuarios \"\u00bfQu\u00e9 buscas en una pareja?\" y despu\u00e9s les pide elegir un pasatiempo, tras lo cual determina el tipo de animal que resulta ser y sus...",
+            "date": "2015-04-25",
             "categories": "google",
-            "tags": "operadora,operadora-m\u00f3vil,operadora-m\u00f3vil-virtual,m\u00f3vil,m\u00f3vil-virtual,virtual,mobile,lanza,google,durante",
-            "recuweb_url": "http://es.recuweb.com/google/lavanguardia.com/2015/04/google-lanza-una-operadora-m%C3%B3vil-virtual-en-la-que-se-paga",
+            "tags": "animal,pide,universallo,visto,eres,google,universal,usuarios",
+            "recuweb_url": "http://es.recuweb.com/google/eluniversal.com.mx/2015/04/lo-m%C3%A1s-visto-el-animal-que-eres-seg%C3%BAn-google-universal",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.mx/computacion-tecno/2015/visto-animal-segun-google-104794.html"
+        },
+        "eluniversal.com.mx/2015/04/lo-m%C3%A1s-visto-google-lanza-app-para-encontrar-tu-smartphone": {
+            "title": "Lo m\u00e1s visto: Google lanza app para encontrar tu smartphone - El Universal...",
+            "snippet": "El UniversalLo m\u00e1s visto: Google lanza app para encontrar tu smartphoneEl UniversalEl buscador Google lanz\u00f3 la aplicaci\u00f3n para tel\u00e9fonos con sistema operativo Android \"Find my Phone\", una herramienta \u00fatil al momento de localizar tu dispositivo,...",
+            "date": "2015-04-25",
+            "categories": "google",
+            "tags": "herramienta,momento,dispositivo,find,phone,lanz\u00f3,aplicaci\u00f3n,visto,google,lanza,universal,universallo,buscador,android",
+            "recuweb_url": "http://es.recuweb.com/google/eluniversal.com.mx/2015/04/lo-m%C3%A1s-visto-google-lanza-app-para-encontrar-tu-smartphone",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.mx/computacion-tecno/2015/visto-google-app-encontrar-smartphone-104793.html"
+        },
+        "elmundo.es/2015/04/muere-un-directivo-de-google-en-el-terremoto-nepal": {
+            "title": "Muere un directivo de Google en el terremoto de Nepal...",
+            "snippet": "El directivo de Google Dan Fredinburg muri\u00f3 en el Everest cuando hac\u00eda senderismo como consecuencia de una avalancha causada por el terremoto de 7,8 grados que sacudi\u00f3 Nepal, seg\u00fan ha informado la empresa. Dan Frendinburg. Dan Fredinburg. En...",
+            "date": "2015-04-25",
+            "categories": "senderismo,google",
+            "tags": "dan,informado,empresa,grados,grados-que-sacudi\u00f3,sacudi\u00f3,hac\u00eda,hac\u00eda-senderismo,senderismo,senderismo-como-consecuencia,consecuencia,avalancha,avalancha-causada,causada,terremoto,muri\u00f3,fredinburg,directivo,muere,google,nepal,everest",
+            "recuweb_url": "http://es.recuweb.com/google/elmundo.es/2015/04/muere-un-directivo-de-google-en-el-terremoto-nepal",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://lavanguardia.com/tecnologia/20150422/54430112741/google-operadora-movil-pago-datos.html"
+            "source_url": "http://elmundo.es/internacional/2015/04/26/553c76c522601d2f568b4571.html"
         },
-        "cnnexpansion.com/2015/04/google-mapea-la-prisi%C3%B3n-de-nelson-mandela-cnnexpansi%C3%B3": {
-            "title": "Google mapea la prisi\u00f3n de Nelson Mandela - CNNExpansi\u00f3...",
-            "snippet": "Google mapea la prisi\u00f3n de Nelson MandelaCNNExpansi\u00f3, en colaboraci\u00f3n con el museo de la isla y el centro dedicado a la memoria de Nelson Mandela, coordin\u00f3 una serie de materiales interactivos para los usuarios de Maps que van desde una...",
-            "date": "2015-04-22",
-            "categories": "memoria,google",
-            "tags": "nelson,google,usuarios",
-            "recuweb_url": "http://es.recuweb.com/google/cnnexpansion.com/2015/04/google-mapea-la-prisi%C3%B3n-de-nelson-mandela-cnnexpansi%C3%B3",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/04/22/google-maps-mapea-la-prision-de-nelson-mandela"
-        },
-        "infobae.com/2015/04/google-quiso-comprar-tesla-motors-exitosa-fabricante-de-autos": {
-            "title": "Google quiso comprar Tesla Motors, exitosa fabricante de autos... -...",
-            "snippet": "quiso comprar Tesla Motors, exitosa fabricante de autos... por el autor, Larry Page respondi\u00f3 que no quer\u00eda \"especular sobre rumores\" y que \"un fabricante de autos est\u00e1 bastante alejado de lo que Google sabe hacer\". Seg\u00fan las fuentes del libro,...",
-            "date": "2015-04-22",
-            "categories": "google",
-            "tags": "google",
-            "recuweb_url": "http://es.recuweb.com/google/infobae.com/2015/04/google-quiso-comprar-tesla-motors-exitosa-fabricante-de-autos",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://infobae.com/2015/04/21/1723750-google-quiso-comprar-tesla-motors-exitosa-fabricante-autos-electricos"
-        },
-        "elmundo.es/2015/04/google-se-convierte-en-operadora-m%C3%B3vil-virtual": {
-            "title": "Google se convierte en operadora m\u00f3vil virtual...",
-            "snippet": "A la lista de operadoras de telefon\u00eda m\u00f3vil de EEUU se a\u00f1ade este mi\u00e9rcoles un nombre muy conocido: Google. El gigante de la red ha anunciado hoy de forma oficial Project Fi (), una operadora m\u00f3vil virtual exclusiva para los usuarios de...",
-            "date": "2015-04-22",
-            "categories": "google",
-            "tags": "operadoras,operadora-m\u00f3vil,operadora-m\u00f3vil-virtual,m\u00f3vil,m\u00f3vil-virtual,virtual,exclusiva,gigante,hoy,forma,mi\u00e9rcoles,telefon\u00eda,google,usuarios",
-            "recuweb_url": "http://es.recuweb.com/google/elmundo.es/2015/04/google-se-convierte-en-operadora-m%C3%B3vil-virtual",
+        "diariosur.es/2015/04/muere-un-directivo-de-google-en-la-avalancha-el-everest": {
+            "title": "Muere un directivo de Google en la avalancha en el Everest...",
+            "snippet": "El directivo de Google Dan Fredinburg muri\u00f3 en el Everest cuando hac\u00eda senderismo como consecuencia de una avalancha causada por el terremoto de 7,8 grados que sacudi\u00f3 Nepal, ha informado el s\u00e1bado la empresa. En un comunicado, Google se...",
+            "date": "2015-04-25",
+            "categories": "senderismo,google",
+            "tags": "informado,s\u00e1bado,empresa,grados,grados-que-sacudi\u00f3,sacudi\u00f3,hac\u00eda,hac\u00eda-senderismo,senderismo,senderismo-como-consecuencia,consecuencia,avalancha,avalancha-causada,causada,terremoto,dan,fredinburg,muri\u00f3,directivo,muere,google,everest,nepal",
+            "recuweb_url": "http://es.recuweb.com/google/diariosur.es/2015/04/muere-un-directivo-de-google-en-la-avalancha-el-everest",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/tecnologia/2015/04/22/5537e4b4ca4741ca428b4572.html"
-        },
-        "hipertextual.com/2015/04/google-se-hace-oficialmente-operadora-rompiendo-todas-las-reglas-hipertextual": {
-            "title": "Google se hace oficialmente operadora, rompiendo todas las reglas... - Hipertextual...",
-            "snippet": "HipertextualGoogle se hace oficialmente operadora, rompiendo todas las reglas...HipertextualGoogle se servir\u00e1 de las operadoras T-Mobile y Sprint para ofrecer sus servicios. Los consumidores tendr\u00e1n acceso a ambas y se podr\u00e1 cambiar de una a otra...",
-            "date": "2015-04-22",
-            "categories": "google",
-            "tags": "cambiar,servicios,operadoras,operadora,hace,google,mobile",
-            "recuweb_url": "http://es.recuweb.com/google/hipertextual.com/2015/04/google-se-hace-oficialmente-operadora-rompiendo-todas-las-reglas-hipertextual",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://hipertextual.com/2015/04/google-se-hace-oficialmente-operadora"
+            "source_url": "http://diariosur.es/internacional/asia/201504/26/muere-directivo-google-avalancha-20150426075219-rc.html"
         }
     }
 }

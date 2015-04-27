@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microformato",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/microformato/",
@@ -10,17 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/microformato/microformato/blogs.json"
     },
     "items": {
-        "quieroserelprimero.es/2015/03/entendiendo-el-uso-correcto-de-microformatos-quiero": {
-            "title": "Entendiendo el uso correcto de microformatos \u00a1\u00a1Quiero ser el...",
-            "snippet": "Hay principalmente 3 tipos de micro formato, hAtom de es un formateo gen\u00e9rico (del cual hay 2 versiones, hAtom y h-entry), schema, que es para contenidos m\u00e1s espec\u00edficos, como rese\u00f1as de libros,...",
-            "date": "2015-03-10",
-            "author_name": "Silvia77",
-            "categories": "microformato",
-            "tags": "contenidos,uso,microformatos,hay,principalmente,micro,formato",
-            "recuweb_url": "http://es.recuweb.com/microformato/quieroserelprimero.es/2015/03/entendiendo-el-uso-correcto-de-microformatos-quiero",
-            "resource_url": "http://www.google.com/search?q=microformato&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://quieroserelprimero.es/entendiendo-el-uso-correcto-de-microformatos/"
-        },
         "planb-ecommerce.com/2014/06/microformato-mejora-el-seo-en-tu-web-plan-b-ecommerce-blog": {
             "title": "Microformato mejora el SEO en tu Web Plan B Ecommerce Blog...",
             "snippet": "Aplicando los microformatos a nuestros sitios webs, ayudaremos a los buscadores a indexar y estructurar el contenido de nuestra web, mejorando con ello el SEO.",
@@ -31,17 +21,6 @@
             "recuweb_url": "http://es.recuweb.com/microformato/planb-ecommerce.com/2014/06/microformato-mejora-el-seo-en-tu-web-plan-b-ecommerce-blog",
             "resource_url": "http://www.google.com/search?q=microformato%2Bmicroformato&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://planb-ecommerce.com/Blog/microformatos-mejora-el-seo-en-tu-sitio-web/"
-        },
-        "grupoculturalcordoba.blogspot.com/2014/06/grupo-cultural-c%C3%B3rdoba-3-bienal-de-arte-en-microformato": {
-            "title": "Grupo Cultural C\u00f3rdoba: 3 BIENAL DE ARTE EN MICROFORMATO...",
-            "snippet": "3 BIENAL DE ARTE EN MICROFORMATO. El PR\u00d3XIMO VIERNES d\u00eda 27 de junio a las h, tendremos dos inauguraciones en Sala Aires: - Exposici\u00f3n individual de pintura a cargo del autor manchego Jos\u00e9 Carlos Ortiz.",
-            "date": "2014-06-24",
-            "author_name": "Grupo Cultural C\u00f3rdoba",
-            "categories": "pintura,microformato",
-            "tags": "ortiz,microformato",
-            "recuweb_url": "http://es.recuweb.com/microformato/grupoculturalcordoba.blogspot.com/2014/06/grupo-cultural-c%C3%B3rdoba-3-bienal-de-arte-en-microformato",
-            "resource_url": "http://www.google.com/search?q=microformato&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://grupoculturalcordoba.blogspot.com/2014/06/3-bienal-de-arte-en-microformato.html"
         },
         "seomicidio.wordpress.com/2014/02/hablemos-de-los-microdatos": {
             "title": "Hablemos de los microdatos...",
@@ -71,7 +50,7 @@
             "date": "2012-02-12",
             "author_name": "csanchezmonte",
             "categories": "microformato,google",
-            "tags": "microformato,google,buscador,hoy",
+            "tags": "microformato,google,buscador",
             "recuweb_url": "http://es.recuweb.com/google/csanchezmonte.wordpress.com/2012/02/google-adopta-hrecipe-como-microformato-para-las-recetas",
             "resource_url": "http://www.google.com/search?q=microformato%2Bmicroformato&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://csanchezmonte.wordpress.com/2012/02/12/google-acepta-hrecipe-como-microformato-para-las-recetas/"

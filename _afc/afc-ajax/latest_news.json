@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "afc-ajax",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/afc-ajax/",
@@ -10,85 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/afc-ajax/afc-ajax/blogs.json"
     },
     "items": {
-        "es.uefa.com/2015/02/milik-quiere-escribir-su-historia": {
-            "title": "Milik quiere escribir su historia...",
-            "snippet": "Despu\u00e9s de marcar con el AFC Ajax en el partido de ida de los dieciseisavos de final de la UEFA Europa League ante el Legia Warszawa, el joven delantero Arkadiusz Milik espera que el viaje a Varsovia de este jueves no sea el \u00faltimo a la ciudad...",
-            "date": "2015-02-25",
+        "es.uefa.com/2015/04/estad%C3%ADsticas-bayern-oporto-bar%C3%A7a-paris": {
+            "title": "Estad\u00edsticas: Bayern - Oporto, Bar\u00e7a - Paris...",
+            "snippet": "Esta excepci\u00f3n lleg\u00f3 en la campa\u00f1a 1968/69, cuando el AFC Ajax gan\u00f3 por 1-3 a domicilio la vuelta ante el SL Benfica. El conjunto holand\u00e9s gan\u00f3 por 3-0 en el partido de desempate. FC Bayern M\u00fcnchen - FC Porto (partido de ida 1-3) El Bayern...",
+            "date": "2015-04-21",
             "categories": "afc-ajax",
-            "tags": "espera,viaje,joven,joven-delantero,joven-delantero-arkadiusz,delantero,delantero-arkadiusz,arkadiusz,legia,legia_warszawa,warszawa,uefa,uefa_europa,uefa_europa_league,europa,europa_league,league,partido,partido-de-ida,ida,dieciseisavos,dieciseisavos-de-final,final,afc,afc_ajax,ajax,marcar,quiere,quiere-escribir,escribir,escribir-su-historia,historia,varsovia",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/02/milik-quiere-escribir-su-historia",
+            "tags": "partido,gan\u00f3,afc,afc_ajax,ajax,porto",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/estad%C3%ADsticas-bayern-oporto-bar%C3%A7a-paris",
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/uefaeuropaleague/season=2015/matches/round=2000588/match=2014595/prematch/preview/index.html"
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2237134.html"
         },
-        "es.uefa.com/2015/02/milik-quiere-escribir-su-historia-noticias": {
-            "title": "Milik quiere escribir su historia - Noticias - -...",
-            "snippet": "quiere escribir su historia - Noticias - \u00e9s de marcar con el AFC Ajax en el partido de ida de los dieciseisavos de final de la UEFA Europa League ante el Legia Warszawa, el joven delantero Arkadiusz Milik espera que el viaje a Varsovia de este...",
-            "date": "2015-02-25",
+        "es.uefa.com/2015/04/dos-uruguayos-con-caminos-paralelos-uefa-champions-league": {
+            "title": "Dos uruguayos con caminos paralelos - UEFA Champions League... -...",
+            "snippet": "uruguayos con caminos paralelos - UEFA Champions League... pasar una \u00fanica temporada en el Groningen, Luis Su\u00e1rez llam\u00f3 la atenci\u00f3n del AFC Ajax, club en el que gan\u00f3 t\u00edtulos, fue un referente en el esquema del equipo y adem\u00e1s se dio a...",
+            "date": "2015-04-20",
             "categories": "afc-ajax",
-            "tags": "espera,viaje,joven,joven-delantero,joven-delantero-arkadiusz,delantero,delantero-arkadiusz,arkadiusz,legia,legia_warszawa,warszawa,uefa,uefa_europa,uefa_europa_league,europa,europa_league,league,partido,partido-de-ida,ida,dieciseisavos,dieciseisavos-de-final,final,afc,afc_ajax,ajax,marcar,quiere,quiere-escribir,escribir,escribir-su-historia,historia,noticias,varsovia",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/02/milik-quiere-escribir-su-historia-noticias",
+            "tags": "equipo,gan\u00f3,afc,afc_ajax,ajax,luis,luis_su\u00e1rez,su\u00e1rez,uefa,uefa_champions,uefa_champions_league,champions,champions_league,league",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/dos-uruguayos-con-caminos-paralelos-uefa-champions-league",
             "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax&output=atom&nord=1",
-            "source_url": "http://es.uefa.com/uefaeuropaleague/season=2015/matches/round=2000588/match=2014595/prematch/preview/"
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235717.html"
         },
-        "es.uefa.com/2015/02/datos-y-cifras-de-la-ida-dieciseisavos-noticias": {
-            "title": "Datos y cifras de la ida de dieciseisavos - Noticias - -...",
-            "snippet": "y cifras de la ida de dieciseisavos - Noticias - haber llegado a la UEFA Europa League procedente de la fase de grupos de la UEFA Champions League por quinta temporada consecutiva, el AFC Ajax es el \u00fanico equipo que ha participado en las rondas...",
-            "date": "2015-02-20",
+        "es.uefa.com/2015/04/el-trofeo-enamora-en-dallas": {
+            "title": "El trofeo enamora en Dallas...",
+            "snippet": "Kluivert, que marc\u00f3 el tanto de la victoria para el AFC Ajax en la final de la UEFA Champions League de 1995, habl\u00f3 despu\u00e9s sobre sus \u00eddolos e inspiraciones en una sesi\u00f3n de pregunta y respuesta en la p\u00e1gina oficial de la UEFA Champions League...",
+            "date": "2015-04-20",
             "categories": "afc-ajax",
-            "tags": "equipo,afc,afc_ajax,ajax,uefa,league,uefa_europa,uefa_europa_league,europa,europa_league,ida,dieciseisavos,noticias",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/02/datos-y-cifras-de-la-ida-dieciseisavos-noticias",
+            "tags": "uefa,uefa_champions,uefa_champions_league,champions,champions_league,league,final,afc,afc_ajax,ajax",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/el-trofeo-enamora-en-dallas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2237206.html"
+        },
+        "es.uefa.com/2015/04/luis-su%C3%A1rez-ilumin%C3%B3-par%C3%ADs-noticias": {
+            "title": "Luis Su\u00e1rez ilumin\u00f3 Par\u00eds - Noticias - -...",
+            "snippet": "Su\u00e1rez ilumin\u00f3 Par\u00eds - Noticias - \"Esta noche ha demostrado de nuevo que es letal\", a\u00f1adi\u00f3 Van der Wiel, amigo y excompa\u00f1ero de Su\u00e1rez en el AFC Ajax entre 2007 y 2011. \"Aprovecha los espacios, eso es lo que hace. Y esta noche hemos sido...",
+            "date": "2015-04-16",
+            "categories": "afc-ajax",
+            "tags": "afc,afc_ajax,ajax,luis,luis_su\u00e1rez,su\u00e1rez,noticias,van",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/luis-su%C3%A1rez-ilumin%C3%B3-par%C3%ADs-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235072.html"
+        },
+        "es.uefa.com/2015/04/varsovia-busca-a-su-h%C3%A9roe-noticias": {
+            "title": "Varsovia busca a su h\u00e9roe - Noticias - -...",
+            "snippet": "busca a su h\u00e9roe - Noticias - el Legia Warsawa perdi\u00f3 ante el AFC Ajax en los dieciseisavos de final, un sue\u00f1o se esfum\u00f3. Y es que ning\u00fan equipo polaco ha alcanzado una final de competiciones de clubes de la UEFA desde que el G\u00f3rnik Zabrze...",
+            "date": "2015-04-14",
+            "categories": "afc-ajax",
+            "tags": "equipo,final,afc,afc_ajax,ajax,noticias,uefa",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/varsovia-busca-a-su-h%C3%A9roe-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
+            "source_url": "http://es.uefa.com/uefaeuropaleague/news/newsid=2234092.html"
+        },
+        "beurs.nl/2015/04/afc-ajax-verlengt-contract-bazoer": {
+            "title": "AFC Ajax verlengt contract Bazoer -...",
+            "snippet": "AFC Ajax verlengt contract 6 april 2015 14:17 AMSTERDAM (Dow Jones)--AFC Ajax nv () en Riechedly Bazoer hebben overeenstemming bereikt over de verlenging van het contract van de middenvelder, meldt de Amsterdamse beursgenoteerde voetbalclub...y m\u00e1s...",
+            "date": "2015-04-06",
+            "categories": "afc-ajax",
+            "tags": "van,afc,afc_ajax,ajax",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/beurs.nl/2015/04/afc-ajax-verlengt-contract-bazoer",
             "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax&output=atom&nord=1",
-            "source_url": "http://es.uefa.com/uefaeuropaleague/news/newsid=2212372.html"
-        },
-        "ekstrabladet.dk/2015/02/ea-guingamp-dynamo-kiev-ekstra-bladet": {
-            "title": "EA Guingamp - Dynamo Kiev - Ekstra Bladet...",
-            "snippet": "EA Guingamp - Dynamo KievEkstra BladetI Amsterdam f\u00f8rer AFC Ajax bolden frem mod feltet, men selv om afslutningen fra Davy Klaassen er inden for m\u00e5lrammen, bliver skuddet afv\u00e6rget. 52. Legia Warszawa angriber, og Michal Zyro kommer fri til en...",
-            "date": "2015-02-19",
-            "categories": "afc-ajax",
-            "tags": "legia,legia_warszawa,warszawa,afc,afc_ajax,ajax",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/ekstrabladet.dk/2015/02/ea-guingamp-dynamo-kiev-ekstra-bladet",
-            "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax&output=atom&nord=1",
-            "source_url": "http://ekstrabladet.dk/livescore/AFC-Ajax-Legia-Warszawa/6560135"
-        },
-        "bizkaia.eldesmarque.com/2015/02/el-club-granata-desmenuzado-en-10-pasos": {
-            "title": "El club granata desmenuzado en 10 pasos...",
-            "snippet": "El equipo de Emiliano Mondonico perdi\u00f3 esa final a doble partido por el valor doble de los goles en campo contrario despu\u00e9s de un 2-2 en el global ante el AFC Ajax. Sin embargo, el equipo estrell\u00f3 el bal\u00f3n en el palo en dos ocasiones en el...",
-            "date": "2015-02-18",
-            "categories": "afc-ajax",
-            "tags": "equipo,afc,afc_ajax,ajax,final,partido,contrario,club",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/bizkaia.eldesmarque.com/2015/02/el-club-granata-desmenuzado-en-10-pasos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://bizkaia.eldesmarque.com/athletic-club/44772-el-decalogo-basico-del-torino-fc"
-        },
-        "vavel.com/2015/02/psg-vs-chelsea-en-vivo-online-1": {
-            "title": "PSG vs Chelsea en vivo online (1-1)...",
-            "snippet": "El PSG se clasific\u00f3 para estos Octavos de Final, tras quedar en segundo lugar en el grupo F. En dicho grupo se encontraba con equipos como Apoel FC de Nicosia, AFC Ajax y el FC Barcelona que se clasific\u00f3 como primera de grupo.",
-            "date": "2015-02-17",
-            "categories": "afc-ajax",
-            "tags": "afc,afc_ajax,ajax,final,barcelona",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/vavel.com/2015/02/psg-vs-chelsea-en-vivo-online-1",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://vavel.com/es/internacional/francia/451800-psg-vs-chelsea-en-vivo-y-en-directo-online-en-champions-league-2015.html"
-        },
-        "es.uefa.com/2015/02/las-supersticiones-del-f%C3%BAtbol-europeo": {
-            "title": "Las supersticiones del f\u00fatbol europeo...",
-            "snippet": "Secretos de delanteros En su etapa en el AFC Ajax, Johan Cruyff, golpeaba repetidamente a su guardameta Gert Bals en el est\u00f3mago antes de cada partido, y sol\u00eda arrojar su chicle al terreno de juego contrario antes del inicio del partido. Y a\u00fan...",
-            "date": "2015-02-13",
-            "categories": "afc-ajax,futbol",
-            "tags": "contrario,partido,johan,johan_cruyff,cruyff,afc,afc_ajax,ajax,f\u00fatbol",
-            "recuweb_url": "http://es.recuweb.com/futbol/es.uefa.com/2015/02/las-supersticiones-del-f%C3%BAtbol-europeo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/memberassociations/news/newsid=2208834.html"
-        },
-        "elbuscolu.com/2015/02/regresa-la-europa-league": {
-            "title": "Regresa la Europa League...",
-            "snippet": "Lo cierto es que, de cualquier manera, esta fecha se presenta muy intensa, ya que cuenta con siete campeones de liga entre los clasificados en dieciseisavos, a saber, Aalborg BK, AFC Ajax, RSC Anderlecht, Celtic FC, Legia Warszawa, Olympiacos FC y...",
-            "date": "2015-02-13",
-            "categories": "afc-ajax",
-            "tags": "legia,legia_warszawa,warszawa,afc,afc_ajax,ajax,dieciseisavos,fecha,europa,europa_league,league,presenta",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/elbuscolu.com/2015/02/regresa-la-europa-league",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://elbuscolu.com/deportes/regresa-la-europa-league/18878"
+            "source_url": "http://beurs.nl/nieuws/binnenland/3702624/afc-ajax-verlengt-contract-bazoer"
         }
     }
 }

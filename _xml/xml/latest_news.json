@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "xml",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xml/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/xml/xml/blogs.json"
     },
     "items": {
-        "techrepublic.com/2015/04/microsoft-hides-a-windows-10-easter-egg-in-7-8-1": {
-            "title": "Microsoft hides a Windows 10 Easter Egg in Windows 7/8.1 systems - TechRepublic...",
-            "snippet": "Microsoft hides a Windows 10 Easter Egg in Windows 7/8.1 systemsTechRepublicAs you can see, there are a series of four executable files, a pair of XML files, a DLL file, a Security Catalog file, and a LOCK file. It's hard to tell what these files...",
+        "cincodias.com/2015/04/as%C3%AD-hay-que-preparar-el-pc-para-actualizar-a-windows-10": {
+            "title": "As\u00ed hay que preparar el PC para actualizar a Windows 10 desde Windows 7 y 8.1...",
+            "snippet": "No obstante, nuevas investigaciones del parche y en concreto, de un archivo XML de \u00e9ste revela algo m\u00e1s acerca del camino que llevar\u00e1 la actualizaci\u00f3n para los Windows 7 y 8.1. Este fichero contiene una referencia llamada GWX la cual...",
+            "date": "2015-04-22",
+            "categories": "xml",
+            "tags": "contiene,actualizaci\u00f3n,archivo,parche,windows,xml,acerca,gwx",
+            "recuweb_url": "http://es.recuweb.com/xml/cincodias.com/2015/04/as%C3%AD-hay-que-preparar-el-pc-para-actualizar-a-windows-10",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
+            "source_url": "http://cincodias.com/cincodias/2015/04/21/lifestyle/1429605150_664551.html"
+        },
+        "ngeeks.com/2015/04/automatizaci%C3%B3n-de-facturas-con-oracle-e-business-suite": {
+            "title": "Automatizaci\u00f3n de facturas con Oracle E-Business Suite...",
+            "snippet": "Las soluciones dise\u00f1adas para esta tarea permiten gestionar las facturas de proveedores, cualquiera que sea su formato (papel, PDF, XML), extrayendo los datos de forma autom\u00e1tica y segura, para luego transferirlos a Oracle E-Business Suite.",
+            "date": "2015-04-22",
+            "categories": "xml",
+            "tags": "facturas,proveedores,business,pdf,xml,datos",
+            "recuweb_url": "http://es.recuweb.com/xml/ngeeks.com/2015/04/automatizaci%C3%B3n-de-facturas-con-oracle-e-business-suite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
+            "source_url": "http://ngeeks.com/automatizacion-de-facturas-con-oracle-e-business-suite/"
+        },
+        "breakingtravelnews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east-breaking-travel-news": {
+            "title": "XML Travelgate sees growth potential in Middle East - Breaking Travel News...",
+            "snippet": "Travel Daily Media (press release) (registration) (blog)XML Travelgate sees growth potential in Middle EastBreaking Travel NewsXML Travelgate, a travel technology business based in Spain, is exhibiting at Arabian Travel Market in Dubai for the first...",
+            "date": "2015-04-22",
+            "categories": "xml",
+            "tags": "arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,exhibiting,technology,technology-business,technology-business-based,business,business-based,based,middle,travelgate,press,middle_east,east,xml,xml_travelgate,spain,dubai",
+            "recuweb_url": "http://es.recuweb.com/xml/breakingtravelnews.com/2015/04/xml-travelgate-sees-growth-potential-in-middle-east-breaking-travel-news",
+            "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
+            "source_url": "http://breakingtravelnews.com/news/article/xml-travelgate-sees-growth-potential-in-middle-east/"
+        },
+        "adslzone.net/2015/04/as%C3%AD-actualizar%C3%A1n-gratis-windows-7-y-8-a-la-versi%C3%B3n-final": {
+            "title": "As\u00ed actualizar\u00e1n gratis Windows 7 y 8 a la versi\u00f3n final de Windows 10...",
+            "snippet": "Y es que, aunque en la descripci\u00f3n del parche apenas se detalla informaci\u00f3n, el estudio del archivo XML asociado s\u00ed desvela algunos detalles sobre c\u00f3mo Microsoft actualizar\u00e1 nuestros ordenadores a Windows 10. Windows 10 llegar\u00e1 en un proceso...",
+            "date": "2015-04-21",
+            "categories": "xml",
+            "tags": "archivo,parche,gratis,windows,xml",
+            "recuweb_url": "http://es.recuweb.com/xml/adslzone.net/2015/04/as%C3%AD-actualizar%C3%A1n-gratis-windows-7-y-8-a-la-versi%C3%B3n-final",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
+            "source_url": "http://adslzone.net/2015/04/21/actualizacion-windows-10-julio-2015/"
+        },
+        "noticiaspress.es/2015/04/irontec-libera-la-aplicaci%C3%B3n-de-firma-digital-en-software-libre-sinadura": {
+            "title": "Irontec libera la aplicaci\u00f3n de firma digital en software libre Sinadura 4...",
+            "snippet": "La empresa vizca\u00edna de software libre Irontec ha liberado la aplicaci\u00f3n para la firma digital Sinadura 4, una herramienta que permite generar firmas en PDF y XML. El programa cuenta con m\u00e1s de descargas y ha sido adoptada, entre otros...",
+            "date": "2015-04-21",
+            "categories": "xml",
+            "tags": "programa,herramienta,permite,aplicaci\u00f3n,software,pdf,xml",
+            "recuweb_url": "http://es.recuweb.com/xml/noticiaspress.es/2015/04/irontec-libera-la-aplicaci%C3%B3n-de-firma-digital-en-software-libre-sinadura",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
+            "source_url": "http://noticiaspress.es/2015/04/irontec-libera-la-aplicacion-de-firma-digital-en-software-libre-sinadura-4/"
+        },
+        "muycomputer.com/2015/04/windows-10-gratis-as%C3%AD-ser%C3%A1-la-mayor-actualizaci%C3%B3n-software-de-historia": {
+            "title": "Windows 10 gratis: as\u00ed ser\u00e1 la mayor actualizaci\u00f3n software de la historia...",
+            "snippet": "El parche incluye un archivo XML que contiene importantes pistas sobre un programa denominado GWX: Get Windows 10 que establece varias tareas programadas comenzando por una ventana emergente en tres tama\u00f1os pre-definidos, que se mostrar\u00e1 al...",
+            "date": "2015-04-21",
+            "categories": "xml",
+            "tags": "contiene,programa,parche,archivo,actualizaci\u00f3n,software,windows,gratis,xml,gwx",
+            "recuweb_url": "http://es.recuweb.com/xml/muycomputer.com/2015/04/windows-10-gratis-as%C3%AD-ser%C3%A1-la-mayor-actualizaci%C3%B3n-software-de-historia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
+            "source_url": "http://muycomputer.com/2015/04/22/windows-10-gratis-actualizacion"
+        },
+        "tradearabia.com/2015/04/xml-travelgate-targets-the-middle-east-trade-arabia": {
+            "title": "XML Travelgate targets the Middle East - Trade Arabia...",
+            "snippet": "Trade ArabiaXML Travelgate targets the Middle EastTrade ArabiaXML Travelgate, a travel technology business based in Spain, is exhibiting at Arabian Travel Market in Dubai next month for the first time to kickstart its move into the Middle East and...",
+            "date": "2015-04-21",
+            "categories": "xml",
+            "tags": "arabian,arabian_travel,arabian_travel_market,travel,travel_market,market,exhibiting,technology,technology-business,technology-business-based,business,business-based,based,middle,travelgate,middle_east,east,xml,xml_travelgate,spain,dubai",
+            "recuweb_url": "http://es.recuweb.com/xml/tradearabia.com/2015/04/xml-travelgate-targets-the-middle-east-trade-arabia",
+            "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
+            "source_url": "http://tradearabia.com/news/TTN_280274.html"
+        },
+        "law360.com/2015/04/merits-of-an-xml-based-invention-disclosure-standard-law360-subscription": {
+            "title": "Merits Of An XML-Based Invention Disclosure Standard - Law360 (subscription)...",
+            "snippet": "Merits Of An XML-Based Invention Disclosure StandardLaw360 (subscription)1 An XML-based invention disclosure standard can fulfill a critical need that conventional invention disclosure forms fail to address, namely validation of invention data and...",
             "date": "2015-04-17",
             "categories": "xml",
-            "tags": "microsoft,windows,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/techrepublic.com/2015/04/microsoft-hides-a-windows-10-easter-egg-in-7-8-1",
+            "tags": "data,based,that,xml",
+            "recuweb_url": "http://es.recuweb.com/xml/law360.com/2015/04/merits-of-an-xml-based-invention-disclosure-standard-law360-subscription",
             "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
-            "source_url": "http://techrepublic.com/article/microsoft-hides-a-windows-10-easter-egg-in-windows-78-1-systems/"
+            "source_url": "http://law360.com/articles/640012/merits-of-an-xml-based-invention-disclosure-standard"
         },
         "expansion.com/2015/04/comunicado-puig-supera-en-2014-los-m-p-xml": {
             "title": "COMUNICADO: Puig supera en 2014 los M P XML/i...",
             "snippet": "Puig alcanza en 2014 unas ventas netas de MNOTICIA 20150416140619 25 ZZ POL PLT 16/04/2015 14:06:19 Pedro S\u00e1nchez (PSOE) advierte a Montoro de que los casos Rato y B\u00e1rcenas son \"s\u00edntomas\" LLEIDA, 16 (EUROPA PRESS) El secretario general del...",
             "date": "2015-04-16",
             "categories": "xml",
-            "tags": "son,xml",
+            "tags": "press,xml",
             "recuweb_url": "http://es.recuweb.com/xml/expansion.com/2015/04/comunicado-puig-supera-en-2014-los-m-p-xml",
             "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
             "source_url": "http://expansion.com/agencia/europa_press/2015/04/16/20150416140342.html"
         },
-        "movilzona.es/2015/04/nuevo-recovery-para-el-s6-del-teamwin-project": {
-            "title": "Nuevo recovery para el S6 del TeamWin Recovery Project...",
-            "snippet": "Tiene una interfaz t\u00e1ctil, sin necesidad de usar los botones de volumen o de encendido. La interfaz est\u00e1 basada en la especificaci\u00f3n XML y admite temas, pudiendo cambiar cualquier aspecto de la interfaz.",
-            "date": "2015-04-14",
-            "categories": "xml",
-            "tags": "xml",
-            "recuweb_url": "http://es.recuweb.com/xml/movilzona.es/2015/04/nuevo-recovery-para-el-s6-del-teamwin-project",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
-            "source_url": "http://movilzona.es/foro/nuevo-recovery-para-del-teamwin-recovery-project-t16700.html"
-        },
-        "diariodeboadilla.es/2015/04/analistas-y-programadores-para-banca": {
-            "title": "Analistas y Programadores para BANCA...",
-            "snippet": "Lenguajes de Programaci\u00f3n: COBOL, CSS3, CICS, JCL, JAVA, J2EE,.NET, HTML5, XML, JavaScript), PL/SQL, DEVELOPERS (FORMS REPORTS), PROC, VISUAL BASIC. INFRAESTRUCTURA BASE/BASES DE DATOS: DB2, UDB, ORACLE, SQL SERVER, ADABAS, INFORMIX. Otras...",
-            "date": "2015-04-08",
-            "categories": "css,java,html,xml,javascript",
-            "tags": "datos,base,visual,java,xml",
-            "recuweb_url": "http://es.recuweb.com/javascript/diariodeboadilla.es/2015/04/analistas-y-programadores-para-banca",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
-            "source_url": "http://diariodeboadilla.es/20150408349892/madrid-analistas-programadores-para-banca-of-i6515cd109e41cba32497f7e7c47ce1"
-        },
-        "root.cz/2015/04/java-api-pro-pr%C3%A1ci-s-dokumenty-xml": {
-            "title": "Java API pro pr\u00e1ci s dokumenty XML -...",
-            "snippet": "Java API pro pr\u00e1ci s dokumenty programovac\u00edm jazyce Java je zn\u00e1m\u00e9, e usnaduje v\u00fdvoj\u00e1m rychl\u00e9 psan\u00ed funkn\u00edho a udrovateln\u00e9ho k\u00f3du. V tomto duchu zahrnuje tak\u00e9 nkolik API pro snadn\u00e9 ten\u00ed nebo modifikaci XML dokument, jejich validaci...",
-            "date": "2015-04-08",
-            "categories": "java,xml",
-            "tags": "java,api,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/root.cz/2015/04/java-api-pro-pr%C3%A1ci-s-dokumenty-xml",
-            "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
-            "source_url": "http://root.cz/zpravicky/java-api-pro-praci-s-dokumenty-xml/"
-        },
         "datacenterknowledge.com/2015/04/data-center-layout-visualization-with-xml-and-xslt-knowledge": {
             "title": "Data Center Layout Visualization With XML and XSLT - Data Center Knowledge...",
-            "snippet": "Data Center Layout Visualization With XML and XSLTData Center KnowledgeComputing has evolved from IBM mainframes to personal computers to thin servers; and so have data centers, becoming more sophisticated and complex. With the emergence of cloud...",
+            "snippet": "Data Center Layout Visualization With XML and XSLTData Center KnowledgeAfter evaluating some alternatives, it seems that XML may be the best choice for describing the model for a data center layout. XML, as we know, is a text file with syntax and...",
             "date": "2015-04-07",
             "categories": "xml",
-            "tags": "xml",
+            "tags": "data,that,xml",
             "recuweb_url": "http://es.recuweb.com/xml/datacenterknowledge.com/2015/04/data-center-layout-visualization-with-xml-and-xslt-knowledge",
             "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
             "source_url": "http://datacenterknowledge.com/archives/2015/04/07/data-center-layout-visualization-xml-xslt/"
-        },
-        "panoramaaudiovisual.com/2015/04/ebantic-facilita-la-integraci%C3%B3n-de-sistemas-con-bus4media": {
-            "title": "Ebantic facilita la integraci\u00f3n de sistemas con BUS4media...",
-            "snippet": "Hoy en d\u00eda ya podemos decir que el sector audiovisual se encuentra totalmente digitalizado. Conceptos como API, webservices, SOA, Machine2Machine, XML, que hace una d\u00e9cada empezaban a aparecer, ahora son uno de los puntos mas importantes en...",
-            "date": "2015-04-07",
-            "categories": "xml",
-            "tags": "son,podemos,encuentra,facilita,conceptos,api,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/panoramaaudiovisual.com/2015/04/ebantic-facilita-la-integraci%C3%B3n-de-sistemas-con-bus4media",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
-            "source_url": "http://panoramaaudiovisual.com/2015/04/07/ebantic-facilita-la-integracion-de-sistemas-con-bus4media/"
-        },
-        "softzone.es/2015/04/microsoft-ya-avisa-a-sus-usuarios-de-la-actualizaci%C3%B3n-windows-10": {
-            "title": "Microsoft ya avisa a sus usuarios de la actualizaci\u00f3n a Windows 10...",
-            "snippet": "Fases En la propia carpeta se encuentra un archivo de configuraci\u00f3n XML en el que podemos observar el comportamiento que va a tener el programa una vez que se vayan cumpliendo los tramos que ha establecido Microsoft. Actualmente se encuentra en la...",
-            "date": "2015-04-06",
-            "categories": "xml",
-            "tags": "encuentra,podemos,archivo,microsoft,windows,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/softzone.es/2015/04/microsoft-ya-avisa-a-sus-usuarios-de-la-actualizaci%C3%B3n-windows-10",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=xml&format=RSS&cc=es",
-            "source_url": "http://softzone.es/2015/04/07/microsoft-avisa-actualizacion-windows-10/"
-        },
-        "breakingtravelnews.com/2015/04/totalstay-group-selects-triometric-s-real-time-xml-intelligence-breaking-travel": {
-            "title": "TotalStay Group selects Triometric's real-time XML intelligence... - Breaking Travel News...",
-            "snippet": "TotalStay Group selects Triometric's real-time XML intelligence...Breaking Travel NewsTriometric, the leading provider of real-time operational and XML business intelligence to the online travel industry today announced that its unique Web Services...",
-            "date": "2015-04-03",
-            "categories": "xml",
-            "tags": "travel,xml",
-            "recuweb_url": "http://es.recuweb.com/xml/breakingtravelnews.com/2015/04/totalstay-group-selects-triometric-s-real-time-xml-intelligence-breaking-travel",
-            "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
-            "source_url": "http://breakingtravelnews.com/focus/article/totalstay-group-selects-triometrics-real-time-xml-intelligence-technology-t/"
-        },
-        "heise.de/2015/04/angriff-auf-xml-rpc-zwingt-wordpress-in-die-knie-c-t": {
-            "title": "Angriff auf XML-RPC zwingt WordPress in die Knie - c't...",
-            "snippet": "Angriff auf XML-RPC zwingt WordPress in die Kniec'tDurch Schwachstellen im verwendeten XML-Protokoll kann diese Schnittstelle mit relativ wenig Traffic so manipuliert werden, dass sie den CGI-Prozess von PHP auslastet, ohne dass er abst\u00fcrzt. Das...",
-            "date": "2015-04-01",
-            "categories": "xml,wordpress,php",
-            "tags": "xml",
-            "recuweb_url": "http://es.recuweb.com/php/heise.de/2015/04/angriff-auf-xml-rpc-zwingt-wordpress-in-die-knie-c-t",
-            "resource_url": "http://news.google.es/?hl=es&q=xml%2Bxml&output=atom&nord=1",
-            "source_url": "http://heise.de/ct/hotline/Angriff-auf-XML-RPC-zwingt-WordPress-in-die-Knie-2585367.html"
         }
     }
 }

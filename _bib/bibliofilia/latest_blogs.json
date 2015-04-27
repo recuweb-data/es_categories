@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bibliofilia",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bibliofilia/",
@@ -16,7 +17,7 @@
             "date": "2015-04-14",
             "author_name": "biblioaprenent",
             "categories": "bibliofilia",
-            "tags": "per,els,bibliof\u00edlia,tot,seu,cultural,frases,biblioaprenent",
+            "tags": "per,els,bibliof\u00edlia,tot,seu,frases,biblioaprenent",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/biblioaprenent.wordpress.com/2015/04/frases-sobre-bibliof%C3%ADlia-394-biblioaprenent",
             "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://biblioaprenent.wordpress.com/2015/04/14/frases-sobre-bibliofilia-394/"
@@ -27,7 +28,7 @@
             "date": "2015-04-05",
             "author_name": "Carlita Angelotti Fuentes",
             "categories": "bibliofilia",
-            "tags": "horas,vida,carlitiable,bibliofilia,hola",
+            "tags": "vida,verde,carlitiable,bibliofilia,hola",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/carlitiable.blogspot.com/2015/04/carlitiable-bibliofilia-la-milla-verde-stephen-king",
             "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://carlitiable.blogspot.com/2015/04/bibliofilia-la-milla-verde-stephen-king.html"
@@ -38,7 +39,7 @@
             "date": "2015-04-05",
             "author_name": "biblioaprenent",
             "categories": "bibliofilia",
-            "tags": "son,hay,bibli\u00f3filos,frases,bibliof\u00edlia,biblioaprenent,editores",
+            "tags": "cierto,hay,frases,bibliof\u00edlia,biblioaprenent,barcelona,son",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/biblioaprenent.wordpress.com/2015/04/frases-sobre-bibliof%C3%ADlia-393-biblioaprenent",
             "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://biblioaprenent.wordpress.com/2015/04/05/frases-sobre-bibliofilia-393/"
@@ -49,7 +50,7 @@
             "date": "2015-03-30",
             "author_name": "biblioaprenent",
             "categories": "bibliofilia",
-            "tags": "per,\u00e9s,seu,primer,els,frases,bibliof\u00edlia,biblioaprenent,tot",
+            "tags": "per,\u00e9s,seu,els,frases,bibliof\u00edlia,biblioaprenent,tot",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/biblioaprenent.wordpress.com/2015/03/frases-sobre-bibliof%C3%ADlia-392-biblioaprenent",
             "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://biblioaprenent.wordpress.com/2015/03/30/frases-sobre-bibliofilia-392/"
@@ -71,10 +72,21 @@
             "date": "2015-02-25",
             "author_name": "Carlita Angelotti Fuentes",
             "categories": "bibliofilia",
-            "tags": "vida,carlitiable,bibliofilia,hola,libros",
+            "tags": "verano,vida,john,carlitiable,bibliofilia,hola,libros",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/carlitiable.blogspot.com/2015/02/carlitiable-bibliofilia-el-hombre-equivocado-john-katzenbach",
             "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://carlitiable.blogspot.com/2015/02/bibliofilia-el-hombre-equivocado-john.html"
+        },
+        "blogdebibliofilia.blogspot.com/2015/02/blog-de-bibliofilia-la-encuesta-benedetto-varchi": {
+            "title": "Blog de bibliofilia: LA ENCUESTA DE BENEDETTO VARCHI...",
+            "snippet": "Sucede con frecuencia que el ejercicio de un cierto conocimiento especializado acaba asociado a un cierto alejamiento de la realidad. Se podr\u00edan encontrar m\u00faltiples ejemplos pr\u00e1cticos que lo confirmen, pero no es...",
+            "date": "2015-02-10",
+            "author_name": "Urzay",
+            "categories": "conocimiento,bibliofilia",
+            "tags": "cierto,bibliofilia",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/blogdebibliofilia.blogspot.com/2015/02/blog-de-bibliofilia-la-encuesta-benedetto-varchi",
+            "resource_url": "http://www.google.com/search?q=bibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogdebibliofilia.blogspot.com/2015/02/la-encuesta-de-benedetto-varchi.html"
         },
         "clasicos.hypotheses.org/2014/11/los-estudios-cl%C3%A1sicos-desde-la-bibliofilia-razones": {
             "title": "Los Estudios Cl\u00e1sicos desde la Bibliofilia: razones de un...",
@@ -82,43 +94,21 @@
             "date": "2014-11-28",
             "author_name": "Prof. Dr. Francisco Garc\u00eda-Jurado",
             "categories": "bibliofilia",
-            "tags": "bibliofilia",
+            "tags": "biblioteca,bibliofilia",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/clasicos.hypotheses.org/2014/11/los-estudios-cl%C3%A1sicos-desde-la-bibliofilia-razones",
             "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://clasicos.hypotheses.org/984"
         },
-        "biblioaprenent.wordpress.com/2014/01/frases-sobre-bibliof%C3%ADlia-343-biblioaprenent": {
-            "title": "Frases sobre Bibliof\u00edlia 343 Biblioaprenent...",
-            "snippet": "En lo segle XVII les Marques van adquirint ja altre car\u00e1cter. Per algunes d'elles s'endevina que son possessor no ha tingut iniciativa pr\u00f2pria, y ha estrafet arques extrangeres cambiant tan sols les inicials. Altres han seguit...",
-            "date": "2014-01-30",
-            "author_name": "biblioaprenent",
+        "leamosmas.com/2012/06/bibliofilia-biblioman%C3%ADa-leamos": {
+            "title": "\u00bfBibliofilia? \u00bfBiblioman\u00eda? Leamos M\u00e1s...",
+            "snippet": "La Bibliofilia es el amor por los libros; y el bibli\u00f3filo es el amante o aficionado a las ediciones de ciertos t\u00edtulos, a los empastes especiales, al aroma de las p\u00e1ginas, y en general a todo lo que se relacione con mantener una...",
+            "date": "2012-06-16",
+            "author_name": "Claudia Gilardoni",
             "categories": "bibliofilia",
-            "tags": "son,frases,bibliof\u00edlia,biblioaprenent,per",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/biblioaprenent.wordpress.com/2014/01/frases-sobre-bibliof%C3%ADlia-343-biblioaprenent",
-            "resource_url": "http://www.google.com/search?q=bibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://biblioaprenent.wordpress.com/2014/01/30/frases-sobre-bibliofilia-343/"
-        },
-        "blogdebibliofilia.blogspot.com/2014/01/blog-de-bibliofilia-el-elzeviri%C3%B3metro": {
-            "title": "Blog de bibliofilia: EL ELZEVIRI\u00d3METRO...",
-            "snippet": "Los bibli\u00f3filos escrutaban las librer\u00edas de toda Europa en su b\u00fasqueda, los clasificaban por la pulcritud de la edici\u00f3n, valoraban sus dimensiones con la precisi\u00f3n desmedida del buen Teodoro, pues no en vano se llegaron a...",
-            "date": "2014-01-27",
-            "author_name": "Urzay",
-            "categories": "bibliofilia",
-            "tags": "edici\u00f3n,bibli\u00f3filos,bibliofilia,librer\u00edas",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/blogdebibliofilia.blogspot.com/2014/01/blog-de-bibliofilia-el-elzeviri%C3%B3metro",
-            "resource_url": "http://www.google.com/search?q=bibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogdebibliofilia.blogspot.com/2014/01/el-elzeviriometro.html"
-        },
-        "pildorasdesabiduria.blogspot.com/2014/01/pildoras-de-sabiduria-bibliofilia": {
-            "title": "Pildoras de Sabiduria: Bibliofilia...",
-            "snippet": "lunes, 27 de enero de 2014. Bibliofilia. Pubblicato da Nabila Pe\u00f1a a 21:00. Etichette: Reflexiones. No hay comentarios: Publicar un comentario en la entrada. Entrada m\u00e1s reciente Entrada antigua P\u00e1gina principal. Suscribirse a: Enviar...",
-            "date": "2014-01-27",
-            "author_name": "Nabila Pe\u00f1a",
-            "categories": "bibliofilia",
-            "tags": "hay,bibliofilia",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/pildorasdesabiduria.blogspot.com/2014/01/pildoras-de-sabiduria-bibliofilia",
-            "resource_url": "http://www.google.com/search?q=bibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pildorasdesabiduria.blogspot.com/2014/01/bibliofilia.html"
+            "tags": "bibliofilia,libros",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/leamosmas.com/2012/06/bibliofilia-biblioman%C3%ADa-leamos",
+            "resource_url": "http://www.google.com/search?q=bibliofilia%2Bbibliofilia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://leamosmas.com/2012/06/que-hace-bibliofilo/"
         }
     }
 }

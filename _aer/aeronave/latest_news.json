@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "aeronave",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/aeronave/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/aeronave/aeronave/blogs.json"
     },
     "items": {
-        "infobae.com/2015/03/accidente-a%C3%A9reo-en-uruguay-trasladaron-los-restos-del-avi%C3%B3n-al-aeropuerto": {
-            "title": "Accidente a\u00e9reo en Uruguay: trasladaron los restos del avi\u00f3n al aeropuerto de Carrasco...",
-            "snippet": "Este s\u00e1bado por la ma\u00f1ana se completaron las tareas de remoci\u00f3n de las partes de la aeronave, que fueron movidas para continuar con la investigaci\u00f3n. Las pericias tardar\u00e1n, al menos, tres meses Este s\u00e1bado se completaron las tareas de...",
-            "date": "2015-03-22",
+        "laopinion.com/2015/04/an-2-el-avi%C3%B3n-que-puede-volar-hacia-atr%C3%A1s-la-opini%C3%B3n": {
+            "title": "An-2, el avi\u00f3n que puede volar hacia atr\u00e1s - La Opini\u00f3n...",
+            "snippet": "La Opini\u00f3nAn-2, el avi\u00f3n que puede \"volar\" hacia atr\u00e1sLa Opini\u00f3nTiene un aspecto arcaico y sin embargo no hay otra aeronave moderna que pueda hacer lo que consigue el sovi\u00e9tico An-2. Por eso, casi 70 a\u00f1os despu\u00e9s de su dise\u00f1o, se sigue...",
+            "date": "2015-04-23",
             "categories": "aeronave",
-            "tags": "avi\u00f3n,accidente,uruguay,aeropuerto,ma\u00f1ana,aeronave",
-            "recuweb_url": "http://es.recuweb.com/aeronave/infobae.com/2015/03/accidente-a%C3%A9reo-en-uruguay-trasladaron-los-restos-del-avi%C3%B3n-al-aeropuerto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
-            "source_url": "http://infobae.com/2015/03/22/1717462-accidente-aereo-uruguay-trasladaron-los-restos-del-avion-al-aeropuerto-carrasco"
-        },
-        "elpais.com.uy/2015/03/avi%C3%B3n-ten%C3%ADa-sus-permisos-en-regla-diario-el-pa%C3%ADs": {
-            "title": "Avi\u00f3n ten\u00eda sus permisos en regla - Diario El Pa\u00eds...",
-            "snippet": "Diario El Pa\u00edsAvi\u00f3n ten\u00eda sus permisos en reglaDiario El Pa\u00edsAnte la consulta de si la aeronave siniestrada pose\u00eda habilitaci\u00f3n para volar, desde la JIAAC expusieron que no tienen competencia en las habilitaciones ya que las mismas dependen de...",
-            "date": "2015-03-21",
-            "categories": "aeronave",
-            "tags": "volar,ten\u00eda,pa\u00eds,avi\u00f3n,aeronave",
-            "recuweb_url": "http://es.recuweb.com/aeronave/elpais.com.uy/2015/03/avi%C3%B3n-ten%C3%ADa-sus-permisos-en-regla-diario-el-pa%C3%ADs",
+            "tags": "puede,hacia,avi\u00f3n,aeronave",
+            "recuweb_url": "http://es.recuweb.com/aeronave/laopinion.com/2015/04/an-2-el-avi%C3%B3n-que-puede-volar-hacia-atr%C3%A1s-la-opini%C3%B3n",
             "resource_url": "http://news.google.es/?hl=es&q=aeronave%2Baeronave&output=atom&nord=1",
-            "source_url": "http://elpais.com.uy/informacion/avion-tenia-permisos-regla-tragedias.html"
+            "source_url": "http://laopinion.com/bbc/20150422/An-2-el-avion-que-puede-volar-hacia-atras"
         },
-        "diario26.com/2015/03/el-avi%C3%B3n-habr%C3%ADa-sufrido-un-problema-en-los-motores": {
-            "title": "El avi\u00f3n habr\u00eda sufrido un problema en los motores...",
-            "snippet": "La aeronave argentina Beechcraft King B-90 turboh\u00e9lice que se estrell\u00f3 cerca de la ciudad uruguaya de Punta del Este pudo haber tenido una falla en los motores. Las causas por las cuales la aeronave cay\u00f3 a las, casi inmediatamente despu\u00e9s de...",
-            "date": "2015-03-21",
-            "categories": "aeronave",
-            "tags": "cay\u00f3,falla,uruguaya,turboh\u00e9lice,estrell\u00f3,beechcraft,beechcraft_king,king,avi\u00f3n,habr\u00eda,aeronave,argentina,ciudad,punta",
-            "recuweb_url": "http://es.recuweb.com/aeronave/diario26.com/2015/03/el-avi%C3%B3n-habr%C3%ADa-sufrido-un-problema-en-los-motores",
+        "el-mexicano.com.mx/2015/04/primer-jet-ejecutivo-de-m%C3%A9xico-se-har%C3%A1": {
+            "title": "PRIMER JET EJECUTIVO DE M\u00c9XICO SE HAR\u00c1 AQU\u00cd...",
+            "snippet": "El Spectrum S-40 ser\u00e1 el resultado de m\u00e1s de treinta a\u00f1os de perfeccionamiento de la tecnolog\u00eda de fibra de carbono, que ha sido impulsada por dicha empresa; una aeronave tipo jet de negocios, tama\u00f1o medio, que puede acomodar hasta nueve...",
+            "date": "2015-04-23",
+            "categories": "tecnologia,aeronave",
+            "tags": "puede,tipo,primer,m\u00e9xico,aeronave",
+            "recuweb_url": "http://es.recuweb.com/aeronave/el-mexicano.com.mx/2015/04/primer-jet-ejecutivo-de-m%C3%A9xico-se-har%C3%A1",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
-            "source_url": "http://diario26.com/el-avion-habria-sufrido-un-problema-en-los-motores-205288.html"
+            "source_url": "http://el-mexicano.com.mx/informacion/noticias/1/3/estatal/2015/04/23/846729/primer-jet-ejecutivo-de-mexico-se-hara-aqui"
         },
-        "unosantafe.com.ar/2015/03/la-ca%C3%ADda-del-avi%C3%B3n-en-uruguay-se-produjo-por-falla": {
-            "title": "La ca\u00edda del avi\u00f3n en Uruguay se produjo por la falla de una turbina...",
-            "snippet": "El desperfecto ocurri\u00f3 a 30 segundos de despegar la aeronave. El accidente del avi\u00f3n Beechcraft King B-90 turboh\u00e9lice que se estrell\u00f3 en Laguna del Sauce, en el departamento uruguayo de Maldonado, se habr\u00eda producido por una falla en una de...",
-            "date": "2015-03-21",
+        "deia.com/2015/04/era-una-pareja-a-la-que-le-gustaba-viajar": {
+            "title": "Era una pareja a la que le gustaba viajar y lo hicieron hasta el final...",
+            "snippet": "Siete fallecidos Seg\u00fan ha informado el presidente de la Comisi\u00f3n de Investigaci\u00f3n de Accidentes de Aviaci\u00f3n (CIAA), el coronel Enmanuel Souffront Tamayo, la aeronave -modelo Pipper Cherokee PA-32- sufri\u00f3 un fallo y cay\u00f3 a tierra poco despu\u00e9s...",
+            "date": "2015-04-23",
             "categories": "aeronave",
-            "tags": "habr\u00eda,falla,uruguayo,turboh\u00e9lice,estrell\u00f3,beechcraft,beechcraft_king,king,accidente,avi\u00f3n,despegar,uruguay,aeronave,laguna,sauce,maldonado",
-            "recuweb_url": "http://es.recuweb.com/aeronave/unosantafe.com.ar/2015/03/la-ca%C3%ADda-del-avi%C3%B3n-en-uruguay-se-produjo-por-falla",
+            "tags": "sufri\u00f3,sufri\u00f3-un-fallo,fallo,fallo-cay\u00f3,cay\u00f3,pipper,pipper_cherokee,cherokee,enmanuel,enmanuel_souffront,enmanuel_souffront_tamayo,souffront,souffront_tamayo,tamayo,coronel,informado,presidente,final,siete,comisi\u00f3n,investigaci\u00f3n,accidentes,aviaci\u00f3n,ciaa,aeronave,modelo",
+            "recuweb_url": "http://es.recuweb.com/aeronave/deia.com/2015/04/era-una-pareja-a-la-que-le-gustaba-viajar",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
-            "source_url": "http://unosantafe.com.ar/contenidos/2015/03/21/noticia_93920040.html"
+            "source_url": "http://deia.com/2015/04/23/sociedad/euskadi/era-una-pareja-a-la-que-le-gustaba-viajar-y-lo-hicieron-hasta-el-final"
         },
-        "diario26.com/2015/03/era-su-primer-d%C3%ADa-de-trabajo-con-esa-aeronave": {
-            "title": "Era su primer d\u00eda de trabajo con esa aeronave...",
-            "snippet": "Marcelo Pivida, hermano de uno de los pilotos del avi\u00f3n siniestrado en cercan\u00edas de la ciudad uruguaya de Punta del Este, asegur\u00f3 esta ma\u00f1ana que era el primer d\u00eda de trabajo de Luis Pivida con esa aeronave, aunque destac\u00f3 que ten\u00eda...",
-            "date": "2015-03-20",
+        "elperiodico.com/2015/04/un-avi%C3%B3n-con-tres-cubiertas-pensado-para-el-medioambiente": {
+            "title": "Un avi\u00f3n con tres cubiertas pensado para el medioambiente...",
+            "snippet": "Esta nueva aeronave no le usar\u00eda combustibles f\u00f3siles, y se basar\u00eda en seis motores de hidr\u00f3geno, uno de ellos mixto (generador de viento/motor el\u00e9ctrico). Adem\u00e1s, tendr\u00eda un motor trasero y paneles solares en el techo y alas. El objetivo...",
+            "date": "2015-04-22",
             "categories": "aeronave",
-            "tags": "aunque,aunque-destac\u00f3,destac\u00f3,destac\u00f3-que-ten\u00eda,ten\u00eda,esa,luis,luis_pivida,pivida,era,era-el-primer,primer,primer-d\u00eda,d\u00eda,d\u00eda-de-trabajo,trabajo,asegur\u00f3,uruguaya,hermano,pilotos,pilotos-del-avi\u00f3n,avi\u00f3n,avi\u00f3n-siniestrado,siniestrado,siniestrado-en-cercan\u00edas,cercan\u00edas,marcelo,marcelo_pivida,trabajo-con-esa,aeronave,ciudad,punta,ma\u00f1ana",
-            "recuweb_url": "http://es.recuweb.com/aeronave/diario26.com/2015/03/era-su-primer-d%C3%ADa-de-trabajo-con-esa-aeronave",
+            "tags": "tendr\u00eda,ellos,avi\u00f3n,aeronave",
+            "recuweb_url": "http://es.recuweb.com/aeronave/elperiodico.com/2015/04/un-avi%C3%B3n-con-tres-cubiertas-pensado-para-el-medioambiente",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
-            "source_url": "http://diario26.com/era-su-primer-dia-de-trabajo-con-esa-aeronave-205246.html"
+            "source_url": "http://elperiodico.com/es/noticias/sociedad/avion-con-tres-cubiertas-pensado-para-medioambiente-4124431"
         },
-        "lanacion.com.ar/2015/03/era-su-primer-d%C3%ADa-de-trabajo-con-esa-aeronave-cont%C3%B3": {
-            "title": "Era su primer d\u00eda de trabajo con esa aeronave, cont\u00f3 el hermano... - (Argentina)...",
-            "snippet": "(Argentina)\"Era su primer d\u00eda de trabajo con esa aeronave\", cont\u00f3 el hermano... (Argentina)Marcelo Pivida, hermano de uno de los pilotos del avi\u00f3n siniestrado en cercan\u00edas de la ciudad uruguaya de Punta del Este, asegur\u00f3 esta ma\u00f1ana que era...",
-            "date": "2015-03-20",
+        "critica.com.pa/2015/04/aeronave-paname%C3%B1a-cae-en-aguas-internacionales-cr%C3%ADtica": {
+            "title": "Aeronave paname\u00f1a cae en aguas internacionales - Cr\u00edtica...",
+            "snippet": "Cr\u00edticaAeronave paname\u00f1a cae en aguas internacionalesCr\u00edticaDos tripulantes de un helic\u00f3ptero paname\u00f1o, marca Robinson, matriculado HP-1483 se accidentaron en aguas internacionales, en el Pac\u00edfico. Juan M\u00e9rida, vocero de la Autoridad de...",
+            "date": "2015-04-21",
             "categories": "aeronave",
-            "tags": "era,asegur\u00f3,uruguaya,hermano,pilotos,pilotos-del-avi\u00f3n,avi\u00f3n,avi\u00f3n-siniestrado,siniestrado,siniestrado-en-cercan\u00edas,cercan\u00edas,marcelo,marcelo_pivida,pivida,primer,primer-d\u00eda,d\u00eda,d\u00eda-de-trabajo,trabajo,trabajo-con-esa,esa,aeronave,argentina,ciudad,punta,ma\u00f1ana",
-            "recuweb_url": "http://es.recuweb.com/aeronave/lanacion.com.ar/2015/03/era-su-primer-d%C3%ADa-de-trabajo-con-esa-aeronave-cont%C3%B3",
+            "tags": "vocero,juan,juan_m\u00e9rida,m\u00e9rida,accidentaron,accidentaron-en-aguas,aguas,aguas-internacionales,internacionales,tripulantes,helic\u00f3ptero,helic\u00f3ptero-paname\u00f1o,paname\u00f1o,paname\u00f1a,cae,aeronave,cr\u00edtica,marca,robinson,matriculado,pac\u00edfico",
+            "recuweb_url": "http://es.recuweb.com/aeronave/critica.com.pa/2015/04/aeronave-paname%C3%B1a-cae-en-aguas-internacionales-cr%C3%ADtica",
             "resource_url": "http://news.google.es/?hl=es&q=aeronave%2Baeronave&output=atom&nord=1",
-            "source_url": "http://lanacion.com.ar/1777753-hermano-de-luis-pivida-piloto-avion-uruguay"
+            "source_url": "http://critica.com.pa/sucesos/aeronave-panamena-cae-en-aguas-internacionales-388914"
         },
-        "elpais.com.uy/2015/03/era-su-primer-d%C3%ADa-de-trabajo-con-esa-aeronave-dijo-hermano": {
-            "title": "Era su primer d\u00eda de trabajo con esa aeronave, dijo hermano de piloto...",
-            "snippet": "Marcelo Pivida, hermano de uno de los pilotos del avi\u00f3n siniestrado Laguna del Sauce, en Maldonado, asegur\u00f3 esta ma\u00f1ana que era \"el primer d\u00eda de trabajo\" de Luis Pivida con esa aeronave, aunque destac\u00f3 que ten\u00eda \"experiencia con ese tipo\" de...",
-            "date": "2015-03-20",
+        "elmundo.es/2015/04/siete-muertos-dos-de-ellos-espa%C3%B1oles-al-estrellarse-una-avioneta": {
+            "title": "Siete muertos, dos de ellos espa\u00f1oles, al estrellarse una avioneta en Rep\u00fablica Dominicana...",
+            "snippet": "El presidente de la Comisi\u00f3n de Investigaci\u00f3n de Accidentes de Aviaci\u00f3n (CIAA), coronel Enmanuel Souffront Tamayo, ha informado de que la aeronave, una Pipper Cherokee modelo PA-32 matr\u00edcula HI-957, sufri\u00f3 un fallo y cay\u00f3 a tierra en torno a...",
+            "date": "2015-04-21",
             "categories": "aeronave",
-            "tags": "aunque,aunque-destac\u00f3,destac\u00f3,destac\u00f3-que-ten\u00eda,ten\u00eda,esa,luis,luis_pivida,pivida,era,era-el-primer,primer,primer-d\u00eda,d\u00eda,d\u00eda-de-trabajo,trabajo,asegur\u00f3,hermano,pilotos,piloto,pilotos-del-avi\u00f3n,avi\u00f3n,avi\u00f3n-siniestrado,siniestrado,marcelo,marcelo_pivida,trabajo-con-esa,aeronave,laguna,sauce,maldonado,ma\u00f1ana",
-            "recuweb_url": "http://es.recuweb.com/aeronave/elpais.com.uy/2015/03/era-su-primer-d%C3%ADa-de-trabajo-con-esa-aeronave-dijo-hermano",
+            "tags": "sufri\u00f3,sufri\u00f3-un-fallo,fallo,fallo-cay\u00f3,cay\u00f3,pipper,pipper_cherokee,cherokee,informado,enmanuel,enmanuel_souffront,enmanuel_souffront_tamayo,souffront,souffront_tamayo,tamayo,presidente,rep\u00fablica,rep\u00fablica_dominicana,dominicana,estrellarse,estrellarse-una-avioneta,avioneta,dos,ellos,espa\u00f1oles,siete,comisi\u00f3n,investigaci\u00f3n,accidentes,aviaci\u00f3n,ciaa,coronel,aeronave,modelo",
+            "recuweb_url": "http://es.recuweb.com/aeronave/elmundo.es/2015/04/siete-muertos-dos-de-ellos-espa%C3%B1oles-al-estrellarse-una-avioneta",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
-            "source_url": "http://elpais.com.uy/informacion/primer-dia-esa-aeronave-dijo.html"
+            "source_url": "http://elmundo.es/espana/2015/04/20/5535303dca474178518b4578.html"
         },
-        "caracol.com.co/2015/03/aeronave-con-cuatro-ocupantes-se-precipit%C3%B3-a-tierra-caracol-radio": {
-            "title": "Aeronave con cuatro ocupantes se precipit\u00f3 a tierra - Caracol Radio...",
-            "snippet": "Blu RadioAeronave con cuatro ocupantes se precipit\u00f3 a tierraCaracol RadioLa Aeron\u00e1utica Civil, inform\u00f3 de un accidente de la aeronave Cessna 206 HK 2327 operada por empresa Aerol\u00edneas Llaneras ARALL, que cubr\u00eda la ruta Mit\u00fa-Carare que se...",
-            "date": "2015-03-20",
-            "categories": "aeronautica,radio,aeronave",
-            "tags": "accidente,ocupantes,aeronave,inform\u00f3",
-            "recuweb_url": "http://es.recuweb.com/aeronave/caracol.com.co/2015/03/aeronave-con-cuatro-ocupantes-se-precipit%C3%B3-a-tierra-caracol-radio",
-            "resource_url": "http://news.google.es/?hl=es&q=aeronave%2Baeronave&output=atom&nord=1",
-            "source_url": "http://caracol.com.co/noticias/actualidad/aeronave-con-cuatro-ocupantes-se-precipito-a-tierra/20150320/nota/2683745.aspx"
-        },
-        "es.noticias.yahoo.com/2015/03/aplazan-la-extracci%C3%B3n-de-los-cuerpos-avi%C3%B3n-siniestrado-en-uruguay": {
-            "title": "Aplazan la extracci\u00f3n de los cuerpos de avi\u00f3n siniestrado en Uruguay...",
-            "snippet": "Montevideo, 19 mar (EFE).- La extracci\u00f3n de los cuerpos de siete de los diez ocupantes de una aeronave que cay\u00f3 hoy sobre una laguna cuando despegaba del aeropuerto uruguayo de Punta del Este, se aplazo para este viernes a las GMT aunque...",
-            "date": "2015-03-20",
+        "critica.com.pa/2015/04/tripulantes-de-aeronave-paname%C3%B1a-caen-en-agua-internacional-cr%C3%ADtica": {
+            "title": "Tripulantes de aeronave paname\u00f1a caen en agua internacional - Cr\u00edtica...",
+            "snippet": "Cr\u00edticaTripulantes de aeronave paname\u00f1a caen en agua internacionalCr\u00edticaDos tripulantes de un helic\u00f3ptero paname\u00f1o, marca Robinson, matriculado HP-1483 se accidentaron en aguas internacionales, en el Pac\u00edfico. Juan M\u00e9rida, vocero de la...",
+            "date": "2015-04-21",
             "categories": "aeronave",
-            "tags": "uruguayo,cay\u00f3,cay\u00f3-hoy,hoy,laguna,laguna-cuando-despegaba,despegaba,extracci\u00f3n,cuerpos,cuerpos-de-siete,siete,diez,diez-ocupantes,ocupantes,avi\u00f3n,avi\u00f3n-siniestrado,siniestrado,uruguay,aeronave,aeropuerto,punta,aunque",
-            "recuweb_url": "http://es.recuweb.com/aeronave/es.noticias.yahoo.com/2015/03/aplazan-la-extracci%C3%B3n-de-los-cuerpos-avi%C3%B3n-siniestrado-en-uruguay",
-            "resource_url": "http://es.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=aeronave",
-            "source_url": "http://es.noticias.yahoo.com/aplazan-extracci\u00f3n-cuerpos-avi\u00f3n-siniestrado-uruguay-044207758.html"
-        },
-        "eluniverso.com/2015/03/avi%C3%B3n-argentino-que-cae-al-despegar-en-punta-del-este-no": {
-            "title": "Avi\u00f3n argentino que cae al despegar en Punta del Este, no deja... - El Universo...",
-            "snippet": "Periodico \u00f3n argentino que cae al despegar en Punta del Este, no deja...El UniversoLa extracci\u00f3n de los cuerpos de siete de los diez ocupantes de una aeronave que cay\u00f3 hoy sobre una laguna cuando despegaba del aeropuerto uruguayo de Punta del...",
-            "date": "2015-03-20",
-            "categories": "aeronave",
-            "tags": "uruguayo,cay\u00f3,cay\u00f3-hoy,hoy,laguna,laguna-cuando-despegaba,despegaba,extracci\u00f3n,cuerpos,cuerpos-de-siete,siete,diez,diez-ocupantes,ocupantes,despegar,avi\u00f3n,punta,aeronave,aeropuerto",
-            "recuweb_url": "http://es.recuweb.com/aeronave/eluniverso.com/2015/03/avi%C3%B3n-argentino-que-cae-al-despegar-en-punta-del-este-no",
+            "tags": "vocero,juan,juan_m\u00e9rida,m\u00e9rida,accidentaron,accidentaron-en-aguas,aguas,aguas-internacionales,internacionales,internacional,tripulantes,helic\u00f3ptero,helic\u00f3ptero-paname\u00f1o,paname\u00f1o,paname\u00f1a,aeronave,cr\u00edtica,marca,robinson,matriculado,pac\u00edfico",
+            "recuweb_url": "http://es.recuweb.com/aeronave/critica.com.pa/2015/04/tripulantes-de-aeronave-paname%C3%B1a-caen-en-agua-internacional-cr%C3%ADtica",
             "resource_url": "http://news.google.es/?hl=es&q=aeronave%2Baeronave&output=atom&nord=1",
-            "source_url": "http://eluniverso.com/noticias/2015/03/19/nota/4678661/avion-argentino-cae-despegar-punta-este-uruguay"
+            "source_url": "http://critica.com.pa/sucesos/tripulantes-de-aeronave-panamena-caen-en-agua-internacional-388914"
+        },
+        "politica.elpais.com/2015/04/dos-espa%C3%B1oles-mueren-al-estrellarse-su-avioneta-en-rep%C3%BAblica-dominicana": {
+            "title": "Dos espa\u00f1oles mueren al estrellarse su avioneta en Rep\u00fablica Dominicana...",
+            "snippet": "La aeronave, que hab\u00eda despegado del aeropuerto de Punta Cana con destino a la provincia de Saman\u00e1, se estrell\u00f3 en un campo de golf de B\u00e1varo, en la provincia de La Altagracia. El accidente ocurri\u00f3 aproximadamente a las ocho de la ma\u00f1ana,...",
+            "date": "2015-04-20",
+            "categories": "golf,aeronave",
+            "tags": "ocurri\u00f3,ma\u00f1ana,estrell\u00f3,campo,campo-de-golf,golf,destino,punta,punta_cana,cana,aeropuerto,rep\u00fablica,rep\u00fablica_dominicana,dominicana,espa\u00f1oles,mueren,estrellarse,avioneta,dos,aeronave",
+            "recuweb_url": "http://es.recuweb.com/aeronave/politica.elpais.com/2015/04/dos-espa%C3%B1oles-mueren-al-estrellarse-su-avioneta-en-rep%C3%BAblica-dominicana",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
+            "source_url": "http://politica.elpais.com/politica/2015/04/20/actualidad/1429548975_803670.html"
+        },
+        "venezuelaaldia.com/2015/04/encuentran-aeronave-siniestrada-en-el-estado-falc%C3%B3n-foto-venezuela-al-d%C3%ADa": {
+            "title": "Encuentran aeronave siniestrada en el estado Falc\u00f3n (Foto) - Venezuela Al D\u00eda...",
+            "snippet": "Venezuela Al D\u00edaEncuentran aeronave siniestrada en el estado Falc\u00f3n (Foto)Venezuela Al D\u00edaEfectivos de la GNB, pertenecientes al Patrullaje Inteligente del Cuadrante Zodi-Falc\u00f3n, localizaron una avioneta siniestrada tipo Cessa en el municipio...",
+            "date": "2015-04-20",
+            "categories": "aeronave",
+            "tags": "avioneta,tipo,estado,aeronave",
+            "recuweb_url": "http://es.recuweb.com/aeronave/venezuelaaldia.com/2015/04/encuentran-aeronave-siniestrada-en-el-estado-falc%C3%B3n-foto-venezuela-al-d%C3%ADa",
+            "resource_url": "http://news.google.es/?hl=es&q=aeronave&output=atom&nord=1",
+            "source_url": "http://venezuelaaldia.com/2015/04/encuentran-aeronave-siniestrada-en-el-estado-falcon-foto/"
+        },
+        "elconfidencial.com/2015/04/mueren-dos-espa%C3%B1oles-al-estrellarse-una-avioneta-en-rep%C3%BAblica-dominicana": {
+            "title": "Mueren dos espa\u00f1oles al estrellarse una avioneta en Rep\u00fablica Dominicana...",
+            "snippet": "La aeronave se habr\u00eda precipitado sobre el campo de golf de El Cocotal, en Punta Cana. En ella viajaban 7 personas: dos espa\u00f1oles, dos bolivianos, dos brit\u00e1nicos y el piloto, un dominicano. El presidente de la Comisi\u00f3n de Investigaci\u00f3n de...",
+            "date": "2015-04-20",
+            "categories": "golf,aeronave",
+            "tags": "presidente,dos,piloto,espa\u00f1oles,punta,punta_cana,cana,campo,campo-de-golf,golf,rep\u00fablica,rep\u00fablica_dominicana,dominicana,estrellarse,estrellarse-una-avioneta,avioneta,mueren,aeronave,personas,comisi\u00f3n,investigaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/aeronave/elconfidencial.com/2015/04/mueren-dos-espa%C3%B1oles-al-estrellarse-una-avioneta-en-rep%C3%BAblica-dominicana",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aeronave&format=RSS&cc=es",
+            "source_url": "http://elconfidencial.com/espana/2015-04-20/mueren-dos-espanoles-al-estrellarse-una-avioneta-en-republica-dominicana_763262/"
         }
     }
 }

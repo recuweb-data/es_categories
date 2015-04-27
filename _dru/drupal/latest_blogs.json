@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "drupal",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/drupal/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
+        "cloudcomputing4everyone.wordpress.com/2015/04/deploy-a-drupal-application-on-ibm-bluemix": {
+            "title": "Deploy a Drupal Application on IBM BlueMix...",
+            "snippet": "Deploy a Drupal Application on IBM BlueMix drupal cmsDeploy a Drupal Application on IBM BlueMixIBM Technical Rock Star Program...",
+            "date": "2015-04-22",
+            "author_name": "javybarabas",
+            "categories": "rock,drupal",
+            "tags": "drupal,deploy",
+            "recuweb_url": "http://es.recuweb.com/drupal/cloudcomputing4everyone.wordpress.com/2015/04/deploy-a-drupal-application-on-ibm-bluemix",
+            "resource_url": "http://es.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
+            "source_url": "http://cloudcomputing4everyone.wordpress.com/2015/04/22/deploy-a-drupal-application-on-ibm-bluemix/"
+        },
         "jsitech.com/2015/04/drupal-deploy-y-jackthestripper-jsitech": {
             "title": "Drupal deploy y JackTheStripper JsiTech...",
             "snippet": "En un post anterior hablaba sobre los CMS y JackTheStripper, y les mencionaba como iban WordPress y Joomla luego de asegurar el server con JackTheStripper. Pues muchos usuarios me comentaban los problemas que...",
             "date": "2015-04-17",
             "author_name": "Jason Soto",
             "categories": "drupal,wordpress,joomla",
-            "tags": "anterior,drupal,cms,wordpress,joomla",
+            "tags": "anterior,deploy,drupal,cms,wordpress,joomla",
             "recuweb_url": "http://es.recuweb.com/joomla/jsitech.com/2015/04/drupal-deploy-y-jackthestripper-jsitech",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://jsitech.com/linux/drupal-deploy-y-jackthestripper/"
@@ -27,7 +39,7 @@
             "date": "2015-04-17",
             "author_name": "Albert Coronado",
             "categories": "tecnologia,drupal",
-            "tags": "necesario,tecnolog\u00eda,drupal,desarrollo,web",
+            "tags": "necesario,portales,drupal,web",
             "recuweb_url": "http://es.recuweb.com/drupal/albertcoronado.com/2015/04/formaci%C3%B3n-drupal-desarrollo-de-m%C3%B3dulos-y-temas",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://albertcoronado.com/2015/04/17/formacion-drupal-desarrollo-de-modulos-y-temas-para-drupal/"
@@ -38,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "Jose Salgado",
             "categories": "drupal,joomla",
-            "tags": "suele,drupal,joomla,cms",
+            "tags": "suele,drupal,joomla,blogger,cms",
             "recuweb_url": "http://es.recuweb.com/joomla/exelisis.com/2015/04/wordpress-drupal-joomla-blogger-exelisis",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://exelisis.com/wordpress-drupal-joomla-blogger/"
@@ -49,7 +61,7 @@
             "date": "2015-04-08",
             "author_name": "Chiyana Simoes",
             "categories": "drupal",
-            "tags": "puede,anterior,drupal",
+            "tags": "puede,plantillas,anterior,tema,inusual,inusual_maquetar,maquetar,drupal,api",
             "recuweb_url": "http://es.recuweb.com/drupal/inusual.com/2015/04/inusual-maquetar-en-drupal-7-funciones-del-tema",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://inusual.com/articulos/maquetar-en-drupal-funciones-del-tema/"
@@ -71,7 +83,7 @@
             "date": "2015-03-31",
             "author_name": "Julian Gonzales",
             "categories": "drupal",
-            "tags": "puede,servidor,drupal,cms,web",
+            "tags": "potente,puede,gran,servidor,drupal,cms,web",
             "recuweb_url": "http://es.recuweb.com/drupal/hostdime.com.co/2015/03/servidor-vps-para-drupal-blog-hostdime-colombia",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hostdime.com.co/blog/servidor-vps-para-drupal/"
@@ -82,10 +94,21 @@
             "date": "2015-03-18",
             "author_name": "juanjo.galan",
             "categories": "drupal",
-            "tags": "nuevo,portal,suele,necesario,puede,drupal,web,contenidos",
+            "tags": "portal,suele,necesario,puede,drupal,web,contenidos",
             "recuweb_url": "http://es.recuweb.com/drupal/blog.solucionex.com/2015/03/drupal-migrate-multiples-ficheros-el-blog-de-solucionex",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.solucionex.com/drupal-7/drupal-migrate-multiples-ficheros"
+        },
+        "inusual.com/2015/03/inusual-maquetar-en-drupal-7": {
+            "title": "INUSUAL Maquetar en Drupal 7...",
+            "snippet": "Si te ha tocado un proyecto en Drupal 7, es muy probable que hayas tenido que maquetar,o crear alg\u00fan tema para la plataforma. La verdad es que la API de plantillas de Drupal es muy potente, pero un mal uso puede ser causa de muchos...",
+            "date": "2015-03-11",
+            "author_name": "Chiyana Simoes",
+            "categories": "drupal",
+            "tags": "puede,muy,potente,plantillas,tema,tenido,maquetar,proyecto,inusual,inusual_maquetar,drupal,crear,api",
+            "recuweb_url": "http://es.recuweb.com/drupal/inusual.com/2015/03/inusual-maquetar-en-drupal-7",
+            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://inusual.com/articulos/maquetar-en-drupal-7/"
         },
         "adrian16dh.wordpress.com/2015/02/instalaci%C3%B3n-de-servidor-lamp": {
             "title": "Instalaci\u00f3n de servidor LAMP...",
@@ -93,32 +116,10 @@
             "date": "2015-02-24",
             "author_name": "adrian16dh",
             "categories": "drupal",
-            "tags": "completo,vamos,instalaci\u00f3n,servidor,parte,drupal,lamp",
+            "tags": "completo,servidor,parte,proyecto,drupal,\u00fal",
             "recuweb_url": "http://es.recuweb.com/drupal/adrian16dh.wordpress.com/2015/02/instalaci%C3%B3n-de-servidor-lamp",
             "resource_url": "http://es.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://adrian16dh.wordpress.com/2015/02/24/instalacion-de-servidor-lamp/"
-        },
-        "marcoscat6.wordpress.com/2015/02/instalaci%C3%B3n-de-servidor-lamp-e-y-configuraci%C3%B3n-drupal-en-linux": {
-            "title": "Instalaci\u00f3n de servidor LAMP e instalaci\u00f3n y configuraci\u00f3n de Drupal en Linux...",
-            "snippet": "Muy buenas a todos, en este post vamos a explicar como instalar un servidor LAMP y como instalar y configurar Drupal en nuestro servidor Linux Rivendell Empezaremos explicando la instalaci\u00f3n del servidor LAMP. Instalando Apache: apt-get install...",
-            "date": "2015-02-20",
-            "author_name": "marcoscat6",
-            "categories": "drupal",
-            "tags": "instalaci\u00f3n,servidor,vamos,lamp,drupal",
-            "recuweb_url": "http://es.recuweb.com/drupal/marcoscat6.wordpress.com/2015/02/instalaci%C3%B3n-de-servidor-lamp-e-y-configuraci%C3%B3n-drupal-en-linux",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=drupal%2Bdrupal&rss=1&lng=es",
-            "source_url": "http://marcoscat6.wordpress.com/2015/02/20/instalacion-de-servidor-lamp-e-instalacion-y-configuracion-de-drupal-en-linux/"
-        },
-        "osl.ugr.es/2015/02/taller-de-drupal-por-ezequiel-v%C3%A1zquez-oficina-software-libre": {
-            "title": "Taller de Drupal por Ezequiel V\u00e1zquez Oficina de Software Libre...",
-            "snippet": "Drupal es uno de los CMS (sistema gestor de contenidos) m\u00e1s usados a lo largo y ancho del mundo, y el que m\u00e1s posibilidades y funcionalidades ofrece al desarrollador. Sin embargo, es necesario reconocer que la curva...",
-            "date": "2015-02-16",
-            "author_name": "Renato Luis Ramirez Rivero",
-            "categories": "drupal",
-            "tags": "necesario,software,libre,drupal,cms,sistema,gestor,contenidos",
-            "recuweb_url": "http://es.recuweb.com/drupal/osl.ugr.es/2015/02/taller-de-drupal-por-ezequiel-v%C3%A1zquez-oficina-software-libre",
-            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://osl.ugr.es/2015/02/16/taller-de-drupal-por-ezequiel-vazquez/"
         }
     }
 }

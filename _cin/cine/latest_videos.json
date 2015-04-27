@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "cine",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cine/",
@@ -10,69 +11,57 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cine/cine/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/m%C3%A1s-frases-%C3%A9picas-de-cine": {
-            "title": "M\u00e1s Frases \u00c9picas de Cine...",
-            "snippet": "M\u00e1s Frases \u00c9picas de Cine Making of y chorraditas en Wasabi Vlogs! \u00a1Suscr\u00edbete a Wasabi Humor! \u00a1Suscr\u00edbete a Wasabi Vlogs! Facebook... From: Wasabi Humor Views: 8241 1357 ratings Time: 03:34 More in Entertainment...",
-            "date": "2015-04-19",
-            "author_name": "Wasabi Humor",
-            "categories": "humor,cine,facebook",
-            "tags": "suscr\u00edbete,cine,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2015/04/m%C3%A1s-frases-%C3%A9picas-de-cine",
+        "dailymotion.com/2015/04/pablo-piedras-cine-documental-en-primera-persona-5-y-literatura": {
+            "title": "Pablo Piedras: Cine documental en primera persona 5/5. Cine y Literatura...",
+            "snippet": "Pablo Piedras, autor de El cine documental en primera persona, plantea las relaciones que existen entre este tipo de cine y la literatura argentina reciente. Doctor en Filosof\u00eda y Letras con orientaci\u00f3n en Teor\u00eda e Historia de las Artes por la...",
+            "date": "2015-04-23",
+            "author_name": "DJaAM-Documentary-films",
+            "categories": "cine,literatura",
+            "tags": "cine,historia",
+            "recuweb_url": "http://es.recuweb.com/literatura/dailymotion.com/2015/04/pablo-piedras-cine-documental-en-primera-persona-5-y-literatura",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cine+cine/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2noqtg_pablo-piedras-cine-documental-en-primera-persona-5-5-cine-y-literatura_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2noqtg_pablo-piedras-cine-documental-en-primera-persona-5-5-cine-y-literatura_shortfilms"
+        },
+        "youtube.com/2015/04/un-d%C3%ADa-con-actores-festival-cine-de-m%C3%A1laga": {
+            "title": "Un d\u00eda con actores Festival cine de M\u00e1laga...",
+            "snippet": "Un d\u00eda con actores Festival cine de M\u00e1laga Un d\u00eda s\u00faper divertido en el festival de cine de M\u00e1laga! Acompa\u00f1amos a los protagonistas al preestreno de la pel\u00edcula C\u00f3mo sobrevivir a una despedida. Redes sociales INSTAGRAM... From: Nightnonstop...",
+            "date": "2015-04-22",
+            "author_name": "Nightnonstop",
+            "categories": "cine",
+            "tags": "pel\u00edcula,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/youtube.com/2015/04/un-d%C3%ADa-con-actores-festival-cine-de-m%C3%A1laga",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=PKUeBhWunuQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/PKUeBhWunuQ/0.jpg"
+            "source_url": "http://youtube.com/watch?v=XR-Vz7B9Ln4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/XR-Vz7B9Ln4/0.jpg"
         },
-        "youtube.com/2015/04/los-10-asesinos-seriales-m%C3%A1s-aterradores-de-la-historia-del-cine": {
-            "title": "Los 10 asesinos seriales m\u00e1s aterradores de la historia del cine...",
-            "snippet": "Los 10 asesinos seriales m\u00e1s aterradores de la historia del cine Los asesinos en serie son antagonistas recurrentes en el g\u00e9nero de terror y el policial. Dotados de una psicolog\u00eda retorcida y una sed de muerte incontenible, estos personajes son...",
-            "date": "2015-04-17",
-            "author_name": "ZEPfilms",
+        "dailymotion.com/2015/04/dragon-ball-z-fukkatsu-no-f-escenas-de-grabadas-cine-spoilers": {
+            "title": "Dragon Ball Z Fukkatsu no F escenas de grabadas de cine SPOILERS...",
+            "snippet": "Dragon Ball Z Fukkatsu no F escenas de grabadas de cine SPOILERSAuthor: kasl7Tags: Posted: 20 April 2015Rating:: 0...",
+            "date": "2015-04-20",
+            "author_name": "kasl7",
             "categories": "cine",
-            "tags": "muerte,historia,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/youtube.com/2015/04/los-10-asesinos-seriales-m%C3%A1s-aterradores-de-la-historia-del-cine",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine%2Bcine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=ENcQdLVbRRw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ENcQdLVbRRw/0.jpg"
-        },
-        "youtube.com/2015/04/gta-5-pc-modo-director-de-cine-explicaci%C3%B3n-y-demostraci%C3%B3n": {
-            "title": "GTA 5 PC - MODO DIRECTOR DE CINE!! - EXPLICACI\u00d3N Y DEMOSTRACI\u00d3N!",
-            "snippet": "GTA 5 PC - MODO DIRECTOR DE CINE!! - EXPLICACI\u00d3N Y DEMOSTRACI\u00d3N! Xbox Live Gold super barato: Facebook: Twitter: En este video les ense\u00f1o... From: Hueva - Gameplays & Secretos Views: 93651 7137 ratings Time: 06:00 More in Gaming...",
-            "date": "2015-04-15",
-            "author_name": "Hueva - Gameplays & Secretos",
-            "categories": "xbox,cine,facebook,twitter",
-            "tags": "super,cine,facebook",
-            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2015/04/gta-5-pc-modo-director-de-cine-explicaci%C3%B3n-y-demostraci%C3%B3n",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine%2Bcine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=AarIRD9ood4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/AarIRD9ood4/0.jpg"
-        },
-        "youtube.com/2015/04/casa-funcional-y-moderna-con-cine-en-minecraft": {
-            "title": "CASA FUNCIONAL Y MODERNA \u00a1CON CINE! EN MINECRAFT...",
-            "snippet": "CASA FUNCIONAL Y MODERNA \u00a1CON CINE! EN MINECRAFT Hoy os traigo una casa super super chula muy moderna, encima de la monta\u00f1a y super funcional! A disfrutarla!! Juegos Baratos y hermosos From: CELOPAN Views: 93200 6334 ratings Time: 09:51 More in...",
-            "date": "2015-04-14",
-            "author_name": "CELOPAN\u2665",
-            "categories": "cine",
-            "tags": "juegos,baratos,super,muy,cine",
-            "recuweb_url": "http://es.recuweb.com/cine/youtube.com/2015/04/casa-funcional-y-moderna-con-cine-en-minecraft",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine%2Bcine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=u5fZ4ii1slQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/u5fZ4ii1slQ/0.jpg"
+            "tags": "cine",
+            "recuweb_url": "http://es.recuweb.com/cine/dailymotion.com/2015/04/dragon-ball-z-fukkatsu-no-f-escenas-de-grabadas-cine-spoilers",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cine/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nc3bd_dragon-ball-z-fukkatsu-no-f-escenas-de-grabadas-de-cine-spoilers_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nc3bd_dragon-ball-z-fukkatsu-no-f-escenas-de-grabadas-de-cine-spoilers_shortfilms"
         },
         "youtube.com/2015/04/la-peor-muerte-del-cine-de-toda-historia": {
             "title": "LA PEOR MUERTE DEL CINE DE TODA LA HISTORIA...",
-            "snippet": "LA PEOR MUERTE DEL CINE DE TODA LA HISTORIA En El Rinc\u00f3n de Giorgio hemos visto mucha basura... pero esto ya es el no va m\u00e1s. La peor escena de una pel\u00edcula que he visto jam\u00e1s! --- ABRE --- SUSCR\u00cdBETE: From: El Rinc\u00f3n De Giorgio Views: 688370...",
+            "snippet": "LA PEOR MUERTE DEL CINE DE TODA LA HISTORIA En El Rinc\u00f3n de Giorgio hemos visto mucha basura... pero esto ya es el no va m\u00e1s. La peor escena de una pel\u00edcula que he visto jam\u00e1s! --- ABRE --- SUSCR\u00cdBETE: From: El Rinc\u00f3n De Giorgio Views: 728488...",
             "date": "2015-04-09",
             "author_name": "El Rinc\u00f3n De Giorgio",
             "categories": "cine",
-            "tags": "pel\u00edcula,muerte,cine,historia,suscr\u00edbete",
+            "tags": "pel\u00edcula,cine,historia",
             "recuweb_url": "http://es.recuweb.com/cine/youtube.com/2015/04/la-peor-muerte-del-cine-de-toda-historia",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine%2Bcine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ITbc2KgXThU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ITbc2KgXThU/0.jpg"
         },
         "youtube.com/2015/03/cine-y-la-juventud": {
             "title": "CINE y la juventud...",
-            "snippet": "CINE y la juventud Preguntas a nuestros j\u00f3venes granadinos sobre cine. \u00bfCu\u00e1l es su opini\u00f3n sobre el doblaje latino? \u00bfPodr\u00edas decir una pel\u00edcula de Steven Spielberg? \u00bfCu\u00e1ntos \u00d3scar ha ganado DiCaprio?... From: Fortfast WTF Views: 359039...",
+            "snippet": "CINE y la juventud Preguntas a nuestros j\u00f3venes granadinos sobre cine. \u00bfCu\u00e1l es su opini\u00f3n sobre el doblaje latino? \u00bfPodr\u00edas decir una pel\u00edcula de Steven Spielberg? \u00bfCu\u00e1ntos \u00d3scar ha ganado DiCaprio?... From: Fortfast WTF Views: 377021...",
             "date": "2015-03-16",
             "author_name": "Fortfast WTF",
             "categories": "doblaje,cine",
@@ -84,7 +73,7 @@
         },
         "youtube.com/2015/02/especial-el-cine-en-m%C3%A9xico-pulso-de-la-rep%C3%BAblica": {
             "title": "ESPECIAL: EL CINE EN M\u00c9XICO - EL PULSO DE LA REP\u00daBLICA...",
-            "snippet": "ESPECIAL: EL CINE EN M\u00c9XICO - EL PULSO DE LA REP\u00daBLICA BAJA LA APP DE EL PULSO EN TODAS LAS PLATAFORMAS: PARA ANDROID: PARA iOS: PARA WP:... From: El Pulso De La Rep\u00fablica Views: 472786 24292 ratings Time: 15:44 More in News & Politics...",
+            "snippet": "ESPECIAL: EL CINE EN M\u00c9XICO - EL PULSO DE LA REP\u00daBLICA BAJA LA APP DE EL PULSO EN TODAS LAS PLATAFORMAS: PARA ANDROID: PARA iOS:... From: El Pulso De La Rep\u00fablica Views: 475016 24325 ratings Time: 15:44 More in News & Politics...",
             "date": "2015-02-26",
             "author_name": "El Pulso De La Rep\u00fablica",
             "categories": "cine",
@@ -96,11 +85,11 @@
         },
         "youtube.com/2015/01/trabajando-en-un-cine-cinema-panic": {
             "title": "\u00a1TRABAJANDO EN UN CINE! Cinema Panic...",
-            "snippet": "\u00a1TRABAJANDO EN UN CINE! Cinema Panic Juegos muy baratos: \u00a1Guau!, echaba de menos un juego al estilo de Papa's, donde tuvi\u00e9semos que atender a los clientes, en este juego comenzaremos nuestra... From: iTownGamePlay Terror&Diversi\u00f3n Views: 431853...",
+            "snippet": "\u00a1TRABAJANDO EN UN CINE! Cinema Panic Juegos muy baratos: \u00a1Guau!, echaba de menos un juego al estilo de Papa's, donde tuvi\u00e9semos que atender a los clientes, en este juego comenzaremos nuestra... From: iTownGamePlay Terror&Diversi\u00f3n Views: 438595...",
             "date": "2015-01-31",
             "author_name": "iTownGamePlay \u272eTerror&Diversi\u00f3n\u272e",
             "categories": "cine",
-            "tags": "juegos,muy,baratos,cine",
+            "tags": "cine",
             "recuweb_url": "http://es.recuweb.com/cine/youtube.com/2015/01/trabajando-en-un-cine-cinema-panic",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine%2Bcine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=gG2T6ETV4l8&feature=youtube_gdata",
@@ -117,6 +106,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=xdNqnHsgvyA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/xdNqnHsgvyA/0.jpg"
+        },
+        "youtube.com/2014/12/los-gardelitos-cine-teatro-show-completo": {
+            "title": "Los Gardelitos - Cine Teatro (Show Completo)...",
+            "snippet": "Los Gardelitos - Cine Teatro (Show Completo) Eli Su\u00e1rez: Voz y guitarra Fede Caravatti: Guitarra y voz Diego Rodr\u00edguez: Bajo Paulo Bellagamba: Bater\u00eda Todas las composiciones por Korneta Su\u00e1rez exceptuando Mezclas Raras por... From: Carlos Gomez...",
+            "date": "2014-12-29",
+            "author_name": "Carlos Gomez",
+            "categories": "cine",
+            "tags": "cine",
+            "recuweb_url": "http://es.recuweb.com/cine/youtube.com/2014/12/los-gardelitos-cine-teatro-show-completo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cine%2Bcine&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=oXcwy9QC2VE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/oXcwy9QC2VE/0.jpg"
         },
         "dailymotion.com/2014/12/siluetas-en-el-cine": {
             "title": "Siluetas en el cine...",

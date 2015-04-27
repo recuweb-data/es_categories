@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "surf",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/surf/",
@@ -10,6 +11,39 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/surf/surf/blogs.json"
     },
     "items": {
+        "surf30.net/2015/04/casi-plato-surf-30": {
+            "title": "Casi plato Surf 30...",
+            "snippet": "Un d\u00eda sin viento, el mar como un espejo, pero casi ni una ola. Si ten\u00edas paciencia, muy de vez en cuando llegaba una serie de una o dos olas de medio metro solo apta para tablones o paddles.",
+            "date": "2015-04-23",
+            "author_name": "Surf Treinta",
+            "categories": "surf",
+            "tags": "serie,dos,olas,mar,d\u00eda,viento,surf,muy",
+            "recuweb_url": "http://es.recuweb.com/surf/surf30.net/2015/04/casi-plato-surf-30",
+            "resource_url": "http://www.google.com/search?q=surf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://surf30.net/2015/04/casi-plato.html"
+        },
+        "surf30.net/2015/04/cazado-en-mavericks-surf-30": {
+            "title": "Cazado en Mavericks Surf 30...",
+            "snippet": "C\u00f3mo es ser cazado por una serie en Mavericks? Mark Healey nos lo explica en primera persona. Ver la serie llegar, remar con fuerza, comprobar que no lo vas a conseguir, prepararte, saltar, bucear, rezar.",
+            "date": "2015-04-23",
+            "author_name": "Surf Treinta",
+            "categories": "surf",
+            "tags": "serie,primera,surf,rezar",
+            "recuweb_url": "http://es.recuweb.com/surf/surf30.net/2015/04/cazado-en-mavericks-surf-30",
+            "resource_url": "http://www.google.com/search?q=surf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://surf30.net/2015/04/cazado-en-mavericks.html"
+        },
+        "surf30.net/2015/04/ma%C3%B1ana-sabremos-el-ganador-del-margaret-river-pro-surf-30": {
+            "title": "Ma\u00f1ana sabremos el ganador del Margaret River Pro Surf 30...",
+            "snippet": "La organizaci\u00f3n del Drug Aware Margaret River Pro se ha visto obligada a aplazar un d\u00eda m\u00e1s la celebraci\u00f3n de las semifinales y la final de la modalidad masculina. Pese a que el tama\u00f1o era el adecuado, el fuerte viento del...",
+            "date": "2015-04-23",
+            "author_name": "Surf Treinta",
+            "categories": "surf",
+            "tags": "viento,era,visto,d\u00eda,pro,surf",
+            "recuweb_url": "http://es.recuweb.com/surf/surf30.net/2015/04/ma%C3%B1ana-sabremos-el-ganador-del-margaret-river-pro-surf-30",
+            "resource_url": "http://www.google.com/search?q=surf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://surf30.net/2015/04/manana-sabremos-el-ganador-del-margaret.html"
+        },
         "surf30.net/2015/04/qu%C3%A9-fu%C3%A9-de-la-vieja-playa-gros-surf-30": {
             "title": "\u00bfQu\u00e9 fu\u00e9 de la vieja playa de Gros? Surf 30...",
             "snippet": "Interesant\u00edsimo art\u00edculo de Mikel Huarte basado en la entrevista realizada a Juanpe Sansinenea, un veterano del surf, y a Alain Gonfaus, escritor y autor del libro \"Surfers\" (2006), en el que describen los inicios del surf en la...",
@@ -21,37 +55,26 @@
             "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://surf30.net/2015/04/que-fue-de-la-vieja-playa-de-gros.html"
         },
-        "ecartelera.com/2015/04/acci%C3%B3n-y-surf-en-las-primeras-im%C3%A1genes-del-remake": {
-            "title": "Acci\u00f3n y surf en las primeras im\u00e1genes del remake de 'Le llaman...",
-            "snippet": "A pesar de no cosechar grandes resultados en taquilla, la pel\u00edcula original se convirti\u00f3 con los a\u00f1os en una aut\u00e9ntica pel\u00edcula de culto para los amantes del surf. Gran parte de la culpa la tuvo el personaje de Bodhi,...",
-            "date": "2015-04-22",
-            "author_name": "desconocido",
-            "categories": "surf",
-            "tags": "parte,amantes,grandes,primeras,im\u00e1genes,surf,gran",
-            "recuweb_url": "http://es.recuweb.com/surf/ecartelera.com/2015/04/acci%C3%B3n-y-surf-en-las-primeras-im%C3%A1genes-del-remake",
-            "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ecartelera.com/noticias/22640/accion-y-surf-primeras-imagenes-remake-le-llaman-bodhi/"
-        },
         "surf30.net/2015/04/dos-islas-surf-30": {
             "title": "Dos islas Surf 30...",
             "snippet": "Nic Von Rupp se pas\u00f3 en Hawai buena parte del invierno. Despu\u00e9s de surfear mucho en el North Shore de Oahu, con Pipe bombeando continuamente, el portugu\u00e9s se fue a Maui, donde se encontr\u00f3 con Matt Meola y Albee...",
             "date": "2015-04-22",
             "author_name": "Surf Treinta",
             "categories": "surf",
-            "tags": "surfear,buena,parte,dos,surf,oahu",
+            "tags": "buena,dos,surf,hawai,oahu",
             "recuweb_url": "http://es.recuweb.com/surf/surf30.net/2015/04/dos-islas-surf-30",
             "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://surf30.net/2015/04/dos-islas.html"
         },
         "revistaoxigeno.es/2015/04/madrid-lisboa-en-paddle-surf-revista-oxigeno": {
             "title": "Madrid-Lisboa en paddle surf Revista Oxigeno...",
-            "snippet": "Y en este 2015, el inquieto Antonio de la Rosa nos tiene preparado un nuevo reto para verano: unir Madrid con Lisboa en paddle surf por el r\u00edo Tajo y sus afluentes. El pr\u00f3ximo viernes d\u00eda 24 de abril a las 15:30 horas en la...",
+            "snippet": "El pr\u00f3ximo viernes d\u00eda 24 de abril a las 15:30 horas en la feria Surf Expo Spain en el Palacio de Vistalegre (Calle de Utebo, 1, 28025 Madrid) el aventurero desvelar\u00e1 todos los detalles. En el acto, el Embajador de Turismo...",
             "date": "2015-04-21",
             "author_name": "Jorge Jimenez",
             "categories": "surf",
-            "tags": "abril,verano,paddle,madrid,lisboa,surf,antonio,rosa,nuevo,unir",
+            "tags": "surf,abril,pr\u00f3ximo,d\u00eda",
             "recuweb_url": "http://es.recuweb.com/surf/revistaoxigeno.es/2015/04/madrid-lisboa-en-paddle-surf-revista-oxigeno",
-            "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=surf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://revistaoxigeno.es/madrid-lisboa-en-paddle-surf/"
         },
         "surf30.net/2015/04/el-surf-herido-de-muerte-en-isla-reuni%C3%B3n-30": {
@@ -60,7 +83,7 @@
             "date": "2015-04-20",
             "author_name": "Surf Treinta",
             "categories": "surf",
-            "tags": "surfistas,campeones,surf,muerte",
+            "tags": "surfistas,visto,isla,era,surf,muerte",
             "recuweb_url": "http://es.recuweb.com/surf/surf30.net/2015/04/el-surf-herido-de-muerte-en-isla-reuni%C3%B3n-30",
             "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://surf30.net/2015/04/el-surf-herido-de-muerte-en-isla-reunion.html"
@@ -71,7 +94,7 @@
             "date": "2015-04-16",
             "author_name": "Pepo Torres",
             "categories": "surf",
-            "tags": "tenemos,buena,grupo,surf,club,llega",
+            "tags": "disfrutar,buena,surf",
             "recuweb_url": "http://es.recuweb.com/surf/blogs.comunitatvalenciana.com/2015/04/llega-el-surf-al-loco-club-con-grupo-smilesurf",
             "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogs.comunitatvalenciana.com/surf/2015/04/17/llega-el-surf-al-loco-club-con-el-grupo-smile/"
@@ -82,7 +105,7 @@
             "date": "2015-04-16",
             "author_name": "pijamasurf",
             "categories": "cine,fotografia,literatura,placer,futbol,surf",
-            "tags": "son,surf",
+            "tags": "surf",
             "recuweb_url": "http://es.recuweb.com/surf/pijamasurf.com/2015/04/el-ano-masculino-y-placer-del-pegging-son-m%C3%A1ximo-tab%C3%BA",
             "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pijamasurf.com/2015/04/el-ano-masculino-y-el-placer-del-pegging-son-el-maximo-tabu-heterosexual/"
@@ -93,31 +116,10 @@
             "date": "2015-04-05",
             "author_name": "pijamasurf",
             "categories": "surf",
-            "tags": "surf",
+            "tags": "surf,hay",
             "recuweb_url": "http://es.recuweb.com/surf/pijamasurf.com/2015/04/te-atraen-los-hombres-de-barba-y-tatuajes-hay-una-raz%C3%B3n",
             "resource_url": "http://www.google.com/search?q=surf%2Bsurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pijamasurf.com/2015/04/te-atraen-los-hombres-de-barba-y-tatuajes-hay-una-razon-cientifica-para-ello/"
-        },
-        "nvfpractica.wordpress.com/2015/03/grandes-olas-para-surferos": {
-            "title": "Grandes olas para grandes surferos...",
-            "snippet": "Aqu\u00ed ten\u00e9is una muestra de lo que el temporal de la semana pasada dejo en el mar. Grandes olas para grandes surferos, no me quiero imaginar las narices que []...",
-            "date": "2015-03-15",
-            "author_name": "nvf7",
-            "tags": "muestra,mar,grandes,olas",
-            "recuweb_url": "http://es.recuweb.com/nvfpractica.wordpress.com/2015/03/grandes-olas-para-surferos",
-            "resource_url": "http://es.search.wordpress.com/?q=surf%2Bsurf&f=feed&page=1",
-            "source_url": "http://nvfpractica.wordpress.com/2015/03/15/grandes-olas-para-grandes-surferos/"
-        },
-        "northwindkitesurf.wordpress.com/2015/01/club-northwind-2015-hazte-abonado-tramita-tu-licencia-federativa": {
-            "title": "Club Northwind 2015, hazte abonado, tramita tu licencia federativa...",
-            "snippet": "Un a\u00f1o m\u00e1s y otra vez bajo el eslogan EN EL AGUA, UNIDOS POR NUESTRA PASI\u00d3N, LA DIVERSI\u00d3N EN GRUPO, ASEGURADA, iniciamos ya el periodo de renovaci\u00f3n y altas para ABONADO del CLUB NORTHWIND para las licencias 2015 de vela (kitesurf, windsurf.) y...",
-            "date": "2015-01-11",
-            "author_name": "northwind escuela de kitesurf &#38; sup en Cantabria",
-            "categories": "kitesurf,windsurf",
-            "tags": "grupo,pasi\u00f3n,club",
-            "recuweb_url": "http://es.recuweb.com/windsurf/northwindkitesurf.wordpress.com/2015/01/club-northwind-2015-hazte-abonado-tramita-tu-licencia-federativa",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=surf%2Bsurf&rss=1&lng=es",
-            "source_url": "http://northwindkitesurf.wordpress.com/2015/01/11/club-northwind-2015-hazte-abonado-tramita-tu-licencia-federativa/"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "teletexto",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/teletexto/",
@@ -10,15 +11,15 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/teletexto/teletexto/blogs.json"
     },
     "items": {
-        "elperiodicoextremadura.com/2015/04/la-suerte-reparte-en-localidad-un-pellizco-de-euros": {
-            "title": "La suerte reparte en la localidad un pellizco de euros...",
+        "elperiodicoextremadura.com/2015/04/la-suerte-reparte-en-madrigalejo-un-pellizco-de-euros": {
+            "title": "La suerte reparte en Madrigalejo un pellizco de euros...",
             "snippet": "Y Juan Vicente Delgado es otro madrigaleje\u00f1o que cuando comprob\u00f3 en el teletexto el n\u00famero, crey\u00f3 que estaba equivocado. C\u00f3mo iba a pensar que me hab\u00eda tocado, cuenta riendo, mientras muestra el cup\u00f3n. Por otro lado, otro vecino de la comarca...",
-            "date": "2015-04-22",
+            "date": "2015-04-23",
             "categories": "teletexto",
             "tags": "hab\u00eda,teletexto",
-            "recuweb_url": "http://es.recuweb.com/teletexto/elperiodicoextremadura.com/2015/04/la-suerte-reparte-en-localidad-un-pellizco-de-euros",
+            "recuweb_url": "http://es.recuweb.com/teletexto/elperiodicoextremadura.com/2015/04/la-suerte-reparte-en-madrigalejo-un-pellizco-de-euros",
             "resource_url": "http://www.bing.com/news/search?first=1&q=teletexto&format=RSS&cc=es",
-            "source_url": "http://elperiodicoextremadura.com/noticias/provinciacaceres/suerte-reparte-localidad-pellizco-200-000-euros_867037.html"
+            "source_url": "http://elperiodicoextremadura.com/noticias/provinciacaceres/suerte-reparte-madrigalejo-pellizco-200-000-euros_867037.html"
         },
         "iberarte.com/2015/04/telos-30-a%C3%B1os-100-n%C3%BAmeros": {
             "title": "Telos: 30 a\u00f1os, 100 n\u00fameros...",

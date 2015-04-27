@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hardware-ibm",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-ibm/",
@@ -10,25 +11,13 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/blogs.json"
     },
     "items": {
-        "youtube.com/2014/07/desamblaje-y-ensamblaje-de-una-laptop-ibm": {
-            "title": "Desamblaje y ensamblaje de una laptop IBM...",
-            "snippet": "Desamblaje y ensamblaje de una laptop IBM Universidad Laica Eloy lafaro de Manab\u00ed Facultad de Ciencias Inform\u00e1ticas Laboratorio de Hardware Piezas: juego de destornilladores playo peque\u00f1o frasco para... From: JOSE DAVID VELEZ ZAMBRANO Views: 57 3...",
-            "date": "2014-07-22",
-            "author_name": "JOSE DAVID VELEZ ZAMBRANO",
-            "categories": "hardware,ciencias,ciencia",
-            "tags": "jose,hardware,ciencias,ciencias_inform\u00e1ticas,ciencias_inform\u00e1ticas_laboratorio,inform\u00e1ticas,inform\u00e1ticas_laboratorio,laboratorio,manab\u00ed,manab\u00ed_facultad,facultad,universidad,laica,eloy,lafaro,ensamblaje,laptop,desamblaje,ibm",
-            "recuweb_url": "http://es.recuweb.com/ciencia/youtube.com/2014/07/desamblaje-y-ensamblaje-de-una-laptop-ibm",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bibm%2Bhardware%2Bibm&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=Ufyi0SzmXp4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Ufyi0SzmXp4/0.jpg"
-        },
         "youtube.com/2014/07/desamblaje-y-ensamblaje-de-una-laptop-ibm-think-pad-r-50": {
             "title": "Desamblaje y ensamblaje de una laptop IBM think pad R 50...",
-            "snippet": "Desamblaje y ensamblaje de una laptop IBM think pad R 50 Universidad Laica Eloy lafaro de Manab\u00ed Facultad de Ciencias Inform\u00e1ticas Laboratorio de Hardware Gabriel Stefano Acu\u00f1a En este video se realizar\u00e1 paso a pas... From: Gabriel Acu\u00f1a Views:...",
+            "snippet": "Desamblaje y ensamblaje de una laptop IBM think pad R 50 Universidad Laica Eloy lafaro de Manab\u00ed Facultad de Ciencias Inform\u00e1ticas Laboratorio de Hardware Gabriel Stefano Acu\u00f1a En este video se realizar\u00e1 paso a paso en proceso de desamblaje...",
             "date": "2014-07-22",
             "author_name": "Gabriel Acu\u00f1a",
             "categories": "hardware,ciencias,ciencia",
-            "tags": "hardware,ciencias,ciencias_inform\u00e1ticas,ciencias_inform\u00e1ticas_laboratorio,inform\u00e1ticas,inform\u00e1ticas_laboratorio,laboratorio,manab\u00ed,manab\u00ed_facultad,facultad,lafaro,universidad,laica,eloy,ensamblaje,laptop,desamblaje,ibm",
+            "tags": "hardware,ibm",
             "recuweb_url": "http://es.recuweb.com/ciencia/youtube.com/2014/07/desamblaje-y-ensamblaje-de-una-laptop-ibm-think-pad-r-50",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bibm%2Bhardware%2Bibm&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ACgCUSfxqJE&feature=youtube_gdata",
@@ -36,7 +25,7 @@
         },
         "youtube.com/2014/05/ibm-y-lider-se-manifiestan-en-conjunto-no-mas-injusticias": {
             "title": "IBM y Lider se manifiestan en conjunto: \u00a1NO MAS INJUSTICIAS!",
-            "snippet": "IBM y Lider se manifiestan en conjunto: \u00a1NO MAS INJUSTICIAS! El sindicato IT-Blue de la transnacional IBM (software y hardware... From: La Batalla de los Trabajadores Views: 1517 14 ratings Time: 03:51 More in Nonprofits & Activism...",
+            "snippet": "IBM y Lider se manifiestan en conjunto: \u00a1NO MAS INJUSTICIAS! El sindicato IT-Blue de la transnacional IBM (software y hardware) recibi\u00f3 el apoyo de algunos... From: La Batalla de los Trabajadores Views: 1520 14 ratings Time: 03:51 More in...",
             "date": "2014-05-15",
             "author_name": "La Batalla de los Trabajadores",
             "categories": "hardware",
@@ -48,7 +37,7 @@
         },
         "youtube.com/2013/12/banco-ibm-faz-financiamento": {
             "title": "Banco IBM Faz Financiamento para TI...",
-            "snippet": "Banco IBM Faz Financiamento para TI O site ShopPRTelecom traz Solu\u00e7\u00f5es financeiras do Banco IBM para compra de Hardware, Software e Servi\u00e7os de TI. From: Valmir Pereira Views: 48 0 ratings Time: 06:11 More in Science & Technology...",
+            "snippet": "Banco IBM Faz Financiamento para TI O site ShopPRTelecom traz Solu\u00e7\u00f5es financeiras do Banco IBM para compra de Hardware, Software e Servi\u00e7os de TI. From: Valmir Pereira Views: 50 0 ratings Time: 06:11 More in Science & Technology...",
             "date": "2013-12-24",
             "author_name": "Valmir Pereira",
             "categories": "hardware",
@@ -60,9 +49,9 @@
         },
         "youtube.com/2013/09/ibm-ps-1-2133-451-con-un-truco-para-pila-gastada": {
             "title": "IBM PS/1 2133-451 con un truco para pila gastada...",
-            "snippet": "IBM PS/1 2133-451 con un truco para pila gastada Animado por el colega ODFIMODO ha hecho algunas pruebas con el hardware de mi IBM PS/1 2133-451 y, de refil\u00f3n, he descubierto como evitar los mensajes de err... From: 68TomJobim Views: 250 1 ratings...",
+            "snippet": "IBM PS/1 2133-451 con un truco para pila gastada Animado por el colega ODFIMODO ha hecho algunas pruebas con el hardware de mi IBM PS/1 2133-451 y, de refil\u00f3n, he descubierto como evitar los mensajes de error 161 y 163 cuando la BIOS... From:...",
             "date": "2013-09-07",
-            "author_name": "68TomJobim",
+            "author_name": "68TomJobim (Toni Ortiz)",
             "categories": "hardware",
             "tags": "hardware,ibm",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/09/ibm-ps-1-2133-451-con-un-truco-para-pila-gastada",
@@ -70,9 +59,21 @@
             "source_url": "http://youtube.com/watch?v=UvBe5eqgKL4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/UvBe5eqgKL4/0.jpg"
         },
+        "youtube.com/2013/08/arturo-blanco-habla-sobre-ibm-cloud-360": {
+            "title": "Arturo Blanco habla sobre IBM Cloud 360...",
+            "snippet": "Arturo Blanco habla sobre IBM Cloud 360 Arturo Blanco, L\u00edder de Servicios de Cloud Computing en IBM M\u00e9xico, habla sobre el ecosistema Cloud 360 para ofrecer servicios de hardware y software en la numbe. From: Mundo Contact Views: 96 0 ratings...",
+            "date": "2013-08-22",
+            "author_name": "Mundo Contact",
+            "categories": "hardware",
+            "tags": "hardware,hardware-software,software,habla,ibm,computing",
+            "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/08/arturo-blanco-habla-sobre-ibm-cloud-360",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bibm%2Bhardware%2Bibm&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Z_jsM7U_QVY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Z_jsM7U_QVY/0.jpg"
+        },
         "youtube.com/2013/06/supercomputador-ibm-watson-una-revoluci%C3%B3n-en-el-servicio-de-atenci%C3%B3n-al": {
             "title": "Supercomputador Ibm Watson Una Revoluci\u00f3n En El Servicio De Atenci\u00f3n Al Cliente Hardware...",
-            "snippet": "Supercomputador Ibm Watson Una Revoluci\u00f3n En El Servicio De Atenci\u00f3n Al Cliente Hardware From: Lact tin Views: 89 0 ratings Time: 01:10 More in Howto & Style...",
+            "snippet": "Supercomputador Ibm Watson Una Revoluci\u00f3n En El Servicio De Atenci\u00f3n Al Cliente Hardware From: Lact tin Views: 96 0 ratings Time: 01:10 More in Howto & Style...",
             "date": "2013-06-22",
             "author_name": "Lact tin",
             "categories": "hardware",
@@ -84,11 +85,11 @@
         },
         "youtube.com/2013/06/jose-luis-raso-consultor-ti-en-antisa-software-y-hardware": {
             "title": "Jose Luis Raso, consultor TI en Antisa: software y hardware para generar nube...",
-            "snippet": "Jose Luis Raso, consultor TI en Antisa: software y hardware para generar nube Jos\u00e9 Luis Raso, consultor TI en Antisa, habla de soluciones hardware y software para la generaci\u00f3n de nube durante la celebraci\u00f3n del evento IBM Smarter Comp... From:...",
+            "snippet": "Jose Luis Raso, consultor TI en Antisa: software y hardware para generar nube Jos\u00e9 Luis Raso, consultor TI en Antisa, habla de soluciones hardware y software para la generaci\u00f3n de nube durante la celebraci\u00f3n del evento IBM Smarter Computing,...",
             "date": "2013-06-18",
             "author_name": "ITAntisa",
             "categories": "hardware",
-            "tags": "ibm,smarter,hardware,software,evento,jose,software-hardware",
+            "tags": "ibm,smarter,smarter_computing,computing,habla,hardware,hardware-software,software,evento,software-hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/06/jose-luis-raso-consultor-ti-en-antisa-software-y-hardware",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bibm%2Bhardware%2Bibm&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Ci78xIBZfV0&feature=youtube_gdata",
@@ -100,7 +101,7 @@
             "date": "2013-06-13",
             "author_name": "IBM Espa\u00f1a",
             "categories": "hardware",
-            "tags": "smarter,ibm,software,hardware",
+            "tags": "smarter,smarter_computing,computing,ibm,software,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2013/06/scready-madrid-entrevista-a-diego-segre-vicepresidente-ibm-software-group-spgi",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bibm%2Bhardware%2Bibm&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Jo_JAkuKU20&feature=youtube_gdata",
@@ -108,7 +109,7 @@
         },
         "youtube.com/2013/01/sinergyhard-desfile-tecnolog%C3%ADa-2012": {
             "title": "SinergyHard Desfile Tecnolog\u00eda 2012...",
-            "snippet": "SinergyHard Desfile Tecnolog\u00eda 2012 Evento de tecnolog\u00eda, con un concepto nuevo, fresco, innovador; que present\u00f3 lo nuevo en virtualizaci\u00f3n con hardware IBM, el puerto principal, fue la sede de... From: sinergyhard Views: 85 0 ratings Time:...",
+            "snippet": "SinergyHard Desfile Tecnolog\u00eda 2012 Evento de tecnolog\u00eda, con un concepto nuevo, fresco, innovador; que present\u00f3 lo nuevo en virtualizaci\u00f3n con hardware IBM, el puerto principal, fue la sede de este \u00edtanos f/sinergy.... From: sinergyhard Views:...",
             "date": "2013-01-17",
             "author_name": "sinergyhard",
             "categories": "hardware,tecnologia",
@@ -120,7 +121,7 @@
         },
         "youtube.com/2012/09/adexus-day-2012-sistemas-expertos-integrados-una-armon%C3%ADa-entre-software": {
             "title": "Adexus Day 2012 - Sistemas Expertos Integrados: Una armon\u00eda entre Software y Hardware.",
-            "snippet": "Adexus Day 2012 - Sistemas Expertos Integrados: Una armon\u00eda entre Software y Hardware. Evento ADEXUS DAY 2012, Transformaci\u00f3n de los negocios con nuevas tecnolog\u00edas. W Hotels, 23 de Agosto del 2012. Roxana L\u00f3pez, Arquitecto en Hardware de IBM...",
+            "snippet": "Adexus Day 2012 - Sistemas Expertos Integrados: Una armon\u00eda entre Software y Hardware. Evento ADEXUS DAY 2012, Transformaci\u00f3n de los negocios con nuevas tecnolog\u00edas. W Hotels, 23 de Agosto del 2012. Roxana L\u00f3pez, Arquitecto en Hardware de IBM y...",
             "date": "2012-09-04",
             "author_name": "Adexus Videos",
             "categories": "tecnologia,hardware",

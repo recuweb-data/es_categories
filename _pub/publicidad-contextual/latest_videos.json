@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "publicidad-contextual",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/publicidad-contextual/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/publicidad-contextual/publicidad-contextual/blogs.json"
     },
     "items": {
+        "youtube.com/2014/01/marketing-contextual-intro": {
+            "title": "Marketing Contextual (Intro)...",
+            "snippet": "Marketing Contextual (Intro) El contexto es un conjunto de circunstancias como el lugar y el tiempo que ayudan a la comprensi\u00f3n de un mensaje. El marketing contextual, es el marketing que ofrece servicios de publicidad... From: Rodolfo Buitrago...",
+            "date": "2014-01-27",
+            "author_name": "Rodolfo Buitrago",
+            "tags": "rodolfo,rodolfo_buitrago,buitrago,publicidad,contextual",
+            "recuweb_url": "http://es.recuweb.com/youtube.com/2014/01/marketing-contextual-intro",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual%2Bpublicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=w5Q6j-TWx14&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/w5Q6j-TWx14/0.jpg"
+        },
         "youtube.com/2013/12/rentabilizar-un-sitio-web": {
             "title": "Rentabilizar un sitio web...",
-            "snippet": "Rentabilizar un sitio web Rentabilizar un sitio web, gana dinero con el mismo usando los m\u00e9todos digamos que tradicionales para hacerlo: Adsense, publicidad contextual, venta directa... From: Angel Eulises Ortiz Views: 0 4 ratings Time: 57:29 More...",
+            "snippet": "Rentabilizar un sitio web Rentabilizar un sitio web, gana dinero con el mismo usando los m\u00e9todos digamos que tradicionales para hacerlo: Adsense, publicidad contextual, venta directa de anuncios, etc. Hangout de la... From: Angel Eulises Ortiz...",
             "date": "2013-12-11",
             "author_name": "Angel Eulises Ortiz",
             "categories": "publicidad-contextual",
-            "tags": "angel,angel_eulises,angel_eulises_ortiz,eulises,eulises_ortiz,ortiz,publicidad,publicidad-contextual,contextual,dinero,sitio,adsense",
+            "tags": "angel,angel_eulises,angel_eulises_ortiz,eulises,eulises_ortiz,ortiz,publicidad,publicidad-contextual,contextual,dinero,sitio,web,rentabilizar,adsense,hangout",
             "recuweb_url": "http://es.recuweb.com/publicidad-contextual/youtube.com/2013/12/rentabilizar-un-sitio-web",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual%2Bpublicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=hE24w5gcX3o&feature=youtube_gdata",
@@ -24,7 +36,7 @@
         },
         "youtube.com/2013/10/dominique-loumaye-pan-explica-en-qu%C3%A9-consiste-la-publicidad-contextual": {
             "title": "Dominique Loumaye (PAN) explica en qu\u00e9 consiste la publicidad contextual...",
-            "snippet": "Dominique Loumaye (PAN) explica en qu\u00e9 consiste la publicidad contextual El concepto 'publicidad segmentada'ya est\u00e1 integrado en el vocabulario de anunciantes y agencias. De lo que no hablan tanto es de una de sus variantes, la p... From:...",
+            "snippet": "Dominique Loumaye (PAN) explica en qu\u00e9 consiste la publicidad contextual El concepto 'publicidad segmentada'ya est\u00e1 integrado en el vocabulario de anunciantes y agencias. De lo que no hablan tanto es de una de sus variantes, la publicidad...",
             "date": "2013-10-10",
             "author_name": "prnoticias",
             "categories": "publicidad-contextual,pan",
@@ -36,27 +48,63 @@
         },
         "youtube.com/2013/01/como-usar-google-adsense": {
             "title": "Como usar google adsense...",
-            "snippet": "Como usar google adsense Como usar google adsense sin descuidar el SEO del sitio, como ganar dinero en publicidad contextual sin morir en el intento, Hangout con Rodolfo Buitrago. M... From: Angel Eulises Ortiz Views: 0 20 ratings Time: 38:25 More...",
+            "snippet": "Como usar google adsense Como usar google adsense sin descuidar el SEO del sitio, como ganar dinero en publicidad contextual sin morir en el intento, Hangout con Rodolfo Buitrago. M perfil de google plus... From: Angel Eulises Ortiz Views: 0 21...",
             "date": "2013-01-31",
             "author_name": "Angel Eulises Ortiz",
-            "categories": "publicidad-contextual,google,google-adsense",
-            "tags": "angel,angel_eulises,angel_eulises_ortiz,eulises,eulises_ortiz,ortiz,ganar,dinero,publicidad,publicidad-contextual,contextual,sitio,adsense",
+            "categories": "google,publicidad-contextual,google-adsense",
+            "tags": "angel,angel_eulises,angel_eulises_ortiz,eulises,eulises_ortiz,ortiz,google,rodolfo,rodolfo_buitrago,buitrago,ganar,ganar-dinero,dinero,publicidad,publicidad-contextual,contextual,sitio,adsense,hangout",
             "recuweb_url": "http://es.recuweb.com/google-adsense/youtube.com/2013/01/como-usar-google-adsense",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual%2Bpublicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=YZBfGGqajKw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/YZBfGGqajKw/0.jpg"
         },
+        "youtube.com/2013/01/tutorial-kontextua-publicidad-intextual-blooger-espa%C3%B1ol-2013": {
+            "title": "Tutorial Kontextua Publicidad inTextual Blooger Espa\u00f1ol 2013...",
+            "snippet": "Tutorial Kontextua Publicidad inTextual Blooger Espa\u00f1ol 2013 Como Poner Publicidad Texto Kontextua Contextual Advertising Technology Blooger Pagina Sitio Web Gratis Tutorial Espa\u00f1ol WordPress inTextual Aplicar Codio HTML Tag body 2013...",
+            "date": "2013-01-08",
+            "author_name": "HDTutorialess",
+            "categories": "html,wordpress",
+            "tags": "publicidad,contextual,sitio,web,tutorial",
+            "recuweb_url": "http://es.recuweb.com/wordpress/youtube.com/2013/01/tutorial-kontextua-publicidad-intextual-blooger-espa%C3%B1ol-2013",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=n-SvP42pXUI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/n-SvP42pXUI/0.jpg"
+        },
         "youtube.com/2011/10/tutorial-ganar-dinero-con-adsense-parte-1": {
             "title": "Tutorial - Ganar Dinero con Adsense - Parte 1...",
-            "snippet": "Tutorial - Ganar Dinero con Adsense - Parte 1 Como ganar dinero con el modelo de publicidad contextual Adsense. From: videotutorialestv Views: 512 3 ratings Time: 05:05 More in Education...",
+            "snippet": "Tutorial - Ganar Dinero con Adsense - Parte 1 Como ganar dinero con el modelo de publicidad contextual Adsense. From: videotutorialestv Views: 519 3 ratings Time: 05:05 More in Education...",
             "date": "2011-10-04",
             "author_name": "videotutorialestv",
             "categories": "publicidad-contextual",
-            "tags": "ganar,dinero,publicidad,publicidad-contextual,contextual,adsense",
+            "tags": "ganar,dinero,publicidad,publicidad-contextual,contextual,tutorial,adsense,parte,videotutorialestv",
             "recuweb_url": "http://es.recuweb.com/publicidad-contextual/youtube.com/2011/10/tutorial-ganar-dinero-con-adsense-parte-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual%2Bpublicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=owKkzU8IARU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/owKkzU8IARU/0.jpg"
+        },
+        "youtube.com/2011/10/tutorial-como-ganar-dinero-con-adsense-parte-2": {
+            "title": "Tutorial Como ganar dinero con Adsense - Parte 2...",
+            "snippet": "Tutorial Como ganar dinero con Adsense - Parte 2 Continuaci\u00f3n del tutorial para rentabilizar sitios webs y blogs con Adsense. Tambi\u00e9n hablamos de otros sistemas de publicidad contextual. M\u00e1s... From: videotutorialestv Views: 252 2 ratings Time:...",
+            "date": "2011-10-04",
+            "author_name": "videotutorialestv",
+            "categories": "publicidad-contextual",
+            "tags": "publicidad,publicidad-contextual,contextual,tutorial,rentabilizar,ganar,ganar-dinero,dinero,adsense,parte,videotutorialestv",
+            "recuweb_url": "http://es.recuweb.com/publicidad-contextual/youtube.com/2011/10/tutorial-como-ganar-dinero-con-adsense-parte-2",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual%2Bpublicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=l2PCg_Ccmm4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/l2PCg_Ccmm4/0.jpg"
+        },
+        "youtube.com/2007/05/im%C3%A1genes-del-concierto-de-sambusa-sin-sonido": {
+            "title": "Im\u00e1genes del Concierto de Sambusa sin sonido...",
+            "snippet": "Im\u00e1genes del Concierto de Sambusa sin sonido Jam Session Ejemplo de posicionar en Google mediante publicidad contextual. From: Chimo Soler Views: 202 1 ratings Time: 00:43 More in Music...",
+            "date": "2007-05-27",
+            "author_name": "Chimo Soler",
+            "categories": "publicidad-contextual,google",
+            "tags": "publicidad,publicidad-contextual,contextual,google",
+            "recuweb_url": "http://es.recuweb.com/google/youtube.com/2007/05/im%C3%A1genes-del-concierto-de-sambusa-sin-sonido",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicidad%2Bcontextual&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=43tza9P0gxE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/43tza9P0gxE/0.jpg"
         }
     }
 }

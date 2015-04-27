@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sistema-de-gps",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sistema-de-gps/",
@@ -10,96 +11,98 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/sistema-de-gps/sistema-de-gps/blogs.json"
     },
     "items": {
-        "eluniverso.com/2015/03/droga-incautada-ten%C3%ADa-sistema-gps-el-universo": {
-            "title": "Droga incautada ten\u00eda sistema GPS - El Universo...",
-            "snippet": "El UniversoDroga incautada ten\u00eda sistema GPSEl UniversoEl viceministro del Interior, Daniel Fuentes, dijo que el alcaloide decomisado (104 kilos de clorhidrato de coca\u00edna) pose\u00eda en su interior un sistema de posicionamiento global (GPS), con el...",
-            "date": "2015-03-23",
-            "tags": "posicionamiento,global,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/eluniverso.com/2015/03/droga-incautada-ten%C3%ADa-sistema-gps-el-universo",
+        "lanacion.com.ar/2015/04/mientras-no-distraiga-y-tenga-los-mapas-actualizados-el-gps-argentina": {
+            "title": "Mientras no distraiga y tenga los mapas actualizados, el GPS... - (Argentina)...",
+            "snippet": "Mientras no distraiga y tenga los mapas actualizados, el GPS... (Argentina)Reemplazar una tecnolog\u00eda por otra, como el ir de utilizar un mapa en papel a un sistema de posicionamiento satelital, semeja mucho al mismo cambio que signific\u00f3 hacer...",
+            "date": "2015-04-25",
+            "categories": "tecnologia",
+            "tags": "utilizar,mapas,tecnolog\u00eda,gps,sistema,posicionamiento,satelital",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/lanacion.com.ar/2015/04/mientras-no-distraiga-y-tenga-los-mapas-actualizados-el-gps-argentina",
             "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://eluniverso.com/noticias/2015/03/23/nota/4682861/droga-incautada-tenia-sistema-gps"
+            "source_url": "http://lanacion.com.ar/1787456-mientras-no-distraiga-y-tenga-los-mapas-actualizados-el-gps-mejora-el-servicio"
         },
-        "elnuevodiario.com.ni/2015/03/o%C3%ADdos-para-ver-el-nuevo-diario": {
-            "title": "O\u00eddos... para ver - El Nuevo Diario...",
-            "snippet": "O\u00eddos... para verEl Nuevo DiarioSe trata de un GPS o sistema de posicionamiento geogr\u00e1fico, que tambi\u00e9n pueden utilizar personas que trabajen en condiciones de baja visibilidad o en tareas de emergencia, fruto del proyecto europeo Argus (/),...",
-            "date": "2015-03-23",
-            "tags": "pueden,emergencia,posicionamiento,nuevo,ver,gps,sistema",
-            "recuweb_url": "http://es.recuweb.com/elnuevodiario.com.ni/2015/03/o%C3%ADdos-para-ver-el-nuevo-diario",
+        "entornointeligente.com/2015/04/venezuela-roban-y-matan-a-taxista-cerca-de-la-usm": {
+            "title": "VENEZUELA: Roban y matan a taxista cerca de la USM en Caracas...",
+            "snippet": "lo mataron y dejaron su cuerpo cerca del puente y de los locales de comida que est\u00e1n frente a la entrada de la USM. El carro fue localizado, gracias al sistema de GPS, en El Valle.",
+            "date": "2015-04-25",
+            "tags": "gracias,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/venezuela-roban-y-matan-a-taxista-cerca-de-la-usm",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://entornointeligente.com/articulo/5764877/VENEZUELA-Roban-y-matan-a-taxista-cerca-de-la-USM-en-Caracas-25042015"
+        },
+        "elespectador.com/2015/04/tecnolog%C3%ADa-para-tareas-vitales": {
+            "title": "Tecnolog\u00eda para tareas vitales...",
+            "snippet": "El primer modelo de aire consiste en un dron ligero que, con sensores para metal y pl\u00e1stico, se encarga de detectar la mina y marcar su posici\u00f3n gracias a un sistema de GPS. El segundo es una especie de versi\u00f3n pesada del primero, pero equipado...",
+            "date": "2015-04-24",
+            "categories": "tecnologia",
+            "tags": "versi\u00f3n,posici\u00f3n,gracias,tecnolog\u00eda,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/elespectador.com/2015/04/tecnolog%C3%ADa-para-tareas-vitales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://elespectador.com/tecnologia/tecnologia-tareas-vitales-articulo-556569"
+        },
+        "es.euronews.com/2015/04/un-andador-inteligente-para-las-personas-de-la-tercera-edad-euronews": {
+            "title": "Un andador inteligente para las personas de la tercera edad - euronews...",
+            "snippet": "euronewsUn andador inteligente para las personas de la tercera edadeuronewsEs como un GPS, parecido al GPS que mi hijo tiene en su coche. Este aparato... El sistema, por ejemplo, va a tratar de evitar obst\u00e1culos, personas o animales dom\u00e9sticos con...",
+            "date": "2015-04-24",
+            "tags": "tiene,inteligente,tercera,gps,coche,sistema",
+            "recuweb_url": "http://es.recuweb.com/es.euronews.com/2015/04/un-andador-inteligente-para-las-personas-de-la-tercera-edad-euronews",
             "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://elnuevodiario.com.ni/economia/355986-oidos-ver/"
+            "source_url": "http://es.euronews.com/2015/04/24/un-andador-inteligente-para-las-personas-de-la-tercera-edad/"
         },
-        "periodicodigital.mx/2015/03/7-aplicaciones-para-la-mujer-que-vive-conectada": {
-            "title": "7 aplicaciones para la mujer que vive conectada...",
-            "snippet": "aplicaci\u00f3n disponible en equipos Lumia con Windows con la que a trav\u00e9s de un sistema de GPS podr\u00e1n conocer la ubicaci\u00f3n de su autom\u00f3vil. 7. Con Lista de la compra, disponible en Windows, olv\u00eddate del papel y l\u00e1piz. Crea listas personalizadas...",
-            "date": "2015-03-21",
-            "tags": "conocer,aplicaci\u00f3n,equipos,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/periodicodigital.mx/2015/03/7-aplicaciones-para-la-mujer-que-vive-conectada",
+        "debate.com.mx/2015/04/recuperan-camioneta-despojada-en-gasoducto": {
+            "title": "Recuperan camioneta despojada en gasoducto...",
+            "snippet": "El veh\u00edculo fue hallado durante un operativo y gracias al sistema de GPS, entre el monte a 800 metros de la carretera que comunica de San Blas a Ocoroni.",
+            "date": "2015-04-23",
+            "tags": "san,gracias,veh\u00edculo,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/debate.com.mx/2015/04/recuperan-camioneta-despojada-en-gasoducto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://periodicodigital.mx/2015/03/21/7-aplicaciones-para-la-mujer-que-vive-conectada/"
+            "source_url": "http://debate.com.mx/losmochis/Recuperan-camioneta-despojada-en-gasoducto-20150423-0190.html"
         },
-        "diariodeibiza.es/2015/03/buscan-a-un-alem%C3%A1n-de-72-a%C3%B1os-que-lleva-dos-d%C3%ADas": {
-            "title": "Buscan a un alem\u00e1n de 72 a\u00f1os que lleva dos d\u00edas desaparecido...",
-            "snippet": "Sin embargo, a \u00faltima hora de la tarde se perdi\u00f3 la conexi\u00f3n. Antes, lo localizaron por un sistema de GPS en los alrededores de la subestaci\u00f3n. Adem\u00e1s, un vecino asegur\u00f3 que le vio caminando a unos tres kil\u00f3metros aproximadamente del...",
-            "date": "2015-03-20",
-            "tags": "\u00fal,dos,sistema,gps,adem\u00e1s",
-            "recuweb_url": "http://es.recuweb.com/diariodeibiza.es/2015/03/buscan-a-un-alem%C3%A1n-de-72-a%C3%B1os-que-lleva-dos-d%C3%ADas",
+        "radiobrisas.com/2015/04/paez-dijo-que-estamos-a-favor-del-gps-obligatorio-pero-no": {
+            "title": "Paez dijo que estamos a favor del GPS obligatorio pero no queremos que lo pague el chofer...",
+            "snippet": "Adem\u00e1s, dijo que el GPS lo tiene que controlar el CPC no queremos empresas privadas, al tiempo que remarc\u00f3 que queremos los GPS como se los pusieron a los colectivos, no queremos que choferes paguen un sistema de GPS porque ya pagan blanqueo y...",
+            "date": "2015-04-22",
+            "tags": "colectivos,tiene,estamos,gps,adem\u00e1s,sistema",
+            "recuweb_url": "http://es.recuweb.com/radiobrisas.com/2015/04/paez-dijo-que-estamos-a-favor-del-gps-obligatorio-pero-no",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://diariodeibiza.es/pitiuses-balears/2015/03/21/buscan-aleman-72-anos-lleva/756849.html"
+            "source_url": "http://radiobrisas.com/2015/04/22/paez-afirmo-que-estamos-a-favor-del-gps-obligatorio-pero-no-queremos-que-lo-pague-el-chofer"
         },
-        "trendencias.com/2015/03/gucci-y-tag-heuer-tambi%C3%A9n-se-lanzan-en-el-mercado": {
-            "title": "Gucci y Tag Heuer tambi\u00e9n se lanzan en el mercado de los smartwatches de lujo...",
-            "snippet": "Un elegante smartwach que podr\u00e1 llamar y recibir llamadas, SMS y mails. Un sistema de GPS, funciones para los deportistas y un asistente personal que ejecutar\u00e1 \u00f3rdenes por voz. El a\u00f1o pasado, hizo ya sus primeros pinitos en este terreno con...",
-            "date": "2015-03-20",
-            "tags": "llamadas,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/trendencias.com/2015/03/gucci-y-tag-heuer-tambi%C3%A9n-se-lanzan-en-el-mercado",
+        "elperiodic.com/2015/04/almassora-activa-la-versi%C3%B3n-ios-de-su-aplicaci%C3%B3n-telef%C3%B3nica-para-facilitar": {
+            "title": "Almassora activa la versi\u00f3n iOS de su aplicaci\u00f3n telef\u00f3nica para facilitar el acceso a todos los...",
+            "snippet": "Asimismo, ha recordado Mart\u00ednez, la aplicaci\u00f3n tambi\u00e9n dispone de un sistema de GPS para localizar las fotograf\u00edas que se captan por parte de los ciudadanos y se remiten a trav\u00e9s de esta plataforma. El objetivo es que se facilite a los...",
+            "date": "2015-04-20",
+            "categories": "fotografia",
+            "tags": "versi\u00f3n,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/fotografia/elperiodic.com/2015/04/almassora-activa-la-versi%C3%B3n-ios-de-su-aplicaci%C3%B3n-telef%C3%B3nica-para-facilitar",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://trendencias.com/noticias-de-la-industria/gucci-y-tag-heuer-se-lanzan-tambien-en-el-mercado-de-los-smartwaths-de-lujo"
+            "source_url": "http://elperiodic.com/almassora/noticias/368954_almassora-activa-version-aplicacion-telefonica-para-facilitar-acceso-todos-usuarios.html"
         },
-        "entornointeligente.com/2015/03/urge-sistema-de-transporte-integrado-para-la-ciudad": {
-            "title": "Urge sistema de transporte integrado para la ciudad...",
-            "snippet": "Caterina Macario, presidenta del Instituto de Movilidad Urbana de Chacao, inform\u00f3 que para este a\u00f1o tienen previsto incorporar c\u00e1maras de seguridad y sistema de GPS a las 60 unidades del TransChacao, que recorre el tramo NorteSur del municipio...",
-            "date": "2015-03-19",
-            "tags": "unidades,seguridad,transporte,integrado,ciudad,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/03/urge-sistema-de-transporte-integrado-para-la-ciudad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://entornointeligente.com/articulo/5363766/Urge-sistema-de-transporte-integrado-para-la-ciudad-19032015"
-        },
-        "elmanana.com.mx/2015/03/delata-gps-a-3-asaltantes-el-ma%C3%B1ana-de-nuevo-laredo": {
-            "title": "Delata GPS a 3 asaltantes - El Ma\u00f1ana de Nuevo Laredo...",
-            "snippet": "El Ma\u00f1ana de Nuevo LaredoDelata GPS a 3 asaltantesEl Ma\u00f1ana de Nuevo LaredoDejar encendido el Sistema de Posicionamiento Global (GPS) en algunos de sus equipos celulares podr\u00eda salvarle la vida, o bien, auxiliarle de mucho para conocer el...",
-            "date": "2015-03-18",
-            "tags": "conocer,bien,equipos,podr\u00eda,posicionamiento,global,nuevo,gps,sistema",
-            "recuweb_url": "http://es.recuweb.com/elmanana.com.mx/2015/03/delata-gps-a-3-asaltantes-el-ma%C3%B1ana-de-nuevo-laredo",
+        "datachaco.com/2015/04/proponen-un-sistema-de-control-por-gps-para-los-colectivos": {
+            "title": "Proponen un sistema de control por GPS para los colectivos -...",
+            "snippet": "un sistema de control por GPS para los ministro de Infraestructura, Fabricio Bolatti, expuso este lunes, en la audiencia convocada por el juez Juli\u00e1n Flores, un sistema de seguimiento de los colectivos por GPS que podr\u00eda ser implementado para...",
+            "date": "2015-04-20",
+            "tags": "podr\u00eda,colectivos,control,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/datachaco.com/2015/04/proponen-un-sistema-de-control-por-gps-para-los-colectivos",
             "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://elmanana.com.mx/noticia/60497/Delata-GPS-a-3-asaltantes.html"
+            "source_url": "http://datachaco.com/noticias/view/49935/Proponen_un_sistema_de_control_por_GPS_para_los_colectivos"
         },
-        "unosantafe.com.ar/2015/03/para-naci%C3%B3n-a-fines-de-mayo-funcionar%C3%A1-la-tarjeta-sube": {
-            "title": "Para Naci\u00f3n, a fines de mayo funcionar\u00e1 la tarjeta Sube en la ciudad de Santa Fe...",
-            "snippet": "En este sentido record\u00f3 que en materia de control, con el sistema de GPS, hay un seguimiento directo y continuo de la frecuencia y recorrido de los coches y que a su vez, con mediaci\u00f3n de la Direcci\u00f3n de Derechos Ciudadanos, se logr\u00f3 avanzar...",
-            "date": "2015-03-18",
-            "categories": "sentido",
-            "tags": "control,ciudad,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/sentido/unosantafe.com.ar/2015/03/para-naci%C3%B3n-a-fines-de-mayo-funcionar%C3%A1-la-tarjeta-sube",
+        "voanoticias.com/2015/04/desarrollan-nuevo-sistema-de-gps": {
+            "title": "Desarrollan nuevo sistema de GPS...",
+            "snippet": "Intentar enviar un mensaje de texto urgente, o utilizar el mapa de nuestro tel\u00e9fono inteligente cuando estamos extraviados, y encontrarnos con que no tenemos cobertura de red, es una de las cosas m\u00e1s frustrantes. Pero un nuevo invento podr\u00eda ser...",
+            "date": "2015-04-19",
+            "tags": "nuevo,podr\u00eda,utilizar,inteligente,estamos,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/voanoticias.com/2015/04/desarrollan-nuevo-sistema-de-gps",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://unosantafe.com.ar/santafe/Para-Nacion-a-fines-de-mayo-funcionara-la-tarjeta-Sube-en-la-ciudad-de-Santa-Fe-20150318-0043.html"
+            "source_url": "http://voanoticias.com/content/gps-sistema-navegacion-exacto-ahorrador/2723903.html"
         },
-        "periodicodeibiza.es/2015/03/los-taxistas-mayoritarios-est%C3%A1n-a-favor-de-un-%C3%BAnico-gps": {
-            "title": "Los taxistas mayoritarios est\u00e1n a favor de un \u00fanico GPS, pero defienden que debe ser el suyo...",
-            "snippet": "Los representantes de las asociaciones mayoritarias defendieron, adem\u00e1s, su GPS que funciona bien; muchas veces han salido diciendo que funciona mal cuando no es as\u00ed y destacaron que con este sistema de GPS pasaron de las llamadas diarias en...",
-            "date": "2015-03-17",
-            "tags": "llamadas,gps,adem\u00e1s,funciona,bien,sistema",
-            "recuweb_url": "http://es.recuweb.com/periodicodeibiza.es/2015/03/los-taxistas-mayoritarios-est%C3%A1n-a-favor-de-un-%C3%BAnico-gps",
+        "ultimahora.com/2015/04/asaltan-bus-de-turistas-paraguayos-en-brasil": {
+            "title": "Asaltan bus de turistas paraguayos en Brasil...",
+            "snippet": "Adem\u00e1s se\u00f1al\u00f3 que uno de los conductores alert\u00f3 el sistema de GPS y as\u00ed lograron ubicar el \u00f3mnibus y asistirlos. El \u00f3mnibus sali\u00f3 este viernes a las de San Pablo con destino a nuestro pa\u00eds en donde llegar\u00edan a las de este s\u00e1bado.",
+            "date": "2015-04-18",
+            "tags": "san,adem\u00e1s,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/ultimahora.com/2015/04/asaltan-bus-de-turistas-paraguayos-en-brasil",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://periodicodeibiza.es/pitiusas/local/2015/03/18/147203/taxistas-mayoritarios-estan-favor-unico-gps-pero-defienden-debe-ser-suyo.html"
-        },
-        "vertigopolitico.com/2015/03/tormenta-solar-azota-a-la-tierra-y-podr%C3%ADa-afectar-sistemas-gps": {
-            "title": "Tormenta solar azota a la Tierra y podr\u00eda afectar sistemas GPS - V\u00e9rtigo Pol\u00edtico (Comunicado de...",
-            "snippet": "Tormenta solar azota a la Tierra y podr\u00eda afectar sistemas GPSV\u00e9rtigo Pol\u00edtico (Comunicado de prensa)Una severa tormenta solar azot\u00f3 a la Tierra el martes con una descarga geomagn\u00e9tica que podr\u00eda afectar las instalaciones el\u00e9ctricas y...",
-            "date": "2015-03-17",
-            "tags": "podr\u00eda,gps",
-            "recuweb_url": "http://es.recuweb.com/vertigopolitico.com/2015/03/tormenta-solar-azota-a-la-tierra-y-podr%C3%ADa-afectar-sistemas-gps",
-            "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps%2Bsistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://vertigopolitico.com/articulo/30552/Tormenta-solar-azota-a-la-Tierra-y-podria-afectar-sistemas-GPS"
+            "source_url": "http://ultimahora.com/asaltan-bus-turistas-paraguayos-brasil-n889058.html"
         }
     }
 }

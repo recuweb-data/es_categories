@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "deportes-de-lucha",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deportes-de-lucha/",
@@ -10,22 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/blogs.json"
     },
     "items": {
-        "biobiochile.cl/2015/04/cobreloa-vence-a-deportes-antofagasta-y-consigue-puntos-vitales-radio-b%C3%ADo": {
-            "title": "Cobreloa vence a Deportes Antofagasta y consigue puntos vitales... - Radio B\u00edo-B\u00edo...",
-            "snippet": "Radio B\u00edo-B\u00edoCobreloa vence a Deportes Antofagasta y consigue puntos vitales...Radio B\u00edo-B\u00edoNo solo abrocharon tres puntos de oro en la lucha por mantener la categor\u00eda tras mostrar un buen juego, sino que adem\u00e1s festejaban la vuelta a su...",
-            "date": "2015-04-18",
-            "categories": "radio",
-            "tags": "solo,deportes,lucha",
-            "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/cobreloa-vence-a-deportes-antofagasta-y-consigue-puntos-vitales-radio-b%C3%ADo",
+        "radioformula.com.mx/2015/04/lucha-libre-world-cup-se-realizar%C3%A1-en-palacio-de-los-deportes": {
+            "title": "Lucha Libre World Cup se realizar\u00e1 en Palacio de los Deportes - RadioF\u00f3rmula...",
+            "snippet": "Terra Argentina\"Lucha Libre World Cup\" se realizar\u00e1 en Palacio de los DeportesRadioF\u00f3rmulaSe esperan algunos luchadores del pa\u00eds \"azteca\", adem\u00e1s de Jap\u00f3n, Estados Unidos y otros, \"quienes buscar\u00e1n ganarse el calificativo de ser la mejor lucha...",
+            "date": "2015-04-22",
+            "categories": "lucha-libre",
+            "tags": "algunos,lucha,lucha_libre,libre,world,cup,realizar\u00e1,palacio,deportes",
+            "recuweb_url": "http://es.recuweb.com/lucha-libre/radioformula.com.mx/2015/04/lucha-libre-world-cup-se-realizar%C3%A1-en-palacio-de-los-deportes",
             "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha%2Bdeportes%2Bde%2Blucha&output=atom&nord=1",
-            "source_url": "http://biobiochile.cl/2015/04/18/cobreloa-y-deportes-antofagasta-se-miden-en-un-duelo-clave-en-la-lucha-por-evitar-el-descenso.shtml"
+            "source_url": "http://radioformula.com.mx/notas.asp?Idn=496361&idFC=2015"
+        },
+        "mediotiempo.com/2015/04/aaa-noah-ajpw-tna-y-roh-en-mundial-de-lucha-libre": {
+            "title": "AAA, NOAH, AJPW, TNA y ROH en Mundial de Lucha Libre - Medio...",
+            "snippet": "Medio, NOAH, AJPW, TNA y ROH en Mundial de Lucha LibreMedio empresa AAA dio a conocer a participantes de la Lucha Libre World Cup, torneo que se realizar\u00e1 el pr\u00f3ximo 24 de mayo en el Palacio de los Deportes de la Ciudad de M\u00e9xico. El torneo...",
+            "date": "2015-04-22",
+            "categories": "lucha-libre",
+            "tags": "realizar\u00e1,world,cup,lucha,lucha_libre,libre,palacio,deportes,ciudad,m\u00e9xico",
+            "recuweb_url": "http://es.recuweb.com/lucha-libre/mediotiempo.com/2015/04/aaa-noah-ajpw-tna-y-roh-en-mundial-de-lucha-libre",
+            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha&output=atom&nord=1",
+            "source_url": "http://mediotiempo.com/mas-deportes/lucha-libre/noticias/2015/04/21/aaa-noah-ajpw-tna-y-roh-en-mundial-de-lucha-libre"
         },
         "excelsior.com.mx/2015/04/discuten-mejoras-en-deporte-de-contacto-exc%C3%A9lsior": {
             "title": "Discuten mejoras en deporte de contacto - Exc\u00e9lsior...",
-            "snippet": "Exc\u00e9lsiorDiscuten mejoras en deporte de contactoExc\u00e9lsiorCIUDAD DE M\u00c9XICO, 15 de abril.- Autoridades de deportes de combate, como el boxeo y la lucha libre, se reunieron con senadores de la Rep\u00fablica para impulsar una iniciativa de ley que...",
+            "snippet": "Discuten mejoras en deporte de contactoExc\u00e9lsiorCIUDAD DE M\u00c9XICO, 15 de abril.- Autoridades de deportes de combate, como el boxeo y la lucha libre, se reunieron con senadores de la Rep\u00fablica para impulsar una iniciativa de ley que proteja a los...",
             "date": "2015-04-15",
             "categories": "boxeo,deporte",
-            "tags": "deporte,contacto,deportes,combate,lucha",
+            "tags": "abril,m\u00e9xico,deporte,contacto,deportes,combate,lucha,libre",
             "recuweb_url": "http://es.recuweb.com/deporte/excelsior.com.mx/2015/04/discuten-mejoras-en-deporte-de-contacto-exc%C3%A9lsior",
             "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha&output=atom&nord=1",
             "source_url": "http://excelsior.com.mx/adrenalina/2015/04/15/1018845"

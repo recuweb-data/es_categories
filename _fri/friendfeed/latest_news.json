@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "friendfeed",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/friendfeed/",
@@ -10,6 +11,46 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/friendfeed/friendfeed/blogs.json"
     },
     "items": {
+        "siliconangle.com/2015/04/3-alternatives-to-the-now-defunct-friendfeed-siliconangle-blog": {
+            "title": "3 alternatives to the now-defunct FriendFeed - SiliconANGLE (blog)...",
+            "snippet": "SiliconANGLE (blog)3 alternatives to the now-defunct FriendFeedSiliconANGLE (blog)Social media content aggregator FriendFeed officially ceased operations on April 9, 2015. The announcement of the service being shut down happened in March, with the...",
+            "date": "2015-04-14",
+            "categories": "friendfeed",
+            "tags": "service,shut,shut-down,down,officially,friendfeed,social",
+            "recuweb_url": "http://es.recuweb.com/friendfeed/siliconangle.com/2015/04/3-alternatives-to-the-now-defunct-friendfeed-siliconangle-blog",
+            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
+            "source_url": "http://siliconangle.com/blog/2015/04/14/3-alternatives-to-the-now-defunct-friendfeed/"
+        },
+        "sierraleonetimes.com/2015/04/facebook-finally-pulls-plug-on-friendfeed-sierra-leone-times": {
+            "title": "Facebook finally pulls plug on FriendFeed - Sierra Leone Times...",
+            "snippet": "Sierra Leone TimesFacebook finally pulls plug on FriendFeedSierra Leone TimesIn fact it was shut down early Friday, April 10 2015. \"We maintained the service since we joined Facebook in 2009, but the number of people using FriendFeed had been...",
+            "date": "2015-04-11",
+            "categories": "facebook,friendfeed",
+            "tags": "service,was,shut,shut-down,down,facebook,friendfeed",
+            "recuweb_url": "http://es.recuweb.com/friendfeed/sierraleonetimes.com/2015/04/facebook-finally-pulls-plug-on-friendfeed-sierra-leone-times",
+            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
+            "source_url": "http://sierraleonetimes.com/index.php/sid/231841047"
+        },
+        "haberyazar.com/2015/04/friendfeed-de-kapand-haber-yazar": {
+            "title": "FriendFeed de kapand - Haber Yazar...",
+            "snippet": "Haber YazarFriendFeed de kapandHaber YazarFrindFd'in d\u00f6rt kurucusu Taylor, Paul Buchheit, Jim Nrris ve Sanjeev Singh tarafndan kurulan bir oyal aylam sitsidir. Site 10 Austos 2009 tarihinde Facbook tarafndan satn alnd. Uluslararas intrnt verilerine...",
+            "date": "2015-04-11",
+            "categories": "friendfeed",
+            "tags": "haber,kapand,friendfeed,tarihinde",
+            "recuweb_url": "http://es.recuweb.com/friendfeed/haberyazar.com/2015/04/friendfeed-de-kapand-haber-yazar",
+            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
+            "source_url": "http://haberyazar.com/friendfeed-de-kapandi/46715.html"
+        },
+        "yenihabervar.com/2015/04/friendfeed-kapand-m-yeni-haber-var": {
+            "title": "FriendFeed kapand m? - Yeni Haber Var...",
+            "snippet": "Yeni Haber VarFriendFeed kapand m?Yeni Haber VarFriendFeed kapand m? FriendFeed 'den a\u00e7klama kapatlma a\u00e7klamas geldi. 9 Mart tarihinde kapanacana dair ilk sinyalleri veren \u00fcnl\u00fc sosyal paylam sitesi FriendFeed resmen bu akam itibar ile kapand. 10...",
+            "date": "2015-04-11",
+            "categories": "friendfeed",
+            "tags": "kapand,tarihinde,haber,friendfeed",
+            "recuweb_url": "http://es.recuweb.com/friendfeed/yenihabervar.com/2015/04/friendfeed-kapand-m-yeni-haber-var",
+            "resource_url": "http://news.google.es/?hl=es&q=friendfeed%2Bfriendfeed&output=atom&nord=1",
+            "source_url": "http://yenihabervar.com/friendfeed-kapandi-mi-h2335.html"
+        },
         "desdelared.com.mx/2015/03/las-predicciones-del-beb%C3%A9-de-silicon-valley": {
             "title": "Las predicciones del 'beb\u00e9'de Silicon Valley...",
             "snippet": "tambi\u00e9n pag\u00f3 por FriendFeed para obtener actualizaciones inmediatas; invirti\u00f3 en Parakey, tan solo para incluir en su planta a sus creadores: Blake Ross y Joe Hewitt; y hasta adquiri\u00f3 ConnectU, la empresa de los hermanos Winklevoss, nada menos...",
@@ -50,65 +91,25 @@
             "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
             "source_url": "http://sfist.com/2015/03/10/day_around_the_bay_farewell_friendf.php"
         },
-        "telegraaf.nl/2015/03/facebook-sluit-friendfeed": {
-            "title": "Facebook sluit FriendFeed -...",
-            "snippet": "sluit werd in 2007 opgericht door vier ontwikkelaars van Google die eerder aan de wieg stonden van applicaties als Gmail en Google Maps. Friendfeed was een van de eerste netwerken die real-time updates leverde voor sociale feeds. Ook was...",
-            "date": "2015-03-10",
-            "categories": "facebook,friendfeed,google",
-            "tags": "feeds,was,door,facebook,friendfeed,google",
-            "recuweb_url": "http://es.recuweb.com/google/telegraaf.nl/2015/03/facebook-sluit-friendfeed",
-            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
-            "source_url": "http://telegraaf.nl/digitaal/23783045/__Facebook_sluit_FriendFeed__.html"
-        },
-        "canaltech.com.br/2015/03/facebook-vai-encerrar-o-servi%C3%A7o-friendfeed-adquirido-em-2009-canaltech-blogue": {
-            "title": "Facebook vai encerrar o servi\u00e7o FriendFeed, adquirido em 2009 - canaltech (Blogue)...",
-            "snippet": "Facebook vai encerrar o servi\u00e7o FriendFeed, adquirido em 2009canaltech (Blogue)Voc\u00ea j\u00e1 ouviu falar no FriendFeed? Ele \u00e9 um agregador de feeds adquirido pelo Facebook em 2009 por US 50 milh\u00f5es e que vai sair do ar no in\u00edcio do pr\u00f3ximo m\u00eas,...",
-            "date": "2015-03-10",
-            "categories": "facebook,friendfeed",
-            "tags": "feeds,facebook,friendfeed",
-            "recuweb_url": "http://es.recuweb.com/friendfeed/canaltech.com.br/2015/03/facebook-vai-encerrar-o-servi%C3%A7o-friendfeed-adquirido-em-2009-canaltech-blogue",
-            "resource_url": "http://news.google.es/?hl=es&q=friendfeed%2Bfriendfeed&output=atom&nord=1",
-            "source_url": "http://canaltech.com.br/noticia/facebook/Facebook-vai-encerrar-o-servico-FriendFeed-adquirido-em-2009/"
-        },
-        "numerama.com/2015/03/friendfeed-jette-l-%C3%A9ponge-agr%C3%A9gateur-dispara%C3%AEtra-le-9-avril-numerama": {
-            "title": "FriendFeed jette l'\u00e9ponge. L'agr\u00e9gateur dispara\u00eetra le 9 avril - Numerama...",
-            "snippet": "NumeramaFriendFeed jette l'\u00e9ponge. L'agr\u00e9gateur dispara\u00eetra le 9 avrilNumeramaC'est la fin de l'aventure pour FriendFeed. Actif depuis 2007, l'agr\u00e9gateur de contenus va finalement cesser ses activit\u00e9s le mois prochain faute de fr\u00e9quentation...",
-            "date": "2015-03-10",
-            "categories": "friendfeed",
-            "tags": "friendfeed",
-            "recuweb_url": "http://es.recuweb.com/friendfeed/numerama.com/2015/03/friendfeed-jette-l-%C3%A9ponge-agr%C3%A9gateur-dispara%C3%AEtra-le-9-avril-numerama",
-            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
-            "source_url": "http://numerama.com/magazine/32438-friendfeed-jette-l-eponge-l-agregateur-disparaitra-le-9-avril.html"
-        },
-        "webrazzi.com/2015/03/friendfeed-tarih-oluyor-webrazzi": {
-            "title": "FriendFeed tarih oluyor - Webrazzi...",
-            "snippet": "WebteknoFriendFeed tarih oluyorWebrazzi2009 ylnda Facebook tarafndan satn alnan FriendFeed de internet d\u00fcnyasnn tozlu raflarndaki yerini alyor. FriendFeed'in resmi blogunda yaplan a\u00e7klamaya g\u00f6re bir zamanlar olduk\u00e7a pop\u00fcler olan sosyal a, 9...",
-            "date": "2015-03-10",
-            "categories": "internet,friendfeed,facebook",
-            "tags": "friendfeed,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/webrazzi.com/2015/03/friendfeed-tarih-oluyor-webrazzi",
-            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
-            "source_url": "http://webrazzi.com/2015/03/10/friendfeed-tarih-oluyor/"
-        },
-        "pcworld.com/2015/03/friendfeed-will-finally-shut-down-on-april-9-pcworld": {
-            "title": "FriendFeed will finally shut down on April 9 - PCWorld...",
-            "snippet": "Re/codeFriendFeed will finally shut down on April 9PCWorldWhen Facebook acquired FriendFeed back in 2009, the company said it would continue operating the service as normal until longer term plans were developed. Nearly six years later, Facebook...",
-            "date": "2015-03-10",
-            "categories": "facebook,friendfeed",
-            "tags": "back,facebook,down,friendfeed,acquired",
-            "recuweb_url": "http://es.recuweb.com/friendfeed/pcworld.com/2015/03/friendfeed-will-finally-shut-down-on-april-9-pcworld",
-            "resource_url": "http://news.google.es/?hl=es&q=friendfeed%2Bfriendfeed&output=atom&nord=1",
-            "source_url": "http://pcworld.com/article/2894740/friendfeed-will-finally-shut-down-on-april-9.html"
-        },
         "recode.net/2015/03/facebook-officially-shuts-the-door-on-friendfeed-re-code": {
             "title": "Facebook Officially Shuts the Door on FriendFeed - Re/code...",
             "snippet": "Re/codeFacebook Officially Shuts the Door on FriendFeedRe/codeFacebook is shutting down the News Feed-like social network it acquired back in 2009, according to a blog post. FriendFeed, which lets users share links, photos or posts in a customized...",
             "date": "2015-03-09",
             "categories": "facebook,friendfeed",
-            "tags": "social,acquired,back,down,facebook,door,friendfeed,code",
+            "tags": "social,back,down,officially,facebook,friendfeed,code",
             "recuweb_url": "http://es.recuweb.com/friendfeed/recode.net/2015/03/facebook-officially-shuts-the-door-on-friendfeed-re-code",
             "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
             "source_url": "http://recode.net/2015/03/09/facebook-shuts-down-friendfeed/"
+        },
+        "wwwhatsnew.com/2015/03/facebook-cerrar%C3%A1-friendfeed-el-9-de-abril-wwwhat-s-new-blog": {
+            "title": "Facebook cerrar\u00e1 FriendFeed el 9 de abril - WWWhat's new? (blog)...",
+            "snippet": "WWWhat's new? (blog)Facebook cerrar\u00e1 FriendFeed el 9 de abrilWWWhat's new? (blog)FriendFeed, fundado por ex-empleados de Google que participaron en el desarrollo de servicios como como Gmail y Google Maps, siempre ha sido un servicio que ha...",
+            "date": "2015-03-09",
+            "categories": "facebook,friendfeed,google",
+            "tags": "facebook,friendfeed,google",
+            "recuweb_url": "http://es.recuweb.com/google/wwwhatsnew.com/2015/03/facebook-cerrar%C3%A1-friendfeed-el-9-de-abril-wwwhat-s-new-blog",
+            "resource_url": "http://news.google.es/?hl=es&q=friendfeed&output=atom&nord=1",
+            "source_url": "http://wwwhatsnew.com/2015/03/09/facebook-cerrara-friendfeed-el-9-de-abril/"
         }
     }
 }

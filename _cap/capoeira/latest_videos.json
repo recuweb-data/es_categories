@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "capoeira",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/capoeira/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/capoeira/capoeira/blogs.json"
     },
     "items": {
+        "youtube.com/2015/03/encuetro-familiar-capoeira-arte-popular-merida-2015": {
+            "title": "Encuetro Familiar Capoeira Arte Popular Merida 2015...",
+            "snippet": "Encuetro Familiar Capoeira Arte Popular Merida 2015 From: SAPO Capoeira Arte Popular Views: 575 14 ratings Time: 05:27 More in People & Blogs...",
+            "date": "2015-03-20",
+            "author_name": "SAPO Capoeira Arte Popular",
+            "categories": "capoeira",
+            "tags": "capoeira,arte,people",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2015/03/encuetro-familiar-capoeira-arte-popular-merida-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Vh9vP8fz8EE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Vh9vP8fz8EE/0.jpg"
+        },
         "dailymotion.com/2015/02/samarcanda-i%C3%A8-zum-capoeira": {
             "title": "Samarcanda - I\u00e8 Zum Zum Zum Capoeira...",
             "snippet": "Samarcanda - I\u00e8 Zum Zum Zum CapoeiraItalian do it better - Il canale dedicato alla musica Italiana - Trova i tuoi artisti e canzoni preferiti e (ri)scopri i grandi classici della musica Italiana. Iscriviti gratuitamente al nostro canale ITmYOUsic e...",
@@ -22,65 +35,41 @@
             "source_url": "http://dailymotion.com/video/x2gy57a_samarcanda-ie-zum-zum-zum-capoeira_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2gy57a_samarcanda-ie-zum-zum-zum-capoeira_music"
         },
-        "youtube.com/2015/01/gcap-35-anos-de-capoeira-angola": {
-            "title": "GCAP 35 anos de capoeira angola...",
-            "snippet": "GCAP 35 anos de capoeira angola Chamada para o evento de 35 anos do Grupo de Capoeira Angola Pelourinho, dias 27 e 28 de fevereiro e 1 de mar\u00e7o de 2015 em Salvador, BA. From: Leonardo Reis Views: 2836 26 ratings Time: 03:17 More in Howto & Style...",
-            "date": "2015-01-29",
-            "author_name": "Leonardo Reis",
+        "youtube.com/2015/01/capoeira-con-perros": {
+            "title": "capoeira con perros...",
+            "snippet": "capoeira con perros Este video se subi de un telfono Android. From: kevim cocco Views: 3844 15 ratings Time: 00:26 More in Entertainment...",
+            "date": "2015-01-23",
+            "author_name": "kevim cocco",
             "categories": "capoeira",
-            "tags": "capoeira",
-            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2015/01/gcap-35-anos-de-capoeira-angola",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira%2Bcapoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=YfWEk_e0ttU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/YfWEk_e0ttU/0.jpg"
-        },
-        "youtube.com/2015/01/capoeira-version-borracho": {
-            "title": "CAPOEIRA VERSION BORRACHO...",
-            "snippet": "CAPOEIRA VERSION BORRACHO Espero haber sacado al menos una sonrisa (': From: Ezequieel14 Views: 1351 8 ratings Time: 00:26 More in People & Blogs...",
-            "date": "2015-01-20",
-            "author_name": "Ezequieel14",
-            "categories": "capoeira",
-            "tags": "capoeira,people",
-            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2015/01/capoeira-version-borracho",
+            "tags": "capoeira,perros",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2015/01/capoeira-con-perros",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=WqguViY4jMM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/WqguViY4jMM/0.jpg"
-        },
-        "dailymotion.com/2015/01/capoeira-cerebros-coordinados": {
-            "title": "Capoeira: Cerebros coordinados...",
-            "snippet": "Capoeira es un arte marcial brasile\u00f1o de origen africano que combina facetas de baile, m\u00fasica y acrobacias, as\u00ed como expresi\u00f3n corporal. Fue desarrollado en Brasil por descendientes africanos con influencias ind\u00edgenas, probablemente a...",
-            "date": "2015-01-16",
-            "author_name": "raulespert",
-            "categories": "arte-marcial,capoeira",
-            "tags": "arte,arte-marcial,marcial,brasile\u00f1o,baile,capoeira,brasil",
-            "recuweb_url": "http://es.recuweb.com/capoeira/dailymotion.com/2015/01/capoeira-cerebros-coordinados",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/capoeira+capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2eulaw_capoeira-cerebros-coordinados_school",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2eulaw_capoeira-cerebros-coordinados_school"
+            "source_url": "http://youtube.com/watch?v=AuRtylishyM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/AuRtylishyM/0.jpg"
         },
         "youtube.com/2015/01/capoeira-estilo-brasile%C3%B1o-vs-mexicano": {
             "title": "Capoeira estilo brasile\u00f1o vs estilo mexicano...",
-            "snippet": "Capoeira estilo brasile\u00f1o vs estilo mexicano Reta de capoeira de poder a poder. From: Eduardo Zamora Views: 2219 16 ratings Time: 00:26 More in People & Blogs...",
+            "snippet": "Capoeira estilo brasile\u00f1o vs estilo mexicano Reta de capoeira de poder a poder. From: Eduardo Zamora Views: 23238 87 ratings Time: 00:26 More in People & Blogs...",
             "date": "2015-01-10",
             "author_name": "Eduardo Zamora",
             "categories": "capoeira",
-            "tags": "capoeira,brasile\u00f1o,people",
+            "tags": "capoeira,people",
             "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2015/01/capoeira-estilo-brasile%C3%B1o-vs-mexicano",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira%2Bcapoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=NZ3yCQGVPxU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/NZ3yCQGVPxU/0.jpg"
         },
-        "dailymotion.com/2014/12/unesco-declara-capoeira-como-patrimonio-mundial-de-la-humanidad": {
-            "title": "UNESCO declara Capoeira como Patrimonio Mundial de la Humanidad...",
-            "snippet": "La UNESCO declar\u00f3 la Capoeira como Patrimonio Mundial Intangible de la Humanidad. Esta mezcla y baile y lucha dan un esp\u00edritu \u00fanico de identidad a esta manifestaci\u00f3n cultural practicada en brasil y el resto del mundo. teleSURAuthor:...",
-            "date": "2014-12-16",
-            "author_name": "teleSUR_tv",
-            "categories": "capoeira",
-            "tags": "mezcla,baile,brasil,patrimonio,mundial,unesco,capoeira",
-            "recuweb_url": "http://es.recuweb.com/capoeira/dailymotion.com/2014/12/unesco-declara-capoeira-como-patrimonio-mundial-de-la-humanidad",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/capoeira+capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2cofqk_unesco-declara-capoeira-como-patrimonio-mundial-de-la-humanidad_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cofqk_unesco-declara-capoeira-como-patrimonio-mundial-de-la-humanidad_news"
+        "youtube.com/2014/11/capoeira-en-bellas-artes-por-ayotzinapa-yamecans%C3%A9-entoncespropongo": {
+            "title": "Capoeira en Bellas Artes por Ayotzinapa Yamecans\u00e9 Entoncespropongo...",
+            "snippet": "Capoeira en Bellas Artes por Ayotzinapa Yamecans\u00e9 Entoncespropongo Este viernes 28 de noviembre desde las 16 hrs se llevaron a cabo distintas actividades art\u00edsticas a las afueras del Palacio de Bellas Artes. La cultura en toda su expresi\u00f3n se...",
+            "date": "2014-11-29",
+            "author_name": "LuMendizabal",
+            "categories": "cultura,bellas-artes,capoeira",
+            "tags": "capoeira",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2014/11/capoeira-en-bellas-artes-por-ayotzinapa-yamecans%C3%A9-entoncespropongo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Jccaii9zTwI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Jccaii9zTwI/0.jpg"
         },
         "dailymotion.com/2014/11/capoeira-es-patrimonio-cultural-de-la-unesco": {
             "title": "Capoeira es patrimonio cultural de la UNESCO...",
@@ -88,47 +77,59 @@
             "date": "2014-11-27",
             "author_name": "afpespagnol",
             "categories": "danza,arte-marcial,capoeira",
-            "tags": "patrimonio,informe,brasil,mezcla,arte,arte-marcial,marcial,capoeira,unesco,web",
+            "tags": "brasil,arte,capoeira",
             "recuweb_url": "http://es.recuweb.com/capoeira/dailymotion.com/2014/11/capoeira-es-patrimonio-cultural-de-la-unesco",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/capoeira+capoeira/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b7jea_capoeira-es-patrimonio-cultural-de-la-unesco_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2b7jea_capoeira-es-patrimonio-cultural-de-la-unesco_news"
         },
-        "youtube.com/2014/10/aprenda-capoeira-facil-y-rapido": {
-            "title": "APRENDA CAPOEIRA FACIL Y RAPIDO.",
-            "snippet": "APRENDA CAPOEIRA FACIL Y RAPIDO. Quieres aprender Capoeira f\u00e1cil y r\u00e1pido solo sigue estos sencillos pasos con el Profesor Cachay. From: VINCENT BLACK Views: 2050 7 ratings Time: 00:16 More in Pets & Animals...",
-            "date": "2014-10-02",
-            "author_name": "VINCENT BLACK",
+        "youtube.com/2014/11/championship-vem-camara-capoeira-2014-sao-bento-a12": {
+            "title": "championship vem camara capoeira 2014 sao bento A12...",
+            "snippet": "championship vem camara capoeira 2014 sao bento A12 4th European championship Vem Camar\u00e1 Capoeira - Liberec 2014 quarterfinals 12 category A-men Sao Bento grande. From: Tom\u00e1 Zummer Views: 2038 12 ratings Time: 08:22 More in People & Blogs...",
+            "date": "2014-11-19",
+            "author_name": "Tom\u00e1\u0161 Zummer",
+            "categories": "capoeira",
+            "tags": "capoeira,people",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2014/11/championship-vem-camara-capoeira-2014-sao-bento-a12",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira%2Bcapoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=2Jn3mzFFW58&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/2Jn3mzFFW58/0.jpg"
+        },
+        "youtube.com/2014/10/maestro-de-capoeira": {
+            "title": "Maestro de Capoeira...",
+            "snippet": "Maestro de Capoeira Super Maestro de Capoeira Luchando con Perros Profesionales. From: GRUPOHZONE Views: 12697 22 ratings Time: 01:34 More in Education...",
+            "date": "2014-10-04",
+            "author_name": "GRUPOHZONE",
+            "categories": "capoeira",
+            "tags": "perros,capoeira",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2014/10/maestro-de-capoeira",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira%2Bcapoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=2WEQhHZMg-o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/2WEQhHZMg-o/0.jpg"
+        },
+        "youtube.com/2014/08/xx-batizado-capoeira-oriax%C3%A9-2013-trailer-asociaci%C3%B3n-argentina": {
+            "title": "XX Batizado Capoeira Oriax\u00e9 2013 - Trailer - Asociaci\u00f3n Argentina de Capoeira...",
+            "snippet": "XX Batizado Capoeira Oriax\u00e9 2013 - Trailer - Asociaci\u00f3n Argentina de Capoeira From: Iguaquemedia Views: 946 10 ratings Time: 06:45 More in Music...",
+            "date": "2014-08-21",
+            "author_name": "Iguaquemedia",
             "categories": "capoeira",
             "tags": "capoeira",
-            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2014/10/aprenda-capoeira-facil-y-rapido",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2014/08/xx-batizado-capoeira-oriax%C3%A9-2013-trailer-asociaci%C3%B3n-argentina",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=DutIDi3-Ep4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/DutIDi3-Ep4/0.jpg"
+            "source_url": "http://youtube.com/watch?v=bdZbOjpVyAg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/bdZbOjpVyAg/0.jpg"
         },
-        "dailymotion.com/2014/06/brasil-2014-welbeck-y-sturridge-aprenden-capoeira": {
-            "title": "Brasil 2014 - Welbeck y Sturridge aprenden Capoeira...",
-            "snippet": "Ambos puntas muestran sus cualidadesAuthor: Omnisport-espTags: All Sports Daniel Welbeck Spanish Brasil Daniel Sturridge Highlights Football World Cup 2014 Subscription Capoeira ATP World Tour Posted: 10 June 2014Rating:: 0...",
-            "date": "2014-06-10",
-            "author_name": "Omnisport-esp",
-            "categories": "capoeira",
-            "tags": "brasil,capoeira",
-            "recuweb_url": "http://es.recuweb.com/capoeira/dailymotion.com/2014/06/brasil-2014-welbeck-y-sturridge-aprenden-capoeira",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/capoeira+capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1z2lde_brasil-2014-welbeck-y-sturridge-aprenden-capoeira_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1z2lde_brasil-2014-welbeck-y-sturridge-aprenden-capoeira_sport"
-        },
-        "dailymotion.com/2014/06/selecci%C3%B3n-inglesa-baila-capoeira-en-favela": {
-            "title": "Selecci\u00f3n inglesa baila capoeira en favela...",
-            "snippet": "En los d\u00edas previos al Mundial, Inglaterra visita la mayor favela de Rio y deja el bal\u00f3n de lado para practicar algo mucho m\u00e1s brasile\u00f1o: la: afpsporteventsTags: WEB INFORME BAILE INGLATERRA CAPOEIRA 2014 MUNDIAL FBL Posted: 10 June 2014Rating::...",
-            "date": "2014-06-10",
-            "author_name": "afpsportevents",
-            "categories": "capoeira",
-            "tags": "mundial,web,informe,baile,capoeira,brasile\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/capoeira/dailymotion.com/2014/06/selecci%C3%B3n-inglesa-baila-capoeira-en-favela",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/capoeira+capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1z29y9_seleccion-inglesa-baila-capoeira-en-favela_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1z29y9_seleccion-inglesa-baila-capoeira-en-favela_sport"
+        "youtube.com/2014/06/mira-al-grupo-calibre-50-en-clase-de-capoeira": {
+            "title": "Mira al grupo Calibre 50 en clase de Capoeira...",
+            "snippet": "Mira al grupo Calibre 50 en clase de Capoeira Luis Sandoval se llev\u00f3 a los muchachos de Calibre 50 a tomar una clase de capoeira para prepararse para el Brasil. Despierta Am\u00e9rica con las m\u00e1s recientes noticias y lo mejor del entretenimiento...",
+            "date": "2014-06-11",
+            "author_name": "UNIVISIONMUSICA",
+            "categories": "entretenimiento,capoeira",
+            "tags": "capoeira,brasil",
+            "recuweb_url": "http://es.recuweb.com/capoeira/youtube.com/2014/06/mira-al-grupo-calibre-50-en-clase-de-capoeira",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=jy7J5S5_jD4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jy7J5S5_jD4/0.jpg"
         }
     }
 }

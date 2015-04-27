@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "horoscopo-azteca",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/horoscopo-azteca/",
@@ -10,23 +11,42 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/horoscopo-azteca/horoscopo-azteca/blogs.json"
     },
     "items": {
-        "aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-domingo-12-de-abril-2015-azteca-noticias": {
-            "title": "Hor\u00f3scopos del domingo 12 de abril de 2015 - Azteca Noticias...",
-            "snippet": "Azteca NoticiasHor\u00f3scopos del domingo 12 de abril de 2015Azteca NoticiasAries. Un d\u00eda pesado, J\u00fapiter el planeta de la expansi\u00f3n y futuro, te provoca un retroceso, lo m\u00e1s seguro es que tengas que dejar algo o se terminen alguna situaci\u00f3n.",
-            "date": "2015-04-12",
+        "aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-domingo-19-de-abril-2015-azteca-noticias": {
+            "title": "Hor\u00f3scopos del domingo 19 de abril de 2015 - Azteca Noticias...",
+            "snippet": "Azteca NoticiasHor\u00f3scopos del domingo 19 de abril de 2015Azteca NoticiasAries. Hoy para ti el universo tiene unas sorpresas, ya que es el Solsticio de verano y d\u00eda del Padre, felicidades, no habr\u00e1 malas noticias, por lo contrario, es un d\u00eda...",
+            "date": "2015-04-19",
+            "categories": "felicidad",
+            "tags": "d\u00eda,noticias,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,abril,domingo,hor\u00f3scopos",
+            "recuweb_url": "http://es.recuweb.com/felicidad/aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-domingo-19-de-abril-2015-azteca-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
+            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/218698/horoscopos-del-domingo-19-de-abril-de-2015"
+        },
+        "aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-s%C3%A1bado-18-de-abril-2015-azteca-noticias": {
+            "title": "Hor\u00f3scopos del s\u00e1bado 18 de abril de 2015 - Azteca Noticias...",
+            "snippet": "Azteca NoticiasHor\u00f3scopos del s\u00e1bado 18 de abril de 2015Azteca NoticiasAries. Algunos influjos tensos para este d\u00eda, as\u00ed que no te extra\u00f1en los problemillas que se presenten, lo mejor que puedes hacer es ignorar todo lo malo que pase a tu...",
+            "date": "2015-04-18",
+            "tags": "mejor,puedes,d\u00eda,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,abril,s\u00e1bado,hor\u00f3scopos",
+            "recuweb_url": "http://es.recuweb.com/aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-s%C3%A1bado-18-de-abril-2015-azteca-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
+            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/218677/horoscopos-del-sabado-18-de-abril-de-2015"
+        },
+        "aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-de-hoy-s%C3%A1bado-11-abril-azteca-noticias": {
+            "title": "Hor\u00f3scopos de hoy s\u00e1bado 11 de abril - Azteca Noticias...",
+            "snippet": "Azteca NoticiasHor\u00f3scopos de hoy s\u00e1bado 11 de abrilAzteca NoticiasARIES. Un buen d\u00eda en la mayor\u00eda de los aspectos, solo hay un peque\u00f1o influjo que puede ser insignificante, pero depende como lo tomes, ya que Venus el planeta del amor, est\u00e1...",
+            "date": "2015-04-11",
             "categories": "planeta",
-            "tags": "algo,d\u00eda,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,abril,domingo,hor\u00f3scopos,planeta",
-            "recuweb_url": "http://es.recuweb.com/planeta/aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-domingo-12-de-abril-2015-azteca-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca%2Bhoroscopo%2Bazteca&output=atom&nord=1",
-            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/218077/horoscopos-del-domingo-12-de-abril-de-2015"
+            "tags": "hay,puede,d\u00eda,abrilazteca,noticiasaries,azteca,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,abril,s\u00e1bado,hor\u00f3scopos,aspectos,planeta",
+            "recuweb_url": "http://es.recuweb.com/planeta/aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-de-hoy-s%C3%A1bado-11-abril-azteca-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
+            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/218047/horoscopos-de-hoy-sabado-11-de-abril"
         },
         "aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-s%C3%A1bado-4-de-abril-azteca-noticias": {
             "title": "Hor\u00f3scopos del s\u00e1bado 4 de abril - Azteca Noticias...",
             "snippet": "Azteca NoticiasHor\u00f3scopos del s\u00e1bado 4 de abrilAzteca NoticiasHor\u00f3scopos del s\u00e1bado 4 de abril. Consulta tu hor\u00f3scopo para este s\u00e1bado 4 de abril. Fuente Azteca Noticias 04 de abril de 2015 10:16 hrs. Hor\u00f3scopos del s\u00e1bado 4 de abril.",
             "date": "2015-04-04",
-            "tags": "abril,s\u00e1bado,noticiashor\u00f3scopos,azteca,azteca_noticiashor\u00f3scopos,azteca_noticias,noticias,hor\u00f3scopos,hor\u00f3scopo",
+            "tags": "abril,s\u00e1bado,abrilazteca,noticiashor\u00f3scopos,azteca,azteca_noticiashor\u00f3scopos,azteca_noticias,noticias,hor\u00f3scopos,hor\u00f3scopo",
             "recuweb_url": "http://es.recuweb.com/aztecanoticias.com.mx/2015/04/hor%C3%B3scopos-del-s%C3%A1bado-4-de-abril-azteca-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca%2Bhoroscopo%2Bazteca&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
             "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/217397/horoscopos-del-sabado-4-de-abril"
         },
         "aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-domingo-29-de-marzo-2015-azteca-noticias": {
@@ -34,43 +54,34 @@
             "snippet": "Azteca NoticiasHor\u00f3scopos del domingo 29 de marzo de 2015Azteca NoticiasAries. Un d\u00eda inestable, ya que hay mal aspecto originado por la Luna, as\u00ed que no estar\u00e1s del mejor humor o estar\u00e1s en tolerancia cero, as\u00ed, que date tu tiempo, proponle a...",
             "date": "2015-03-29",
             "categories": "humor",
-            "tags": "date,hay,aspecto,d\u00eda,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,domingo,hor\u00f3scopos",
+            "tags": "date,mejor,hay,aspecto,d\u00eda,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,domingo,hor\u00f3scopos",
             "recuweb_url": "http://es.recuweb.com/humor/aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-domingo-29-de-marzo-2015-azteca-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca%2Bhoroscopo%2Bazteca&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
             "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/216890/horoscopos-del-domingo-29-de-marzo-de-2015"
         },
         "aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-s%C3%A1bado-28-de-marzo-azteca-noticias": {
             "title": "Hor\u00f3scopos del s\u00e1bado 28 de marzo - Azteca Noticias...",
             "snippet": "Azteca NoticiasHor\u00f3scopos del s\u00e1bado 28 de marzoAzteca NoticiasAries. Para ordenar nuestra vida, debemos ordenar nuestro entorno, as\u00ed que empieza por tirar todos los papeles y cosas que ya no te sirvan. Los asuntos de romances nuevos est\u00e1n...",
             "date": "2015-03-28",
-            "tags": "est\u00e1n,cosas,vida,noticiasaries,azteca,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,s\u00e1bado,hor\u00f3scopos",
+            "tags": "cosas,vida,noticiasaries,azteca,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,s\u00e1bado,hor\u00f3scopos",
             "recuweb_url": "http://es.recuweb.com/aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-s%C3%A1bado-28-de-marzo-azteca-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca%2Bhoroscopo%2Bazteca&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
             "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/216870/horoscopos-del-sabado-28-de-marzo"
         },
         "aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-domingo-22-de-marzo-2015-azteca-noticias": {
             "title": "Hor\u00f3scopos del domingo 22 de marzo de 2015 - Azteca Noticias...",
             "snippet": "Azteca NoticiasHor\u00f3scopos del domingo 22 de marzo de 2015Azteca NoticiasAries. Hoy recibes una invitaci\u00f3n a salir de alguien a quien le gustas, date la oportunidad, todo pasa por algo y esto puede ser muy bueno. En el plano de la familia, hay un...",
             "date": "2015-03-22",
-            "tags": "hay,algo,date,oportunidad,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,domingo,hor\u00f3scopos",
+            "tags": "hay,puede,date,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,domingo,hor\u00f3scopos",
             "recuweb_url": "http://es.recuweb.com/aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-domingo-22-de-marzo-2015-azteca-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca%2Bhoroscopo%2Bazteca&output=atom&nord=1",
-            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/216246/horoscopos-del-domingo-22-de-marzo-de-2015"
-        },
-        "aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-s%C3%A1bado-14-de-marzo-2015-azteca-noticias": {
-            "title": "Hor\u00f3scopos del s\u00e1bado 14 de marzo de 2015 - Azteca Noticias...",
-            "snippet": "Azteca NoticiasHor\u00f3scopos del s\u00e1bado 14 de marzo de 2015Azteca NoticiasAries. Los astros se van armonizando, ahora que Urano y Marte est\u00e1n en tu signo y la pr\u00f3xima llegada del Sol, tienes la oportunidad de hacer muchos cambios en tu vida,...",
-            "date": "2015-03-14",
-            "tags": "tienes,oportunidad,cambios,vida,est\u00e1n,signo,azteca,azteca_noticiasaries,noticiasaries,azteca_noticiashor\u00f3scopos,noticiashor\u00f3scopos,azteca_noticias,noticias,marzo,s\u00e1bado,hor\u00f3scopos,sol",
-            "recuweb_url": "http://es.recuweb.com/aztecanoticias.com.mx/2015/03/hor%C3%B3scopos-del-s%C3%A1bado-14-de-marzo-2015-azteca-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
-            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/215578/horoscopos-del-sabado-14-de-marzo-de-2015"
+            "source_url": "http://aztecanoticias.com.mx/notas/entretenimiento/216246/horoscopos-del-domingo-22-de-marzo-de-2015"
         },
         "aztecanoticias.com.mx/2014/01/hor%C3%B3scopo-anual-2014-azteca-noticias": {
             "title": "Hor\u00f3scopo anual 2014 - Azteca Noticias...",
             "snippet": "Hor\u00f3scopo anual 2014Azteca NoticiasARIES 2014. Contin\u00faa un a\u00f1o de cambios, el cual comienza especialmente acelerado. Tienes demasiadas cosas en el plato y es importante que hagas conciencia que no puedes comer todo a la vez. Necesitas desarrollar...",
             "date": "2014-01-04",
-            "tags": "cosas,cambios,azteca,azteca_noticiasaries,noticiasaries,azteca_noticias,noticias,hor\u00f3scopo,tienes",
+            "tags": "cosas,puedes,azteca,azteca_noticiasaries,noticiasaries,azteca_noticias,noticias,hor\u00f3scopo",
             "recuweb_url": "http://es.recuweb.com/aztecanoticias.com.mx/2014/01/hor%C3%B3scopo-anual-2014-azteca-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=horoscopo%2Bazteca&output=atom&nord=1",
             "source_url": "http://aztecanoticias.com.mx/notas/sociedad-y-medio-ambiente/178539/horoscopo-anual-2014"

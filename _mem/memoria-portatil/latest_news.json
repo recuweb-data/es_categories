@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "memoria-portatil",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/memoria-portatil/",
@@ -10,25 +11,15 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-portatil/memoria-portatil/blogs.json"
     },
     "items": {
-        "mx.blastingnews.com/2015/03/clash-of-clans-la-nueva-tendencia-en-juegos-port%C3%A1tiles-blasting-news": {
-            "title": "Clash of Clans, la nueva tendencia en juegos port\u00e1tiles - Blasting News...",
-            "snippet": "Blasting NewsClash of Clans, la nueva tendencia en juegos port\u00e1tilesBlasting NewsLa carga de la app es r\u00e1pida, no consume mucha m\u00e1s bateria ni memoria de lo que lo har\u00edan un par de canciones, y mientras tengas una conexi\u00f3n Wi-Fi o directamente...",
-            "date": "2015-03-05",
-            "categories": "memoria",
-            "tags": "memoria",
-            "recuweb_url": "http://es.recuweb.com/memoria/mx.blastingnews.com/2015/03/clash-of-clans-la-nueva-tendencia-en-juegos-port%C3%A1tiles-blasting-news",
+        "noticias-tecnologia.com.ar/2015/03/ipocket-cloud-la-unidad-de-memoria-port%C3%A1til-e-inal%C3%A1mbrica-para-noticias": {
+            "title": "iPocket Cloud, la unidad de memoria port\u00e1til e inal\u00e1mbrica para... - Noticias Tecnologia...",
+            "snippet": "Noticias TecnologiaiPocket Cloud, la unidad de memoria port\u00e1til e inal\u00e1mbrica para...Noticias TecnologiaUniflash, una joven compa\u00f1\u00eda tecnol\u00f3gica basada en Nueva York, desarroll\u00f3 y se prepara para lanzar al mercado a iPocket Cloud, una unidad...",
+            "date": "2015-03-25",
+            "categories": "tecnologia,memoria",
+            "tags": "memoria,port\u00e1til",
+            "recuweb_url": "http://es.recuweb.com/memoria/noticias-tecnologia.com.ar/2015/03/ipocket-cloud-la-unidad-de-memoria-port%C3%A1til-e-inal%C3%A1mbrica-para-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bportatil%2Bmemoria%2Bportatil&output=atom&nord=1",
-            "source_url": "http://mx.blastingnews.com/tecnologia/2015/03/clash-of-clans-la-nueva-tendencia-en-juegos-portatiles-00292761.html"
-        },
-        "es.ign.com/2015/02/hp-omen-un-port%C3%A1til-para-esports-ign-espa%C3%B1a": {
-            "title": "HP Omen, un port\u00e1til para eSports - IGN Espa\u00f1a...",
-            "snippet": "IGN Espa\u00f1aHP Omen, un port\u00e1til para eSportsIGN Espa\u00f1aComo compensaci\u00f3n por la GPU elegida, nos queda la tranquilidad de que esta se acompa\u00f1a de 4GB de memoria GDDR5 y que los controladores son muy maduros. Es decir, no hemos tenido problemas de...",
-            "date": "2015-02-26",
-            "categories": "memoria",
-            "tags": "muy,port\u00e1til,memoria",
-            "recuweb_url": "http://es.recuweb.com/memoria/es.ign.com/2015/02/hp-omen-un-port%C3%A1til-para-esports-ign-espa%C3%B1a",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bportatil%2Bmemoria%2Bportatil&output=atom&nord=1",
-            "source_url": "http://es.ign.com/hp-omen-pc/91359/news/hp-omen-un-portatil-para-jugar-esports"
+            "source_url": "http://noticias-tecnologia.com.ar/moviles/ipocket-cloud-la-unidad-de-memoria-portatil-e-inalambrica-para-smartphones-y-tabletas/"
         }
     }
 }

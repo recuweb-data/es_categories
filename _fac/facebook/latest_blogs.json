@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "facebook",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/facebook/",
@@ -10,16 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
     },
     "items": {
-        "cnnexpansion.com/2015/04/facebook-prueba-app-que-se-conecta-con-tu-celular-negocios": {
-            "title": "Facebook prueba 'app'que se conecta con tu celular - Negocios...",
-            "snippet": "NUEVA YORK (Reuters) Facebook Inc anunci\u00f3 este mi\u00e9rcoles que empez\u00f3 a probar su aplicaci\u00f3n para llamados m\u00f3viles 'Hello'en Android, que permite a sus usuarios conectarse con Facebook para ver la identidad y la...",
-            "date": "2015-04-22",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+        "bolsamania.com/2015/04/facebook-gana-un-20-2%-menos-en-el-primer-trimestre": {
+            "title": "Facebook gana un 20,2% menos en el primer trimestre y anuncia su...",
+            "snippet": "Facebook obtuvo un beneficio neto de 512 millones de d\u00f3lares (478 millones de euros) en el primer trimestre del a\u00f1o, lo que representa un retroceso del 20,2% en comparaci\u00f3n con el mismo periodo de 2014, seg\u00fan inform\u00f3...",
+            "date": "2015-04-23",
+            "author_name": "BOLSAMANIA",
             "categories": "facebook",
-            "tags": "permite,m\u00f3viles,inc,anunci\u00f3,nueva,facebook,app,aplicaci\u00f3n,hello,android,usuarios,ver",
-            "recuweb_url": "http://es.recuweb.com/facebook/cnnexpansion.com/2015/04/facebook-prueba-app-que-se-conecta-con-tu-celular-negocios",
+            "tags": "primer,menos,gana,facebook",
+            "recuweb_url": "http://es.recuweb.com/facebook/bolsamania.com/2015/04/facebook-gana-un-20-2%-menos-en-el-primer-trimestre",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://bolsamania.com/noticias/empresas/facebook-gana-un-202-menos-en-el-primer-trimestre-y-anuncia-su-plan-hello--699765.html"
+        },
+        "marketingsurfers.com/2015/04/c%C3%B3mo-crear-con-%C3%A9xito-un-anuncio-multiproducto-en-facebook": {
+            "title": "C\u00f3mo crear con \u00e9xito un anuncio multiproducto en Facebook...",
+            "snippet": "\u00bfHas o\u00eddo hablar de los anuncios multiproducto de Facebook y no sabes exactamente qu\u00e9 son? En este art\u00edculo te explicamos qu\u00e9 son los anuncios multiproducto de Facebook y c\u00f3mo puedes crearlos en sencillos pasos. \u00bfQu\u00e9 son los anuncios...",
+            "date": "2015-04-23",
+            "author_name": "Equipo Marketing Surfers",
+            "categories": "facebook",
+            "tags": "son,c\u00f3mo,facebook",
+            "recuweb_url": "http://es.recuweb.com/facebook/marketingsurfers.com/2015/04/c%C3%B3mo-crear-con-%C3%A9xito-un-anuncio-multiproducto-en-facebook",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=es",
+            "source_url": "http://marketingsurfers.com/blog/anuncios-multiproducto-facebook-ads/"
+        },
+        "merca20.com/2015/04/el-abandono-de-usuarios-facebook-est%C3%A1-cada-vez-m%C3%A1s-cerca": {
+            "title": "El abandono de usuarios de Facebook est\u00e1 cada vez m\u00e1s cerca...",
+            "snippet": "M\u00e9xico, D.F. La constante batalla por tener mayor n\u00famero de usuarios en una red social est\u00e1 creciendo, ya que, el 90 por ciento de los adolescentes prefiere redes como Instagram y Twitter por encima de Facebook, se\u00f1al\u00f3...",
+            "date": "2015-04-23",
+            "author_name": "Alexandra Dominguez",
+            "categories": "facebook,twitter",
+            "tags": "redes,red,usuarios,facebook,m\u00e9xico,social,instagram,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/merca20.com/2015/04/el-abandono-de-usuarios-facebook-est%C3%A1-cada-vez-m%C3%A1s-cerca",
             "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/negocios/2015/04/22/facebook-lanza-la-prueba-de-su-aplicacion-hello"
+            "source_url": "http://merca20.com/el-abandono-de-usuarios-de-facebook-esta-cada-vez-mas-cerca/"
+        },
+        "genbeta.com/2015/04/whatsapp-messenger-y-los-v%C3%ADdeos-son-grandes-art%C3%ADfices-genbeta": {
+            "title": "WhatsApp, Messenger y los v\u00eddeos son los grandes art\u00edfices - Genbeta...",
+            "snippet": "WhatsApp y Facebook Messenger pueden coexistir y son (y ser\u00e1n) la clave de la estrategia de Facebook en el m\u00f3vil. \u00c9sta es una de las principales conclusiones que Mark Zuckerberg coment\u00f3 ayer con motivo de la...",
+            "date": "2015-04-23",
+            "author_name": "Miguel L\u00f3pez",
+            "categories": "facebook",
+            "tags": "mark,mark_zuckerberg,zuckerberg,principales,pueden,son,whatsapp,messenger,genbeta,facebook",
+            "recuweb_url": "http://es.recuweb.com/facebook/genbeta.com/2015/04/whatsapp-messenger-y-los-v%C3%ADdeos-son-grandes-art%C3%ADfices-genbeta",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbeta.com/redes-sociales-y-comunidades/whatsapp-messenger-y-los-videos-son-los-grandes-artifices-del-crecimiento-de-facebook"
+        },
+        "informador.com.mx/2015/04/facebook-eliminar%C3%A1-widget-de-me-gusta-el-informador": {
+            "title": "Facebook eliminar\u00e1 widget de 'Me Gusta':: El Informador...",
+            "snippet": "CIUDAD DE M\u00c9XICO (22/ABR/2015).- La plataforma Facebook anunci\u00f3 que retirar\u00e1 su caja de \"me gusta\" (like box) el pr\u00f3ximo 23 de junio debido al lanzamiento de Graph API v2.3. Esta herramienta es un widget que hasta ahora los...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "facebook",
+            "tags": "herramienta,widget,graph,graph_api,api,junio,junio-debido,debido,debido-al-lanzamiento,lanzamiento,pr\u00f3ximo,box,anunci\u00f3,anunci\u00f3-que-retirar\u00e1,retirar\u00e1,retirar\u00e1-su-caja,caja,gusta,m\u00e9xico,eliminar\u00e1,facebook,plataforma",
+            "recuweb_url": "http://es.recuweb.com/facebook/informador.com.mx/2015/04/facebook-eliminar%C3%A1-widget-de-me-gusta-el-informador",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://informador.com.mx/tecnologia/2015/588010/6/facebook-eliminara-widget-de-me-gusta.htm"
         },
         "genbeta.com/2015/04/facebook-quiere-que-veas-m%C3%A1s-contenido-de-tus-contactos-y-menos": {
             "title": "Facebook quiere que veas m\u00e1s contenido de tus contactos y menos...",
@@ -27,9 +72,9 @@
             "date": "2015-04-22",
             "author_name": "Y\u00fabal FM",
             "categories": "facebook",
-            "tags": "feed,decidido,decidido-volver,decidido-volver-cambiar,volver,volver-cambiar,cambiar,mejor,manera,contactos,menos,quiere,facebook,contenido",
+            "tags": "feed,manera,quiere,menos,facebook",
             "recuweb_url": "http://es.recuweb.com/facebook/genbeta.com/2015/04/facebook-quiere-que-veas-m%C3%A1s-contenido-de-tus-contactos-y-menos",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://genbeta.com/redes-sociales-y-comunidades/facebook-quiere-que-veas-mas-contenido-de-tus-contactos-y-menos-de-las-paginas-que-sigues"
         },
         "puromarketing.com/2015/04/facebook-vuelve-a-modificar-su-algoritmo-y-cambia-de-nuevo": {
@@ -38,9 +83,9 @@
             "date": "2015-04-22",
             "author_name": "Redacci\u00f3n",
             "categories": "facebook",
-            "tags": "feed,compa\u00f1\u00eda,ido,nuevo,facebook,marcas",
+            "tags": "feed,principales,nuevo,facebook",
             "recuweb_url": "http://es.recuweb.com/facebook/puromarketing.com/2015/04/facebook-vuelve-a-modificar-su-algoritmo-y-cambia-de-nuevo",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://puromarketing.com/16/24496/facebook-vuelve-modificar-algoritmo-cambia-nuevo-reglas-juego.html"
         },
         "rpp.com.pe/2015/04/facebook-taxista-da-ejemplo-de-trabajo-a-pesar-las-limitaciones": {
@@ -49,21 +94,10 @@
             "date": "2015-04-22",
             "author_name": "RPP Noticias",
             "categories": "facebook",
-            "tags": "tom\u00f3,sido,facebook,pesar",
+            "tags": "sido,facebook",
             "recuweb_url": "http://es.recuweb.com/facebook/rpp.com.pe/2015/04/facebook-taxista-da-ejemplo-de-trabajo-a-pesar-las-limitaciones",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rpp.com.pe/2015-04-22-facebook-taxista-da-ejemplo-de-trabajo-a-pesar-de-las-limitaciones-noticia_790095.html"
-        },
-        "abc.com.py/2015/04/caso-pedofilia-esperan-respuesta-de-facebook-nacionales-abc": {
-            "title": "Caso pedofilia: esperan respuesta de Facebook - Nacionales - ABC...",
-            "snippet": "A inicios de este mes sali\u00f3 a luz un perfil de Facebook desde el cual un grupo de ped\u00f3filos public\u00f3 fotograf\u00edas de ni\u00f1as. Ante esto tom\u00f3 intervenci\u00f3n la Fiscal\u00eda, que pidi\u00f3 datos de los usuarios a los responsables de la red...",
-            "date": "2015-04-22",
-            "author_name": "desconocido",
-            "categories": "fotografia,facebook",
-            "tags": "datos,tom\u00f3,facebook,perfil,usuarios,red",
-            "recuweb_url": "http://es.recuweb.com/facebook/abc.com.py/2015/04/caso-pedofilia-esperan-respuesta-de-facebook-nacionales-abc",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/nacionales/caso-pedofilia-esperan-respuesta-de-facebook-1359154.html"
         },
         "genbeta.com/2015/04/cazadores-de-fakes-no-facebook-cerrar%C3%A1-cuentas-usuarios": {
             "title": "Cazadores de Fakes: no, Facebook no cerrar\u00e1 cuentas de usuarios...",
@@ -71,9 +105,9 @@
             "date": "2015-04-22",
             "author_name": "Miguel L\u00f3pez",
             "categories": "facebook",
-            "tags": "quiere,noticia,facebook,usuarios,ver",
+            "tags": "quiere,mark,mark_zuckerberg,zuckerberg,visto,d\u00edas,usuarios,facebook,noticia",
             "recuweb_url": "http://es.recuweb.com/facebook/genbeta.com/2015/04/cazadores-de-fakes-no-facebook-cerrar%C3%A1-cuentas-usuarios",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://genbeta.com/redes-sociales-y-comunidades/cazadores-de-fakes-no-facebook-no-cerrara-cuentas-de-usuarios-que-cometan-faltas-de-ortografia"
         },
         "genbeta.com/2015/04/facebook-messenger-no-iba-a-ser-menos-aqu%C3%AD-tienes-los-atajos": {
@@ -82,43 +116,10 @@
             "date": "2015-04-21",
             "author_name": "Miguel L\u00f3pez",
             "categories": "facebook,twitter",
-            "tags": "web,muy,aplicaciones,tienes,menos,facebook,messenger",
+            "tags": "web,menos,facebook,messenger,genbeta,twitter",
             "recuweb_url": "http://es.recuweb.com/twitter/genbeta.com/2015/04/facebook-messenger-no-iba-a-ser-menos-aqu%C3%AD-tienes-los-atajos",
             "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://genbeta.com/mensajeria-instantanea/facebook-messenger-no-iba-a-ser-menos-aqui-tienes-los-atajos-de-teclado-para-su-web"
-        },
-        "rpp.com.pe/2015/04/facebook-uni%C3%B3-a-pareja-de-brasile%C3%B1os-pese-diferencia-tama%C3%B1o": {
-            "title": "Facebook uni\u00f3 a pareja de brasile\u00f1os pese a diferencia de tama\u00f1o...",
-            "snippet": "Utilizando Facebook como plataforma para sus comunicaciones, dos j\u00f3venes brasile\u00f1os lograron consolidar su relaci\u00f3n pese a que uno de ellos padece gigantismo lo que hace que sea casi un metro m\u00e1s alto que su pareja.",
-            "date": "2015-04-21",
-            "author_name": "RPP Noticias",
-            "categories": "facebook",
-            "tags": "relaci\u00f3n,hace,facebook,plataforma",
-            "recuweb_url": "http://es.recuweb.com/facebook/rpp.com.pe/2015/04/facebook-uni%C3%B3-a-pareja-de-brasile%C3%B1os-pese-diferencia-tama%C3%B1o",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://rpp.com.pe/2015-04-21-facebook-unio-a-pareja-de-brasilenos-pese-a-diferencia-de-tamano-noticia_789908.html"
-        },
-        "mendyenfigureo.com/2015/04/anier-barros-y-panky-isaac-savi%C3%B1on-ganan-el-stella-artois-360": {
-            "title": "Anier Barros y Panky Isaac Savi\u00f1on ganan el Stella Artois 360 Glam Cam...",
-            "snippet": "Mendyenfigureo Ambos famosos fueron elegidos como los Mejores vestidos de Premios Soberano 2015, durante una votaci\u00f3n p\u00fablica en la p\u00e1gina de Facebook de Stella Artois. El actor y cantante Isaac Savi\u00f1\u00f3n y la presentadora de televisi\u00f3n Anier...",
-            "date": "2015-04-21",
-            "author_name": "Arismendy Lora",
-            "categories": "television,facebook",
-            "tags": "facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/mendyenfigureo.com/2015/04/anier-barros-y-panky-isaac-savi%C3%B1on-ganan-el-stella-artois-360",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=es",
-            "source_url": "http://mendyenfigureo.com/2015/04/21/anier-barros-y-panky-isaac-savinon-ganan-el-stella-artois-360-glam-cam/"
-        },
-        "mst-filouba.blogspot.com/2015/04/bachillerato-ust-te-etiquet%C3%B3-en-una-publicaci%C3%B3n-facebook": {
-            "title": "Bachillerato Ust te etiquet\u00f3 en una publicaci\u00f3n en Facebook...",
-            "snippet": "Bachillerato Ust te etiquet\u00f3 a ti y a Lucia Milagros Alvarenga en una publicaci\u00f3n. Bachillerato escribi\u00f3: los trabajadors de la Cooperativa UST en el Bachillerato Arbolito son nuestros preceptores-as, estudiantes y profes M\u00e1s informaci\u00f3n sobre...",
-            "date": "2015-04-21",
-            "author_name": "MST Filo UBA",
-            "categories": "facebook",
-            "tags": "facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/mst-filouba.blogspot.com/2015/04/bachillerato-ust-te-etiquet%C3%B3-en-una-publicaci%C3%B3n-facebook",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=es",
-            "source_url": "http://mst-filouba.blogspot.com/2015/04/bachillerato-ust-te-etiqueto-en-una.html"
         }
     }
 }

@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "salud-global",
-        "language": "es"
+        "language": "es",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/salud-global/",
@@ -10,60 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/salud-global/salud-global/blogs.json"
     },
     "items": {
-        "madrimasd.org/2015/02/contaminaci%C3%B3n-del-suelo-y-salud-p%C3%BAblica-global-soil-forum": {
-            "title": "Contaminaci\u00f3n del Suelo y Salud P\u00fablica (Global Soil Forum)...",
-            "snippet": "Como ya describimos en un post precedente, en el Portal denominado Semana Mundial del Suelo (Global Soil Week) se han colgado tres libritos de divulgaci\u00f3n acerca del estado de la cobertura ed\u00e1fica en el mundo.",
-            "date": "2015-02-20",
-            "author_name": "Juan Jos\u00e9 Ib\u00e1\u00f1ez",
+        "noticias-mexico.com/2015/04/medicamentos-falsificados-amenazan-la-salud-global-noticias": {
+            "title": "Medicamentos falsificados amenazan la salud global: Noticias de...",
+            "snippet": "Los medicamentos de mala calidad son una amenaza real y urgente que podr\u00eda socavar d\u00e9cadas de esfuerzos exitosos para combatir el virus de la inmunodeficiencia humana (VIH), la malaria y la tuberculosis, seg\u00fan un...",
+            "date": "2015-04-22",
+            "author_name": "admin",
             "categories": "salud",
-            "tags": "tres,acerca,estado,mundo,global,mundial,salud,salud_p\u00fablica,p\u00fablica",
-            "recuweb_url": "http://es.recuweb.com/salud/madrimasd.org/2015/02/contaminaci%C3%B3n-del-suelo-y-salud-p%C3%BAblica-global-soil-forum",
+            "tags": "tuberculosis,real,real-urgente,urgente,urgente-que-podr\u00eda,podr\u00eda,podr\u00eda-socavar,podr\u00eda-socavar-d\u00e9cadas,socavar,socavar-d\u00e9cadas,d\u00e9cadas,d\u00e9cadas-de-esfuerzos,esfuerzos,esfuerzos-exitosos,exitosos,exitosos-para-combatir,combatir,combatir-el-virus,virus,inmunodeficiencia,inmunodeficiencia-humana,humana,medicamentos,medicamentos-de-mala,mala,mala-calidad,calidad,falsificados,falsificados-amenazan,amenazan,salud,global,son,amenaza,vih,malaria",
+            "recuweb_url": "http://es.recuweb.com/salud/noticias-mexico.com/2015/04/medicamentos-falsificados-amenazan-la-salud-global-noticias",
             "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://madrimasd.org/blogs/universo/2015/02/20/146182"
+            "source_url": "http://noticias-mexico.com/medicamentos-falsificados-amenazan-la-salud-global.html"
         },
-        "noticias.lainformacion.com/2015/02/comunicado-revolucionarias-investigaciones-e-innovaciones": {
-            "title": "COMUNICADO: Revolucionarias investigaciones e innovaciones de...",
-            "snippet": "... de salud de m\u00e1s de 80 pa\u00edses se han reunido hoy en Qatar para conocer m\u00e1s acerca de las \u00faltimas investigaciones, ideas e innovaciones para la salud que tienen potencial para revolucionar el futuro de la salud global,...",
-            "date": "2015-02-17",
-            "author_name": "desconocido",
-            "categories": "salud",
-            "tags": "innovaciones,acerca,\u00fal,hoy,salud,global",
-            "recuweb_url": "http://es.recuweb.com/salud/noticias.lainformacion.com/2015/02/comunicado-revolucionarias-investigaciones-e-innovaciones",
-            "resource_url": "http://www.google.com/search?q=salud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.lainformacion.com/salud/investigacion-medica/comunicado-revolucionarias-investigaciones-e-innovaciones-de-salud-presentadas-en-la-world-innovation-summit-for-health-wish-2015_Roq62xPcNwMjFQJ7sSow9/"
-        },
-        "diadel.net/2015/02/d%C3%ADa-de-la-salud-global-dia": {
-            "title": "D\u00eda de la Salud global Dia del...",
-            "snippet": "Todos los 7 de Abril se celebra el d\u00eda mundial de la salud, para conmemorar la fundaci\u00f3n de la Organizaci\u00f3n Mundial de la Salud (OMS), es por esto que el d\u00eda de hoy les compartimos estas im\u00e1genes del D\u00eda de la Salud...",
-            "date": "2015-02-16",
-            "author_name": "Mateo",
-            "categories": "salud",
-            "tags": "hoy,organizaci\u00f3n,organizaci\u00f3n_mundial,mundial,fundaci\u00f3n,celebra,salud,global,oms",
-            "recuweb_url": "http://es.recuweb.com/salud/diadel.net/2015/02/d%C3%ADa-de-la-salud-global-dia",
+        "sehp.org/2015/04/m%C3%A1ster-interuniversitario-en-antropolog%C3%ADa-m%C3%A9dica-y-salud-global": {
+            "title": "m\u00e1ster interuniversitario en antropolog\u00eda m\u00e9dica y salud global...",
+            "snippet": "Este m\u00e1ster es continuidad del t\u00edtulo propio de la URV en Antropolog\u00eda de la Medicina (1994- 2000), y del M\u00e1ster Oficial en Antropolog\u00eda M\u00e9dica y Salud Internacional (2005- 2014). Su objetivo es proporcionar a los...",
+            "date": "2015-04-17",
+            "author_name": "sehp",
+            "categories": "salud,medicina",
+            "tags": "salud,internacional,m\u00e9dica,interuniversitario,antropolog\u00eda,global",
+            "recuweb_url": "http://es.recuweb.com/medicina/sehp.org/2015/04/m%C3%A1ster-interuniversitario-en-antropolog%C3%ADa-m%C3%A9dica-y-salud-global",
             "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diadel.net/dia-de-la-salud-global/"
+            "source_url": "http://sehp.org/wordpress/?p=1224"
         },
-        "enteratever.com/2014/12/malaria-resistente-la-pr%C3%B3xima-gran-crisis-de-salud-global": {
-            "title": "Malaria resistente: \u00bfla pr\u00f3xima gran crisis de salud global...",
-            "snippet": "Myanmar (Fundaci\u00f3n Thomson Reuters).- Ka Lar Nar se enferm\u00f3 de malaria por sexta vez cuando trabajaba lejos de casa en su peque\u00f1a granja en medio de la jungla del sureste de Myanmar, pero esta vez fue mucho m\u00e1s...",
-            "date": "2014-12-29",
-            "author_name": "Redaccion",
-            "categories": "salud",
-            "tags": "fundaci\u00f3n,crisis,salud,global",
-            "recuweb_url": "http://es.recuweb.com/salud/enteratever.com/2014/12/malaria-resistente-la-pr%C3%B3xima-gran-crisis-de-salud-global",
-            "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://enteratever.com/?p=99241"
-        },
-        "consultoriodelainnovacion.wordpress.com/2014/11/beca-kuskaya-programa-de-formaci%C3%B3n-interdisciplinaria": {
-            "title": "Beca Kuskaya: Programa de Formaci\u00f3n Interdisciplinaria en...",
-            "snippet": "Kuskaya: Programa de Formaci\u00f3n Interdisciplinaria en Innovaciones para la Salud Global es organizado por la Universidad Peruana Cayetano Heredia, en colaboraci\u00f3n con la Universidad de Washington (Seattle, USA) y...",
-            "date": "2014-11-25",
-            "author_name": "consultoriodelainnovacion",
+        "redamantropologiamedica.blogspot.com/2015/04/abierta-la-preinscripci%C3%B3n-del-master-interuniversitario": {
+            "title": "Abierta la preinscripci\u00f3n del Master Interuniversitario en...",
+            "snippet": "Abierta la preinscripci\u00f3n del Master Interuniversitario en Antropolog\u00eda y Salud Global. Enlace para la preinscripci\u00f3n:...",
+            "date": "2015-04-16",
+            "author_name": "Josep M. Comelles",
             "categories": "salud,salud-global",
-            "tags": "universidad,universidad_peruana,universidad_peruana_cayetano,peruana,peruana_cayetano,peruana_cayetano_heredia,cayetano,cayetano_heredia,heredia,salud,salud_global,global,innovaciones,washington",
-            "recuweb_url": "http://es.recuweb.com/salud-global/consultoriodelainnovacion.wordpress.com/2014/11/beca-kuskaya-programa-de-formaci%C3%B3n-interdisciplinaria",
+            "tags": "salud,salud_global,global,interuniversitario,antropolog\u00eda",
+            "recuweb_url": "http://es.recuweb.com/salud-global/redamantropologiamedica.blogspot.com/2015/04/abierta-la-preinscripci%C3%B3n-del-master-interuniversitario",
             "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://consultoriodelainnovacion.wordpress.com/2014/11/25/beca-kuskaya-programa-de-formacion-interdisciplinaria-en-innovaciones-para-la-salud-global/"
+            "source_url": "http://redamantropologiamedica.blogspot.com/2015/04/abierta-la-preinscripcion-del-master.html"
+        },
+        "granadadigital.es/2015/04/seis-formas-en-las-que-el-alcohol-da%C3%B1a-tu-salud-global": {
+            "title": "Seis formas en las que el alcohol da\u00f1a tu salud global Granada...",
+            "snippet": "El metabolismo del alcohol tiene lugar en el h\u00edgado y dado que el organismo no puede almacenarlo como ocurre con prote\u00ednas, carbohidratos o grasas, su descomposici\u00f3n ocupa el primer lugar en las tareas org\u00e1nicas a...",
+            "date": "2015-04-12",
+            "author_name": "Manrique Pascual",
+            "categories": "salud",
+            "tags": "salud,global,granada",
+            "recuweb_url": "http://es.recuweb.com/salud/granadadigital.es/2015/04/seis-formas-en-las-que-el-alcohol-da%C3%B1a-tu-salud-global",
+            "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://granadadigital.es/seis-formas-en-las-que-el-alcohol-dana-tu-salud-global/"
+        },
+        "ecuadorinmediato.com/2015/03/fundaci%C3%B3n-carlos-slim-recibe-premio-international-recognition": {
+            "title": "Fundaci\u00f3n Carlos Slim recibe premio International Recognition...",
+            "snippet": "Este a\u00f1o, \"por primera vez en la historia del premio, el comit\u00e9 seleccion\u00f3 a una instituci\u00f3n como ganadora: la Fundaci\u00f3n Carlos Slim\" afirm\u00f3 Michael T. Walsh Jr., Director de la Iniciativa de Salud Global del Texas Children's...",
+            "date": "2015-03-26",
+            "author_name": "desconocido",
+            "categories": "salud,salud-global",
+            "tags": "salud,salud_global,global,historia,director,iniciativa",
+            "recuweb_url": "http://es.recuweb.com/salud-global/ecuadorinmediato.com/2015/03/fundaci%C3%B3n-carlos-slim-recibe-premio-international-recognition",
+            "resource_url": "http://www.google.com/search?q=salud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818778601&umt=fundacif3n_carlos_slim_recibe_premio_international_recognition_award_2015_por_su_labor_a_favor_de_la_salud_global"
+        },
+        "cultura.umh.es/2015/03/salud-global-retos-del-milenio-unitat-de-cultura-extensi%C3%B3": {
+            "title": "Salud global: Retos del milenio - Unitat de Cultura, Extensi\u00f3...",
+            "snippet": "Salud global: Retos del milenio. Cursos de invierno 2014/2015. 26, 27, 28 marzo 2015. D\u00eda 26: 16:00 a 19:40. D\u00eda 27: 9:00 a 13:40 y 16:00 a 19:40. D\u00eda 28: 9:00 a 14:00. Sal\u00f3n de Grados del edificio F.J. Balmis Campus de...",
+            "date": "2015-03-18",
+            "author_name": "Unitat de Cultura, Extensi\u00f3 Universit\u00e0ria i Promoci\u00f3 Ling\u00fc\u00edstica",
+            "categories": "salud,cultura",
+            "tags": "salud,global,d\u00eda",
+            "recuweb_url": "http://es.recuweb.com/cultura/cultura.umh.es/2015/03/salud-global-retos-del-milenio-unitat-de-cultura-extensi%C3%B3",
+            "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cultura.umh.es/es/2015/03/18/curso-dhivern-salud-global-retos-del-milenio/"
+        },
+        "cerca.cat/2015/03/el-instituto-de-salud-global-barcelona-abre-una-plaza": {
+            "title": "El Instituto de Salud Global de Barcelona abre una plaza para...",
+            "snippet": "El Instituto de Salud Global de Barcelona ha lanzado una convocatoria para reclutar un 'Mid-Career/Senior Group Leader'en investigaci\u00f3n en cualquier \u00e1rea de salud global, con particular \u00e9nfasis en las \u00e1reas de...",
+            "date": "2015-03-03",
+            "author_name": "CRESIB",
+            "categories": "salud,salud-global",
+            "tags": "\u00e1reas,\u00e1rea,salud,salud_global,global,instituto,barcelona",
+            "recuweb_url": "http://es.recuweb.com/salud-global/cerca.cat/2015/03/el-instituto-de-salud-global-barcelona-abre-una-plaza",
+            "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cerca.cat/el-instituto-de-salud-global-de-barcelona-abre-una-plaza-para-senior-group-leader/"
         },
         "ovtt.org/2014/11/iii-congreso-latinoamericano-y-del-caribe-sobre-salud-global-ovtt": {
             "title": "III Congreso Latinoamericano y del Caribe sobre Salud Global OVTT...",
@@ -71,7 +94,7 @@
             "date": "2014-11-19",
             "author_name": "alba.santa",
             "categories": "salud,salud-global",
-            "tags": "lema,salud,salud_global,global,costa,costa_rica,rica,celebra,iii,iii_congreso,iii_congreso_latinoamericano,congreso,congreso_latinoamericano,latinoamericano,caribe,agenda,desarrollo",
+            "tags": "lema,salud,salud_global,global,costa,costa_rica,rica,iii,iii_congreso,iii_congreso_latinoamericano,congreso,congreso_latinoamericano,latinoamericano,caribe,celebra,desarrollo",
             "recuweb_url": "http://es.recuweb.com/salud-global/ovtt.org/2014/11/iii-congreso-latinoamericano-y-del-caribe-sobre-salud-global-ovtt",
             "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ovtt.org/2014-11-19/congreso_salud_global"
@@ -82,21 +105,10 @@
             "date": "2014-11-17",
             "author_name": "desconocido",
             "categories": "salud",
-            "tags": "\u00e1frica,combate,garantiza,cuba,salud,global",
+            "tags": "salud,global",
             "recuweb_url": "http://es.recuweb.com/salud/tercerainformacion.es/2014/11/cuba-combate-al-ebola-y-garantiza-la-salud-global",
             "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tercerainformacion.es/spip.php?article77124"
-        },
-        "aucaencayohueso.wordpress.com/2014/11/cuba-combate-al-%C3%A9bola-y-garantiza-la-salud-global-auca": {
-            "title": "Cuba combate al \u00e9bola y garantiza la salud global Auca en Cayo...",
-            "snippet": "La alerta se activ\u00f3 en marzo, cuando la Organizaci\u00f3n Mundial de la Salud (OMS) confirm\u00f3 un brote de \u00e9bola en Guinea Conakry, que luego se expandi\u00f3 a Liberia, Sierra Leona, Nigeria y Senegal. Desde entonces, \u00c1frica...",
-            "date": "2014-11-17",
-            "author_name": "aucalatinoamericano",
-            "categories": "salud",
-            "tags": "organizaci\u00f3n,organizaci\u00f3n_mundial,mundial,garantiza,combate,cuba,\u00e9bola,salud,global,marzo,oms,brote,\u00e1frica",
-            "recuweb_url": "http://es.recuweb.com/salud/aucaencayohueso.wordpress.com/2014/11/cuba-combate-al-%C3%A9bola-y-garantiza-la-salud-global-auca",
-            "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://aucaencayohueso.wordpress.com/2014/11/17/cuba-combate-al-ebola-y-garantiza-la-salud-global/"
         },
         "espaciosustentable.com/2014/11/cambio-clim%C3%A1tico-y-salud-global-espacio-sustentable": {
             "title": "Cambio Clim\u00e1tico y Salud Global Espacio Sustentable...",
@@ -104,21 +116,10 @@
             "date": "2014-11-13",
             "author_name": "Paula Ruggeri",
             "categories": "salud,salud-global",
-            "tags": "dos,crisis,\u00fal,salud,salud_global,global,cambio,clim\u00e1tico",
+            "tags": "d\u00e9cadas,cient\u00edfica,\u00fal,salud,salud_global,global",
             "recuweb_url": "http://es.recuweb.com/salud-global/espaciosustentable.com/2014/11/cambio-clim%C3%A1tico-y-salud-global-espacio-sustentable",
             "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://espaciosustentable.com/cambio-climatico-y-salud-global/"
-        },
-        "efeverde.com/2014/11/achim-steiner-pnuma-el-tratado-sobre-cambio-clim%C3%A1tico-sera": {
-            "title": "Achim Steiner (PNUMA): el tratado sobre cambio clim\u00e1tico sera un...",
-            "snippet": "Su conclusi\u00f3n fue que el tratado clim\u00e1tico que se firme en Par\u00eds tambi\u00e9n ser\u00e1 un acuerdo por la salud global -indic\u00f3-, porque claramente hay una conexi\u00f3n muy directa entre los cambios ambientales que surgen del...",
-            "date": "2014-11-02",
-            "author_name": "desconocido",
-            "categories": "salud",
-            "tags": "cambio,porque,clim\u00e1tico,salud,global,hay",
-            "recuweb_url": "http://es.recuweb.com/salud/efeverde.com/2014/11/achim-steiner-pnuma-el-tratado-sobre-cambio-clim%C3%A1tico-sera",
-            "resource_url": "http://www.google.com/search?q=salud%2Bglobal%2Bsalud%2Bglobal&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://efeverde.com/noticias/achim-steiner-pnuma-el-tratado-sobre-cambio-climatico-sera-un-acuerdo-por-la-salud-global/"
         }
     }
 }

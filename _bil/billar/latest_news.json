@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "billar",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/billar/",
@@ -11,42 +11,92 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/billar/billar/blogs.json"
     },
     "items": {
+        "hsbnoticias.com/2015/04/girardote%C3%B1o-bati%C3%B3-r%C3%A9cord-nacional-de-15-carambolas-seguidas-en-el-hsb": {
+            "title": "Girardote\u00f1o bati\u00f3 r\u00e9cord nacional de 15 carambolas seguidas en el... - HSB Noticias...",
+            "snippet": "HSB NoticiasGirardote\u00f1o bati\u00f3 r\u00e9cord nacional de 15 carambolas seguidas en el...HSB NoticiasSe conoce como billar franc\u00e9s o carambola a un juego deportivo de billar el cual se desarrolla empleando un palo de billar, 3 bolas \u00fanicas entre ellas...",
+            "date": "2015-04-30",
+            "categories": "billar",
+            "tags": "noticias,nacional,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/hsbnoticias.com/2015/04/girardote%C3%B1o-bati%C3%B3-r%C3%A9cord-nacional-de-15-carambolas-seguidas-en-el-hsb",
+            "resource_url": "http://news.google.es/?hl=es&q=billar&output=atom&nord=1",
+            "source_url": "http://hsbnoticias.com/noticias/deportes/OtrosDeportes/girardoteno-batio-record-nacional-de-15-carambolas-seguidas-135465"
+        },
+        "s21.com.gt/2015/04/la-asociaci%C3%B3n-de-billar-realiz%C3%B3-los-torneos-para-ni%C3%B1os-con-s%C3%ADndrome": {
+            "title": "La Asociaci\u00f3n de Billar realiz\u00f3 los torneos para ni\u00f1os con s\u00edndrome... -...",
+            "snippet": "Asociaci\u00f3n de Billar realiz\u00f3 los torneos para ni\u00f1os con s\u00edndrome... el torneo de silla de ruedas se jug\u00f3 bajo la modalidad de bola 7; el primer lugar fue de Luis Chut\u00e1n, seguido de Rony Chan y David God\u00ednez. La finalidad de estos cert\u00e1menes...",
+            "date": "2015-04-30",
+            "categories": "billar",
+            "tags": "luis,jug\u00f3,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/s21.com.gt/2015/04/la-asociaci%C3%B3n-de-billar-realiz%C3%B3-los-torneos-para-ni%C3%B1os-con-s%C3%ADndrome",
+            "resource_url": "http://news.google.es/?hl=es&q=billar&output=atom&nord=1",
+            "source_url": "http://s21.com.gt/deportes/2015/04/30/asociacion-billar-realizo-torneos-para-ninos-sindrome-down-para-personas-silla-r"
+        },
+        "eldiario.ec/2015/04/ingenieros-en-juegos-nacionales": {
+            "title": "Ingenieros en Juegos Nacionales...",
+            "snippet": "Las disciplinas que se jugar\u00e1n son trece: fulbito, f\u00fatbol sala, ecuavoley (hombres y mujeres), baloncesto (hombres y mujeres), ajedrez, nataci\u00f3n (hombres y mujeres), atletismo (hombres y mujeres), ciclismo, billar, cuarenta, tenis de mesa y...",
+            "date": "2015-04-28",
+            "categories": "tenis,tenis-de-mesa,futbol,baloncesto,ajedrez,natacion,atletismo,billar",
+            "tags": "mesa,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/eldiario.ec/2015/04/ingenieros-en-juegos-nacionales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
+            "source_url": "http://eldiario.ec/noticias-manabi-ecuador/354065-1-100-ingenieros-en-juegos-nacionales/"
+        },
+        "elnuevodia.com.co/2015/04/billar-pijao-se-instal%C3%B3-en-tres-podios": {
+            "title": "Billar Pijao se instal\u00f3 en tres podios...",
+            "snippet": "La senda del triunfo la abri\u00f3 Edna Vargas con la medalla de plata en el nacional Tres Bandas Femenino, mientras que Andrea Cardona consigui\u00f3 el segundo metal plateado en el Grand Prix Carambola Libre. Conseguimos dos subcampeonatos. Seguimos...",
+            "date": "2015-04-28",
+            "categories": "billar",
+            "tags": "nacional,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/elnuevodia.com.co/2015/04/billar-pijao-se-instal%C3%B3-en-tres-podios",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
+            "source_url": "http://elnuevodia.com.co/nuevodia/deportes/255396-billar-pijao-se-instalo-en-tres-podios"
+        },
+        "es.paperblog.com/2015/04/martes-de-billar": {
+            "title": "Martes de billar...",
+            "snippet": "Hace un par de semanas habl\u00e1bamos de una mir\u00edada de grupos que surgieron a mediados de la d\u00e9cada de los ochenta en el Reino Unido y del g\u00e9nero en que se les enmarco, el sophisti-pop. De todos ellos hay que citar y destacar a una banda pionera...",
+            "date": "2015-04-28",
+            "categories": "reino,billar,pop",
+            "tags": "billar",
+            "recuweb_url": "http://es.recuweb.com/pop/es.paperblog.com/2015/04/martes-de-billar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/martes-de-billar-3182859/"
+        },
+        "autobild.es/2015/04/247-design-la-mesa-de-billar-porsche-euros": {
+            "title": "247 Design: la mesa de billar Porsche de euros...",
+            "snippet": "\u00bfEst\u00e1s pensando en hacer un regalo diferente y original a alguien? Qu\u00e9 te parece una mesa de billar Porsche de euros. S\u00ed, s\u00ed, como lo lees. Cinco millones de las antiguas pesetas es lo que cuesta la mesa de billar 247 Design, creada por el...",
+            "date": "2015-04-27",
+            "categories": "billar",
+            "tags": "mesa,pensando,pensando-en-hacer,hacer,hacer-un-regalo,regalo,original,billar,porsche",
+            "recuweb_url": "http://es.recuweb.com/billar/autobild.es/2015/04/247-design-la-mesa-de-billar-porsche-euros",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
+            "source_url": "http://autobild.es/noticias/una-mesa-billar-porsche-30000-euros-252077"
+        },
+        "elcomercio.pe/2015/04/porsche-cre%C3%B3-mesa-de-billar-us-el-comercio": {
+            "title": "Porsche cre\u00f3 mesa de billar de US - El Comercio...",
+            "snippet": "El ComercioPorsche cre\u00f3 mesa de billar de US ComercioSi estabas pensando en hacer un regalo original a alguien, este podr\u00eda ser la elecci\u00f3n perfecta. Pues la marca alemana Porsche ha dise\u00f1ado una mesa de billar exclusiva que tiene un precio de...",
+            "date": "2015-04-27",
+            "categories": "billar",
+            "tags": "mesa,pensando,pensando-en-hacer,hacer,hacer-un-regalo,regalo,original,porsche,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/elcomercio.pe/2015/04/porsche-cre%C3%B3-mesa-de-billar-us-el-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=billar%2Bbillar&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/ruedas-tuercas/automotriz/porsche-creo-mesa-billar-us-32000-noticia-1807115"
+        },
         "elmundodecordoba.com/2015/04/clausuran-billar-diario-el-mundo-de-c%C3%B3rdoba-blog": {
             "title": "Clausuran billar - Diario El Mundo de C\u00f3rdoba (blog)...",
             "snippet": "Radar es NoticiaClausuran billarDiario El Mundo de C\u00f3rdoba (blog)'Cuando un negocio va a aperturar debe de cumplir con el 70 por ciento de la firmas de los vecinos, el 30 no es impedimento, pero debe cumplir con horarios, ruido, licencia o ser\u00e1...",
             "date": "2015-04-25",
             "categories": "billar,radar",
-            "tags": "mundo,diario,billar",
+            "tags": "diario,billar",
             "recuweb_url": "http://es.recuweb.com/radar/elmundodecordoba.com/2015/04/clausuran-billar-diario-el-mundo-de-c%C3%B3rdoba-blog",
-            "resource_url": "http://news.google.es/?hl=es&q=billar&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=billar%2Bbillar&output=atom&nord=1",
             "source_url": "http://elmundodecordoba.com/index.php?option=com_content&view=article&id=3682631:CLP3N1&catid=211:principal&Itemid=70"
-        },
-        "mundodeportivo.com/2015/04/seg%C3%BAn-ferguson-messi-solo-es-un-crack-en-el-bar%C3%A7a": {
-            "title": "Seg\u00fan Ferguson, Messi solo es un crack en el Bar\u00e7a...",
-            "snippet": "Entrevista junto a una mesa de billar Tal y como comenta el hist\u00f3rico ex t\u00e9cnico del United a John Parrott, campe\u00f3n del mundo de snooker en entrevista concedida a \u00e9ste junto a una mesa de billar, cuando preguntas a la gente qui\u00e9n de los dos es...",
-            "date": "2015-04-25",
-            "categories": "billar",
-            "tags": "mundo,mesa,hist\u00f3rico,billar",
-            "recuweb_url": "http://es.recuweb.com/billar/mundodeportivo.com/2015/04/seg%C3%BAn-ferguson-messi-solo-es-un-crack-en-el-bar%C3%A7a",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
-            "source_url": "http://mundodeportivo.com/futbol/fc-barcelona/20150425/102932507779/ferguson-dice-que-messi-solo-es-un-crack-en-el-barca.html"
-        },
-        "lne.es/2015/04/un-paseo-tras-las-huellas-literarias-de-jos%C3%A9-avello": {
-            "title": "Un paseo tras las huellas literarias de Jos\u00e9 Avello...",
-            "snippet": "Fernando Men\u00e9ndez gui\u00f3 a los lectores de Jos\u00e9 Avello por los escenarios en los que discurren algunos de los pasajes m\u00e1s memorables de la novela Jugadores de billar, que el escritor public\u00f3 en 2001. La ruta literaria, que comenz\u00f3 al mediod\u00eda...",
-            "date": "2015-04-25",
-            "categories": "billar",
-            "tags": "fernando,avello,jugadores,billar",
-            "recuweb_url": "http://es.recuweb.com/billar/lne.es/2015/04/un-paseo-tras-las-huellas-literarias-de-jos%C3%A9-avello",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
-            "source_url": "http://lne.es/oviedo/2015/04/26/paseo-huellas-literarias-jose-avello/1747131.html"
         },
         "diarioelargentino.com.ar/2015/04/billar-moussou-se-clasific%C3%B3-al-provincial-diario-el-argentino": {
             "title": "Billar: Moussou se clasific\u00f3 al Provincial - Diario El Argentino...",
             "snippet": "Billar: Moussou se clasific\u00f3 al ProvincialDiario El ArgentinoUna gran labor tuvo el representante de nuestra ciudad Rodolfo Javier Moussou en el clasificatorio disputado en Paran\u00e1, donde se jug\u00f3 el Zonal Individual de Billar en la especialidad...",
             "date": "2015-04-24",
             "categories": "billar",
-            "tags": "disputado,ciudad,diario,billar",
+            "tags": "jug\u00f3,ciudad,diario,billar",
             "recuweb_url": "http://es.recuweb.com/billar/diarioelargentino.com.ar/2015/04/billar-moussou-se-clasific%C3%B3-al-provincial-diario-el-argentino",
             "resource_url": "http://news.google.es/?hl=es&q=billar&output=atom&nord=1",
             "source_url": "http://diarioelargentino.com.ar/noticias/149959/Billar-Moussou-se-clasific\u00f3-al-Provincial"
@@ -56,60 +106,10 @@
             "snippet": "Elena FDEZ. -PELLO Oviedo incorpora una nueva programaci\u00f3n a su oferta cultural, la Semana del Libro, que organiza el Ayuntamiento de la ciudad y que fue presentada ayer como un puente entre el D\u00eda del Libro y la feria que cada a\u00f1o organiza la...",
             "date": "2015-04-24",
             "categories": "billar",
-            "tags": "ciudad,ayer,semana,jugadores,billar,avello",
+            "tags": "ciudad,billar",
             "recuweb_url": "http://es.recuweb.com/billar/lne.es/2015/04/la-semana-del-libro-revisita-las-localizaciones-de-jugadores-billar-avello",
             "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
             "source_url": "http://lne.es/oviedo/2015/04/25/semana-libro-revisita-localizaciones-jugadores/1746743.html"
-        },
-        "laopiniondemurcia.es/2015/04/el-casino-de-cartagena-logra-pasaporte-para-nacional": {
-            "title": "El Casino de Cartagena logra el pasaporte para el Nacional...",
-            "snippet": "D. G. G. El Club Billar Casino de Cartagena ha logrado la clasificaci\u00f3n para disputar la fase final del Campeonato de Espa\u00f1a de Divisi\u00f3n de Honor de clubes a tres bandas, que se disputar\u00e1 en Palma de Mallorca con la presencia de los ocho...",
-            "date": "2015-04-23",
-            "categories": "billar",
-            "tags": "club,tres,tres-bandas,bandas,fase,fase-final,final,billar",
-            "recuweb_url": "http://es.recuweb.com/billar/laopiniondemurcia.es/2015/04/el-casino-de-cartagena-logra-pasaporte-para-nacional",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
-            "source_url": "http://laopiniondemurcia.es/deportes/2015/04/24/casino-cartagena-logra-pasaporte-nacional/642308.html"
-        },
-        "desdesoria.es/2015/04/el-ca-numancia-hace-historia-al-conseguir-obtener-una-triple-representaci%C3%B3n": {
-            "title": "El CA Numancia hace historia al conseguir obtener una triple representaci\u00f3n en semifinales...",
-            "snippet": "BILLAR Durante este fin de semana se ha disputado en Ponferrada la fase final de la tercera Prueba de Ranking regional de Billar a Tres Bandas, que finalmente se ha saldado con un hist\u00f3rico resultado para el CA Numancia, al clasificarse tres de...",
-            "date": "2015-04-20",
-            "categories": "billar",
-            "tags": "tres,hist\u00f3rico,bandas,regional,fase,fase-final,final,tercera,fin,fin-de-semana,semana,disputado,billar,durante,ponferrada,prueba,ranking",
-            "recuweb_url": "http://es.recuweb.com/billar/desdesoria.es/2015/04/el-ca-numancia-hace-historia-al-conseguir-obtener-una-triple-representaci%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
-            "source_url": "http://desdesoria.es/?p=138919"
-        },
-        "sorianoticias.com/2015/04/tres-jugadores-del-estar%C3%A1n-en-la-final-ranking-de-billar": {
-            "title": "Tres jugadores del estar\u00e1n en la final del Ranking de Billar a tres bandas...",
-            "snippet": "Molina, Cort\u00e9s y Camarero logran lo que no hab\u00eda conseguido ning\u00fan club a nivel regional, tras las jornadas en Ponferrada. Durante este fin de semana, se ha disputado en Ponferrada la fase final de la tercera Prueba de Ranking regional de Billar...",
-            "date": "2015-04-20",
-            "categories": "billar",
-            "tags": "regional,fase,fase-final,final,tercera,disputado,fin,fin-de-semana,semana,club,tres,tres-bandas,bandas,jugadores,ranking,billar,ponferrada,durante,prueba",
-            "recuweb_url": "http://es.recuweb.com/billar/sorianoticias.com/2015/04/tres-jugadores-del-estar%C3%A1n-en-la-final-ranking-de-billar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=billar&format=RSS&cc=es",
-            "source_url": "http://sorianoticias.com/noticia/2015-04-19-tres-jugadores-c-a-numancia-estaran-final-ranking-billar-tres-bandas-23898"
-        },
-        "tiempo.hn/2015/04/honduras-diez-hombres-encapuchados-los-sacan-de-billar": {
-            "title": "Honduras: Diez hombres encapuchados los sacan de billar y les... -...",
-            "snippet": "La Prensa de HondurasHonduras: Diez hombres encapuchados los sacan de billar y les... comerciante y un menor de 16 a\u00f1os de edad fueron hallados muertos ayer en la ma\u00f1ana en la invasi\u00f3n Paz de Cristo, ubicada en los bordos de la Bogr\u00e1n, despu\u00e9s...",
-            "date": "2015-04-19",
-            "categories": "billar",
-            "tags": "fueron,ayer,invasi\u00f3n,encapuchados,sacan,billar,paz,cristo",
-            "recuweb_url": "http://es.recuweb.com/billar/tiempo.hn/2015/04/honduras-diez-hombres-encapuchados-los-sacan-de-billar",
-            "resource_url": "http://news.google.es/?hl=es&q=billar%2Bbillar&output=atom&nord=1",
-            "source_url": "http://tiempo.hn/sucesos/item/27665-honduras-diez-hombres-encapuchados-los-sacan-de-billar-y-les-disparan"
-        },
-        "latribuna.hn/2015/04/los-sacan-de-billar-para-matarlos": {
-            "title": "Los sacan de billar para matarlos - La...",
-            "snippet": "La sacan de billar para matarlosLa 10 encapuchados sacaron el viernes anterior de un billar a su propietario y a su empleado para matarlos a balazos, en la calle principal de la invasi\u00f3n Paz de Cristo de San Pedro Sula. Las v\u00edctimas fueron...",
-            "date": "2015-04-19",
-            "categories": "billar",
-            "tags": "fueron,invasi\u00f3n,encapuchados,sacan,billar,paz,cristo",
-            "recuweb_url": "http://es.recuweb.com/billar/latribuna.hn/2015/04/los-sacan-de-billar-para-matarlos",
-            "resource_url": "http://news.google.es/?hl=es&q=billar%2Bbillar&output=atom&nord=1",
-            "source_url": "http://latribuna.hn/2015/04/19/los-sacan-de-billar-para-matarlos/"
         }
     }
 }

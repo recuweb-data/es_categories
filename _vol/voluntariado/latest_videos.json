@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "voluntariado",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/voluntariado/",
@@ -17,7 +17,7 @@
             "date": "2015-03-04",
             "author_name": "ultimas-noticias",
             "categories": "voluntariado",
-            "tags": "internacional,voluntariado",
+            "tags": "voluntariado",
             "recuweb_url": "http://es.recuweb.com/voluntariado/dailymotion.com/2015/03/dia-internacional-del-voluntariado-mundial-voluntario-cruzroja",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/voluntariado+voluntariado/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ioekx_dia-internacional-del-voluntariado-dia-mundial-del-voluntariado-voluntariado-voluntario-cruzroja_news",
@@ -46,6 +46,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=voluntariado%2Bvoluntariado&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=-5N0oIVQ800&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/-5N0oIVQ800/0.jpg"
+        },
+        "youtube.com/2014/12/lares-comunidad-valenciana-voluntariado": {
+            "title": "LARES Comunidad Valenciana VOLUNTARIADO...",
+            "snippet": "LARES Comunidad Valenciana VOLUNTARIADO En tan s\u00f3lo 3 minutos Lares CV pretende animar a otras personas a embarcarse con nosotros en el camino del voluntariado, estableciendo una relaci\u00f3n profunda, estable y continuada que contribuya. From:...",
+            "date": "2014-12-05",
+            "author_name": "Asociaci\u00f3n Lares CV",
+            "categories": "voluntariado",
+            "tags": "personas,voluntariado",
+            "recuweb_url": "http://es.recuweb.com/voluntariado/youtube.com/2014/12/lares-comunidad-valenciana-voluntariado",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=voluntariado%2Bvoluntariado&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=KJroUhXbDWg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/KJroUhXbDWg/0.jpg"
         },
         "youtube.com/2014/12/voluntariado-express-resultados-invierno-14-15": {
             "title": "VOLUNTARIADO EXPRESS RESULTADOS INVIERNO 14/15...",
@@ -79,7 +91,7 @@
             "categories": "voluntariado",
             "tags": "voluntariado,servicio,social,ayudar,ayudar-los-dem\u00e1s,dem\u00e1s",
             "recuweb_url": "http://es.recuweb.com/voluntariado/youtube.com/2014/09/c%C3%B3mo-hacer-un-voluntariado",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=voluntariado%2Bvoluntariado&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=voluntariado&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=9GZZ2S0pkg0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/9GZZ2S0pkg0/0.jpg"
         },
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=voluntariado&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=wDVylwplGIg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/wDVylwplGIg/0.jpg"
-        },
-        "youtube.com/2014/01/vive-un-voluntariado-internacional-workcamp": {
-            "title": "\u00a1Vive un Voluntariado Internacional! (Workcamp)...",
-            "snippet": "\u00a1Vive un Voluntariado Internacional! (Workcamp) El programa de Becas Vive M\u00e9xico, opera a partir de los programas de Voluntariado Internacional, tambi\u00e9n conocidos como \"Workcamps\" y avalado por la UNESCO a trav\u00e9s del CCIVS en Par\u00eds,... From:...",
-            "date": "2014-01-29",
-            "author_name": "Notimafaldatv",
-            "categories": "voluntariado",
-            "tags": "trav\u00e9s,voluntariado,internacional",
-            "recuweb_url": "http://es.recuweb.com/voluntariado/youtube.com/2014/01/vive-un-voluntariado-internacional-workcamp",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=voluntariado%2Bvoluntariado&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=O22Cvqd34xs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/O22Cvqd34xs/0.jpg"
         }
     }
 }

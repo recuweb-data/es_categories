@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fronton",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/fronton/",
@@ -11,12 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/fronton/fronton/blogs.json"
     },
     "items": {
+        "es.paperblog.com/2015/04/front%C3%B3n-beti-jai-de-madrid-2015-sigue-la-campa%C3%B1a": {
+            "title": "Front\u00f3n Beti-Jai de Madrid, 2015. Sigue la campa\u00f1a por su recuperaci\u00f3n.",
+            "snippet": "El front\u00f3n Beti-Jai de Madrid se encuentra situado en la calle del Marques de Riscal, 7, en el distrito de Chamber\u00ed. Su ubicaci\u00f3n en el barrio de Almagro, una de las zonas m\u00e1s cotizadas de Madrid, lo ha situado en el punto de mira de los m\u00e1s...",
+            "date": "2015-04-27",
+            "categories": "fronton",
+            "tags": "barrio,distrito,front\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/fronton/es.paperblog.com/2015/04/front%C3%B3n-beti-jai-de-madrid-2015-sigue-la-campa%C3%B1a",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/fronton-beti-jai-de-madrid-2015-sigue-la-campana-por-su-recuperacion-3180113/"
+        },
+        "deia.com/2015/04/el-hogar-de-pablo": {
+            "title": "El hogar de Pablo...",
+            "snippet": "EL front\u00f3n Bizkaia es la casa de Pablo Berasaluze. Su hogar. Siempre fiel al mago de Berriz. Ayer, el recinto bilbaino se visti\u00f3 de gala para apoyar a uno de los suyos en la final del Parejas. El rugido de un pueblo que quiere ver a su h\u00e9roe en...",
+            "date": "2015-04-26",
+            "categories": "fronton",
+            "tags": "front\u00f3n,bizkaia,berasaluze,final,parejas",
+            "recuweb_url": "http://es.recuweb.com/fronton/deia.com/2015/04/el-hogar-de-pablo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
+            "source_url": "http://deia.com/2015/04/27/deportes/pelota/el-hogar-de-pablo"
+        },
         "ccaa.elpais.com/2015/04/la-historia-de-una-defunci%C3%B3n": {
             "title": "La historia de una defunci\u00f3n...",
             "snippet": "Front\u00f3n Bizkaia. Final campeonato de parejas. 26 de abril. Bengoetxea VI-Untoria, 22-Berasaluze II-Zubieta, 7. La historia de una defunci\u00f3n. La Bizkaia pelotazale est\u00e1 deprimida. Es el resultado l\u00f3gico despu\u00e9s del descalabro sufrido por el...",
             "date": "2015-04-26",
             "categories": "fronton",
-            "tags": "resultado,bizkaia,campeonato,parejas,front\u00f3n,final",
+            "tags": "bizkaia,campeonato,parejas,front\u00f3n,final,berasaluze",
             "recuweb_url": "http://es.recuweb.com/fronton/ccaa.elpais.com/2015/04/la-historia-de-una-defunci%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
             "source_url": "http://ccaa.elpais.com/ccaa/2015/04/26/paisvasco/1430071684_664310.html"
@@ -26,7 +46,7 @@
             "snippet": "Tribuna de San LuisContin\u00faa torneo de bola gorda semi-novatos de front\u00f3nTribuna de San LuisCon 16 parejas se juega el torneo de front\u00f3n de semi-novatos, el cual lleg\u00f3 ya a su tercera etapa de funcionamiento, las acciones del martes pasado 21 de...",
             "date": "2015-04-25",
             "categories": "fronton",
-            "tags": "pasado,parejas,torneo,san,front\u00f3n",
+            "tags": "parejas,torneo,san,front\u00f3n",
             "recuweb_url": "http://es.recuweb.com/fronton/oem.com.mx/2015/04/contin%C3%BAa-torneo-de-bola-gorda-semi-novatos-front%C3%B3n-tribuna-san-luis",
             "resource_url": "http://news.google.es/?hl=es&q=fronton%2Bfronton&output=atom&nord=1",
             "source_url": "http://oem.com.mx/tribunadesanluis/notas/n3785540.htm"
@@ -46,7 +66,7 @@
             "snippet": "Bilbao - La obra de infraestructura m\u00e1s importante que se va a acometer en el Casco Viejo en los \u00faltimos a\u00f1os ha comenzado. Las primeras m\u00e1quinas ya han entrado en el viejo front\u00f3n de La Esperanza para iniciar su demolici\u00f3n y dar paso a la...",
             "date": "2015-04-23",
             "categories": "fronton",
-            "tags": "obra,front\u00f3n,esperanza,bilbao",
+            "tags": "front\u00f3n,esperanza,bilbao",
             "recuweb_url": "http://es.recuweb.com/fronton/deia.com/2015/04/ets-inicia-el-derribo-del-front%C3%B3n-de-la-esperanza-para-l%C3%ADnea",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
             "source_url": "http://deia.com/2015/04/23/bizkaia/ets-inicia-el-derribo-del-fronton-de-la-esperanza-para-la-linea-3-del-metro"
@@ -66,7 +86,7 @@
             "snippet": "primer torneo de front\u00f3n interreclusorios en el \u00e9xico.- La subsecretaria del Sistema Penitenciario del Distrito Federal realiz\u00f3 el primer torneo interreclusorios de front\u00f3n en el cual compitieron 55 reos en 19 parejas y 17 individuales. El...",
             "date": "2015-04-23",
             "categories": "fronton",
-            "tags": "parejas,realiz\u00f3,torneo,front\u00f3n",
+            "tags": "parejas,realiz\u00f3,torneo,distrito,front\u00f3n",
             "recuweb_url": "http://es.recuweb.com/fronton/sdpnoticias.com/2015/04/realizan-primer-torneo-de-front%C3%B3n-interreclusorios-en-el-df",
             "resource_url": "http://news.google.es/?hl=es&q=fronton%2Bfronton&output=atom&nord=1",
             "source_url": "http://sdpnoticias.com/local/ciudad-de-mexico/2015/04/22/realizan-primer-torneo-de-fronton-interreclusorios-en-el-df"
@@ -76,7 +96,7 @@
             "snippet": "El front\u00f3n Beloki acoge varias semifinales del Torneo GRAVNI este fin de semana. Asimismo, el campeonato manomanista arrancar\u00e1 en Zumarraga el 1 de mayo y en junio se disputar\u00e1 el Torneo Elite. Adem\u00e1s, en fiestas de Santa Isabel se organizar\u00e1...",
             "date": "2015-04-22",
             "categories": "fronton",
-            "tags": "torneo,campeonato,fin,acoge,semifinales,front\u00f3n",
+            "tags": "torneo,campeonato,acoge,semifinales,front\u00f3n",
             "recuweb_url": "http://es.recuweb.com/fronton/diariovasco.com/2015/04/el-front%C3%B3n-beloki-acoge-este-fin-de-semana-varias-semifinales",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
             "source_url": "http://diariovasco.com/alto-urola/201504/23/fronton-beloki-acoge-este-20150423002012-v.html"
@@ -90,26 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/fronton/diariovasco.com/2015/04/el-front%C3%B3n-de-doneztebe-acoge-hoy-las-semifinales-del-memorial-ezkurra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
             "source_url": "http://diariovasco.com/bidasoa/201504/23/fronton-doneztebe-acoge-semifinales-20150423002121-v.html"
-        },
-        "laopiniondezamora.es/2015/04/villanueva-convertir%C3%A1-su-front%C3%B3n-en-un-espacio-polideportivo": {
-            "title": "Villanueva convertir\u00e1 su front\u00f3n en un espacio polideportivo...",
-            "snippet": "ALEJANDRO BERM\u00daDEZ Villanueva del Campo convertir\u00e1 el front\u00f3n municipal en un espacio polideportivo y multifuncional, ya que el Ayuntamiento ha contratado una obra para cerrar el espacio y ampliar su tama\u00f1o, con el fin de crear un nuevo espacio...",
-            "date": "2015-04-21",
-            "categories": "fronton",
-            "tags": "fin,obra,municipal,front\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/fronton/laopiniondezamora.es/2015/04/villanueva-convertir%C3%A1-su-front%C3%B3n-en-un-espacio-polideportivo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
-            "source_url": "http://laopiniondezamora.es/comarcas/2015/04/22/villanueva-convertira-fronton-espacio/837695.html"
-        },
-        "elperiodic.com/2015/04/el-front%C3%B3n-vive-una-noche-m%C3%A1gica-en-puig": {
-            "title": "El front\u00f3n vive una noche m\u00e1gica en El Puig...",
-            "snippet": "El front\u00f3n municipal del Puig se llen\u00f3 el pasado viernes en el homenaje a Tit\u00edn III. El delantero de Tricio jug\u00f3 con Genov\u00e9s II contra Adri\u00e1n de Quart y Montesa y consigui\u00f3 la victoria por el resultado de 41-32. Tit\u00edn III no acus\u00f3 el jugar...",
-            "date": "2015-04-20",
-            "categories": "fronton",
-            "tags": "resultado,iii,pasado,municipal,front\u00f3n,contra,adri\u00e1n",
-            "recuweb_url": "http://es.recuweb.com/fronton/elperiodic.com/2015/04/el-front%C3%B3n-vive-una-noche-m%C3%A1gica-en-puig",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fronton&format=RSS&cc=es",
-            "source_url": "http://elperiodic.com/puig/noticias/368816_fronton-vive-noche-magica-puig.html"
         }
     }
 }

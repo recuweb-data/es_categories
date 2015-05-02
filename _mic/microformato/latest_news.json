@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformato",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/microformato/",
@@ -11,13 +11,23 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/microformato/microformato/blogs.json"
     },
     "items": {
+        "rockol.it/2015/04/segui-i-tag": {
+            "title": "Segui i tag -...",
+            "snippet": "i tag differenza di YouTube, quello di Vine \u00e8 un formato difficilissimo da trasformare in musica compiuta: Passare da 6 secondi a canzoni intere \u00e8 un bel salto. Ma Mendes ha evidentemente talento che va oltre il micro formato: Handwritten, il suo...",
+            "date": "2015-04-27",
+            "categories": "microformato",
+            "tags": "micro,micro-formato,formato",
+            "recuweb_url": "http://es.recuweb.com/microformato/rockol.it/2015/04/segui-i-tag",
+            "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
+            "source_url": "http://rockol.it/recensioni-musicali/dischi/5982/shawn-mendes-handwritten"
+        },
         "elcolombiano.com/2015/03/revoluci%C3%B3n-femenina-hace-gozar-al-pa%C3%ADs-el-colombiano": {
             "title": "Revoluci\u00f3n femenina hace gozar al pa\u00eds - El Colombiano...",
             "snippet": "El ColombianoRevoluci\u00f3n femenina hace gozar al pa\u00edsEl Colombiano84 85 end 86 87 Macro Micro formato CIFRA 88 if((Micro_Cifra &&!=\"\") && (Micro_Cifra_Texto &&!=\"\")) 89 foreach(Micro_Cif in ()) 90 set (indexActual=velocityCount - 1)...",
             "date": "2015-03-08",
             "tags": "macro,macro_micro,micro,colombiano,end,formato,cifra,texto,foreach,cif,indexactual,velocity",
             "recuweb_url": "http://es.recuweb.com/elcolombiano.com/2015/03/revoluci%C3%B3n-femenina-hace-gozar-al-pa%C3%ADs-el-colombiano",
-            "resource_url": "http://news.google.es/?hl=es&q=microformato%2Bmicroformato&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
             "source_url": "http://elcolombiano.com/revolucion-femenina-hace-gozar-al-pais-ED1445655"
         },
         "elcolombiano.com/2015/03/ecopetrol-medir%C3%A1-el-aceite-a-echeverry-como-l%C3%ADder-colombiano": {
@@ -33,8 +43,9 @@
             "title": "El programa de teatro en micro formato de Aforo vuelve este mes - Faro de Vigo...",
             "snippet": "El programa de teatro en micro formato de Aforo vuelve este mesFaro de VigoEste consiste en ofrecer durante tres fines de semana diversas actuaciones de teatro en micro formato -corta duraci\u00f3n, pocos actores, espacio esc\u00e9nico reducido- en sus...",
             "date": "2014-10-06",
-            "tags": "micro,formato",
-            "recuweb_url": "http://es.recuweb.com/farodevigo.es/2014/10/el-programa-de-teatro-en-micro-formato-aforo-vuelve",
+            "categories": "microformato",
+            "tags": "micro,micro-formato,formato",
+            "recuweb_url": "http://es.recuweb.com/microformato/farodevigo.es/2014/10/el-programa-de-teatro-en-micro-formato-aforo-vuelve",
             "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
             "source_url": "http://farodevigo.es/sociedad-cultura/2014/10/06/programa-teatro-micro-formato-aforo/1106811.html"
         },
@@ -43,7 +54,7 @@
             "snippet": "Microformatos: qu\u00e9 son, para qu\u00e9 sirven y d\u00f3nde los vamos a...Genbeta (blog)Los Microformatos nacen como un movimiento \u00e1gil y mantenido por una comunidad despierta, ante la pasividad y la lentitud de organismos de expertos como el W3C. Su...",
             "date": "2009-02-20",
             "categories": "microformato",
-            "tags": "comunidad,son,microformatos",
+            "tags": "comunidad,sirven,son,microformatos",
             "recuweb_url": "http://es.recuweb.com/microformato/genbeta.com/2009/02/microformatos-qu%C3%A9-son-para-sirven-y-d%C3%B3nde-los-vamos-a-genbeta",
             "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
             "source_url": "http://genbeta.com/web/microformatos-que-son-para-que-sirven-y-donde-los-vamos-a-encontrar"
@@ -63,7 +74,7 @@
             "snippet": "Microformatos: la web sem\u00e1ntica en min\u00fa microformatos son soluciones est\u00e1ndard de marcado XHTML para casos de uso concretos. La idea es muy sencilla y evidente para todo aquel que haya pasado un rato por Ovillo o leyendo Simple Quizzes: hay...",
             "date": "2005-04-01",
             "categories": "microformato,xhtml",
-            "tags": "uso,son,microformatos,web,sem\u00e1ntica,hay",
+            "tags": "uso,son,microformatos,web,sem\u00e1ntica",
             "recuweb_url": "http://es.recuweb.com/xhtml/alzado.org/2005/04/microformatos-la-web-sem%C3%A1ntica-en-min%C3%BAsculas",
             "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
             "source_url": "http://alzado.org/articulo.php?id_art=416"

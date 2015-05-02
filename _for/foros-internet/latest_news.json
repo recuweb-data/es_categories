@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "foros-internet",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/foros-internet/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/foros-internet/foros-internet/blogs.json"
     },
     "items": {
-        "diario.mx/2015/04/traductor-en-internet-rinde-homenaje-a-el-quijote-diario-digital-ju%C3%A1rez": {
-            "title": "Traductor en Internet rinde homenaje a 'El Quijote'- Diario Digital Ju\u00e1rez...",
-            "snippet": "Traductor en Internet rinde homenaje a 'El Quijote'Diario Digital Ju\u00e1rezEs de su entendimiento que en los foros de discusi\u00f3n, El Diario supervisa el contenido publicado y se reserva el derecho de eliminar, editar o alterar el contenido que parezca...",
-            "date": "2015-04-23",
+        "excelsior.com.mx/2015/04/foros-de-propuesta-exc%C3%A9lsior": {
+            "title": "Foros de propuesta - Exc\u00e9lsior...",
+            "snippet": "Exc\u00e9lsiorForos de propuestaExc\u00e9lsiorLa transmisi\u00f3n ser\u00e1 v\u00eda internet y con cuatro moderadores de la Canaco, quienes cuidar\u00e1n la mec\u00e1nica. Conforme a lo que nos han comentado, ser\u00e1n planteadas 22 preguntas en ocho temas: transparencia y...",
+            "date": "2015-04-28",
             "categories": "internet",
-            "tags": "internet,foros,discusi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/internet/diario.mx/2015/04/traductor-en-internet-rinde-homenaje-a-el-quijote-diario-digital-ju%C3%A1rez",
+            "tags": "foros,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/excelsior.com.mx/2015/04/foros-de-propuesta-exc%C3%A9lsior",
             "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet&output=atom&nord=1",
-            "source_url": "http://diario.mx/Economia/2015-04-23_44bb7985/traductor-en-internet-rinde-homenaje-a-el-quijote/"
+            "source_url": "http://excelsior.com.mx/opinion/el-santo/2015/04/28/1021099"
+        },
+        "es.gizmodo.com/2015/04/ios-vs-android-as%C3%AD-se-comparan-en-2015-gizmodo-espa%C3%B1ol": {
+            "title": "iOS vs Android: As\u00ed se comparan en 2015 - Gizmodo en Espa\u00f1ol...",
+            "snippet": "Gizmodo en Espa\u00f1oliOS vs Android: As\u00ed se comparan en 2015Gizmodo en Espa\u00f1olHan pasado ya 7 a\u00f1os, y el gran debate entre iOS versus Android sigue siendo protagonista tanto en los foros de Internet como en la vida real. Pero estas plataformas han...",
+            "date": "2015-04-27",
+            "categories": "internet",
+            "tags": "debate,foros,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/es.gizmodo.com/2015/04/ios-vs-android-as%C3%AD-se-comparan-en-2015-gizmodo-espa%C3%B1ol",
+            "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet&output=atom&nord=1",
+            "source_url": "http://es.gizmodo.com/ios-versus-android-asi-se-comparan-en-2015-1700516382"
         },
         "cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-cnnexpansi%C3%B3": {
             "title": "El 44% de los mexicanos leen p\u00e1ginas de Internet - CNNExpansi\u00f3...",
@@ -28,7 +38,7 @@
             "categories": "internet",
             "tags": "p\u00e1ginas,internet,foros",
             "recuweb_url": "http://es.recuweb.com/internet/cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-cnnexpansi%C3%B3",
-            "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet%2Bforos%2Binternet&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=foros%2Binternet&output=atom&nord=1",
             "source_url": "http://cnnexpansion.com/economia/2015/04/22/el-44-de-los-mexicanos-leen-paginas-de-internet"
         }
     }

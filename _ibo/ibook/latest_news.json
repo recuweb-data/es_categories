@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ibook",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ibook/",
@@ -11,32 +11,42 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ibook/ibook/blogs.json"
     },
     "items": {
+        "fool.com/2015/04/3-questions-for-apple-inc-ceo-tim-cook-today-motley-fool": {
+            "title": "3 Questions for Apple, Inc. CEO Tim Cook Today - Motley Fool...",
+            "snippet": "Motley Fool3 Questions for Apple, Inc. CEO Tim Cook TodayMotley FoolApple's services revenue includes revenue from iTunes Store, the App Store, the Mac App Store, the iBook Store, AppleCare, Apple Pay, licensing, and \"other services.\" During the...",
+            "date": "2015-04-27",
+            "categories": "ibook",
+            "tags": "ibook,ibook_store,store,mac,app,apple",
+            "recuweb_url": "http://es.recuweb.com/ibook/fool.com/2015/04/3-questions-for-apple-inc-ceo-tim-cook-today-motley-fool",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook&output=atom&nord=1",
+            "source_url": "http://fool.com/investing/general/2015/04/27/3-questions-for-apple-inc-ceo-tim-cook-today.aspx"
+        },
+        "wwwhatsnew.com/2015/04/apple-watch-nueva-tienda-de-aplicaciones-manual-oficial-y-m%C3%A1s-wwwhat": {
+            "title": "Apple Watch: Nueva tienda de aplicaciones, manual oficial y m\u00e1s... - WWWhat's new? (blog)...",
+            "snippet": "WWWhat's new? (blog)Apple Watch: Nueva tienda de aplicaciones, manual oficial y m\u00e1s...WWWhat's new? (blog)Finalmente, ya est\u00e1 disponible en el portal de Apple y en iBooks (para iOS y Mac) la gu\u00eda de usuario oficial del Apple Watch, una invaluable...",
+            "date": "2015-04-24",
+            "categories": "ibook",
+            "tags": "disponible,apple,ibooks,mac",
+            "recuweb_url": "http://es.recuweb.com/ibook/wwwhatsnew.com/2015/04/apple-watch-nueva-tienda-de-aplicaciones-manual-oficial-y-m%C3%A1s-wwwhat",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
+            "source_url": "http://wwwhatsnew.com/2015/04/24/apple-watch-tienda-aplicaciones-mas-guias-en-video/"
+        },
         "vitonica.com/2015/04/especial-d%C3%ADa-del-libro-los-mejores-textos-sobre-entrenamiento-y-nutrici%C3%B3n": {
             "title": "Especial d\u00eda del libro: los mejores textos sobre entrenamiento y nutrici\u00f3n...",
             "snippet": "Entrenamiento de fuerza: nuevas perspectivas metodol\u00f3gicas, de Carlos Balsalobre-Fern\u00e1ndez y Pedro Jim\u00e9nez-Reyes: este libro digital de descarga gratuita (tanto en la iBook Store como en PDF) vio la luz en enero del a\u00f1o pasado. Se trata de un...",
             "date": "2015-04-23",
             "categories": "ibook",
-            "tags": "ibook,libro,digital",
+            "tags": "ibook,ibook_store,store,digital,textos,libro",
             "recuweb_url": "http://es.recuweb.com/ibook/vitonica.com/2015/04/especial-d%C3%ADa-del-libro-los-mejores-textos-sobre-entrenamiento-y-nutrici%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
             "source_url": "http://vitonica.com/libros/especial-dia-del-libro-los-mejores-textos-sobre-entrenamiento-y-nutricion"
-        },
-        "stltoday.com/2015/04/top-10-books-on-apple-s-ibooks-us": {
-            "title": "Top 10 books on Apple's iBooks-US -...",
-            "snippet": "10 books on Apple's charts for week ending April 20, 2015: Top Paid Books. 1. The Girl on the Train by Paula Hawkins - 9780698185395 - (Penguin Publishing Group). 2. The Liar by Nora Roberts - 9780698161351 - (Penguin Publishing Group). 3. The...",
-            "date": "2015-04-23",
-            "categories": "ibook",
-            "tags": "nora,nora_roberts,roberts,penguin,penguin_publishing,penguin_publishing_group,publishing,publishing_group,group,paula,paula_hawkins,hawkins,paid,books,charts,charts-for-week,week,week-ending,ending,top,apple,ibooks,girl,train,liar",
-            "recuweb_url": "http://es.recuweb.com/ibook/stltoday.com/2015/04/top-10-books-on-apple-s-ibooks-us",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook&output=atom&nord=1",
-            "source_url": "http://stltoday.com/entertainment/top-books-on-apple-s-ibooks-us/article_c72f16a8-a41f-5daf-9613-4bfabd052c45.html"
         },
         "abcnews.go.com/2015/04/the-top-10-books-on-apple-s-ibooks-us-abc-news": {
             "title": "The Top 10 Books on Apple's iBooks-US - ABC News...",
             "snippet": "The Top 10 Books on Apple's iBooks-USABC NewsiBook charts for week ending April 20, 2015: Top Paid Books. Girl on the Train by Paula Hawkins - 9780698185395 - (Penguin Publishing Group). Liar by Nora Roberts - 9780698161351 - (Penguin Publishing...",
             "date": "2015-04-22",
             "categories": "ibook",
-            "tags": "penguin,penguin_publishing,publishing,nora,nora_roberts,roberts,penguin_publishing_group,publishing_group,group,paula,paula_hawkins,hawkins,top,paid,charts,charts-for-week,week,week-ending,ending,books,apple,ibooks,girl,train,liar",
+            "tags": "apple,ibooks",
             "recuweb_url": "http://es.recuweb.com/ibook/abcnews.go.com/2015/04/the-top-10-books-on-apple-s-ibooks-us-abc-news",
             "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
             "source_url": "http://abcnews.go.com/Entertainment/wireStory/top-10-books-apples-ibooks-us-30487599"
@@ -66,7 +76,7 @@
             "snippet": "Apple: Spekulation um Integration von H\u00f6rb\u00fcchern in iBook-AppbuchreportNachdem Amazon bereits Ebook- und H\u00f6rbuch-Angebot miteinander verzahnt hat, scheint nun auch Apple in \u00e4hnlicher Weise sein Medienportfolio enger verkn\u00fcpfen zu wollen: In den...",
             "date": "2015-04-20",
             "categories": "ibook",
-            "tags": "apple,ibook",
+            "tags": "apple,ibook,app",
             "recuweb_url": "http://es.recuweb.com/ibook/buchreport.de/2015/04/apple-spekulation-um-integration-von-h%C3%B6rb%C3%BCchern-in-ibook-app-buchreport",
             "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
             "source_url": "http://buchreport.de/nachrichten/online/online_nachricht/datum/2015/04/20/verknuepfung-von-e-book-und.htm"
@@ -96,20 +106,10 @@
             "snippet": "En su momento fue el Mac m\u00e1s vendido de la historia, sucediendo al iBook y precediendo al MacBook Air entre 2006 y 2009. Entonces ya exist\u00eda el MacBook de aluminio (m\u00e1s tarde, MacBook Pro), pero Apple decidi\u00f3 no matar al blanquito todav\u00eda y...",
             "date": "2015-04-19",
             "categories": "macbook,ibook",
-            "tags": "\u00fal,nuevo,ibook,apple",
+            "tags": "\u00fal,mac,ibook,apple",
             "recuweb_url": "http://es.recuweb.com/ibook/applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo-blanco-2009",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
             "source_url": "http://applesfera.com/portatil/la-imagen-de-la-semana-el-nuevo-macbook-vs-el-ultimo-macbook-blanco-de-2009"
-        },
-        "appleinsider.com/2015/04/apple-s-feud-with-antitrust-monitor-continues-company-accused-of-insider": {
-            "title": "Apple's feud with antitrust monitor continues; company accused of... - Apple Insider...",
-            "snippet": "Apple InsiderApple's feud with antitrust monitor continues; company accused of...Apple InsiderThis prevented content owners from being able to sell the same titles at a lower price elsewhere, without offering the same price on Apple's iBooks...",
-            "date": "2015-04-16",
-            "categories": "ibook",
-            "tags": "apple,ibooks",
-            "recuweb_url": "http://es.recuweb.com/ibook/appleinsider.com/2015/04/apple-s-feud-with-antitrust-monitor-continues-company-accused-of-insider",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
-            "source_url": "http://appleinsider.com/articles/15/04/16/apples-feud-with-antitrust-monitor-continues-company-accused-of-not-cooperating-in-ibooks-oversight"
         }
     }
 }

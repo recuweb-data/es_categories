@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "perl",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/perl/",
@@ -11,12 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/perl/perl/blogs.json"
     },
     "items": {
+        "vavel.com/2015/04/dos-zarpazos-mataron-al-hannover-96": {
+            "title": "Dos zarpazos mataron al Hannover 96...",
+            "snippet": "73), Szalai. MARCADOR: 0-1, min. 2, Modeste. 1-1, min. 24, Stindl. 1-2, min. 83, Schipplock. \u00c1RBITRO: Gunter Perl. amonest\u00f3 a Strobl (min. 23), Sane (min. 41), Bicakcic (min. 41), Schmiedebach (min. 64), Zieler (min. 71) y Stindl (min. 90)...",
+            "date": "2015-04-25",
+            "categories": "perl",
+            "tags": "perl,dos",
+            "recuweb_url": "http://es.recuweb.com/perl/vavel.com/2015/04/dos-zarpazos-mataron-al-hannover-96",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
+            "source_url": "http://vavel.com/es/internacional/bundesliga/481063-dos-zarpazos-mataron-al-hannover-96.html"
+        },
+        "saarbruecker-zeitung.de/2015/04/perl-bekommt-einen-deutsch-franz%C3%B6sischen-b%C3%BCcherschrank": {
+            "title": "Perl bekommt einen deutsch-franz\u00f6sischen B\u00fccherschrank -...",
+            "snippet": "Walsroder ZeitungPerl bekommt einen deutsch-franz\u00f6sischen B\u00fc Klicks f\u00fcr mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie k\u00f6nnen Ihre Empfehlung an Facebook senden. Schon beim Aktivieren werden Daten an Dritte...",
+            "date": "2015-04-24",
+            "categories": "perl,facebook",
+            "tags": "und,der,perl",
+            "recuweb_url": "http://es.recuweb.com/facebook/saarbruecker-zeitung.de/2015/04/perl-bekommt-einen-deutsch-franz%C3%B6sischen-b%C3%BCcherschrank",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
+            "source_url": "http://saarbruecker-zeitung.de/saarland/merzig-wadern/perl/perl/Perl-Eiffelturm-Schraenke;art446583,5720993"
+        },
         "biobiochile.cl/2015/04/alfredo-perl-se-luce-en-concierto-para-piano-de-andr%C3%A9s-maupoint": {
             "title": "Alfredo Perl se luce en Concierto para piano de Andr\u00e9s Maupoint... - Radio B\u00edo-B\u00edo...",
             "snippet": "Radio B\u00edo-B\u00edoAlfredo Perl se luce en Concierto para piano de Andr\u00e9s Maupoint...Radio B\u00edo-B\u00edoEl destacado pianista nacional Alfredo Perl, figura talentosa de nuestra m\u00fasica, fue el valor m\u00e1s destacado del Cuarto Concierto de la Temporada 2015...",
             "date": "2015-04-19",
             "categories": "perl,radio",
-            "tags": "destacado,cuarto,m\u00fasica,pianista,perl,andr\u00e9s,andr\u00e9s_maupoint,maupoint,piano,alfredo,alfredo_perl,concierto,temporada",
+            "tags": "cuarto,pianista,perl,radio,andr\u00e9s,andr\u00e9s_maupoint,maupoint,piano,alfredo,alfredo_perl,concierto,temporada",
             "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/alfredo-perl-se-luce-en-concierto-para-piano-de-andr%C3%A9s-maupoint",
             "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
             "source_url": "http://biobiochile.cl/2015/04/19/alfredo-perl-se-luce-en-concierto-para-piano-de-andres-maupoint-junto-a-la-sinfonica-de-chile.shtml"
@@ -36,7 +56,7 @@
             "snippet": "El pianista chileno m\u00e1s internacional toca ma\u00f1ana y el s\u00e1bado en el Teatro de la U. de Chile. Hace tiempo ampli\u00f3 su campo de batalla y ahora es adem\u00e1s conductor y docente en Alemania. Si Alfredo Perl (1965) fuera doctor, evitar\u00eda las...",
             "date": "2015-04-18",
             "categories": "perl",
-            "tags": "alfredo,pianista,chileno,perl,chile",
+            "tags": "alfredo,pianista,perl,chile",
             "recuweb_url": "http://es.recuweb.com/perl/latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor",
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
             "source_url": "http://latercera.com/noticia/cultura/2015/04/1453-625691-9-los-tres-repertorios-de-perl-de-pianista-a-director-y-profesor.shtml"
@@ -56,39 +76,19 @@
             "snippet": "La Orquesta Sinf\u00f3nica de Chile presentar\u00e1 el Concierto para Piano de Andr\u00e9s Maupoint compuesto especialmente para el pianista Alfredo Perl. Se trata del cuarto concierto de la temporada 2015, denominado Poes\u00eda y Psicolog\u00eda y que contempla...",
             "date": "2015-04-17",
             "categories": "perl",
-            "tags": "cuarto,concierto,temporada,alfredo,alfredo_perl,perl,especialmente,pianista,orquesta,andr\u00e9s,andr\u00e9s_maupoint,maupoint,obra,sinf\u00f3nica,chile,piano",
+            "tags": "cuarto,concierto,temporada,alfredo,alfredo_perl,perl,pianista,orquesta,andr\u00e9s,andr\u00e9s_maupoint,maupoint,obra,sinf\u00f3nica,chile,estreno,piano",
             "recuweb_url": "http://es.recuweb.com/perl/uchile.cl/2015/04/sinf%C3%B3nica-de-chile-estreno-obra-andr%C3%A9s-maupoint",
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
             "source_url": "http://uchile.cl/agenda/110754/sinfonica-de-chile-estreno-de-obra-de-andres-maupoint"
-        },
-        "l-iz.de/2015/04/drei-fl%C3%BCgel-inka-perl-und-johannes-zagler-zeigen-ihre-leipziger-internet": {
-            "title": "Drei Fl\u00fcgel: Inka Perl und Johannes Zagler zeigen ihre... - Leipziger Internet-Zeitung...",
-            "snippet": "Leipziger Internet-ZeitungDrei Fl\u00fcgel: Inka Perl und Johannes Zagler zeigen ihre...Leipziger Internet-ZeitungInka Perl, eine Leipziger K\u00fcnstlerin, sch\u00f6pfte in der Vergangenheit f\u00fcr ihre Kunst die Zeichen und die Kunstsprache vor allem aus der...",
-            "date": "2015-04-16",
-            "categories": "perl,internet",
-            "tags": "aus,der,und,perl",
-            "recuweb_url": "http://es.recuweb.com/internet/l-iz.de/2015/04/drei-fl%C3%BCgel-inka-perl-und-johannes-zagler-zeigen-ihre-leipziger-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
-            "source_url": "http://l-iz.de/kultur/ausstellungen/2015/04/inka-perl-und-johannes-zagler-zeigen-ihre-persoenlichen-altaere-85357"
-        },
-        "uchile.cl/2015/04/alfredo-perl-y-orquesta-sinf%C3%B3nica-de-chile-estrenan-obra-andr%C3%A9s-maupoint": {
-            "title": "Alfredo Perl y Orquesta Sinf\u00f3nica de Chile estrenan obra de Andr\u00e9s Maupoint...",
-            "snippet": "Concierto para piano y orquesta se llama la obra que el profesor del Departamento de M\u00fasica y Sonolog\u00eda compuso especialmente para el destacado int\u00e9rprete chileno. El reconocido pianista Alfredo Perl y la Orquesta Sinf\u00f3nica de Chile estrenar\u00e1n...",
-            "date": "2015-04-15",
-            "categories": "perl",
-            "tags": "pianista,especialmente,destacado,chileno,piano,orquesta,obra,andr\u00e9s,andr\u00e9s_maupoint,maupoint,sinf\u00f3nica,alfredo,alfredo_perl,perl,chile,concierto,m\u00fasica",
-            "recuweb_url": "http://es.recuweb.com/perl/uchile.cl/2015/04/alfredo-perl-y-orquesta-sinf%C3%B3nica-de-chile-estrenan-obra-andr%C3%A9s-maupoint",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
-            "source_url": "http://uchile.cl/noticias/110802/alfredo-perl-y-orquesta-sinfonica-estrenan-obra-de-andres-maupoint"
         },
         "derwesten.de/2015/04/mathias-perl-und-lukas-erdh%C3%BCtter-bleiben": {
             "title": "Mathias Perl und Lukas Erdh\u00fctter bleiben -...",
             "snippet": "Perl und Lukas Erdh\u00fctter ist, dass Mathias Perl und Lukas Erdh\u00fctter bleiben. Auch Sebastian Schr\u00f6ter sollte verbleiben. Das m\u00fcssen wir aber noch kl\u00e4ren. Auch weitere Spieler aus dem Kader der abgelaufenen Saison m\u00f6chten weiter in Blau-Gelb...",
             "date": "2015-04-14",
             "categories": "perl",
-            "tags": "der,aus,perl,und",
+            "tags": "der,perl,und",
             "recuweb_url": "http://es.recuweb.com/perl/derwesten.de/2015/04/mathias-perl-und-lukas-erdh%C3%BCtter-bleiben",
-            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
             "source_url": "http://derwesten.de/sport/lokalsport/ennepetal-gevelsberg-schwelm/mathias-perl-und-lukas-erdhuetter-bleiben-id10562032.html"
         },
         "ambito.com/2015/04/charlas-de-quincho": {
@@ -101,15 +101,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
             "source_url": "http://ambito.com/diario/noticia.asp?id=786327"
         },
-        "vavel.com/2015/04/la-actitud-se-impone-en-el-mercedes-benz-arena": {
-            "title": "La actitud se impone en el Mercedes-Benz Arena...",
-            "snippet": "15, Gentner. 1-1, min. 51, Selke. 2-1, min. 70, Ginczek. 2-2, min. 86, Vestergaard. 3-2, min. 90, Ginczek. \u00c1RBITRO: Gunter Perl (ALE). Amonest\u00f3 a R\u00fcdiger (min. 17), Di Santo (min. 17), Bargfrede (min. 52), Harnik (min. 74 y min. 85) y Selke (min.",
-            "date": "2015-04-12",
-            "categories": "perl",
-            "tags": "perl",
-            "recuweb_url": "http://es.recuweb.com/perl/vavel.com/2015/04/la-actitud-se-impone-en-el-mercedes-benz-arena",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
-            "source_url": "http://vavel.com/es/internacional/bundesliga/475346-la-actitud-se-impone-en-el-mercedes-benz-arena.html"
+        "radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta": {
+            "title": "Alfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta... - Diario y Radio Uchile...",
+            "snippet": "Diario y Radio UchileAlfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta...Diario y Radio UchileEstoy muy feliz de que la Orquesta Sinf\u00f3nica haya decidido contemplar el estreno de esta obra, comenta Alfredo Perl respecto del Concierto...",
+            "date": "2015-04-10",
+            "categories": "radio,perl",
+            "tags": "sinf\u00f3nica,estreno,obra,radio,perl,andr\u00e9s,andr\u00e9s_maupoint,maupoint,alfredo,alfredo_perl,orquesta,muy,concierto",
+            "recuweb_url": "http://es.recuweb.com/perl/radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
+            "source_url": "http://radio.uchile.cl/2015/04/10/alfredo-perl-estrena-obra-de-andres-maupoint-junto-a-la-orquesta-sinfonica"
         }
     }
 }

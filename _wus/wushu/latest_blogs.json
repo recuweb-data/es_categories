@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wushu",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/wushu/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/wushu/wushu/blogs.json"
     },
     "items": {
-        "wudeporclub.blogspot.com/2015/04/taijiquan-definici%C3%B3n-seg%C3%BAn-la-federaci%C3%B3n-internacional-de-wushu": {
-            "title": "taijiquan. definici\u00f3n seg\u00fan la federaci\u00f3n internacional de wushu...",
-            "snippet": "Taiji Quan se define como: movimientos lentos, asociados a veces a r\u00e1fagas explosivas de fuerza, que requieren una total armon\u00eda entre el movimiento, la respiraci\u00f3n, la concentraci\u00f3n y la coordinaci\u00f3n de todo el cuerpo y el...",
-            "date": "2015-04-18",
+        "taringa.net/2015/04/torneo-de-kung-fu-y-wushu-en-buenos-aires-taringa": {
+            "title": "Torneo de kung fu y wushu en Buenos Aires - Taringa!",
+            "snippet": "El 19 de abril de 2015, en Berazategui (Provincia de Buenos Aires) se realizo el torneo \"Copa tao chuan\". En este torneo participaron una gran actidad de escuela de artes marciales chinas como: kung fu tradicional, wushu...",
+            "date": "2015-04-26",
+            "author_name": "desconocido",
+            "categories": "wushu,escuela",
+            "tags": "chinas,torneo,gran,copa,tao,chuan,abril,kung,wushu,escuela,artes,marciales",
+            "recuweb_url": "http://es.recuweb.com/escuela/taringa.net/2015/04/torneo-de-kung-fu-y-wushu-en-buenos-aires-taringa",
+            "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/deportes/18627671/Torneo-de-kung-fu-y-wushu-en-Buenos-Aires.html"
+        },
+        "wudeporclub.blogspot.com/2015/04/wudeporclub-wushu-cursos-te%C3%B3rico-pr%C3%A1cticos-de-artes-marciales": {
+            "title": "wudeporclub: wushu. cursos te\u00f3rico-pr\u00e1cticos de artes marciales...",
+            "snippet": "Profesor-Entrenador Regional de Wushu (Federativo, No Formal). 1 vez 3 puesto Campeonato de Espa\u00f1a Nanquan, 4 veces campe\u00f3n de Espa\u00f1a de Taijiquan (2002, 2003, 2006), 3 veces segundo puesto Campeonato de...",
+            "date": "2015-04-26",
             "author_name": "Peio Almazor",
             "categories": "wushu",
-            "tags": "fuerza,federaci\u00f3n,wushu",
-            "recuweb_url": "http://es.recuweb.com/wushu/wudeporclub.blogspot.com/2015/04/taijiquan-definici%C3%B3n-seg%C3%BAn-la-federaci%C3%B3n-internacional-de-wushu",
+            "tags": "segundo,espa\u00f1a,entrenador,wudeporclub,wushu,artes,marciales,campeonato",
+            "recuweb_url": "http://es.recuweb.com/wushu/wudeporclub.blogspot.com/2015/04/wudeporclub-wushu-cursos-te%C3%B3rico-pr%C3%A1cticos-de-artes-marciales",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wudeporclub.blogspot.com/2015/04/taijiquan-definicion-segun-la.html"
+            "source_url": "http://wudeporclub.blogspot.com/2015/04/wushu-cursos-teorico-practicos-de-artes.html"
+        },
+        "minutoveinte.com/2015/04/wushu-tips-i-qu%C3%A9-necesito-para-mejorar-minutoveinte": {
+            "title": "Wushu Tips I: \u00bfQu\u00e9 necesito para mejorar? minutoveinte...",
+            "snippet": "Nada de wushu, bueno algo s\u00ed. Aprovech\u00e9 la visita para tomar unas cervezas con qui\u00e9n me hab\u00eda disputado los puestos de competici\u00f3n, ahora s\u00ed, lejos de la tensi\u00f3n de competir. Hablamos de todo, y evidentemente algo de...",
+            "date": "2015-04-25",
+            "author_name": "minutoveinte",
+            "categories": "wushu",
+            "tags": "bueno,wushu,nada,ahora",
+            "recuweb_url": "http://es.recuweb.com/wushu/minutoveinte.com/2015/04/wushu-tips-i-qu%C3%A9-necesito-para-mejorar-minutoveinte",
+            "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://minutoveinte.com/2015/04/25/wushu-tips-i-que-necesito-para-mejorar/"
+        },
+        "fvaljudo.es/2015/04/anterior-curso-de-wushu-moderno-federaci%C3%B3n-valencia-judo": {
+            "title": "Anterior Curso de wushu moderno - Federaci\u00f3n Valencia de Judo y...",
+            "snippet": "El pr\u00f3ximo s\u00e1bado d\u00eda 25 tendr\u00e1 lugar en la Escuela Lung Tao de Castell\u00f3n un curso de Wushu Moderno impartido por Juan Carlos Mart\u00ednez (medallista del Campeonato de Espa\u00f1a) y Javier Torres.",
+            "date": "2015-04-17",
+            "author_name": "Rafael Julian",
+            "categories": "wushu,escuela,judo",
+            "tags": "wushu,curso,escuela,tao,s\u00e1bado,s\u00e1bado-d\u00eda,d\u00eda,federaci\u00f3n,federaci\u00f3n_valencia,valencia,judo,campeonato,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/judo/fvaljudo.es/2015/04/anterior-curso-de-wushu-moderno-federaci%C3%B3n-valencia-judo",
+            "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fvaljudo.es/curso-de-wushu-moderno/"
         },
         "fvaljudo.es/2015/04/wushu-comunidad-valenciana-federaci%C3%B3n-valencia-de-judo": {
             "title": "Wushu Comunidad Valenciana Federaci\u00f3n Valencia de Judo y...",
@@ -28,7 +61,7 @@
             "date": "2015-04-15",
             "author_name": "Rafael Julian",
             "categories": "wushu,judo",
-            "tags": "s\u00e1bado,d\u00eda,wushu,federaci\u00f3n,open",
+            "tags": "s\u00e1bado,s\u00e1bado-d\u00eda,d\u00eda,wushu,federaci\u00f3n,federaci\u00f3n_valencia,valencia,judo",
             "recuweb_url": "http://es.recuweb.com/judo/fvaljudo.es/2015/04/wushu-comunidad-valenciana-federaci%C3%B3n-valencia-de-judo",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fvaljudo.es/wushu_comunidad_valenciana/"
@@ -39,21 +72,10 @@
             "date": "2015-04-14",
             "author_name": "Daniel",
             "categories": "wushu",
-            "tags": "wushu,puente,puente_alto,alto,gimnasio,abril,domingo,wushu_junior,junior,iii,iii_campeonato,campeonato",
+            "tags": "wushu,abril,campeonato,gran",
             "recuweb_url": "http://es.recuweb.com/wushu/eldeportero.cl/2015/04/con-gran-%C3%A9xito-se-desarroll%C3%B3-el-iii-campeonato-chileno-junior",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eldeportero.cl/con-gran-exito-se-desarrollo-el-iii-campeonato-chileno-junior-de-wushu/"
-        },
-        "creidas.info/2015/04/qiang-shu-28-spear-wushu-creidas": {
-            "title": "Qiang Shu 28 Spear Wushu Creidas...",
-            "snippet": "Practicar artes marciales no est\u00e1 peque\u00f1o por la existencia. No te preocupes de que tu inteligencia no sea suficiente, pero aplica tu mente diligentemente. Dale toda tu fuerza y no descanses hasta Video Rating: 4/5.",
-            "date": "2015-04-11",
-            "author_name": "gsus",
-            "categories": "wushu",
-            "tags": "fuerza,wushu,artes,marciales",
-            "recuweb_url": "http://es.recuweb.com/wushu/creidas.info/2015/04/qiang-shu-28-spear-wushu-creidas",
-            "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://creidas.info/qiang-shu-28-\u6b66\u672f-\u67aa\u672f-spear-wushu/"
         },
         "wudeporclub.blogspot.com/2015/04/wudeporclub-curso-pr%C3%A1ctica-de-wushu-al-aire-libre-semana-santa": {
             "title": "wudeporclub: curso. pr\u00e1ctica de wushu al aire libre semana santa...",
@@ -61,32 +83,10 @@
             "date": "2015-04-04",
             "author_name": "Peio Almazor",
             "categories": "wushu",
-            "tags": "formas,san,santa,d\u00eda,wushu,abril",
+            "tags": "san,segundo,d\u00eda,curso,wudeporclub,wushu,ayer,abril",
             "recuweb_url": "http://es.recuweb.com/wushu/wudeporclub.blogspot.com/2015/04/wudeporclub-curso-pr%C3%A1ctica-de-wushu-al-aire-libre-semana-santa",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wudeporclub.blogspot.com/2015/04/curso-practica-de-wushu-al-aire-libre.html"
-        },
-        "wushupinar.cubava.cu/2015/04/el-wushu-soy-yo-ecw-pinar-del-rio": {
-            "title": "El Wushu soy Yo. ECW-Pinar del Rio...",
-            "snippet": "Por esto es que como el texto del titulo dice el Wushu soy Yo, el wushu es el trabajo y sacrificio que cada practicante pone en en su entrenamiento diario, es el sentimiento de ser mejores, no m\u00e1s que los dem\u00e1s sino que...",
-            "date": "2015-04-02",
-            "author_name": "Pedro Jorge",
-            "categories": "wushu",
-            "tags": "wushu",
-            "recuweb_url": "http://es.recuweb.com/wushu/wushupinar.cubava.cu/2015/04/el-wushu-soy-yo-ecw-pinar-del-rio",
-            "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wushupinar.cubava.cu/2015/04/02/el-wushu-soy-yo/"
-        },
-        "deportespuentealto.cl/2015/03/iii-campeonato-de-wushu-junior-en-puente-alto": {
-            "title": "III CAMPEONATO DE WUSHU JUNIOR EN PUENTE ALTO...",
-            "snippet": "El pr\u00f3ximo domingo 12 de abril se realizar\u00e1 el tercer campeonato junior de wushu en el gimnasio del Centro Deportivo Gabriela en Puente Alto. La actividad comenzar\u00e1 a las 10:00 horas en Avenida Ej\u00e9rcito Libertador...",
-            "date": "2015-03-31",
-            "author_name": "admin",
-            "categories": "wushu",
-            "tags": "puente,puente_alto,alto,centro,gimnasio,junior,abril,domingo,iii,iii_campeonato,campeonato,wushu,wushu_junior",
-            "recuweb_url": "http://es.recuweb.com/wushu/deportespuentealto.cl/2015/03/iii-campeonato-de-wushu-junior-en-puente-alto",
-            "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://deportespuentealto.cl/?p=878"
         },
         "aboutbasquecountry.eus/2015/03/china-1-euskadi-0-o-cuando-el-wushu-desplaz%C3%B3": {
             "title": "China 1 Euskadi 0, o cuando el Wushu desplaz\u00f3 a la Pelota...",
@@ -94,7 +94,7 @@
             "date": "2015-03-27",
             "author_name": "aboutbc",
             "categories": "wushu",
-            "tags": "porque,wushu,juego,federaci\u00f3n,artes,marciales",
+            "tags": "porque,juego,chinas,wushu,federaci\u00f3n,artes,marciales",
             "recuweb_url": "http://es.recuweb.com/wushu/aboutbasquecountry.eus/2015/03/china-1-euskadi-0-o-cuando-el-wushu-desplaz%C3%B3",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://aboutbasquecountry.eus/2015/03/27/republica-dominicana-china-1-euskadi-0-o-cuando-el-wushu-desplazo-a-la-pelota/"
@@ -105,7 +105,7 @@
             "date": "2015-03-03",
             "author_name": "Redacci\u00f3n",
             "categories": "deporte,wushu",
-            "tags": "pabell\u00f3n,deporte,wushu,campeonato",
+            "tags": "deporte,wushu,campeonato",
             "recuweb_url": "http://es.recuweb.com/wushu/laregion.es/2015/03/el-wushu-ourensano-triunfa-en-gallego-deporte-local",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://laregion.es/articulo/deporte-local/wushu-ourensano-triunfa-gallego/20150303094341527823.html"
@@ -116,7 +116,7 @@
             "date": "2015-02-21",
             "author_name": "Patricia Bauli",
             "categories": "wushu",
-            "tags": "serie,tai,taichi,chi,wushu,v\u00eddeo",
+            "tags": "serie,tai,tai_chi,taichi,chi,chuan,wushu,v\u00eddeo",
             "recuweb_url": "http://es.recuweb.com/wushu/tiempodetaichi.blogspot.com/2015/02/tiempo-de-taichi-wushu-nuevo-a%C3%B1o-lunar-2015",
             "resource_url": "http://www.google.com/search?q=wushu%2Bwushu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tiempodetaichi.blogspot.com/2015/02/taichi-wushu-nuevo-ano-lunar-2015.html"

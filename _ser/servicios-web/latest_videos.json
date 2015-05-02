@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servicios-web",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-web/",
@@ -41,23 +41,11 @@
             "date": "2014-09-15",
             "author_name": "hlbarragan",
             "categories": "servicios-web,java",
-            "tags": "consumo,web,desarrollo,servicios,servicios-web,rest",
+            "tags": "web,desarrollo,servicios,servicios-web,rest",
             "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/09/definicion-y-consumo-de-servicios-web-tipo-soap-rest-utilizando-java",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=rMtqK2KZZa8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rMtqK2KZZa8/0.jpg"
-        },
-        "youtube.com/2014/07/consumo-de-servicios-web-en-ios-mantle-afnetworking-y-core-data": {
-            "title": "Consumo de servicios web en iOS: Mantle, AFNetworking y Core Data...",
-            "snippet": "Consumo de servicios web en iOS: Mantle, AFNetworking y Core Data Con Fernando Rodr\u00edguez (frr149) y Guillermo Gonz\u00e1lez Real (gonzalezreal) link curso Super Poderes iOS: link... From: Webinars AGBO Views: 1165 16 ratings Time: 01:25:51 More in...",
-            "date": "2014-07-02",
-            "author_name": "Webinars AGBO",
-            "categories": "servicios-web",
-            "tags": "servicios,servicios-web,web,consumo",
-            "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2014/07/consumo-de-servicios-web-en-ios-mantle-afnetworking-y-core-data",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=2fKEXUMCoOw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2fKEXUMCoOw/0.jpg"
         },
         "youtube.com/2014/07/tutorial-servicios-rest-parte-1-dise%C3%B1ando-la-base-de-datos": {
             "title": "Tutorial: Servicios REST Parte 1 Dise\u00f1ando la Base de Datos...",
@@ -65,7 +53,7 @@
             "date": "2014-07-01",
             "author_name": "VainiyaSoft",
             "categories": "base-de-datos,servicios-web,mysql",
-            "tags": "dise\u00f1o,datos,servicios,servicios_web,web,rest,desarrollo",
+            "tags": "tutorial,dise\u00f1o,datos,servicios,servicios_web,web,rest,desarrollo,parte",
             "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/07/tutorial-servicios-rest-parte-1-dise%C3%B1ando-la-base-de-datos",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=lxhDL06cz5A&feature=youtube_gdata",
@@ -129,6 +117,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web+servicios+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x17kpey_los-mejores-servicios-de-hosting-para-tu-pagina-web_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x17kpey_los-mejores-servicios-de-hosting-para-tu-pagina-web_news"
+        },
+        "youtube.com/2013/10/tutorial-servicios-web-parte-1": {
+            "title": "TUTORIAL SERVICIOS WEB PARTE 1...",
+            "snippet": "TUTORIAL SERVICIOS WEB PARTE 1 From: Patricia Rivas Views: 244 0 ratings Time: 01:09:59 More in People & Blogs...",
+            "date": "2013-10-03",
+            "author_name": "Patricia Rivas",
+            "categories": "servicios-web",
+            "tags": "tutorial,servicios,servicios_web,web,parte",
+            "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2013/10/tutorial-servicios-web-parte-1",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=MfaMIVP6dv4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/MfaMIVP6dv4/0.jpg"
         }
     }
 }

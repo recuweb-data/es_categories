@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google-plus",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/google-plus/",
@@ -11,35 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/google-plus/google-plus/blogs.json"
     },
     "items": {
-        "lefigaro.fr/2015/04/en-direct-s%C3%A9isme-au-n%C3%A9pal-plus-de-3200-morts-selon": {
-            "title": "EN DIRECT - S\u00e9isme au N\u00e9pal: plus de 3200 morts selon le dernier... - Le Figaro...",
-            "snippet": "Le FigaroEN DIRECT - S\u00e9isme au N\u00e9pal: plus de 3200 morts selon le dernier...Le FigaroUn des plus importants dirigeants de Google a \u00e9t\u00e9 tu\u00e9 dans le tremblements de terre au N\u00e9 s'agit de Dan Fredinburg, manager des programmes de l'entreprise...",
+        "movilzona.es/2015/04/cuidado-con-romper-la-pantalla-del-apple-watch-sport-porque": {
+            "title": "Cuidado con romper la pantalla del Apple Watch Sport porque el precio de la reparaci\u00f3n se dispara...",
+            "snippet": "Seg\u00fan indica el periodista tecnol\u00f3gico Mike Elgan en su perfil de Google Plus, sustituir la pantalla del Apple Watch Sport supone un desembolso adicional de 239 d\u00f3lares. Lo cierto es que esta cantidad es rid\u00edculamente elevada si tenemos en...",
+            "date": "2015-04-27",
+            "categories": "google",
+            "tags": "cantidad,perfil,google",
+            "recuweb_url": "http://es.recuweb.com/google/movilzona.es/2015/04/cuidado-con-romper-la-pantalla-del-apple-watch-sport-porque",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bplus&format=RSS&cc=es",
+            "source_url": "http://movilzona.es/2015/04/27/apple-watch-pantalla-rota-coste-reparacion/"
+        },
+        "ziare.com/2015/04/de-ce-a-esuat-google-plus-greseala-sau-strategie": {
+            "title": "De ce a esuat Google Plus - greseala sau strategie? -...",
+            "snippet": "De ce a esuat Google Plus - greseala sau strategie? trecuta, Google a anuntat ca isi va schimba strategia abordata pana acum in ceea ce priveste serviciul Google, care nu a avut atat de mult succes pe cat se astepta. Astfel, Google nu va mai...",
             "date": "2015-04-27",
             "categories": "google",
             "tags": "google",
-            "recuweb_url": "http://es.recuweb.com/google/lefigaro.fr/2015/04/en-direct-s%C3%A9isme-au-n%C3%A9pal-plus-de-3200-morts-selon",
-            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus&output=atom&nord=1",
-            "source_url": "http://lefigaro.fr/international/2015/04/25/01003-20150425LIVWWW00086-en-direct-des-centaines-de-morts-apres-un-puissant-seisme-au-nepal.php"
+            "recuweb_url": "http://es.recuweb.com/google/ziare.com/2015/04/de-ce-a-esuat-google-plus-greseala-sau-strategie",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus%2Bgoogle%2Bplus&output=atom&nord=1",
+            "source_url": "http://ziare.com/google/stiri-google/de-ce-a-esuat-google-plus-greseala-sau-strategie-1360341"
+        },
+        "marketingland.com/2015/04/google-plus-is-small-but-still-not-dead-yet-marketing-land": {
+            "title": "Google Plus Is Small, But Still Not Dead Yet - Marketing Land...",
+            "snippet": "Marketing LandGoogle Plus Is Small, But Still Not Dead YetMarketing LandAlmost a year ago I published here Why Google Plus Will Not Die (But May Change). That article was in response to the latest (at that time) wave of Google Will Kill Google!",
+            "date": "2015-04-27",
+            "categories": "google",
+            "tags": "google",
+            "recuweb_url": "http://es.recuweb.com/google/marketingland.com/2015/04/google-plus-is-small-but-still-not-dead-yet-marketing-land",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus%2Bgoogle%2Bplus&output=atom&nord=1",
+            "source_url": "http://marketingland.com/google-plus-small-still-not-dead-yet-125083"
+        },
+        "slate.fr/2015/04/l-ing%C3%A9nieur-de-google-qui-prenait-des-photos-plus-hauts": {
+            "title": "L'ing\u00e9nieur de Google qui prenait des photos des plus hauts... -...",
+            "snippet": "'ing\u00e9nieur de Google qui prenait des photos des plus hauts... Fredinburg, l'un des alpinistes et ing\u00e9nieurs Google qui prenait des photos des plus hauts sommets du monde pour Street View, est d\u00e9c\u00e9d\u00e9. Il se trouvait sur l'Everest lors de...",
+            "date": "2015-04-27",
+            "categories": "google",
+            "tags": "google,fredinburg,everest",
+            "recuweb_url": "http://es.recuweb.com/google/slate.fr/2015/04/l-ing%C3%A9nieur-de-google-qui-prenait-des-photos-plus-hauts",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus%2Bgoogle%2Bplus&output=atom&nord=1",
+            "source_url": "http://slate.fr/story/100925/deces-dan-fredinburg-google-everest"
+        },
+        "tempo.co/2015/04/mantan-pegawai-ungkap-penyebab-google-plus-kurang-sukses": {
+            "title": "Mantan Pegawai Ungkap Penyebab Google Plus Kurang Sukses -...",
+            "snippet": "Pegawai Ungkap Penyebab Google Plus Kurang, Jakarta - Jejaring sosial Google Plus yang diluncurkan Google dinilai kurang mampu menarik pengguna baru. Sejumlah mantan pegawai Google mencurahkan pendapatnya soal penyebab layanan jejaring sosial itu...",
+            "date": "2015-04-27",
+            "categories": "google",
+            "tags": "google",
+            "recuweb_url": "http://es.recuweb.com/google/tempo.co/2015/04/mantan-pegawai-ungkap-penyebab-google-plus-kurang-sukses",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus%2Bgoogle%2Bplus&output=atom&nord=1",
+            "source_url": "http://tempo.co/read/news/2015/04/27/072661275/Mantan-Pegawai-Ungkap-Penyebab-Google-Plus-Kurang-Sukses"
         },
         "news.thewindowsclub.com/2015/04/google-plus-new-feature-collections-under-testing-twcn-tech-news-blog": {
             "title": "Google Plus new feature 'Collections'under testing - TWCN Tech News (blog)...",
             "snippet": "TWCN Tech News (blog)Google Plus new feature 'Collections'under testingTWCN Tech News (blog)Folks using Google Plus are offered a way to connect with friends and family, explore their interests and do lot more. The site has evolved into a pretty...",
             "date": "2015-04-26",
             "categories": "google",
-            "tags": "site,google,collections",
+            "tags": "google",
             "recuweb_url": "http://es.recuweb.com/google/news.thewindowsclub.com/2015/04/google-plus-new-feature-collections-under-testing-twcn-tech-news-blog",
             "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus&output=atom&nord=1",
             "source_url": "http://news.thewindowsclub.com/google-plus-collections-77622/"
-        },
-        "businessinsider.com/2015/04/why-google-failed-according-to-insiders-business-insider": {
-            "title": "Why Google failed, according to Google insiders - Business Insider...",
-            "snippet": "Business InsiderWhy Google failed, according to Google insidersBusiness InsiderRumors have been swirling for months that Google would change its direction with Google. Business Insider spoke with a few insiders about what happened to the network...",
-            "date": "2015-04-26",
-            "categories": "google",
-            "tags": "business,google",
-            "recuweb_url": "http://es.recuweb.com/google/businessinsider.com/2015/04/why-google-failed-according-to-insiders-business-insider",
-            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/what-happened-to-google-plus-2015-4"
         },
         "es.paperblog.com/2015/04/consejos-de-debes-tener-en-cuenta-si-chateas-tu-trabajo": {
             "title": "Consejos de debes tener en cuenta si chateas en tu trabajo...",
@@ -66,47 +96,17 @@
             "snippet": "En Google Plus, como en otras redes sociales, puedes buscar y a\u00f1adir personas, pero con la diferencia de que puedes agregarlas en diferentes c\u00edrculos. Al a\u00f1adir una persona a un c\u00edrculo, esta no puede ver el nombre del c\u00edrculo al que la has...",
             "date": "2015-04-24",
             "categories": "google",
-            "tags": "puede,puede-ver,c\u00edrculos,redes,redes-sociales,sociales,google",
+            "tags": "puede,puede-ver,c\u00edrculos,personas,redes,redes-sociales,sociales,google",
             "recuweb_url": "http://es.recuweb.com/google/es.kioskea.net/2015/04/c%C3%B3mo-buscar-y-a%C3%B1adir-personas-en-google",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bplus&format=RSS&cc=es",
             "source_url": "http://es.kioskea.net/faq/21658-como-buscar-y-anadir-personas-en-google-plus"
-        },
-        "deraktionaer.de/2015/04/dax-schlie%C3%9Ft-im-plus-amazon-biotest-google-microsoft-newmont-der-aktion%C3%A4r": {
-            "title": "DAX schlie\u00dft im Plus: Amazon, Biotest, Google, Microsoft, Newmont... - Der Aktion\u00e4r...",
-            "snippet": "Der Aktion\u00e4rDAX schlie\u00dft im Plus: Amazon, Biotest, Google, Microsoft, Newmont...Der Aktion\u00e4r\u00dcberraschend gute Wirtschaftsdaten haben dem Dax am Freitag wieder auf die Beine geholfen. Der deutsche Leitindex stieg um 0,74 Prozent auf,85 Punkte.",
-            "date": "2015-04-24",
-            "categories": "google",
-            "tags": "google",
-            "recuweb_url": "http://es.recuweb.com/google/deraktionaer.de/2015/04/dax-schlie%C3%9Ft-im-plus-amazon-biotest-google-microsoft-newmont-der-aktion%C3%A4r",
-            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus%2Bgoogle%2Bplus&output=atom&nord=1",
-            "source_url": "http://deraktionaer.de/marktbericht/dax-deutlich-staerker--amazon--biotest--google--microsoft--newmont-mining--rwe-und-united-internet-im-fokus-140160.htm"
-        },
-        "au.ibtimes.com/2015/04/google-nexus-5-on-discount-in-ebay-for-269-plus-to": {
-            "title": "Google Nexus 5 On Discount In eBay For 269, Plus Nexus 5 To... - International Business Times AU...",
-            "snippet": "International Business Times AUGoogle Nexus 5 On Discount In eBay For 269, Plus Nexus 5 To...International Business Times AUThe LG-made Google Nexus 5 released in 2013 is now available at a killer discounted price. Online retailer eBay is offering...",
-            "date": "2015-04-24",
-            "categories": "google",
-            "tags": "nexus,business,google,google_nexus",
-            "recuweb_url": "http://es.recuweb.com/google/au.ibtimes.com/2015/04/google-nexus-5-on-discount-in-ebay-for-269-plus-to",
-            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus%2Bgoogle%2Bplus&output=atom&nord=1",
-            "source_url": "http://au.ibtimes.com/google-nexus-5-discount-ebay-269-plus-nexus-5-receive-android-511-lollipop-update-shortly-1442386"
-        },
-        "tudocelular.com/2015/04/rumores-afirmam-que-novo-recurso-collections-estaria-em-testes": {
-            "title": "Rumores afirmam que novo recurso \"Collections\" estaria em testes... -...",
-            "snippet": "afirmam que novo recurso \"Collections\" estaria em testes... site DroidLife informou que fontes pr\u00f3ximas a eles alegam um novo recurso sendo testado pela Google. Com o nome de Collections, o novo servi\u00e7o do Google Plus estaria prestes a ser...",
-            "date": "2015-04-24",
-            "categories": "google",
-            "tags": "collections,site,google",
-            "recuweb_url": "http://es.recuweb.com/google/tudocelular.com/2015/04/rumores-afirmam-que-novo-recurso-collections-estaria-em-testes",
-            "resource_url": "http://news.google.es/?hl=es&q=google%2Bplus&output=atom&nord=1",
-            "source_url": "http://tudocelular.com/google/noticias/n53520/rumores-dizem-google-plus-tera-recurso-collections.html"
         },
         "movilzona.es/2015/04/swiftkey-hub-mejora-el-apartado-de-configuraci%C3%B3n-y-personalizaci%C3%B3n-del-teclado": {
             "title": "SwiftKey Hub mejora el apartado de configuraci\u00f3n y personalizaci\u00f3n del teclado predictivo...",
             "snippet": "No obstante, si est\u00e1s interesado en probarlo es posible solicitando una invitaci\u00f3n al grupo de Google Plus desde el que la compa\u00f1\u00eda gestiona la cantidad de usuarios aceptados.",
             "date": "2015-04-24",
             "categories": "google",
-            "tags": "grupo,google,usuarios",
+            "tags": "cantidad,grupo,google,usuarios",
             "recuweb_url": "http://es.recuweb.com/google/movilzona.es/2015/04/swiftkey-hub-mejora-el-apartado-de-configuraci%C3%B3n-y-personalizaci%C3%B3n-del-teclado",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bplus&format=RSS&cc=es",
             "source_url": "http://movilzona.es/2015/04/24/swiftkey-hub-ajustes-personalizacion-teclado-predictivo-android/"

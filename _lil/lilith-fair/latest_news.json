@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lilith-fair",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lilith-fair/",
@@ -11,32 +11,43 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lilith-fair/lilith-fair/blogs.json"
     },
     "items": {
-        "journalpatriot.com/2015/04/joan-osborne-rocks-saturday-wilkes-journal-patriot": {
-            "title": "Joan Osborne rocks Saturday - Wilkes Journal Patriot...",
-            "snippet": "Wilkes Journal PatriotJoan Osborne rocks SaturdayWilkes Journal PatriotThis album, combined with a slot in Sarah McLachlan's Lilith Fair tour, more or less jumpstarted a career that is still rolling along today. She is currently involved in a...",
-            "date": "2015-04-22",
-            "categories": "lilith-fair,rock",
-            "tags": "that,lilith,lilith_fair,fair,sarah,sarah_mclachlan,mclachlan,album,tour,she",
-            "recuweb_url": "http://es.recuweb.com/rock/journalpatriot.com/2015/04/joan-osborne-rocks-saturday-wilkes-journal-patriot",
+        "vulture.com/2015/04/battle-1-mike-tyson-s-satisfaction-vs-terry-crews-sucker-mc": {
+            "title": "Battle 1: Mike Tyson's \"Satisfaction\" vs. Terry Crews's \"Sucker MC\" - Vulture...",
+            "snippet": "VultureBattle 1: Mike Tyson's \"Satisfaction\" vs. Terry Crews's \"Sucker MC\"VultureWe would have liked a little more \"realism\" that is, more accurate piano syncing and an understated tone in the realm of Lilith Fair, but this is Lip Sync Battle, so...",
+            "date": "2015-04-24",
+            "categories": "lilith-fair",
+            "tags": "lilith,lilith_fair,fair,that,would",
+            "recuweb_url": "http://es.recuweb.com/lilith-fair/vulture.com/2015/04/battle-1-mike-tyson-s-satisfaction-vs-terry-crews-sucker-mc",
             "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
-            "source_url": "http://journalpatriot.com/news/joan-osborne-rocks-saturday/article_b14a9cd4-e913-11e4-936f-03541888ca25.html"
+            "source_url": "http://vulture.com/2015/04/lip-sync-battle-terry-crews-vs-mike-tyson.html"
+        },
+        "vineyardgazette.com/2015/04/singing-for-the-radio-and-playhouse-vineyard-gazette-martha-s-news": {
+            "title": "Singing for the Radio and the Playhouse - The Vineyard Gazette - Martha's Vineyard News...",
+            "snippet": "The Vineyard Gazette - Martha's Vineyard NewsSinging for the Radio and the PlayhouseThe Vineyard Gazette - Martha's Vineyard NewsAmy Fairchild released her first record, She's Not Herself, in 1994 to rave reviews. She won a Lilith Fair talent...",
+            "date": "2015-04-23",
+            "categories": "lilith-fair,radio",
+            "tags": "lilith,lilith_fair,fair,her,she",
+            "recuweb_url": "http://es.recuweb.com/radio/vineyardgazette.com/2015/04/singing-for-the-radio-and-playhouse-vineyard-gazette-martha-s-news",
+            "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
+            "source_url": "http://vineyardgazette.com/news/2015/04/23/singing-radio-and-playhouse"
         },
         "sfgate.com/2015/04/for-local-rockers-be-calm-honcho-music-is-a-commitment-sfgate": {
             "title": "For local rockers Be Calm Honcho, music is a commitment - SFGate...",
             "snippet": "SFGateFor local rockers Be Calm Honcho, music is a commitmentSFGateThere are traces of giddy '60s pop and hoary '70s blues rock, the eccentric singer-songwriters she used to see when her mom would take her to Lilith Fair every summer, and the...",
             "date": "2015-04-21",
             "categories": "lilith-fair,rock,pop",
-            "tags": "summer,lilith,lilith_fair,fair,she,her,blues,rock,are,music",
+            "tags": "summer,lilith,lilith_fair,fair,she,her,would,rock,music",
             "recuweb_url": "http://es.recuweb.com/pop/sfgate.com/2015/04/for-local-rockers-be-calm-honcho-music-is-a-commitment-sfgate",
             "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
             "source_url": "http://sfgate.com/music/article/For-local-rockers-Be-Calm-Honcho-music-is-a-6214447.php"
         },
         "pastemagazine.com/2015/04/speedy-ortiz-self-preservative-paste-magazine": {
             "title": "Speedy Ortiz: Self-Preservative - Paste Magazine...",
-            "snippet": "Paste MagazineSpeedy Ortiz: Self-PreservativePaste MagazineIt just seems likeand I can't believe I'm about to talk about Lilith Fairbut I think the reason it was founded was some prevailing rule in festivals that one female act couldn't follow the...",
+            "snippet": "Paste MagazineSpeedy Ortiz: Self-PreservativePaste MagazineMy bandmates keep telling me that I want to play Lilith Fair, Dupuis says, laughing. I'm grateful that we've been given the space to play at these festivals. It just seems likeand I can't...",
             "date": "2015-04-21",
-            "tags": "was,that,female,lilith",
-            "recuweb_url": "http://es.recuweb.com/pastemagazine.com/2015/04/speedy-ortiz-self-preservative-paste-magazine",
+            "categories": "play,lilith-fair",
+            "tags": "these,that,lilith,lilith_fair,fair",
+            "recuweb_url": "http://es.recuweb.com/lilith-fair/pastemagazine.com/2015/04/speedy-ortiz-self-preservative-paste-magazine",
             "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
             "source_url": "http://pastemagazine.com/articles/2015/04/speedy-ortiz-self-preservative.html"
         },
@@ -45,36 +56,17 @@
             "snippet": "Daily Press (blog)Indigo Girls at the Ferguson Center: A fresh look at familiar songsDaily Press (blog)I don't now either of them, though I have interviewed Emily a couple of times by phone and spoke with Amy briefly on the grounds of a Lilith Fair...",
             "date": "2015-04-18",
             "categories": "lilith-fair",
-            "tags": "lilith,lilith_fair,fair,press,indigo,indigo_girls,girls",
+            "tags": "lilith,lilith_fair,fair,indigo,indigo_girls,girls",
             "recuweb_url": "http://es.recuweb.com/lilith-fair/dailypress.com/2015/04/indigo-girls-at-the-ferguson-center-a-fresh-look-familiar-songs",
             "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
             "source_url": "http://dailypress.com/entertainment/blog/dp-popcorn-indigo-girls-review-0418-story.html"
-        },
-        "portsmouth.co.uk/2015/04/death-of-19th-century-supermodel-uncovered-portsmouth-news": {
-            "title": "Death of 19th century supermodel uncovered - Portsmouth News...",
-            "snippet": "Portsmouth NewsDeath of 19th century supermodel uncoveredPortsmouth NewsRenowned paintings such as Lady Lilith, Fair Rosamund, Bocca Baciata and The Blue Bower were all modelled by Fanny whose voluptuous figure and abundant golden hair became the...",
-            "date": "2015-04-16",
-            "tags": "fair,lilith",
-            "recuweb_url": "http://es.recuweb.com/portsmouth.co.uk/2015/04/death-of-19th-century-supermodel-uncovered-portsmouth-news",
-            "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
-            "source_url": "http://portsmouth.co.uk/news/death-of-19th-century-supermodel-uncovered-1-6692933"
-        },
-        "pressconnects.com/2015/04/anne-mccue-band-brings-blues-to-earlville-press-&-sun-bulletin": {
-            "title": "Anne McCue Band brings blues to Earlville - Press & Sun-Bulletin...",
-            "snippet": "Press & Sun-BulletinAnne McCue Band brings blues to EarlvillePress & Sun-BulletinShe made her U.S. debut touring with her band Eden AKA at the Lilith Fair in 1998 and 1999. Admission is 22 and 20 for EOH members, and students are discounted to 17.",
-            "date": "2015-04-15",
-            "categories": "lilith-fair",
-            "tags": "are,lilith,lilith_fair,fair,her,made,blues,press",
-            "recuweb_url": "http://es.recuweb.com/lilith-fair/pressconnects.com/2015/04/anne-mccue-band-brings-blues-to-earlville-press-&-sun-bulletin",
-            "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
-            "source_url": "http://pressconnects.com/story/entertainment/2015/04/15/earlville-anne-mccue-band/25773349/"
         },
         "tampabay.com/2015/03/sarah-mclachlan-hits-ruth-eckerd-hall-with-thoughts-on": {
             "title": "Sarah McLachlan hits Ruth Eckerd Hall with thoughts on... -...",
             "snippet": "McLachlan hits Ruth Eckerd Hall with thoughts on... was always going to be tough for McLachlan to follow the original Lilith Fair and her eight-times-platinum 1997 album Surfacing. She kept releasing new music most recently 2014's Shine On but...",
             "date": "2015-03-25",
             "categories": "lilith-fair",
-            "tags": "music,her,lilith,lilith_fair,fair,was,sarah,sarah_mclachlan,mclachlan,album,she",
+            "tags": "music,her,lilith,lilith_fair,fair,she",
             "recuweb_url": "http://es.recuweb.com/lilith-fair/tampabay.com/2015/03/sarah-mclachlan-hits-ruth-eckerd-hall-with-thoughts-on",
             "resource_url": "http://news.google.es/?hl=es&q=lilith%2Bfair&output=atom&nord=1",
             "source_url": "http://tampabay.com/things-to-do/music/sarah-mclachlan-hits-ruth-eckerd-hall-with-thoughts-on-motherhood-lilith/2222731"

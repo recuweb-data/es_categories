@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/php/",
@@ -11,15 +11,37 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
+        "desarrolloweb.com/2015/04/plates-php-sistema-de-plantillas-templates": {
+            "title": "Plates PHP, sistema de plantillas/templates -...",
+            "snippet": "Las plantillas o en ingl\u00e9s templates es uno de los componentes t\u00edpicos de una aplicaci\u00f3n web. En PHP hay diversas librer\u00edas de plantillas y muchas muy populares como Smarty. En esta ocasi\u00f3n vemos un sistema de...",
+            "date": "2015-04-21",
+            "author_name": "desconocido",
+            "categories": "php",
+            "tags": "sistema,muy,php,web",
+            "recuweb_url": "http://es.recuweb.com/php/desarrolloweb.com/2015/04/plates-php-sistema-de-plantillas-templates",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://desarrolloweb.com/articulos/plates-php-sistema-plantillas-templates.html"
+        },
+        "euskadinnova.net/2015/04/infraestructura-lamp-linux-apache-mysql-php-euskadi": {
+            "title": "Infraestructura LAMP: Linux Apache MySQL PHP - Euskadi...",
+            "snippet": "Objetivos. El taller comienza con la presentaci\u00f3n de las herramientas que describen la infraestructura LAMP: Linux, el sistema operativo; Apache, el servidor web; MySQL, el gestor de base de datos; y PHP, el lenguaje de programaci\u00f3n.",
+            "date": "2015-04-20",
+            "author_name": "desconocido",
+            "categories": "lenguaje,mysql,php",
+            "tags": "lenguaje,programaci\u00f3n,base,sistema,linux,apache,apache_mysql,apache_mysql_php,mysql,mysql_php,php,servidor,web,datos",
+            "recuweb_url": "http://es.recuweb.com/php/euskadinnova.net/2015/04/infraestructura-lamp-linux-apache-mysql-php-euskadi",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://euskadinnova.net/es/enpresa-digitala/agenda/infraestructura-lamp-linux-apache-mysql/9450.aspx?utm_source=rss_feed&utm_medium=rss&utm_campaign=accesos_rss"
+        },
         "geeksroom.com/2015/04/primeros-pasos-para-utilizar-la-api-de-twitter-usando-php-2": {
             "title": "Primeros pasos para utilizar la API de Twitter usando PHP (2/2...",
             "snippet": "Nosotros elegimos TwitterAPIExchange, realizada por James Mallison y que cuenta con la licencia MIT y que tiene la facilidad de s\u00f3lo necesitar un archivo llamado que debes...",
             "date": "2015-04-17",
             "author_name": "Andrea Cummins",
             "categories": "twitter,php",
-            "tags": "archivo,pasos,php",
+            "tags": "archivo,pasos,twitter,php",
             "recuweb_url": "http://es.recuweb.com/php/geeksroom.com/2015/04/primeros-pasos-para-utilizar-la-api-de-twitter-usando-php-2",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geeksroom.com/2015/04/primeros-pasos-para-utilizar-la-api-de-twitter-usando-php-22/93488/"
         },
         "indexing-loop.blogspot.com/2015/04/cannot-modify-header-information-headers-already-sent": {
@@ -28,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "Luis Parraguez",
             "categories": "php",
-            "tags": "programa,servidor,hosting,archivo,sent,php",
+            "tags": "programa,servidor,hosting,archivo,php",
             "recuweb_url": "http://es.recuweb.com/php/indexing-loop.blogspot.com/2015/04/cannot-modify-header-information-headers-already-sent",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=es",
             "source_url": "http://indexing-loop.blogspot.com/2015/04/cannot-modify-header-information.html"
@@ -50,7 +72,7 @@
             "date": "2015-04-15",
             "author_name": "desconocido",
             "categories": "mysql,php,javascript",
-            "tags": "mysql,trabajo,php,nombre,web,desarrollo",
+            "tags": "mysql,trabajo,php,web,desarrollo",
             "recuweb_url": "http://es.recuweb.com/javascript/stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://stratos-ad.com/index.php?section=2&subsection=1&vtipo=1&vfecha=2015-04-15&vhora=13:13:30"
@@ -61,7 +83,7 @@
             "date": "2015-04-13",
             "author_name": "(Javier Orovengua)",
             "categories": "php",
-            "tags": "ejecutar,linux,hypertext,preprocessor,programa,script,php,tener",
+            "tags": "ejecutar,linux,hypertext,preprocessor,programa,php,tener",
             "recuweb_url": "http://es.recuweb.com/php/linux-party.com/2015/04/tener-una-linux-shell-remotamente-mediante-php",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=es",
             "source_url": "http://linux-party.com/index.php/57-seguridad/8942-tener-una-linux-shell-remotamente-mediante-php-shell"
@@ -72,7 +94,7 @@
             "date": "2015-04-10",
             "author_name": "leandro lopez",
             "categories": "php",
-            "tags": "varios,curso,php,son,web,tiempo",
+            "tags": "tiempo,programaci\u00f3n,curso,php,web",
             "recuweb_url": "http://es.recuweb.com/php/misemestre.blogspot.com/2015/04/curso-gratuito-de-php-en-codecademy",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=es",
             "source_url": "http://misemestre.blogspot.com/2015/04/curso-gratuito-de-php-en-codecademy.html"
@@ -83,32 +105,10 @@
             "date": "2015-04-07",
             "author_name": "jmpleal",
             "categories": "lenguaje,php",
-            "tags": "puede,lenguaje,muy,desarrollo,hypertext,preprocessor,php,web",
+            "tags": "lenguaje,muy,desarrollo,hypertext,preprocessor,php,web",
             "recuweb_url": "http://es.recuweb.com/php/jmpleal.wordpress.com/2015/04/modulo-3-sub-2-programacion-en-php",
             "resource_url": "http://es.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
             "source_url": "http://jmpleal.wordpress.com/2015/04/07/modulo-3-sub-2-programacion-en-php/"
-        },
-        "desarrolloweb.com/2015/04/t%C3%A9cnicas-de-desarrollo-php-profesionales-phpio": {
-            "title": "T\u00e9cnicas de desarrollo PHP profesionales phpIO...",
-            "snippet": "Este mi\u00e9rcoles 8 de abril vamos a aproximarnos a las t\u00e9cnicas de desarrollo un poco m\u00e1s avanzadas de PHP, haciendo un recorrido a varios patrones de dise\u00f1o y t\u00e9cnicas necesarias en el desarrollo web de calidad.",
-            "date": "2015-04-07",
-            "author_name": "desconocido",
-            "categories": "php",
-            "tags": "varios,desarrollo,php,vamos,web",
-            "recuweb_url": "http://es.recuweb.com/php/desarrolloweb.com/2015/04/t%C3%A9cnicas-de-desarrollo-php-profesionales-phpio",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/en-directo/tecnicas-desarrollo-php-profesionales-8845.html"
-        },
-        "cybmeta.com/2015/04/c%C3%B3mo-saber-la-ruta-del-archivo-php-en-ejecuci%C3%B3n-cybmeta": {
-            "title": "\u00bfC\u00f3mo saber la ruta del archivo PHP en ejecuci\u00f3n? CybMeta...",
-            "snippet": "Accediendo a la constante predefinida__FILE__podemos conocer la ruta absoluta, incluyendo el nombre del archivo, del script PHP actualmente en ejecuci\u00f3n, lo que puede ser muy \u00fatil en diversas situaciones.",
-            "date": "2015-04-01",
-            "author_name": "CybMeta",
-            "categories": "php",
-            "tags": "puede,muy,ejecuci\u00f3n,script,nombre,archivo,c\u00f3mo,php,podemos",
-            "recuweb_url": "http://es.recuweb.com/php/cybmeta.com/2015/04/c%C3%B3mo-saber-la-ruta-del-archivo-php-en-ejecuci%C3%B3n-cybmeta",
-            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cybmeta.com/como-saber-la-ruta-del-archivo-php-en-ejecucion/"
         },
         "cakephpilia.blogspot.com/2015/03/instalando-php-5-en-snow-leopard": {
             "title": "Instalando PHP 5.5 en Snow Leopard...",

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/postgresql/",
@@ -11,22 +11,23 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "barcelonajug.org/2015/04/barcelona-jug-una-base-de-datos-como-mongodb": {
-            "title": "Barcelona JUG: \u00bfUna base de datos como MongoDB pero con la...",
-            "snippet": "En este caso sobre ToroDB (PostgreSQL y NoSQL), el pr\u00f3ximo Viernes 24 de Abril tendremos la charla presentaci\u00f3n y el S\u00e1bado 25 de Abril un workshop, ambos en La Fontana. \u00bfTe imaginas una base de datos como...",
-            "date": "2015-04-15",
-            "author_name": "Jonathan Vila L\u00f3pez",
-            "tags": "charla,base,datos,gresql",
-            "recuweb_url": "http://es.recuweb.com/barcelonajug.org/2015/04/barcelona-jug-una-base-de-datos-como-mongodb",
-            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://barcelonajug.org/2015/04/torodb.html"
+        "codificate.wordpress.com/2015/04/clase-manejador-de-base-datos-php-pdo-postgresql": {
+            "title": "Clase manejador de Base de datos. PHP PDO PostgreSQL...",
+            "snippet": "Saludo amigos, ya sabemos que en la web hay cientos de ejemplos, existen Frameworks, generadores de c\u00f3digo, e incluso clientes web que nos hacen la interacci\u00f3n con la base de datos un poco m\u00e1s f\u00e1cil, pero nunca est\u00e1...",
+            "date": "2015-04-16",
+            "author_name": "codificate",
+            "categories": "php",
+            "tags": "f\u00e1cil,web,c\u00f3digo,hay,php,base,datos,gresql,amigos",
+            "recuweb_url": "http://es.recuweb.com/php/codificate.wordpress.com/2015/04/clase-manejador-de-base-datos-php-pdo-postgresql",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://codificate.wordpress.com/2015/04/16/clase-manejador-de-base-de-datos-php-pdo-postgresql/"
         },
         "juantrucupei.wordpress.com/2015/03/elementos-de-optimizaci%C3%B3n-tunning-postgresql-linux-trucupei": {
             "title": "ELementos de optimizaci\u00f3n (Tunning) PostgreSQL Linux Trucupei...",
             "snippet": "EL presente instructivo tiene como finalidad configurar algunos elementos que optimizar\u00e1n el funcionamiento de PostgreSQL en nuetro servidor. Requisitos: Se debe contar con suficiente privilegios para la configuraci\u00f3n de...",
             "date": "2015-03-27",
             "author_name": "Juan Trucupei",
-            "tags": "configuraci\u00f3n,servidor,configurar,gresql,gresql_linux,gresql_linux_trucupei,linux,linux_trucupei,trucupei",
+            "tags": "configuraci\u00f3n,servidor,gresql,gresql_linux,gresql_linux_trucupei,linux,linux_trucupei,trucupei,configurar",
             "recuweb_url": "http://es.recuweb.com/juantrucupei.wordpress.com/2015/03/elementos-de-optimizaci%C3%B3n-tunning-postgresql-linux-trucupei",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juantrucupei.wordpress.com/2015/03/27/elementos-de-optimizacion-tunning-postgresql/"
@@ -96,7 +97,7 @@
             "snippet": "COMENTARIO T\u00e9cnico:) Muchos de Vosotros ya conoc\u00e9is pgtune, ahora hay alguien que publicado un panel para hacerlo a\u00fan mas f\u00e1cil. Nos ayudar\u00e1 a ajustar los par\u00e1metros para poder sacarle []...",
             "date": "2014-09-04",
             "author_name": "elraski",
-            "tags": "par\u00e1metros,publicado,gresql",
+            "tags": "par\u00e1metros,hay,publicado,f\u00e1cil,gresql",
             "recuweb_url": "http://es.recuweb.com/elraski.wordpress.com/2014/09/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql",
             "resource_url": "http://es.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://elraski.wordpress.com/2014/09/04/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql/"

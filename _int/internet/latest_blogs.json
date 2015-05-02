@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "internet",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/internet/",
@@ -11,49 +11,104 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "abc.com.py/2015/04/estados-unidos-ya-prefiere-ver-la-tele-por-internet-ciencia-abc": {
-            "title": "Estados Unidos ya prefiere ver la tele por internet - Ciencia - ABC...",
-            "snippet": "LOS \u00c1NGELES. A la hora de consumir televisi\u00f3n, la mayor\u00eda de los estadounidenses ya prefiere hacerlo a trav\u00e9s de internet.",
-            "date": "2015-04-23",
-            "author_name": "desconocido",
-            "categories": "internet,ciencia,television",
-            "tags": "mayor\u00eda,estadounidenses,estadounidenses-ya-prefiere,prefiere,prefiere-hacerlo,hacerlo,hora,hora-de-consumir,consumir,prefiere-ver,estados,estados_unidos,unidos,internet,\u00e1ngeles,televisi\u00f3n,trav\u00e9s",
-            "recuweb_url": "http://es.recuweb.com/television/abc.com.py/2015/04/estados-unidos-ya-prefiere-ver-la-tele-por-internet-ciencia-abc",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/ciencia/estados-unidos-ya-prefiere-ver-la-tele-por-internet-1359514.html"
-        },
-        "iprofesional.com/2015/04/estados-unidos-ya-prefiere-ver-la-televisi%C3%B3n-por-internet-iprofesional": {
-            "title": "Estados Unidos ya prefiere ver la televisi\u00f3n por Internet - iProfesional...",
-            "snippet": "A la hora de consumir televisi\u00f3n, la mayor\u00eda de los estadounidenses ya prefiere hacerlo a trav\u00e9s de Internet, seg\u00fan un estudio publicado por la consultora Deloitte cuyas conclusiones son un reflejo de la profunda y acelerada...",
-            "date": "2015-04-23",
-            "author_name": "desconocido",
-            "categories": "television,internet",
-            "tags": "mayor\u00eda,estadounidenses,estadounidenses-ya-prefiere,prefiere,prefiere-hacerlo,hacerlo,hora,hora-de-consumir,consumir,prefiere-ver,estados,estados_unidos,unidos,televisi\u00f3n,internet,trav\u00e9s,estudio",
-            "recuweb_url": "http://es.recuweb.com/internet/iprofesional.com/2015/04/estados-unidos-ya-prefiere-ver-la-televisi%C3%B3n-por-internet-iprofesional",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://iprofesional.com/notas/210453-Estados-Unidos-ya-prefiere-ver-la-televisin-por-Internet"
-        },
-        "xarxatic.com/2015/04/una-semana-sin-internet-en-mi-centro-educativo-xarxatic": {
-            "title": "Una semana sin internet en mi centro educativo XarxaTIC...",
-            "snippet": "Hoy justo hace una semana que se ha estropeado internet en nuestro centro educativo. Ni libros digitales, ni moodles, ni posibilidad de acceder a las presentaciones o archivos que tenemos colgados en la nube. Una nube...",
-            "date": "2015-04-23",
-            "author_name": "Jordi Mart\u00ed",
+        "blogthinkbig.com/2015/04/internet-industrial-el-motor-que-cambiar%C3%A1-mundo-y-tu-vida": {
+            "title": "Internet Industrial, el motor que cambiar\u00e1 el mundo y tu vida...",
+            "snippet": "Internet Industrial promete ser uno de los pr\u00f3ximos motores de cambio y Telef\u00f3nica se posiciona como un actor clave de esta nueva revoluci\u00f3n digital.",
+            "date": "2015-04-27",
+            "author_name": "Chema Amate",
             "categories": "internet",
-            "tags": "internet,hace",
-            "recuweb_url": "http://es.recuweb.com/internet/xarxatic.com/2015/04/una-semana-sin-internet-en-mi-centro-educativo-xarxatic",
+            "tags": "nueva,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/blogthinkbig.com/2015/04/internet-industrial-el-motor-que-cambiar%C3%A1-mundo-y-tu-vida",
             "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xarxatic.com/una-semana-sin-internet-en-mi-centro-educativo/"
+            "source_url": "http://blogthinkbig.com/internet-industrial-el-motor-que-cambiara-el-mundo-y-tu-vida/"
         },
-        "genbeta.com/2015/04/10-d%C3%B3lares-al-mes-por-ver-la-mitad-de-anuncios": {
-            "title": "10 d\u00f3lares al mes por ver la mitad de anuncios en Internet. Los...",
-            "snippet": "Google Contributor empieza a funcionar y hemos podido conocer los precios oficiales de las suscripciones, que van desde 2 a 10 d\u00f3lares para ver...",
-            "date": "2015-04-22",
-            "author_name": "Mat\u00edas S. Zavia",
-            "categories": "google,internet",
-            "tags": "conocer,google,contributor,anuncios,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/genbeta.com/2015/04/10-d%C3%B3lares-al-mes-por-ver-la-mitad-de-anuncios",
+        "noticias.lainformacion.com/2015/04/cae-una-banda-que-vend%C3%ADa-en-internet-armas-de-guerra-listas": {
+            "title": "Cae una banda que vend\u00eda en internet armas de guerra listas para...",
+            "snippet": "La Guardia Civil ha desarticulado una red, con presencia en varias comunidades aut\u00f3nomas, que vend\u00eda en Internet armas de guerra antiguas, que reparaba y dejaba listas para su uso. Seg\u00fan inform\u00f3 el Instituto Armado, en...",
+            "date": "2015-04-27",
+            "author_name": "desconocido",
+            "categories": "internet",
+            "tags": "instituto,armado,uso,guerra,red,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/noticias.lainformacion.com/2015/04/cae-una-banda-que-vend%C3%ADa-en-internet-armas-de-guerra-listas",
             "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://genbeta.com/web/10-dolares-al-mes-por-ver-la-mitad-de-anuncios-en-internet-los-precios-de-google-contributor"
+            "source_url": "http://noticias.lainformacion.com/politica/arma-de-fuego/cae-una-banda-que-vendia-en-internet-armas-de-guerra-listas-para-disparar_gMjpTVtqTFdez5DhlGyn45/"
+        },
+        "cnnespanol.cnn.com/2015/04/acaso-internet-ha-acabado-con-la-pol%C3%ADtica-cnnespa%C3%B1": {
+            "title": "\u00bfAcaso internet ha acabado con la pol\u00edtica? CNNEspa\u00f1...",
+            "snippet": "Internet est\u00e1 contribuyendo a la crisis de muchos partidos pol\u00edticos: las nuevas generaciones interconectadas del siglo XXI han superado a estas \"viejas\" estructuras.",
+            "date": "2015-04-27",
+            "author_name": "marpichel",
+            "categories": "politica,internet",
+            "tags": "nuevas,siglo,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/cnnespanol.cnn.com/2015/04/acaso-internet-ha-acabado-con-la-pol%C3%ADtica-cnnespa%C3%B1",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/04/27/acaso-internet-ha-acabado-con-la-politica/"
+        },
+        "gol.com.bo/2015/04/en-vivo-por-internet-clasico-170-blooming-vs-oriente-petrolero": {
+            "title": "En vivo por internet Clasico 170 Blooming vs Oriente Petrolero...",
+            "snippet": "Doce son los clubes que juegan el torno dom\u00e9stico en Bolivia: Blooming, Oriente Petrolero, Guabir\u00e1, Sport Boys, de la ciudad de Santa Cruz. Bol\u00edvar, The Strongest, de la ciudad de La Paz. Wilstermann, Aurora, de la ciudad...",
+            "date": "2015-04-26",
+            "author_name": "quirqui",
+            "categories": "internet",
+            "tags": "ciudad,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/gol.com.bo/2015/04/en-vivo-por-internet-clasico-170-blooming-vs-oriente-petrolero",
+            "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://gol.com.bo/2015/04/en-vivo-por-internet-clasico-170.html"
+        },
+        "genbeta.com/2015/04/fallos-de-seguridad-en-gasolineras-navegar-con-privacidad-genbeta": {
+            "title": "Fallos de seguridad en gasolineras, navegar con privacidad - Genbeta...",
+            "snippet": "Como cada s\u00e1bado, bajo estas l\u00edneas te ofrecemos una recopilaci\u00f3n de art\u00edculos interesantes sobre software e Internet en una nueva edici\u00f3n de Internet is a series of blogs. Perm\u00edteme decir que esta semana venimos...",
+            "date": "2015-04-25",
+            "author_name": "Mar\u00eda Gonz\u00e1lez",
+            "categories": "internet",
+            "tags": "semana,nueva,navegar,seguridad,internet,edici\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/internet/genbeta.com/2015/04/fallos-de-seguridad-en-gasolineras-navegar-con-privacidad-genbeta",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbeta.com/actualidad/fallos-de-seguridad-en-gasolineras-navegar-con-privacidad-y-mas-internet-is-a-series-of-blogs-307"
+        },
+        "miltonchanes.com/2015/04/h%C3%A9ctor-reitmann-bibliocad": {
+            "title": "H\u00e9ctor Reitmann BiblioCAD...",
+            "snippet": "Hace 2 a\u00f1os hice esta entrevista a H\u00e9ctor Reitmann, CEO de y hoy me gustar\u00eda compartirla con ustedes... Entrevista realizada el 21 de Septiembre del 2011 El acceso a Internet a creado un nuevo marco de negocio y lleno de nuevos horizontes. Una...",
+            "date": "2015-04-25",
+            "author_name": "Milton Chanes",
+            "categories": "internet",
+            "tags": "nuevo,realizada,hace,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/miltonchanes.com/2015/04/h%C3%A9ctor-reitmann-bibliocad",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=internet%2Binternet&rss=1&lng=es",
+            "source_url": "http://miltonchanes.com/2011/09/hector-reitmann-bibliocad.html"
+        },
+        "upsocl.com/2015/04/alrededor-de-este-inocente-mensaje-gira-una-impactante-campa%C3%B1a": {
+            "title": "Alrededor de este inocente mensaje gira una impactante campa\u00f1a...",
+            "snippet": "La Polic\u00eda de Investigaciones de Chile ha lanzado una campa\u00f1a contra el acoso sexual por internet, esto porque hoy, m\u00e1s que nunca, los ni\u00f1os est\u00e1n expuestos de una manera que es dif\u00edcil de controlar. Por eso es necesario hacerlos tomar...",
+            "date": "2015-04-24",
+            "author_name": "Ignacio Mardones",
+            "categories": "internet",
+            "tags": "eso,ni\u00f1os,ni\u00f1os-est\u00e1n,est\u00e1n,campa\u00f1a,polic\u00eda,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/upsocl.com/2015/04/alrededor-de-este-inocente-mensaje-gira-una-impactante-campa%C3%B1a",
+            "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://upsocl.com/comunidad/al-rededor-de-este-inocente-mensaje-gira-una-impactante-campana-contra-el-acoso-en-internet/"
+        },
+        "apunteseideas.com/2015/04/nuestros-ni%C3%B1os-est%C3%A1n-muy-solos-en-internet": {
+            "title": "Nuestros ni\u00f1os est\u00e1n muy solos en internet...",
+            "snippet": "En mi columna en el programa Otra Vuelta, hablamos acerca de los chicos e internet, y la ausencia de los padres frente a los riesgos a los que se exponen en el uso de los medios digitales. El programa, conducido por los periodistas Lalo Puccio y...",
+            "date": "2015-04-24",
+            "author_name": "Enrique Quagliano",
+            "categories": "internet",
+            "tags": "uso,ni\u00f1os,ni\u00f1os-est\u00e1n,est\u00e1n,internet,programa",
+            "recuweb_url": "http://es.recuweb.com/internet/apunteseideas.com/2015/04/nuestros-ni%C3%B1os-est%C3%A1n-muy-solos-en-internet",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=internet%2Binternet&rss=1&lng=es",
+            "source_url": "http://apunteseideas.com/2015/04/24/nuestros-ninos-estan-muy-solos-en-internet/"
+        },
+        "unocero.com/2015/04/tv-en-internet-todav%C3%ADa-le-falta-unocero": {
+            "title": "TV en internet: todav\u00eda le falta unocero...",
+            "snippet": "Con formatos diferentes, esta semana arrancaron formalmente dos proyectos en M\u00e9xico de lo que podr\u00eda llamarse televisi\u00f3n de noticias en Internet: El Universal TV y UNO en Directo. El primero es un canal con el respaldo...",
+            "date": "2015-04-23",
+            "author_name": "Carlos Tomasini",
+            "categories": "internet,television",
+            "tags": "semana,dos,internet,m\u00e9xico,televisi\u00f3n,noticias,universal,directo",
+            "recuweb_url": "http://es.recuweb.com/television/unocero.com/2015/04/tv-en-internet-todav%C3%ADa-le-falta-unocero",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://unocero.com/2015/04/23/tv-en-internet-todavia-le-falta/"
         },
         "cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-lifestyle": {
             "title": "El 44% de los mexicanos leen p\u00e1ginas de Internet - Lifestyle...",
@@ -61,65 +116,10 @@
             "date": "2015-04-22",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "internet,lifestyle",
-            "tags": "encuesta,encuesta-realizada,realizada,m\u00e9xico,internet,j\u00f3venes",
+            "tags": "instituto,nacional,realizada,ciudad,m\u00e9xico,internet",
             "recuweb_url": "http://es.recuweb.com/lifestyle/cnnexpansion.com/2015/04/el-44%-de-los-mexicanos-leen-p%C3%A1ginas-internet-lifestyle",
             "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/economia/2015/04/22/el-44-de-los-mexicanos-leen-paginas-de-internet"
-        },
-        "cnnespanol.cnn.com/2015/04/honduras-bloquear%C3%A1-llamadas-por-internet-desde-prisiones": {
-            "title": "Honduras bloquear\u00e1 llamadas por internet desde prisiones...",
-            "snippet": "Aunque las llamadas por telefon\u00eda m\u00f3viles ya estaban bloqueadas, los reos cambiaron de estrategia: comenzaron a intervenir las redes de internet de los vecinos.",
-            "date": "2015-04-22",
-            "author_name": "Rodrigo Aguiar",
-            "categories": "internet",
-            "tags": "internet,redes",
-            "recuweb_url": "http://es.recuweb.com/internet/cnnespanol.cnn.com/2015/04/honduras-bloquear%C3%A1-llamadas-por-internet-desde-prisiones",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnespanol.cnn.com/2015/04/22/honduras-bloquea-llamadas-y-mensajeria-por-internet-desde-prisiones/"
-        },
-        "cnnexpansion.com/2015/04/quieres-ver-menos-publicidad-en-internet-p%C3%A1gale-a-google": {
-            "title": "\u00bfQuieres ver menos publicidad en Internet? P\u00e1gale a Google...",
-            "snippet": "Google est\u00e1 promocionando Contributor como una manera de reducir la dependencia del Internet en la publicidad. Cualquier persona que navegue por la web y se queje de la cantidad de anuncios acoger\u00e1 tambi\u00e9n esta...",
-            "date": "2015-04-22",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "internet,google",
-            "tags": "anuncios,menos,internet,google,contributor",
-            "recuweb_url": "http://es.recuweb.com/google/cnnexpansion.com/2015/04/quieres-ver-menos-publicidad-en-internet-p%C3%A1gale-a-google",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/04/22/quieres-menos-publicidad-en-internet-pagale-a-google"
-        },
-        "zonavirus.com/2015/04/quic-el-nuevo-protocolo-de-google-para-que-internet-vaya": {
-            "title": "quic: el nuevo protocolo de google para que internet vaya m\u00e1s r\u00e1pido...",
-            "snippet": "Actualmente, la mayor\u00eda de las conexiones a Internet que se realizan en todo el mundo, se producen a trav\u00e9s del protocolo TCP (Transmission Control Protocol), un mecanismo que garantiza que todos los datos ser\u00e1n entregados en su destino sin...",
-            "date": "2015-04-21",
-            "categories": "google,internet",
-            "tags": "garantiza,datos,mayor\u00eda,nuevo,google,internet,mundo,trav\u00e9s",
-            "recuweb_url": "http://es.recuweb.com/internet/zonavirus.com/2015/04/quic-el-nuevo-protocolo-de-google-para-que-internet-vaya",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=internet%2Binternet&rss=1&lng=es",
-            "source_url": "http://zonavirus.com/noticias/2015/\u2018quic\u2019-el-nuevo-protocolo-de-google-para-que-internet-vaya-mas-rapido.asp"
-        },
-        "malealexandra.wordpress.com/2015/04/que-es-internet": {
-            "title": "\u00bfQUE ES INTERNET?",
-            "snippet": "Qu\u00e9 es Internet: Internet es un neologismo que significa red inform\u00e1tica descentralizada de alcance global. Se trata de un sistema de redes inform\u00e1tica interconectadas mediante distintos medios de conexi\u00f3n.",
-            "date": "2015-04-20",
-            "author_name": "fernando96pdeyanez",
-            "categories": "internet",
-            "tags": "distintos,trata,internet,redes",
-            "recuweb_url": "http://es.recuweb.com/internet/malealexandra.wordpress.com/2015/04/que-es-internet",
-            "resource_url": "http://es.search.wordpress.com/?q=internet%2Binternet&f=feed&page=1",
-            "source_url": "http://malealexandra.wordpress.com/2015/04/20/que-es-internet/"
-        },
-        "youtube.com/2015/04/david-su%C3%A1rez-pok%C3%A9mon-la-culpa-es-de-internet-youtube": {
-            "title": "David Su\u00e1rez: Pok\u00e9mon La culpa es de Internet - YouTube...",
-            "snippet": "Suscr\u00edbete a nuestro canal: David Su\u00e1rez habla de Pok\u00e9mon. As\u00ed que si hab\u00e9is nacido antes de...",
-            "date": "2015-04-16",
-            "author_name": "TopTrendingVideo",
-            "categories": "internet",
-            "tags": "hab\u00e9is,hab\u00e9is-nacido,hab\u00e9is-nacido-antes,nacido,nacido-antes,antes,habla,canal,culpa,david,david_su\u00e1rez,su\u00e1rez,pok\u00e9mon,internet,youtube,suscr\u00edbete",
-            "recuweb_url": "http://es.recuweb.com/internet/youtube.com/2015/04/david-su%C3%A1rez-pok%C3%A9mon-la-culpa-es-de-internet-youtube",
-            "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://youtube.com/watch?v=uOhA0ArVJ8g",
-            "img_url": "http://img.youtube.com/vi/uOhA0ArVJ8g/0.jpg"
         }
     }
 }

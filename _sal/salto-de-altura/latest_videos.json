@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "salto-de-altura",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/salto-de-altura/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/salto-de-altura/salto-de-altura/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/entrevista-con-edgar-rivera-oro-en-salto-de-altura-universiada-nacional": {
+            "title": "Entrevista con Edgar Rivera, oro en salto de altura en Universiada Nacional 2015...",
+            "snippet": "Entrevista con Edgar Rivera, oro en salto de altura en Universiada Nacional 2015 From: CONADEMX Views: 84 0 ratings Time: 01:44 More in People & Blogs...",
+            "date": "2015-04-26",
+            "author_name": "CONADEMX",
+            "categories": "salto-de-altura",
+            "tags": "salto,salto-de-altura,altura,people",
+            "recuweb_url": "http://es.recuweb.com/salto-de-altura/youtube.com/2015/04/entrevista-con-edgar-rivera-oro-en-salto-de-altura-universiada-nacional",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=salto%2Bde%2Baltura&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=JMOQ1fJsFF8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/JMOQ1fJsFF8/0.jpg"
+        },
         "youtube.com/2014/12/locura-salto-de-altura": {
             "title": "locura SALTO de altura...",
             "snippet": "locura SALTO de altura Totalmente locos, decidimos saltar de un tercer piso y rebotar en un inflable. Esperando no lastimarnos y solo divertirnos. From: Cristian Sanz Views: 98 5 ratings Time: 03:35 More in Entertainment...",
@@ -113,18 +125,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=salto%2Bde%2Baltura&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=V_lmWM-OEyc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/V_lmWM-OEyc/0.jpg"
-        },
-        "youtube.com/2014/01/salto-de-altura": {
-            "title": "Salto de Altura...",
-            "snippet": "Salto de Altura Videoclip realizado para la asignatura de Montaje de la Universitat de Barcelona Bel\u00e9n Montesino. From: Bel\u00e9n Montesino Views: 1513 45 ratings Time: 03:15 More in People & Blogs...",
-            "date": "2014-01-13",
-            "author_name": "Bel\u00e9n Montesino",
-            "categories": "videoclip",
-            "tags": "salto,altura,people",
-            "recuweb_url": "http://es.recuweb.com/videoclip/youtube.com/2014/01/salto-de-altura",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=salto%2Bde%2Baltura&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=-b0FlqSta8E&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/-b0FlqSta8E/0.jpg"
         }
     }
 }

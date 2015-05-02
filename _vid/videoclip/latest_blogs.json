@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "videoclip",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/videoclip/",
@@ -11,93 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/videoclip/videoclip/blogs.json"
     },
     "items": {
-        "hhgroups.com/2015/04/ambkor-y-iv%C3%A1n-nieto-despu%C3%A9s-de-todo-videoclip-v%C3%ADdeo-hip-hop": {
-            "title": "Ambkor y Iv\u00e1n Nieto - Despu\u00e9s de todo (Videoclip) V\u00eddeo Hip Hop...",
-            "snippet": "Con motivo de la celebraci\u00f3n de los de plays en su canal de YouTube, Ambkor nos presenta Despu\u00e9s de todo, un tema in\u00e9dito con videoclip y con la colaboraci\u00f3n del mc madrile\u00f1o Iv\u00e1n Nieto. En el estribillo...",
+        "metaltrip.com/2015/04/videoclip-de-the-darkness-metaltrip": {
+            "title": "Videoclip de The Darkness Metaltrip...",
+            "snippet": "Los brit\u00e1nicos The Darkness acaban de lanzar un nuevo videoclip, adelanto del que ser\u00e1 su cuarto \u00e1lbum, Last of our kind y que se editara el pr\u00f3ximo 1 de juni.",
+            "date": "2015-04-27",
+            "author_name": "augusto",
+            "categories": "videoclip",
+            "tags": "adelanto,videoclip,nuevo,pr\u00f3ximo",
+            "recuweb_url": "http://es.recuweb.com/videoclip/metaltrip.com/2015/04/videoclip-de-the-darkness-metaltrip",
+            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://metaltrip.com/videoclip-de-the-darkness/"
+        },
+        "hhgroups.com/2015/04/dremen-sacrificio-videoclip-v%C3%ADdeo-hip-hop-groups": {
+            "title": "Dremen - Sacrificio (Videoclip) V\u00eddeo Hip Hop Groups...",
+            "snippet": "'Sacrificio'es el segundo videoclip que Dremen saca a la luz, despu\u00e9s de 'Haffi come drop', correspondiente al track diez de su \u00faltimo trabajo 'Day II'.",
+            "date": "2015-04-27",
+            "author_name": "videos@hhgroups.com (Dremen)",
+            "categories": "videoclip",
+            "tags": "track,segundo,v\u00eddeo,videoclip,\u00fal,trabajo",
+            "recuweb_url": "http://es.recuweb.com/videoclip/hhgroups.com/2015/04/dremen-sacrificio-videoclip-v%C3%ADdeo-hip-hop-groups",
+            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hhgroups.com/videos/videoclips/dremen-sacrificio-23329/"
+        },
+        "lavanguardia.com/2015/04/heidi-klum-presume-de-cuerpo-en-el-nuevo-videoclip-sia": {
+            "title": "Heidi Klum presume de cuerpo en el nuevo videoclip de Sia...",
+            "snippet": "Heidi Klum presume cuerpo nuevo videoclip Sia Barcelona. (Redacci\u00f3n).- Una aventura de amor es la nueva historia del nuevo videoclip de Sia, que.",
+            "date": "2015-04-24",
+            "author_name": "desconocido",
+            "categories": "videoclip",
+            "tags": "historia,heidi,heidi_klum,klum,nuevo,videoclip,sia,barcelona,redacci\u00f3n,amor",
+            "recuweb_url": "http://es.recuweb.com/videoclip/lavanguardia.com/2015/04/heidi-klum-presume-de-cuerpo-en-el-nuevo-videoclip-sia",
+            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lavanguardia.com/de-moda/belleza/20150424/54430171796/heidi-klum-presume-cuerpo-nuevo-videoclip-sia.html"
+        },
+        "blogs.20minutos.es/2015/04/jessie-j-estrena-videoclip-en-plan-amor-universitario-dando-la-nota": {
+            "title": "Jessie J estrena videoclip en plan amor universitario Dando la nota...",
+            "snippet": "Hace unos d\u00edas ya te habl\u00e9 del single, que ya lo puedes encontrar en iTunes y Spotify, pero hoy estamos de estreno con el videoclip. \u00c9chale un vistazo, porque aunque no tiene nada de novedoso, m\u00e1s all\u00e1 del efecto tan...",
+            "date": "2015-04-24",
+            "author_name": "DAVEM",
+            "categories": "videoclip",
+            "tags": "tan,tiene,estreno,estrena,videoclip,amor,single,itunes",
+            "recuweb_url": "http://es.recuweb.com/videoclip/blogs.20minutos.es/2015/04/jessie-j-estrena-videoclip-en-plan-amor-universitario-dando-la-nota",
+            "resource_url": "http://www.google.com/search?q=videoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogs.20minutos.es/dando-la-nota/2015/04/24/jessie-j-estrena-videoclip-en-plan-amor-universitario/"
+        },
+        "lavanguardia.com/2015/04/taylor-swift-bebiendo-cava-catal%C3%A1n-en-su-%C3%BAltimo-videoclip": {
+            "title": "Taylor Swift, bebiendo cava catal\u00e1n en su \u00faltimo videoclip...",
+            "snippet": "Barcelona. (Redacci\u00f3n).- El \u00faltimo videoclip de la joven estrella Taylor Swift exhibe una botella de cava catal\u00e1n, concretamente de las cavas Bohigas de \u00d2dena, en la Anoia. Y quien lo ha detectado, curiosamente, ha sido un...",
+            "date": "2015-04-24",
+            "author_name": "desconocido",
+            "categories": "estrella,videoclip",
+            "tags": "\u00fal,videoclip,barcelona,redacci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/videoclip/lavanguardia.com/2015/04/taylor-swift-bebiendo-cava-catal%C3%A1n-en-su-%C3%BAltimo-videoclip",
+            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lavanguardia.com/local/anoia/20150424/54430842605/taylor-swift-cava-videoclip.html"
+        },
+        "rocknvivo.com/2015/04/actor-de-game-of-thrones-protagoniza-videoclip-palma-violets": {
+            "title": "Actor de 'Game of Thrones'protagoniza videoclip de Palma Violets...",
+            "snippet": "Este jueves 23 de abril, Palma Violets estren\u00f3 el videoclip de English Tongue, sencillo de Danger In The Club, el segundo disco de estudio de la banda brit\u00e1nica. Dirigido por el cineasta, DJ y m\u00fasico brit\u00e1nico Don Letts,...",
             "date": "2015-04-23",
-            "author_name": "videos@hhgroups.com (Ambkor y Iv\u00e1n Nieto)",
-            "categories": "play,videoclip",
-            "tags": "madrile\u00f1o,motivo,celebraci\u00f3n,plays,v\u00eddeo,v\u00eddeo_hip,v\u00eddeo_hip_hop,hip,hip_hop,hop,iv\u00e1n,iv\u00e1n_nieto,nieto,ambkor,videoclip,canal,youtube,presenta,tema,in\u00e9dito,colaboraci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/videoclip/hhgroups.com/2015/04/ambkor-y-iv%C3%A1n-nieto-despu%C3%A9s-de-todo-videoclip-v%C3%ADdeo-hip-hop",
-            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hhgroups.com/videos/videoclips/ambkor-y-ivan-nieto-despues-de-todo-23272/"
-        },
-        "binaural.es/2015/04/nordic-giants-streaming-del-%C3%A1lbum-debut-y-videoclip-de-rapture": {
-            "title": "Nordic Giants: streaming del \u00e1lbum debut y videoclip de 'Rapture...",
-            "snippet": "A su vez hoy el grupo brit\u00e1nico ha subido a la red el videoclip oficial de 'Rapture', uno de los primeros adelantos de este LP, que contin\u00faa mostrando ese tono post apocal\u00edptico tan propio de la est\u00e9tica de Nordic Giants.",
-            "date": "2015-04-23",
-            "author_name": "Pablo Porcar",
+            "author_name": "Carla Gonz\u00e1lez C.",
             "categories": "videoclip",
-            "tags": "\u00e1lbum,videoclip,oficial",
-            "recuweb_url": "http://es.recuweb.com/videoclip/binaural.es/2015/04/nordic-giants-streaming-del-%C3%A1lbum-debut-y-videoclip-de-rapture",
-            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://binaural.es/noticias/nordic-giants-streaming-del-album-debut-y-videoclip-de-rapture/"
-        },
-        "hhgroups.com/2015/04/matulla-presos-del-presente-videoclip-v%C3%ADdeo-hip-hop-groups": {
-            "title": "Matulla - Presos del presente (Videoclip) V\u00eddeo Hip Hop Groups...",
-            "snippet": "Este tema pertenece a su segundo album \"Un mundo por cambiar\". Suscr\u00edbanse para estar al corriente de los nuevos temas y videoclips de Matulla. TWITTER: Matulla_Music FACEBOOK: Alvaro Matulla (C) 2015 Periplo...",
-            "date": "2015-04-22",
-            "author_name": "videos@hhgroups.com (Matulla)",
-            "categories": "facebook,videoclip,twitter",
-            "tags": "music,temas,tema,videoclip,segundo,album,v\u00eddeo,v\u00eddeo_hip,v\u00eddeo_hip_hop,hip,hip_hop,hip_hop_groups,hop,hop_groups,groups",
-            "recuweb_url": "http://es.recuweb.com/twitter/hhgroups.com/2015/04/matulla-presos-del-presente-videoclip-v%C3%ADdeo-hip-hop-groups",
+            "tags": "segundo,club,estren\u00f3,actor,protagoniza,videoclip,disco,dirigido",
+            "recuweb_url": "http://es.recuweb.com/videoclip/rocknvivo.com/2015/04/actor-de-game-of-thrones-protagoniza-videoclip-palma-violets",
             "resource_url": "http://www.google.com/search?q=videoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hhgroups.com/videos/videoclips/matulla-presos-del-presente-23204/"
+            "source_url": "http://rocknvivo.com/2015/04/23/actor-de-game-of-thrones-protagoniza-videoclip-de-palma-violets/"
         },
-        "metaltrip.com/2015/04/nuevo-videoclip-de-black-moth-metaltrip": {
-            "title": "Nuevo videoclip de Black Moth Metaltrip...",
-            "snippet": "Black Moth nos trae nuevo videoclip de su tema Looner, un tema en el que se puede ver toda la fuerza de estos ingleses oriundos de Yorkshire. Loo.",
-            "date": "2015-04-22",
-            "author_name": "yalinku",
-            "categories": "videoclip",
-            "tags": "nuevo,videoclip,tema",
-            "recuweb_url": "http://es.recuweb.com/videoclip/metaltrip.com/2015/04/nuevo-videoclip-de-black-moth-metaltrip",
-            "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://metaltrip.com/nuevo-videoclip-de-black-moth/"
-        },
-        "hhgroups.com/2015/04/arianna-puello-sal-corriendo-videoclip-v%C3%ADdeo-hip-hop-groups": {
-            "title": "Arianna Puello - Sal corriendo (Videoclip) V\u00eddeo Hip Hop Groups...",
-            "snippet": "El single del pr\u00f3ximo \u00e1lbum de Arianna Puello, titulado Despierta, que saldr\u00e1 a la luz en Mayo. Este single corresponde al track n\u00famero dos, y el videoclip...",
+        "quemasucabeza.com/2015/04/gepe-presenta-hambre-su-nuevo-videoclip-grabado-en-bolivia": {
+            "title": "Gepe presenta Hambre, su nuevo videoclip grabado en Bolivia...",
+            "snippet": "Gepe presenta Hambre, su nuevo videoclip grabado en Bolivia. HAMBRE. Hambre es el m\u00e1s reciente estreno audiovisual de Gepe. El primer adelanto del quinto disco del artista cuenta con la colaboraci\u00f3n de la cantante...",
             "date": "2015-04-21",
-            "author_name": "videos@hhgroups.com (Arianna Puello)",
+            "author_name": "quemasucabeza",
             "categories": "videoclip",
-            "tags": "\u00e1lbum,v\u00eddeo,v\u00eddeo_hip,v\u00eddeo_hip_hop,hip,hip_hop,hip_hop_groups,hop,hop_groups,groups,videoclip,single,pr\u00f3ximo,track",
-            "recuweb_url": "http://es.recuweb.com/videoclip/hhgroups.com/2015/04/arianna-puello-sal-corriendo-videoclip-v%C3%ADdeo-hip-hop-groups",
-            "resource_url": "http://www.google.com/search?q=videoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hhgroups.com/videos/videoclips/arianna-puello-sal-corriendo-23238/"
-        },
-        "hhgroups.com/2015/04/el-momo-igualame-videoclip-v%C3%ADdeo-hip-hop-groups": {
-            "title": "El Momo - Igualame (Videoclip) V\u00eddeo Hip Hop Groups...",
-            "snippet": "Igualame es el segundo videoclip del nuevo \u00e1lbum de El Momo llamado El don de escuchar. Este tema ha sido producido por Flash Beats y el videoclip ha sido grabado por Pablo Escudero para Ham Productions.",
-            "date": "2015-04-21",
-            "author_name": "videos@hhgroups.com (El Momo)",
-            "categories": "videoclip",
-            "tags": "\u00e1lbum,segundo,v\u00eddeo,v\u00eddeo_hip,v\u00eddeo_hip_hop,hip,hip_hop,hip_hop_groups,hop,hop_groups,groups,videoclip,nuevo,llamado,tema,sido,grabado",
-            "recuweb_url": "http://es.recuweb.com/videoclip/hhgroups.com/2015/04/el-momo-igualame-videoclip-v%C3%ADdeo-hip-hop-groups",
-            "resource_url": "http://www.google.com/search?q=videoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hhgroups.com/videos/videoclips/el-momo-igualame-23237/"
-        },
-        "hhgroups.com/2015/04/trafik-maserati-videoclip-v%C3%ADdeo-hip-hop-groups": {
-            "title": "Trafik - Maserati (Videoclip) V\u00eddeo Hip Hop Groups...",
-            "snippet": "Videoclip oficial del track 'Maserati'el single del pr\u00f3ximo disco de Trafik del que a\u00fan sabemos poco. El videoclip ha sido realizado por Nomadastudio y...",
-            "date": "2015-04-20",
-            "author_name": "videos@hhgroups.com (Trafik)",
-            "categories": "videoclip",
-            "tags": "v\u00eddeo,v\u00eddeo_hip,v\u00eddeo_hip_hop,hip,hip_hop,hip_hop_groups,hop,hop_groups,groups,videoclip,oficial,track,single,pr\u00f3ximo,disco,sido",
-            "recuweb_url": "http://es.recuweb.com/videoclip/hhgroups.com/2015/04/trafik-maserati-videoclip-v%C3%ADdeo-hip-hop-groups",
-            "resource_url": "http://www.google.com/search?q=videoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hhgroups.com/videos/videoclips/trafik-maserati-23225/"
-        },
-        "europafm.com/2015/04/vuelve-avril-lavigne-con-nueva-canci%C3%B3n-y-videoclip-fly-europa-fm": {
-            "title": "Vuelve Avril Lavigne con nueva canci\u00f3n y videoclip: 'Fly'- Europa FM...",
-            "snippet": "Despu\u00e9s de mucho tiempo sin aparecer y de anunciar la enfermedad que padeci\u00f3, Avril Lavigne saca un nuevo tema y su respectivo videoclip llamado Fly. Se trata de un single ben\u00e9fico que apoya las Olimpiadas Especiales...",
-            "date": "2015-04-17",
-            "author_name": "europafm.com",
-            "categories": "videoclip",
-            "tags": "vuelve,nueva,canci\u00f3n,videoclip,nuevo,tema,llamado,single",
-            "recuweb_url": "http://es.recuweb.com/videoclip/europafm.com/2015/04/vuelve-avril-lavigne-con-nueva-canci%C3%B3n-y-videoclip-fly-europa-fm",
+            "tags": "cuenta,colaboraci\u00f3n,primer,adelanto,reciente,estreno,grabado,presenta,hambre,nuevo,videoclip,disco,artista,cantante",
+            "recuweb_url": "http://es.recuweb.com/videoclip/quemasucabeza.com/2015/04/gepe-presenta-hambre-su-nuevo-videoclip-grabado-en-bolivia",
             "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://europafm.com/noticias/musica/videoclips/vuelve-avril-lavigne-nueva-cancion-videoclip-fly_2015041700145.html"
+            "source_url": "http://quemasucabeza.com/gepe-presenta-hambre-su-nuevo-videoclip-grabado-en-bolivia/"
         },
         "lashorasperdidas.com/2015/04/john-carpenter-protagoniza-un-videoclip-de-su-lp-lost-themes": {
             "title": "John Carpenter protagoniza un videoclip de su LP Lost Themes...",
@@ -105,21 +94,32 @@
             "date": "2015-04-16",
             "author_name": "Rafa Mart\u00edn",
             "categories": "videoclip",
-            "tags": "album,protagoniza,videoclip,dirigido",
+            "tags": "dirigido,protagonista,protagoniza,videoclip",
             "recuweb_url": "http://es.recuweb.com/videoclip/lashorasperdidas.com/2015/04/john-carpenter-protagoniza-un-videoclip-de-su-lp-lost-themes",
             "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://lashorasperdidas.com/index.php/2015/04/17/john-carpenter-protagoniza-un-videoclip-de-su-lp-lost-themes/"
         },
-        "noticias.lainformacion.com/2015/04/lori-meyers-estrenan-videoclip-para-su-canci%C3%B3n-por-el-25-aniversario": {
-            "title": "Lori Meyers estrenan videoclip para su canci\u00f3n por el 25 aniversario...",
-            "snippet": "Lori Meyers estrenan videoclip para su canci\u00f3n por el 25 aniversario del telescopio espacial Hubble.. jueves, 16/04/15 - 18:04. 0. Para celebrar los 25 a\u00f1os del lanzamiento del telescopio espacial Hubble, la banda...",
+        "quo.es/2015/04/nysu-los-maestros-del-videoclip-quo": {
+            "title": "NYSU: Los maestros del videoclip - Quo...",
+            "snippet": "Se llaman NYSU y son cuatro treinta\u00f1eros que rompen normas. En sus cinco a\u00f1os de carrera han creado algunos de los mejores videoclips espa\u00f1oles: son, entre otras muchas cosas, los padres del viral\u00edsimo spot de...",
             "date": "2015-04-16",
-            "author_name": "desconocido",
+            "author_name": "administrador.quo.es@hearst.es (Fernando G\u00f3mez)",
             "categories": "videoclip",
-            "tags": "videoclip,canci\u00f3n,banda",
-            "recuweb_url": "http://es.recuweb.com/videoclip/noticias.lainformacion.com/2015/04/lori-meyers-estrenan-videoclip-para-su-canci%C3%B3n-por-el-25-aniversario",
+            "tags": "mejores,videoclip",
+            "recuweb_url": "http://es.recuweb.com/videoclip/quo.es/2015/04/nysu-los-maestros-del-videoclip-quo",
             "resource_url": "http://www.google.com/search?q=videoclip%2Bvideoclip&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.lainformacion.com/ciencia-y-tecnologia/cosmologia/lori-meyers-estrenan-videoclip-para-su-cancion-por-el-25-aniversario-del-telescopio-espacial-hubble_TjXmPF84tMZqcWjOJxEDP2/"
+            "source_url": "http://quo.es/ser-humano/nysu-los-maestros-del-videoclip"
+        },
+        "desculturizat.wordpress.com/2015/04/take-me-to-church": {
+            "title": "Take me to church...",
+            "snippet": "As\u00ed se llama el videoclip del cantante Hozier, en el que se narra la historia de dos j\u00f3venes homosexuales los cuales tienen que esconder su relaci\u00f3n por miedo...",
+            "date": "2015-04-14",
+            "author_name": "rinconcreactivo",
+            "categories": "videoclip",
+            "tags": "historia,dos,videoclip,cantante",
+            "recuweb_url": "http://es.recuweb.com/videoclip/desculturizat.wordpress.com/2015/04/take-me-to-church",
+            "resource_url": "http://es.search.wordpress.com/?q=videoclip%2Bvideoclip&f=feed&page=1",
+            "source_url": "http://desculturizat.wordpress.com/2015/04/14/take-me-to-church/"
         }
     }
 }

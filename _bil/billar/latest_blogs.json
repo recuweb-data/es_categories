@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "billar",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/billar/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/billar/billar/blogs.json"
     },
     "items": {
-        "rondasomontano.com/2015/04/nuevo-t%C3%ADtulo-regional-para-el-jugador-de-billar-la-sma-barbastro": {
-            "title": "Nuevo t\u00edtulo regional para el jugador de billar de la SMA Barbastro...",
-            "snippet": "Carmelo Garc\u00e9s logr\u00f3 este fin de semana en Fraga su decimocuarto t\u00edtulo regional, al proclamarse campe\u00f3n en la modalidad de 47/2. Un triunfo que logr\u00f3 al vencer todos los partidos y conseguir el mejor promedio general...",
-            "date": "2015-04-20",
-            "author_name": "Ronda Somontano",
+        "ascensiondigital.com.ar/2015/04/billar-a-tres-bandas-guillermo-p%C3%A9rez-obtuvo-el-torneo": {
+            "title": "BILLAR A TRES BANDAS Guillermo P\u00e9rez obtuvo el torneo...",
+            "snippet": "El ascensionense radicado en Jun\u00edn fue campe\u00f3n en el Centro Espa\u00f1ol rojense. Con la participaci\u00f3n de 45 jugadores se disput\u00f3 en la sala del Centro Espa\u00f1ol de la ciudad de Rojas el 172 campeonato regional de billar a...",
+            "date": "2015-04-22",
+            "author_name": "AscensionDigital",
             "categories": "billar",
-            "tags": "conseguir,general,campe\u00f3n,jugador,regional,billar,fin,semana",
-            "recuweb_url": "http://es.recuweb.com/billar/rondasomontano.com/2015/04/nuevo-t%C3%ADtulo-regional-para-el-jugador-de-billar-la-sma-barbastro",
+            "tags": "jugadores,sala,torneo,billar,tres,tres_bandas,bandas,ciudad",
+            "recuweb_url": "http://es.recuweb.com/billar/ascensiondigital.com.ar/2015/04/billar-a-tres-bandas-guillermo-p%C3%A9rez-obtuvo-el-torneo",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://rondasomontano.com/revista/92304/"
+            "source_url": "http://ascensiondigital.com.ar/10592-billar-a-tres-bandas-guillermo-perez-obtuvo-el-torneo-disputado-en-rojas/"
+        },
+        "todosobrepelotas.wordpress.com/2015/04/pelota-de-billar": {
+            "title": "Pelota de billar...",
+            "snippet": "\u00a1Peloteros! \u00bfC\u00f3mo va todo? \u00a1Hablemos de bolas de billar! Las bolas que se utilizan para jugar al billar son duras y el tama\u00f1o, color, el n\u00famero que tienen escrito, peso...",
+            "date": "2015-04-20",
+            "author_name": "nereagomezaizpuru",
+            "categories": "billar",
+            "tags": "son,bolas,jugar,billar",
+            "recuweb_url": "http://es.recuweb.com/billar/todosobrepelotas.wordpress.com/2015/04/pelota-de-billar",
+            "resource_url": "http://es.search.wordpress.com/?q=billar%2Bbillar&f=feed&page=1",
+            "source_url": "http://todosobrepelotas.wordpress.com/2015/04/20/pelota-de-billar/"
         },
         "abandonosyzarzas.blogspot.com/2015/04/abandonosyzarzas-la-mansi%C3%B3n-del-billar": {
             "title": "abandonosyzarzas: La mansi\u00f3n del billar...",
@@ -28,7 +39,7 @@
             "date": "2015-04-15",
             "author_name": "abandonosyzarzas",
             "categories": "billar",
-            "tags": "billar",
+            "tags": "tiene,casi,billar",
             "recuweb_url": "http://es.recuweb.com/billar/abandonosyzarzas.blogspot.com/2015/04/abandonosyzarzas-la-mansi%C3%B3n-del-billar",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abandonosyzarzas.blogspot.com/2015/04/la-mansion-del-billar.html"
@@ -39,7 +50,7 @@
             "date": "2015-04-14",
             "author_name": "David",
             "categories": "billar",
-            "tags": "billar,billartist",
+            "tags": "billar",
             "recuweb_url": "http://es.recuweb.com/billar/thebillartist.com/2015/04/por-qu%C3%A9-amo-el-billar-the-billartist",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://thebillartist.com/14/04/2015/porque-amo-el-billar/"
@@ -50,32 +61,21 @@
             "date": "2015-04-12",
             "author_name": "amontes",
             "categories": "billar",
-            "tags": "clasificaci\u00f3n,tres,tres_bandas,bandas,nacional,club,club_billar,billar,final,fase,jugadores",
+            "tags": "grupos,jugadores,tres,tres_bandas,bandas,nacional,final,billar",
             "recuweb_url": "http://es.recuweb.com/billar/clubbillarsantadria.com/2015/04/club-billar-matar%C3%B3-clasificado-para-la-final-de-liga-nacional",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://clubbillarsantadria.com/club-billar-mataro-clasificado-para-la-final-de-la-liga-nacional-espanola/"
         },
         "diferencia-entre.com/2015/04/diferencia-entre-billar-y-carambola": {
             "title": "Diferencia entre Billar y Carambola...",
-            "snippet": "El billar y la carambola son conceptos aplicados de manera informal sobre un mismo deporte, el billar. Mientras el primero es aplicado para el t\u00edpico juego de billar americano o pool en general, el segundo es el utilizado cuando se quiere...",
+            "snippet": "El billar y la carambola son conceptos aplicados de manera informal sobre un mismo deporte, el billar.",
             "date": "2015-04-10",
             "author_name": "MarioCB",
             "categories": "deporte,billar",
-            "tags": "pool,general,t\u00edpico,t\u00edpico-juego,juego,billar",
+            "tags": "carambola,son,billar",
             "recuweb_url": "http://es.recuweb.com/billar/diferencia-entre.com/2015/04/diferencia-entre-billar-y-carambola",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diferencia-entre.com/diferencia-entre-billar-y-carambola/"
-        },
-        "thebillartist.com/2015/04/los-mejores-videojuegos-de-billar-the-billartist": {
-            "title": "Los mejores videojuegos de billar - The Billartist...",
-            "snippet": "Un recopilatorio de los mejores videojuegos de Pool, Snooker o Carambolas para disfrutar del billar virtual en el ordenador o en la consola.",
-            "date": "2015-04-07",
-            "author_name": "David",
-            "categories": "videojuego,billar",
-            "tags": "ordenador,mejores,billar,billartist,pool,snooker",
-            "recuweb_url": "http://es.recuweb.com/billar/thebillartist.com/2015/04/los-mejores-videojuegos-de-billar-the-billartist",
-            "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://thebillartist.com/07/04/2015/videojuegos-billar/"
         },
         "blog.es.playstation.com/2015/03/disfruta-del-billar-a-1080p-en-tu-ps4-con-hustle-kings": {
             "title": "Disfruta del billar a 1080p en tu PS4 con Hustle Kings - PlayStation...",
@@ -83,7 +83,7 @@
             "date": "2015-03-18",
             "author_name": "Bruno Sol",
             "categories": "reino,billar,playstation",
-            "tags": "hace,dos,billar",
+            "tags": "reino,reino_unido,unido,hace,dos,semanas,billar",
             "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/03/disfruta-del-billar-a-1080p-en-tu-ps4-con-hustle-kings",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.es.playstation.com/2015/03/18/disfruta-del-billar-1080p-en-tu-ps4-con-hustle-kings/"
@@ -94,7 +94,7 @@
             "date": "2015-03-01",
             "author_name": "desconocido",
             "categories": "billar",
-            "tags": "bola,juego,jugador,billar,t\u00edpico,t\u00edpico-juego",
+            "tags": "bolas,bola,juego,billar",
             "recuweb_url": "http://es.recuweb.com/billar/juganding.com/2015/03/juega-a-billar-aleatorio-online-y-gratis-juganding",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juganding.com/juegos-de-deportes/billar-aleatorio-8692"
@@ -105,7 +105,7 @@
             "date": "2015-02-27",
             "author_name": "desconocido",
             "categories": "humor,billar",
-            "tags": "ordenador,bola,humor,billar",
+            "tags": "bola,humor,billar",
             "recuweb_url": "http://es.recuweb.com/billar/notengotele.com/2015/02/no-tengo-tele-cuando-apuestas-en-el-billar-y-todo-te",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://notengotele.com/humor/cuando-apuestas-en-el-billar-y-todo-te-sale-bien"
@@ -116,7 +116,7 @@
             "date": "2015-02-26",
             "author_name": "desconocido",
             "categories": "humor,billar",
-            "tags": "jugando,humor,billar",
+            "tags": "jugando,humor,billar,hacer",
             "recuweb_url": "http://es.recuweb.com/billar/elrellano.com/2015/02/apostando-en-el-billar-videos-de-humor-variado-elrellano",
             "resource_url": "http://www.google.com/search?q=billar%2Bbillar&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elrellano.com/videos_online/9788/apostando-en-el-billar.html"

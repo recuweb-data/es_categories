@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/postgresql/",
@@ -11,6 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
+        "channelbiz.es/2015/04/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad": {
+            "title": "Qmatic Orchestra R6 aborda los retos de la movilidad...",
+            "snippet": "Se ha a\u00f1adido soporte para la base de datos PostgreSQL para reducir el coste total de propiedad de Orchestra. -Muchas m\u00e1s funcionalidades que ser\u00e1n anunciadas en una etapa posterior. Orchestra R6 ser\u00e1 presentado en la Conferencia de Qmatic The...",
+            "date": "2015-04-27",
+            "categories": "propiedad",
+            "tags": "funcionalidades,funcionalidades-que-ser\u00e1n,ser\u00e1n,ser\u00e1n-anunciadas,anunciadas,etapa,reducir,reducir-el-coste,coste,coste-total,total,total-de-propiedad,propiedad,a\u00f1adido,a\u00f1adido-soporte,soporte,qmatic,orchestra,base,datos,gresql,erior",
+            "recuweb_url": "http://es.recuweb.com/propiedad/channelbiz.es/2015/04/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
+            "source_url": "http://channelbiz.es/2015/04/27/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad/"
+        },
+        "acceso.com/2015/04/zona-notas-de-prensa": {
+            "title": "Zona notas de prensa...",
+            "snippet": "Se ha a\u00f1adido soporte para la base de datos PostgreSQL para reducir el coste total de propiedad de Orchestra. -Muchas m\u00e1s funcionalidades que ser\u00e1n anunciadas en una etapa posterior. Para Mart\u00edn Carvallo, Director General de Qmatic Espa\u00f1a...",
+            "date": "2015-04-27",
+            "categories": "propiedad",
+            "tags": "qmatic,funcionalidades,funcionalidades-que-ser\u00e1n,ser\u00e1n,ser\u00e1n-anunciadas,anunciadas,etapa,reducir,reducir-el-coste,coste,coste-total,total,total-de-propiedad,propiedad,a\u00f1adido,a\u00f1adido-soporte,soporte,base,datos,gresql,orchestra,erior",
+            "recuweb_url": "http://es.recuweb.com/propiedad/acceso.com/2015/04/zona-notas-de-prensa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
+            "source_url": "http://acceso.com/es_ES/notas-de-prensa/qmatic-anuncia-el-proximo-lanzamiento-de-orchestra-r6-para-abordar-los-retos-de-la-movilidad/101758/"
+        },
         "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release": {
             "title": "Call for Papers, PostgreSQL Session 7, September, 24th - (press release)...",
             "snippet": "Call for Papers, PostgreSQL Session 7, September, (press release)After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to...",
@@ -44,7 +64,7 @@
             "snippet": "PostgreSQL advances in the JSON datastore the other hand, relational databases are also evolving, with PostgreSQL getting more and more features inspired but the non relational world. Since version 9.2 Postgres supports the new JSON datatype and...",
             "date": "2015-04-02",
             "categories": "json",
-            "tags": "gres,features,gresql,version",
+            "tags": "gres,features,gresql",
             "recuweb_url": "http://es.recuweb.com/json/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
             "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
             "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "adwords",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/adwords/",
@@ -11,15 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
     },
     "items": {
-        "europapress.es/2015/04/comunicado-quarizmi-startup-tecnol%C3%B3gica-ganadora-de-sua-tech-meeting-2015": {
-            "title": "COMUNICADO: Quarizmi, startup tecnol\u00f3gica ganadora de SUA Tech Meeting 2015...",
-            "snippet": "Quarizmi es capaz de generar, r\u00e1pida y autom\u00e1ticamente, en muy poco tiempo m\u00e1s de palabras clave relacionadas con una web, un producto o un servicio, y todas ellas de alta calidad y relevancia para Adwords, explic\u00f3 Aguilera. El sistema...",
-            "date": "2015-04-23",
-            "categories": "adwords",
-            "tags": "alta,palabras,r\u00e1pida,web,adwords",
-            "recuweb_url": "http://es.recuweb.com/adwords/europapress.es/2015/04/comunicado-quarizmi-startup-tecnol%C3%B3gica-ganadora-de-sua-tech-meeting-2015",
+        "soyentrepreneur.com/2015/04/7-herramientas-de-google-para-impulsar-tu-marca": {
+            "title": "7 herramientas de Google para impulsar tu marca...",
+            "snippet": "Es una de las acciones m\u00e1s sencillas (y gratis) que puedes aplicar para aumentar la fuerza de tu marca. 2. Google AdWords Dominar esta herramienta no es sencillo y de hecho, hay toda una industria dedicada a ense\u00f1ar a las personas como utilizarla.",
+            "date": "2015-04-27",
+            "categories": "adwords,google",
+            "tags": "adwords,aumentar,gratis,acciones,google",
+            "recuweb_url": "http://es.recuweb.com/google/soyentrepreneur.com/2015/04/7-herramientas-de-google-para-impulsar-tu-marca",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=es",
-            "source_url": "http://europapress.es/comunicados/tic/noticia-comunicado-quarizmi-startup-tecnologica-ganadora-sua-tech-meeting-2015-20150423100140.html"
+            "source_url": "http://soyentrepreneur.com/28688-7-herramientas-de-google-para-impulsar-tu-marca.html"
+        },
+        "gestion.pe/2015/04/de-internauta-a-cliente-c%C3%B3mo-aumentar-tr%C3%A1fico-en-tu-sitio-web": {
+            "title": "De internauta a cliente: c\u00f3mo aumentar tr\u00e1fico en tu sitio web...",
+            "snippet": "En tanto, entre los canales que generan el descubrimiento de la necesidad est\u00e1n los anuncios en redes sociales, los banners displays, el uso de Google AdWords, entre otros. La idea, seg\u00fan Mendoza del Solar, es crear la necesidad y empujar al...",
+            "date": "2015-04-27",
+            "categories": "google,adwords",
+            "tags": "google,google_adwords,adwords,est\u00e1n,aumentar,c\u00f3mo,web,crear",
+            "recuweb_url": "http://es.recuweb.com/adwords/gestion.pe/2015/04/de-internauta-a-cliente-c%C3%B3mo-aumentar-tr%C3%A1fico-en-tu-sitio-web",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=es",
+            "source_url": "http://gestion.pe/tendencias/internauta-cliente-como-aumentar-trafico-tu-sitio-web-2130178"
+        },
+        "seroundtable.com/2015/04/google-the-mobile-friendly-algorithm-does-not-affect-your-search-engine": {
+            "title": "Google: The Mobile Friendly Algorithm Does Not Affect Your... - Search Engine Roundtable...",
+            "snippet": "Google: The Mobile Friendly Algorithm Does Not Affect Your...Search Engine Roundtablegoogle adwords mobile friendly algo Kate O'Donovan from the Google AdWords team in Dublin confirmed that the mobile friendly algorithm that began rolling out last...",
+            "date": "2015-04-27",
+            "categories": "adwords,google",
+            "tags": "that,mobile,mobile_friendly,friendly,adwords,search,search_engine,engine,google",
+            "recuweb_url": "http://es.recuweb.com/google/seroundtable.com/2015/04/google-the-mobile-friendly-algorithm-does-not-affect-your-search-engine",
+            "resource_url": "http://news.google.es/?hl=es&q=adwords&output=atom&nord=1",
+            "source_url": "http://seroundtable.com/google-adwords-mobile-friendly-not-impacted-20210.html"
         },
         "searchenginepeople.com/2015/04/what-you-need-to-know-about-adwords-&-the-google-display": {
             "title": "What You Need To Know About Adwords & The Google Display... - Search Engine People (blog)...",
@@ -36,7 +56,7 @@
             "snippet": "Posicionamiento v\u00eddeo p\u00e1gina 1 keywords Consultor seo Sitges y por slideshare. 5. Campa\u00f1as Adwords: creando una campa\u00f1a de PPC podemos estar en las primeras posiciones de Google con campa\u00f1as de texto creadas con extensiones ocupando un...",
             "date": "2015-04-22",
             "categories": "adwords,google",
-            "tags": "campa\u00f1as,campa\u00f1a,estar,adwords,google,online,empresa,marketing,posicionamiento,v\u00eddeo,p\u00e1gina,seo,ppc",
+            "tags": "campa\u00f1as,campa\u00f1a,adwords,google,empresa,acciones,marketing,posicionamiento,v\u00eddeo,p\u00e1gina,seo,ppc",
             "recuweb_url": "http://es.recuweb.com/google/marketingdirecto.com/2015/04/7-acciones-de-marketing-online-que-pondr%C3%A1n-cara-y-ojos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=es",
             "source_url": "http://marketingdirecto.com/punto-de-vista/la-columna/7-acciones-de-marketing-online-que-pondran-cara-y-ojos-a-tu-empresa-en-google-judith-sauch/"
@@ -46,7 +66,7 @@
             "snippet": "PPC (Google Adwords): Gracias a la optimizaci\u00f3n interna que hemos realizado a nuestra p\u00e1gina web, a trav\u00e9s del SEO, podremos invertir en publicidad en buscadores, en concreto, Google Adwords, y esto har\u00e1 que la inversi\u00f3n que tengamos que...",
             "date": "2015-04-22",
             "categories": "google,adwords",
-            "tags": "publicidad,izaci\u00f3n,p\u00e1gina,google,google_adwords,adwords,seo,ppc,web",
+            "tags": "izaci\u00f3n,p\u00e1gina,google,google_adwords,adwords,seo,ppc,web",
             "recuweb_url": "http://es.recuweb.com/adwords/lawyerpress.com/2015/04/lo-que-deben-de-saber-seo-los-abogados",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=es",
             "source_url": "http://lawyerpress.com/news/2015_04/2204_15_016.html"
@@ -56,29 +76,19 @@
             "snippet": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples)WordStream (blog)Today we're featuring a post that originally appeared on the Unbounce blog. In addition, we're partnering with Unbounce to offer a free webinar this Thursday, 3 Steps...",
             "date": "2015-04-21",
             "categories": "adwords",
-            "tags": "webinar,that,adwords,adwords_ads,ads,today",
+            "tags": "webinar,that,adwords,adwords_ads,ads",
             "recuweb_url": "http://es.recuweb.com/adwords/wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples",
-            "resource_url": "http://news.google.es/?hl=es&q=adwords%2Badwords&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=adwords&output=atom&nord=1",
             "source_url": "http://wordstream.com/blog/ws/2015/04/21/adwords-ads"
-        },
-        "seroundtable.com/2015/04/google-adwords-renames-search-funnels-to-attribution-engine-roundtable": {
-            "title": "Google AdWords Renames Search Funnels To Attribution - Search Engine Roundtable...",
-            "snippet": "Google AdWords Renames Search Funnels To AttributionSearch Engine RoundtableGoogle AdWords Google announced on Google that they've renamed what they call \"Search Funnels\" to what they are now calling \"Attribution.\" Attribution is more of an industry...",
-            "date": "2015-04-21",
-            "categories": "google,adwords",
-            "tags": "search,that,google,google_adwords,adwords,engine,search_engine",
-            "recuweb_url": "http://es.recuweb.com/adwords/seroundtable.com/2015/04/google-adwords-renames-search-funnels-to-attribution-engine-roundtable",
-            "resource_url": "http://news.google.es/?hl=es&q=adwords%2Badwords&output=atom&nord=1",
-            "source_url": "http://seroundtable.com/google-search-funnels-attribution-adwords-20180.html"
         },
         "searchengineland.com/2015/04/spotted-mobile-friendly-tag-showing-for-adwords-ads-search-engine-land": {
             "title": "Spotted: Mobile Friendly Tag Showing For AdWords Ads - Search Engine Land...",
             "snippet": "Search Engine LandSpotted: Mobile Friendly Tag Showing For AdWords AdsSearch Engine LandOf course today marks the launch of Google's Mobile Friendly Update, but the The SEM Post spotted a mobile friendly tag within AdWords ads. The example occurred...",
             "date": "2015-04-21",
             "categories": "adwords,google",
-            "tags": "today,adwords,engine,search,search_engine,adwords_ads,ads,google",
+            "tags": "mobile,mobile_friendly,friendly,adwords,engine,search,search_engine,adwords_ads,ads,google",
             "recuweb_url": "http://es.recuweb.com/google/searchengineland.com/2015/04/spotted-mobile-friendly-tag-showing-for-adwords-ads-search-engine-land",
-            "resource_url": "http://news.google.es/?hl=es&q=adwords%2Badwords&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=adwords&output=atom&nord=1",
             "source_url": "http://searchengineland.com/spotted-mobile-friendly-tag-showing-for-adwords-219419"
         },
         "diariodemoron.com/2015/04/celebrada-en-mor%C3%B3n-una-jornada-sobre-marketing-digital": {
@@ -86,7 +96,7 @@
             "snippet": "En primer lugar interven\u00eda Daniel Jurado Herrera, de la empresa alGenio marketing online, S.L., que siendo un colaborador destacado de la Comunidad Adwords ha asesorado sobre dicha herramienta. La segunda ponencia corr\u00eda a cargo de la...",
             "date": "2015-04-20",
             "categories": "adwords",
-            "tags": "herramienta,adwords,empresa,primer,marketing,digital,online",
+            "tags": "herramienta,adwords,empresa,marketing,digital",
             "recuweb_url": "http://es.recuweb.com/adwords/diariodemoron.com/2015/04/celebrada-en-mor%C3%B3n-una-jornada-sobre-marketing-digital",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=es",
             "source_url": "http://diariodemoron.com/index.php/moron/5805-celebrada-en-moron-una-jornada-sobre-marketing-digital"
@@ -100,16 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/adwords/noticiascastillayleon.com/2015/04/impulsa-tu-marketing-primera-agencia-google-partner-en-valladolid",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=es",
             "source_url": "http://noticiascastillayleon.com/noticia/?d=Impulsa-Tu-marketing-primera-agencia-Google-Partner-en-Valladolid&noticia=82072&seccion=11"
-        },
-        "pulzo.com/2015/04/las-palabras-m%C3%A1s-caras-para-anunciarse-con-adwords-y-pulzo": {
-            "title": "Las palabras m\u00e1s caras para anunciarse con Adwords y m\u00e1s... - Pulzo...",
-            "snippet": "PulzoLas palabras m\u00e1s caras para anunciarse con Adwords y m\u00e1s...PulzoLas palabras m\u00e1s caras para anunciarse con Adwords y m\u00e1s noticias de publicidad digital. Estas son algunas de las notas m\u00e1s relevantes este mes, que le permitir\u00e1n estar a la...",
-            "date": "2015-04-20",
-            "categories": "adwords",
-            "tags": "estar,publicidad,digital,palabras,adwords",
-            "recuweb_url": "http://es.recuweb.com/adwords/pulzo.com/2015/04/las-palabras-m%C3%A1s-caras-para-anunciarse-con-adwords-y-pulzo",
-            "resource_url": "http://news.google.es/?hl=es&q=adwords%2Badwords&output=atom&nord=1",
-            "source_url": "http://pulzo.com/tecnologia/325326-las-palabras-mas-caras-para-anunciarse-con-adwords-y-mas-noticias-de-publicidad"
         }
     }
 }

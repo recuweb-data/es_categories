@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sistema-de-gps",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sistema-de-gps/",
@@ -11,49 +11,85 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/sistema-de-gps/sistema-de-gps/blogs.json"
     },
     "items": {
-        "lanacion.com.ar/2015/04/mientras-no-distraiga-y-tenga-los-mapas-actualizados-el-gps-argentina": {
-            "title": "Mientras no distraiga y tenga los mapas actualizados, el GPS... - (Argentina)...",
-            "snippet": "Mientras no distraiga y tenga los mapas actualizados, el GPS... (Argentina)Reemplazar una tecnolog\u00eda por otra, como el ir de utilizar un mapa en papel a un sistema de posicionamiento satelital, semeja mucho al mismo cambio que signific\u00f3 hacer...",
-            "date": "2015-04-25",
-            "categories": "tecnologia",
-            "tags": "utilizar,mapas,tecnolog\u00eda,gps,sistema,posicionamiento,satelital",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/lanacion.com.ar/2015/04/mientras-no-distraiga-y-tenga-los-mapas-actualizados-el-gps-argentina",
+        "diariouno.com.ar/2015/04/detuvieron-a-una-banda-de-ladrones-extranjeros-que-operaba-en-diario": {
+            "title": "Detuvieron a una banda de ladrones extranjeros que operaba en... - Diario Uno...",
+            "snippet": "Detuvieron a una banda de ladrones extranjeros que operaba en...Diario UnoTiene adem\u00e1s una central propia de alarmas para monitorear viviendas, un sistema de GPS y comunicaciones en todas sus unidades m\u00f3viles y puestos fijos y radares localizados...",
+            "date": "2015-04-27",
+            "categories": "radar",
+            "tags": "adem\u00e1s,alarmas,ladrones,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/radar/diariouno.com.ar/2015/04/detuvieron-a-una-banda-de-ladrones-extranjeros-que-operaba-en-diario",
             "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://lanacion.com.ar/1787456-mientras-no-distraiga-y-tenga-los-mapas-actualizados-el-gps-mejora-el-servicio"
+            "source_url": "http://diariouno.com.ar/policiales/Detuvieron-a-una-banda-de-ladrones-extranjeros-que-operaba-en-Mendoza-20150425-0134.html"
+        },
+        "elobservador.com.uy/2015/04/econom%C3%ADa-prepara-un-sistema-para-controlar-el-gasto-minuto": {
+            "title": "Econom\u00eda prepara un sistema para controlar el gasto minuto a minuto...",
+            "snippet": "Entre otras pol\u00edticas, la secretar\u00eda de Estado aplic\u00f3 un sistema de GPS para seguir el movimiento de los patrulleros desde un centro de operaciones. Seg\u00fan supo El Observador, Interior se puso a disposici\u00f3n de las otras carteras para cooperar en...",
+            "date": "2015-04-27",
+            "categories": "politica,economia",
+            "tags": "patrulleros,controlar,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/economia/elobservador.com.uy/2015/04/econom%C3%ADa-prepara-un-sistema-para-controlar-el-gasto-minuto",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://elobservador.com.uy/noticia/303653/economia-prepara-un-sistema-para-controlar-el-gasto-minuto-a-minuto/"
+        },
+        "lacapital.com.ar/2015/04/ladrones-vestidos-de-polic%C3%ADas-robaron-en-una-casa-la-zona-noroeste": {
+            "title": "Ladrones vestidos de polic\u00edas robaron en una casa de la zona noroeste y huyeron en un patrullero...",
+            "snippet": "Con el bot\u00edn en mano, los ladrones huyeron en dos autos: uno particular y un m\u00f3vil policial, que por estas horas est\u00e1n tratando de identificarlos a trav\u00e9s del sistema de GPS.",
+            "date": "2015-04-27",
+            "tags": "horas,horas-est\u00e1n,horas-est\u00e1n-tratando,est\u00e1n,est\u00e1n-tratando,tratando,tratando-de-identificarlos,identificarlos,identificarlos-trav\u00e9s,trav\u00e9s,particular,particular-un-m\u00f3vil,m\u00f3vil,m\u00f3vil-policial,policial,ladrones,ladrones-huyeron,huyeron,huyeron-en-dos,dos,dos-autos,autos,bot\u00edn,bot\u00edn-en-mano,mano,vestidos,polic\u00edas,robaron,patrullero,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/lacapital.com.ar/2015/04/ladrones-vestidos-de-polic%C3%ADas-robaron-en-una-casa-la-zona-noroeste",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://lacapital.com.ar/policiales/Ladrones-vestidos-de-policias-robaron-en-una-casa-de-la-zona-noroeste-y-huyeron-en-un-patrullero-20150427-0009.html"
+        },
+        "minutouno.com/2015/04/rosario-robaron-disfrazados-de-polic%C3%ADas-y-huyeron-en-un-patrullero": {
+            "title": "Rosario: robaron disfrazados de polic\u00edas y huyeron en un patrullero...",
+            "snippet": "Con el bot\u00edn en mano, los ladrones huyeron en dos autos: uno particular y un m\u00f3vil policial, que por estas horas est\u00e1n tratando de identificarlos a trav\u00e9s del sistema de GPS. El caso qued\u00f3 a cargo de la seccional sub 22, por razones de...",
+            "date": "2015-04-27",
+            "tags": "horas,horas-est\u00e1n,horas-est\u00e1n-tratando,est\u00e1n,est\u00e1n-tratando,tratando,tratando-de-identificarlos,identificarlos,identificarlos-trav\u00e9s,trav\u00e9s,particular,particular-un-m\u00f3vil,m\u00f3vil,m\u00f3vil-policial,policial,ladrones,ladrones-huyeron,huyeron,huyeron-en-dos,dos,dos-autos,autos,bot\u00edn,bot\u00edn-en-mano,mano,robaron,polic\u00edas,patrullero,rosario,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/minutouno.com/2015/04/rosario-robaron-disfrazados-de-polic%C3%ADas-y-huyeron-en-un-patrullero",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://minutouno.com/notas/361771-rosario-robaron-disfrazados-policias-y-huyeron-un-patrullero"
+        },
+        "cadena3.com/2015/04/vestidos-de-polic%C3%ADas-robaron-una-remiser%C3%ADa-en-rosario": {
+            "title": "Vestidos de polic\u00edas, robaron una remiser\u00eda en Rosario...",
+            "snippet": "La mayor\u00eda de los patrulleros en Santa Fe cuenta con el sistema de GPS, por lo que no ser\u00eda dif\u00edcil saber si el veh\u00edculo usado en la entradera es el m\u00f3vil policial.",
+            "date": "2015-04-27",
+            "tags": "m\u00f3vil,m\u00f3vil-policial,policial,patrulleros,robaron,polic\u00edas,vestidos,rosario,sistema,gps,veh\u00edculo",
+            "recuweb_url": "http://es.recuweb.com/cadena3.com/2015/04/vestidos-de-polic%C3%ADas-robaron-una-remiser%C3%ADa-en-rosario",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://cadena3.com/contenido/2015/04/27/Vestidos-de-policias-robaron-una-remiseria-en-Rosario-144755.asp?audio=266837"
+        },
+        "viveusa.mx/2015/04/viajar-en-avi%C3%B3n-es-m%C3%A1s-seguro-que-auto-viveusa": {
+            "title": "Viajar en avi\u00f3n es m\u00e1s seguro que en auto - ViveUSA...",
+            "snippet": "ViveUSAViajar en avi\u00f3n es m\u00e1s seguro que en autoViveUSALos principales elementos de seguridad de los vuelos actuales son los sistemas GPS, los sistemas para evitar la cercan\u00eda de otros aviones, y las alarmas de proximidad de tierra que fueron...",
+            "date": "2015-04-27",
+            "tags": "alarmas,sistemas,seguridad,gps",
+            "recuweb_url": "http://es.recuweb.com/viveusa.mx/2015/04/viajar-en-avi%C3%B3n-es-m%C3%A1s-seguro-que-auto-viveusa",
+            "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps%2Bsistema%2Bde%2Bgps&output=atom&nord=1",
+            "source_url": "http://viveusa.mx/articulo/2015/04/27/destinos/viajar-en-avion-es-mas-seguro-que-en-auto"
+        },
+        "diariodeibiza.es/2015/04/cuatro-a%C3%B1os-de-restricciones-y-incapacidad": {
+            "title": "Cuatro a\u00f1os de restricciones y de incapacidad...",
+            "snippet": "como evidenciaron las diferencias entre ayuntamientos y Consell que impiden que todos los taxis de la isla funcionen con un mismo sistema de GPS o dificultan la aplicaci\u00f3n de diversos aspectos de la nueva ley general tur\u00edstica de Balears. El...",
+            "date": "2015-04-26",
+            "tags": "taxis,sistema,gps",
+            "recuweb_url": "http://es.recuweb.com/diariodeibiza.es/2015/04/cuatro-a%C3%B1os-de-restricciones-y-incapacidad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
+            "source_url": "http://diariodeibiza.es/opinion/2015/04/26/cuatro-anos-restricciones-incapacidad/763865.html"
         },
         "entornointeligente.com/2015/04/venezuela-roban-y-matan-a-taxista-cerca-de-la-usm": {
             "title": "VENEZUELA: Roban y matan a taxista cerca de la USM en Caracas...",
             "snippet": "lo mataron y dejaron su cuerpo cerca del puente y de los locales de comida que est\u00e1n frente a la entrada de la USM. El carro fue localizado, gracias al sistema de GPS, en El Valle.",
             "date": "2015-04-25",
-            "tags": "gracias,sistema,gps",
+            "tags": "gracias,est\u00e1n,sistema,gps",
             "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/venezuela-roban-y-matan-a-taxista-cerca-de-la-usm",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
             "source_url": "http://entornointeligente.com/articulo/5764877/VENEZUELA-Roban-y-matan-a-taxista-cerca-de-la-USM-en-Caracas-25042015"
-        },
-        "elespectador.com/2015/04/tecnolog%C3%ADa-para-tareas-vitales": {
-            "title": "Tecnolog\u00eda para tareas vitales...",
-            "snippet": "El primer modelo de aire consiste en un dron ligero que, con sensores para metal y pl\u00e1stico, se encarga de detectar la mina y marcar su posici\u00f3n gracias a un sistema de GPS. El segundo es una especie de versi\u00f3n pesada del primero, pero equipado...",
-            "date": "2015-04-24",
-            "categories": "tecnologia",
-            "tags": "versi\u00f3n,posici\u00f3n,gracias,tecnolog\u00eda,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/elespectador.com/2015/04/tecnolog%C3%ADa-para-tareas-vitales",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://elespectador.com/tecnologia/tecnologia-tareas-vitales-articulo-556569"
-        },
-        "es.euronews.com/2015/04/un-andador-inteligente-para-las-personas-de-la-tercera-edad-euronews": {
-            "title": "Un andador inteligente para las personas de la tercera edad - euronews...",
-            "snippet": "euronewsUn andador inteligente para las personas de la tercera edadeuronewsEs como un GPS, parecido al GPS que mi hijo tiene en su coche. Este aparato... El sistema, por ejemplo, va a tratar de evitar obst\u00e1culos, personas o animales dom\u00e9sticos con...",
-            "date": "2015-04-24",
-            "tags": "tiene,inteligente,tercera,gps,coche,sistema",
-            "recuweb_url": "http://es.recuweb.com/es.euronews.com/2015/04/un-andador-inteligente-para-las-personas-de-la-tercera-edad-euronews",
-            "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://es.euronews.com/2015/04/24/un-andador-inteligente-para-las-personas-de-la-tercera-edad/"
         },
         "debate.com.mx/2015/04/recuperan-camioneta-despojada-en-gasoducto": {
             "title": "Recuperan camioneta despojada en gasoducto...",
             "snippet": "El veh\u00edculo fue hallado durante un operativo y gracias al sistema de GPS, entre el monte a 800 metros de la carretera que comunica de San Blas a Ocoroni.",
             "date": "2015-04-23",
-            "tags": "san,gracias,veh\u00edculo,sistema,gps",
+            "tags": "gracias,veh\u00edculo,sistema,gps",
             "recuweb_url": "http://es.recuweb.com/debate.com.mx/2015/04/recuperan-camioneta-despojada-en-gasoducto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
             "source_url": "http://debate.com.mx/losmochis/Recuperan-camioneta-despojada-en-gasoducto-20150423-0190.html"
@@ -62,47 +98,10 @@
             "title": "Paez dijo que estamos a favor del GPS obligatorio pero no queremos que lo pague el chofer...",
             "snippet": "Adem\u00e1s, dijo que el GPS lo tiene que controlar el CPC no queremos empresas privadas, al tiempo que remarc\u00f3 que queremos los GPS como se los pusieron a los colectivos, no queremos que choferes paguen un sistema de GPS porque ya pagan blanqueo y...",
             "date": "2015-04-22",
-            "tags": "colectivos,tiene,estamos,gps,adem\u00e1s,sistema",
+            "tags": "controlar,gps,adem\u00e1s,sistema",
             "recuweb_url": "http://es.recuweb.com/radiobrisas.com/2015/04/paez-dijo-que-estamos-a-favor-del-gps-obligatorio-pero-no",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
             "source_url": "http://radiobrisas.com/2015/04/22/paez-afirmo-que-estamos-a-favor-del-gps-obligatorio-pero-no-queremos-que-lo-pague-el-chofer"
-        },
-        "elperiodic.com/2015/04/almassora-activa-la-versi%C3%B3n-ios-de-su-aplicaci%C3%B3n-telef%C3%B3nica-para-facilitar": {
-            "title": "Almassora activa la versi\u00f3n iOS de su aplicaci\u00f3n telef\u00f3nica para facilitar el acceso a todos los...",
-            "snippet": "Asimismo, ha recordado Mart\u00ednez, la aplicaci\u00f3n tambi\u00e9n dispone de un sistema de GPS para localizar las fotograf\u00edas que se captan por parte de los ciudadanos y se remiten a trav\u00e9s de esta plataforma. El objetivo es que se facilite a los...",
-            "date": "2015-04-20",
-            "categories": "fotografia",
-            "tags": "versi\u00f3n,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/fotografia/elperiodic.com/2015/04/almassora-activa-la-versi%C3%B3n-ios-de-su-aplicaci%C3%B3n-telef%C3%B3nica-para-facilitar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://elperiodic.com/almassora/noticias/368954_almassora-activa-version-aplicacion-telefonica-para-facilitar-acceso-todos-usuarios.html"
-        },
-        "datachaco.com/2015/04/proponen-un-sistema-de-control-por-gps-para-los-colectivos": {
-            "title": "Proponen un sistema de control por GPS para los colectivos -...",
-            "snippet": "un sistema de control por GPS para los ministro de Infraestructura, Fabricio Bolatti, expuso este lunes, en la audiencia convocada por el juez Juli\u00e1n Flores, un sistema de seguimiento de los colectivos por GPS que podr\u00eda ser implementado para...",
-            "date": "2015-04-20",
-            "tags": "podr\u00eda,colectivos,control,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/datachaco.com/2015/04/proponen-un-sistema-de-control-por-gps-para-los-colectivos",
-            "resource_url": "http://news.google.es/?hl=es&q=sistema%2Bde%2Bgps&output=atom&nord=1",
-            "source_url": "http://datachaco.com/noticias/view/49935/Proponen_un_sistema_de_control_por_GPS_para_los_colectivos"
-        },
-        "voanoticias.com/2015/04/desarrollan-nuevo-sistema-de-gps": {
-            "title": "Desarrollan nuevo sistema de GPS...",
-            "snippet": "Intentar enviar un mensaje de texto urgente, o utilizar el mapa de nuestro tel\u00e9fono inteligente cuando estamos extraviados, y encontrarnos con que no tenemos cobertura de red, es una de las cosas m\u00e1s frustrantes. Pero un nuevo invento podr\u00eda ser...",
-            "date": "2015-04-19",
-            "tags": "nuevo,podr\u00eda,utilizar,inteligente,estamos,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/voanoticias.com/2015/04/desarrollan-nuevo-sistema-de-gps",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://voanoticias.com/content/gps-sistema-navegacion-exacto-ahorrador/2723903.html"
-        },
-        "ultimahora.com/2015/04/asaltan-bus-de-turistas-paraguayos-en-brasil": {
-            "title": "Asaltan bus de turistas paraguayos en Brasil...",
-            "snippet": "Adem\u00e1s se\u00f1al\u00f3 que uno de los conductores alert\u00f3 el sistema de GPS y as\u00ed lograron ubicar el \u00f3mnibus y asistirlos. El \u00f3mnibus sali\u00f3 este viernes a las de San Pablo con destino a nuestro pa\u00eds en donde llegar\u00edan a las de este s\u00e1bado.",
-            "date": "2015-04-18",
-            "tags": "san,adem\u00e1s,sistema,gps",
-            "recuweb_url": "http://es.recuweb.com/ultimahora.com/2015/04/asaltan-bus-de-turistas-paraguayos-en-brasil",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sistema%2Bde%2Bgps&format=RSS&cc=es",
-            "source_url": "http://ultimahora.com/asaltan-bus-turistas-paraguayos-brasil-n889058.html"
         }
     }
 }

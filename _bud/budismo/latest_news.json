@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "budismo",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/budismo/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/budismo/budismo/blogs.json"
     },
     "items": {
-        "blogs.publico.es/2015/04/chino-y-de-bilbao": {
-            "title": "Chino y de Bilbao...",
-            "snippet": "Hasta que se le cay\u00f3 la careta, su vida era una especie de campa\u00f1a electoral continua entre las artes marciales y el budismo de importaci\u00f3n. Se cambi\u00f3 el nombre de Juan por el de Huang y dec\u00eda que era el primer occidental que hab\u00eda logrado el...",
-            "date": "2015-04-21",
+        "politica.elpais.com/2015/04/conversi%C3%B3n-expr%C3%A9s-a-la-yihad": {
+            "title": "Conversi\u00f3n expr\u00e9s a la yihad...",
+            "snippet": "Prob\u00f3 con el cristianismo, tonte\u00f3 con el budismo y por fin hace un a\u00f1o encontr\u00f3 su camino: el islam salafista. Sucedi\u00f3, como suceden estas cosas, a ra\u00edz de un encuentro casual. Coincidi\u00f3 con Jalal Badaui, una autoridad en la mezquita...",
+            "date": "2015-04-27",
+            "categories": "islam,cristianismo,budismo",
+            "tags": "islam,cristianismo,yihad,conversi\u00f3n,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/politica.elpais.com/2015/04/conversi%C3%B3n-expr%C3%A9s-a-la-yihad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://politica.elpais.com/politica/2015/04/24/actualidad/1429865791_968120.html"
+        },
+        "elmundo.es/2015/04/el-dalai-lama-transmite-sus-condolencias-a-las-v%C3%ADctimas-del-terremoto": {
+            "title": "El Dalai Lama transmite sus condolencias a las v\u00edctimas del terremoto...",
+            "snippet": "Muchos refugiados tibetanos viven en Nepal, ha expresado adem\u00e1s el Dalai Lama. El l\u00edder espiritual del budismo tibetano ha anunciado tambi\u00e9n su intenci\u00f3n de hacer una donaci\u00f3n para ayudar a las v\u00edctimas. El devastador terremoto dej\u00f3 en el...",
+            "date": "2015-04-27",
             "categories": "budismo",
-            "tags": "era,vida,cay\u00f3,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/blogs.publico.es/2015/04/chino-y-de-bilbao",
+            "tags": "terremoto,hacer,espiritual,lama,nepal,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/elmundo.es/2015/04/el-dalai-lama-transmite-sus-condolencias-a-las-v%C3%ADctimas-del-terremoto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://blogs.publico.es/davidtorres/2015/04/22/chino-y-de-bilbao/"
+            "source_url": "http://elmundo.es/internacional/2015/04/27/553e4ccfca47411b708b456b.html"
         },
-        "espanol.cri.cn/2015/04/eligen-a-maestro-xuecheng-como-presidente-de-asociaci%C3%B3n-budista-china": {
-            "title": "Eligen a maestro Xuecheng como presidente de Asociaci\u00f3n Budista de China...",
-            "snippet": "En la ceremonia de clausura de la conferencia de tres d\u00edas de la asociaci\u00f3n, Xuecheng coment\u00f3 que el budismo en China debe mantener un esp\u00edritu benevolente y servicial y alcanzar logros en la nueva era. El eminente monje exhort\u00f3 al budismo...",
-            "date": "2015-04-21",
+        "elmundo.es/2015/04/el-terremoto-acaba-con-parte-del-patrimonio-hist%C3%B3rico-de-nepal": {
+            "title": "El terremoto acaba con parte del patrimonio hist\u00f3rico de Nepal...",
+            "snippet": "Levantada entre los siglos XII y XVII, este enclave supone un s\u00edmbolo para el hinduismo, el budismo y el tantrismo, cuyos edificios ahora apenas se intuyen y han transmutado en torres de ladrillos y vigas. Plaza de Durbar, antes y despu\u00e9s del...",
+            "date": "2015-04-27",
+            "categories": "hinduismo,budismo",
+            "tags": "tantrismo,hinduismo,terremoto,parte,nepal,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/elmundo.es/2015/04/el-terremoto-acaba-con-parte-del-patrimonio-hist%C3%B3rico-de-nepal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/internacional/2015/04/27/553decf5268e3e1f348b457d.html"
+        },
+        "noticias.lainformacion.com/2015/04/la-yihad-centra-su-atenci%C3%B3n-en-reclutar-a-los-reci%C3%A9n-conversos": {
+            "title": "La yihad centra su atenci\u00f3n en reclutar a los reci\u00e9n conversos al Islam...",
+            "snippet": "Entre ellos, Jacob Orellana, de 27 a\u00f1os. El diario El Pa\u00eds narra la conversi\u00f3n de este joven, que ya hab\u00eda probado con el cristianismo y el budismo, y su r\u00e1pida radicalizaci\u00f3n. Formaba parte de los 11 miembros, cinco de ellos conversos, de...",
+            "date": "2015-04-27",
+            "categories": "cristianismo,islam,budismo",
+            "tags": "parte,cristianismo,pa\u00eds,conversi\u00f3n,yihad,islam,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/noticias.lainformacion.com/2015/04/la-yihad-centra-su-atenci%C3%B3n-en-reclutar-a-los-reci%C3%A9n-conversos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://noticias.lainformacion.com/mundo/la-yihad-centra-su-atencion-en-reclutar-a-los-recien-conversos-al-islam_UimEXMrr4T7nL8PkhpvXO6/"
+        },
+        "protestantedigital.com/2015/04/religiones-oran-juntas-por-ahogados-en-el-mediterr%C3%A1neo": {
+            "title": "Religiones oran juntas por ahogados en el Mediterr\u00e1neo...",
+            "snippet": "Mariano Bl\u00e1zquez, secretario ejecutivo de la Federaci\u00f3n evang\u00e9lica de Espa\u00f1a, particip\u00f3 en el acto de plegarias con representantes de diferentes religiones: budismo, cristianismo, juda\u00edsmo e islam. FUENTES El Mundo MADRID 27 DE ABRIL DE 2015...",
+            "date": "2015-04-27",
+            "categories": "islam,religion,budismo,cristianismo",
+            "tags": "mundo,islam,diferentes,diferentes-religiones,religiones,budismo,cristianismo",
+            "recuweb_url": "http://es.recuweb.com/cristianismo/protestantedigital.com/2015/04/religiones-oran-juntas-por-ahogados-en-el-mediterr%C3%A1neo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://protestantedigital.com/ciudades/36017/Oracion_interconfesional_por__ahogados_en_el_Mediterraneo"
+        },
+        "noticias.terra.com/2015/04/reliquias-de-buda-con-m%C3%A1s-mil-500-visitantes-en-dos-d%C3%ADas": {
+            "title": "Reliquias de Buda con m\u00e1s de mil 500 visitantes en dos d\u00edas en... -...",
+            "snippet": "El Siglo de Torre\u00f3nReliquias de Buda con m\u00e1s de mil 500 visitantes en dos d\u00edas en... \u00e9rida, 26 Abr (Notimex).- M\u00e1s de mil 500 personas ya han visitado las reliquias de Siddarta Gautama Buda, m\u00e1xima figura del budismo, misma que se exhiben en...",
+            "date": "2015-04-27",
             "categories": "budismo",
-            "tags": "monje,mantener,era,budista,maestro,china,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/espanol.cri.cn/2015/04/eligen-a-maestro-xuecheng-como-presidente-de-asociaci%C3%B3n-budista-china",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://espanol.cri.cn/782/2015/04/22/1s347383.htm"
-        },
-        "religionenlibertad.com/2015/04/en-la-fiesta-budista-de-vesakh-el-vaticano-busca-sinergias-contra": {
-            "title": "En la fiesta budista de Vesakh, el Vaticano busca sinergias contra la esclavitud citando a Buda...",
-            "snippet": "AN 4,47, 5,) 8,54). De este modo, el budismo promueve el respeto por la vida y la libertad de cada persona. Como budistas y cristianos, sol\u00edcitos en el respetar a la vida humana, debemos colaborar juntos para que ponga fin a esta llaga.",
-            "date": "2015-04-21",
-            "categories": "budismo",
-            "tags": "juntos,vida,cristianos,promueve,promueve-el-respeto,respeto,vida-la-libertad,libertad,persona,modo,busca,contra,contra-la-esclavitud,esclavitud,budistas,buda,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/religionenlibertad.com/2015/04/en-la-fiesta-budista-de-vesakh-el-vaticano-busca-sinergias-contra",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://religionenlibertad.com/en-la-fiesta-budista-de-vesakh-el-vaticano-busca-sinergias-contra-41960.htm"
-        },
-        "eltribuno.info/2015/04/psicoterapia-zen-de-qu%C3%A9-se-trata": {
-            "title": "Psicoterapia Zen: \u00bfde qu\u00e9 se trata?",
-            "snippet": "Tal es la influencia del budismo en las psicoterapias que el t\u00e9rmino terapeuta proviene de theravada, que en s\u00e1nscrito (lengua en la que se transmiti\u00f3 el budismo) significa, literalmente: persona que sigue la tradici\u00f3n de los sabios. Seg\u00fan...",
-            "date": "2015-04-21",
-            "categories": "zen,budismo",
-            "tags": "persona,tradici\u00f3n,psicoterapia,zen,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/eltribuno.info/2015/04/psicoterapia-zen-de-qu%C3%A9-se-trata",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://eltribuno.info/psicoterapia-zen-de-que-se-trata-n538021"
-        },
-        "noticias.terra.com/2015/04/t%C3%ADbet-gobierno-en-exilio-busca-a-l%C3%ADder-budista-desaparecido": {
-            "title": "T\u00edbet: gobierno en exilio busca a l\u00edder budista desaparecido...",
-            "snippet": "Desde entonces, Beijing mantiene que T\u00edbet es una parte integral de su territorio. El actual Dalai Lama es el 14to l\u00edder espiritual del budismo tibetano, una tradici\u00f3n que se remonta 500 a\u00f1os en el tiempo. Cada Dalai Lama es elegido de ni\u00f1o por...",
-            "date": "2015-04-21",
-            "categories": "budismo",
-            "tags": "tradici\u00f3n,l\u00edder,lama,busca,budista,actual,budismo,tibetano",
-            "recuweb_url": "http://es.recuweb.com/budismo/noticias.terra.com/2015/04/t%C3%ADbet-gobierno-en-exilio-busca-a-l%C3%ADder-budista-desaparecido",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://noticias.terra.com/mundo/asia/tibet-gobierno-en-exilio-busca-a-lider-budista-desaparecido,ac765fbcddddc410VgnCLD200000b2bf46d0RCRD.html"
-        },
-        "periodistadigital.com/2015/04/budistas-y-cristianos-juntos-contra-la-esclavitud-moderna": {
-            "title": "Budistas y cristianos, juntos contra la esclavitud moderna...",
-            "snippet": "\u00c9l ense\u00f1a a procurarse los bienes pac\u00edficamente, con honestidad y de manera legal, sin coacci\u00f3n, violencia o enga\u00f1o, y por medios que no causen da\u00f1o o sufrimiento De este modo, el budismo promueve el respeto por la vida y la libertad de cada...",
-            "date": "2015-04-20",
-            "categories": "budismo",
-            "tags": "promueve,promueve-el-respeto,respeto,vida,vida-la-libertad,libertad,modo,violencia,juntos,contra,contra-la-esclavitud,esclavitud,cristianos,budistas,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/periodistadigital.com/2015/04/budistas-y-cristianos-juntos-contra-la-esclavitud-moderna",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://periodistadigital.com/religion/otras-confesiones/2015/04/20/budistas-y-cristianos-juntos-contra-la-esclavitud-moderna-religion-iglesia-vesakh.shtml"
-        },
-        "eldiarioargentino.com/2015/04/entre-el-budismo-y-la-quinta-del-%C3%B1ato": {
-            "title": "Entre el budismo y la quinta del \u00d1ato...",
-            "snippet": "Por m\u00e1s que haya le\u00eddo cuanto libro de metaf\u00edsica cay\u00f3 en mis manos, sum\u00e1ndole los cinco de budismo Zen que me morf\u00e9 tras haber le\u00eddo algo de filosof\u00eda china, hay algo que, siempre, es m\u00e1s fuerte que yo, soy argentino. Asi, que, cuando el...",
-            "date": "2015-04-19",
-            "categories": "budismo,zen",
-            "tags": "fuerte,algo,china,cay\u00f3,budismo,zen",
-            "recuweb_url": "http://es.recuweb.com/zen/eldiarioargentino.com/2015/04/entre-el-budismo-y-la-quinta-del-%C3%B1ato",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://eldiarioargentino.com/362342-Entre-el-budismo-y-la-quinta-del-Nato.note.aspx"
-        },
-        "noticias24.com/2015/04/en-fotos-el-hogar-de-monjes-budistas-china": {
-            "title": "En fotos: el hogar de monjes budistas en China...",
-            "snippet": "(Caracas, 17 de abril. Noticias24).-Este remoto lugar, ubicado a 600 kil\u00f3metros de Chengdu, en China, es el hogar de m\u00e1s de monjes practicantes del budismo. Luego de atravesar intrincados terrenos y sortear por 20 horas un camino lleno de...",
-            "date": "2015-04-18",
-            "categories": "budismo",
-            "tags": "monjes,budistas,china,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/noticias24.com/2015/04/en-fotos-el-hogar-de-monjes-budistas-china",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
-            "source_url": "http://noticias24.com/gente/noticia/127088/en-fotos-el-hogar-de-40-000-monjes-budistas-en-china/"
-        },
-        "gestion.pe/2015/04/el-budismo-tailand%C3%A9s-bajo-sospecha-por-corrupci%C3%B3n-diario-gesti%C3%B3n": {
-            "title": "El budismo tailand\u00e9s bajo sospecha por corrupci\u00f3n - Diario Gesti\u00f3n...",
-            "snippet": "Diario Gesti\u00f3nEl budismo tailand\u00e9s bajo sospecha por corrupci\u00f3nDiario Gesti\u00f3nEn la religiosa Tailandia, los monjes son muy respetados, pero malos comportamientos, esc\u00e1ndalos de corrupci\u00f3n y la riqueza amasada por algunos templos han llevado a...",
-            "date": "2015-04-15",
-            "categories": "budismo",
-            "tags": "corrupci\u00f3n,monjes,son,religiosa,sospecha,sospecha-por-corrupci\u00f3n,budismo,tailand\u00e9s,bajo,tailandia",
-            "recuweb_url": "http://es.recuweb.com/budismo/gestion.pe/2015/04/el-budismo-tailand%C3%A9s-bajo-sospecha-por-corrupci%C3%B3n-diario-gesti%C3%B3n",
+            "tags": "personas,gautama,mil,dos,buda,siglo,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/noticias.terra.com/2015/04/reliquias-de-buda-con-m%C3%A1s-mil-500-visitantes-en-dos-d%C3%ADas",
             "resource_url": "http://news.google.es/?hl=es&q=budismo&output=atom&nord=1",
-            "source_url": "http://gestion.pe/politica/budismo-tailandes-bajo-sospecha-corrupcion-2129069"
+            "source_url": "http://noticias.terra.com/mundo/latinoamerica/reliquias-de-buda-con-mas-de-mil-500-visitantes-en-dos-dias-en-merida,1c964ab9b56fc410VgnCLD200000b1bf46d0RCRD.html"
         },
-        "elperiodico.com.gt/2015/04/el-budismo-es-una-religi%C3%B3n-humanista-%C3%A1lvaro-montenegro-elperi%C3%B3dico-guatemala": {
-            "title": "El budismo es una religi\u00f3n humanista \u00c1lvaro Montenegro - elPeri\u00f3dico (Guatemala)...",
-            "snippet": "elPeri\u00f3dico (Guatemala)\"El budismo es una religi\u00f3n humanista \u00c1lvaro MontenegroelPeri\u00f3dico (Guatemala)Su Santidad Kyabg\u00f6n Chetsang, el l\u00edder del linaje Drikung Kagyu del budismo tibetano dirigir\u00e1 un retiro en Guatemala del 29 al 31 de mayo...",
-            "date": "2015-04-12",
-            "categories": "religion,budismo",
-            "tags": "tibetano,l\u00edder,budismo",
-            "recuweb_url": "http://es.recuweb.com/budismo/elperiodico.com.gt/2015/04/el-budismo-es-una-religi%C3%B3n-humanista-%C3%A1lvaro-montenegro-elperi%C3%B3dico-guatemala",
+        "ntrzacatecas.com/2015/04/budismo-milenaria-historia-de-se%C3%BAl": {
+            "title": "Budismo, milenaria historia de Se\u00fal...",
+            "snippet": "Se\u00fa historia de Corea Budista ha guiado la ideolog\u00eda del pueblo coreano durante m\u00e1s de mil 700 a\u00f1os y hoy tiene m\u00e1s de tres mil templos en toda Corea y 12 mil monjes y monjas que se dedican a la pr\u00e1ctica y ense\u00f1anza del budismo. La orden...",
+            "date": "2015-04-25",
+            "categories": "budismo",
+            "tags": "mil,mil-monjes,monjes,pr\u00e1ctica,tiene,tres,tres-mil,tres-mil-templos,mil-templos,templos,guiado,guiado-la-ideolog\u00eda,ideolog\u00eda,ideolog\u00eda-del-pueblo,pueblo,pueblo-coreano,pueblo-coreano-durante,coreano,coreano-durante,durante,corea,corea_budista,budista,historia,milenaria,milenaria-historia,budismo,se\u00fal",
+            "recuweb_url": "http://es.recuweb.com/budismo/ntrzacatecas.com/2015/04/budismo-milenaria-historia-de-se%C3%BAl",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://ntrzacatecas.com/2015/04/25/budismo-milenaria-historia-de-seul/"
+        },
+        "pulsoslp.com.mx/2015/04/budismo-milenaria-historia-de-se%C3%BAl-pulso-san-luis": {
+            "title": "Budismo, milenaria historia de Se\u00fal - Pulso de San Luis...",
+            "snippet": "Pulso de San LuisBudismo, milenaria historia de Se\u00falPulso de San Luis50425040 La historia de Corea Budista ha guiado la ideolog\u00eda del pueblo coreano durante m\u00e1s de mil 700 a\u00f1os y hoy tiene m\u00e1s de tres mil templos en toda Corea y 12 mil monjes y...",
+            "date": "2015-04-25",
+            "categories": "budismo",
+            "tags": "mil,mil-monjes,monjes,tiene,tres,tres-mil,tres-mil-templos,mil-templos,templos,guiado,guiado-la-ideolog\u00eda,ideolog\u00eda,ideolog\u00eda-del-pueblo,pueblo,pueblo-coreano,pueblo-coreano-durante,coreano,coreano-durante,durante,corea,corea_budista,budista,historia,milenaria,milenaria-historia,budismo,se\u00fal",
+            "recuweb_url": "http://es.recuweb.com/budismo/pulsoslp.com.mx/2015/04/budismo-milenaria-historia-de-se%C3%BAl-pulso-san-luis",
             "resource_url": "http://news.google.es/?hl=es&q=budismo&output=atom&nord=1",
-            "source_url": "http://elperiodico.com.gt/es/20150412/domingo/11093/El-budismo-es-una--religi\u00f3n-humanista\u201d--\u00c1lvaro-Montenegro.htm"
+            "source_url": "http://pulsoslp.com.mx/2015/04/25/budismo-milenaria-historia-de-seul/"
+        },
+        "internacional.elpais.com/2015/04/tr%C3%A1gico-golpe-a-una-de-las-cunas-la-humanidad": {
+            "title": "Tr\u00e1gico golpe a una de las cunas de la humanidad...",
+            "snippet": "Desde un punto de vista espiritual, el valle es el resultado de la fusi\u00f3n del hinduismo y el budismo, que, al parecer, encontraron su punto de perfecta fusi\u00f3n en las elevadas pr\u00e1cticas espirituales del tantrismo, com\u00fan a ambas tradiciones...",
+            "date": "2015-04-25",
+            "categories": "hinduismo,budismo",
+            "tags": "pr\u00e1cticas,espiritual,tantrismo,hinduismo,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/internacional.elpais.com/2015/04/tr%C3%A1gico-golpe-a-una-de-las-cunas-la-humanidad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://internacional.elpais.com/internacional/2015/04/25/actualidad/1429979414_169405.html"
+        },
+        "canarias7.es/2015/04/el-dr-negr%C3%ADn-acoge-un-seminario-sobre-c%C3%B3mo-afrontar-situaciones-dif%C3%ADciles": {
+            "title": "El Dr. Negr\u00edn acoge un seminario sobre c\u00f3mo afrontar situaciones dif\u00edciles y dolorosas...",
+            "snippet": "Fue impartido por Tenzin Wangyal Rinpoche, quien comparti\u00f3 con los profesionales la aplicaci\u00f3n de la pr\u00e1ctica del budismo B\u00f6n y su trabajo directo con el dolor y el sufrimiento. El Auditorio del Hospital Universitario de Gran Canaria Dr.",
+            "date": "2015-04-24",
+            "categories": "budismo",
+            "tags": "pr\u00e1ctica,c\u00f3mo,budismo",
+            "recuweb_url": "http://es.recuweb.com/budismo/canarias7.es/2015/04/el-dr-negr%C3%ADn-acoge-un-seminario-sobre-c%C3%B3mo-afrontar-situaciones-dif%C3%ADciles",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=budismo&format=RSS&cc=es",
+            "source_url": "http://canarias7.es/articulo.cfm?Id=373364"
         }
     }
 }

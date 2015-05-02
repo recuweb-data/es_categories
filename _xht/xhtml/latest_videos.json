@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xhtml",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xhtml/",
@@ -35,9 +35,21 @@
             "source_url": "http://youtube.com/watch?v=nS96xSzFL2w&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/nS96xSzFL2w/0.jpg"
         },
+        "youtube.com/2012/10/curso-de-xhtml-aula-2": {
+            "title": "curso de xhtml - aula 2 de xhtml...",
+            "snippet": "curso de xhtml - aula 2 de xhtml Temas abordados: Tags b\u00e1sicas, t\u00edtulos, paragrafos, e tags de formata\u00e7\u00e3o de textos. Tags: h1 \u00e1 h6, p, br, hr, strong, b, i, em, big, small, sub, sup, ins, del, code, pre, abbr, acronym,... From: Welison Menezes...",
+            "date": "2012-10-18",
+            "author_name": "Welison Menezes",
+            "categories": "xhtml",
+            "tags": "xhtml,curso",
+            "recuweb_url": "http://es.recuweb.com/xhtml/youtube.com/2012/10/curso-de-xhtml-aula-2",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=mEhCnM_va-0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/mEhCnM_va-0/0.jpg"
+        },
         "youtube.com/2012/08/creaci%C3%B3n-de-una-p%C3%A1gina-web-en-xhtml-y-css-parte-1": {
             "title": "Creaci\u00f3n de una p\u00e1gina web en XHTML y CSS (parte 1)...",
-            "snippet": "Creaci\u00f3n de una p\u00e1gina web en XHTML y CSS (parte 1) En este video crearemos un layout para una p\u00e1gina web en XHTML y CSS, los cuales son las bases para HTML5. El curso de XHTML lo puedes encontrar en: From: Daimonikos Views: 493 2 ratings Time:...",
+            "snippet": "Creaci\u00f3n de una p\u00e1gina web en XHTML y CSS (parte 1) En este video crearemos un layout para una p\u00e1gina web en XHTML y CSS, los cuales son las bases para HTML5. El curso de XHTML lo puedes encontrar en: From: Daimonikos Views: 497 2 ratings Time:...",
             "date": "2012-08-29",
             "author_name": "Daimonikos",
             "categories": "xhtml,css,html",
@@ -53,23 +65,11 @@
             "date": "2012-04-11",
             "author_name": "CasaMadrugada",
             "categories": "google,facebook,xhtml,css",
-            "tags": "google,google_facebook,facebook,subscribete,canal,tutorial,tutorial_xhtml,xhtml,css,crear,casamadrugada,education",
+            "tags": "tutorial,xhtml,css,crear,education",
             "recuweb_url": "http://es.recuweb.com/css/youtube.com/2012/04/tutorial-xhtml-y-css-51-crear-un-menu-con-sub",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=9Hluvc0iJ3Y&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/9Hluvc0iJ3Y/0.jpg"
-        },
-        "youtube.com/2011/12/tutorial-xhtml-y-css-1-introduccion-e-instalacion-notepad": {
-            "title": "Tutorial XHTML y CSS - 1 - Introduccion e Instalacion Notepad...",
-            "snippet": "Tutorial XHTML y CSS - 1 - Introduccion e Instalacion Notepad Que es HTML XHTML para que se utiliza y como instalar Notepad Subscribete a nuestro canal. Google Facebook From: CasaMadrugada Views: 8925 44 ratings Time: 03:47 More in Education...",
-            "date": "2011-12-18",
-            "author_name": "CasaMadrugada",
-            "categories": "google,facebook,html,xhtml,css",
-            "tags": "google,google_facebook,facebook,canal,subscribete,html,xhtml,tutorial,tutorial_xhtml,css,introduccion,casamadrugada,education",
-            "recuweb_url": "http://es.recuweb.com/css/youtube.com/2011/12/tutorial-xhtml-y-css-1-introduccion-e-instalacion-notepad",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=qYlpu5wpSak&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/qYlpu5wpSak/0.jpg"
         },
         "youtube.com/2011/08/introduccion-al-xhtml-001": {
             "title": "Introduccion al XHTML (001)...",
@@ -77,7 +77,7 @@
             "date": "2011-08-28",
             "author_name": "Guido Mendoza",
             "categories": "conocimiento,lenguaje,xhtml",
-            "tags": "lenguaje,xhtml,introduccion",
+            "tags": "lenguaje,xhtml",
             "recuweb_url": "http://es.recuweb.com/xhtml/youtube.com/2011/08/introduccion-al-xhtml-001",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=xhtml%2Bxhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=m6sywTjueSA&feature=youtube_gdata",

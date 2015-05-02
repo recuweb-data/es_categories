@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-apple",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-apple/",
@@ -11,15 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/blogs.json"
     },
     "items": {
-        "noticias.terra.com/2015/04/deshacen-un-apple-watch-para-conocer-sus-entra%C3%B1as": {
-            "title": "Deshacen un Apple Watch para conocer sus entra\u00f1as -...",
-            "snippet": "un Apple Watch para conocer sus entra\u00f1 las dificultades por las que pasaron los expertos de iFixit para desarmar el ponible, aparecen serias dudas sobre su capacidad de actualizar su hardware en el futuro. \"Recomendamos considerar esto antes de...",
-            "date": "2015-04-24",
+        "blogs.wsj.com/2015/04/apple-earnings-what-to-watch-wall-street-journal-blog": {
+            "title": "Apple Earnings: What to Watch - Wall Street Journal (blog)...",
+            "snippet": "Wall Street Journal (blog)Apple Earnings: What to WatchWall Street Journal (blog)WATCH FOR THIS: Apple's first all-new hardware product in five years started shipping on Friday after accepting pre-orders for two weeks. Chief Executive Tim Cook could...",
+            "date": "2015-04-27",
             "categories": "hardware",
-            "tags": "antes,apple,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/noticias.terra.com/2015/04/deshacen-un-apple-watch-para-conocer-sus-entra%C3%B1as",
+            "tags": "started,apple,this,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/blogs.wsj.com/2015/04/apple-earnings-what-to-watch-wall-street-journal-blog",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://blogs.wsj.com/digits/2015/04/26/apple-earnings-what-to-watch-6/"
+        },
+        "hothardware.com/2015/04/apple-watch-review-is-it-hot-hardware": {
+            "title": "Apple Watch Review, Is It Hot Hardware? - Hot Hardware...",
+            "snippet": "Hot HardwareApple Watch Review, Is It Hot Hardware?Hot HardwareApple's first entrant into the smartwatch world has arrived, and with more fanfare than any of the rivals that have shipped before it. Part of that is simply because it's an Apple...",
+            "date": "2015-04-27",
+            "categories": "hardware",
+            "tags": "smart,hardware,apple",
+            "recuweb_url": "http://es.recuweb.com/hardware/hothardware.com/2015/04/apple-watch-review-is-it-hot-hardware",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://hothardware.com/Reviews/apple-watch-review"
+        },
+        "heise.de/2015/04/apple-watch-neue-details-zur-hardware-mac-&": {
+            "title": "Apple Watch: Neue Details zur Hardware - Mac & i...",
+            "snippet": "Mac & iApple Watch: Neue Details zur HardwareMac & iIm Rahmen diverser Zerlegungsversuche der seit dem vergangenen Freitag verf\u00fcgbaren Apple Watch kommen weitere Details zur Hardware ans Licht. So scheint die Uhr neben einem Herzfrequenzmesser auch...",
+            "date": "2015-04-27",
+            "categories": "hardware",
+            "tags": "apple,hardware,mac",
+            "recuweb_url": "http://es.recuweb.com/hardware/heise.de/2015/04/apple-watch-neue-details-zur-hardware-mac-&",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://heise.de/mac-and-i/meldung/Apple-Watch-Neue-Details-zur-Hardware-2622233.html"
+        },
+        "techcrunch.com/2015/04/apple-s-61m-iphone-sales-lead-q2-2015-hardware-performance-techcrunch": {
+            "title": "Apple's 61M iPhone Sales Lead Q2 2015 Hardware Performance - TechCrunch...",
+            "snippet": "TechCrunchApple's 61M iPhone Sales Lead Q2 2015 Hardware PerformanceTechCrunchApple's iPhone 6 and 6 Plus continue their hit parade, building on on massive first quarter of 2015 with a very strong second quarter total of 61.2 million handsets sold.",
+            "date": "2015-04-27",
+            "categories": "hardware,iphone",
+            "tags": "hardware,iphone,apple",
+            "recuweb_url": "http://es.recuweb.com/iphone/techcrunch.com/2015/04/apple-s-61m-iphone-sales-lead-q2-2015-hardware-performance-techcrunch",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://noticias.terra.com/tecnologia/desarman-apple-watch-para-conocerlo-mejor,2c93ec18d273d0e8304f2de716f09129uty1RCRD.html"
+            "source_url": "http://techcrunch.com/2015/04/27/apples-iphone-sales-q2-2015/"
+        },
+        "radar.oreilly.com/2015/04/google-s-physical-web-vs-apple-ibeacon-o-reilly-radar": {
+            "title": "Google's Physical Web vs Apple's iBeacon - O'Reilly Radar...",
+            "snippet": "Google's Physical Web vs Apple's iBeaconO'Reilly RadarProvided a certification program to enable hardware manufacturers to create iBeacon-compatible hardware. This allows third-party manufacturers to provide iBeacon-compatible hardware of all...",
+            "date": "2015-04-27",
+            "categories": "radar,google,hardware",
+            "tags": "google,apple,hardware,this",
+            "recuweb_url": "http://es.recuweb.com/hardware/radar.oreilly.com/2015/04/google-s-physical-web-vs-apple-ibeacon-o-reilly-radar",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://radar.oreilly.com/2015/04/googles-physical-web-vs-apples-ibeacon.html"
+        },
+        "dayherald.com/2015/04/apple-ipad-mini-4-hardware-speculations-and-price-rumors-day-herald": {
+            "title": "Apple iPad Mini 4 Hardware Speculations and Price Rumors... - Day Herald...",
+            "snippet": "Day HeraldApple iPad Mini 4 Hardware Speculations and Price Rumors...Day HeraldCurrently, Apple's upcoming mega tablet, the Apple iPad Pro has been the major topic of discussion. At the same time, the Apple iPad Mini 4 has started garnering global...",
+            "date": "2015-04-26",
+            "categories": "ipad,hardware",
+            "tags": "started,ipad,hardware,mini,apple",
+            "recuweb_url": "http://es.recuweb.com/hardware/dayherald.com/2015/04/apple-ipad-mini-4-hardware-speculations-and-price-rumors-day-herald",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
+            "source_url": "http://dayherald.com/apple-ipad-mini-4-hardware-speculations-and-price-rumors-reports-indicate-slimmest-tablet-with-a9-processor/2104/"
         },
         "military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies": {
             "title": "Technology Hardware, Storage and Peripherals Stocks Review... - Military Technologies...",
@@ -31,16 +81,6 @@
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
             "source_url": "http://military-technologies.net/2015/04/24/technology-hardware-storage-and-peripherals-stocks-review-apple-hewlett-packard-sandisk-seagate-technology-and-qlogic/"
         },
-        "es.gizmodo.com/2015/04/la-app-store-del-apple-watch-ya-est%C3%A1-disponible": {
-            "title": "La App Store del Apple Watch ya est\u00e1 disponible, con m\u00e1s de... - Gizmodo en Espa\u00f1ol...",
-            "snippet": "Gizmodo en Espa\u00f1olLa App Store del Apple Watch ya est\u00e1 disponible, con m\u00e1s de...Gizmodo en Espa\u00f1olPero Apple siempre ha hecho mucho \u00e9nfasis en la importancia del software m\u00e1s all\u00e1 del hardware en sus dispositivos, por lo que esta vez un alud...",
-            "date": "2015-04-23",
-            "categories": "hardware",
-            "tags": "software,apple,espa\u00f1ol,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/es.gizmodo.com/2015/04/la-app-store-del-apple-watch-ya-est%C3%A1-disponible",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://es.gizmodo.com/la-app-store-del-apple-watch-ya-esta-disponible-con-ma-1699810164"
-        },
         "liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-etc-liliputing": {
             "title": "YouTube drops support for older hardware (Apple TV, Google TV etc) - Liliputing...",
             "snippet": "LiliputingYouTube drops support for older hardware (Apple TV, Google TV etc)LiliputingOverall this is a good reminder of why it's a good idea to spend 30 100 on a smart TV box like a Google Chromecast, Amazon Fire TV, Roku, Apple TV, or Google Nexus...",
@@ -48,7 +88,7 @@
             "categories": "google,hardware",
             "tags": "google,smart,this,hardware,apple",
             "recuweb_url": "http://es.recuweb.com/hardware/liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-etc-liliputing",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
             "source_url": "http://liliputing.com/2015/04/youtube-drops-support-for-older-hardware-apple-tv-google-tv-etc.html"
         },
         "seekingalpha.com/2015/04/apple-linx-acquisition-addresses-a-hardware-risk-aapl-seeking-alpha": {
@@ -58,38 +98,8 @@
             "categories": "hardware,iphone",
             "tags": "this,hardware,apple,aapl,iphone",
             "recuweb_url": "http://es.recuweb.com/iphone/seekingalpha.com/2015/04/apple-linx-acquisition-addresses-a-hardware-risk-aapl-seeking-alpha",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple&output=atom&nord=1",
             "source_url": "http://seekingalpha.com/article/3077676-apple-linx-acquisition-addresses-a-hardware-risk"
-        },
-        "unocero.com/2015/04/la-wwdc-2015-de-apple-ya-tiene-fechas-qu%C3%A9-habr%C3%A1-nuevo": {
-            "title": "La WWDC 2015 de Apple ya tiene fechas \u00bfqu\u00e9 habr\u00e1 de nuevo?",
-            "snippet": "En cuanto a hardware, Apple podr\u00eda presentar la tan rumorada versi\u00f3n pro del iPad, con una pantalla cercana a las 12 pulgadas de tama\u00f1o; y una renovada iPad Mini. Como cada a\u00f1o, y tal como sucede con otros eventos de desarrolladores como Google...",
-            "date": "2015-04-14",
-            "categories": "hardware,ipad,google",
-            "tags": "apple,hardware,ipad,mini,google",
-            "recuweb_url": "http://es.recuweb.com/google/unocero.com/2015/04/la-wwdc-2015-de-apple-ya-tiene-fechas-qu%C3%A9-habr%C3%A1-nuevo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bapple&format=RSS&cc=es",
-            "source_url": "http://unocero.com/2015/04/14/la-wwdc-2015-de-apple-ya-tiene-fechas/"
-        },
-        "zdnet.com/2015/04/survey-is-apple-your-go-to-hardware-provider-zdnet": {
-            "title": "Survey: Is Apple your go-to hardware provider? - ZDNet...",
-            "snippet": "ZDNetSurvey: Is Apple your go-to hardware provider?ZDNetApple has quietly changed from being shunned in the enterprise to become one of the most popular vendors for end-user hardware within organizations. The ease of use of products such as the...",
-            "date": "2015-04-14",
-            "categories": "hardware",
-            "tags": "most,apple,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/zdnet.com/2015/04/survey-is-apple-your-go-to-hardware-provider-zdnet",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://zdnet.com/article/survey-is-apple-your-go-to-hardware-provider/"
-        },
-        "slashgear.com/2015/04/apple-vs-android-winning-in-hardware-software-slashgear": {
-            "title": "Apple vs Android: winning in hardware, winning in software - SlashGear...",
-            "snippet": "SlashGearApple vs Android: winning in hardware, winning in softwareSlashGearWhile Apple wins in Hardware in the United States, Android wins in software. So says the most recent report on smart device usage in the United States. This week comScore...",
-            "date": "2015-04-10",
-            "categories": "hardware",
-            "tags": "most,smart,software,apple,hardware,this",
-            "recuweb_url": "http://es.recuweb.com/hardware/slashgear.com/2015/04/apple-vs-android-winning-in-hardware-software-slashgear",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bapple%2Bhardware%2Bapple&output=atom&nord=1",
-            "source_url": "http://slashgear.com/apple-vs-android-winning-in-hardware-winning-in-software-10378447/"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-ibm",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-ibm/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/blogs.json"
     },
     "items": {
-        "lavidacarcax.blogspot.com/2015/04/ibm-gana-un-2-3%-menos-por-el-litigio": {
-            "title": "IBM gana un 2,3% menos por el litigio de las pensiones en Espa\u00f1a...",
-            "snippet": "Seg\u00fan este objetivo, se puede ver que Rometty pretende rejuvenecer lo que queda del negocio de hardware de IBM para que no perjudique sus cuentas, como hizo en 2014. Cristina Mart\u00edn.",
+        "jec.cl/2015/04/en-la-%C3%BAltima-reinvenci%C3%B3n-de-ibm-lo-nuevo-a%C3%BAn-no-reemplaza": {
+            "title": "En la \u00faltima reinvenci\u00f3n de IBM, lo nuevo a\u00fan no reemplaza... -...",
+            "snippet": "Su desaf\u00edo es rejuvenecer lo que queda del negocio de hardware de IBM, como la recientemente reconstruida operaci\u00f3n de mainframe para transacciones m\u00f3viles. El hardware era el alma original de esta compa\u00f1\u00eda,...",
             "date": "2015-04-21",
-            "author_name": "Vicente Oltra Climent",
+            "author_name": "EL MERCURIO",
             "categories": "hardware",
-            "tags": "rejuvenecer,queda,queda-del-negocio,negocio,ibm,rometty,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/lavidacarcax.blogspot.com/2015/04/ibm-gana-un-2-3%-menos-por-el-litigio",
+            "tags": "compa\u00f1\u00eda,recientemente,recientemente-reconstruida,recientemente-reconstruida-operaci\u00f3n,reconstruida,reconstruida-operaci\u00f3n,operaci\u00f3n,operaci\u00f3n-de-mainframe,mainframe,mainframe-para-transacciones,transacciones,desaf\u00edo,desaf\u00edo-es-rejuvenecer,rejuvenecer,queda,queda-del-negocio,negocio,reemplaza,reinvenci\u00f3n,\u00fal,ibm,nuevo,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/jec.cl/2015/04/en-la-%C3%BAltima-reinvenci%C3%B3n-de-ibm-lo-nuevo-a%C3%BAn-no-reemplaza",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lavidacarcax.blogspot.com/2015/04/ibm-gana-un-23-menos-por-el-litigio-de.html"
+            "source_url": "http://jec.cl/articulos/?p=61593"
         },
         "siliconnews.es/2015/03/vodafone-e-ibm-inician-un-proyecto-de-ciudades-conectadas": {
             "title": "Vodafone e IBM inician un proyecto de 'ciudades conectadas'en...",
@@ -33,13 +33,24 @@
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://siliconnews.es/2015/03/04/vodafone-e-ibm-inician-un-proyecto-de-ciudades-conectadas-en-andalucia/"
         },
+        "enbytes.com/2015/02/ibm-emprende-importante-reorganizaci%C3%B3n-en-bytes": {
+            "title": "IBM emprende importante reorganizaci\u00f3n En Bytes...",
+            "snippet": "La organizaci\u00f3n de IBM, tradicionalmente estructurada en torno a hardware, software y servicios, ha sido puesta a prueba con el r\u00e1pido cambio que representa la insurgencia del modelo de computaci\u00f3n de nube, que no s\u00f3lo...",
+            "date": "2015-02-23",
+            "author_name": "Froilan Fernandez",
+            "categories": "hardware",
+            "tags": "computaci\u00f3n,nube,servicios,ibm,hardware,software",
+            "recuweb_url": "http://es.recuweb.com/hardware/enbytes.com/2015/02/ibm-emprende-importante-reorganizaci%C3%B3n-en-bytes",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://enbytes.com/site/2015/02/23/ibm-emprende-importante-reorganizacion/"
+        },
         "technologyreview.es/2014/11/watsoncito-hacia-d%C3%B3nde-debe-ibm-redirigir-su-negocio": {
             "title": "Watsoncito, Watsoncito, \u00bfhacia d\u00f3nde debe IBM redirigir su negocio...",
             "snippet": "A medida que los baratos servicios de computaci\u00f3n en la nube erosionan a una velocidad alarmante el tradicional negocio de hardware de IBM, la empresa se enfrenta a un futuro incierto. Ojal\u00e1 dispusieran de alguna...",
             "date": "2014-11-07",
             "author_name": "desconocido",
             "categories": "hardware",
-            "tags": "alguna,empresa,futuro,servicios,nube,negocio,ibm,hardware",
+            "tags": "alguna,empresa,futuro,servicios,computaci\u00f3n,nube,negocio,ibm,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/technologyreview.es/2014/11/watsoncito-hacia-d%C3%B3nde-debe-ibm-redirigir-su-negocio",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://technologyreview.es/informatica/46402/"
@@ -50,7 +61,7 @@
             "date": "2014-10-11",
             "author_name": "JuanMaRebes",
             "categories": "hardware,java",
-            "tags": "alguna,recientemente,blue,hardware,futuro,ibm",
+            "tags": "alguna,recientemente,big,big_blue,blue,hardware,futuro,ibm",
             "recuweb_url": "http://es.recuweb.com/java/planetoideit.wordpress.com/2014/10/capi-java-y-el-futuro-de-ibm-en-hardware-blog-juanma",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://planetoideit.wordpress.com/2014/10/11/capi-java-y-el-futuro-de-ibm-en-hardware/"
@@ -72,7 +83,7 @@
             "date": "2014-05-14",
             "author_name": "Stephany Cuevas",
             "categories": "hardware",
-            "tags": "espera,negocio,estabilice,servicios,espera-que-negocio,ibm,hardware,financiero",
+            "tags": "espera,negocio,estabilice,servicios,compa\u00f1\u00eda,espera-que-negocio,ibm,hardware,financiero",
             "recuweb_url": "http://es.recuweb.com/hardware/elfinanciero.com.mx/2014/05/ibm-espera-que-negocio-de-hardware-se-estabilice-el-financiero",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elfinanciero.com.mx/empresas/ibm-espera-que-negocio-de-hardware-se-estabilice.html"
@@ -105,21 +116,10 @@
             "date": "2014-04-17",
             "author_name": "ulapisa",
             "categories": "hardware,internet",
-            "tags": "per,quarter,ibm,earnings,hardware,cloud",
+            "tags": "sales,quarter,earnings,ibm,hardware,cloud",
             "recuweb_url": "http://es.recuweb.com/internet/ulapisa.wordpress.com/2014/04/ibm-earnings-slump-21%-in-q1-on-weak-hardware-sales",
             "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bibm%2Bhardware%2Bibm&f=feed&page=1",
             "source_url": "http://ulapisa.wordpress.com/2014/04/17/ibm-earnings-slump-21-in-q1-on-weak-hardware-sales/"
-        },
-        "diarioti.com/2013/08/ibm-desarrolla-arquitectura-de-hardware-basada-en-el-cerebro": {
-            "title": "IBM desarrolla arquitectura de hardware basada en el cerebro...",
-            "snippet": "IBM desarrolla arquitectura de hardware basada en el cerebro. Hasta ahora, la creaci\u00f3n de una versi\u00f3n digital del cerebro humano ha sido un tema relegado al \u00e1mbito de la ciencia ficci\u00f3n. Diario TI 09/08/13 10:05:33. Durante a\u00f1os, los...",
-            "date": "2013-08-09",
-            "author_name": "hlpg1965WP",
-            "categories": "ciencia,hardware",
-            "tags": "ibm,hardware,durante",
-            "recuweb_url": "http://es.recuweb.com/hardware/diarioti.com/2013/08/ibm-desarrolla-arquitectura-de-hardware-basada-en-el-cerebro",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diarioti.com/ibm-desarrolla-arquitectura-de-hardware-basada-en-el-cerebro/66989"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servidor-http-apache",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servidor-http-apache/",
@@ -11,20 +11,30 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/servidor-http-apache/servidor-http-apache/blogs.json"
     },
     "items": {
-        "idgnow.com.br/2015/03/um-ter%C3%A7o-dos-sites-%C3%A9-vulner%C3%A1vel-ou-j%C3%A1-foi-hackeado-diz": {
-            "title": "Um ter\u00e7o dos sites \u00e9 vulner\u00e1vel ou j\u00e1 foi hackeado, diz pesquisa - IDG Now!",
-            "snippet": "Um ter\u00e7o dos sites \u00e9 vulner\u00e1vel ou j\u00e1 foi hackeado, diz pesquisaIDG Now!Outros 8% est\u00e3o rodando software de servidor web vulner\u00e1vel, dividido uniformemente entre Apache e IIS. Cerca de 2% dos sites rodam sistemas de gerenciamento de conte\u00fado...",
-            "date": "2015-03-25",
-            "tags": "dos,servidor,web,apache,iis",
-            "recuweb_url": "http://es.recuweb.com/idgnow.com.br/2015/03/um-ter%C3%A7o-dos-sites-%C3%A9-vulner%C3%A1vel-ou-j%C3%A1-foi-hackeado-diz",
+        "info.abril.com.br/2015/04/programa-que-roda-siri-tem-mesmo-nome-do-assistente-pessoal-info": {
+            "title": "Programa que roda Siri tem mesmo nome do assistente pessoal do... - Info Online...",
+            "snippet": "que roda Siri tem mesmo nome do assistente pessoal do...Info OnlineDurante um encontro na sede da empresa, na Calif\u00f3rnia, os desenvolvedores da Apple detalharam o funcionamento do software Apache Mesos, que equipa os servidores que rodam a Siri. O...",
+            "date": "2015-04-27",
+            "tags": "servidores,rodam,apache,software,programa",
+            "recuweb_url": "http://es.recuweb.com/info.abril.com.br/2015/04/programa-que-roda-siri-tem-mesmo-nome-do-assistente-pessoal-info",
             "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
-            "source_url": "http://idgnow.com.br/internet/2015/03/25/um-terco-dos-sites-e-vulneravel-ou-ja-foi-hackeado-diz-pesquisa/"
+            "source_url": "http://info.abril.com.br/noticias/tecnologia-pessoal/2015/04/programa-que-roda-siri-e-batizado-com-o-mesmo-nome-do-assistente-pessoal-do-homem-de-ferro.shtml"
+        },
+        "observatoriodaimprensa.com.br/2015/04/elio-gaspari-observatorio-da-imprensa": {
+            "title": "Elio Gaspari - Observatorio Da Imprensa...",
+            "snippet": "Elio GaspariObservatorio Da ImprensaOito em cada dez servidores de mensagens eletr\u00f4nicas rodam o software livre BIND. Dois ter\u00e7os dos s\u00edtios da internet usam o Apache, gr\u00e1tis como chuva. A National Security Agency, certamente o neg\u00f3cio mais...",
+            "date": "2015-04-09",
+            "categories": "internet",
+            "tags": "mais,national,dos,servidores,rodam,software,livre,apache",
+            "recuweb_url": "http://es.recuweb.com/internet/observatoriodaimprensa.com.br/2015/04/elio-gaspari-observatorio-da-imprensa",
+            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
+            "source_url": "http://observatoriodaimprensa.com.br/entre-aspas/elio_gaspari__27239/"
         },
         "canaltech.com.br/2014/10/o-que-%C3%A9-servidor-apache-canaltech": {
             "title": "O que \u00e9 servidor Apache? - Canaltech...",
             "snippet": "O que \u00e9 servidor Apache?CanaltechCriado em 1995 por Rob McCool, na \u00e9poca funcion\u00e1rio da NCSA (National Center for Supercomputing Applications), o servidor Apache ou Servidor HTTP Apache \u00e9 o mais bem sucedido servidor web livre que existe.",
             "date": "2014-10-24",
-            "tags": "servidor,http,apache,web",
+            "tags": "livre,mais,servidor,servidor-http,http,national,apache,web",
             "recuweb_url": "http://es.recuweb.com/canaltech.com.br/2014/10/o-que-%C3%A9-servidor-apache-canaltech",
             "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
             "source_url": "http://canaltech.com.br/o-que-e/internet/O-que-e-servidor-Apache/"
@@ -34,19 +44,10 @@
             "snippet": "Servidor HTTP Apache: Los mejores desarrolladoresNeoTeoEn este art\u00edculo de los mejores desarrolladores, hablaremos del Servidor Web HTTP Apache que desde su lanzamiento en el a\u00f1o 1995, no solo cambio el mundo de la navegaci\u00f3n en la red (mediante...",
             "date": "2014-09-13",
             "categories": "servidor-http-apache",
-            "tags": "servidor,servidor_web,web,http,http_apache,apache,mediante",
+            "tags": "servidor,servidor_web,web,http,http_apache,apache",
             "recuweb_url": "http://es.recuweb.com/servidor-http-apache/neoteo.com/2014/09/servidor-http-apache-los-mejores-desarrolladores-neoteo",
-            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
             "source_url": "http://neoteo.com/servidor-http-apache-los-mejores-desarrolladores/"
-        },
-        "muycomputer.com/2013/08/sucumbir%C3%A1-apache-a-iis-como-nestcape-ie-muycomputer": {
-            "title": "\u00bfSucumbir\u00e1 Apache a IIS como Nestcape a IE? - MuyComputer...",
-            "snippet": "MuyComputer\u00bfSucumbir\u00e1 Apache a IIS como Nestcape a IE?MuyComputerEl servidor HTTP de c\u00f3digo abierto Apache, el m\u00e1s popular del mercado desde los albores de la era Web, ha ca\u00eddo por primera vez desde 2009 del 50 por ciento de cuota de mercado,...",
-            "date": "2013-08-14",
-            "tags": "apache,iis,servidor,http,c\u00f3digo,abierto,web",
-            "recuweb_url": "http://es.recuweb.com/muycomputer.com/2013/08/sucumbir%C3%A1-apache-a-iis-como-nestcape-ie-muycomputer",
-            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
-            "source_url": "http://muycomputer.com/2013/08/14/apache-a-iis-servidor-web"
         },
         "unaaldia.hispasec.com/2012/08/dos-vulnerabilidades-en-el-servidor-web-apache-hispasec": {
             "title": "Dos vulnerabilidades en el servidor web Apache - Hispasec...",
@@ -65,6 +66,15 @@
             "recuweb_url": "http://es.recuweb.com/unaaldia.hispasec.com/2012/04/nueva-versi%C3%B3n-de-apache-http-server-hispasec",
             "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2012/04/nueva-version-de-apache-http-server.html"
+        },
+        "muylinux.com/2012/02/apache-2-4-llega-seis-a%C3%B1os-despu%C3%A9s-de-la-%C3%BAltima-versi%C3%B3n": {
+            "title": "Apache 2.4 llega seis a\u00f1os despu\u00e9s de la \u00faltima versi\u00f3n estable - MuyLinux...",
+            "snippet": "Apache 2.4 llega seis a\u00f1os despu\u00e9s de la \u00faltima versi\u00f3n estableMuyLinuxY como comentan en MuyComputerPRO, la Apache Software Foundation ha liberado la primera gran actualizaci\u00f3n en seis a\u00f1os del servidor web HTTP multiplataforma de c\u00f3digo...",
+            "date": "2012-02-22",
+            "tags": "software,versi\u00f3n,apache,servidor,web,http,c\u00f3digo",
+            "recuweb_url": "http://es.recuweb.com/muylinux.com/2012/02/apache-2-4-llega-seis-a%C3%B1os-despu%C3%A9s-de-la-%C3%BAltima-versi%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
+            "source_url": "http://muylinux.com/2012/02/22/apache-2-4-llega-seis-anos-despues-de-la-ultima-version-estable"
         },
         "genbeta.com/2012/02/apache-http-server-2-4-ya-disponible-con-mejoras-generales": {
             "title": "Apache HTTP Server 2.4 ya disponible con mejoras generales de... - Genbeta (blog)...",

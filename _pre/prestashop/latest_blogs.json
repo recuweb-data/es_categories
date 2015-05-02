@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "prestashop",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/prestashop/",
@@ -17,7 +17,7 @@
             "date": "2015-04-17",
             "author_name": "Daniel Vazquez",
             "categories": "prestashop",
-            "tags": "datos,son,clientes,importante,prestashop",
+            "tags": "datos,clientes,importante,prestashop,son",
             "recuweb_url": "http://es.recuweb.com/prestashop/informax.es/2015/04/estad%C3%ADsticas-propias-de-prestashop-iii-mantenimiento-informatico",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://informax.es/2015/04/17/estadsticas-propias-de-prestashop-iii/"
@@ -28,7 +28,7 @@
             "date": "2015-04-17",
             "author_name": "desconocido",
             "categories": "prestashop",
-            "tags": "paso,completo,sitio,comercio,comercio-electr\u00f3nico,electr\u00f3nico,vamos,forma,prestashop,cms,ecommerce",
+            "tags": "paso,completo,sitio,servidor,comercio,comercio-electr\u00f3nico,electr\u00f3nico,descargar,instalar,vamos,prestashop,forma,ecommerce",
             "recuweb_url": "http://es.recuweb.com/prestashop/desarrolloweb.com/2015/04/instalaci%C3%B3n-de-prestashop",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/articulos/instalacion-prestashop-servidor.html"
@@ -44,35 +44,13 @@
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javier-valero.es/2015/04/traduce-los-emails-de-prestashop/"
         },
-        "vichaunter.org/2015/04/c%C3%B3mo-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop": {
-            "title": "C\u00f3mo eliminar los datos y pedidos de prueba en Prestashop...",
-            "snippet": "Si te trae de cabeza vamos a ver como eliminar los pedidos de prueba en prestashop y versiones posteriores. A pesar de que vamos a realizarlo en un prestashop 1.6, es verdad que puede servirte para versiones...",
-            "date": "2015-04-14",
-            "author_name": "VicHaunter",
-            "categories": "prestashop",
-            "tags": "puede,vamos,datos,c\u00f3mo,prestashop",
-            "recuweb_url": "http://es.recuweb.com/prestashop/vichaunter.org/2015/04/c%C3%B3mo-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop",
-            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://vichaunter.org/como-se-hace/como-eliminar-los-datos-y-pedidos-de-prueba-en-prestashop-1-6-x-xx"
-        },
-        "informax.es/2015/04/como-borrar-todos-los-productos-en-prestashop-con-pscleaner": {
-            "title": "Como borrar todos los productos en Prestashop con PSCLEANER...",
-            "snippet": "Este es uno de los m\u00f3dulos para Prestashop que m\u00e1s usamos en Informax, ya que al tener tantos cat\u00e1logos de Dropshipping, hay que probarlos todos en nuestros.",
-            "date": "2015-04-10",
-            "author_name": "admin",
-            "categories": "prestashop",
-            "tags": "productos,prestashop,dropshipping",
-            "recuweb_url": "http://es.recuweb.com/prestashop/informax.es/2015/04/como-borrar-todos-los-productos-en-prestashop-con-pscleaner",
-            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informax.es/2015/04/10/como-borrar-todos-los-productos-en-prestashop-con-pscleaner/"
-        },
         "javier-valero.es/2015/03/freelance-experto-en-prestashop-venta-de-plantillas": {
             "title": "Freelance experto en Prestashop venta de plantillas prestashop...",
             "snippet": "Atenci\u00f3n: Haz tu tienda Prestashop Responsive antes del 21 de abril si no quieres que Google penalice tu sitio web, para ello debes de ponerte las pilas.",
             "date": "2015-03-19",
             "author_name": "Javier Valero",
             "categories": "prestashop,google",
-            "tags": "ello,sitio,freelance,prestashop,tienda,google,web",
+            "tags": "sitio,antes,freelance,prestashop,tienda,web",
             "recuweb_url": "http://es.recuweb.com/google/javier-valero.es/2015/03/freelance-experto-en-prestashop-venta-de-plantillas",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javier-valero.es/2015/03/atencion-haz-tu-tienda-prestashop-responsive-antes-del-21-de-abril/"
@@ -83,7 +61,7 @@
             "date": "2015-03-18",
             "author_name": "Juan Paterna",
             "categories": "prestashop,internet",
-            "tags": "comercio,comercio-electr\u00f3nico,electr\u00f3nico,resulta,puede,trav\u00e9s,marketing,prestashop,internet,ecommerce",
+            "tags": "comercio,comercio-electr\u00f3nico,electr\u00f3nico,resulta,puede,marketing,prestashop,internet,ecommerce",
             "recuweb_url": "http://es.recuweb.com/internet/blog-marketing-internet.es/2015/03/prestashop-y-las-campa%C3%B1as-de-marketing-por-mail",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=prestashop%2Bprestashop&rss=1&lng=es",
             "source_url": "http://blog-marketing-internet.es/index.php/2015/03/18/prestashop-y-las-campanas-de-marketing-por-mail/?utm_source=rss&utm_medium=rss&utm_campaign=prestashop-y-las-campanas-de-marketing-por-mail"
@@ -105,21 +83,43 @@
             "date": "2014-12-29",
             "author_name": "joel",
             "categories": "prestashop",
-            "tags": "crear,tiendas,curso,prestashop",
+            "tags": "crear,tiendas,curso,prestashop,pdf",
             "recuweb_url": "http://es.recuweb.com/prestashop/insidenet.es/2014/12/curso-de-prestashop-en-barcelona-tiendas-online-insidenet",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://insidenet.es/curso/prestashop-barcelona/"
         },
-        "colorvivo.com/2014/11/como-integrar-google-analytics-en-prestashop-color-vivo-internet": {
-            "title": "Como integrar Google Analytics en Prestashop Color Vivo Internet...",
-            "snippet": "Para ello prestashop dispone de un m\u00f3dulo que viene por defecto, Google Analytics, muy f\u00e1cil de usar, basta con introducir la ID que nos proporciona Google Analytics a trav\u00e9s de nuestra cuenta de gmail, un c\u00f3digo que...",
-            "date": "2014-11-27",
-            "author_name": "admin",
-            "categories": "prestashop,internet,google",
-            "tags": "trav\u00e9s,muy,f\u00e1cil,defecto,prestashop,internet,google,ello",
-            "recuweb_url": "http://es.recuweb.com/google/colorvivo.com/2014/11/como-integrar-google-analytics-en-prestashop-color-vivo-internet",
+        "aplicacioneswebbfpmislatasmr.wordpress.com/2014/11/como-instalar-prestashop": {
+            "title": "Como instalar PRESTASHOP...",
+            "snippet": "Deberemos bajarnos el.zip de prestashop link: o descomprimimos con unzip y lo movemos al servidor con el comando scp \"Nombre del archivo\":/var/www/html/Prestashop/prestashop pero antes en []...",
+            "date": "2014-11-24",
+            "author_name": "pjavi",
+            "categories": "prestashop,html",
+            "tags": "prestashop,antes,servidor,instalar",
+            "recuweb_url": "http://es.recuweb.com/html/aplicacioneswebbfpmislatasmr.wordpress.com/2014/11/como-instalar-prestashop",
+            "resource_url": "http://es.search.wordpress.com/?q=prestashop%2Bprestashop&f=feed&page=1",
+            "source_url": "http://aplicacioneswebbfpmislatasmr.wordpress.com/2014/11/24/como-instalar-prestashop/"
+        },
+        "jordiob.com/2014/08/ebook-prestashop-seo-m%C3%B3dulos-anal%C3%ADtica-conversi%C3%B3n-y-recursos": {
+            "title": "ebook Prestashop: seo, m\u00f3dulos, anal\u00edtica, conversi\u00f3n y recursos...",
+            "snippet": "Este ebook que puedes descargar en PDF contiene 24 de los posts sobre Prestashop m\u00e1s le\u00eddos y \u00fatiles de mi blog en 53 p\u00e1ginas (no es contenido nuevo, es una recopilaci\u00f3n de esos 24 posts). Cap\u00edtulo 1. SEO. Mejorando el SEO de tu...",
+            "date": "2014-08-20",
+            "author_name": "jordiob",
+            "categories": "prestashop",
+            "tags": "descargar,conversi\u00f3n,prestashop,seo,m\u00f3dulos,puedes,pdf",
+            "recuweb_url": "http://es.recuweb.com/prestashop/jordiob.com/2014/08/ebook-prestashop-seo-m%C3%B3dulos-anal%C3%ADtica-conversi%C3%B3n-y-recursos",
             "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://colorvivo.com/google-analytics-como-activar-la-opcion-de-comercio-electronico-en-prestashop/"
+            "source_url": "http://jordiob.com/ebook-prestashop-seo-modulos-analitica-conversion-y-recursos/"
+        },
+        "klosions.com/2014/05/prestashop-solucionar-problema-con-el-precio-iva-klosions": {
+            "title": "Prestashop: Solucionar problema con el precio con IVA... - Klosions...",
+            "snippet": "Prestashop: Solucionar problema con el precio con IVA en Backoffice. En uno de nuestros clientes, nos hab\u00eda pasado una cosa muy curiosa que queremos aprovechar para documentar y tambi\u00e9n para contestar alguna...",
+            "date": "2014-05-07",
+            "author_name": "lluisvera",
+            "categories": "prestashop",
+            "tags": "muy,clientes,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/klosions.com/2014/05/prestashop-solucionar-problema-con-el-precio-iva-klosions",
+            "resource_url": "http://www.google.com/search?q=prestashop%2Bprestashop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://klosions.com/prestashop-solucionar-problema-con-el-precio-con-iva-en-backoffice/"
         }
     }
 }

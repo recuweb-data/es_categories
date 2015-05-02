@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "telefon\u00eda-m\u00f3vil",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/telefon\u00eda-m\u00f3vil/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/telefon%C3%ADa-m%C3%B3vil/telefon%C3%ADa-m%C3%B3vil/blogs.json"
     },
     "items": {
-        "elmundo.com.sv/2015/04/diario-el-mundo-google-lanza-su-propio-servicio-de-telefon%C3%ADa-m%C3%B3vil": {
-            "title": "Diario El Mundo Google lanza su propio servicio de telefon\u00eda m\u00f3vil...",
-            "snippet": "El gigante de la tecnolog\u00eda Google anunci\u00f3 hoy el lanzamiento de su propio servicio de telefon\u00eda m\u00f3vil en Estados Unidos, que bautiz\u00f3 con el nombre de Project Fi y est\u00e1 disponible de momento solo por invitaci\u00f3n. El servicio...",
-            "date": "2015-04-23",
-            "author_name": "Eduardo Orantes",
-            "categories": "google,tecnologia",
-            "tags": "momento,momento-solo,estados,estados_unidos,unidos,mundo,google,lanza,propio,servicio,telefon\u00eda,m\u00f3vil,gigante,tecnolog\u00eda,anunci\u00f3,lanzamiento,bautiz\u00f3,nombre,project,disponible,invitaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/elmundo.com.sv/2015/04/diario-el-mundo-google-lanza-su-propio-servicio-de-telefon%C3%ADa-m%C3%B3vil",
-            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elmundo.com.sv/google-lanza-su-propio-servicio-de-telefonia-movil/"
-        },
         "quesabesde.com/2015/04/google-se-convierte-en-operador-de-telefon%C3%ADa-m%C3%B3vil-quesabesde": {
             "title": "Google se convierte en operador de telefon\u00eda m\u00f3vil Quesabesde...",
             "snippet": "Google se convierte en operador de telefon\u00eda m\u00f3vil. La compa\u00f1\u00eda ofrecer\u00e1 servicios canalizando voz a trav\u00e9s de conexiones Wi-Fi y devolver\u00e1 dinero a sus clientes a final de mes por los datos que no utilicen...",
             "date": "2015-04-23",
             "author_name": "desconocido",
             "categories": "google",
-            "tags": "utilicen,ofrecer\u00e1,voz,trav\u00e9s,conexiones,operador,google,telefon\u00eda,m\u00f3vil,compa\u00f1\u00eda,clientes,datos",
+            "tags": "datos,conexiones,servicios,operador,google,telefon\u00eda,m\u00f3vil,compa\u00f1\u00eda,voz",
             "recuweb_url": "http://es.recuweb.com/google/quesabesde.com/2015/04/google-se-convierte-en-operador-de-telefon%C3%ADa-m%C3%B3vil-quesabesde",
             "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://quesabesde.com/noticias/google-operador-movil-virtual_13129"
+        },
+        "tecno.americaeconomia.com/2015/04/project-fi-revisa-nuestro-an%C3%A1lisis-del-nuevo-operador-de-telefon%C3%ADa": {
+            "title": "Project Fi: revisa nuestro an\u00e1lisis del nuevo operador de telefon\u00eda...",
+            "snippet": "Google anunci\u00f3 durante este mi\u00e9rcoles su esperado servicio de telefon\u00eda m\u00f3vil, que espera generar un completo cambio en las operadoras dentro de Estados Unidos. Sin embargo, luego de su lanzamiento, comenzaron a...",
+            "date": "2015-04-23",
+            "author_name": "Daniela Z\u00e1rate",
+            "categories": "google",
+            "tags": "estados,estados_unidos,unidos,generar,durante,durante-este-mi\u00e9rcoles,mi\u00e9rcoles,operador,project,telefon\u00eda,google,anunci\u00f3,servicio,m\u00f3vil,operadoras,lanzamiento",
+            "recuweb_url": "http://es.recuweb.com/google/tecno.americaeconomia.com/2015/04/project-fi-revisa-nuestro-an%C3%A1lisis-del-nuevo-operador-de-telefon%C3%ADa",
+            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tecno.americaeconomia.com/resenas/project-fi-revisa-nuestro-analisis-del-nuevo-operador-de-telefonia-movil-de-google"
         },
         "blogthinkbig.com/2015/04/cyanogen-el-pr%C3%B3ximo-gran-actor-de-la-telefon%C3%ADa-m%C3%B3vil-think-big": {
             "title": "Cyanogen, el pr\u00f3ximo gran actor de la telefon\u00eda m\u00f3vil - Think Big...",
@@ -39,81 +39,84 @@
             "date": "2015-04-22",
             "author_name": "Antonio Sab\u00e1n",
             "categories": "telecomunicacion",
-            "tags": "llamado,historia,telecomunicaciones,telefon\u00eda,m\u00f3vil",
+            "tags": "historia,telefon\u00eda,m\u00f3vil,telecomunicaciones",
             "recuweb_url": "http://es.recuweb.com/telecomunicacion/blogthinkbig.com/2015/04/cyanogen-el-pr%C3%B3ximo-gran-actor-de-la-telefon%C3%ADa-m%C3%B3vil-think-big",
             "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogthinkbig.com/historia-de-cyanogen/"
         },
-        "taringa.net/2015/04/google-ofrecer%C3%A1-telefon%C3%ADa-m%C3%B3vil-taringa": {
-            "title": "Google ofrecer\u00e1 telefon\u00eda m\u00f3vil - Taringa!",
-            "snippet": "Google ofrecer\u00e1 telefon\u00eda m\u00f3vil. Fi es el nombre del servicio con el que dar\u00e1 planes de llamadas y datos en la modalidad de operadora virtual, es decir, a trav\u00e9s de redes de terceros. Tendr\u00e1 cobertura en 120 pa\u00edses, incluida...",
+        "omicrono.com/2015/04/el-servicio-de-telefon%C3%ADa-m%C3%B3vil-google-omicrono": {
+            "title": "El servicio de telefon\u00eda m\u00f3vil de Google - Omicrono...",
+            "snippet": "Despu\u00e9s de muchos rumores, se ha confirmado Google Fi, el servicio de telefon\u00eda m\u00f3vil de Google. Google Fi parece ser la evoluci\u00f3n l\u00f3gica de la compa\u00f1\u00eda, despu\u00e9s de ofrecer conexiones de fibra \u00f3ptica en varias ciudades...",
+            "date": "2015-04-22",
+            "author_name": "Adrian Raya",
+            "categories": "google",
+            "tags": "ofrecer,conexiones,varias,rumores,servicio,telefon\u00eda,m\u00f3vil,google,compa\u00f1\u00eda",
+            "recuweb_url": "http://es.recuweb.com/google/omicrono.com/2015/04/el-servicio-de-telefon%C3%ADa-m%C3%B3vil-google-omicrono",
+            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://omicrono.com/2015/04/servicio-de-telefonia-movil-de-google/"
+        },
+        "redusers.com/2015/04/google-anuncia-su-servicio-de-telefon%C3%ADa-m%C3%B3vil-exclusivo-para-nexus": {
+            "title": "Google anuncia su servicio de telefon\u00eda m\u00f3vil exclusivo para Nexus...",
+            "snippet": "Project Fi Nexus 6 La compa\u00f1\u00eda con sede en Mountain View se mete en el mercado de servicios de telefon\u00eda m\u00f3vil con Project Fi, un programa que, por ahora, ser\u00e1 exclusivo para los Estados Unidos. El plan mensual ser\u00e1 de...",
             "date": "2015-04-22",
             "author_name": "desconocido",
             "categories": "google",
-            "tags": "trav\u00e9s,llamadas,google,ofrecer\u00e1,telefon\u00eda,m\u00f3vil,nombre,servicio,datos,operadora,virtual,redes,pa\u00edses",
-            "recuweb_url": "http://es.recuweb.com/google/taringa.net/2015/04/google-ofrecer%C3%A1-telefon%C3%ADa-m%C3%B3vil-taringa",
+            "tags": "estados,estados_unidos,unidos,mercado,servicios,servicio,google,telefon\u00eda,m\u00f3vil,nexus,project,compa\u00f1\u00eda,mountain",
+            "recuweb_url": "http://es.recuweb.com/google/redusers.com/2015/04/google-anuncia-su-servicio-de-telefon%C3%ADa-m%C3%B3vil-exclusivo-para-nexus",
             "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/noticias/18620547/Google-ofrecera-telefonia-movil.html"
+            "source_url": "http://redusers.com/noticias/google-anuncia-su-servicio-de-telefonia-movil-exclusivo-para-nexus-6/"
         },
-        "iies.es/2015/04/la-upm-estudiar%C3%A1-el-reparto-de-alimentos-en-senegal-con-datos": {
-            "title": "La UPM estudiar\u00e1 el reparto de alimentos en Senegal con datos de...",
-            "snippet": "Un equipo liderado por la Universidad Polit\u00e9cnica de Madrid ha recibido una donaci\u00f3n de la Fundaci\u00f3n Bill & Melinda Gates en un concurso mundial organizado por Orange, para utilizar los datos de telefon\u00eda m\u00f3vil en el...",
+        "cnnexpansion.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-m%C3%B3vil-tecnolog%C3%ADa": {
+            "title": "Google lanza servicio de telefon\u00eda m\u00f3vil - Tecnolog\u00eda...",
+            "snippet": "Google lanza servicio de telefon\u00eda m\u00f3vil. El paquete que ofrece permite cambiar de redes, y pagar s\u00f3lo por los datos que usen; el servicio funcionar\u00e1 de inicio s\u00f3lo con los tel\u00e9fonos de la compa\u00f1\u00eda Nexus. Mi\u00e9rcoles, 22 de...",
             "date": "2015-04-22",
-            "author_name": "Redacci\u00f3n IIE",
-            "tags": "datos,madrid,orange,telefon\u00eda,m\u00f3vil",
-            "recuweb_url": "http://es.recuweb.com/iies.es/2015/04/la-upm-estudiar%C3%A1-el-reparto-de-alimentos-en-senegal-con-datos",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "google,tecnologia",
+            "tags": "s\u00f3lo,datos,redes,google,lanza,servicio,telefon\u00eda,m\u00f3vil,tecnolog\u00eda,compa\u00f1\u00eda,nexus,mi\u00e9rcoles",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/cnnexpansion.com/2015/04/google-lanza-servicio-de-telefon%C3%ADa-m%C3%B3vil-tecnolog%C3%ADa",
             "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://iies.es/La-UPM-estudiara-el-reparto-de-alimentos-en-Senegal-con-datos-de-telefonia-movil_a4298.html"
+            "source_url": "http://cnnexpansion.com/negocios/2015/04/22/google-entra-al-servicio-inalambrico-movil-con-fi"
+        },
+        "tecno.americaeconomia.com/2015/04/project-fi-google-lanza-oficialmente-su-servicio-de-telefon%C3%ADa-m%C3%B3vil": {
+            "title": "Project Fi: Google lanza oficialmente su servicio de telefon\u00eda m\u00f3vil...",
+            "snippet": "Google present\u00f3 durante este mi\u00e9rcoles su propio operador de telefon\u00eda m\u00f3vil, disponible exclusivamente en Estados Unidos, para usuarios de ciertos equipos Nexus y por el momento, solamente accesible por medio de...",
+            "date": "2015-04-22",
+            "author_name": "Daniela Z\u00e1rate",
+            "categories": "google",
+            "tags": "accesible,momento,usuarios,estados,estados_unidos,unidos,disponible,durante,durante-este-mi\u00e9rcoles,mi\u00e9rcoles,propio,operador,oficialmente,project,google,lanza,servicio,telefon\u00eda,m\u00f3vil,nexus",
+            "recuweb_url": "http://es.recuweb.com/google/tecno.americaeconomia.com/2015/04/project-fi-google-lanza-oficialmente-su-servicio-de-telefon%C3%ADa-m%C3%B3vil",
+            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tecno.americaeconomia.com/articulos/project-fi-google-lanza-oficialmente-su-servicio-de-telefonia-movil"
         },
         "cnnexpansion.com/2015/04/megacable-quiere-volver-a-la-telefon%C3%ADa-m%C3%B3vil-negocios": {
             "title": "Megacable quiere volver a la telefon\u00eda m\u00f3vil - Negocios...",
             "snippet": "Queremos lanzar un servicio de telefon\u00eda virtual m\u00f3vil, ya lo tenemos pero queremos perfeccionarlo con alguno de los operadores m\u00f3viles del pa\u00eds, estamos viendo a Telef\u00f3nica y a Am\u00e9rica M\u00f3vil, esperemos que a finales...",
             "date": "2015-04-21",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "tags": "am\u00e9rica,m\u00f3viles,operadores,operadores-m\u00f3viles,pa\u00eds,lanzar,telefon\u00eda,servicio,virtual",
+            "tags": "m\u00f3viles,operadores,operadores-m\u00f3viles,lanzar,telefon\u00eda,servicio,virtual,telef\u00f3nica",
             "recuweb_url": "http://es.recuweb.com/cnnexpansion.com/2015/04/megacable-quiere-volver-a-la-telefon%C3%ADa-m%C3%B3vil-negocios",
             "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/negocios/2015/04/21/megacable-quiere-volver-a-la-telefonia-movil-virtual"
-        },
-        "misionesonline.net/2015/04/las-l%C3%ADneas-de-telefon%C3%ADa-m%C3%B3vil-activas-superan-los-37-millones": {
-            "title": "Las l\u00edneas de telefon\u00eda m\u00f3vil activas superan los 37 millones de...",
-            "snippet": "La cantidad de l\u00edneas activas de telefon\u00eda m\u00f3vil superan los 37 millones de aparatos en el pa\u00eds, mientras que el total de l\u00edneas declaradas asciende a alrededor de 62 millones, seg\u00fan un informe privado. Las l\u00edneas...",
-            "date": "2015-04-19",
-            "author_name": "fotoslibertadmol@gmail.com",
-            "tags": "mientras,l\u00edneas,millones,aparatos,pa\u00eds,telefon\u00eda,m\u00f3vil",
-            "recuweb_url": "http://es.recuweb.com/misionesonline.net/2015/04/las-l%C3%ADneas-de-telefon%C3%ADa-m%C3%B3vil-activas-superan-los-37-millones",
-            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://misionesonline.net/2015/04/19/las-lineas-de-telefonia-movil-activas-superan-los-37-millones-de-aparatos/"
         },
         "xatakamovil.com/2015/04/estos-enormes-drones-quieren-sustituir-a-las-antenas-de-telefon%C3%ADa": {
             "title": "Estos enormes drones quieren sustituir a las antenas de telefon\u00eda...",
             "snippet": "Llevar las redes m\u00f3viles de nueva generaci\u00f3n a las zonas rurales, poco pobladas y de dif\u00edcil acceso es una tarea compleja que no suele reportar...",
             "date": "2015-04-13",
             "author_name": "Paco Rodr\u00edguez",
-            "tags": "poco,acceso,m\u00f3viles,nueva,generaci\u00f3n,antenas,telefon\u00eda,redes",
+            "tags": "poco,rurales,redes,m\u00f3viles,telefon\u00eda,nueva",
             "recuweb_url": "http://es.recuweb.com/xatakamovil.com/2015/04/estos-enormes-drones-quieren-sustituir-a-las-antenas-de-telefon%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakamovil.com/conectividad/estos-enormes-drones-quieren-sustituir-a-las-antenas-de-telefonia-movil"
         },
-        "migueljara.com/2015/04/qu%C3%A9-pas%C3%B3-con-la-arcadia-de-las-antenas-telefon%C3%ADa-m%C3%B3vil-blog": {
-            "title": "Qu\u00e9 pas\u00f3 con la arcadia de las antenas de telefon\u00eda m\u00f3vil Blog...",
-            "snippet": "La operadora France Telecom se niega a retirar la instalaci\u00f3n de telefon\u00eda m\u00f3vil situada en el llamado tri\u00e1ngulo de las Musas, en Madrid, a pesar de haber pedido los dos juicios con la comunidad de vecinos. Desmanteladas...",
-            "date": "2015-04-08",
-            "author_name": "Miguel Jara",
-            "tags": "pesar,dos,llamado,antenas,telefon\u00eda,m\u00f3vil,operadora,madrid",
-            "recuweb_url": "http://es.recuweb.com/migueljara.com/2015/04/qu%C3%A9-pas%C3%B3-con-la-arcadia-de-las-antenas-telefon%C3%ADa-m%C3%B3vil-blog",
+        "cnnexpansion.com/2015/03/por-qu%C3%A9-eligi%C3%B3-axtel-a-telcel-para-ofrecer-telefon%C3%ADa-m%C3%B3vil": {
+            "title": "\u00bfPor qu\u00e9 eligi\u00f3 Axtel a Telcel para ofrecer telefon\u00eda m\u00f3vil...",
+            "snippet": "CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n) Axtel decidi\u00f3 ofrecer servicios de telefon\u00eda m\u00f3vil en la red de Telcel sobre otros operadores gracias a la cobertura que tiene la compa\u00f1\u00eda de Carlos Slim, de acuerdo con analistas.",
+            "date": "2015-03-23",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "tags": "operadores,tiene,ofrecer,servicios,m\u00e9xico,telefon\u00eda,m\u00f3vil,compa\u00f1\u00eda",
+            "recuweb_url": "http://es.recuweb.com/cnnexpansion.com/2015/03/por-qu%C3%A9-eligi%C3%B3-axtel-a-telcel-para-ofrecer-telefon%C3%ADa-m%C3%B3vil",
             "resource_url": "http://www.google.com/search?q=telefon%C3%ADa%2Bm%C3%B3vil&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://migueljara.com/2015/04/08/que-paso-con-la-arcadia-de-las-antenas-de-telefonia-movil/"
-        },
-        "adriancallejas015.wordpress.com/2015/03/avance-de-los-celulares": {
-            "title": "Avance de los celulares...",
-            "snippet": "La telefon\u00eda m\u00f3vil, tambi\u00e9n llamada telefon\u00eda celular, b\u00e1sicamente est\u00e1 formada por dos grandes partes: una red de comunicaciones y los terminales que permiten el acceso a dicha red. La []...",
-            "date": "2015-03-24",
-            "author_name": "adriancallejas015",
-            "tags": "acceso,dos,celulares,celular,telefon\u00eda,m\u00f3vil,red",
-            "recuweb_url": "http://es.recuweb.com/adriancallejas015.wordpress.com/2015/03/avance-de-los-celulares",
-            "resource_url": "http://es.search.wordpress.com/?q=telefon%C3%ADa%2Bm%C3%B3vil%2Btelefon%C3%ADa%2Bm%C3%B3vil&f=feed&page=1",
-            "source_url": "http://adriancallejas015.wordpress.com/2015/03/24/avance-de-los-celulares/"
+            "source_url": "http://cnnexpansion.com/negocios/2015/03/19/axtel-ya-tiene-su-cuadruple-play-con-ayuda-de-telcel"
         }
     }
 }

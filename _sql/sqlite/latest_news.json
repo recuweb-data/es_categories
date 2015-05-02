@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sqlite/",
@@ -11,22 +11,12 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
-        "military-technologies.net/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-military-technologies": {
-            "title": "Devart Introduces New dbExpress Drivers with Support for RAD... - Military Technologies...",
-            "snippet": "Devart Introduces New dbExpress Drivers with Support for RAD...Military TechnologiesCompany's solutions support such databases as Microsoft SQL Server, Oracle, MySQL, PostgreSQL, InterBase, Firebird, SQLite, etc. Along with database oriented...",
-            "date": "2015-04-23",
-            "categories": "mysql,sqlite",
-            "tags": "database,oriented,sql,databases,technologies,sqlite",
-            "recuweb_url": "http://es.recuweb.com/sqlite/military-technologies.net/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-military-technologies",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
-            "source_url": "http://military-technologies.net/2015/04/23/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8-3/"
-        },
         "i-programmer.info/2015/04/meet-squidb-iprogrammer": {
             "title": "Meet SquiDB - iProgrammer...",
             "snippet": "Meet SquiDBiProgrammerSquiDB is designed to let you work with SQLite databases while still giving the power and flexibility of raw SQL. It combines features of an ORM with object-oriented SQL statement builders, so avoiding the need to have SQL...",
             "date": "2015-04-23",
             "categories": "sqlite",
-            "tags": "need,databases,designed,work,sqlite,sql,oriented",
+            "tags": "need,features,work,sqlite,sql",
             "recuweb_url": "http://es.recuweb.com/sqlite/i-programmer.info/2015/04/meet-squidb-iprogrammer",
             "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
             "source_url": "http://i-programmer.info/news/84-database/8517-meet-squidb.html"
@@ -36,39 +26,29 @@
             "snippet": "IT JungleGoing Off the Grid with IBM i Mobile AppsIT JungleCM First built the open source SQLite database directly into the client application, and added the necessary data synchronization processes to allow the apps to automatically update with the...",
             "date": "2015-04-15",
             "categories": "sqlite",
-            "tags": "data,apps,database,application,mobile,ibm,sqlite",
+            "tags": "data,database,application,ibm,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
             "source_url": "http://itjungle.com/tfh/tfh041515-story05.html"
         },
-        "arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup": {
-            "title": "Realm Raises 18 M series B to bring databases to Mobile - ArcticStartup...",
-            "snippet": "Realm Raises 18 M series B to bring databases to MobileArcticStartupIt uses a brand-new storage architecture, not SQLite, and an easier API designed for needs of modern mobile apps and smartphones. It is already used by tens of thousands of app...",
-            "date": "2015-03-25",
+        "computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better": {
+            "title": "Review: Office 2016 for Mac offers a new interface and better features - Computerworld...",
+            "snippet": "ComputerworldReview: Office 2016 for Mac offers a new interface and better featuresComputerworldMicrosoft says that's because it's switched from its previous proprietary database to SQLite. The company also says this makes Outlook's database not...",
+            "date": "2015-04-01",
             "categories": "sqlite",
-            "tags": "app,designed,mobile,apps,storage,uses,databases,realm,not,sqlite",
-            "recuweb_url": "http://es.recuweb.com/sqlite/arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
-            "source_url": "http://arcticstartup.com/2015/03/25/realm-raises-e18-m-series-b-to-bring-databases-to-mobile"
-        },
-        "businessinsider.com.au/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers": {
-            "title": "A startup launched 9 months ago by these former Nokia engineers is... - Business Insider Australia...",
-            "snippet": "Business Insider AustraliaA startup launched 9 months ago by these former Nokia engineers is...Business Insider AustraliaRealm wants to take down SQLite, which is the mobile database recommended by Apple for iOS and Google for Android. SQLite is a...",
-            "date": "2015-03-24",
-            "categories": "sqlite,google",
-            "tags": "mobile,database,sqlite,ios,android",
-            "recuweb_url": "http://es.recuweb.com/google/businessinsider.com.au/2015/03/a-startup-launched-9-months-ago-by-these-former-nokia-engineers",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
-            "source_url": "http://businessinsider.com.au/realm-started-by-former-nokia-engineers-is-going-bonkers-2015-3"
+            "tags": "database,not,that,features,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://computerworld.com/article/2904266/review-office-2016-for-mac-offers-a-new-interface-and-better-features.html"
         },
         "infoq.com/2014/10/realm-brings-sqlite-alternative-to-android": {
             "title": "Realm Brings SQLite Alternative to Android -...",
             "snippet": "Realm Brings SQLite Alternative to you have currently have an app that uses CoreData (on iOS) or SQLite (on Android) and want to migrate to Realm, there is definitely some work involved. It is not a drop-in change - Tim explains that CoreData and...",
             "date": "2014-10-24",
             "categories": "sqlite",
-            "tags": "not,work,app,uses,realm,sqlite,android,ios",
+            "tags": "that,not,work,sqlite,android,ios",
             "recuweb_url": "http://es.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
             "source_url": "http://infoq.com/news/2014/10/Realm-android"
         },
         "drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb": {
@@ -76,9 +56,9 @@
             "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
             "date": "2014-08-12",
             "categories": "sqlite",
-            "tags": "technologies,data,need,storage,ios,sqlite",
+            "tags": "data,need,ios,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
             "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
         },
         "pcactual.com/2013/03/crea-una-base-de-datos-para-gestionar-tus-gastos": {
@@ -88,7 +68,7 @@
             "categories": "sqlite",
             "tags": "parte,muy,base,datos,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/pcactual.com/2013/03/crea-una-base-de-datos-para-gestionar-tus-gastos",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
             "source_url": "http://pcactual.com/articulo/zona_practica/paso_a_paso/paso_a_paso_internet/12680/gestiona_tus_gastos_desde_smartphone.html"
         },
         "unaaldia.hispasec.com/2012/05/sqlite-journal-revelaci%C3%B3n-de-informaci%C3%B3n-en-android-hispasec": {
@@ -96,9 +76,9 @@
             "snippet": "SQLite Journal: revelaci\u00f3n de informaci\u00f3n en AndroidHispasecSQLite Journal: revelaci\u00f3n de informaci\u00f3n en Android. Roee Hay (roeehay), del equipo de IBM Application Security Research Group, ha publicado una vulnerabilidad en los sistemas Android...",
             "date": "2012-05-16",
             "categories": "sqlite",
-            "tags": "ibm,application,informaci\u00f3n,sqlite,android",
+            "tags": "ibm,application,sqlite,informaci\u00f3n,android",
             "recuweb_url": "http://es.recuweb.com/sqlite/unaaldia.hispasec.com/2012/05/sqlite-journal-revelaci%C3%B3n-de-informaci%C3%B3n-en-android-hispasec",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2012/05/sqlite-journal-revelacion-de.html"
         }
     }

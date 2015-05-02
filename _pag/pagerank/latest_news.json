@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pagerank/",
@@ -11,45 +11,45 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
+        "forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes": {
+            "title": "10 Things To Do Before You Hit 'Publish'- Forbes...",
+            "snippet": "Forbes10 Things To Do Before You Hit 'Publish'ForbesBuying or selling links that pass PageRank. This includes exchanging money for links, or posts that contain links; exchanging goods or services for links; or sending someone a free product in...",
+            "date": "2015-04-27",
+            "categories": "pagerank",
+            "tags": "that,pagerank,this",
+            "recuweb_url": "http://es.recuweb.com/pagerank/forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
+            "source_url": "http://forbes.com/sites/denispinsky/2015/04/27/before-you-publish/"
+        },
         "es.paperblog.com/2015/04/entendiendo-el-pagerank": {
             "title": "Entendiendo el Pagerank...",
             "snippet": "Esta infograf\u00eda la encontramos en, que se anuncia como l\u00edder en Internet del software de comercio electr\u00f3nico. Si bien hay muchos factores que forman parte dentro de lo que se denomina SEO, la mayor\u00eda de los webmasters, se fijan en un...",
-            "date": "2015-04-26",
+            "date": "2015-04-27",
             "categories": "pagerank,internet",
             "tags": "dentro,pagerank,internet,seo",
             "recuweb_url": "http://es.recuweb.com/internet/es.paperblog.com/2015/04/entendiendo-el-pagerank",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/entendiendo-el-pagerank-3179571/"
         },
-        "dailyherald.com/2015/04/how-to-see-everything-you-ve-ever-googled-if-re-so": {
-            "title": "How to see everything you've ever Googled (if you're so brave) - Chicago Daily Herald...",
-            "snippet": "Chicago Daily HeraldHow to see everything you've ever Googled (if you're so brave)Chicago Daily HeraldThat's because Google's pagerank algorithm is designed to surface the results that it thinks you'll find most relevant; everything else effectively...",
-            "date": "2015-04-25",
-            "categories": "google,pagerank",
-            "tags": "results,that,how,google,pagerank",
-            "recuweb_url": "http://es.recuweb.com/pagerank/dailyherald.com/2015/04/how-to-see-everything-you-ve-ever-googled-if-re-so",
+        "searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your": {
+            "title": "When Disavowing Links At The Domain Level, Don't Let Your... - Search Engine Land...",
+            "snippet": "Search Engine LandWhen Disavowing Links At The Domain Level, Don't Let Your...Search Engine LandSecond, most links are nofollowed across major social networks, so they aren't passing PageRank anyway. Third, if somehow you do find a spammy link on a...",
+            "date": "2015-04-27",
+            "categories": "pagerank",
+            "tags": "social,search,search_engine,engine,pagerank",
+            "recuweb_url": "http://es.recuweb.com/pagerank/searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://dailyherald.com/article/20150425/business/150429167/"
+            "source_url": "http://searchengineland.com/disavowing-links-domain-level-dont-let-machete-turn-guillotine-219301"
         },
         "investopedia.com/2015/04/the-story-behind-google-s-success-investopedia": {
             "title": "The Story Behind Google's Success - Investopedia...",
             "snippet": "The Story Behind Google's SuccessInvestopediaAll of these pieces came together in a pagerank that decided where a site would display on a specific query. Using this scoring approach, Google was able to serve up more accurate results than many of the...",
             "date": "2015-04-24",
             "categories": "google,pagerank",
-            "tags": "results,this,that,would,google,success,pagerank",
+            "tags": "this,that,these,google,pagerank",
             "recuweb_url": "http://es.recuweb.com/pagerank/investopedia.com/2015/04/the-story-behind-google-s-success-investopedia",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
             "source_url": "http://investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp"
-        },
-        "forbes.com/2015/04/it-would-be-a-shame-to-shackle-google-now-forbes": {
-            "title": "It Would Be A Shame To Shackle Google Now - Forbes...",
-            "snippet": "ForbesIt Would Be A Shame To Shackle Google NowForbesThe data that went into PageRank indexing gave the best possible search results. But one rule of the tech industry is you only get to fool everyone once. And after a while companies began to...",
-            "date": "2015-04-23",
-            "categories": "google,pagerank",
-            "tags": "search,results,that,would,google,pagerank",
-            "recuweb_url": "http://es.recuweb.com/pagerank/forbes.com/2015/04/it-would-be-a-shame-to-shackle-google-now-forbes",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/rogerkay/2015/04/23/it-would-be-a-shame-to-shackle-google-now/"
         },
         "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou": {
             "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou... -...",
@@ -71,24 +71,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
             "source_url": "http://siliconnews.es/2015/04/21/algoritmo-google-actualizacion/"
         },
-        "searchenginejournal.com/2015/04/is-your-web-marketing-team-irrelevant-12-red-flags-to-look": {
-            "title": "Is Your Web Marketing Team Irrelevant? 12 Red Flags to Look For - Search Engine Journal...",
-            "snippet": "Search Engine JournalIs Your Web Marketing Team Irrelevant? 12 Red Flags to Look ForSearch Engine Journal12. They Still Tout PageRank as a Measure of Success. PageRank as a metric of success has officially died. Google has announced they are no...",
-            "date": "2015-04-21",
-            "categories": "pagerank,google",
-            "tags": "success,pagerank,engine,engine_journal,journal,search,search_engine,web,marketing,search_engine_journal,google",
-            "recuweb_url": "http://es.recuweb.com/google/searchenginejournal.com/2015/04/is-your-web-marketing-team-irrelevant-12-red-flags-to-look",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/web-marketing-team-irrelevant-12-red-flags-look/129897/"
-        },
         "searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search": {
             "title": "In 2014, How Important is an H1 Tag for SEO? - Search Engine Journal...",
             "snippet": "Search Engine JournalIn 2014, How Important is an H1 Tag for SEO?Search Engine JournalThe lost opportunity in this argument is that both sides tend to focus on the direct relationship between an H1 tag and its ability to help a page rank by...",
             "date": "2015-04-20",
             "categories": "pagerank",
-            "tags": "page,rank,this,that,search,search_engine,engine,search_engine_journal,engine_journal,journal,how,seo",
+            "tags": "page,rank,this,that,search,search_engine,engine,seo",
             "recuweb_url": "http://es.recuweb.com/pagerank/searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
             "source_url": "http://searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/"
         },
         "es.paperblog.com/2015/04/c%C3%B3mo-seleccionar-los-directorios-de-enlaces": {
@@ -96,7 +86,7 @@
             "snippet": "En primer lugar, nos vamos a fijar en el del directorio que estemos evaluando. El PageRank es un \u00edndice num\u00e9rico que asigna Google a los sitios web en funci\u00f3n de la cantidad e importancia de enlaces entrantes que poseen, para designar a su vez...",
             "date": "2015-04-19",
             "categories": "pagerank,google",
-            "tags": "enlaces,sitios,primer,c\u00f3mo,pagerank,google,web,importancia",
+            "tags": "sitios,primer,c\u00f3mo,enlaces,pagerank,google,web,importancia",
             "recuweb_url": "http://es.recuweb.com/google/es.paperblog.com/2015/04/c%C3%B3mo-seleccionar-los-directorios-de-enlaces",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/como-seleccionar-los-directorios-de-enlaces-3168924/"
@@ -110,6 +100,16 @@
             "recuweb_url": "http://es.recuweb.com/google/wwwhatsnew.com/2015/03/cient%C3%ADficos-utilizan-el-algoritmo-pagerank-de-google-para-hacer-un-wwwhat",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/03/14/cientificos-utilizan-algoritmo-pagerank-hacer-ranking-selecciones-futbol/"
+        },
+        "technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit": {
+            "title": "Pagerank Algorithm Reveals World's All-Time Top Soccer Team - MIT Technology Review (blog)...",
+            "snippet": "Pagerank Algorithm Reveals World's All-Time Top Soccer TeamMIT Technology Review (blog)Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it...",
+            "date": "2015-03-13",
+            "categories": "pagerank",
+            "tags": "pagerank,these",
+            "recuweb_url": "http://es.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
+            "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
         }
     }
 }

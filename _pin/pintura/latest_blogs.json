@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pintura",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pintura/",
@@ -11,71 +11,93 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pintura/pintura/blogs.json"
     },
     "items": {
-        "taringa.net/2015/04/algo-de-lo-%C3%BAltimo-pintura-taringa": {
-            "title": "Algo de lo \u00faltimo/Pintura - Taringa!",
-            "snippet": "Hola Taringa. Hace un tiempo fui a un curso de pintura barroca, donde aprend\u00ed a pintar con velados y otras t\u00e9cnicas propias del estilo. El velado co...",
-            "date": "2015-04-22",
+        "taringa.net/2015/04/pintura-retratos-y-atisbos-taringa": {
+            "title": "Pintura: retratos y atisbos - Taringa!",
+            "snippet": "Juan Medina Evgeniy Monahov Pintura: retratos y atisbos Juan Medina Ivan Slavinsky Derek Gores Evgeniy Monahov Pintura: retratos y atisbos Juan Medina Ivan Slavinsky Derek Gores Evgeniy Monahov Pintura: retratos y...",
+            "date": "2015-04-27",
             "author_name": "desconocido",
             "categories": "pintura",
-            "tags": "t\u00e9cnicas,\u00fal,pintura,taringa,hace,curso,pintar",
-            "recuweb_url": "http://es.recuweb.com/pintura/taringa.net/2015/04/algo-de-lo-%C3%BAltimo-pintura-taringa",
+            "tags": "pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/taringa.net/2015/04/pintura-retratos-y-atisbos-taringa",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/arte/18629739/Pintura-retratos-y-atisbos.html"
+        },
+        "teorema.com.mx/2015/04/onu-pide-pinturas-sin-plomo-en-todo-el-mundo-teorema-ambiental": {
+            "title": "ONU pide pinturas sin plomo en todo el mundo Teorema Ambiental...",
+            "snippet": "pintura-plomo Madrid. El objetivo de erradicar las pinturas con plomo en todo el planeta para 2020, fue anunciado por la Alianza Mundial para Eliminar el Uso de Plomo en las Pinturas, gestionada por la Organizaci\u00f3n...",
+            "date": "2015-04-27",
+            "author_name": "editorial",
+            "categories": "pintura,planeta",
+            "tags": "gestionada,alianza,mundial,pinturas,pintura,plomo,pinturas-sin-plomo,mundo,onu,eliminar,uso,organizaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/planeta/teorema.com.mx/2015/04/onu-pide-pinturas-sin-plomo-en-todo-el-mundo-teorema-ambiental",
             "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/arte/18620165/Algo-de-lo-ultimo-Pintura.html"
+            "source_url": "http://teorema.com.mx/contaminacion_/onu-pide-pinturas-sin-plomo-en-todo-el-mundo/"
         },
-        "saudeglobal.org/2015/04/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-2020": {
-            "title": "La onu quiere pinturas sin plomo en todo el mundo en 2020 Sa\u00fade...",
-            "snippet": "Calcula que provoca unos casos de discapacidad intelectual en ni\u00f1os al a\u00f1o. La Alianza Mundial para Eliminar el Uso de Plomo en las Pinturas, gestionada por la Organizaci\u00f3n Mundial de la...",
-            "date": "2015-04-22",
-            "author_name": "Sa\u00fade Global",
-            "categories": "discapacidad,pintura",
-            "tags": "mundo,pinturas,ni\u00f1os,uso",
-            "recuweb_url": "http://es.recuweb.com/pintura/saudeglobal.org/2015/04/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-2020",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://saudeglobal.org/2015/04/22/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-en-2020-leer-mas-la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-en-2020-ecodiario-es-httpecodiario-eleconomista-essociedadnoticias66489/"
-        },
-        "puromarketing.com/2015/04/marca-personal-mucho-m%C3%A1s-que-chapa-y-pintura": {
-            "title": "Marca Personal: mucho m\u00e1s que Chapa y Pintura...",
-            "snippet": "Se ha hablado hasta la saciedad de lo importante que es causar una primera buena impresi\u00f3n. Los expertos en psicolog\u00eda insisten en que no tenemos una segunda oportunidad para conquistar a nuestro p\u00fablico y nos...",
-            "date": "2015-04-22",
-            "author_name": "Silvia Rinc\u00f3n",
+        "alinteriordelestado.com/2015/04/telares-mixtos-y-pintura-textil-en-la-exposici%C3%B3n-palabra-al-interior": {
+            "title": "Telares mixtos y pintura textil en la exposici\u00f3n Palabra Al interior...",
+            "snippet": "La muestra est\u00e1 compuesta por ocho textiles y 10 pinturas al \u00f3leo distribuidas en dos salas del recinto. Se trata de obras de reciente creaci\u00f3n que conforman diversas historias, tiempos y destiempos en los que palabra e...",
+            "date": "2015-04-27",
+            "author_name": "admin",
             "categories": "pintura",
-            "tags": "p\u00fablico,importante,primera,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/puromarketing.com/2015/04/marca-personal-mucho-m%C3%A1s-que-chapa-y-pintura",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://puromarketing.com/29/24504/marca-personal-mucho-mas-chapa-pintura.html"
+            "tags": "obras,dos,pinturas,pintura,muestra,exposici\u00f3n,\u00f3leo,trata",
+            "recuweb_url": "http://es.recuweb.com/pintura/alinteriordelestado.com/2015/04/telares-mixtos-y-pintura-textil-en-la-exposici%C3%B3n-palabra-al-interior",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://alinteriordelestado.com/espectaculos/telares-mixtos-y-pintura-textil-en-la-exposicion-palabra/"
         },
-        "iqt.utero.pe/2015/04/calvo-de-araujo-el-padre-la-pintura-moderna-amaz%C3%B3nica-%C3%BAtero": {
-            "title": "-Calvo de Araujo, el padre de la pintura moderna amaz\u00f3nica \u00datero...",
-            "snippet": "Christian Benday\u00e1n, celebrado artista y curador amaz\u00f3nico, se atrevi\u00f3 a recuperar la imagen de quien es considerado el padre de la pintura amaz\u00f3nica moderna. Luego de incesantes viajes, encontr\u00f3 que esta verdad era...",
+        "pulsoslp.com.mx/2015/04/disputa-pan-a-prd-pintura-de-edificios-pulso-diario-san-luis": {
+            "title": "Disputa PAN a PRD pintura de edificios Pulso Diario de San Luis...",
+            "snippet": "ZARATE-1207 Edificios de la Unidad Habitacional Fidel Vel\u00e1zquez, que se hab\u00edan vuelto emblem\u00e1ticos del partido que gobierna en Soledad, con su color amarillo y sus soles aztecas pintados al frente, fueron repintados...",
+            "date": "2015-04-24",
+            "author_name": "7",
+            "categories": "pan,pintura",
+            "tags": "san,diario,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/pulsoslp.com.mx/2015/04/disputa-pan-a-prd-pintura-de-edificios-pulso-diario-san-luis",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://pulsoslp.com.mx/2015/04/24/disputa-pan-a-prd-pintura-de-edificios/"
+        },
+        "solobasket.com/2015/04/valencia-basket-quiere-reforzar-su-pintura-sikma-lampe-y-mclean": {
+            "title": "Valencia Basket quiere reforzar su pintura. Sikma, Lampe y McLean...",
+            "snippet": "Aunque sean meros rumores, Valencia Basket tiene claro que necesita mejorar sus prestaciones en la pintura ya que Kresimir Loncar sigue sin convencer y Serhiy Lishchuk podr\u00eda estar ante su \u00faltima temporada como...",
+            "date": "2015-04-24",
+            "author_name": "Carlos Mart\u00ednez",
+            "categories": "pintura",
+            "tags": "\u00fal,sean,quiere,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/solobasket.com/2015/04/valencia-basket-quiere-reforzar-su-pintura-sikma-lampe-y-mclean",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://solobasket.com/liga-endesa/valencia-basket-quiere-reforzar-su-pintura-sikma-lampe-y-mclean-en-la-orbita-taronja"
+        },
+        "inkultmagazine.com/2015/04/explorar-la-pintura-un-curso-de-entretenido-inkult-magazine": {
+            "title": "Explorar la pintura/Un curso de pintura entretenido - Inkult Magazine...",
+            "snippet": "Este curso de pintura es enormemente entretenido, \u00e1gil y apto para cualquier persona. Sam Piyasena y Beverly Philp te instruyen en las t\u00e9cnicas fundamentales y el infinito potencial creativo del lenguaje pict\u00f3rico mediante...",
+            "date": "2015-04-23",
+            "author_name": "Bogdan",
+            "categories": "lenguaje,pintura",
+            "tags": "curso,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/inkultmagazine.com/2015/04/explorar-la-pintura-un-curso-de-entretenido-inkult-magazine",
+            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://inkultmagazine.com/blog/explorar-la-pintura-un-curso-de-pintura-entretenido/"
+        },
+        "pijamasurf.com/2015/04/celebridades-contempor%C3%A1neas-insertas-en-obras-maestras": {
+            "title": "Celebridades contempor\u00e1neas insertas en obras maestras de la...",
+            "snippet": "El Tumblr Voyage dans le temps (Viaje en el tiempo), de la francesa B\u00e9n\u00e9dicte Lacroix, muestra una serie de reinterpretaciones de grandes obras maestras de la pintura en las que los protagonistas de las mismas se...",
             "date": "2015-04-21",
-            "author_name": "Paco Bardales",
-            "categories": "pintura",
-            "tags": "pintura,artista",
-            "recuweb_url": "http://es.recuweb.com/pintura/iqt.utero.pe/2015/04/calvo-de-araujo-el-padre-la-pintura-moderna-amaz%C3%B3nica-%C3%BAtero",
+            "author_name": "pijamasurf",
+            "categories": "tumblr,pintura",
+            "tags": "muestra,obras,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/pijamasurf.com/2015/04/celebridades-contempor%C3%A1neas-insertas-en-obras-maestras",
             "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://iqt.utero.pe/2015/04/21/calvo-de-araujo-el-padre-de-la-pintura-moderna-amazonica/"
+            "source_url": "http://pijamasurf.com/2015/04/celebridades-contemporaneas-insertadas-en-obras-maestras-de-la-pintura-fotos/"
         },
-        "abc.com.py/2015/04/embajada-dominicana-premi%C3%B3-a-ganadores-de-concurso-pintura": {
-            "title": "Embajada dominicana premi\u00f3 a ganadores de concurso de pintura...",
-            "snippet": "La embajada de Rep\u00fablica Dominicana en Paraguay premi\u00f3 a los ganadores del concurso escolar de pintura Pinta el rostro de Juan Pablo Duarte, realizado en la escuela Rep\u00fablica Dominicana de Fernando de la Mora.",
-            "date": "2015-04-18",
+        "noticias.lainformacion.com/2015/04/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-2020": {
+            "title": "La onu quiere pinturas sin plomo en todo el mundo en 2020 Artes...",
+            "snippet": "La Alianza Mundial para Eliminar el Uso de Plomo en las Pinturas, gestionada por la Organizaci\u00f3n Mundial de la Salud (OMS) y el Programa de las Naciones Unidas para el Medio Ambiente (Pnuma), anunci\u00f3 este martes el...",
+            "date": "2015-04-21",
             "author_name": "desconocido",
-            "categories": "escuela,pintura",
-            "tags": "escuela,concurso,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/abc.com.py/2015/04/embajada-dominicana-premi%C3%B3-a-ganadores-de-concurso-pintura",
+            "categories": "medio-ambiente,pintura,salud",
+            "tags": "martes,organizaci\u00f3n,mundial,gestionada,alianza,onu,quiere,pinturas,pinturas-sin-plomo,plomo,mundo,artes,eliminar,uso",
+            "recuweb_url": "http://es.recuweb.com/salud/noticias.lainformacion.com/2015/04/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-2020",
             "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/nacionales/embajada-dominicana-premio-a-ganadores-de-concurso-de-pintura-1357897.html"
-        },
-        "taringa.net/2015/04/la-pintura-maldita-hecha-con-sangre-taringa": {
-            "title": "La pintura maldita hecha con sangre! - Taringa!",
-            "snippet": "el artista de este cuadro tenia problemas mentales,uso su propia sangre mezclada con pintura, esta fue su ultima obra y despues de terminarla por completo se suicido,se llama el hombre angustiado pertenese a una familia...",
-            "date": "2015-04-18",
-            "author_name": "desconocido",
-            "categories": "pintura",
-            "tags": "completo,uso,pintura,taringa,artista",
-            "recuweb_url": "http://es.recuweb.com/pintura/taringa.net/2015/04/la-pintura-maldita-hecha-con-sangre-taringa",
-            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/paranormal/18612022/La-pintura-maldita-hecha-con-sangre.html"
+            "source_url": "http://noticias.lainformacion.com/arte-cultura-y-espectaculos/artes-general/la-onu-quiere-pinturas-sin-plomo-en-todo-el-mundo-en-2020_84KEmL8a46sgorDg3Yy194/"
         },
         "prensa.argentina.ar/2015/04/%C3%BAltimas-semanas-para-inscribirse-al-premio-de-pintura": {
             "title": "\u00daltimas semanas para inscribirse al premio de pintura de la...",
@@ -83,7 +105,7 @@
             "date": "2015-04-17",
             "author_name": "infojudicial",
             "categories": "pintura",
-            "tags": "abril,importante,fundaci\u00f3n,\u00fal,pintura",
+            "tags": "abril,fundaci\u00f3n,\u00fal,pintura",
             "recuweb_url": "http://es.recuweb.com/pintura/prensa.argentina.ar/2015/04/%C3%BAltimas-semanas-para-inscribirse-al-premio-de-pintura",
             "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://prensa.argentina.ar/2015/04/17/57536-ltimas-semanas-para-inscribirse-al-premio-de-pintura-de-la-fundacion-banco-de-la-nacion.php"
@@ -94,32 +116,10 @@
             "date": "2015-04-16",
             "author_name": "Maribel Farf\u00e1n",
             "categories": "pintura",
-            "tags": "primera,fundaci\u00f3n,pintura",
+            "tags": "fundaci\u00f3n,pintura,primera",
             "recuweb_url": "http://es.recuweb.com/pintura/fundacionunam.org.mx/2015/04/pintura-expresionista-descubre-fundaci%C3%B3n-unam",
             "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fundacionunam.org.mx/arte-y-cultura/pintura-expresionista/"
-        },
-        "ztfnews.wordpress.com/2015/04/el-lado-ineluctable-de-la-pintura-y-las-matem%C3%A1ticas": {
-            "title": "El lado ineluctable de la pintura y las matem\u00e1ticas::...",
-            "snippet": "El pintor Olivier Debr\u00e9 (1920-1999) cumplir\u00eda hoy 95 a\u00f1os. Il y a dans la peinture, comme dans les math\u00e9matiques, un c\u00f4t\u00e9 in\u00e9luctable (En la pintura hay, como en las matem\u00e1ticas, un lado ineluctable). Olivier Debr\u00e9.",
-            "date": "2015-04-14",
-            "author_name": "Marta MS",
-            "categories": "pintura",
-            "tags": "pintura,pintor",
-            "recuweb_url": "http://es.recuweb.com/pintura/ztfnews.wordpress.com/2015/04/el-lado-ineluctable-de-la-pintura-y-las-matem%C3%A1ticas",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ztfnews.wordpress.com/2015/04/14/el-lado-ineluctable-de-la-pintura-y-las-matematicas/"
-        },
-        "holismoplanetario.com/2015/04/la-vida-cotidiana-en-pintura-del-trecento-de-marta-cend%C3%B3n-fern%C3%A1ndez": {
-            "title": "La vida cotidiana en la pintura del Trecento de Marta Cend\u00f3n Fern\u00e1ndez (Universidad Santiago de...",
-            "snippet": "Ambrogio Lorenzetti. Efectos del buen gobierno en la ciudad. Siena: Palacio P\u00fablico. Cend\u00f3n Fern\u00e1ndez, Marta. La vida cotidiana en la pintura del Trecento, en SEMATA, Ciencias Sociais e Humanidades, vol. 21: 241-263. Archivado en: Art\u00edculos de...",
-            "date": "2015-04-05",
-            "author_name": "Holismo Planetario en la Web",
-            "categories": "ciencias,ciencia,pintura,humanidades",
-            "tags": "p\u00fablico,gobierno,universidad,vida,pintura",
-            "recuweb_url": "http://es.recuweb.com/humanidades/holismoplanetario.com/2015/04/la-vida-cotidiana-en-pintura-del-trecento-de-marta-cend%C3%B3n-fern%C3%A1ndez",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pintura%2Bpintura&rss=1&lng=es",
-            "source_url": "http://holismoplanetario.com/2015/04/05/la-vida-cotidiana-en-la-pintura-del-trecento-de-marta-cendon-fernandez-universidad-santiago-de-compostela/"
         }
     }
 }

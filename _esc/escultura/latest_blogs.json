@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "escultura",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/escultura/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/escultura/escultura/blogs.json"
     },
     "items": {
-        "inkultmagazine.com/2015/04/erika-sanada-escultura-bizarra-inkult-magazine": {
-            "title": "Erika Sanada Escultura Bizarra - Inkult Magazine...",
-            "snippet": "Erika Sanada es una artista originaria de Tokio, sus esculturas se caracterizan por sus personajes con colores suaves, muchas veces con algunos acentos de tonos m\u00e1s vivos. La primera vez que te encuentras con una de...",
-            "date": "2015-04-17",
-            "author_name": "Vika \u00c1lvarez",
+        "revistadearte.com/2015/04/el-reina-sof%C3%ADa-presenta-la-primera-gran-retrospectiva-en-espa%C3%B1a": {
+            "title": "El Reina Sof\u00eda presenta la primera gran retrospectiva en Espa\u00f1a del...",
+            "snippet": "A partir del pr\u00f3ximo 5 de mayo el Museo Reina Sof\u00eda ofrecer\u00e1 en el Palacio de Vel\u00e1zquez del Parque del Retiro la exposici\u00f3n Carl Andre: Escultura como lugar, 1958-2010, que constituye la primera gran retrospectiva...",
+            "date": "2015-04-27",
+            "author_name": "Logopress - Editor",
             "categories": "escultura",
-            "tags": "primera,colores,esculturas,artista",
-            "recuweb_url": "http://es.recuweb.com/escultura/inkultmagazine.com/2015/04/erika-sanada-escultura-bizarra-inkult-magazine",
+            "tags": "lugar,exposici\u00f3n,museo,gran,parque,escultura",
+            "recuweb_url": "http://es.recuweb.com/escultura/revistadearte.com/2015/04/el-reina-sof%C3%ADa-presenta-la-primera-gran-retrospectiva-en-espa%C3%B1a",
             "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://inkultmagazine.com/blog/erika-sanada-escultura-bizarra/"
+            "source_url": "http://revistadearte.com/2015/04/27/el-reina-sofia-presenta-la-primera-gran-retrospectiva-en-espana-del-escultor-y-poeta-carl-andre/"
+        },
+        "lamiradaactual.blogspot.com/2015/04/monocromos-escultura-y-pintura-homenaje-a-la-mirada-actual": {
+            "title": "Monocromos, Escultura y Pintura. Homenaje a... - la mirada actual...",
+            "snippet": "Monocromos, Escultura y Pintura. Homenaje a Lola Bosshard. Cuadrado negro de Malevich. Julia S\u00e1ez-Angulo. Monocromos, Escultura y Pintura. Homenaje a Lola Bosshard, es el t\u00edtulo de la exposici\u00f3n que tiene lugar en...",
+            "date": "2015-04-27",
+            "author_name": "Julia Saez Angulo y Dolores Gallardo",
+            "categories": "escultura,pintura",
+            "tags": "exposici\u00f3n,tiene,lugar,negro,escultura,pintura,homenaje",
+            "recuweb_url": "http://es.recuweb.com/pintura/lamiradaactual.blogspot.com/2015/04/monocromos-escultura-y-pintura-homenaje-a-la-mirada-actual",
+            "resource_url": "http://www.google.com/search?q=escultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lamiradaactual.blogspot.com/2015/04/monocromos-escultura-y-pintura-homenaje.html"
+        },
+        "alicantemag.com/2015/04/creando-juntos-2015-exposici%C3%B3n-colectiva-de-pintura-escultura": {
+            "title": "'Creando juntos 2015, exposici\u00f3n colectiva de pintura, escultura y...",
+            "snippet": "La Lonja del Pescado acoge 240 obras de pintura, escultura y fotograf\u00eda, creadas por 184 artistas. La muestra incluye una sala dedicada a la isla de Tabarca. La exposici\u00f3n, organizada por el Ayuntamiento, la Diputaci\u00f3n y la...",
+            "date": "2015-04-26",
+            "author_name": "Redacci\u00f3n",
+            "categories": "fotografia,pintura,escultura",
+            "tags": "muestra,sala,fotograf\u00eda,obras,pintura,exposici\u00f3n,exposici\u00f3n-colectiva,colectiva,escultura,ayuntamiento",
+            "recuweb_url": "http://es.recuweb.com/escultura/alicantemag.com/2015/04/creando-juntos-2015-exposici%C3%B3n-colectiva-de-pintura-escultura",
+            "resource_url": "http://www.google.com/search?q=escultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://alicantemag.com/arte/creando-juntos-2015-exposicion-colectiva-de-pintura-escultura-y-fotografia-en-la-lonja"
+        },
+        "bellasartes.uclm.es/2015/04/lenguajes-v-exposici%C3%B3n-colectiva-de-los-estudiantes-escultura-ii": {
+            "title": "'Lenguajes V', exposici\u00f3n colectiva de los estudiantes de Escultura II...",
+            "snippet": "Estudiantes de la asignatura Escultura II de la Facultad exponen por quinto a\u00f1o consecutivo en el hall del Auditorio de Taranc\u00f3n (Cuenca). La muestra colectiva 'Lenguajes'tiene como objetivo: que cada estudiante...",
+            "date": "2015-04-20",
+            "author_name": "Bellas Artes Cuenca",
+            "categories": "escultura",
+            "tags": "tiene,muestra,colectiva,exposici\u00f3n,exposici\u00f3n-colectiva,escultura",
+            "recuweb_url": "http://es.recuweb.com/escultura/bellasartes.uclm.es/2015/04/lenguajes-v-exposici%C3%B3n-colectiva-de-los-estudiantes-escultura-ii",
+            "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://bellasartes.uclm.es/wp-index.php/exposiciones-de-estudiantes/lenguajes-v-exposicion-colectiva-de-los-estudiantes-de-escultura-ii-en-el-auditorio-de-tarancon-cuenca/"
+        },
+        "elhurgador.blogspot.com/2015/04/el-hurgador-arte-en-la-red-scott-musgrove-pintura-escultura": {
+            "title": "El Hurgador Arte en la Red: Scott Musgrove Pintura, Escultura...",
+            "snippet": "Scott Musgrove Pintura, Escultura. Scott Musgrove. Retrato de Scott titulado \"El \u00faltimo hombre bueno\"/Portrait of Scott Musgrove, titled \"The Last Good Man\". Stacey Ransom & Jason Mitchell, 2012. Scott Musgrove es un...",
+            "date": "2015-04-20",
+            "author_name": "Javier Fuentes",
+            "categories": "pintura,escultura",
+            "tags": "hombre,pintura,arte,escultura",
+            "recuweb_url": "http://es.recuweb.com/escultura/elhurgador.blogspot.com/2015/04/el-hurgador-arte-en-la-red-scott-musgrove-pintura-escultura",
+            "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elhurgador.blogspot.com/2015/04/scott-musgrove-pintura-escultura.html"
         },
         "tvnotas.com.mx/2015/04/novia-de-david-zepeda-%C3%A9l-es-precioso-le-digo-que-parece": {
             "title": "Novia de David Zepeda: ''\u00c9l es precioso, le digo que parece...",
@@ -28,32 +72,10 @@
             "date": "2015-04-16",
             "author_name": "desconocido",
             "categories": "escultura",
-            "tags": "asegura,parece,escultura,fotos",
+            "tags": "hombre,parece,escultura,abril",
             "recuweb_url": "http://es.recuweb.com/escultura/tvnotas.com.mx/2015/04/novia-de-david-zepeda-%C3%A9l-es-precioso-le-digo-que-parece",
             "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tvnotas.com.mx/2015/04/16/C-72236-novia-de-david-zepeda-l-es-precioso-le-digo-que-parece-escultura-grecorromana.php"
-        },
-        "tom-historiadelarte.blogspot.com/2015/04/propuesta-de-actividades-sobre-la-escultura-historia-del-arte": {
-            "title": "propuesta de actividades sobre la escultura... - Historia del arte...",
-            "snippet": "Estimados alumnos, con el fin de que consolid\u00e9is vuestro conocimiento y comprensi\u00f3n de las im\u00e1genes de la fe que definen la escultura barroca en Espa\u00f1a, aqu\u00ed os propongo el an\u00e1lisis de una de estas dos obras maestras...",
-            "date": "2015-04-15",
-            "author_name": "TOMPEREZ",
-            "categories": "conocimiento,escultura",
-            "tags": "obras,alumnos,escultura,arte,dos",
-            "recuweb_url": "http://es.recuweb.com/escultura/tom-historiadelarte.blogspot.com/2015/04/propuesta-de-actividades-sobre-la-escultura-historia-del-arte",
-            "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tom-historiadelarte.blogspot.com/2015/04/propuesta-de-actividades-sobre-la.html"
-        },
-        "ccemx.org/2015/04/escultura-y-electr%C3%B3nica-laboratorio-de-ciudadan%C3%ADa-digital-ccemx": {
-            "title": "Escultura y electr\u00f3nica Laboratorio de Ciudadan\u00eda Digital - CCEMx...",
-            "snippet": "Lxs participantes realizar\u00e1n una escultura en un material flexible, al cual le a\u00f1adir\u00e1 e integrar\u00e1 un circuito electr\u00f3nico que permitir\u00e1n darle movimiento a la escultura. Objetivo. Que el alumno, por medio de ejercicios de...",
-            "date": "2015-04-13",
-            "author_name": "-",
-            "categories": "electronica,escultura",
-            "tags": "darle,escultura",
-            "recuweb_url": "http://es.recuweb.com/escultura/ccemx.org/2015/04/escultura-y-electr%C3%B3nica-laboratorio-de-ciudadan%C3%ADa-digital-ccemx",
-            "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ccemx.org/labciudadania/?p=254"
         },
         "asocide.org/2015/04/exposici%C3%B3n-de-fotograf%C3%ADa-y-escultura-sobre-sordoceguera-asocide": {
             "title": "exposici\u00f3n de fotograf\u00eda y escultura sobre sordoceguera... - Asocide...",
@@ -61,7 +83,7 @@
             "date": "2015-04-10",
             "author_name": "ASOCIDE",
             "categories": "fotografia,escultura",
-            "tags": "d\u00eda,jose,fot\u00f3grafo,fotograf\u00eda,escultura,escultor",
+            "tags": "personas,jose,fot\u00f3grafo,exposici\u00f3n,fotograf\u00eda,escultura,d\u00eda",
             "recuweb_url": "http://es.recuweb.com/escultura/asocide.org/2015/04/exposici%C3%B3n-de-fotograf%C3%ADa-y-escultura-sobre-sordoceguera-asocide",
             "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://asocide.org/principal/exposicion-de-fotografia-y-escultura-sobre-sordoceguera-en-sala-cambio-de-sentido-de-fundacion-once/"
@@ -72,7 +94,7 @@
             "date": "2015-04-05",
             "author_name": "desconocido",
             "categories": "escultura",
-            "tags": "darle,poco,hace,esculturas",
+            "tags": "lugar,poco,hace,esculturas",
             "recuweb_url": "http://es.recuweb.com/escultura/taringa.net/2015/04/speedsculp-taokaka-blazblue-escultura-taringa",
             "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://taringa.net/post/arte/18588915/SpeedSculp-Taokaka-BlazBlue-Escultura.html"
@@ -83,21 +105,10 @@
             "date": "2015-04-04",
             "author_name": "Marta MS",
             "categories": "escultura",
-            "tags": "realizada,escultura,artista",
+            "tags": "pueden,escultura,artista,cuatro",
             "recuweb_url": "http://es.recuweb.com/escultura/ztfnews.wordpress.com/2015/04/emulsifier-una-escultura-anam%C3%B3rfica",
             "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ztfnews.wordpress.com/2015/04/04/emulsifier-una-escultura-anamorfica/"
-        },
-        "grupotortuga.com/2015/04/don%C3%B3-una-escultura-y-la-vendieron-como-chatarra-tortuga": {
-            "title": "Don\u00f3 una escultura y la vendieron como chatarra - Tortuga...",
-            "snippet": "Uruguay: Un artista reclama a la Intendencia de R\u00edo Negro por una obra que supone fue rematada como chatarra. R\u00cdO NEGRO. DANIEL ROJAS. La ins\u00f3lita situaci\u00f3n se origin\u00f3 con una escultura en materiales de hierro que...",
-            "date": "2015-04-01",
-            "author_name": "(tortuga)",
-            "categories": "escultura",
-            "tags": "negro,escultura,artista,obra",
-            "recuweb_url": "http://es.recuweb.com/escultura/grupotortuga.com/2015/04/don%C3%B3-una-escultura-y-la-vendieron-como-chatarra-tortuga",
-            "resource_url": "http://www.google.com/search?q=escultura%2Bescultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://grupotortuga.com/Dono-una-escultura-y-la-vendieron"
         },
         "oscarluisperez.blogspot.com/2015/02/proyecto-frontera-natural-sala-robert-harvey-ibn-al-jatib-2015": {
             "title": "Proyecto FRONTERA NATURAL - Sala Robert Harvey - Sala Ibn Al Jatib - 2015...",
@@ -105,21 +116,10 @@
             "date": "2015-02-27",
             "author_name": "\u00d3scar Luis P\u00e9rez Oca\u00f1a",
             "categories": "escultura,frontera,naturaleza,fotografia",
-            "tags": "escultura,proyecto,m\u00e1laga,fotograf\u00eda",
+            "tags": "escultura,sala,proyecto,fotograf\u00eda",
             "recuweb_url": "http://es.recuweb.com/fotografia/oscarluisperez.blogspot.com/2015/02/proyecto-frontera-natural-sala-robert-harvey-ibn-al-jatib-2015",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=escultura%2Bescultura&rss=1&lng=es",
             "source_url": "http://oscarluisperez.blogspot.com/2015/02/proyecto-frontera-natural-sala-robert.html"
-        },
-        "lavozdelmuro.net/2015/01/descubre-la-forma-de-clavar-un-clavo-en-esta-escultura-imposible": {
-            "title": "Descubre la forma de clavar un clavo en esta escultura imposible y...",
-            "snippet": "Cuando vemos un barco dentro de una botella no podemos dejar de preguntarnos c\u00f3mo han conseguido meterlo ah\u00ed dentro. El secreto probablemente es mucho m\u00e1s conocido que el del clavo por el que te has interesado al...",
-            "date": "2015-01-16",
-            "author_name": "Roberto Merino",
-            "categories": "escultura",
-            "tags": "c\u00f3mo,escultura",
-            "recuweb_url": "http://es.recuweb.com/escultura/lavozdelmuro.net/2015/01/descubre-la-forma-de-clavar-un-clavo-en-esta-escultura-imposible",
-            "resource_url": "http://www.google.com/search?q=escultura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lavozdelmuro.net/descubre-la-forma-de-clavar-un-clavo-en-esta-escultura-imposible-y-haz-que-alucinen-los-que-la-vean/"
         }
     }
 }

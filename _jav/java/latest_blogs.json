@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/java/",
@@ -11,38 +11,38 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
+        "javahispano.org/2015/04/5-herramientas-de-rastreo-errores-que-todo-desarrollador-java": {
+            "title": "5 herramientas de rastreo de errores que todo desarrollador Java...",
+            "snippet": "Con el ecosistema Java que sigue avanzando, las aplicaciones web sirviendo un n\u00famero creciente de solicitudes y la demanda de los usuarios de un alto desempe\u00f1o, nace una nueva era de herramientas modernas de...",
+            "date": "2015-04-22",
+            "author_name": "javaHispano",
+            "categories": "java",
+            "tags": "era,herramientas,demanda,usuarios,aplicaciones,ecosistema,java,web",
+            "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/5-herramientas-de-rastreo-errores-que-todo-desarrollador-java",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://javahispano.org/portada/2015/4/22/5-herramientas-de-rastreo-de-errores-que-todo-desarrollador.html"
+        },
         "danivara.blogspot.com/2015/04/lenguaje-de-programaci%C3%B3n-java-daniel-bonilla": {
             "title": "lenguaje de programaci\u00f3n JAVA- DANIEL BONILLA...",
             "snippet": "HISTORIA DE JAVA El lenguaje Java as\u00ed como la m\u00e1quina virtual, comenzaron como un proyecto interno de Sun Microsystems en 1990. Los ingenieros de Sun no estaban satisfechos con el rendimiento del lenguaje C, por lo que James Gosling, Mike...",
             "date": "2015-04-19",
             "author_name": "Daniel Bonilla",
             "categories": "lenguaje,java",
-            "tags": "lenguaje,m\u00e1quina,m\u00e1quina-virtual,virtual,lenguaje-de-programaci\u00f3n,programaci\u00f3n,java",
+            "tags": "m\u00e1quina,m\u00e1quina-virtual,virtual,lenguaje,programaci\u00f3n,java",
             "recuweb_url": "http://es.recuweb.com/java/danivara.blogspot.com/2015/04/lenguaje-de-programaci%C3%B3n-java-daniel-bonilla",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
             "source_url": "http://danivara.blogspot.com/2015/04/lenguaje-de-programacion-java-daniel.html"
         },
-        "blog.segu-info.com.ar/2015/04/decompiladores-de-java-online-segu-info": {
-            "title": "Decompiladores de Java online Segu-Info...",
-            "snippet": "Si te encuentras en la necesidad, por el motivo que sea, de tener que acceder al c\u00f3digo fuente de una aplicaci\u00f3n Java y obviamente no tienes acceso al mismo, la mejor opci\u00f3n en la mayor\u00eda de los casos es usar un...",
+        "ovruni.wordpress.com/2015/04/auto-java-complete-mode-para-gnu-emacs-urpi-y-el-software": {
+            "title": "Auto Java Complete mode para GNU Emacs Urpi y el Software Libre...",
+            "snippet": "Entramos a la carpeta \"ajc-java-complete\" y ejecutamos ant para compilar los archivos Esto nos debe de generar un archivo de nombre \" \" y una carpeta de nombre \"target\", la cual contiene los archivos de java...",
             "date": "2015-04-18",
-            "author_name": "noreply@blogger.com (Cristian Borghello)",
+            "author_name": "ovruni",
             "categories": "java",
-            "tags": "mayor\u00eda,tener,aplicaci\u00f3n,necesidad,java,segu",
-            "recuweb_url": "http://es.recuweb.com/java/blog.segu-info.com.ar/2015/04/decompiladores-de-java-online-segu-info",
+            "tags": "debe,target,software,java",
+            "recuweb_url": "http://es.recuweb.com/java/ovruni.wordpress.com/2015/04/auto-java-complete-mode-para-gnu-emacs-urpi-y-el-software",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.segu-info.com.ar/2015/04/decompiladores-de-java-online.html"
-        },
-        "zonavirus.com/2015/04/nuevas-vulnerabilidades-de-java-pueden-explotarse-sin-iniciar": {
-            "title": "Nuevas vulnerabilidades de Java pueden explotarse sin iniciar...",
-            "snippet": "En los \u00faltimos boletines de Oracle ha publicado un nuevo parche de seguridad donde se han solucionado un total de 14 vulnerabilidades en su plataforma Java que pueden ser explotadas desde la red sin necesidad de...",
-            "date": "2015-04-17",
-            "author_name": "desconocido",
-            "categories": "java",
-            "tags": "necesidad,publicado,nuevo,seguridad,\u00fal,java,oracle,plataforma",
-            "recuweb_url": "http://es.recuweb.com/java/zonavirus.com/2015/04/nuevas-vulnerabilidades-de-java-pueden-explotarse-sin-iniciar",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://zonavirus.com/noticias/2015/nuevas-vulnerabilidades-de-java-pueden-explotarse-sin-iniciar-sesion.asp"
+            "source_url": "http://ovruni.wordpress.com/2015/04/18/auto-java-complete-mode-para-gnu-emacs/"
         },
         "seguridadapple.com/2015/04/seguridad-apple-oracle-libera-java-se-8u45-para-os-x-actualiza": {
             "title": "Seguridad Apple: Oracle libera Java SE 8u45 para OS X. Actualiza y...",
@@ -50,7 +50,7 @@
             "date": "2015-04-17",
             "author_name": "noreply@blogger.com (SeguridadApple)",
             "categories": "java",
-            "tags": "seguridad,\u00fal,oracle,java",
+            "tags": "seguridad,oracle,java,\u00fal",
             "recuweb_url": "http://es.recuweb.com/java/seguridadapple.com/2015/04/seguridad-apple-oracle-libera-java-se-8u45-para-os-x-actualiza",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://seguridadapple.com/2015/04/oracle-libera-java-se-8u45-para-os-x.html"
@@ -61,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "Abraham",
             "categories": "java",
-            "tags": "tener,nuevo,java",
+            "tags": "ecosistema,javahispano,nuevo,java",
             "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/javahispano-portada-nuevo-podcast-de-noticias-java",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/4/17/nuevo-podcast-de-noticias-java.html"
@@ -71,22 +71,22 @@
             "snippet": "Una de las caracter\u00edsticas m\u00e1s relevante del lenguaje de programaci\u00f3n Java es el hecho de que utiliza una m\u00e1quina virtual para la ejecuci\u00f3n de los programas, haciendo \u00e9sta de intermediaria entre la m\u00e1quina real (HW...",
             "date": "2015-04-16",
             "author_name": "desconocido",
-            "categories": "lenguaje,java",
-            "tags": "m\u00e1quina,m\u00e1quina-virtual,virtual,lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,java",
-            "recuweb_url": "http://es.recuweb.com/java/adictosaltrabajo.com/2015/04/bytecode-sabes-lo-que-realmente-programas-en-java",
+            "categories": "java,lenguaje",
+            "tags": "m\u00e1quina,m\u00e1quina-virtual,virtual,java,lenguaje,programaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/adictosaltrabajo.com/2015/04/bytecode-sabes-lo-que-realmente-programas-en-java",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=ByteCode"
         },
-        "blog.segu-info.com.ar/2015/04/chrome-42-desactiva-por-defecto-java-y-otros-plugins-segu-info": {
-            "title": "Chrome 42: desactiva por defecto Java y otros plugins Segu-Info...",
-            "snippet": "Google Chrome en su versi\u00f3n, ha terminado por cumplir lo que ya hab\u00eda anunciado: finalmente, se ha deshabilitado el soporte para plugins NPAPI, entre los cuales se encuentran algunos reconocidos como...",
+        "javahispano.org/2015/04/los-servidores-java-ee-m%C3%A1s-populares-seg%C3%BAn-plumbr-javahispano": {
+            "title": "Los servidores Java EE m\u00e1s populares seg\u00fan Plumbr - javaHispano...",
+            "snippet": "Plumbr, una compa\u00f1\u00eda dedicada a la creaci\u00f3n de herramientas de monitorizaci\u00f3n de servidores Java EE ha publicado su informe anual relativo a la cuota de mercado de los distintos servidores Java EE que la compa\u00f1\u00eda...",
             "date": "2015-04-16",
-            "author_name": "noreply@blogger.com (Cristian Borghello)",
-            "categories": "java,google",
-            "tags": "plugins,hab\u00eda,chrome,java,segu,google,npapi",
-            "recuweb_url": "http://es.recuweb.com/google/blog.segu-info.com.ar/2015/04/chrome-42-desactiva-por-defecto-java-y-otros-plugins-segu-info",
+            "author_name": "Abraham",
+            "categories": "java",
+            "tags": "publicado,herramientas,java,javahispano",
+            "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/los-servidores-java-ee-m%C3%A1s-populares-seg%C3%BAn-plumbr-javahispano",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.segu-info.com.ar/2015/04/chrome-42-desactiva-por-defecto-java-y.html"
+            "source_url": "http://javahispano.org/portada/2015/4/16/los-servidores-java-ee-mas-populares-segun-plumbr.html"
         },
         "cesarhernandezgt.blogspot.com/2015/04/automatizaci%C3%B3n-y-administraci%C3%B3n-de-dependencias-java-con-maven": {
             "title": "Automatizaci\u00f3n y administraci\u00f3n de dependencias Java con Maven...",
@@ -94,10 +94,21 @@
             "date": "2015-04-15",
             "author_name": "Cesar Hernandez M.",
             "categories": "conocimiento,java",
-            "tags": "oracle,technology,nuevo,publicado,java,crear",
+            "tags": "objetivo,oracle,technology,publicado,java,nuevo,crear",
             "recuweb_url": "http://es.recuweb.com/java/cesarhernandezgt.blogspot.com/2015/04/automatizaci%C3%B3n-y-administraci%C3%B3n-de-dependencias-java-con-maven",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
             "source_url": "http://cesarhernandezgt.blogspot.com/2015/04/automatizacion-y-administracion-de.html"
+        },
+        "softandapps.info/2015/04/curso-gratuito-de-programaci%C3%B3n-java-nivel-avanzado-soft-&-apps": {
+            "title": "Curso gratuito de programaci\u00f3n Java nivel avanzado - Soft & Apps...",
+            "snippet": "Un curso gratuito de programaci\u00f3n Java, \u00edntegramente en espa\u00f1ol, para usuarios con conocimientos previos. Puede seguirse online o descargarse como PDF.",
+            "date": "2015-04-15",
+            "author_name": "Juan Luis Berm\u00fadez",
+            "categories": "conocimiento,java",
+            "tags": "usuarios,curso,programaci\u00f3n,java",
+            "recuweb_url": "http://es.recuweb.com/java/softandapps.info/2015/04/curso-gratuito-de-programaci%C3%B3n-java-nivel-avanzado-soft-&-apps",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://softandapps.info/2015/04/15/curso-gratuito-de-programacion-java-nivel-avanzado/"
         },
         "tecnologia.starmedia.com/2015/04/c%C3%B3mo-activar-java-silverlight-y-todos-los-plugins-npapi-de-google": {
             "title": "\u00bfC\u00f3mo activar Java, Silverlight y todos los plugins NPAPI de Google...",
@@ -105,21 +116,10 @@
             "date": "2015-04-15",
             "author_name": "desconocido",
             "categories": "java,google",
-            "tags": "plugins,c\u00f3mo,java,npapi,google,chrome",
+            "tags": "c\u00f3mo,java,google",
             "recuweb_url": "http://es.recuweb.com/google/tecnologia.starmedia.com/2015/04/c%C3%B3mo-activar-java-silverlight-y-todos-los-plugins-npapi-de-google",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tecnologia.starmedia.com/tutoriales/como-activar-java-silverlight-todos-plugins-npapi-google-chrome-42.html"
-        },
-        "unocero.com/2015/04/java-y-las-m%C3%A1quinas-antiguas-unocero": {
-            "title": "Java y las m\u00e1quinas antiguas unocero...",
-            "snippet": "El lenguaje de programaci\u00f3n Java corre en millones de dispositivos, incluyendo estaciones de trabajo, m\u00e1quinas de escritorio, tablets, supercomputadoras,...",
-            "date": "2015-04-14",
-            "author_name": "Manuel L\u00f3pez Michelone",
-            "categories": "lenguaje,java,supercomputadora",
-            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,java",
-            "recuweb_url": "http://es.recuweb.com/supercomputadora/unocero.com/2015/04/java-y-las-m%C3%A1quinas-antiguas-unocero",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://unocero.com/2015/04/14/java-y-las-maquinas-antiguas/"
         }
     }
 }

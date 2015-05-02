@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/javascript/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "scio.com.mx/2015/04/javascript-una-herramienta-que-no-puedes-evadir-talento-scio": {
-            "title": "JavaScript una herramienta que no puedes evadir Talento Scio...",
-            "snippet": "JavaScript se ha convertido en una tecnolog\u00eda de la cual no puedes evadir, debido a que se encuentra en casi todas partes, el navegador, servidores, aplicaciones de escritorio, robots, drones, bases de datos celulares.",
+        "jotaeseymas.wordpress.com/2015/04/jugar-con-javascript": {
+            "title": "JUGAR CON JAVASCRIPT PERO SIN JAVASCRIPT...",
+            "snippet": "script src=\"other pages\" title=\"jugar con javascript pero sin javascript\" \u00a1Ah! El desarrollo front-end. Esa cosa et\u00e9rea, ef\u00edmera y absurdamente creativa que a veces, cual capricho de una mente inquieta, []...",
+            "date": "2015-04-29",
+            "author_name": "ch1nux",
+            "categories": "javascript",
+            "tags": "javascript,src,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/javascript/jotaeseymas.wordpress.com/2015/04/jugar-con-javascript",
+            "resource_url": "http://es.search.wordpress.com/?q=javascript&f=feed&page=1",
+            "source_url": "http://jotaeseymas.wordpress.com/2015/04/29/jugar-con-javascript-pero-sin-javascript/"
+        },
+        "4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r": {
+            "title": "Mootools vs. jQuery: eligiendo la mejor biblioteca de JavaScript 4r...",
+            "snippet": "Una biblioteca de JavaScript es una colecci\u00f3n de utilidades ya implementadas que facilitan el desarrollo de aplicaciones en ese lenguaje. Extiende las prestaciones del lenguaje original y nos permite utilizarlas a trav\u00e9s de...",
             "date": "2015-04-22",
-            "author_name": "Jhonatan",
-            "categories": "tecnologia,javascript",
-            "tags": "datos,aplicaciones,navegador,casi,puedes,herramienta,javascript,robots",
-            "recuweb_url": "http://es.recuweb.com/javascript/scio.com.mx/2015/04/javascript-una-herramienta-que-no-puedes-evadir-talento-scio",
+            "author_name": "seoguru",
+            "categories": "jquery,javascript,lenguaje",
+            "tags": "original,permite,aplicaciones,mejor,javascript,desarrollo,lenguaje,trav\u00e9s",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://scio.com.mx/2015/04/22/javascript-una-herramienta-que-no-puedes-evadir/"
+            "source_url": "http://4rsoluciones.com/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript/"
         },
         "tusejemplos.com/2015/04/ejemplos-de-javascript": {
             "title": "Ejemplos de javascript Ejemplos...",
@@ -28,7 +39,7 @@
             "date": "2015-04-17",
             "author_name": "Jose",
             "categories": "javascript,lenguaje",
-            "tags": "utilizado,objetos,ejemplos,javascript,lenguaje,programaci\u00f3n",
+            "tags": "permite,utilizado,objetos,ejemplos,javascript,lenguaje,programaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/lenguaje/tusejemplos.com/2015/04/ejemplos-de-javascript",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tusejemplos.com/ejemplos-de-javascript/"
@@ -39,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "Paloma Verdejo Herreras",
             "categories": "javascript,json",
-            "tags": "javascript",
+            "tags": "original,javascript",
             "recuweb_url": "http://es.recuweb.com/json/mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundogeomatica.blogspot.com/2015/04/json-javascript-object-notation.html"
@@ -55,24 +66,13 @@
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://stratos-ad.com/index.php?section=2&subsection=1&vtipo=1&vfecha=2015-04-15&vhora=13:13:30"
         },
-        "desarrolloweb.com/2015/04/nodejs-es-mucho-m%C3%A1s-que-javascript-del-lado-servidor": {
-            "title": "NodeJS es mucho m\u00e1s que Javascript del lado del servidor...",
-            "snippet": "Muchas veces se define a NodeJS como Javascript del lado del servidor, pero es una visi\u00f3n simplista de una estupenda herramienta que nos facilita bastantes tareas. Daremos un repaso a diversas utilidades que mejoran...",
-            "date": "2015-04-14",
-            "author_name": "desconocido",
-            "categories": "javascript",
-            "tags": "herramienta,tareas,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/desarrolloweb.com/2015/04/nodejs-es-mucho-m%C3%A1s-que-javascript-del-lado-servidor",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/en-directo/nodejs-mas-que-javascript-programadorio-8846.html"
-        },
         "jotaeseymas.wordpress.com/2015/04/programacion-modular-con-javascript": {
             "title": "PROGRAMACION MODULAR CON JAVASCRIPT...",
             "snippet": "Javascript es un lenguaje de scripting, \u00fatil para hacer ciertas tareas que corresponden a un contexto determinado, que en este caso corresponde al Navegador Web. Las p\u00e1ginas y aplicaciones web dependen en mayor o menor medida de...",
             "date": "2015-04-14",
             "author_name": "ch1nux",
             "categories": "javascript,lenguaje",
-            "tags": "aplicaciones,navegador,web,hacer,tareas,javascript,lenguaje",
+            "tags": "menor,p\u00e1ginas,aplicaciones,web,hacer,javascript,lenguaje",
             "recuweb_url": "http://es.recuweb.com/lenguaje/jotaeseymas.wordpress.com/2015/04/programacion-modular-con-javascript",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=es",
             "source_url": "http://jotaeseymas.wordpress.com/2015/04/14/programacion-modular-con-javascript/"
@@ -83,7 +83,7 @@
             "date": "2015-04-13",
             "author_name": "nacho@internality.com (Nacho)",
             "categories": "javascript,lenguaje",
-            "tags": "casi,mundo,algunos,datos,hace,utilizado,javascript,lenguaje,programaci\u00f3n",
+            "tags": "mundo,utilizado,javascript,lenguaje,programaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/lenguaje/microsiervos.com/2015/04/javascript-es-el-lenguaje-de-programaci%C3%B3n-m%C3%A1s-utilizado",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsiervos.com/archivo/tecnologia/javascript-lenguaje-programacion-mas-utilizado-otros-graficos-retratan-programadores.html"
@@ -94,21 +94,10 @@
             "date": "2015-04-13",
             "author_name": "dawjaroso",
             "categories": "desarrollo-web,lenguaje,javascript",
-            "tags": "aprenderemos,desarrollo,web,programaci\u00f3n,introducci\u00f3n,lenguaje,javascript",
+            "tags": "desarrollo,web,programaci\u00f3n,introducci\u00f3n,lenguaje,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/dawjaroso.wordpress.com/2015/04/desarrollo-web-en-entorno-cliente",
             "resource_url": "http://es.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
             "source_url": "http://dawjaroso.wordpress.com/desarrollo-web-en-entorno-cliente/"
-        },
-        "ksesocss.blogspot.com/2015/04/javascript-con-furoya-c%C3%B3mo-a%C3%B1adir-estilos-si-en-el-contenido-hay": {
-            "title": "Javascript con Furoya: C\u00f3mo a\u00f1adir estilos si en el contenido hay...",
-            "snippet": "Nuevo art\u00edculo de Furoya sobre Javascript. En esta ocasi\u00f3n versa sobre c\u00f3mo saber si hay una palabra concreta en el texto, o no, y en funci\u00f3n de ello aplicar unos estilos Css u otros.",
-            "date": "2015-04-12",
-            "author_name": "Kseso",
-            "categories": "javascript,css",
-            "tags": "ocasi\u00f3n,c\u00f3mo,hay,contenido,javascript,nuevo,css",
-            "recuweb_url": "http://es.recuweb.com/css/ksesocss.blogspot.com/2015/04/javascript-con-furoya-c%C3%B3mo-a%C3%B1adir-estilos-si-en-el-contenido-hay",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ksesocss.blogspot.com/2015/04/indexOf-add-javascript.html"
         },
         "desarrolloweb.com/2015/03/trabajo-con-objetos-en-javascript": {
             "title": "Trabajo con objetos en Javascript -...",
@@ -116,10 +105,21 @@
             "date": "2015-03-31",
             "author_name": "desconocido",
             "categories": "javascript,lenguaje",
-            "tags": "c\u00f3mo,mejor,objetos,trabajo,javascript,lenguaje",
+            "tags": "mejor,objetos,trabajo,javascript,lenguaje",
             "recuweb_url": "http://es.recuweb.com/lenguaje/desarrolloweb.com/2015/03/trabajo-con-objetos-en-javascript",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/articulos/trabajo-objetos-javascript.html"
+        },
+        "druizlab.wordpress.com/2015/03/cambiar-imagen-en-hover-con-javascript": {
+            "title": "Cambiar imagen en hover con javascript...",
+            "snippet": "img src=\" \" id=\"imgover\"/(document).ready(function(){(\"imgover\").mouseover(function(){(this).attr('src', 'imagen2');//cambia de imagen en el over});});...",
+            "date": "2015-03-14",
+            "author_name": "David",
+            "categories": "javascript",
+            "tags": "src,javascript,this",
+            "recuweb_url": "http://es.recuweb.com/javascript/druizlab.wordpress.com/2015/03/cambiar-imagen-en-hover-con-javascript",
+            "resource_url": "http://es.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
+            "source_url": "http://druizlab.wordpress.com/2015/03/14/cambiar-imagen-en-hover-con-javascript/"
         }
     }
 }

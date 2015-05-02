@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mac-mini",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mac-mini/",
@@ -11,40 +11,62 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mac-mini/mac-mini/blogs.json"
     },
     "items": {
+        "applesfera.com/2015/04/nuevo-macbook-el-rendimiento-de-su-cpu-comparado-con-otros-mac": {
+            "title": "Nuevo MacBook, el rendimiento de su CPU comparado con otros Mac...",
+            "snippet": "Viendo la tabla es cierto el rendimiento es muy parejo al de equipos base como el Mac Mini o iMac, dos mac que usan un procesador a la misma frecuencia de 1,4Ghz. No se vosotros pero a mi me convence, y no me olvido que el rendimiento de su unidad...",
+            "date": "2015-04-25",
+            "categories": "macbook,imac",
+            "tags": "rendimiento,procesador,mini,muy,equipos,nuevo,macbook,cpu,mac,imac,ghz",
+            "recuweb_url": "http://es.recuweb.com/imac/applesfera.com/2015/04/nuevo-macbook-el-rendimiento-de-su-cpu-comparado-con-otros-mac",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
+            "source_url": "http://applesfera.com/portatil/nuevo-macbook-el-rendimiento-de-su-cpu-en-comparacion-con-otros-mac"
+        },
+        "mashable.com/2015/04/acer-s-adorable-little-revo-one-mini-pc-takes-on": {
+            "title": "Acer's adorable little Revo One mini PC takes on the Mac Mini - Mashable...",
+            "snippet": "MashableAcer's adorable little Revo One mini PC takes on the Mac MiniMashableThe hard drives are all easily user-swappable, unlike the Mac Mini's, which requires a whole lot more disassembling, according to iFixit. Each drive can have a maximum...",
+            "date": "2015-04-24",
+            "categories": "mac-mini",
+            "tags": "which,mac,mac_mini,mini",
+            "recuweb_url": "http://es.recuweb.com/mac-mini/mashable.com/2015/04/acer-s-adorable-little-revo-one-mini-pc-takes-on",
+            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bmini&output=atom&nord=1",
+            "source_url": "http://mashable.com/2015/04/23/acer-revo-one-mini-pc-hands-on/"
+        },
+        "tecnologia.hola.com/2015/04/y-t%C3%BA-qu%C3%A9-teclado-tienes": {
+            "title": "Y t\u00fa, \u00bfqu\u00e9 teclado tienes?",
+            "snippet": "Habitualmente yo uso un Apple Keyboard en mi Mac Mini y un Logitech K750 con placas solares en mi PC y me van genial, aunque a este \u00faltimo haya conseguido borrar algunas letras. Los teclados de membrana se llaman as\u00ed porque se accionan gracias a...",
+            "date": "2015-04-24",
+            "categories": "mac-mini",
+            "tags": "porque,gracias,van,mac,mac_mini,mini,apple,uso",
+            "recuweb_url": "http://es.recuweb.com/mac-mini/tecnologia.hola.com/2015/04/y-t%C3%BA-qu%C3%A9-teclado-tienes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
+            "source_url": "http://tecnologia.hola.com/y-tu-que-teclado-tienes/3845/"
+        },
+        "somoslibres.org/2015/04/endless-la-computadora-de-bajo-costo-que-quiere-conectar-a-am%C3%A9rica": {
+            "title": "Endless, la computadora de bajo costo que quiere conectar a Am\u00e9rica Latina...",
+            "snippet": "A ra\u00edz de este acercamiento se tom\u00f3 la determinaci\u00f3n de desarrollar el Endless OS y tambi\u00e9n se opt\u00f3 por su modelo de funcionamiento, similar al de la Mac Mini de Apple, donde la compa\u00f1\u00eda distribuir\u00e1 exclusivamente el CPU con sus respectivos...",
+            "date": "2015-04-23",
+            "categories": "mac-mini,computadora",
+            "tags": "mac,mac_mini,mini,similar,computadora,quiere,endless,apple,cpu",
+            "recuweb_url": "http://es.recuweb.com/computadora/somoslibres.org/2015/04/endless-la-computadora-de-bajo-costo-que-quiere-conectar-a-am%C3%A9rica",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
+            "source_url": "http://somoslibres.org/modules.php?name=News&file=article&sid=6914"
+        },
         "cnnexpansion.com/2015/04/endless-quiere-convertirse-en-la-apple-del-pueblo": {
             "title": "Endless quiere convertirse en la Apple del pueblo...",
             "snippet": "As\u00ed lo van a comprar igual que compran la televisi\u00f3n o el smartphone, dijo. Al estilo Mac Mini La Endless se vende en un formato muy similar a la de la Mac Mini de Apple: \u00fanicamente se incluye el CPU de la computadora y los cables de carga y un...",
             "date": "2015-04-22",
             "categories": "computadora,mac-mini,television",
-            "tags": "computadora,mac,mac_mini,mini,comprar,apple",
+            "tags": "computadora,muy,similar,mac,mac_mini,mini,van,comprar,quiere,endless,apple,cpu",
             "recuweb_url": "http://es.recuweb.com/television/cnnexpansion.com/2015/04/endless-quiere-convertirse-en-la-apple-del-pueblo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
             "source_url": "http://cnnexpansion.com/tecnologia/2015/04/21/somos-apple-para-el-resto-del-mundo-endless"
-        },
-        "rollingstone.com/2015/04/mac-demarco-plots-mini-lp-another-one-massive-tour": {
-            "title": "Mac DeMarco Plots Mini-LP 'Another One,'Massive Tour -...",
-            "snippet": "DeMarco Plots Mini-LP 'Another One,'Massive of the mini-LP was cut this past March, as evidenced by a new promo video shot by DeMarco's girlfriend, Kiera McNally. McNally captures the musician in his home studio working on Another One but mostly...",
-            "date": "2015-04-22",
-            "tags": "cut,demarco,mini,another,another_one,mac,mac_demarco",
-            "recuweb_url": "http://es.recuweb.com/rollingstone.com/2015/04/mac-demarco-plots-mini-lp-another-one-massive-tour",
-            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bmini&output=atom&nord=1",
-            "source_url": "http://rollingstone.com/music/news/mac-demarco-plots-mini-lp-another-one-massive-tour-20150422"
-        },
-        "chilango.com/2015/04/mac-demarco-anuncia-nuevo-mini-lp-another-one-chilango": {
-            "title": "Mac DeMarco anuncia nuevo mini-LP: Another One - Chilango...",
-            "snippet": "ChilangoMac DeMarco anuncia nuevo mini-LP: Another OneChilangoMac DeMarco tiene una larga serie de conciertos pr\u00f3ximos, pero no por ello se ha olvidado de lanzar m\u00fasica nueva, por lo que anunci\u00f3 la salida de un mini-LP titulado \"Another One\", el...",
-            "date": "2015-04-22",
-            "tags": "another,another_one,demarco,anuncia,nuevo,mac,mac_demarco,mini,nueva",
-            "recuweb_url": "http://es.recuweb.com/chilango.com/2015/04/mac-demarco-anuncia-nuevo-mini-lp-another-one-chilango",
-            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://chilango.com/musica/nota/2015/04/22/mac-demarco-anuncia-nuevo-mini-lp-another-one"
         },
         "ipadizate.es/2015/04/evita-renovar-tu-mac-instalando-un-nuevo-disco-ssd": {
             "title": "Evita Renovar tu Mac Instalando un Nuevo Disco SSD...",
             "snippet": "Sin embargo, con el paso del tiempo es posible que notes que tu iMac, MacBook o Mac Mini vaya m\u00e1s lento de lo normal, que le cueste abrir aplicaciones e incluso el navegador. Pero no te preocupes, porque puedes alargar a\u00fan m\u00e1s la vida de tu...",
             "date": "2015-04-21",
             "categories": "mac-mini,imac,macbook",
-            "tags": "porque,incluso,navegador,mac,mac_mini,mini,nuevo,imac,macbook",
+            "tags": "porque,mac,mac_mini,mini,nuevo,ssd,imac,macbook",
             "recuweb_url": "http://es.recuweb.com/macbook/ipadizate.es/2015/04/evita-renovar-tu-mac-instalando-un-nuevo-disco-ssd",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
             "source_url": "http://ipadizate.es/2015/04/21/instala-nuevo-disco-ssd-mac/"
@@ -54,7 +76,7 @@
             "snippet": "MacBook Air (mediados de 2012 y posteriores), MacBook Pro (mediados de 2012 y posteriores), iMac (finales de 2012 y posteriores), Mac mini (finales de 2012 y posteriores) y Mac Pro (finales 2013). Adem\u00e1s de los requisitos de hardware y del...",
             "date": "2015-04-21",
             "categories": "hardware,macbook,imac",
-            "tags": "hardware,finales,macbook,macbook_pro,pro,macbook_air,air,imac,mac,mini",
+            "tags": "finales,macbook,macbook_pro,pro,macbook_air,air,imac,mac,mini",
             "recuweb_url": "http://es.recuweb.com/imac/es.paperblog.com/2015/04/handoff-activa-la-funci%C3%B3n-ya",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/handoff-activa-la-funcion-ya-3171258/"
@@ -63,49 +85,29 @@
             "title": "WikiLeaks divulga m\u00e1s de documentos del hackeo a Sony...",
             "snippet": "HP presenta un PC que parece un Mac mini, Microsoft anuncia el Nokia 215: historias del d\u00eda Los documentos robados por los piratas inform\u00e1ticos fueron presentados a los medios el a\u00f1o pasado. Ellos incluyen comprometidos correos electr\u00f3nicos de...",
             "date": "2015-04-17",
-            "tags": "correos,anuncia,mac,mini",
+            "tags": "correos,mac,mini",
             "recuweb_url": "http://es.recuweb.com/europapress.es/2015/04/wikileaks-divulga-m%C3%A1s-de-documentos-del-hackeo-a-sony",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
             "source_url": "http://europapress.es/portaltic/internet/noticia-wikileaks-divulga-mas-30000-documentos-hackeo-sony-20150417094442.html"
         },
-        "msn.com/2015/04/los-fracasos-de-apple": {
-            "title": "Los fracasos de Apple...",
-            "snippet": "Su sucesor ha sido el Mac Mini, aunque su dise\u00f1o le ha valido incluso para exponerse como obra de arte en museos. El \u00e1rea del ocio electr\u00f3nico ha sido una de las asignaturas pendientes de Apple. Con la llegada de las primeras consolas...",
-            "date": "2015-04-14",
-            "categories": "mac-mini",
-            "tags": "sido,incluso,mac,mac_mini,mini,apple",
-            "recuweb_url": "http://es.recuweb.com/mac-mini/msn.com/2015/04/los-fracasos-de-apple",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
-            "source_url": "http://msn.com/es-es/noticias/tecnologia/los-fracasos-de-apple/ar-AAaCecF?srcref=rss"
+        "macworld.com/2015/04/use-an-external-ssd-to-make-old-mac-feel-new-without": {
+            "title": "Use an external SSD to make an old Mac feel new (without cracking... - Macworld...",
+            "snippet": "MacworldUse an external SSD to make an old Mac feel new (without cracking...MacworldMy mid-2011 Mac mini had slowed down. Way down. Starting with Mavericks, the mini would eventually bog down after a number of days between restarts, and require a...",
+            "date": "2015-04-08",
+            "tags": "ssd,mac,mini",
+            "recuweb_url": "http://es.recuweb.com/macworld.com/2015/04/use-an-external-ssd-to-make-old-mac-feel-new-without",
+            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bmini&output=atom&nord=1",
+            "source_url": "http://macworld.com/article/2907125/use-an-external-ssd-to-make-an-old-mac-feel-new-without-cracking-it-open.html"
         },
-        "faq-mac.com/2015/04/los-usuarios-siguen-usando-el-mac-para-jugar-seg%C3%BAn-steam": {
-            "title": "Los usuarios siguen usando el Mac para jugar seg\u00fan Steam...",
-            "snippet": "Al respecto del hardware de Apple, los Macs m\u00e1s utilizados para jugar son: MacBook Pro, con un 52% iMac con un 23,3% MacBook con un 19,48% Mac Pro con un 1,89% Mac Mini con un 3,31% Otros con un 0,02% El sistema operativo m\u00e1s popular es OS X...",
-            "date": "2015-04-13",
-            "categories": "macbook,hardware,imac",
-            "tags": "mini,pro,macbook,macbook_pro,hardware,mac,apple,son,imac",
-            "recuweb_url": "http://es.recuweb.com/imac/faq-mac.com/2015/04/los-usuarios-siguen-usando-el-mac-para-jugar-seg%C3%BAn-steam",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
-            "source_url": "http://faq-mac.com/2015/04/los-usuarios-siguen-usando-el-mac-para-jugar-segun-steam/"
-        },
-        "bandaancha.eu/2015/04/200-megas-y-mac": {
-            "title": "200 megas y mac...",
-            "snippet": "A mi el mac mini me da mas ping en firefox sobre mac, probablemente porque el plugung de flash es una casta\u00f1a. La forma correcta de hacerlo, m\u00e1s que en cualquier navegador, La forma correcta de hacerlo, m\u00e1s que en cualquier navegador, ser\u00eda...",
-            "date": "2015-04-12",
-            "tags": "navegador,porque,mac,mini",
-            "recuweb_url": "http://es.recuweb.com/bandaancha.eu/2015/04/200-megas-y-mac",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
-            "source_url": "http://bandaancha.eu/foros/200-megas-mac-1717345"
-        },
-        "faq-mac.com/2015/04/apple-retira-el-soporte-a-los-macbook-pro-de-2009": {
-            "title": "Apple retira el soporte a los MacBook Pro de 2009...",
-            "snippet": "Lo mismo ocurre con los Mac comprados y residentes en Turqu\u00eda. Junto con los MacBook Pro de 2009, los Mac Mini Early 2009 y los iMac de 20 y 24 pulgadas de ese a\u00f1o tambi\u00e9n han sido declarados obsoletos.",
-            "date": "2015-04-09",
-            "categories": "macbook,imac",
-            "tags": "ese,sido,mini,macbook,macbook_pro,pro,apple,mac,imac",
-            "recuweb_url": "http://es.recuweb.com/imac/faq-mac.com/2015/04/apple-retira-el-soporte-a-los-macbook-pro-de-2009",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=es",
-            "source_url": "http://faq-mac.com/2015/04/apple-retira-el-soporte-a-los-macbook-pro-de-2009/"
+        "macrumors.com/2015/04/rumored-ipad-mini-4-rear-shell-with-air-2-design-elements": {
+            "title": "Rumored iPad Mini 4 Rear Shell With iPad Air 2 Design Elements... - Mac Rumors...",
+            "snippet": "Mac RumorsRumored iPad Mini 4 Rear Shell With iPad Air 2 Design Elements...Mac RumorsWhen Apple launched the iPad Air 2 and the iPad mini 3 in late 2014, many people were disappointed with the iPad mini update, which essentially just added Touch ID...",
+            "date": "2015-04-07",
+            "categories": "ipad",
+            "tags": "which,mac,apple,air,mini,late",
+            "recuweb_url": "http://es.recuweb.com/ipad/macrumors.com/2015/04/rumored-ipad-mini-4-rear-shell-with-air-2-design-elements",
+            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bmini&output=atom&nord=1",
+            "source_url": "http://macrumors.com/2015/04/07/ipad-mini-4-rear-shell-images/"
         }
     }
 }

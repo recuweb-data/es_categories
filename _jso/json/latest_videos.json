@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/json/",
@@ -11,25 +11,13 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
-        "youtube.com/2015/02/tutorial-android-studio-conseguir-informaci%C3%B3n-de-la-web-json-librer%C3%ADa-picasso": {
-            "title": "Tutorial Android Studio - Conseguir informaci\u00f3n de la web: JSON Librer\u00eda Picasso...",
-            "snippet": "Tutorial Android Studio - Conseguir informaci\u00f3n de la web: JSON Librer\u00eda Picasso En este v\u00eddeo se va a conseguir informaci\u00f3n; nombre, id e imagen de perfil, desde cualquier perfil de Facebook para a\u00f1adirlo a nuestros textViews o ImageViews, en...",
-            "date": "2015-02-07",
-            "author_name": "Desarrollador Android",
-            "categories": "json,facebook",
-            "tags": "v\u00eddeo,json,web,tutorial,android,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2015/02/tutorial-android-studio-conseguir-informaci%C3%B3n-de-la-web-json-librer%C3%ADa-picasso",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json%2Bjson&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=3-qzF_2LALk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/3-qzF_2LALk/0.jpg"
-        },
         "youtube.com/2015/01/curso-de-dise%C3%B1o-y-programaci%C3%B3n-web-arreglos-asociativos-json": {
             "title": "Curso de Dise\u00f1o y Programaci\u00f3n Web:: Arreglos asociativos y JSON...",
             "snippet": "Curso de Dise\u00f1o y Programaci\u00f3n Web:: Arreglos asociativos y JSON Bienvenido al Curso Gratuito de Dise\u00f1o y Programaci\u00f3n Web de Bextlan, esta es la clase 18. Accede al curso completo en: Nuestra web: Facebook:... From: bextlan lugar de bits...",
             "date": "2015-01-06",
             "author_name": "bextlan lugar de bits vectores y pixeles",
             "categories": "json,facebook",
-            "tags": "curso,completo,clase,web,json,facebook",
+            "tags": "curso,completo,clase,web,json",
             "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2015/01/curso-de-dise%C3%B1o-y-programaci%C3%B3n-web-arreglos-asociativos-json",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json%2Bjson&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=5RMi1wAgweM&feature=youtube_gdata",
@@ -55,7 +43,7 @@
             "categories": "desarrollo-web,json",
             "tags": "datos,web,completo,curso,json",
             "recuweb_url": "http://es.recuweb.com/json/youtube.com/2014/12/curso-completo-de-json-intercambio-datos-para-desarrollo-web-y-m%C3%B3vil",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json%2Bjson&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=mmNI80bGOY4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/mmNI80bGOY4/0.jpg"
         },
@@ -77,7 +65,7 @@
             "date": "2014-11-02",
             "author_name": "Gonzalo P\u00e9rez",
             "categories": "php,json",
-            "tags": "datos,respuesta,android,json",
+            "tags": "datos,respuesta,json",
             "recuweb_url": "http://es.recuweb.com/json/youtube.com/2014/11/conexi%C3%B3n-android-php-json-de-manera-sencilla",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=oLm_5GKHJCI&feature=youtube_gdata",
@@ -125,11 +113,23 @@
             "date": "2014-06-26",
             "author_name": "mivideo2brain",
             "categories": "json",
-            "tags": "json,v\u00eddeo,curso,tutorial,completo",
+            "tags": "json,v\u00eddeo,v\u00eddeo-est\u00e1-extra\u00eddo,extra\u00eddo,curso,tutorial,tutorial_json,brain,completo,mivideo",
             "recuweb_url": "http://es.recuweb.com/json/youtube.com/2014/06/tutorial-json-en-ios-video2brain",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json%2Bjson&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=nOLmnflilhM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/nOLmnflilhM/0.jpg"
+        },
+        "youtube.com/2014/06/tutorial-json-qu%C3%A9-es-video2brain": {
+            "title": "Tutorial JSON: Qu\u00e9 es JSON video2brain...",
+            "snippet": "Tutorial JSON: Qu\u00e9 es JSON video2brain Curso completo: Qu\u00e9 es JSON y sus ventajas para la gesti\u00f3n de datos. Compatibilidad con lenguajes y comparativa con otras alternativas. Este v\u00eddeo est\u00e1 extra\u00eddo... From: mivideo2brain Views: 816 11...",
+            "date": "2014-06-26",
+            "author_name": "mivideo2brain",
+            "categories": "json",
+            "tags": "v\u00eddeo,v\u00eddeo-est\u00e1-extra\u00eddo,extra\u00eddo,datos,tutorial,tutorial_json,json,brain,curso,completo,mivideo",
+            "recuweb_url": "http://es.recuweb.com/json/youtube.com/2014/06/tutorial-json-qu%C3%A9-es-video2brain",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=json%2Bjson&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=sFWajTpCWrk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sFWajTpCWrk/0.jpg"
         }
     }
 }

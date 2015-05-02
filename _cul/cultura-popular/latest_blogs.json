@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "cultura-popular",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura-popular/",
@@ -11,6 +11,61 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura-popular/cultura-popular/blogs.json"
     },
     "items": {
+        "prpop.org/2015/04/gran-diosas-y-memorables-fundaci%C3%B3n-nacional-para-la-cultura": {
+            "title": "'Gran-Diosas'y memorables Fundaci\u00f3n Nacional para la Cultura...",
+            "snippet": "Por Jaime Torres Torres Para Fundaci\u00f3n Nacional para la Cultura Popular. Cada voz es un deleite. Cada artista es un espect\u00e1culo aparte. Y cuando coinciden en un escenario, como aconteci\u00f3 el s\u00e1bado en el Centro de...",
+            "date": "2015-04-26",
+            "author_name": "Javier Santiago",
+            "categories": "cultura",
+            "tags": "s\u00e1bado,escenario,artista,voz,jaime,jaime-torres,torres,fundaci\u00f3n,fundaci\u00f3n_nacional,nacional,gran,diosas,cultura,popular,centro",
+            "recuweb_url": "http://es.recuweb.com/cultura/prpop.org/2015/04/gran-diosas-y-memorables-fundaci%C3%B3n-nacional-para-la-cultura",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prpop.org/2015/04/gran-diosas-y-memorables/"
+        },
+        "prpop.org/2015/04/una-voz-contra-la-violencia-fundaci%C3%B3n-nacional-para-cultura": {
+            "title": "Una voz contra la violencia Fundaci\u00f3n Nacional para la Cultura...",
+            "snippet": "Una voz contra la violencia. publicado el 26 de abril de 2015. Por Jaime Torres Torres Para Fundaci\u00f3n Nacional para la Cultura Popular. Calladita y sin fanfarrias, la joven cantautora y guitarrista puertorrique\u00f1a Adrianna Naomi se abre paso...",
+            "date": "2015-04-26",
+            "author_name": "Javier Santiago",
+            "categories": "cultura",
+            "tags": "joven,jaime,jaime-torres,torres,fundaci\u00f3n,fundaci\u00f3n_nacional,nacional,voz,cultura,popular",
+            "recuweb_url": "http://es.recuweb.com/cultura/prpop.org/2015/04/una-voz-contra-la-violencia-fundaci%C3%B3n-nacional-para-cultura",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prpop.org/2015/04/una-voz-contra-la-violencia/"
+        },
+        "prpop.org/2015/04/betances-en-banda-sonora-y-concierto-fundaci%C3%B3n-nacional": {
+            "title": "'Betances'en banda sonora y concierto Fundaci\u00f3n Nacional para...",
+            "snippet": "En entrevista con la Fundaci\u00f3n Nacional para la Cultura Popular, Rom\u00e1n adelant\u00f3 detalles de la banda sonora del documental que pronto estar\u00e1 al alcance de los simpatizantes del cine cultural y alternativo en el formato de...",
+            "date": "2015-04-23",
+            "author_name": "Javier Santiago",
+            "categories": "cultura,cultura-popular,cine",
+            "tags": "cultural,cultura,cultura_popular,popular,entrevista,fundaci\u00f3n,fundaci\u00f3n_nacional,nacional,concierto,cine",
+            "recuweb_url": "http://es.recuweb.com/cine/prpop.org/2015/04/betances-en-banda-sonora-y-concierto-fundaci%C3%B3n-nacional",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prpop.org/2015/04/betances-en-banda-sonora-y-concierto/"
+        },
+        "prpop.org/2015/04/la-fuerza-de-ser-mujer-fundaci%C3%B3n-nacional-para-cultura-popular": {
+            "title": "La Fuerza de ser Mujer - Fundaci\u00f3n Nacional para la Cultura Popular...",
+            "snippet": "Chabela Rodr\u00edguez ser\u00e1 la voz de Borinquen en el concierto \"Gran-Diosas\" que se presenta este s\u00e1bado en el Centro de Bellas Artes de Caguas. (Foto Javier Santiago/Fundaci\u00f3n Nacional para la Cultura Popular)...",
+            "date": "2015-04-23",
+            "author_name": "Javier Santiago",
+            "categories": "bellas-artes,cultura,cultura-popular",
+            "tags": "diosas,s\u00e1bado,concierto,gran,ser\u00e1,voz,cultura,cultura_popular,popular,fundaci\u00f3n,fundaci\u00f3n_nacional,nacional,centro",
+            "recuweb_url": "http://es.recuweb.com/cultura-popular/prpop.org/2015/04/la-fuerza-de-ser-mujer-fundaci%C3%B3n-nacional-para-cultura-popular",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prpop.org/2015/04/la-fuerza-de-ser-mujer/"
+        },
+        "prpop.org/2015/04/una-trompeta-para-la-salsa-y-el-jazz-fundaci%C3%B3n-nacional": {
+            "title": "Una trompeta para la salsa y el jazz Fundaci\u00f3n Nacional para la...",
+            "snippet": "Con un poco de estructura y disciplina, muchas veces concentrado espec\u00edficamente en uno de los dos g\u00e9neros, y luego en el otro, dijo en entrevista telef\u00f3nica a la Fundaci\u00f3n Nacional para la Cultura Popular. Motivado...",
+            "date": "2015-04-20",
+            "author_name": "Javier Santiago",
+            "categories": "cultura,cultura-popular,salsa",
+            "tags": "cultura,cultura_popular,popular,entrevista,luego,dos,fundaci\u00f3n,fundaci\u00f3n_nacional,nacional",
+            "recuweb_url": "http://es.recuweb.com/salsa/prpop.org/2015/04/una-trompeta-para-la-salsa-y-el-jazz-fundaci%C3%B3n-nacional",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prpop.org/2015/04/una-trompeta-para-la-salsa-y-el-jazz/"
+        },
         "huertosonoro.wordpress.com/2015/04/no-time-for-love-cultura-popular-y-como-nos-apropiamos": {
             "title": "No time for love; cultura popular y como nos apropiamos de las...",
             "snippet": "Muchas canciones hablan de tonter\u00edas y banalidades: de rockanrollear toda la noche, de meterse mil rayas, de dragones y mazmorras. Otras en cambio son la viva expresi\u00f3n de un sentimiento popular, de un suceso hist\u00f3rico...",
@@ -19,19 +74,8 @@
             "categories": "cultura",
             "tags": "noche,cultura,popular",
             "recuweb_url": "http://es.recuweb.com/cultura/huertosonoro.wordpress.com/2015/04/no-time-for-love-cultura-popular-y-como-nos-apropiamos",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://huertosonoro.wordpress.com/2015/04/16/no-time-for-love-cultura-popular-y-como-nos-apropiamos-de-las-canciones/"
-        },
-        "prpop.org/2015/04/excelencia-en-la-dama-de-las-camelias-fundaci%C3%B3n-nacional": {
-            "title": "Excelencia en 'La dama de las camelias'Fundaci\u00f3n Nacional para...",
-            "snippet": "Por Alina Marrero Para Fundaci\u00f3n Nacional para la Cultura Popular. Siempre nos entusiasma ir al Ateneo Puertorrique\u00f1o a ver el trabajo del Conservatorio de Arte Dram\u00e1tico (CADAP). Nos conmueve la efectividad de los...",
-            "date": "2015-04-15",
-            "author_name": "Javier Santiago",
-            "categories": "cultura,cultura-popular",
-            "tags": "arte,trabajo,cultura,cultura_popular,popular,siempre",
-            "recuweb_url": "http://es.recuweb.com/cultura-popular/prpop.org/2015/04/excelencia-en-la-dama-de-las-camelias-fundaci%C3%B3n-nacional",
             "resource_url": "http://www.google.com/search?q=cultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://prpop.org/2015/04/excelencia-en-la-dama-de-las-camelias/"
+            "source_url": "http://huertosonoro.wordpress.com/2015/04/16/no-time-for-love-cultura-popular-y-como-nos-apropiamos-de-las-canciones/"
         },
         "siempre.com.mx/2015/04/pedro-infante-%C3%ADcono-de-la-cultura-popular-mexicana-siempre": {
             "title": "Pedro Infante, \u00edcono de la cultura popular mexicana Siempre!",
@@ -39,43 +83,32 @@
             "date": "2015-04-15",
             "author_name": "Karla Arenas",
             "categories": "cultura",
-            "tags": "mexicana,considerado,\u00edcono,pedro,pedro_infante,infante,cultura,popular,siempre,diversos",
+            "tags": "homenajes,mexicana,\u00edcono,cultura,popular,siempre",
             "recuweb_url": "http://es.recuweb.com/cultura/siempre.com.mx/2015/04/pedro-infante-%C3%ADcono-de-la-cultura-popular-mexicana-siempre",
             "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://siempre.com.mx/2015/04/pedro-infante-icono-de-la-cultura-popular-mexicana/"
-        },
-        "prensa-salta.gov.ar/2015/04/homenajear%C3%A1n-a-dos-grandes-exponentes-de-la-cultura-popular": {
-            "title": "Homenajear\u00e1n a dos grandes exponentes de la cultura popular...",
-            "snippet": "Se trata del bagualero Tom\u00e1s V\u00e1zquez y el fallecido poeta y compositor Abel M\u00f3nico Saravia. Con el auspicio de la Municipalidad, quienes ser\u00e1n reconocidos por los Amigos del Arte y la Cultura de Salta Jos\u00e9 Juan Botelli.",
-            "date": "2015-04-14",
-            "author_name": "prensa1",
-            "categories": "cultura",
-            "tags": "ser\u00e1n,dos,cultura,popular,arte",
-            "recuweb_url": "http://es.recuweb.com/cultura/prensa-salta.gov.ar/2015/04/homenajear%C3%A1n-a-dos-grandes-exponentes-de-la-cultura-popular",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://prensa-salta.gov.ar/2015/04/14/homenajearan-a-dos-grandes-exponentes-de-la-cultura-popular-saltena/"
         },
         "lahaine.org/2015/04/la-recontracultura-cultura-popular-vs-de-masas-haine": {
             "title": "La recontracultura (cultura popular vs cultura de masas) - La Haine...",
             "snippet": "Sobre todo a partir de la II Guerra Mundial y con la difusi\u00f3n masiva de la televisi\u00f3n, la cultura popular, surgida del pueblo y para el pueblo, ha sido progresivamente arrinconada por una espuria cultura de masas producida...",
             "date": "2015-04-09",
             "author_name": "La Haine",
-            "categories": "television,cultura",
-            "tags": "sido,pueblo,televisi\u00f3n,cultura,popular",
-            "recuweb_url": "http://es.recuweb.com/cultura/lahaine.org/2015/04/la-recontracultura-cultura-popular-vs-de-masas-haine",
+            "categories": "cultura,television",
+            "tags": "sido,pueblo,partir,cultura,popular,televisi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/television/lahaine.org/2015/04/la-recontracultura-cultura-popular-vs-de-masas-haine",
             "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://lahaine.org/est_espanol.php/la-recontracultura-cultura-popular-vs"
         },
-        "siempre.com.mx/2015/04/sancho-panza-la-cultura-popular-como-una-bomba-de-tiempo": {
-            "title": "Sancho Panza: la cultura popular como una bomba de tiempo...",
-            "snippet": "Cuando leo el Quijote, lo primero que se me viene a la cabeza, aunque usted no lo crea, es el ensayo de Lenin, s\u00ed me refiero a Vladimir Ilich Ulianov, que lleva por nombre Le\u00f3n Tolstoi, espejo de la revoluci\u00f3n rusa. Como...",
-            "date": "2015-04-07",
-            "author_name": "Antonio",
+        "larepublica.es/2015/04/la-juventud-comunista-de-sevilla-defiende-una-semana-santa": {
+            "title": "La Juventud Comunista de Sevilla defiende una semana santa de...",
+            "snippet": "Inicio Noticias Espa\u00f1a La Juventud Comunista de Sevilla defiende una semana santa de cultura popular... Noticias... La cultura del pueblo s\u00f3lo pertenece al pueblo, no a los sectores m\u00e1s adinerados y rancios de la ciudad.",
+            "date": "2015-04-01",
+            "author_name": "Republica",
             "categories": "cultura",
-            "tags": "lleva,s\u00ed,ensayo,cultura,popular",
-            "recuweb_url": "http://es.recuweb.com/cultura/siempre.com.mx/2015/04/sancho-panza-la-cultura-popular-como-una-bomba-de-tiempo",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://siempre.com.mx/2015/04/sancho-panza-la-cultura-popular-como-una-bomba-de-tiempo/"
+            "tags": "pueblo,semana,santa,cultura,popular,ciudad",
+            "recuweb_url": "http://es.recuweb.com/cultura/larepublica.es/2015/04/la-juventud-comunista-de-sevilla-defiende-una-semana-santa",
+            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://larepublica.es/2015/04/01/la-juventud-comunista-de-sevilla-defiende-una-semana-santa-de-cultura-popular-y-sin-privilegios/"
         },
         "ocio.diariodeibiza.es/2015/04/las-jornadas-de-cultura-popular-este-a%C3%B1o-estar%C3%A1n-dedicadas": {
             "title": "Las Jornadas de Cultura Popular de este a\u00f1o estar\u00e1n dedicadas a...",
@@ -83,43 +116,10 @@
             "date": "2015-04-01",
             "author_name": "Diario de Ibiza",
             "categories": "cultura,cultura-popular",
-            "tags": "sido,cultura,cultura_popular,popular",
+            "tags": "sido,ser\u00e1,cultura,cultura_popular,popular",
             "recuweb_url": "http://es.recuweb.com/cultura-popular/ocio.diariodeibiza.es/2015/04/las-jornadas-de-cultura-popular-este-a%C3%B1o-estar%C3%A1n-dedicadas",
             "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ocio.diariodeibiza.es/agenda/noticias/nws-402629-las-jornadas-cultura-popular-ano-estaran-dedicadas-sal.html"
-        },
-        "tercerainformacion.es/2015/03/la-ujce-defiende-una-semana-santa-de-cultura-popular": {
-            "title": "La UJCE defiende una semana santa de cultura popular y sin...",
-            "snippet": "La UJCE defiende una semana santa de cultura popular y sin privilegios. Desde la juventud comunista sevillana manifiestan su apoyo \"a una festividad popular que no deber\u00eda tener due\u00f1os que intentaran apropiarse de...",
-            "date": "2015-03-31",
-            "author_name": "desconocido",
-            "categories": "cultura",
-            "tags": "semana,cultura,popular",
-            "recuweb_url": "http://es.recuweb.com/cultura/tercerainformacion.es/2015/03/la-ujce-defiende-una-semana-santa-de-cultura-popular",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tercerainformacion.es/spip.php?article83620"
-        },
-        "sgae.es/2015/03/el-gran-timplista-canario-totoyo-millares-premio-canarias-de-sgae": {
-            "title": "El gran timplista canario Totoyo Millares, Premio Canarias de... - Sgae...",
-            "snippet": "El gran timplista canario Totoyo Millares ha sido reconocido con el Premio Canarias de Cultura Popular 2015. Se est\u00e1 reconociendo muchos a\u00f1os de trabajo. Por mi academia del timple han pasado alumnos desde...",
-            "date": "2015-03-28",
-            "author_name": "Editor",
-            "categories": "cultura,cultura-popular",
-            "tags": "trabajo,cultura,cultura_popular,popular,sido,premio,gran",
-            "recuweb_url": "http://es.recuweb.com/cultura-popular/sgae.es/2015/03/el-gran-timplista-canario-totoyo-millares-premio-canarias-de-sgae",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://sgae.es/el-gran-timplista-canario-totoyo-millares-premio-canarias-de-cultura-popular-2015/"
-        },
-        "cookingideas.es/2015/03/ancianos-de-la-cultura-popular-cuando-darth-vader-lleva-un-bast%C3%B3n": {
-            "title": "Ancianos de la cultura popular: cuando Darth Vader lleva un bast\u00f3n...",
-            "snippet": "No se libran, siquiera, los personajes de la cultura popular, que en manos del ilustrador estadounidense Alex Solis han visto c\u00f3mo sus rostros se llenaban de arrugas, sus espaldas se arqueaban y donde un d\u00eda hab\u00eda una...",
-            "date": "2015-03-26",
-            "author_name": "Redacci\u00f3n",
-            "categories": "cultura",
-            "tags": "d\u00eda,hab\u00eda,visto,lleva,cultura,popular",
-            "recuweb_url": "http://es.recuweb.com/cultura/cookingideas.es/2015/03/ancianos-de-la-cultura-popular-cuando-darth-vader-lleva-un-bast%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=cultura%2Bpopular%2Bcultura%2Bpopular&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cookingideas.es/yo-soy-tu-abuelo-20150326.html"
         }
     }
 }

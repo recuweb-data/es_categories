@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "voleibol",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/voleibol/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/voleibol/voleibol/blogs.json"
     },
     "items": {
-        "diariomomento.com/2015/04/participar%C3%A1n-2-mil-deportistas-en-el-torneo-nacional-de-voleibol": {
-            "title": "Participar\u00e1n 2 mil deportistas en el Torneo Nacional de Voleibol de...",
-            "snippet": "Veracruz. El Puerto de Veracruz se encuentra listo para recibir, los d\u00edas 25 y 26 de abril, a m\u00e1s de 2 mil deportistas de todo el pa\u00eds, que participar\u00e1n en el X Torneo Nacional de Voleibol, que organiza el Movimiento...",
-            "date": "2015-04-23",
-            "author_name": "redaccion",
+        "vallavoley.es/2015/04/la-universidad-de-le%C3%B3n-centro-del-voleibol": {
+            "title": ":: La Universidad de Le\u00f3n, centro del voleibol...",
+            "snippet": "Desde el domingo 26 de abril y hasta el mi\u00e9rcoles 29, las instalaciones de la Universidad de Le\u00f3n ser\u00e1n el escenario del Campeonato de Espa\u00f1a Universitario de Voleibol. Cartel CEU voleibol 2015 La Universidad de Le\u00f3n...",
+            "date": "2015-04-25",
+            "author_name": "admin",
             "categories": "voleibol",
-            "tags": "deportistas,pa\u00eds,recibir,torneo,torneo_nacional,nacional,voleibol,abril,movimiento",
-            "recuweb_url": "http://es.recuweb.com/voleibol/diariomomento.com/2015/04/participar%C3%A1n-2-mil-deportistas-en-el-torneo-nacional-de-voleibol",
-            "resource_url": "http://www.google.com/search?q=voleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diariomomento.com/participaran-2-mil-deportistas-en-el-torneo-nacional-de-voleibol-de-antorcha/"
+            "tags": "escenario,voleibol,domingo,abril,campeonato",
+            "recuweb_url": "http://es.recuweb.com/voleibol/vallavoley.es/2015/04/la-universidad-de-le%C3%B3n-centro-del-voleibol",
+            "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://vallavoley.es/la-universidad-de-leon-centro-del-voleibol-universitario/"
+        },
+        "almomento.net/2015/04/dominicana-no-da-tregua-en-panamericano-voleibol": {
+            "title": "Dominicana no da tregua en Panamericano Voleibol...",
+            "snippet": "SANTO DOMINGO.- El sexteto de Rep\u00fablica Dominicana mantuvo su invicto en cuatro salidas no sin antes recibir una recia oposici\u00f3n en los dos primeros sets del partido que gan\u00f3 a Argentina 25-19, 25-22 y 25-14 en el...",
+            "date": "2015-04-23",
+            "author_name": "Omar Fourment",
+            "categories": "voleibol",
+            "tags": "antes,dos,dos-primeros,primeros,sets,partido,sexteto,rep\u00fablica,santo,santo_domingo,domingo,panamericano,panamericano_voleibol,voleibol,dominicana,argentina",
+            "recuweb_url": "http://es.recuweb.com/voleibol/almomento.net/2015/04/dominicana-no-da-tregua-en-panamericano-voleibol",
+            "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://almomento.net/dominicana-no-da-tregua-en-panamericano-voleibol/"
         },
         "radioreloj.cu/2015/04/d%C3%BAos-cubanos-rumbo-a-circuito-de-voleibol-radio-reloj": {
             "title": "D\u00faos cubanos rumbo a circuito de voleibol - Radio Reloj...",
@@ -28,10 +39,21 @@
             "date": "2015-04-21",
             "author_name": "Redacci\u00f3n Central",
             "categories": "radio,voleibol",
-            "tags": "antes,federaci\u00f3n,cubana,voleibol,caribe,playa",
+            "tags": "compromiso,cubanos,antes,federaci\u00f3n,cubana,radio,radio_reloj,reloj,circuito,voleibol,norte,centroam\u00e9rica,caribe,playa",
             "recuweb_url": "http://es.recuweb.com/voleibol/radioreloj.cu/2015/04/d%C3%BAos-cubanos-rumbo-a-circuito-de-voleibol-radio-reloj",
             "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://radioreloj.cu/index.php/noticias-radio-reloj/33-deportivas/22555-duos-cubanos-rumbo-a-circuito-de-voleibol"
+        },
+        "hoyvenezuela.info/2015/04/hoy-venezuela-voleibol-de-playa-venezolano-arranca-este-martes": {
+            "title": "Hoy Venezuela Voleibol de playa venezolano arranca este martes...",
+            "snippet": "El Abierto de Fuzhou, en China, que se desarrollar\u00e1 como un Circuito Mundial de Voleibol de Playa, ser\u00e1 clasificatorio a los XXXI Juegos Ol\u00edmpicos de R\u00edo de Janeiro 2016, inform\u00f3 la Federaci\u00f3n Venezolana de Voleibol...",
+            "date": "2015-04-21",
+            "author_name": "Tulio",
+            "categories": "voleibol",
+            "tags": "federaci\u00f3n,venezolana,circuito,mundial,desarrollar\u00e1,venezuela,voleibol,playa,china",
+            "recuweb_url": "http://es.recuweb.com/voleibol/hoyvenezuela.info/2015/04/hoy-venezuela-voleibol-de-playa-venezolano-arranca-este-martes",
+            "resource_url": "http://www.google.com/search?q=voleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hoyvenezuela.info/voleibol-de-playa-venezolano-arranca-este-martes-abierto-de-china-clasificatorio-rio-2016/"
         },
         "listindiario.com/2015/04/rd-aplasta-a-nicaragua-en-inicio-de-voleibol-panam": {
             "title": "RD aplasta a Nicaragua en inicio de voleibol Panam -...",
@@ -39,32 +61,21 @@
             "date": "2015-04-20",
             "author_name": "desconocido",
             "categories": "voleibol",
-            "tags": "voleibol,voleibol_femenino,femenino,copa,copa_panamericana,panamericana,primera,debut\u00f3,rep\u00fablica,rep\u00fablica_dominicana,dominicana,nicaragua,panam,jornada",
+            "tags": "tiene,voleibol,voleibol_femenino,femenino,copa,jornada,rep\u00fablica,rep\u00fablica_dominicana,dominicana,nicaragua,primera",
             "recuweb_url": "http://es.recuweb.com/voleibol/listindiario.com/2015/04/rd-aplasta-a-nicaragua-en-inicio-de-voleibol-panam",
             "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://listindiario.com/el-deporte/2015/4/19/364129/RD-aplasta-a-Nicaraguaen-inicio-de-voleibol-Panam"
         },
-        "surenio.com.ar/2015/04/voleibol-la-cuarta-final-el-sure%C3%B1o": {
-            "title": "Voleibol: la cuarta final El Sure\u00f1o...",
-            "snippet": "Luego del 3-1 del viernes (25-21, 28-26, 19-25 y 25-19), Bol\u00edvar intentar\u00e1 empatar a 2 la serie final de la Liga Argentina A1, cuando desde las 21:30 (televisa TyC Sports) reciba a UPCN, que de imponerse ser\u00e1...",
-            "date": "2015-04-19",
-            "author_name": "Silvia P\u00e9rez",
+        "vivevoley.peru.com/2015/04/san-mart%C3%ADn-es-campe%C3%B3n-de-la-liga-nacional-v%C3%B3leibol-vivevoley": {
+            "title": "\u00a1San Mart\u00edn es campe\u00f3n de la Liga Nacional de V\u00f3leibol! - ViveVoley...",
+            "snippet": "El sexteto de Juan Diego Garc\u00eda se coron\u00f3 campe\u00f3n de la Liga Nacional de V\u00f3leibol Femenino, luego de vencer a G\u00e9minis por 3 sets contra 1 con parciales de 26-24, 25-21, 25-22 y 25-23 en el Coliseo Dib\u00f3s, escenario que...",
+            "date": "2015-04-18",
+            "author_name": "desconocido",
             "categories": "voleibol",
-            "tags": "ser\u00e1,liga,argentina,voleibol,final,viernes,bol\u00edvar,upcn",
-            "recuweb_url": "http://es.recuweb.com/voleibol/surenio.com.ar/2015/04/voleibol-la-cuarta-final-el-sure%C3%B1o",
+            "tags": "escenario,sets,sexteto,liga,nacional,v\u00f3leibol,femenino",
+            "recuweb_url": "http://es.recuweb.com/voleibol/vivevoley.peru.com/2015/04/san-mart%C3%ADn-es-campe%C3%B3n-de-la-liga-nacional-v%C3%B3leibol-vivevoley",
             "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://surenio.com.ar/voleibol-la-cuarta-final/"
-        },
-        "hoyvenezuela.info/2015/04/bucaneros-debut%C3%B3-con-triunfo-en-la-liga-de-voleibol-hoy-venezuela": {
-            "title": "Bucaneros debut\u00f3 con triunfo en la Liga de Voleibol - Hoy Venezuela...",
-            "snippet": "Bucaneros de La Guaira derrot\u00f3 en el primer partido de la temporada de la Liga Venezolana de Voleibol masculino a Huracanes.",
-            "date": "2015-04-19",
-            "author_name": "Tulio",
-            "categories": "voleibol",
-            "tags": "masculino,venezolana,primer,partido,temporada,venezuela,debut\u00f3,triunfo,liga,voleibol",
-            "recuweb_url": "http://es.recuweb.com/voleibol/hoyvenezuela.info/2015/04/bucaneros-debut%C3%B3-con-triunfo-en-la-liga-de-voleibol-hoy-venezuela",
-            "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hoyvenezuela.info/bucaneros-debuto-con-triunfo-en-la-liga-de-voleibol/"
+            "source_url": "http://vivevoley.peru.com/liga-nacional/san-martin-vs-geminis-vivo-se-juega-segunda-final-noticia-347614"
         },
         "trabajadores.cu/2015/04/anuncian-n%C3%B3minas-para-xxvi-liga-mundial-de-voleibol-peri%C3%B3dico": {
             "title": "Anuncian n\u00f3minas para XXVI Liga Mundial de Voleibol - Peri\u00f3dico...",
@@ -72,32 +83,10 @@
             "date": "2015-04-17",
             "author_name": "Admin",
             "categories": "voleibol",
-            "tags": "dio,hace,federaci\u00f3n,liga,voleibol,mayo",
+            "tags": "dio,horas,federaci\u00f3n,internacional,xxvi,liga,liga_mundial,mundial,voleibol,mayo",
             "recuweb_url": "http://es.recuweb.com/voleibol/trabajadores.cu/2015/04/anuncian-n%C3%B3minas-para-xxvi-liga-mundial-de-voleibol-peri%C3%B3dico",
-            "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://trabajadores.cu/20150417/anuncian-nominas-para-xxvi-liga-mundial-de-voleibol/"
-        },
-        "vivevoley.peru.com/2015/04/san-mart%C3%ADn-vs-g%C3%A9minis-las-santas-dan-el-primer-paso": {
-            "title": "San Mart\u00edn vs G\u00e9minis: Las santas dan el primer paso en la final...",
-            "snippet": "Lima. San Mart\u00edn y G\u00e9minis protagonizaron la primera gran final de la Liga de V\u00f3leibol en el Coliseo Dib\u00f3s. Las dirigidas por Juan Diego Garc\u00eda lograron conseguir un triunfo justo por 3 sets contra 0 con parciales de 27-25,...",
-            "date": "2015-04-17",
-            "author_name": "desconocido",
-            "categories": "voleibol",
-            "tags": "sets,triunfo,primera,primer,final,liga,v\u00f3leibol",
-            "recuweb_url": "http://es.recuweb.com/voleibol/vivevoley.peru.com/2015/04/san-mart%C3%ADn-vs-g%C3%A9minis-las-santas-dan-el-primer-paso",
-            "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://vivevoley.peru.com/liga-nacional/san-martin-vs-geminis-vivo-final-liga-nacional-voley-noticia-347307"
-        },
-        "hoyvenezuela.info/2015/04/hoy-venezuela-ma%C3%B1ana-comienza-la-liga-venezolana-de-voleibol": {
-            "title": "Hoy Venezuela Ma\u00f1ana comienza la Liga Venezolana de Voleibol...",
-            "snippet": "Ma\u00f1ana viernes se inicia la temporada 2015 de la Liga Venezolana de Voleibol (LVV) masculino con dos partidos. La liga se inform\u00f3 que la primera jornada de la LVV, tras la salida del equipo Varyn\u00e1 Voleibol Club, fue...",
-            "date": "2015-04-16",
-            "author_name": "Tulio",
-            "categories": "voleibol",
-            "tags": "equipo,inform\u00f3,primera,masculino,inicia,temporada,liga,liga_venezolana,venezolana,venezuela,voleibol,viernes,lvv,dos,partidos,jornada",
-            "recuweb_url": "http://es.recuweb.com/voleibol/hoyvenezuela.info/2015/04/hoy-venezuela-ma%C3%B1ana-comienza-la-liga-venezolana-de-voleibol",
             "resource_url": "http://www.google.com/search?q=voleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hoyvenezuela.info/manana-comienza-la-liga-venezolana-de-voleibol-con-dos-partidos/"
+            "source_url": "http://trabajadores.cu/20150417/anuncian-nominas-para-xxvi-liga-mundial-de-voleibol/"
         },
         "blog.udlap.mx/2015/04/una-haza%C3%B1a-el-subcampeonato-de-la-conadeip-aztecas-voleibol": {
             "title": "Una haza\u00f1a el subcampeonato de la CONADEIP, Aztecas de voleibol...",
@@ -105,7 +94,7 @@
             "date": "2015-04-16",
             "author_name": "Universidad de las Am\u00e9ricas Puebla",
             "categories": "voleibol",
-            "tags": "partidos,muy,voleibol,nacional",
+            "tags": "muy,conquist\u00f3,voleibol,nacional",
             "recuweb_url": "http://es.recuweb.com/voleibol/blog.udlap.mx/2015/04/una-haza%C3%B1a-el-subcampeonato-de-la-conadeip-aztecas-voleibol",
             "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.udlap.mx/blog/2015/04/voleibolvaronilsubcampeonconadeip20142015/"
@@ -116,10 +105,21 @@
             "date": "2015-04-14",
             "author_name": "Redacci\u00f3n DeporCuba",
             "categories": "voleibol",
-            "tags": "jugadores,temporada,ocho,cubana,voleibol,federaci\u00f3n,china,argentina",
+            "tags": "temporada,cubana,voleibol,federaci\u00f3n,jugadores,china,argentina",
             "recuweb_url": "http://es.recuweb.com/voleibol/deporcuba.com/2015/04/voleibol-aumentar%C3%A1n-los-contratos-deporcuba",
             "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://deporcuba.com/2015/04/14/voleibol-aumentaran-los-contratos/"
+        },
+        "listindiario.com/2015/04/calasanz-sale-al-frente-intercolegial-de-voleibol": {
+            "title": "Calasanz sale al frente intercolegial de voleibol -...",
+            "snippet": "El sexteto infantil del colegio Calasanz super\u00f3 al De la Salle con pizarra 2-0 (25-18, 25-15) en la apertura del Torneo Intercolegial de Voleibol Femenino Copa Gatorade 2015 que se abri\u00f3 en el complejo deportivo de las...",
+            "date": "2015-04-12",
+            "author_name": "desconocido",
+            "categories": "voleibol",
+            "tags": "voleibol,voleibol_femenino,femenino,copa,sexteto",
+            "recuweb_url": "http://es.recuweb.com/voleibol/listindiario.com/2015/04/calasanz-sale-al-frente-intercolegial-de-voleibol",
+            "resource_url": "http://www.google.com/search?q=voleibol%2Bvoleibol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://listindiario.com/el-deporte/2015/4/11/363122/Calasanz-sale-al-frente-intercolegial-de-voleibol"
         }
     }
 }

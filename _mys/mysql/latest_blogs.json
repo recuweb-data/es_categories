@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "proyectosbeta.net/2015/04/instalamos-mysql-workbench-en-debian-jessie-proyectos": {
+            "title": "Instalamos MySQL Workbench en Debian Jessie Proyectos...",
+            "snippet": "Quer\u00eda tener MySQL Workbench en mi Debian Jessie, as\u00ed que manos a la obra. Entramos a este link y descargamos como indica la imagen de abajo. Descargamos MySQL Workbench para Debian Jessie.",
+            "date": "2015-04-26",
+            "author_name": "Jos\u00e9 Gonz\u00e1lez von Schmeling",
+            "categories": "mysql",
+            "tags": "debian,jessie,mysql,mysql_workbench,workbench,tener",
+            "recuweb_url": "http://es.recuweb.com/mysql/proyectosbeta.net/2015/04/instalamos-mysql-workbench-en-debian-jessie-proyectos",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://proyectosbeta.net/2015/04/instalamos-mysql-workbench-6-3-3-en-debian-jessie/"
+        },
         "linux-party.com/2015/04/conocer-que-ips-est%C3%A1n-conectados-a-mysql-haciendo-consultas": {
             "title": "Conocer que IPs est\u00e1n conectados a MySQL haciendo consultas a...",
             "snippet": "He intentado averiguar que IPs \"externas\" estaban haciendo consultas a la BBDD de MySQL, bueno, yo al menos, por mucho que lo he intentado no he conseguido conocer m\u00e1s IP que la del server de la BBDD, y \u00e9sta, no es...",
             "date": "2015-04-22",
             "author_name": "Javier Orovengua",
             "categories": "mysql",
-            "tags": "haciendo,mysql,bueno,server",
+            "tags": "server,haciendo,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/linux-party.com/2015/04/conocer-que-ips-est%C3%A1n-conectados-a-mysql-haciendo-consultas",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://linux-party.com/index.php/89-basesdedatos/9311-conocer-que-ips-estan-conectados-a-mysql-haciendo-consultas-a-la-base-de-datos"
-        },
-        "clubdelphi.com/2015/04/abm-delphi-con-mysql-foros-club": {
-            "title": "ABM Delphi con MySQL - Foros Club Delphi...",
-            "snippet": "Hola, buenas noches, es la primera vez que escribo para el foro. La cuesti\u00f3n es que tengo que hacer un ABM con bases de datos y estoy utilizando delphi7 Mysql con ODBC, la realidad es que me entregaron este trabajo...",
-            "date": "2015-04-16",
-            "author_name": "Mteje",
-            "categories": "mysql",
-            "tags": "estoy,mysql,datos",
-            "recuweb_url": "http://es.recuweb.com/mysql/clubdelphi.com/2015/04/abm-delphi-con-mysql-foros-club",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://clubdelphi.com/foros/showthread.php?t=88130"
         },
         "geeks.ms/2015/04/access-y-mysql-con-recorsets-desconectados-geeksms": {
             "title": "Access y MySQL con recorsets desconectados - Access - Geeksms...",
@@ -39,9 +39,9 @@
             "date": "2015-04-14",
             "author_name": "Chea",
             "categories": "mysql",
-            "tags": "son,carlos,mysql,web",
+            "tags": "c\u00f3mo,carlos,mysql,son,web",
             "recuweb_url": "http://es.recuweb.com/mysql/geeks.ms/2015/04/access-y-mysql-con-recorsets-desconectados-geeksms",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geeks.ms/blogs/access/archive/2015/04/14/access-y-mysql-con-recorsets-desconectados.aspx"
         },
         "juank.io/2015/04/entity-framework-con-mysql-y-sql-server-c-juank-1-0": {
@@ -61,7 +61,7 @@
             "date": "2015-04-13",
             "author_name": "elGuille",
             "categories": "mysql",
-            "tags": "haciendo,peque\u00f1a,acceder,conectar,datos,mysql,servidor,web",
+            "tags": "d\u00edas,haciendo,peque\u00f1a,acceder,base,conectar,datos,mysql,servidor,web",
             "recuweb_url": "http://es.recuweb.com/mysql/elguillemola.com/2015/04/como-conectar-a-una-base-de-datos-mysql-en-un-servidor",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elguillemola.com/index.php/2015/04/como-conectar-a-una-base-de-datos-de-mysql-en-un-servidor-web-desde-net/"
@@ -72,7 +72,7 @@
             "date": "2015-03-29",
             "author_name": "noreply@blogger.com (\u00c1lvaro Castillo)",
             "categories": "mysql",
-            "tags": "programa,peque\u00f1a,estoy,mysql,mysql_workbench,workbench,ahora",
+            "tags": "programa,peque\u00f1a,poco,disponible,mysql,mysql_workbench,workbench,ahora",
             "recuweb_url": "http://es.recuweb.com/mysql/netsysblog.info/2015/03/netsys-blog-mysql-workbench-disponible-para-fedora-21",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://netsysblog.info/2015/03/mysql-workbench-disponible-para-fedora.html"
@@ -83,7 +83,7 @@
             "date": "2015-03-26",
             "author_name": "(Brote Bit)",
             "categories": "mysql",
-            "tags": "mysql,mysql_workbench,workbench,ense\u00f1o,hacerlo,conectar,sql",
+            "tags": "mysql,mysql_workbench,workbench,ense\u00f1o,hacerlo,conectar,sql,tener",
             "recuweb_url": "http://es.recuweb.com/mysql/brotebit.blogspot.com/2015/03/conectar-sql-a-excel-con-power-pivot",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
             "source_url": "http://brotebit.blogspot.com/2015/03/conectar-sql-excel-con-power-pivot.html"
@@ -94,7 +94,7 @@
             "date": "2015-03-25",
             "author_name": "diegomac93",
             "categories": "mysql",
-            "tags": "tiene,puerto,haya,cambio,mysql,ubuntu,servidor",
+            "tags": "puerto,haya,cambio,mysql,ubuntu,servidor",
             "recuweb_url": "http://es.recuweb.com/mysql/diegomacev.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
             "source_url": "http://diegomacev.wordpress.com/2015/03/25/cambio-de-puerto-de-mysql-en-ubuntu/"
@@ -116,7 +116,7 @@
             "date": "2015-03-17",
             "author_name": "(Alejandro V\u00e1zquez)",
             "categories": "joomla",
-            "tags": "servidor,acceder",
+            "tags": "archivos,servidor,acceder",
             "recuweb_url": "http://es.recuweb.com/joomla/alejovazquez.blogspot.com/2015/03/migraci%C3%B3n-de-joomla-un-servidor",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
             "source_url": "http://alejovazquez.blogspot.com/2015/03/migracion-de-joomla-de-un-servidor-otro.html"

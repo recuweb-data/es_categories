@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "skateboarding",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/skateboarding/",
@@ -29,11 +29,23 @@
             "date": "2015-04-05",
             "author_name": "Corporacion Performance",
             "categories": "skateboarding",
-            "tags": "skateboarding",
+            "tags": "skateboarding,copa,copa_antioquia,antioquia",
             "recuweb_url": "http://es.recuweb.com/skateboarding/youtube.com/2015/04/copa-antioquia-de-skateboarding-2015-2da-versi%C3%B3n-municipio-bello",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=skateboarding%2Bskateboarding&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=n7lizmFuo6I&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/n7lizmFuo6I/0.jpg"
+        },
+        "youtube.com/2015/03/final-de-la-copa-antioquia-skateboarding-2014": {
+            "title": "Final de la Copa Antioquia de Skateboarding 2014...",
+            "snippet": "Final de la Copa Antioquia de Skateboarding 2014 Hola p\u00fablico, les compartimos este v\u00eddeo de la Final de la Copa Antioquia de Skateboarding 2014, llevado a cabo en la ciudad de Medell\u00edn en el skatepark ubicado en el estadio. Gran representaci...",
+            "date": "2015-03-22",
+            "author_name": "Spot Crew",
+            "categories": "skateboarding",
+            "tags": "copa,copa_antioquia,antioquia,skateboarding,gran",
+            "recuweb_url": "http://es.recuweb.com/skateboarding/youtube.com/2015/03/final-de-la-copa-antioquia-skateboarding-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=skateboarding&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=x_mgWTGJD5M&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/x_mgWTGJD5M/0.jpg"
         },
         "youtube.com/2015/03/memorias-del-skateboarding-colombiano": {
             "title": "Memorias del skateboarding colombiano...",
@@ -41,7 +53,7 @@
             "date": "2015-03-09",
             "author_name": "RuaSBC",
             "categories": "deporte,skateboarding,memoria",
-            "tags": "deporte,mejores,skateboarders,skateboarding,colombia,ruasbc",
+            "tags": "gran,mejores,skateboarders,skateboarding,colombia,ruasbc",
             "recuweb_url": "http://es.recuweb.com/memoria/youtube.com/2015/03/memorias-del-skateboarding-colombiano",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=skateboarding%2Bskateboarding&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=NEofU4cV2Lg&feature=youtube_gdata",
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=skateboarding&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=3KDPH_vWpwk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/3KDPH_vWpwk/0.jpg"
-        },
-        "youtube.com/2014/11/rayuela-odisea-skateboarding": {
-            "title": "Rayuela: Odisea Skateboarding...",
-            "snippet": "Rayuela: Odisea Skateboarding Odisea Skate Boarding es la nueva propuesta que nos traen Gustavo Dur\u00e1n y Mat\u00edas Realini. Un espacio dedicado a dar difusi\u00f3n a un deporte que cada d\u00eda se consolida a\u00fan m\u00e1s en la provincia:... From: Rayuela...",
-            "date": "2014-11-17",
-            "author_name": "Rayuela Contenidos",
-            "categories": "deporte,skateboarding",
-            "tags": "deporte,skate,skateboarding",
-            "recuweb_url": "http://es.recuweb.com/skateboarding/youtube.com/2014/11/rayuela-odisea-skateboarding",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=skateboarding&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=sfWvfqZh4H0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/sfWvfqZh4H0/0.jpg"
         }
     }
 }

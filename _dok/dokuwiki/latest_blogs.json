@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "dokuwiki",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/dokuwiki/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
     },
     "items": {
+        "forum.dokuwiki.org/2015/04/salvar-p%C3%A1gina-con-resultados-de-una-b%C3%BAsqueda-dokuwiki-user": {
+            "title": "Salvar p\u00e1gina con resultados de una b\u00fasqueda - DokuWiki User...",
+            "snippet": "Hola a todos, Quer\u00eda consultar con vosotros la dificultad que tengo. Yo realizo una b\u00fasqueda, utilizando el Plugin Tag, con la sintaxis Topic (Ej. topic \"palabras_busqueda\"). Me gustar\u00eda salvar los resultados obtenidos...",
+            "date": "2015-04-20",
+            "author_name": "no_email@example.com (carmenmbr)",
+            "categories": "dokuwiki",
+            "tags": "dokuwiki,dokuwiki_user,user,hola",
+            "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/salvar-p%C3%A1gina-con-resultados-de-una-b%C3%BAsqueda-dokuwiki-user",
+            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/12493"
+        },
         "forobeta.com/2015/03/dokuwiki-ayuda-forobeta": {
             "title": "DokuWiki - ayuda - ForoBeta...",
             "snippet": "Hola buenos d\u00edas he estado mirando en el foro y en el buscador y no encuentro ninguna informaci\u00f3n relativa al gestor de contenidos Wiki llamado DocuWi.",
             "date": "2015-03-17",
             "author_name": "victorsnk",
             "categories": "dokuwiki,wiki",
-            "tags": "foro,informaci\u00f3n,contenidos,dokuwiki,ayuda,hola,wiki",
+            "tags": "foro,informaci\u00f3n,dokuwiki,ayuda,hola,wiki",
             "recuweb_url": "http://es.recuweb.com/wiki/forobeta.com/2015/03/dokuwiki-ayuda-forobeta",
             "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forobeta.com/otras-plataformas/401774-dokuwiki-ayuda.html"
@@ -31,7 +42,7 @@
             "tags": "problema,foro,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,muy",
             "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/01/geotag-y-coordenadas-negativas-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://forum.dokuwiki.org/post/46750"
+            "source_url": "http://forum.dokuwiki.org/thread/12152"
         },
         "forum.dokuwiki.org/2014/10/ayuda-con-configuraci%C3%B3n-dokuwiki-user-forum": {
             "title": "Ayuda con configuraci\u00f3n. - DokuWiki User Forum...",
@@ -50,7 +61,7 @@
             "date": "2014-10-03",
             "author_name": "Maikel Llamaret Heredia",
             "categories": "dokuwiki,wiki",
-            "tags": "trabajo,versi\u00f3n,\u00fal,tipo,actualizar,dokuwiki,web,wiki",
+            "tags": "trabajo,versi\u00f3n,\u00fal,actualizar,dokuwiki,web,wiki",
             "recuweb_url": "http://es.recuweb.com/wiki/gutl.jovenclub.cu/2014/10/compartiendo-aplicaciones-dokuwiki-hrun-te-suena",
             "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://gutl.jovenclub.cu/compartiendo-aplicaciones-dokuwiki-hrun-te-suena-nuestra-wiki/"
@@ -109,17 +120,6 @@
             "recuweb_url": "http://es.recuweb.com/php/blog.jorgeivanmeza.com/2010/10/instalaci%C3%B3n-de-dokuwiki-2010-jorge-iv%C3%A1n-meza-mart%C3%ADnez",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.jorgeivanmeza.com/2010/10/instalacion-de-dokuwiki-2010/"
-        },
-        "catalogosl.wordpress.com/2008/01/dokuwiki-catalogo-de-s-l-para-gestores-informaci%C3%B3n": {
-            "title": "Dokuwiki Catalogo de S.L. para Gestores de Informaci\u00f3n...",
-            "snippet": "Dokuwiki es una herramienta de tipo wiki que cuenta con las siguientes caracter\u00edsticas (sacado de la wikipedia): Dentro de las principales caracter\u00edsticas de este software, se destacan: Gesti\u00f3n de espacios de contenidos...",
-            "date": "2008-01-31",
-            "author_name": "oskar calvo",
-            "categories": "dokuwiki,wiki",
-            "tags": "contenidos,software,tipo,dokuwiki,informaci\u00f3n,wiki",
-            "recuweb_url": "http://es.recuweb.com/wiki/catalogosl.wordpress.com/2008/01/dokuwiki-catalogo-de-s-l-para-gestores-informaci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://catalogosl.wordpress.com/2008/01/31/dokuwiki/"
         }
     }
 }

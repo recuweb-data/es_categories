@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servicios-web",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-web/",
@@ -11,30 +11,67 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/servicios-web/servicios-web/blogs.json"
     },
     "items": {
-        "subrayado.com.uy/2015/04/candidatos-a-la-intendencia-por-el-fa-realizaron-acto-conjunto-subrayado": {
-            "title": "Candidatos a la Intendencia por el FA realizaron acto conjunto - Subrayado...",
-            "snippet": "SubrayadoCandidatos a la Intendencia por el FA realizaron acto conjuntoSubrayadoEl Registro en la p\u00e1gina web o la utilizaci\u00f3n de cualquiera de los servicios de la misma que no requieren la condici\u00f3n de usuario registrado, atribuyen la calidad de...",
-            "date": "2015-04-27",
-            "tags": "calidad,web,servicios",
-            "recuweb_url": "http://es.recuweb.com/subrayado.com.uy/2015/04/candidatos-a-la-intendencia-por-el-fa-realizaron-acto-conjunto-subrayado",
-            "resource_url": "http://news.google.es/?hl=es&q=servicios%2Bweb%2Bservicios%2Bweb&output=atom&nord=1",
-            "source_url": "http://subrayado.com.uy/Site/noticia/44350/candidatos-a-la-intendencia-por-el-fa-realizaron-acto-conjunto"
+        "subrayado.com.uy/2015/05/pit-cnt-propone-gran-di%C3%A1logo-nacional-para-transformar-matriz-subrayado": {
+            "title": "PIT-CNT propone gran di\u00e1logo nacional para transformar matriz... - Subrayado...",
+            "snippet": "SubrayadoPIT-CNT propone \"gran di\u00e1logo nacional para transformar matriz...SubrayadoEl Registro en la p\u00e1gina web o la utilizaci\u00f3n de cualquiera de los servicios de la misma que no requieren la condici\u00f3n de usuario registrado, atribuyen la calidad...",
+            "date": "2015-05-01",
+            "tags": "calidad,p\u00e1gina,registro,gran,web,servicios",
+            "recuweb_url": "http://es.recuweb.com/subrayado.com.uy/2015/05/pit-cnt-propone-gran-di%C3%A1logo-nacional-para-transformar-matriz-subrayado",
+            "resource_url": "http://news.google.es/?hl=es&q=servicios%2Bweb&output=atom&nord=1",
+            "source_url": "http://subrayado.com.uy/Site/noticia/44517/pitcnt-propone-gran-dialogo-nacional-para-transformar-matriz-productiva"
         },
-        "gestion.pe/2015/04/amazon-enfrenta-competencia-fuerte-de-alibaba-en-servicios-la-diario-gesti%C3%B3n": {
-            "title": "Amazon enfrenta competencia fuerte de Alibaba en servicios en la... - Diario Gesti\u00f3n...",
-            "snippet": "Diario Gesti\u00f3nAmazon enfrenta competencia fuerte de Alibaba en servicios en la...Diario Gesti\u00f3nDespu\u00e9s de haber tenido al mundo esperando durante nueve a\u00f1os, el jueves Amazon finalmente desglos\u00f3 las ganancias para sus Amazon Web Services. Los...",
-            "date": "2015-04-26",
-            "tags": "web,servicios",
-            "recuweb_url": "http://es.recuweb.com/gestion.pe/2015/04/amazon-enfrenta-competencia-fuerte-de-alibaba-en-servicios-la-diario-gesti%C3%B3n",
+        "elpais.com.uy/2015/05/qu%C3%A9-servicios-est%C3%A1n-trabajando-este-1-de-mayo-diario-el-pa%C3%ADs": {
+            "title": "\u00bfQu\u00e9 servicios est\u00e1n trabajando este 1 de mayo? - Diario El Pa\u00eds...",
+            "snippet": "Diario El Pa\u00eds\u00bfQu\u00e9 servicios est\u00e1n trabajando este 1 de mayo?Diario El Pa\u00edsLa empresa de transporte interdepartamental Copsa inform\u00f3 que las l\u00edneas suburbanas no prestar\u00e1n servicios. En su p\u00e1gina web se puede consultar sobre algunos...",
+            "date": "2015-05-01",
+            "tags": "algunos,p\u00e1gina,diario,servicios,web",
+            "recuweb_url": "http://es.recuweb.com/elpais.com.uy/2015/05/qu%C3%A9-servicios-est%C3%A1n-trabajando-este-1-de-mayo-diario-el-pa%C3%ADs",
+            "resource_url": "http://news.google.es/?hl=es&q=servicios%2Bweb&output=atom&nord=1",
+            "source_url": "http://elpais.com.uy/informacion/que-servicios-trabajando-este-mayo.html"
+        },
+        "sevilla.abc.es/2015/04/tos-un-nuevo-sistema-operativo-basado-en-android": {
+            "title": "TOS: un nuevo sistema operativo basado en Android...",
+            "snippet": "El \u00faltimo en sumarse a esta tendencia ha sido Tencent, el gigante chino especializado en servicios web y entretenimiento y responsable entre otros cosas de la aplicaci\u00f3n de mensajer\u00eda instant\u00e1nea WeChat, quien acaba de presentar TOS. Gratuito...",
+            "date": "2015-04-30",
+            "categories": "entretenimiento",
+            "tags": "aplicaci\u00f3n,nuevo,sistema,servicios,web,gratuito",
+            "recuweb_url": "http://es.recuweb.com/entretenimiento/sevilla.abc.es/2015/04/tos-un-nuevo-sistema-operativo-basado-en-android",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
+            "source_url": "http://sevilla.abc.es/mobility/noticia/android/noticias-android/tos-un-nuevo-sistema-operativo-basado-en-android/"
+        },
+        "expansion.com/2015/04/la-ue-empe%C3%B1ada-en-imponer-su-normativa-antimonopolio": {
+            "title": "La UE, empe\u00f1ada en imponer su normativa antimonopolio...",
+            "snippet": "Esta entidad vendr\u00eda acompa\u00f1ada de una nueva normativa que regir\u00eda las operaciones entre los servicios web y otros negocios de terceros. Adem\u00e1s, y siempre seg\u00fan la informaci\u00f3n del diario estadounidense, tambi\u00e9n prohibir\u00eda fijar precios...",
+            "date": "2015-04-29",
+            "tags": "informaci\u00f3n,diario,nueva,operaciones,servicios,web",
+            "recuweb_url": "http://es.recuweb.com/expansion.com/2015/04/la-ue-empe%C3%B1ada-en-imponer-su-normativa-antimonopolio",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
+            "source_url": "http://expansion.com/juridico/actualidad-tendencias/2015/04/29/5541191e22601d25038b457c.html"
+        },
+        "losandes.com.ar/2015/04/lanzan-web-que-integra-los-servicios-tur%C3%ADsticos-de-mendoza-andes-argentina": {
+            "title": "Lanzan web que integra los servicios tur\u00edsticos de Mendoza - Los Andes (Argentina)...",
+            "snippet": "Los Andes (Argentina)Lanzan web que integra los servicios tur\u00edsticos de MendozaLos Andes (Argentina)Los visitantes que elijan Mendoza como su destino para unos d\u00edas de descanso podr\u00e1n encontrar en el Sistema de Informaci\u00f3n Tur\u00edstica Integrada...",
+            "date": "2015-04-28",
+            "tags": "informaci\u00f3n,d\u00edas,web,servicios,sistema",
+            "recuweb_url": "http://es.recuweb.com/losandes.com.ar/2015/04/lanzan-web-que-integra-los-servicios-tur%C3%ADsticos-de-mendoza-andes-argentina",
             "resource_url": "http://news.google.es/?hl=es&q=servicios%2Bweb%2Bservicios%2Bweb&output=atom&nord=1",
-            "source_url": "http://gestion.pe/empresas/amazon-enfrenta-competencia-fuerte-alibaba-servicios-nube-2130050"
+            "source_url": "http://losandes.com.ar/article/lanzan-web-que-integra-los-servicios-turisticos-de-mendoza"
+        },
+        "technologyreview.es/2015/04/los-secretos-de-tu-smartphone-pueden-ser-la-mejor-contrase%C3%B1a": {
+            "title": "Los secretos de tu 'smartphone'pueden ser la mejor contrase\u00f1a...",
+            "snippet": "Aunque no te acuerdes, puedes seguir leyendo. Pero un grupo de investigadores cree que ese tipo de pregunta podr\u00eda acabar siendo un m\u00e9todo de registro m\u00e1s sencillo para algunos sitios y servicios web. Parten de la base de que es f\u00e1cil que t\u00fa...",
+            "date": "2015-04-28",
+            "tags": "base,tipo,m\u00e9todo,registro,algunos,sitios,servicios,web",
+            "recuweb_url": "http://es.recuweb.com/technologyreview.es/2015/04/los-secretos-de-tu-smartphone-pueden-ser-la-mejor-contrase%C3%B1a",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
+            "source_url": "http://technologyreview.es/movil/47348/"
         },
         "siliconweek.es/2015/04/dell-da-a-conocer-sus-nuevas-soluciones-open-networking": {
             "title": "Dell da a conocer sus nuevas soluciones Open Networking para el datacenter...",
             "snippet": "Se trata de un producto que soporta tablas hardware de enrutamiento y forwarding de gran capacidad, VXLAN y buffers de gran tama\u00f1o, orientado especialmente para proveedores de servicios web y en la nube con entornos Linux y OpenSource. En el caso...",
             "date": "2015-04-24",
             "categories": "hardware",
-            "tags": "servicios,web",
+            "tags": "gran,servicios,web",
             "recuweb_url": "http://es.recuweb.com/hardware/siliconweek.es/2015/04/dell-da-a-conocer-sus-nuevas-soluciones-open-networking",
             "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
             "source_url": "http://siliconweek.es/data-storage/dell-da-a-conocer-sus-nuevas-soluciones-open-networking-para-el-datacenter-80027"
@@ -44,7 +81,7 @@
             "snippet": "Empez\u00f3 como un bsucador, se expandi\u00f3 a los servicios web, conquist\u00f3 el software m\u00f3vil y desde ayer Google es tambi\u00e9n un operador m\u00f3vil virtual como Pepephone o M\u00e1smovil. Pero, por supuesto, no se ha conformado con hacerlo como los dem\u00e1s.",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "m\u00f3vil,nueva,google,servicios,web",
+            "tags": "nueva,google,servicios,web",
             "recuweb_url": "http://es.recuweb.com/google/elconfidencial.com/2015/04/anota-una-nueva-faceta-de-google-ahora-tambi%C3%A9n-es-operadora-m%C3%B3vil",
             "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
             "source_url": "http://elconfidencial.com/tecnologia/2015-04-23/google-project-fi-omv-telefonia-nexus-6_765278/"
@@ -59,52 +96,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
             "source_url": "http://xataka.com/aplicaciones-y-servicios/la-ue-planea-crear-un-nuevo-regulador-para-que-supervise-a-google-facebook-y-otras-tecnologicas"
         },
-        "ticbeat.com/2015/04/logran-pronosticar-el-cambio-tecnol%C3%B3gico-analizando-patentes": {
-            "title": "Logran pronosticar el cambio tecnol\u00f3gico analizando patentes...",
-            "snippet": "Logran pronosticar el cambio tecnol\u00f3gico analizando pate... - hace sobre 1 min La UE pone la diana sobre los grandes servicios web de EEUU - hace 2 horas Francia incorpora los MOOC al sistema p\u00fablico de formaci\u00f3n - hace 18 horas UPS lanza en...",
-            "date": "2015-04-22",
-            "tags": "pone,pone-la-diana,diana,grandes,servicios,web,eeuu",
-            "recuweb_url": "http://es.recuweb.com/ticbeat.com/2015/04/logran-pronosticar-el-cambio-tecnol%C3%B3gico-analizando-patentes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
-            "source_url": "http://ticbeat.com/innovacion/logran-pronosticar-el-cambio-tecnologico-analizando-patentes/"
-        },
-        "ticbeat.com/2015/04/la-ue-pone-diana-sobre-las-grandes-plataformas-de-eeuu-ticbeat": {
-            "title": "La UE pone la diana sobre las grandes plataformas de EEUU TICbeat...",
+        "ticbeat.com/2015/04/los-usuarios-de-youtube-ven-m%C3%A1s-anuncios-en-smartphones": {
+            "title": "Los usuarios de YouTube ven m\u00e1s anuncios en smartphones, seg\u00fan un estudio - hace 2 d\u00edas...",
             "snippet": "La Uni\u00f3n Europea estar\u00eda evaluando la posibilidad de crear un nuevo organismo regulador de servicios online, centrado fundamentalmente en los grandes sitios web con sede en Estados Unidos, como Google o Facebook. Este movimiento por parte de...",
             "date": "2015-04-21",
             "categories": "google,facebook",
-            "tags": "parte,estados,estados_unidos,unidos,grandes,sitios,crear,crear-un-nuevo,nuevo,regulador,uni\u00f3n,uni\u00f3n_europea,europea,eeuu,pone,pone-la-diana,diana,servicios,web,google,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/ticbeat.com/2015/04/la-ue-pone-diana-sobre-las-grandes-plataformas-de-eeuu-ticbeat",
+            "tags": "estados,estados_unidos,unidos,sitios,crear,crear-un-nuevo,nuevo,regulador,uni\u00f3n,uni\u00f3n_europea,europea,d\u00edas,servicios,web,google,facebook,parte",
+            "recuweb_url": "http://es.recuweb.com/facebook/ticbeat.com/2015/04/los-usuarios-de-youtube-ven-m%C3%A1s-anuncios-en-smartphones",
             "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
             "source_url": "http://ticbeat.com/economia/ue-pone-la-diana-sobre-los-grandes-servicios-web-de-eeuu/"
-        },
-        "pacmac.es/2015/04/un-error-https-en-una-libreria-de-terceros-afecta": {
-            "title": "Un error HTTPS en una libreria de terceros afecta a m\u00e1s de 1000 aplicaciones...",
-            "snippet": "El fallo ha sido descubierto en una librer\u00eda de c\u00f3digo abierto llamada AFNetworking que es usada por una enorme cantidad de aplicaciones para iOS y OS X para comunicarse con servicios Web. El fallo descubierto permit\u00eda deshabilitar la validaci\u00f3n...",
-            "date": "2015-04-21",
-            "tags": "aplicaciones,c\u00f3digo,afecta,afnetworking,ios,servicios,web",
-            "recuweb_url": "http://es.recuweb.com/pacmac.es/2015/04/un-error-https-en-una-libreria-de-terceros-afecta",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
-            "source_url": "http://pacmac.es/un-error-https-en-una-libreria-de-terceros-afecta-a-mas-de-1000-aplicaciones/"
-        },
-        "mundotech.net/2015/04/como-cuidar-tu-privacidad-en-el-celular": {
-            "title": "Como cuidar tu privacidad en el celular.",
-            "snippet": "Ya casi esta listo, Orbot te dar\u00e1 la opci\u00f3n de que todas tis aplicaciones que usen servicios web se proxyfiquen a trav\u00e9s de \u00e9l, para que la interacci\u00f3n de tu m\u00f3vil con internet sea totalmente an\u00f3nima. Por otra parte, si no deseas esto,...",
-            "date": "2015-04-17",
-            "categories": "internet",
-            "tags": "parte,m\u00f3vil,opci\u00f3n,aplicaciones,servicios,web",
-            "recuweb_url": "http://es.recuweb.com/internet/mundotech.net/2015/04/como-cuidar-tu-privacidad-en-el-celular",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=servicios%2Bweb&format=RSS&cc=es",
-            "source_url": "http://mundotech.net/2015/04/cuidar-privacidad-celular/"
-        },
-        "larepublica.net/2015/04/servicios-web-de-tributaci%C3%B3n-se-har%C3%A1n-desde-hacienda-peri%C3%B3dico-la-rep%C3%BAblica": {
-            "title": "Servicios web de Tributaci\u00f3n se har\u00e1n desde Hacienda - Peri\u00f3dico La Rep\u00fablica (Costa Rica)...",
-            "snippet": "Peri\u00f3dico La Rep\u00fablica (Costa Rica)Servicios web de Tributaci\u00f3n se har\u00e1n desde HaciendaPeri\u00f3dico La Rep\u00fablica (Costa Rica)La nueva opci\u00f3n para accesar a los servicios tributarios no afecta los intereses de los contribuyentes y usuarios, toda...",
-            "date": "2015-04-15",
-            "tags": "afecta,nueva,opci\u00f3n,servicios,web",
-            "recuweb_url": "http://es.recuweb.com/larepublica.net/2015/04/servicios-web-de-tributaci%C3%B3n-se-har%C3%A1n-desde-hacienda-peri%C3%B3dico-la-rep%C3%BAblica",
-            "resource_url": "http://news.google.es/?hl=es&q=servicios%2Bweb&output=atom&nord=1",
-            "source_url": "http://larepublica.net/app/cms/www/index.php?pk_articulo=533328019"
         }
     }
 }

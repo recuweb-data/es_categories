@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/java/",
@@ -31,7 +31,7 @@
             "categories": "java",
             "tags": "descargar,java",
             "recuweb_url": "http://es.recuweb.com/java/youtube.com/2015/03/como-desinstalar-java-8-y-descargar-7-2015-pasos-explicaci%C3%B3n",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=HHLkIdd5FeM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/HHLkIdd5FeM/0.jpg"
         },
@@ -41,7 +41,7 @@
             "date": "2015-02-25",
             "author_name": "FLOTO68",
             "categories": "java",
-            "tags": "java,minecraft",
+            "tags": "java",
             "recuweb_url": "http://es.recuweb.com/java/youtube.com/2015/02/solucion-aplicacion-bloqueada-por-configuracion-de-seguridad-java-8-minecraft",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=EG4Nv6nk3u0&feature=youtube_gdata",
@@ -95,25 +95,13 @@
             "source_url": "http://dailymotion.com/video/x2as7xg_tutorial-como-crear-una-encuesta-online-con-java-aplicacion-web_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2as7xg_tutorial-como-crear-una-encuesta-online-con-java-aplicacion-web_lifestyle"
         },
-        "youtube.com/2014/10/instalar-descargar-java-7-minecraft": {
-            "title": "Instalar/Descargar Java 7 Minecraft...",
-            "snippet": "Instalar/Descargar Java 7 Minecraft IMPORTANTE.!!... From: HeberonYT Views: 249690 5392 ratings Time: 10:55 More in Gaming...",
-            "date": "2014-10-31",
-            "author_name": "HeberonYT",
-            "categories": "java",
-            "tags": "descargar,java,instalar,minecraft",
-            "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/10/instalar-descargar-java-7-minecraft",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=fmTvxCvvWPw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/fmTvxCvvWPw/0.jpg"
-        },
         "dailymotion.com/2014/10/java-2-runtime-environment-7-update-67-32-bit-descargar-gratis": {
             "title": "Java 2 Runtime Environment - 7 Update 67 (32 bit) - descargar gratis...",
             "snippet": "Link directo para descargar: Java es un potente lenguaje de programaci\u00f3n que permite crear toda clase de aplicaciones que funcionar\u00e1n bajo cualquier plataforma sin apenas cambios. El \u00fanico inconveniente de Java es que requiere la presencia en el...",
             "date": "2014-10-18",
             "author_name": "DescargarGratis",
             "categories": "lenguaje,java",
-            "tags": "crear,descargar,java",
+            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,crear,descargar,java",
             "recuweb_url": "http://es.recuweb.com/java/dailymotion.com/2014/10/java-2-runtime-environment-7-update-67-32-bit-descargar-gratis",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/java+java/0?af=1",
             "source_url": "http://dailymotion.com/video/x285kfv_java-2-runtime-environment-7-update-67-32-bit-descargar-gratis_tech",
@@ -121,15 +109,27 @@
         },
         "youtube.com/2014/07/curso-java-para-iniciantes-aula-1": {
             "title": "Curso Java para Iniciantes - Aula 1...",
-            "snippet": "Curso Java para Iniciantes - Aula 1 O que veremos no v\u00eddeo: - Introdu\u00e7\u00e3o ao Java - Como instalar o JAVA JDK 8 - Como instalar o Eclipse LUNA - Como... From: Lucas Iorio Views: 5584 119 ratings Time: 39:09 More in Science & Technology...",
+            "snippet": "Curso Java para Iniciantes - Aula 1 O que veremos no v\u00eddeo: - Introdu\u00e7\u00e3o ao Java - Como instalar o JAVA JDK 8 - Como instalar o Eclipse LUNA - Como... From: Lucas Iorio Views: 5794 122 ratings Time: 39:09 More in Science & Technology...",
             "date": "2014-07-12",
             "author_name": "Lucas Iorio",
             "categories": "java",
-            "tags": "java,instalar",
+            "tags": "java,veremos,curso",
             "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/07/curso-java-para-iniciantes-aula-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=WMee8zOw_FQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/WMee8zOw_FQ/0.jpg"
+        },
+        "youtube.com/2014/06/curso-aprende-java-desde-cero-introducci%C3%B3n": {
+            "title": "Curso aprende Java desde cero - Introducci\u00f3n...",
+            "snippet": "Curso aprende Java desde cero - Introducci\u00f3n En este primer video del curso de Java desde cero, orientado totalmente a principiantes, veremos una peque\u00f1a introducci\u00f3n al lenguaje de programaci\u00f3n Java, para que sirve, donde se usa,... From:...",
+            "date": "2014-06-21",
+            "author_name": "xymind",
+            "categories": "lenguaje,java",
+            "tags": "veremos,lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,curso,java",
+            "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/06/curso-aprende-java-desde-cero-introducci%C3%B3n",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=jiwzVYY9Cl0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jiwzVYY9Cl0/0.jpg"
         }
     }
 }

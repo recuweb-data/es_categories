@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "deportes-de-lucha",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deportes-de-lucha/",
@@ -11,22 +11,39 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-lucha/deportes-de-lucha/blogs.json"
     },
     "items": {
-        "radioformula.com.mx/2015/04/lucha-libre-world-cup-se-realizar%C3%A1-en-palacio-de-los-deportes": {
-            "title": "Lucha Libre World Cup se realizar\u00e1 en Palacio de los Deportes - RadioF\u00f3rmula...",
-            "snippet": "Terra Argentina\"Lucha Libre World Cup\" se realizar\u00e1 en Palacio de los DeportesRadioF\u00f3rmulaSe esperan algunos luchadores del pa\u00eds \"azteca\", adem\u00e1s de Jap\u00f3n, Estados Unidos y otros, \"quienes buscar\u00e1n ganarse el calificativo de ser la mejor lucha...",
-            "date": "2015-04-22",
-            "categories": "lucha-libre",
-            "tags": "algunos,lucha,lucha_libre,libre,world,cup,realizar\u00e1,palacio,deportes",
-            "recuweb_url": "http://es.recuweb.com/lucha-libre/radioformula.com.mx/2015/04/lucha-libre-world-cup-se-realizar%C3%A1-en-palacio-de-los-deportes",
+        "deportesrcn.com/2015/04/colombia-consigui%C3%B3-cinco-medallas-en-el-panamericano-de-lucha-deportes-rcn": {
+            "title": "Colombia consigui\u00f3 cinco medallas en el Panamericano de Lucha - Deportes RCN (Comunicado de...",
+            "snippet": "Deportes RCN (Comunicado de prensa) (Registro) (blog)Colombia consigui\u00f3 cinco medallas en el Panamericano de LuchaDeportes RCN (Comunicado de prensa) (Registro) (blog)Colombia consigui\u00f3 un oro, una plata y tres bronces en el Campeonato...",
+            "date": "2015-04-27",
+            "tags": "oro,rcn,prensa,deportes,deportes_rcn,medallas,lucha,comunicado,registro",
+            "recuweb_url": "http://es.recuweb.com/deportesrcn.com/2015/04/colombia-consigui%C3%B3-cinco-medallas-en-el-panamericano-de-lucha-deportes-rcn",
             "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha%2Bdeportes%2Bde%2Blucha&output=atom&nord=1",
-            "source_url": "http://radioformula.com.mx/notas.asp?Idn=496361&idFC=2015"
+            "source_url": "http://deportesrcn.com/noticia-video/colombia-consiguio-cinco-medallas-en-el-panamericano-de-lucha-deportes-36594"
+        },
+        "pulzo.com/2015/04/lluvia-de-medallas-y-24-cupos-a-panamericanos-dejaron-deportes-pulzo": {
+            "title": "Lluvia de medallas y 24 cupos a Panamericanos dejaron deportes... - Pulzo...",
+            "snippet": "PulzoLluvia de medallas y 24 cupos a Panamericanos dejaron deportes...PulzoSin embargo, el \u00fanico oro que se report\u00f3 fue el los 53 kilogramos de la lucha libre con Saryuri Ca\u00f1\u00f3n, quien se lo colg\u00f3 tras vencer en la final de su divisi\u00f3n a la...",
+            "date": "2015-04-27",
+            "tags": "libre,oro,medallas,deportes,lucha",
+            "recuweb_url": "http://es.recuweb.com/pulzo.com/2015/04/lluvia-de-medallas-y-24-cupos-a-panamericanos-dejaron-deportes-pulzo",
+            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha&output=atom&nord=1",
+            "source_url": "http://pulzo.com/deportes/331906-lluvia-de-medallas-y-24-cupos-panamericanos-dejaron-deportes-de-combate-para"
+        },
+        "deportesrcn.com/2015/04/vocalista-de-smashing-pumpkins-escribir%C3%A1-historias-lucha-libre-deportes-rcn-comunicado": {
+            "title": "Vocalista de Smashing Pumpkins escribir\u00e1 historias de lucha libre - Deportes RCN (Comunicado de...",
+            "snippet": "Deportes RCN (Comunicado de prensa) (Registro) (blog)Vocalista de Smashing Pumpkins escribir\u00e1 historias de lucha libreDeportes RCN (Comunicado de prensa) (Registro) (blog)El vocalista del grupo estadounidense Smashing Pumpkins, Billy Corgan, fue...",
+            "date": "2015-04-27",
+            "tags": "rcn,prensa,deportes,deportes_rcn,lucha,libre,comunicado,registro",
+            "recuweb_url": "http://es.recuweb.com/deportesrcn.com/2015/04/vocalista-de-smashing-pumpkins-escribir%C3%A1-historias-lucha-libre-deportes-rcn-comunicado",
+            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha&output=atom&nord=1",
+            "source_url": "http://deportesrcn.com/noticia-articulo/vocalista-de-smashing-pumpkins-escribira-historias-de-lucha-libre-deportes-36609"
         },
         "mediotiempo.com/2015/04/aaa-noah-ajpw-tna-y-roh-en-mundial-de-lucha-libre": {
             "title": "AAA, NOAH, AJPW, TNA y ROH en Mundial de Lucha Libre - Medio...",
             "snippet": "Medio, NOAH, AJPW, TNA y ROH en Mundial de Lucha LibreMedio empresa AAA dio a conocer a participantes de la Lucha Libre World Cup, torneo que se realizar\u00e1 el pr\u00f3ximo 24 de mayo en el Palacio de los Deportes de la Ciudad de M\u00e9xico. El torneo...",
             "date": "2015-04-22",
             "categories": "lucha-libre",
-            "tags": "realizar\u00e1,world,cup,lucha,lucha_libre,libre,palacio,deportes,ciudad,m\u00e9xico",
+            "tags": "lucha,lucha_libre,libre,palacio,deportes,ciudad,m\u00e9xico",
             "recuweb_url": "http://es.recuweb.com/lucha-libre/mediotiempo.com/2015/04/aaa-noah-ajpw-tna-y-roh-en-mundial-de-lucha-libre",
             "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Blucha&output=atom&nord=1",
             "source_url": "http://mediotiempo.com/mas-deportes/lucha-libre/noticias/2015/04/21/aaa-noah-ajpw-tna-y-roh-en-mundial-de-lucha-libre"

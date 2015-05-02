@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/jquery/",
@@ -17,7 +17,7 @@
             "date": "2014-09-20",
             "author_name": "Creaticode",
             "categories": "javascript,jquery",
-            "tags": "javascript,tutorial,jquery,pagina,principal",
+            "tags": "plugins,javascript,tutorial,jquery,parte,pagina,principal",
             "recuweb_url": "http://es.recuweb.com/jquery/youtube.com/2014/09/como-hacer-un-slider-con-javascript-y-jquery-desde-0-parte",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=3BsnCodL1Vs&feature=youtube_gdata",
@@ -34,18 +34,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Kdly9gtWorQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Kdly9gtWorQ/0.jpg"
-        },
-        "youtube.com/2014/06/ajax-en-jquery": {
-            "title": "Ajax en jQuery...",
-            "snippet": "Ajax en jQuery Es una clase dedicada a aprender jQuery y en concreto a ver c\u00f3mo trabajar con Ajax en esta librer\u00eda Javascript. En la clase explicamos qu\u00e9 es Ajax y luego nos adentramos en el uso de diversas... From: Views: 3288 41 ratings Time:...",
-            "date": "2014-06-18",
-            "author_name": "DesarrolloWeb.com",
-            "categories": "jquery,javascript",
-            "tags": "librer\u00eda,c\u00f3mo,ajax,jquery,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2014/06/ajax-en-jquery",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=Euz3Q7sH8mI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Euz3Q7sH8mI/0.jpg"
         },
         "dailymotion.com/2014/06/tutorial-creacion-pagina-jquery-mobile-con-dw-2-1": {
             "title": "[Tutorial] Creacion pagina jQuery mobile con DW (2.1)...",
@@ -71,13 +59,25 @@
             "source_url": "http://dailymotion.com/video/x1zny8o_tutorial-integracion-pagina-jquery-en-phonegap-3-1_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zny8o_tutorial-integracion-pagina-jquery-en-phonegap-3-1_tech"
         },
+        "youtube.com/2014/05/tutorial-jquery-27-validar-formularios-con-validate": {
+            "title": "Tutorial jQuery 27 - Validar formularios con jQuery Validate...",
+            "snippet": "Tutorial jQuery 27 - Validar formularios con jQuery Validate En esta parte del tutorial veremos como utilizar el plugin jQuery Validate para validar formularios del lado del cliente, tambi\u00e9n veremos como agregar nuestras propias expresiones...",
+            "date": "2014-05-30",
+            "author_name": "Manuel J. D\u00e1vila",
+            "categories": "jquery",
+            "tags": "veremos,validar,validar-formularios,formularios,parte,tutorial,jquery",
+            "recuweb_url": "http://es.recuweb.com/jquery/youtube.com/2014/05/tutorial-jquery-27-validar-formularios-con-validate",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=khuVsCc6ahE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/khuVsCc6ahE/0.jpg"
+        },
         "youtube.com/2014/05/aprende-jquery-c%C3%B3mo-enviar-datos-mediante-ajax-usando-php": {
             "title": "Aprende jQuery: C\u00f3mo enviar datos mediante Ajax usando PHP...",
             "snippet": "Aprende jQuery: C\u00f3mo enviar datos mediante Ajax usando PHP Aprende m\u00e1s en \u00bfTe gustar\u00eda saber como funciona el m\u00e9todo.Ajax de jQuery? En el siguiente video veremos como funciona el m\u00e9todo.Ajax de jQuery para procesar... From: Codejobs Views:...",
             "date": "2014-05-29",
             "author_name": "Codejobs",
             "categories": "jquery,php",
-            "tags": "siguiente,aprende,jquery,c\u00f3mo,ajax,usando",
+            "tags": "siguiente,veremos,aprende,jquery,usando,codejobs",
             "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/05/aprende-jquery-c%C3%B3mo-enviar-datos-mediante-ajax-usando-php",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=woJTmWmFWvc&feature=youtube_gdata",
@@ -95,29 +95,29 @@
             "source_url": "http://dailymotion.com/video/x1vilks_danydanielrt-jquery-pop-up-con-like-box-con-tiempo-para-blogger_webcam",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1vilks_danydanielrt-jquery-pop-up-con-like-box-con-tiempo-para-blogger_webcam"
         },
+        "youtube.com/2014/05/aprendiendo-jquery-conociendo-el-plugin-mixitup": {
+            "title": "Aprendiendo jQuery: Conociendo el Plugin jQuery Mixitup...",
+            "snippet": "Aprendiendo jQuery: Conociendo el Plugin jQuery Mixitup Aprende m\u00e1s en Continuamos con la serie de videos sobre reviews de plugins basados en jQuery, y en esta ocasi\u00f3n tenemos el review b\u00e1sico de un plugin que se llama... From: Codejobs Views:...",
+            "date": "2014-05-14",
+            "author_name": "Codejobs",
+            "categories": "jquery",
+            "tags": "plugins,aprende,jquery,codejobs",
+            "recuweb_url": "http://es.recuweb.com/jquery/youtube.com/2014/05/aprendiendo-jquery-conociendo-el-plugin-mixitup",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=x2gd-3sENAE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/x2gd-3sENAE/0.jpg"
+        },
         "youtube.com/2014/05/aprende-a-validar-formularios-html-con-jquery-y-css": {
             "title": "Aprende a validar formularios HTML con jQuery y CSS...",
             "snippet": "Aprende a validar formularios HTML con jQuery y CSS Aprende a crear funciones de javascript usando el DOM de jQuery para validar formualrios de HTML de manera profesional desde cero. Revisa la documentaci\u00f3n de este Tutorial y descarga los... From:...",
             "date": "2014-05-13",
             "author_name": "Tuwebonada.com",
             "categories": "javascript,html,jquery,css",
-            "tags": "profesional,crear,javascript,usando,aprende,html,jquery,css,tutorial",
+            "tags": "validar,crear,javascript,usando,validar-formularios,formularios,aprende,jquery,tutorial",
             "recuweb_url": "http://es.recuweb.com/css/youtube.com/2014/05/aprende-a-validar-formularios-html-con-jquery-y-css",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=N8_bRPd6Z6o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/N8_bRPd6Z6o/0.jpg"
-        },
-        "youtube.com/2014/05/como-crear-ventanas-modales-o-lightbox-para-tu-web-con-jquery": {
-            "title": "Como crear ventanas modales o Lightbox para tu web con jQuery, CSS y HTML...",
-            "snippet": "Como crear ventanas modales o Lightbox para tu web con jQuery, CSS y HTML Aprende a crear tu propias ventanas modales y dale un toque mas profesional e interactivo a tu sitio web aprovechando las ventajas que nos ofrece la librer\u00eda de jQuery y las...",
-            "date": "2014-05-10",
-            "author_name": "Tuwebonada.com",
-            "categories": "jquery,css,html",
-            "tags": "aprende,crear,profesional,librer\u00eda,jquery,css,html",
-            "recuweb_url": "http://es.recuweb.com/html/youtube.com/2014/05/como-crear-ventanas-modales-o-lightbox-para-tu-web-con-jquery",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=JkyMXQV3_vc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/JkyMXQV3_vc/0.jpg"
         },
         "dailymotion.com/2013/12/preview-connect-clean-hosting-company-jquery-plan-overv": {
             "title": "Preview Connect - Clean Hosting Company (jQuery Plan Overv...",

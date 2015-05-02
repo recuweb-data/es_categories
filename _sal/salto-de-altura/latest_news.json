@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "salto-de-altura",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/salto-de-altura/",
@@ -11,23 +11,79 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/salto-de-altura/salto-de-altura/blogs.json"
     },
     "items": {
-        "ellitoral.com/2015/04/no-existe-la-justicia-terrenal-ni-divina": {
-            "title": "\"No existe la justicia terrenal, ni la divina\" -...",
-            "snippet": "\"No existe la justicia terrenal, ni la divina\" Cay\u00f3 de la moto, camin\u00f3 unos pasos, se recost\u00f3 contra un \u00e1rbol (a la altura de Pasaje Pizzorno) y muri\u00f3 segundos m\u00e1s tarde. Mar\u00eda escuch\u00f3 los disparos. Se sobresalt\u00f3. Salt\u00f3 de la cama y un...",
-            "date": "2015-04-26",
-            "tags": "cay\u00f3,altura,tarde",
-            "recuweb_url": "http://es.recuweb.com/ellitoral.com/2015/04/no-existe-la-justicia-terrenal-ni-divina",
+        "elespectador.com/2015/04/cartagena-vivi%C3%B3-un-evento-con-altura": {
+            "title": "Cartagena vivi\u00f3 un evento con altura -...",
+            "snippet": "vivi\u00f3 un evento con embargo, apareci\u00f3 el brit\u00e1nico Gary Hunt, campe\u00f3n defensor del t\u00edtulo, y en una tarde inspirada se acerc\u00f3 a la perfecci\u00f3n en el momento de realizar sus saltos. Con una calificaci\u00f3n de 526,2 puntos se llev\u00f3 el primer...",
+            "date": "2015-04-27",
+            "tags": "saltos,campe\u00f3n,gary,gary_hunt,hunt,brit\u00e1nico,altura,tarde",
+            "recuweb_url": "http://es.recuweb.com/elespectador.com/2015/04/cartagena-vivi%C3%B3-un-evento-con-altura",
             "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura%2Bsalto%2Bde%2Baltura&output=atom&nord=1",
-            "source_url": "http://ellitoral.com/index.php/id_um/112610-no-existe-la-justicia-terrenal-ni-la-divina"
+            "source_url": "http://elespectador.com/deportes/cartagena-vivio-un-evento-altura-articulo-557210"
         },
-        "elcomercio.es/2015/04/la-nba-tiende-mano-a-cuba": {
-            "title": "La NBA tiende la mano a Cuba...",
-            "snippet": "El sal\u00f3n estaba repleto de j\u00f3venes, glorias deportivas cubanas como Javier Sotomayor -plusmarquista mundial de salto de altura- y aficionados que no quer\u00edan perderse la oportunidad de ver a los astros de la NBA en una jornada hist\u00f3rica para...",
-            "date": "2015-04-25",
-            "tags": "jornada,mundial,javier,javier_sotomayor,sotomayor,salto,altura",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.es/2015/04/la-nba-tiende-mano-a-cuba",
+        "elgrafico.mx/2015/04/conejita-hace-sensual-salto-en-paraca%C3%ADdas-el-gr%C3%A1fico": {
+            "title": "Conejita hace sensual salto en paraca\u00eddas - El Gr\u00e1fico...",
+            "snippet": "El Gr\u00e1ficoConejita hace sensual salto en paraca\u00eddasEl Gr\u00e1ficoAnais, de 30 a\u00f1os, ha modelado para revistas como 'Playboy', 'GQ', 'Esquire'y 'Maxim', pero ahora ella hace tiros de c\u00e1mara saltando de los aviones miles de pies de altura. Nacida en...",
+            "date": "2015-04-27",
+            "tags": "ahora,ella,hace,salto,altura",
+            "recuweb_url": "http://es.recuweb.com/elgrafico.mx/2015/04/conejita-hace-sensual-salto-en-paraca%C3%ADdas-el-gr%C3%A1fico",
+            "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura%2Bsalto%2Bde%2Baltura&output=atom&nord=1",
+            "source_url": "http://elgrafico.mx/wow/27-04-2015/conejita-hace-sensual-salto-en-paracaidas"
+        },
+        "lapatria.com/2015/04/duque-salt%C3%B3-por-el-bronce": {
+            "title": "Duque salt\u00f3 por el bronce - La...",
+            "snippet": "Duque salt\u00f3 por el bronceLa saltador brit\u00e1nico Gary Hunt gan\u00f3 la primera etapa del Red Bull Cliff Diving, la Serie Mundial de Clavados de altura, que arranc\u00f3 esta temporada enCartagena. Hunt, que actualmente es el campe\u00f3n mundial, super\u00f3 a sus...",
+            "date": "2015-04-27",
+            "tags": "campe\u00f3n,temporada,primera,gary,gary_hunt,hunt,brit\u00e1nico,bronce,clavados,altura",
+            "recuweb_url": "http://es.recuweb.com/lapatria.com/2015/04/duque-salt%C3%B3-por-el-bronce",
+            "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura%2Bsalto%2Bde%2Baltura&output=atom&nord=1",
+            "source_url": "http://lapatria.com/deportes/duque-salto-por-el-bronce-190082"
+        },
+        "lacomarcadepuertollano.com/2015/04/el-ceip-virgen-del-socorro-de-argamasilla-calatrava-celebra-sus-jornadas": {
+            "title": "El CEIP Virgen del Socorro de Argamasilla de Calatrava celebra sus jornadas culturales con...",
+            "snippet": "El d\u00eda 30 celebrar\u00e1n el D\u00eda del Deporte, con la visita de la gran deportista de salto de altura Beatriz Belmonte, que ense\u00f1ar\u00e1 a los alumnos c\u00f3mo se pr\u00e1ctica el deporte que ella realiza y les dar\u00e1 una charla. Despu\u00e9s organizar\u00e1n juegos por...",
+            "date": "2015-04-27",
+            "categories": "deporte",
+            "tags": "ella,gran,deportista,d\u00eda,salto,altura",
+            "recuweb_url": "http://es.recuweb.com/deporte/lacomarcadepuertollano.com/2015/04/el-ceip-virgen-del-socorro-de-argamasilla-calatrava-celebra-sus-jornadas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
-            "source_url": "http://elcomercio.es/deportes/baloncesto/201504/26/tiende-mano-cuba-20150426010408-v.html"
+            "source_url": "http://lacomarcadepuertollano.com/diario/noticia/2015_04_27/44"
+        },
+        "farodevigo.es/2015/04/las-chicas-de-la-gimn%C3%A1stica-son-bronce": {
+            "title": "Las chicas de la Gimn\u00e1stica son bronce...",
+            "snippet": "En cuanto a terceros puestos, se logr\u00f3 el bronce parcial en el 4x100 y en el 4x400 femenino, Roc\u00edo Rodr\u00edguez en el metros con m\u00ednima para el nacional promesa, In\u00e9s Mart\u00ednez en el salto de altura, Paula Mart\u00edn en el salto de longitud y...",
+            "date": "2015-04-27",
+            "tags": "metros,nacional,bronce,son,femenino,salto,altura",
+            "recuweb_url": "http://es.recuweb.com/farodevigo.es/2015/04/las-chicas-de-la-gimn%C3%A1stica-son-bronce",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
+            "source_url": "http://farodevigo.es/deportes/pontevedra/2015/04/27/chicas-gimnastica-son-bronce/1228585.html"
+        },
+        "eluniversal.com.mx/2015/04/s%C3%A1nchez-cierra-con-una-plata-el-universal": {
+            "title": "S\u00e1nchez cierra con una plata - El Universal...",
+            "snippet": "El UniversalS\u00e1nchez cierra con una plataEl Universal... tuve dos saltos buenos y dos faltas, eran buenas marcas me sent\u00ed bien y ahora s\u00ed puedo decir que va a comenzar la temporada, manifest\u00f3 Rivera al t\u00e9rmino de la final de salto de altura en...",
+            "date": "2015-04-27",
+            "tags": "final,ahora,temporada,saltos,salto,dos,rivera,altura",
+            "recuweb_url": "http://es.recuweb.com/eluniversal.com.mx/2015/04/s%C3%A1nchez-cierra-con-una-plata-el-universal",
+            "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura&output=atom&nord=1",
+            "source_url": "http://eluniversal.com.mx/deportes/2015/impreso/sanchez-cierra-con-una-plata-163591.html"
+        },
+        "noroeste.com.mx/2015/04/gran-d%C3%ADa-para-alejandra-maldonado": {
+            "title": "Gran d\u00eda para Alejandra Maldonado...",
+            "snippet": "La primera presea dorada fue en salto de altura. Fotograf\u00eda: Cortes\u00eda UAS. MONTERREY._Un d\u00eda anterior, todos quedaron sorprendidos con el tercer lugar de Iza Daniela Flores en los 100 metros planos, prueba que ven\u00eda reinando a\u00f1os atr\u00e1s, pero...",
+            "date": "2015-04-25",
+            "categories": "fotografia",
+            "tags": "metros,tercer,d\u00eda,primera,gran,salto,altura",
+            "recuweb_url": "http://es.recuweb.com/fotografia/noroeste.com.mx/2015/04/gran-d%C3%ADa-para-alejandra-maldonado",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
+            "source_url": "http://noroeste.com.mx/publicaciones.php?id=1024924"
+        },
+        "elcolombiano.com/2015/04/10-hombres-que-no-le-temen-a-las-ca%C3%ADdas-de-altura": {
+            "title": "10 hombres que no le temen a las ca\u00eddas de altura - El Colombiano...",
+            "snippet": "El Colombiano10 hombres que no le temen a las ca\u00eddas de alturaEl ColombianoIngenieros, meseros, estudiantes y hasta teatreros y de gran fama como el brasile\u00f1o Jucelino Junior, quien en sus ratos libres practica los saltos de altura que le sirven...",
+            "date": "2015-04-24",
+            "tags": "saltos,gran,altura",
+            "recuweb_url": "http://es.recuweb.com/elcolombiano.com/2015/04/10-hombres-que-no-le-temen-a-las-ca%C3%ADdas-de-altura",
+            "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura&output=atom&nord=1",
+            "source_url": "http://elcolombiano.com/10-hombres-que-no-le-temen-a-las-caidas-de-altura-EL1782600"
         },
         "laopiniondemurcia.es/2015/04/a-la-revoluci%C3%B3n-se-llega-lanzando-confeti": {
             "title": "A la revoluci\u00f3n se llega lanzando confeti...",
@@ -38,72 +94,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
             "source_url": "http://laopiniondemurcia.es/opinion/2015/04/25/revolucion-llega-lanzando-confeti/642582.html"
         },
-        "eluniversal.com.mx/2015/04/comienza-temporada-para-los-clavadistas-de-altura-el-universal": {
-            "title": "Comienza temporada para los clavadistas de altura - El Universal...",
-            "snippet": "El UniversalComienza temporada para los clavadistas de alturaEl UniversalJonathan Paredes inicia ma\u00f1ana su temporada competitiva en la Serie Mundial de Saltos de Altura que se llevar\u00e1 a cabo en Cartagena. Despu\u00e9s de meses de entrenamiento, el...",
-            "date": "2015-04-24",
-            "tags": "entrenamiento,cabo,mundial,temporada,altura",
-            "recuweb_url": "http://es.recuweb.com/eluniversal.com.mx/2015/04/comienza-temporada-para-los-clavadistas-de-altura-el-universal",
-            "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura&output=atom&nord=1",
-            "source_url": "http://eluniversal.com.mx/deportes/2015/impreso/comienza-temporada-para-los-clavadistas-de-altura-163526.html"
-        },
-        "elsiglodedurango.com.mx/2015/04/convocan-a-segundo-concurso-de-salto-ecuestre-el-siglo-durango": {
-            "title": "Convocan a segundo concurso de salto ecuestre - El Siglo Durango...",
-            "snippet": "Convocan a segundo concurso de salto ecuestreEl Siglo DurangoUn total de seis pruebas con diferentes alturas de obst\u00e1culos se llevar\u00e1n a cabo durante la jornada del s\u00e1bado, y seis m\u00e1s se celebrar\u00e1n el domingo, todo regido bajo los reglamentos...",
-            "date": "2015-04-24",
-            "tags": "pruebas,cabo,jornada,s\u00e1bado,salto",
-            "recuweb_url": "http://es.recuweb.com/elsiglodedurango.com.mx/2015/04/convocan-a-segundo-concurso-de-salto-ecuestre-el-siglo-durango",
-            "resource_url": "http://news.google.es/?hl=es&q=salto%2Bde%2Baltura&output=atom&nord=1",
-            "source_url": "http://elsiglodedurango.com.mx/noticia/587000.convocan-a-segundo-concurso-de-salto-ecuestre.html"
-        },
         "elperiodicomediterraneo.com/2015/04/el-atleta-eugenio-teodoro-repite-como-mejor-deportista": {
             "title": "El atleta Eugenio Teodoro repite como mejor deportista del a\u00f1o en Orpesa...",
             "snippet": "El joven, que destaca en salto de altura y triple salto, est\u00e1 situado en la actualidad 1 en el r\u00e1nking de la Real Federaci\u00f3n Espa\u00f1ola de Atletismo con una marca de 2,00 metros en salto de altura. Comenz\u00f3 su carrera hace dos a\u00f1os,...",
             "date": "2015-04-24",
             "categories": "atletismo",
-            "tags": "hace,metros,salto,altura,atletismo,dos",
+            "tags": "hace,metros,deportista,salto,altura,atletismo,dos",
             "recuweb_url": "http://es.recuweb.com/atletismo/elperiodicomediterraneo.com/2015/04/el-atleta-eugenio-teodoro-repite-como-mejor-deportista",
             "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
             "source_url": "http://elperiodicomediterraneo.com/noticias/deportes/atleta-eugenio-teodoro-repite-mejor-deportista-ano-orpesa_930020.html"
-        },
-        "lacomarcadepuertollano.com/2015/04/el-pr%C3%B3ximo-1-de-mayo-se-disputar%C3%A1-control-federativo-regional-atletismo": {
-            "title": "El pr\u00f3ximo 1 de mayo se disputar\u00e1 el Control Federativo Regional de Atletismo en Puertollano...",
-            "snippet": "Los atletas, por tanto, se dar\u00e1n cita en este estadio el pr\u00f3ximo viernes 1 de mayo, a partir de las 17:30 horas para disputar diversas pruebas como salto de longitud y salto de altura, entre otras, tanto en categor\u00eda masculina como femenina.",
-            "date": "2015-04-24",
-            "categories": "atletismo",
-            "tags": "longitud,horas,pruebas,control,atletismo,salto,altura",
-            "recuweb_url": "http://es.recuweb.com/atletismo/lacomarcadepuertollano.com/2015/04/el-pr%C3%B3ximo-1-de-mayo-se-disputar%C3%A1-control-federativo-regional-atletismo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
-            "source_url": "http://lacomarcadepuertollano.com/diario/noticia/2015_04_24/61"
-        },
-        "mundodeportivo.com/2015/04/javier-guerra-y-alessandra-aguilar-figuras-espa%C3%B1olas-en-londres": {
-            "title": "Javier Guerra y Alessandra Aguilar, figuras espa\u00f1olas en Londres...",
-            "snippet": "Adem\u00e1s el fondista vitoriano Iv\u00e1n Fern\u00e1ndez debutar\u00e1 en la distancia en Hamburgo y Ruth Beitia, doble campeona de Europa de salto de altura, realizar\u00e1 su primera competici\u00f3n de la temporada al aire libre este s\u00e1bado 25 en Des Moines (Estados...",
-            "date": "2015-04-22",
-            "tags": "temporada,s\u00e1bado,ruth,ruth_beitia,beitia,figuras,javier,adem\u00e1s,salto,altura",
-            "recuweb_url": "http://es.recuweb.com/mundodeportivo.com/2015/04/javier-guerra-y-alessandra-aguilar-figuras-espa%C3%B1olas-en-londres",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
-            "source_url": "http://mundodeportivo.com/atletismo/20150422/102901212111/javier-guerra-y-alessandra-aguilar-figuras-espanolas-en-londres.html"
-        },
-        "laopiniondemurcia.es/2015/04/los-centros-narval-y-san-vicente-de-pa%C3%BAl-ganan-la-iii": {
-            "title": "Los centros Narval y San Vicente de Pa\u00fal ganan la III Liga Municipal Intercentros...",
-            "snippet": "Las pruebas que se llevaron a cabo fueron: Velocidad (60 metros), fondo (500 metros), salto de altura, longitud, lanzamiento de peso y finalizaba con la prueba de relevo. La final de esta tercera liga municipal de atletismo provoc\u00f3 muchas...",
-            "date": "2015-04-22",
-            "categories": "atletismo",
-            "tags": "final,pruebas,cabo,metros,salto,altura,longitud,atletismo",
-            "recuweb_url": "http://es.recuweb.com/atletismo/laopiniondemurcia.es/2015/04/los-centros-narval-y-san-vicente-de-pa%C3%BAl-ganan-la-iii",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
-            "source_url": "http://laopiniondemurcia.es/deportes/2015/04/23/centros-narval-san-vicente-paul/641875.html"
-        },
-        "marca.com/2015/04/el-jordan-blanco-sorprende-al-mundo-con-un-salto-de-190": {
-            "title": "El 'Jordan blanco'sorprende al mundo con un salto de 190 cent\u00edmetros...",
-            "snippet": "sin bal\u00f3n. El saltar\u00edn muestra la potencia de sus piernas con un potente salto de altura en el que alcanza los 190 cent\u00edmetros, a s\u00f3lo 55 del r\u00e9cord de Javier Sotomayor en atletismo.",
-            "date": "2015-04-21",
-            "categories": "atletismo",
-            "tags": "javier,javier_sotomayor,sotomayor,r\u00e9cord,mundo,salto,altura,atletismo",
-            "recuweb_url": "http://es.recuweb.com/atletismo/marca.com/2015/04/el-jordan-blanco-sorprende-al-mundo-con-un-salto-de-190",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=salto%2Bde%2Baltura&format=RSS&cc=es",
-            "source_url": "http://marca.com/2015/04/21/baloncesto/nba/noticias/1429611739.html"
         }
     }
 }

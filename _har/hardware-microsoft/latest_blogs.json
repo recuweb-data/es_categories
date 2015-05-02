@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-microsoft",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-microsoft/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-microsoft/hardware-microsoft/blogs.json"
     },
     "items": {
+        "cnnexpansion.com/2015/04/los-ingresos-de-google-suben-12%-en-el-trimestre-cnn-expansi%C3%B3n": {
+            "title": "Los ingresos de Google suben 12% en el trimestre - CNN Expansi\u00f3n...",
+            "snippet": "Las ventas de 'hardware'impulsan ingresos de Microsoft Foto. La publicidad m\u00f3vil impulsa a Facebook en el trimestre Foto. Las ventas de Yahoo caen 4% en el primer trimestre. CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n)...",
+            "date": "2015-04-23",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "google,hardware,facebook,yahoo",
+            "tags": "microsoft,impulsan,impulsan-ingresos,ingresos,ventas,hardware,facebook",
+            "recuweb_url": "http://es.recuweb.com/yahoo/cnnexpansion.com/2015/04/los-ingresos-de-google-suben-12%-en-el-trimestre-cnn-expansi%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/negocios/2015/04/23/ingresos-de-google-trepan-por-anuncios-publicitarios"
+        },
         "cwv.com.ve/2015/03/microsoft-habla-del-hardware-que-soportar%C3%A1-su-estrategia-iot": {
             "title": "Microsoft habla del hardware que soportar\u00e1 su estrategia IoT con...",
             "snippet": "No es un secreto para nadie. Microsoft tiene grandes planes para Windows, m\u00e1s all\u00e1 de los tel\u00e9fonos, tablets y PC. Wearables, robots, dispositivos para el hogar conectado est\u00e1n en su punto de mira. Windows 10 soportar\u00e1...",
             "date": "2015-03-25",
             "author_name": "Prensa CWV",
             "categories": "hardware",
-            "tags": "dispositivos,hogar,tablets,all\u00e1,tel\u00e9fonos,planes,secreto,secreto-para-nadie,nadie,soportar\u00e1,soportar\u00e1-su-estrategia,estrategia,habla,microsoft,hardware,iot,tiene,grandes,windows,wearables,robots",
+            "tags": "tablets,grandes,planes,microsoft,hardware,windows",
             "recuweb_url": "http://es.recuweb.com/hardware/cwv.com.ve/2015/03/microsoft-habla-del-hardware-que-soportar%C3%A1-su-estrategia-iot",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cwv.com.ve/microsoft-habla-del-hardware-que-soportara-su-estrategia-iot-con-windows-10/"
@@ -28,21 +39,10 @@
             "date": "2015-03-23",
             "author_name": "Eduardo Ra\u00fal Ad\u00e1n Mena",
             "categories": "hardware",
-            "tags": "aplicaciones,windows,phone,microsoft,microsoft_insider,insider,hardware,nueva",
+            "tags": "nueva,windows,phone,microsoft,microsoft_insider,insider,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/microsoftinsider.es/2015/03/aplicaci%C3%B3n-y-hardware-llegar%C3%ADan-a-skype-for-microsoft-insider",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsoftinsider.es/65769/aplicacion-y-hardware-llegarian-a-skype-for-bussines-con-skypebox/"
-        },
-        "wmpoweruser.com/2015/03/microsoft-reveals-minimum-hardware-requirements-for-windows": {
-            "title": "Microsoft Reveals Minimum Hardware Requirements For Windows...",
-            "snippet": "At WinHEC, Microsoft revealed the minimum hardware requirements for Windows Mobile, that is Windows 10 for phones. This is more or less same as the previous Windows Phone 8 hardware specs. Minimum RAM remains 512MB, storage...",
-            "date": "2015-03-22",
-            "author_name": "Pradeep",
-            "categories": "hardware",
-            "tags": "windows,mobile,revealed,microsoft,hardware,that,this,phone,specs",
-            "recuweb_url": "http://es.recuweb.com/hardware/wmpoweruser.com/2015/03/microsoft-reveals-minimum-hardware-requirements-for-windows",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wmpoweruser.com/microsoft-reveals-minimum-hardware-requirements-for-windows-10-for-phones/"
         },
         "pcmrace.com/2015/03/microsoft-devela-los-requerimientos-de-hardware-m%C3%ADnimos": {
             "title": "Microsoft devela los requerimientos de hardware m\u00ednimos para...",
@@ -50,32 +50,21 @@
             "date": "2015-03-20",
             "author_name": "Pey",
             "categories": "hardware",
-            "tags": "siguiente,microsoft,hardware,windows",
+            "tags": "microsoft,hardware,windows",
             "recuweb_url": "http://es.recuweb.com/hardware/pcmrace.com/2015/03/microsoft-devela-los-requerimientos-de-hardware-m%C3%ADnimos",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pcmrace.com/2015/03/20/microsoft-devela-los-requerimientos-de-hardware-minimos-para-windows-10/"
         },
-        "blog.jmacoe.com/2015/03/una-mirada-detr%C3%A1s-de-los-empaques-hardware-microsoft": {
-            "title": "Una mirada detr\u00e1s de los empaques de hardware Microsoft El...",
-            "snippet": "Conoce a Jill Geurts, ingeniero estructural de envases de Microsoft. Jill ha sido una de las personas que trabajan en nuestros envases desde los primeros d\u00edas del hardware de Microsoft. En esta gira vamos por el muro de...",
-            "date": "2015-03-16",
-            "author_name": "admin",
+        "wmpoweruser.com/2015/03/microsoft-reveals-minimum-hardware-requirements-for-windows": {
+            "title": "Microsoft Reveals Minimum Hardware Requirements For Windows...",
+            "snippet": "At WinHEC, Microsoft revealed the minimum hardware requirements for Windows Mobile, that is Windows 10 for phones. This is more or less same as the previous Windows Phone 8 hardware specs. Minimum RAM remains 512MB, storage...",
+            "date": "2015-03-18",
+            "author_name": "Pradeep",
             "categories": "hardware",
-            "tags": "personas,hardware,microsoft",
-            "recuweb_url": "http://es.recuweb.com/hardware/blog.jmacoe.com/2015/03/una-mirada-detr%C3%A1s-de-los-empaques-hardware-microsoft",
+            "tags": "windows,mobile,microsoft,hardware,that,phone,specs",
+            "recuweb_url": "http://es.recuweb.com/hardware/wmpoweruser.com/2015/03/microsoft-reveals-minimum-hardware-requirements-for-windows",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.jmacoe.com/miscelanea/mirada-detras-empaques-hardware-microsoft/"
-        },
-        "twoconnected.blogspot.com/2015/02/two-connected-hardware-microsoft-ideal-para-pc-s-smartphones": {
-            "title": "Two Connected: Hardware Microsoft ideal para PC's, smartphones o...",
-            "snippet": "Universal Mobile Keyboard, Hardware, Microsoft, Smartphone, Tablets, PC, Wireless Mobile Mouse 1850,Wireless Display Adapter.",
-            "date": "2015-02-19",
-            "author_name": "Gustavo Camarillo Rangel",
-            "categories": "hardware,hardware-microsoft",
-            "tags": "mobile,mouse,universal,universal_mobile,universal_mobile_keyboard,mobile_keyboard,keyboard,smartphones,ideal,hardware,hardware_microsoft,microsoft,smartphone,tablets",
-            "recuweb_url": "http://es.recuweb.com/hardware-microsoft/twoconnected.blogspot.com/2015/02/two-connected-hardware-microsoft-ideal-para-pc-s-smartphones",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://twoconnected.blogspot.com/2015/02/hardware-microsoft-ideal-para-pcs.html"
+            "source_url": "http://wmpoweruser.com/microsoft-reveals-minimum-hardware-requirements-for-windows-10-for-phones/"
         },
         "derutapormexico.blogspot.com/2015/02/viajero-incansable-y-techie-hardware-microsoft-ideal-para-pc": {
             "title": "Viajero incansable y techie. Hardware Microsoft ideal para PC's...",
@@ -83,43 +72,54 @@
             "date": "2015-02-19",
             "author_name": "Gustavo Camarillo Rangel",
             "categories": "hardware,hardware-microsoft",
-            "tags": "tablets,smartphone,universal,universal_mobile,universal_mobile_keyboard,mobile,mobile_keyboard,keyboard,smartphones,ideal,hardware,hardware_microsoft,microsoft,windows",
+            "tags": "tablets,mobile,hardware,microsoft,windows",
             "recuweb_url": "http://es.recuweb.com/hardware-microsoft/derutapormexico.blogspot.com/2015/02/viajero-incansable-y-techie-hardware-microsoft-ideal-para-pc",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://derutapormexico.blogspot.com/2015/02/viajero-incansable-y-techie-hardware.html"
         },
-        "actualidadhardware.com/2015/02/review-jabra-evolve-80-microsoft-lync-stereo": {
-            "title": "REVIEW: JABRA EVOLVE 80 MICROSOFT LYNC STEREO...",
-            "snippet": "Continuamos con otro review de la mano de JABRA que nos ha cedido para su an\u00e1lisis los EVOLVE 80 MICROSOFT LYNC STEREO. Se trata de unos auriculares.... Noticias y Reviews de Hardware y Gadgets logo. Buscar.",
-            "date": "2015-02-17",
-            "author_name": "Actualidad Hardware",
-            "categories": "hardware",
-            "tags": "microsoft,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/actualidadhardware.com/2015/02/review-jabra-evolve-80-microsoft-lync-stereo",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://actualidadhardware.com/review-jabra-evolve-80-microsoft-lync-stereo/"
-        },
         "microsoftinsider.es/2015/02/podcast-24-en-directo-el-hardware-que-viene-con-microsoft-insider": {
             "title": "Podcast 24 en directo: El hardware que viene con... - Microsoft Insider...",
-            "snippet": "En esta ocasi\u00f3n en el Podcast 24 hablaremos sobre lo siguiente. Las novedades de hardware de Windows 10 como la Raspberry Pi que funcionar\u00eda bajo ARM, la nueva tablet que reemplazar\u00eda a la Nokia Lumia 2520 con un...",
+            "snippet": "Podcast 24 en directo: El hardware que viene con Windows 10, nuevos dise\u00f1os y mucho m\u00e1s. por Jose Palacios febrero 8, 2015. Podcast 24 de Microsoft Insider. Vuelve vuestra cita del domingo a las diez de la noche en Espa\u00f1a. Tenemos...",
             "date": "2015-02-08",
             "author_name": "Jose Palacios",
             "categories": "hardware",
-            "tags": "nokia,lumia,siguiente,microsoft,microsoft_insider,insider,viene,directo,podcast,hardware,windows,arm,nueva",
+            "tags": "dise\u00f1os,microsoft,microsoft_insider,insider,viene,directo,podcast,hardware,windows,nuevos",
             "recuweb_url": "http://es.recuweb.com/hardware/microsoftinsider.es/2015/02/podcast-24-en-directo-el-hardware-que-viene-con-microsoft-insider",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsoftinsider.es/62018/podcast-24-en-directo-el-hardware-que-viene-con-windows-10-nuevos-disenos-y-mucho-mas/"
         },
         "pixeletiao.com/2015/02/netflix-dice-que-sony-y-microsoft-har%C3%A1n-una-revisi%C3%B3n-de-hardware": {
             "title": "Netflix dice que Sony y Microsoft har\u00e1n una revisi\u00f3n de Hardware...",
-            "snippet": "Netflix dice que Sony y Microsoft har\u00e1n una revisi\u00f3n de Hardware para sus consolas de Dos A\u00f1os. February 4, 2015 por Jay Rosario 0 Comments. Netflix predice que Microsoft y Sony lanzar\u00e1n versiones 4K de el Xbox One y PlayStation 4...",
+            "snippet": "Netflix predice que Microsoft y Sony lanzar\u00e1n versiones 4K de el Xbox One y PlayStation 4 este oto\u00f1o, seg\u00fan un informe de la revista Forbes. El mes pasado en el CES 2015, Netflix CPO Neil Hunt dijo Sony prometi\u00f3 una...",
             "date": "2015-02-04",
             "author_name": "Jay Rosario",
             "categories": "xbox,hardware,playstation",
-            "tags": "xbox,xbox_one,consolas,sony,microsoft,hardware,playstation",
+            "tags": "xbox,xbox_one,dice,microsoft,hardware",
             "recuweb_url": "http://es.recuweb.com/playstation/pixeletiao.com/2015/02/netflix-dice-que-sony-y-microsoft-har%C3%A1n-una-revisi%C3%B3n-de-hardware",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pixeletiao.com/sony-microsoft-2/"
+        },
+        "proyectofreak.com/2014/12/xbox-4ever-podr%C3%ADa-ser-el-nombre-del-pr%C3%B3ximo-hardware-dom%C3%A9stico": {
+            "title": "Xbox 4Ever podr\u00eda ser el nombre del pr\u00f3ximo hardware dom\u00e9stico...",
+            "snippet": "Ya pudimos ver, seg\u00fan las declaraciones de Shigeru Miyamoto, que Nintendo ya estar\u00eda pensando en la sucesora de Wii U, aunque no esper\u00e1bamos que Microsoft ya tuviera planes para la sucesora de Xbox One.",
+            "date": "2014-12-28",
+            "author_name": "AlexKidd",
+            "categories": "xbox,hardware",
+            "tags": "planes,xbox,hardware,microsoft",
+            "recuweb_url": "http://es.recuweb.com/hardware/proyectofreak.com/2014/12/xbox-4ever-podr%C3%ADa-ser-el-nombre-del-pr%C3%B3ximo-hardware-dom%C3%A9stico",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://proyectofreak.com/pw/xbox-4ever-podria-ser-el-nombre-del-proximo-hardware-domestico-de-microsoft/"
+        },
+        "blog.jmacoe.com/2011/01/una-mirada-detr%C3%A1s-de-los-empaques-hardware-microsoft": {
+            "title": "Una mirada detr\u00e1s de los empaques de hardware Microsoft El...",
+            "snippet": "Conoce a Jill Geurts, ingeniero estructural de envases de Microsoft. Jill ha sido una de las personas que trabajan en nuestros envases desde los primeros d\u00edas del hardware de Microsoft. En esta gira vamos por el muro de MSH del hardware,...",
+            "date": "2011-01-08",
+            "author_name": "admin",
+            "categories": "hardware",
+            "tags": "personas,hardware,microsoft",
+            "recuweb_url": "http://es.recuweb.com/hardware/blog.jmacoe.com/2011/01/una-mirada-detr%C3%A1s-de-los-empaques-hardware-microsoft",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.jmacoe.com/miscelanea/mirada-detras-empaques-hardware-microsoft/"
         }
     }
 }

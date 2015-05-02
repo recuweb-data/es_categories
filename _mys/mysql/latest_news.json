@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
-        "zonared.com/2015/04/puzzle-&-dragons-super-mario-bros-edition-muestra-su-tr%C3%A1iler": {
-            "title": "'Puzzle & Dragons: Super Mario Bros. Edition'muestra su tr\u00e1iler de lanzamiento...",
-            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
-            "date": "2015-04-22",
+        "linuxadictos.com/2015/04/debian-8-jessie-ya-est%C3%A1-en-la-calle": {
+            "title": "Debian 8 Jessie ya est\u00e1 en la calle...",
+            "snippet": "En cuanto al mundo del servidor, Debian tambi\u00e9n incluye algunas opciones interesantes como la inclusi\u00f3n de MariaDB que sustituir\u00e1 poco a poco a Mysql, aunque por el momento, en Debian 8 Jessie coexisten estos dos softwares. Debian 8 Jessie...",
+            "date": "2015-04-27",
             "categories": "mysql",
-            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,tr\u00e1iler,warning,mysql,numrows,datos,virtual,free",
-            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/puzzle-&-dragons-super-mario-bros-edition-muestra-su-tr%C3%A1iler",
+            "tags": "dos,debian,jessie,servidor,mariadb,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/linuxadictos.com/2015/04/debian-8-jessie-ya-est%C3%A1-en-la-calle",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://zonared.com/3ds/videos/puzzle-dragons-mario-edition-trailer-lanzamiento-video/"
+            "source_url": "http://linuxadictos.com/debian-8-jessie-ya-esta-en-la-calle.html"
         },
-        "pcforum.hu/2015/04/1-gb-os-text-f%C3%A1jlb%C3%B3l-adott-sorok-mysql-be-%C3%ADr%C3%A1sa-pc": {
-            "title": "1 GB-os text f\u00e1jlb\u00f3l adott sorok mysql-be \u00edr\u00e1sa - PC F\u00f3rum...",
-            "snippet": "1 GB-os text f\u00e1jlb\u00f3l adott sorok mysql-be \u00edr\u00e1saPC F\u00f3rumVan egy k\u00f6zel 1 GB-os sz\u00f6vegf\u00e1jlom (.tsv), melyben soronk\u00e9nt vannak az inform\u00e1ci\u00f3s adatok, a sorokban pedig az adatok tabul\u00e1torral vannak elv\u00e1lasztva. (nagyj\u00e1b\u00f3l sor, \u00e9s...",
-            "date": "2015-04-22",
+        "siliconweek.es/2015/04/ya-est%C3%A1-disponible-debian-8-jessie": {
+            "title": "Ya est\u00e1 disponible Debian 8 Jessie...",
+            "snippet": "Otras de sus caracter\u00edsticas son el perfeccionamiento de la compatibilidad con UEFI, la actualizaci\u00f3n de GNOME o los saltos a LibreOffice, GIMP, MariaDB y MySQL, por ejemplo. Seg\u00fan han garantizado sus responsables al...",
+            "date": "2015-04-27",
             "categories": "mysql",
-            "tags": "mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/pcforum.hu/2015/04/1-gb-os-text-f%C3%A1jlb%C3%B3l-adott-sorok-mysql-be-%C3%ADr%C3%A1sa-pc",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
-            "source_url": "http://pcforum.hu/tudastar/119468/1+GB-os+text+fajlbol+adott+sorok+mysql-be+irasa.html"
+            "tags": "ejemplo,caracter\u00edsticas,son,debian,jessie,mariadb,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/siliconweek.es/2015/04/ya-est%C3%A1-disponible-debian-8-jessie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://siliconweek.es/software/disponible-debian-8-jessie-80037"
         },
-        "revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes": {
-            "title": "UPSLP certifica a m\u00e1s de M\u00e1s de 800 estudiantes...",
-            "snippet": "Java Solaris y MySQL). 120 certificaciones fueron entregadas a estudiantes, lo que refleja el compromiso de la Academia de profesores para fortalecer esos programas educativos. Los estudiantes tuvieron la oportunidad de compartir experiencias con...",
-            "date": "2015-04-21",
+        "es.paperblog.com/2015/04/c%C3%B3mo-elegir-un-buen-hosting-o-streaming-para-tu-blog-sitio": {
+            "title": "C\u00f3mo elegir un buen hosting o streaming para tu blog o sitio web.",
+            "snippet": "monitoreo 24/7 (todos los d\u00edas y horas del a\u00f1o), deben soportar la publicaci\u00f3n de archivos de video y audio, Java, Webmail, acceso FTP y Base de datos en MySql o SQL dependiendo. Si tienen m\u00e1s caracter\u00edsticas mucho mejor.",
+            "date": "2015-04-26",
             "categories": "java,mysql",
-            "tags": "estudiantes,certificaciones,java,java_solaris,solaris,certifica,mysql,programas",
-            "recuweb_url": "http://es.recuweb.com/mysql/revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes",
+            "tags": "caracter\u00edsticas,datos,web,java,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/es.paperblog.com/2015/04/c%C3%B3mo-elegir-un-buen-hosting-o-streaming-para-tu-blog-sitio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://revistapuntodevista.com.mx/2015/04/21/upslp-certifica-a-mas-de-mas-de-800-estudiantes/63146/"
+            "source_url": "http://es.paperblog.com/como-elegir-un-buen-hosting-o-streaming-para-tu-blog-o-sitio-web-3178870/"
+        },
+        "zonared.com/2015/04/este-es-gigas-nuevo-personaje-de-tekken-7": {
+            "title": "Este es Gigas, nuevo personaje de 'Tekken 7'...",
+            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
+            "date": "2015-04-26",
+            "categories": "mysql",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,numrows,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/este-es-gigas-nuevo-personaje-de-tekken-7",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://zonared.com/ps4/videos/tekken-7-bandai-namco-gigas-video/"
+        },
+        "zonared.com/2015/04/submerged-tr%C3%A1iler-de-presentaci%C3%B3n": {
+            "title": "'Submerged'- Tr\u00e1iler de presentaci\u00f3n...",
+            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
+            "date": "2015-04-25",
+            "categories": "mysql",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,numrows,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/submerged-tr%C3%A1iler-de-presentaci%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://zonared.com/ps4/videos/submerged-trailer-presentacion/"
+        },
+        "eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-eweek": {
+            "title": "Deep Engine Brings Enterprise-Level Performance to MySQL... - eWeek...",
+            "snippet": "eWeekDeep Engine Brings Enterprise-Level Performance to MySQL...eWeekDeep Information Sciences has launched Deep Engine, a plug-and-play storage engine that brings scale and performance to MySQL databases, without the need for recoding or...",
+            "date": "2015-04-24",
+            "categories": "play,mysql",
+            "tags": "mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-eweek",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://eweek.com/database/slideshows/deep-engine-brings-enterprise-level-performance-to-mysql-databases.html"
+        },
+        "diariopresente.com.mx/2015/04/fotos-que-demuestran-los-animales-pueden-dormir-en-donde-sea": {
+            "title": "Fotos que demuestran que los animales pueden dormir en donde sea...",
+            "snippet": "Warning: mysql_fetch_object(): supplied argument is not a valid MySQL result resource in/home/diariop/public_html/php/02/on line 880 Warning: mysql_free_result() expects parameter 1 to be resource, boolean given in/home/diariop/public_html/php...",
+            "date": "2015-04-21",
+            "categories": "mysql,html,php",
+            "tags": "resource,line,result,result-resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,php,free",
+            "recuweb_url": "http://es.recuweb.com/php/diariopresente.com.mx/2015/04/fotos-que-demuestran-los-animales-pueden-dormir-en-donde-sea",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://diariopresente.com.mx/fotogaleria/5483.0.0.0.0/-fotos-demuestran-animales-pueden-dormir-donde-sea/"
         },
         "planoinformativo.com/2015/04/universidad-polit%C3%A9cnica-certifica-a-800-estudiantes-de-ingenier%C3%ADa": {
             "title": "Universidad Polit\u00e9cnica certifica a 800 estudiantes de ingenier\u00eda...",
             "snippet": "Java Solaris y MySQL), adem\u00e1s, se impartieron dos conferencias por parte de ingenieros de Cisco Systems Latinoam\u00e9rica, mismos que egresaron de la Universidad Polit\u00e9cnica en Ingenier\u00eda en Telem\u00e1tica. Hasta ahora son 800 las certificaciones...",
             "date": "2015-04-21",
             "categories": "java,ingenieria,mysql",
-            "tags": "certificaciones,java,java_solaris,solaris,estudiantes,certifica,universidad,mysql",
+            "tags": "certificaciones,son,dos,parte,java,java_solaris,solaris,estudiantes,certifica,universidad,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/planoinformativo.com/2015/04/universidad-polit%C3%A9cnica-certifica-a-800-estudiantes-de-ingenier%C3%ADa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
             "source_url": "http://planoinformativo.com/nota/id/386454/noticia/universidad-politecnica-certifica-a-800-estudiantes-de-ingenieria.html"
+        },
+        "revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes": {
+            "title": "UPSLP certifica a m\u00e1s de M\u00e1s de 800 estudiantes...",
+            "snippet": "Java Solaris y MySQL). 120 certificaciones fueron entregadas a estudiantes, lo que refleja el compromiso de la Academia de profesores para fortalecer esos programas educativos. Los estudiantes tuvieron la oportunidad de compartir experiencias con...",
+            "date": "2015-04-20",
+            "categories": "java,mysql",
+            "tags": "estudiantes,certificaciones,java,java_solaris,solaris,certifica,mysql,programas",
+            "recuweb_url": "http://es.recuweb.com/mysql/revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://revistapuntodevista.com.mx/2015/04/21/upslp-certifica-a-mas-de-mas-de-800-estudiantes/63146/"
         },
         "pcworldenespanol.com/2015/04/escoge-la-distro-de-gnu-linux-apropiadamente": {
             "title": "Escoge la distro de GNU/Linux apropiadamente...",
             "snippet": "Por ejemplo, si el servidor debe ejecutar las \u00faltimas versiones de un paquete com\u00fan como MySQL o PHP, la elecci\u00f3n de una distribuci\u00f3n m\u00e1s estable como CentOS o RHEL con un calendario de lanzamientos ya que complicar\u00e1 las cosas. Es probable que...",
             "date": "2015-04-19",
             "categories": "mysql,php",
-            "tags": "servidor,mysql,php",
+            "tags": "ejemplo,servidor,mysql,php",
             "recuweb_url": "http://es.recuweb.com/php/pcworldenespanol.com/2015/04/escoge-la-distro-de-gnu-linux-apropiadamente",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
             "source_url": "http://pcworldenespanol.com/2015/04/20/escoge-la-distro-de-gnulinux-apropiadamente/"
-        },
-        "prweb.com/2015/04/software-company-anahata-announces-mysql-as-strategic-pr-web-press-release": {
-            "title": "Software Company Anahata Announces MySQL as Strategic... - PR Web (press release)...",
-            "snippet": "Software Company Anahata Announces MySQL as Strategic...PR Web (press release)The MySQL technology is easy to configure, stable and secure with competent support from the open source Anahata coding community. Clients have the option of getting...",
-            "date": "2015-04-19",
-            "categories": "mysql",
-            "tags": "open,open-source,source,release,mysql,web",
-            "recuweb_url": "http://es.recuweb.com/mysql/prweb.com/2015/04/software-company-anahata-announces-mysql-as-strategic-pr-web-press-release",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://prweb.com/releases/softwarecompany/Perth/prweb12651515.htm"
-        },
-        "consumerelectronicsnet.com/2015/04/clustrixdb-delivers-235-times-the-performance-of-mysql-in-consumer-electronics": {
-            "title": "ClustrixDB Delivers 235 Times the Performance of MySQL in... - Consumer Electronics Net...",
-            "snippet": "ClustrixDB Delivers 235 Times the Performance of MySQL in...Consumer Electronics NetSAN FRANCISCO, CA -- (Marketwired) -- 04/17/15 -- Clustrix, provider of the first distributed relational database (RDBMS) optimized to meet the needs of fast growing...",
-            "date": "2015-04-18",
-            "categories": "mysql",
-            "tags": "database,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/consumerelectronicsnet.com/2015/04/clustrixdb-delivers-235-times-the-performance-of-mysql-in-consumer-electronics",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
-            "source_url": "http://consumerelectronicsnet.com/article/ClustrixDB-Delivers-235-Times-the-Performance-of-MySQL-in-Magento-Benchmark--3852684"
-        },
-        "theregister.co.uk/2015/04/mysql-maestro-percona-makes-nosql-play-with-tokutek-gobble-the-register": {
-            "title": "MySQL maestro Percona makes NoSQL play with Tokutek gobble - The Register...",
-            "snippet": "The RegisterMySQL maestro Percona makes NoSQL play with Tokutek gobbleThe RegisterMySQL consulting and services outfit Percona has acquired Tokutek, makers of a commercial, transaction-safe distribution of the open source MongoDB NoSQL database.",
-            "date": "2015-04-15",
-            "categories": "play,mysql",
-            "tags": "open,open-source,source,mysql,database",
-            "recuweb_url": "http://es.recuweb.com/mysql/theregister.co.uk/2015/04/mysql-maestro-percona-makes-nosql-play-with-tokutek-gobble-the-register",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/04/14/percona_buys_tokutek/"
-        },
-        "dbta.com/2015/04/mysql-broadens-use-cases-for-open-source-database-with-5-7": {
-            "title": "MySQL Broadens Use Cases for Open Source Database With 5.7... - Database Trends and Applications...",
-            "snippet": "MySQL Broadens Use Cases for Open Source Database With 5.7...Database Trends and ApplicationsMySQL has announced MySQL Server 5.7, release candidate 1 (), which represents the first major release since the 5.6 GA release 2 years ago. MySQL 5.7 RC 1...",
-            "date": "2015-04-14",
-            "categories": "mysql",
-            "tags": "release,mysql,server,database,open,source",
-            "recuweb_url": "http://es.recuweb.com/mysql/dbta.com/2015/04/mysql-broadens-use-cases-for-open-source-database-with-5-7",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql%2Bmysql&output=atom&nord=1",
-            "source_url": "http://dbta.com/Editorial/News-Flashes/MySQL-Broadens-Use-Cases-for-Open-Source-Database-With-57-Release-103291.aspx"
-        },
-        "zonared.com/2015/04/the-order-1886-tr%C3%A1iler-modo-foto": {
-            "title": "'The Order: 1886'Tr\u00e1iler modo Foto...",
-            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
-            "date": "2015-04-13",
-            "categories": "mysql",
-            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,tr\u00e1iler,warning,mysql,numrows,datos,virtual,free",
-            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/the-order-1886-tr%C3%A1iler-modo-foto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://zonared.com/ps4/videos/the-order-1886-trailer-modo-foto/"
         }
     }
 }

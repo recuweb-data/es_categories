@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "torero",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/torero/",
@@ -11,49 +11,104 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/torero/torero/blogs.json"
     },
     "items": {
+        "ruben-villafraz.blogspot.com/2015/04/feria-de-san-marcos-en-aguascalientes-quinto-festejo-un-interesante-encierro": {
+            "title": "FERIA DE SAN MARCOS EN AGUASCALIENTES QUINTO FESTEJO: Un interesante encierro con dos orejas, que...",
+            "snippet": "GUILLERMO SALAS Fotos: EFE El mexicano Joselito Adame ha estado en torero toda la tarde. Variado, con una firmeza elocuente, siempre dispuesto, cort\u00f3 dos orejas, que pudieron ser m\u00e1s si hubiera estado m\u00e1s fino con el acero. Su gesta, la de matar...",
+            "date": "2015-04-26",
+            "author_name": "VUELTA AL RUEDO",
+            "categories": "encierro,torero",
+            "tags": "dos,orejas,siempre,feria,aguascalientes,torero,tarde",
+            "recuweb_url": "http://es.recuweb.co/torero/ruben-villafraz.blogspot.com/2015/04/feria-de-san-marcos-en-aguascalientes-quinto-festejo-un-interesante-encierro",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=torero%2Btorero&rss=1&lng=es",
+            "source_url": "http://ruben-villafraz.blogspot.com/2015/04/feria-de-san-marcos-en-aguascalientes.html"
+        },
+        "perutaurino.blogspot.com/2015/04/per%C3%BA-taurino-corrida-mixta-en-el-torero-de-lur%C3%ADn-lima": {
+            "title": "Per\u00fa Taurino: CORRIDA MIXTA EN \"EL TORERO\" DE LUR\u00cdN (LIMA)...",
+            "snippet": "Para ma\u00f1ana domingo 26 de abril se ha programado una atractiva corrida mixta en la plaza port\u00e1til \"El Toreo\". Se anuncia la actuaci\u00f3n del rejoneador nacional Eduardo Chaman, el matador peruano David Gamarra y el...",
+            "date": "2015-04-26",
+            "author_name": "Carlos Castillo",
+            "categories": "torero",
+            "tags": "matador,peruano,eduardo,abril,programado,corrida,plaza,toreo,torero,per\u00fa,taurino",
+            "recuweb_url": "http://es.recuweb.co/torero/perutaurino.blogspot.com/2015/04/per%C3%BA-taurino-corrida-mixta-en-el-torero-de-lur%C3%ADn-lima",
+            "resource_url": "http://www.google.com/search?q=torero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://perutaurino.blogspot.com/2015/04/corrida-mixta-en-el-torero-de-lurin-lima.html"
+        },
+        "ambitotoros.blogspot.com/2015/04/ambitotoros-eduardo-d%C3%A1vila-miura-ojo-un-torero": {
+            "title": "ambitotoros: Eduardo D\u00e1vila Miura. Ojo, un torero...",
+            "snippet": "Para mis t\u00edos, Eduardo y Antonio Miura, los ganaderos titulares de Miura tambi\u00e9n es un trago. Creo que no les gusta mucho la idea. En realidad siempre me cost\u00f3 convencer a la gente de que quer\u00eda ser un torero de verdad.",
+            "date": "2015-04-26",
+            "author_name": "Javier",
+            "categories": "torero",
+            "tags": "siempre,quer\u00eda,antonio,eduardo,ambitotoros,torero",
+            "recuweb_url": "http://es.recuweb.co/torero/ambitotoros.blogspot.com/2015/04/ambitotoros-eduardo-d%C3%A1vila-miura-ojo-un-torero",
+            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ambitotoros.blogspot.com/2015/04/eduardo-davila-miura-ojo-un-torero.html"
+        },
+        "ambitotoros.blogspot.com/2015/04/ambitotoros-palos-de-la-frontera-una-tarde-toros": {
+            "title": "ambitotoros: Palos de la Frontera. Una tarde de toros.",
+            "snippet": "El cartel era repetido en la plaza, El reaparecido Rivera, el espectacular Fandi y el torero local y que se gana la repetici\u00f3n en cada tarde Jos\u00e9 Doblado. En frente una corrida de toros de Pereda-La Dehesilla de correcta...",
+            "date": "2015-04-26",
+            "author_name": "Javier",
+            "categories": "frontera,torero",
+            "tags": "corrida,jos\u00e9,local,plaza,ambitotoros,tarde,toros,era,torero",
+            "recuweb_url": "http://es.recuweb.co/torero/ambitotoros.blogspot.com/2015/04/ambitotoros-palos-de-la-frontera-una-tarde-toros",
+            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ambitotoros.blogspot.com/2015/04/palos-de-la-frontera-una-tarde-de-toros.html"
+        },
+        "elapuntador.net/2015/04/la-camisona-y-el-torero-revista-apuntador-espacio-de-teatro": {
+            "title": "La camisona y el torero Revista El Apuntador El espacio de teatro...",
+            "snippet": "Lugar: PORTAL POSTERIOR DE LA BASILICA. Fecha 2015-04-25. Hora: 09:00:00. Descripci\u00f3n: LA CAMISONA Y EL TORERO dando vueltas a las liturgias del arte del toreo y del danceo Mariano Cruz Ordo\u00f1ez Matador...",
+            "date": "2015-04-24",
+            "author_name": "El Apuntador",
+            "categories": "torero",
+            "tags": "matador,toreo,torero",
+            "recuweb_url": "http://es.recuweb.co/torero/elapuntador.net/2015/04/la-camisona-y-el-torero-revista-apuntador-espacio-de-teatro",
+            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elapuntador.net/2015/04/24/la-camisona-y-el-torero/"
+        },
         "ambitotoros.blogspot.com/2015/04/ambitotoros-torero-saliendo-de-la-plaza": {
             "title": "ambitotoros: Torero saliendo de la plaza.",
-            "snippet": "Y no pudo ser. Sale andando cuando quer\u00eda salir a hombros. \u00c9l sabe que tiene m\u00e1s toreo del que ha podido hacer. Lo ha puesto todo, una actitud de entrega absoluta, un invierno de preparaci\u00f3n, una vida entregada a este...",
-            "date": "2015-04-23",
+            "snippet": "Torero saliendo de la plaza. Y no pudo ser. Sale andando cuando quer\u00eda salir a hombros. \u00c9l sabe que tiene m\u00e1s toreo del que ha podido hacer. Lo ha puesto todo, una actitud de entrega absoluta, un invierno de preparaci\u00f3n,...",
+            "date": "2015-04-24",
             "author_name": "Javier",
             "categories": "torero",
-            "tags": "actitud,tiene,hacer,ambitotoros,torero,plaza,\u00e9l",
+            "tags": "toreo,quer\u00eda,plaza,ambitotoros,torero,\u00e9l",
             "recuweb_url": "http://es.recuweb.co/torero/ambitotoros.blogspot.com/2015/04/ambitotoros-torero-saliendo-de-la-plaza",
-            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=torero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ambitotoros.blogspot.com/2015/04/torero-saliendo-de-la-plaza.html"
         },
-        "marin-lastmohican.blogspot.com/2015/04/el-reto%C3%B1al-concepto-de-torero-grande": {
-            "title": "EL RETO\u00d1AL: CONCEPTO DE TORERO GRANDE...",
-            "snippet": "Despu\u00e9s de soltar semejante tost\u00f3n, muchos se pensar\u00e1n que tiene que ver esto con los toros y con la novillada del domingo en las Ventas. Seguramente que nada, pero es una historia verdadera que me ha pasado y como...",
+        "seamosmasanimales.com/2015/04/cantante-morrissey-ha-expresado-que-se-siente-muy-feliz": {
+            "title": "Cantante Morrissey ha expresado que \"se siente muy feliz\" cuando...",
+            "snippet": "Cantante Morrissey ha expresado que \"se siente muy feliz\" cuando un torero se lesiona. El ex cantante de Smiths, Morrissey ha calificado a los toreros como asesinos y revel\u00f3 que \u00e9l piensa que hay \"justicia por fin\" cada vez...",
             "date": "2015-04-21",
-            "author_name": "MARIN",
+            "author_name": "noreply@blogger.com (SeamosMas AnimalesComoEllos)",
             "categories": "torero",
-            "tags": "tiene,torero,reto\u00f1al,toros,ventas",
-            "recuweb_url": "http://es.recuweb.co/torero/marin-lastmohican.blogspot.com/2015/04/el-reto%C3%B1al-concepto-de-torero-grande",
+            "tags": "toreros,torero,\u00e9l,hay,fin,muy",
+            "recuweb_url": "http://es.recuweb.co/torero/seamosmasanimales.com/2015/04/cantante-morrissey-ha-expresado-que-se-siente-muy-feliz",
             "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://marin-lastmohican.blogspot.com/2015/04/concepto-de-torero-grande.html"
+            "source_url": "http://seamosmasanimales.com/2015/04/cantante-morrissey-ha-expresado-que-se-siente-muy-feliz-cuando-un-torero-se-lesiona.html"
         },
-        "ambitotoros.blogspot.com/2015/04/ambitotoros-antonio-tejero-merecido-homenaje-y-sentido": {
-            "title": "ambitotoros: Antonio Tejero merecido homenaje y sentido...",
-            "snippet": "Antonio Tejero merecido homenaje y sentido agradecimiento del torero en C\u00f3rdoba. En la tarde de ayer la C\u00f3rdoba Taurina rindi\u00f3 homenaje a la persona y al profesional que vestido de plata ha llevado el nombre de...",
-            "date": "2015-04-21",
-            "author_name": "Javier",
-            "categories": "sentido,torero",
-            "tags": "plata,nombre,tarde,ayer,antonio,ambitotoros,torero,c\u00f3rdoba",
-            "recuweb_url": "http://es.recuweb.co/torero/ambitotoros.blogspot.com/2015/04/ambitotoros-antonio-tejero-merecido-homenaje-y-sentido",
+        "leonoticias.com/2015/04/un-torero-cabeza-de-lista-ciudadanos-en-pueblo-soria": {
+            "title": "Un torero, cabeza de lista de Ciudadanos en un pueblo de Soria...",
+            "snippet": "El torero soriano Jos\u00e9 Luis Palomar Romero encabeza la candidatura de Ciudadanos en la localidad de \u00c1greda, seg\u00fan confirm\u00f3 la formaci\u00f3n a la agencia Ical. Palomar Romero concurre, por primera vez, a unas elecciones...",
+            "date": "2015-04-20",
+            "author_name": "desconocido",
+            "categories": "torero",
+            "tags": "jos\u00e9,torero",
+            "recuweb_url": "http://es.recuweb.co/torero/leonoticias.com/2015/04/un-torero-cabeza-de-lista-ciudadanos-en-pueblo-soria",
             "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ambitotoros.blogspot.com/2015/04/antonio-tejero-merecido-homenaje-y.html"
+            "source_url": "http://leonoticias.com/frontend/leonoticias/Un-Torero-Cabeza-De-Lista-De-Ciudadanos-En-Una-Localidad-De-vn172756-vst209"
         },
-        "ambitotoros.blogspot.com/2015/04/ambitotoros-chamaco-padre-un-torero-oiga-usted": {
-            "title": "ambitotoros: Chamaco Padre. Un torero, oiga usted...",
-            "snippet": "Chamaco Padre. Un torero, oiga usted... La alegr\u00eda de ser torero en Sevilla. En un d\u00eda dif\u00edcil para el torero de Camas que abre feria, publicamos esta conversaci\u00f3n mientras tienta en Cuadri. Hoy ha muerto su abuelo,.",
+        "puertadeloscalifas.com/2015/04/bujalance-homenajea-de-su-torero-el-puri-puerta-los-califas": {
+            "title": "Bujalance homenajea de su torero: \"El Puri\" Puerta de Los Califas...",
+            "snippet": "Bujalance homenajea de su torero: El Puri. 20150417_213807 En la tarde-noche de ayer se llevaron a cabo dos de los actos que la Pe\u00f1a Taurina y Cultural de Bujalance ha programado para homenajear al diestro local...",
             "date": "2015-04-18",
-            "author_name": "Javier",
+            "author_name": "Manuel Arrebola",
             "categories": "torero",
-            "tags": "muerto,muerto-su-abuelo,abuelo,publicamos,publicamos-esta-conversaci\u00f3n,conversaci\u00f3n,conversaci\u00f3n-mientras,conversaci\u00f3n-mientras-tienta,mientras,mientras-tienta,tienta,abre,abre-feria,feria,d\u00eda,d\u00eda-dif\u00edcil,dif\u00edcil,alegr\u00eda,ambitotoros,torero,sevilla,camas,cuadri",
-            "recuweb_url": "http://es.recuweb.co/torero/ambitotoros.blogspot.com/2015/04/ambitotoros-chamaco-padre-un-torero-oiga-usted",
-            "resource_url": "http://www.google.com/search?q=torero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ambitotoros.blogspot.com/2015/04/chamaco-padre-un-torero-oiga-usted.html"
+            "tags": "programado,diestro,local,dos,torero,puerta,tarde",
+            "recuweb_url": "http://es.recuweb.co/torero/puertadeloscalifas.com/2015/04/bujalance-homenajea-de-su-torero-el-puri-puerta-los-califas",
+            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://puertadeloscalifas.com/bujalance-homenajea-de-su-torero-el-puri/"
         },
         "marin-lastmohican.blogspot.com/2015/04/el-reto%C3%B1al-vamos-palante-torero": {
             "title": "EL RETO\u00d1AL: VAMOS PALANTE TORERO!!!!",
@@ -61,65 +116,10 @@
             "date": "2015-04-17",
             "author_name": "MARIN",
             "categories": "torero",
-            "tags": "importa,torero,reto\u00f1al,toro",
+            "tags": "orejas,torero",
             "recuweb_url": "http://es.recuweb.co/torero/marin-lastmohican.blogspot.com/2015/04/el-reto%C3%B1al-vamos-palante-torero",
             "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://marin-lastmohican.blogspot.com/2015/04/vamos-palante-torero.html"
-        },
-        "ambitotoros.blogspot.com/2015/04/ambitotoros-oliva-soto-la-alegr%C3%ADa-de-ser-torero-en-sevilla": {
-            "title": "ambitotoros: Oliva Soto. La alegr\u00eda de ser torero en Sevilla...",
-            "snippet": "En un d\u00eda dif\u00edcil para el torero de Camas que abre feria, publicamos esta conversaci\u00f3n mientras tienta en Cuadri. Hoy ha muerto su abuelo, el picador Alonso Oliva Mart\u00edn. Ayer nos contaba de su alegr\u00eda de ser torero en...",
-            "date": "2015-04-14",
-            "author_name": "Javier",
-            "categories": "torero",
-            "tags": "alegr\u00eda,muerto,muerto-su-abuelo,abuelo,publicamos,publicamos-esta-conversaci\u00f3n,conversaci\u00f3n,conversaci\u00f3n-mientras,conversaci\u00f3n-mientras-tienta,mientras,mientras-tienta,tienta,abre,abre-feria,feria,d\u00eda,d\u00eda-dif\u00edcil,dif\u00edcil,ambitotoros,torero,sevilla,camas,cuadri,ayer",
-            "recuweb_url": "http://es.recuweb.co/torero/ambitotoros.blogspot.com/2015/04/ambitotoros-oliva-soto-la-alegr%C3%ADa-de-ser-torero-en-sevilla",
-            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ambitotoros.blogspot.com/2015/04/oliva-soto-la-alegria-de-ser-torero-en.html"
-        },
-        "deltoroalinfinito.blogspot.com/2015/04/del-toro-al-infinito-antonio-bienvenida-reza-y-habla-como-torero": {
-            "title": "Del toro al infinito: Antonio Bienvenida reza y habla como torero...",
-            "snippet": "Andr\u00e9s Luque Gago, sevillano, nacido en la calle Feria en 1932, ha sido una gran figura como torero de plata. Sobrino de Andr\u00e9s Gago, el apoderado de Carlos Arruza, altern\u00f3, como novillero, con Aparicio, Litri, Antonio...",
-            "date": "2015-04-12",
-            "author_name": "Juan Lamarca",
-            "categories": "torero",
-            "tags": "novillero,plata,sido,gran,antonio,toro,torero,feria",
-            "recuweb_url": "http://es.recuweb.co/torero/deltoroalinfinito.blogspot.com/2015/04/del-toro-al-infinito-antonio-bienvenida-reza-y-habla-como-torero",
-            "resource_url": "http://www.google.com/search?q=torero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://deltoroalinfinito.blogspot.com/2015/04/antonio-bienvenida-reza-y-habla-como.html"
-        },
-        "diariodenavarra.es/2015/04/el-traje-de-torero-la-gira-madonna-procede-zaragoza": {
-            "title": "El traje de torero de la gira de Madonna procede de Zaragoza...",
-            "snippet": "El establecimiento recibi\u00f3 la llamada de una misteriosa clienta con un misterioso encargo. Necesitaban dos trajes de torero en doce d\u00edas, cuando se celebraba la gala de los Oscar. Les enviaron unas iniciales para bordar en...",
-            "date": "2015-04-10",
-            "author_name": "desconocido",
-            "categories": "torero",
-            "tags": "doce,torero",
-            "recuweb_url": "http://es.recuweb.co/torero/diariodenavarra.es/2015/04/el-traje-de-torero-la-gira-madonna-procede-zaragoza",
-            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diariodenavarra.es/noticias/mas_actualidad/cultura/2015/04/10/el_traje_torero_gira_madonna_procede_zaragoza_202480_1034.html"
-        },
-        "cordopolis.es/2015/04/nieto-incorpora-a-su-lista-electoral-al-torero-jos%C3%A9-luis-moreno": {
-            "title": "Nieto incorpora a su lista electoral al torero Jos\u00e9 Luis Moreno...",
-            "snippet": "La gran novedad es que en uno de los puestos de salida, en el n\u00famero 11, estar\u00e1 el torero cordob\u00e9s Jos\u00e9 Luis Moreno. Un artista, como lo define el propio Nieto en su v\u00eddeo en el que anuncia los nombres de los...",
-            "date": "2015-04-10",
-            "author_name": "ALFONSO ALBA",
-            "categories": "torero",
-            "tags": "gran,luis,moreno,torero",
-            "recuweb_url": "http://es.recuweb.co/torero/cordopolis.es/2015/04/nieto-incorpora-a-su-lista-electoral-al-torero-jos%C3%A9-luis-moreno",
-            "resource_url": "http://www.google.com/search?q=torero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cordopolis.es/2015/04/10/nieto-incorpora-a-su-lista-electoral-al-torero-jose-luis-moreno/"
-        },
-        "laeconomiadeltoro.wordpress.com/2015/04/finito-el-torero-que-m%C3%A1s-veces-ha-colgado-no-hay-billetes": {
-            "title": "Finito, el torero que m\u00e1s veces ha colgado el no hay billetes en...",
-            "snippet": "Como explica, la enorme Plaza de Toros de C\u00f3rdoba apenas ha colgado el \"no hay billetes\" en diez ocasiones, a lo que se sumar\u00edan doce \"llenos\" aparentes en los que quedaron algunas entradas...",
-            "date": "2015-04-08",
-            "author_name": "plataformalaeconomiadeltoro",
-            "categories": "torero",
-            "tags": "doce,enorme,finito,torero,plaza,toros,c\u00f3rdoba",
-            "recuweb_url": "http://es.recuweb.co/torero/laeconomiadeltoro.wordpress.com/2015/04/finito-el-torero-que-m%C3%A1s-veces-ha-colgado-no-hay-billetes",
-            "resource_url": "http://www.google.com/search?q=torero%2Btorero&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://laeconomiadeltoro.wordpress.com/2015/04/08/finito-el-torero-que-mas-veces-ha-colgado-el-no-hay-billetes-en-cordoba/"
         }
     }
 }

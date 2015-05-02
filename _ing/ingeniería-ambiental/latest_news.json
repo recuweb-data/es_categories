@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ingenier\u00eda-ambiental",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ingenier\u00eda-ambiental/",
@@ -11,45 +11,95 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-ambiental/ingenier%C3%ADa-ambiental/blogs.json"
     },
     "items": {
-        "noticias.terra.com/2015/04/en-puebla-se-produce-un-kilo-de-residuos-al-d%C3%ADa": {
-            "title": "En Puebla se produce un kilo de residuos al d\u00eda por persona -...",
-            "snippet": "En Puebla se produce un kilo de residuos al d\u00eda por, 22 Abr (Notimex).- La directora de la Facultad de Ingenier\u00eda Ambiental de la UPAEP, Mar\u00eda Cristina Miranda Vergara, afirm\u00f3 que en Puebla se produce un kilo de residuos al d\u00eda por persona.",
+        "cienciasambientales.com/2015/04/oferta-de-empleo-en-m%C3%A9xico-docente-ingenier%C3%ADa-ambiental": {
+            "title": "Oferta de empleo en M\u00e9xico: Docente de Ingenier\u00eda ambiental...",
+            "snippet": "La Universidad Tecnol\u00f3gica de M\u00e9xico solicita un Docente de Ingenier\u00eda ambiental para M\u00e9xico-DF Y Zona Metro. Visita Ciencias Ambientales M\u00e9xico para conocer m\u00e1s detalles acerca de la oferta de empleo Docente de Ingenier\u00eda ambiental.",
+            "date": "2015-04-27",
+            "categories": "empleo,ciencias,ciencia,ingenieria",
+            "tags": "ambiental,universidad,ingenier\u00eda",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/cienciasambientales.com/2015/04/oferta-de-empleo-en-m%C3%A9xico-docente-ingenier%C3%ADa-ambiental",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://cienciasambientales.com/es/ofertas-empleo-privado-en-medio-ambiente/oferta-de-empleo-en-mexico-docente-de-ingenieria-ambiental-10644"
+        },
+        "elancasti.com.ar/2015/04/respuesta-por-las-dudas-sobre-el-dique-de-colas-ancasti-editorial": {
+            "title": "Respuesta por las dudas sobre el dique de colas - El Ancasti Editorial...",
+            "snippet": "Respuesta por las dudas sobre el dique de colasEl Ancasti EditorialEl funcionario aclar\u00f3 que a los ediles se les entreg\u00f3 el informe de impacto Ambiental de Bajo El Durazno, el informe de la consultora IATASA Ingenier\u00eda y el informe del dique de...",
+            "date": "2015-04-27",
+            "categories": "ingenieria",
+            "tags": "ingenier\u00eda,ambiental",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/elancasti.com.ar/2015/04/respuesta-por-las-dudas-sobre-el-dique-de-colas-ancasti-editorial",
+            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bambiental%2Bingenier%C3%ADa%2Bambiental&output=atom&nord=1",
+            "source_url": "http://elancasti.com.ar/politica-economia/2015/4/27/respuesta-dudas-sobre-dique-colas-258092.html"
+        },
+        "periodicoexpress.com.mx/2015/04/tiene-300-espacios-para-estudiantes-de-nuevo-ingreso": {
+            "title": "Tiene 300 espacios para estudiantes de nuevo ingreso...",
+            "snippet": "Tenemos 300 espacios para estudiantes de nuevo ingreso para 4 programas educativos, Biolog\u00eda Marina, Ingenier\u00eda Ambiental, que est\u00e1n acreditadas ante la Asociaci\u00f3n Nacional de Profesionales del Mar, Licenciatura en Turismo de Aventura y...",
+            "date": "2015-04-27",
+            "categories": "ingenieria",
+            "tags": "asociaci\u00f3n,nacional,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,programas,profesionales",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/periodicoexpress.com.mx/2015/04/tiene-300-espacios-para-estudiantes-de-nuevo-ingreso",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://periodicoexpress.com.mx/nota.php?id=296170"
+        },
+        "m.unionpuebla.mx/2015/04/upaep-desarrolla-proyectos-a-favor-del-medio-ambiente": {
+            "title": "UPAEP desarrolla proyectos a favor del medio ambiente...",
+            "snippet": "La directora de la Facultad de Ingenier\u00eda Ambiental de la UPAEP, Mar\u00eda Cristina Miranda Vergara, inform\u00f3 que realiza varios proyectos enfocados a mejorar el medio ambiente en materia de manejo de residuos, biog\u00e1s y generaci\u00f3n de energ\u00eda, entre...",
+            "date": "2015-04-27",
+            "categories": "medio-ambiente,ingenieria",
+            "tags": "biog\u00e1s,energ\u00eda,inform\u00f3,inform\u00f3-que-realiza,realiza,realiza-varios,realiza-varios-proyectos,varios,varios-proyectos,varios-proyectos-enfocados,proyectos,proyectos-enfocados,proyectos-enfocados-mejorar,enfocados,enfocados-mejorar,mejorar,mejorar-el-medio,medio,medio-ambiente,ambiente,ambiente-en-materia,materia,materia-de-manejo,manejo,manejo-residuos,residuos,mar\u00eda,mar\u00eda_cristina,mar\u00eda_cristina_miranda,cristina,cristina_miranda,cristina_miranda_vergara,miranda,miranda_vergara,vergara,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,directora,desarrolla,desarrolla-proyectos,desarrolla-proyectos-favor,proyectos-favor,favor,favor-del-medio,upaep,facultad",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/m.unionpuebla.mx/2015/04/upaep-desarrolla-proyectos-a-favor-del-medio-ambiente",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://m.unionpuebla.mx/articulo/2015/04/27/upaep-desarrolla-proyectos-favor-del-medio-ambiente"
+        },
+        "unionpuebla.mx/2015/04/upaep-desarrolla-proyectos-a-favor-del-medio-ambiente-uni%C3%B3n-puebla": {
+            "title": "UPAEP desarrolla proyectos a favor del medio ambiente - Uni\u00f3n Puebla...",
+            "snippet": "Uni\u00f3n PueblaUPAEP desarrolla proyectos a favor del medio ambienteUni\u00f3n PueblaLa directora de la Facultad de Ingenier\u00eda Ambiental de la UPAEP, Mar\u00eda Cristina Miranda Vergara, inform\u00f3 que realiza varios proyectos enfocados a mejorar el medio...",
+            "date": "2015-04-27",
+            "categories": "ingenieria,medio-ambiente",
+            "tags": "inform\u00f3,inform\u00f3-que-realiza,realiza,realiza-varios,realiza-varios-proyectos,varios,varios-proyectos,varios-proyectos-enfocados,proyectos,proyectos-enfocados,proyectos-enfocados-mejorar,enfocados,enfocados-mejorar,mejorar,mejorar-el-medio,medio,mar\u00eda,mar\u00eda_cristina,mar\u00eda_cristina_miranda,cristina,cristina_miranda,cristina_miranda_vergara,miranda,miranda_vergara,vergara,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,directora,desarrolla,desarrolla-proyectos,desarrolla-proyectos-favor,proyectos-favor,favor,favor-del-medio,puebla,medio-ambiente,ambiente,upaep,facultad",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/unionpuebla.mx/2015/04/upaep-desarrolla-proyectos-a-favor-del-medio-ambiente-uni%C3%B3n-puebla",
+            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bambiental%2Bingenier%C3%ADa%2Bambiental&output=atom&nord=1",
+            "source_url": "http://unionpuebla.mx/articulo/2015/04/27/upaep-desarrolla-proyectos-favor-del-medio-ambiente"
+        },
+        "vanguardia.com/2015/04/el-carrasco-en-la-lupa-porque-hace-m%C3%A1s-de-dos": {
+            "title": "El Carrasco, en la lupa porque hace m\u00e1s de dos a\u00f1os termin\u00f3 su... - Vanguardia Liberal...",
+            "snippet": "Vanguardia LiberalEl Carrasco, en la lupa porque hace m\u00e1s de dos a\u00f1os termin\u00f3 su...Vanguardia Liberal... como en tratamiento, se\u00f1ala la presidenta ejecutiva de la Asociaci\u00f3n Colombiana de Ingenier\u00eda Sanitaria y Ambiental (Acodal), Maryluz...",
+            "date": "2015-04-26",
+            "categories": "ingenieria,tratamiento",
+            "tags": "ingenier\u00eda,asociaci\u00f3n,ambiental",
+            "recuweb_url": "http://es.recuweb.com/tratamiento/vanguardia.com/2015/04/el-carrasco-en-la-lupa-porque-hace-m%C3%A1s-de-dos",
+            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bambiental&output=atom&nord=1",
+            "source_url": "http://vanguardia.com/area-metropolitana/bucaramanga/309071-el-carrasco-en-la-lupa-porque-hace-mas-de-dos-anos-termino-su-"
+        },
+        "noticias.terra.com/2015/04/universidad-de-puebla-desarrolla-proyectos-a-favor-del-medio-ambiente": {
+            "title": "Universidad de Puebla desarrolla proyectos a favor del medio ambiente...",
+            "snippet": "Puebla, 26 Abr (Notimex).- La directora de la Facultad de Ingenier\u00eda Ambiental de la UPAEP, Mar\u00eda Cristina Miranda Vergara, inform\u00f3 que realiza varios proyectos enfocados a mejorar el medio ambiente en materia de manejo de residuos, biog\u00e1s y...",
+            "date": "2015-04-26",
+            "categories": "medio-ambiente,ingenieria",
+            "tags": "biog\u00e1s,inform\u00f3,inform\u00f3-que-realiza,realiza,realiza-varios,realiza-varios-proyectos,varios,varios-proyectos,varios-proyectos-enfocados,proyectos,proyectos-enfocados,proyectos-enfocados-mejorar,enfocados,enfocados-mejorar,mejorar,mejorar-el-medio,medio,medio-ambiente,ambiente,ambiente-en-materia,materia,materia-de-manejo,manejo,manejo-residuos,residuos,mar\u00eda,mar\u00eda_cristina,mar\u00eda_cristina_miranda,cristina,cristina_miranda,cristina_miranda_vergara,miranda,miranda_vergara,vergara,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,directora,desarrolla,desarrolla-proyectos,desarrolla-proyectos-favor,proyectos-favor,favor,favor-del-medio,universidad,puebla,abr,facultad,upaep",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/noticias.terra.com/2015/04/universidad-de-puebla-desarrolla-proyectos-a-favor-del-medio-ambiente",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://noticias.terra.com/mundo/latinoamerica/universidad-de-puebla-desarrolla-proyectos-a-favor-del-medio-ambiente,229e4ab9b56fc410VgnCLD200000b1bf46d0RCRD.html"
+        },
+        "m.unionpuebla.mx/2015/04/cada-poblano-produce-un-kilo-de-residuos-diariamente": {
+            "title": "Cada poblano produce un kilo de residuos diariamente...",
+            "snippet": "Mar\u00eda Cristina Miranda Vergara, directora de la Facultad de Ingenier\u00eda Ambiental de la Universidad Popular Aut\u00f3noma del Estado de Puebla (UPAEP), se\u00f1al\u00f3 que en el estado cada persona produce un kilo de residuos al d\u00eda, por lo que cada...",
             "date": "2015-04-23",
             "categories": "ingenieria",
-            "tags": "ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,facultad",
-            "recuweb_url": "http://es.recuweb.com/ingenieria/noticias.terra.com/2015/04/en-puebla-se-produce-un-kilo-de-residuos-al-d%C3%ADa",
-            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bambiental&output=atom&nord=1",
-            "source_url": "http://noticias.terra.com/mundo/latinoamerica/en-puebla-se-produce-un-kilo-de-residuos-al-dia-por-persona,5a056eee9f2ec410VgnCLD200000b1bf46d0RCRD.html"
-        },
-        "animalpolitico.com/2015/04/el-problema-de-restaurar-los-everglades-mayor-proyecto-animal-politico": {
-            "title": "El problema de restaurar los Everglades, el mayor proyecto... - Animal Politico...",
-            "snippet": "Animal PoliticoEl problema de restaurar los Everglades, el mayor proyecto...Animal PoliticoCuando se construy\u00f3, fue celebrada como una gran haza\u00f1a de la ingenier\u00eda. Pocos entonces advirtieron el da\u00f1o medioambiental que iba a suponer. Para que el...",
-            "date": "2015-04-22",
-            "categories": "ingenieria",
-            "tags": "proyecto,ingenier\u00eda",
-            "recuweb_url": "http://es.recuweb.com/ingenieria/animalpolitico.com/2015/04/el-problema-de-restaurar-los-everglades-mayor-proyecto-animal-politico",
-            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bambiental&output=atom&nord=1",
-            "source_url": "http://animalpolitico.com/2015/04/el-problema-de-restaurar-los-everglades-el-mayor-proyecto-ambiental-del-mundo/"
-        },
-        "peru.com/2015/04/atenci%C3%B3n-8-formas-pr%C3%A1cticas-de-cuidar-nuestro-planeta-per%C3%BA": {
-            "title": "\u00a1Atenci\u00f3n! 8 formas pr\u00e1cticas de cuidar nuestro planeta - Per\u00fa.com...",
-            "snippet": "Per\u00fa.com\u00a1Atenci\u00f3n! 8 formas pr\u00e1cticas de cuidar nuestro planetaPer\u00fa.comCabe destacar que los consejos fueron dados por Luz Blas Montenegro, Coordinadora Acad\u00e9mica de la especialidad de Ingenier\u00eda Ambiental de la Universidad Cat\u00f3lica Sedes...",
-            "date": "2015-04-22",
-            "categories": "ingenieria,planeta",
-            "tags": "universidad,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,per\u00fa",
-            "recuweb_url": "http://es.recuweb.com/planeta/peru.com/2015/04/atenci%C3%B3n-8-formas-pr%C3%A1cticas-de-cuidar-nuestro-planeta-per%C3%BA",
-            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bambiental&output=atom&nord=1",
-            "source_url": "http://peru.com/estilo-de-vida/vida-sana/atencion-8-formas-practicas-cuidar-nuestro-planeta-noticia-348742"
-        },
-        "vanguardia.com/2015/04/las-mineras-son-due%C3%B1as-del-oro-futuro-el-agua": {
-            "title": "Las mineras son due\u00f1as del oro del futuro: el agua...",
-            "snippet": "A prop\u00f3sito de lo que viene con la delimitaci\u00f3n del p\u00e1ramo de Santurb\u00e1n, esta redacci\u00f3n habl\u00f3 con el experto en ingenier\u00eda ambiental y civil de la Universidad Industrial de Santander, UIS, Gonzalo Pe\u00f1a Ortiz, quien se ha dedicado a...",
-            "date": "2015-04-22",
-            "categories": "ingenieria",
-            "tags": "universidad,ingenier\u00eda,ambiental",
-            "recuweb_url": "http://es.recuweb.com/ingenieria/vanguardia.com/2015/04/las-mineras-son-due%C3%B1as-del-oro-futuro-el-agua",
+            "tags": "se\u00f1al\u00f3,persona,produce,produce-un-kilo,kilo,kilo-de-residuos,residuos,residuos-al-d\u00eda,d\u00eda,universidad,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,directora,mar\u00eda,mar\u00eda_cristina,mar\u00eda_cristina_miranda,cristina,cristina_miranda,cristina_miranda_vergara,miranda,miranda_vergara,vergara,facultad,puebla,upaep",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/m.unionpuebla.mx/2015/04/cada-poblano-produce-un-kilo-de-residuos-diariamente",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bambiental&format=RSS&cc=es",
-            "source_url": "http://vanguardia.com/economia/local/308441-las-mineras-son-duenas-del-oro-del-futuro-el-agua"
+            "source_url": "http://m.unionpuebla.mx/articulo/2015/04/23/educacion/puebla/cada-poblano-produce-un-kilo-de-residuos-diariamente"
+        },
+        "noticias.terra.com/2015/04/en-puebla-se-produce-un-kilo-de-residuos-al-d%C3%ADa": {
+            "title": "En Puebla se produce un kilo de residuos al d\u00eda por persona...",
+            "snippet": "Puebla, 22 Abr (Notimex).- La directora de la Facultad de Ingenier\u00eda Ambiental de la UPAEP, Mar\u00eda Cristina Miranda Vergara, afirm\u00f3 que en Puebla se produce un kilo de residuos al d\u00eda por persona. Se\u00f1al\u00f3 que ante el problema, cada ciudadano...",
+            "date": "2015-04-22",
+            "categories": "ingenieria",
+            "tags": "mar\u00eda,mar\u00eda_cristina,mar\u00eda_cristina_miranda,cristina,cristina_miranda,cristina_miranda_vergara,miranda,miranda_vergara,vergara,ingenier\u00eda,ingenier\u00eda_ambiental,ambiental,directora,produce,produce-un-kilo,kilo,kilo-de-residuos,residuos,residuos-al-d\u00eda,d\u00eda,persona,puebla,abr,facultad,upaep,se\u00f1al\u00f3",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/noticias.terra.com/2015/04/en-puebla-se-produce-un-kilo-de-residuos-al-d%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://noticias.terra.com/mundo/latinoamerica/en-puebla-se-produce-un-kilo-de-residuos-al-dia-por-persona,5a056eee9f2ec410VgnCLD200000b1bf46d0RCRD.html"
         }
     }
 }

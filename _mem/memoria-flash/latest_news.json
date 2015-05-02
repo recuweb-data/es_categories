@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "memoria-flash",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/memoria-flash/",
@@ -11,52 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-flash/memoria-flash/blogs.json"
     },
     "items": {
-        "poderpda.com/2015/04/macbook-ya-est%C3%A1-a-la-venta-en-m%C3%A9xico-poderpda": {
-            "title": "MacBook ya est\u00e1 a la venta en M\u00e9xico - PoderPDA...",
-            "snippet": "PoderPDAMacBook ya est\u00e1 a la venta en M\u00e9xicoPoderPDAEl base es de 22 mil 999 MXN para la versi\u00f3n con 256 GB en memoria flash, procesador Intel Core M con doble n\u00facleo a 1.1 Ghz, 8 GB de memoria y gr\u00e1ficos Intel HD 5300 o 18 pagos mensuales de...",
+        "fernanda-familiar.com/2015/04/samsung-galaxy-s6-y-edge-fernanda-familiar": {
+            "title": "Samsung Galaxy S6 y Galaxy S6 Edge - Fernanda Familiar...",
+            "snippet": "Fernanda FamiliarSamsung Galaxy S6 y Galaxy S6 EdgeFernanda FamiliarCuentan con el primer procesador m\u00f3vil de 14nm con una plataforma de 64-bits en el mundo, un sistema de memoria LPDDR4 y UFS 2.0 memoria flash provee un desempe\u00f1o superior y...",
+            "date": "2015-04-27",
+            "categories": "memoria",
+            "tags": "bits,procesador,sistema,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/fernanda-familiar.com/2015/04/samsung-galaxy-s6-y-edge-fernanda-familiar",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
+            "source_url": "http://fernanda-familiar.com/resenando/samsung-galaxy-s6-y-galaxy-s6-edge/"
+        },
+        "todoereaders.com/2015/04/ya-se-venden-kits-con-pantallas-guanzhou-oed": {
+            "title": "Ya se venden kits con pantallas Guanzhou OED...",
+            "snippet": "El distribuidor se llama Waveshore y ofrece estos kits con la capacidad de 128 mb de memoria flash, una cpu de 72 mhz y una ranura de tarjetas sd. El precio de este kit es de unos 59 d\u00f3lares aproximadamente en Amazon, algo que si bien es caro...",
+            "date": "2015-04-27",
+            "categories": "memoria",
+            "tags": "aproximadamente,mhz,cpu,capacidad,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/todoereaders.com/2015/04/ya-se-venden-kits-con-pantallas-guanzhou-oed",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://todoereaders.com/ya-se-venden-kits-con-pantallas-guanzhou-oed.html"
+        },
+        "hablasmart.movistar.com.pe/2015/04/pronto-tendremos-ssd-de-10tb-habla-smart-noticias-sobre-tecnol%C3%B3gia": {
+            "title": "\u00a1Pronto tendremos SSD de 10TB! - Habla Smart Noticias sobre Tecnol\u00f3gia...",
+            "snippet": "Habla Smart Noticias sobre Tecnol\u00f3gia\u00a1Pronto tendremos SSD de 10TB!Habla Smart Noticias sobre Tecnol\u00f3giaToshiba no se queda atr\u00e1s y ha prometido superar esto con 48 capas de memoria flash en un solo chip, todo un reto que podr\u00eda cambiar la...",
+            "date": "2015-04-27",
+            "categories": "tecnologia,memoria",
+            "tags": "noticias,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/hablasmart.movistar.com.pe/2015/04/pronto-tendremos-ssd-de-10tb-habla-smart-noticias-sobre-tecnol%C3%B3gia",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
+            "source_url": "http://hablasmart.movistar.com.pe/2015/04/27/pronto-tendremos-ssd-de-10tb/"
+        },
+        "exalli.com/2015/04/para-regalar-tecnolog%C3%ADa-parte-2": {
+            "title": "Para regalar tecnolog\u00eda (parte 2)...",
+            "snippet": "En qu\u00e9 se almacenar\u00e1 el video una vez guardado? Actualmente muchos modelos de c\u00e1mara ya no utilizan medios externos para guardar el video, pues cuentan con disco duro interno o memoria flash en ambos casos los videos se guardan como archivos los...",
+            "date": "2015-04-24",
+            "categories": "disco-duro,tecnologia,memoria",
+            "tags": "tecnolog\u00eda,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/exalli.com/2015/04/para-regalar-tecnolog%C3%ADa-parte-2",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://exalli.com/index.php/reportaje/tecnologia/214-para-regalar-tecnologia-parte-2"
+        },
+        "exalli.com/2015/04/4-tips-para-acelerar-tu-windows": {
+            "title": "4 tips para acelerar tu Windows...",
+            "snippet": "Analiza cu\u00e1les en verdad necesitas y desinstala los que no sean de utilidad. Usa memoria Flash USB para acelerar tu sistema Tanto Windows Vista como Windows 7 incluyen la funci\u00f3n ReadyBoost mediante la cual es posible usar una memoria externa USB...",
             "date": "2015-04-23",
-            "categories": "macbook,memoria",
-            "tags": "memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/poderpda.com/2015/04/macbook-ya-est%C3%A1-a-la-venta-en-m%C3%A9xico-poderpda",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://poderpda.com/netbooks-2/macbook-venta-mexico/"
+            "categories": "memoria",
+            "tags": "flash,flash_usb,usb,cu\u00e1les,windows,memoria,sistema",
+            "recuweb_url": "http://es.recuweb.com/memoria/exalli.com/2015/04/4-tips-para-acelerar-tu-windows",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://exalli.com/index.php/tips/software/344-4-tips-para-acelerar-tu-windows"
+        },
+        "tecnopasion.com/2015/04/acer-presenta-un-chromebook-econ%C3%B3mico-de-15-6-pulgadas": {
+            "title": "Acer presenta un Chromebook econ\u00f3mico de 15,6 pulgadas...",
+            "snippet": "El port\u00e1til incorpora un procesador Intel Celeron de doble n\u00facleo N2830, con gr\u00e1ficos Intel HD Graphics, 2 GB de RAM y 16 GB de memoria flash. En cuanto a conectividad destaca la Wi-Fi ac, aunque tambi\u00e9n tiene Bluetooth 4.0, un puerto USB 3.0...",
+            "date": "2015-04-23",
+            "categories": "memoria",
+            "tags": "procesador,memoria,flash,usb",
+            "recuweb_url": "http://es.recuweb.com/memoria/tecnopasion.com/2015/04/acer-presenta-un-chromebook-econ%C3%B3mico-de-15-6-pulgadas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://tecnopasion.com/acer-presenta-un-chromebook-economico-de-156-pulgadas-14077/"
         },
         "martinoticias.com/2015/04/se-vuelve-viral-canci%C3%B3n-que-critica-al-sistema-de-salud": {
             "title": "Se vuelve viral canci\u00f3n que critica al sistema de salud en Cuba - Mart\u00ed Noticias...",
             "snippet": "Mart\u00ed NoticiasSe vuelve viral canci\u00f3n que critica al sistema de salud en CubaMart\u00ed NoticiasDe una memoria flash a la otra, va recorriendo la Isla una canci\u00f3n que en aproximadamente 4 minutos y en ritmo de merengue, describe, humor por delante,...",
             "date": "2015-04-23",
             "categories": "humor,salud,memoria",
-            "tags": "humor,humor-por-delante,delante,minutos,minutos-en-ritmo,ritmo,ritmo-de-merengue,merengue,canci\u00f3n,aproximadamente,recorriendo,noticias,salud,vuelve,vuelve-viral,viral,critica,sistema,cuba,memoria,flash,isla,describe",
+            "tags": "aproximadamente,noticias,sistema,memoria,flash",
             "recuweb_url": "http://es.recuweb.com/memoria/martinoticias.com/2015/04/se-vuelve-viral-canci%C3%B3n-que-critica-al-sistema-de-salud",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
             "source_url": "http://martinoticias.com/content/cuba-salud-cancion-critica/91655.html"
-        },
-        "webadictos.com/2015/04/transcend-lanza-tarjetas-microsd-uhs-i-clase-3-para-c%C3%A1maras": {
-            "title": "Transcend lanza tarjetas microSD UHS-I Clase 3 para C\u00e1maras de... - WebAdictos...",
-            "snippet": "WebAdictosTranscend lanza tarjetas microSD UHS-I Clase 3 para C\u00e1maras de...WebAdictosTranscend anunci\u00f3 sus tarjetas de memoria microSD Clase 3 SDXC/SDHC UHS-I (U3) 633x. Estas tarjetas microSD son incorporadas con MLC NAND flash chips con...",
-            "date": "2015-04-23",
-            "categories": "memoria",
-            "tags": "chips,nand,son,microsd,c\u00e1maras,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/webadictos.com/2015/04/transcend-lanza-tarjetas-microsd-uhs-i-clase-3-para-c%C3%A1maras",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://webadictos.com/2015/04/23/transcend-microsd-uhs-i-clase-3/"
-        },
-        "cubanet.org/2015/04/canci%C3%B3n-que-critica-el-sistema-de-salud-cubano-se-vuelve-viral": {
-            "title": "Canci\u00f3n que critica el sistema de salud cubano se vuelve viral - Cubanet...",
-            "snippet": "CubanetCanci\u00f3n que critica el sistema de salud cubano se vuelve viralCubanetCIENFUEGOS, Cuba. -De una memoria flash a la otra, va recorriendo la Isla una canci\u00f3n que en aproximadamente 4 minutos y en ritmo de merengue, describe, humor por delante,...",
-            "date": "2015-04-21",
-            "categories": "humor,salud,memoria",
-            "tags": "humor,humor-por-delante,delante,minutos,minutos-en-ritmo,ritmo,ritmo-de-merengue,merengue,canci\u00f3n,aproximadamente,recorriendo,salud,vuelve,vuelve-viral,viral,critica,sistema,cuba,memoria,flash,isla,describe",
-            "recuweb_url": "http://es.recuweb.com/memoria/cubanet.org/2015/04/canci%C3%B3n-que-critica-el-sistema-de-salud-cubano-se-vuelve-viral",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://cubanet.org/actualidad-destacados/cancion-que-critica-el-sistema-de-salud-cubano-se-vuelve-viral/"
         },
         "technologyreview.es/2015/04/la-m%C3%A1quina-de-los-sue%C3%B1os-hp": {
             "title": "La m\u00e1quina de los sue\u00f1os de HP...",
             "snippet": "Los clientes les abandonaban en masa para trabajar con start-ups que ofrec\u00edan almacenamiento de datos en veloces chips de memoria flash y mayor eficiencia energ\u00e9tica como los que contienen los smartphones. HP s\u00f3lo vend\u00eda la tecnolog\u00eda de...",
             "date": "2015-04-21",
             "categories": "tecnologia,memoria",
-            "tags": "almacenamiento,almacenamiento-de-datos,datos,chips,memoria,flash",
+            "tags": "tecnolog\u00eda,almacenamiento,memoria,flash",
             "recuweb_url": "http://es.recuweb.com/memoria/technologyreview.es/2015/04/la-m%C3%A1quina-de-los-sue%C3%B1os-hp",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://technologyreview.es/informatica/47321/"
@@ -66,50 +96,20 @@
             "snippet": "Lo m\u00e1s llamativo del V2 como hemos mencionado es su capacidad de almacenamiento, no es que tengamos una memoria flash con est\u00e1 capacidad ya que en realidad cuenta con 64 GB, pero si que es llamativo como el fabricante incluye dos ranuras microSD...",
             "date": "2015-04-21",
             "categories": "memoria",
-            "tags": "almacenamiento,memoria,flash,microsd",
+            "tags": "capacidad,almacenamiento,memoria,flash",
             "recuweb_url": "http://es.recuweb.com/memoria/teknikop.com/2015/04/saygus-v2-el-smartphone-con-320-gb-de-almacenamiento",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://teknikop.com/2015/04/saygus-v2-caracterisitcas.html"
-        },
-        "spanish.yonhapnews.co.kr/2015/04/samsung-lidera-el-mercado-global-de-unidades-almacenamiento-agencia-noticias-yonhap": {
-            "title": "Samsung lidera el mercado global de unidades de almacenamiento... - Agencia de Noticias Yonhap...",
-            "snippet": "Samsung lidera el mercado global de unidades de almacenamiento...Agencia de Noticias YonhapUn SSD es un dispositivo de almacenamiento de datos que utiliza chips de memoria flash NAND, almacena la informaci\u00f3n sin necesidad de energ\u00eda el\u00e9ctrica y...",
-            "date": "2015-04-20",
-            "categories": "memoria",
-            "tags": "dispositivo,dispositivo-de-almacenamiento,almacenamiento,almacenamiento-de-datos,datos,utiliza,chips,noticias,ssd,unidades,unidades-de-almacenamiento,memoria,flash,nand",
-            "recuweb_url": "http://es.recuweb.com/memoria/spanish.yonhapnews.co.kr/2015/04/samsung-lidera-el-mercado-global-de-unidades-almacenamiento-agencia-noticias-yonhap",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://spanish.yonhapnews.co.kr/news/2015/04/20/0200000000ASP20150420000200883.HTML"
         },
         "digitalavmagazine.com/2015/04/sony-acudi%C3%B3-a-prolight-sound-2015-con-lo-m%C3%A1s-innovador": {
             "title": "Sony acudi\u00f3 a Prolight Sound 2015 con lo m\u00e1s innovador para audio profesional en directo...",
             "snippet": "El grabador de audio PCM-D100 con 32 GB de memoria flash integrada admite la grabaci\u00f3n y reproducci\u00f3n del formato de audio PCM lineal a 192 kHz/24 bits de alta resoluci\u00f3n y es compatible con DSD de 2,8 MHz/1 bit. Producci\u00f3n web y en directo Para...",
             "date": "2015-04-20",
             "categories": "memoria",
-            "tags": "memoria,flash",
+            "tags": "bits,memoria,flash,mhz",
             "recuweb_url": "http://es.recuweb.com/memoria/digitalavmagazine.com/2015/04/sony-acudi%C3%B3-a-prolight-sound-2015-con-lo-m%C3%A1s-innovador",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://digitalavmagazine.com/2015/04/20/sony-acudio-a-prolightsound-2015-con-lo-mas-innovador-para-audio-profesional-en-directo/"
-        },
-        "macsoluciones.com/2015/04/apple-estrena-su-propio-controlador-ssd": {
-            "title": "Apple estrena su propio controlador SSD...",
-            "snippet": "El nuevo chip encargado de controlar el dispositivo de almacenamiento basado en memoria Flash utiliza la numeraci\u00f3n de componente 338S00055 y la compa\u00f1\u00eda ChipWorks ha confirmado a iFixit que es sin duda un dispositivo personalizado de Apple, al...",
-            "date": "2015-04-19",
-            "categories": "memoria",
-            "tags": "dispositivo,utiliza,dispositivo-de-almacenamiento,almacenamiento,ssd,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/macsoluciones.com/2015/04/apple-estrena-su-propio-controlador-ssd",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://macsoluciones.com/analisis/ver-todos/2732-apple-estrena-su-propio-controlador-ssd"
-        },
-        "macsoluciones.com/2015/04/llega-cleanexit-a-os-x-limpieza-de-archivos-asegurada": {
-            "title": "Llega CleanExit a OS X: limpieza de archivos asegurada...",
-            "snippet": "Por supuesto, CleanExit puede utilizarse sobre discos duros, unidades de almacenamiento basadas en memoria flash o bien soportes de almacenamiento para c\u00e1maras digitales, logrando en todos los casos que los archivos no se puedan recuperar.",
-            "date": "2015-04-17",
-            "categories": "memoria",
-            "tags": "almacenamiento,c\u00e1maras,unidades,unidades-de-almacenamiento,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/macsoluciones.com/2015/04/llega-cleanexit-a-os-x-limpieza-de-archivos-asegurada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://macsoluciones.com/mac/aplicaciones/2730-llega-cleanexit-a-os-x-limpieza-de-archivos-asegurada"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/jquery/",
@@ -17,43 +17,65 @@
             "date": "2015-04-23",
             "author_name": "Juan Luis Berm\u00fadez",
             "categories": "jquery",
-            "tags": "aprender,jquery,mobile,uso,web",
+            "tags": "dispositivos,dispositivos-m\u00f3viles,m\u00f3viles,desarrollo,desarrollo-de-aplicaciones,aplicaciones,jquery,jquery_mobile,mobile,uso,web",
             "recuweb_url": "http://es.recuweb.com/jquery/softandapps.info/2015/04/manual-de-jquery-mobile-gratuito-y-en-espa%C3%B1ol-soft-&-apps",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://softandapps.info/2015/04/23/manual-de-jquery-mobile-gratuito-y-en-espanol/"
         },
-        "arielmax.com.ar/2015/04/47-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
-            "title": "47 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
-            "snippet": "Tutorial 47 del curso de Jquery, en este tutorial veremos como navegar entre p\u00e1ginas utilizando Jquery mobile.!DOCTYPE html html lang=\"es\" head meta charset=\"utf-8\" meta...",
-            "date": "2015-04-20",
-            "author_name": "ArielMax",
-            "categories": "html,jquery",
-            "tags": "head,html,html-lang,lang,veremos,utilizando,jquery,cursos,curso,mobile,arielmax,tutorial,doctype",
-            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/47-cursos-de-jquery-mobile-arielmax-2015-v5-0",
+        "4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r": {
+            "title": "Mootools vs. jQuery: eligiendo la mejor biblioteca de JavaScript 4r...",
+            "snippet": "Mootools vs. jQuery: eligiendo la mejor biblioteca de JavaScript. 2015/04/22. Una biblioteca de JavaScript es una colecci\u00f3n de utilidades ya implementadas que facilitan el desarrollo de aplicaciones en ese lenguaje. Extiende las...",
+            "date": "2015-04-22",
+            "author_name": "seoguru",
+            "categories": "lenguaje,jquery,javascript",
+            "tags": "desarrollo,desarrollo-de-aplicaciones,aplicaciones,jquery,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arielmax.com.ar/47-cursos-de-jquery-jquery-mobile/"
+            "source_url": "http://4rsoluciones.com/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript/"
         },
-        "entredesarrolladores.com/2015/04/redirecci%C3%B3n-de-un-div-a-otra-p%C3%A1gina-con-jquery-entre-desarrolladores": {
-            "title": "Redirecci\u00f3n de un div a otra p\u00e1gina con jquery - entre Desarrolladores...",
-            "snippet": "Buenas, tengo una web en Wordpress en la que utilizo un plugin para coger los \u00e1lbumes de una... pero no funciona.. Gracias de antemano, Un saludo.",
-            "date": "2015-04-16",
-            "author_name": "desconocido",
-            "categories": "jquery,wordpress",
-            "tags": "funciona,p\u00e1gina,jquery,desarrolladores,web",
-            "recuweb_url": "http://es.recuweb.com/wordpress/entredesarrolladores.com/2015/04/redirecci%C3%B3n-de-un-div-a-otra-p%C3%A1gina-con-jquery-entre-desarrolladores",
-            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://entredesarrolladores.com/8553/redirecci\u00f3n-de-un-div-a-otra-p\u00e1gina-con-jquery"
+        "migtaber.wordpress.com/2015/04/modificaci%C3%B3n-de-metas-mediante-jquery": {
+            "title": "Modificaci\u00f3n de metas mediante jquery...",
+            "snippet": "Hay veces que resulta necesario actualizar una meta con contenido din\u00e1mico. Imaginemos que tenemos una serie de metas a modificar.. meta name='Description'content='contenido inicial'/meta property=\"og:title\" content=\" \"/meta...",
+            "date": "2015-04-21",
+            "author_name": "Miguel Tabernero",
+            "categories": "jquery",
+            "tags": "tenemos,serie,mediante,jquery,contenido",
+            "recuweb_url": "http://es.recuweb.com/jquery/migtaber.wordpress.com/2015/04/modificaci%C3%B3n-de-metas-mediante-jquery",
+            "resource_url": "http://es.search.wordpress.com/?q=jquery%2Bjquery&f=feed&page=1",
+            "source_url": "http://migtaber.wordpress.com/2015/04/21/modificacion-de-metas-mediante-jquery/"
         },
-        "entredesarrolladores.com/2015/04/soap-asmx-en-jquery-o-php-entre-desarrolladores": {
-            "title": "SOAP ASMX en JQuery o PHP - entre Desarrolladores...",
-            "snippet": "He intentado enviar/recibir datos del webservice desde otro servidor donde esta la aplicaci\u00f3n que estoy desarrollando, he intenado con JQuery y PHP pero sin exito. He investigado y al pareces se debe a que no se puede...",
-            "date": "2015-04-15",
-            "author_name": "desconocido",
-            "categories": "jquery,php",
-            "tags": "puede,aplicaci\u00f3n,enviar,jquery,php,desarrolladores,datos",
-            "recuweb_url": "http://es.recuweb.com/php/entredesarrolladores.com/2015/04/soap-asmx-en-jquery-o-php-entre-desarrolladores",
+        "blog.collectivecloudperu.com/2015/04/compartir-contenido-en-whatsapp-usando-jquery-blog-ccp": {
+            "title": "Compartir contenido en Whatsapp usando jQuery. Blog CCP...",
+            "snippet": "En esta oportunidad les quiero mostrar como compartir un enlance por Whatsapp mediante uno de los mejores frameworks de javascript (jQuery). NOTA: Para ver la demo, necesitas abrirla desde tu dispositivo m\u00f3vil que...",
+            "date": "2015-04-20",
+            "author_name": "Juan Ricardo Castro Lurita",
+            "categories": "jquery,javascript",
+            "tags": "mediante,mostrar,compartir,contenido,usando,jquery,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/blog.collectivecloudperu.com/2015/04/compartir-contenido-en-whatsapp-usando-jquery-blog-ccp",
             "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://entredesarrolladores.com/8530/soap-asmx-en-jquery-o-php"
+            "source_url": "http://blog.collectivecloudperu.com/como-compartir-contenido-en-whatsapp-usando-jquery/"
+        },
+        "wannabe-programmer.blogspot.com/2015/04/el-programador-subest%C3%A1ndar-insertar-jquery-con-la-consola": {
+            "title": "El programador subest\u00e1ndar: Insertar JQuery con la consola de...",
+            "snippet": "Si deseamos usar las funciones de JQuery en cualquier p\u00e1gina usando la consola de Chrome debes insertar el siguiente c\u00f3digo en la consola var jq=('script');...",
+            "date": "2015-04-19",
+            "author_name": "Hector Oliveros",
+            "categories": "jquery",
+            "tags": "insertar,p\u00e1gina,funciones,jquery,usando,siguiente",
+            "recuweb_url": "http://es.recuweb.com/jquery/wannabe-programmer.blogspot.com/2015/04/el-programador-subest%C3%A1ndar-insertar-jquery-con-la-consola",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://wannabe-programmer.blogspot.com/2015/04/insertar-jquery-con-la-consola-de-chrome.html"
+        },
+        "arielmax.com.ar/2015/04/44-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
+            "title": "44 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
+            "snippet": "Tutorial 44 del curso de jquery, en este tutorial nos adentramos a la utilizaci\u00f3n de una de las extensiones de jquery, llamada (Jquery Mobile) orienta al dise\u00f1o de interfaces de usuario para dispositivos m\u00f3viles, similar a...",
+            "date": "2015-04-13",
+            "author_name": "ArielMax",
+            "categories": "jquery",
+            "tags": "dise\u00f1o,dise\u00f1o-de-interfaces,interfaces,interfaces-de-usuario,usuario,dispositivos,dispositivos-m\u00f3viles,m\u00f3viles,jquery,jquery_mobile,mobile,cursos,curso,arielmax,tutorial",
+            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/44-cursos-de-jquery-mobile-arielmax-2015-v5-0",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arielmax.com.ar/44-cursos-de-jquery-jquery-mobile/"
         },
         "arielmax.com.ar/2015/04/45-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
             "title": "45 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
@@ -61,7 +83,7 @@
             "date": "2015-04-13",
             "author_name": "ArielMax",
             "categories": "html,jquery",
-            "tags": "html,html-lang,lang,mobile,veremos,p\u00e1gina,jquery,cursos,curso,arielmax,tutorial,doctype",
+            "tags": "html,mobile,p\u00e1gina,jquery,cursos,curso,arielmax,tutorial,veremos,doctype",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/45-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/45-cursos-de-jquery-jquery-mobile/"
@@ -72,7 +94,7 @@
             "date": "2015-04-13",
             "author_name": "ArielMax",
             "categories": "jquery,html",
-            "tags": "veremos,p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,doctype,html",
+            "tags": "insertar,p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,doctype,html",
             "recuweb_url": "http://es.recuweb.com/html/arielmax.com.ar/2015/04/46-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/46-cursos-de-jquery-jquery-mobile/"
@@ -83,43 +105,21 @@
             "date": "2015-04-06",
             "author_name": "ArielMax",
             "categories": "jquery",
-            "tags": "navegaci\u00f3n,permite,veremos,veremos-el-widget,widget,jquery,cursos,curso,arielmax,tutorial,crear,contenido,sitio,web",
+            "tags": "sitio,jquery,cursos,curso,arielmax,tutorial,veremos,crear,contenido,web",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/42-cursos-de-jquery-ui-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/42-cursos-de-jquery-jquery-ui/"
         },
-        "arielmax.com.ar/2015/04/43-cursos-de-jquery-ui-arielmax-2015-v5-0": {
-            "title": "43 Cursos de JQuery Jquery-ui ArielMax 2015 v5.0...",
-            "snippet": "Tutorial 43 del curso de Jquery, en este tutorial finalizamos jquery-ui viendo como personalizar los temas de jquery-ui utilizando themeroller, finalmente descargar el tema y utilizarlo en nuestros proyectos.",
-            "date": "2015-04-06",
-            "author_name": "ArielMax",
-            "categories": "jquery",
-            "tags": "utilizando,jquery,cursos,curso,arielmax,tutorial",
-            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/43-cursos-de-jquery-ui-arielmax-2015-v5-0",
+        "desarrolloweb.com/2015/03/scroll-en-jquery": {
+            "title": "Scroll en jQuery -...",
+            "snippet": "Una de las facetas t\u00edpicas donde podemos sacar un buen partido de jQuery es trabajando con las propiedades de scroll de la ventana o los elementos. Para realizaci\u00f3n de interfaces de usuario y para la interacci\u00f3n con el...",
+            "date": "2015-03-02",
+            "author_name": "desconocido",
+            "categories": "propiedad,jquery",
+            "tags": "interfaces,interfaces-de-usuario,usuario,jquery",
+            "recuweb_url": "http://es.recuweb.com/jquery/desarrolloweb.com/2015/03/scroll-en-jquery",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arielmax.com.ar/43-cursos-de-jquery-jquery-ui/"
-        },
-        "arielmax.com.ar/2015/03/40-cursos-de-jquery-ui-arielmax-2015-v5-0": {
-            "title": "40 Cursos de JQuery Jquery-UI ArielMax 2015 v5.0...",
-            "snippet": "Tutorial 40 del curso de Jquery, en este tutorial veremos el widget progressbar() de Jquery UI, este m\u00e9todo nos permite a\u00f1adir una barra de progreso din\u00e1mico a nuestra aplicaci\u00f3n, generalmente utilizado para indicar el...",
-            "date": "2015-03-30",
-            "author_name": "ArielMax",
-            "categories": "jquery",
-            "tags": "m\u00e9todo,permite,aplicaci\u00f3n,veremos,veremos-el-widget,widget,jquery,cursos,curso,arielmax,tutorial",
-            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/03/40-cursos-de-jquery-ui-arielmax-2015-v5-0",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arielmax.com.ar/40-cursos-de-jquery-jquery-ui/"
-        },
-        "arielmax.com.ar/2015/03/41-cursos-de-jquery-ui-arielmax-2015-v5-0": {
-            "title": "41 Cursos de JQuery Jquery-UI ArielMax 2015 v5.0...",
-            "snippet": "Tutorial 41 del curso de Jquery, en este tutorial veremos el widget slider de jquery ui que nos permite crear controles deslizables simples y con rangos..!DOCTYPE html html lang=\"es\" head...",
-            "date": "2015-03-30",
-            "author_name": "ArielMax",
-            "categories": "html,jquery",
-            "tags": "head,html,html-lang,lang,permite,veremos,veremos-el-widget,widget,slider,jquery,cursos,curso,arielmax,tutorial,crear,doctype",
-            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/03/41-cursos-de-jquery-ui-arielmax-2015-v5-0",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arielmax.com.ar/41-cursos-de-jquery-jquery-ui/"
+            "source_url": "http://desarrolloweb.com/articulos/scroll-posibilidades-en-jquery.html"
         }
     }
 }

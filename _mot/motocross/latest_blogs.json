@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "motocross",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/motocross/",
@@ -11,38 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/motocross/motocross/blogs.json"
     },
     "items": {
-        "noticias.telemedellin.tv/2015/04/en-girardota-se-llev%C3%B3-a-cabo-la-tercera-v%C3%A1lida-departamental": {
-            "title": "En Girardota se llev\u00f3 a cabo la Tercera V\u00e1lida Departamental de...",
-            "snippet": "Con la presencia de los motociclistas m\u00e1s importantes del pa\u00eds, en Girardota se llev\u00f3 a cabo la tercera v\u00e1lida departamental de Motocross. El antioque\u00f1o Mois\u00e9s Londo\u00f1o, actual medallista iberoamericano, se qued\u00f3 con el...",
+        "juegosarea.com/2015/04/juegos-de-motocross-forest-challenge": {
+            "title": "Juegos de Motocross Forest Challenge...",
+            "snippet": "Juegos de Motocross Forest Challenge. Elige tu moto y el nivel de dificultad para participar en esta competici\u00f3n de motocross en medio del bosque por un...",
+            "date": "2015-04-25",
+            "author_name": "desconocido",
+            "categories": "motocross",
+            "tags": "moto,motocross,juegos",
+            "recuweb_url": "http://es.recuweb.com/motocross/juegosarea.com/2015/04/juegos-de-motocross-forest-challenge",
+            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://juegosarea.com/motocross-forest-challenge.html"
+        },
+        "eldiario.ec/2015/04/primera-v%C3%A1lida-provincial-de-motocross-y-quadcross-ser%C3%A1-el-diario": {
+            "title": "Primera V\u00e1lida Provincial de Motocross y Quadcross ser\u00e1... - El Diario...",
+            "snippet": "50 pilotos competir\u00e1n en la primera V\u00e1lida Provincial Ts\u00e1chila de Motocross y Quadcross en Santo Domingo de los Ts\u00e1chilas.",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "motocross",
+            "tags": "provincial,primera,motocross,diario,pilotos",
+            "recuweb_url": "http://es.recuweb.com/motocross/eldiario.ec/2015/04/primera-v%C3%A1lida-provincial-de-motocross-y-quadcross-ser%C3%A1-el-diario",
+            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://eldiario.ec/noticias-manabi-ecuador/353532-primera-valida-provincial-de-motocross-y-quadcross-sera-el-domingo/"
+        },
+        "diarioandino.com.ar/2015/04/motocross-el-mpn-blind%C3%B3-a-cacault-y-no-explicar%C3%A1-cu%C3%A1nto": {
+            "title": "Motocross: El MPN blind\u00f3 a Cacault y no explicar\u00e1 cu\u00e1nto y en...",
+            "snippet": "Pese a la falta de documentaci\u00f3n que respalde lo actuado y lo acordado por el gobierno municipal para la administraci\u00f3n de fondos de la organizaci\u00f3n de la carrera de Motocross, el bloque del MPN hizo caso omiso a los...",
+            "date": "2015-04-21",
+            "author_name": "admin",
+            "categories": "motocross",
+            "tags": "hizo,gobierno,motocross",
+            "recuweb_url": "http://es.recuweb.com/motocross/diarioandino.com.ar/2015/04/motocross-el-mpn-blind%C3%B3-a-cacault-y-no-explicar%C3%A1-cu%C3%A1nto",
+            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diarioandino.com.ar/diario/2015/04/21/motocross-el-mpn-blindo-a-cacault-y-no-explicara-cuanto-y-en-que-se-gasto/"
+        },
+        "diarioandino.com.ar/2015/04/la-c%C3%A1mara-de-comercio-agradece-por-el-mundial-motocross": {
+            "title": "La C\u00e1mara de Comercio agradece por el Mundial de Motocross...",
+            "snippet": "Es de inter\u00e9s de la C\u00e1mara de Comercio de Villa La Angostura sumarse a los agradecimientos y felicitaciones a quienes trabajaron arduamente en el desarrollo del Campeonato Mundial de Motocross de MXGP, realizado...",
+            "date": "2015-04-21",
+            "author_name": "admin",
+            "categories": "motocross",
+            "tags": "campeonato,villa,angostura,mundial,motocross,mxgp",
+            "recuweb_url": "http://es.recuweb.com/motocross/diarioandino.com.ar/2015/04/la-c%C3%A1mara-de-comercio-agradece-por-el-mundial-motocross",
+            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diarioandino.com.ar/diario/2015/04/21/la-camara-de-comercio-agradece-por-el-mundial-de-motocross/"
+        },
+        "mxargentina.com/2015/04/el-video-del-argentino-de-motocross-en-bariloche-mxargentina": {
+            "title": "El video del Argentino de Motocross en Bariloche MXArgentina...",
+            "snippet": "Hoy por la tarde recibimos de la productora con base en la ciudad de San carlos de Bariloche, Motor Colectivo, un video que realizaron durante la ultima fecha del Argentino de Motocross disputada en el circuito La Cascada...",
             "date": "2015-04-20",
-            "author_name": "NTMed",
+            "author_name": "Santiago Pearson",
             "categories": "motocross",
-            "tags": "cabo,tercera,v\u00e1lida,motocross",
-            "recuweb_url": "http://es.recuweb.com/motocross/noticias.telemedellin.tv/2015/04/en-girardota-se-llev%C3%B3-a-cabo-la-tercera-v%C3%A1lida-departamental",
+            "tags": "durante,argentino,motocross,fecha,disputada,circuito",
+            "recuweb_url": "http://es.recuweb.com/motocross/mxargentina.com/2015/04/el-video-del-argentino-de-motocross-en-bariloche-mxargentina",
             "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.telemedellin.tv/en-girardota-se-llevo-a-cabo-la-tercera-valida-departamental-de-motocross/"
-        },
-        "motorvsmotor.com/2015/04/v%C3%ADdeo-conocemos-m%C3%A1s-a-fondo-4-mujeres-piloto-motocross": {
-            "title": "V\u00eddeo conocemos m\u00e1s a fondo a 4 mujeres piloto motocross de la...",
-            "snippet": "Las mujeres cada vez m\u00e1s, afortunadamente, est\u00e1n inmersas en competiciones de motor, algo que nos encanta. En esta ocasi\u00f3n vamos a conocer a 4 pilotos f\u00e9minas que participan en la Dagan Cup en Galicia, dentro del...",
-            "date": "2015-04-19",
-            "author_name": "Cambio de Rasante",
-            "categories": "motocross",
-            "tags": "algo,pilotos,motocross",
-            "recuweb_url": "http://es.recuweb.com/motocross/motorvsmotor.com/2015/04/v%C3%ADdeo-conocemos-m%C3%A1s-a-fondo-4-mujeres-piloto-motocross",
-            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://motorvsmotor.com/2015/04/19/video-conocemos-mas-a-fondo-a-4-mujeres-piloto-motocross-de-la-dagan-cup-2015/"
-        },
-        "panamawestevents.com/2015/04/conferencia-de-prensa-la-2da-v%C3%A1lida-del-campeonato-nacional": {
-            "title": "Conferencia de Prensa de la 2da v\u00e1lida del campeonato nacional...",
-            "snippet": "En el d\u00eda de hoy se llevo a cabo en un restaurante de la localidad la conferencia de Prensa de la 2da v\u00e1lida del campeonato nacional de motocross y 4wheels Copa Coors Light la carrera de motos ser\u00e1 este domingo 19 en...",
-            "date": "2015-04-17",
-            "author_name": "Javier Barrera",
-            "categories": "motocross",
-            "tags": "ser\u00e1,d\u00eda,cabo,localidad,v\u00e1lida,campeonato,nacional,motocross,carrera,motos,domingo",
-            "recuweb_url": "http://es.recuweb.com/motocross/panamawestevents.com/2015/04/conferencia-de-prensa-la-2da-v%C3%A1lida-del-campeonato-nacional",
-            "resource_url": "http://www.google.com/search?q=motocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://panamawestevents.com/?p=5440"
+            "source_url": "http://mxargentina.com/el-video-del-argentino-de-motocross-en-bariloche/"
         },
         "motorpasionmoto.com/2015/04/conjunto-de-motocross-acerbis-suckerpunch": {
             "title": "Conjunto de motocross Acerbis Suckerpunch...",
@@ -50,43 +72,21 @@
             "date": "2015-04-16",
             "author_name": "Morrillu",
             "categories": "motocross",
-            "tags": "motocross",
+            "tags": "nuevo,motocross",
             "recuweb_url": "http://es.recuweb.com/motocross/motorpasionmoto.com/2015/04/conjunto-de-motocross-acerbis-suckerpunch",
             "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://motorpasionmoto.com/accesorios/conjunto-de-motocross-acerbis-suckerpunch"
         },
-        "24-horas.mx/2015/04/xpilots-trae-de-vuelta-show-motocross-a-la-ciudad-m%C3%A9xico": {
-            "title": "Xpilots trae de vuelta show de motocross a la ciudad de M\u00e9xico (...",
-            "snippet": "Xpilots trae de vuelta show de motocross a la ciudad de M\u00e9xico (fotos). Redacci\u00f3n 24 HORAS Abril 14, 2015 7:52 pm. El pr\u00f3ximo 20 de junio se celebrar\u00e1 la mayor competencia de Freestyle Motocross de Am\u00e9rica Latina en la Arena Ciudad...",
-            "date": "2015-04-15",
-            "author_name": "Nantzin",
+        "mxargentina.com/2015/04/brit%C3%A1nico-de-motocross-segunda-fecha-en-cadders-hill": {
+            "title": "Brit\u00e1nico de Motocross Segunda fecha en Cadders Hill...",
+            "snippet": "El pintoresco circuito de Cadders Hill en Lyng fue sede de la segunda fecha del Campeonato Brit\u00e1nico de Motocross Maxxis presentado por Skye Energy Drink. La pista de arena natural bien al estilo clasico fue el...",
+            "date": "2015-04-10",
+            "author_name": "Santiago Pearson",
             "categories": "motocross",
-            "tags": "motocross,competencia,m\u00e9xico",
-            "recuweb_url": "http://es.recuweb.com/motocross/24-horas.mx/2015/04/xpilots-trae-de-vuelta-show-motocross-a-la-ciudad-m%C3%A9xico",
-            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://24-horas.mx/xpilots-tras-de-vuelta-show-de-motocross-a-la-ciudad-de-mexico-fotos/"
-        },
-        "diarioandino.com.ar/2015/04/motocross-hemos-hecho-un-evento-del-cual-hablan-maravillas": {
-            "title": "Motocross: Hemos hecho un evento del cual hablan maravillas y...",
-            "snippet": "El intendente Roberto Cacault volvi\u00f3 a minimizar la pol\u00e9mica originada por la construcci\u00f3n del circuito de Motocross sin las autorizaciones correspondientes de los organismos encargados de hacer cumplir la Ley de...",
-            "date": "2015-04-14",
-            "author_name": "admin",
-            "categories": "motocross",
-            "tags": "autorizaciones,construcci\u00f3n,circuito,roberto,evento,motocross",
-            "recuweb_url": "http://es.recuweb.com/motocross/diarioandino.com.ar/2015/04/motocross-hemos-hecho-un-evento-del-cual-hablan-maravillas",
+            "tags": "motocross,campeonato,segunda,fecha,circuito",
+            "recuweb_url": "http://es.recuweb.com/motocross/mxargentina.com/2015/04/brit%C3%A1nico-de-motocross-segunda-fecha-en-cadders-hill",
             "resource_url": "http://www.google.com/search?q=motocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diarioandino.com.ar/diario/2015/04/14/motocross-hemos-hecho-un-evento-del-cual-todos-hablan-maravillas-y-nosotros-estamos-boludeando-si-la-responsabilidad-es-de-fulano-o-de-mengano/"
-        },
-        "diarioandino.com.ar/2015/04/circuito-de-motocross-greenpeace-pide-informes-a-bertoya": {
-            "title": "Circuito de Motocross: Greenpeace pide informes a Bertoya por la...",
-            "snippet": "Nos dirigimos a Usted con profunda preocupaci\u00f3n por el desmonte ilegal de aproximadamente 12 hect\u00e1reas de bosques nativos realizado en Villa La Angostura para el establecimiento de un circuito de Motocross, inicia la...",
-            "date": "2015-04-13",
-            "author_name": "admin",
-            "categories": "motocross",
-            "tags": "circuito,villa,angostura,motocross",
-            "recuweb_url": "http://es.recuweb.com/motocross/diarioandino.com.ar/2015/04/circuito-de-motocross-greenpeace-pide-informes-a-bertoya",
-            "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diarioandino.com.ar/diario/2015/04/13/circuito-de-motocross-greenpeace-pide-informes-a-bertoya-por-la-arbitraria-e-ilegal-autorizacion-del-municipio-para-la-intervencion/"
+            "source_url": "http://mxargentina.com/britanico-de-motocross-segunda-fecha-en-cadders-hill/"
         },
         "diarioandino.com.ar/2015/04/el-gobierno-est%C3%A1-poniendo-en-jaque-la-realizaci%C3%B3n-del-mundial": {
             "title": "El gobierno est\u00e1 poniendo en jaque la realizaci\u00f3n del mundial de...",
@@ -94,7 +94,7 @@
             "date": "2015-04-10",
             "author_name": "admin",
             "categories": "motocross",
-            "tags": "autorizaciones,construcci\u00f3n,mundial,circuito,motocross",
+            "tags": "gobierno,mundial,circuito,motocross",
             "recuweb_url": "http://es.recuweb.com/motocross/diarioandino.com.ar/2015/04/el-gobierno-est%C3%A1-poniendo-en-jaque-la-realizaci%C3%B3n-del-mundial",
             "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diarioandino.com.ar/diario/2015/04/10/el-gobierno-esta-poniendo-en-jaque-la-realizacion-del-mundial-de-motocross-para-el-2016/"
@@ -105,21 +105,21 @@
             "date": "2015-04-09",
             "author_name": "nbadran",
             "categories": "motocross",
-            "tags": "primer,general,categor\u00eda,piloto,nacionales,motocross",
+            "tags": "primer,marcha,segundo,categor\u00eda,piloto,open,motocross",
             "recuweb_url": "http://es.recuweb.com/motocross/eluniversal.com.co/2015/04/piloto-sucre%C3%B1o-marcha-segundo-en-la-open-de-nacionales",
             "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eluniversal.com.co/deportes/ciclismo/piloto-sucreno-marcha-segundo-en-la-open-de-nacionales-de-motocross-190097"
         },
-        "diasporadominicana.com/2015/04/correr%C3%A1n-en-puerto-plata-cl%C3%A1sico-de-motocross-semana-santa-2015": {
-            "title": "Correr\u00e1n en Puerto Plata Cl\u00e1sico de Motocross Semana Santa 2015...",
-            "snippet": "Motocross PUERTO PLATA.- Con la participaci\u00f3n de pilotos de Costa Rica y Rep\u00fablica Dominicana ser\u00e1 celebrado el Cl\u00e1sico de Motocross Semana Santa, evento que tendr\u00e1 como escenario la pista de la Gran Parada de...",
-            "date": "2015-04-01",
-            "author_name": "diasporadominicana.com",
+        "agenciasanluis.com/2015/04/el-provincial-de-motocross-comenzar%C3%A1-en-villa-mercedes": {
+            "title": "El Provincial de motocross comenzar\u00e1 en Villa Mercedes...",
+            "snippet": "Organizado por la Asociaci\u00f3n Sanluise\u00f1a de Motocross, el campeonato 2015 se pondr\u00e1 en marcha en Villa Mercedes, el pr\u00f3ximo 18 y 19 de abril.",
+            "date": "2015-04-03",
+            "author_name": "Adolfo Gonz\u00e1lez",
             "categories": "motocross",
-            "tags": "gran,gran_parada,parada,evento,ser\u00e1,rep\u00fablica,rep\u00fablica_dominicana,dominicana,costa,costa_rica,rica,motocross,puerto,puerto_plata,plata,semana,semana_santa,santa,pilotos",
-            "recuweb_url": "http://es.recuweb.com/motocross/diasporadominicana.com/2015/04/correr%C3%A1n-en-puerto-plata-cl%C3%A1sico-de-motocross-semana-santa-2015",
+            "tags": "marcha,villa,provincial,motocross,campeonato",
+            "recuweb_url": "http://es.recuweb.com/motocross/agenciasanluis.com/2015/04/el-provincial-de-motocross-comenzar%C3%A1-en-villa-mercedes",
             "resource_url": "http://www.google.com/search?q=motocross%2Bmotocross&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diasporadominicana.com/2015/04/01/correran-en-puerto-plata-clasico-de-motocross-semana-santa-2015/"
+            "source_url": "http://agenciasanluis.com/notas/2015/04/03/el-provincial-de-motocross-comenzara-en-villa-mercedes/"
         }
     }
 }

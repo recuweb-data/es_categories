@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pop/",
@@ -11,27 +11,93 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
+        "cookingideas.es/2015/04/cuando-los-cubre-vasos-de-starbucks-se-convierten-en-arte-pop": {
+            "title": "Cuando los cubre vasos de Starbucks se convierten en arte 'pop...",
+            "snippet": "Todo aquel que adore el caf\u00e9 de Starbucks tiene un hueco en su corazoncito para su sirena. Presente en cada uno de los vasos en los que la cadena estadouni.",
+            "date": "2015-04-30",
+            "author_name": "Redacci\u00f3n",
+            "categories": "pop",
+            "tags": "arte,pop",
+            "recuweb_url": "http://es.recuweb.com/pop/cookingideas.es/2015/04/cuando-los-cubre-vasos-de-starbucks-se-convierten-en-arte-pop",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cookingideas.es/inspiracion-starbucks-20150430.html"
+        },
+        "taringa.net/2015/04/el-rey-del-pop-participar%C3%A1-en-zoolander-2-taringa": {
+            "title": "El rey del pop participar\u00e1 en \"Zoolander 2\". - Taringa!",
+            "snippet": "Bieber participar\u00e1 en \"Zoolander 2\". Hasta el momento se desconoce cu\u00e1l ser\u00e1 la funci\u00f3n del cantante pop en dicho proyecto que cuenta co...",
+            "date": "2015-04-30",
+            "author_name": "desconocido",
+            "categories": "pop",
+            "tags": "ser\u00e1,pop,proyecto",
+            "recuweb_url": "http://es.recuweb.com/pop/taringa.net/2015/04/el-rey-del-pop-participar%C3%A1-en-zoolander-2-taringa",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/post/noticias/18635190/El-rey-del-pop-participara-en-Zoolander-2.html"
+        },
+        "diariosdefutbol.com/2015/04/un-icono-pop-en-watford-diarios-de-futbol": {
+            "title": "Un icono pop en Watford - Diarios de Futbol...",
+            "snippet": "Tal vez por eso me resulta imposible desligar la imagen del equipo de la del icono pop. El recient\u00edsimo y aclamado \u00e9xito del Watford, entrenado por el exfutbolista de Oviedo o Tenerife Slavisa Jokanovic y amamantado por la...",
+            "date": "2015-04-29",
+            "author_name": "Borja Barba",
+            "categories": "pop,futbol",
+            "tags": "icono,pop",
+            "recuweb_url": "http://es.recuweb.com/futbol/diariosdefutbol.com/2015/04/un-icono-pop-en-watford-diarios-de-futbol",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diariosdefutbol.com/2015/04/29/watford-fc-elton-john/"
+        },
+        "plasticosydecibelios.com/2015/04/12-perlas-del-electro-pop-listas-canciones-noticias-musica": {
+            "title": "12 PERLAS DEL ELECTRO-POP Listas canciones, Noticias Musica...",
+            "snippet": "Vangelis ya hab\u00eda logrado trabajar y poner a punto sus propios estudios Nemo. Sintetizadores anal\u00f3gicos en todo su esplendor. Era el gran tema que daba t\u00edtulo al disco.",
+            "date": "2015-04-28",
+            "author_name": "Julian Ruiz",
+            "categories": "pop",
+            "tags": "gran,disco,pop,canciones,era",
+            "recuweb_url": "http://es.recuweb.com/pop/plasticosydecibelios.com/2015/04/12-perlas-del-electro-pop-listas-canciones-noticias-musica",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://plasticosydecibelios.com/12-perlas-electropop/"
+        },
+        "informador.com.mx/2015/04/blur-deja-atr%C3%A1s-el-espejismo-del-brit-pop-informador": {
+            "title": "Blur deja atr\u00e1s el espejismo del 'brit pop':: El Informador...",
+            "snippet": "MADRID, ESPA\u00d1A (27/ABR/2015).- \"El 'brit pop'no fue algo real\", alega una de sus bandas pr\u00f3digas, Blur, en boca del m\u00e1s pr\u00f3digo de sus integrantes, el guitarrista Graham Coxon, de vuelta junto al resto de sus compa\u00f1eros para entregar...",
+            "date": "2015-04-28",
+            "author_name": "desconocido",
+            "categories": "pop",
+            "tags": "junto,deja,pop,informador,abr",
+            "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/blur-deja-atr%C3%A1s-el-espejismo-del-brit-pop-informador",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://informador.com.mx/entretenimiento/2015/588959/6/blur-deja-atras-el-espejismo-del-brit-pop.htm"
+        },
+        "xataka.com/2015/04/withings-activit%C3%A9-pop-an%C3%A1lisis-gran-cuantificador-que-llega": {
+            "title": "Withings Activit\u00e9 Pop, an\u00e1lisis: gran cuantificador que llega en el...",
+            "snippet": "Withings Activit\u00e9 Pop, an\u00e1lisis del nuevo cuantificador personal de Withings. Caracter\u00edsticas t\u00e9cnicas, funcionalidades y...",
+            "date": "2015-04-27",
+            "author_name": "Javier Penalva",
+            "categories": "pop",
+            "tags": "gran,pop",
+            "recuweb_url": "http://es.recuweb.com/pop/xataka.com/2015/04/withings-activit%C3%A9-pop-an%C3%A1lisis-gran-cuantificador-que-llega",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://xataka.com/analisis/withings-activite-pop-analisis-gran-cuantificador-que-llega-en-el-peor-momento"
+        },
         "abc.com.py/2015/04/euforia-pop-con-enrique-iglesias-en-asunci%C3%B3n-espectaculos-abc": {
             "title": "Euforia pop con Enrique Iglesias en Asunci\u00f3n - Espectaculos - ABC...",
             "snippet": "Euforia pop con Enrique Iglesias en Asunci\u00f3n. Por Jorge Coronel. Presentando sus primeros \u00e9xitos hasta su m\u00e1s reciente \"Bailando\", el espa\u00f1ol Enrique Iglesias hizo bailar a unas personas en el Jockey Club de...",
             "date": "2015-04-26",
             "author_name": "desconocido",
             "categories": "pop",
-            "tags": "hizo,espa\u00f1ol,\u00e9xitos,pop,abc",
+            "tags": "personas,espa\u00f1ol,\u00e9xitos,enrique,enrique_iglesias,iglesias,pop,abc",
             "recuweb_url": "http://es.recuweb.com/pop/abc.com.py/2015/04/euforia-pop-con-enrique-iglesias-en-asunci%C3%B3n-espectaculos-abc",
             "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abc.com.py/espectaculos/resenas/euforia-pop-con-enrique-iglesias-en-asuncion-1360512.html"
         },
-        "listindiario.com/2015/04/show-de-electro-pop": {
-            "title": "Show de Electro Pop -...",
-            "snippet": "En su edici\u00f3n n\u00famero cinco, que lleva el t\u00edtulo de The Journey, el festival electro pop se propone evolucionar para convertirse en el primer espect\u00e1culo multisensorial y conceptual del pa\u00eds. Es lo que han declarado sus...",
+        "informador.com.mx/2015/04/pop-entre-amigos-y-rivales-el-informador": {
+            "title": "Pop entre amigos y rivales:: El Informador...",
+            "snippet": "GUADALAJARA, JALISCO (24/ABR/2015).- \"\u00bfTe gusta OV7 o Kabah? era una de las preguntas que los j\u00f3venes usaban para romper el hielo en los a\u00f1os noventa. Si los interlocutores concordaban en su gusto el siguiente paso ser\u00eda hablar...",
             "date": "2015-04-24",
             "author_name": "desconocido",
             "categories": "pop",
-            "tags": "primer,festival,lleva,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/listindiario.com/2015/04/show-de-electro-pop",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://listindiario.com/entretenimiento/2015/4/23/364599/Show-de-Electro-Pop"
+            "tags": "paso,era,j\u00f3venes,gusta,amigos,pop,informador,abr,kabah",
+            "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/pop-entre-amigos-y-rivales-el-informador",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://informador.com.mx/entretenimiento/2015/588334/6/pop-entre-amigos-y-rivales.htm"
         },
         "prodavinci.com/2015/04/balada-pop-de-los-ochenta-una-apolog%C3%ADa-por-rita-indiana": {
             "title": "Balada pop de los ochenta, una apolog\u00eda; por Rita Indiana...",
@@ -39,7 +105,7 @@
             "date": "2015-04-23",
             "author_name": "Rita Indiana",
             "categories": "pop",
-            "tags": "lleva,d\u00e9cadas,pop",
+            "tags": "pop",
             "recuweb_url": "http://es.recuweb.com/pop/prodavinci.com/2015/04/balada-pop-de-los-ochenta-una-apolog%C3%ADa-por-rita-indiana",
             "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://prodavinci.com/blogs/balada-pop-de-los-ochenta-una-apologia-por-rita-indiana/"
@@ -50,76 +116,10 @@
             "date": "2015-04-21",
             "author_name": "europafm.com",
             "categories": "rock,pop",
-            "tags": "rock,abril,disco,pop",
+            "tags": "abril,disco,pop",
             "recuweb_url": "http://es.recuweb.com/pop/europafm.com/2015/04/europa-fm-el-disco-2015-mejor-pop-rock-de-hoy",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://europafm.com/especiales/recopilatorios/europafm-disco-recopilatorio-2015_2015042100162.html"
-        },
-        "musikorner.com/2015/04/holychild-anuncian-su-disco-de-debut-a-ritmo-brat-pop": {
-            "title": "Holychild anuncian su disco de debut a ritmo de 'brat pop'...",
-            "snippet": "El d\u00fao de Los \u00c1ngeles Holychild, de los que ya hablamos con anterioridad, se dispone a publicar su \u00e1lbum de debut, titulado The Shape Of Brat Pop To Come, el 2 de junio. Lo de brat pop es como ellos llaman a su estilo...",
-            "date": "2015-04-21",
-            "author_name": "jarto",
-            "categories": "pop",
-            "tags": "pop,debut,disco",
-            "recuweb_url": "http://es.recuweb.com/pop/musikorner.com/2015/04/holychild-anuncian-su-disco-de-debut-a-ritmo-brat-pop",
-            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://musikorner.com/2015/04/21/holychild-anuncian-su-disco-de-debut-a-ritmo-de-brat-pop/"
-        },
-        "americaeconomia.com/2015/04/chilenos-griten-me-gusta-el-k-pop-con-orgullo": {
-            "title": "Chilenos, griten \u00a1me gusta el K-Pop con orgullo!, y la presidenta...",
-            "snippet": "La primera presidenta surcoreana, Park Geun-hye, visitar\u00e1 Chile entre el 21 y 23 de abril. A mi modo de ver, la presidenta coreana estar\u00eda interesada en conocer a los abundantes fans chilenos del K-Pop (pop coreano) que...",
-            "date": "2015-04-20",
-            "author_name": "Lino Sol\u00eds de Ovando",
-            "categories": "pop",
-            "tags": "abril,primera,gusta,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/americaeconomia.com/2015/04/chilenos-griten-me-gusta-el-k-pop-con-orgullo",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://americaeconomia.com/analisis-opinion/chilenos-griten-me-gusta-el-k-pop-con-orgullo-y-la-presidenta-park-les-saludara-con"
-        },
-        "informabtl.com/2015/04/heineken-crea-conceptos-futuristas-con-un-pop-up-city-lounge": {
-            "title": "Heineken crea conceptos futuristas con un Pop Up City Lounge...",
-            "snippet": "Durante el Mercedes Benz Fashion Week, Heineken present\u00f3 el Pop Up City Lounge, una propuesta progresiva de dise\u00f1o itinerante que estar\u00e1 viajando por todo el mundo, a fin de elevar la experiencia de consumo.",
-            "date": "2015-04-20",
-            "author_name": "Nancy Malacara",
-            "categories": "pop",
-            "tags": "mundo,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/informabtl.com/2015/04/heineken-crea-conceptos-futuristas-con-un-pop-up-city-lounge",
-            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informabtl.com/2015/04/20/heineken-crea-conceptos-futuristas-con-un-pop-up-city-lounge/"
-        },
-        "seordelbiombo.blogspot.com/2015/04/se%C3%B1or-del-biombo-el-inicio-pop-art-hamilton": {
-            "title": "SE\u00d1OR DEL BIOMBO: EL INICIO DEL POP ART. HAMILTON \u00bfQu\u00e9...",
-            "snippet": "En este peque\u00f1o fotomontaje de 1956, Hamilton (pintor brit\u00e1nico) hizo todo un manifiesto de lo que se conocer\u00eda como arte pop y que es especialmente conocido por las realizaciones estadounidenses de los a\u00f1os 60...",
-            "date": "2015-04-20",
-            "author_name": "Vicente Camarasa",
-            "categories": "pop",
-            "tags": "hizo,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/seordelbiombo.blogspot.com/2015/04/se%C3%B1or-del-biombo-el-inicio-pop-art-hamilton",
-            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://seordelbiombo.blogspot.com/2015/04/el-inicio-del-pop-art-hamilton-que-hace.html"
-        },
-        "informador.com.mx/2015/04/el-rock-pop-de-%C3%ADndigo-evoluciona-informador": {
-            "title": "El rock pop de \u00cdndigo evoluciona:: El Informador...",
-            "snippet": "Tras su separaci\u00f3n en el 2004, la banda de rock pop peruano \u00cdndigo se volvi\u00f3 a juntar para grabar su tercer material discogr\u00e1fico y regresar a los escenarios como una banda impregnada de nuevos br\u00edos. \"Traemos nuevos...",
-            "date": "2015-04-18",
-            "author_name": "desconocido",
-            "categories": "rock,pop",
-            "tags": "banda,banda-de-rock,rock,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/el-rock-pop-de-%C3%ADndigo-evoluciona-informador",
-            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informador.com.mx/entretenimiento/2015/587182/6/el-rock-pop-de-indigo-evoluciona.htm"
-        },
-        "viax2.cl/2015/04/viax2-jueves-en-moov-pop": {
-            "title": "VIAX2 Jueves en Moov: Pop, pop y m\u00e1s pop...",
-            "snippet": "Jornada de artistas consolidados y emergentes de la m\u00fasica pop: Rihanna, Coldplay, Francisca Valenzuela, Lenny Kravitz, Vance Joy, Robin Thicke, Phoenix y m\u00e1s. No te pierdas Moov a las 19:00 hrs. en VIA X 2. Conduce: Monserrat...",
-            "date": "2015-04-16",
-            "author_name": "Camilo Espinoza",
-            "categories": "pop",
-            "tags": "artistas,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/viax2.cl/2015/04/viax2-jueves-en-moov-pop",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://viax2.cl/jueves-en-moov-pop-pop-y-mas-pop/"
         }
     }
 }

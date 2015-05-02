@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bing",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bing/",
@@ -11,32 +11,42 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
+        "seroundtable.com/2015/04/bing-now-with-long-form-answers-at-the-top-of-search": {
+            "title": "Bing Now With Long Form Answers At The Top Of The Search Results - Search Engine Roundtable...",
+            "snippet": "Bing Now With Long Form Answers At The Top Of The Search ResultsSearch Engine RoundtableNew Bing Logo Spotted by Romit Mehta and posted on Twitter, Bing is now also providing detailed long-form answers at the top of their search results, ultimately...",
+            "date": "2015-04-27",
+            "categories": "bing,twitter",
+            "tags": "answers,top,top-of-their,their,their-search,their-search-results,search,results,providing,detailed,engine,search_engine,bing,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/seroundtable.com/2015/04/bing-now-with-long-form-answers-at-the-top-of-search",
+            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
+            "source_url": "http://seroundtable.com/bing-detailed-answers-20209.html"
+        },
+        "windowscentral.com/2015/04/bing-rewards-members-can-get-2000-points-if-they-pre-order": {
+            "title": "Bing Rewards members can get 2000 points if they pre-order a... - Windows Central...",
+            "snippet": "Windows CentralBing Rewards members can get 2000 points if they pre-order a...Windows CentralMicrosoft has launched a new promotion that will allow members of the Bing Rewards program in the US to get 2,000 points if they pre-order a new Surface 3...",
+            "date": "2015-04-27",
+            "categories": "bing",
+            "tags": "that,will,bing",
+            "recuweb_url": "http://es.recuweb.com/bing/windowscentral.com/2015/04/bing-rewards-members-can-get-2000-points-if-they-pre-order",
+            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
+            "source_url": "http://windowscentral.com/bing-rewards-members-can-get-2000-points-if-they-buy-surface-3-week"
+        },
         "computerhoy.com/2015/04/desaparecer-de-internet-es-f%C3%A1cil-si-sabes-c%C3%B3mo": {
             "title": "Desaparecer de Internet es f\u00e1cil si sabes c\u00f3mo...",
             "snippet": "Seguramente nadie se libre de haber hecho esta acci\u00f3n. Entre los millones de resultados que contiene Google o Bing, por ejemplo, encontraremos fotos nuestras, informaci\u00f3n, p\u00e1ginas web o blogs relacionados con nosotros. Esto realmente llega a dar...",
             "date": "2015-04-26",
             "categories": "internet,google,bing",
-            "tags": "resultados,internet,c\u00f3mo,google,bing,p\u00e1ginas,web",
+            "tags": "internet,c\u00f3mo,google,bing,p\u00e1ginas,web",
             "recuweb_url": "http://es.recuweb.com/bing/computerhoy.com/2015/04/desaparecer-de-internet-es-f%C3%A1cil-si-sabes-c%C3%B3mo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
             "source_url": "http://computerhoy.com/noticias/internet/desaparecer-internet-es-facil-si-sabes-como-26381"
-        },
-        "techtudo.com.br/2015/04/microsoft-renova-parceria-entre-bing-e-yahoo-para-resultados": {
-            "title": "Microsoft renova parceria entre Bing e Yahoo! para resultados de... -...",
-            "snippet": "renova parceria entre Bing e Yahoo! para resultados de... entender as mudan\u00e7as, primeiro \u00e9 preciso saber como a parceria funcionava. Antes, todas as pesquisas feitas no desktop em ambos os sites mostravam os resultados do Bing. J\u00e1 nos...",
-            "date": "2015-04-26",
-            "categories": "bing,yahoo",
-            "tags": "sites,resultados,microsoft,bing,yahoo",
-            "recuweb_url": "http://es.recuweb.com/yahoo/techtudo.com.br/2015/04/microsoft-renova-parceria-entre-bing-e-yahoo-para-resultados",
-            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
-            "source_url": "http://techtudo.com.br/noticias/noticia/2015/04/microsoft-renova-parceria-entre-bing-e-yahoo-para-resultados-de-busca.html"
         },
         "searchengineland.com/2015/04/bing-providing-detailed-answers-from-third-party-web-sites-like-search": {
             "title": "Bing Providing Detailed Answers From Third-Party Web Sites Like... - Search Engine Land...",
             "snippet": "Search Engine LandBing Providing Detailed Answers From Third-Party Web Sites Like...Search Engine LandBing seems to now be providing detailed answers to your queries at the top of their search results, pulled/sourced from third-party web sites, much...",
             "date": "2015-04-24",
             "categories": "bing",
-            "tags": "search,search_engine,search_engine_landbing,engine,engine_landbing,landbing,search_engine_land,engine_land,land,web,sites,bing",
+            "tags": "providing,detailed,answers,top,top-of-their,their,their-search,their-search-results,search,results,search_engine,search_engine_landbing,engine,engine_landbing,landbing,search_engine_land,engine_land,land,web,bing",
             "recuweb_url": "http://es.recuweb.com/bing/searchengineland.com/2015/04/bing-providing-detailed-answers-from-third-party-web-sites-like-search",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
             "source_url": "http://searchengineland.com/bing-providing-detailed-answers-from-third-party-web-sites-like-google-219727"
@@ -46,10 +56,19 @@
             "snippet": "Everybody Loves Bing Mi!Eater PDXThe Merc's Andrea Damewood writes, \"jian bing is Asia's breakfasty answer to the Crunchwrap Supreme a savory cr\u00eape stuffed with scrambled egg, crunchy wonton-style crackers, black bean paste, cliantro, chives, and...",
             "date": "2015-04-24",
             "categories": "bing",
-            "tags": "bing",
+            "tags": "style,bing",
             "recuweb_url": "http://es.recuweb.com/bing/pdx.eater.com/2015/04/everybody-loves-bing-mi-eater-pdx",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
             "source_url": "http://pdx.eater.com/2015/4/24/8493539/food-cart-reviews-bing-mi-portland-jian-bing"
+        },
+        "fashionnstyle.com/2015/04/fan-bingbing-vs-jena-malone-in-emmanuel-ungaro-who-wore-it": {
+            "title": "Fan Bingbing Vs. Jena Malone In Emmanuel Ungaro: Who Wore It... - Fashion & Style...",
+            "snippet": "Fashion & StyleFan Bingbing Vs. Jena Malone In Emmanuel Ungaro: Who Wore It...Fashion & StyleAt a Shanghai Press Conference to promote her latest project \"Ever Since We Love\" on April 13, Fan Bingbing alongside co-star Han Geng, donned an elegant...",
+            "date": "2015-04-24",
+            "tags": "her,bingbing,fan,fan_bingbing,style",
+            "recuweb_url": "http://es.recuweb.com/fashionnstyle.com/2015/04/fan-bingbing-vs-jena-malone-in-emmanuel-ungaro-who-wore-it",
+            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
+            "source_url": "http://fashionnstyle.com/articles/57909/20150424/fan-bingbing-vs-jena-malone-in-emmanuel-ungaro-who-wore-it-best-vote.htm"
         },
         "searchengineland.com/2015/04/bing-ads-shopping-campaigns-now-in-beta-search-engine-land": {
             "title": "Bing Ads Shopping Campaigns Now In Beta - Search Engine Land...",
@@ -65,19 +84,10 @@
             "title": "China's sex-bomb actress Fan Bingbing upset at 'BUST'cuts in new... - Malaysia Chronicle...",
             "snippet": "Malaysia ChronicleChina's sex-bomb actress Fan Bingbing upset at 'BUST'cuts in new...Malaysia ChronicleRegretful. That's how Chinese actress Fan Bingbing describes the Chinese censors'decision to remove all cleavage-baring scenes in her new...",
             "date": "2015-04-23",
-            "tags": "baring,cleavage,malaysia,malaysia_chronicle,chronicle,fan,fan_bingbing,bingbing,china,that",
+            "tags": "baring,her,cleavage,fan,fan_bingbing,bingbing,china,that",
             "recuweb_url": "http://es.recuweb.com/malaysia-chronicle.com/2015/04/china-s-sex-bomb-actress-fan-bingbing-upset-at-bust-cuts",
             "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
             "source_url": "http://malaysia-chronicle.com/index.php?option=com_k2&view=item&id=499142:chinas-sex-bomb-actress-fan-bingbing-upset-at-bust-cuts-in-new-serial&Itemid=4"
-        },
-        "malaysia-chronicle.com/2015/04/censored-fan-bingbing-s-massive-d-cup-cleavage-in-new-malaysia": {
-            "title": "CENSORED! Fan Bingbing's massive D-CUP cleavage in new... - Malaysia Chronicle...",
-            "snippet": "Malaysia ChronicleCENSORED! Fan Bingbing's massive D-CUP cleavage in new...Malaysia ChronicleThe Empress Of China, the Tang dynasty drama that drew flak in China for baring the cleavages of female characters in the palace, will premiere on Sunday...",
-            "date": "2015-04-22",
-            "tags": "will,will-premiere,premiere,baring,baring-the-cleavages,cleavages,cleavages-of-female,female,female-characters,characters,palace,dynasty,dynasty-drama,dynasty-drama-that,drama,drama-that,drama-that-drew,that,that-drew,that-drew-flak,drew,drew-flak,flak,malaysia,empress,empress_of_china,china,malaysia_chronicle,chronicle,cleavage,fan,fan_bingbing,bingbing,tang,sunday",
-            "recuweb_url": "http://es.recuweb.com/malaysia-chronicle.com/2015/04/censored-fan-bingbing-s-massive-d-cup-cleavage-in-new-malaysia",
-            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://malaysia-chronicle.com/index.php?option=com_k2&view=item&id=498662:censored-fan-bingbings-massive-d-cup-cleavage-in-new-drama-wont-be-shown&Itemid=4"
         },
         "telva.com/2015/04/anine-bing-entrevistamos-a-la-influencer-de-que-todos-quieren-vestir": {
             "title": "Anine Bing, entrevistamos a la influencer de la que todos quieren vestir...",
@@ -91,22 +101,12 @@
         },
         "news.asiaone.com/2015/04/empress-of-china-to-be-aired-here-but-fan-bingbing": {
             "title": "Empress Of China to be aired here, but Fan Bingbing's cleavage will... - AsiaOne...",
-            "snippet": "The Straits TimesEmpress Of China to be aired here, but Fan Bingbing's cleavage will...AsiaOneThe Empress Of China, the Tang dynasty drama that drew flak in China for baring the cleavages of female characters in the palace, will premiere on Sunday...",
+            "snippet": "Empress Of China to be aired here, but Fan Bingbing's cleavage will...AsiaOneThe Empress Of China, the Tang dynasty drama that drew flak in China for baring the cleavages of female characters in the palace, will premiere on Sunday (April 26) in...",
             "date": "2015-04-21",
-            "tags": "will,will-premiere,premiere,baring,baring-the-cleavages,cleavages,cleavages-of-female,female,female-characters,characters,palace,dynasty,dynasty-drama,dynasty-drama-that,drama,drama-that,drama-that-drew,that,that-drew,that-drew-flak,drew,drew-flak,flak,cleavage,fan,fan_bingbing,bingbing,empress,empress_of_china,china,tang,sunday",
+            "tags": "will,baring,that,cleavage,fan,fan_bingbing,bingbing,china",
             "recuweb_url": "http://es.recuweb.com/news.asiaone.com/2015/04/empress-of-china-to-be-aired-here-but-fan-bingbing",
             "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
             "source_url": "http://news.asiaone.com/news/showbiz/empress-china-be-aired-here-fan-bingbings-cleavage-will-be-covered-digitally"
-        },
-        "configurarequipos.com/2015/04/la-pagina-de-bing-esta-bloqueada-y-no-me-entra": {
-            "title": "La pagina de Bing esta bloqueada y no me entra el wifi que ago...",
-            "snippet": "NETBOOK HP CON WINDOWS 7 hola!\u00bfcomo estan?,por favor me gustaria recuperar mis contactos de hotmail,quiero entrar a mi pagina y esta bloqueada,les pido que me ayuden a recuperar mis contactos del correo:(prohibido poner emails), para mi nueva...",
-            "date": "2015-04-21",
-            "categories": "bing",
-            "tags": "nueva,correo,bing",
-            "recuweb_url": "http://es.recuweb.com/bing/configurarequipos.com/2015/04/la-pagina-de-bing-esta-bloqueada-y-no-me-entra",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
-            "source_url": "http://configurarequipos.com/respuestas/pregunta127292.html"
         }
     }
 }

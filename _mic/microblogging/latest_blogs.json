@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblogging",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/microblogging/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/microblogging/microblogging/blogs.json"
     },
     "items": {
-        "benjaminmadeira.com/2015/04/rt-tutorial-guia-de-facebook-para-padres-familia": {
-            "title": "RT: Tutorial Guia de Facebook para padres de familia...",
-            "snippet": "... the-oscars (1); ungdomsskole (1); vgs (1); videos-tenis (1); world-news (1); youtube (1). Microblogging, videos, Youtube, mp4, podcast, mp3, Twitter, fotos, Facebook, Online. Webdesign - Webmaster: Benjamin Madeira.",
-            "date": "2015-04-23",
-            "author_name": "Benjamin Madeira",
-            "categories": "facebook,tenis,microblogging,twitter",
-            "tags": "facebook,youtube,microblogging,twitter",
-            "recuweb_url": "http://es.recuweb.com/twitter/benjaminmadeira.com/2015/04/rt-tutorial-guia-de-facebook-para-padres-familia",
-            "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://benjaminmadeira.com/2015/04/facebook-para-padres.html"
-        },
         "slaai.blogspot.com/2015/03/slaai-twitter-el-microblogging-soclatalergia-infograf%C3%ADa": {
             "title": "SLaai: Twitter: el microblogging: SocLatAlergia (Infograf\u00eda de...",
             "snippet": "Twitter: el microblogging: SocLatAlergia (Infograf\u00eda de Campus Sanofi). Twitter es una de las herramientas m\u00e1s importantes que existen hoy en d\u00eda para comunicar; te permite posicionarte como experto, compartir...",
             "date": "2015-03-19",
             "author_name": "Juan Carlos Ivancevich",
             "categories": "twitter,microblogging",
-            "tags": "permite,importantes,twitter,microblogging,d\u00eda,compartir",
+            "tags": "permite,twitter,microblogging,d\u00eda,compartir",
             "recuweb_url": "http://es.recuweb.com/microblogging/slaai.blogspot.com/2015/03/slaai-twitter-el-microblogging-soclatalergia-infograf%C3%ADa",
             "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://slaai.blogspot.com/2015/03/twitter-el-microblogging-soclatalergia.html"
@@ -39,10 +28,21 @@
             "date": "2015-02-24",
             "author_name": "omaraul97",
             "categories": "microblogging",
-            "tags": "opciones,enviar,enviar-publicar,enviar-publicar-mensajes,publicar,publicar-mensajes,publicar-mensajes-breves,mensajes,mensajes-breves,breves,generalmente,generalmente-solo,conocido,conocido-como-nanoblogging,nanoblogging,servicio,servicio-que-permite,permite,microblogging,usuarios",
+            "tags": "opciones,conocido,conocido-como-nanoblogging,nanoblogging,servicio,servicio-que-permite,permite,permite-sus-usuarios,usuarios,usuarios-enviar,enviar,enviar-y-mensajes,mensajes,mensajes-breves,mensajes-breves-generalmente,breves,breves-generalmente,breves-generalmente-solo,generalmente,generalmente-solo,microblogging",
             "recuweb_url": "http://es.recuweb.com/microblogging/omarranita.wordpress.com/2015/02/que-es-microblogging",
             "resource_url": "http://es.search.wordpress.com/?q=microblogging%2Bmicroblogging&f=feed&page=1",
             "source_url": "http://omarranita.wordpress.com/2015/02/24/que-es-microblogging/"
+        },
+        "leobardo904.wordpress.com/2015/02/que-es-microblogging": {
+            "title": "\u00bfque es microblogging?",
+            "snippet": "Tambien conocido, como nanoblogging es un servicio que permite a sus usuarios enviar y publicar mensajes breves generalmente solo texto.",
+            "date": "2015-02-24",
+            "author_name": "leobardo904",
+            "categories": "microblogging",
+            "tags": "nanoblogging,servicio,servicio-que-permite,permite,permite-sus-usuarios,usuarios,usuarios-enviar,enviar,enviar-y-mensajes,mensajes,mensajes-breves,mensajes-breves-generalmente,breves,breves-generalmente,breves-generalmente-solo,generalmente,generalmente-solo,microblogging,conocido,texto",
+            "recuweb_url": "http://es.recuweb.com/microblogging/leobardo904.wordpress.com/2015/02/que-es-microblogging",
+            "resource_url": "http://es.search.wordpress.com/?q=microblogging%2Bmicroblogging&f=feed&page=1",
+            "source_url": "http://leobardo904.wordpress.com/2015/02/24/que-es-microblogging/"
         },
         "ctis2015.wordpress.com/2015/02/que-es-un-microblogging": {
             "title": "\u00bfque es un microblogging?",
@@ -50,7 +50,7 @@
             "date": "2015-02-24",
             "author_name": "cetis2015",
             "categories": "microblogging",
-            "tags": "opciones,generalmente,generalmente-solo,texto,enviar,enviar-publicar,enviar-publicar-mensajes,publicar,publicar-mensajes,publicar-mensajes-breves,mensajes,mensajes-breves,breves,servicio,servicio-que-permite,permite,conocido,conocido-como-nanoblogging,nanoblogging,microblogging,usuarios",
+            "tags": "opciones,generalmente,generalmente-solo,servicio,servicio-que-permite,permite,permite-sus-usuarios,usuarios,usuarios-enviar,enviar,enviar-y-mensajes,mensajes,mensajes-breves,breves,conocido,conocido-como-nanoblogging,nanoblogging,microblogging,texto",
             "recuweb_url": "http://es.recuweb.com/microblogging/ctis2015.wordpress.com/2015/02/que-es-un-microblogging",
             "resource_url": "http://es.search.wordpress.com/?q=microblogging%2Bmicroblogging&f=feed&page=1",
             "source_url": "http://ctis2015.wordpress.com/2015/02/24/que-es-un-microblogging/"
@@ -61,7 +61,7 @@
             "date": "2015-02-12",
             "author_name": "Gloria Monta\u00f1\u00e9s",
             "categories": "microblogging",
-            "tags": "redes,redes-sociales,sociales,microblogging",
+            "tags": "microblogging,redes,sociales",
             "recuweb_url": "http://es.recuweb.com/microblogging/superblogger.es/2015/02/los-peligros-del-microblogging-superblogger",
             "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://superblogger.es/peligros-microblogging/"
@@ -83,7 +83,7 @@
             "date": "2015-01-17",
             "author_name": "Fco. Jos\u00e9 Hidalgo",
             "categories": "microblogging,twitter",
-            "tags": "pretende,nueva,red,microblogging,twitter,d\u00eda",
+            "tags": "pretende,red,microblogging,twitter,d\u00eda",
             "recuweb_url": "http://es.recuweb.com/twitter/wwwhatsnew.com/2015/01/quitter-nueva-red-de-microblogging-que-pretende-rivalizar-con-twitter",
             "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/01/17/quitter-nueva-red-de-microblogging-que-pretende-rivalizar-con-twitter/"
@@ -94,7 +94,7 @@
             "date": "2015-01-16",
             "author_name": "gemma.gallego",
             "categories": "sociedad,conocimiento,twitter,microblogging",
-            "tags": "compartir,c\u00f3mo,servicio,twitter,microblogging",
+            "tags": "compartir,c\u00f3mo,servicio,twitter,microblogging,informaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/microblogging/theproject.ws/2015/01/twitter-tu-servicio-de-microblogging-taller-para-el-ics-girona-thp",
             "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://theproject.ws/en/accions-formatives-atencio-primaria-girona/post/twitter-tu-servicio-de-microblogging-taller-para-el-"
@@ -104,9 +104,9 @@
             "snippet": "Microblogging con Tiddlywiki. 5 11 2014. Tiddlywiki es un software prodigioso, basado en javascript, que es capaz de albergar un bloc de notas que se puede editar con el explorador de internet o funcionar como un...",
             "date": "2014-11-05",
             "author_name": "1y2tres",
-            "categories": "internet,javascript,microblogging",
-            "tags": "puede,internet,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/3palmeras.wordpress.com/2014/11/microblogging-con-tiddlywiki-3palmeras",
+            "categories": "javascript,microblogging,internet",
+            "tags": "microblogging,puede,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/3palmeras.wordpress.com/2014/11/microblogging-con-tiddlywiki-3palmeras",
             "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://3palmeras.wordpress.com/2014/11/05/microblogging-con-tiddlywiki/"
         },
@@ -116,7 +116,7 @@
             "date": "2014-11-03",
             "author_name": "Jos\u00e9 S\u00e1nchez Labella",
             "categories": "empleo,microblogging",
-            "tags": "era,dos,microblogging,tiene",
+            "tags": "tiene,microblogging,era,pone",
             "recuweb_url": "http://es.recuweb.com/microblogging/wintwowin.com/2014/11/microblogging-lo-bueno-si-breve-dos-veces-win-two",
             "resource_url": "http://www.google.com/search?q=microblogging%2Bmicroblogging&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wintwowin.com/?p=936"

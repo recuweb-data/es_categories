@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radares-marinos",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/radares-marinos/",
@@ -28,7 +28,7 @@
             "date": "2014-07-28",
             "author_name": "Yanett D\u00edaz",
             "categories": "conocimiento,radar,radares-marinos",
-            "tags": "alta,radares,radares_marinos,marinos,tuvo,tuvo-la-oportunidad,oportunidad,oportunidad-de-capacitarse,capacitarse,manejo,estudiante,james,james_morales,james_morales_lasalle,morales,morales_lasalle,lasalle,mayo,concepci\u00f3n,universidad,durante,geof\u00edsica,udec",
+            "tags": "alta,radares,radares_marinos,marinos,tuvo,tuvo-la-oportunidad,oportunidad,oportunidad-de-capacitarse,capacitarse,manejo,estudiante,james,james_morales,james_morales_lasalle,morales,morales_lasalle,lasalle,mayo,concepci\u00f3n,universidad,durante,geof\u00edsica,udec,frecuencia",
             "recuweb_url": "http://es.recuweb.com/radares-marinos/dgeo.udec.cl/2014/07/dgeo-universidad-de-concepci%C3%B3n-destacados-la-semana",
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://dgeo.udec.cl/blog/2014/07/28/destacados-de-la-semana-estudiante-realiza-capacitacion-en-alemania-para-el-manejo-de-radares-marinos/"
@@ -44,13 +44,24 @@
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pilotnaval.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos.html"
         },
+        "caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos": {
+            "title": "Caracteristicas de los Radares Marinos: CARACTERISTICAS...",
+            "snippet": "Generalidades. Un radar marino convencional opera a 25 kW de potencia pico, con una duraci\u00f3n media de pulso de 250 nanosegundos en una frecuencia de repetici\u00f3n de pulso de 1500 pulsos por segundo, tiene una...",
+            "date": "2013-09-26",
+            "author_name": "Isis Enriquez",
+            "categories": "radar,radares-marinos",
+            "tags": "frecuencia,radares,radar-marino,marinos,radares_marinos,caracteristicas",
+            "recuweb_url": "http://es.recuweb.com/radares-marinos/caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos",
+            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-generales_26.html"
+        },
         "caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos-radar": {
             "title": "Caracteristicas de los Radares Marinos: RADAR...",
             "snippet": "El equipo de radar se usa para muchos prop\u00f3sitos, incluyendo la detecci\u00f3n de buques, aviones, actividades climatol\u00f3gicas, y control de tiro de artiller\u00eda. El Radar Marino Detecta la presencia de un objeto a determinada...",
             "date": "2013-09-26",
             "author_name": "Isis Enriquez",
             "categories": "radar,radares-marinos",
-            "tags": "radares,marinos,detecci\u00f3n,buques,radares_marinos,caracteristicas",
+            "tags": "radares,radar-marino,marinos,detecci\u00f3n,buques,radares_marinos,caracteristicas",
             "recuweb_url": "http://es.recuweb.com/radares-marinos/caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos-radar",
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://caracteristicasradaresmarinos.blogspot.com/2013/09/radar.html"
@@ -72,7 +83,7 @@
             "date": "2010-03-27",
             "author_name": "desconocido",
             "categories": "radar",
-            "tags": "radares,marinos,dos",
+            "tags": "radares,marinos",
             "recuweb_url": "http://es.recuweb.com/radar/listindiario.com/2010/03/gobierno-comprar%C3%A1-2-radares-marinos-para-combatir-narco",
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://listindiario.com/la-republica/2010/3/27/136422/Gobierno-comprara-2-radares-marinos-para-combatir-narco"
@@ -87,17 +98,6 @@
             "recuweb_url": "http://es.recuweb.com/electronica/kasakovich.wordpress.com/2009/04/radar-banda-s-vs-x-electronica-marina",
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://kasakovich.wordpress.com/2009/04/21/radar-banda-s-vs-radar-banda-x/"
-        },
-        "universalocean.es/2008/02/radares-para-detectar-los-v%C3%A9rtidos-marinos-universalocean": {
-            "title": "Radares para detectar los v\u00e9rtidos marinos UniversalOcean...",
-            "snippet": "En Galicia han realizado una gran iniciativa, ya que han colocado dos radares para intentar detectar los vertidos marinos, y es que ser\u00e1n pioneros en este.",
-            "date": "2008-02-09",
-            "author_name": "TintaCalamar",
-            "categories": "radar",
-            "tags": "dos,radares,marinos,gran",
-            "recuweb_url": "http://es.recuweb.com/radar/universalocean.es/2008/02/radares-para-detectar-los-v%C3%A9rtidos-marinos-universalocean",
-            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://universalocean.es/radares-para-detectar-los-vertidos-marinos/"
         }
     }
 }

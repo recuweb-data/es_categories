@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mac-pro",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mac-pro/",
@@ -11,27 +11,48 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mac-pro/mac-pro/blogs.json"
     },
     "items": {
-        "applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo": {
-            "title": "La imagen de la semana: el nuevo MacBook vs. el \u00faltimo MacBook...",
-            "snippet": "En su momento fue el Mac m\u00e1s vendido de la historia, sucediendo al iBook y precediendo al MacBook Air entre 2006 y 2009. Entonces ya exist\u00eda el MacBook de aluminio (m\u00e1s tarde, \"MacBook Pro\"), pero Apple decidi\u00f3 no...",
-            "date": "2015-04-19",
-            "author_name": "Matias S. Zavia",
-            "categories": "macbook,ibook",
-            "tags": "macbook,pro,air,nuevo,mac,apple",
-            "recuweb_url": "http://es.recuweb.com/ibook/applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo",
+        "enewspaper.mx/2015/04/protectores-de-piel-para-macbook-pro-enewspaper": {
+            "title": "Protectores de piel para Macbook Pro ENEWSPAPER...",
+            "snippet": "Posted on abr 27, 2015. Quienes usan alguna laptop Macbook Pro saben que puede ser \u00fatil tener un protector, adem\u00e1s del car\u00e1cter utilitario los protectores o car\u00e1tulas te ofrecen la posibilidad de cambiarle el look a tu Mac. caratulapiel01.",
+            "date": "2015-04-27",
+            "author_name": "ENEWSPAPER",
+            "categories": "macbook",
+            "tags": "adem\u00e1s,puede,macbook,macbook_pro,pro,mac",
+            "recuweb_url": "http://es.recuweb.com/macbook/enewspaper.mx/2015/04/protectores-de-piel-para-macbook-pro-enewspaper",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/portatil/la-imagen-de-la-semana-el-nuevo-macbook-vs-el-ultimo-macbook-blanco-de-2009"
+            "source_url": "http://enewspaper.mx/protectores-de-piel-para-macbook-pro/"
         },
-        "applesfera.com/2015/04/nvm-express-novedad-en-os-x-que-mejorar%C3%A1": {
-            "title": "NVM Express, novedad en OS X que mejorar\u00e1 el...",
-            "snippet": "Con el rendimiento de la unidad Flash de mi Mac Pro ya andaba m\u00e1s que satisfecho, y eso que no es la unidad m\u00e1s r\u00e1pida usada por Apple -antes era la de 1TB de MacBook Pro Retina de 15 y ahora la del nuevo MacBook...",
-            "date": "2015-04-13",
+        "applesfera.com/2015/04/nuevo-macbook-el-rendimiento-de-su-cpu-comparado-con-otros-mac": {
+            "title": "Nuevo MacBook, el rendimiento de su CPU comparado con otros Mac...",
+            "snippet": "Mac Mini a 2,8Ghz, 3064, 6391, 3342, 7064. iMac 21,5 a 1,4Ghz, 2585, 4861, 2804, 5358. iMac 21,5 a 2,9Ghz, 3119, 9660, 3560, 10794. MacBook Pro Retina 13 a 2,7Ghz, 3151, 6548, 3510, 7549. MacBook Pro Retina 15...",
+            "date": "2015-04-25",
             "author_name": "Pedro Santamar\u00eda",
-            "categories": "macbook,mac-pro",
-            "tags": "nuevo,macbook,macbook_pro,pro,pro_retina,retina,antes,unidad,mac,mac_pro,apple",
-            "recuweb_url": "http://es.recuweb.com/mac-pro/applesfera.com/2015/04/nvm-express-novedad-en-os-x-que-mejorar%C3%A1",
+            "categories": "macbook,imac",
+            "tags": "macbook,macbook_pro,macbook_pro_retina,pro,pro_retina,retina,mini,nuevo,nuevo_macbook,mac,ghz,imac",
+            "recuweb_url": "http://es.recuweb.com/imac/applesfera.com/2015/04/nuevo-macbook-el-rendimiento-de-su-cpu-comparado-con-otros-mac",
+            "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applesfera.com/portatil/nuevo-macbook-el-rendimiento-de-su-cpu-en-comparacion-con-otros-mac"
+        },
+        "javimontero.com/2015/04/instalacion-gpu-msi-r9-280x-en-macpro-2-1-things": {
+            "title": "Instalacion GPU MSI R9 280x en MacPro 2,1 - Things...",
+            "snippet": "Instalaci\u00f3n de la gr\u00e1fica m\u00e1s potente que admite el Apple MacPro del 2006 para poder editar video en 4K rodado con el Atomos Shogun, Sony A7s y ZenSlider.",
+            "date": "2015-04-17",
+            "author_name": "Javi",
+            "tags": "admite,apple,gpu",
+            "recuweb_url": "http://es.recuweb.com/javimontero.com/2015/04/instalacion-gpu-msi-r9-280x-en-macpro-2-1-things",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro%2Bmac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/os-x/nvm-express-novedad-en-os-x-10-10-3-que-mejorara-el-rendimiento-de-futuros-mac"
+            "source_url": "http://javimontero.com/blog/2015/04/instalacion-gpu-msi-r9-280x-en-macpro21/"
+        },
+        "fansdeapple.com/2015/04/macbook-pro-retina-15-mid-2014-fans-de-apple": {
+            "title": "macbook pro retina 15 mid 2014/////- Fans de Apple...",
+            "snippet": "Sobre el post del foro T\u00edtulo de la venta: MACBOOK PRO RETINA 15 MID 2014/////\u00bfRelacionado con Apple?: S\u00ed Sobre el producto Marca: APPLE Modelo: MACBOOK PRO RETINA 15\" MID 2014 Precio:...",
+            "date": "2015-04-17",
+            "author_name": "zorkken",
+            "categories": "macbook",
+            "tags": "apple,macbook,macbook_pro,macbook_pro_retina,pro,pro_retina,retina,mid",
+            "recuweb_url": "http://es.recuweb.com/macbook/fansdeapple.com/2015/04/macbook-pro-retina-15-mid-2014-fans-de-apple",
+            "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fansdeapple.com/showthread.php?p=624977"
         },
         "applesfera.com/2015/04/os-x-amplia-el-soporte-de-pantallas-4k-en-los-mac": {
             "title": "OS X amplia el soporte de pantallas 4K en los Mac...",
@@ -39,7 +60,7 @@
             "date": "2015-04-13",
             "author_name": "Pedro Santamar\u00eda",
             "categories": "macbook,imac",
-            "tags": "macbook,macbook_air,air,macbook_pro,pro,soporte,mac,retina,inch,early,late,imac,mini",
+            "tags": "macbook,macbook_air,air,macbook_pro,pro,soporte,mac,retina,inch,early,mid,late,imac,mini",
             "recuweb_url": "http://es.recuweb.com/imac/applesfera.com/2015/04/os-x-amplia-el-soporte-de-pantallas-4k-en-los-mac",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro%2Bmac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://applesfera.com/os-x/os-x-10-10-3-amplia-el-soporte-de-pantallas-4k-en-los-mac"
@@ -50,7 +71,7 @@
             "date": "2015-04-10",
             "author_name": "Carlos Burges Ruiz de Gopegui",
             "categories": "macbook",
-            "tags": "peque\u00f1a,macbook,macbook_pro,pro,soporte,apple,faq,mac",
+            "tags": "macbook,macbook_pro,pro,apple,soporte,faq,mac",
             "recuweb_url": "http://es.recuweb.com/macbook/faq-mac.com/2015/04/apple-retira-el-soporte-a-los-macbook-pro-de-2009-faq",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://faq-mac.com/2015/04/apple-retira-el-soporte-a-los-macbook-pro-de-2009/"
@@ -60,20 +81,10 @@
             "snippet": "wholesale mac pro refurb-3iYkntM4B9. Jueves, 09 abril 2015. get their control up from the mobile (unless it all improves an individual's success), and become an individual's body-mind to the office! But if the daily life is not really ensured...",
             "date": "2015-04-09",
             "author_name": "administrador",
-            "tags": "mac,pro,diario,abril",
+            "tags": "mac,pro",
             "recuweb_url": "http://es.recuweb.com/diario1588.com/2015/04/wholesale-mac-pro-refurb-3iykntm4b9-diario-1588",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro%2Bmac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diario1588.com/wholesale-mac-pro-refurb-3iykntm4b9/"
-        },
-        "diario1588.com/2015/04/apple-mac-pro-quad-core-4x28anjshs-diario-1588": {
-            "title": "apple mac pro quad core-4x28aNjshS Diario 1588...",
-            "snippet": "apple mac pro quad core-4x28aNjshS. Viernes, 03 abril 2015. Together with My organization is also feelings of loss your girlfriend deprivation, &quot, announced any serious, pulling in with this pocket sized a good seen handkerchief,...",
-            "date": "2015-04-04",
-            "author_name": "administrador",
-            "tags": "diario,core,apple,mac,pro,abril",
-            "recuweb_url": "http://es.recuweb.com/diario1588.com/2015/04/apple-mac-pro-quad-core-4x28anjshs-diario-1588",
-            "resource_url": "http://www.google.com/search?q=mac%2Bpro%2Bmac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diario1588.com/apple-mac-pro-quad-core-4x28anjshs/"
         },
         "faq-mac.com/2015/03/otro-uso-para-tu-viejo-mac-pro-caja-discos-duros-faq": {
             "title": "Otro uso para tu viejo Mac Pro: caja para discos duros - Faq-mac...",
@@ -81,7 +92,7 @@
             "date": "2015-03-26",
             "author_name": "Carlos Burges Ruiz de Gopegui",
             "categories": "mac-pro",
-            "tags": "puede,adem\u00e1s,unidad,mac,mac_pro,pro,uso,viejo,faq",
+            "tags": "puede,admite,adem\u00e1s,mac,mac_pro,pro,uso,faq",
             "recuweb_url": "http://es.recuweb.com/mac-pro/faq-mac.com/2015/03/otro-uso-para-tu-viejo-mac-pro-caja-discos-duros-faq",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro%2Bmac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://faq-mac.com/2015/03/otro-uso-para-tu-viejo-power-mac/"
@@ -92,32 +103,21 @@
             "date": "2015-03-17",
             "author_name": "desconocido",
             "categories": "macbook",
-            "tags": "which,macbook,macbook_pro,pro,early,late,retina",
+            "tags": "macbook,macbook_pro,pro,early,late,retina",
             "recuweb_url": "http://es.recuweb.com/macbook/barefeats.com/2015/03/early-2015-macbook-pro-13-versus-late-2013-15",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://barefeats.com/rmbp2015.html"
         },
         "applelizados.com/2015/03/nuevo-macbook-pro-13-pulgadas-retina-applelizados": {
             "title": "Nuevo MacBook Pro 13 pulgadas retina - Applelizados...",
-            "snippet": "Apple ha anunciado hoy su nuevo MacBook Pro con pantalla Retina de 13 pulgadas, que introduce el trackpad Force Touch, procesadores Core de Intel de quinta generaci\u00f3n y gr\u00e1ficos Iris Graphics 6100 de Intel,...",
+            "snippet": "El nuevo MacBook Pro de 13 pulgadas incorpora pantalla retina y trackpad con tecnolog\u00eda force touch sin botones.",
             "date": "2015-03-09",
             "author_name": "Jose Alfocea",
-            "categories": "macbook",
-            "tags": "gr\u00e1ficos,pantalla,macbook,macbook_pro,pro,nuevo,pulgadas,retina,apple,core",
+            "categories": "tecnologia,macbook",
+            "tags": "trackpad,force,touch,pantalla,macbook,macbook_pro,pro,nuevo,nuevo_macbook,retina",
             "recuweb_url": "http://es.recuweb.com/macbook/applelizados.com/2015/03/nuevo-macbook-pro-13-pulgadas-retina-applelizados",
             "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://applelizados.com/nuevo-macbook-pro-retina-13-90876"
-        },
-        "applesfera.com/2015/02/problemas-de-v%C3%ADdeo-en-tu-macbook-pro-puede-que-est%C3%A9s": {
-            "title": "\u00bfProblemas de v\u00eddeo en tu MacBook Pro? Puede que est\u00e9s de...",
-            "snippet": "Apple ha lanzado un programa de ampliaci\u00f3n de reparaciones del MacBook Pro para problemas de v\u00eddeo, tal y como recoge 9to5Mac. Cualquier MacBook Pro de 15 y 17 pulgadas fabricados en 2011 o los MacBook Pro con...",
-            "date": "2015-02-19",
-            "author_name": "Pedro Santamar\u00eda",
-            "categories": "macbook",
-            "tags": "pulgadas,tal,macbook,macbook_pro,pro,v\u00eddeo,puede,apple,mac",
-            "recuweb_url": "http://es.recuweb.com/macbook/applesfera.com/2015/02/problemas-de-v%C3%ADdeo-en-tu-macbook-pro-puede-que-est%C3%A9s",
-            "resource_url": "http://www.google.com/search?q=mac%2Bpro&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/apple-1/problemas-de-video-en-tu-macbook-pro-puede-que-estes-de-suerte-apple-lanza-un-programa-de-reparacion"
         }
     }
 }

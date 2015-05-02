@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/json/",
@@ -17,7 +17,7 @@
             "date": "2015-04-15",
             "author_name": "Paloma Verdejo Herreras",
             "categories": "javascript,json",
-            "tags": "tipo,javascript,json,objeto",
+            "tags": "objeto,javascript,json",
             "recuweb_url": "http://es.recuweb.com/json/mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundogeomatica.blogspot.com/2015/04/json-javascript-object-notation.html"
@@ -39,7 +39,7 @@
             "date": "2015-04-01",
             "author_name": "CybMeta",
             "categories": "json,php,javascript,jquery",
-            "tags": "biblioteca,trabajar,tiempo,ajax,json,php,javascript,hace,tutorial,jquery,utilizando",
+            "tags": "biblioteca,vamos,trabajar,tiempo,ajax,json,php,javascript,hace,tutorial,jquery,utilizando",
             "recuweb_url": "http://es.recuweb.com/jquery/cybmeta.com/2015/04/ajax-con-json-y-php-javascript-puro-cybmeta",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cybmeta.com/ajax-con-json-y-php-con-javascript-puro/"
@@ -77,13 +77,24 @@
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://genbetadev.com/desarrollo-web/edicion-de-archivos-json-online"
         },
+        "analoyo.wordpress.com/2015/01/json-qu%C3%A9-es-eso": {
+            "title": "JSON, \u00bfqu\u00e9 es eso?",
+            "snippet": "Hoy vamos a hablar de JSON o Notaci\u00f3n de Objetos de JavaScript para despu\u00e9s compararlo con XML y sepas decidir cu\u00e1l usar. JSON es un formato ligero de intercambio []...",
+            "date": "2015-01-28",
+            "author_name": "ana2lp",
+            "categories": "json,javascript,xml",
+            "tags": "intercambio,usar,vamos,json,objetos,javascript,xml,formato",
+            "recuweb_url": "http://es.recuweb.com/xml/analoyo.wordpress.com/2015/01/json-qu%C3%A9-es-eso",
+            "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
+            "source_url": "http://analoyo.wordpress.com/2015/01/28/json-que-es-eso/"
+        },
         "hermosaprogramacion.com/2015/01/parsear-datos-json-en-android-con-jsonreader-y-gson": {
             "title": "Parsear datos JSON en Android con JsonReader y Gson...",
             "snippet": "\u00bfQuieres saber c\u00f3mo leer datos JSON alojados en un servidor desde tu aplicaci\u00f3n Android? \u00bfTe gustar\u00eda aprender formas r\u00e1pidas y comprensibles para convertir objetos JSON en objetos Java? \u00bfAdem\u00e1s de todo quieres...",
             "date": "2015-01-24",
             "author_name": "James Revelo",
             "categories": "json,java",
-            "tags": "aprender,convertir,aplicaci\u00f3n,c\u00f3mo,leer,datos,json,android,gson,java",
+            "tags": "objetos,aprender,convertir,aplicaci\u00f3n,c\u00f3mo,leer,datos,json,android,gson,java",
             "recuweb_url": "http://es.recuweb.com/java/hermosaprogramacion.com/2015/01/parsear-datos-json-en-android-con-jsonreader-y-gson",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hermosaprogramacion.com/2015/01/android-json-parsing.html"
@@ -105,21 +116,10 @@
             "date": "2014-10-11",
             "author_name": "diegolopezdsdupc",
             "categories": "xml,json",
-            "tags": "paso,xml,json",
+            "tags": "xml,json",
             "recuweb_url": "http://es.recuweb.com/json/diegolopezdsdupc.wordpress.com/2014/10/popularidad-de-xml-y-json",
             "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
             "source_url": "http://diegolopezdsdupc.wordpress.com/2014/10/11/xml-and-json/"
-        },
-        "silvercorp.wordpress.com/2014/05/top-10-de-generadores-archivos-json": {
-            "title": "Top 10 de generadores de archivos json...",
-            "snippet": "Despu\u00e9s de una breve ausencia les traigo otro top 10, en este caso para generar o validar archivos json, en ocasiones debemos generar un \"dummy\" mientras el servicio...",
-            "date": "2014-05-06",
-            "author_name": "silvercorp",
-            "categories": "json",
-            "tags": "servicio,archivos,json",
-            "recuweb_url": "http://es.recuweb.com/json/silvercorp.wordpress.com/2014/05/top-10-de-generadores-archivos-json",
-            "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
-            "source_url": "http://silvercorp.wordpress.com/2014/05/06/top-10-de-generadores-de-archivos-json/"
         }
     }
 }

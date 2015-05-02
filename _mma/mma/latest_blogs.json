@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mma",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mma/",
@@ -11,13 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mma/mma/blogs.json"
     },
     "items": {
+        "mma.uno/2015/04/radio-mma-en-espa%C3%B1ol": {
+            "title": "Radio - (MMA) en Espa\u00f1ol.",
+            "snippet": "Videos Noticias. Radio. Apr 20, 2015. SHARE. Facebook0. Twitter0. E-mail0... Ca\u00edn Vel\u00e1squez reconoce que con tiempo M\u00e9xico ser\u00e1 potencia en MMA. Destacados. Invicta FC Resultados Invicta FC 12 Kankaanpaa vs. Souza.",
+            "date": "2015-04-20",
+            "author_name": "Editor MMA.UNO",
+            "categories": "radio,mma,facebook,twitter",
+            "tags": "ca\u00edn,ca\u00edn_vel\u00e1squez,vel\u00e1squez,noticias,mma,reconoce,tiempo,m\u00e9xico,ser\u00e1,potencia",
+            "recuweb_url": "http://es.recuweb.com/twitter/mma.uno/2015/04/radio-mma-en-espa%C3%B1ol",
+            "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mma.uno/mma-uno-radio/"
+        },
+        "elrocktagono.com/2015/04/con-una-dominante-carrera-en-las-mma-el-campe%C3%B3n-jon-jones": {
+            "title": "Con una dominante carrera en las MMA, el campe\u00f3n Jon Jones a\u00fan...",
+            "snippet": "Sin duda hoy atleta m\u00e1s dominante y rey libra por libra en el mundo de las MMA es Jon Jones, quien a su corta edad se convirti\u00f3 en el campe\u00f3n m\u00e1s joven en la historia del UFC. Su favorable alcance, excelentes...",
+            "date": "2015-04-18",
+            "author_name": "Felipe Casta\u00f1eda",
+            "categories": "mma",
+            "tags": "joven,duda,carrera,mma,campe\u00f3n,ufc",
+            "recuweb_url": "http://es.recuweb.com/mma/elrocktagono.com/2015/04/con-una-dominante-carrera-en-las-mma-el-campe%C3%B3n-jon-jones",
+            "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elrocktagono.com/mma/con-una-increible-carrera-en-las-mma-el-campeon-jon-jones-aun-es-cinta-blanca-en-bjj/"
+        },
         "elbamba.com/2015/04/mma-mucho-m%C3%A1s-que-preparaci%C3%B3n-f%C3%ADsica": {
             "title": "MMA: Mucho m\u00e1s que preparaci\u00f3n f\u00edsica El Las...",
             "snippet": "Desde hace cuatro a\u00f1os, nuestra ciudad cuenta con una nueva academia donde se imparte la disciplina. Siendo una delegaci\u00f3n de la escuela de Bariloche, en 2011 la academia Aldao Top Team abri\u00f3 sus puertas en...",
             "date": "2015-04-17",
             "author_name": "Semanario Bamba",
             "categories": "mma,escuela",
-            "tags": "top,team,ciudad,hace,mma,nueva,escuela",
+            "tags": "top,ciudad,hace,mma,siendo,escuela",
             "recuweb_url": "http://es.recuweb.com/escuela/elbamba.com/2015/04/mma-mucho-m%C3%A1s-que-preparaci%C3%B3n-f%C3%ADsica",
             "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elbamba.com/ediciones/mma-mucho-mas-que-preparacion-fisica/"
@@ -28,7 +50,7 @@
             "date": "2015-04-16",
             "author_name": "Victor Reveles",
             "categories": "mma",
-            "tags": "fighting,tuvo,combates,mma,bellator,bellator_mma,mma_sportcenter,sportcenter,peleador,ufc",
+            "tags": "fighting,tuvo,combates,mma,davis,bellator,acuerdo,peleas,peso,ufc",
             "recuweb_url": "http://es.recuweb.com/mma/mmasportcenter.net/2015/04/firma-phil-davis-con-bellator-mma-sportcenter",
             "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mmasportcenter.net/principal/firma-phil-davis-con-bellator-mma/"
@@ -39,7 +61,7 @@
             "date": "2015-04-13",
             "author_name": "Admin",
             "categories": "mma",
-            "tags": "evento,amateur,mayo,mma,artes,marciales,mixtas",
+            "tags": "amateur,mayo,evento,mma,sabado,artes,marciales,mixtas",
             "recuweb_url": "http://es.recuweb.com/mma/mma-latino.com/2015/04/evento-historico-de-mma-en-bolivia-k-amateur-4-con-12",
             "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mma-latino.com/evento-historico-de-mma-en-bolivia-k-mma-amateur-4-con-12-academias-5-departamentos-50-peleadores.htm"
@@ -50,32 +72,10 @@
             "date": "2015-04-13",
             "author_name": "miguelgeneyro@gmail.com",
             "categories": "artes-marciales-mixtas,mma",
-            "tags": "mayo,artes,artes_marciales,artes_marciales_mixtas,marciales,marciales_mixtas,mixtas,nacional,joven,amateur,mma",
+            "tags": "mayo,artes,artes_marciales,artes_marciales_mixtas,marciales,marciales_mixtas,mixtas,nacional,joven,amateur,parte,ser\u00e1,mma",
             "recuweb_url": "http://es.recuweb.com/mma/misionesonline.net/2015/04/un-misionero-ser%C3%A1-parte-del-selectivo-nacional-amateur-de-la-mma",
             "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://misionesonline.net/2015/04/13/un-misionero-sera-parte-del-selectivo-nacional-amateur-de-la-mma/"
-        },
-        "cadenadesuministro.es/2015/04/lu%C3%ADs-sim%C3%B5es-presenta-el-gigaliner-que-ofrece-una-mma": {
-            "title": "Lu\u00eds Sim\u00f5es presenta el 'Gigaliner', que ofrece una MMA de hasta...",
-            "snippet": "Lu\u00eds Sim\u00f5es ha presentado, en el marco del Supply Chain Meeting 2015, su soluci\u00f3n para el transporte multimodal terrestre-mar\u00edtimo, el 'Gigaliner'. Se trata de una combinaci\u00f3n de veh\u00edculos, compuesta por un cami\u00f3n r\u00edgido...",
-            "date": "2015-04-09",
-            "author_name": "CdS",
-            "categories": "mma",
-            "tags": "mma",
-            "recuweb_url": "http://es.recuweb.com/mma/cadenadesuministro.es/2015/04/lu%C3%ADs-sim%C3%B5es-presenta-el-gigaliner-que-ofrece-una-mma",
-            "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cadenadesuministro.es/noticias/luis-simoes-presenta-el-gigaliner-que-ofrece-una-mma-de-hasta-60-toneladas/"
-        },
-        "mma-latino.com/2015/04/david-cubas-quiso-ser-luchador-y-fue-en-un-tiempo-mr": {
-            "title": "David Cubas quiso ser luchador y fue en un tiempo Mr. X MMA...",
-            "snippet": "David Cubas (derecha) entrevistado por Jordan Huerta al final de un combate de MMA. En los a\u00f1os 80, el f\u00fatbol era el deporte de moda, el favorito, y muchos j\u00f3venes y ni\u00f1os se sent\u00edan identificados. Con Diego Armando...",
-            "date": "2015-04-07",
-            "author_name": "JPTolentino",
-            "categories": "futbol,deporte,moda,mma",
-            "tags": "david,david_cubas,cubas,luchador,mma,derecha",
-            "recuweb_url": "http://es.recuweb.com/mma/mma-latino.com/2015/04/david-cubas-quiso-ser-luchador-y-fue-en-un-tiempo-mr",
-            "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mma-latino.com/david-cubas-quiso-ser-luchador-y-fue-en-un-tiempo-mr-x.htm"
         },
         "mma-latino.com/2015/04/mma-latino-hablas-con-el-comentarista-de-bellator-manny": {
             "title": "MMA-Latino hablas con el comentarista de Bellator, Manny...",
@@ -83,32 +83,21 @@
             "date": "2015-04-06",
             "author_name": "Admin",
             "categories": "mma",
-            "tags": "tuvo,mma,latino,bellator,hace",
+            "tags": "tuvo,mma,bellator,hace",
             "recuweb_url": "http://es.recuweb.com/mma/mma-latino.com/2015/04/mma-latino-hablas-con-el-comentarista-de-bellator-manny",
-            "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=mma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mma-latino.com/mma-latino-hablas-con-el-comentarista-de-bellator-manny-rodriguez.htm"
         },
-        "junin24.com/2015/04/hoy-se-realiza-en-junin-la-primera-fecha-del-mma-argentina": {
-            "title": "Hoy se realiza en Junin la primera fecha del MMA Argentina - Jun\u00edn...",
-            "snippet": "Hoy s\u00e1bado 4 de abril, desde las 21 en el c\u00fapula de la Sociedad Rural se realizar\u00e1 la presentaci\u00f3n de la primer fecha del MMA Argentina en nuestra ciudad,...",
-            "date": "2015-04-04",
-            "author_name": "Redaccion",
-            "categories": "sociedad,mma",
-            "tags": "ciudad,mma,argentina,s\u00e1bado,abril",
-            "recuweb_url": "http://es.recuweb.com/mma/junin24.com/2015/04/hoy-se-realiza-en-junin-la-primera-fecha-del-mma-argentina",
-            "resource_url": "http://www.google.com/search?q=mma%2Bmma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://junin24.com/57665/hoy-se-realiza-en-junin-la-primera-fecha-del-mma-argentina.html"
-        },
-        "mma-latino.com/2015/04/mendes-pu%C3%B1os-de-oro-resultados-estelares-fairfax-mma-latino": {
-            "title": "Mendes Pu\u00f1os de Oro: Resultados Estelares Fairfax MMA-Latino...",
-            "snippet": "Por Eduardo Martell vikingomartell En una temprana tarde en el Patriot Center, en Fairfax, Virginia, el UFC Fight Night Mendes vs Lamas nos trajo una velada llena de acci\u00f3n en la que vivimos de todo, nocaut, decisiones...",
-            "date": "2015-04-04",
+        "mma-latino.com/2015/04/compartamiento-de-iaquinta": {
+            "title": "Compartamiento de Iaquinta despues de ser... -...",
+            "snippet": "Compartamiento de Iaquinta despues de ser abucheado continua siendo discutido en los medios. MMA: UFC Fight Night-Masvidal vs Iaquinta El pasado sabado en UFC Fight Night Fairfax Al Iaquinta empezo a responder de...",
+            "date": "2015-04-06",
             "author_name": "Admin",
             "categories": "mma",
-            "tags": "ufc,night,mma,latino",
-            "recuweb_url": "http://es.recuweb.com/mma/mma-latino.com/2015/04/mendes-pu%C3%B1os-de-oro-resultados-estelares-fairfax-mma-latino",
+            "tags": "sabado,ufc,siendo,mma",
+            "recuweb_url": "http://es.recuweb.com/mma/mma-latino.com/2015/04/compartamiento-de-iaquinta",
             "resource_url": "http://www.google.com/search?q=mma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mma-latino.com/mendes-punos-de-oro-resultados-estelares-fairfax.htm"
+            "source_url": "http://mma-latino.com/compartamiento-de-iaquinta-despues-de-ser-abucheado-continua-siendo-discutido-en-los-medios.htm"
         },
         "eldeportivolavilla.com/2015/04/el-s%C3%A1bado-villa-gesell-arde-en-su-jaula": {
             "title": "EL S\u00c1BADO...\u00a1VILLA GESELL ARDE EN SU JAULA!",
@@ -116,10 +105,21 @@
             "date": "2015-04-02",
             "author_name": "deportivolavilla",
             "categories": "mma",
-            "tags": "combates,evento,ciudad,s\u00e1bado,jaula,artes,marciales,mixtas,mma",
+            "tags": "combates,ciudad,s\u00e1bado,evento,artes,marciales,mixtas,mma",
             "recuweb_url": "http://es.recuweb.com/mma/eldeportivolavilla.com/2015/04/el-s%C3%A1bado-villa-gesell-arde-en-su-jaula",
             "resource_url": "http://es.search.wordpress.com/?q=mma%2Bmma&f=feed&page=1",
             "source_url": "http://eldeportivolavilla.com/2015/04/02/el-sabado-villa-gesell-arde-en-su-jaula/"
+        },
+        "mma-latino.com/2015/04/dan-severn-quiere-una-ultima-pelea-en-las-mma-ante-fabrizio": {
+            "title": "Dan Severn quiere una ultima pelea en las MMA ante Fabrizio...",
+            "snippet": "Dan Severn quiere una ultima pelea en las MMA ante Fabrizio Werdum. Dan-Severn. Fabricio Werdum es el hombre a batir en la divisi\u00f3n de peso pesado de la UFC en este momento. Estaba programado para tratar de...",
+            "date": "2015-04-01",
+            "author_name": "JPTolentino",
+            "categories": "mma",
+            "tags": "momento,pelea,mma,peso,pesado,ufc",
+            "recuweb_url": "http://es.recuweb.com/mma/mma-latino.com/2015/04/dan-severn-quiere-una-ultima-pelea-en-las-mma-ante-fabrizio",
+            "resource_url": "http://www.google.com/search?q=mma&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mma-latino.com/dan-severn-quiere-una-ultima-pelea-en-las-mma-ante-fabrizio-werdum.htm"
         }
     }
 }

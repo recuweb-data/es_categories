@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "linkedin",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/linkedin/",
@@ -11,98 +11,95 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
     },
     "items": {
+        "trabajo.excite.es/2015/04/linkedin-adquiere-un-sistema-de-detecci%C3%B3n-curr%C3%ADculos-maquillados": {
+            "title": "LinkedIn adquiere un sistema de detecci\u00f3n de curr\u00edculos maquillados...",
+            "snippet": "La popular red social de contactos profesionales LinkedIn intentar\u00e1 luchar contra los curr\u00edculos falseados. Se da por supuesto que la mayor\u00eda de los curr\u00edculos est\u00e1n adornados e inflados con experiencias que en realidad no han existido y...",
+            "date": "2015-04-27",
+            "tags": "experiencias,realidad,intentar\u00e1,contactos,sistema,edin,red,social,profesionales",
+            "recuweb_url": "http://es.recuweb.com/trabajo.excite.es/2015/04/linkedin-adquiere-un-sistema-de-detecci%C3%B3n-curr%C3%ADculos-maquillados",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://trabajo.excite.es/linkedin-adquiere-un-sistema-de-deteccion-de-curriculos-maquillados-N48696.html"
+        },
+        "es.finance.yahoo.com/2015/04/linkedin-detectar%C3%A1-mentiras-en-el-curr%C3%ADculum-de-los-usuarios": {
+            "title": "LinkedIn detectar\u00e1 mentiras en el curr\u00edculum de los usuarios...",
+            "snippet": "LinkedIn est\u00e1 trabajando en detectar posibles exageraciones o mentiras en los curr\u00edculums de sus usuarios. Del mismo modo que los curr\u00edculums tradicionales, hay personas que retocan ligeramente su perfil para encajar en un determinado puesto.",
+            "date": "2015-04-27",
+            "tags": "puesto,personas,curr\u00edculums,curr\u00edculum,trabajando,mentiras,usuarios,edin,perfil",
+            "recuweb_url": "http://es.recuweb.com/es.finance.yahoo.com/2015/04/linkedin-detectar%C3%A1-mentiras-en-el-curr%C3%ADculum-de-los-usuarios",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://es.finance.yahoo.com/video/linkedin-detectar\u00e1-mentiras-en-el-082437934.html"
+        },
+        "elcomercio.pe/2015/04/linkedin-c%C3%B3mo-conseguir-el-trabajo-de-ensue%C3%B1o": {
+            "title": "LinkedIn: \u00bfc\u00f3mo conseguir el trabajo de ensue\u00f1o?",
+            "snippet": "Los reclutadores y personal de recursos humanos lo primero que hacen es buscar activamente en LinkedIn candidatos y es necesario que los perfiles est\u00e9n optimizados. La especialista en ventas internas, Sara Grillo, explica que mejorar una cuenta...",
+            "date": "2015-04-27",
+            "tags": "explica,mejorar,recursos,recursos-humanos,humanos,buscar,c\u00f3mo,trabajo,edin",
+            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-c%C3%B3mo-conseguir-el-trabajo-de-ensue%C3%B1o",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-como-conseguir-trabajo-ensueno-noticia-1807100"
+        },
+        "es.paperblog.com/2015/04/qu%C3%A9-debes-hacer-cuando-alguien-visita-tu-perfil-en-linkedin": {
+            "title": "Qu\u00e9 debes hacer cuando alguien visita tu perfil en linkedin...",
+            "snippet": "No voy a descubrir ahora que la gran red social para el desarrollo profesional es LinkedIn. Es el gran escaparate donde nos relacionamos con otros colegas o empresas. Pero como en otras redes el \u00e9xito o rendimiento que podamos extraer est\u00e1...",
+            "date": "2015-04-27",
+            "tags": "redes,red,empresas,desarrollo,hacer,perfil,edin,social,profesional",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/qu%C3%A9-debes-hacer-cuando-alguien-visita-tu-perfil-en-linkedin",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/que-debes-hacer-cuando-alguien-visita-tu-perfil-en-linkedin-3180517/"
+        },
+        "gestion.pe/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan": {
+            "title": "LinkedIn, a la caza de los usuarios que mientan en su curr\u00edculum - Diario Gesti\u00f3n...",
+            "snippet": "Diario Gesti\u00f3nLinkedIn, a la caza de los usuarios que mientan en su curr\u00edculumDiario Gesti\u00f3nSi bien estas mentiras pod\u00edan pasar inadvertidas para los atribulados departamentos de recursos humanos, la red social para profesionales LinkedIn ha...",
+            "date": "2015-04-26",
+            "tags": "mentiras,recursos,recursos-humanos,humanos,caza,usuarios,usuarios-que-mientan,mientan,curr\u00edculum,edin,red,social,profesionales",
+            "recuweb_url": "http://es.recuweb.com/gestion.pe/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
+            "source_url": "http://gestion.pe/empresas/linkedin-caza-usuarios-que-mientan-su-curriculum-2130056"
+        },
+        "cadenaser.com/2015/04/linkedin-comprobar%C3%A1-si-sus-usuarios-mienten-en-el-curr%C3%ADculum": {
+            "title": "LinkedIn comprobar\u00e1 si sus usuarios mienten en el curr\u00edculum...",
+            "snippet": "T\u00edtulos no obtenidos, idiomas desconocidos o grandes experiencias laborales no adquiridas tienen, en ocasiones un papel protagonista en el curr\u00edculum vitae. Sin embargo, la red social para profesionales LinkedIn ha desarrollado un nuevo sistema...",
+            "date": "2015-04-25",
+            "tags": "nuevo,sistema,curr\u00edculum,grandes,experiencias,laborales,usuarios,edin,t\u00edtulos,red,social,profesionales",
+            "recuweb_url": "http://es.recuweb.com/cadenaser.com/2015/04/linkedin-comprobar%C3%A1-si-sus-usuarios-mienten-en-el-curr%C3%ADculum",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://cadenaser.com/ser/2015/04/25/ciencia/1429957804_416827.html"
+        },
+        "lanacion.cl/2015/04/fundador-de-linkedin-revisar-tu-perfil-cada-ma%C3%B1ana-la-naci%C3%B3n-chile": {
+            "title": "Fundador de LinkedIn: Revisar tu perfil de LinkedIn cada ma\u00f1ana... - La Naci\u00f3n (Chile)...",
+            "snippet": "La Naci\u00f3n (Chile)Fundador de LinkedIn: Revisar tu perfil de LinkedIn cada ma\u00f1ana...La Naci\u00f3n (Chile)Con un curioso ejercicio acerca de los 3 grados de separaci\u00f3n en la empresa, Konstantin Guericke, uno de los fundadores de la red social...",
+            "date": "2015-04-24",
+            "tags": "empresa,edin,perfil,red,social",
+            "recuweb_url": "http://es.recuweb.com/lanacion.cl/2015/04/fundador-de-linkedin-revisar-tu-perfil-cada-ma%C3%B1ana-la-naci%C3%B3n-chile",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
+            "source_url": "http://lanacion.cl/noticias/tecnologia/internet/fundador-de-linkedin-revisar-tu-perfil-de-linkedin-cada-manana-deberia-ser-un-habito-como-tomar-cafe/2015-04-24/160621.html"
+        },
+        "elcomercio.pe/2015/04/linkedin-podr%C3%ADa-determinar-si-un-usuario-miente-en-su-cv": {
+            "title": "LinkedIn podr\u00eda determinar si un usuario miente en su CV - El Comercio...",
+            "snippet": "El ComercioLinkedIn podr\u00eda determinar si un usuario miente en su CVEl ComercioDe acuerdo al portal Business Insider, LinkedIn estar\u00eda trabajando en una patente que ayudar\u00eda a aligerar las revisiones de las empresas en estos casos. En un futuro no...",
+            "date": "2015-04-24",
+            "tags": "trabajando,empresas,business,edin",
+            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-podr%C3%ADa-determinar-si-un-usuario-miente-en-su-cv",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-podria-determinar-si-usuario-miente-su-cv-noticia-1806546"
+        },
         "genbeta.com/2015/04/linkedin-ser%C3%A1-capaz-de-adivinar-si-has-mentido-en-tu-curr%C3%ADculum": {
             "title": "LinkedIn ser\u00e1 capaz de adivinar si has mentido en tu curr\u00edculum...",
             "snippet": "A d\u00eda de hoy, LinkedIn sigue siendo una p\u00e1gina clave para buscar trabajo o trabajadores que encajen con un puesto. Es donde puedes colocar todo tu historial laboral, tu curr\u00edculum, tus logros acad\u00e9micos... y es donde casi todo el mundo ha...",
             "date": "2015-04-24",
-            "tags": "mundo,puedes,buscar,buscar-trabajo,trabajo,edin",
+            "tags": "mundo,curr\u00edculum,buscar,buscar-trabajo,trabajo,puesto,edin",
             "recuweb_url": "http://es.recuweb.com/genbeta.com/2015/04/linkedin-ser%C3%A1-capaz-de-adivinar-si-has-mentido-en-tu-curr%C3%ADculum",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
             "source_url": "http://genbeta.com/redes-sociales-y-comunidades/linkedin-sera-capaz-de-adivinar-si-has-mentido-en-tu-curriculum"
         },
-        "forbes.com/2015/04/seven-ways-to-make-linkedin-help-you-find-a-job-forbes": {
-            "title": "Seven Ways to Make LinkedIn Help You Find A Job - Forbes...",
-            "snippet": "ForbesSeven Ways to Make LinkedIn Help You Find A JobForbesCareer experts agree that LinkedIn is an essential job search tool. Not only can you instantly get the word out to hundreds, if not thousands, of colleagues, bosses and potential employers...",
+        "expansion.com/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan": {
+            "title": "LinkedIn, a la caza de los usuarios que mientan en su curr\u00edculum...",
+            "snippet": "La red social no quiere que se presuma de lo que, en realidad, se carece e intentar\u00e1 desinflar los curr\u00edculums demasiado abultados. Presumir de t\u00edtulos que no tenemos, 'engordar'nuestra experiencia o alardear de grandes gestas laborales es una...",
             "date": "2015-04-24",
-            "tags": "edin",
-            "recuweb_url": "http://es.recuweb.com/forbes.com/2015/04/seven-ways-to-make-linkedin-help-you-find-a-job-forbes",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/susanadams/2015/04/23/seven-ways-to-make-linkedin-help-you-find-a-job/"
-        },
-        "elcomercio.pe/2015/04/linkedin-por-qu%C3%A9-los-grupos-son-%C3%BAtiles-en-esta-red-social": {
-            "title": "LinkedIn: \u00bfpor qu\u00e9 los grupos son \u00fatiles en esta red social?",
-            "snippet": "La funci\u00f3n de Grupos de LinkedIn permite conectarse con otros usuarios en funci\u00f3n a sus intereses comunes. Existen aproximadamente dos millones de ellos en la red social y la cifra aumenta cada hora. La mayor\u00eda de los miembros de LinkedIn se han...",
-            "date": "2015-04-23",
-            "tags": "millones,usuarios,son,edin,red,social",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-por-qu%C3%A9-los-grupos-son-%C3%BAtiles-en-esta-red-social",
+            "tags": "grandes,laborales,t\u00edtulos,intentar\u00e1,curr\u00edculums,curr\u00edculum,realidad,caza,usuarios,usuarios-que-mientan,mientan,edin,red,social",
+            "recuweb_url": "http://es.recuweb.com/expansion.com/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-que-grupos-son-utiles-esta-red-social-noticia-1806274"
-        },
-        "mundohispanico.com/2015/04/conquista-linkedin-mundo-hispanico": {
-            "title": "Conquista LinkedIn - Mundo Hispanico...",
-            "snippet": "Mundo HispanicoConquista LinkedInMundo HispanicoConquista LinkedIn. Agencia Reforma 4/22/2015, 9:47 a.m.. Conquista LinkedIn. \u00c9chale un ojo a estos b\u00e1sicos para administrar tu cuenta de LinkedIn como un verdadero profesional. Impresiona. Puedes...",
-            "date": "2015-04-22",
-            "tags": "mundo,edin,profesional,puedes",
-            "recuweb_url": "http://es.recuweb.com/mundohispanico.com/2015/04/conquista-linkedin-mundo-hispanico",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
-            "source_url": "http://mundohispanico.com/news/2015/apr/22/conquista-linkedin/"
-        },
-        "eleconomista.es/2015/04/latest-version-of-sailpoint-identityiq-advances-iam-on-mobile-devices": {
-            "title": "Latest Version of SailPoint IdentityIQ Advances IAM on Mobile Devices...",
-            "snippet": "For more information about SailPoint, please visit. Subscribe to the SailPoint Blog: Follow SailPoint on Twitter: Follow SailPoint on LinkedIn:...",
-            "date": "2015-04-22",
-            "categories": "twitter",
-            "tags": "edin",
-            "recuweb_url": "http://es.recuweb.com/twitter/eleconomista.es/2015/04/latest-version-of-sailpoint-identityiq-advances-iam-on-mobile-devices",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin%2Blinkedin&format=RSS&cc=es",
-            "source_url": "http://eleconomista.es/empresas-finanzas/noticias/6650360/04/15/Latest-Version-of-SailPoint-IdentityIQ-Advances-IAM-on-Mobile-Devices.html"
-        },
-        "eleconomista.es/2015/04/lanzan-una-plataforma-que-potencia-la-viralidad-y-el-seo": {
-            "title": "Lanzan una plataforma que potencia la viralidad y el SEO de contenidos...",
-            "snippet": "La reciente actualizaci\u00f3n del algoritmo de Google as\u00ed como las nuevas tendencias del 2015 en SEO c\u00f3mo la nueva herramienta de Linkedin (Linkedin Elevate) para compartir contenidos son un buen bar\u00f3metro para ver que la tendencia a generar...",
-            "date": "2015-04-21",
-            "categories": "google",
-            "tags": "compartir,contenidos,son,herramienta,reciente,c\u00f3mo,edin,elevate",
-            "recuweb_url": "http://es.recuweb.com/google/eleconomista.es/2015/04/lanzan-una-plataforma-que-potencia-la-viralidad-y-el-seo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin%2Blinkedin&format=RSS&cc=es",
-            "source_url": "http://eleconomista.es/blogs/emprendedores/?p=10021"
-        },
-        "elcomercio.pe/2015/04/linkedin-quiere-mejorar-la-experiencia-del-usuario-en-yahoo": {
-            "title": "LinkedIn quiere mejorar la experiencia del usuario en Yahoo...",
-            "snippet": "\u00bfNo ser\u00eda genial conocer un poco m\u00e1s sobre las personas a las que se les env\u00eda un correo electr\u00f3nico diariamente y as\u00ed la comunicaci\u00f3n pueda ser m\u00e1s productiva? LinkedIn lo sabe. A partir de ahora, los usuarios que sincronicen sus cuentas...",
-            "date": "2015-04-21",
-            "categories": "yahoo",
-            "tags": "usuarios,partir,personas,mejorar,edin",
-            "recuweb_url": "http://es.recuweb.com/yahoo/elcomercio.pe/2015/04/linkedin-quiere-mejorar-la-experiencia-del-usuario-en-yahoo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-quiere-mejorar-experiencia-usuario-yahoo-noticia-1805698"
-        },
-        "mba.americaeconomia.com/2015/04/fundadores-de-pixar-linkedin-y-shazam-se-dar%C3%A1n-cita": {
-            "title": "Fundadores de Pixar, LinkedIn y Shazam se dar\u00e1n cita en el... - Am\u00e9ricaEconom\u00ed...",
-            "snippet": "ADN Chile (Comunicado de prensa) (Registro)Fundadores de Pixar, LinkedIn y Shazam se dar\u00e1n cita en el...Am\u00e9ricaEconom\u00ed 24 y 25 de abril se desarrollar\u00e1 en Santiago de Chile una nueva versi\u00f3n del MeetLatam Santiago 2015, donde se presentar\u00e1n...",
-            "date": "2015-04-20",
-            "tags": "nueva,edin",
-            "recuweb_url": "http://es.recuweb.com/mba.americaeconomia.com/2015/04/fundadores-de-pixar-linkedin-y-shazam-se-dar%C3%A1n-cita",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
-            "source_url": "http://mba.americaeconomia.com/articulos/notas/fundadores-de-pixar-linkedin-y-shazam-se-daran-cita-en-el-meetlatam-2015"
-        },
-        "elcomercio.pe/2015/04/linkedin-nintendo-est%C3%A1-trabajando-en-una-nueva-consola-el-comercio": {
-            "title": "LinkedIn: \u00bfNintendo est\u00e1 trabajando en una nueva consola? - El Comercio...",
-            "snippet": "El ComercioLinkedIn: \u00bfNintendo est\u00e1 trabajando en una nueva consola?El ComercioAunque lo que puso Lu Yang en su perfil de LinkedIn, va m\u00e1s acorde con el trabajo desarrollado con anterioridad, el hecho que califique este proyecto como no anunciado...",
-            "date": "2015-04-20",
-            "tags": "trabajo,nueva,edin,perfil",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-nintendo-est%C3%A1-trabajando-en-una-nueva-consola-el-comercio",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-nintendo-esta-trabajando-nueva-consola-noticia-1805451"
-        },
-        "equiposytalento.com/2015/04/linkedin-presenta-elevate-su-novedad-m%C3%A1s-reciente-para-compartir-contenido-corporativo": {
-            "title": "LinkedIn presenta Elevate, su novedad m\u00e1s reciente para compartir contenido corporativo...",
-            "snippet": "15/04/2015 LinkedIn, la red profesional m\u00e1s grande del mundo, con m\u00e1s de 347 millones de usuarios a nivel global y m\u00e1s de 6 millones en Espa\u00f1a, present\u00f3 esta semana su nuevo producto Elevate, una herramienta que ayuda a los empleados a...",
-            "date": "2015-04-17",
-            "tags": "herramienta,nuevo,millones,usuarios,mundo,reciente,compartir,edin,elevate,red,profesional",
-            "recuweb_url": "http://es.recuweb.com/equiposytalento.com/2015/04/linkedin-presenta-elevate-su-novedad-m%C3%A1s-reciente-para-compartir-contenido-corporativo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://equiposytalento.com/noticias/2015/04/15/linkedin-presenta-elevate-su-novedad-mas-reciente-para-compartir-contenido-corporativo"
+            "source_url": "http://expansion.com/empresas/tecnologia/2015/04/24/553a599a22601db07e8b4572.html"
         }
     }
 }

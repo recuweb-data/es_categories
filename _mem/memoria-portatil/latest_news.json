@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "memoria-portatil",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/memoria-portatil/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-portatil/memoria-portatil/blogs.json"
     },
     "items": {
-        "noticias-tecnologia.com.ar/2015/03/ipocket-cloud-la-unidad-de-memoria-port%C3%A1til-e-inal%C3%A1mbrica-para-noticias": {
-            "title": "iPocket Cloud, la unidad de memoria port\u00e1til e inal\u00e1mbrica para... - Noticias Tecnologia...",
-            "snippet": "Noticias TecnologiaiPocket Cloud, la unidad de memoria port\u00e1til e inal\u00e1mbrica para...Noticias TecnologiaUniflash, una joven compa\u00f1\u00eda tecnol\u00f3gica basada en Nueva York, desarroll\u00f3 y se prepara para lanzar al mercado a iPocket Cloud, una unidad...",
-            "date": "2015-03-25",
-            "categories": "tecnologia,memoria",
-            "tags": "memoria,port\u00e1til",
-            "recuweb_url": "http://es.recuweb.com/memoria/noticias-tecnologia.com.ar/2015/03/ipocket-cloud-la-unidad-de-memoria-port%C3%A1til-e-inal%C3%A1mbrica-para-noticias",
+        "hablasmart.movistar.com.pe/2015/04/pronto-tendremos-ssd-de-10tb-habla-smart-noticias-sobre-tecnol%C3%B3gia": {
+            "title": "\u00a1Pronto tendremos SSD de 10TB! - Habla Smart Noticias sobre Tecnol\u00f3gia...",
+            "snippet": "Habla Smart Noticias sobre Tecnol\u00f3gia\u00a1Pronto tendremos SSD de 10TB!Habla Smart Noticias sobre Tecnol\u00f3giaBueno, al usar memorias NAND los discos duros, memorias port\u00e1tiles, entre otros sistemas de almacenamiento, \u00e9stos podr\u00edan reducir su...",
+            "date": "2015-04-27",
+            "categories": "memoria,tecnologia",
+            "tags": "memorias",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/hablasmart.movistar.com.pe/2015/04/pronto-tendremos-ssd-de-10tb-habla-smart-noticias-sobre-tecnol%C3%B3gia",
             "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bportatil%2Bmemoria%2Bportatil&output=atom&nord=1",
-            "source_url": "http://noticias-tecnologia.com.ar/moviles/ipocket-cloud-la-unidad-de-memoria-portatil-e-inalambrica-para-smartphones-y-tabletas/"
+            "source_url": "http://hablasmart.movistar.com.pe/2015/04/27/pronto-tendremos-ssd-de-10tb/"
+        },
+        "las2orillas.co/2015/04/pa%C3%ADs-port%C3%A1til-las2orillas": {
+            "title": "Pa\u00eds port\u00e1til - Las2orillas...",
+            "snippet": "Las2orillasPa\u00eds port\u00e1tilLas2orillasSomos un lugar sin memoria donde ya nada sorprende. El \u00fanico derecho que se ejerce es el de olvidar. Vano intento por crear historias y recuerdos en bancos de memoria hechos con astillas de madera pulverizada...",
+            "date": "2015-04-24",
+            "categories": "memoria",
+            "tags": "crear,port\u00e1til,memoria",
+            "recuweb_url": "http://es.recuweb.com/memoria/las2orillas.co/2015/04/pa%C3%ADs-port%C3%A1til-las2orillas",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bportatil%2Bmemoria%2Bportatil&output=atom&nord=1",
+            "source_url": "http://las2orillas.co/pais-portatil/"
         }
     }
 }

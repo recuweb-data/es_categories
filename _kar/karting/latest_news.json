@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "karting",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/karting/",
@@ -11,34 +11,44 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/karting/karting/blogs.json"
     },
     "items": {
-        "sitioandino.com/2015/04/se-suspendi%C3%B3-el-inicio-del-karting-en-alvear-sitio-andino": {
-            "title": "Se suspendi\u00f3 el inicio del Karting en Alvear - Sitio Andino...",
-            "snippet": "Se suspendi\u00f3 el inicio del Karting en AlvearSitio AndinoDespu\u00e9s de haber puesto la fecha del 26 de abril como inicio del Campeonato Sure\u00f1o de Tierra, la Asociaci\u00f3n Amigos del Karting comunic\u00f3 que fue suspendida la apertura de temporada y ya es...",
+        "diaadia.com.ar/2015/04/karting-con-m%C3%A1s-de-medio-centenar-pilotos-se-corri%C3%B3-la-d%C3%ADa": {
+            "title": "Karting: Con m\u00e1s de medio centenar de pilotos, se corri\u00f3 la... - D\u00eda a d\u00eda...",
+            "snippet": "D\u00eda a d\u00edaKarting: Con m\u00e1s de medio centenar de pilotos, se corri\u00f3 la...D\u00eda a d\u00edaEn el circuito H\u00e9ctor Luis Pir\u00edn Gradassi de Colonia Caroya y con una concurrencia que super\u00f3 el medio centenar de participantes, se corri\u00f3 el domingo la...",
+            "date": "2015-04-27",
+            "categories": "karting",
+            "tags": "domingo,h\u00e9ctor,circuito,pilotos,karting",
+            "recuweb_url": "http://es.recuweb.com/karting/diaadia.com.ar/2015/04/karting-con-m%C3%A1s-de-medio-centenar-pilotos-se-corri%C3%B3-la-d%C3%ADa",
+            "resource_url": "http://news.google.es/?hl=es&q=karting&output=atom&nord=1",
+            "source_url": "http://diaadia.com.ar/deportes/karting-con-mas-de-medio-centenar-de-pilotos-se-corrio-la-segunda-del-cordobes-de-asfalto"
+        },
+        "marca.com/2015/04/vettel-bendice-al-hijo-de-schumacher-lo-hace-todo-muy-bien": {
+            "title": "Vettel bendice al hijo de Schumacher: Lo hace todo muy bien...",
+            "snippet": "Estoy encantado de ayudar a los j\u00f3venes pilotos, algunos de los cuales conozco, a\u00f1adi\u00f3 Vettel en referencia a Mick Schumacher, subcampe\u00f3n mundial de karting, y al hijo de Adrian Newey, Harrison. El tetracampe\u00f3n alem\u00e1n, que lament\u00f3 no poder...",
+            "date": "2015-04-27",
+            "categories": "karting",
+            "tags": "pilotos,hace,karting",
+            "recuweb_url": "http://es.recuweb.com/karting/marca.com/2015/04/vettel-bendice-al-hijo-de-schumacher-lo-hace-todo-muy-bien",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/04/27/motor/formula1/1430131495.html"
+        },
+        "sitioandino.com/2015/04/se-suspendi%C3%B3-el-inicio-del-karting-en-alvear": {
+            "title": "Se suspendi\u00f3 el inicio del Karting en Alvear...",
+            "snippet": "Definitivamente el 2015 parece no ser el a\u00f1o para la actividad fierrera en General Alvear. Despu\u00e9s de haber puesto la fecha del 26 de abril como inicio del Campeonato Sure\u00f1o de Tierra, la Asociaci\u00f3n Amigos del Karting comunic\u00f3 que fue...",
             "date": "2015-04-23",
             "categories": "karting",
-            "tags": "campeonato,fecha,karting",
-            "recuweb_url": "http://es.recuweb.com/karting/sitioandino.com/2015/04/se-suspendi%C3%B3-el-inicio-del-karting-en-alvear-sitio-andino",
-            "resource_url": "http://news.google.es/?hl=es&q=karting%2Bkarting&output=atom&nord=1",
-            "source_url": "http://sitioandino.com/nota/154977-se-suspendio-el-inicio-del-karting-en-alvear/"
-        },
-        "m.informe21.com/2015/04/comenzaron-la-construcci%C3%B3n-de-pista-karting-en-margarita": {
-            "title": "Comenzaron la construcci\u00f3n de la pista de Karting en Margarita...",
-            "snippet": "Desde hace 20 d\u00edas comenzaron los trabajos de construcci\u00f3n de la pista de Karting que se construir\u00e1 en Margarita, estado Nueva Esparta. Desde hace 20 d\u00edas comenzaron los trabajos de construcci\u00f3n de la pista de Karting que se construir\u00e1 en...",
-            "date": "2015-04-22",
-            "categories": "karting",
-            "tags": "nueva,nueva_esparta,esparta,construir\u00e1,d\u00edas,d\u00edas-comenzaron,comenzaron,comenzaron-los-trabajos,trabajos,trabajos-de-construcci\u00f3n,construcci\u00f3n,pista,karting,margarita,hace,estado",
-            "recuweb_url": "http://es.recuweb.com/karting/m.informe21.com/2015/04/comenzaron-la-construcci%C3%B3n-de-pista-karting-en-margarita",
+            "tags": "campeonato,fecha,actividad,general,karting",
+            "recuweb_url": "http://es.recuweb.com/karting/sitioandino.com/2015/04/se-suspendi%C3%B3-el-inicio-del-karting-en-alvear",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
-            "source_url": "http://m.informe21.com/actualidad/comenzaron-la-construccion-de-la-pista-de-karting-en-margarita"
+            "source_url": "http://sitioandino.com/nota/154977/"
         },
         "informe21.com/2015/04/comenzaron-la-construcci%C3%B3n-de-pista-karting-en-margarita": {
             "title": "Comenzaron la construcci\u00f3n de la pista de Karting en Margarita -...",
             "snippet": "MeridianoComenzaron la construcci\u00f3n de la pista de Karting en hace 20 d\u00edas comenzaron los trabajos de construcci\u00f3n de la pista de Karting que se construir\u00e1 en Margarita, estado Nueva Esparta. Desde hace 20 d\u00edas comenzaron los trabajos de...",
             "date": "2015-04-22",
             "categories": "karting",
-            "tags": "d\u00edas,d\u00edas-comenzaron,comenzaron,comenzaron-los-trabajos,trabajos,nueva,nueva_esparta,esparta,construir\u00e1,trabajos-de-construcci\u00f3n,construcci\u00f3n,pista,hace,karting,margarita,estado",
+            "tags": "nueva,nueva_esparta,esparta,construcci\u00f3n,pista,hace,karting,margarita,estado",
             "recuweb_url": "http://es.recuweb.com/karting/informe21.com/2015/04/comenzaron-la-construcci%C3%B3n-de-pista-karting-en-margarita",
-            "resource_url": "http://news.google.es/?hl=es&q=karting%2Bkarting&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=karting&output=atom&nord=1",
             "source_url": "http://informe21.com/actualidad/comenzaron-la-construccion-de-la-pista-de-karting-en-margarita"
         },
         "menorca.info/2015/04/el-karting-costa-nova-terreno-motero-este-fin-de-semana": {
@@ -46,7 +56,7 @@
             "snippet": "Los aficionados al motor de la Isla tienen una cita obligada este fin de semana. Las instalaciones del Karting Costa Nova, en la carretera general en el t\u00e9rmino municipal de Ciutadella acogen este s\u00e1bado y domingo la segunda prueba del campeonato...",
             "date": "2015-04-22",
             "categories": "karting",
-            "tags": "s\u00e1bado,segunda,campeonato,fin,fin-de-semana,semana,karting,costa",
+            "tags": "domingo,segunda,campeonato,general,fin,fin-de-semana,semana,karting,costa,isla",
             "recuweb_url": "http://es.recuweb.com/karting/menorca.info/2015/04/el-karting-costa-nova-terreno-motero-este-fin-de-semana",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
             "source_url": "http://menorca.info/deportes/polideportivo/2015/492589/karting-costa-nova-terreno-motero-este-fin-semana.html"
@@ -66,50 +76,40 @@
             "snippet": "Joaqu\u00edn Keil volvi\u00f3 a lucirse en el kart\u00f3dromo, esta vez en el circuito santafecino del Automovil Club de Santa Fe, y subi\u00f3 al podio al quedarse con el tercer lugar de la segunda fecha del Campeonato Rotax Grand National. El piloto correntino...",
             "date": "2015-04-22",
             "categories": "karting",
-            "tags": "piloto,campeonato,rotax,rotax_grand,rotax_grand_national,grand,grand_national,national,podio,segunda,segunda-fecha,fecha,circuito,karting,santa",
+            "tags": "piloto,campeonato,rotax,rotax_grand,rotax_grand_national,grand,grand_national,national,segunda,segunda-fecha,fecha,club,circuito,kart\u00f3dromo,karting,santa",
             "recuweb_url": "http://es.recuweb.com/karting/corrienteshoy.com/2015/04/karting-joaqu%C3%ADn-keil-volvi%C3%B3-a-subir-al-podio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
             "source_url": "http://corrienteshoy.com/vernota.asp?id_noticia=179862"
         },
-        "corsaonline.com.ar/2015/04/arranc%C3%B3-el-karting-corsa-online": {
-            "title": "Arranc\u00f3 el karting - CORSA Online...",
-            "snippet": "CORSA OnlineArranc\u00f3 el kartingCORSA OnlineEl Campeonato Argentino de Karting disput\u00f3 su primera fecha en Z\u00e1rate (Buenos Aires) con victorias de Juan Manuel L\u00f3pez (Promocional), Samuel Romano (Pre Junior), Guido Moggia (Sudam Junior) y Franco...",
+        "corsaonline.com.ar/2015/04/arranc%C3%B3-el-karting": {
+            "title": "Arranc\u00f3 el karting...",
+            "snippet": "El Campeonato Argentino de Karting disput\u00f3 su primera fecha en Z\u00e1rate (Buenos Aires) con victorias de Juan Manuel L\u00f3pez (Promocional), Samuel Romano (Pre Junior), Guido Moggia (Sudam Junior) y Franco Crivelli (ICC Sudam). La actividad en pista...",
             "date": "2015-04-21",
             "categories": "karting",
-            "tags": "samuel,juan,disput\u00f3,primera,fecha,campeonato,karting",
-            "recuweb_url": "http://es.recuweb.com/karting/corsaonline.com.ar/2015/04/arranc%C3%B3-el-karting-corsa-online",
-            "resource_url": "http://news.google.es/?hl=es&q=karting&output=atom&nord=1",
+            "tags": "actividad,pista,juan,disput\u00f3,primera,fecha,campeonato,karting",
+            "recuweb_url": "http://es.recuweb.com/karting/corsaonline.com.ar/2015/04/arranc%C3%B3-el-karting",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
             "source_url": "http://corsaonline.com.ar/2015/04/21/N-16688-arranco-el-karting.php"
+        },
+        "ultimasnoticias.com.ve/2015/04/comenz%C3%B3-construcci%C3%B3n-de-una-pista-karting-en-margarita": {
+            "title": "Comenz\u00f3 construcci\u00f3n de una pista de karting en Margarita...",
+            "snippet": "\u00daN.- Con una inversi\u00f3n de diez millones de bol\u00edvares, inici\u00f3 la construcci\u00f3n de la pista de karting en la ciudad de Nueva Esparta, teniendo por objetivo incentivar esta disciplina en la isla. Carlos Mata Figueroa, gobernador del estado, afirm\u00f3...",
+            "date": "2015-04-21",
+            "categories": "karting",
+            "tags": "estado,isla,nueva,nueva_esparta,esparta,construcci\u00f3n,pista,karting,margarita",
+            "recuweb_url": "http://es.recuweb.com/karting/ultimasnoticias.com.ve/2015/04/comenz%C3%B3-construcci%C3%B3n-de-una-pista-karting-en-margarita",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
+            "source_url": "http://ultimasnoticias.com.ve/noticias/actualidad/regiones/comenzo-construccion-de-una-pista-de-karting-en-ma.aspx"
         },
         "primeraedicionweb.com.ar/2015/04/karting-triunfo-misionero-en-santa-fe-primera-edicion": {
             "title": "Karting: triunfo misionero en Santa Fe - Primera Edicion...",
             "snippet": "Primera EdicionKarting: triunfo misionero en Santa FePrimera EdicionEl posade\u00f1o Rodrigo Errecaborde logr\u00f3 la victoria en la categor\u00eda Master Max en la segunda fecha del Rotax Grand National. El \u00faltimo fin de semana se disput\u00f3 la segunda fecha...",
             "date": "2015-04-21",
             "categories": "karting",
-            "tags": "fin,fin-de-semana,semana,disput\u00f3,segunda,segunda-fecha,fecha,rotax,rotax_grand,rotax_grand_national,grand,grand_national,national,master,categor\u00eda,santa,primera,karting",
+            "tags": "fin,fin-de-semana,semana,disput\u00f3,segunda,segunda-fecha,fecha,rotax,rotax_grand,rotax_grand_national,grand,grand_national,national,santa,primera,karting,\u00fal",
             "recuweb_url": "http://es.recuweb.com/karting/primeraedicionweb.com.ar/2015/04/karting-triunfo-misionero-en-santa-fe-primera-edicion",
             "resource_url": "http://news.google.es/?hl=es&q=karting&output=atom&nord=1",
             "source_url": "http://primeraedicionweb.com.ar/nota/digital/89703/karting-triunfo-misionero-en-santa-fe.html"
-        },
-        "20minutos.es/2015/04/marta-garc%C3%ADa-me-gustan-mucho-alonso-porque-cree-en-s%C3%AD": {
-            "title": "Marta Garc\u00eda: Me gustan mucho Alonso, porque cree en s\u00ed mismo, y Hamilton, por su agresividad...",
-            "snippet": "Es la actual subcampeona de Espa\u00f1a de la categor\u00eda KF3 y acaba de lograr un podio en la WSK Super Master Series, una de las citas m\u00e1s importantes del karting internacional. Actualmente joven promesa con 14 a\u00f1os no pod\u00eda ser de otra forma,...",
-            "date": "2015-04-21",
-            "categories": "karting",
-            "tags": "master,podio,categor\u00eda,karting",
-            "recuweb_url": "http://es.recuweb.com/karting/20minutos.es/2015/04/marta-garc%C3%ADa-me-gustan-mucho-alonso-porque-cree-en-s%C3%AD",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
-            "source_url": "http://20minutos.es/deportes/noticia/marta-garcia-piloto-karting-alonso-y-hamilton-idolos-2435051/0/"
-        },
-        "abc.com.py/2015/04/gran-nivel-del-karting-en-formosa-argentina": {
-            "title": "Gran nivel del Karting en Formosa, Argentina...",
-            "snippet": "Una gran experiencia vivieron entre el viernes y el s\u00e1bado los pilotos que compiten en el Campeonato Nacional de Karting y que el fin de semana tuvieron la posibilidad de participar en la segunda fecha del certamen, que tuvo como escenario al...",
-            "date": "2015-04-20",
-            "categories": "karting",
-            "tags": "fin,fin-de-semana,semana,segunda,segunda-fecha,fecha,campeonato,s\u00e1bado,nivel,karting",
-            "recuweb_url": "http://es.recuweb.com/karting/abc.com.py/2015/04/gran-nivel-del-karting-en-formosa-argentina",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=karting&format=RSS&cc=es",
-            "source_url": "http://abc.com.py/deportes/automovilismo/gran-nivel-del-karting-en-formosa-1358350.html"
         }
     }
 }

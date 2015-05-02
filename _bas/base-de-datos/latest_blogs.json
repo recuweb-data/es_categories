@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "base-de-datos",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/base-de-datos/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/base-de-datos/base-de-datos/blogs.json"
     },
     "items": {
+        "arturogoga.com/2015/04/marvelous-db-la-base-de-datos-definitiva-del-universo-marvel": {
+            "title": "Marvelous DB: La base de datos definitiva del Universo Marvel...",
+            "snippet": "Toda esta presentaci\u00f3n est\u00e1 amarrada a la base de datos principal en, as\u00ed que en cualquier momento, podemos llegar a m\u00e1s detalles del c\u00f3mic, ver parte del c\u00f3mic, o encontrar la fecha de lanzamiento.",
+            "date": "2015-04-16",
+            "author_name": "Arturo Goga",
+            "tags": "parte,podemos,cualquier,base,datos",
+            "recuweb_url": "http://es.recuweb.com/arturogoga.com/2015/04/marvelous-db-la-base-de-datos-definitiva-del-universo-marvel",
+            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arturogoga.com/2015/04/16/marvelous-db-la-base-de-datos-definitiva-del-universo-marvel-to/"
+        },
         "cnnexpansion.com/2015/04/wikileaks-crea-base-de-datos-correos-robados-a-sony": {
             "title": "WikiLeaks crea base de datos de correos robados a Sony...",
             "snippet": "NUEVA YORK (CNNMoney) Wikileaks public\u00f3 este jueves una base de datos de 30,287 archivos que permite hacer b\u00fasquedas de todos los correos y documentos que un grupo de hackers sustrajo de las cuentas de...",
             "date": "2015-04-16",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "tags": "permite,documentos,nueva,crea,base,datos",
+            "tags": "hacer,documentos,nueva,crea,base,datos",
             "recuweb_url": "http://es.recuweb.com/cnnexpansion.com/2015/04/wikileaks-crea-base-de-datos-correos-robados-a-sony",
             "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/negocios/2015/04/16/wikileaks-crea-base-de-datos-de-mails-hackeados-de-sony"
@@ -28,18 +38,8 @@
             "author_name": "Jos\u00e9 Luis Pe\u00f1arredonda",
             "tags": "bases,datos",
             "recuweb_url": "http://es.recuweb.com/enter.co/2015/04/sirven-las-bases-de-datos-positivas-contra-el-robo-celulares",
-            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://enter.co/cultura-digital/colombia-digital/sirven-las-bases-de-datos-positivas/"
-        },
-        "barcelonajug.org/2015/04/barcelona-jug-una-base-de-datos-como-mongodb": {
-            "title": "Barcelona JUG: \u00bfUna base de datos como MongoDB pero con la...",
-            "snippet": "\u00bfTe imaginas una base de datos como MongoDB pero con la fiabilidad y robustez de PostgreSQL? \u00bfHarto de que en tu empresa o clientes teman usar NoSQL y digan \"s\u00f3lo relacional\"? \u00bfTe imaginas si se pudiera construir...",
-            "date": "2015-04-15",
-            "author_name": "Jonathan Vila L\u00f3pez",
-            "tags": "s\u00f3lo,clientes,base,datos,nosql",
-            "recuweb_url": "http://es.recuweb.com/barcelonajug.org/2015/04/barcelona-jug-una-base-de-datos-como-mongodb",
-            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://barcelonajug.org/2015/04/torodb.html"
         },
         "scientergrupo.wordpress.com/2015/04/el-blog-de-scienter-espa%C3%B1a-base-datos": {
             "title": "el Blog de Scienter Espa\u00f1a BASE DE DATOS DE...",
@@ -47,31 +47,10 @@
             "date": "2015-04-13",
             "author_name": "M. Bego\u00f1a Arenas",
             "categories": "base-de-datos",
-            "tags": "base,base_de_datos,datos,puede",
+            "tags": "parte,servicio,proyectos,espa\u00f1a,base,base_de_datos,datos,puede",
             "recuweb_url": "http://es.recuweb.com/base-de-datos/scientergrupo.wordpress.com/2015/04/el-blog-de-scienter-espa%C3%B1a-base-datos",
             "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://scientergrupo.wordpress.com/2015/04/13/base-de-datos-de-organizaciones-acreditadas-en-el-servicio-voluntario-europeo/"
-        },
-        "duilio.me/2015/04/m%C3%BAltiples-bases-de-datos-con-laravel-5-y-eloquent": {
-            "title": "M\u00faltiples bases de datos con Laravel 5 y Eloquent...",
-            "snippet": "En este tutorial te explicamos c\u00f3mo puedes implementar m\u00faltiples bases de datos usando migraciones y modelos del ORM Eloquent en tu proyecto con Laravel.",
-            "date": "2015-04-10",
-            "author_name": "Jeffer Ochoa",
-            "tags": "tutorial,bases,datos,c\u00f3mo",
-            "recuweb_url": "http://es.recuweb.com/duilio.me/2015/04/m%C3%BAltiples-bases-de-datos-con-laravel-5-y-eloquent",
-            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://duilio.me/multiples-bases-de-datos-con-laravel-5-y-eloquent/"
-        },
-        "es.rbth.com/2015/04/se-crea-una-base-de-datos-para-encontrar-las-%C3%B3rdenes-concedidas": {
-            "title": "Se crea una base de datos para encontrar las \u00f3rdenes concedidas...",
-            "snippet": "Ha sido posible gracias a una base de datos online llamada Las Estrellas de la Victoria, publicada en ruso en la p\u00e1gina web de Rossiyskaya Gazeta y cuenta con el apoyo del Ministerio de Defensa. Durante los casi cuatro...",
-            "date": "2015-04-10",
-            "author_name": "\u00cdgor Rozin",
-            "categories": "estrella",
-            "tags": "cuenta,sido,posible,gracias,crea,base,datos,web,ministerio",
-            "recuweb_url": "http://es.recuweb.com/estrella/es.rbth.com/2015/04/se-crea-una-base-de-datos-para-encontrar-las-%C3%B3rdenes-concedidas",
-            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://es.rbth.com/cultura/2015/04/10/se_crea_una_base_de_datos_para_encontrar_las_ordenes_concedidas_a_los_48883.html"
         },
         "ecobloggg.blogspot.com/2015/04/aipg-grado-superior-pr%C3%A1cticas-consultas": {
             "title": "AIPG GRADO SUPERIOR: PR\u00c1CTICAS CONSULTAS...",
@@ -89,7 +68,7 @@
             "date": "2015-04-08",
             "author_name": "Sim\u00f3n Gonz\u00e1lez L\u00f3pez",
             "categories": "escuela,economia",
-            "tags": "base,datos,crear",
+            "tags": "hace,iniciativa,base,datos,crear",
             "recuweb_url": "http://es.recuweb.com/economia/elucabista.com/2015/04/preparan-base-de-datos-egresados-econom%C3%ADa",
             "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elucabista.com/2015/04/08/preparan-base-de-datos-de-egresados-de-economia/"
@@ -99,20 +78,42 @@
             "snippet": "\u00bfC\u00f3mo a\u00f1adir un archivo infectado o malware a la base de datos de ClamAV? Les paso al receta de cocina a continuaci\u00f3n. 1) Crea el archivo a utilizar en la base de datos de ClamAV. Puede llevar cualquier nombre.",
             "date": "2015-04-08",
             "author_name": "Joel Barrios Due\u00f1as",
-            "tags": "c\u00f3mo,base,datos,paso,crea,puede",
+            "tags": "cualquier,c\u00f3mo,base,datos,paso,crea,puede",
             "recuweb_url": "http://es.recuweb.com/alcancelibre.org/2015/04/c%C3%B3mo-a%C3%B1adir-un-archivo-infectado-o-malware-a-la-base",
             "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://alcancelibre.org/article.php/como-clamav-sigtool-custom"
         },
-        "tectimes.net/2015/04/sql-server-c%C3%B3mo-eliminar-todas-las-bases-de-datos-tectimes": {
-            "title": "SQL Server C\u00f3mo Eliminar todas las Bases de Datos... - TecTimes...",
-            "snippet": "En algunas ocasiones necesitamos borrar TODAS las bases de datos de una instancia de SQL Server, ya sea porque estamos en un laboratorio o porque necesitamos cambiar la Collation de la Instancia y no podemos...",
-            "date": "2015-04-03",
-            "author_name": "Pablo Ariel Di Loreto",
-            "tags": "porque,sql,borrar,c\u00f3mo,bases,datos",
-            "recuweb_url": "http://es.recuweb.com/tectimes.net/2015/04/sql-server-c%C3%B3mo-eliminar-todas-las-bases-de-datos-tectimes",
-            "resource_url": "http://www.google.com/search?q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tectimes.net/how-to-sql-server-como-eliminar-todas-las-bases-de-datos-de-una-instancia/"
+        "publimail.asx.mx/2015/03/base-de-datos": {
+            "title": "Base de datos...",
+            "snippet": "Hola Asx, hay nuevos proyectos para ti Puedes mantenerte informado de la publicaci\u00f3n de todos los proyectos minuto a minuto en nuestro Twitter proyectosnubelo. \u00a1Ser\u00e1s el primero en enviar tu propuesta! Desarrollo Web y M\u00f3vil Base de datos Base...",
+            "date": "2015-03-16",
+            "author_name": "Alfonso S\u00e1nchez Gonz\u00e1lez",
+            "categories": "desarrollo-web,twitter",
+            "tags": "web,proyectos,base,datos,hay",
+            "recuweb_url": "http://es.recuweb.com/twitter/publimail.asx.mx/2015/03/base-de-datos",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&rss=1&lng=es",
+            "source_url": "http://publimail.asx.mx/2015/03/base-de-datos.html"
+        },
+        "blogdigitaran.blogspot.com/2015/03/bases-de-datos": {
+            "title": "BASES DE DATOS...",
+            "snippet": "En esta clase se realizo el priumer ejercicio sobre identificar las partes de una base de datos BASE DE DATOS...",
+            "date": "2015-03-10",
+            "author_name": "Aranhzazu Mg",
+            "categories": "base-de-datos",
+            "tags": "base,base_de_datos,datos,bases",
+            "recuweb_url": "http://es.recuweb.com/base-de-datos/blogdigitaran.blogspot.com/2015/03/bases-de-datos",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&rss=1&lng=es",
+            "source_url": "http://blogdigitaran.blogspot.com/2015/03/bases-de-datos.html"
+        },
+        "cll56.blogspot.com/2015/02/las-bases-de-datos": {
+            "title": "Las bases de datos...",
+            "snippet": "Base de datos Base de datos relacionales En una base de datos relacional, los datos se organizan en tablas. Una tabla tiene cero o m\u00e1s filas, cada fila contiene la informaci\u00f3n de un determinado 'sujeto'de la tabla, por ejemplo en una tabla de...",
+            "date": "2015-02-26",
+            "author_name": "(julian villalba)",
+            "tags": "ejemplo,tiene,bases,datos,base,relacionales,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/cll56.blogspot.com/2015/02/las-bases-de-datos",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=base%2Bde%2Bdatos%2Bbase%2Bde%2Bdatos&rss=1&lng=es",
+            "source_url": "http://cll56.blogspot.com/2015/02/las-bases-de-datos.html"
         }
     }
 }

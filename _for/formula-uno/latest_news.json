@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "formula-uno",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/formula-uno/",
@@ -11,21 +11,58 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/formula-uno/formula-uno/blogs.json"
     },
     "items": {
-        "rumbotx.com/2015/04/el-hijo-de-schumacher-logra-su-primera-victoria-en-f%C3%B3rmula-4": {
-            "title": "El hijo de Schumacher logra su primera victoria en F\u00f3rmula 4...",
-            "snippet": "El alem\u00e1n Mick Schumacher, hijo del siete veces campe\u00f3n mundial de F\u00f3rmula Uno Michael Schumacher, logr\u00f3 este domingo en el circuito germano de Oschersleben su primera victoria en el campeonato ADAC de F\u00f3rmula 4. Schumacher, de 16 a\u00f1os y...",
-            "date": "2015-04-26",
-            "tags": "primera,victoria,michael,hijo,siete,siete-veces-campe\u00f3n,campe\u00f3n,mundial,mick,schumacher,f\u00f3rmula,oschersleben",
-            "recuweb_url": "http://es.recuweb.com/rumbotx.com/2015/04/el-hijo-de-schumacher-logra-su-primera-victoria-en-f%C3%B3rmula-4",
+        "vavel.com/2015/04/an%C3%A1lisis-t%C3%A9cnico-f1-vavel-ii-mclaren-honda-mp4-30": {
+            "title": "An\u00e1lisis T\u00e9cnico F1 VAVEL (II): McLaren-Honda MP4-30 -...",
+            "snippet": "An\u00e1lisis T\u00e9cnico F1 VAVEL (II): McLaren-Honda vez ha trascurrido la primera fase del campeonato mundial de F\u00f3rmula 1, realiza un an\u00e1lisis t\u00e9cnico previo al Gran Premio de Espa\u00f1a, en el que se descompone el McLaren-Honda y se desentra\u00f1a punto...",
+            "date": "2015-04-27",
+            "tags": "gran,gran_premio,premio,primera,campeonato,mundial,f\u00f3rmula,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/an%C3%A1lisis-t%C3%A9cnico-f1-vavel-ii-mclaren-honda-mp4-30",
+            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno%2Bformula%2Buno&output=atom&nord=1",
+            "source_url": "http://vavel.com/es/formula1/480549-analisis-tecnico-f1-vavel-ii-mclaren-honda-mp4-30.html"
+        },
+        "es.eurosport.yahoo.com/2015/04/f%C3%B3rmula-1-la-hiriente-opini%C3%B3n-de-villeneuve-sobre-decisi%C3%B3n-yahoo-eurosport": {
+            "title": "F\u00f3rmula 1 - La hiriente opini\u00f3n de Villeneuve sobre la decisi\u00f3n de... - Yahoo Eurosport ES...",
+            "snippet": "Yahoo Eurosport ESF\u00f3rmula 1 - La hiriente opini\u00f3n de Villeneuve sobre la decisi\u00f3n de...Yahoo Eurosport ESEl expiloto, que fuera campe\u00f3n del mundo de F\u00f3rmula 1 en 1997, a\u00f1adi\u00f3 que cualquiera que sepa un poco de esto, y Fernando sabe bastante\",...",
+            "date": "2015-04-27",
+            "categories": "yahoo",
+            "tags": "poco,campe\u00f3n,mundo,yahoo,yahoo_eurosport,eurosport,f\u00f3rmula,fernando",
+            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/04/f%C3%B3rmula-1-la-hiriente-opini%C3%B3n-de-villeneuve-sobre-decisi%C3%B3n-yahoo-eurosport",
+            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno%2Bformula%2Buno&output=atom&nord=1",
+            "source_url": "http://es.eurosport.yahoo.com/noticias/f\u00f3rmula-1-hiriente-opini\u00f3n-de-villeneuve-decisi\u00f3n-de-180104428--f1.html"
+        },
+        "f1aldia.com/2015/04/merhi-comienza-su-temporada-en-la-f%C3%B3rmula-renault-3-5": {
+            "title": "Merhi comienza su temporada en la F\u00f3rmula Renault 3.5 y afirma que su futuro en la F1 es incierto...",
+            "snippet": "Roberto Merhi ha confirmado que su futuro en la F\u00f3rmula Uno m\u00e1s all\u00e1 del Gran Premio de Espa\u00f1a es algo incierto. El novato espa\u00f1ol tan solo est\u00e1 compitiendo en el equipo Manor Marussia por un tiempo y puede ser sustituido en cualquier momento...",
+            "date": "2015-04-27",
+            "tags": "puede,manor,espa\u00f1ol,tan,equipo,gran,gran_premio,premio,f\u00f3rmula,renault,temporada,merhi,roberto,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/f1aldia.com/2015/04/merhi-comienza-su-temporada-en-la-f%C3%B3rmula-renault-3-5",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formula%2Buno&format=RSS&cc=es",
-            "source_url": "http://rumbotx.com/el-hijo-de-schumacher-logra-su-primera-victoria-en-formula-4"
+            "source_url": "http://f1aldia.com/26352/merhi-comienza-temporada-formula-renault-35-afirma-futuro-f1-es-incierto/"
+        },
+        "f1latam.com/2015/04/se-presenta-en-barcelona-y-madrid-el-gran-premio-de-espa%C3%B1a": {
+            "title": "Se presenta en Barcelona y Madrid el Gran Premio de Espa\u00f1a de... -...",
+            "snippet": "presenta en Barcelona y Madrid el Gran Premio de Espa\u00f1a de... mediod\u00eda en la Pedrera de Barcelona, se ha celebrado el acto de presentaci\u00f3n oficial del Gran Premio de Espa\u00f1a de F\u00f3rmula 1 - 2015, quinta prueba del Campeonato del Mundo de Formula...",
+            "date": "2015-04-27",
+            "tags": "prueba,gran,gran_premio,premio,espa\u00f1a,f\u00f3rmula,formula,campeonato,mundo",
+            "recuweb_url": "http://es.recuweb.com/f1latam.com/2015/04/se-presenta-en-barcelona-y-madrid-el-gran-premio-de-espa%C3%B1a",
+            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno%2Bformula%2Buno&output=atom&nord=1",
+            "source_url": "http://f1latam.com/noticias.php?idn=13750"
+        },
+        "diarioinformacion.com/2015/04/el-tsj-tumba-nueve-recursos-de-camps": {
+            "title": "El TSJ tumba nueve recursos de Camps en un mes y medio por la querella de la F\u00f3rmula Uno...",
+            "snippet": "Se defiende a s\u00ed mismo en la causa. El expresidente de la Generalitat Valenciana Francisco Camps ha recurrido a todas las herramientas judiciales a su alcance y ha presentado nueve escritos en el Tribunal Superior de Justicia (TSJ) de la...",
+            "date": "2015-04-26",
+            "tags": "f\u00f3rmula",
+            "recuweb_url": "http://es.recuweb.com/diarioinformacion.com/2015/04/el-tsj-tumba-nueve-recursos-de-camps",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formula%2Buno&format=RSS&cc=es",
+            "source_url": "http://diarioinformacion.com/politica/2015/04/27/tsj-tumba-nueve-recursos-camps/1625520.html"
         },
         "marca.com/2015/04/victoria-de-rowland-en-motorland-y-retirada-merhi": {
             "title": "Victoria de Rowland en MotorLand y retirada de Merhi...",
             "snippet": "El brit\u00e1nico Olivier Rowland (Fortec Motorsports) se ha impuesto en la primera prueba de la Formula Renault 3.5 Series, disputada en Motorland Arag\u00f3n, en la que el espa\u00f1ol Roberto Merhi, piloto del equipo Manor de F\u00f3rmula Uno, se ha retirado.",
             "date": "2015-04-26",
             "categories": "impuesto",
-            "tags": "piloto,espa\u00f1ol,roberto,f\u00f3rmula,primera,victoria,merhi",
+            "tags": "piloto,equipo,espa\u00f1ol,roberto,f\u00f3rmula,renault,primera,prueba,merhi,manor",
             "recuweb_url": "http://es.recuweb.com/impuesto/marca.com/2015/04/victoria-de-rowland-en-motorland-y-retirada-merhi",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formula%2Buno&format=RSS&cc=es",
             "source_url": "http://marca.com/2015/04/25/motor/mas_motor/1429979445.html"
@@ -34,26 +71,17 @@
             "title": "Debuta Mick Schumacher en la F\u00f3rmula 4...",
             "snippet": "OSCHERSLEBEN, ALEMANIA.- Mick Schumacher, el hijo adolescente del siete veces campe\u00f3n de la F\u00f3rmula Uno, Michael Schumacher, tuvo un buen debut este s\u00e1bado en la F\u00f3rmula 4. Despu\u00e9s de largar en el lugar 19 defendiendo los colores de la...",
             "date": "2015-04-25",
-            "tags": "michael,schumacher,hijo,siete,siete-veces-campe\u00f3n,campe\u00f3n,mick,f\u00f3rmula,oschersleben",
+            "tags": "siete,campe\u00f3n,f\u00f3rmula",
             "recuweb_url": "http://es.recuweb.com/digitallpost.mx/2015/04/debuta-mick-schumacher-en-la-f%C3%B3rmula-4",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formula%2Buno&format=RSS&cc=es",
             "source_url": "http://digitallpost.mx/noticias-detalle.php?contenido_id=82919&seccion_id=21"
-        },
-        "elesquiu.com/2015/04/se-corre-la-f%C3%B3rmula-uno-power-boat-diario-el-esquiu": {
-            "title": "Se corre la F\u00f3rmula Uno, Power Boat - Diario El Esquiu...",
-            "snippet": "Se corre la F\u00f3rmula Uno, Power BoatDiario El EsquiuEn conferencia de prensa, ayer se present\u00f3 oficialmente la segunda fecha de la F\u00f3rmula 1 Power Boat, que entre hoy y ma\u00f1ana se desarrollar\u00e1 en el dique La Pirquitas, en el departamento Fray...",
-            "date": "2015-04-25",
-            "tags": "segunda,f\u00f3rmula",
-            "recuweb_url": "http://es.recuweb.com/elesquiu.com/2015/04/se-corre-la-f%C3%B3rmula-uno-power-boat-diario-el-esquiu",
-            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno&output=atom&nord=1",
-            "source_url": "http://elesquiu.com/noticias/2015/04/25/207424-se-corre-la-formula-uno-power-boat"
         },
         "peru.com/2015/04/f%C3%B3rmula-uno-lewis-hamilton-ampli%C3%B3-v%C3%ADnculo-con-mercedes": {
             "title": "F\u00f3rmula Uno: Lewis Hamilton ampli\u00f3 v\u00ednculo con Mercedes...",
             "snippet": "El contrato de Hamilton expira a finales de la temporada 2016, con la renovaci\u00f3n hasta el 2018, tendr\u00eda opci\u00f3n de continuar hasta 2020. Las cifras sit\u00faan su salario anual en 35 millones de euros, aunque se rumoreo que puede llegar a los 50...",
             "date": "2015-04-23",
             "categories": "salario",
-            "tags": "aunque,finales,temporada,lewis,lewis_hamilton,hamilton,f\u00f3rmula,mercedes",
+            "tags": "aunque,puede,finales,temporada,f\u00f3rmula",
             "recuweb_url": "http://es.recuweb.com/salario/peru.com/2015/04/f%C3%B3rmula-uno-lewis-hamilton-ampli%C3%B3-v%C3%ADnculo-con-mercedes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formula%2Buno&format=RSS&cc=es",
             "source_url": "http://peru.com/deportes/automovilismo/formula-uno-lewis-hamilton-amplio-vinculo-mercedes-noticia-349583"
@@ -62,49 +90,20 @@
             "title": "Merhi: La diferencia de coches en la F\u00f3rmula Uno es bestial...",
             "snippet": "El piloto espa\u00f1ol de F\u00f3rmula uno Roberto Merhi ha declarado hoy que la diferencia que hay de coches en la parrilla de la m\u00e1xima categor\u00eda es bestial. Me parece un poco injusto que compitan coches tan diferentes, ha indicado a Efe el piloto...",
             "date": "2015-04-23",
-            "tags": "piloto,coches,declarado,declarado-hoy,diferencia,diferencia-que-hay,hay,hay-de-coches,parrilla,m\u00e1xima,m\u00e1xima-categor\u00eda,categor\u00eda,bestial,roberto,piloto-espa\u00f1ol,espa\u00f1ol,diferencia-de-coches,merhi,f\u00f3rmula,efe",
+            "tags": "piloto,poco,coches,tan,declarado,declarado-hoy,diferencia,diferencia-que-hay,hay,hay-de-coches,parrilla,bestial,roberto,piloto-espa\u00f1ol,espa\u00f1ol,diferencia-de-coches,merhi,f\u00f3rmula,efe",
             "recuweb_url": "http://es.recuweb.com/estadiodeportivo.com/2015/04/merhi-la-diferencia-de-coches-en-f%C3%B3rmula-uno-es-bestial",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formula%2Buno&format=RSS&cc=es",
             "source_url": "http://estadiodeportivo.com/motor/2015/04/22/merhi-diferencia-coches-formula-bestial/40701.html"
         },
-        "es.eurosport.yahoo.com/2015/04/merhi-la-diferencia-de-coches-en-f%C3%B3rmula-1-es-bestial-yahoo": {
-            "title": "Merhi: La diferencia de coches en la F\u00f3rmula 1 es bestial - Yahoo Eurosport ES...",
-            "snippet": "Merhi: \"La diferencia de coches en la F\u00f3rmula 1 es bestial\"Yahoo Eurosport ESZaragoza, 22 abr (EFE).- El piloto espa\u00f1ol de F\u00f3rmula uno Roberto Merhi ha declarado hoy que la diferencia que hay de coches en la parrilla de la m\u00e1xima categor\u00eda es...",
+        "es.eurosport.yahoo.com/2015/04/merhi-asegura-que-la-diferencia-de-coches-en-f%C3%B3rmula-1": {
+            "title": "Merhi asegura que la diferencia de coches en la F\u00f3rmula 1 es bestial - Yahoo Eurosport ES...",
+            "snippet": "Yahoo Eurosport ESMerhi asegura que \"la diferencia de coches en la F\u00f3rmula 1 es bestial\"Yahoo Eurosport ESZaragoza, 22 abr (EFE).- El piloto espa\u00f1ol de F\u00f3rmula uno Roberto Merhi ha declarado hoy que la diferencia que hay de coches en la parrilla...",
             "date": "2015-04-22",
             "categories": "yahoo",
-            "tags": "declarado,declarado-hoy,diferencia,diferencia-que-hay,hay,hay-de-coches,coches,parrilla,m\u00e1xima,m\u00e1xima-categor\u00eda,categor\u00eda,roberto,piloto,piloto-espa\u00f1ol,espa\u00f1ol,bestial,yahoo,yahoo_eurosport,eurosport,diferencia-de-coches,merhi,f\u00f3rmula,efe",
-            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/04/merhi-la-diferencia-de-coches-en-f%C3%B3rmula-1-es-bestial-yahoo",
+            "tags": "declarado,declarado-hoy,diferencia,diferencia-que-hay,hay,hay-de-coches,coches,parrilla,roberto,piloto,piloto-espa\u00f1ol,espa\u00f1ol,bestial,yahoo,yahoo_eurosport,eurosport,diferencia-de-coches,merhi,f\u00f3rmula,efe",
+            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/04/merhi-asegura-que-la-diferencia-de-coches-en-f%C3%B3rmula-1",
             "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno%2Bformula%2Buno&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/noticias/merhi-la-diferencia-coches-en-la-f\u00f3rmula-1-140100441--spt.html"
-        },
-        "es.eurosport.yahoo.com/2015/04/f%C3%B3rmula-1-alonso-asegura-estar-cerca-de-puntuar-yahoo-eurosport": {
-            "title": "F\u00f3rmula 1 - Alonso asegura estar cerca de puntuar - Yahoo Eurosport ES...",
-            "snippet": "Yahoo Eurosport ESF\u00f3rmula 1 - Alonso asegura estar cerca de puntuarYahoo Eurosport ESF\u00f3rmula 1 - Alonso asegura estar cerca de puntuar. El piloto espa\u00f1ol asegur\u00f3 despu\u00e9s del Gran Premio de Bahrein, en el que fue und\u00e9cimo, que hay que \"confiar\"...",
-            "date": "2015-04-19",
-            "categories": "yahoo",
-            "tags": "hay,gran,gran_premio,premio,piloto,piloto-espa\u00f1ol,espa\u00f1ol,eurosport,eurosport_esf\u00f3rmula,esf\u00f3rmula,yahoo,yahoo_eurosport,yahoo_eurosport_esf\u00f3rmula,f\u00f3rmula,alonso,bahrein",
-            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/04/f%C3%B3rmula-1-alonso-asegura-estar-cerca-de-puntuar-yahoo-eurosport",
-            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno%2Bformula%2Buno&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/noticias/f\u00f3rmula-1-alonso-asegura-que-est\u00e1-cerca-de-181758693--f1.html"
-        },
-        "es.eurosport.yahoo.com/2015/04/f%C3%B3rmula-1-mercedes-domina-ferrari-aprieta-y-alonso-vuelve": {
-            "title": "F\u00f3rmula 1 - Mercedes domina, Ferrari aprieta y Alonso vuelve a la... - Yahoo Eurosport ES...",
-            "snippet": "Yahoo Eurosport ESF\u00f3rmula 1 - Mercedes domina, Ferrari aprieta y Alonso vuelve a la...Yahoo Eurosport ESEl espa\u00f1ol Fernando Alonso (McLaren) marc\u00f3 el duod\u00e9cimo mejor tiempo de esta segunda sesi\u00f3n, con un registro de 1: en 22 vueltas realizadas...",
-            "date": "2015-04-18",
-            "categories": "yahoo",
-            "tags": "segunda,espa\u00f1ol,fernando,yahoo,yahoo_eurosport,eurosport,yahoo_eurosport_esf\u00f3rmula,eurosport_esf\u00f3rmula,esf\u00f3rmula,f\u00f3rmula,mercedes,ferrari,alonso",
-            "recuweb_url": "http://es.recuweb.com/yahoo/es.eurosport.yahoo.com/2015/04/f%C3%B3rmula-1-mercedes-domina-ferrari-aprieta-y-alonso-vuelve",
-            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno%2Bformula%2Buno&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/noticias/f\u00f3rmula-1-vivo-libres-1-de-bahrein-105925615--f1.html"
-        },
-        "mundod.lavoz.com.ar/2015/04/f%C3%B3rmula-uno-lewis-hamilton-se-qued%C3%B3-con-la-pole-en-bahrein": {
-            "title": "F\u00f3rmula Uno: Lewis Hamilton se qued\u00f3 con la pole en Bahrein - La Voz del Interior...",
-            "snippet": "La Voz del InteriorF\u00f3rmula Uno: Lewis Hamilton se qued\u00f3 con la \"pole\" en BahreinLa Voz del InteriorLewis Hamilton consigui\u00f3 su cuarta pole consecutiva y largar\u00e1 primero en el Gran Premio de Bahrein, donde estar\u00e1 acompa\u00f1ado por Sebastian Vettel...",
-            "date": "2015-04-18",
-            "tags": "vettel,gran,gran_premio,premio,hamilton,lewis,lewis_hamilton,f\u00f3rmula,bahrein",
-            "recuweb_url": "http://es.recuweb.com/mundod.lavoz.com.ar/2015/04/f%C3%B3rmula-uno-lewis-hamilton-se-qued%C3%B3-con-la-pole-en-bahrein",
-            "resource_url": "http://news.google.es/?hl=es&q=formula%2Buno&output=atom&nord=1",
-            "source_url": "http://mundod.lavoz.com.ar/motores/formula-uno-lewis-hamilton-se-quedo-con-la-pole-en-bahrein"
+            "source_url": "http://es.eurosport.yahoo.com/noticias/merhi-asegura-diferencia-coches-f\u00f3rmula-1-bestial-141207274.html"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jiu-jitsu",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/jiu-jitsu/",
@@ -11,12 +11,23 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/jiu-jitsu/jiu-jitsu/blogs.json"
     },
     "items": {
+        "elcorreo.ae/2015/04/muchos-hispanos-en-el-campeonato-mundial-de-jiu-jitsu-abu": {
+            "title": "Muchos hispanos en el Campeonato Mundial de Jiu Jitsu en Abu...",
+            "snippet": "Los colombianos Luis Fernando Ferrer Vel\u00e1squez y David Peralta entre otros latinos intervendr\u00e1n este viernes en el World Professional Jiu jitsu Championship que.",
+            "date": "2015-04-24",
+            "author_name": "redaccion",
+            "categories": "jiu-jitsu",
+            "tags": "world,world_professional,world_professional_jiu,professional,professional_jiu,jiu,fernando,jiu_jitsu,jitsu,mundial,abu,championship",
+            "recuweb_url": "http://es.recuweb.com/jiu-jitsu/elcorreo.ae/2015/04/muchos-hispanos-en-el-campeonato-mundial-de-jiu-jitsu-abu",
+            "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elcorreo.ae/muchos-hispanos-en-el-campeonato-mundial-de-jiu-jitsu-en-abu-dhabi/"
+        },
         "fvaljudo.es/2015/04/entrenamiento-federativo-jiu-jitsu-abril-federaci%C3%B3n": {
             "title": "ENTRENAMIENTO FEDERATIVO JIU-JITSU ABRIL Federaci\u00f3n...",
             "snippet": "Este entrenamiento, ha sido enfocado casi en su totalidad para preparar el IV TORNEO NACIONAL DE JIU-JITSU, en las modalidades de LUCHA Y DUO KATA, para todas las categor\u00edas, que se celebrara en la localidad de...",
             "date": "2015-04-19",
             "author_name": "Juan Pozuelo",
-            "tags": "lucha,kata,jiu,enfocado,jitsu,abril,federaci\u00f3n,entrenamiento",
+            "tags": "lucha,kata,torneo,nacional,jiu,enfocado,jitsu,abril,federaci\u00f3n,entrenamiento",
             "recuweb_url": "http://es.recuweb.com/fvaljudo.es/2015/04/entrenamiento-federativo-jiu-jitsu-abril-federaci%C3%B3n",
             "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fvaljudo.es/entrenamiento-federativo-jiu-jitsu-abril/"
@@ -38,7 +49,7 @@
             "date": "2015-04-16",
             "author_name": "adminkata",
             "categories": "jiu-jitsu",
-            "tags": "personal,nuevo,grupo,entrenamiento,gimnasio,gimnasio_kata,kata,jiu,jiu_jitsu,jitsu,defensa",
+            "tags": "javier,personal,mixto,nuevo,entrenamiento,kata,jiu,jiu_jitsu,jitsu,defensa",
             "recuweb_url": "http://es.recuweb.com/jiu-jitsu/gimnasiokata.com/2015/04/nueva-clase-de-jiu-jitsu-defensa-personal-mixto-gimnasio-kata",
             "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://gimnasiokata.com/deporte/jiu-jitsu/nueva-clase-de-jiu-jitsudefensa-personal-mixto/"
@@ -48,9 +59,9 @@
             "snippet": "El Jiu-Jitsu brasile\u00f1o (tambi\u00e9n llamado Brazilian Jiu-Jitsu o BJJ) es un arte marcial, deporte de combate y sistema de defensa personal brasile\u00f1o de origen japon\u00e9s, enfocado principalmente en...",
             "date": "2015-04-15",
             "author_name": "Pablo E. Viera",
-            "categories": "deporte,arte-marcial,jiu-jitsu",
-            "tags": "enfocado,deporte,sistema,defensa,personal,brasile\u00f1o,origen,japon\u00e9s,arte,arte-marcial,marcial,brazilian,jiu,llamado,jiu_jitsu,jitsu,bjj",
-            "recuweb_url": "http://es.recuweb.com/jiu-jitsu/nunezgym.com/2015/04/el-jiu-jitsu-carceglia-team-funciona-en-nu%C3%B1ez-body-training",
+            "categories": "arte-marcial,jiu-jitsu,deporte",
+            "tags": "enfocado,sistema,defensa,personal,brasile\u00f1o,origen,japon\u00e9s,arte,brazilian,brazilian_jiu,jiu,llamado,jiu_jitsu,jitsu,team,bjj,deporte",
+            "recuweb_url": "http://es.recuweb.com/deporte/nunezgym.com/2015/04/el-jiu-jitsu-carceglia-team-funciona-en-nu%C3%B1ez-body-training",
             "resource_url": "http://es.search.wordpress.com/?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&f=feed&page=1",
             "source_url": "http://nunezgym.com/2015/04/15/el-jiu-jitsu-carceglia-team-funciona-en-el-nunez-body-trainig/"
         },
@@ -59,31 +70,10 @@
             "snippet": "El pasado fin de semana en la ciudad de Roma tuvo lugar el primer Open de Roma de Jiujitsu Brasile\u00f1o organizado por la IBJJF, donde entre los 2000 competidores procedentes de todo el mundo, luchadores del centro de...",
             "date": "2015-04-14",
             "author_name": "Editor",
-            "tags": "lugar,primer,semana,jiujitsu,brasile\u00f1o",
+            "tags": "centro,mundo,pasado,pasado-fin,fin,medallas,open,roma,jiujitsu,brasile\u00f1o,semana",
             "recuweb_url": "http://es.recuweb.com/deportebalear.com/2015/04/7-medallas-para-baleares-en-el-open-de-roma-jiujitsu-brasile%C3%B1o",
             "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://deportebalear.com/2015/04/14/7-medallas-para-baleares-en-el-open-de-roma-de-jiujitsu-brasileno/"
-        },
-        "irunadeoca.eu/2015/04/ayuntamiento-de-iru%C3%B1a-oca-oka-certamen-jiu-jitsu": {
-            "title": "Ayuntamiento de Iru\u00f1a de Oca - Iru\u00f1a Oka Certamen de JIU-JITSU...",
-            "snippet": "Certamen de JIU-JITSU solidario en Nanclares de la Oca, el 18 de abril 2015. You are here: Home Ayuntamiento; Certamen de JIU-JITSU solidario en Nanclares de la Oca, el 18 de abril 2015. La prueba se celebrar\u00e1 el...",
-            "date": "2015-04-07",
-            "author_name": "admin",
-            "tags": "abril,ayuntamiento,jiu,jitsu",
-            "recuweb_url": "http://es.recuweb.com/irunadeoca.eu/2015/04/ayuntamiento-de-iru%C3%B1a-oca-oka-certamen-jiu-jitsu",
-            "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://irunadeoca.eu/certamen-de-jiu-jitsu-solidario-en-nanclares-de-la-oca-el-18-de-abril-2015/"
-        },
-        "gimnasiokata.com/2015/04/grupo-de-entrenamiento-jiu-jitsu-gimnasio-kata": {
-            "title": "Grupo de entrenamiento de Jiu Jitsu - Gimnasio Kata...",
-            "snippet": "El entrenamiento del d\u00eda de hoy nos ha dejado una serie de fotos de los integrantes del grupo de Jiu Jitsu que entrena por las ma\u00f1anas con el maestro Ernesto Garz\u00f3n. Sin duda, un arte marcial recomendable para todas las...",
-            "date": "2015-04-07",
-            "author_name": "adminkata",
-            "categories": "arte-marcial,jiu-jitsu",
-            "tags": "arte,arte-marcial,marcial,maestro,entrenamiento,grupo,gimnasio,gimnasio_kata,kata,jiu,jiu_jitsu,jitsu",
-            "recuweb_url": "http://es.recuweb.com/jiu-jitsu/gimnasiokata.com/2015/04/grupo-de-entrenamiento-jiu-jitsu-gimnasio-kata",
-            "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://gimnasiokata.com/deporte/jiu-jitsu/grupo-de-entrenamiento-de-jiu-jitsu/"
         },
         "jiujitsumurcia.es/2015/03/jiu-jitsu-murcia-colabora-con-el-cifs": {
             "title": "Jiu Jitsu Murcia colabora con el CIFS...",
@@ -91,7 +81,7 @@
             "date": "2015-03-31",
             "author_name": "Luis Miguel Garcia Macias",
             "categories": "jiu-jitsu,judo,karate",
-            "tags": "club,jiu,jiu_jitsu,jitsu,marciales,artes,judo,bjj",
+            "tags": "jiu,jiu_jitsu,jitsu,artes,artes-marciales,marciales,judo,bjj",
             "recuweb_url": "http://es.recuweb.com/karate/jiujitsumurcia.es/2015/03/jiu-jitsu-murcia-colabora-con-el-cifs",
             "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://jiujitsumurcia.es/2015/03/jiu-jitsu-murcia-colabora-con-el-cifs.html"
@@ -102,7 +92,7 @@
             "date": "2015-03-28",
             "author_name": "desconocido",
             "categories": "jiu-jitsu,judo",
-            "tags": "sistema,lucha,maestro,japon\u00e9s,gracie,jiu,jiu_jitsu,jitsu,brasilero,judo",
+            "tags": "sistema,lucha,japon\u00e9s,gracie,jiu,jiu_jitsu,jitsu,brasilero,judo",
             "recuweb_url": "http://es.recuweb.com/judo/taringa.net/2015/03/la-efectividad-del-jiu-jitsu-brasilero-taringa",
             "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://taringa.net/posts/deportes/18572784/La-efectividad-del-Jiu-Jitsu-Brasilero.html"
@@ -113,10 +103,21 @@
             "date": "2015-03-17",
             "author_name": "prensa",
             "categories": "artes-marciales-mixtas",
-            "tags": "arte,llamado,artes,artes_marciales,marciales,jitsu,jiu,brazilian,brasile\u00f1o,bjj",
+            "tags": "arte,llamado,artes,artes-marciales,marciales,jitsu,jiu,brazilian,brasile\u00f1o,bjj",
             "recuweb_url": "http://es.recuweb.com/artes-marciales-mixtas/cahuracan.com/2015/03/pr%C3%A1ctica-de-artes-marciales-mixtas-y-jiu-jitsu-c-a-hurac%C3%A1n",
             "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cahuracan.com/2015/03/17/practica-de-artes-marciales-mixtas-y-jiu-jitsu/"
+        },
+        "cbjje.com.br/2015/03/copa-mercosul-de-jiu-jitsu-2015-confedera%C3%A7%C3%A3o-brasileira": {
+            "title": "COPA MERCOSUL DE JIU JITSU 2015 Confedera\u00e7\u00e3o Brasileira...",
+            "snippet": "COPA MERCOSUL DE JIU JITSU 2015 Data: 25 de Abril de 2015 - Inicio as 8hs Local: Parque Sarmiento, Buenos Aires,...",
+            "date": "2015-03-04",
+            "author_name": "moises muradi",
+            "categories": "jiu-jitsu",
+            "tags": "jiu,jiu_jitsu,jitsu,abril,local",
+            "recuweb_url": "http://es.recuweb.com/jiu-jitsu/cbjje.com.br/2015/03/copa-mercosul-de-jiu-jitsu-2015-confedera%C3%A7%C3%A3o-brasileira",
+            "resource_url": "http://www.google.com/search?q=jiu%2Bjitsu%2Bjiu%2Bjitsu&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cbjje.com.br/copa-mercosul-de-jiu-jitsu-2015/"
         }
     }
 }

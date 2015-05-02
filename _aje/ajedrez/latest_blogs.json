@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ajedrez",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ajedrez/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ajedrez/ajedrez/blogs.json"
     },
     "items": {
-        "radioreloj.cu/2015/04/cuba-frente-a-egipto-en-mundial-de-ajedrez-radio-reloj": {
-            "title": "Cuba frente a Egipto en mundial de ajedrez - Radio Reloj...",
-            "snippet": "La Copa Mundial de Ajedrez por Equipos se inici\u00f3 el 19 del actual mes y en ella participan diez seleccionesArmenia.- Luego de mostrar el brillo y grosor de su armadura en las primeras fechas de la Copa Mundial de Ajedrez...",
-            "date": "2015-04-22",
-            "author_name": "Redacci\u00f3n Central",
-            "categories": "radio,ajedrez",
-            "tags": "inici\u00f3,copa,copa_mundial,mundial,cuba,egipto,ajedrez,equipos",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/radioreloj.cu/2015/04/cuba-frente-a-egipto-en-mundial-de-ajedrez-radio-reloj",
+        "ajedrez21.com/2015/04/ajedrez-21-shamkir-chess-2015-quinta-ronda-toma-nota-chaval": {
+            "title": "Ajedrez 21 Shamkir Chess 2015 Quinta Ronda: Toma nota, chaval...",
+            "snippet": "A partir de ah\u00ed, Anand golpea, acosa, persigue y mina la moral de su contrincante hasta que lo hace claudicar creando una de esas partidas por las que muchos nos aficionamos al ajedrez. Vishy ha derrotado a uno de los...",
+            "date": "2015-04-21",
+            "author_name": "Lloren\u00e7 Vanaclocha",
+            "categories": "ajedrez",
+            "tags": "partidas,ronda,shamkir,chess,ajedrez,anand,vishy",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/ajedrez21.com/2015/04/ajedrez-21-shamkir-chess-2015-quinta-ronda-toma-nota-chaval",
             "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://radioreloj.cu/index.php/noticias-radio-reloj/33-deportivas/22582-cuba-frente-a-egipto-en-mundial-de-ajedrez"
+            "source_url": "http://ajedrez21.com/blog/shamkir-chess-2015-quinta-ronda-toma-nota-chaval/"
+        },
+        "es.chessdom.com/2015/04/circuito-de-torneos-ajedrez-adalverto-vega-in-memoriam": {
+            "title": "Circuito de Torneos de Ajedrez Adalverto Vega in Memoriam...",
+            "snippet": "El Club de Ajedrez Mate en 1, a trav\u00e9s de los promotores Yul Rodriguez, Giuseppe Boyer, Nicola Nigro y Juan Perdomo invitan a un circuito de tres eventos a realizarse entre los estados de Carabobo, Aragua y Sucre.",
+            "date": "2015-04-21",
+            "author_name": "carlos",
+            "categories": "ajedrez",
+            "tags": "juan,ajedrez,mate,torneos,club",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/circuito-de-torneos-ajedrez-adalverto-vega-in-memoriam",
+            "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://es.chessdom.com/2015/circuito-de-torneos-de-ajedrez-adalverto-vega-in-memoriam-estado-de-carabobo/"
         },
         "cvc.cervantes.es/2015/04/el-ajedrez-y-la-literatura-39-un-alegato-de-igualdad-social": {
             "title": "El ajedrez y la literatura (39). Un alegato de igualdad social...",
@@ -28,7 +39,7 @@
             "date": "2015-04-20",
             "author_name": "desconocido",
             "categories": "literatura,ajedrez",
-            "tags": "siglo,social,ajedrez",
+            "tags": "disputa,social,ajedrez,juan",
             "recuweb_url": "http://es.recuweb.com/ajedrez/cvc.cervantes.es/2015/04/el-ajedrez-y-la-literatura-39-un-alegato-de-igualdad-social",
             "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cvc.cervantes.es/el_rinconete/anteriores/abril_15/20042015_01.htm"
@@ -39,21 +50,54 @@
             "date": "2015-04-20",
             "author_name": "BrunoL",
             "categories": "ajedrez",
-            "tags": "segundo,mayor,dos,marzo,\u00fal,ajedrez",
+            "tags": "segundo,mayor,\u00fal,ajedrez",
             "recuweb_url": "http://es.recuweb.com/ajedrez/anarkismo.net/2015/04/turqu%C3%ADa-y-el-ajedrez-kurdo-anarkismo",
             "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://anarkismo.net/article/28106"
         },
-        "es.chessdom.com/2015/04/abierto-de-ajedrez-pardinyes-2015": {
-            "title": "Abierto de Ajedrez de Pardinyes 2015 Ajedrez...",
-            "snippet": "El Abierto de Ajedrez del Club de Pardinyes 2015 se est\u00e1 jugando entre el 18 de abril y el 6 de junio en el Local Social Centre Civic de Pardinyes, carrer Sant Pere Claver 1, 3 Planta de Lleida. Se juega bajo el sistema suizo...",
-            "date": "2015-04-16",
+        "unocero.com/2015/04/un-nuevo-tramposo-en-ajedrez-unocero": {
+            "title": "Un nuevo tramposo en ajedrez unocero...",
+            "snippet": "Hay una infinidad de juegos para el tel\u00e9fono y desde luego, el ajedrez no es la excepci\u00f3n. Los programas que han sido portados a las plataformas de telefon\u00eda m\u00e1s populares son fant\u00e1sticos y juegan muy, pero muy bien.",
+            "date": "2015-04-20",
+            "author_name": "Manuel L\u00f3pez Michelone",
+            "categories": "ajedrez",
+            "tags": "son,nuevo,ajedrez",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/unocero.com/2015/04/un-nuevo-tramposo-en-ajedrez-unocero",
+            "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://unocero.com/2015/04/19/un-nuevo-tramposo-en-ajedrez/"
+        },
+        "es.chessdom.com/2015/04/xi-campeonato-sudamericano-de-ajedrez-sub-20-colombia-2015": {
+            "title": "XI Campeonato Sudamericano de Ajedrez sub-20 Colombia 2015...",
+            "snippet": "La Confederaci\u00f3n de Ajedrez para Am\u00e9rica (CCA), la Federaci\u00f3n Colombiana de Ajedrez, la Liga Santandereana de Ajedrez y el Instituto para el fomento del deporte y la Recreaci\u00f3n de Barrancabermeja, tienen el agrado de...",
+            "date": "2015-04-20",
+            "author_name": "carlos",
+            "categories": "deporte,ajedrez",
+            "tags": "deporte,federaci\u00f3n,campeonato,ajedrez,barrancabermeja",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/xi-campeonato-sudamericano-de-ajedrez-sub-20-colombia-2015",
+            "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://es.chessdom.com/2015/xi-campeonato-sudamericano-de-ajedrez-sub-20-colombia-2015/"
+        },
+        "es.chessdom.com/2015/04/india-lidera-el-mundial-de-ajedrez-por-equipos-2015": {
+            "title": "India lidera el Mundial de Ajedrez por Equipos 2015 Ajedrez...",
+            "snippet": "India lidera el Mundial de Ajedrez por Equipos 2015. Apr 19, 2015. India, Israel, Ucrania y China consiguieron victorias en el arranque del Campeonato Mundial por Equipos de la FIDE en Armenia. India es el l\u00edder provisional gracias a su...",
+            "date": "2015-04-19",
             "author_name": "carlos",
             "categories": "ajedrez",
-            "tags": "juega,social,abril,abierto,ajedrez,club,carrer",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/abierto-de-ajedrez-pardinyes-2015",
+            "tags": "campeonato,mundial,ajedrez,equipos,china",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/india-lidera-el-mundial-de-ajedrez-por-equipos-2015",
             "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://es.chessdom.com/2015/abierto-de-ajedrez-de-pardinyes-2015/"
+            "source_url": "http://es.chessdom.com/2015/india-lidera-el-mundial-de-ajedrez-por-equipos-2015/"
+        },
+        "es.chessdom.com/2015/04/asociaciones-de-ajedrez-confirman-su-participaci%C3%B3n": {
+            "title": "Asociaciones de Ajedrez confirman su participaci\u00f3n en...",
+            "snippet": "Santo Domingo, RD.- Con la participaci\u00f3n de los mejores 64 jugadores del pa\u00eds ser\u00e1 celebrada del 01 al 17 de mayo, la edici\u00f3n 56 LVI del Torneo Nacional de Ajedrez Masculino Superior, en el sal\u00f3n Juan Matos Rivera...",
+            "date": "2015-04-18",
+            "author_name": "carlos",
+            "categories": "ajedrez",
+            "tags": "juan,masculino,superior,torneo,mayo,santo,santo_domingo,domingo,ajedrez,participaci\u00f3n,mejores,jugadores",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/asociaciones-de-ajedrez-confirman-su-participaci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=ajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://es.chessdom.com/2015/asociaciones-de-ajedrez-confirman-su-participacion-en-campeonato-nacional-de-ajedrez-masculino-de-republica-dominicana/"
         },
         "xatakamovil.com/2015/04/expulsan-a-un-gran-maestro-de-ajedrez-torneo-por-hacer": {
             "title": "Expulsan a un gran maestro de ajedrez de un torneo por hacer...",
@@ -61,43 +105,10 @@
             "date": "2015-04-16",
             "author_name": "Paco Rodr\u00edguez",
             "categories": "ajedrez",
-            "tags": "torneo,ajedrez",
+            "tags": "torneos,torneo,son,casi,maestro,gran,ajedrez",
             "recuweb_url": "http://es.recuweb.com/ajedrez/xatakamovil.com/2015/04/expulsan-a-un-gran-maestro-de-ajedrez-torneo-por-hacer",
             "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakamovil.com/movil-y-sociedad/expulsan-a-un-gran-maestro-de-ajedrez-de-un-torneo-por-hacer-trampas-con-el-smartphone"
-        },
-        "es.chessdom.com/2015/04/x-abierto-internacional-de-ajedrez-tupinamba-2015": {
-            "title": "X Abierto Internacional de Ajedrez Tupinamba 2015 Ajedrez...",
-            "snippet": "El 10mo Abierto Internacional Tupinamba se lleva a cabo entre el 18 de marzo y el 20 de mayo en el Club de Ajedrez Tres Peones carrer Ros de Olano 9 en Barcelona, Espa\u00f1a. El torneo estar\u00e1 dividido en dos grupos:.",
-            "date": "2015-04-15",
-            "author_name": "carlos",
-            "categories": "ajedrez",
-            "tags": "torneo,estar\u00e1,dos,peones,carrer,marzo,cabo,abierto,internacional,ajedrez,club",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/x-abierto-internacional-de-ajedrez-tupinamba-2015",
-            "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://es.chessdom.com/2015/x-abierto-internacional-de-ajedrez-tupinamba-2015/"
-        },
-        "es.chessdom.com/2015/04/2do-torneo-shamkir-de-ajedrez-2015-memorial-vugar-gashimov": {
-            "title": "2do Torneo Shamkir de Ajedrez 2015 Memorial Vugar Gashimov...",
-            "snippet": "2do Torneo Shamkir de Ajedrez 2015 Memorial Vugar Gashimov. Apr 14, 2015. Vugar Gashimov (). El 2do Memorial Vugar Gashimov Shamkir 2015 se llevar\u00e1 a cabo entre el 17 y el 26 de abril en Shamkir, Azerbaiy\u00e1n. El torneo de \u00e9lite...",
-            "date": "2015-04-14",
-            "author_name": "carlos",
-            "categories": "ajedrez",
-            "tags": "torneo,abril,cabo,ajedrez",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/2do-torneo-shamkir-de-ajedrez-2015-memorial-vugar-gashimov",
-            "resource_url": "http://www.google.com/search?q=ajedrez%2Bajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://es.chessdom.com/2015/2do-torneo-shamkir-de-ajedrez-2015-memorial-vugar-gashimov/"
-        },
-        "es.chessdom.com/2015/04/l%C3%A1zaro-bruz%C3%B3n-y-ermes-espinosa-clasifican-a-la-copa-ajedrez": {
-            "title": "L\u00e1zaro Bruz\u00f3n y Ermes Espinosa clasifican a la Copa... - Ajedrez...",
-            "snippet": "Los cubanos L\u00e1zaro Bruz\u00f3n y Ermes Espinosa terminaron primero y segundo, respectivamente, en el torneo Zonal de ajedrez 2.3, disputado en Ecuador, y clasificaron a la Copa mundial de este deporte, prevista para la...",
-            "date": "2015-04-07",
-            "author_name": "carlos",
-            "categories": "deporte,ajedrez",
-            "tags": "deporte,torneo,primero,segundo,l\u00e1zaro,l\u00e1zaro_bruz\u00f3n,bruz\u00f3n,copa,ajedrez,mundial",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/es.chessdom.com/2015/04/l%C3%A1zaro-bruz%C3%B3n-y-ermes-espinosa-clasifican-a-la-copa-ajedrez",
-            "resource_url": "http://www.google.com/search?q=ajedrez&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://es.chessdom.com/2015/lazaro-bruzon-y-ermes-espinosa-clasifican-a-la-copa-mundial-de-ajedrez-2015/"
         },
         "columnadeportiva.com/2015/03/ajedrez-cubano-regresa-a-la-copa-mundial-por-equipos": {
             "title": "Ajedrez cubano regresa a la Copa Mundial por equipos...",
@@ -105,21 +116,10 @@
             "date": "2015-03-16",
             "author_name": "micolumnadeportiva",
             "categories": "ajedrez",
-            "tags": "mayor,equipos,l\u00e1zaro,l\u00e1zaro_bruz\u00f3n,bruz\u00f3n,copa,copa_mundial,mundial,ajedrez,internacional",
+            "tags": "tiene,mayor,equipos,mundial,ajedrez,federaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/ajedrez/columnadeportiva.com/2015/03/ajedrez-cubano-regresa-a-la-copa-mundial-por-equipos",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=ajedrez%2Bajedrez&rss=1&lng=es",
             "source_url": "http://columnadeportiva.com/2015/03/16/ajedrez-cubano-copa-mundial-equipos-2015/"
-        },
-        "orientamolas.wordpress.com/2015/02/ajedrez-en-el-aula": {
-            "title": "AJEDREZ EN EL AULA...",
-            "snippet": "Como ya sab\u00e9is, desde hace unos a\u00f1os, el colegio Madre Mar\u00eda Rosa Molas ha incorporado el ajedrez en el aula. Actualmente todos los alumnos hasta 2 de Educaci\u00f3n Primaria disponen de una hora semanal en la que, a trav\u00e9s de este juego,...",
-            "date": "2015-02-06",
-            "author_name": "orientamolas",
-            "categories": "ajedrez",
-            "tags": "educaci\u00f3n,ajedrez,juego",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/orientamolas.wordpress.com/2015/02/ajedrez-en-el-aula",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=ajedrez%2Bajedrez&rss=1&lng=es",
-            "source_url": "http://orientamolas.wordpress.com/2015/02/06/127/"
         }
     }
 }

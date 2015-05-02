@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/json/",
@@ -16,7 +16,7 @@
             "snippet": "ProgrammableWebGoogle Enables JSON Search History DownloadsProgrammableWebThe actual search history data is contained in a JSON file within the ZIP. Each JSON file corresponds to a date range and has a schema that describes the search events that...",
             "date": "2015-04-22",
             "categories": "json,google",
-            "tags": "data,json,google,zip",
+            "tags": "that,json,google,zip",
             "recuweb_url": "http://es.recuweb.com/google/programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb",
             "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
             "source_url": "http://programmableweb.com/news/google-enables-json-search-history-downloads/2015/04/22"
@@ -26,7 +26,7 @@
             "snippet": "eWeekGoogle's Jsonnet Language Generates JSONeWeek\"By adding new constructs between the gaps of existing JSON syntax, Jsonnet adds useful features without breaking backwards compatibility,\" Cunningham said. \"Any valid JSON is also a valid Jsonnet...",
             "date": "2015-04-22",
             "categories": "json,google",
-            "tags": "jsonnet,json,google",
+            "tags": "between,jsonnet,json,google",
             "recuweb_url": "http://es.recuweb.com/google/eweek.com/2015/04/google-s-jsonnet-language-generates-json-eweek",
             "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
             "source_url": "http://eweek.com/developer/googles-jsonnet-language-generates-json.html"
@@ -56,20 +56,10 @@
             "snippet": "Una vez aceptamos, tendremos que esperar a que Google nos mande un correo con el enlace al archivo, que por defecto se guardar\u00e1 en nuestra cuenta de Drive pero que podemos descargar en un archivo zip con varios archivos en formato JSON.",
             "date": "2015-04-20",
             "categories": "google,json",
-            "tags": "podemos,descargar,archivos,zip,formato,defecto,correo,historial,historial-de-b\u00fasqueda,b\u00fasqueda,google,drive,json",
+            "tags": "podemos,descargar,archivos,zip,formato,correo,historial,historial-de-b\u00fasqueda,b\u00fasqueda,google,drive,json",
             "recuweb_url": "http://es.recuweb.com/json/omicrono.com/2015/04/c%C3%B3mo-descargar-el-historial-de-b%C3%BAsqueda-google",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=es",
             "source_url": "http://omicrono.com/2015/04/descargar-el-historial-de-busqueda-de-google/"
-        },
-        "itjungle.com/2015/04/it-s-tr-time-what-next-for-the-ibm-i-database": {
-            "title": "It's TR Time: What's Next For The IBM i Database? - IT Jungle...",
-            "snippet": "IT JungleIt's TR Time: What's Next For The IBM i Database?IT JungleWeb application development depends on two document formats for the interchange of business data: XML and JSON. The smaller (lighter weight), quicker to transmit, and more efficient...",
-            "date": "2015-04-20",
-            "categories": "xml,json",
-            "tags": "data,json",
-            "recuweb_url": "http://es.recuweb.com/json/itjungle.com/2015/04/it-s-tr-time-what-next-for-the-ibm-i-database",
-            "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
-            "source_url": "http://itjungle.com/tfh/tfh042015-story02.html"
         },
         "marketingdirecto.com/2015/04/ya-es-posible-descargar-nuestro-historial-de-b%C3%BAsqueda-en-google": {
             "title": "Ya es posible descargar nuestro historial de b\u00fasqueda en Google...",
@@ -91,25 +81,35 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/anonimato-e-internet-owasp-day-ecuador-2015-3164466/"
         },
-        "blogs.msdn.com/2015/04/azure-app-service-integraciones-con-salesforce-3-de-4": {
-            "title": "Azure App Service: Integraciones con Salesforce (3 de 4)...",
-            "snippet": "El body est\u00e1 en formato JSON y la propiedad result es un objeto que a su vez tiene una propiedad llamada records de tipo array que contiene cada uno de los registros retornados por la consulta. Por defecto el nombre de cada paso es el nombre del...",
-            "date": "2015-04-16",
-            "categories": "propiedad,json",
-            "tags": "defecto,nombre,objeto,llamada,formato,json",
-            "recuweb_url": "http://es.recuweb.com/json/blogs.msdn.com/2015/04/azure-app-service-integraciones-con-salesforce-3-de-4",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=es",
-            "source_url": "http://blogs.msdn.com/b/esmsdn/archive/2015/04/16/azure-app-service-integraciones-con-salesforce-3-de-4.aspx"
-        },
         "es.paperblog.com/2015/04/recolecci%C3%B3n-de-informaci%C3%B3n-con-osint-parte-2-usando-google-hacking-python": {
             "title": "Recolecci\u00f3n de informaci\u00f3n con OSINT Parte 2 Usando Google Hacking Python Client...",
             "snippet": "Los resultados devueltos se encuentran en formato JSON, pero la API hace la labor de convertir la cadena devuelta por el servicio en un diccionario que pueda ser tratado directamente desde Python.",
             "date": "2015-04-16",
             "categories": "google,json",
-            "tags": "formato,usando,google,informaci\u00f3n,json",
+            "tags": "formato,usando,google,json",
             "recuweb_url": "http://es.recuweb.com/json/es.paperblog.com/2015/04/recolecci%C3%B3n-de-informaci%C3%B3n-con-osint-parte-2-usando-google-hacking-python",
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/recoleccion-de-informacion-con-osint-parte-2-usando-google-hacking-python-client-3164135/"
+        },
+        "infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape": {
+            "title": "PostgreSQL advances in the JSON datastore landscape -...",
+            "snippet": "PostgreSQL advances in the JSON datastore version 9.2 Postgres supports the new JSON datatype and since 9.3 there were 12 new functions and dedicated JSON operators. Version 9.4 brought a binary JSON datatype allowing for mix and match between table...",
+            "date": "2015-04-02",
+            "categories": "json",
+            "tags": "between,json",
+            "recuweb_url": "http://es.recuweb.com/json/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
+            "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"
+        },
+        "threatpost.com/2015/04/critical-vulnerabilities-affect-json-web-token-libraries-threatpost": {
+            "title": "Critical Vulnerabilities Affect JSON Web Token Libraries - Threatpost...",
+            "snippet": "ThreatpostCritical Vulnerabilities Affect JSON Web Token LibrariesThreatpostCritical vulnerabilities exist in several JSON Web Token (JWT) libraries namely the JavaScript and PHP versions that could let an attacker bypass the verification step. Tim...",
+            "date": "2015-04-01",
+            "categories": "json,javascript,php",
+            "tags": "that,json,web,php",
+            "recuweb_url": "http://es.recuweb.com/php/threatpost.com/2015/04/critical-vulnerabilities-affect-json-web-token-libraries-threatpost",
+            "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
+            "source_url": "http://threatpost.com/critical-vulnerabilities-affect-json-web-token-libraries/111943"
         }
     }
 }

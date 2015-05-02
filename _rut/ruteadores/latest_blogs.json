@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ruteadores",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ruteadores/",
@@ -11,13 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ruteadores/ruteadores/blogs.json"
     },
     "items": {
+        "geek.com.mx/2015/04/linksys-celebra-100-millones-de-routers-vendidos-en-el-mundo-geek": {
+            "title": "Linksys celebra 100 millones de routers vendidos en el mundo Geek...",
+            "snippet": "Linksys anuncia la consecuci\u00f3n de un hito que pocas marcas son capaces de ostentar: la venta de 100 millones de ruteadores al\u00e1mbricos e inal\u00e1mbricos en todo el mundo. Linksys incursion\u00f3 en el mercado de los...",
+            "date": "2015-04-23",
+            "author_name": "Paulo",
+            "categories": "ruteadores",
+            "tags": "incursion\u00f3,mercado,hito,son,millones,routers,mundo,ruteadores,al\u00e1mbricos,inal\u00e1mbricos",
+            "recuweb_url": "http://es.recuweb.com/ruteadores/geek.com.mx/2015/04/linksys-celebra-100-millones-de-routers-vendidos-en-el-mundo-geek",
+            "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://geek.com.mx/2015/04/linksys-celebra-100-millones-de-routers-vendidos-en-el-mundo/"
+        },
+        "serperuano.com/2015/04/linksys-logra-un-nuevo-hito-en-la-industria-es-el-primero": {
+            "title": "LINKSYS logra un nuevo hito en la Industria es el primero en vender...",
+            "snippet": "Linksys, l\u00edder en Soluciones de Conexi\u00f3n para el hogar y las peque\u00f1as y medianas empresas, anunci\u00f3 el d\u00eda de hoy que ha vendido 100 millones de Ruteadores al\u00e1mbricos e inal\u00e1mbricos en todo el mundo. Linksys...",
+            "date": "2015-04-22",
+            "author_name": "Benjamin",
+            "categories": "ruteadores",
+            "tags": "anunci\u00f3,hogar,hogar-las-peque\u00f1as,peque\u00f1as,l\u00edder,primero,primero-en-vender,vender,logra,logra-un-nuevo,nuevo,nuevo-hito,hito,industria,soluciones,conexi\u00f3n,empresas,vendido,millones,ruteadores,al\u00e1mbricos,inal\u00e1mbricos,mundo",
+            "recuweb_url": "http://es.recuweb.com/ruteadores/serperuano.com/2015/04/linksys-logra-un-nuevo-hito-en-la-industria-es-el-primero",
+            "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://serperuano.com/2015/04/linksys-logra-un-nuevo-hito-en-la-industria-es-el-primero-en-vender-mas-de-100-millones-de-ruteadores/"
+        },
         "lastdragon.net/2015/03/encontrando-la-ruta-despues-de-caida-un-segmento-red": {
             "title": "Encontrando la ruta despues de la caida de un segmento de red...",
             "snippet": "Para ver la configuraci\u00f3n leer el art\u00edculo anterior Quagga y RIP en GNU/Linux Ruteadores de Internet. Este art\u00edculo ser\u00e1 un complemento del anterior, la configuraci\u00f3n sigue siendo la misma, lo que cambi\u00f3 fue el medio...",
             "date": "2015-03-21",
             "author_name": "Administrator",
             "categories": "ruteadores,internet",
-            "tags": "medio,linux,linux_ruteadores,ruteadores,red,configuraci\u00f3n,quagga,rip,gnu,internet",
+            "tags": "medio,configuraci\u00f3n,linux,linux_ruteadores,ruteadores,red,quagga,rip,gnu,internet",
             "recuweb_url": "http://es.recuweb.com/internet/lastdragon.net/2015/03/encontrando-la-ruta-despues-de-caida-un-segmento-red",
             "resource_url": "http://www.google.com/search?q=ruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://lastdragon.net/?p=1314"
@@ -39,7 +61,7 @@
             "date": "2015-03-16",
             "author_name": "sergioamaromonti",
             "categories": "ruteadores,electronica,tecnologia",
-            "tags": "p\u00e1gina,redes,ruteadores",
+            "tags": "p\u00e1gina,redes,ruteadores,diferentes",
             "recuweb_url": "http://es.recuweb.com/tecnologia/elecreonicaycomputacionlibre.wordpress.com/2015/03/manual-de-switches-y-ruteadores-mediafire-electr%C3%B3nica",
             "resource_url": "http://www.google.com/search?q=ruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elecreonicaycomputacionlibre.wordpress.com/2015/03/16/manual-de-switches-y-ruteadores-mediafire/"
@@ -55,24 +77,13 @@
             "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pcconsumibleshoy.blogspot.com/2014/10/redes-ruteadores.html"
         },
-        "hakim.ws/2014/08/explotaci%C3%B3n-masiva-de-vulnerabilidades-en-ruteadores-hakim": {
-            "title": "Explotaci\u00f3n masiva de vulnerabilidades en ruteadores - Hakim...",
-            "snippet": "Ver disapositivas. Los m\u00e9todos para escanear redes han evolucionado, y podemos encontrar millones de dispositivos de interconexi\u00f3n vulnerables que ponen en riesgo la informaci\u00f3n de sus propietarios y facilitan ataques a...",
-            "date": "2014-08-08",
-            "author_name": "hkm",
-            "categories": "ruteadores",
-            "tags": "interconexi\u00f3n,interconexi\u00f3n-vulnerables,vulnerables,vulnerables-que-ponen,ponen,ponen-en-riesgo,riesgo,riesgo-la-informaci\u00f3n,informaci\u00f3n,propietarios,ataques,podemos,podemos-encontrar,encontrar,m\u00e9todos,m\u00e9todos-para-escanear,escanear,escanear-redes,redes,redes-han-evolucionado,evolucionado,explotaci\u00f3n,masiva,vulnerabilidades,ruteadores,millones,dispositivos",
-            "recuweb_url": "http://es.recuweb.com/ruteadores/hakim.ws/2014/08/explotaci%C3%B3n-masiva-de-vulnerabilidades-en-ruteadores-hakim",
-            "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hakim.ws/2014/08/explotacion-masiva-de-vulnerabilidades-en-ruteadores/"
-        },
         "ferriz.com.mx/2014/04/ruteadores-al-triple-de-velocidad-pedro-ferriz": {
             "title": "Ruteadores al triple de velocidad Pedro Ferriz -...",
             "snippet": "Por si usted no lo sab\u00eda, un ruteador convencional se conecta a un dispositivo a la vez y por un periodo de nano segundos conecta al dispositivo al internet y red interna, despu\u00e9s se desconecta de ese dispositivo y entonces...",
             "date": "2014-04-14",
             "author_name": "Juan de Dios Guevara Torres",
             "categories": "internet,ruteadores",
-            "tags": "segundos,internet,red,pedro,velocidad,ruteadores,ruteador",
+            "tags": "ruteadores,segundos,internet,red,pedro,velocidad",
             "recuweb_url": "http://es.recuweb.com/ruteadores/ferriz.com.mx/2014/04/ruteadores-al-triple-de-velocidad-pedro-ferriz",
             "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ferriz.com.mx/ideas/ruteadores-al-triple-de-velocidad/"
@@ -83,21 +94,10 @@
             "date": "2014-03-13",
             "author_name": "Ilya Lopes",
             "categories": "ruteadores",
-            "tags": "ruteadores,empresas",
+            "tags": "uso,ruteadores,peque\u00f1as,empresas",
             "recuweb_url": "http://es.recuweb.com/ruteadores/welivesecurity.com/2014/03/m%C3%A1s-de-300-mil-ruteadores-atacados-a-nivel-global-we-live",
             "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://welivesecurity.com/la-es/2014/03/13/mas-300-mil-ruteadores-atacados-nivel-global/"
-        },
-        "testfreaks.es/2011/11/asus-rt-n12e-ruteadores-e-interruptores-opiniones-testfreaks": {
-            "title": "Asus RT-N12E (Ruteadores e Interruptores) Opiniones - TestFreaks...",
-            "snippet": "Asus RT-N12E Opiniones de Expertos, Opiniones de Usuarios (121), Precios m\u00e1s bajos (2), Im\u00e1genes (1) y mucho m\u00e1s en TestFreaks.",
-            "date": "2011-11-29",
-            "author_name": "TestFreaks",
-            "categories": "ruteadores",
-            "tags": "asus,ruteadores,interruptores",
-            "recuweb_url": "http://es.recuweb.com/ruteadores/testfreaks.es/2011/11/asus-rt-n12e-ruteadores-e-interruptores-opiniones-testfreaks",
-            "resource_url": "http://www.google.com/search?q=ruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://testfreaks.es/routers-switches/asus-rt-n12e/"
         },
         "alcancelibre.org/2010/07/millones-de-ruteadores-caseros-son-vulnerables-alcance-libre": {
             "title": "Millones de ruteadores caseros son vulnerables. - Alcance Libre...",
@@ -105,7 +105,7 @@
             "date": "2010-07-16",
             "author_name": "desconocido",
             "categories": "ruteadores",
-            "tags": "propietarios,dns,trav\u00e9s,son,vulnerables,millones,ruteadores",
+            "tags": "dns,son,vulnerables,millones,ruteadores",
             "recuweb_url": "http://es.recuweb.com/ruteadores/alcancelibre.org/2010/07/millones-de-ruteadores-caseros-son-vulnerables-alcance-libre",
             "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://alcancelibre.org/article.php/millones-ruteadores-caseros-vunerables"
@@ -116,7 +116,7 @@
             "date": "2010-06-24",
             "author_name": "admin",
             "categories": "ruteadores",
-            "tags": "redes,servicios,ruteadores,firewall,serie",
+            "tags": "redes,servicios,conectar,ruteadores,firewall",
             "recuweb_url": "http://es.recuweb.com/ruteadores/xinet.mx/2010/06/ruteadores-con-firewall-y-vpn-srx-xinet-solutions",
             "resource_url": "http://www.google.com/search?q=ruteadores%2Bruteadores&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xinet.mx/index.php/juniper-networks/ruteadores-srx/ruteadores-con-firewall-srx/"

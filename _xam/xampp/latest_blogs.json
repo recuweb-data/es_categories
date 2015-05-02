@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xampp",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xampp/",
@@ -17,10 +17,21 @@
             "date": "2015-04-18",
             "author_name": "(NACHO SALGADO)",
             "categories": "xampp",
-            "tags": "instalado,ordenador,instalaci\u00f3n,local,c\u00f3mo,instalar,xampp",
+            "tags": "tengo,instalado,ordenador,c\u00f3mo,instalaci\u00f3n,local,instalar,xampp",
             "recuweb_url": "http://es.recuweb.com/xampp/cotidianaplace.blogspot.com/2015/04/mi-nube-instalaci%C3%B3n-local-de-owncloud",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=es",
             "source_url": "http://cotidianaplace.blogspot.com/2015/04/mi-nube-instalacion-local-de-owncloud.html"
+        },
+        "forum.serverdev.net/2015/04/problema-con-el-xampp-serverdev": {
+            "title": "Problema con el XAMPP ServerDev...",
+            "snippet": "bien, me pasa lo siguiente tengo la ultima versi\u00f3n del XAMPP y me sale objeto no localizado mi pagina esta situada en C:/XAMPP/SERVER/EL NOMBRE DE MI...",
+            "date": "2015-04-18",
+            "author_name": "ximbolo",
+            "categories": "xampp",
+            "tags": "pagina,versi\u00f3n,siguiente,tengo,xampp,problema,server",
+            "recuweb_url": "http://es.recuweb.com/xampp/forum.serverdev.net/2015/04/problema-con-el-xampp-serverdev",
+            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://forum.serverdev.net/threads/problema-con-el-xampp.7565/"
         },
         "gcalvetty.wordpress.com/2015/04/xampp-apache-error-err-connection-refused-gecn": {
             "title": "xampp Apache error ERR_CONNECTION_REFUSED GECN...",
@@ -28,7 +39,7 @@
             "date": "2015-04-16",
             "author_name": "gcalvetty",
             "categories": "xampp",
-            "tags": "escucha,error,xampp,apache,configurar,puerto",
+            "tags": "escucha,problema,configurar,error,xampp,apache,puerto",
             "recuweb_url": "http://es.recuweb.com/xampp/gcalvetty.wordpress.com/2015/04/xampp-apache-error-err-connection-refused-gecn",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://gcalvetty.wordpress.com/2015/04/16/xampp-apache-error-err_connection_refused/"
@@ -44,38 +55,27 @@
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://andoandoprogramando.wordpress.com/2015/04/13/codigo-php-dentro-de-html-no-se-interpreta-xampp/"
         },
-        "sololinux.es/2015/04/instalar-y-configurar-xampp-en-linux": {
-            "title": "Instalar y configurar Xampp en linux - Linux para todos...",
-            "snippet": "XAMPP es un paquete de c\u00f3digo libre, con el cual podr\u00e1s instalar de forma muy sencilla un servidor Apache en ordenador, es compatible con los sistemas operativos Linux, Windows, MAC o Solaris. Esta instalacion que...",
-            "date": "2015-04-08",
-            "author_name": "Sergio G.B.",
-            "categories": "xampp",
-            "tags": "ordenador,muy,c\u00f3digo,instalar,configurar,xampp,linux,libre,servidor,apache,windows,mac",
-            "recuweb_url": "http://es.recuweb.com/xampp/sololinux.es/2015/04/instalar-y-configurar-xampp-en-linux",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://sololinux.es/post/Instalar-y-configurar-Xampp-en-linux"
-        },
         "sololinux.es/2015/04/historial-de-versiones-xampp-apache-mysql-php-y-fecha": {
             "title": "Historial de versiones XAMPP: Apache, MySQL, PHP y Fecha...",
             "snippet": "Apache Friends ofrece versiones antiguas de XAMPP para su descarga a trav\u00e9s de SourceForge, permitiendo a los desarrolladores el poder utilizar la versi\u00f3n que m\u00e1s se asemeje a su entorno de servidor, pero por extra\u00f1o...",
             "date": "2015-04-07",
             "author_name": "Sergio G.B.",
             "categories": "xampp,mysql,php",
-            "tags": "entorno,descarga,xampp,apache,mysql,php,servidor",
+            "tags": "versi\u00f3n,entorno,descarga,xampp,apache,mysql,php,servidor",
             "recuweb_url": "http://es.recuweb.com/php/sololinux.es/2015/04/historial-de-versiones-xampp-apache-mysql-php-y-fecha",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://sololinux.es/post/Historial-de-versiones-XAMPP-Apache-MySQL-PHP-y-Fecha"
         },
-        "yii2enespanol.com/2015/04/instalando-xampp-en-linux-yii-2-espa%C3%B1ol": {
-            "title": "Instalando XAMPP en Linux Yii 2 en Espa\u00f1ol...",
-            "snippet": "Me decid\u00ed entonces a instalar Xampp y ver si podr\u00eda tenerlo funcionando sin arrancerme demasiados cabellos. Para aquellos que hablan linux como su lengua materna, lo que escribo aqu\u00ed podr\u00e1 parecerles una obviedad,...",
-            "date": "2015-04-05",
-            "author_name": "vihugarcia",
-            "categories": "xampp",
-            "tags": "linux,xampp,espa\u00f1ol,instalar",
-            "recuweb_url": "http://es.recuweb.com/xampp/yii2enespanol.com/2015/04/instalando-xampp-en-linux-yii-2-espa%C3%B1ol",
+        "sololinux.es/2015/03/configurar-xampp-para-acceso-externo-linux-todos-sololinux": {
+            "title": "Configurar Xampp para acceso externo - Linux para todos - SoloLinux...",
+            "snippet": "Al instalar XAMPP observaremos que su configuraci\u00f3n de seguridad por defecto no permite acceder desde el exterior de nuestra red, es decir desde Internet. Y cuando escribimos nuestra ip wan en el navegador o el dns que...",
+            "date": "2015-03-22",
+            "author_name": "Sergio G.B.",
+            "categories": "xampp,internet",
+            "tags": "defecto,configurar,xampp,linux,instalar",
+            "recuweb_url": "http://es.recuweb.com/internet/sololinux.es/2015/03/configurar-xampp-para-acceso-externo-linux-todos-sololinux",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://yii2enespanol.com/2015/04/05/instalando-xampp-en-linux/"
+            "source_url": "http://sololinux.es/post/Configurar-Xampp-para-acceso-externo"
         },
         "tonsigasi.wordpress.com/2015/03/xampp-download-espa%C3%B1ol-ultima-version": {
             "title": "Xampp download espa\u00f1ol ultima version...",
@@ -83,7 +83,7 @@
             "date": "2015-03-12",
             "author_name": "tonsigasi",
             "categories": "xampp",
-            "tags": "f\u00e1cil,xampp,windows,espa\u00f1ol,descargar,p\u00e1gina,web,local,instalaci\u00f3n,programas",
+            "tags": "f\u00e1cil,xampp,windows,descargar,p\u00e1gina,web,local,instalaci\u00f3n,programas",
             "recuweb_url": "http://es.recuweb.com/xampp/tonsigasi.wordpress.com/2015/03/xampp-download-espa%C3%B1ol-ultima-version",
             "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
             "source_url": "http://tonsigasi.wordpress.com/2015/03/12/xampp-download-espanol-ultima-version/"
@@ -105,7 +105,7 @@
             "date": "2015-02-16",
             "author_name": "Xavi",
             "categories": "xampp",
-            "tags": "usando,iniciar,xampp,puerto,instalar,apache,error",
+            "tags": "problemas,usando,iniciar,xampp,puerto,instalar,apache,error",
             "recuweb_url": "http://es.recuweb.com/xampp/blogs.ua.es/2015/02/problemas-con-xampp-y-el-puerto-80-blogs-ua",
             "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogs.ua.es/labseps/2015/02/16/problemas-con-xampp-y-el-puerto-80/"

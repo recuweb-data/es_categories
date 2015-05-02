@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "impresora",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/impresora/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/impresora/impresora/blogs.json"
     },
     "items": {
-        "xataka.com/2015/04/disney-tiene-una-impresora-que-crea-objetos-blanditos-a-base": {
-            "title": "Disney tiene una \"impresora\" que crea objetos blanditos a base de...",
-            "snippet": "Ya hab\u00edamos visto su inter\u00e9s por mejorar en el campo de la impresi\u00f3n 3D, junto a la Universidad de Zaragoza, hoy se presentan con un nuevo tipo de impresora 3D. \u00bfQu\u00e9 tienen en com\u00fan todas las impresoras que estamos...",
-            "date": "2015-04-18",
-            "author_name": "Kote Puerto",
+        "taringa.net/2015/05/reloj-fabricado-en-impresora-3d-taringa": {
+            "title": "Reloj fabricado en impresora 3d - Taringa!",
+            "snippet": "Hola a todos, como dice el t\u00edtulo les traigo un reloj que hice con una impresora 3d, esta inspirado en un modelo de la marca Bell & Ross, no intenta ser una r\u00e9plica indetectable sino un trabajo para poder apreciar las...",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
             "categories": "impresora",
-            "tags": "nuevo,tipo,junto,impresi\u00f3n,impresoras,disney,tiene,universidad",
-            "recuweb_url": "http://es.recuweb.co/impresora/xataka.com/2015/04/disney-tiene-una-impresora-que-crea-objetos-blanditos-a-base",
+            "tags": "trabajo,fabricado,impresora",
+            "recuweb_url": "http://es.recuweb.co/impresora/taringa.net/2015/05/reloj-fabricado-en-impresora-3d-taringa",
+            "resource_url": "http://www.google.com/search?q=impresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/hazlo-tu-mismo/18639605/Reloj-fabricado-en-impresora-3d.html"
+        },
+        "noticias.uach.cl/2015/04/noticias-uach-impresora-3d-para-investigaciones-oncol%C3%B3gicas": {
+            "title": "Noticias UACh - Impresora 3D para investigaciones oncol\u00f3gicas...",
+            "snippet": "La Universidad Austral de Chile Sede Puerto Montt recibi\u00f3 como donaci\u00f3n una Impresora 3D de \u00faltima generaci\u00f3n para apoyar proyectos de investigaci\u00f3n que realiza la Casa de Estudios en el \u00e1rea tecnol\u00f3gica de la salud y...",
+            "date": "2015-04-30",
+            "author_name": "desconocido",
+            "categories": "salud,impresora",
+            "tags": "realiza,\u00fal,universidad,impresora,casa",
+            "recuweb_url": "http://es.recuweb.co/impresora/noticias.uach.cl/2015/04/noticias-uach-impresora-3d-para-investigaciones-oncol%C3%B3gicas",
+            "resource_url": "http://www.google.com/search?q=impresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticias.uach.cl/principal.php?pag=noticia-externo&cod=81830"
+        },
+        "muycomputer.com/2015/04/el-coste-por-p%C3%A1gina-y-la-amortizaci%C3%B3n-de-impresora-muycomputer": {
+            "title": "El coste por p\u00e1gina y la amortizaci\u00f3n de la impresora - MuyComputer...",
+            "snippet": "A la hora de adquirir una nueva impresora la mayor\u00eda se dejan llevar por el precio de la misma, sin tener en cuenta otros aspectos importantes que tendr\u00e1n un gran impacto en los costes que soportaremos durante el tiempo...",
+            "date": "2015-04-27",
+            "author_name": "Isidro Ros",
+            "categories": "impresora",
+            "tags": "tener,durante,tiempo,precio,hora,nueva,impresora",
+            "recuweb_url": "http://es.recuweb.co/impresora/muycomputer.com/2015/04/el-coste-por-p%C3%A1gina-y-la-amortizaci%C3%B3n-de-impresora-muycomputer",
+            "resource_url": "http://www.google.com/search?q=impresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/04/27/amortizacion-de-la-impresora"
+        },
+        "wwwhatsnew.com/2015/04/disney-muestra-el-funcionamiento-de-su-impresora-3d-capaz": {
+            "title": "Disney muestra el funcionamiento de su impresora 3D, capaz de...",
+            "snippet": "Tal y como pod\u00e9is ver en el v\u00eddeo que os mostramos al pie de este art\u00edculo, la divisi\u00f3n Disney Research ha mostrado recientemente sus avances en el desarrollo de la impresora 3D de la que os hablamos. La principal...",
+            "date": "2015-04-23",
+            "author_name": "Sergio Asenjo",
+            "categories": "impresora",
+            "tags": "avances,funcionamiento,disney,impresora",
+            "recuweb_url": "http://es.recuweb.co/impresora/wwwhatsnew.com/2015/04/disney-muestra-el-funcionamiento-de-su-impresora-3d-capaz",
             "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xataka.com/accesorios/disney-tiene-una-impresora-que-crea-objetos-blanditos-a-base-de-capas"
+            "source_url": "http://wwwhatsnew.com/2015/04/23/disney-muestra-el-funcionamiento-de-su-impresora-3d-capaz-de-fabricar-objetos-blandos-con-tela/"
         },
         "xatakafoto.com/2015/04/epson-surecolor-p800-nueva-impresora-fotogr%C3%A1fica-profesional": {
             "title": "Epson SureColor P800: nueva impresora fotogr\u00e1fica profesional...",
@@ -28,21 +61,21 @@
             "date": "2015-04-18",
             "author_name": "Juan Carlos L\u00f3pez",
             "categories": "tecnologia,fotografia,impresora",
-            "tags": "tiempo,impresi\u00f3n,epson,nueva,impresoras,hace,tinta",
+            "tags": "tinta,hace,tiempo,profesional,epson,nueva,impresoras,impresi\u00f3n",
             "recuweb_url": "http://es.recuweb.co/impresora/xatakafoto.com/2015/04/epson-surecolor-p800-nueva-impresora-fotogr%C3%A1fica-profesional",
             "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakafoto.com/accesorios/epson-surecolor-p800-nueva-impresora-fotografica-profesional-capaz-de-imprimir-en-din-a2-sin-margenes"
         },
-        "xatakahome.com/2015/04/una-impresora-3d-raspberry-pi-y-poco-m%C3%A1s-para-tener": {
-            "title": "Una impresora 3D, una Raspberry Pi y poco m\u00e1s para tener esta...",
-            "snippet": "Como siga guardando enlaces de las cosas que quiero imprimir cuando tenga una impresora 3D, creo que me va a salir m\u00e1s caro el material que la propia impresora. Y es que siguen saliendo modelos realmente...",
-            "date": "2015-04-18",
-            "author_name": "Fernando Doutel",
+        "omicrono.com/2015/04/disney-crea-una-impresora-3d-de-tejido-omicrono": {
+            "title": "Disney crea una impresora 3D de tejido - Omicrono...",
+            "snippet": "Hay muchas impresoras 3D, pero ninguna como la que ha conseguido crear Disney: una impresora 3D de tejido. No, no es que Disney haya inventado el telar, sino que este dispositivo funciona como lo hace una...",
+            "date": "2015-04-17",
+            "author_name": "Adrian Raya",
             "categories": "impresora",
-            "tags": "material,enlaces,impresora,imprimir",
-            "recuweb_url": "http://es.recuweb.co/impresora/xatakahome.com/2015/04/una-impresora-3d-raspberry-pi-y-poco-m%C3%A1s-para-tener",
+            "tags": "dispositivo,funciona,hace,disney,impresoras,omicrono,hay",
+            "recuweb_url": "http://es.recuweb.co/impresora/omicrono.com/2015/04/disney-crea-una-impresora-3d-de-tejido-omicrono",
             "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xatakahome.com/trucos-y-bricolaje-smart/una-impresora-3d-una-raspberry-pi-y-poco-mas-para-tener-esta-excelente-consola-de-videojuegos"
+            "source_url": "http://omicrono.com/2015/04/disney-impresora-3d-de-tejido/"
         },
         "xatakafoto.com/2015/04/2-canon-ha-presentado-la-selphy-cp1000-su-nueva-impresora": {
             "title": "2 Canon ha presentado la Selphy CP1000, su nueva impresora...",
@@ -50,10 +83,32 @@
             "date": "2015-04-16",
             "author_name": "Juan Carlos L\u00f3pez",
             "categories": "impresora",
-            "tags": "son,nueva,canon,impresoras",
+            "tags": "nueva,impresoras",
             "recuweb_url": "http://es.recuweb.co/impresora/xatakafoto.com/2015/04/2-canon-ha-presentado-la-selphy-cp1000-su-nueva-impresora",
             "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakafoto.com/canon/canon-ha-presentado-la-selphy-cp1000-su-nueva-impresora-compacta-de-sublimacion"
+        },
+        "omicrono.com/2015/04/una-impresora-3d-unibody-por-170-omicrono": {
+            "title": "Una impresora 3D unibody por 170 - Omicrono...",
+            "snippet": "Qui\u00e9n no quiere una impresora 3D unibody en casa? Ahora llega la Tiko por un precio muy llamativo. \u00bfA\u00fan no tienes la tuya?",
+            "date": "2015-04-15",
+            "author_name": "Carles Rabad\u00e0",
+            "categories": "impresora",
+            "tags": "precio,muy,casa,impresora,omicrono,ahora",
+            "recuweb_url": "http://es.recuweb.co/impresora/omicrono.com/2015/04/una-impresora-3d-unibody-por-170-omicrono",
+            "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://omicrono.com/2015/04/una-impresora-3d-unibody-por-170-e/"
+        },
+        "tlife.guru/2015/04/c%C3%B3mo-funciona-una-impresora-3d": {
+            "title": "C\u00f3mo funciona una impresora 3D -...",
+            "snippet": "Actualmente, el uso profesional de impresoras 3D ya es muy habitual en sectores de lo m\u00e1s variado, sobre todo para la creaci\u00f3n de maquetas, prototipos y peque\u00f1os mecanismos. Pero, adem\u00e1s, en los \u00faltimos a\u00f1os se han...",
+            "date": "2015-04-13",
+            "author_name": "Jose \u00c1ngel Plaza",
+            "categories": "impresora",
+            "tags": "\u00fal,muy,uso,profesional,funciona,c\u00f3mo,impresoras",
+            "recuweb_url": "http://es.recuweb.co/impresora/tlife.guru/2015/04/c%C3%B3mo-funciona-una-impresora-3d",
+            "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tlife.guru/profesional/asi-funciona-una-impresora-3d/"
         },
         "xataka.com/2015/04/una-impresora-3d-impresa-por-supuesto": {
             "title": "\u00bfUna impresora 3D impresa por una impresora 3D? Por supuesto...",
@@ -61,65 +116,10 @@
             "date": "2015-04-13",
             "author_name": "Javier Pastor",
             "categories": "impresora",
-            "tags": "ahora,impresi\u00f3n,impresora,hecho",
+            "tags": "ahora,avances,impresora,impresi\u00f3n,hecho",
             "recuweb_url": "http://es.recuweb.co/impresora/xataka.com/2015/04/una-impresora-3d-impresa-por-supuesto",
-            "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xataka.com/otros/una-impresora-3d-impresa-por-una-impresora-3d-por-supuesto"
-        },
-        "cnnexpansion.com/2015/04/pancakebot-la-impresora-de-hotcakes-con-sello-mexicano": {
-            "title": "Pancakebot, la impresora de hotcakes con sello mexicano...",
-            "snippet": "El proyecto de Miguel Valenzuela ha recaudado m\u00e1s de 440,000 d\u00f3lares en Kickstarter; funciona con un software que permite dibujar cualquier imagen y trasladarla a la impresora. Por: Francisco Rubio Egea. Viernes, 10...",
-            "date": "2015-04-10",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "impresora",
-            "tags": "funciona,impresora,proyecto",
-            "recuweb_url": "http://es.recuweb.co/impresora/cnnexpansion.com/2015/04/pancakebot-la-impresora-de-hotcakes-con-sello-mexicano",
-            "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/04/09/pancakebot-la-impresora-de-hotcakes-hecha-por-un-mexicano"
-        },
-        "ticbeat.com/2015/04/tiko-una-impresora-3d-de-bajo-coste-que-apuesta": {
-            "title": "Tiko, una impresora 3D de bajo coste que apuesta por el f\u00e1cil uso...",
-            "snippet": "A\u00f1os atr\u00e1s era imposible comprar una impresora de bajo coste. Debido a los precios prohibitivos, la oferta existente quedaba disponible solo para las compa\u00f1\u00edas y otras entidades interesadas en usar la tecnolog\u00eda en...",
-            "date": "2015-04-10",
-            "author_name": "Mihaela Mar\u00edn",
-            "categories": "tecnologia,impresora",
-            "tags": "disponible,tecnolog\u00eda,impresora",
-            "recuweb_url": "http://es.recuweb.co/impresora/ticbeat.com/2015/04/tiko-una-impresora-3d-de-bajo-coste-que-apuesta",
-            "resource_url": "http://www.google.com/search?q=impresora%2Bimpresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ticbeat.com/tecnologias/tiko-una-impresora-3d-de-bajo-coste-apuesta-por-el-facil-uso/"
-        },
-        "xatakaciencia.com/2015/03/el-nuevo-sistema-de-impresora-3d-que-promete-ser-25": {
-            "title": "El nuevo sistema de impresora 3D que promete ser 25 veces m\u00e1s...",
-            "snippet": "El mundo de la impresi\u00f3n 3D parece muy prometedor, y ya no solo se obtienen piezas de pl\u00e1stico, sino tambi\u00e9n comida e incluso \u00f3rganos funcionales. Sin embargo, cuando te pones delante de una impresora 3D normal en...",
-            "date": "2015-03-20",
-            "author_name": "Sergio Parra",
-            "categories": "impresora",
-            "tags": "impresi\u00f3n,nuevo,sistema,impresora",
-            "recuweb_url": "http://es.recuweb.co/impresora/xatakaciencia.com/2015/03/el-nuevo-sistema-de-impresora-3d-que-promete-ser-25",
             "resource_url": "http://www.google.com/search?q=impresora&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xatakaciencia.com/tecnologia/el-nuevo-sistema-de-impresora-3d-que-promete-ser-25-veces-mas-rapida-que-la-impresion-3d"
-        },
-        "rekrejilsound.wordpress.com/2015/03/descargar-controlador-de-hp-f2480": {
-            "title": "Descargar controlador de hp f2480...",
-            "snippet": "DOWNLOAD Ahora tienes el driver o controlador de la impresora multifunci\u00f3n de HP Officejet J4500 Series. Para Windows 7. Desc\u00e1rgalo, es GRATIS. HP Officejet Basic Print and. Estas listo para Descargar Hp Deskjet f2480 Driver, los enlaces...",
-            "date": "2015-03-15",
-            "author_name": "rekrejilsound",
-            "categories": "impresora",
-            "tags": "enlaces,deskjet,driver,descargar,ahora,impresora,windows",
-            "recuweb_url": "http://es.recuweb.co/impresora/rekrejilsound.wordpress.com/2015/03/descargar-controlador-de-hp-f2480",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=impresora%2Bimpresora&rss=1&lng=es",
-            "source_url": "http://rekrejilsound.wordpress.com/2015/03/15/descargar-controlador-de-hp-f2480/"
-        },
-        "gensandpresen2367.wordpress.com/2015/03/descargar-controladores-hp-f2480": {
-            "title": "Descargar controladores hp f2480...",
-            "snippet": "Download Descargar Hp Deskjet f2480 Driver Windows 8 7 Vista XP Visita driverdeimpresora y descargalo directo sin. El Driver de HP Deskjet F2480 es un programa que permitir\u00e1 a Windows gestionar correctamente este tipo de impresora multifuncional,...",
-            "date": "2015-03-15",
-            "author_name": "gensandpresen2367",
-            "categories": "impresora",
-            "tags": "tipo,driver,windows,deskjet,controladores,descargar,impresora",
-            "recuweb_url": "http://es.recuweb.co/impresora/gensandpresen2367.wordpress.com/2015/03/descargar-controladores-hp-f2480",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=impresora%2Bimpresora&rss=1&lng=es",
-            "source_url": "http://gensandpresen2367.wordpress.com/2015/03/15/descargar-controladores-hp-f2480/"
+            "source_url": "http://xataka.com/otros/una-impresora-3d-impresa-por-una-impresora-3d-por-supuesto"
         }
     }
 }

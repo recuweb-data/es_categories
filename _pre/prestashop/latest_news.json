@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "prestashop",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/prestashop/",
@@ -11,12 +11,61 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/prestashop/prestashop/blogs.json"
     },
     "items": {
+        "laregion.es/2015/04/el-fen%C3%B3meno-del-bitcoin": {
+            "title": "El fen\u00f3meno del bitcoin...",
+            "snippet": "No obstante, debido al creciente inter\u00e9s que ha despertado, en la actualidad las plataformas de comercio electr\u00f3nico m\u00e1s populares, como Prestashop, Magento o Shopify, disponen de m\u00f3dulos espec\u00edficos para facilitar el pago con bitcoins en una...",
+            "date": "2015-04-27",
+            "categories": "prestashop,magento",
+            "tags": "m\u00f3dulos,pago,plataformas,prestashop,magento",
+            "recuweb_url": "http://es.recuweb.com/magento/laregion.es/2015/04/el-fen%C3%B3meno-del-bitcoin",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
+            "source_url": "http://laregion.es/articulo/euro/fenomeno-bitcoin/20150427110818540100.html"
+        },
+        "smallbiztrends.com/2015/04/how-handmade-ecommerce-sites-gain-from-etsy-s-growth-small-business": {
+            "title": "How Handmade eCommerce Sites Gain From Etsy's Growth - Small Business Trends...",
+            "snippet": "Small Business TrendsHow Handmade eCommerce Sites Gain From Etsy's GrowthSmall Business TrendsPrestaShop offers merchants the ability to open a fully hosted and supported online store for free. Etsy, for example, charges sellers 3.5 percent of the...",
+            "date": "2015-04-27",
+            "tags": "charges,open,ecommerce,sites,growth",
+            "recuweb_url": "http://es.recuweb.com/smallbiztrends.com/2015/04/how-handmade-ecommerce-sites-gain-from-etsy-s-growth-small-business",
+            "resource_url": "http://news.google.es/?hl=es&q=prestashop%2Bprestashop&output=atom&nord=1",
+            "source_url": "http://smallbiztrends.com/2015/04/etsy-growth-handmade-emcommerce-sites.html"
+        },
+        "bandaancha.eu/2015/04/quantis-internet-para-tienda-online": {
+            "title": "QUANTIS - internet para tienda online...",
+            "snippet": "Vamos a poner en marcha una tienda online con prestashop para vender artesan\u00eda local y resulta que no me llega la cobertura de adsl de las compa\u00f1\u00edas habituales. Tras investigar y estar varias semanas leyendo en foros, parece que lo que m\u00e1s me...",
+            "date": "2015-04-24",
+            "categories": "internet,prestashop",
+            "tags": "tienda,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/bandaancha.eu/2015/04/quantis-internet-para-tienda-online",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
+            "source_url": "http://bandaancha.eu/foros/quantis-internet-tienda-online-1717549"
+        },
+        "es.paperblog.com/2015/04/incrementar-de-forma-masiva-precios-en-sql-prestashop": {
+            "title": "Incrementar de forma masiva precios en SQL prestashop...",
+            "snippet": "Por si os surge tener que subir o bajar los precios de forma masiva en la base de datos de prestashop, aqui os dejo un script para subir los precios de un determinado fabricante un 2%: UPDATE ps_product, ps_product_shop SET=ps_product...",
+            "date": "2015-04-23",
+            "categories": "base-de-datos,prestashop",
+            "tags": "forma,prestashop",
+            "recuweb_url": "http://es.recuweb.com/prestashop/es.paperblog.com/2015/04/incrementar-de-forma-masiva-precios-en-sql-prestashop",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/incrementar-de-forma-masiva-precios-en-sql-prestashop-3175332/"
+        },
+        "tusmedios.es/2015/04/paytpv-m%C3%B3dulos-de-pago-avanzados-magento-y-prestashop": {
+            "title": "PAYTPV M\u00d3DULOS DE PAGO AVANZADOS MAGENTO Y PRESTASHOP...",
+            "snippet": "Si eres un desarrollador o est\u00e1 pensando en montarte una tienda con PRESTASHOP o MAGENTO estos m\u00f3dulos de pago te facilitaran mucho la tarea, a la vez que mejoraran la conversi\u00f3n de tus ventas. Los m\u00f3dulos de pago son gratuitos y pueden ser...",
+            "date": "2015-04-23",
+            "categories": "magento,prestashop",
+            "tags": "m\u00f3dulos,pago,son,pueden,magento,prestashop,tienda",
+            "recuweb_url": "http://es.recuweb.com/prestashop/tusmedios.es/2015/04/paytpv-m%C3%B3dulos-de-pago-avanzados-magento-y-prestashop",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
+            "source_url": "http://tusmedios.es/notas-de-prensa-actualidad/espana/65762-paytpv-modulos-de-pago-avanzados-magento-y-prestashop.html"
+        },
         "zaragozaonline.com/2015/04/dise%C3%B1o-web-en-tiendas-online": {
             "title": "Dise\u00f1o web en tiendas online...",
             "snippet": "Ejemplos de ellos son: Magento y Prestashop. En un caso as\u00ed, si bien no es preciso que tengas conocimientos de programaci\u00f3n, s\u00ed precisar\u00e1s realizar un f\u00e1cil proceso de descarga de ficheros del sistema que escojas para despu\u00e9s cargarlos en tu...",
             "date": "2015-04-22",
             "categories": "conocimiento,magento,prestashop",
-            "tags": "realizar,web,magento,prestashop",
+            "tags": "realizar,descarga,son,web,magento,prestashop",
             "recuweb_url": "http://es.recuweb.com/prestashop/zaragozaonline.com/2015/04/dise%C3%B1o-web-en-tiendas-online",
             "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
             "source_url": "http://zaragozaonline.com/201504227787/Diseno-web-en-tiendas-online"
@@ -26,29 +75,19 @@
             "snippet": "Freelance dev sp\u00e9cialis\u00e9(e) en PrestashopPresse-citron (Blog)Dans le cadre d'un projet eCommerce je cherche un(e) freelance dev sp\u00e9cialis\u00e9(e) en Prestashop pour travailler en bin\u00f4me avec moi. Missions. Compl\u00e9ter le cahier des charges;...",
             "date": "2015-04-22",
             "categories": "prestashop",
-            "tags": "pour,prestashop,dans,ecommerce",
+            "tags": "charges,pour,prestashop,dans,ecommerce",
             "recuweb_url": "http://es.recuweb.com/prestashop/emploi.presse-citron.net/2015/04/freelance-dev-sp%C3%A9cialis%C3%A9-e-en-prestashop-presse-citron-blog",
-            "resource_url": "http://news.google.es/?hl=es&q=prestashop&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=prestashop%2Bprestashop&output=atom&nord=1",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Freelance+dev+sp\u00e9cialis\u00e9(e)+en+Prestashop/30079"
-        },
-        "bandaancha.eu/2015/04/quantis-internet-para-tienda-online": {
-            "title": "QUANTIS - internet para tienda online...",
-            "snippet": "Vamos a poner en marcha una tienda online con prestashop para vender artesan\u00eda local y resulta que no me llega la cobertura de adsl de las compa\u00f1\u00edas habituales. Tras investigar y estar varias semanas leyendo en foros, parece que lo que m\u00e1s me...",
-            "date": "2015-04-22",
-            "categories": "internet,prestashop",
-            "tags": "tienda,prestashop",
-            "recuweb_url": "http://es.recuweb.com/prestashop/bandaancha.eu/2015/04/quantis-internet-para-tienda-online",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
-            "source_url": "http://bandaancha.eu/foros/quantis-internet-tienda-online-1717549"
         },
         "prweb.com/2015/04/prestashop-s-community-now-running-230000-online-stores-pr-web-press": {
             "title": "PrestaShop's community now running 230000 online stores - PR Web (press release)...",
             "snippet": "PrestaShop's community now running 230000 online storesPR Web (press release)PrestaShop, an industry leader in open source solutions for ecommerce, today announced significant growth in the number of stores running on PrestaShop, with 230,000 active...",
             "date": "2015-04-21",
             "categories": "prestashop",
-            "tags": "solutions,ecommerce,web,prestashop",
+            "tags": "growth,open,solutions,ecommerce,web,prestashop",
             "recuweb_url": "http://es.recuweb.com/prestashop/prweb.com/2015/04/prestashop-s-community-now-running-230000-online-stores-pr-web-press",
-            "resource_url": "http://news.google.es/?hl=es&q=prestashop&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=prestashop%2Bprestashop&output=atom&nord=1",
             "source_url": "http://prweb.com/releases/2015/04/prweb12665863.htm"
         },
         "frenchweb.fr/2015/04/dans-les-nouveaux-locaux-de-prestashop-le-d%C3%A9veloppeur-est-roi": {
@@ -56,9 +95,9 @@
             "snippet": "les nouveaux locaux de PrestaShop, le d\u00e9veloppeur est est fier de sa nouvelle implantation en plein Paris. Pour le fournisseur de solutions de d\u00e9veloppement pour les sites d'e-commerce, le 12 rue d'Amsterdam est un lieu embl\u00e9matique. A la fin du...",
             "date": "2015-04-20",
             "categories": "prestashop",
-            "tags": "solutions,pour,dans,prestashop",
+            "tags": "solutions,pour,sites,dans,prestashop",
             "recuweb_url": "http://es.recuweb.com/prestashop/frenchweb.fr/2015/04/dans-les-nouveaux-locaux-de-prestashop-le-d%C3%A9veloppeur-est-roi",
-            "resource_url": "http://news.google.es/?hl=es&q=prestashop&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=prestashop%2Bprestashop&output=atom&nord=1",
             "source_url": "http://frenchweb.fr/dans-les-nouveaux-locaux-de-prestashop-le-developpeur-est-roi/191343"
         },
         "es.paperblog.com/2015/04/errores-que-salen-caros": {
@@ -66,30 +105,10 @@
             "snippet": "El uso masivo de plataformas basadas en Magento y Prestashop lleva a pensar que una tienda onlien puede funcionar sola; y eso no es as\u00ed. No podemos olvidar el alt\u00edsimo componente de externalizaci\u00f3n a que nos obligamos: log\u00edstica, transporte...",
             "date": "2015-04-17",
             "categories": "magento,prestashop",
-            "tags": "magento,prestashop,tienda,transporte",
+            "tags": "plataformas,magento,prestashop,tienda,transporte",
             "recuweb_url": "http://es.recuweb.com/prestashop/es.paperblog.com/2015/04/errores-que-salen-caros",
             "resource_url": "http://www.bing.com/news/search?first=1&q=prestashop&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/errores-que-salen-caros-3164963/"
-        },
-        "cmscritic.com/2015/04/prestashop-cloud-review-cms-critic": {
-            "title": "PrestaShop Cloud Review - CMS Critic...",
-            "snippet": "CMS CriticPrestaShop Cloud ReviewCMS CriticThe eCommerce giant, which powers over 230,000 websites, took leaps towards becoming one of the most powerful and accessible online store solutions in existence. And that's no mean feat. They did that by...",
-            "date": "2015-04-15",
-            "categories": "prestashop",
-            "tags": "that,store,solutions,prestashop,ecommerce",
-            "recuweb_url": "http://es.recuweb.com/prestashop/cmscritic.com/2015/04/prestashop-cloud-review-cms-critic",
-            "resource_url": "http://news.google.es/?hl=es&q=prestashop&output=atom&nord=1",
-            "source_url": "http://cmscritic.com/prestashop-cloud-review/"
-        },
-        "socialbarrel.com/2015/03/prestashop-your-one-stop-ecommerce-solution-social-barrel-blog": {
-            "title": "PrestaShop-Your One-Stop Ecommerce Solution - Social Barrel (blog)...",
-            "snippet": "Social Barrel (blog)PrestaShop-Your One-Stop Ecommerce SolutionSocial Barrel (blog)Does the name PrestaShop ring a bell? It is a one-stop shop that provides support and hundreds of innovative tools to build and manage a successful online store at no...",
-            "date": "2015-03-26",
-            "categories": "prestashop",
-            "tags": "that,store,ecommerce,prestashop",
-            "recuweb_url": "http://es.recuweb.com/prestashop/socialbarrel.com/2015/03/prestashop-your-one-stop-ecommerce-solution-social-barrel-blog",
-            "resource_url": "http://news.google.es/?hl=es&q=prestashop&output=atom&nord=1",
-            "source_url": "http://socialbarrel.com/prestashop-your-one-stop-ecommerce-solution/97842/"
         }
     }
 }

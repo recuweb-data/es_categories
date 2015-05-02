@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wiki",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/wiki/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/wiki/wiki/blogs.json"
     },
     "items": {
+        "blogocio.net/2015/04/guia-de-camaradas-monster-hunter-4": {
+            "title": "Guia de Camaradas Monster Hunter 4...",
+            "snippet": "La informaci\u00f3n ha sido recolectada de la Wiki inglesa de Monster Hunter y las traducciones sacadas de mi propio juego (Hay 2 habilidades que he tenido que traducirlas como he podido ya que no las ten\u00eda). Adem\u00e1s de esto, podr\u00e9is encontrar un...",
+            "date": "2015-04-27",
+            "categories": "wiki",
+            "tags": "informaci\u00f3n,wiki,adem\u00e1s",
+            "recuweb_url": "http://es.recuweb.com/wiki/blogocio.net/2015/04/guia-de-camaradas-monster-hunter-4",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=es",
+            "source_url": "http://blogocio.net/bgh/foro-monster-hunter-gr/foro/guia-de-camaradas-monster-hunter-4_94633/"
+        },
         "thehindubusinessline.com/2015/04/muthoot-group-ties-up-with-wiki-tech-for-us-india-payment": {
             "title": "Muthoot Group ties up with Wiki Tech for US-India payment corridor - Hindu Business Line...",
             "snippet": "Muthoot Group ties up with Wiki Tech for US-India payment corridorHindu Business LineThe association with WikiTechnologies will expand Muthoot Group's reach in the US, while allowing Wiki Technologies to leverage the international money transfer...",
@@ -28,7 +38,7 @@
             "categories": "wiki",
             "tags": "only,currently,this,wiki,everything",
             "recuweb_url": "http://es.recuweb.com/wiki/gamingbolt.com/2015/04/trine-3-the-artifacts-of-power-wiki-everything-you-need-to",
-            "resource_url": "http://news.google.es/?hl=es&q=wiki&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=wiki%2Bwiki&output=atom&nord=1",
             "source_url": "http://gamingbolt.com/trine-3-the-artifacts-of-power-wiki"
         },
         "avclub.com/2015/04/wikipedia-s-list-of-monoliths-looms-ominously-a-v-club-austin": {
@@ -65,7 +75,7 @@
             "snippet": "Del \u00e9xito de Squeeze-LTS depender\u00eda repetirlo Wheezy y Jessie; es lo que se dijo entonces y lo que sigue visible en la wiki de Debian. Sin embargo, Debian 8 se lanza desde un principio como LTS, adem\u00e1s, de manera m\u00e1s organizada seg\u00fan parece...",
             "date": "2015-04-25",
             "categories": "wiki",
-            "tags": "primera,wiki",
+            "tags": "primera,wiki,adem\u00e1s",
             "recuweb_url": "http://es.recuweb.com/wiki/muylinux.com/2015/04/disponible-debian-8-jessie-primera-versi%C3%B3n-con-soporte-lts",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=es",
             "source_url": "http://muylinux.com/2015/04/26/debian-8-jessie"
@@ -79,16 +89,6 @@
             "recuweb_url": "http://es.recuweb.com/wiki/elnuevodia.com/2015/04/los-trucos-y-secretos-de-wikipedia",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=es",
             "source_url": "http://elnuevodia.com/tecnologia/tecnologia/nota/lostrucosysecretosdewikipedia-2039395/"
-        },
-        "time.com/2015/04/chairman-of-uk-s-ruling-party-denies-editing-his-wiki-entry": {
-            "title": "Chairman of UK's Ruling Party Denies Editing His Wiki Entry and... - TIME...",
-            "snippet": "TIMEChairman of UK's Ruling Party Denies Editing His Wiki Entry and...TIMEU.K. Conservative Party chairman Grant Shapps was in an all-out denial mode on Wednesday, after a story broke in the Guardian this week claiming he had edited his own...",
-            "date": "2015-04-23",
-            "categories": "wiki",
-            "tags": "this,wiki",
-            "recuweb_url": "http://es.recuweb.com/wiki/time.com/2015/04/chairman-of-uk-s-ruling-party-denies-editing-his-wiki-entry",
-            "resource_url": "http://news.google.es/?hl=es&q=wiki%2Bwiki&output=atom&nord=1",
-            "source_url": "http://time.com/3832479/uk-conservative-wikipedia-grant-shapps/"
         },
         "cubadebate.cu/2015/04/sony-tiene-lazos-con-la-casa-blanca-revela-wikileaks-cubadebate": {
             "title": "Sony tiene lazos con la Casa Blanca, revela Wikileaks - CubaDebate...",

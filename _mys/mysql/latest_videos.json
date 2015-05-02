@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
-        "youtube.com/2014/12/generar-un-reporte-grafico-con-highcharts-php-mysql": {
-            "title": "generar un reporte grafico con highcharts php - mysql...",
-            "snippet": "generar un reporte grafico con highcharts php - mysql generar un reporte grafico con highcharts php - mysql para que reconosca el codigo php dentro de javascript la pagina tiene que ser.php quisas muchos ya lo saben pero bueno apara algunos vale...",
-            "date": "2014-12-24",
-            "author_name": "Elmer Rodriguez",
-            "categories": "php,mysql,javascript",
-            "tags": "php,mysql",
-            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2014/12/generar-un-reporte-grafico-con-highcharts-php-mysql",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql%2Bmysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=cUkS9ZcBiuI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/cUkS9ZcBiuI/0.jpg"
-        },
         "dailymotion.com/2014/11/descargar-mysql-server-5": {
             "title": "Descargar MYSQL server 5.5...",
             "snippet": "Descarga el MYSQL!GRATIS!: Like y suscribete:DAuthor: Descargas-gratis96Tags: Instalar MYSQL 5.5 descagar mysqlserver 5.5 Posted: 10 November 2014Rating:: 0...",
@@ -37,7 +25,7 @@
         },
         "youtube.com/2014/09/descargar-e-instalar-mysql-full": {
             "title": "descargar e instalar mysql full...",
-            "snippet": "descargar e instalar mysql full descargar e instalar mysql full aki les ense\u00f1o a como descargar e instalar mysql para windows 7 32 bits espero y les guste like y suscribanse a mi canal. From: Jovani Tolentino Views: 3615 5 ratings Time: 09:20 More...",
+            "snippet": "descargar e instalar mysql full descargar e instalar mysql full aki les ense\u00f1o a como descargar e instalar mysql para windows 7 32 bits espero y les guste like y suscribanse a mi canal. From: Jovani Tolentino Views: 3660 6 ratings Time: 09:20 More...",
             "date": "2014-09-23",
             "author_name": "Jovani Tolentino",
             "categories": "mysql",
@@ -49,7 +37,7 @@
         },
         "youtube.com/2014/08/login-en-php-y-mysql": {
             "title": "login en php y mysql...",
-            "snippet": "login en php y mysql En este video hablameros del login de manera sencilla sin tanta vuelta des complicado y practico espero que les haya gustado no olviden suscribirse dar like y comentar alguna duda por favor... From: CodigoAdsi Views: 25025 132...",
+            "snippet": "login en php y mysql En este video hablameros del login de manera sencilla sin tanta vuelta des complicado y practico espero que les haya gustado no olviden suscribirse dar like y comentar alguna duda por favor... From: CodigoAdsi Views: 26062 140...",
             "date": "2014-08-29",
             "author_name": "CodigoAdsi",
             "categories": "php,mysql",
@@ -109,7 +97,7 @@
         },
         "youtube.com/2014/04/relacionar-2-tablas-por-consola-en-mysql": {
             "title": "Relacionar 2 tablas por consola en MySQL...",
-            "snippet": "Relacionar 2 tablas por consola en MySQL Alumno: Juan Carlos. From: Videos Views: 3162 14 ratings Time: 16:48 More in People & Blogs...",
+            "snippet": "Relacionar 2 tablas por consola en MySQL Alumno: Juan Carlos. From: Videos Views: 3301 15 ratings Time: 16:48 More in People & Blogs...",
             "date": "2014-04-25",
             "author_name": "Videos",
             "categories": "mysql",
@@ -130,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x1l349s_como-instalar-hedi-mysql_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1l349s_como-instalar-hedi-mysql_tech"
+        },
+        "youtube.com/2014/02/tutorial-programaci%C3%B3n-8-mysql-store-procedure-transacciones": {
+            "title": "Tutorial programaci\u00f3n 8. Mysql. Store procedure. Transacciones...",
+            "snippet": "Tutorial programaci\u00f3n 8. Mysql. Store procedure. Transacciones Subscribite! En este video ya termino la parte basica de mysql hablando ya de algo mas elaborado como son los store procedure/procedimientos almacenados y que son las transacciones.",
+            "date": "2014-02-28",
+            "author_name": "Trek",
+            "categories": "mysql",
+            "tags": "mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/02/tutorial-programaci%C3%B3n-8-mysql-store-procedure-transacciones",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql%2Bmysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=2G4b1XuTc6k&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/2G4b1XuTc6k/0.jpg"
         }
     }
 }

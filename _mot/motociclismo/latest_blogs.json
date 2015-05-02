@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "motociclismo",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/motociclismo/",
@@ -11,49 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/motociclismo/motociclismo/blogs.json"
     },
     "items": {
-        "deportesenavila.blogspot.com/2015/04/motociclismo-entrenamientos-de-josu%C3%A9-deportes-en-%C3%A1vila": {
-            "title": "MOTOCICLISMO Entrenamientos de Josu\u00e9... - deportes en \u00e1vila...",
-            "snippet": "deportesavila/El \u00faltimo fin de semana, el piloto de Cuevas del Valle, Josu\u00e9 Moreno, ha estado en los entrenando en el Circuito de Jerez, lugar donde correr\u00e1 varias veces esta temporada entre el Campeonato Andaluz,...",
-            "date": "2015-04-20",
+        "deportebalear.com/2015/04/comision-femenina-de-motociclismo-general-deporte": {
+            "title": "COMISION FEMENINA DE MOTOCICLISMO General Deporte...",
+            "snippet": "Con motivo de la 39 edici\u00f3n de la Vuelta Internacional a Mallorca que se celebra el pr\u00f3ximo domingo 26 de abril, antes de la salida presentaremos a las pilotos de la FBM (Federaci\u00f3n Balear de Motociclismo) que en su...",
+            "date": "2015-04-24",
+            "author_name": "Editor",
+            "categories": "motociclismo,deporte",
+            "tags": "federaci\u00f3n,abril,internacional,edici\u00f3n,motivo,motociclismo,deporte,pr\u00f3ximo,domingo,pilotos",
+            "recuweb_url": "http://es.recuweb.com/deporte/deportebalear.com/2015/04/comision-femenina-de-motociclismo-general-deporte",
+            "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://deportebalear.com/2015/04/24/comision-femenina-de-motociclismo/"
+        },
+        "deportesenavila.blogspot.com/2015/04/motociclismo-cuatro-podios-para-el-mc-deportes-en-%C3%A1vila": {
+            "title": "MOTOCICLISMO Cuatro podios para el MC... - deportes en \u00e1vila...",
+            "snippet": "deportesavila/El Moto Club Valle del Ti\u00e9tar obtuvo tres triunfos en el III Trial de Casillas, Memorial Pepa, prueba puntuable para el campeonato de Castilla y Le\u00f3n de la especialidad y de la que era organizador, donde...",
+            "date": "2015-04-23",
             "author_name": "Deportes en \u00c1vila",
             "categories": "motociclismo",
-            "tags": "campeonato,lugar,fin,motociclismo,\u00fal,semana,piloto,circuito,jerez",
-            "recuweb_url": "http://es.recuweb.com/motociclismo/deportesenavila.blogspot.com/2015/04/motociclismo-entrenamientos-de-josu%C3%A9-deportes-en-%C3%A1vila",
-            "resource_url": "http://www.google.com/search?q=motociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://deportesenavila.blogspot.com/2015/04/motociclismo-entrenamientos-de-josue.html"
+            "tags": "puntuable,moto,motociclismo,prueba,campeonato",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/deportesenavila.blogspot.com/2015/04/motociclismo-cuatro-podios-para-el-mc-deportes-en-%C3%A1vila",
+            "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://deportesenavila.blogspot.com/2015/04/motociclismo-cuatro-podios-para-el-mc.html"
+        },
+        "elagora.net/2015/04/motociclismo-pablo-quintanilla-saca-la-cara-en-qatar-revista": {
+            "title": "Motociclismo: Pablo Quintanilla saca la cara en Qatar Revista El...",
+            "snippet": "Motociclismo: Pablo Quintanilla saca la cara en Qatar. Noticias. 0. El piloto chileno est\u00e1 participando en el Mundial de Qatar 2015. En la segunda etapa fue quien abri\u00f3 la pista en pleno desierto africano, algo que no fue...",
+            "date": "2015-04-22",
+            "author_name": "El \u00c1gora",
+            "categories": "motociclismo",
+            "tags": "motociclismo,piloto,mundial,segunda",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/elagora.net/2015/04/motociclismo-pablo-quintanilla-saca-la-cara-en-qatar-revista",
+            "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elagora.net/motociclismo-pablo-quintanilla-saca-la-cara-en-qatar/"
+        },
+        "motorvsmotor.com/2015/04/previo-1-prueba-del-campeonato-race-de-motociclismo-2015": {
+            "title": "Previo 1 prueba del Campeonato RACE de Motociclismo 2015...",
+            "snippet": "El pr\u00f3ximo domingo, d\u00eda 26 de Abril, se disputara en el Circuito del Jarama la primera prueba y cita inaugural del Campeonato RACE de Motociclismo 2015. Para esta ocasi\u00f3n, el meeting contara con 4 carreras (Clase A,...",
+            "date": "2015-04-22",
+            "author_name": "Fotos Alcobendas",
+            "categories": "motociclismo",
+            "tags": "primera,campeonato,prueba,motociclismo,pr\u00f3ximo,domingo,abril,circuito,carreras",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/motorvsmotor.com/2015/04/previo-1-prueba-del-campeonato-race-de-motociclismo-2015",
+            "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://motorvsmotor.com/2015/04/22/previo-1o-prueba-del-campeonato-race-de-motociclismo-2015/"
         },
         "motor.as.com/2015/04/tito-rabat-no-pudo-arrebatarle-la-pole-a-johann-zarco": {
             "title": "Tito Rabat no pudo arrebatarle la pole a Johann Zarco...",
-            "snippet": "Box34, por Mela Ch\u00e9rcoles. Est\u00e1s en BOX34, el blog de Mela Ch\u00e9rcoles, enviado especial del diario AS a los Grandes Premios del Mundial de Motociclismo. Motormercado!!! Que vienen los chinos \u00a1\u00a1\u00a1. China es un mercado...",
+            "snippet": "Box34, por Mela Ch\u00e9rcoles. Est\u00e1s en BOX34, el blog de Mela Ch\u00e9rcoles, enviado especial del diario AS a los Grandes Premios del Mundial de Motociclismo. Motormercado McLaren 540C. McLaren tiene una estrategia de...",
             "date": "2015-04-18",
             "author_name": "Mela Ch\u00e9rcoles",
             "categories": "motociclismo",
-            "tags": "grandes,grandes_premios,premios,enviado,enviado-especial,especial,especial-del-diario,diario,mela,mela_ch\u00e9rcoles,ch\u00e9rcoles,johann,zarco,tito,tito_rabat,rabat,box,est\u00e1s,mundial,motociclismo",
+            "tags": "motormercado,grandes,grandes_premios,premios,enviado,enviado-especial,especial,especial-del-diario,diario,mela,mela_ch\u00e9rcoles,ch\u00e9rcoles,box,est\u00e1s,mundial,motociclismo",
             "recuweb_url": "http://es.recuweb.com/motociclismo/motor.as.com/2015/04/tito-rabat-no-pudo-arrebatarle-la-pole-a-johann-zarco",
             "resource_url": "http://www.google.com/search?q=motociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://motor.as.com/motor/2015/04/18/motociclismo/1429384710_839059.html"
-        },
-        "reporterosjerez.com/2015/04/jerez-capital-mundial-del-motociclismo-patrocina-al-piloto-jerezano": {
-            "title": "Jerez Capital Mundial del Motociclismo patrocina al piloto jerezano...",
-            "snippet": "El coordinador de Jerez Capital Mundial del Motociclismo, Antonio Salda\u00f1a, ha firmado hoy el a cuerdo de patrocinio del joven piloto de Jerez, de 12 a\u00f1os de edad, Fau Ca\u00f1ero, quien participar\u00e1 en la competici\u00f3n nacional...",
-            "date": "2015-04-17",
-            "author_name": "reporteros",
-            "categories": "motociclismo",
-            "tags": "competici\u00f3n,antonio,antonio_salda\u00f1a,salda\u00f1a,coordinador,jerez,jerez_capital,jerez_capital_mundial,capital,capital_mundial,mundial,motociclismo,piloto,jerezano",
-            "recuweb_url": "http://es.recuweb.com/motociclismo/reporterosjerez.com/2015/04/jerez-capital-mundial-del-motociclismo-patrocina-al-piloto-jerezano",
-            "resource_url": "http://www.google.com/search?q=motociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://reporterosjerez.com/2015/04/17/jerez-capital-mundial-del-motociclismo-patrocina-al-piloto-jerezano-fau-canero/"
-        },
-        "motociclismofemenino.com/2015/04/taru-rinne-la-mejor-piloto-femenina-del-mundial-de-motociclismo": {
-            "title": "Taru Rinne, la mejor piloto femenina del Mundial de Motociclismo...",
-            "snippet": "Pronunciar el nombre de Taru Rinne, para una admiradora del motociclismo, y m\u00e1s del femenino, como yo, es como hablar de Rossi o M\u00e1rquez, de repente se te infla el pecho de orgullo. Taru llega al mundial de velocidad...",
-            "date": "2015-04-16",
-            "author_name": "Motociclismo Femenino",
-            "categories": "motociclismo",
-            "tags": "llega,femenina,piloto,mundial,motociclismo,femenino,rossi,velocidad",
-            "recuweb_url": "http://es.recuweb.com/motociclismo/motociclismofemenino.com/2015/04/taru-rinne-la-mejor-piloto-femenina-del-mundial-de-motociclismo",
-            "resource_url": "http://www.google.com/search?q=motociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://motociclismofemenino.com/taru-rinne-la-mejor-piloto-femenina-del-mundial-de-motociclismo/"
         },
         "ind.cl/2015/04/talca-vivir%C3%A1-la-fiesta-del-mundial-de-motociclismo-enduro-ind": {
             "title": "Talca vivir\u00e1 la fiesta del Mundial de Motociclismo Enduro - IND...",
@@ -61,21 +72,10 @@
             "date": "2015-04-15",
             "author_name": "Maximiliano Guerrero",
             "categories": "motociclismo",
-            "tags": "abril,disputar\u00e1,ciudad,moto,gran,gran_premio,premio,llega,n\u00famero,campeonato,motociclismo,fiesta,mundial",
+            "tags": "abril,disputar\u00e1,ciudad,moto,enduro,gran,gran_premio,premio,campeonato,motociclismo,mundial",
             "recuweb_url": "http://es.recuweb.com/motociclismo/ind.cl/2015/04/talca-vivir%C3%A1-la-fiesta-del-mundial-de-motociclismo-enduro-ind",
             "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ind.cl/mundial-motociclismo-enduro/"
-        },
-        "salimos.net/2015/04/bel%C3%A9n-recibir%C3%A1-el-campeonato-regional-de-motociclismo-pr%C3%B3ximo": {
-            "title": "Bel\u00e9n recibir\u00e1 el Campeonato Regional de Motociclismo el pr\u00f3ximo...",
-            "snippet": "El pr\u00f3ximo domingo 19 de abril se disputar\u00e1 la 2da fecha del Campeonato Regional Zona Litoral de Motociclismo en la localidad de BEL\u00c9N, luego de 40 a\u00f1os sin esta actividad en el lugar. Participar\u00e1n 13 categor\u00edas, con la presencia de...",
-            "date": "2015-04-14",
-            "author_name": "Gabriel Paique",
-            "categories": "motociclismo",
-            "tags": "lugar,abril,disputar\u00e1,domingo,campeonato,motociclismo",
-            "recuweb_url": "http://es.recuweb.com/motociclismo/salimos.net/2015/04/bel%C3%A9n-recibir%C3%A1-el-campeonato-regional-de-motociclismo-pr%C3%B3ximo",
-            "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://salimos.net/belen-recibira-el-campeonato-regional-de-motociclismo-el-proximo-domingo/"
         },
         "aeea.org/2015/04/jerez-capital-mundial-del-motociclismo-2015-asociaci%C3%B3n-espa%C3%B1ol": {
             "title": "Jerez Capital Mundial del Motociclismo 2015 Asociaci\u00f3n Espa\u00f1ol...",
@@ -83,7 +83,7 @@
             "date": "2015-04-14",
             "author_name": "Paula Albacete",
             "categories": "motociclismo",
-            "tags": "ciudad,capital,capital_mundial,mundial,espa\u00f1ol,jerez,jerez_capital,jerez_capital_mundial,motociclismo,primera",
+            "tags": "ciudad,primera,capital,capital_mundial,mundial,federaci\u00f3n,internacional,espa\u00f1ol,jerez,jerez_capital,jerez_capital_mundial,motociclismo",
             "recuweb_url": "http://es.recuweb.com/motociclismo/aeea.org/2015/04/jerez-capital-mundial-del-motociclismo-2015-asociaci%C3%B3n-espa%C3%B1ol",
             "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://aeea.org/jerez-capital-mundial-del-motociclismo-2015"
@@ -94,32 +94,32 @@
             "date": "2015-04-13",
             "author_name": "reporteros",
             "categories": "motociclismo",
-            "tags": "antonio,antonio_salda\u00f1a,salda\u00f1a,coordinador,jerez,jerez_capital,jerez_capital_mundial,capital,capital_mundial,mundial,primer,motociclismo",
+            "tags": "antonio,antonio_salda\u00f1a,salda\u00f1a,teniente,teniente-de-alcalde,alcalde,jerez,jerez_capital,jerez_capital_mundial,capital,capital_mundial,mundial,primer,coordinador,motociclismo",
             "recuweb_url": "http://es.recuweb.com/motociclismo/reporterosjerez.com/2015/04/abierta-la-bolsa-de-trabajo-para-jerez-capital-mundial",
             "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://reporterosjerez.com/2015/04/13/la-bolsa-de-trabajo-para-jerez-capital-mundial-del-motociclismo-abre-el-lunes/"
         },
         "motor.as.com/2015/04/jorge-lorenzo-este-resultado-no-es-el-desastre-del-a%C3%B1o-pasado": {
             "title": "Jorge Lorenzo: Este resultado no es el desastre del a\u00f1o pasado...",
-            "snippet": "Box34, por Mela Ch\u00e9rcoles. Est\u00e1s en BOX34, el blog de Mela Ch\u00e9rcoles, enviado especial del diario AS a los Grandes Premios del Mundial de Motociclismo. Actualidad. Lo visto; Lo \u00faltimo. 1. F\u00fatbolDespiden a un jugador...",
+            "snippet": "... las tecnolog\u00edas y el respeto medioambiental. Box34, por Mela Ch\u00e9rcoles. Est\u00e1s en BOX34, el blog de Mela Ch\u00e9rcoles, enviado especial del diario AS a los Grandes Premios del Mundial de Motociclismo. Motormercado...",
             "date": "2015-04-12",
             "author_name": "Mela Ch\u00e9rcoles",
-            "categories": "motociclismo",
-            "tags": "grandes,grandes_premios,premios,enviado,enviado-especial,especial,especial-del-diario,diario,mela,mela_ch\u00e9rcoles,ch\u00e9rcoles,pasado,lorenzo,box,est\u00e1s,mundial,motociclismo,actualidad,\u00fal",
+            "categories": "tecnologia,motociclismo",
+            "tags": "grandes,grandes_premios,premios,enviado,enviado-especial,especial,especial-del-diario,diario,mela,mela_ch\u00e9rcoles,ch\u00e9rcoles,pasado,jorge,jorge_lorenzo,lorenzo,box,est\u00e1s,mundial,motociclismo,motormercado",
             "recuweb_url": "http://es.recuweb.com/motociclismo/motor.as.com/2015/04/jorge-lorenzo-este-resultado-no-es-el-desastre-del-a%C3%B1o-pasado",
             "resource_url": "http://www.google.com/search?q=motociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://motor.as.com/motor/2015/04/12/motociclismo/1428871265_323960.html"
         },
-        "ondacero.es/2015/04/karlos-argui%C3%B1ano-este-a%C3%B1o-vamos-a-dar-muchas-satisfacciones": {
-            "title": "Karlos Argui\u00f1ano: \"Este a\u00f1o vamos a dar muchas satisfacciones en...",
-            "snippet": "El seguidor de la Real Sociedad, due\u00f1o de la escuder\u00eda de motociclismo AGR Team, y por supuesto cocinero, Karlos Argui\u00f1ano, ha pasado por Radioestadio donde ha repasado c\u00f3mo est\u00e1 siendo el dif\u00edcil camino del equipo...",
-            "date": "2015-04-12",
-            "author_name": "desconocido",
-            "categories": "sociedad,motociclismo",
-            "tags": "equipo,pasado,dar,motociclismo",
-            "recuweb_url": "http://es.recuweb.com/motociclismo/ondacero.es/2015/04/karlos-argui%C3%B1ano-este-a%C3%B1o-vamos-a-dar-muchas-satisfacciones",
-            "resource_url": "http://www.google.com/search?q=motociclismo%2Bmotociclismo&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ondacero.es/audios-online/radioestadio/entrevistas/karlos-arguinano_2015041200930.html"
+        "oroparatodos.wordpress.com/2015/03/nueva-tarjeta-de-oro-la-leyenda-del-motociclismo-carlos-card%C3%BAs": {
+            "title": "Nueva tarjeta de oro de la leyenda del motociclismo Carlos Card\u00fas...",
+            "snippet": "Karatbars se enorgullece en presentar otra tarjeta con oro de colecci\u00f3n y la primera colaboraci\u00f3n en el deporte del motor. El famoso conductor Carlos Card\u00fas es una instituci\u00f3n en []...",
+            "date": "2015-03-24",
+            "author_name": "Jos\u00e9 Manuel Goig",
+            "categories": "deporte,motociclismo",
+            "tags": "conductor,primera,deporte,motor,nueva,motociclismo",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/oroparatodos.wordpress.com/2015/03/nueva-tarjeta-de-oro-la-leyenda-del-motociclismo-carlos-card%C3%BAs",
+            "resource_url": "http://es.search.wordpress.com/?q=motociclismo%2Bmotociclismo&f=feed&page=1",
+            "source_url": "http://oroparatodos.wordpress.com/2015/03/24/nueva-tarjeta-de-oro-de-la-leyenda-del-motociclismo-carlos-cardus/"
         }
     }
 }

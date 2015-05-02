@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sqlite/",
@@ -65,7 +65,7 @@
             "date": "2015-02-21",
             "author_name": "elJulius555",
             "categories": "base-de-datos,sqlite",
-            "tags": "guardaremos,guardaremos-los-datos,datos,manejo,base,base-de-datos,tutorial,tal,tal-camaradas,camaradas,sqlite,express",
+            "tags": "guardaremos,informaci\u00f3n,guardaremos-los-datos,datos,manejo,base,base-de-datos,tutorial,tal,tal-camaradas,camaradas,sqlite,express",
             "recuweb_url": "http://es.recuweb.com/sqlite/dailymotion.com/2015/02/manejo-sqlite-administrator",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/sqlite+sqlite/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hquy8_manejo-sqlite-administrator_lifestyle",
@@ -73,7 +73,7 @@
         },
         "youtube.com/2015/01/android-studio-tutorial-creando-base-de-datos-sqlite": {
             "title": "Android Studio Tutorial Creando Base de Datos SQLite en Android...",
-            "snippet": "Android Studio Tutorial Creando Base de Datos SQLite en Android Tutorial para crear base de datos SQLite en android, video introductorio al partir del cual se creara una aplicacion de preguntas. From: QuizasTePuedaAyudar Views: 1689 9 ratings Time:...",
+            "snippet": "Android Studio Tutorial Creando Base de Datos SQLite en Android Tutorial para crear base de datos SQLite en android, video introductorio al partir del cual se creara una aplicacion de preguntas. From: QuizasTePuedaAyudar Views: 1774 10 ratings Time:...",
             "date": "2015-01-06",
             "author_name": "QuizasTePuedaAyudar",
             "categories": "base-de-datos,sqlite",
@@ -83,13 +83,25 @@
             "source_url": "http://youtube.com/watch?v=jkMcMdcrkB8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/jkMcMdcrkB8/0.jpg"
         },
+        "youtube.com/2014/12/como-descargar-e-instalar-sqlite-cargar-una-base-de-datos": {
+            "title": "Como Descargar e Instalar SQLite - Cargar una Base de Datos...",
+            "snippet": "Como Descargar e Instalar SQLite - Cargar una Base de Datos Le gusto este v\u00eddeo Suscribete para obtener mas informaci\u00f3n: --------------------------------------------------------------------------------------------- l Link de Descarga del...",
+            "date": "2014-12-19",
+            "author_name": "INGENIA ACR",
+            "categories": "sqlite",
+            "tags": "informaci\u00f3n,sqlite,descargar,base,datos,descarga",
+            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/12/como-descargar-e-instalar-sqlite-cargar-una-base-de-datos",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=rx6983emAuQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/rx6983emAuQ/0.jpg"
+        },
         "youtube.com/2014/11/como-descargar-sqlite": {
             "title": "como descargar sqlite...",
             "snippet": "como descargar sqlite link de la descarga no se les olvide subscribirse si les sirvio el video;) From: jmaster tutos Views: 162 3 ratings Time: 01:46 More in Education...",
             "date": "2014-11-04",
             "author_name": "jmaster tutos",
             "categories": "sqlite",
-            "tags": "descargar,sqlite",
+            "tags": "descarga,descargar,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/11/como-descargar-sqlite",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=7a1bLTSSZNQ&feature=youtube_gdata",
@@ -101,35 +113,23 @@
             "date": "2014-10-14",
             "author_name": "Gonzalo P\u00e9rez",
             "categories": "sqlite",
-            "tags": "muestro,datos,datos_sqlite,sqlite,manejo,android,sql",
+            "tags": "consultas,datos,datos_sqlite,sqlite,manejo,android,sql",
             "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/10/manejo-de-bases-datos-sqlite-en-android",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ziVM9JX7u5w&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ziVM9JX7u5w/0.jpg"
         },
-        "youtube.com/2014/10/conexi%C3%B3n-a-sqlite-c": {
-            "title": "Conexi\u00f3n a SQLite C...",
-            "snippet": "Conexi\u00f3n a SQLite C Vemos como podemos conectarnos a una base de datos de SQLite desde nuestro proyecto C Link del Dll: Ay\u00fadanos suscribiendote, compartiendo y d\u00e1ndole like al v\u00eddeo!!... From: Tutoriales y m\u00e1s Views: 395 2 ratings Time: 11:37...",
-            "date": "2014-10-07",
-            "author_name": "Tutoriales y m\u00e1s",
-            "categories": "base-de-datos,sqlite",
-            "tags": "proyecto,base,base-de-datos,datos,conexi\u00f3n,sqlite",
-            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/10/conexi%C3%B3n-a-sqlite-c",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=IC5npdCOvOU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IC5npdCOvOU/0.jpg"
-        },
-        "youtube.com/2014/07/uso-de-sqlite3-en-python": {
-            "title": "Uso de sqlite3 en python...",
-            "snippet": "Uso de sqlite3 en python Saludo, en este tutorial muestro como hacer varias consulta a SQLITE 3 con python uno de los lenguajes de programaci\u00f3n m\u00e1s f\u00e1cil de programar. Si te gusto, suscribete, comenta y no olvides... From: Demo Tuts Views: 830 6...",
-            "date": "2014-07-20",
-            "author_name": "Demo Tuts",
-            "categories": "sqlite",
-            "tags": "tutorial,muestro,sqlite",
-            "recuweb_url": "http://es.recuweb.com/sqlite/youtube.com/2014/07/uso-de-sqlite3-en-python",
+        "youtube.com/2014/08/sqlite-consultas-conexion-java-netbeans-8-0": {
+            "title": "SQLite (Consultas-Conexion) - Java - Netbeans 8.0...",
+            "snippet": "SQLite (Consultas-Conexion) - Java - Netbeans 8.0 Proyecto Completo Descarga: -SQLite Shell x86 -Script Base de Datos -Proyecto en Netbeans 8.0 (ConexionSQLite) From: MrGuz999 Views: 880 5 ratings Time: 01:10:51 More in Science & Technology...",
+            "date": "2014-08-06",
+            "author_name": "MrGuz999",
+            "categories": "sqlite,java",
+            "tags": "base,proyecto,descarga,sqlite,consultas,datos",
+            "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/08/sqlite-consultas-conexion-java-netbeans-8-0",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sqlite%2Bsqlite&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=WJGs3S5oCkA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/WJGs3S5oCkA/0.jpg"
+            "source_url": "http://youtube.com/watch?v=iyw47h49r-s&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/iyw47h49r-s/0.jpg"
         }
     }
 }

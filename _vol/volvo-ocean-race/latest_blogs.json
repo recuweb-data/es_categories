@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "volvo-ocean-race",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/volvo-ocean-race/",
@@ -11,15 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/volvo-ocean-race/volvo-ocean-race/blogs.json"
     },
     "items": {
-        "juanpanews.com/2015/04/reportaje-a-pablo-d%C3%ADaz-mun%C3%ADo-el-m%C3%A9dico-oficial-de-la-volvo": {
-            "title": "Reportaje a Pablo D\u00edaz Mun\u00edo, el m\u00e9dico oficial de la Volvo Ocean...",
-            "snippet": "Reportaje a Pablo D\u00edaz Mun\u00edo, el m\u00e9dico oficial de la Volvo Ocean Race. Publicado el 19 abril, 2015 por Juanpa... Esta entrada fue publicada en Volvo Ocean Race por Juanpa. Guarda el enlace permanente.",
+        "thornado.es/2015/04/grave-problema-con-la-potabilizadora-a-bordo-del-dongfeng-velas": {
+            "title": "Grave problema con la potabilizadora a bordo del Dongfeng Velas...",
+            "snippet": "Un m\u00ednimo de 27 litros de agua por d\u00eda es lo necesario para la supervivencia de un equipo de la Volvo Ocean Race durante las etapas. M\u00e1s si, como es el caso, se aproximan al Ecuador. Se nota que estamos cerca, y ser\u00e1...",
+            "date": "2015-04-21",
+            "author_name": "thornadoweb",
+            "categories": "volvo-ocean-race",
+            "tags": "caso,durante,etapas,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,d\u00eda,equipo,dongfeng,bordo",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/thornado.es/2015/04/grave-problema-con-la-potabilizadora-a-bordo-del-dongfeng-velas",
+            "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://thornado.es/grave-problema-con-la-potabilizadora-a-bordo-del-dongfeng/"
+        },
+        "thornado.es/2015/04/la-flota-de-volvo-ocean-race-se-despega-costa": {
+            "title": "La flota de la Volvo Ocean Race se despega de la costa con el...",
+            "snippet": "Tras un comienzo de etapa dolorosamente lento, la flota finalmente consigui\u00f3 salir de Itaja\u00ed. Team Alvimedica dej\u00f3 la bah\u00eda en primer lugar, con la motivaci\u00f3n extra que supone dirigirse a su puerto base, Newport, Rhode...",
+            "date": "2015-04-20",
+            "author_name": "thornadoweb",
+            "categories": "volvo-ocean-race",
+            "tags": "primer,team,team_alvimedica,alvimedica,costa,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,flota,etapa",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/thornado.es/2015/04/la-flota-de-volvo-ocean-race-se-despega-costa",
+            "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://thornado.es/la-flota-de-la-volvo-ocean-race-se-despega-de-la-costa-con-el-mapfre-en-cabeza/"
+        },
+        "juanpanews.com/2015/04/reportaje-a-pablo-d%C3%ADaz-mun%C3%ADo-m%C3%A9dico-oficial-de-la-volvo-ocean": {
+            "title": "Reportaje a Pablo D\u00edaz Mun\u00edo, m\u00e9dico oficial de la Volvo Ocean Race.",
+            "snippet": "Reportaje a Pablo D\u00edaz Mun\u00edo, m\u00e9dico oficial de la Volvo Ocean Race. Publicado el 19 abril, 2015 por Juanpa. An error occurred. Unable to execute Javascript. Esta entrada fue publicada en Volvo Ocean Race por Juanpa. Guarda el enlace...",
             "date": "2015-04-19",
             "author_name": "Juanpa",
-            "tags": "race,volvo,volvo_ocean,ocean,abril",
-            "recuweb_url": "http://es.recuweb.com/juanpanews.com/2015/04/reportaje-a-pablo-d%C3%ADaz-mun%C3%ADo-el-m%C3%A9dico-oficial-de-la-volvo",
+            "categories": "volvo-ocean-race,javascript",
+            "tags": "volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,abril",
+            "recuweb_url": "http://es.recuweb.com/javascript/juanpanews.com/2015/04/reportaje-a-pablo-d%C3%ADaz-mun%C3%ADo-m%C3%A9dico-oficial-de-la-volvo-ocean",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juanpanews.com/2015/04/reportaje-a-pablo-diaz-munio-el-medico-oficial-de-la-volvo-ocean-race/"
+        },
+        "opengolf.es/2015/04/volvo-ocean-race-la-competici%C3%B3n-comienza-ahora": {
+            "title": "Volvo Ocean Race: La competici\u00f3n comienza ahora...",
+            "snippet": "Volvo Ocean Race 2014-2015 - Itajai Este pr\u00f3ximo domingo comienza la etapa 6 y lo hace con un equipo fuerte en cabeza: Abu Dhabi Ocean Racing (Ian Walker/GBR) estrena nueva etapa con una ventaja de siete puntos...",
+            "date": "2015-04-18",
+            "author_name": "Redacci\u00f3n",
+            "categories": "volvo-ocean-race",
+            "tags": "ventaja,siete,abu,abu_dhabi,abu_dhabi_ocean,dhabi,dhabi_ocean,dhabi_ocean_racing,ocean,ocean_racing,racing,equipo,domingo,competici\u00f3n,ahora,volvo,volvo_ocean,volvo_ocean_race,ocean_race,race,itajai,etapa",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/opengolf.es/2015/04/volvo-ocean-race-la-competici%C3%B3n-comienza-ahora",
+            "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://opengolf.es/z_volvo-ocean-race/volvo-ocean-race-la-competicion-comienza-ahora/"
         },
         "regatistas-virtuales.net/2015/04/volvo-ocean-race-in-port-en-visperas": {
             "title": "VOLVO OCEAN RACE In Port RACE EN VISPERAS...",
@@ -27,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "jrlouro64@hormail.com (Jose Ram\u00f3n Louro)",
             "categories": "volvo-ocean-race",
-            "tags": "horas,ciudad,team,itajai,port,leg,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race",
+            "tags": "horas,team,itajai,port,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race",
             "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/regatistas-virtuales.net/2015/04/volvo-ocean-race-in-port-en-visperas",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://regatistas-virtuales.net/noticias-y-secciones/eventos/vor-2014-2015/item/10788-volvo-ocean-race-2014-15-itajai-in-port-race-en-visperas-de-la-6-leg"
@@ -38,7 +72,7 @@
             "date": "2015-04-17",
             "author_name": "CC",
             "categories": "volvo-ocean-race",
-            "tags": "algunos,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,abril,vor",
+            "tags": "volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,abril,vor",
             "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/autoblog.com.ar/2015/04/la-volvo-ocean-race-seg%C3%BAn-autoblog-argentina",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://autoblog.com.ar/2015/04/17/la-volvo-ocean-race-segun-autoblog/"
@@ -49,7 +83,7 @@
             "date": "2015-04-16",
             "author_name": "Luis Fernandez",
             "categories": "regata,volvo-ocean-race",
-            "tags": "regata,salida,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,mar,mar-salada,salada,port",
+            "tags": "directo,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,port,domingo",
             "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/lamarsalada.info/2015/04/la-mar-salada-vuelve-volvo-ocean-race-in-port-y-salida",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://lamarsalada.info/2015/04/vuelve-la-volvo-ocean-race-la-in-port-y.html"
@@ -60,54 +94,21 @@
             "date": "2015-04-15",
             "author_name": "Eli Galvez",
             "categories": "volvo-ocean-race",
-            "tags": "team,team_sca,sca,abu,abu_dhabi,abu_dhabi_ocean,dhabi,dhabi_ocean,dhabi_ocean_racing,ocean,ocean_racing,racing,dos,equipos,tierra,volvo,volvo_ocean,volvo_ocean_race,ocean_race,race",
+            "tags": "team,team_sca,sca,abu,abu_dhabi,abu_dhabi_ocean,dhabi,dhabi_ocean,dhabi_ocean_racing,ocean,ocean_racing,racing,equipos,cuenta,volvo,volvo_ocean,volvo_ocean_race,ocean_race,race",
             "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/es.boats.com/2015/04/la-trastienda-de-volvo-ocean-race-espa%C3%B1a",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://es.boats.com/boat-content/2015/04/la-trastienda-de-la-volvo-ocean-race/"
         },
-        "regatistas-virtuales.net/2015/04/volvo-ocean-race-2014-15-leg-5-itajai-corona-al-abu": {
-            "title": "VOLVO OCEAN RACE 2014-15. LEG 5. ITAJAI CORONA AL \"ABU...",
-            "snippet": "VOLVO OCEAN RACE 2014-15 LEG 5 AUCKLAND-ITAJAI ABU DHABI PRIMERO EN ITAJAI CON UN MAPFRE SEGUNDO Finalizaba el pasado d\u00eda 5 en Itajai la quinta...",
-            "date": "2015-04-13",
-            "author_name": "jrlouro64@hormail.com (Jose Ram\u00f3n Louro)",
-            "categories": "volvo-ocean-race",
-            "tags": "quinta,dhabi,itajai,mapfre,segundo,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,leg,abu,d\u00eda",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/regatistas-virtuales.net/2015/04/volvo-ocean-race-2014-15-leg-5-itajai-corona-al-abu",
-            "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://regatistas-virtuales.net/noticias-y-secciones/eventos/vor-2014-2015/item/10773-volvo-ocean-race-2014-15-leg-5-itajai-corona-al-abu-dhabi-ocean-racing"
-        },
         "rcna.info/2015/04/conejero-en-ganar-una-etapa-de-la-volvo-ocean-race-real": {
             "title": "conejero en ganar una etapa de la Volvo Ocean Race - Real Club...",
-            "snippet": "0 7. Carlos Hern\u00e1ndez, regatista del Real Club N\u00e1utico de Arrecife, primer conejero en ganar una etapa de la Volvo Ocean Race. img_8295 img-20150410-wa0006 img-20150410-wa0005 img-20150410-wa0004. Twitter.",
+            "snippet": "0 28. Carlos Hern\u00e1ndez, regatista del Real Club N\u00e1utico de Arrecife, primer conejero en ganar una etapa de la Volvo Ocean Race. img_8295 img-20150410-wa0006 img-20150410-wa0005 img-20150410-wa0004 Twitter.",
             "date": "2015-04-12",
             "author_name": "admin",
             "categories": "volvo-ocean-race,twitter",
             "tags": "primer,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,etapa",
             "recuweb_url": "http://es.recuweb.com/twitter/rcna.info/2015/04/conejero-en-ganar-una-etapa-de-la-volvo-ocean-race-real",
-            "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://rcna.info/carlos-hernandez-primero-conejero-en-ganar-una-etapa-de-la-volvo-ocean-race/"
-        },
-        "opengolf.es/2015/04/as%C3%AD-fue-la-etapa-5-de-volvo-ocean-race": {
-            "title": "As\u00ed fue la etapa 5 de la Volvo Ocean Race...",
-            "snippet": "La llegada ha sido m\u00e1s apretada que la salida entre algunos barcos, reflexionaba el ingl\u00e9s Mark Covell, medallista ol\u00edmpico (plata) en vela y productor de comunicaciones de Volvo Ocean Race. Team SCA fue el \u00faltimo...",
-            "date": "2015-04-09",
-            "author_name": "Redacci\u00f3n",
-            "categories": "volvo-ocean-race",
-            "tags": "team,team_sca,sca,llegada,salida,algunos,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,etapa,vela",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/opengolf.es/2015/04/as%C3%AD-fue-la-etapa-5-de-volvo-ocean-race",
-            "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://opengolf.es/z_volvo-ocean-race/asi-fue-la-etapa-5-de-la-volvo-ocean-race/"
-        },
-        "lamarsalada.info/2015/04/la-mar-salada-volvo-ocean-race-5-para-el-abu-dhabi": {
-            "title": "La mar salada: Volvo Ocean Race. La 5 para el \"Abu Dhabi Ocean...",
-            "snippet": "Tras 19 d\u00edas, la cola de un cicl\u00f3n, el oc\u00e9ano m\u00e1s peligroso del mundo, y el Cabo de Hornos, el MAPFRE de Iker Mart\u00ednez ha cruzado la meta de la etapa 5 de la Volvo Ocean Race en segundo lugar, a las 20:02:56 UTC, dos...",
-            "date": "2015-04-06",
-            "author_name": "Luis Fernandez",
-            "categories": "volvo-ocean-race",
-            "tags": "segundo,meta,oc\u00e9ano,abu,dhabi,ocean,volvo,volvo_ocean,volvo_ocean_race,ocean_race,race,mar,mar-salada,salada,mundo,cabo,hornos,mapfre,etapa,dos",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/lamarsalada.info/2015/04/la-mar-salada-volvo-ocean-race-5-para-el-abu-dhabi",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lamarsalada.info/2015/04/volvo-ocean-race-la-5-para-el-abu-dhabi.html"
+            "source_url": "http://rcna.info/carlos-hernandez-primero-conejero-en-ganar-una-etapa-de-la-volvo-ocean-race/"
         },
         "molcaworld.com/2015/03/molcaworld-24-horas-a-bordo-volvo-ocean-race": {
             "title": "MolcaWorld 24 horas a bordo Volvo Ocean Race...",
@@ -115,7 +116,7 @@
             "date": "2015-03-30",
             "author_name": "MolcaWorld",
             "categories": "volvo-ocean-race",
-            "tags": "volvo,volvo_ocean,ocean,caso,volvo_ocean_race,ocean_race,race,horas",
+            "tags": "volvo,volvo_ocean,ocean,caso,volvo_ocean_race,ocean_race,race,horas,bordo",
             "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/molcaworld.com/2015/03/molcaworld-24-horas-a-bordo-volvo-ocean-race",
             "resource_url": "http://www.google.com/search?q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://molcaworld.com/24-horas-a-bordo-volvo-ocean-race/"

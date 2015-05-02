@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-intel",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-intel/",
@@ -11,75 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-intel/hardware-intel/blogs.json"
     },
     "items": {
+        "tomshw.it/2015/04/intel-skylake-s-tom-hardware": {
+            "title": "Intel Skylake-S - Tom's Hardware...",
+            "snippet": "Tom's HardwareIntel Skylake-STom's HardwarePrime presunte immagini e qualche ulteriore informazione sui futuri microprocessori Intel Core di sesta generazione, meglio noti con il nome in codice Skylake. Il sito ha pubblicato alcune immagini di...",
+            "date": "2015-04-27",
+            "categories": "hardware",
+            "tags": "intel,intel_core,core,hardwareintel,skylake,intel_skylake,tom,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshw.it/2015/04/intel-skylake-s-tom-hardware",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://tomshw.it/news/intel-skylake-s-65777"
+        },
+        "lavoz.com.ar/2015/04/intel-se-expande-para-concentrar-fuerzas-la-voz-del-interior": {
+            "title": "Intel se expande para concentrar fuerzas - La Voz del Interior...",
+            "snippet": "La Voz del InteriorIntel se expande para concentrar fuerzasLa Voz del InteriorLa firma pas\u00f3 de fabricar software embebido (programa metido en un hardware) a desarrollar productos de software que utilizan compa\u00f1\u00edas como Walmart, JP Morgan,...",
+            "date": "2015-04-27",
+            "categories": "hardware",
+            "tags": "productos,software,intel,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/lavoz.com.ar/2015/04/intel-se-expande-para-concentrar-fuerzas-la-voz-del-interior",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://lavoz.com.ar/negocios/intel-se-expande-para-concentrar-fuerzas"
+        },
+        "svethardware.cz/2015/04/nov%C3%A9-detaily-o-intel-skylake-s-a-95w-odemen%C3%A9-procesory-svt": {
+            "title": "Nov\u00e9 detaily o Intel Skylake-S: a 95W odemen\u00e9 procesory - Svt hardware...",
+            "snippet": "Svt hardwareNov\u00e9 detaily o Intel Skylake-S: a 95W odemen\u00e9 procesorySvt hardwareNov\u00e9 procesory Skylake-S by mly b\u00fdt ofici\u00e1ln pedstaveny na Intel Developer Forum (IDF) 2015, kter\u00e9 zane 15. srpna. Ji na Computexu na za\u00e1tku ervna by pak mly b\u00fdt...",
+            "date": "2015-04-27",
+            "categories": "hardware",
+            "tags": "intel,intel_skylake,skylake,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/svethardware.cz/2015/04/nov%C3%A9-detaily-o-intel-skylake-s-a-95w-odemen%C3%A9-procesory-svt",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
+            "source_url": "http://svethardware.cz/nove-detaily-o-intel-skylake-s-az-95w-odemcene-procesory/40381"
+        },
         "news.thomasnet.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-thomasnet-news-press": {
             "title": "ASSET Enhances Software Debug and Hardware Validation Tools... - ThomasNet News (press release)...",
             "snippet": "ASSET Enhances Software Debug and Hardware Validation Tools...ThomasNet News (press release) (blog)Engineers designing microserver and other hyperscale workload systems based on the new Intel microarchitecture codenamed Broadwell-DE will be able to...",
             "date": "2015-04-23",
             "categories": "hardware",
-            "tags": "will,will-be-able,able,microarchitecture,microarchitecture-codenamed,codenamed,designing,designing-microserver,microserver,microserver-and-other,other,other-hyperscale,other-hyperscale-workload,hyperscale,hyperscale-workload,hyperscale-workload-systems,workload,workload-systems,workload-systems-based,systems,systems-based,based,press,press-release,release,hardware,validation,tools,asset,enhances,software,debug,engineers,intel,broadwell",
+            "tags": "hardware,software,intel",
             "recuweb_url": "http://es.recuweb.com/hardware/news.thomasnet.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-thomasnet-news-press",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel%2Bhardware%2Bintel&output=atom&nord=1",
             "source_url": "http://news.thomasnet.com/companystory/asset-enhances-software-debug-and-hardware-validation-tools-for-intel-broadwell-de-microarchitecture-20043605"
         },
-        "emsnow.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-for-emsnow-press": {
-            "title": "ASSET enhances software debug and hardware validation tools for... - EMSNow (press release)...",
-            "snippet": "ASSET enhances software debug and hardware validation tools for...EMSNow (press release)Engineers designing microserver and other hyperscale workload systems based on the new Intel microarchitecture codenamed Broadwell-DE will be able to quickly...",
-            "date": "2015-04-22",
+        "tomshardware.com/2015/04/intel-ssd-750-delayed-until-may-16-tom-s-hardware": {
+            "title": "Intel SSD 750 Delayed Until May 16 - Tom's Hardware...",
+            "snippet": "Tom's HardwareIntel SSD 750 Delayed Until May 16Tom's HardwareNewegg was one of the first e-tailers to list the new Intel SSD 750 series SSDs for pre-order. The product page went live the same day reviews hit the Web, and many were excited to get a...",
+            "date": "2015-04-23",
             "categories": "hardware",
-            "tags": "will,will-be-able,able,microarchitecture,microarchitecture-codenamed,codenamed,designing,designing-microserver,microserver,microserver-and-other,other,other-hyperscale,other-hyperscale-workload,hyperscale,hyperscale-workload,hyperscale-workload-systems,workload,workload-systems,workload-systems-based,systems,systems-based,based,press,press-release,release,validation,tools,enhances,software,debug,asset,hardware,engineers,intel,broadwell",
-            "recuweb_url": "http://es.recuweb.com/hardware/emsnow.com/2015/04/asset-enhances-software-debug-and-hardware-validation-tools-for-emsnow-press",
+            "tags": "was,hardwareintel,intel,tom,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshardware.com/2015/04/intel-ssd-750-delayed-until-may-16-tom-s-hardware",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://emsnow.com/npps/story.cfm?pg=story&id=56239"
-        },
-        "tomshardware.com/2015/04/intel-compute-stick-with-bay-trail-on-board-now-available-tom": {
-            "title": "Intel Compute Stick With Bay Trail On Board Now Available - Tom's Hardware...",
-            "snippet": "Tom's HardwareIntel Compute Stick With Bay Trail On Board Now AvailableTom's HardwareAfter recently opening up preorders, Intel is now announcing the general availability of the Intel Compute Stick. The device, which plugs directly into a display's...",
-            "date": "2015-04-22",
-            "categories": "hardware",
-            "tags": "which,general,hardwareintel,intel,tom,hardware,hardwareafter",
-            "recuweb_url": "http://es.recuweb.com/hardware/tomshardware.com/2015/04/intel-compute-stick-with-bay-trail-on-board-now-available-tom",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://tomshardware.com/news/intel-hdmi-compute-stick-atom,28973.html"
-        },
-        "tomshw.it/2015/04/samsung-domina-il-mercato-degli-ssd-intel-e-sandisk-staccate-tom": {
-            "title": "Samsung domina il mercato degli SSD, Intel e SanDisk staccate - Tom's Hardware...",
-            "snippet": "Tom's HardwareSamsung domina il mercato degli SSD, Intel e SanDisk staccateTom's HardwareUna ricerca di mercato di IHS iSuppli inquadra il successo di Samsung nel mercato della memoria NAND Flash. Il produttore sudcoreano fattura il doppio dei...",
-            "date": "2015-04-22",
-            "categories": "memoria,hardware",
-            "tags": "intel,tom,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/tomshw.it/2015/04/samsung-domina-il-mercato-degli-ssd-intel-e-sandisk-staccate-tom",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://tomshw.it/news/samsung-domina-il-mercato-degli-ssd-intel-e-sandisk-staccate-65678"
-        },
-        "tomshardware.com/2015/04/intel-fifty-years-under-moore-s-law-tom-hardware": {
-            "title": "Intel: Fifty Years Under Moore's Law - Tom's Hardware...",
-            "snippet": "Tom's HardwareIntel: Fifty Years Under Moore's LawTom's HardwareAfter co-founding Intel, Moore was placed in a situation where he had direct control and could push for greater innovation and advancement. Intel has striven to keep pace, and be it...",
-            "date": "2015-04-20",
-            "categories": "hardware",
-            "tags": "was,intel,tom,hardware,hardwareintel,hardwareafter",
-            "recuweb_url": "http://es.recuweb.com/hardware/tomshardware.com/2015/04/intel-fifty-years-under-moore-s-law-tom-hardware",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://tomshardware.com/news/fifty-years-under-moores-law,28961.html"
+            "source_url": "http://tomshardware.com/news/intel-ssd-750-delayed,28985.html"
         },
         "pcworld.com/2015/04/intel-courts-china-s-hardware-startups-to-popularize-its-mobile-iot": {
             "title": "Intel courts China's hardware startups to popularize its mobile, IoT... - PCWorld...",
             "snippet": "Intel courts China's hardware startups to popularize its mobile, IoT...PCWorldLiu's company, CEIN Biotechnology, which develops finger vein scanners, is just one among the many Chinese tech startups Intel is courting. In the battle for chip...",
             "date": "2015-04-08",
             "categories": "hardware",
-            "tags": "which,intel,hardware",
+            "tags": "intel,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/pcworld.com/2015/04/intel-courts-china-s-hardware-startups-to-popularize-its-mobile-iot",
             "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
             "source_url": "http://pcworld.com/article/2907712/intel-courts-chinas-hardware-startups-to-popularize-its-mobile-iot-chips.html"
-        },
-        "forbes.com/2015/03/directx-12-delivers-amd-nvidia-and-intel-hardware-tested-with-forbes": {
-            "title": "DirectX 12 Delivers: AMD, Nvidia, And Intel Hardware Tested With... - Forbes...",
-            "snippet": "DirectX 12 Delivers: AMD, Nvidia, And Intel Hardware Tested With...ForbesYou may be skeptical about DirectX 12, and I don't blame you. After all, PC (and often by extension, console) games have been handicapped for years by prior versions of...",
-            "date": "2015-03-26",
-            "categories": "hardware",
-            "tags": "intel,hardware,amd",
-            "recuweb_url": "http://es.recuweb.com/hardware/forbes.com/2015/03/directx-12-delivers-amd-nvidia-and-intel-hardware-tested-with-forbes",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bintel&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/jasonevangelho/2015/03/26/directx-12-delivers-amd-nvidia-and-intel-hardware-tested-with-awesome-improvements/"
         }
     }
 }

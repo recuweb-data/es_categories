@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "duatlon",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/duatlon/",
@@ -11,9 +11,21 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/duatlon/duatlon/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/cto-de-espana-junior-duatlon": {
+            "title": "Cto de Espana Junior de Duatlon...",
+            "snippet": "Cto de Espana Junior de Duatlon Duatlon junior 2015. From: toesteban Views: 367 3 ratings Time: 03:56 More in Sports...",
+            "date": "2015-04-25",
+            "author_name": "toesteban",
+            "categories": "duatlon",
+            "tags": "duatlon,espana,cto,toesteban,sports",
+            "recuweb_url": "http://es.recuweb.com/duatlon/youtube.com/2015/04/cto-de-espana-junior-duatlon",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=HZ6LDpf3q5Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/HZ6LDpf3q5Y/0.jpg"
+        },
         "youtube.com/2015/04/cto-de-espana-duatlon-2015-elite-masculino": {
             "title": "Cto de Espana Duatlon 2015 elite masculino...",
-            "snippet": "Cto de Espana Duatlon 2015 elite masculino emilio martin se proclama campeon de espa\u00f1a de duatlon por cuarta vez. From: toesteban Views: 3850 21 ratings Time: 07:13 More in Sports...",
+            "snippet": "Cto de Espana Duatlon 2015 elite masculino emilio martin se proclama campeon de espa\u00f1a de duatlon por cuarta vez. From: toesteban Views: 4275 21 ratings Time: 07:13 More in Sports...",
             "date": "2015-04-13",
             "author_name": "toesteban",
             "categories": "duatlon",
@@ -29,7 +41,7 @@
             "date": "2015-04-04",
             "author_name": "Antonio LORENTE MURCIA",
             "categories": "duatlon",
-            "tags": "murcia,campeonato,campeonato_de_espa\u00f1a,espa\u00f1a,duatl\u00f3n,avil\u00e9s,resumen,sports",
+            "tags": "murcia,campeonato,campeonato_de_espa\u00f1a,espa\u00f1a,duatl\u00f3n,equipos,avil\u00e9s,resumen,sports",
             "recuweb_url": "http://es.recuweb.com/duatlon/youtube.com/2015/04/campeonato-de-espa%C3%B1a-duatl%C3%B3n-por-equipos-y-relevos-avil%C3%A9s-resumen-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon%2Bduatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=0op1icH7jzw&feature=youtube_gdata",
@@ -59,37 +71,13 @@
             "source_url": "http://youtube.com/watch?v=WdUzeCs6Qfs&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/WdUzeCs6Qfs/0.jpg"
         },
-        "youtube.com/2015/02/duatlon-villarreal-2015": {
-            "title": "DUATLON VILLARREAL 2015...",
-            "snippet": "DUATLON VILLARREAL 2015 Segunda prueba del Circuito de Duatlones de Castell\u00f3n. From: PlanetaSprint Views: 1098 7 ratings Time: 07:14 More in Sports...",
-            "date": "2015-02-04",
-            "author_name": "PlanetaSprint",
-            "categories": "duatlon",
-            "tags": "sports",
-            "recuweb_url": "http://es.recuweb.com/duatlon/youtube.com/2015/02/duatlon-villarreal-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon%2Bduatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=mg_F8rR7xbY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/mg_F8rR7xbY/0.jpg"
-        },
-        "youtube.com/2015/01/orihuela-campeonato-de-espana-duatlon-larga-distancia-2014": {
-            "title": "Orihuela Campeonato de Espana de Duatlon Larga Distancia 2014...",
-            "snippet": "Orihuela Campeonato de Espana de Duatlon Larga Distancia 2014 Orihuela Campeonato de Espa\u00f1a de Duatlon Larga Distancia 2014. From: fetriatlon Views: 1914 4 ratings Time: 26:21 More in Sports...",
-            "date": "2015-01-13",
-            "author_name": "fetriatlon",
-            "categories": "duatlon",
-            "tags": "duatlon,campeonato,espa\u00f1a,fetriatlon,sports",
-            "recuweb_url": "http://es.recuweb.com/duatlon/youtube.com/2015/01/orihuela-campeonato-de-espana-duatlon-larga-distancia-2014",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=hE6i-DEVxU0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/hE6i-DEVxU0/0.jpg"
-        },
         "youtube.com/2015/01/pontevedra-campeonato-del-mundo-de-duatlon-2014": {
             "title": "Pontevedra Campeonato del Mundo de Duatlon 2014...",
-            "snippet": "Pontevedra Campeonato del Mundo de Duatlon 2014 Pontevedra Campeonato del Mundo de Duatlon 2014. From: fetriatlon Views: 493 3 ratings Time: 28:00 More in Sports...",
+            "snippet": "Pontevedra Campeonato del Mundo de Duatlon 2014 Pontevedra Campeonato del Mundo de Duatlon 2014. From: fetriatlon Views: 642 3 ratings Time: 28:00 More in Sports...",
             "date": "2015-01-13",
             "author_name": "fetriatlon",
             "categories": "duatlon",
-            "tags": "campeonato,duatlon,fetriatlon,sports",
+            "tags": "campeonato,duatlon,sports",
             "recuweb_url": "http://es.recuweb.com/duatlon/youtube.com/2015/01/pontevedra-campeonato-del-mundo-de-duatlon-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon%2Bduatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=92-O4Myx1ok&feature=youtube_gdata",
@@ -109,7 +97,7 @@
         },
         "youtube.com/2014/04/campeonato-de-espa%C3%B1a-duatl%C3%B3n-elite-avil%C3%A9s-teledeporte": {
             "title": "CAMPEONATO DE ESPA\u00d1A DUATL\u00d3N ELITE AVIL\u00c9S TELEDEPORTE...",
-            "snippet": "CAMPEONATO DE ESPA\u00d1A DUATL\u00d3N ELITE AVIL\u00c9S TELEDEPORTE V\u00eddeo del Campeonato de Espa\u00f1a de Duatl\u00f3n \u00c9lite, emitido por teledeporte. From: Cristobal Garcia Views: 821 3 ratings Time: 08:57 More in People & Blogs...",
+            "snippet": "CAMPEONATO DE ESPA\u00d1A DUATL\u00d3N ELITE AVIL\u00c9S TELEDEPORTE V\u00eddeo del Campeonato de Espa\u00f1a de Duatl\u00f3n \u00c9lite, emitido por teledeporte. From: Cristobal Garcia Views: 875 3 ratings Time: 08:57 More in People & Blogs...",
             "date": "2014-04-10",
             "author_name": "Cristobal Garcia",
             "categories": "duatlon",
@@ -130,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon%2Bduatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=hfiSsZNWvDM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/hfiSsZNWvDM/0.jpg"
+        },
+        "youtube.com/2014/03/ii-duatl%C3%B3n-por-equipos-de-albalat-la-ribera-2014": {
+            "title": "II Duatl\u00f3n por equipos de Albalat de la Ribera 2014...",
+            "snippet": "II Duatl\u00f3n por equipos de Albalat de la Ribera 2014 Reportaje de la 2 edici\u00f3n del duatl\u00f3n por equipos celebrada en Albalat de la Ribera el sabado 1 de Marzo del 2014. From: CPpuntocom Views: 2176 8 ratings Time: 05:57 More in Sports...",
+            "date": "2014-03-04",
+            "author_name": "CPpuntocom",
+            "categories": "duatlon",
+            "tags": "duatl\u00f3n,equipos,sports",
+            "recuweb_url": "http://es.recuweb.com/duatlon/youtube.com/2014/03/ii-duatl%C3%B3n-por-equipos-de-albalat-la-ribera-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=duatlon%2Bduatlon&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=FnXM3XTNQXQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/FnXM3XTNQXQ/0.jpg"
         }
     }
 }

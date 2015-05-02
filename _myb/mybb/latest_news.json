@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mybb",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mybb/",
@@ -11,33 +11,14 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mybb/mybb/blogs.json"
     },
     "items": {
-        "businesstech.co.za/2015/04/the-most-complained-about-banks-in-sa-businesstech": {
-            "title": "The most complained about banks in SA - BusinessTech...",
-            "snippet": "BusinessTechThe most complained about banks in SABusinessTechVery good points, but par for the course on mybb reporting. FNB is Second most, yet I have nothing but good to say about them. Where are the graphs indicating compliments? Oh, I remember,...",
-            "date": "2015-04-20",
-            "categories": "mybb",
-            "tags": "most,mybb",
-            "recuweb_url": "http://es.recuweb.com/mybb/businesstech.co.za/2015/04/the-most-complained-about-banks-in-sa-businesstech",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
-            "source_url": "http://businesstech.co.za/news/banking/85381/the-most-complained-about-banks-in-sa/"
-        },
         "techcentral.co.za/2015/04/blackberry-dead-don-t-tell-africa-techcentral": {
             "title": "BlackBerry dead? Don't tell Africa - TechCentral...",
             "snippet": "TechCentralBlackBerry dead? Don't tell AfricaTechCentralMyBB occasionally provides Vodacom phones-on-network numbers, and you can quite easily verify the numbers from there. In their Sep'14 report, it shows that in the year previous, 155000 iPhones...",
             "date": "2015-04-07",
+            "tags": "that",
             "recuweb_url": "http://es.recuweb.com/techcentral.co.za/2015/04/blackberry-dead-don-t-tell-africa-techcentral",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://techcentral.co.za/blackberry-dead-dont-tell-africa/55684/"
-        },
-        "onedio.com/2015/03/deerini-kaybetmi-bloglar-onedio": {
-            "title": "Deerini Kaybetmi Bloglar - Onedio...",
-            "snippet": "OnedioDeerini Kaybetmi BloglarOnedioBir veya birka\u00e7 web sitesi a\u00e7p kapatan WordPress, Blogger, Mybb gibi bir ka\u00e7 script hakknda kurulum deneyimi olan arkadalar son senelerde Webmaster \u00fcnvan ile Sosyal medya ve kendi kiisel bloglarnda boy g\u00f6...",
-            "date": "2015-03-25",
-            "categories": "wordpress,mybb",
-            "tags": "web,mybb",
-            "recuweb_url": "http://es.recuweb.com/mybb/onedio.com/2015/03/deerini-kaybetmi-bloglar-onedio",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
-            "source_url": "http://onedio.com/haber/degerini-kaybetmis-bloglar-476963"
         },
         "tweakers.net/2014/09/software-update-mybb-1-8-tweakers": {
             "title": "Software-update: MyBB 1.8 - Tweakers...",
@@ -46,7 +27,7 @@
             "categories": "php,mybb",
             "tags": "php,mybb,logo",
             "recuweb_url": "http://es.recuweb.com/mybb/tweakers.net/2014/09/software-update-mybb-1-8-tweakers",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://tweakers.net/downloads/33354/mybb-18.html"
         },
         "dobreprogramy.pl/2014/07/mybb-1-8-beta-3-lepsza-ochrona-przed-spamem-i-wicej": {
@@ -54,9 +35,9 @@
             "snippet": "MyBB 1.8 Beta 3 lepsza ochrona przed spamem i wicej opcji...dobreprogramyW ostatnich dniach zesp\u00f3 tworzcy skrypt MyBB wyda trzeci bet edycji 1.8, kt\u00f3ra ma stanowi swoisty most pomidzy dotychczasowymi rozwizaniami, a zupenie nowym MyBB. Lista zmian...",
             "date": "2014-07-24",
             "categories": "mybb",
-            "tags": "zupenie,most,kt\u00f3ra,mybb,beta,dobreprogramy",
+            "tags": "zupenie,kt\u00f3ra,mybb,beta,dobreprogramy",
             "recuweb_url": "http://es.recuweb.com/mybb/dobreprogramy.pl/2014/07/mybb-1-8-beta-3-lepsza-ochrona-przed-spamem-i-wicej",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://dobreprogramy.pl/MyBB-1.8-Beta-3-lepsza-ochrona-przed-spamem-i-wiecej-opcji-moderacji,News,56703.html"
         },
         "dobreprogramy.pl/2014/06/pierwsza-beta-mybb-1-8-dostpna-publicznie-dobreprogramy": {
@@ -66,7 +47,7 @@
             "categories": "mybb",
             "tags": "kt\u00f3ra,beta,mybb,dobreprogramy",
             "recuweb_url": "http://es.recuweb.com/mybb/dobreprogramy.pl/2014/06/pierwsza-beta-mybb-1-8-dostpna-publicznie-dobreprogramy",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://dobreprogramy.pl/Pierwsza-beta-MyBB-1.8-dostepna-publicznie,News,54903.html"
         },
         "dobreprogramy.pl/2014/01/mybb-1-8-dostpne-w-wersji-alpha-sprawdzamy-co-nowego-oferuje": {
@@ -76,8 +57,18 @@
             "categories": "mybb,php,mysql",
             "tags": "oraz,mybb,dobreprogramy,php",
             "recuweb_url": "http://es.recuweb.com/mysql/dobreprogramy.pl/2014/01/mybb-1-8-dostpne-w-wersji-alpha-sprawdzamy-co-nowego-oferuje",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://dobreprogramy.pl/MyBB-1.8-dostepne-w-wersji-Alpha-sprawdzamy-co-nowego-oferuje,News,51754.html"
+        },
+        "prweb.com/2013/08/itx-design-set-to-release-mybb-optimized-server-packages-for-all": {
+            "title": "ITX Design Set to Release MyBB Optimized Server Packages for All... - PR Web (press release)...",
+            "snippet": "ITX Design Set to Release MyBB Optimized Server Packages for All...PR Web (press release)Late Tuesday afternoon, ITX Design founder and CEO Doug Davis announced to staff and management that the popular domestic hosting provider and domain registrar...",
+            "date": "2013-08-14",
+            "categories": "mybb",
+            "tags": "that,hosting,mybb,web",
+            "recuweb_url": "http://es.recuweb.com/mybb/prweb.com/2013/08/itx-design-set-to-release-mybb-optimized-server-packages-for-all",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
+            "source_url": "http://prweb.com/releases/2013/8/prweb11025121.htm"
         },
         "dobreprogramy.pl/2012/04/mybb-oraz-plany-wzgldem-1-8-dobreprogramy": {
             "title": "MyBB oraz plany wzgldem 1.8 - dobreprogramy...",
@@ -86,7 +77,7 @@
             "categories": "pan,mybb",
             "tags": "maskotce,oraz,mybb,dobreprogramy",
             "recuweb_url": "http://es.recuweb.com/mybb/dobreprogramy.pl/2012/04/mybb-oraz-plany-wzgldem-1-8-dobreprogramy",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://dobreprogramy.pl/lukasamd/MyBB-1.6.7-oraz-plany-wzgledem-1.8,31323.html"
         },
         "dobreprogramy.pl/2012/04/nowa-maskotka-mybb-dobreprogramy": {
@@ -96,7 +87,7 @@
             "categories": "mybb",
             "tags": "logo,oraz,maskotce,zupenie,mybb,dobreprogramy",
             "recuweb_url": "http://es.recuweb.com/mybb/dobreprogramy.pl/2012/04/nowa-maskotka-mybb-dobreprogramy",
-            "resource_url": "http://news.google.es/?hl=es&q=mybb&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mybb%2Bmybb&output=atom&nord=1",
             "source_url": "http://dobreprogramy.pl/lukasamd/Nowa-maskotka-MyBB,31270.html"
         }
     }

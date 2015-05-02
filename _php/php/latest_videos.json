@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/php/",
@@ -11,17 +11,29 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/curso-php-mysql-strings-v%C3%ADdeo-8": {
-            "title": "Curso PHP. MySQL. Strings. V\u00eddeo 8...",
-            "snippet": "Curso PHP. MySQL. Strings. V\u00eddeo 8 Vemos en este v\u00eddeo c\u00f3mo declarar String en php y c\u00f3mo comparar si dos string son iguales o no lo son con las funciones strcmp y strcasecmp. Para m\u00e1s cursos, ejercicios y manuales visita:... From:...",
-            "date": "2015-04-18",
-            "author_name": "pildorasinformaticas",
-            "categories": "php,mysql",
-            "tags": "curso,php,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2015/04/curso-php-mysql-strings-v%C3%ADdeo-8",
+        "youtube.com/2015/04/importar-archivos-csv-con-php-pdo": {
+            "title": "Importar Archivos CSV con PHP - PDO...",
+            "snippet": "Importar Archivos CSV con PHP - PDO En este video tutorial les quiero mostrar como cargar una base de datos MySQL desde un archivo CSV, utilizando los PDO de PHP. Bienvenidos. CRUD de PHP con PDO... From: David Reyes Views: 193 5 ratings Time: 26:22...",
+            "date": "2015-04-13",
+            "author_name": "David Reyes",
+            "categories": "base-de-datos,php,mysql",
+            "tags": "datos,php,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2015/04/importar-archivos-csv-con-php-pdo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=cr_QPXjqUv4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/cr_QPXjqUv4/0.jpg"
+        },
+        "youtube.com/2015/02/codigo-de-barras-barcode-php-softunicorn": {
+            "title": "Codigo de Barras - Barcode PHP - SoftUnicorn...",
+            "snippet": "Codigo de Barras - Barcode PHP - SoftUnicorn Barcode, Codigo de Barras en PHP Facebook: Facebook: Twitter: Descargar Codigo... From: SoftUnicorn2013 Views: 677 2 ratings Time: 05:06 More in Education...",
+            "date": "2015-02-02",
+            "author_name": "SoftUnicorn2013",
+            "categories": "php,facebook,twitter",
+            "tags": "php",
+            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2015/02/codigo-de-barras-barcode-php-softunicorn",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=IRKPW88SoYE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IRKPW88SoYE/0.jpg"
+            "source_url": "http://youtube.com/watch?v=96OLlr3IsyM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/96OLlr3IsyM/0.jpg"
         },
         "dailymotion.com/2014/11/curso-de-mongodb-con-php-13-ejecutar-mapreduce": {
             "title": "Curso de MongoDB con PHP 13 - Ejecutar MapReduce en PHP...",
@@ -29,7 +41,7 @@
             "date": "2014-11-24",
             "author_name": "ReportajesDocumentales",
             "categories": "php,internet",
-            "tags": "web,tiempo,datos,curso,php",
+            "tags": "web,datos,php",
             "recuweb_url": "http://es.recuweb.com/internet/dailymotion.com/2014/11/curso-de-mongodb-con-php-13-ejecutar-mapreduce",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php+php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2awaae_curso-de-mongodb-con-php-13-ejecutar-mapreduce-en-php_school",
@@ -71,18 +83,6 @@
             "source_url": "http://dailymotion.com/video/x1zvdf0_instalacion-de-apache-mysql-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zvdf0_instalacion-de-apache-mysql-php_tech"
         },
-        "youtube.com/2014/07/jquery-ajax-php-mysql-netbeans-parte-1": {
-            "title": "Jquery - Ajax - Php - Mysql - NetBeans - parte 1...",
-            "snippet": "Jquery - Ajax - Php - Mysql - NetBeans - parte 1 Ejercicio de JQUERY - AJAX - PHP - MYSQL Aplicacion para crear base de datos, ingresar registros, eliminarlos, crear campos de texto en tiempo de ejecuci\u00f3n saulo... From: Saulo Castro Views: 331 3...",
-            "date": "2014-07-09",
-            "author_name": "Saulo Castro",
-            "categories": "base-de-datos,mysql,jquery,php",
-            "tags": "crear,tiempo,datos,mysql,php",
-            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/07/jquery-ajax-php-mysql-netbeans-parte-1",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=kCVtJfunCnk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/kCVtJfunCnk/0.jpg"
-        },
         "dailymotion.com/2014/06/videotutorial-apache-mysql-php": {
             "title": "VIDEOTUTORIAL APACHE- MYSQL- PHP...",
             "snippet": "Videotutorial del Servidor Apache - MySQL y PHPAuthor: salascarlos40Tags: Posted: 20 June 2014Rating:: 0...",
@@ -113,23 +113,23 @@
             "date": "2014-04-20",
             "author_name": "begazoalvarez",
             "categories": "php",
-            "tags": "compras,php",
+            "tags": "php",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/04/carrito-de-compras-php",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x1px31q_carrito-de-compras-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1px31q_carrito-de-compras-php_tech"
         },
-        "youtube.com/2014/03/sistema-ventas-compras-web-php-y-mysql-con-ticket": {
-            "title": "sistema ventas compras WEB php y mysql con ticket...",
-            "snippet": "sistema ventas compras WEB php y mysql con ticket se entrega codigo fuente y bd el sistema esta modificado sin errores si desean comprar el sistema me escriben a:. From: sistemas Peru World Views: 1653 8 ratings Time: 04:27 More in Education...",
-            "date": "2014-03-31",
-            "author_name": "sistemas Peru World",
-            "categories": "php,mysql",
-            "tags": "php,mysql,compras,web",
-            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/03/sistema-ventas-compras-web-php-y-mysql-con-ticket",
+        "youtube.com/2014/03/php-para-novatos-leccion-1": {
+            "title": "PHP PARA NOVATOS leccion 1...",
+            "snippet": "PHP PARA NOVATOS leccion 1/PHP PARA NOVATOS. Es una serie de lecciones de php para principiantes. para mas informacion o puedes enviarme un... From: Augusto Duncan Views: 82 1 ratings Time: 21:24 More in Howto & Style...",
+            "date": "2014-03-26",
+            "author_name": "Augusto Duncan",
+            "categories": "php",
+            "tags": "php",
+            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/03/php-para-novatos-leccion-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=ckL8UlXBCTI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ckL8UlXBCTI/0.jpg"
+            "source_url": "http://youtube.com/watch?v=tjm4bj0CuEo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tjm4bj0CuEo/0.jpg"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xgames",
         "language": "es",
-        "updated": "20150427"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xgames/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/xgames/xgames/blogs.json"
     },
     "items": {
-        "xgames.espn.go.com/2015/03/the-glitch-mob-kid-ink-added-to-x-games-austin-espn": {
-            "title": "The Glitch Mob, Kid Ink added to X Games Austin - ESPN...",
-            "snippet": "ESPNThe Glitch Mob, Kid Ink added to X Games AustinESPNX Games Austin expands its robust competition and music lineup with three musical acts and two Major League Gaming competitions added to the event, taking place June 4-7. Tickets are on sale now...",
-            "date": "2015-03-26",
-            "tags": "music,musical,games",
-            "recuweb_url": "http://es.recuweb.com/xgames.espn.go.com/2015/03/the-glitch-mob-kid-ink-added-to-x-games-austin-espn",
-            "resource_url": "http://news.google.es/?hl=es&q=xgames&output=atom&nord=1",
-            "source_url": "http://xgames.espn.go.com/events/2015/austin/article/12551254/the-glitch-mob-kid-ink-joywave-mlg-added-x-games-austin"
+        "xgames.espn.go.com/2015/04/x-games-one-step-closer-to-oslo-norway-espn": {
+            "title": "X Games one step closer to Oslo, Norway - ESPN...",
+            "snippet": "ESPNX Games one step closer to Oslo, NorwayESPNThe city of Oslo, Norway, voted this week to approve funding towards hosting a winter X Games event in 2016. If approved, it would be the first time X Games has been held in a Scandinavian country. At a...",
+            "date": "2015-04-30",
+            "tags": "games",
+            "recuweb_url": "http://es.recuweb.com/xgames.espn.go.com/2015/04/x-games-one-step-closer-to-oslo-norway-espn",
+            "resource_url": "http://news.google.es/?hl=es&q=xgames%2Bxgames&output=atom&nord=1",
+            "source_url": "http://xgames.espn.go.com/article/12787916/oslo-city-council-votes-support-x-games-event-oslo-2016"
+        },
+        "trickon.com/2015/04/coronados-los-grandes-campeones-del-a%C3%B1o-en-freeski": {
+            "title": "Coronados los grandes campeones del a\u00f1o en freeski...",
+            "snippet": "Joss Christensen, medalla de oro en Sochi y medalla de plata en los XGames de Aspen, ha terminado tercero. La mala noticia aqu\u00ed es la decimosegunda de Gus Kenworthy que su lesi\u00f3n le ha hecho perder el final de la temporada. Slopestyle femenino...",
+            "date": "2015-04-28",
+            "categories": "xgames",
+            "tags": "final,xgames",
+            "recuweb_url": "http://es.recuweb.com/xgames/trickon.com/2015/04/coronados-los-grandes-campeones-del-a%C3%B1o-en-freeski",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=xgames&format=RSS&cc=es",
+            "source_url": "http://trickon.com/freeski/articulo/campeones-mundo-afp-2015"
         }
     }
 }

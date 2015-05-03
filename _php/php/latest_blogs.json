@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/php/",
@@ -11,6 +11,28 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
+        "jc-mouse.net/2015/04/introducci%C3%B3n-a-php-con-netbeans": {
+            "title": "Introducci\u00f3n a PHP con Netbeans...",
+            "snippet": "NetBeans es un entorno de desarrollo integrado libre, hecho principalmente para el lenguaje de programaci\u00f3n Java. Sin embargo NetBeans permite crear aplicaciones Web con PHP 5, tiene un potente debugger integrado y...",
+            "date": "2015-04-29",
+            "author_name": "Mouse",
+            "categories": "lenguaje,php,java",
+            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,desarrollo,php,permite,crear,web",
+            "recuweb_url": "http://es.recuweb.com/java/jc-mouse.net/2015/04/introducci%C3%B3n-a-php-con-netbeans",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://jc-mouse.net/desarrollo-web/introduccion-a-php-con-netbeans"
+        },
+        "ochobitshacenunbyte.com/2015/04/instalar-php-5-3-en-debian-wheezy-ochobitshacenunbyte": {
+            "title": "Instalar PHP 5.3 en Debian Wheezy - ochobitshacenunbyte...",
+            "snippet": "El art\u00edculo de hoy ser\u00e1 muy t\u00e9cnico. En Debian 7, Wheezy, por defecto est\u00e1 disponible en sus repositorios la versi\u00f3n 5.4 de PHP. Explicar\u00e9 como instalar la inmediatamente anterior, es decir, la PHP 5.3. El art\u00edculo de hoy est\u00e1...",
+            "date": "2015-04-24",
+            "author_name": "desconocido",
+            "categories": "php",
+            "tags": "instalar,versi\u00f3n,muy,instalar_php,php",
+            "recuweb_url": "http://es.recuweb.com/php/ochobitshacenunbyte.com/2015/04/instalar-php-5-3-en-debian-wheezy-ochobitshacenunbyte",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ochobitshacenunbyte.com/2015/04/24/instalar-php-5-3-debian-wheezy/"
+        },
         "desarrolloweb.com/2015/04/plates-php-sistema-de-plantillas-templates": {
             "title": "Plates PHP, sistema de plantillas/templates -...",
             "snippet": "Las plantillas o en ingl\u00e9s templates es uno de los componentes t\u00edpicos de una aplicaci\u00f3n web. En PHP hay diversas librer\u00edas de plantillas y muchas muy populares como Smarty. En esta ocasi\u00f3n vemos un sistema de...",
@@ -28,21 +50,10 @@
             "date": "2015-04-20",
             "author_name": "desconocido",
             "categories": "lenguaje,mysql,php",
-            "tags": "lenguaje,programaci\u00f3n,base,sistema,linux,apache,apache_mysql,apache_mysql_php,mysql,mysql_php,php,servidor,web,datos",
+            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,sistema,linux,apache,mysql,php,servidor,web,datos",
             "recuweb_url": "http://es.recuweb.com/php/euskadinnova.net/2015/04/infraestructura-lamp-linux-apache-mysql-php-euskadi",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://euskadinnova.net/es/enpresa-digitala/agenda/infraestructura-lamp-linux-apache-mysql/9450.aspx?utm_source=rss_feed&utm_medium=rss&utm_campaign=accesos_rss"
-        },
-        "geeksroom.com/2015/04/primeros-pasos-para-utilizar-la-api-de-twitter-usando-php-2": {
-            "title": "Primeros pasos para utilizar la API de Twitter usando PHP (2/2...",
-            "snippet": "Nosotros elegimos TwitterAPIExchange, realizada por James Mallison y que cuenta con la licencia MIT y que tiene la facilidad de s\u00f3lo necesitar un archivo llamado que debes...",
-            "date": "2015-04-17",
-            "author_name": "Andrea Cummins",
-            "categories": "twitter,php",
-            "tags": "archivo,pasos,twitter,php",
-            "recuweb_url": "http://es.recuweb.com/php/geeksroom.com/2015/04/primeros-pasos-para-utilizar-la-api-de-twitter-usando-php-2",
-            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://geeksroom.com/2015/04/primeros-pasos-para-utilizar-la-api-de-twitter-usando-php-22/93488/"
         },
         "indexing-loop.blogspot.com/2015/04/cannot-modify-header-information-headers-already-sent": {
             "title": "Cannot modify header information - headers already sent by...",
@@ -50,7 +61,7 @@
             "date": "2015-04-16",
             "author_name": "Luis Parraguez",
             "categories": "php",
-            "tags": "programa,servidor,hosting,archivo,php",
+            "tags": "programa,servidor,hosting,php",
             "recuweb_url": "http://es.recuweb.com/php/indexing-loop.blogspot.com/2015/04/cannot-modify-header-information-headers-already-sent",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=es",
             "source_url": "http://indexing-loop.blogspot.com/2015/04/cannot-modify-header-information.html"
@@ -61,21 +72,10 @@
             "date": "2015-04-15",
             "author_name": "Luis Armando Medina",
             "categories": "php",
-            "tags": "pasos,instalar,php,linux,crear,servidor",
+            "tags": "instalar,instalar_php,php,linux,crear,servidor",
             "recuweb_url": "http://es.recuweb.com/php/comoinstalarlinux.com/2015/04/como-instalar-php-en-centos-7-linux",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://comoinstalarlinux.com/como-instalar-php-en-centos-7/"
-        },
-        "stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript": {
-            "title": "Stratos:: Trabajo:: Programador MySQL, PHP y Javascript.",
-            "snippet": "Nombre de la empresa, FX Interactive S.L.. Web,. Correo electr\u00f3nico,. N\u00famero de trabajadores, 30. Ubicaci\u00f3n, Pozuelo de Alarc\u00f3n, Madrid (Espa\u00f1a). Actividades, Desarrollo de...",
-            "date": "2015-04-15",
-            "author_name": "desconocido",
-            "categories": "mysql,php,javascript",
-            "tags": "mysql,trabajo,php,web,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/javascript/stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://stratos-ad.com/index.php?section=2&subsection=1&vtipo=1&vfecha=2015-04-15&vhora=13:13:30"
         },
         "linux-party.com/2015/04/tener-una-linux-shell-remotamente-mediante-php": {
             "title": "Tener una Linux Shell remotamente mediante PHP Shell...",
@@ -83,7 +83,7 @@
             "date": "2015-04-13",
             "author_name": "(Javier Orovengua)",
             "categories": "php",
-            "tags": "ejecutar,linux,hypertext,preprocessor,programa,php,tener",
+            "tags": "permite,ejecutar,linux,hypertext,preprocessor,programa,php,mediante,tener",
             "recuweb_url": "http://es.recuweb.com/php/linux-party.com/2015/04/tener-una-linux-shell-remotamente-mediante-php",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=es",
             "source_url": "http://linux-party.com/index.php/57-seguridad/8942-tener-una-linux-shell-remotamente-mediante-php-shell"
@@ -116,7 +116,7 @@
             "date": "2015-03-27",
             "author_name": "Fran Iglesias",
             "categories": "lenguaje,php,imac",
-            "tags": "tener,lenguaje,trabajo,php,viene",
+            "tags": "tener,versi\u00f3n,lenguaje,php,viene",
             "recuweb_url": "http://es.recuweb.com/imac/cakephpilia.blogspot.com/2015/03/instalando-php-5-en-snow-leopard",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=es",
             "source_url": "http://cakephpilia.blogspot.com/2015/03/instalando-php-55-en-snow-leopard.html"

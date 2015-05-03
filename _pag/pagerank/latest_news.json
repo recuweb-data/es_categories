@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pagerank/",
@@ -11,45 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes": {
-            "title": "10 Things To Do Before You Hit 'Publish'- Forbes...",
-            "snippet": "Forbes10 Things To Do Before You Hit 'Publish'ForbesBuying or selling links that pass PageRank. This includes exchanging money for links, or posts that contain links; exchanging goods or services for links; or sending someone a free product in...",
-            "date": "2015-04-27",
+        "slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare": {
+            "title": "The Dangers of Letting Algorithms Decide Who Is Eligible for Welfare - Slate Magazine...",
+            "snippet": "Slate MagazineThe Dangers of Letting Algorithms Decide Who Is Eligible for WelfareSlate MagazineGoogle's much-debated PageRank algorithm, for example, calculates the relative importance of Web sources by counting the number and quality of links to...",
+            "date": "2015-04-30",
             "categories": "pagerank",
-            "tags": "that,pagerank,this",
-            "recuweb_url": "http://es.recuweb.com/pagerank/forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/denispinsky/2015/04/27/before-you-publish/"
+            "tags": "algorithm,pagerank,web",
+            "recuweb_url": "http://es.recuweb.com/pagerank/slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
+            "source_url": "http://slate.com/articles/technology/future_tense/2015/04/the_dangers_of_letting_algorithms_enforce_policy.html"
+        },
+        "es.paperblog.com/2015/04/dos-enlaces-con-diferente-anchor-text-hacia-la-misma-url": {
+            "title": "Dos Enlaces con Diferente Anchor Text hacia la misma URL: \u00bfLe importa a Google?",
+            "snippet": "En su m\u00e1s video m\u00e1s reciente de ayuda para los webmasters, el distinguido ingeniero de Google Matt Cutts habla de lo que ocurre con el flujo de PageRank que Google rastrea en una p\u00e1gina y encuentra dos enlaces que apuntan al mismo objetivo, pero...",
+            "date": "2015-04-29",
+            "categories": "google,pagerank",
+            "tags": "enlaces,matt,cutts,webmasters,google,pagerank,p\u00e1gina",
+            "recuweb_url": "http://es.recuweb.com/pagerank/es.paperblog.com/2015/04/dos-enlaces-con-diferente-anchor-text-hacia-la-misma-url",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/dos-enlaces-con-diferente-anchor-text-hacia-la-misma-url-le-importa-a-google-3184833/"
         },
         "es.paperblog.com/2015/04/entendiendo-el-pagerank": {
             "title": "Entendiendo el Pagerank...",
             "snippet": "Esta infograf\u00eda la encontramos en, que se anuncia como l\u00edder en Internet del software de comercio electr\u00f3nico. Si bien hay muchos factores que forman parte dentro de lo que se denomina SEO, la mayor\u00eda de los webmasters, se fijan en un...",
             "date": "2015-04-27",
             "categories": "pagerank,internet",
-            "tags": "dentro,pagerank,internet,seo",
+            "tags": "webmasters,bien,parte,dentro,pagerank,internet,seo",
             "recuweb_url": "http://es.recuweb.com/internet/es.paperblog.com/2015/04/entendiendo-el-pagerank",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/entendiendo-el-pagerank-3179571/"
-        },
-        "searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your": {
-            "title": "When Disavowing Links At The Domain Level, Don't Let Your... - Search Engine Land...",
-            "snippet": "Search Engine LandWhen Disavowing Links At The Domain Level, Don't Let Your...Search Engine LandSecond, most links are nofollowed across major social networks, so they aren't passing PageRank anyway. Third, if somehow you do find a spammy link on a...",
-            "date": "2015-04-27",
-            "categories": "pagerank",
-            "tags": "social,search,search_engine,engine,pagerank",
-            "recuweb_url": "http://es.recuweb.com/pagerank/searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/disavowing-links-domain-level-dont-let-machete-turn-guillotine-219301"
-        },
-        "investopedia.com/2015/04/the-story-behind-google-s-success-investopedia": {
-            "title": "The Story Behind Google's Success - Investopedia...",
-            "snippet": "The Story Behind Google's SuccessInvestopediaAll of these pieces came together in a pagerank that decided where a site would display on a specific query. Using this scoring approach, Google was able to serve up more accurate results than many of the...",
-            "date": "2015-04-24",
-            "categories": "google,pagerank",
-            "tags": "this,that,these,google,pagerank",
-            "recuweb_url": "http://es.recuweb.com/pagerank/investopedia.com/2015/04/the-story-behind-google-s-success-investopedia",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp"
         },
         "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou": {
             "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou... -...",
@@ -58,47 +48,17 @@
             "categories": "internet,google,pagerank",
             "tags": "internet,google,pagerank",
             "recuweb_url": "http://es.recuweb.com/pagerank/itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
-        },
-        "siliconnews.es/2015/04/hoy-se-pone-en-marcha-la-tercera-gran-actualizaci%C3%B3n-del-algoritmo": {
-            "title": "Hoy se pone en marcha la tercera gran actualizaci\u00f3n del algoritmo de Google en 4 a\u00f1os...",
-            "snippet": "Estas se\u00f1ales son, entre otras, los t\u00e9rminos de los sites, la actualidad del contenido, el PageRank punto de referencia desarrollada por la propia Google para evaluar la calidad de la web- o la regi\u00f3n desde la que se hace la b\u00fasqueda. Como...",
-            "date": "2015-04-21",
-            "categories": "google,pagerank",
-            "tags": "hace,son,algoritmo,google,pagerank,web",
-            "recuweb_url": "http://es.recuweb.com/pagerank/siliconnews.es/2015/04/hoy-se-pone-en-marcha-la-tercera-gran-actualizaci%C3%B3n-del-algoritmo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
-            "source_url": "http://siliconnews.es/2015/04/21/algoritmo-google-actualizacion/"
-        },
-        "searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search": {
-            "title": "In 2014, How Important is an H1 Tag for SEO? - Search Engine Journal...",
-            "snippet": "Search Engine JournalIn 2014, How Important is an H1 Tag for SEO?Search Engine JournalThe lost opportunity in this argument is that both sides tend to focus on the direct relationship between an H1 tag and its ability to help a page rank by...",
-            "date": "2015-04-20",
-            "categories": "pagerank",
-            "tags": "page,rank,this,that,search,search_engine,engine,seo",
-            "recuweb_url": "http://es.recuweb.com/pagerank/searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/"
-        },
-        "es.paperblog.com/2015/04/c%C3%B3mo-seleccionar-los-directorios-de-enlaces": {
-            "title": "C\u00f3mo seleccionar los directorios de enlaces...",
-            "snippet": "En primer lugar, nos vamos a fijar en el del directorio que estemos evaluando. El PageRank es un \u00edndice num\u00e9rico que asigna Google a los sitios web en funci\u00f3n de la cantidad e importancia de enlaces entrantes que poseen, para designar a su vez...",
-            "date": "2015-04-19",
-            "categories": "pagerank,google",
-            "tags": "sitios,primer,c\u00f3mo,enlaces,pagerank,google,web,importancia",
-            "recuweb_url": "http://es.recuweb.com/google/es.paperblog.com/2015/04/c%C3%B3mo-seleccionar-los-directorios-de-enlaces",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pagerank&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/como-seleccionar-los-directorios-de-enlaces-3168924/"
+            "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
         },
         "wwwhatsnew.com/2015/03/cient%C3%ADficos-utilizan-el-algoritmo-pagerank-de-google-para-hacer-un-wwwhat": {
             "title": "Cient\u00edficos utilizan el algoritmo PageRank de Google para hacer un... - WWWhat's new? (blog)...",
             "snippet": "WWWhat's new? (blog)Cient\u00edficos utilizan el algoritmo PageRank de Google para hacer un...WWWhat's new? (blog)El PageRank fue el algoritmo que llev\u00f3 a la cima a Google, y su esencia es tan simple como brillante: Dar a cada sitio web cierto valor de...",
             "date": "2015-03-14",
             "categories": "pagerank,google",
-            "tags": "algoritmo,pagerank,google,web",
+            "tags": "pagerank,google,dar,web",
             "recuweb_url": "http://es.recuweb.com/google/wwwhatsnew.com/2015/03/cient%C3%ADficos-utilizan-el-algoritmo-pagerank-de-google-para-hacer-un-wwwhat",
-            "resource_url": "http://news.google.es/?hl=es&q=pagerank%2Bpagerank&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/03/14/cientificos-utilizan-algoritmo-pagerank-hacer-ranking-selecciones-futbol/"
         },
         "technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit": {
@@ -106,10 +66,30 @@
             "snippet": "Pagerank Algorithm Reveals World's All-Time Top Soccer TeamMIT Technology Review (blog)Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it...",
             "date": "2015-03-13",
             "categories": "pagerank",
-            "tags": "pagerank,these",
+            "tags": "another,pagerank,algorithm",
             "recuweb_url": "http://es.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
             "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
+        },
+        "revistaeducacionvirtual.com/2015/03/prestigio-en-internet-de-universidades-2015-google-pagerank-revista-educaci%C3%B3n-virtual": {
+            "title": "Prestigio en internet de Universidades 2015 Google PageRank - Revista de Educaci\u00f3n Virtual...",
+            "snippet": "Prestigio en internet de Universidades 2015 Google PageRankRevista de Educaci\u00f3n VirtualComo parte del estudio de presencia de universidades en internet 2015 patrocinado por CiudadEducacion, presentamos un par\u00e1metro de gran importancia en cuanto a...",
+            "date": "2015-03-10",
+            "categories": "internet,google,pagerank",
+            "tags": "parte,internet,google,pagerank,importancia",
+            "recuweb_url": "http://es.recuweb.com/pagerank/revistaeducacionvirtual.com/2015/03/prestigio-en-internet-de-universidades-2015-google-pagerank-revista-educaci%C3%B3n-virtual",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
+            "source_url": "http://revistaeducacionvirtual.com/archives/1588"
+        },
+        "searchengineland.com/2014/10/google-toolbar-pagerank-finally-&-officially-dead-search-engine-land": {
+            "title": "Google Toolbar PageRank Finally & Officially Dead? - Search Engine Land...",
+            "snippet": "Search Engine LandGoogle Toolbar PageRank Finally & Officially Dead?Search Engine LandIn October 2013, Google head of search spam Matt Cutts implied we would likely not see another Google Toolbar PageRank update before the year end. Well, by...",
+            "date": "2014-10-07",
+            "categories": "pagerank,google",
+            "tags": "pagerank,another,matt,cutts,google",
+            "recuweb_url": "http://es.recuweb.com/google/searchengineland.com/2014/10/google-toolbar-pagerank-finally-&-officially-dead-search-engine-land",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/google-toolbar-pagerank-finally-officially-dead-205277"
         }
     }
 }

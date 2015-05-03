@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yandex",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/yandex/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/yandex/yandex/blogs.json"
     },
     "items": {
-        "investorwired.com/2015/04/european-stocks-little-changed-yandex-nv-yndx-weatherford-wft-transocean-investor": {
-            "title": "European Stocks Little Changed: Yandex NV(YNDX), Weatherford (WFT), Transocean... - Investor Wired...",
-            "snippet": "European Stocks Little Changed: Yandex NV(YNDX), Weatherford (WFT), Transocean...Investor WiredYandex NV (NASDAQ:YNDX) operates an Internet search engine in Russia and internationally. Yandex NV shares are trading% above their 52 week low price...",
-            "date": "2015-04-27",
+        "evrensel.net/2015/05/yandex-te-kym-evrensel-gazetesi": {
+            "title": "Yandex'te kym - Evrensel Gazetesi...",
+            "snippet": "Yandex'te kymEvrensel GazetesiYANDEX arama motoru, T\u00fcrkiye'de internet \u00fczerinden \u00e7altrd yaklak 600 i\u00e7erik danmannn (Content Assessor) iine son verdi. Sigortasz bir ekilde \u00e7altrlan y\u00fczlerce kii, iten \u00e7karmalarn sadece iki g\u00fcn \u00f6ncesinden ve...",
+            "date": "2015-05-02",
             "categories": "yandex,internet",
-            "tags": "week,search,search-engine,engine,european,yandex,yndx,nasdaq,internet,russia",
-            "recuweb_url": "http://es.recuweb.com/internet/investorwired.com/2015/04/european-stocks-little-changed-yandex-nv-yndx-weatherford-wft-transocean-investor",
+            "tags": "son,yandex,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/evrensel.net/2015/05/yandex-te-kym-evrensel-gazetesi",
             "resource_url": "http://news.google.es/?hl=es&q=yandex%2Byandex&output=atom&nord=1",
-            "source_url": "http://investorwired.com/european-stocks-little-changed-yandex-nvyndx-weatherford-wft-transocean-rig-nokia-adr-nysenok-noble-ne/1730896"
+            "source_url": "http://evrensel.net/haber/111736/yandexte-kiyim"
         },
-        "sleekmoney.com/2015/04/yandex-nv-yndx-to-release-quarterly-earnings-on-tuesday-sleekmoney": {
-            "title": "Yandex NV (YNDX) to Release Quarterly Earnings on Tuesday - sleekmoney...",
-            "snippet": "Yandex NV (YNDX) to Release Quarterly Earnings on TuesdaysleekmoneyYandex NV (NASDAQ:YNDX) last announced its earnings results on Wednesday, February 18th. The company reported earnings per share for the quarter, missing the analysts'consensus...",
-            "date": "2015-04-27",
-            "categories": "yandex",
-            "tags": "missing,company,company-reported,company-reported-earnings,reported,reported-earnings,reported-earnings-per,earnings,earnings-per,earnings-per-share,per,per-share,share,quarter,last,last-announced,last-announced-its,announced,announced-its,announced-its-earnings,its,its-earnings,its-earnings-results,earnings-results,results,release,quarterly,quarterly_earnings,yandex,yndx,tuesday,nasdaq,wednesday",
-            "recuweb_url": "http://es.recuweb.com/yandex/sleekmoney.com/2015/04/yandex-nv-yndx-to-release-quarterly-earnings-on-tuesday-sleekmoney",
-            "resource_url": "http://news.google.es/?hl=es&q=yandex&output=atom&nord=1",
-            "source_url": "http://sleekmoney.com/yandex-nv-yndx-to-release-quarterly-earnings-on-tuesday/220958/"
-        },
-        "dakotafinancialnews.com/2015/04/yandex-nv-yndx-scheduled-to-post-quarterly-earnings-on-tuesday-dakota": {
-            "title": "Yandex NV (YNDX) Scheduled to Post Quarterly Earnings on Tuesday - Dakota Financial News...",
-            "snippet": "Yandex NV (YNDX) Scheduled to Post Quarterly Earnings on TuesdayDakota Financial NewsYandex NV (NASDAQ:YNDX) last announced its earnings results on Wednesday, February 18th. The company reported earnings per share (EPS) for the quarter, missing the...",
-            "date": "2015-04-26",
-            "categories": "yandex",
-            "tags": "missing,quarter,company,company-reported,company-reported-earnings,reported,reported-earnings,reported-earnings-per,earnings,earnings-per,earnings-per-share,per,per-share,share,last,last-announced,last-announced-its,announced,announced-its,announced-its-earnings,its,its-earnings,its-earnings-results,earnings-results,results,quarterly,quarterly_earnings,yandex,yndx,tuesday,nasdaq,wednesday",
-            "recuweb_url": "http://es.recuweb.com/yandex/dakotafinancialnews.com/2015/04/yandex-nv-yndx-scheduled-to-post-quarterly-earnings-on-tuesday-dakota",
-            "resource_url": "http://news.google.es/?hl=es&q=yandex&output=atom&nord=1",
-            "source_url": "http://dakotafinancialnews.com/yandex-nv-yndx-scheduled-to-post-quarterly-earnings-on-tuesday/128279/"
-        },
-        "tr.sputniknews.com/2015/04/29-yldr-girilemeyen-%C3%A7ernobil-adm-yandex-te-sputnik-t%C3%BCrkiye": {
-            "title": "29 yldr girilemeyen \u00c7ernobil adm adm Yandex'te - Sputnik T\u00fcrkiye...",
-            "snippet": "29 yldr girilemeyen \u00c7ernobil adm adm Yandex'teSputnik T\u00fcrkiyeAdm atmas son derece riskli olan ve giriine izin verilmeyen \u00c7ernobil kenti, Yandex tarafndan t\u00fcm detaylaryla dijital ortama aktarld. 360 derece g\u00f6zlemlenebilen kentin sokaklarnda...",
-            "date": "2015-04-25",
-            "categories": "yandex",
-            "tags": "son,sputnik,yandex",
-            "recuweb_url": "http://es.recuweb.com/yandex/tr.sputniknews.com/2015/04/29-yldr-girilemeyen-%C3%A7ernobil-adm-yandex-te-sputnik-t%C3%BCrkiye",
-            "resource_url": "http://news.google.es/?hl=es&q=yandex&output=atom&nord=1",
-            "source_url": "http://tr.sputniknews.com/foto/20150427/1015200771.html"
-        },
-        "hosteltur.com/2015/04/el-buscador-ruso-yandex-aterriza-en-sector-de-viajes": {
-            "title": "El buscador ruso Yandex aterriza en el sector de viajes...",
-            "snippet": "El principal buscador ruso Yandex, que recibe 5 billones de b\u00fasquedas al mes y es usado por 87% de todos usuarios de internet en Rusia, ha lanzado su propio servicio de viajes. Se une as\u00ed a otros grandes buscadores y gigantes del ecommerce como...",
-            "date": "2015-04-24",
+        "nfcworld.com/2015/05/yandex-offers-mobile-payments-at-1300-ukraine-fuel-stations-nfc-world": {
+            "title": "Yandex offers mobile payments at 1300 Ukraine fuel stations - NFC World...",
+            "snippet": "Yandex offers mobile payments at 1300 Ukraine fuel stationsNFC WorldUkrainian drivers can now pay for fuel at more than 1,300 outlets across the country using a mobile payment service launched by Russian internet company Yandex, in partnership with...",
+            "date": "2015-05-01",
             "categories": "yandex,internet",
-            "tags": "buscador,principal,principal-buscador,ruso,yandex,usuarios,internet,rusia",
-            "recuweb_url": "http://es.recuweb.com/internet/hosteltur.com/2015/04/el-buscador-ruso-yandex-aterriza-en-sector-de-viajes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=es",
-            "source_url": "http://hosteltur.com/110790_buscador-ruso-yandex-aterriza-sector-viajes.html"
+            "tags": "offers,yandex,russian,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/nfcworld.com/2015/05/yandex-offers-mobile-payments-at-1300-ukraine-fuel-stations-nfc-world",
+            "resource_url": "http://news.google.es/?hl=es&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://nfcworld.com/2015/05/01/335028/yandex-offers-mobile-payments-at-1300-ukraine-fuel-stations/"
         },
-        "wwwhatsnew.com/2015/04/wlppr-excelente-colecci%C3%B3n-de-im%C3%A1genes-para-poner-fondo-en-el-m%C3%B3vil": {
-            "title": "wlppr, excelente colecci\u00f3n de im\u00e1genes para poner de fondo en el m\u00f3vil...",
-            "snippet": "Se trata de, limitada colecci\u00f3n de fotograf\u00edas obtenidas de Earthstar Geographics, R&D Center ScanEx, NASA, ESA y Yandex, fuentes indicadas en la parte inferior de la p\u00e1gina. Aunque en cada foto es posible seleccionar el m\u00f3vil para el cual...",
-            "date": "2015-04-23",
-            "categories": "fotografia,yandex",
-            "tags": "excelente,fondo,yandex",
-            "recuweb_url": "http://es.recuweb.com/yandex/wwwhatsnew.com/2015/04/wlppr-excelente-colecci%C3%B3n-de-im%C3%A1genes-para-poner-fondo-en-el-m%C3%B3vil",
+        "itespresso.es/2015/04/las-startups-europeas-sumaron-358-exits-en-2014": {
+            "title": "Las startups europeas sumaron 358 exits en 2014...",
+            "snippet": "Google fue la mayor compradora de startups europeas de alta tecnolog\u00eda en 2014, con un total de ocho, seguida por Microsoft, Yandex, Facebook y Qualcomm. Muy por detr\u00e1s, les siguen las empresas alemanas, que efectuaron 40 adquisiciones en Europa...",
+            "date": "2015-04-30",
+            "categories": "tecnologia,google,yandex,facebook",
+            "tags": "mayor,google,yandex,facebook",
+            "recuweb_url": "http://es.recuweb.com/facebook/itespresso.es/2015/04/las-startups-europeas-sumaron-358-exits-en-2014",
             "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=es",
-            "source_url": "http://wwwhatsnew.com/2015/04/23/wlppr-excelente-coleccion-de-imagenes-para-poner-de-fondo-en-el-movil/"
+            "source_url": "http://itespresso.es/startups-europeas-sumaron-358-exits-2014-137148.html"
         },
-        "finextra.com/2015/04/yandex-implements-privatbank-mastercard-app-for-gas-refills-finextra-press-release": {
-            "title": "Yandex implements PrivatBank/MasterCard app for gas refills.. - Finextra (press release)...",
-            "snippet": "Yandex implements PrivatBank/MasterCard app for gas (press release)Yandex launches in partnership with PrivatBank and MasterCard. With the app, drivers can find stations nearby and pay for the gas right from your smartphone. appeared only in Ukraine...",
-            "date": "2015-04-22",
+        "laopiniondemalaga.es/2015/04/el-turismo-ruso-en-la-costa-del-sol-se-increment%C3%B3": {
+            "title": "El turismo ruso en la Costa del Sol se increment\u00f3 en un 15% en enero y febrero...",
+            "snippet": "En lo referente a la comunicaci\u00f3n, el abogado Ricardo Bocanegra apunt\u00f3 ayer que hay que apostar por internet para atraer inversiones y destac\u00f3 la necesidad de posicionarse en el buscador ruso Yandex, que es utilizado por el 87% de los usuarios...",
+            "date": "2015-04-29",
+            "categories": "internet,yandex",
+            "tags": "usuarios,buscador,abogado,ruso,internet,yandex",
+            "recuweb_url": "http://es.recuweb.com/yandex/laopiniondemalaga.es/2015/04/el-turismo-ruso-en-la-costa-del-sol-se-increment%C3%B3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=es",
+            "source_url": "http://laopiniondemalaga.es/turismo/2015/04/30/turismo-ruso-costa-sol-incremento/762390.html"
+        },
+        "marbella24horas.es/2015/04/empresarios-rusos-destacan-los-problemas-para-invertir-en-marbella": {
+            "title": "Empresarios rusos destacan los problemas para invertir en Marbella...",
+            "snippet": "El abogado ha mencionado en especial a Yandex, buscador ruso por excelencia y su poder en la atracci\u00f3n de potenciales clientes a Espa\u00f1a. Ignacio P\u00e9rez Flores ha explicado que existe la percepci\u00f3n de que Marbella es francamente buena gracias a...",
+            "date": "2015-04-29",
             "categories": "yandex",
-            "tags": "release,yandex",
-            "recuweb_url": "http://es.recuweb.com/yandex/finextra.com/2015/04/yandex-implements-privatbank-mastercard-app-for-gas-refills-finextra-press-release",
-            "resource_url": "http://news.google.es/?hl=es&q=yandex&output=atom&nord=1",
-            "source_url": "http://finextra.com/news/announcement.aspx?pressreleaseid=59512"
-        },
-        "businessinsider.com/2015/04/eu-google-probe-encourages-investors-in-russia-competitor-yandex-business-insider": {
-            "title": "EU Google probe encourages investors in Russia competitor Yandex - Business Insider...",
-            "snippet": "Business InsiderEU Google probe encourages investors in Russia competitor YandexBusiness InsiderNEW YORK (Reuters) - The European Union's antitrust probe into Google sparked a big rally in Russian search engine Yandex NV last week, even though the...",
-            "date": "2015-04-21",
-            "categories": "rally,google,yandex",
-            "tags": "last,week,search,search-engine,engine,european,business,google,russia,yandex",
-            "recuweb_url": "http://es.recuweb.com/yandex/businessinsider.com/2015/04/eu-google-probe-encourages-investors-in-russia-competitor-yandex-business-insider",
-            "resource_url": "http://news.google.es/?hl=es&q=yandex&output=atom&nord=1",
-            "source_url": "http://businessinsider.com/r-eu-google-probe-encourages-investors-in-russia-competitor-yandex-2015-4"
-        },
-        "es.paperblog.com/2015/04/en-rusia-yandex-es-el-buscador-que-domina-mercado-muy": {
-            "title": "En Rusia Yandex es el buscador que domina el mercado, muy por encima de Google.",
-            "snippet": "En Rusia Yandex (en ruso) es el buscador que domina el mercado, muy por encima de Google Rusia (). Actualmente Yandex est\u00e1 en la posici\u00f3n 22 (Alexa ranking) de los sites con m\u00e1s trafico del mundo. Para el que no conozca el buscador...",
-            "date": "2015-04-17",
-            "categories": "yandex,google",
-            "tags": "buscador,mundo,yandex,rusia,google,ruso",
-            "recuweb_url": "http://es.recuweb.com/google/es.paperblog.com/2015/04/en-rusia-yandex-es-el-buscador-que-domina-mercado-muy",
+            "tags": "abogado,ruso,yandex,buscador",
+            "recuweb_url": "http://es.recuweb.com/yandex/marbella24horas.es/2015/04/empresarios-rusos-destacan-los-problemas-para-invertir-en-marbella",
             "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/en-rusia-yandex-es-el-buscador-que-domina-el-mercado-muy-por-encima-de-google-3165141/"
+            "source_url": "http://marbella24horas.es/local/empresarios-rusos-destacan-los-problemas-para-invertir-en-marbella-10823"
         },
-        "mundo.sputniknews.com/2015/04/yandex-saca-provecho-a-la-demanda-de-europa-contra-google-sputnik": {
-            "title": "Yandex saca provecho a la demanda de Europa contra Google - Sputnik Mundo...",
-            "snippet": "Yandex saca provecho a la demanda de Europa contra GoogleSputnik MundoLas acciones de Yandex N.V., el accionista total del buscador ruso Yandex, incrementaron su valor en la bolsa NASDAQ el pasado mi\u00e9rcoles 15 de abril en 13,9%, a fondo de las...",
-            "date": "2015-04-17",
-            "categories": "yandex,google",
-            "tags": "fondo,buscador,sputnik,mundo,yandex,google,ruso,nasdaq",
-            "recuweb_url": "http://es.recuweb.com/google/mundo.sputniknews.com/2015/04/yandex-saca-provecho-a-la-demanda-de-europa-contra-google-sputnik",
+        "adexchanger.com/2015/04/facebook-offers-video-for-app-ads-yandex-completes-adfox-adexchanger": {
+            "title": "Facebook Offers Video For App Ads; Yandex Completes ADFOX... - AdExchanger...",
+            "snippet": "AdExchangerFacebook Offers Video For App Ads; Yandex Completes ADFOX...AdExchangerYandex has completed the integration of ADFOX's tech, which it acquired in September, into its ad network. The move further opens the Russian digital advertising...",
+            "date": "2015-04-29",
+            "categories": "yandex,facebook",
+            "tags": "its,offers,yandex,facebook,russian",
+            "recuweb_url": "http://es.recuweb.com/facebook/adexchanger.com/2015/04/facebook-offers-video-for-app-ads-yandex-completes-adfox-adexchanger",
             "resource_url": "http://news.google.es/?hl=es&q=yandex&output=atom&nord=1",
-            "source_url": "http://mundo.sputniknews.com/prensa/20150417/1036493385.html"
+            "source_url": "http://adexchanger.com/ad-exchange-news/wednesday-04292015/"
+        },
+        "reuters.com/2015/04/russia-s-yandex-says-q1-profit-falls-sees-sales-growth-slowing": {
+            "title": "Russia's Yandex says Q1 profit falls, sees sales growth slowing - Reuters...",
+            "snippet": "Russia's Yandex says Q1 profit falls, sees sales growth slowingReutersMOSCOW, April 28 (Reuters) - Russia's biggest search site Yandex said on Tuesday its first-quarter net profit fell 21 percent, year-on-year, to 2.1 billion roubles (40.5 million)...",
+            "date": "2015-04-28",
+            "categories": "yandex",
+            "tags": "quarter,profit,fell,its,said,search,sees,sees-sales,sees-sales-growth,sales,sales-growth,growth,sales-growth-slowing,growth-slowing,slowing,profit-falls,falls,russia,yandex,reuters,tuesday",
+            "recuweb_url": "http://es.recuweb.com/yandex/reuters.com/2015/04/russia-s-yandex-says-q1-profit-falls-sees-sales-growth-slowing",
+            "resource_url": "http://news.google.es/?hl=es&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://reuters.com/article/2015/04/28/russia-yandex-results-idUSR4N0X604G20150428"
+        },
+        "reuters.com/2015/04/update-1-russia-s-yandex-q1-profit-falls-sees-sales-growth": {
+            "title": "UPDATE 1-Russia's Yandex Q1 profit falls, sees sales growth slowing - Reuters...",
+            "snippet": "The Moscow TimesUPDATE 1-Russia's Yandex Q1 profit falls, sees sales growth slowingReutersYandex said the higher rent expenses were due to additional office space in Moscow that it began leasing in May 2014 and to the rouble weakening against the...",
+            "date": "2015-04-28",
+            "categories": "yandex",
+            "tags": "that,said,sees,sees-sales,sees-sales-growth,sales,sales-growth,growth,sales-growth-slowing,growth-slowing,slowing,profit,profit-falls,falls,russia,yandex,reuters",
+            "recuweb_url": "http://es.recuweb.com/yandex/reuters.com/2015/04/update-1-russia-s-yandex-q1-profit-falls-sees-sales-growth",
+            "resource_url": "http://news.google.es/?hl=es&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://reuters.com/article/2015/04/28/russia-yandex-results-idUSL8N0XP2PC20150428"
+        },
+        "fool.com/2015/04/why-yandex-nv-stock-dropped-today-motley-fool": {
+            "title": "Why Yandex NV Stock Dropped Today - Motley Fool...",
+            "snippet": "Why Yandex NV Stock Dropped TodayMotley FoolHowever -- and with the caveat that guidance is limited to a quarterly basis due to the current macroeconomic situation in Russia -- Yandex currently expects revenue for the current quarter to grow just 9%...",
+            "date": "2015-04-28",
+            "categories": "yandex",
+            "tags": "quarter,that,yandex,motley,motley_fool,fool,russia",
+            "recuweb_url": "http://es.recuweb.com/yandex/fool.com/2015/04/why-yandex-nv-stock-dropped-today-motley-fool",
+            "resource_url": "http://news.google.es/?hl=es&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://fool.com/investing/general/2015/04/28/why-yandex-nv-stock-dropped-today.aspx"
+        },
+        "fool.com/2015/04/yandex-falls-after-another-decent-quarter-slowing-growth-motley-fool": {
+            "title": "Yandex Falls After Another Decent Quarter, Slowing Growth - Motley Fool...",
+            "snippet": "Motley FoolYandex Falls After Another Decent Quarter, Slowing GrowthMotley FoolYandex NV (NASDAQ: YNDX) on Tuesday reported a decent quarter by most measures, but the market wasn't pleased. Shares of the Russian web-search leader initially fell as...",
+            "date": "2015-04-28",
+            "categories": "yandex",
+            "tags": "search,fell,quarter,slowing,motley,falls,motley_fool,fool,growth,yandex,tuesday,russian,web",
+            "recuweb_url": "http://es.recuweb.com/yandex/fool.com/2015/04/yandex-falls-after-another-decent-quarter-slowing-growth-motley-fool",
+            "resource_url": "http://news.google.es/?hl=es&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://fool.com/investing/general/2015/04/28/yandex-falls-after-another-decent-quarter-slowing.aspx"
         }
     }
 }

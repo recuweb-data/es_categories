@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "afc-ajax",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/afc-ajax/",
@@ -11,82 +11,52 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/afc-ajax/afc-ajax/blogs.json"
     },
     "items": {
-        "deportes.televisa.com/2015/04/previo-se-presenta-el-monarca": {
-            "title": "Previo: Se presenta el monarca -...",
-            "snippet": "Previo: Se presenta el 2014-2015, PSV Eindhoven, AFC Ajax, Mexicanos en Europa. COMPARTE ESTA FOTO. Riechedly Bazour, Ajax. Foto: AP. PSV Eindhoven pasea su reci\u00e9n obtenido t\u00edtulo de Liga ante Excelsior; Ajax quiere amarrar la segunda plaza en...",
-            "date": "2015-04-24",
-            "categories": "afc-ajax,psv-eindhoven",
-            "tags": "riechedly,comparte,afc,afc_ajax,ajax,presenta",
-            "recuweb_url": "http://es.recuweb.com/psv-eindhoven/deportes.televisa.com/2015/04/previo-se-presenta-el-monarca",
-            "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
-            "source_url": "http://deportes.televisa.com/futbol-internacional/2015-04-23/previo-eredivisie-2014-2015-jornada-32/"
-        },
-        "es.uefa.com/2015/04/estad%C3%ADsticas-bayern-oporto-bar%C3%A7a-paris": {
-            "title": "Estad\u00edsticas: Bayern - Oporto, Bar\u00e7a - Paris...",
-            "snippet": "Esta excepci\u00f3n lleg\u00f3 en la campa\u00f1a 1968/69, cuando el AFC Ajax gan\u00f3 por 1-3 a domicilio la vuelta ante el SL Benfica. El conjunto holand\u00e9s gan\u00f3 por 3-0 en el partido de desempate. FC Bayern M\u00fcnchen - FC Porto (partido de ida 1-3) El Bayern...",
-            "date": "2015-04-21",
-            "categories": "afc-ajax",
-            "tags": "partido,ida,gan\u00f3,afc,afc_ajax,ajax,bar\u00e7a",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/estad%C3%ADsticas-bayern-oporto-bar%C3%A7a-paris",
+        "es.uefa.com/2015/05/guardiola-un-entrenador-sobre-el-campo": {
+            "title": "Guardiola, un entrenador sobre el campo...",
+            "snippet": "Trapattoni le tom\u00f3 la palabra en la final de la Copa de Europa de 1969. Los rossoneri estaban sufriendo ante la estrella del AFC Ajax Johan Cruyff, que se iba constantemente de su marcador Angelo Anquilletti. Consciente de este peligro,...",
+            "date": "2015-05-01",
+            "categories": "afc-ajax,estrella",
+            "tags": "afc,afc_ajax,ajax,johan,johan_cruyff,cruyff,final,entrenador",
+            "recuweb_url": "http://es.recuweb.com/estrella/es.uefa.com/2015/05/guardiola-un-entrenador-sobre-el-campo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2237134.html"
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2241762.html"
+        },
+        "es.uefa.com/2015/04/n%C3%A1poles-dnipro-la-opini%C3%B3n-de-los-reporteros": {
+            "title": "N\u00e1poles - Dnipro: la opini\u00f3n de los reporteros...",
+            "snippet": "Su jugador clave, Yevhen Konoplyanka, est\u00e1 tambi\u00e9n en su mejor momento y ya demostr\u00f3 de lo que es capaz ante el AFC Ajax y el Club Brugge KV. Rondas eliminatorias Paolo Menicucci: El N\u00e1poles participa en esta ronda de competici\u00f3n UEFA por...",
+            "date": "2015-04-29",
+            "categories": "afc-ajax",
+            "tags": "club,afc,afc_ajax,ajax,uefa",
+            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/n%C3%A1poles-dnipro-la-opini%C3%B3n-de-los-reporteros",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
+            "source_url": "http://es.uefa.com/uefaeuropaleague/news/newsid=2241294.html"
         },
         "es.uefa.com/2015/04/dos-uruguayos-con-caminos-paralelos-uefa-champions-league": {
             "title": "Dos uruguayos con caminos paralelos - UEFA Champions League... -...",
             "snippet": "uruguayos con caminos paralelos - UEFA Champions League... pasar una \u00fanica temporada en el Groningen, Luis Su\u00e1rez llam\u00f3 la atenci\u00f3n del AFC Ajax, club en el que gan\u00f3 t\u00edtulos, fue un referente en el esquema del equipo y adem\u00e1s se dio a...",
             "date": "2015-04-20",
             "categories": "afc-ajax",
-            "tags": "equipo,gan\u00f3,afc,afc_ajax,ajax,luis,luis_su\u00e1rez,su\u00e1rez,uefa,uefa_champions,uefa_champions_league,champions,champions_league,league,dos",
+            "tags": "club,afc,afc_ajax,ajax,luis,luis_su\u00e1rez,su\u00e1rez,uefa,uefa_champions,uefa_champions_league,champions,champions_league,league",
             "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/dos-uruguayos-con-caminos-paralelos-uefa-champions-league",
-            "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
-            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235717.html"
-        },
-        "es.uefa.com/2015/04/el-trofeo-enamora-en-dallas": {
-            "title": "El trofeo enamora en Dallas...",
-            "snippet": "Kluivert, que marc\u00f3 el tanto de la victoria para el AFC Ajax en la final de la UEFA Champions League de 1995, habl\u00f3 despu\u00e9s sobre sus \u00eddolos e inspiraciones en una sesi\u00f3n de pregunta y respuesta en la p\u00e1gina oficial de la UEFA Champions League...",
-            "date": "2015-04-20",
-            "categories": "afc-ajax",
-            "tags": "uefa,uefa_champions,uefa_champions_league,champions,champions_league,league,final,afc,afc_ajax,ajax",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/el-trofeo-enamora-en-dallas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=afc%2Bajax&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2237206.html"
-        },
-        "es.uefa.com/2015/04/datos-y-cifras-de-la-ida-cuartos-noticias": {
-            "title": "Datos y cifras de la ida de cuartos - Noticias - -...",
-            "snippet": "y cifras de la ida de cuartos - Noticias - actual racha del Bar\u00e7a comenz\u00f3 con su triunfo por 3-1 sobre el AFC Ajax. El primero de los dos goles de Luis Su\u00e1rez en el Parc des Princes fue el n\u00famero 400 del Barcelona en la UEFA Champions League.",
-            "date": "2015-04-16",
-            "categories": "afc-ajax",
-            "tags": "uefa,uefa_champions,uefa_champions_league,champions,champions_league,league,luis,luis_su\u00e1rez,su\u00e1rez,dos,afc,afc_ajax,ajax,ida,noticias,bar\u00e7a,barcelona",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/datos-y-cifras-de-la-ida-cuartos-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax&output=atom&nord=1",
-            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235096.html"
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235717.html"
         },
         "es.uefa.com/2015/04/luis-su%C3%A1rez-ilumin%C3%B3-par%C3%ADs-noticias": {
             "title": "Luis Su\u00e1rez ilumin\u00f3 Par\u00eds - Noticias - -...",
             "snippet": "Su\u00e1rez ilumin\u00f3 Par\u00eds - Noticias - \"Esta noche ha demostrado de nuevo que es letal\", a\u00f1adi\u00f3 Van der Wiel, amigo y excompa\u00f1ero de Su\u00e1rez en el AFC Ajax entre 2007 y 2011. \"Aprovecha los espacios, eso es lo que hace. Y esta noche hemos sido...",
             "date": "2015-04-16",
             "categories": "afc-ajax",
-            "tags": "afc,afc_ajax,ajax,luis,luis_su\u00e1rez,su\u00e1rez,noticias,van",
+            "tags": "afc,afc_ajax,ajax,luis,luis_su\u00e1rez,su\u00e1rez,van",
             "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/luis-su%C3%A1rez-ilumin%C3%B3-par%C3%ADs-noticias",
-            "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax%2Bafc%2Bajax&output=atom&nord=1",
-            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235072.html"
-        },
-        "es.uefa.com/2015/04/varsovia-busca-a-su-h%C3%A9roe-noticias": {
-            "title": "Varsovia busca a su h\u00e9roe - Noticias - -...",
-            "snippet": "busca a su h\u00e9roe - Noticias - el Legia Warsawa perdi\u00f3 ante el AFC Ajax en los dieciseisavos de final, un sue\u00f1o se esfum\u00f3. Y es que ning\u00fan equipo polaco ha alcanzado una final de competiciones de clubes de la UEFA desde que el G\u00f3rnik Zabrze...",
-            "date": "2015-04-14",
-            "categories": "afc-ajax",
-            "tags": "equipo,final,afc,afc_ajax,ajax,noticias,uefa",
-            "recuweb_url": "http://es.recuweb.com/afc-ajax/es.uefa.com/2015/04/varsovia-busca-a-su-h%C3%A9roe-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax&output=atom&nord=1",
-            "source_url": "http://es.uefa.com/uefaeuropaleague/news/newsid=2234092.html"
+            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2235072.html"
         },
         "beurs.nl/2015/04/afc-ajax-verlengt-contract-bazoer": {
             "title": "AFC Ajax verlengt contract Bazoer -...",
             "snippet": "AFC Ajax verlengt contract 6 april 2015 14:17 AMSTERDAM (Dow Jones)--AFC Ajax nv () en Riechedly Bazoer hebben overeenstemming bereikt over de verlenging van het contract van de middenvelder, meldt de Amsterdamse beursgenoteerde voetbalclub...y m\u00e1s...",
             "date": "2015-04-06",
             "categories": "afc-ajax",
-            "tags": "van,riechedly,afc,afc_ajax,ajax",
+            "tags": "van,afc,afc_ajax,ajax",
             "recuweb_url": "http://es.recuweb.com/afc-ajax/beurs.nl/2015/04/afc-ajax-verlengt-contract-bazoer",
             "resource_url": "http://news.google.es/?hl=es&q=afc%2Bajax&output=atom&nord=1",
             "source_url": "http://beurs.nl/nieuws/binnenland/3702624/afc-ajax-verlengt-contract-bazoer"

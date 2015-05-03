@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/postgresql/",
@@ -11,36 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "codificate.wordpress.com/2015/04/clase-manejador-de-base-datos-php-pdo-postgresql": {
-            "title": "Clase manejador de Base de datos. PHP PDO PostgreSQL...",
-            "snippet": "Saludo amigos, ya sabemos que en la web hay cientos de ejemplos, existen Frameworks, generadores de c\u00f3digo, e incluso clientes web que nos hacen la interacci\u00f3n con la base de datos un poco m\u00e1s f\u00e1cil, pero nunca est\u00e1...",
+        "mistrucosinformaticos.blogspot.com/2015/04/instalaci%C3%B3n-de-postgresql-java-jboss-en-linux-centos-para-alojar": {
+            "title": "Instalaci\u00f3n de Postgresql, Java, Jboss, en Linux Centos, para alojar...",
+            "snippet": "Instalaci\u00f3n de Postgresql, Java, Jboss, en Linux Centos, para alojar aplicaci\u00f3n genexus. En el siguiente post voy a comentar todos los pasos que tuve que dar para poder tener una m\u00e1quina virtual (en mi caso pero podr\u00eda ser...",
             "date": "2015-04-16",
-            "author_name": "codificate",
-            "categories": "php",
-            "tags": "f\u00e1cil,web,c\u00f3digo,hay,php,base,datos,gresql,amigos",
-            "recuweb_url": "http://es.recuweb.com/php/codificate.wordpress.com/2015/04/clase-manejador-de-base-datos-php-pdo-postgresql",
+            "author_name": "Nestor Lesna",
+            "categories": "java",
+            "tags": "poder,virtual,siguiente,linux,instalaci\u00f3n,gresql,java",
+            "recuweb_url": "http://es.recuweb.com/java/mistrucosinformaticos.blogspot.com/2015/04/instalaci%C3%B3n-de-postgresql-java-jboss-en-linux-centos-para-alojar",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://codificate.wordpress.com/2015/04/16/clase-manejador-de-base-de-datos-php-pdo-postgresql/"
+            "source_url": "http://mistrucosinformaticos.blogspot.com/2015/04/instalacion-de-postgresql-java-jboss-en.html"
         },
         "juantrucupei.wordpress.com/2015/03/elementos-de-optimizaci%C3%B3n-tunning-postgresql-linux-trucupei": {
             "title": "ELementos de optimizaci\u00f3n (Tunning) PostgreSQL Linux Trucupei...",
             "snippet": "EL presente instructivo tiene como finalidad configurar algunos elementos que optimizar\u00e1n el funcionamiento de PostgreSQL en nuetro servidor. Requisitos: Se debe contar con suficiente privilegios para la configuraci\u00f3n de...",
             "date": "2015-03-27",
             "author_name": "Juan Trucupei",
-            "tags": "configuraci\u00f3n,servidor,gresql,gresql_linux,gresql_linux_trucupei,linux,linux_trucupei,trucupei,configurar",
+            "tags": "servidor,configurar,gresql,linux,configuraci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/juantrucupei.wordpress.com/2015/03/elementos-de-optimizaci%C3%B3n-tunning-postgresql-linux-trucupei",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juantrucupei.wordpress.com/2015/03/27/elementos-de-optimizacion-tunning-postgresql/"
-        },
-        "juantrucupei.wordpress.com/2015/03/comandos-b%C3%A1sicos-de-postgresql-linux-trucupei-blog": {
-            "title": "Comandos B\u00e1sicos de PostgreSQL Linux Trucupei Blog...",
-            "snippet": "A continuaci\u00f3n un ejemplo de comandos b\u00e1sicos para la administraci\u00f3n de PostgreSQL. Siempre estar\u00e1 disponible el aplicativo Pgadmin, para una administraci\u00f3n gr\u00e1fica. Lista de Comandos: 1. Listar usuarios: postgres=...",
-            "date": "2015-03-24",
-            "author_name": "rodriguezmjuan",
-            "tags": "usuarios,ejemplo,gresql,gresql_linux,gresql_linux_trucupei,linux,linux_trucupei,trucupei,pgadmin,gres",
-            "recuweb_url": "http://es.recuweb.com/juantrucupei.wordpress.com/2015/03/comandos-b%C3%A1sicos-de-postgresql-linux-trucupei-blog",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://juantrucupei.wordpress.com/2015/03/24/comandos-basicos-de-postgresql/"
         },
         "unaaldia.hispasec.com/2015/02/hispasec-unaaldia-vulnerabilidades-en-postgresql": {
             "title": "Hispasec unaaldia: Vulnerabilidades en PostgreSQL...",
@@ -51,6 +41,17 @@
             "recuweb_url": "http://es.recuweb.com/unaaldia.hispasec.com/2015/02/hispasec-unaaldia-vulnerabilidades-en-postgresql",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2015/02/vulnerabilidades-en-postgresql.html"
+        },
+        "planetadiego.com/2015/02/aprende-a-usar-postgresql-sobre-linux-gentileza-de-microsoft": {
+            "title": "Aprende a usar PostgreSQL sobre Linux. Gentileza de Microsoft...",
+            "snippet": "PostgreSQL es un sistema de gesti\u00f3n de base de datos de c\u00f3digo abierto. Puedes aprender m\u00e1s sobre el tema aqu\u00ed Azure es la tecnolog\u00eda de computaci\u00f3n en la nube de Microsoft, y el curso en cuesti\u00f3n lo encuentras aqu\u00ed.",
+            "date": "2015-02-11",
+            "author_name": "Diego Germ\u00e1n Gonzalez",
+            "categories": "tecnologia",
+            "tags": "curso,c\u00f3digo,c\u00f3digo-abierto,abierto,sistema,gresql,linux,microsoft,base,datos",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/planetadiego.com/2015/02/aprende-a-usar-postgresql-sobre-linux-gentileza-de-microsoft",
+            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://planetadiego.com/2015/02/11/aprende-a-usar-postgresql-sobre-linux-gentileza-de-microsoft/"
         },
         "postgresql.org.es/2015/02/m%C3%A1s-all%C3%A1-de-los-tipos-datos": {
             "title": "M\u00e1s all\u00e1 de los tipos de datos...",
@@ -67,7 +68,7 @@
             "snippet": "Primero: sudo zypper install postgresql postgresql-server pgadmin3 Iniciamos el servidor de postgreSQL: sudo/etc/init.d/postgresql start Nos logueamos como el usuario postgres haciendo lo siguiente: sudo su postgres psql Una ves adentro del shell de...",
             "date": "2015-01-18",
             "author_name": "miguelpinia",
-            "tags": "servidor,pgadmin,gresql,gres",
+            "tags": "siguiente,servidor,install,gresql,etc,gres",
             "recuweb_url": "http://es.recuweb.com/miguelpinia.wordpress.com/2015/01/instalando-postgresql-en-opensuse",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=es",
             "source_url": "http://miguelpinia.wordpress.com/2015/01/18/instalando-postgresql-en-opensuse/"
@@ -77,7 +78,7 @@
             "snippet": "postgresql El Grupo Global de Desarrollo de PostgreSQL ha anunciado PostgreSQL 9.4, la \u00faltima versi\u00f3n del l\u00edder en bases de datos de c\u00f3digo abierto. Esta versi\u00f3n agrega muchas nuevas caracter\u00edsticas que mejoran la...",
             "date": "2014-12-19",
             "author_name": "rafaelma",
-            "tags": "versi\u00f3n,nuevas,caracter\u00edsticas,c\u00f3digo,bases,grupo,gresql,datos",
+            "tags": "versi\u00f3n,nuevas,caracter\u00edsticas,c\u00f3digo,c\u00f3digo-abierto,abierto,bases,grupo,gresql,datos",
             "recuweb_url": "http://es.recuweb.com/postgresql.org.es/2014/12/lanzamiento-de-postgresql-9-4",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://postgresql.org.es/node/2984"
@@ -97,7 +98,7 @@
             "snippet": "COMENTARIO T\u00e9cnico:) Muchos de Vosotros ya conoc\u00e9is pgtune, ahora hay alguien que publicado un panel para hacerlo a\u00fan mas f\u00e1cil. Nos ayudar\u00e1 a ajustar los par\u00e1metros para poder sacarle []...",
             "date": "2014-09-04",
             "author_name": "elraski",
-            "tags": "par\u00e1metros,hay,publicado,f\u00e1cil,gresql",
+            "tags": "par\u00e1metros,poder,publicado,gresql",
             "recuweb_url": "http://es.recuweb.com/elraski.wordpress.com/2014/09/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql",
             "resource_url": "http://es.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://elraski.wordpress.com/2014/09/04/pgtune-el-wizard-que-te-ayuda-a-optimizar-tu-postgresql/"
@@ -107,7 +108,7 @@
             "snippet": "PG_CONFIG Recupera informaci\u00f3n acerca de la versi\u00f3n instalada de PostgreSQL. Imprime los par\u00e1metros de configuraci\u00f3n de servicios p\u00fablicos de la versi\u00f3n actualmente instalada de PostgreSQL. Se pretende, por ejemplo,...",
             "date": "2014-05-06",
             "author_name": "Leticia Molina",
-            "tags": "ejemplo,par\u00e1metros,configuraci\u00f3n,versi\u00f3n,informaci\u00f3n,gresql",
+            "tags": "versi\u00f3n,par\u00e1metros,informaci\u00f3n,configuraci\u00f3n,gresql",
             "recuweb_url": "http://es.recuweb.com/luzemywonka.wordpress.com/2014/05/configuraci%C3%B3n-avanzada-de-un-sgbd-postgresql",
             "resource_url": "http://es.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://luzemywonka.wordpress.com/2014/05/06/sistemas-gestores-de-bases-de-datos/"

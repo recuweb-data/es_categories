@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-ibm",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-ibm/",
@@ -11,38 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-ibm/hardware-ibm/blogs.json"
     },
     "items": {
-        "jec.cl/2015/04/en-la-%C3%BAltima-reinvenci%C3%B3n-de-ibm-lo-nuevo-a%C3%BAn-no-reemplaza": {
-            "title": "En la \u00faltima reinvenci\u00f3n de IBM, lo nuevo a\u00fan no reemplaza... -...",
-            "snippet": "Su desaf\u00edo es rejuvenecer lo que queda del negocio de hardware de IBM, como la recientemente reconstruida operaci\u00f3n de mainframe para transacciones m\u00f3viles. El hardware era el alma original de esta compa\u00f1\u00eda,...",
-            "date": "2015-04-21",
-            "author_name": "EL MERCURIO",
+        "cwv.com.ve/2015/04/las-ventas-de-ibm-caen-un-12%-pese-al-lanzamiento-nuevo": {
+            "title": "Las ventas de IBM caen un 12% pese al lanzamiento de un nuevo...",
+            "snippet": "Se ver\u00e1 si los nuevos productos hardware que IBM est\u00e1 a punto de lanzar, el comporamiento de las ventas procedentes de su l\u00ednea de mainframes una divisi\u00f3n que doblo su cifra de negocio con respecto a 2013-, y las...",
+            "date": "2015-04-22",
+            "author_name": "Prensa CWV",
             "categories": "hardware",
-            "tags": "compa\u00f1\u00eda,recientemente,recientemente-reconstruida,recientemente-reconstruida-operaci\u00f3n,reconstruida,reconstruida-operaci\u00f3n,operaci\u00f3n,operaci\u00f3n-de-mainframe,mainframe,mainframe-para-transacciones,transacciones,desaf\u00edo,desaf\u00edo-es-rejuvenecer,rejuvenecer,queda,queda-del-negocio,negocio,reemplaza,reinvenci\u00f3n,\u00fal,ibm,nuevo,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/jec.cl/2015/04/en-la-%C3%BAltima-reinvenci%C3%B3n-de-ibm-lo-nuevo-a%C3%BAn-no-reemplaza",
+            "tags": "negocio,lanzar,nuevo,productos,ibm,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/cwv.com.ve/2015/04/las-ventas-de-ibm-caen-un-12%-pese-al-lanzamiento-nuevo",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://jec.cl/articulos/?p=61593"
+            "source_url": "http://cwv.com.ve/las-ventas-de-ibm-caen-un-12-pese-al-lanzamiento-de-un-nuevo-mainframe/"
         },
-        "siliconnews.es/2015/03/vodafone-e-ibm-inician-un-proyecto-de-ciudades-conectadas": {
-            "title": "Vodafone e IBM inician un proyecto de 'ciudades conectadas'en...",
-            "snippet": "El proyecto, denominado Vodafone Ciudad Conectada, utilizar\u00e1 como coraz\u00f3n de la infraestructura el hardware IBM zEnterprise BC12 con Linux sobre la plataforma tecnol\u00f3gica inteligente Vodafone TORO (Tecnolog\u00edas para...",
-            "date": "2015-03-04",
-            "author_name": "Rosal\u00eda Rozal\u00e9n",
-            "categories": "hardware,tecnologia",
-            "tags": "ibm,hardware,tecnolog\u00edas",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/siliconnews.es/2015/03/vodafone-e-ibm-inician-un-proyecto-de-ciudades-conectadas",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://siliconnews.es/2015/03/04/vodafone-e-ibm-inician-un-proyecto-de-ciudades-conectadas-en-andalucia/"
-        },
-        "enbytes.com/2015/02/ibm-emprende-importante-reorganizaci%C3%B3n-en-bytes": {
-            "title": "IBM emprende importante reorganizaci\u00f3n En Bytes...",
-            "snippet": "La organizaci\u00f3n de IBM, tradicionalmente estructurada en torno a hardware, software y servicios, ha sido puesta a prueba con el r\u00e1pido cambio que representa la insurgencia del modelo de computaci\u00f3n de nube, que no s\u00f3lo...",
-            "date": "2015-02-23",
-            "author_name": "Froilan Fernandez",
+        "diarioti.com/2015/04/ibm-aporta-su-plataforma-de-innovaci%C3%B3n-en-cloud-bluemix-al": {
+            "title": "IBM aporta su plataforma de innovaci\u00f3n en cloud, Bluemix, al...",
+            "snippet": "El NASA Space Apps Challenge es un evento virtual internacional de tres d\u00edas destinado a desarrolladores, cient\u00edficos, estudiantes, profesores y emprendedores que quieran construir aplicaciones, software, hardware y...",
+            "date": "2015-04-09",
+            "author_name": "Editora",
             "categories": "hardware",
-            "tags": "computaci\u00f3n,nube,servicios,ibm,hardware,software",
-            "recuweb_url": "http://es.recuweb.com/hardware/enbytes.com/2015/02/ibm-emprende-importante-reorganizaci%C3%B3n-en-bytes",
+            "tags": "innovaci\u00f3n,cloud,ibm,evento,software,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/diarioti.com/2015/04/ibm-aporta-su-plataforma-de-innovaci%C3%B3n-en-cloud-bluemix-al",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://enbytes.com/site/2015/02/23/ibm-emprende-importante-reorganizacion/"
+            "source_url": "http://diarioti.com/ibm-aporta-su-plataforma-de-innovacion-en-cloud-bluemix-al-desafio-online-de-la-nasa-space-app-challenge/"
+        },
+        "diarioti.com/2015/04/ca-technologies-ofrece-soporte-desde-el-primer-d%C3%ADa-para-ibm-z13": {
+            "title": "CA Technologies ofrece soporte desde el primer d\u00eda para IBM z13...",
+            "snippet": "Estamos realmente satisfechos de contar con el apoyo y la innovaci\u00f3n de CA Technologies para el nuevo hardware y software de IBM, apunta Ross Mauri, director general de z Systems de IBM. Esto permite a nuestros...",
+            "date": "2015-04-09",
+            "author_name": "Editora",
+            "categories": "hardware",
+            "tags": "director,apoyo,innovaci\u00f3n,primer,ibm,nuevo,hardware,software",
+            "recuweb_url": "http://es.recuweb.com/hardware/diarioti.com/2015/04/ca-technologies-ofrece-soporte-desde-el-primer-d%C3%ADa-para-ibm-z13",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diarioti.com/ca-technologies-ofrece-soporte-desde-el-primer-dia-para-ibm-z13/87003/"
+        },
+        "diarioti.com/2015/02/ibm-presenta-spectrum-software-inteligente-de-almacenamiento": {
+            "title": "IBM presenta Spectrum, software inteligente de almacenamiento en...",
+            "snippet": "Para aprovechar esta oportunidad, IBM es la primera empresa del sector en lanzar un plan detallado y acelerado para extraer informaci\u00f3n de sus productos de hardware de almacenamiento tradicionales, permitiendo a los...",
+            "date": "2015-02-17",
+            "author_name": "hlpg1965WP",
+            "categories": "hardware",
+            "tags": "empresa,sector,lanzar,productos,ibm,software,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/diarioti.com/2015/02/ibm-presenta-spectrum-software-inteligente-de-almacenamiento",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diarioti.com/ibm-presenta-spectrum-software-inteligente-de-almacenamiento-en-nubes-hibridas/"
         },
         "technologyreview.es/2014/11/watsoncito-hacia-d%C3%B3nde-debe-ibm-redirigir-su-negocio": {
             "title": "Watsoncito, Watsoncito, \u00bfhacia d\u00f3nde debe IBM redirigir su negocio...",
@@ -50,7 +61,7 @@
             "date": "2014-11-07",
             "author_name": "desconocido",
             "categories": "hardware",
-            "tags": "alguna,empresa,futuro,servicios,computaci\u00f3n,nube,negocio,ibm,hardware",
+            "tags": "alguna,empresa,futuro,servicios,nube,negocio,ibm,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/technologyreview.es/2014/11/watsoncito-hacia-d%C3%B3nde-debe-ibm-redirigir-su-negocio",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://technologyreview.es/informatica/46402/"
@@ -72,7 +83,7 @@
             "date": "2014-06-12",
             "author_name": "fullcomputadores",
             "categories": "hardware",
-            "tags": "conjunto,ibm,hardware",
+            "tags": "conjunto,primer,ibm,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/fullcomputadores.wordpress.com/2014/06/primer-sistema-operativo",
             "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bibm%2Bhardware%2Bibm&f=feed&page=1",
             "source_url": "http://fullcomputadores.wordpress.com/2014/06/12/primer-sistema-operativo/"
@@ -83,7 +94,7 @@
             "date": "2014-05-14",
             "author_name": "Stephany Cuevas",
             "categories": "hardware",
-            "tags": "espera,negocio,estabilice,servicios,compa\u00f1\u00eda,espera-que-negocio,ibm,hardware,financiero",
+            "tags": "espera,negocio,estabilice,servicios,ingresos,espera-que-negocio,ibm,hardware,financiero",
             "recuweb_url": "http://es.recuweb.com/hardware/elfinanciero.com.mx/2014/05/ibm-espera-que-negocio-de-hardware-se-estabilice-el-financiero",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elfinanciero.com.mx/empresas/ibm-espera-que-negocio-de-hardware-se-estabilice.html"
@@ -94,7 +105,7 @@
             "date": "2014-05-14",
             "author_name": "Forbes Staff",
             "categories": "hardware",
-            "tags": "espera,international,international_business,international_business_machines,business,business_machines,machines,financiero,d\u00f3lares,d\u00f3lares-por-acci\u00f3n,acci\u00f3n,empresa,pron\u00f3sticos,pron\u00f3sticos-de-ganancias,ganancias,m\u00e9xico,estabilice,negocio,ibm,hardware",
+            "tags": "espera,international,international_business,international_business_machines,business,business_machines,machines,director,financiero,d\u00f3lares,d\u00f3lares-por-acci\u00f3n,acci\u00f3n,empresa,pron\u00f3sticos,pron\u00f3sticos-de-ganancias,ganancias,m\u00e9xico,estabilice,negocio,ibm,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/forbes.com.mx/2014/05/ibm-espera-que-se-estabilice-el-negocio-de-hardware-forbes-m%C3%A9xico",
             "resource_url": "http://www.google.com/search?q=hardware%2Bibm%2Bhardware%2Bibm&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forbes.com.mx/ibm-espera-que-se-estabilice-el-negocio-de-hardware/"
@@ -105,21 +116,10 @@
             "date": "2014-05-14",
             "author_name": "davidleone",
             "categories": "hardware",
-            "tags": "d\u00f3lares,d\u00f3lares-por-acci\u00f3n,acci\u00f3n,estabilice,pron\u00f3sticos,pron\u00f3sticos-de-ganancias,ganancias,espera,international,international_business,international_business_machines,business,business_machines,machines,espera-que-negocio,negocio,ibm,hardware",
+            "tags": "d\u00f3lares,d\u00f3lares-por-acci\u00f3n,acci\u00f3n,estabilice,pron\u00f3sticos,pron\u00f3sticos-de-ganancias,ganancias,espera,sector,international,international_business,international_business_machines,business,business_machines,machines,espera-que-negocio,negocio,ibm,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/davidleone.wordpress.com/2014/05/ibm-espera-que-negocio-de-hardware-se-estabilice",
             "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bibm%2Bhardware%2Bibm&f=feed&page=1",
             "source_url": "http://davidleone.wordpress.com/2014/05/14/ibm-espera-que-negocio-de-hardware-se-estabilice-este-ano/"
-        },
-        "ulapisa.wordpress.com/2014/04/ibm-earnings-slump-21%-in-q1-on-weak-hardware-sales": {
-            "title": "IBM earnings slump 21% in Q1 on weak hardware sales...",
-            "snippet": "IBM reported a 21 per cent slump in first quarter earnings, as the computer giant saw weak hardware sales and focused more on services and the Internet cloud. []...",
-            "date": "2014-04-17",
-            "author_name": "ulapisa",
-            "categories": "hardware,internet",
-            "tags": "sales,quarter,earnings,ibm,hardware,cloud",
-            "recuweb_url": "http://es.recuweb.com/internet/ulapisa.wordpress.com/2014/04/ibm-earnings-slump-21%-in-q1-on-weak-hardware-sales",
-            "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bibm%2Bhardware%2Bibm&f=feed&page=1",
-            "source_url": "http://ulapisa.wordpress.com/2014/04/17/ibm-earnings-slump-21-in-q1-on-weak-hardware-sales/"
         }
     }
 }

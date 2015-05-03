@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servicios-web",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-web/",
@@ -41,23 +41,11 @@
             "date": "2014-09-15",
             "author_name": "hlbarragan",
             "categories": "servicios-web,java",
-            "tags": "web,desarrollo,servicios,servicios-web,rest",
+            "tags": "web,desarrollo,servicios,servicios-web,java",
             "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/09/definicion-y-consumo-de-servicios-web-tipo-soap-rest-utilizando-java",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=rMtqK2KZZa8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rMtqK2KZZa8/0.jpg"
-        },
-        "youtube.com/2014/07/tutorial-servicios-rest-parte-1-dise%C3%B1ando-la-base-de-datos": {
-            "title": "Tutorial: Servicios REST Parte 1 Dise\u00f1ando la Base de Datos...",
-            "snippet": "Tutorial: Servicios REST Parte 1 Dise\u00f1ando la Base de Datos Con esta entrega iniciamos el tutorial de desarrollo de Servicios Web REST, arrancando con el dise\u00f1o de la base de datos sobre MySQL 5.6. La idea principal del tutorial es explicar una...",
-            "date": "2014-07-01",
-            "author_name": "VainiyaSoft",
-            "categories": "base-de-datos,servicios-web,mysql",
-            "tags": "tutorial,dise\u00f1o,datos,servicios,servicios_web,web,rest,desarrollo,parte",
-            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/07/tutorial-servicios-rest-parte-1-dise%C3%B1ando-la-base-de-datos",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=lxhDL06cz5A&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/lxhDL06cz5A/0.jpg"
         },
         "dailymotion.com/2014/06/servicios-de-redise%C3%B1o-web": {
             "title": "Servicios de redise\u00f1o web...",
@@ -85,11 +73,11 @@
         },
         "youtube.com/2014/05/12-servicios-web-con-wcf": {
             "title": "12 Servicios Web con WCF...",
-            "snippet": "12 Servicios Web con WCF En este v\u00eddeo veremos c\u00f3mo crear un Servicio Web con WCF, c\u00f3mo definir los m\u00e9todos y las clases de datos y c\u00f3mo a\u00f1adir el c\u00f3digo necesario en cada m\u00e9todo. Una vez creado el Servicio... From: tolo toko Views: 214 2...",
+            "snippet": "12 Servicios Web con WCF En este v\u00eddeo veremos c\u00f3mo crear un Servicio Web con WCF, c\u00f3mo definir los m\u00e9todos y las clases de datos y c\u00f3mo a\u00f1adir el c\u00f3digo necesario en cada m\u00e9todo. Una vez creado el Servicio... From: tolo toko Views: 223 3...",
             "date": "2014-05-26",
             "author_name": "tolo toko",
             "categories": "servicios-web",
-            "tags": "c\u00f3mo,datos,servicios,web,servicios_web",
+            "tags": "c\u00f3mo,servicios,web,crear,servicios_web",
             "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2014/05/12-servicios-web-con-wcf",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Pn74rdKqdfQ&feature=youtube_gdata",
@@ -124,11 +112,23 @@
             "date": "2013-10-03",
             "author_name": "Patricia Rivas",
             "categories": "servicios-web",
-            "tags": "tutorial,servicios,servicios_web,web,parte",
+            "tags": "tutorial,servicios,servicios_web,web",
             "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2013/10/tutorial-servicios-web-parte-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=MfaMIVP6dv4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/MfaMIVP6dv4/0.jpg"
+        },
+        "youtube.com/2013/09/java-web-services-%C3%B3-servicios-cliente-y-servidor": {
+            "title": "Java Web Services \u00f3 Servicios Web Java (Cliente y Servidor)...",
+            "snippet": "Java Web Services \u00f3 Servicios Web Java (Cliente y Servidor) Download Source:, Suscr\u00edbete a nuestro canal para que est\u00e9s actualizado con los \u00faltimos videos. En este tutorial aprender\u00e1s a crear un Web Service o Servicio... From: Java Revolutions...",
+            "date": "2013-09-02",
+            "author_name": "Java Revolutions",
+            "categories": "java,servicios-web",
+            "tags": "java,web,tutorial,crear,servicios,servicios_web",
+            "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2013/09/java-web-services-%C3%B3-servicios-cliente-y-servidor",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=fvKoSySXbEE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/fvKoSySXbEE/0.jpg"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servidor-http-apache",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servidor-http-apache/",
@@ -15,26 +15,25 @@
             "title": "Programa que roda Siri tem mesmo nome do assistente pessoal do... - Info Online...",
             "snippet": "que roda Siri tem mesmo nome do assistente pessoal do...Info OnlineDurante um encontro na sede da empresa, na Calif\u00f3rnia, os desenvolvedores da Apple detalharam o funcionamento do software Apache Mesos, que equipa os servidores que rodam a Siri. O...",
             "date": "2015-04-27",
-            "tags": "servidores,rodam,apache,software,programa",
+            "tags": "servidores,apache,apache_mesos,mesos,software,encontro,programa,siri,apple",
             "recuweb_url": "http://es.recuweb.com/info.abril.com.br/2015/04/programa-que-roda-siri-tem-mesmo-nome-do-assistente-pessoal-info",
-            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
             "source_url": "http://info.abril.com.br/noticias/tecnologia-pessoal/2015/04/programa-que-roda-siri-e-batizado-com-o-mesmo-nome-do-assistente-pessoal-do-homem-de-ferro.shtml"
         },
-        "observatoriodaimprensa.com.br/2015/04/elio-gaspari-observatorio-da-imprensa": {
-            "title": "Elio Gaspari - Observatorio Da Imprensa...",
-            "snippet": "Elio GaspariObservatorio Da ImprensaOito em cada dez servidores de mensagens eletr\u00f4nicas rodam o software livre BIND. Dois ter\u00e7os dos s\u00edtios da internet usam o Apache, gr\u00e1tis como chuva. A National Security Agency, certamente o neg\u00f3cio mais...",
-            "date": "2015-04-09",
-            "categories": "internet",
-            "tags": "mais,national,dos,servidores,rodam,software,livre,apache",
-            "recuweb_url": "http://es.recuweb.com/internet/observatoriodaimprensa.com.br/2015/04/elio-gaspari-observatorio-da-imprensa",
-            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
-            "source_url": "http://observatoriodaimprensa.com.br/entre-aspas/elio_gaspari__27239/"
+        "codigofonte.uol.com.br/2015/04/software-do-siri-%C3%A9-nomeado-em-homenagem-ao-jarvis-homem-c%C3%B3digo": {
+            "title": "Software do Siri \u00e9 nomeado em homenagem ao JARVIS, do Homem... - C\u00f3digo Fonte...",
+            "snippet": "Software do Siri \u00e9 nomeado em homenagem ao JARVIS, do Homem...C\u00f3digo FonteEm um encontro de engenheiros na semana passada, a Apple revelou que os servidores que executam o Siri usam uma vers\u00e3o personalizada do Apache Mesos, um software de c\u00f3digo...",
+            "date": "2015-04-27",
+            "tags": "software,apache,apache_mesos,mesos,servidores,encontro,c\u00f3digo,siri,apple",
+            "recuweb_url": "http://es.recuweb.com/codigofonte.uol.com.br/2015/04/software-do-siri-%C3%A9-nomeado-em-homenagem-ao-jarvis-homem-c%C3%B3digo",
+            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
+            "source_url": "http://codigofonte.uol.com.br/noticias/software-do-siri-e-nomeado-em-homenagem-ao-jarvis-do-homem-de-ferro"
         },
         "canaltech.com.br/2014/10/o-que-%C3%A9-servidor-apache-canaltech": {
             "title": "O que \u00e9 servidor Apache? - Canaltech...",
             "snippet": "O que \u00e9 servidor Apache?CanaltechCriado em 1995 por Rob McCool, na \u00e9poca funcion\u00e1rio da NCSA (National Center for Supercomputing Applications), o servidor Apache ou Servidor HTTP Apache \u00e9 o mais bem sucedido servidor web livre que existe.",
             "date": "2014-10-24",
-            "tags": "livre,mais,servidor,servidor-http,http,national,apache,web",
+            "tags": "servidor,servidor-http,http,apache,web",
             "recuweb_url": "http://es.recuweb.com/canaltech.com.br/2014/10/o-que-%C3%A9-servidor-apache-canaltech",
             "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
             "source_url": "http://canaltech.com.br/o-que-e/internet/O-que-e-servidor-Apache/"
@@ -46,35 +45,17 @@
             "categories": "servidor-http-apache",
             "tags": "servidor,servidor_web,web,http,http_apache,apache",
             "recuweb_url": "http://es.recuweb.com/servidor-http-apache/neoteo.com/2014/09/servidor-http-apache-los-mejores-desarrolladores-neoteo",
-            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache&output=atom&nord=1",
-            "source_url": "http://neoteo.com/servidor-http-apache-los-mejores-desarrolladores/"
-        },
-        "unaaldia.hispasec.com/2012/08/dos-vulnerabilidades-en-el-servidor-web-apache-hispasec": {
-            "title": "Dos vulnerabilidades en el servidor web Apache - Hispasec...",
-            "snippet": "Dos vulnerabilidades en el servidor web ApacheHispasecApache ha publicado la versi\u00f3n destinada a corregir estos problemas, que puede descargarse desde: M\u00e1s informaci\u00f3n: Apache httpd 2.4 vulnerabilities.",
-            "date": "2012-08-24",
-            "tags": "versi\u00f3n,dos,servidor,web,apache,hispasec",
-            "recuweb_url": "http://es.recuweb.com/unaaldia.hispasec.com/2012/08/dos-vulnerabilidades-en-el-servidor-web-apache-hispasec",
             "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
-            "source_url": "http://unaaldia.hispasec.com/2012/08/dos-vulnerabilidades-en-el-servidor-web.html"
+            "source_url": "http://neoteo.com/servidor-http-apache-los-mejores-desarrolladores/"
         },
         "unaaldia.hispasec.com/2012/04/nueva-versi%C3%B3n-de-apache-http-server-hispasec": {
             "title": "Nueva versi\u00f3n de Apache HTTP Server - Hispasec...",
             "snippet": "Nueva versi\u00f3n de Apache HTTP ServerHispasecEl fallo podr\u00eda permitir a un atacante buscar DSO (dinamyc shared object) en el directorio actual y ejecutar as\u00ed c\u00f3digo arbitrario con los permisos con los que est\u00e9 funcionando actualmente Apache.",
             "date": "2012-04-18",
-            "tags": "funcionando,apache,apache_http,http,apache_http_server,http_server,server,versi\u00f3n,hispasec,c\u00f3digo",
+            "tags": "funcionando,apache,apache_http,http,apache_http_server,http_server,server,c\u00f3digo",
             "recuweb_url": "http://es.recuweb.com/unaaldia.hispasec.com/2012/04/nueva-versi%C3%B3n-de-apache-http-server-hispasec",
             "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2012/04/nueva-version-de-apache-http-server.html"
-        },
-        "muylinux.com/2012/02/apache-2-4-llega-seis-a%C3%B1os-despu%C3%A9s-de-la-%C3%BAltima-versi%C3%B3n": {
-            "title": "Apache 2.4 llega seis a\u00f1os despu\u00e9s de la \u00faltima versi\u00f3n estable - MuyLinux...",
-            "snippet": "Apache 2.4 llega seis a\u00f1os despu\u00e9s de la \u00faltima versi\u00f3n estableMuyLinuxY como comentan en MuyComputerPRO, la Apache Software Foundation ha liberado la primera gran actualizaci\u00f3n en seis a\u00f1os del servidor web HTTP multiplataforma de c\u00f3digo...",
-            "date": "2012-02-22",
-            "tags": "software,versi\u00f3n,apache,servidor,web,http,c\u00f3digo",
-            "recuweb_url": "http://es.recuweb.com/muylinux.com/2012/02/apache-2-4-llega-seis-a%C3%B1os-despu%C3%A9s-de-la-%C3%BAltima-versi%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&output=atom&nord=1",
-            "source_url": "http://muylinux.com/2012/02/22/apache-2-4-llega-seis-anos-despues-de-la-ultima-version-estable"
         },
         "genbeta.com/2012/02/apache-http-server-2-4-ya-disponible-con-mejoras-generales": {
             "title": "Apache HTTP Server 2.4 ya disponible con mejoras generales de... - Genbeta (blog)...",

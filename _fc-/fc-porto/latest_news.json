@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fc-porto",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/fc-porto/",
@@ -11,57 +11,87 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/fc-porto/fc-porto/blogs.json"
     },
     "items": {
+        "mundodeportivo.com/2015/05/el-vic-se-clasifica-para-su-tercera-final-de-la-liga": {
+            "title": "El Vic se clasifica para su tercera final de la Liga Europea...",
+            "snippet": "Un gol de oro de Mia Ordeig cuando se llevaban jugados 421 de la pr\u00f3rroga ha clasificado este s\u00e1bado al Club Pat\u00ed Vic para la final de la Liga Europea de hockey patines tras imponerse por 3-2 al FC Porto en la primera primera semifinal de la...",
+            "date": "2015-05-02",
+            "categories": "hockey",
+            "tags": "hockey,hockey-patines,patines,final,club,club_pat\u00ed,club_pat\u00ed_vic,pat\u00ed,pat\u00ed_vic,vic,s\u00e1bado,liga,liga_europea,europea,tercera,tercera-final,porto",
+            "recuweb_url": "http://es.recuweb.com/hockey/mundodeportivo.com/2015/05/el-vic-se-clasifica-para-su-tercera-final-de-la-liga",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
+            "source_url": "http://mundodeportivo.com/hockey-patines/20150502/102996788459/el-vic-se-clasifica-para-su-tercera-final-de-la-liga-europea.html"
+        },
+        "vavel.com/2015/05/vic-y-bar%C3%A7a-buscan-la-liga-europea-de-hockey-patines": {
+            "title": "Vic y Bar\u00e7a buscan la Liga Europea de hockey patines...",
+            "snippet": "FC Porto: el eterno aspirante El FC Porto viene de conseguir su pase a esta Final Four tras unos duros cuartos de final ante el Benfica. Los 'dragones'buscar\u00e1n su tercera Copa de Europa tras dos finales consecutivas intent\u00e1ndolo. El equipo...",
+            "date": "2015-05-02",
+            "categories": "hockey",
+            "tags": "final,tercera,cuartos,cuartos-de-final,final_four,hockey,hockey-patines,patines,liga,liga_europea,europea,vic,porto,benfica,dragones",
+            "recuweb_url": "http://es.recuweb.com/hockey/vavel.com/2015/05/vic-y-bar%C3%A7a-buscan-la-liga-europea-de-hockey-patines",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
+            "source_url": "http://vavel.com/es/masdeportes/483789-vic-y-barca-buscan-la-liga-europea-de-hockey-patines.html"
+        },
+        "planetadeporte.es/2015/05/cp-vic-fc-porto-fecha-horario-y-c%C3%B3mo-ver-por-televisi%C3%B3n": {
+            "title": "CP Vic FC Porto: fecha, horario y c\u00f3mo ver por televisi\u00f3n...",
+            "snippet": "Arranca la Final Four de la Liga Europea de Hockey Patines, que se disputa en Italia los d\u00edas 2 y 3 de mayo. El Club Pat\u00ed Vic buscar\u00e1 disputar la tercera final de la Champions League de la historia del club catal\u00e1n, que ha firmado una buena...",
+            "date": "2015-05-01",
+            "categories": "hockey,television",
+            "tags": "champions,tercera,tercera-final,final,club,club_pat\u00ed,club_pat\u00ed_vic,pat\u00ed,pat\u00ed_vic,vic,hockey,patines,liga,liga_europea,europea,final_four,porto,italia",
+            "recuweb_url": "http://es.recuweb.com/television/planetadeporte.es/2015/05/cp-vic-fc-porto-fecha-horario-y-c%C3%B3mo-ver-por-televisi%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
+            "source_url": "http://planetadeporte.es/polideportivo-2/2015/horario-tv-cp-vic-fc-porto-hockey-patines-762310"
+        },
+        "entornointeligente.com/2015/05/nacional-venceu-fc-porto-por-10-em-juniores": {
+            "title": "Nacional venceu FC Porto por 10 em juniores...",
+            "snippet": "Nacional venceu FC Porto por 10 em juniores/jornal da madeira/A equipa de juniores do Nacional recebeu e venceu esta manh\u00e3, o FC Porto por 10, em jogo da 11. jornada da Fase de Apuramento do Campe\u00e3o do escal\u00e3o. Num jogo bem disputado...",
+            "date": "2015-05-01",
+            "tags": "jornada,porto",
+            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/05/nacional-venceu-fc-porto-por-10-em-juniores",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
+            "source_url": "http://entornointeligente.com/articulo/5819123/Faltan-pocas-horas-para-la-pelea-Mayweather-Pacquiao-01052015"
+        },
+        "entornointeligente.com/2015/04/benfica-e-fc-porto-visitam-aflitos": {
+            "title": "Benfica e FC Porto visitam 'aflitos'...",
+            "snippet": "Noticias Relacionadas: Porto, Benfica, Tr\u00eas, Mais, Vencer, Pontos, N\u00e3o, Dever\u00e1, Ter\u00e1, Benfica e FC Porto visitam 'aflitos'/Correio da manha/O l\u00edder Benfica visita no s\u00e1bado o 'aflito'Gil Vicente, numa 31. jornada da I Liga de futebol em que...",
+            "date": "2015-04-30",
+            "tags": "jornada,s\u00e1bado,benfica,porto,liga",
+            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/benfica-e-fc-porto-visitam-aflitos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
+            "source_url": "http://entornointeligente.com/articulo/5805800/Benfica-e-FC-Porto-visitam-aflitos-30042015"
+        },
+        "espndeportes.espn.go.com/2015/04/am%C3%A9rica-recibir%C3%A1-al-porto-en-el-azteca-espn-deportes": {
+            "title": "Am\u00e9rica recibir\u00e1 al Porto en el Azteca - ESPN Deportes...",
+            "snippet": "Futbol TotalAm\u00e9rica recibir\u00e1 al Porto en el AztecaESPN DeportesEstados Unidos, M\u00e9xico, Canad\u00e1, Italia e Inglaterra estar\u00e1n entre las naciones sedes de la ICC que contar\u00e1 con la participaci\u00f3n del FC Barcelona, Manchester United, Porto, Paris...",
+            "date": "2015-04-28",
+            "categories": "manchester-united,futbol",
+            "tags": "porto,italia",
+            "recuweb_url": "http://es.recuweb.com/futbol/espndeportes.espn.go.com/2015/04/am%C3%A9rica-recibir%C3%A1-al-porto-en-el-azteca-espn-deportes",
+            "resource_url": "http://news.google.es/?hl=es&q=fc%2Bporto&output=atom&nord=1",
+            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2358735/america-recibira-al-porto-en-el-azteca"
+        },
         "spherasports.com/2015/04/fc-porto-y-su-semana-negra": {
             "title": "FC Porto y su Semana Negra...",
             "snippet": "Una semana de todo o nada para el FC Porto. De alegr\u00eda desmedida, \u00e9xitos y satisfacci\u00f3n, o de tristeza, decepci\u00f3n y vitrinas vac\u00edas. Afrontaba el pasado martes el conjunto de Lopetegui la vuelta de cuartos de final de UCL contra el Bayern de...",
             "date": "2015-04-27",
-            "tags": "vuelta,cuartos,cuartos-de-final,final,martes,porto,lopetegui,bayern",
+            "tags": "cuartos,cuartos-de-final,final,porto,lopetegui,bayern",
             "recuweb_url": "http://es.recuweb.com/spherasports.com/2015/04/fc-porto-y-su-semana-negra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
             "source_url": "http://spherasports.com/fc-porto-y-su-semana-negra-41413/"
-        },
-        "futbolred.com/2015/04/porto-prepara-seminario-de-f%C3%BAtbol-en-bogot%C3%A1-con-t%C3%A9cnicos-portugueses": {
-            "title": "Porto prepara seminario de f\u00fatbol en Bogot\u00e1 con t\u00e9cnicos portugueses...",
-            "snippet": "Urgel Mart\u00edns, director ejecutivo del club, Joao Luis Alfonso, director de ojeadores, V\u00edtor Frade, metod\u00f3logo y padre de la periodizaci\u00f3n t\u00e1ctica, y Pablo Sanz, coordinador t\u00e9cnico de formaci\u00f3n, ser\u00e1n los expositores del FC Porto en...",
-            "date": "2015-04-27",
-            "categories": "futbol",
-            "tags": "porto,f\u00fatbol,club",
-            "recuweb_url": "http://es.recuweb.com/futbol/futbolred.com/2015/04/porto-prepara-seminario-de-f%C3%BAtbol-en-bogot%C3%A1-con-t%C3%A9cnicos-portugueses",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
-            "source_url": "http://futbolred.com/otras-ligas/noticias/abril16al30de2015/porto-prepara-seminario-de-futbol-en-bogota-con-tecnicos-portugueses/15639603"
         },
         "goal.com/2015/04/al-fc-porto-se-le-fue-la-chance-de-igualar-benfica": {
             "title": "Al FC Porto se le fue la chance de igualar al Benfica en puntos y pelear por el t\u00edtulo, a cuatro...",
             "snippet": "Todo indicaba que el Cl\u00e1sico de Portugal entre Benfica y FC Porto, perfilar\u00eda al campe\u00f3n luso a cuatro fechas de culminar la Liga Zon Zagres. El Est\u00e1dio da Luz de Lisboa fue el escenario para que \u00c1guilas y Dragones se enfrentaran con una...",
             "date": "2015-04-26",
-            "tags": "liga,puntos,t\u00edtulo,porto,benfica,portugal,luz",
+            "tags": "liga,t\u00edtulo,porto,benfica,portugal,dragones",
             "recuweb_url": "http://es.recuweb.com/goal.com/2015/04/al-fc-porto-se-le-fue-la-chance-de-igualar-benfica",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
             "source_url": "http://goal.com/es-mx/match/benfica-vs-porto/1758427/report"
-        },
-        "entornointeligente.com/2015/04/benfica-e-fc-porto-empatam-00-adiam-decis%C3%A3o-do-t%C3%ADtulo": {
-            "title": "Benfica e FC Porto empatam 00 e adiam decis\u00e3o do t\u00edtulo...",
-            "snippet": "jornal da madeira/O Benfica e o FC Porto empataram hoje 00, na 30. jornada da I Liga de futebol, resultado que adia a quest\u00e3o da luta pelo t\u00edtulo nacional, ainda com vantagem para os encarnados. Com este empate, e quando faltam quatro jornadas...",
-            "date": "2015-04-26",
-            "tags": "jornada,resultado,t\u00edtulo,futebol,benfica,porto,liga",
-            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/benfica-e-fc-porto-empatam-00-adiam-decis%C3%A3o-do-t%C3%ADtulo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
-            "source_url": "http://entornointeligente.com/articulo/5770194/Benfica-e-FC-Porto-empatam-00-e-adiam-decisao-do-titulo-26042015"
-        },
-        "entornointeligente.com/2015/04/portugal-fc-porto-e-o-desafio-de-vencer-na-luz-sem": {
-            "title": "PORTUGAL: FC Porto e o desafio de vencer na Luz sem a m\u00edstica de outros tempos...",
-            "snippet": "Diario Noticias/O antigo 'capit\u00e3o'do FC Porto Jorge Costa acredita que ser\u00e1 f\u00e1cil ao treinador Julen Lopetegui preparar e motivar a equipa para vencer neste domingo na visita ao Benfica, na 30. jornada da I Liga de futebol. \u00c9, realmente, a...",
-            "date": "2015-04-26",
-            "tags": "futebol,jornada,domingo,julen,julen_lopetegui,lopetegui,portugal,porto,luz,benfica,liga",
-            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/portugal-fc-porto-e-o-desafio-de-vencer-na-luz-sem",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
-            "source_url": "http://entornointeligente.com/articulo/5768254/PORTUGAL-FC-Porto-e-o-desafio-de-vencer-na-Luz-sem-a-mistica-de-outros-tempos-"
         },
         "vavel.com/2015/04/resultado-benfica-vs-porto-en-la-liga-portuguesa-2015-0": {
             "title": "Resultado Benfica vs Porto en la Liga Portuguesa 2015 (0-0) -...",
             "snippet": "Benfica vs Porto en la Liga Portuguesa 2015 (0-0) otro lado, el FC Porto de Julen Lopetegui, sale con: Helton; Danilo, Maicon, Iv\u00e1n Marcano, Alex Sandro; Casemiro, R\u00faben Neves, Evandro; \u00d3liver Torres, Jackson Mart\u00ednez, Brahimi. Sorprendente...",
             "date": "2015-04-26",
-            "tags": "julen,julen_lopetegui,lopetegui,liga,portuguesa,resultado,benfica,porto",
+            "tags": "lopetegui,liga,portuguesa,benfica,porto",
             "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/resultado-benfica-vs-porto-en-la-liga-portuguesa-2015-0",
             "resource_url": "http://news.google.es/?hl=es&q=fc%2Bporto&output=atom&nord=1",
             "source_url": "http://vavel.com/es/internacional/portugal/481116-benfica-vs-porto-liga-portuguesa-en-vivo-y-en-directo-online.html"
@@ -70,37 +100,10 @@
             "title": "Cuando el Benfica acab\u00f3 con la racha del Oporto...",
             "snippet": "Este domingo se celebra el 'Cl\u00e1ssico'de Portugal entre SL Benfica y FC Porto, un partido que podr\u00eda decidir el t\u00edtulo de la Liga portuguesa 2014/15. La rivalidad entre ambos equipos es muy grande, pero quiz\u00e1 uno de sus duelos m\u00e1s legendarios...",
             "date": "2015-04-25",
-            "tags": "t\u00edtulo,domingo,benfica,oporto,portugal,porto,liga,portuguesa",
+            "tags": "t\u00edtulo,benfica,oporto,portugal,porto,liga,portuguesa",
             "recuweb_url": "http://es.recuweb.com/es.uefa.com/2015/04/cuando-el-benfica-acab%C3%B3-con-la-racha-del-oporto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
             "source_url": "http://es.uefa.com/memberassociations/association=por/news/newsid=2238724.html"
-        },
-        "es.uefa.com/2015/04/madrid-y-bar%C3%A7a-en-cabeza": {
-            "title": "Madrid y Bar\u00e7a, en cabeza...",
-            "snippet": "El FC Porto, eliminado por el FC Bayern M\u00fcnchen en cuartos de final, es tercero en el ranking de 2014/15 () con la Juventus cuarta () y el Bayern quinto (). El ranking general sigue igual, con el Madrid primero con puntos...",
-            "date": "2015-04-24",
-            "tags": "puntos,cuartos,cuartos-de-final,final,bayern,porto",
-            "recuweb_url": "http://es.recuweb.com/es.uefa.com/2015/04/madrid-y-bar%C3%A7a-en-cabeza",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bporto&format=RSS&cc=es",
-            "source_url": "http://es.uefa.com/uefachampionsleague/news/newsid=2239140.html"
-        },
-        "cooperativa.cl/2015/04/21-04-201517-59-la-apabullante-goleada-de-bayern-munich": {
-            "title": "21/04/201517:59 La apabullante goleada de Bayern Munich sobre... -...",
-            "snippet": ":59 La apabullante goleada de Bayern Munich sobre... Munich venci\u00f3 6-1 (7-4) a FC Porto en el duelo de vuelta de los cuartos de final de la Liga de Campeones. El cuadro alem\u00e1n mostr\u00f3 su hegemon\u00eda a pesar de llegar con una desventaja en el...",
-            "date": "2015-04-22",
-            "tags": "vuelta,cuartos,cuartos-de-final,final,bayern,bayern_munich,munich,porto,liga,campeones",
-            "recuweb_url": "http://es.recuweb.com/cooperativa.cl/2015/04/21-04-201517-59-la-apabullante-goleada-de-bayern-munich",
-            "resource_url": "http://news.google.es/?hl=es&q=fc%2Bporto&output=atom&nord=1",
-            "source_url": "http://cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/la-apabullante-goleada-de-bayern-munich-sobre-fc-porto/2015-04-21/174837.html"
-        },
-        "canchallena.lanacion.com.ar/2015/04/recuperaci%C3%B3n-total-bayern-munich-gole%C3%B3-6-1-a-porto-y-dio": {
-            "title": "Recuperaci\u00f3n total: Bayern Munich gole\u00f3 6-1 a Porto y dio vuelta la... -...",
-            "snippet": "\u00f3n total: Bayern Munich gole\u00f3 6-1 a Porto y dio vuelta la.... FC Porto. Bayern, una topadora ante Porto. Foto: AFP. MUNICH (AFP).- El Bayern Munich de Pep Guardiola se clasific\u00f3 para las semifinales de la Champions League al golear al Porto por...",
-            "date": "2015-04-22",
-            "tags": "champions,champions_league,league,vuelta,bayern,bayern_munich,munich,porto",
-            "recuweb_url": "http://es.recuweb.com/canchallena.lanacion.com.ar/2015/04/recuperaci%C3%B3n-total-bayern-munich-gole%C3%B3-6-1-a-porto-y-dio",
-            "resource_url": "http://news.google.es/?hl=es&q=fc%2Bporto&output=atom&nord=1",
-            "source_url": "http://canchallena.lanacion.com.ar/1786129-bayern-munich-porto-champions-league"
         }
     }
 }

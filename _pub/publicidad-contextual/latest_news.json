@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "publicidad-contextual",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/publicidad-contextual/",
@@ -11,33 +11,73 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/publicidad-contextual/publicidad-contextual/blogs.json"
     },
     "items": {
+        "noticiaaldia.com/2015/05/las-predicciones-que-bill-gates-hizo-en-1999-y-luego-acert%C3%B3": {
+            "title": "Las predicciones que Bill Gates hizo en 1999 y luego acert\u00f3...",
+            "snippet": "Ahora: Son habituales los hashtags en Twitter o las referencias a la web de un programa. 9. Publicidad contextual Predicci\u00f3n de Gates: Los dispositivos tendr\u00e1n publicidad inteligente. Ellos sabr\u00e1n las tendencias de compra y mostrar\u00e1 anuncios...",
+            "date": "2015-05-01",
+            "categories": "twitter",
+            "tags": "sabr\u00e1n,sabr\u00e1n-las-tendencias,tendencias,tendencias-de-compra,compra,compra-mostrar\u00e1,compra-mostrar\u00e1-anuncios,mostrar\u00e1,mostrar\u00e1-anuncios,anuncios,dispositivos,dispositivos-tendr\u00e1n,tendr\u00e1n,referencias,referencias-a-web,web,programa,habituales,habituales-los-hashtags,hashtags,luego,luego-acert\u00f3,acert\u00f3,hizo,bill,bill_gates,gates,predicciones,predicci\u00f3n,ahora,son,twitter,publicidad,contextual,inteligente,ellos",
+            "recuweb_url": "http://es.recuweb.com/twitter/noticiaaldia.com/2015/05/las-predicciones-que-bill-gates-hizo-en-1999-y-luego-acert%C3%B3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
+            "source_url": "http://noticiaaldia.com/2015/05/las-predicciones-que-bill-gates-hizo-en-1999-y-luego-acerto/"
+        },
+        "finanzasdigital.com/2015/05/%C3%A9stas-son-las-predicciones-que-bill-gates-hizo-en-1999": {
+            "title": "\u00c9stas son las predicciones que Bill Gates hizo en 1999 y luego acert\u00f3...",
+            "snippet": "Ahora: Son habituales los hashtags en Twitter o las referencias a la web de un programa. 9. Publicidad contextual Predicci\u00f3n de Gates: Los dispositivos tendr\u00e1n publicidad inteligente. Ellos sabr\u00e1n las tendencias de compra y mostrar\u00e1 anuncios...",
+            "date": "2015-05-01",
+            "categories": "twitter",
+            "tags": "sabr\u00e1n,sabr\u00e1n-las-tendencias,tendencias,tendencias-de-compra,compra,compra-mostrar\u00e1,compra-mostrar\u00e1-anuncios,mostrar\u00e1,mostrar\u00e1-anuncios,anuncios,dispositivos,dispositivos-tendr\u00e1n,tendr\u00e1n,referencias,referencias-a-web,web,programa,habituales,habituales-los-hashtags,hashtags,luego,luego-acert\u00f3,acert\u00f3,hizo,bill,bill_gates,gates,son,predicciones,predicci\u00f3n,ahora,twitter,publicidad,contextual,inteligente,ellos",
+            "recuweb_url": "http://es.recuweb.com/twitter/finanzasdigital.com/2015/05/%C3%A9stas-son-las-predicciones-que-bill-gates-hizo-en-1999",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
+            "source_url": "http://finanzasdigital.com/2015/05/estas-son-las-predicciones-que-bill-gates-hizo-en-1999-y-luego-acerto/"
+        },
+        "eleconomista.es/2015/04/bill-gates-hizo-estas-predicciones-en-1999-y-acert%C3%B3": {
+            "title": "Bill Gates hizo estas predicciones en 1999 y... acert\u00f3...",
+            "snippet": "Ahora: Son habituales los 'hashtags'en Twitter o las referencias a la web de un programa. 9. Publicidad contextual. Predicci\u00f3n de Gates: Los dispositivos tendr\u00e1n publicidad inteligente. Ellos sabr\u00e1n las tendencias de compra y mostrar\u00e1 anuncios...",
+            "date": "2015-04-29",
+            "categories": "twitter",
+            "tags": "sabr\u00e1n,sabr\u00e1n-las-tendencias,tendencias,tendencias-de-compra,compra,compra-mostrar\u00e1,compra-mostrar\u00e1-anuncios,mostrar\u00e1,mostrar\u00e1-anuncios,anuncios,dispositivos,dispositivos-tendr\u00e1n,tendr\u00e1n,referencias,referencias-a-web,web,programa,habituales,hizo,predicciones,predicci\u00f3n,bill,bill_gates,gates,acert\u00f3,ahora,son,hashtags,twitter,publicidad,contextual,inteligente,ellos",
+            "recuweb_url": "http://es.recuweb.com/twitter/eleconomista.es/2015/04/bill-gates-hizo-estas-predicciones-en-1999-y-acert%C3%B3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
+            "source_url": "http://eleconomista.es/tecnologia/noticias/6671196/04/15/Bill-Gates-hizo-estas-predicciones-en-1999-y-acerto.html"
+        },
+        "iprofesional.com/2015/04/las-predicciones-que-hizo-bill-gates-en-1999-y-se-cumplieron": {
+            "title": "Las predicciones que hizo Bill Gates en 1999 y se cumplieron...",
+            "snippet": "Ahora: Son habituales los hashtags en Twitter o las referencias a la web de un programa. 9. Publicidad contextual Predicci\u00f3n de Gates: Los dispositivos tendr\u00e1n publicidad inteligente. Ellos sabr\u00e1n las tendencias de compra y mostrar\u00e1 anuncios que...",
+            "date": "2015-04-29",
+            "categories": "twitter",
+            "tags": "sabr\u00e1n,sabr\u00e1n-las-tendencias,tendencias,tendencias-de-compra,compra,compra-mostrar\u00e1,compra-mostrar\u00e1-anuncios,mostrar\u00e1,mostrar\u00e1-anuncios,anuncios,dispositivos,dispositivos-tendr\u00e1n,tendr\u00e1n,referencias,referencias-a-web,web,programa,habituales,habituales-los-hashtags,hashtags,bill,bill_gates,gates,predicciones,predicci\u00f3n,hizo,ahora,son,twitter,publicidad,contextual,inteligente,ellos",
+            "recuweb_url": "http://es.recuweb.com/twitter/iprofesional.com/2015/04/las-predicciones-que-hizo-bill-gates-en-1999-y-se-cumplieron",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
+            "source_url": "http://iprofesional.com/notas/210873-Las-predicciones-que-hizo-Bill-Gates-en-1999-y-se-cumplieron-"
+        },
         "cnnexpansion.com/2015/04/4-tendencias-para-diferenciar-tu-marca-de-la-competencia-cnnexpansi%C3%B3": {
             "title": "4 tendencias para diferenciar tu marca de la competencia - CNNExpansi\u00f3...",
             "snippet": "4 tendencias para diferenciar tu marca de la competenciaCNNExpansi\u00f3 storytelling, el brandtertainment, el crowdsourcing y el contextual marketing son cuatro de las tendencias actuales en la publicidad, que van en esa direcci\u00f3n. Un CEO debe...",
             "date": "2015-04-26",
-            "tags": "marketing,contextual,publicidad",
+            "tags": "marketing,son,tendencias,contextual,publicidad",
             "recuweb_url": "http://es.recuweb.com/cnnexpansion.com/2015/04/4-tendencias-para-diferenciar-tu-marca-de-la-competencia-cnnexpansi%C3%B3",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://cnnexpansion.com/especiales/2015/04/22/4-modas-publicitarias-para-diferenciarte-de-tu-competencia"
+        },
+        "lanzadigital.com/2015/04/la-red-goban-celebra-en-capital-su-xiii-foro-de-inversi%C3%B3n": {
+            "title": "La Red Goban celebra en la capital su XIII Foro de Inversi\u00f3n Privada...",
+            "snippet": "Su prop\u00f3sito es facilitar a cualquier empresa la compra y venta de publicidad contextual, dando transparencia y seguridad. Publisuites actualmente cuenta con presencia en m\u00e1s de 40 pa\u00edses, destacando M\u00e9xico, Aregentina y Colombia. El segundo de...",
+            "date": "2015-04-22",
+            "tags": "compra,red,publicidad,contextual",
+            "recuweb_url": "http://es.recuweb.com/lanzadigital.com/2015/04/la-red-goban-celebra-en-capital-su-xiii-foro-de-inversi%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=publicidad%2Bcontextual&format=RSS&cc=es",
+            "source_url": "http://lanzadigital.com/index.php/news/show/actualidad/la-red-goban-celebra-en-la-capital-su-xiii-foro-de-inversion-privada/79395"
         },
         "milenio.com/2015/04/cu%C3%A1l-es-el-reto-de-cadena-tres-y-radio-centro": {
             "title": "\u00bfCu\u00e1l es el reto de Cadena Tres y Radio Centro para ganar... -...",
             "snippet": "\u00bfCu\u00e1l es el reto de Cadena Tres y Radio Centro para ganar... Los prospectos de publicidad mejorada como inserciones din\u00e1micas, publicidad contextual y de acceso, las m\u00faltiples plataformas digitales, dan oportunidad a las televisoras de generar...",
             "date": "2015-04-06",
             "categories": "radio",
-            "tags": "m\u00faltiples,digitales,ganar,publicidad,contextual",
+            "tags": "digitales,ganar,publicidad,contextual",
             "recuweb_url": "http://es.recuweb.com/radio/milenio.com/2015/04/cu%C3%A1l-es-el-reto-de-cadena-tres-y-radio-centro",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://milenio.com/negocios/nuevas_cadenas_de_television-publicidad_nuevas_cadenas_TV-Accenture_TV_0_494950568.html"
-        },
-        "elobservador.com.uy/2015/03/tracci%C3%B3n-en-las-4-ruedas-el-observador": {
-            "title": "Tracci\u00f3n en las 4 ruedas - El Observador...",
-            "snippet": "Tracci\u00f3n en las 4 ruedasEl ObservadorSe pueden utilizar m\u00faltiples medios para captar la atenci\u00f3n del p\u00fablico objetivo; desde publicidad contextual (SEM), posicionar bien en buscadores (SEO), acciones de relaciones p\u00fablicas, o cualquier acci\u00f3n...",
-            "date": "2015-03-23",
-            "tags": "m\u00faltiples,medios,publicidad,contextual,seo",
-            "recuweb_url": "http://es.recuweb.com/elobservador.com.uy/2015/03/tracci%C3%B3n-en-las-4-ruedas-el-observador",
-            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
-            "source_url": "http://elobservador.com.uy/emprendedores/post/1849/traccion-en-las-4-ruedas/"
         },
         "prnoticias.com/2013/10/escrito-por-redaccionpr-pr-noticias-comunicado-de-prensa": {
             "title": "Escrito por redaccionpr - PR Noticias (Comunicado de prensa)...",
@@ -48,21 +88,11 @@
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://prnoticias.com/hemeroteca/20124889-video-dominique-loumaye-pan-explica-en-que-consiste-la-publicidad-contextual"
         },
-        "laverdad.es/2012/09/twitter-ofrecer%C3%A1-publicidad-contextual-a-sus-usuarios-seg%C3%BAn-la-verdad-murcia": {
-            "title": "Twitter ofrecer\u00e1 publicidad contextual a sus usuarios seg\u00fan sus... - La Verdad (Murcia)...",
-            "snippet": "Twitter ofrecer\u00e1 publicidad contextual a sus usuarios seg\u00fan sus...La Verdad (Murcia)Twitter anunci\u00f3 el pasado jueves que permitir\u00e1 a sus anunciantes orientarse directamente sobre los intereses de los usuarios de la red de microblogging. Seg\u00fan...",
-            "date": "2012-09-03",
-            "categories": "microblogging,twitter",
-            "tags": "anunciantes,usuarios,red,publicidad,contextual",
-            "recuweb_url": "http://es.recuweb.com/twitter/laverdad.es/2012/09/twitter-ofrecer%C3%A1-publicidad-contextual-a-sus-usuarios-seg%C3%BAn-la-verdad-murcia",
-            "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
-            "source_url": "http://laverdad.es/murcia/20120903/gente/twitter-ofrecera-publicidad-contextual-201209032012.html"
-        },
         "expansion.com/2012/04/cookies-publicidad-contextual-y-basada-en-el-expansi%C3%B3": {
             "title": "Cookies, publicidad contextual y publicidad basada en el... - Expansi\u00f3...",
             "snippet": "Cookies, publicidad contextual y publicidad basada en el...Expansi\u00f3 ponente coment\u00f3 que, en un estudio que hab\u00edan realizado sobre la disposici\u00f3n de los usuarios a recibir publicidad online personalizada, se hab\u00eda confirmado que, a la hora de...",
             "date": "2012-04-03",
-            "tags": "usuarios,publicidad,contextual",
+            "tags": "publicidad,contextual",
             "recuweb_url": "http://es.recuweb.com/expansion.com/2012/04/cookies-publicidad-contextual-y-basada-en-el-expansi%C3%B3",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://expansion.com/blogs/ribas/2012/04/03/cookies-publicidad-contextual-y.html"
@@ -71,7 +101,7 @@
             "title": "Los editores espa\u00f1oles crean una red de publicidad contextual... - Europa Press...",
             "snippet": "Los editores espa\u00f1oles crean una red de publicidad contextual...Europa PressLos medios digitales espa\u00f1oles han formado una alianza para crear una red de publicidad contextual, que se comercialice conjuntamente y cuyos anuncios se visualicen en...",
             "date": "2011-11-22",
-            "tags": "anuncios,medios,digitales,red,publicidad,contextual",
+            "tags": "anuncios,digitales,red,publicidad,contextual",
             "recuweb_url": "http://es.recuweb.com/europapress.es/2011/11/los-editores-espa%C3%B1oles-crean-una-red-de-publicidad-contextual-europa-press",
             "resource_url": "http://news.google.es/?hl=es&q=publicidad%2Bcontextual&output=atom&nord=1",
             "source_url": "http://europapress.es/portaltic/internet/noticia-editores-espanoles-crean-red-publicidad-contextual-alternativa-google-20111122154759.html"

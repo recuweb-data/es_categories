@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ibook",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ibook/",
@@ -11,105 +11,103 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ibook/ibook/blogs.json"
     },
     "items": {
-        "fool.com/2015/04/3-questions-for-apple-inc-ceo-tim-cook-today-motley-fool": {
-            "title": "3 Questions for Apple, Inc. CEO Tim Cook Today - Motley Fool...",
-            "snippet": "Motley Fool3 Questions for Apple, Inc. CEO Tim Cook TodayMotley FoolApple's services revenue includes revenue from iTunes Store, the App Store, the Mac App Store, the iBook Store, AppleCare, Apple Pay, licensing, and \"other services.\" During the...",
+        "solomoto.es/2015/05/rodibook-2015-ya-hay-fecha-para-la-apertura-de-inscripciones": {
+            "title": "Rodibook 2015: ya hay fecha para la apertura de inscripciones...",
+            "snippet": "Despu\u00e9s de la experiencia Rodibook 2012, que transcurri\u00f3 por las mejores carreteras de Catalu\u00f1a, este a\u00f1o el RodiBook 2013 2 edici\u00f3n propone Pirineo Ins\u00f3lito donde se podr\u00e1 descubrir los rincones m\u00e1s ins\u00f3litos de la cordillera en Catalu\u00f1a...",
+            "date": "2015-05-01",
+            "tags": "mejores",
+            "recuweb_url": "http://es.recuweb.com/solomoto.es/2015/05/rodibook-2015-ya-hay-fecha-para-la-apertura-de-inscripciones",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
+            "source_url": "http://solomoto.es/1/rodibook-2015-ya-hay-fecha-para-la-apertura-de-inscripciones"
+        },
+        "yucatan.com.mx/2015/05/superan-el-reto-de-emprender": {
+            "title": "Superan el reto de emprender...",
+            "snippet": "En la lista tambi\u00e9n est\u00e1n Kelyf (desmaquillante, b\u00e1lsamos labiales y jab\u00f3n de avena con caf\u00e9 y vainilla), Kiibook (aromatizantes de c\u00edtricos) y Essencial life (sales de ba\u00f1o con aromas de coco, manzana, chocolate y jazm\u00edn). Hansel Vargas A.",
+            "date": "2015-05-01",
+            "tags": "chocolate,chocolate-jazm\u00edn,jazm\u00edn,sales,sales-de-ba\u00f1o,ba\u00f1o,ba\u00f1o-con-aromas,aromas,aromas-de-coco,coco,aromatizantes,aromatizantes-de-c\u00edtricos,c\u00edtricos,b\u00e1lsamos,b\u00e1lsamos-labiales,b\u00e1lsamos-labiales-jab\u00f3n,labiales,labiales-jab\u00f3n,jab\u00f3n,jab\u00f3n-de-avena,avena,avena-con-caf\u00e9,caf\u00e9,kelyf,essencial,life,manzana",
+            "recuweb_url": "http://es.recuweb.com/yucatan.com.mx/2015/05/superan-el-reto-de-emprender",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
+            "source_url": "http://yucatan.com.mx/merida/educacion-merida/superan-el-reto-de-emprender"
+        },
+        "applesfera.com/2015/04/iphone-plus-y-ibook-autor": {
+            "title": "iPhone Plus y iBook Autor...",
+            "snippet": "Alguien con iPhone Plus me puede confirmar si los libros creados con iBook Autor que contienen videos, audio, im\u00e1genes 3D y galer\u00edas de fotograf\u00edas pueden usarse en el iPhone Plus; hasta ahora se que en los iPhones \u00fanicamente se pueden emplear...",
+            "date": "2015-04-29",
+            "categories": "fotografia,ibook,iphone",
+            "tags": "ibook,iphone,libros",
+            "recuweb_url": "http://es.recuweb.com/iphone/applesfera.com/2015/04/iphone-plus-y-ibook-autor",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
+            "source_url": "http://applesfera.com/respuestas/iphone-plus-y-ibook-autor"
+        },
+        "appadvice.com/2015/04/apple-s-ibooks-versus-amazon-kindle-leading-e-reading-apps-go": {
+            "title": "Apple's iBooks versus Amazon's Kindle: leading e-reading apps go... - AppAdvice...",
+            "snippet": "AppAdviceApple's iBooks versus Amazon's Kindle: leading e-reading apps go...AppAdviceSince its introduction alongside the iPad in 2010, iBooks has become Apple's flagship app for e-reading on iOS devices, including iPhone and iPod touch as well as...",
+            "date": "2015-04-28",
+            "categories": "ibook,ipad,iphone,ipod",
+            "tags": "touch,well,app,apple,ibooks,ipad,ios,iphone,ipod",
+            "recuweb_url": "http://es.recuweb.com/ipod/appadvice.com/2015/04/apple-s-ibooks-versus-amazon-kindle-leading-e-reading-apps-go",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
+            "source_url": "http://appadvice.com/appnn/2015/04/apples-ibooks-versus-amazons-kindle-leading-e-reading-apps-go-head-to-head"
+        },
+        "chron.com/2015/04/the-top-10-books-on-apple-s-ibooks-us": {
+            "title": "The top 10 books on Apple's iBooks-US -...",
+            "snippet": "The top 10 books on Apple's charts for week ending April 27, 2015: Top Paid Books. 1. The Girl on the Train by Paula Hawkins - 9780698185395 - (Penguin Publishing Group). 2. Memory Man by David Baldacci - 9781455586387 - (Grand Central Publishing).",
+            "date": "2015-04-28",
+            "categories": "ibook",
+            "tags": "apple,ibooks",
+            "recuweb_url": "http://es.recuweb.com/ibook/chron.com/2015/04/the-top-10-books-on-apple-s-ibooks-us",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
+            "source_url": "http://chron.com/news/article/The-top-10-books-on-Apple-s-iBooks-US-6229258.php"
+        },
+        "20minutos.com.mx/2015/04/universitarios-de-yucat%C3%A1n-difunden-potencial-productivo-en-tianguis": {
+            "title": "Universitarios de Yucat\u00e1n difunden potencial productivo en tianguis...",
+            "snippet": "Kelyf exhibi\u00f3 desmaquillantes, b\u00e1lsamos labiales y jab\u00f3n de avena con caf\u00e9 y vainilla; Ki'ibook, aromatizantes de c\u00edtricos, y Essencial life puso a la venta sales de ba\u00f1o con aromas de coco, manzana, chocolate y jazm\u00edn. Classic fragance...",
             "date": "2015-04-27",
             "categories": "ibook",
-            "tags": "ibook,ibook_store,store,mac,app,apple",
-            "recuweb_url": "http://es.recuweb.com/ibook/fool.com/2015/04/3-questions-for-apple-inc-ceo-tim-cook-today-motley-fool",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook&output=atom&nord=1",
-            "source_url": "http://fool.com/investing/general/2015/04/27/3-questions-for-apple-inc-ceo-tim-cook-today.aspx"
-        },
-        "wwwhatsnew.com/2015/04/apple-watch-nueva-tienda-de-aplicaciones-manual-oficial-y-m%C3%A1s-wwwhat": {
-            "title": "Apple Watch: Nueva tienda de aplicaciones, manual oficial y m\u00e1s... - WWWhat's new? (blog)...",
-            "snippet": "WWWhat's new? (blog)Apple Watch: Nueva tienda de aplicaciones, manual oficial y m\u00e1s...WWWhat's new? (blog)Finalmente, ya est\u00e1 disponible en el portal de Apple y en iBooks (para iOS y Mac) la gu\u00eda de usuario oficial del Apple Watch, una invaluable...",
-            "date": "2015-04-24",
-            "categories": "ibook",
-            "tags": "disponible,apple,ibooks,mac",
-            "recuweb_url": "http://es.recuweb.com/ibook/wwwhatsnew.com/2015/04/apple-watch-nueva-tienda-de-aplicaciones-manual-oficial-y-m%C3%A1s-wwwhat",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/04/24/apple-watch-tienda-aplicaciones-mas-guias-en-video/"
+            "tags": "chocolate,chocolate-jazm\u00edn,jazm\u00edn,life,sales,sales-de-ba\u00f1o,ba\u00f1o,ba\u00f1o-con-aromas,aromas,aromas-de-coco,coco,aromatizantes,aromatizantes-de-c\u00edtricos,c\u00edtricos,b\u00e1lsamos,b\u00e1lsamos-labiales,b\u00e1lsamos-labiales-jab\u00f3n,labiales,labiales-jab\u00f3n,jab\u00f3n,jab\u00f3n-de-avena,avena,avena-con-caf\u00e9,caf\u00e9,kelyf,ibook,essencial,manzana",
+            "recuweb_url": "http://es.recuweb.com/ibook/20minutos.com.mx/2015/04/universitarios-de-yucat%C3%A1n-difunden-potencial-productivo-en-tianguis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
+            "source_url": "http://20minutos.com.mx/noticia/b272267/universitarios-de-yucatan-difunden-potencial-productivo-en-tianguis/"
         },
         "vitonica.com/2015/04/especial-d%C3%ADa-del-libro-los-mejores-textos-sobre-entrenamiento-y-nutrici%C3%B3n": {
             "title": "Especial d\u00eda del libro: los mejores textos sobre entrenamiento y nutrici\u00f3n...",
             "snippet": "Entrenamiento de fuerza: nuevas perspectivas metodol\u00f3gicas, de Carlos Balsalobre-Fern\u00e1ndez y Pedro Jim\u00e9nez-Reyes: este libro digital de descarga gratuita (tanto en la iBook Store como en PDF) vio la luz en enero del a\u00f1o pasado. Se trata de un...",
             "date": "2015-04-23",
             "categories": "ibook",
-            "tags": "ibook,ibook_store,store,digital,textos,libro",
+            "tags": "ibook,digital,mejores,textos,libro",
             "recuweb_url": "http://es.recuweb.com/ibook/vitonica.com/2015/04/especial-d%C3%ADa-del-libro-los-mejores-textos-sobre-entrenamiento-y-nutrici%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
             "source_url": "http://vitonica.com/libros/especial-dia-del-libro-los-mejores-textos-sobre-entrenamiento-y-nutricion"
-        },
-        "abcnews.go.com/2015/04/the-top-10-books-on-apple-s-ibooks-us-abc-news": {
-            "title": "The Top 10 Books on Apple's iBooks-US - ABC News...",
-            "snippet": "The Top 10 Books on Apple's iBooks-USABC NewsiBook charts for week ending April 20, 2015: Top Paid Books. Girl on the Train by Paula Hawkins - 9780698185395 - (Penguin Publishing Group). Liar by Nora Roberts - 9780698161351 - (Penguin Publishing...",
-            "date": "2015-04-22",
-            "categories": "ibook",
-            "tags": "apple,ibooks",
-            "recuweb_url": "http://es.recuweb.com/ibook/abcnews.go.com/2015/04/the-top-10-books-on-apple-s-ibooks-us-abc-news",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
-            "source_url": "http://abcnews.go.com/Entertainment/wireStory/top-10-books-apples-ibooks-us-30487599"
-        },
-        "pacmac.es/2015/04/publica-tu-libro-con-ibooks-author-y-los-talleres-gratuitos": {
-            "title": "Publica tu libro con iBooks Author y los talleres gratuitos de Apple...",
-            "snippet": "Apple es una de las empresas que est\u00e1 ofreciendo una gran alternativa para todos aquellos que quieren ver su sue\u00f1o convertido en realidad gracias a iBook Author. Un programa con el que podremos escribir, maqueta y distribuir nuestra personal...",
-            "date": "2015-04-21",
-            "categories": "ibook",
-            "tags": "ibooks,libro,apple",
-            "recuweb_url": "http://es.recuweb.com/ibook/pacmac.es/2015/04/publica-tu-libro-con-ibooks-author-y-los-talleres-gratuitos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
-            "source_url": "http://pacmac.es/publicar-libros-en-apple-con-ibooks-author/"
         },
         "macworld.com/2015/04/the-epub-proof-is-in-ibooks-pudding-hint-it-s-advanced": {
             "title": "The EPUB Proof is in the iBooks pudding (hint: it's in the Advanced... - Macworld...",
             "snippet": "The EPUB Proof is in the iBooks pudding (hint: it's in the Advanced...MacworldEPUB is supported in both digital-rights managed (DRM) methods for proprietary bookstores, like Apple's iBookstore, as well as an unencrypted format that can be read on...",
             "date": "2015-04-21",
             "categories": "ibook",
-            "tags": "digital,ibooks,apple",
+            "tags": "well,digital,ibooks,apple",
             "recuweb_url": "http://es.recuweb.com/ibook/macworld.com/2015/04/the-epub-proof-is-in-ibooks-pudding-hint-it-s-advanced",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook&output=atom&nord=1",
             "source_url": "http://macworld.com/article/2911595/the-epub-proof-is-in-the-ibooks-pudding-hint-its-in-the-advanced-menu.html"
         },
         "buchreport.de/2015/04/apple-spekulation-um-integration-von-h%C3%B6rb%C3%BCchern-in-ibook-app-buchreport": {
             "title": "Apple: Spekulation um Integration von H\u00f6rb\u00fcchern in iBook-App - buchreport...",
-            "snippet": "Apple: Spekulation um Integration von H\u00f6rb\u00fcchern in iBook-AppbuchreportNachdem Amazon bereits Ebook- und H\u00f6rbuch-Angebot miteinander verzahnt hat, scheint nun auch Apple in \u00e4hnlicher Weise sein Medienportfolio enger verkn\u00fcpfen zu wollen: In den...",
+            "snippet": "Apple: Spekulation um Integration von H\u00f6rb\u00fcchern in iBook-AppbuchreportHintergrund ist, dass Apple auf diese Weise seine Inhalte noch offensiver vermarkten kann und vor allem besser auffindbar macht: Es erscheint plausibel, dass Nutzer von iPhone...",
             "date": "2015-04-20",
-            "categories": "ibook",
-            "tags": "apple,ibook,app",
-            "recuweb_url": "http://es.recuweb.com/ibook/buchreport.de/2015/04/apple-spekulation-um-integration-von-h%C3%B6rb%C3%BCchern-in-ibook-app-buchreport",
-            "resource_url": "http://news.google.es/?hl=es&q=ibook%2Bibook&output=atom&nord=1",
+            "categories": "ibook,iphone",
+            "tags": "apple,ibook,app,iphone",
+            "recuweb_url": "http://es.recuweb.com/iphone/buchreport.de/2015/04/apple-spekulation-um-integration-von-h%C3%B6rb%C3%BCchern-in-ibook-app-buchreport",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook&output=atom&nord=1",
             "source_url": "http://buchreport.de/nachrichten/online/online_nachricht/datum/2015/04/20/verknuepfung-von-e-book-und.htm"
         },
-        "manzana.prensa-latina.cu/2015/04/fiscal%C3%ADa-paname%C3%B1a-indaga-sobre-equipos-para-escuchas-ilegales": {
-            "title": "Fiscal\u00eda paname\u00f1a indaga sobre equipos para escuchas ilegales...",
-            "snippet": "La lista tambi\u00e9n incluye un iBook e igual n\u00famero de iPad y tablet, cuatro unidades de almacenamiento USB y dos tarjetas SIM card. El fiscal Ricardo Mu\u00f1oz, encargado del proceso de las escuchas ilegales, solicit\u00f3 adem\u00e1s, al Instituto de Medicina...",
-            "date": "2015-04-20",
-            "categories": "ibook,ipad,medicina",
-            "tags": "encargado,encargado-del-proceso,proceso,ricardo,ricardo_mu\u00f1oz,mu\u00f1oz,dos,dos-tarjetas,tarjetas,cuatro,cuatro-unidades,unidades,unidades-de-almacenamiento,almacenamiento,tablet,equipos,fiscal\u00eda,ibook,ipad,usb,sim,card,fiscal",
-            "recuweb_url": "http://es.recuweb.com/medicina/manzana.prensa-latina.cu/2015/04/fiscal%C3%ADa-paname%C3%B1a-indaga-sobre-equipos-para-escuchas-ilegales",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
-            "source_url": "http://manzana.prensa-latina.cu/index.php?option=com_content&task=view&idioma=1&id=3729401"
-        },
-        "entornointeligente.com/2015/04/fiscal%C3%ADa-solicita-revisar-equipos-tecnol%C3%B3gicos-por-caso-de-pinchazos": {
-            "title": "Fiscal\u00eda solicita revisar equipos tecnol\u00f3gicos por caso de pinchazos...",
-            "snippet": "En la lista tambi\u00e9n hay un iBook, un iPad, una tablet, cuatro unidades de almacenamiento USB y dos tarjetas Sim card. En la diligencia de oficio, fechada el 27 de marzo de 2015, el fiscal adjunto Ricardo Mu\u00f1oz, encargado del proceso de las...",
-            "date": "2015-04-19",
-            "categories": "ibook,ipad",
-            "tags": "encargado,encargado-del-proceso,proceso,ricardo,ricardo_mu\u00f1oz,mu\u00f1oz,fiscal,dos,dos-tarjetas,tarjetas,cuatro,cuatro-unidades,unidades,unidades-de-almacenamiento,almacenamiento,tablet,equipos,fiscal\u00eda,ibook,ipad,usb,sim,card",
-            "recuweb_url": "http://es.recuweb.com/ipad/entornointeligente.com/2015/04/fiscal%C3%ADa-solicita-revisar-equipos-tecnol%C3%B3gicos-por-caso-de-pinchazos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
-            "source_url": "http://entornointeligente.com/articulo/5699141/Fiscalia-solicita-revisar-equipos-tecnologicos-por-caso-de-pinchazos-20042015"
-        },
-        "applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo-blanco-2009": {
-            "title": "La imagen de la semana: el nuevo MacBook vs. el \u00faltimo MacBook blanco de 2009...",
-            "snippet": "En su momento fue el Mac m\u00e1s vendido de la historia, sucediendo al iBook y precediendo al MacBook Air entre 2006 y 2009. Entonces ya exist\u00eda el MacBook de aluminio (m\u00e1s tarde, MacBook Pro), pero Apple decidi\u00f3 no matar al blanquito todav\u00eda y...",
-            "date": "2015-04-19",
-            "categories": "macbook,ibook",
-            "tags": "\u00fal,mac,ibook,apple",
-            "recuweb_url": "http://es.recuweb.com/ibook/applesfera.com/2015/04/la-imagen-de-semana-el-nuevo-macbook-vs-%C3%BAltimo-blanco-2009",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ibook&format=RSS&cc=es",
-            "source_url": "http://applesfera.com/portatil/la-imagen-de-la-semana-el-nuevo-macbook-vs-el-ultimo-macbook-blanco-de-2009"
+        "en.yibada.com/2015/04/ios-beta-8-4-released-moves-audiobooks-to-ibook-app-yibada": {
+            "title": "iOS Beta 8.4 Released; Moves AudioBooks to iBook App - Yibada (English Edition)...",
+            "snippet": "Yibada (English Edition)iOS Beta 8.4 Released; Moves AudioBooks to iBook AppYibada (English Edition)iOS beta 8.4 has moved the audiobooks into the iBook app, thus making it easy for the users to access their entire ebook library in one go, with just...",
+            "date": "2015-04-16",
+            "categories": "ibook",
+            "tags": "ibook,app,ios",
+            "recuweb_url": "http://es.recuweb.com/ibook/en.yibada.com/2015/04/ios-beta-8-4-released-moves-audiobooks-to-ibook-app-yibada",
+            "resource_url": "http://news.google.es/?hl=es&q=ibook&output=atom&nord=1",
+            "source_url": "http://en.yibada.com/articles/27071/20150416/ios-beta-8-4-released-music-app-gets-major-update.htm"
         }
     }
 }

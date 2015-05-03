@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ask-jeeves",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ask-jeeves/",
@@ -11,14 +11,53 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ask-jeeves/ask-jeeves/blogs.json"
     },
     "items": {
+        "smarteranalyst.com/2015/04/why-you-want-to-own-facebook-inc-rather-than-google-smarter": {
+            "title": "Why You Want to Own Facebook Inc Rather Than Google Inc - Smarter Analyst...",
+            "snippet": "Smarter AnalystWhy You Want to Own Facebook Inc Rather Than Google IncSmarter Analyst(Just as Google did in internet search a decade ago, beating out companies like Yahoo, Ask Jeeves, etc.) Google is moving rapidly to monetize this user base. From...",
+            "date": "2015-04-30",
+            "categories": "ask-jeeves,internet,facebook,google,yahoo",
+            "tags": "ask,ask_jeeves,jeeves,internet,search,than,google,want,why,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/smarteranalyst.com/2015/04/why-you-want-to-own-facebook-inc-rather-than-google-smarter",
+            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves%2Bask%2Bjeeves&output=atom&nord=1",
+            "source_url": "http://smarteranalyst.com/2015/04/30/why-you-want-to-own-facebook-inc-rather-than-google-inc/"
+        },
+        "downloads.zdnet.com/2015/04/search-for-ask-jeeves-zdnet": {
+            "title": "Search for Ask Jeeves - ZDNet...",
+            "snippet": "Search for Ask JeevesZDNetWith More Than 100 Million Global Users, Ask Jeeves Is The Leading Question Answering-focused Web Search Engine. Our Mission Is To Get Our Millions Of Users Across The Globe The Answers They Need. Ask Anything Image Search...",
+            "date": "2015-04-29",
+            "categories": "ask-jeeves",
+            "tags": "ask,they,than,ask_jeeves,jeeves,search,engine",
+            "recuweb_url": "http://es.recuweb.com/ask-jeeves/downloads.zdnet.com/2015/04/search-for-ask-jeeves-zdnet",
+            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves%2Bask%2Bjeeves&output=atom&nord=1",
+            "source_url": "http://downloads.zdnet.com/product/2649-76366153/"
+        },
+        "telegraph.co.uk/2015/04/what-ho-two-of-pg-wodehouse-s-homes-for-sale": {
+            "title": "What ho! Two of PG Wodehouse's homes for sale -...",
+            "snippet": "ho! Two of PG Wodehouse's homes for me for asking, Sir, but how much is the property? asks Jeeves. It's on the market for 8m, says Bertie. Jeeves barely twitches an eyebrow. I understand property is a good investment, Sir. One that Aunt Agatha...",
+            "date": "2015-04-28",
+            "tags": "jeeves,that",
+            "recuweb_url": "http://es.recuweb.com/telegraph.co.uk/2015/04/what-ho-two-of-pg-wodehouse-s-homes-for-sale",
+            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves%2Bask%2Bjeeves&output=atom&nord=1",
+            "source_url": "http://telegraph.co.uk/finance/property/11567692/What-ho-Two-of-PG-Wodehouses-homes-for-sale.html"
+        },
+        "newsweek.com/2015/04/why-streaming-music-remains-stuck-in-the-mud-newsweek": {
+            "title": "Why Streaming Music Remains Stuck in the Mud - Newsweek...",
+            "snippet": "NewsweekWhy Streaming Music Remains Stuck in the MudNewsweekThere were all sorts of search engines: AltaVista, Lycos, Infoseek, Ask Jeeves, AllTheWeb. None distinguished themselves, made real money or set the pace. And they all worked off a similar...",
+            "date": "2015-04-28",
+            "categories": "ask-jeeves",
+            "tags": "they,ask,ask_jeeves,jeeves,search,why,altavista,lycos",
+            "recuweb_url": "http://es.recuweb.com/ask-jeeves/newsweek.com/2015/04/why-streaming-music-remains-stuck-in-the-mud-newsweek",
+            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves%2Bask%2Bjeeves&output=atom&nord=1",
+            "source_url": "http://newsweek.com/why-streaming-music-remains-stuck-mud-326322"
+        },
         "bustle.com/2015/04/let-me-drake-that-for-you-is-the-search-engine-internet": {
             "title": "Let Me Drake That For You Is The Search Engine The Internet Has Always Needed - Bustle...",
             "snippet": "BustleLet Me Drake That For You Is The Search Engine The Internet Has Always NeededBustleForget about Ask Jeeves (I take that back. I never want to forget about Ask Jeeves), it's time to meet Ask Drizzy. Yes, a Drake-themed search engine exists.",
             "date": "2015-04-10",
             "categories": "ask-jeeves,internet",
-            "tags": "search,engine,ask,about,that,ask_jeeves,jeeves,internet",
+            "tags": "search,engine,ask,want,that,ask_jeeves,jeeves,internet",
             "recuweb_url": "http://es.recuweb.com/internet/bustle.com/2015/04/let-me-drake-that-for-you-is-the-search-engine-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves%2Bask%2Bjeeves&output=atom&nord=1",
             "source_url": "http://bustle.com/articles/75357-let-me-drake-that-for-you-is-the-search-engine-the-internet-has-always-needed"
         },
         "dailymail.co.uk/2015/04/britons-admit-to-avoiding-certain-drinks-due-over-indulging-daily-mail": {
@@ -30,26 +69,6 @@
             "recuweb_url": "http://es.recuweb.com/ask-jeeves/dailymail.co.uk/2015/04/britons-admit-to-avoiding-certain-drinks-due-over-indulging-daily-mail",
             "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves&output=atom&nord=1",
             "source_url": "http://dailymail.co.uk/news/article-3029567/Never-drinks-hate-Millions-Britons-admit-avoiding-certain-tipples-indulging.html"
-        },
-        "fusion.net/2015/03/study-the-internet-makes-us-think-we-re-smarter-than-are": {
-            "title": "Study: The Internet makes us think we're smarter than we are - Fusion...",
-            "snippet": "Study: The Internet makes us think we're smarter than we areFusionWhen does the Internet not come in handy, you might ask? Well, my dear, you can't really Ask Jeeves about your own emotional connections to other people in your life, can you? In...",
-            "date": "2015-03-31",
-            "categories": "ask-jeeves,internet",
-            "tags": "about,people,ask,ask_jeeves,jeeves,not,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/fusion.net/2015/03/study-the-internet-makes-us-think-we-re-smarter-than-are",
-            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves&output=atom&nord=1",
-            "source_url": "http://fusion.net/story/112328/study-the-internet-makes-you-think-youre-smarter-than-you-really-are/"
-        },
-        "techworm.net/2015/03/the-internet-era-before-facebook-altavista-geocities-lycos-netscape-and-techworm": {
-            "title": "The Internet Era before Facebook: AltaVista, GeoCities, Lycos, Netscape and... - Techworm...",
-            "snippet": "TechwormThe Internet Era before Facebook: AltaVista, GeoCities, Lycos, Netscape and...TechwormAsk Jeeves had a short lived popularity and the personal online service provided by the humorous character Jeeves was liked by many people; however Jeeves...",
-            "date": "2015-03-29",
-            "categories": "internet,facebook",
-            "tags": "people,jeeves,internet,facebook,altavista,lycos",
-            "recuweb_url": "http://es.recuweb.com/facebook/techworm.net/2015/03/the-internet-era-before-facebook-altavista-geocities-lycos-netscape-and-techworm",
-            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves%2Bask%2Bjeeves&output=atom&nord=1",
-            "source_url": "http://techworm.net/2015/03/internet-era-before-facebook-altavista-geocities-lycos-netscape-other-giants-web-1-0.html"
         },
         "entornointeligente.com/2015/03/chile-microsoft-jubila-internet-explorer": {
             "title": "CHILE: Microsoft jubila Internet Explorer...",
@@ -70,16 +89,6 @@
             "recuweb_url": "http://es.recuweb.com/google/24horas.cl/2015/03/qepd-internet-explorer-microsoft-mata-a-su-navegador",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ask%2Bjeeves&format=RSS&cc=es",
             "source_url": "http://24horas.cl/noticiasbbc/qepd-internet-explorer-microsoft-mata-a-su-navegador-1611872"
-        },
-        "washingtonpost.com/2014/12/from-lycos-to-ask-jeeves-facebook-tracking-the-20-most-popular": {
-            "title": "From Lycos to Ask Jeeves to Facebook: Tracking the 20 most popular web sites... - Washington Post...",
-            "snippet": "From Lycos to Ask Jeeves to Facebook: Tracking the 20 most popular web sites...Washington PostOur goal is not to confuse or alarm you, but we must, as agents of the news media, speak the truth. And so we say, with all due solemnity, that if it were...",
-            "date": "2014-12-16",
-            "categories": "ask-jeeves,facebook",
-            "tags": "that,not,ask,ask_jeeves,jeeves,lycos,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/washingtonpost.com/2014/12/from-lycos-to-ask-jeeves-facebook-tracking-the-20-most-popular",
-            "resource_url": "http://news.google.es/?hl=es&q=ask%2Bjeeves&output=atom&nord=1",
-            "source_url": "http://washingtonpost.com/news/the-intersect/wp/2014/12/15/from-lycos-to-ask-jeeves-to-facebook-tracking-the-20-most-popular-web-sites-every-year-since-1996/"
         }
     }
 }

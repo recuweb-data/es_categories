@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/javascript/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
+        "businessinbajio.com/2015/04/progress-hace-posible-el-desarrollo-de-aplicaciones-m%C3%B3viles": {
+            "title": "Progress hace Posible el Desarrollo de Aplicaciones M\u00f3viles...",
+            "snippet": "Progressanunci\u00f3 la disponibilidad de la versi\u00f3n beta de NativeScript, un marco de trabajo de c\u00f3digo abierto que permite a los desarrolladores usar JavaScript para construir aplicaciones m\u00f3viles nativas corriendo en todas...",
+            "date": "2015-04-30",
+            "author_name": "Edna Merybeth Gonzalez Del Angel",
+            "categories": "javascript",
+            "tags": "aplicaciones,permite,desarrolladores,trabajo,versi\u00f3n,hace,desarrollo,c\u00f3digo,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/businessinbajio.com/2015/04/progress-hace-posible-el-desarrollo-de-aplicaciones-m%C3%B3viles",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://businessinbajio.com/revista/progress-hace-posible-el-desarrollo-de-aplicaciones-moviles-nativas-con-javascript-negocios/"
+        },
         "jotaeseymas.wordpress.com/2015/04/jugar-con-javascript": {
             "title": "JUGAR CON JAVASCRIPT PERO SIN JAVASCRIPT...",
             "snippet": "script src=\"other pages\" title=\"jugar con javascript pero sin javascript\" \u00a1Ah! El desarrollo front-end. Esa cosa et\u00e9rea, ef\u00edmera y absurdamente creativa que a veces, cual capricho de una mente inquieta, []...",
             "date": "2015-04-29",
             "author_name": "ch1nux",
             "categories": "javascript",
-            "tags": "javascript,src,desarrollo",
+            "tags": "javascript,desarrollo",
             "recuweb_url": "http://es.recuweb.com/javascript/jotaeseymas.wordpress.com/2015/04/jugar-con-javascript",
-            "resource_url": "http://es.search.wordpress.com/?q=javascript&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
             "source_url": "http://jotaeseymas.wordpress.com/2015/04/29/jugar-con-javascript-pero-sin-javascript/"
+        },
+        "ksesocss.blogspot.com/2015/04/javascript-con-furoya-filtrar-filas-por-palabra-clave-contenida": {
+            "title": "Javascript con Furoya: filtrar filas por palabra clave contenida en sus...",
+            "snippet": "Segunda parte y continuaci\u00f3n del art\u00edculo de Furoya sobre c\u00f3mo detectar, con javascript puro, si en el contenido de un elemento hay o no una palabra clave y en funci\u00f3n de ello actuar. En esta entrega se aplica para filtrar el...",
+            "date": "2015-04-28",
+            "author_name": "Kseso",
+            "categories": "javascript",
+            "tags": "hay,javascript,segunda",
+            "recuweb_url": "http://es.recuweb.com/javascript/ksesocss.blogspot.com/2015/04/javascript-con-furoya-filtrar-filas-por-palabra-clave-contenida",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ksesocss.blogspot.com/2015/04/querySelectorAll-for-in.html"
+        },
+        "mosaic.uoc.edu/2015/04/mosaic-webcat-the-next-specification-for-javascript-language": {
+            "title": "Mosaic Webcat: the next specification for the JavaScript language...",
+            "snippet": "... transmitir una idea concreta al p\u00fablico. En esta ocasi\u00f3n \u00dcst\u00fcn \u00d6zg\u00fcr nos explica qu\u00e9 caracter\u00edsticas contiene la versi\u00f3n 6 de la especificaci\u00f3n EcmaScript del lenguaje JavaScript. Etiquetas: ecmascript JavaScript webcat...",
+            "date": "2015-04-28",
+            "author_name": "Mosaic",
+            "categories": "javascript,lenguaje",
+            "tags": "explica,caracter\u00edsticas,versi\u00f3n,ocasi\u00f3n,javascript,ecmascript,lenguaje",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/mosaic.uoc.edu/2015/04/mosaic-webcat-the-next-specification-for-javascript-language",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mosaic.uoc.edu/2015/04/28/webcat-the-next-specification-for-the-javascript-language/"
+        },
+        "platzi.com/2015/04/ecmascript-6-nueva-sintaxis-y-caracter%C3%ADsticas-para-javascript-platzi": {
+            "title": "ECMAScript 6: nueva sintaxis y caracter\u00edsticas para JavaScript - Platzi...",
+            "snippet": "Hasta ahora en JavaScript si uno quer\u00eda programar orientado a objetos lo que deb\u00eda hacer era aprovecharse de la herencia de prototipos y as\u00ed poder crear las \"clases\". Para lograrlo us\u00e1bamos una sintaxis similar a esta:...",
+            "date": "2015-04-24",
+            "author_name": "desconocido",
+            "categories": "javascript",
+            "tags": "hacer,caracter\u00edsticas,ecmascript,javascript,poder,crear",
+            "recuweb_url": "http://es.recuweb.com/javascript/platzi.com/2015/04/ecmascript-6-nueva-sintaxis-y-caracter%C3%ADsticas-para-javascript-platzi",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://platzi.com/blog/ecmascript-nueva-sintaxis/"
         },
         "4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r": {
             "title": "Mootools vs. jQuery: eligiendo la mejor biblioteca de JavaScript 4r...",
@@ -28,32 +72,10 @@
             "date": "2015-04-22",
             "author_name": "seoguru",
             "categories": "jquery,javascript,lenguaje",
-            "tags": "original,permite,aplicaciones,mejor,javascript,desarrollo,lenguaje,trav\u00e9s",
+            "tags": "permite,aplicaciones,javascript,desarrollo,lenguaje,trav\u00e9s",
             "recuweb_url": "http://es.recuweb.com/lenguaje/4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://4rsoluciones.com/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript/"
-        },
-        "tusejemplos.com/2015/04/ejemplos-de-javascript": {
-            "title": "Ejemplos de javascript Ejemplos...",
-            "snippet": "Javascript es un lenguaje de programaci\u00f3n orientado a objetos, basado en prototipos, imperativo y din\u00e1mico. Se trata del lenguaje de programaci\u00f3n m\u00e1s utilizado en la red, y permite obtener dinamismo e interactividad en...",
-            "date": "2015-04-17",
-            "author_name": "Jose",
-            "categories": "javascript,lenguaje",
-            "tags": "permite,utilizado,objetos,ejemplos,javascript,lenguaje,programaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/lenguaje/tusejemplos.com/2015/04/ejemplos-de-javascript",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tusejemplos.com/ejemplos-de-javascript/"
-        },
-        "mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation": {
-            "title": "Geom\u00e1tica: JSON: JavaScript Object Notation...",
-            "snippet": "Un objeto JavaScript se transforma a un string JSON con (object), y un string JSON se transforma en el objeto original con (string_JSON). La Serializaci\u00f3n es una transformaci\u00f3n reversible de un tipo...",
-            "date": "2015-04-15",
-            "author_name": "Paloma Verdejo Herreras",
-            "categories": "javascript,json",
-            "tags": "original,javascript",
-            "recuweb_url": "http://es.recuweb.com/json/mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mundogeomatica.blogspot.com/2015/04/json-javascript-object-notation.html"
         },
         "stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript": {
             "title": "Stratos:: Trabajo:: Programador MySQL, PHP y Javascript.",
@@ -61,7 +83,7 @@
             "date": "2015-04-15",
             "author_name": "desconocido",
             "categories": "mysql,php,javascript",
-            "tags": "trabajo,javascript,web,correo,electr\u00f3nico,n\u00famero,desarrollo",
+            "tags": "trabajo,javascript,web,correo,electr\u00f3nico,n\u00famero,madrid,desarrollo",
             "recuweb_url": "http://es.recuweb.com/javascript/stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://stratos-ad.com/index.php?section=2&subsection=1&vtipo=1&vfecha=2015-04-15&vhora=13:13:30"
@@ -72,7 +94,7 @@
             "date": "2015-04-14",
             "author_name": "ch1nux",
             "categories": "javascript,lenguaje",
-            "tags": "menor,p\u00e1ginas,aplicaciones,web,hacer,javascript,lenguaje",
+            "tags": "p\u00e1ginas,aplicaciones,web,hacer,javascript,lenguaje",
             "recuweb_url": "http://es.recuweb.com/lenguaje/jotaeseymas.wordpress.com/2015/04/programacion-modular-con-javascript",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=es",
             "source_url": "http://jotaeseymas.wordpress.com/2015/04/14/programacion-modular-con-javascript/"
@@ -83,7 +105,7 @@
             "date": "2015-04-13",
             "author_name": "nacho@internality.com (Nacho)",
             "categories": "javascript,lenguaje",
-            "tags": "mundo,utilizado,javascript,lenguaje,programaci\u00f3n",
+            "tags": "desarrolladores,mundo,hace,javascript,lenguaje,programaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/lenguaje/microsiervos.com/2015/04/javascript-es-el-lenguaje-de-programaci%C3%B3n-m%C3%A1s-utilizado",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsiervos.com/archivo/tecnologia/javascript-lenguaje-programacion-mas-utilizado-otros-graficos-retratan-programadores.html"
@@ -98,28 +120,6 @@
             "recuweb_url": "http://es.recuweb.com/javascript/dawjaroso.wordpress.com/2015/04/desarrollo-web-en-entorno-cliente",
             "resource_url": "http://es.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
             "source_url": "http://dawjaroso.wordpress.com/desarrollo-web-en-entorno-cliente/"
-        },
-        "desarrolloweb.com/2015/03/trabajo-con-objetos-en-javascript": {
-            "title": "Trabajo con objetos en Javascript -...",
-            "snippet": "Estos dos puntos hacen que Javascript no sea el mejor lenguaje para aprender a programar con orientaci\u00f3n a objetos, pero esperamos que no sea un inconveniente para entender c\u00f3mo se aplican los conceptos de OOP.",
-            "date": "2015-03-31",
-            "author_name": "desconocido",
-            "categories": "javascript,lenguaje",
-            "tags": "mejor,objetos,trabajo,javascript,lenguaje",
-            "recuweb_url": "http://es.recuweb.com/lenguaje/desarrolloweb.com/2015/03/trabajo-con-objetos-en-javascript",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/trabajo-objetos-javascript.html"
-        },
-        "druizlab.wordpress.com/2015/03/cambiar-imagen-en-hover-con-javascript": {
-            "title": "Cambiar imagen en hover con javascript...",
-            "snippet": "img src=\" \" id=\"imgover\"/(document).ready(function(){(\"imgover\").mouseover(function(){(this).attr('src', 'imagen2');//cambia de imagen en el over});});...",
-            "date": "2015-03-14",
-            "author_name": "David",
-            "categories": "javascript",
-            "tags": "src,javascript,this",
-            "recuweb_url": "http://es.recuweb.com/javascript/druizlab.wordpress.com/2015/03/cambiar-imagen-en-hover-con-javascript",
-            "resource_url": "http://es.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
-            "source_url": "http://druizlab.wordpress.com/2015/03/14/cambiar-imagen-en-hover-con-javascript/"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "entretenimiento",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/entretenimiento/",
@@ -11,52 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/entretenimiento/entretenimiento/blogs.json"
     },
     "items": {
-        "elnuevoherald.com/2015/04/basement-miami-emporio-de-entretenimiento-para-adultos": {
-            "title": "Basement Miami: emporio de entretenimiento para adultos...",
-            "snippet": "Anticipar que la disco esta buen\u00edsima es f\u00e1cil cuando se sabe que la visi\u00f3n de Ian Schrager, el gur\u00fa m\u00e1s consagrado en la arena de vida nocturna y de hoteles de lujo m\u00e1s codiciados del pa\u00eds est\u00e1 detr\u00e1s de la empresa. Schrager, que junto...",
-            "date": "2015-04-30",
-            "categories": "vida-nocturna,entretenimiento",
-            "tags": "adultos,entretenimiento",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/elnuevoherald.com/2015/04/basement-miami-emporio-de-entretenimiento-para-adultos",
+        "elmundo.es/2015/05/candidatos-en-serie": {
+            "title": "Candidatos en serie...",
+            "snippet": "qu\u00e9 buscan los candidatos? Los hay que se lanzan al puro entretenimiento o quienes siguen enganchados a la actualidad pol\u00edtica, pero la mayor\u00eda son serieadictos, seguidores de formatos de ficci\u00f3n cortos con tramas para todos los gustos. \u00bfLes...",
+            "date": "2015-05-02",
+            "categories": "politica,entretenimiento",
+            "tags": "seguidores,entretenimiento",
+            "recuweb_url": "http://es.recuweb.com/entretenimiento/elmundo.es/2015/05/candidatos-en-serie",
             "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
-            "source_url": "http://elnuevoherald.com/entretenimiento/clubes/article19970064.html"
+            "source_url": "http://elmundo.es/comunidad-valenciana/2015/05/02/55426e84e2704e3b678b4570.html"
+        },
+        "eluniversal.com/2015/05/ileanna-simancas-ha-sido-algo-bonito-el-universal-venezuela": {
+            "title": "ILEANNA SIMANCAS: HA SIDO ALGO BONITO - El Universal (Venezuela)...",
+            "snippet": "El Universal (Venezuela)ILEANNA SIMANCAS: \"HA SIDO ALGO BONITO\"El Universal (Venezuela)Internacional Arte y Entretenimiento Cultura Cine Televisi\u00f3n M\u00fasica Sociales Hor\u00f3scopo Blogs Vida Gastronom\u00eda Gu\u00eda Tur\u00edstica Doblevia Blogs. Temas del D\u00eda.",
+            "date": "2015-05-02",
+            "categories": "entretenimiento,cultura,cine,television",
+            "tags": "entretenimiento,entretenimiento_cultura,entretenimiento_cultura_cine,cultura,cultura_cine,cultura_cine_televisi\u00f3n,cine,cine_televisi\u00f3n,cine_televisi\u00f3n_m\u00fasica,televisi\u00f3n,televisi\u00f3n_m\u00fasica,televisi\u00f3n_m\u00fasica_sociales,m\u00fasica,m\u00fasica_sociales,m\u00fasica_sociales_hor\u00f3scopo,sociales,sociales_hor\u00f3scopo,sociales_hor\u00f3scopo_blogs,hor\u00f3scopo,hor\u00f3scopo_blogs,hor\u00f3scopo_blogs_vida,vida,vida_gastronom\u00eda,vida_gastronom\u00eda_gu\u00eda,gastronom\u00eda,gastronom\u00eda_gu\u00eda,gastronom\u00eda_gu\u00eda_tur\u00edstica,gu\u00eda,gu\u00eda_tur\u00edstica,gu\u00eda_tur\u00edstica_doblevia,tur\u00edstica,tur\u00edstica_doblevia,tur\u00edstica_doblevia_blogs,doblevia,doblevia_blogs,internacional,internacional_arte,arte,universal,venezuela,temas,d\u00eda",
+            "recuweb_url": "http://es.recuweb.com/television/eluniversal.com/2015/05/ileanna-simancas-ha-sido-algo-bonito-el-universal-venezuela",
+            "resource_url": "http://news.google.es/?hl=es&q=entretenimiento&output=atom&nord=1",
+            "source_url": "http://eluniversal.com/arte-y-entretenimiento/150502/ileanna-simancas-ha-sido-algo-bonito"
+        },
+        "eluniversal.com/2015/05/los-duques-de-cambridge-tienen-una-ni%C3%B1a-el-universal-venezuela": {
+            "title": "Los duques de Cambridge tienen una ni\u00f1a - El Universal (Venezuela)...",
+            "snippet": "El Universal (Venezuela)Los duques de Cambridge tienen una ni\u00f1aEl Universal (Venezuela)Internacional Arte y Entretenimiento Cultura Cine Televisi\u00f3n M\u00fasica Sociales Hor\u00f3scopo Blogs Vida Gastronom\u00eda Gu\u00eda Tur\u00edstica Doblevia Blogs. Temas del...",
+            "date": "2015-05-02",
+            "categories": "entretenimiento,cultura,cine,television",
+            "tags": "entretenimiento,entretenimiento_cultura,entretenimiento_cultura_cine,cultura,cultura_cine,cultura_cine_televisi\u00f3n,cine,cine_televisi\u00f3n,cine_televisi\u00f3n_m\u00fasica,televisi\u00f3n,televisi\u00f3n_m\u00fasica,televisi\u00f3n_m\u00fasica_sociales,m\u00fasica,m\u00fasica_sociales,m\u00fasica_sociales_hor\u00f3scopo,sociales,sociales_hor\u00f3scopo,sociales_hor\u00f3scopo_blogs,hor\u00f3scopo,hor\u00f3scopo_blogs,hor\u00f3scopo_blogs_vida,vida,vida_gastronom\u00eda,vida_gastronom\u00eda_gu\u00eda,gastronom\u00eda,gastronom\u00eda_gu\u00eda,gastronom\u00eda_gu\u00eda_tur\u00edstica,gu\u00eda,gu\u00eda_tur\u00edstica,gu\u00eda_tur\u00edstica_doblevia,tur\u00edstica,tur\u00edstica_doblevia,tur\u00edstica_doblevia_blogs,doblevia,doblevia_blogs,internacional,internacional_arte,arte,universal,ni\u00f1a,venezuela,temas",
+            "recuweb_url": "http://es.recuweb.com/television/eluniversal.com/2015/05/los-duques-de-cambridge-tienen-una-ni%C3%B1a-el-universal-venezuela",
+            "resource_url": "http://news.google.es/?hl=es&q=entretenimiento&output=atom&nord=1",
+            "source_url": "http://eluniversal.com/arte-y-entretenimiento/150502/los-duques-de-cambridge-tienen-una-nina"
+        },
+        "noticiasrcn.com/2015/05/marc-anthony-impuso-su-nota-salsera-en-el-festival-vallenato": {
+            "title": "Marc Anthony impuso su nota salsera en el Festival Vallenato...",
+            "snippet": "marc anthony Festival Vallenato Festival de la Leyenda Vallenata valledupar m\u00fasica salsa vallenato Colombia entretenimiento Ra\u00fal Castro, vestido de uniforme militar, y Nicol\u00e1s Maduro, saludaron a las miles de personas que acompa\u00f1aban las...",
+            "date": "2015-05-02",
+            "categories": "salsa,entretenimiento",
+            "tags": "m\u00fasica,marc,marc_anthony,anthony,entretenimiento",
+            "recuweb_url": "http://es.recuweb.com/entretenimiento/noticiasrcn.com/2015/05/marc-anthony-impuso-su-nota-salsera-en-el-festival-vallenato",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
+            "source_url": "http://noticiasrcn.com/entretenimiento-musica/marc-anthony-impuso-su-nota-salsera-el-festival-vallenato"
+        },
+        "entretenimiento.starmedia.com/2015/05/don-francisco-no-desea-retirarse-del-mundo-entretenimiento": {
+            "title": "Don Francisco no desea retirarse del mundo del entretenimiento...",
+            "snippet": "Don Francisco no se imagina descansando, ni mucho menos jubilado. Por eso, aunque la cadena Univision acaba de anunciar el fin de S\u00e1bado Gigante, el presentador chileno ya est\u00e1 pensando en otras alternativas para la televisi\u00f3n y no descarta la...",
+            "date": "2015-05-01",
+            "categories": "television,entretenimiento",
+            "tags": "televisi\u00f3n,mundo,entretenimiento",
+            "recuweb_url": "http://es.recuweb.com/entretenimiento/entretenimiento.starmedia.com/2015/05/don-francisco-no-desea-retirarse-del-mundo-entretenimiento",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
+            "source_url": "http://entretenimiento.starmedia.com/television/don-francisco-no-desea-retirarse-mundo-entretenimiento.html"
+        },
+        "entretenimiento.univision.com/2015/05/la-india-mar%C3%ADa-se-vuelve-trending-topic-mundial-univisi%C3%B3n": {
+            "title": "La India Mar\u00eda se vuelve Trending Topic mundial - Univisi\u00f3n...",
+            "snippet": "Univisi\u00f3nLa India Mar\u00eda se vuelve Trending Topic mundialUnivisi\u00f3nNoticias Entretenimiento Deportes Futbol Futbol M\u00e9xico Futbol Europa Futbol Estados Unidos Futbol en vivo Boxeo M\u00fasica Estilo de Vida Amor En tu M\u00f3vil Belleza y Moda Env\u00eda...",
+            "date": "2015-05-01",
+            "categories": "moda,boxeo,entretenimiento,futbol",
+            "tags": "vida,m\u00fasica,entretenimiento,m\u00e9xico,india,india_mar\u00eda,mar\u00eda",
+            "recuweb_url": "http://es.recuweb.com/futbol/entretenimiento.univision.com/2015/05/la-india-mar%C3%ADa-se-vuelve-trending-topic-mundial-univisi%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=entretenimiento&output=atom&nord=1",
+            "source_url": "http://entretenimiento.univision.com/fotos/populares/slideshow/2015-05-01/famosos-reaccionan-al-fallecimiento-de-la-india-maria"
         },
         "20minutos.es/2015/04/javier-sierra-el-libro-%C3%BAnico-entretenimiento-en-que-p%C3%BAblico-es-libre": {
             "title": "Javier Sierra: El libro, \u00fanico entretenimiento en el que el p\u00fablico es libre...",
             "snippet": "El escritor Javier Sierra ha reivindicado el valor de la lectura como el \u00fanico mecanismo de entretenimiento donde el que est\u00e1 participando de \u00e9l es cr\u00edtico, es libre, a diferencia de otros en los que el p\u00fablico est\u00e1 hipnotizado por los...",
             "date": "2015-04-30",
             "categories": "entretenimiento",
-            "tags": "p\u00fablico,entretenimiento",
+            "tags": "p\u00fablico,javier,entretenimiento",
             "recuweb_url": "http://es.recuweb.com/entretenimiento/20minutos.es/2015/04/javier-sierra-el-libro-%C3%BAnico-entretenimiento-en-que-p%C3%BAblico-es-libre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
             "source_url": "http://20minutos.es/noticia/2446741/0/javier-sierra/libro-unico-entretenimiento/publico-es-libre/"
-        },
-        "entornointeligente.com/2015/04/m%C3%A9xico-videojuegos-entretenimiento-para-chicos-y-grandes": {
-            "title": "M\u00c9XICO: Videojuegos, entretenimiento para chicos y grandes...",
-            "snippet": "Noticias Relacionadas: Usuarios, Adultos, Ciento, Juegos, Mayor, Tipo, M\u00e1s, Entretenimiento, A\u00f1os, M\u00c9XICO: Videojuegos, entretenimiento para chicos y grandes/El Informador/CIUDAD DE M\u00c9XICO (30/ABR/2015). Si bien la demanda de videojuegos en...",
-            "date": "2015-04-30",
-            "categories": "videojuego,entretenimiento",
-            "tags": "bien,bien-la-demanda,demanda,demanda-de-videojuegos,videojuegos,ciudad,noticias,chicos,chicos-grandes,grandes,m\u00e9xico,entretenimiento,usuarios,adultos,ciento,tipo,abr",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/entornointeligente.com/2015/04/m%C3%A9xico-videojuegos-entretenimiento-para-chicos-y-grandes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
-            "source_url": "http://entornointeligente.com/articulo/5813713/MEXICO-Videojuegos-entretenimiento-para-chicos-y-grandes-30042015"
-        },
-        "elsemanario.com/2015/04/suspenden-21-centros-de-entretenimiento-infantil": {
-            "title": "Suspenden 21 centros de entretenimiento infantil...",
-            "snippet": "A s\u00f3lo horas de la celebraci\u00f3n del D\u00eda del Ni\u00f1o, la Profeco orden\u00f3 la suspensi\u00f3n de la actividad comercial en 21 centros de entretenimiento infantil que van desde negocios de videojuegos y pistas de patinaje hasta pizzer\u00edas o boliches...",
-            "date": "2015-04-30",
-            "categories": "videojuego,entretenimiento",
-            "tags": "infantil,videojuegos,celebraci\u00f3n,centros,entretenimiento,d\u00eda,ni\u00f1o,profeco",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/elsemanario.com/2015/04/suspenden-21-centros-de-entretenimiento-infantil",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
-            "source_url": "http://elsemanario.com/blog/102314/suspenden-21-centros-de-entretenimiento-infantil/"
         },
         "informador.com.mx/2015/04/videojuegos-entretenimiento-para-chicos-y-grandes": {
             "title": "Videojuegos, entretenimiento para chicos y grandes...",
             "snippet": "CIUDAD DE M\u00c9XICO (30/ABR/2015).-Si bien la demanda de videojuegos en M\u00e9xico es liderada por el p\u00fablico infantil, los adultos de 31 a 40 a\u00f1os representan 29 por ciento del universo de usuarios de este tipo de entretenimiento, se\u00f1al\u00f3 The...",
             "date": "2015-04-30",
             "categories": "videojuego,entretenimiento",
-            "tags": "ciento,ciento-del-universo,universo,usuarios,tipo,representan,adultos,liderada,p\u00fablico,p\u00fablico-infantil,infantil,bien,bien-la-demanda,demanda,demanda-de-videojuegos,videojuegos,ciudad,m\u00e9xico,chicos,chicos-grandes,grandes,entretenimiento,abr",
+            "tags": "ciento,ciento-del-universo,universo,representan,adultos,liderada,p\u00fablico,p\u00fablico-infantil,infantil,bien,bien-la-demanda,demanda,demanda-de-videojuegos,videojuegos,m\u00e9xico,chicos,chicos-grandes,grandes,entretenimiento",
             "recuweb_url": "http://es.recuweb.com/entretenimiento/informador.com.mx/2015/04/videojuegos-entretenimiento-para-chicos-y-grandes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
             "source_url": "http://informador.com.mx/tecnologia/2015/589501/6/videojuegos-entretenimiento-para-chicos-y-grandes.htm"
@@ -71,45 +101,15 @@
             "resource_url": "http://news.google.es/?hl=es&q=entretenimiento&output=atom&nord=1",
             "source_url": "http://ntrzacatecas.com/2015/04/30/videojuegos-entretenimiento-para-chicos-y-grandes/"
         },
-        "cadenaser.com/2015/04/v%C3%ADctor-manuel-yo-siempre-pens%C3%A9-que-esto-de-cantar-era": {
-            "title": "V\u00edctor Manuel: Yo siempre pens\u00e9 que esto de cantar era un entretenimiento...",
-            "snippet": "Estamos acostumbrados a verlos siendo dos, pero 'Canciones regaladas', el nuevo trabajo de Ana Bel\u00e9n y V\u00edctor Manuel, es su primer trabajo conjunto de estudio en treinta a\u00f1os. Tres d\u00e9cadas sin compartir un estudio de grabaci\u00f3n para un trabajo...",
-            "date": "2015-04-30",
-            "categories": "entretenimiento",
-            "tags": "entretenimiento,nuevo,tres",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/cadenaser.com/2015/04/v%C3%ADctor-manuel-yo-siempre-pens%C3%A9-que-esto-de-cantar-era",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
-            "source_url": "http://cadenaser.com/programa/2015/04/30/la_ventana/1430381416_179742.html"
-        },
-        "jornada.unam.mx/2015/04/suspende-profeco-actividades-en-21-centros-de-entretenimiento-la-jornada-linea": {
-            "title": "Suspende Profeco actividades en 21 centros de entretenimiento... - La Jornada en linea...",
-            "snippet": "El Semanario Sin LimitesSuspende Profeco actividades en 21 centros de entretenimiento...La Jornada en lineaM\u00e9xico, DF. En v\u00edsperas de la celebraci\u00f3n del D\u00eda del Ni\u00f1o, la Procuradur\u00eda Federal del Consumidor (Profeco) suspendi\u00f3 la actividad...",
+        "eleconomista.com.mx/2015/04/profeco-suspende-21-centros-de-entretenimiento-infantil-el-economista": {
+            "title": "Profeco suspende 21 centros de entretenimiento infantil - El Economista...",
+            "snippet": "PublimetroProfeco suspende 21 centros de entretenimiento infantilEl EconomistaComo parte de su programa de verificaci\u00f3n y vigilancia 2015 por el D\u00eda del Ni\u00f1o, la Procuradur\u00eda Federal del Consumidor (Profeco) suspendi\u00f3 la actividad comercial de...",
             "date": "2015-04-29",
             "categories": "entretenimiento",
-            "tags": "celebraci\u00f3n,profeco,centros,entretenimiento,d\u00eda,ni\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/jornada.unam.mx/2015/04/suspende-profeco-actividades-en-21-centros-de-entretenimiento-la-jornada-linea",
-            "resource_url": "http://news.google.es/?hl=es&q=entretenimiento&output=atom&nord=1",
-            "source_url": "http://jornada.unam.mx/ultimas/2015/04/29/suspende-profeco-actividades-en-21-201ccentros-de-entretenimiento-infantil201d-1402.html"
-        },
-        "economiahoy.mx/2015/04/juasapp-la-app-n%C3%BAmero-1-de-entretenimiento-en-espa%C3%B1a-llega": {
-            "title": "\"Juasapp\" la app n\u00famero 1 de entretenimiento en Espa\u00f1a llega a... - Econom\u00ed...",
-            "snippet": "Econom\u00ed \"Juasapp\" la app n\u00famero 1 de entretenimiento en Espa\u00f1a llega a...Econom\u00ed Juasapp permite gastar bromas telef\u00f3nicas an\u00f3nimas a nuestros contactos y compartirlas por redes sociales. Hoy se presenta en M\u00e9xico, tras liderar las descargas...",
-            "date": "2015-04-28",
-            "categories": "entretenimiento",
-            "tags": "entretenimiento,m\u00e9xico",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/economiahoy.mx/2015/04/juasapp-la-app-n%C3%BAmero-1-de-entretenimiento-en-espa%C3%B1a-llega",
+            "tags": "entretenimiento,infantil,d\u00eda",
+            "recuweb_url": "http://es.recuweb.com/entretenimiento/eleconomista.com.mx/2015/04/profeco-suspende-21-centros-de-entretenimiento-infantil-el-economista",
             "resource_url": "http://news.google.es/?hl=es&q=entretenimiento%2Bentretenimiento&output=atom&nord=1",
-            "source_url": "http://economiahoy.mx/telecomunicacion-tecnologia-mx/noticias/6665173/04/15/Juasapp-la-app-numero-1-de-entretenimiento-en-Espana-llega-a-Mexico.html"
-        },
-        "labolsa.com/2015/04/el-gigante-del-entretenimiento-live-nation-compra-festival-de-bonnaroo": {
-            "title": "El gigante del entretenimiento Live Nation compra festival de Bonnaroo...",
-            "snippet": "El gigante del entretenimiento Live Nation inform\u00f3 el martes que est\u00e1 comprando una participaci\u00f3n mayoritaria de Bonnaroo, uno de los festivales musicales m\u00e1s importantes de Estados Unidos, lo que marca la consolidaci\u00f3n del auge de esta...",
-            "date": "2015-04-28",
-            "categories": "entretenimiento",
-            "tags": "unidos,importantes,entretenimiento",
-            "recuweb_url": "http://es.recuweb.com/entretenimiento/labolsa.com/2015/04/el-gigante-del-entretenimiento-live-nation-compra-festival-de-bonnaroo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=entretenimiento&format=RSS&cc=es",
-            "source_url": "http://labolsa.com/noticias/20150428195501639/el-gigante-del-entretenimiento-live-nation-compra-festival-de-bonnaroo/"
+            "source_url": "http://eleconomista.com.mx/industrias/2015/04/29/profeco-suspende-21-centros-entretenimiento-infantil"
         }
     }
 }

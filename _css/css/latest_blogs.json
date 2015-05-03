@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "css",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/css/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/css/css/blogs.json"
     },
     "items": {
-        "ksesocss.blogspot.com/2015/04/foto-fija-de-css-todos-los-documentos-del-consorcio-w3c": {
-            "title": "Foto fija de Css: Todos los documentos Css del Consorcio W3c y su...",
-            "snippet": "Relaci\u00f3n, por su estatus dentro del Consorcio, de todos los documentos del corpus de CSS desarrollados por el W3c con enlaces al original y a su hist\u00f3rico de desarrollo. Incluidos como curiosidad los obsoletos.",
-            "date": "2015-04-22",
+        "ksesocss.blogspot.com/2015/05/errores-de-tipeo-y-olvidos-al-escribir-css-sus-consecuencias": {
+            "title": "Errores de tipeo y olvidos al escribir Css y sus consecuencias...",
+            "snippet": "Los efectos de los errores de tipeo al escribir Css y sus consecuencias dependen de qu\u00e9 tipo de error sea y de donde se cometa: desde anular s\u00f3lo una declaraci\u00f3n hasta perder toda la hoja de estilos y lo contenida en ella.",
+            "date": "2015-05-02",
             "author_name": "Kseso",
             "categories": "css",
-            "tags": "original,dentro,css",
-            "recuweb_url": "http://es.recuweb.com/css/ksesocss.blogspot.com/2015/04/foto-fija-de-css-todos-los-documentos-del-consorcio-w3c",
+            "tags": "anular,efectos,css",
+            "recuweb_url": "http://es.recuweb.com/css/ksesocss.blogspot.com/2015/05/errores-de-tipeo-y-olvidos-al-escribir-css-sus-consecuencias",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ksesocss.blogspot.com/2015/04/foto-fija-css-todos-los-documentos.html"
+            "source_url": "http://ksesocss.blogspot.com/2015/05/errores-tipeo-css-efectos.html"
+        },
+        "ksesocss.blogspot.com/2015/04/mega-men%C3%BA-css-ksesocss": {
+            "title": "Mega men\u00fa Css - KsesoCss...",
+            "snippet": "C\u00f3mo realizar un mega men\u00fa en puro Css. Todo se reduce a saber posicionar (position y las propiedades de colocaci\u00f3n) junto a una pizca de flexbox.",
+            "date": "2015-04-26",
+            "author_name": "Kseso",
+            "categories": "css,propiedad",
+            "tags": "flexbox,realizar,men\u00fa,css,c\u00f3mo,propiedades",
+            "recuweb_url": "http://es.recuweb.com/propiedad/ksesocss.blogspot.com/2015/04/mega-men%C3%BA-css-ksesocss",
+            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ksesocss.blogspot.com/2015/04/megamenu-dropdown.html"
+        },
+        "ksesocss.blogspot.com/2015/04/uso-de-animaciones-css-para-pisar-herencia-cascada-e-important": {
+            "title": "Uso de animaciones Css para pisar herencia, cascada e!important...",
+            "snippet": "Las novedades en la importancia de las reglas Css por su origen y uso de las animaciones y transiciones Css para anular la cadena!important.",
+            "date": "2015-04-24",
+            "author_name": "Kseso",
+            "categories": "css",
+            "tags": "anular,animaciones,cascada,css",
+            "recuweb_url": "http://es.recuweb.com/css/ksesocss.blogspot.com/2015/04/uso-de-animaciones-css-para-pisar-herencia-cascada-e-important",
+            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ksesocss.blogspot.com/2015/04/animaciones-transiciones-contra-important.html"
         },
         "oloblogger.com/2015/04/recortar-el-centro-de-una-imagen-con-css-object-fit": {
             "title": "Recortar el centro de una imagen con CSS: object-fit y otra historia...",
@@ -39,21 +61,10 @@
             "date": "2015-04-15",
             "author_name": "juandsevillano",
             "categories": "css",
-            "tags": "estructura,separar,dentro,c\u00f3digo,css,web,dise\u00f1o",
+            "tags": "estructura,css,cascada,web,dise\u00f1o",
             "recuweb_url": "http://es.recuweb.com/css/juandsevillano.wordpress.com/2015/04/qu%C3%A9-es-css",
             "resource_url": "http://es.search.wordpress.com/?q=css%2Bcss&f=feed&page=1",
             "source_url": "http://juandsevillano.wordpress.com/2015/04/15/que-es-css/"
-        },
-        "nometoqueslashelveticas.com/2015/04/chistes-en-css-no-me-toques-las-helv%C3%A9ticas-blog-sobre-dise%C3%B1o": {
-            "title": "Chistes en CSS No me toques las Helv\u00e9ticas Blog sobre dise\u00f1o...",
-            "snippet": "Chistes en CSS. Saijo George es un consultor Seo de Melbourne, ha trabajado en el cliente, en agencia y ahora por su cuenta ofreciendo servicios de Content Marketing, Seo, Social Media etc. Como persona que pasa muchas horas en...",
-            "date": "2015-04-06",
-            "author_name": "Laualm",
-            "categories": "css",
-            "tags": "social,ofreciendo,css,dise\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/css/nometoqueslashelveticas.com/2015/04/chistes-en-css-no-me-toques-las-helv%C3%A9ticas-blog-sobre-dise%C3%B1o",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://nometoqueslashelveticas.com/2015/04/chistes-en-css.html"
         },
         "emezeta.com/2015/04/animar-personajes-con-animaciones-css-emezeta": {
             "title": "Animar personajes con animaciones CSS Emezeta...",
@@ -61,7 +72,7 @@
             "date": "2015-04-02",
             "author_name": "desconocido",
             "categories": "css",
-            "tags": "tutorial,hay,forma,muy,css",
+            "tags": "tutorial,c\u00f3mo,forma,muy,crear,animaciones,css",
             "recuweb_url": "http://es.recuweb.com/css/emezeta.com/2015/04/animar-personajes-con-animaciones-css-emezeta",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://emezeta.com/articulos/animar-personajes-con-animaciones-css"
@@ -72,9 +83,9 @@
             "date": "2015-04-01",
             "author_name": "\u00c1lvaro Fontela",
             "categories": "css,wordpress,html",
-            "tags": "sitio,css,web",
+            "tags": "css,sitio,web,html",
             "recuweb_url": "http://es.recuweb.com/html/bloguismo.com/2015/04/4-plugins-para-minificar-y-combinar-js-css-en-wordpress",
-            "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://bloguismo.com/plugins-minificar-combinar-js-css-wordpress/"
         },
         "terremotobcn.wordpress.com/2015/02/css-reference-codrops": {
@@ -94,30 +105,19 @@
             "date": "2015-01-25",
             "author_name": "andressetaro",
             "categories": "internet,css",
-            "tags": "selectores,siempre,muy,css,diferentes,web",
+            "tags": "muy,css,diferentes,web",
             "recuweb_url": "http://es.recuweb.com/css/andressetaro.wordpress.com/2015/01/css-selectors-nivel-4",
             "resource_url": "http://es.search.wordpress.com/?q=css%2Bcss&f=feed&page=1",
             "source_url": "http://andressetaro.wordpress.com/2015/01/25/css-selectors-nivel-4/"
         },
-        "desarrolloweb.com/2015/01/css-separar-contenido-y-presentaci%C3%B3n": {
-            "title": "CSS: Separar contenido y presentaci\u00f3n -...",
-            "snippet": "Estamos ya en 2015 y dado que el Tutorial de CSS b\u00e1sico lo comenzamos a escribir en 2001 siempre es bueno retomar algunos asuntos elementales que nos ayuden a mejorar el texto y sobre todo que ayuden a las...",
-            "date": "2015-01-20",
-            "author_name": "desconocido",
-            "categories": "css",
-            "tags": "siempre,escribir,css,separar,tutorial,b\u00e1sico,algunos",
-            "recuweb_url": "http://es.recuweb.com/css/desarrolloweb.com/2015/01/css-separar-contenido-y-presentaci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=css&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/css-separar-contenido-presentacion.html"
-        },
-        "librosweb.es/2012/12/5-posicionamiento-absoluto-introducci%C3%B3n-a-css": {
-            "title": "5.5. Posicionamiento absoluto (Introducci\u00f3n a CSS) -...",
+        "librosweb.es/2012/12/5-posicionamiento-absoluto-introducci%C3%B3n-a-css-librosweb": {
+            "title": "5.5. Posicionamiento absoluto (Introducci\u00f3n a CSS) - LibrosWeb...",
             "snippet": "El est\u00e1ndar de CSS 2.1 indica que las cajas posicionadas de forma absoluta \"salen del flujo normal de la p\u00e1gina\", lo que provoca que el resto de elementos de la p\u00e1gina se muevan y en ocasiones, ocupen la posici\u00f3n original en la que se...",
             "date": "2012-12-07",
             "author_name": "desconocido",
             "categories": "css",
-            "tags": "original,elementos,p\u00e1gina,cajas,forma,posicionamiento,css",
-            "recuweb_url": "http://es.recuweb.com/css/librosweb.es/2012/12/5-posicionamiento-absoluto-introducci%C3%B3n-a-css",
+            "tags": "original,p\u00e1gina,cajas,forma,posicionamiento,css,elementos",
+            "recuweb_url": "http://es.recuweb.com/css/librosweb.es/2012/12/5-posicionamiento-absoluto-introducci%C3%B3n-a-css-librosweb",
             "resource_url": "http://www.google.com/search?q=css%2Bcss&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://librosweb.es/libro/css/capitulo_5/posicionamiento_absoluto.html"
         }

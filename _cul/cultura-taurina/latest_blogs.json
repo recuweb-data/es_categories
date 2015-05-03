@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "cultura-taurina",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura-taurina/",
@@ -11,25 +11,48 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura-taurina/cultura-taurina/blogs.json"
     },
     "items": {
-        "ambitotoros.blogspot.com/2015/04/ambitotoros-la-tertulia-cultural-taurina-david-de-miranda-presenta": {
-            "title": "ambitotoros: La Tertulia Cultural Taurina David de Miranda presenta...",
-            "snippet": "En un sabroso acto celebrado en Trigueros la tertulia Cultural Taurina David de Miranda present\u00f3 su primera revista. Al precio de 1 se puede solicitar a cualquier miembro de la pe\u00f1a o en Bar \"Lolo Manzano\".",
-            "date": "2015-04-10",
-            "author_name": "Javier",
-            "tags": "pe\u00f1a,cultural,cultural_taurina,taurina",
-            "recuweb_url": "http://es.recuweb.com/ambitotoros.blogspot.com/2015/04/ambitotoros-la-tertulia-cultural-taurina-david-de-miranda-presenta",
+        "cartagenaactualidad.com/2015/04/el-consejero-de-cultura-recibe-al-presidente-la-real-federaci%C3%B3n": {
+            "title": "El Consejero de Cultura recibe al Presidente de la Real Federaci\u00f3n...",
+            "snippet": "El Consejero de Cultura de la Comunidad Aut\u00f3noma de Murcia, Pedro Antonio S\u00e1nchez, recibi\u00f3 en el d\u00eda de ayer, al Presidente de Real Federaci\u00f3n Taurina de.",
+            "date": "2015-04-29",
+            "author_name": "matiasbarco",
+            "categories": "cultura",
+            "tags": "taurina,d\u00eda,ayer,antonio,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/cartagenaactualidad.com/2015/04/el-consejero-de-cultura-recibe-al-presidente-la-real-federaci%C3%B3n",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ambitotoros.blogspot.com/2015/04/la-tertulia-cultural-taurina-david-de.html"
+            "source_url": "http://cartagenaactualidad.com/2015/04/el-consejero-de-cultura-recibe-al-presidente-de-la-real-federacion-taurina/"
         },
-        "decatafalcoyoro.blogspot.com/2015/04/pe%C3%B1a-cultural-taurina-de-roquetas-mar-catafalco-y-oro": {
-            "title": "pe\u00f1a cultural taurina de roquetas de mar - de catafalco y oro...",
-            "snippet": "La Pe\u00f1a Cultural Taurina de Roquetas de Mar se complace en ponerse en contacto con usted para hacerle llegar la informaci\u00f3n relativa a la celebraci\u00f3n de un viaje que nos llevar\u00e1 hasta Sanl\u00facar de Barrameda para...",
-            "date": "2015-04-10",
-            "author_name": "noreply@blogger.com (Jose Cisneros)",
-            "tags": "pe\u00f1a,cultural,cultural_taurina,taurina,oro",
-            "recuweb_url": "http://es.recuweb.com/decatafalcoyoro.blogspot.com/2015/04/pe%C3%B1a-cultural-taurina-de-roquetas-mar-catafalco-y-oro",
+        "circulotaurinodeosuna.es/2015/04/xiv-pregon-feria-taurina-de-osuna-2015-c%C3%ADrculo-cultural": {
+            "title": "XIV PREGON FERIA TAURINA DE OSUNA 2015 C\u00edrculo Cultural...",
+            "snippet": "Nuestro Socio Angel Luis Carmona Cuevas ser\u00e1 el encargado de pregonar nuestra Feria Taurina. La cita tendr\u00e1 lugar en nuestra centenaria Plaza de Toros de Osuna el pr\u00f3ximo Domingo 10 de Mayo a partir de las 20:30 hs.",
+            "date": "2015-04-22",
+            "author_name": "CCTO",
+            "tags": "partir,feria,feria_taurina,taurina,luis,c\u00edrculo,c\u00edrculo_cultural,cultural,taurina_de_osuna,osuna,plaza,toros,mayo",
+            "recuweb_url": "http://es.recuweb.com/circulotaurinodeosuna.es/2015/04/xiv-pregon-feria-taurina-de-osuna-2015-c%C3%ADrculo-cultural",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://decatafalcoyoro.blogspot.com/2015/04/pena-cultural-taurina-de-roquetas-de-mar.html"
+            "source_url": "http://circulotaurinodeosuna.es/xiv-pregon-feria-taurina-de-osuna/"
+        },
+        "circulotaurinodeosuna.es/2015/04/feria-taurina-de-osuna-2015-c%C3%ADrculo-cultural-taurino": {
+            "title": "FERIA TAURINA DE OSUNA 2015 C\u00edrculo Cultural Taurino de Osuna...",
+            "snippet": "FERIA TAURINA DE OSUNA 2015. Jueves 14 Mayo: GRAN FINAL XVIII CICLO DE BECERRADAS EN CLASES PRACTICAS, para los 6 alumnos finalistas de las Escuelas Taurinas de Andalucia. A\u00f1ojos de la Ganaderia de...",
+            "date": "2015-04-21",
+            "author_name": "CCTO",
+            "categories": "escuela",
+            "tags": "taurina,gran,final,ciclo,c\u00edrculo,c\u00edrculo_cultural,cultural,taurino,feria,feria_taurina,taurina_de_osuna,osuna,jueves,mayo",
+            "recuweb_url": "http://es.recuweb.com/escuela/circulotaurinodeosuna.es/2015/04/feria-taurina-de-osuna-2015-c%C3%ADrculo-cultural-taurino",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://circulotaurinodeosuna.es/feria-taurina-de-osuna-2015/"
+        },
+        "alternativa.torosradio.com/2015/04/promoviendo-la-cultura-taurina-entre-los-ni%C3%B1os-de-ronda-inicio": {
+            "title": "promoviendo la cultura taurina entre los ni\u00f1os de ronda - Inicio...",
+            "snippet": "... mes de marzo, en colaboraci\u00f3n con la Uni\u00f3n de Abonados de M\u00e1laga, una visita para ni\u00f1os a Reservatauro, en Ronda, perteneciente al Matador de Toros Rafael Tejeda para promover la cultura taurina entre los ni\u00f1os.",
+            "date": "2015-04-21",
+            "author_name": "Alternativa TorosRadio",
+            "categories": "cultura",
+            "tags": "promover,toros,visita,marzo,cultura,taurina",
+            "recuweb_url": "http://es.recuweb.com/cultura/alternativa.torosradio.com/2015/04/promoviendo-la-cultura-taurina-entre-los-ni%C3%B1os-de-ronda-inicio",
+            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://alternativa.torosradio.com/blog/?p=1836"
         },
         "zocalo.com.mx/2015/04/conoce-el-museo-de-la-cultura-taurina-en-saltillo-turismo-09": {
             "title": "Conoce el Museo de la Cultura Taurina en Saltillo Turismo - 09...",
@@ -37,21 +60,10 @@
             "date": "2015-04-09",
             "author_name": "web@zocalo.com.mx",
             "categories": "cultura,cultura-taurina",
-            "tags": "ciudad,estado,muestra,museo,turismo,cultura,cultura_taurina,taurina",
+            "tags": "ciudad,estado,muestra,museo,cultura,cultura_taurina,taurina",
             "recuweb_url": "http://es.recuweb.com/cultura-taurina/zocalo.com.mx/2015/04/conoce-el-museo-de-la-cultura-taurina-en-saltillo-turismo-09",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://zocalo.com.mx/seccion/articulo/conoce-el-museo-de-la-cultura-taurina-en-saltillo-1428583993"
-        },
-        "jaentaurino.com/2015/04/ninguna-plaza-jiennense-en-el-fomento-de-la-cultura-taurina": {
-            "title": "Ninguna plaza jiennense en el fomento de la cultura taurina...",
-            "snippet": "La provincia de Ja\u00e9n no acoger\u00e1 ninguno de los festejos de promoci\u00f3n para el fomento de la cultura taurina en Andaluc\u00eda que anualmente se celebran...",
-            "date": "2015-04-08",
-            "author_name": "Jos\u00e9 Luis Mar\u00edn Weil",
-            "categories": "cultura",
-            "tags": "provincia,plaza,fomento,cultura,taurina",
-            "recuweb_url": "http://es.recuweb.com/cultura/jaentaurino.com/2015/04/ninguna-plaza-jiennense-en-el-fomento-de-la-cultura-taurina",
-            "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://jaentaurino.com/2015/04/ninguna-plaza-jiennense-en-el-fomento-de-la-cultura-taurina-andaluza-en-2015/"
         },
         "radiotelevisionalhaurinelgrande.wordpress.com/2015/03/vii-jornadas-de-cultura-taurina-radio-televisi%C3%B3n-alhaur%C3%ADn": {
             "title": "VII JORNADAS DE CULTURA TAURINA Radio Televisi\u00f3n Alhaur\u00edn...",
@@ -59,7 +71,7 @@
             "date": "2015-03-26",
             "author_name": "radiotelevisionalhaurin",
             "categories": "sentido,cultura,cultura-taurina,radio,television",
-            "tags": "antonio,mi\u00e9rcoles,sentido,homenaje,homenaje_antonio,homenaje_antonio_bad\u00eda,antonio_bad\u00eda,bad\u00eda,vii,jornadas,cultura,cultura_taurina,taurina,alhaur\u00edn,grande,pe\u00f1a",
+            "tags": "antonio,ayer,mi\u00e9rcoles,sentido,homenaje,homenaje_antonio,homenaje_antonio_bad\u00eda,antonio_bad\u00eda,bad\u00eda,vii,jornadas,cultura,cultura_taurina,taurina,alhaur\u00edn,grande,pe\u00f1a",
             "recuweb_url": "http://es.recuweb.com/television/radiotelevisionalhaurinelgrande.wordpress.com/2015/03/vii-jornadas-de-cultura-taurina-radio-televisi%C3%B3n-alhaur%C3%ADn",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://radiotelevisionalhaurinelgrande.wordpress.com/2015/03/26/vii-jornadas-de-cultura-taurina/"
@@ -81,7 +93,7 @@
             "date": "2015-03-24",
             "author_name": "Fundacion Cajasol",
             "categories": "cultura,cultura-taurina",
-            "tags": "mi\u00e9rcoles,cultura,cultura_taurina,taurina,sede",
+            "tags": "marzo,mi\u00e9rcoles,cultura,cultura_taurina,taurina,sede",
             "recuweb_url": "http://es.recuweb.com/cultura-taurina/cajasol.es/2015/03/iii-concierto-de-exaltaci%C3%B3n-la-cultura-taurina-fundaci%C3%B3n-cajasol",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cajasol.es/fundacion-cajasol-presenta-el-iii-concierto-de-exaltacion-de-la-cultura-taurina/"
@@ -91,21 +103,21 @@
             "snippet": "La pe\u00f1a \u00c1ngel Leria de Zarza Capilla de L'Hospitalet que preside Juan Gallego, organiza una vez m\u00e1s, su semana cultural taurina, que este a\u00f1o rinde homenaje a el recordado Luis Mar\u00eda Gibert, y que tiene como principal...",
             "date": "2015-02-06",
             "author_name": "Santiago Miron",
-            "tags": "homenaje,semana,pe\u00f1a,cultural,taurina",
+            "tags": "luis,homenaje,semana,pe\u00f1a,cultural,taurina",
             "recuweb_url": "http://es.recuweb.com/vadebraus.com/2015/02/la-pe%C3%B1a-%C3%A1ngel-leria-celebra-su-semana-cultural-taurina",
             "resource_url": "http://www.google.com/search?q=cultura%2Btaurina%2Bcultura%2Btaurina&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://vadebraus.com/la-pena-angel-leria-celebra-su-semana-cultural-taurina/"
         },
-        "otracordobaesposible.wordpress.com/2014/03/cuanto-dinero-p%C3%BAblico-se-habr%C3%A1-gastado-el-ayuntamiento-de-c%C3%B3rdoba": {
-            "title": "\u00bfCuanto dinero p\u00fablico se habr\u00e1 gastado el Ayuntamiento de C\u00f3rdoba en el Ciclo de Conferencias...",
-            "snippet": "La Delegaci\u00f3n de Cultura del Ayuntamiento de C\u00f3rdoba ha destinado fondos p\u00fablicos a la organizaci\u00f3n de un flamante Ciclo de Conferencias Taurinas en la sala Orive. Lo cual []...",
-            "date": "2014-03-10",
-            "author_name": "Gerardo Pedr\u00f3s",
+        "barriocuatrocaminos.wordpress.com/2014/10/preg%C3%B3n-de-la-feria-taurina-a-coru%C3%B1a-2014": {
+            "title": "Preg\u00f3n de la Feria Taurina de A Coru\u00f1a - 2014...",
+            "snippet": "La empresa taurina SIGLO XXI informa que el Jueves d\u00eda 2 de Octubre a partir de las 20,00 horas, en la sala de Cultura del Sporting Club Casino...",
+            "date": "2014-10-01",
+            "author_name": "barriocuatrocaminos",
             "categories": "cultura",
-            "tags": "p\u00fablico,ciclo,cultura",
-            "recuweb_url": "http://es.recuweb.com/cultura/otracordobaesposible.wordpress.com/2014/03/cuanto-dinero-p%C3%BAblico-se-habr%C3%A1-gastado-el-ayuntamiento-de-c%C3%B3rdoba",
+            "tags": "partir,feria,feria_taurina,taurina,jueves,d\u00eda,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/barriocuatrocaminos.wordpress.com/2014/10/preg%C3%B3n-de-la-feria-taurina-a-coru%C3%B1a-2014",
             "resource_url": "http://es.search.wordpress.com/?q=cultura%2Btaurina%2Bcultura%2Btaurina&f=feed&page=1",
-            "source_url": "http://otracordobaesposible.wordpress.com/2014/03/10/cuanto-dinero-publico-se-habra-gastado-el-ayuntamiento-de-cordoba-en-el-ciclo-de-conferencias-taurinas/"
+            "source_url": "http://barriocuatrocaminos.wordpress.com/2014/10/01/pregon-de-la-feria-taurina-de-a-coruna-2014/"
         }
     }
 }

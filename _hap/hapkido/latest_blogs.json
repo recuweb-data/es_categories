@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hapkido",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hapkido/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hapkido/hapkido/blogs.json"
     },
     "items": {
-        "alianzadenoticias.com/2015/04/selecci%C3%B3n-de-hapkido-cojedes-obtuvo-ii-lugar-en-nueva-esparta": {
-            "title": "Selecci\u00f3n de Hapkido Cojedes obtuvo II Lugar en Nueva Esparta...",
-            "snippet": "Selecci\u00f3n de Hapkido Cojedes obtuvo II Lugar en Nueva Esparta. Osnary Teresa Paz Silva. La selecci\u00f3n regional de Hapkido lleg\u00f3 plenamente orgullosa de las victorias logradas en el I Clasificatorio 2015 realizado en...",
+        "hapkidospain.es/2015/05/hapkido-spain-escuela-de-alicante-version-online": {
+            "title": "HAPKIDO SPAIN (Escuela de Hapkido) Alicante: VERSION ONLINE...",
+            "snippet": "El Maestro Sam Plumb es reconocido como uno de los practicantes de Hapkido m\u00e1s famosos del continente europeo. Durante m\u00e1s de 35 a\u00f1os se ha dedicado intensivamente al estudio de uno de las artes marciales m\u00e1s...",
+            "date": "2015-05-01",
+            "author_name": "Hapkido Master",
+            "categories": "hapkido,escuela",
+            "tags": "maestro,hapkido,escuela,durante,artes,marciales",
+            "recuweb_url": "http://es.recuweb.com/escuela/hapkidospain.es/2015/05/hapkido-spain-escuela-de-alicante-version-online",
+            "resource_url": "http://www.google.com/search?q=hapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hapkidospain.es/2015/05/version-online-revista-el-budoka.html"
+        },
+        "ceiplashuertas.com/2015/04/exhibici%C3%B3n-de-hapkido-mugin-en-el-ceip-las-huertas": {
+            "title": "Exhibici\u00f3n de Hapkido Mugin en el Ceip Las Huertas...",
+            "snippet": "Hoy Martes hemos tenido una exhibici\u00f3n por parte de los alumnos del Ceip las Huertas del Hapkido Mugin, una variedad de Arte Marciak, a cargo de algunos alumnos del Centro. Gracias a todos por su demostraci\u00f3n.",
             "date": "2015-04-21",
-            "author_name": "alianza",
+            "author_name": "ceiplashuertas",
             "categories": "hapkido",
-            "tags": "realizado,selecci\u00f3n,regional,nueva,nueva_esparta,esparta,hapkido,cojedes,lugar,lleg\u00f3",
-            "recuweb_url": "http://es.recuweb.com/hapkido/alianzadenoticias.com/2015/04/selecci%C3%B3n-de-hapkido-cojedes-obtuvo-ii-lugar-en-nueva-esparta",
+            "tags": "demostraci\u00f3n,cargo,arte,parte,hapkido,exhibici\u00f3n,alumnos",
+            "recuweb_url": "http://es.recuweb.com/hapkido/ceiplashuertas.com/2015/04/exhibici%C3%B3n-de-hapkido-mugin-en-el-ceip-las-huertas",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://alianzadenoticias.com/2015/04/21/seleccion-de-hapkido-cojedes-obtuvo-ii-lugar-en-nueva-esparta/"
+            "source_url": "http://ceiplashuertas.com/exhibicion-de-hapkido-mugin-en-el-ceip-las-huertas/"
         },
         "enlanoticia24.com/2015/04/selecci%C3%B3n-regional-de-hapkido-se-posicion%C3%B3-en-el-segundo-lugar": {
             "title": "Selecci\u00f3n regional de Hapkido se posicion\u00f3 en el segundo lugar...",
@@ -28,7 +39,7 @@
             "date": "2015-04-21",
             "author_name": "EN LA NOTICIA",
             "categories": "hapkido",
-            "tags": "apoyo,participar,selecci\u00f3n,segundo,lugar,regional,hapkido,lleg\u00f3,parte",
+            "tags": "apoyo,participar,parte,selecci\u00f3n,regional,hapkido,lleg\u00f3,tinaquillo",
             "recuweb_url": "http://es.recuweb.com/hapkido/enlanoticia24.com/2015/04/selecci%C3%B3n-regional-de-hapkido-se-posicion%C3%B3-en-el-segundo-lugar",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://enlanoticia24.com/seleccion-regional-de-hapkido-se-posiciono-en-el-segundo-lugar-durante-campeonato-nacional/"
@@ -39,21 +50,21 @@
             "date": "2015-04-17",
             "author_name": "Juan Antonio",
             "categories": "hapkido",
-            "tags": "kim,sung,kun,santa,santa_cruz,cruz,seminario,hapkido,maestro",
+            "tags": "kim,sung,kun,seminario,hapkido,maestro",
             "recuweb_url": "http://es.recuweb.com/hapkido/hapkido.com.es/2015/04/videos-hapkido-seminario-santa-cruz-de-tenerife-2012",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hapkido.com.es/videos-hapkido-canarias-2012/"
         },
-        "reportevalencia.com/2015/04/hapkido-carabobe%C3%B1o-regres%C3%B3-de-suelo-insular-con-los-m%C3%A1ximos": {
-            "title": "Hapkido carabobe\u00f1o regres\u00f3 de suelo insular con los m\u00e1ximos...",
-            "snippet": "El Maestro experto del Hapkido, adelant\u00f3 que,la II V\u00e1lida Nacional ser\u00e1 en el mes de Junio en tierras carabobe\u00f1as, donde los regionales buscar\u00e1n revalidar el t\u00edtulo campeonil y quedarse con la copa en casa. Para el mes de...",
+        "sondokwan.blogspot.com/2015/04/asociaci%C3%B3n-internacional-de-sondo-kwan-hapkido-ex%C3%A1menes": {
+            "title": "Asociaci\u00f3n Internacional de Sondo Kwan Hapkido: EX\u00c1MENES...",
+            "snippet": "Tuvo que superar un duro examen, el cu\u00e1l const\u00f3 de una primera parte de trabajo t\u00e9cnico y una segunda con trabajo de combate y sparring, como viene siendo habitual en la Sondo Kwan Hapkido. En esta ocasi\u00f3n, Kike tuvo...",
             "date": "2015-04-16",
-            "author_name": "A",
+            "author_name": "Sondo Kwan Hapkido",
             "categories": "hapkido",
-            "tags": "ser\u00e1,hapkido,maestro",
-            "recuweb_url": "http://es.recuweb.com/hapkido/reportevalencia.com/2015/04/hapkido-carabobe%C3%B1o-regres%C3%B3-de-suelo-insular-con-los-m%C3%A1ximos",
-            "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://reportevalencia.com/site/hapkido-carabobeno-regreso-de-suelo-insular-con-los-maximos-laureles/"
+            "tags": "primera,primera-parte,parte,trabajo,segunda,combate,kwan,hapkido",
+            "recuweb_url": "http://es.recuweb.com/hapkido/sondokwan.blogspot.com/2015/04/asociaci%C3%B3n-internacional-de-sondo-kwan-hapkido-ex%C3%A1menes",
+            "resource_url": "http://www.google.com/search?q=hapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://sondokwan.blogspot.com/2015/04/examenes-nacionales-2015-ii.html"
         },
         "fmtaekwondo.es/2015/04/seminario-y-curso-de-titulacion-hapkido-federaci%C3%B3n": {
             "title": "SEMINARIO Y CURSO DE TITULACION DE HAPKIDO Federaci\u00f3n...",
@@ -66,49 +77,38 @@
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fmtaekwondo.es/2015/04/10/seminario-y-curso-de-titulacion-de-hapkido/"
         },
-        "traditionalandmma.com/2015/04/1st-jung-ki-hapkido-spain-semminar-gm-lim-hyun-soo": {
-            "title": "1st JUNG KI HAPKIDO SPAIN SEMMINAR (GM LIM HYUN SOO...",
-            "snippet": "1 Visita G.M. Lim Hyun Soo a Espa\u00f1a. Video de la primera visita y el primer seminario de Jung Ki Kwan Hapkido en Espa\u00f1a por parte del GM Lym Hyun Soo,...",
-            "date": "2015-04-08",
-            "author_name": "Malcom Schick",
-            "categories": "hapkido",
-            "tags": "kwan,hapkido,primera,primer,seminario,lim,hapkido_spain,spain,espa\u00f1a,parte",
-            "recuweb_url": "http://es.recuweb.com/hapkido/traditionalandmma.com/2015/04/1st-jung-ki-hapkido-spain-semminar-gm-lim-hyun-soo",
-            "resource_url": "http://www.google.com/search?q=hapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://traditionalandmma.com/1st-jung-ki-hapkido-spain-semminar-gm-lim-hyun-soo/"
-        },
         "enlanoticia24.com/2015/04/selecci%C3%B3n-regional-de-hapkido-necesita-apoyo-para-participar": {
             "title": "Selecci\u00f3n regional de Hapkido necesita de apoyo para participar en...",
-            "snippet": "El pr\u00f3ximo once y doce de este mes, ser\u00e1 realizado en Nueva Esparta el primer campeonato de este a\u00f1o de Hapkido donde la participaci\u00f3n de Cojedes, est\u00e1 pendiendo de un hilo. Quienes pertenecen a la selecci\u00f3n...",
+            "snippet": "Karinna P\u00e9rez. Foto: Cortes\u00eda. Tinaquillo, abril 06.- El pr\u00f3ximo once y doce de este mes, ser\u00e1 realizado en Nueva Esparta el primer campeonato de este a\u00f1o de Hapkido donde la participaci\u00f3n de Cojedes, est\u00e1 pendiendo de...",
             "date": "2015-04-06",
             "author_name": "EN LA NOTICIA",
             "categories": "hapkido",
-            "tags": "selecci\u00f3n,participaci\u00f3n,primer,nueva,nueva_esparta,esparta,ser\u00e1,realizado,pr\u00f3ximo,apoyo,participar,regional,hapkido,campeonato,cojedes",
+            "tags": "participaci\u00f3n,primer,campeonato,nueva,realizado,apoyo,participar,regional,selecci\u00f3n,hapkido,tinaquillo",
             "recuweb_url": "http://es.recuweb.com/hapkido/enlanoticia24.com/2015/04/selecci%C3%B3n-regional-de-hapkido-necesita-apoyo-para-participar",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://enlanoticia24.com/seleccion-regional-de-hapkido-necesita-de-apoyo-para-participar-en-campeonato-nacional/"
         },
-        "hapkidospain.es/2015/04/hapkido-spain-escuela-de-alicante-moo": {
-            "title": "HAPKIDO SPAIN (Escuela de Hapkido) Alicante: HAPKIDO MOO...",
-            "snippet": "La escuela delegada de la EUROPEAN HAPKIDO ALLIANCE en ESPA\u00d1A, tiene su sede en ALICANTE, en el GIMNASIO CENTAUROS GYM, en FLORIDA BABEL, CALLE JOSE SALVETTI, 12, junto a CENTRO SALUD...",
-            "date": "2015-04-04",
-            "author_name": "Hapkido Master",
-            "categories": "salud,hapkido,escuela",
-            "tags": "calle,gimnasio,gym,sede,hapkido,moo,hapkido_spain,spain,escuela,espa\u00f1a",
-            "recuweb_url": "http://es.recuweb.com/escuela/hapkidospain.es/2015/04/hapkido-spain-escuela-de-alicante-moo",
+        "hapkido.hapkidomex.com/2015/04/entrenamiento-de-patadas-hapkido": {
+            "title": "Entrenamiento de Patadas de Hapkido Hapkido...",
+            "snippet": "Grandmaster Proo ense\u00f1ando a sus estudiantes las patadas de Hapkido. Con slideshow del entrenamiento 25 de Marzo 2015 en las instalaciones de la Escuela Nacional de Hapkido.",
+            "date": "2015-04-03",
+            "author_name": "admin",
+            "categories": "escuela,hapkido",
+            "tags": "escuela,nacional,instalaciones,estudiantes,grandmaster,hapkido",
+            "recuweb_url": "http://es.recuweb.com/hapkido/hapkido.hapkidomex.com/2015/04/entrenamiento-de-patadas-hapkido",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hapkidospain.es/2015/04/hapkido-moo-hak-kwan-en-alicante-espana.html"
+            "source_url": "http://hapkido.hapkidomex.com/2015/04/02/entrenamiento-de-patadas-de-hapkido/"
         },
-        "senderoartesmarciales.com/2015/03/hapkido-para-la-vida-real-en-seminario-internacional-sendero": {
-            "title": "Hapkido para la vida real en Seminario Internacional Sendero...",
-            "snippet": "Difundir en M\u00e9xico las diversas t\u00e9cnicas de Hapkido, enfocado a situaciones reales de la calle que podr\u00edan pasar a cualquier persona, fue el objetivo del exclusivo Seminario Internacional impartido por Gran Master Jang...",
-            "date": "2015-03-11",
-            "author_name": "Sendero Artes Marciales",
-            "categories": "hapkido",
-            "tags": "gran,seminario,real,calle,hapkido,t\u00e9cnicas",
-            "recuweb_url": "http://es.recuweb.com/hapkido/senderoartesmarciales.com/2015/03/hapkido-para-la-vida-real-en-seminario-internacional-sendero",
+        "hapkido.hapkidomex.com/2015/04/hapkido-clases-de-adultos": {
+            "title": "Hapkido clases de adultos Hapkido...",
+            "snippet": "Fotos de las clases en la Escuela nacional de Hapkido donde los estudiantes aprenden a mejorar su desempe\u00f1o de t\u00e9cnicas, su propio desarrollo personal.",
+            "date": "2015-04-01",
+            "author_name": "admin",
+            "categories": "hapkido,escuela",
+            "tags": "estudiantes,nacional,hapkido,clases,escuela,t\u00e9cnicas,personal",
+            "recuweb_url": "http://es.recuweb.com/escuela/hapkido.hapkidomex.com/2015/04/hapkido-clases-de-adultos",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://senderoartesmarciales.com/hapkido-para-la-vida-real-en-seminario-internacional/"
+            "source_url": "http://hapkido.hapkidomex.com/2015/04/01/hapkido-clases-de-adultos/"
         },
         "elbudoka.es/2015/03/el-budoka-2-0-sin-moo-hapkido-en-ciudad-real": {
             "title": "El Budoka 2.0 Sin Moo Hapkido en Ciudad Real...",
@@ -116,7 +116,7 @@
             "date": "2015-03-05",
             "author_name": "El Budoka 2.0",
             "categories": "hapkido",
-            "tags": "curso,moo,hapkido,real,s\u00e1bado,club",
+            "tags": "instalaciones,curso,hapkido,club",
             "recuweb_url": "http://es.recuweb.com/hapkido/elbudoka.es/2015/03/el-budoka-2-0-sin-moo-hapkido-en-ciudad-real",
             "resource_url": "http://www.google.com/search?q=hapkido%2Bhapkido&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elbudoka.es/sin-moo-hapkido-en-ciudad-real/"

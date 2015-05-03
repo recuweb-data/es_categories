@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "endurocross",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/endurocross/",
@@ -41,23 +41,11 @@
             "date": "2015-02-25",
             "author_name": "IMLA de Colombia",
             "categories": "endurocross",
-            "tags": "ciudad,enduro,enduro_cross,cross",
+            "tags": "lleno,lleno-de-adrenalina,adrenalina,medell\u00edn,imla,colombia",
             "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/02/enduro-cross-medell%C3%ADn-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=P5G7KgYt6BM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/P5G7KgYt6BM/0.jpg"
-        },
-        "youtube.com/2015/02/campeonato-de-enduro-cross-se-llevara-a-cabo-en-nuestra-ciudad": {
-            "title": "CAMPEONATO DE ENDURO CROSS: SE LLEVARA A CABO EN NUESTRA CIUDAD. EL CERTAMEN PROVINCIAL DE VERANO.",
-            "snippet": "CAMPEONATO DE ENDURO CROSS: SE LLEVARA A CABO EN NUESTRA CIUDAD. EL CERTAMEN PROVINCIAL DE VERANO. From: QuatroTV Rio Cuarto Views: 30 0 ratings Time: 01:54 More in News & Politics...",
-            "date": "2015-02-20",
-            "author_name": "QuatroTV Rio Cuarto",
-            "categories": "endurocross",
-            "tags": "ciudad,enduro,enduro_cross,cross,politics",
-            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/02/campeonato-de-enduro-cross-se-llevara-a-cabo-en-nuestra-ciudad",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=6ZTIC_qJtXo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/6ZTIC_qJtXo/0.jpg"
         },
         "youtube.com/2015/01/endurocross-redbull-camino-de-los-nevados": {
             "title": "Endurocross Redbull Camino de los Nevados...",
@@ -65,7 +53,7 @@
             "date": "2015-01-07",
             "author_name": "La Patria Editorial",
             "categories": "endurocross",
-            "tags": "participantes,endurocross,politics",
+            "tags": "participantes,endurocross",
             "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2015/01/endurocross-redbull-camino-de-los-nevados",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=J6YtESXmaKo&feature=youtube_gdata",
@@ -115,7 +103,7 @@
             "categories": "endurocross",
             "tags": "endurocross,endurocross_ape,ape,parte,endurocrosstv,sports",
             "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/endurocross-ape-cerro-azul-ii-parte",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=tjC_nq5N0nw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/tjC_nq5N0nw/0.jpg"
         },
@@ -125,11 +113,23 @@
             "date": "2014-09-04",
             "author_name": "Michael Freydell",
             "categories": "endurocross",
-            "tags": "endurocross,final",
+            "tags": "endurocross,carrera,final",
             "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/carrera-final-e3-endurocross-medellin-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=vPXC9EC74lM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/vPXC9EC74lM/0.jpg"
+        },
+        "youtube.com/2014/09/vive-el-endurocross-medell%C3%ADn-como-un-piloto": {
+            "title": "\u00a1Vive el Endurocross Medell\u00edn como un piloto!",
+            "snippet": "\u00a1Vive el Endurocross Medell\u00edn como un piloto! En este video grabado con una GoPro en plena competencia se registra la carrera desde la perspectiva de uno de los pilotos. \u00a1El evento m\u00e1s extremo de Colombia estuvo lleno de adrenalina! From: IMLA...",
+            "date": "2014-09-03",
+            "author_name": "IMLA de Colombia",
+            "categories": "endurocross",
+            "tags": "lleno,lleno-de-adrenalina,adrenalina,carrera,endurocross,medell\u00edn,colombia,imla",
+            "recuweb_url": "http://es.recuweb.com/endurocross/youtube.com/2014/09/vive-el-endurocross-medell%C3%ADn-como-un-piloto",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=endurocross%2Bendurocross&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=u3to8774DC4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/u3to8774DC4/0.jpg"
         }
     }
 }

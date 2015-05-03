@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "democracia",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/democracia/",
@@ -11,60 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/democracia/democracia/blogs.json"
     },
     "items": {
+        "aporrea.org/2015/04/eeuu-no-es-una-democracia-concluye-estudio-de-universidad": {
+            "title": "EEUU no es una democracia: Concluye estudio de Universidad de...",
+            "snippet": "30 abril 2015 - Un estudio publicado por la Universidad de Princeton califica a EEUU como un pa\u00eds no democr\u00e1tico, pues sus gobernantes se subordinan a los intereses de una \u00e9lite. \"EEUU ya n...",
+            "date": "2015-04-30",
+            "author_name": "desconocido",
+            "categories": "democracia",
+            "tags": "intereses,pa\u00eds,democr\u00e1tico,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/aporrea.org/2015/04/eeuu-no-es-una-democracia-concluye-estudio-de-universidad",
+            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://aporrea.org/tiburon/n269600.html"
+        },
+        "contrainfo.com/2015/04/la-democracia-argentina-amenazada-por-el-poder-judicial": {
+            "title": "La democracia argentina amenazada por el Poder Judicial...",
+            "snippet": "La democracia argentina amenazada por el Poder Judicial. El Poder Judicial argentino creci\u00f3 por completo apartado de los intereses populares. As\u00ed conform\u00f3 una corporaci\u00f3n aristocr\u00e1tica acompa\u00f1ante, sirviente y...",
+            "date": "2015-04-30",
+            "author_name": "george",
+            "categories": "democracia",
+            "tags": "intereses,populares,poder,judicial,democracia,argentina",
+            "recuweb_url": "http://es.recuweb.com/democracia/contrainfo.com/2015/04/la-democracia-argentina-amenazada-por-el-poder-judicial",
+            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://contrainfo.com/14505/la-democracia-argentina-amenazada-por-el-poder-judicial/"
+        },
+        "cartasdesdecuba.com/2015/04/democracia-y-elecciones-en-cuba-cartas": {
+            "title": "Democracia y elecciones en Cuba Cartas Desde Cuba por...",
+            "snippet": "Cuando \"en el proceso electoral cubano La Comisi\u00f3n de Candidatura, concluyendo el esp\u00edritu democr\u00e1tico de nuestro sistema electoral\".",
+            "date": "2015-04-29",
+            "author_name": "Roberto G Peralo",
+            "categories": "democracia",
+            "tags": "democr\u00e1tico,sistema,sistema-electoral,electoral,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/cartasdesdecuba.com/2015/04/democracia-y-elecciones-en-cuba-cartas",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cartasdesdecuba.com/democracia-y-elecciones-en-cuba/"
+        },
+        "eanoticias.com/2015/04/rocafull-sobre-el-fin-del-binominal-ahora-tendremos": {
+            "title": "Rocafull sobre el fin del binominal: Ahora tendremos una...",
+            "snippet": "A juicio del parlamentario, el cambio del binominal es una inyecci\u00f3n de competencia al sistema electoral. Ahora habr\u00e1 m\u00e1s incertidumbre sobre qui\u00e9n va a ganar. Por lo tanto, tendremos una democracia m\u00e1s vital y con m\u00e1s...",
+            "date": "2015-04-28",
+            "author_name": "Editor",
+            "categories": "democracia",
+            "tags": "vital,habr\u00e1,cambio,sistema,sistema-electoral,electoral,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/eanoticias.com/2015/04/rocafull-sobre-el-fin-del-binominal-ahora-tendremos",
+            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://eanoticias.com/rocafull-sobre-el-fin-del-binominal-ahora-tendremos-una-democracia-mas-vital/"
+        },
+        "attac.es/2015/04/el-triste-fado-de-la-democracia-attac-espa%C3%B1a": {
+            "title": "El triste fado de la democracia ATTAC Espa\u00f1a...",
+            "snippet": "\u00bfPor qu\u00e9 la democracia representativa desde\u00f1a las formas de hacer pol\u00edtica de los movimientos populares que se vienen organizando para combatir el orden neoliberal y dar continuidad a las aspiraciones revolucionarias...",
+            "date": "2015-04-27",
+            "author_name": "amalia",
+            "categories": "politica,democracia",
+            "tags": "representativa,representativa-desde\u00f1a,desde\u00f1a,desde\u00f1a-las-formas,formas,formas-de-hacer,hacer,hacer-pol\u00edtica,pol\u00edtica,movimientos,movimientos-populares,populares,triste,triste-fado,fado,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/attac.es/2015/04/el-triste-fado-de-la-democracia-attac-espa%C3%B1a",
+            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://attac.es/2015/04/27/el-triste-fado-de-la-democracia/"
+        },
         "edgarjulca.blogspot.com/2015/04/la-democracia-coar-ayacucho": {
             "title": "LA DEMOCRACIA - COAR AYACUCHO...",
             "snippet": "Esta es una entrada creada para los alumnos del COAR Ayacucho, est\u00e1n los documentos a leer para poder sustentar su posici\u00f3n la pr\u00f3xima semana. Recuerden que el grupo de monarqu\u00eda y dictadura defender\u00e1n la posici\u00f3n DICTADURA y el grupo que...",
             "date": "2015-04-27",
             "author_name": "Edgar M. Julca Chuquista",
             "categories": "democracia",
-            "tags": "est\u00e1n,democracia",
+            "tags": "monarqu\u00eda,dictadura,poder,democracia,pr\u00f3xima",
             "recuweb_url": "http://es.recuweb.com/democracia/edgarjulca.blogspot.com/2015/04/la-democracia-coar-ayacucho",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=democracia%2Bdemocracia&rss=1&lng=es",
             "source_url": "http://edgarjulca.blogspot.com/2015/04/la-democracia-coar-ayacucho.html"
         },
-        "taringa.net/2015/04/la-democracia-es-una-mentira-tu-voto-no-cambia-nada-taringa": {
-            "title": "La democracia es una mentira. Tu voto no cambia nada... - Taringa!",
-            "snippet": "La democracia en realidad es 0%, porque los que deciden qu\u00e9 carajo se hace (porque controlan las armas con las que mandan a apuntar a los que se resi...",
+        "blogs.quien.com/2015/04/la-diferencia-entre-monarqu%C3%ADa-democracia-y-las-telenovelas": {
+            "title": "La diferencia entre la monarqu\u00eda, la democracia y las telenovelas en...",
+            "snippet": "&description=La diferencia entre la monarqu\u00eda, la democracia y las telenovelas\" data-pin-do=\"buttonPin\" data-pin-config=\"beside\". \u00bfA qu\u00e9 hora se habr\u00e1 levantado Anah\u00ed para poder llegar al altar a las ocho de la ma\u00f1ana?",
             "date": "2015-04-27",
-            "author_name": "desconocido",
+            "author_name": "susanag",
             "categories": "democracia",
-            "tags": "democracia,hace",
-            "recuweb_url": "http://es.recuweb.com/democracia/taringa.net/2015/04/la-democracia-es-una-mentira-tu-voto-no-cambia-nada-taringa",
+            "tags": "poder,habr\u00e1,monarqu\u00eda,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/blogs.quien.com/2015/04/la-diferencia-entre-monarqu%C3%ADa-democracia-y-las-telenovelas",
             "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/offtopic/18628935/La-democracia-es-una-mentira-Tu-voto-no-cambia-nada.html"
-        },
-        "bradanovic.blogspot.com/2015/04/tomas-bradanovic-el-mayor-peligro-para-la-democracia-en-chile": {
-            "title": "Tomas Bradanovic: El mayor peligro para la democracia en Chile...",
-            "snippet": "El mayor peligro para la democracia en Chile. domingo, 26 de abril de 2015. Un gobierno en problemas se puede poner peligroso. Cuando es mucho lo que se est\u00e1n jugando y los que gobiernan son lo suficientemente inescrupulosos, como...",
-            "date": "2015-04-27",
-            "author_name": "noreply@blogger.com (Tomas Bradanovic)",
-            "categories": "democracia",
-            "tags": "est\u00e1n,son,gobierno,abril,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/bradanovic.blogspot.com/2015/04/tomas-bradanovic-el-mayor-peligro-para-la-democracia-en-chile",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://bradanovic.blogspot.com/2015/04/el-mayor-peligro-para-la-democracia-en.html"
-        },
-        "kaosenlared.net/2015/04/cuba-partido-dirigente-y-democracia-kaos-en-la-red": {
-            "title": "Cuba: Partido dirigente y Democracia Kaos en la red...",
-            "snippet": "Gracias a Reflexiones sobre el cambio en Cuba: representatividad, gobernabilidad y democracia popular, a cargo de Yohan Gonz\u00e1lez Duany, conoc\u00ed de REESTRUCTURAR NUESTRA DEMOCRACIA, una interesante...",
-            "date": "2015-04-26",
-            "author_name": "Mar\u00eda P\u00e9rez",
-            "categories": "democracia",
-            "tags": "democracia,red,dirigente,partido,gracias",
-            "recuweb_url": "http://es.recuweb.com/democracia/kaosenlared.net/2015/04/cuba-partido-dirigente-y-democracia-kaos-en-la-red",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://kaosenlared.net/cuba-partido-dirigente-y-democracia/"
-        },
-        "icndiario.com/2015/04/horacio-cartes-los-periodistas-son-custodios-de-nuestra-icndiario": {
-            "title": "Horacio Cartes: Los periodistas son custodios de nuestra - ICNDiario...",
-            "snippet": "Horacio Cartes: Los periodistas son custodios de nuestra democracia. 27 abril, 2015. By ICNDiario. Queremos adem\u00e1s aprovechar la oportunidad para dar las gracias por el importante trabajo que desempe\u00f1an los periodistas en una lucha...",
-            "date": "2015-04-26",
-            "author_name": "ICNDiario",
-            "categories": "democracia",
-            "tags": "gracias,son,democracia,abril",
-            "recuweb_url": "http://es.recuweb.com/democracia/icndiario.com/2015/04/horacio-cartes-los-periodistas-son-custodios-de-nuestra-icndiario",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://icndiario.com/2015/04/27/horacio-cartes-los-periodistas-son-custodios-de-nuestra-democracia/"
+            "source_url": "http://blogs.quien.com/laura-manzo/2015/04/27/la-diferencia-entre-la-monarquia-la-democracia-y-las-telenovelas/"
         },
         "larepublica.pe/2015/04/democracia-es-elegir-columnistas": {
             "title": "Democracia es elegir Columnistas...",
@@ -72,43 +94,21 @@
             "date": "2015-04-25",
             "author_name": "desconocido",
             "categories": "sociedad,democracia",
-            "tags": "son,sociedad,democracia,pa\u00eds",
+            "tags": "son,pa\u00eds,sociedad,democracia",
             "recuweb_url": "http://es.recuweb.com/democracia/larepublica.pe/2015/04/democracia-es-elegir-columnistas",
             "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://larepublica.pe/columnistas/encuadre/democracia-es-elegir-25-04-2015"
         },
-        "blogs.publico.es/2015/04/dominio-p%C3%BAblico-libertad-democracia-y-patria": {
-            "title": "Dominio p\u00fablico Libertad, democracia y patria...",
-            "snippet": "Este acontecimiento fue crucial para el inicio del camino a la democracia en nuestro pa\u00eds, y as\u00ed lo interpretaron las generaciones m\u00e1s j\u00f3venes de aquella Espa\u00f1a negra y a la vez llena de fogonazos de luz que fue el...",
+        "blogs.publico.es/2015/04/otras-miradas-el-triste-fado-de-la-democracia": {
+            "title": "Otras miradas El triste fado de la democracia...",
+            "snippet": "\u00bfPor qu\u00e9 en estos \u00faltimos a\u00f1os Portugal se ha convertido en una semicolonia informal de Alemania y la troika? \u00bfPor qu\u00e9 la democracia representativa desde\u00f1a las formas de hacer pol\u00edtica de los movimientos populares que...",
             "date": "2015-04-25",
             "author_name": "Opini\u00f3n",
-            "categories": "democracia",
-            "tags": "libertad,democracia,pa\u00eds,espa\u00f1a",
-            "recuweb_url": "http://es.recuweb.com/democracia/blogs.publico.es/2015/04/dominio-p%C3%BAblico-libertad-democracia-y-patria",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.publico.es/dominiopublico/13185/libertad-democracia-y-patria/"
-        },
-        "islamiacu.blogspot.com/2015/04/el-mensaje-de-un-cartero-al-congreso-para-recuperar-la-democracia": {
-            "title": "El mensaje de un cartero al Congreso para recuperar la democracia...",
-            "snippet": "Hemos pasado de una democracia a una plutocracia. Los peces gordos est\u00e1n tomando las decisiones. Est\u00e1n consiguiendo todo lo que quieren y los votantes lo saben. Todo el espectro pol\u00edtico, los de izquierda, los de...",
-            "date": "2015-04-25",
-            "author_name": "Norelys Morales",
-            "categories": "democracia",
-            "tags": "est\u00e1n,decisiones,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/islamiacu.blogspot.com/2015/04/el-mensaje-de-un-cartero-al-congreso-para-recuperar-la-democracia",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://islamiacu.blogspot.com/2015/04/el-mensaje-de-un-cartero-al-congreso.html"
-        },
-        "almomento.net/2015/04/la-democracia-y-los-partidos": {
-            "title": "La democracia y los partidos...",
-            "snippet": "Desde Plat\u00f3n hasta nuestro tiempo, cientos de autores han dejado impresas sus definiciones de democracia, algunos de ellos de forma tan sencilla y abarcadora como la de Abraham Lincoln, quien el 19 de noviembre de...",
-            "date": "2015-04-25",
-            "author_name": "EDDY OLIVARES ORTEGA",
-            "categories": "democracia",
-            "tags": "dejado,democracia,partidos",
-            "recuweb_url": "http://es.recuweb.com/democracia/almomento.net/2015/04/la-democracia-y-los-partidos",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://almomento.net/la-democracia-y-los-partidos/"
+            "categories": "politica,democracia",
+            "tags": "representativa,representativa-desde\u00f1a,desde\u00f1a,desde\u00f1a-las-formas,formas,formas-de-hacer,hacer,hacer-pol\u00edtica,pol\u00edtica,movimientos,movimientos-populares,populares,triste,triste-fado,fado,democracia,\u00fal",
+            "recuweb_url": "http://es.recuweb.com/democracia/blogs.publico.es/2015/04/otras-miradas-el-triste-fado-de-la-democracia",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogs.publico.es/otrasmiradas/4486/el-triste-fado-de-la-democracia/"
         },
         "mesadeautoayudak.blogspot.com/2015/04/soberbia-moral-insignificancia-pol%C3%ADtica": {
             "title": "Soberbia moral, insignificancia pol\u00edtica.",
@@ -116,7 +116,7 @@
             "date": "2015-04-24",
             "author_name": "rinconete",
             "categories": "politica,democracia",
-            "tags": "luis,nueva,ciudad,pol\u00edtica,democracia",
+            "tags": "representativa,ciudad,pol\u00edtica,democracia,directa",
             "recuweb_url": "http://es.recuweb.com/democracia/mesadeautoayudak.blogspot.com/2015/04/soberbia-moral-insignificancia-pol%C3%ADtica",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=democracia%2Bdemocracia&rss=1&lng=es",
             "source_url": "http://mesadeautoayudak.blogspot.com/2015/04/soberbia-moral-insignificancia-politica.html"

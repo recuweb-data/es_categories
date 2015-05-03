@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "awstats",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/awstats/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
     },
     "items": {
+        "gamedev.net/2015/05/alternative-to-newrelic": {
+            "title": "Alternative to NewRelic? -...",
+            "snippet": "Alternative to NewRelic?, Splunk, Precise, Logic Monitor, Netscaler, RRDtool, even tools like Webalyzer and AWStats give fun charts. I'm sure a few seconds on Google you can find tons more. It all depends also on what data you've got, what is...",
+            "date": "2015-05-01",
+            "categories": "awstats,google",
+            "tags": "awstats,google",
+            "recuweb_url": "http://es.recuweb.com/google/gamedev.net/2015/05/alternative-to-newrelic",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
+            "source_url": "http://gamedev.net/topic/668059-alternative-to-newrelic/"
+        },
         "fayerwayer.com/2014/06/puedes-ayudar-a-la-red-an%C3%B3nima-con-tor-challenge-fayerwayer": {
             "title": "Puedes ayudar a la red an\u00f3nima con Tor Challenge - FayerWayer...",
             "snippet": "Puedes ayudar a la red an\u00f3nima con Tor ChallengeFayerWayerAwstats, la alternativa libre a Google Analytics. Si quieres optar por un software alternativo para las estad\u00edsticas de tu sitio, esta herramienta de c\u00f3digo libre ofrece una gran variedad...",
@@ -18,7 +28,7 @@
             "categories": "google",
             "tags": "herramienta,herramienta-de-c\u00f3digo,c\u00f3digo,c\u00f3digo-libre,c\u00f3digo-libre-ofrece,libre,libre-ofrece,ofrece,ofrece-una-gran,gran,gran-variedad,variedad,sitio,quieres,quieres-optar,optar,software,software-alternativo,alternativo,google,google_analytics,analytics,alternativa,alternativa-libre,red,puedes,fayerwayer,estad\u00edsticas",
             "recuweb_url": "http://es.recuweb.com/google/fayerwayer.com/2014/06/puedes-ayudar-a-la-red-an%C3%B3nima-con-tor-challenge-fayerwayer",
-            "resource_url": "http://news.google.es/?hl=es&q=awstats%2Bawstats&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
             "source_url": "http://fayerwayer.com/2014/06/tor-challenge/"
         },
         "fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer": {
@@ -28,7 +38,7 @@
             "categories": "google,awstats",
             "tags": "variedad,libre,google,google_analytics,analytics,alternativa,alternativa-libre,awstats,fayerwayer",
             "recuweb_url": "http://es.recuweb.com/awstats/fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer",
-            "resource_url": "http://news.google.es/?hl=es&q=awstats%2Bawstats&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
             "source_url": "http://fayerwayer.com/2014/06/awstats-alternativa-libre-a-google-analytics/"
         },
         "fayerwayer.com/2014/06/bloquean-nuevamente-a-dropbox-en-china-fayerwayer": {
@@ -38,18 +48,8 @@
             "categories": "google",
             "tags": "herramienta,herramienta-de-c\u00f3digo,c\u00f3digo,c\u00f3digo-libre,c\u00f3digo-libre-ofrece,libre,libre-ofrece,ofrece,ofrece-una-gran,gran,gran-variedad,variedad,sitio,quieres,quieres-optar,optar,software,software-alternativo,alternativo,google,google_analytics,analytics,alternativa,alternativa-libre,fayerwayer,estad\u00edsticas",
             "recuweb_url": "http://es.recuweb.com/google/fayerwayer.com/2014/06/bloquean-nuevamente-a-dropbox-en-china-fayerwayer",
-            "resource_url": "http://news.google.es/?hl=es&q=awstats%2Bawstats&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
             "source_url": "http://fayerwayer.com/2014/06/bloquean-nuevamente-a-dropbox-en-china/"
-        },
-        "fayerwayer.com/2014/06/gafas-inteligentes-para-dar-perspectiva-espacial-a-discapacitados-visuales-fayerwayer": {
-            "title": "Gafas inteligentes para dar perspectiva espacial a discapacitados visuales - FayerWayer...",
-            "snippet": "Gafas inteligentes para dar perspectiva espacial a discapacitados visualesFayerWayerAwstats, la alternativa libre a Google Analytics. Si quieres optar por un software alternativo para las estad\u00edsticas de tu sitio, esta herramienta de c\u00f3digo libre...",
-            "date": "2014-06-19",
-            "categories": "google",
-            "tags": "herramienta,herramienta-de-c\u00f3digo,c\u00f3digo,c\u00f3digo-libre,libre,sitio,quieres,quieres-optar,optar,software,software-alternativo,alternativo,google,google_analytics,analytics,alternativa,alternativa-libre,fayerwayer,estad\u00edsticas",
-            "recuweb_url": "http://es.recuweb.com/google/fayerwayer.com/2014/06/gafas-inteligentes-para-dar-perspectiva-espacial-a-discapacitados-visuales-fayerwayer",
-            "resource_url": "http://news.google.es/?hl=es&q=awstats%2Bawstats&output=atom&nord=1",
-            "source_url": "http://fayerwayer.com/2014/06/disenan-gafas-inteligentes-para-dar-perspectiva-espacial-a-discapacitados-visuales/"
         },
         "fayerwayer.com/2014/06/para-at&t-la-nueva-neutralidad-de-red-ser%C3%ADa-un-peligro-internet": {
             "title": "Para AT&T la nueva neutralidad de la red ser\u00eda un peligro para Internet - FayerWayer...",
@@ -58,7 +58,7 @@
             "categories": "google,internet",
             "tags": "herramienta,herramienta-de-c\u00f3digo,c\u00f3digo,c\u00f3digo-libre,libre,sitio,quieres,quieres-optar,optar,software,software-alternativo,alternativo,google,google_analytics,analytics,alternativa,alternativa-libre,red,fayerwayer,estad\u00edsticas",
             "recuweb_url": "http://es.recuweb.com/internet/fayerwayer.com/2014/06/para-at&t-la-nueva-neutralidad-de-red-ser%C3%ADa-un-peligro-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=awstats%2Bawstats&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
             "source_url": "http://fayerwayer.com/2014/06/para-att-la-nueva-neutralidad-de-la-red-seria-un-peligro-para-internet/"
         },
         "fayerwayer.com/2014/06/qu%C3%A9-pasar%C3%ADa-si-se-disputara-la-copa-del-mundo-en-luna": {
@@ -68,8 +68,18 @@
             "categories": "google",
             "tags": "herramienta,herramienta-de-c\u00f3digo,c\u00f3digo,c\u00f3digo-libre,c\u00f3digo-libre-ofrece,libre,libre-ofrece,ofrece,sitio,quieres,quieres-optar,optar,software,software-alternativo,alternativo,google,google_analytics,analytics,alternativa,alternativa-libre,fayerwayer,estad\u00edsticas",
             "recuweb_url": "http://es.recuweb.com/google/fayerwayer.com/2014/06/qu%C3%A9-pasar%C3%ADa-si-se-disputara-la-copa-del-mundo-en-luna",
-            "resource_url": "http://news.google.es/?hl=es&q=awstats%2Bawstats&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
             "source_url": "http://fayerwayer.com/2014/06/que-pasaria-si-se-disputara-la-copa-del-mundo-en-la-luna/"
+        },
+        "blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-visitor-numbers": {
+            "title": "Understanding your website's traffic: AWStats vs Google Analytics Visitor Numbers - PC Tech...",
+            "snippet": "Understanding your website's traffic: AWStats vs Google Analytics Visitor NumbersPC Tech Magazine (blog)The main difference between Google Analytics, AWStats and Webalizer is that Google Analytics gathers visitor information via some JavaScript code...",
+            "date": "2013-03-23",
+            "categories": "google,awstats,javascript",
+            "tags": "google,google_analytics,analytics,awstats,webalizer",
+            "recuweb_url": "http://es.recuweb.com/javascript/blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-visitor-numbers",
+            "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
+            "source_url": "http://blogs.pctechmag.com/2013/03/understanding-your-websites-traffic-awstats-vs-webalizer-vs-google-analytics-visitor-numbers/"
         }
     }
 }

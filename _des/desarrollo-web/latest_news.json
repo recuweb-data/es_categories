@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "desarrollo-web",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/desarrollo-web/",
@@ -11,15 +11,23 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/desarrollo-web/desarrollo-web/blogs.json"
     },
     "items": {
-        "akihabarablues.com/2015/05/hacer-videojuegos-es-divertido-akihabara-blues": {
-            "title": "Hacer videojuegos es divertido - Akihabara Blues...",
-            "snippet": "Akihabara BluesHacer videojuegos es divertidoAkihabara Blues... que relata en una fant\u00e1stica p\u00e1gina web dise\u00f1ada por el programador David Woollard como se siente una persona dedicada al desarrollo de videojuegos de una forma m\u00e1s humana de la que...",
-            "date": "2015-05-01",
-            "categories": "videojuego",
-            "tags": "hacer,web,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/videojuego/akihabarablues.com/2015/05/hacer-videojuegos-es-divertido-akihabara-blues",
+        "eltiempo.com/2015/05/pagina-web-para-parquear-su-bicicleta": {
+            "title": "Pagina web para parquear su bicicleta -...",
+            "snippet": "HSB NoticiasPagina web para parquear su es un sitio web que contribuye al desarrollo y a la seguridad de la movilidad en bicicleta. Aporta informaci\u00f3n relevante de ciclorrutas, tiendas, talleres, zonas seguras e inseguras para transitar y...",
+            "date": "2015-05-02",
+            "tags": "sitio,web,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/eltiempo.com/2015/05/pagina-web-para-parquear-su-bicicleta",
             "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb&output=atom&nord=1",
-            "source_url": "http://akihabarablues.com/hacer-videojuegos-es-divertido/"
+            "source_url": "http://eltiempo.com/bogota/pagina-web-para-parquear-su-bicicleta/15670505"
+        },
+        "eltribuno.info/2015/05/un-sitio-que-con-una-foto-calcula-la-edad-es-%C3%A9xito": {
+            "title": "Un sitio que con una foto calcula la edad es un \u00e9xito en la web - El...",
+            "snippet": "El sitio que con una foto calcula la edad es un \u00e9xito en la webEl - Lo desarroll\u00f3 Microsoft.Estaba pensado para que lo probaran unas pocas personas, pero ya son decenas de miles quienes lo ponen a prueba con fotos propias, de conocidos o de...",
+            "date": "2015-05-02",
+            "tags": "son,sitio,web,microsoft",
+            "recuweb_url": "http://es.recuweb.com/eltribuno.info/2015/05/un-sitio-que-con-una-foto-calcula-la-edad-es-%C3%A9xito",
+            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb&output=atom&nord=1",
+            "source_url": "http://eltribuno.info/un-sitio-que-una-foto-calcula-la-edad-es-un-exito-la-web-n542527"
         },
         "windowsphoneapps.es/2015/04/visual-studio-2015-release-candidate-ya-est%C3%A1-disponible-para-descargar": {
             "title": "Visual Studio 2015 Release Candidate ya est\u00e1 disponible para descargar...",
@@ -49,16 +57,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
             "source_url": "http://bi-spain.com/articulo/74075/business-intelligence/telecomunicaciones/la-compania-mexicana-de-telecomunicaciones-telmex-ofrece-certificacion-en-business-intelligence-para-estudiantes"
         },
-        "hipertextual.com/2015/04/microsoft-edge-es-el-nuevo-navegador-web-de-hipertextual": {
-            "title": "Microsoft Edge es el nuevo navegador web de Microsoft - Hipertextual...",
-            "snippet": "en Edge es el nuevo navegador web de MicrosoftHipertextualMicrosoft continua trabajando en el desarrollo de este nuevo navegador, pero por lo que pudimos conocer hoy, ya soporta extensiones muy similares a las de Google Chrome, operaciones como...",
-            "date": "2015-04-29",
-            "categories": "google",
-            "tags": "google,muy,conocer,nuevo,microsoft,web,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/google/hipertextual.com/2015/04/microsoft-edge-es-el-nuevo-navegador-web-de-hipertextual",
-            "resource_url": "http://news.google.es/?hl=es&q=desarrollo%2Bweb&output=atom&nord=1",
-            "source_url": "http://hipertextual.com/2015/04/microsoft-edge"
-        },
         "abc.es/2015/04/microsoft-apuesta-por-la-nube-y-convergencia-de-aplicaciones-en-windows": {
             "title": "Microsoft apuesta por la nube y la convergencia de aplicaciones en Windows 10...",
             "snippet": "Ese es el caso del framework.NET, propietario de Microsoft para el desarrollo web, que s\u00f3lo funcionaba sobre Windows, y ahora tambi\u00e9n lo har\u00e1 sobre Linux y Mac. Lo mismo ha ocurrido con Visual Studio, una aplicaci\u00f3n ligera de programaci\u00f3n...",
@@ -78,6 +76,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
             "source_url": "http://tusmedios.es/notas-de-prensa-actualidad/espana/65855-fit4jobs-comenzo-a-perfilar-una-vision-global-sobre-el-empleo.html"
         },
+        "portalinformatico.com/2015/04/tecnil%C3%B3gica-afianza-su-propuesta-de-digital-signage": {
+            "title": "Tecnil\u00f3gica afianza su propuesta de digital signage...",
+            "snippet": "Los datos no pueden ser mejores para Tecnil\u00f3gica, empresa espa\u00f1ola especializada en digital signage y desarrollo web y m\u00f3vil ya que no solo ha finalizado su ejercicio fiscal 2014 con una facturaci\u00f3n un 20% superior a la del a\u00f1o anterior sino...",
+            "date": "2015-04-27",
+            "tags": "m\u00f3vil,empresa,digital,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/portalinformatico.com/2015/04/tecnil%C3%B3gica-afianza-su-propuesta-de-digital-signage",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
+            "source_url": "http://portalinformatico.com/tpvnews/mercado/tecnilgica-afianza-propuesta-digital-signage--201504242671.htm"
+        },
         "es.paperblog.com/2015/04/c%C3%B3mo-elegir-un-buen-hosting-o-streaming-para-tu-blog-sitio": {
             "title": "C\u00f3mo elegir un buen hosting o streaming para tu blog o sitio web.",
             "snippet": "Si eres nuevo en estos menesteres del hosting, desarrollo web y radio streaming este articulo te servir\u00e1. Tan importante como elegir un veh\u00edculo para tu empresa o negocio, lo es para elegir un hosting apropiado, las preguntas m\u00e1s comunes suelen...",
@@ -96,15 +103,6 @@
             "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/04/entrevista-esteban-borges-cto-de-infranetworking",
             "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
             "source_url": "http://desarrolloweb.com/de_interes/entrevista-esteban-borges-infranetworking-8852.html"
-        },
-        "digitalavmagazine.com/2015/04/dani-seuba-nuevo-responsable-de-dise%C3%B1o-estrat%C3%A9gico-posterdigital-en-tecnil%C3%B3gica": {
-            "title": "Dani Seuba, nuevo responsable de dise\u00f1o estrat\u00e9gico de PosterDigital en Tecnil\u00f3gica...",
-            "snippet": "Tecnil\u00f3gica, empresa espa\u00f1ola especializada en soluciones de digital signage y desarrollo web y m\u00f3vil, ha nombrado a Dani Seuba responsable de dise\u00f1o y desarrollo de PosterDigital, su soluci\u00f3n de gesti\u00f3n de contenidos (CMS) para el mercado...",
-            "date": "2015-04-21",
-            "tags": "m\u00f3vil,empresa,digital,nuevo,dise\u00f1o,desarrollo,web",
-            "recuweb_url": "http://es.recuweb.com/digitalavmagazine.com/2015/04/dani-seuba-nuevo-responsable-de-dise%C3%B1o-estrat%C3%A9gico-posterdigital-en-tecnil%C3%B3gica",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=desarrollo%2Bweb&format=RSS&cc=es",
-            "source_url": "http://digitalavmagazine.com/2015/04/21/dani-seuba-nuevo-responsable-de-diseno-estrategico-de-posterdigital-en-tecnilogica/"
         }
     }
 }

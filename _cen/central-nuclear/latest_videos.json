@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "central-nuclear",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/central-nuclear/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/central-nuclear/central-nuclear/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/el-incendio-de-un-bosque-amenaza-la-central-nuclear-chern%C3%B3bil": {
+            "title": "El incendio de un bosque amenaza la central nuclear de Chern\u00f3bil en Ucrania...",
+            "snippet": "Fuertes r\u00e1fagas de viento hacen que el fuego se extienda velozmente en una zona que est\u00e1 a veinte kil\u00f3metros de la central. El incendio consume ya una superficie de cuarenta hect\u00e1reas de bosque. El primer ministro ucraniano, Arseni Yatseniuk, ha...",
+            "date": "2015-04-29",
+            "author_name": "euronews-es",
+            "categories": "central-nuclear",
+            "tags": "central,central-nuclear,nuclear,ucrania",
+            "recuweb_url": "http://es.recuweb.com/central-nuclear/dailymotion.com/2015/04/el-incendio-de-un-bosque-amenaza-la-central-nuclear-chern%C3%B3bil",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/central+nuclear+central+nuclear/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2odir1_el-incendio-de-un-bosque-amenaza-la-central-nuclear-de-chernobil-en-ucrania_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2odir1_el-incendio-de-un-bosque-amenaza-la-central-nuclear-de-chernobil-en-ucrania_news"
+        },
         "dailymotion.com/2015/04/rusia-construir%C3%A1-una-nueva-central-nuclear-en-argentina": {
             "title": "Rusia construir\u00e1 una nueva central nuclear en Argentina...",
             "snippet": "Durante su visita oficial a Rusia, la presidenta de Argentina, Cristina Fern\u00e1ndez, destac\u00f3 las importantes inversiones que est\u00e1n haciendo Mosc\u00fa en Am\u00e9rica Latina. Asimismo la mandataria argentina inform\u00f3 que este viernes firmar\u00e1 con su...",
             "date": "2015-04-23",
             "author_name": "teleSUR_tv",
             "categories": "central-nuclear",
-            "tags": "argentina,est\u00e1n,cristina,cristina_fern\u00e1ndez,fern\u00e1ndez,presidenta,central,central-nuclear,nuclear,rusia",
+            "tags": "argentina,cristina,cristina_fern\u00e1ndez,fern\u00e1ndez,presidenta,central,central-nuclear,nuclear,rusia",
             "recuweb_url": "http://es.recuweb.com/central-nuclear/dailymotion.com/2015/04/rusia-construir%C3%A1-una-nueva-central-nuclear-en-argentina",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/central+nuclear+central+nuclear/0?af=1",
             "source_url": "http://dailymotion.com/video/x2no044_rusia-construira-una-nueva-central-nuclear-en-argentina_news",
@@ -76,11 +88,23 @@
             "date": "2015-01-22",
             "author_name": "Entretenimiento online",
             "categories": "central-nuclear",
-            "tags": "tres,central,central_nuclear,nuclear,fukushima",
+            "tags": "central,central_nuclear,nuclear,fukushima",
             "recuweb_url": "http://es.recuweb.com/central-nuclear/youtube.com/2015/01/la-mentira-de-central-nuclear-fukushima-documental-completo-en-espa%C3%B1ol",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=central%2Bnuclear%2Bcentral%2Bnuclear&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=7RUK0vv3DEQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/7RUK0vv3DEQ/0.jpg"
+        },
+        "youtube.com/2015/01/minecraft-skywars-explotando-la-central-nuclear-de-chernobyl": {
+            "title": "MINECRAFT: SKYWARS! EXPLOTANDO LA CENTRAL NUCLEAR DE CHERNOBYL...",
+            "snippet": "MINECRAFT: SKYWARS! EXPLOTANDO LA CENTRAL NUCLEAR DE CHERNOBYL Juegos muy baratos!: IP: 4000 ME GUSTA PARA SKYWARS:D REGISTRATE AQUI: y juega conmigo!! Mi nick ingame:... From: BersGamer PVP, PARKOUR, FNAF & RANDOM GAMES Views: 63283 9380 ratings...",
+            "date": "2015-01-04",
+            "author_name": "BersGamer ~ PVP, PARKOUR , FNAF & RANDOM GAMES",
+            "categories": "central-nuclear,parkour",
+            "tags": "central,central_nuclear,nuclear",
+            "recuweb_url": "http://es.recuweb.com/parkour/youtube.com/2015/01/minecraft-skywars-explotando-la-central-nuclear-de-chernobyl",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=central%2Bnuclear%2Bcentral%2Bnuclear&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=IoLmiU4wflo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/IoLmiU4wflo/0.jpg"
         },
         "dailymotion.com/2014/12/ucrania-central-nuclear-zaporozhye-sufre-fuga-de-radioactividad": {
             "title": "Ucrania: central nuclear Zaporozhye sufre fuga de radioactividad...",
@@ -88,7 +112,7 @@
             "date": "2014-12-31",
             "author_name": "teleSUR_tv",
             "categories": "politica,central-nuclear",
-            "tags": "noticia,noticia-pol\u00edtica,pol\u00edtica,pasado,central,central-nuclear,nuclear,telesur,tvtags,rusia",
+            "tags": "noticia,noticia-pol\u00edtica,pol\u00edtica,central,central-nuclear,nuclear,ucrania,telesur,tvtags,rusia",
             "recuweb_url": "http://es.recuweb.com/central-nuclear/dailymotion.com/2014/12/ucrania-central-nuclear-zaporozhye-sufre-fuga-de-radioactividad",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/central+nuclear+central+nuclear/0?af=1",
             "source_url": "http://dailymotion.com/video/x2dsvqn_ucrania-central-nuclear-zaporozhye-sufre-fuga-de-radioactividad_news",
@@ -99,35 +123,11 @@
             "snippet": "Corea del Sur revisa la seguridad de sus centrales nucleares, mientras investiga el origen del ciberataque del lunes. La compa\u00f1\u00eda que gestiona los 23 reactores del pa\u00eds ha detectado un ataque inform\u00e1tico en el ataque han conseguido acceder a...",
             "date": "2014-12-23",
             "author_name": "euronews-es",
-            "tags": "inform\u00e1tico,ciberataque,lunes,centrales,centrales-nucleares,nucleares,corea,sur",
+            "tags": "centrales,centrales-nucleares,nucleares",
             "recuweb_url": "http://es.recuweb.com/dailymotion.com/2014/12/corea-del-sur-investiga-el-ciberataque-contra-sus-centrales-nucleares",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/central+nuclear+central+nuclear/0?af=1",
             "source_url": "http://dailymotion.com/video/x2d6xds_corea-del-sur-investiga-el-ciberataque-contra-sus-centrales-nucleares_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2d6xds_corea-del-sur-investiga-el-ciberataque-contra-sus-centrales-nucleares_news"
-        },
-        "dailymotion.com/2014/12/corea-del-sur-intenta-quitar-importancia-al-ciberataque-a-varias-centrales": {
-            "title": "Corea del Sur intenta quitar importancia al ciberataque a varias centrales nucleares...",
-            "snippet": "Desde el lunes pasado un pirata inform\u00e1tico ha publicado en Internet documentos confidenciales sobre varias de las 23 centrales at\u00f3micas de Corea del Sur. Como en anteriores ocasiones las miradas se fijan en Corea del Norte. Para el experto en...",
-            "date": "2014-12-22",
-            "author_name": "euronews-es",
-            "categories": "internet",
-            "tags": "centrales,lunes,pasado,inform\u00e1tico,ciberataque,centrales-nucleares,nucleares,corea,sur",
-            "recuweb_url": "http://es.recuweb.com/internet/dailymotion.com/2014/12/corea-del-sur-intenta-quitar-importancia-al-ciberataque-a-varias-centrales",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/central+nuclear+central+nuclear/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2d4mjs_corea-del-sur-intenta-quitar-importancia-al-ciberataque-a-varias-centrales-nucleares_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2d4mjs_corea-del-sur-intenta-quitar-importancia-al-ciberataque-a-varias-centrales-nucleares_news"
-        },
-        "dailymotion.com/2014/11/detenidos-tres-j%C3%B3venes-en-francia-con-un-drone-cerca": {
-            "title": "Detenidos tres j\u00f3venes en Francia con un drone cerca de una central nuclear...",
-            "snippet": "La polic\u00eda francesa detuvo ayer a tres j\u00f3venes cerca de una central nuclear con un peque\u00f1o veh\u00edculo a\u00e9reo no tripulado. Por ahora se desconoce si hab\u00edan volado el drone sobre el reactor. Y tampoco se sabe si est\u00e1n implicados en los...",
-            "date": "2014-11-06",
-            "author_name": "euronews-es",
-            "categories": "central-nuclear",
-            "tags": "est\u00e1n,tres,central,central-nuclear,nuclear",
-            "recuweb_url": "http://es.recuweb.com/central-nuclear/dailymotion.com/2014/11/detenidos-tres-j%C3%B3venes-en-francia-con-un-drone-cerca",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/central+nuclear/0?af=1",
-            "source_url": "http://dailymotion.com/video/x29ffto_detenidos-tres-jovenes-en-francia-con-un-drone-cerca-de-una-central-nuclear_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x29ffto_detenidos-tres-jovenes-en-francia-con-un-drone-cerca-de-una-central-nuclear_news"
         }
     }
 }

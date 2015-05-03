@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bibliofilia",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bibliofilia/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bibliofilia/bibliofilia/blogs.json"
     },
     "items": {
+        "youtube.com/2014/12/yo-le%C3%AD-el-mundo-de-sof%C3%ADa-jostein-gaarder": {
+            "title": "Yo Le\u00ed: El Mundo De Sof\u00eda De Jostein Gaarder...",
+            "snippet": "Yo Le\u00ed: El Mundo De Sof\u00eda De Jostein Gaarder Gracias Por Ver y Compartir el video con gente Bibliofilia:D. From: TintaSobrePapel Views: 20 8 ratings Time: 03:30 More in People & Blogs...",
+            "date": "2014-12-15",
+            "author_name": "TintaSobrePapel",
+            "categories": "bibliofilia",
+            "tags": "bibliofilia,people",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/youtube.com/2014/12/yo-le%C3%AD-el-mundo-de-sof%C3%ADa-jostein-gaarder",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bibliofilia&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=F2w4BSkA41g&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/F2w4BSkA41g/0.jpg"
+        },
         "youtube.com/2014/11/de-la-impresi%C3%B3n-a-encuadernaci%C3%B3n": {
             "title": "De la impresi\u00f3n a la encuadernaci\u00f3n.",
             "snippet": "De la impresi\u00f3n a la encuadernaci\u00f3n. Video compartido por Buxi Revista de Bibliofilia. Donde se muestra el proceso artesanal de impresi\u00f3n a la encuadernaci\u00f3n de un libro. From: Mecate Marcos Views: 221 1 ratings Time: 03:30 More in People &...",
             "date": "2014-11-04",
             "author_name": "Mecate Marcos",
             "categories": "bibliofilia",
-            "tags": "libro,buxi,bibliofilia",
+            "tags": "libro,bibliofilia,people",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/youtube.com/2014/11/de-la-impresi%C3%B3n-a-encuadernaci%C3%B3n",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bibliofilia%2Bbibliofilia&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=7bFgIy3Wasg&feature=youtube_gdata",
@@ -58,18 +70,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bibliofilia%2Bbibliofilia&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=qiO8N-U8ERI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/qiO8N-U8ERI/0.jpg"
-        },
-        "youtube.com/2011/07/un-manuscrito-iluminado-editorial-buxi": {
-            "title": "Un manuscrito iluminado. Editorial Buxi...",
-            "snippet": "Un manuscrito iluminado. Editorial Buxi Un manuscrito iluminado. From: Buxi Bibliofilia Views: 3873 0 ratings Time: 02:32 More in Howto & Style...",
-            "date": "2011-07-01",
-            "author_name": "Buxi Bibliofilia",
-            "categories": "bibliofilia",
-            "tags": "buxi,bibliofilia",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/youtube.com/2011/07/un-manuscrito-iluminado-editorial-buxi",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=bibliofilia%2Bbibliofilia&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=G-iV1vSq1ic&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/G-iV1vSq1ic/0.jpg"
         },
         "youtube.com/2011/01/atlas-universal-1876": {
             "title": "Atlas universal 1876...",

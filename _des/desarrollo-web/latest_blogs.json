@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "desarrollo-web",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/desarrollo-web/",
@@ -11,25 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/desarrollo-web/desarrollo-web/blogs.json"
     },
     "items": {
-        "desarrolloweb.com/2015/04/url-sensible-o-no-a-las-may%C3%BAsculas-y-min%C3%BAsculas-configuraci%C3%B3n": {
-            "title": "URL sensible, o no, a las may\u00fasculas y min\u00fasculas, configuraci\u00f3n...",
-            "snippet": "Miguel es fundador de y la plataforma de formaci\u00f3n online EscuelaIT. Comenz\u00f3 en el mundo del desarrollo web en el a\u00f1o 1997, transformando su hobby en su trabajo. Subir...",
-            "date": "2015-04-06",
-            "author_name": "desconocido",
-            "tags": "trabajo,escuelait,comenz\u00f3,mundo,desarrollo,web",
-            "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/04/url-sensible-o-no-a-las-may%C3%BAsculas-y-min%C3%BAsculas-configuraci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/url-mayusculas-minusculas-apache.html"
-        },
         "sistematicamx.wordpress.com/2015/03/desarrollo-de-p%C3%A1ginas-web": {
             "title": "Desarrollo de P\u00e1ginas Web...",
             "snippet": "Contamos con diferentes paquetes de p\u00e1ginas web responsivas que se ajustan a la medida y necesidades de su empresa. Paquete b\u00e1sico: P\u00e1gina informativa Dominio y hospedaje por un a\u00f1o 5 cuentas de []...",
             "date": "2015-03-28",
             "author_name": "azucenaorea",
-            "tags": "p\u00e1gina,web,desarrollo,empresa",
+            "tags": "web,desarrollo,empresa",
             "recuweb_url": "http://es.recuweb.com/sistematicamx.wordpress.com/2015/03/desarrollo-de-p%C3%A1ginas-web",
             "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://sistematicamx.wordpress.com/2015/03/28/desarrollo-de-paginas-web/"
+        },
+        "desarrolloweb.com/2015/03/accede-a-virtualhost-desde-cualquier-dispositivo-de-la-red-local": {
+            "title": "Accede a virtualhost desde cualquier dispositivo de la red local...",
+            "snippet": "Generalmente ser\u00e1 suficiente para muchos casos, ahora bien, en el desarrollo de la web actual, no siempre te vale con probar las cosas con tu ordenador local para ver si est\u00e1 todo correcto, lo quieres hacer desde otros...",
+            "date": "2015-03-25",
+            "author_name": "desconocido",
+            "tags": "hacer,correcto,ahora,red,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/03/accede-a-virtualhost-desde-cualquier-dispositivo-de-la-red-local",
+            "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://desarrolloweb.com/articulos/acceso-virtualhost-dispositivo-red-local.html"
+        },
+        "guarinandres.wordpress.com/2015/03/origen-y-desarrollo-de-la-wordl-wide-web-www": {
+            "title": "Origen y Desarrollo de la wordl wide web (www)...",
+            "snippet": "Origen de WWW: La World Wide Web es la culminaci\u00f3n del hipertexto y, como tal, sus or\u00edgenes se remontan a la propia historia del hipertexto. Quince a\u00f1os despu\u00e9s de []...",
+            "date": "2015-03-19",
+            "author_name": "guarinandres",
+            "tags": "web,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/guarinandres.wordpress.com/2015/03/origen-y-desarrollo-de-la-wordl-wide-web-www",
+            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
+            "source_url": "http://guarinandres.wordpress.com/2015/03/19/origen-y-desarrollo-de-la-wordl-wide-web-www/"
         },
         "ppazul171993.wordpress.com/2015/03/1-3-tecnolog%C3%ADas-para-el-desarrollo-de-aplicaciones-web": {
             "title": "1.3. Tecnolog\u00edas para el desarrollo de aplicaciones web.",
@@ -42,24 +52,13 @@
             "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://ppazul171993.wordpress.com/1-3-tecnologias-para-el-desarrollo-de-aplicaciones-web/"
         },
-        "desarrolloweb.com/2015/03/arquitectura-de-la-web-con-nodejs-programadorio": {
-            "title": "Arquitectura de la web con NodeJS programadorIO...",
-            "snippet": "Este martes 3 de marzo vamos a abordar las tecnolog\u00edas relacionadas con Javascript para el desarrollo de sitios web, en lo que se llama \"Javascript Fullstack\", una alternativa que ha ganado mucha fuerza en los \u00faltimos...",
-            "date": "2015-03-03",
-            "author_name": "desconocido",
-            "categories": "javascript,tecnologia",
-            "tags": "javascript,sitios,vamos,tecnolog\u00edas,relacionadas,web,nodejs,desarrollo",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/desarrolloweb.com/2015/03/arquitectura-de-la-web-con-nodejs-programadorio",
-            "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/en-directo/arquitectura-web-nodejs-programadorio-8829.html"
-        },
         "botonescreativos.wordpress.com/2015/01/dise%C3%B1o-y-desarrollo-web": {
             "title": "Dise\u00f1o y Desarrollo Web...",
             "snippet": "[metaslider id=1267] Ofrecemos servicio de desarrollo y administraci\u00f3n de sitios web orientados a resultados. Su portal web en la red mundial internet, es la puerta de entrada a su []...",
             "date": "2015-01-03",
             "author_name": "Botones Creativos",
             "categories": "internet,desarrollo-web",
-            "tags": "sitios,desarrollo,desarrollo_web,web,dise\u00f1o",
+            "tags": "red,desarrollo,desarrollo_web,web,dise\u00f1o",
             "recuweb_url": "http://es.recuweb.com/desarrollo-web/botonescreativos.wordpress.com/2015/01/dise%C3%B1o-y-desarrollo-web",
             "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://botonescreativos.wordpress.com/diseno-y-desarrollo-web/"

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "grafiti",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/grafiti/",
@@ -11,54 +11,84 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/grafiti/grafiti/blogs.json"
     },
     "items": {
-        "entornointeligente.com/2015/04/adolescentes-pintaron-grafiti-en-carro-del-metro-tras-activar-el-freno": {
-            "title": "Adolescentes pintaron grafiti en carro del Metro tras activar el freno... - EntornoInteligente...",
-            "snippet": "EntornoInteligenteAdolescentes pintaron grafiti en carro del Metro tras activar el freno...EntornoInteligenteEmol/SANTIAGO.- Un grupo de adolescentes que pintaron un vistoso grafiti de gran tama\u00f1o en un carro del Metro fueron detenidos por la...",
-            "date": "2015-04-27",
+        "huffingtonpost.es/2015/05/un-grafitero-usa-por-primera-vez-drone-para-sus-obras": {
+            "title": "Un grafitero usa por primera vez un drone para sus obras...",
+            "snippet": "El resultado no es como para tirar cohetes, pero es el primer paso. El grafiti robotizado ya se ha inventado. Katsu, un conocido artista callejero, ha usado por primera vez un drone o avi\u00f3n no tripulado para llevar a cabo una de sus acciones en...",
+            "date": "2015-05-02",
             "categories": "grafiti",
-            "tags": "fueron,fueron-detenidos,detenidos,gran,gran-tama\u00f1o,tama\u00f1o,carro,grupo,grupo-de-adolescentes,adolescentes,adolescentes-que-pintaron,pintaron,pintaron-un-vistoso,vistoso,activar,activar-el-freno,freno,grafiti,metro,entornointeligente,santiago",
-            "recuweb_url": "http://es.recuweb.com/grafiti/entornointeligente.com/2015/04/adolescentes-pintaron-grafiti-en-carro-del-metro-tras-activar-el-freno",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
-            "source_url": "http://entornointeligente.com/articulo/5772586/Adolescentes-pintaron-grafiti-en-carro-del-Metro-tras-activar-el-freno-de-emergencia-27042015"
-        },
-        "emol.com/2015/04/adolescentes-pintaron-grafiti-en-carro-del-metro-tras-activar-el-freno": {
-            "title": "Adolescentes pintaron grafiti en carro del Metro tras activar el freno de emergencia...",
-            "snippet": "SANTIAGO.- Un grupo de adolescentes que pintaron un vistoso grafiti de gran tama\u00f1o en un carro del Metro fueron detenidos por la polic\u00eda. Los j\u00f3venes cometieron el hecho con la intenci\u00f3n de enviar la imagen a un concurso internacional, de...",
-            "date": "2015-04-27",
-            "categories": "grafiti",
-            "tags": "j\u00f3venes,hecho,imagen,concurso,internacional,fueron,fueron-detenidos,detenidos,polic\u00eda,gran,gran-tama\u00f1o,tama\u00f1o,carro,grupo,grupo-de-adolescentes,adolescentes,adolescentes-que-pintaron,pintaron,pintaron-un-vistoso,vistoso,activar,activar-el-freno,freno,grafiti,metro,santiago",
-            "recuweb_url": "http://es.recuweb.com/grafiti/emol.com/2015/04/adolescentes-pintaron-grafiti-en-carro-del-metro-tras-activar-el-freno",
+            "tags": "primera,drone,artista,artista-callejero,callejero,resultado,grafitero,grafiti",
+            "recuweb_url": "http://es.recuweb.com/grafiti/huffingtonpost.es/2015/05/un-grafitero-usa-por-primera-vez-drone-para-sus-obras",
             "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
-            "source_url": "http://emol.com/noticias/nacional/2015/04/27/714351/detenidos-por-grafiti.html"
+            "source_url": "http://huffingtonpost.es/2015/05/02/grafitero-drone-pintura_n_7196188.html"
+        },
+        "peru21.pe/2015/05/youtube-mira-c%C3%B3mo-este-drone-inicia-la-era-del-grafiti-rob%C3%B3tico": {
+            "title": "YouTube: Mira c\u00f3mo este drone inicia la era del grafiti rob\u00f3tico...",
+            "snippet": "La modelo Kendall Jenner pas\u00f3 a ser parte de la historia del grafiti luego de que un drone, cargando una lata de spray con pintura roja, hiciera unas cuantas l\u00edneas en su cara, como consta en este video de YouTube: El art\u00edculo de Wired que da...",
+            "date": "2015-05-02",
+            "categories": "pintura,grafiti",
+            "tags": "pintura,drone,parte,c\u00f3mo,era,youtube,grafiti,rob\u00f3tico",
+            "recuweb_url": "http://es.recuweb.com/grafiti/peru21.pe/2015/05/youtube-mira-c%C3%B3mo-este-drone-inicia-la-era-del-grafiti-rob%C3%B3tico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
+            "source_url": "http://peru21.pe/redes-sociales/youtube-mira-como-este-drone-inicia-era-grafiti-robotico-2217921"
+        },
+        "elcomercio.pe/2015/05/youtube-la-era-del-grafiti-rob%C3%B3tico-inici%C3%B3-gracias-a-un-dron": {
+            "title": "YouTube: la era del grafiti rob\u00f3tico inici\u00f3 gracias a un dron - El Comercio...",
+            "snippet": "El ComercioYouTube: la era del grafiti rob\u00f3tico inici\u00f3 gracias a un dronEl Comercio... resultado, dijo que su haza\u00f1a sali\u00f3 sorprendentemente bien. El dise\u00f1ador pretende mejorar su nueva t\u00e9cnica con el dron, con el fin de usarlo en lugares...",
+            "date": "2015-05-02",
+            "categories": "grafiti",
+            "tags": "nueva,rob\u00f3tico,gracias,era,youtube,grafiti,resultado",
+            "recuweb_url": "http://es.recuweb.com/grafiti/elcomercio.pe/2015/05/youtube-la-era-del-grafiti-rob%C3%B3tico-inici%C3%B3-gracias-a-un-dron",
+            "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/redes-sociales/youtube/youtube-era-grafiti-robotico-inicio-gracias-dron-noticia-1808294"
+        },
+        "eldiariodecoahuila.com.mx/2015/04/irreprimible-el-grafiti-diario-de-coahuila": {
+            "title": "Irreprimible el grafiti - El Diario de Coahuila...",
+            "snippet": "El Diario de CoahuilaIrreprimible el grafitiEl Diario de CoahuilaEl colocar pintura de diferente tono sobre el grafiti para borrar las huellas de quienes se dedican a esa actividad hace que el muro se vea en la parte de debajo con un mal aspecto por...",
+            "date": "2015-04-29",
+            "categories": "pintura,grafiti",
+            "tags": "parte,pintura,grafiti",
+            "recuweb_url": "http://es.recuweb.com/grafiti/eldiariodecoahuila.com.mx/2015/04/irreprimible-el-grafiti-diario-de-coahuila",
+            "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
+            "source_url": "http://eldiariodecoahuila.com.mx/notas/2015/4/29/irreprimible-grafiti-504098.asp"
+        },
+        "eventoplus.com/2015/04/arts-club-grafiti-y-gastronomia": {
+            "title": "Arts Club: grafiti y gastronomia...",
+            "snippet": "Maridajes de cava con ostras o sushi, rutas en 4x4, degustaciones en velero con sommeliers, spas frente al mar, talleres de creaci\u00f3n modernista o de mobiliario ecol\u00f3gico en cavas centenarias... Pened\u00e8s es m\u00e1s que vi\u00f1as y bodegas con tradici\u00f3n.",
+            "date": "2015-04-27",
+            "categories": "grafiti",
+            "tags": "frente,grafiti",
+            "recuweb_url": "http://es.recuweb.com/grafiti/eventoplus.com/2015/04/arts-club-grafiti-y-gastronomia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
+            "source_url": "http://eventoplus.com/noticia/5059/arts-club-grafiti-y-gastronomia/"
+        },
+        "latarde.com/2015/04/el-grafiti-un-arte-prohibido": {
+            "title": "El Grafiti, un arte prohibido...",
+            "snippet": "La primera vez que el ser humano pint\u00f3 una pared dibuj\u00f3 bisontes, caballos y venados acompa\u00f1ados de unos signos que son incompresibles para el hombre de hoy en d\u00eda. El descubrimiento lo hizo un cazador por casualidad en 1868 en las cuevas de...",
+            "date": "2015-04-27",
+            "categories": "grafiti",
+            "tags": "d\u00eda,son,primera,grafiti,arte,hombre",
+            "recuweb_url": "http://es.recuweb.com/grafiti/latarde.com/2015/04/el-grafiti-un-arte-prohibido",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
+            "source_url": "http://latarde.com/entretenimiento/cultura/149963-el-grafiti-un-arte-prohibido"
         },
         "diariodelaltoaragon.es/2015/04/convocan-un-concurso-de-grafiti-y-video-en-monz%C3%B3n": {
             "title": "Convocan un concurso de grafiti y video en Monz\u00f3n...",
             "snippet": "MONZ\u00d3N.- Autoescuela San Mateo y San Mateo Formaci\u00f3n, en colaboraci\u00f3n con la asociaci\u00f3n Northvial, han organizado el II Concurso de Grafiti, Video y Fotograf\u00eda, cuyo tema es la formaci\u00f3n (maquinaria industrial, transporte, log\u00edstica,...",
             "date": "2015-04-26",
             "categories": "grafiti,fotografia",
-            "tags": "cuyo,organizado,concurso,grafiti",
+            "tags": "organizado,grafiti",
             "recuweb_url": "http://es.recuweb.com/fotografia/diariodelaltoaragon.es/2015/04/convocan-un-concurso-de-grafiti-y-video-en-monz%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=grafiti&format=RSS&cc=es",
             "source_url": "http://diariodelaltoaragon.es/NoticiasDetalle.aspx?Id=930291"
         },
-        "imagendelgolfo.com.mx/2015/04/en-agua-dulce-usan-mercado-como-pared-para-grafiti-peri%C3%B3dico": {
-            "title": "En Agua Dulce, usan mercado como pared para grafiti - Peri\u00f3dico y Agencia de Noticias Imagen del...",
-            "snippet": "En Agua Dulce, usan mercado como pared para grafitiPeri\u00f3dico y Agencia de Noticias Imagen del GolfoJ\u00f3venes mayores de edad y algunos de educaci\u00f3n media han burlado a la autoridad y desde hace varias semanas comenzaron a realizar pintas con...",
-            "date": "2015-04-26",
-            "categories": "grafiti",
-            "tags": "imagen,grafiti,agencia",
-            "recuweb_url": "http://es.recuweb.com/grafiti/imagendelgolfo.com.mx/2015/04/en-agua-dulce-usan-mercado-como-pared-para-grafiti-peri%C3%B3dico",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://imagendelgolfo.com.mx/resumen.php?id=41062941"
-        },
         "ntrzacatecas.com/2015/04/grafiti-adorna-jardineras-de-la-avenida-hombres-ilustres-en-fresnillo-ntr": {
             "title": "Grafiti 'adorna'jardineras de la avenida Hombres Ilustres en Fresnillo - NTR Zacatecas.com...",
-            "snippet": "NTR Zacatecas.comGrafiti 'adorna'jardineras de la avenida Hombres Ilustres en FresnilloNTR Zacatecas.comLas jardineras de la avenida Hombres Ilustres, frente a la Escuela Secundaria Benito Ju\u00e1rez, cada d\u00eda se ven m\u00e1s llenas de basura y de...",
+            "snippet": "NTR Zacatecas.comGrafiti 'adorna'jardineras de la avenida Hombres Ilustres en FresnilloNTR Zacatecas.comFresnillo.- Las jardineras de la avenida Hombres Ilustres, frente a la Escuela Secundaria Benito Ju\u00e1rez, cada d\u00eda se ven m\u00e1s llenas de basura...",
             "date": "2015-04-26",
             "categories": "escuela,grafiti",
-            "tags": "d\u00eda,grafiti",
+            "tags": "d\u00eda,frente,grafiti",
             "recuweb_url": "http://es.recuweb.com/grafiti/ntrzacatecas.com/2015/04/grafiti-adorna-jardineras-de-la-avenida-hombres-ilustres-en-fresnillo-ntr",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
             "source_url": "http://ntrzacatecas.com/2015/04/26/grafiti-adorna-jardineras-de-la-avenida-hombres-ilustres-en-fresnillo/"
         },
         "laopinion.com/2015/04/el-colmo-del-relincho-pintan-grafiti-en-caballo-lapd-la-opini%C3%B3n": {
@@ -66,50 +96,20 @@
             "snippet": "La Opini\u00f3nEl colmo del relincho: pintan grafiti en caballo del LAPDLa Opini\u00f3nLa Polic\u00eda ahora busca a los responsables del hecho, que ocurri\u00f3 el martes 21 de abril mientras el caballo llamado Charlie trabajaba como parte del equipo ecuestro del...",
             "date": "2015-04-25",
             "categories": "grafiti",
-            "tags": "equipo,abril,llamado,busca,hecho,polic\u00eda,pintan,grafiti",
+            "tags": "parte,equipo,abril,busca,polic\u00eda,grafiti",
             "recuweb_url": "http://es.recuweb.com/grafiti/laopinion.com/2015/04/el-colmo-del-relincho-pintan-grafiti-en-caballo-lapd-la-opini%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
             "source_url": "http://laopinion.com/el-colmo-del-relincho-pintan-grafiti-en-caballo-del-lapd"
-        },
-        "larazonsanluis.com/2015/04/cuesta-mucho-dinero-reparar-da%C3%B1o-por-grafiti-la-raz%C3%B3n": {
-            "title": "Cuesta mucho dinero reparar da\u00f1o por grafiti - La Raz\u00f3n...",
-            "snippet": "Cuesta mucho dinero reparar da\u00f1o por grafitiLa Raz\u00f3nVENADO,.- Desafortunadamente sigue sin control las acciones de grafiti que se vienen realizando desde hace varios meses sobre esta cabecera municipal y que en estos d\u00edas se ha venido...",
-            "date": "2015-04-24",
-            "categories": "grafiti",
-            "tags": "grafiti",
-            "recuweb_url": "http://es.recuweb.com/grafiti/larazonsanluis.com/2015/04/cuesta-mucho-dinero-reparar-da%C3%B1o-por-grafiti-la-raz%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://larazonsanluis.com/index.php/component/k2/item/75282-cuesta-mucho-dinero-reparar-dano-por-grafiti"
         },
         "eluniversal.com.mx/2015/04/nueva-ruta-del-grafiti-de-la-roma-a-doctores-el-universal": {
             "title": "Nueva ruta del grafiti, de la Roma a la Doctores - El Universal...",
             "snippet": "El UniversalNueva ruta del grafiti, de la Roma a la DoctoresEl UniversalNueva ruta del grafiti, de la Roma a la Doctores. Alejandra Barrera El Universal. 18:17S\u00e1bado 25 de abril de 2015. El mexicano Leo Tezcucano ser\u00e1 uno de los que pintar\u00e1 las...",
             "date": "2015-04-24",
             "categories": "grafiti",
-            "tags": "abril,grafiti",
+            "tags": "abril,nueva,grafiti",
             "recuweb_url": "http://es.recuweb.com/grafiti/eluniversal.com.mx/2015/04/nueva-ruta-del-grafiti-de-la-roma-a-doctores-el-universal",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://eluniversal.com.mx/destinos-viajes/2015/festival-arte-publico-constructo-roma-doctores-df-destinos-104649.html"
-        },
-        "entornointeligente.com/2015/04/m%C3%A9xico-sao-paulo-capital-mundial-del-grafiti-entornointeligente": {
-            "title": "M\u00c9XICO: Sao Paulo, capital mundial del grafiti - EntornoInteligente...",
-            "snippet": "EntornoInteligenteM\u00c9XICO: Sao Paulo, capital mundial del grafitiEntornoInteligenteExcelsior/SAO PAULO, 19 de abril.- \"El \u00e9xito comercial es un fracaso para un grafitero\", dec\u00eda Banksy, el artista callejero m\u00e1s cotizado del siglo XXI. Sin...",
-            "date": "2015-04-19",
-            "categories": "grafiti",
-            "tags": "artista,artista-callejero,callejero,callejero-m\u00e1s-cotizado,cotizado,cotizado-del-siglo,siglo,fracaso,grafitero,\u00e9xito,abril,capital,capital-mundial,mundial,sao,sao_paulo,paulo,grafiti,entornointeligente,comercial,dec\u00eda,banksy,xxi",
-            "recuweb_url": "http://es.recuweb.com/grafiti/entornointeligente.com/2015/04/m%C3%A9xico-sao-paulo-capital-mundial-del-grafiti-entornointeligente",
             "resource_url": "http://news.google.es/?hl=es&q=grafiti&output=atom&nord=1",
-            "source_url": "http://entornointeligente.com/articulo/5691713/MEXICO-Sao-Paulo-capital-mundial-del-grafiti-19042015"
-        },
-        "excelsior.com.mx/2015/04/sao-paulo-capital-mundial-del-grafiti-exc%C3%A9lsior": {
-            "title": "Sao Paulo, capital mundial del grafiti - Exc\u00e9lsior...",
-            "snippet": "Sao Paulo, capital mundial del grafitiExc\u00e9lsiorLa tercera edici\u00f3n de la Bienal Internacional Graffiti Fine Art se instal\u00f3 este fin de semana en el Pabell\u00f3n de las Culturas Brasile\u00f1as de la capital paulista, un edificio proyectado por el...",
-            "date": "2015-04-19",
-            "categories": "cultura,grafiti",
-            "tags": "capital,bienal,internacional,graffiti,capital-mundial,mundial,sao,sao_paulo,paulo,grafiti",
-            "recuweb_url": "http://es.recuweb.com/grafiti/excelsior.com.mx/2015/04/sao-paulo-capital-mundial-del-grafiti-exc%C3%A9lsior",
-            "resource_url": "http://news.google.es/?hl=es&q=grafiti%2Bgrafiti&output=atom&nord=1",
-            "source_url": "http://excelsior.com.mx/expresiones/2015/04/19/1019498"
+            "source_url": "http://eluniversal.com.mx/destinos-viajes/2015/festival-arte-publico-constructo-roma-doctores-df-destinos-104649.html"
         }
     }
 }

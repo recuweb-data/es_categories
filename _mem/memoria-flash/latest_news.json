@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "memoria-flash",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/memoria-flash/",
@@ -11,42 +11,92 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-flash/memoria-flash/blogs.json"
     },
     "items": {
-        "fernanda-familiar.com/2015/04/samsung-galaxy-s6-y-edge-fernanda-familiar": {
-            "title": "Samsung Galaxy S6 y Galaxy S6 Edge - Fernanda Familiar...",
-            "snippet": "Fernanda FamiliarSamsung Galaxy S6 y Galaxy S6 EdgeFernanda FamiliarCuentan con el primer procesador m\u00f3vil de 14nm con una plataforma de 64-bits en el mundo, un sistema de memoria LPDDR4 y UFS 2.0 memoria flash provee un desempe\u00f1o superior y...",
-            "date": "2015-04-27",
+        "applesfera.com/2015/05/procesador-s1-una-mirada-a-detalle-al-coraz%C3%B3n-del-apple-watch": {
+            "title": "Procesador S1, una mirada a detalle al coraz\u00f3n del Apple Watch...",
+            "snippet": "Por otro lado, la imagen tambi\u00e9n nos muestra que estamos ante un m\u00f3dulo fabricado por Elpida de 512 MB en RAM, una memoria Flash de 8 GB fabricada ya sea por SanDisk o Toshiba, un chip STM para el aceler\u00f3metro y giroscopio, un controlador ADI...",
+            "date": "2015-05-02",
             "categories": "memoria",
-            "tags": "bits,procesador,sistema,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/fernanda-familiar.com/2015/04/samsung-galaxy-s6-y-edge-fernanda-familiar",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://fernanda-familiar.com/resenando/samsung-galaxy-s6-y-galaxy-s6-edge/"
-        },
-        "todoereaders.com/2015/04/ya-se-venden-kits-con-pantallas-guanzhou-oed": {
-            "title": "Ya se venden kits con pantallas Guanzhou OED...",
-            "snippet": "El distribuidor se llama Waveshore y ofrece estos kits con la capacidad de 128 mb de memoria flash, una cpu de 72 mhz y una ranura de tarjetas sd. El precio de este kit es de unos 59 d\u00f3lares aproximadamente en Amazon, algo que si bien es caro...",
-            "date": "2015-04-27",
-            "categories": "memoria",
-            "tags": "aproximadamente,mhz,cpu,capacidad,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/todoereaders.com/2015/04/ya-se-venden-kits-con-pantallas-guanzhou-oed",
+            "tags": "controlador,chip,procesador,apple,memoria,flash,toshiba",
+            "recuweb_url": "http://es.recuweb.com/memoria/applesfera.com/2015/05/procesador-s1-una-mirada-a-detalle-al-coraz%C3%B3n-del-apple-watch",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://todoereaders.com/ya-se-venden-kits-con-pantallas-guanzhou-oed.html"
+            "source_url": "http://applesfera.com/apple-watch/procesador-s1-una-mirada-a-detalle-del-corazon-del-apple-watch"
         },
-        "hablasmart.movistar.com.pe/2015/04/pronto-tendremos-ssd-de-10tb-habla-smart-noticias-sobre-tecnol%C3%B3gia": {
-            "title": "\u00a1Pronto tendremos SSD de 10TB! - Habla Smart Noticias sobre Tecnol\u00f3gia...",
-            "snippet": "Habla Smart Noticias sobre Tecnol\u00f3gia\u00a1Pronto tendremos SSD de 10TB!Habla Smart Noticias sobre Tecnol\u00f3giaToshiba no se queda atr\u00e1s y ha prometido superar esto con 48 capas de memoria flash en un solo chip, todo un reto que podr\u00eda cambiar la...",
-            "date": "2015-04-27",
+        "radioreloj.cu/2015/05/ra%C3%BAl-y-maduro-en-la-fiesta-de-los-trabajadores-radio-reloj": {
+            "title": "Ra\u00fal y Maduro en la fiesta de los trabajadores - Radio Reloj...",
+            "snippet": "Ra\u00fal y Maduro en la fiesta de los trabajadoresRadio RelojReafirm\u00f3 el apoyo incondicional al gobierno leg\u00edtimo del presidente Nicol\u00e1s Maduro y la lealtad a la memoria del Comandante Hugo Ch\u00e1vez, el mejor amigo de Cuba.... Audio clip: Adobe Flash...",
+            "date": "2015-05-02",
+            "categories": "radio,memoria",
+            "tags": "flash,memoria",
+            "recuweb_url": "http://es.recuweb.com/memoria/radioreloj.cu/2015/05/ra%C3%BAl-y-maduro-en-la-fiesta-de-los-trabajadores-radio-reloj",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
+            "source_url": "http://radioreloj.cu/index.php/noticias-radio-reloj/75-nacionales/22834-raul-y-maduro-en-la-fiesta-de-los-trabajadores"
+        },
+        "sierramaestra.cu/2015/05/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n-sierra-maestra": {
+            "title": "Nuevas tecnolog\u00edas en nuestra educaci\u00f3n - Sierra Maestra...",
+            "snippet": "Nuevas tecnolog\u00edas en nuestra educaci\u00f3nSierra MaestraY se\u00f1al\u00f3 la inclusi\u00f3n tambi\u00e9n de pizarras interactivas, sustituci\u00f3n de los videos VHS o DVD por interfaces de almacenamiento masivo MBOX (que reproduzcan desde una memoria flash o cualquier...",
+            "date": "2015-05-01",
             "categories": "tecnologia,memoria",
-            "tags": "noticias,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/hablasmart.movistar.com.pe/2015/04/pronto-tendremos-ssd-de-10tb-habla-smart-noticias-sobre-tecnol%C3%B3gia",
+            "tags": "cualquier,reproduzcan,interfaces,interfaces-de-almacenamiento,almacenamiento,almacenamiento-masivo,masivo,sustituci\u00f3n,se\u00f1al\u00f3,se\u00f1al\u00f3-la-inclusi\u00f3n,inclusi\u00f3n,pizarras,pizarras-interactivas,interactivas,tecnolog\u00edas,educaci\u00f3n,nuevas,vhs,dvd,mbox,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/sierramaestra.cu/2015/05/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n-sierra-maestra",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
+            "source_url": "http://sierramaestra.cu/titulares/46576-nuevas-tecnologias-en-nuestra-educacion"
+        },
+        "periodico26.cu/2015/04/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n": {
+            "title": "Nuevas tecnolog\u00edas en nuestra educaci\u00f3n...",
+            "snippet": "Y se\u00f1al\u00f3 la inclusi\u00f3n tambi\u00e9n de pizarras interactivas, sustituci\u00f3n de los videos VHS o DVD por interfaces de almacenamiento masivo MBOX (que reproduzcan desde una memoria flash o cualquier disco duro). Sobre los planes y programas de estudio...",
+            "date": "2015-04-30",
+            "categories": "disco-duro,tecnologia,memoria",
+            "tags": "estudio,cualquier,disco,disco-duro,duro,reproduzcan,interfaces,interfaces-de-almacenamiento,almacenamiento,almacenamiento-masivo,masivo,sustituci\u00f3n,se\u00f1al\u00f3,se\u00f1al\u00f3-la-inclusi\u00f3n,inclusi\u00f3n,pizarras,pizarras-interactivas,interactivas,tecnolog\u00edas,educaci\u00f3n,nuevas,vhs,dvd,mbox,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/periodico26.cu/2015/04/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://periodico26.cu/index.php/es/de-cuba/28770-nuevas-tecnologias-en-nuestra-educacion"
+        },
+        "faq-mac.com/2015/04/apple-ampliar%C3%A1-su-centro-de-investigaci%C3%B3n-y-desarrollo-en-israel-semanas": {
+            "title": "Apple ampliar\u00e1 su centro de investigaci\u00f3n y desarrollo en Israel semanas despu\u00e9s su apertura...",
+            "snippet": "Mucho de este personal llega por las adquisiciones de empresas de Apple como el fabricante de memoria Flash Anobit o la empresa fabricantes de sensores PrimeSense.",
+            "date": "2015-04-29",
+            "categories": "memoria",
+            "tags": "flash,desarrollo,apple,memoria",
+            "recuweb_url": "http://es.recuweb.com/memoria/faq-mac.com/2015/04/apple-ampliar%C3%A1-su-centro-de-investigaci%C3%B3n-y-desarrollo-en-israel-semanas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://faq-mac.com/2015/04/apple-ampliara-su-centro-de-investigacion-y-desarrollo-en-israel-semanas-despues-su-apertura/"
+        },
+        "pcworld.es/2015/04/toshiba-quiere-atraer-a-los-desarrolladores-con-kits-para-wearables": {
+            "title": "Toshiba quiere atraer a los desarrolladores con kits para wearables...",
+            "snippet": "Su objetivo es facilitar y abaratar el desarrollo de productos basados en este chip de aplicaciones, que incluye sensor, procesador, memoria flash y controlador Bluetooth de baja energ\u00eda en un solo paquete.",
+            "date": "2015-04-29",
+            "categories": "memoria",
+            "tags": "controlador,desarrollo,chip,quiere,toshiba,procesador,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/pcworld.es/2015/04/toshiba-quiere-atraer-a-los-desarrolladores-con-kits-para-wearables",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://pcworld.es/movilidad/toshiba-quiere-atraer-a-los-desarrolladores-con-kits-para-wearables"
+        },
+        "abc.com.py/2015/04/cronolog%C3%ADa-del-universo-marvel-parte-3-abc-color": {
+            "title": "Cronolog\u00eda del Universo Marvel (Parte 3) - ABC Color...",
+            "snippet": "ABC ColorCronolog\u00eda del Universo Marvel (Parte 3)ABC ColorTras liberar un barco de. de un grupo de secuestradores junto a Natasha Romanoff, Rogers descubre que su aliada ten\u00eda un obejtivo secreto: recuperar una memoria flash para Fury. Cuando es...",
+            "date": "2015-04-28",
+            "categories": "memoria",
+            "tags": "parte,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/abc.com.py/2015/04/cronolog%C3%ADa-del-universo-marvel-parte-3-abc-color",
             "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://hablasmart.movistar.com.pe/2015/04/27/pronto-tendremos-ssd-de-10tb/"
+            "source_url": "http://abc.com.py/espectaculos/cine-y-tv/cronologia-del-universo-marvel-parte-3-1361155.html"
+        },
+        "elsol.com.bo/2015/04/trucos-efectivos-para-rejuvenecer-el-iphone": {
+            "title": "Trucos efectivos para rejuvenecer el iPhone...",
+            "snippet": "Memoria flash avanzada. Si cualquiera de los dispositivos est\u00e1 lleno de archivos y le hace falta un poco m\u00e1s de espacio, un iPhone viejo puede funcionar como un pendrive para guardar todo lo necesario. Esto vendr\u00eda bien as\u00ed se tenga un m\u00f3vil...",
+            "date": "2015-04-28",
+            "categories": "iphone,memoria",
+            "tags": "guardar,dispositivos,archivos,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/elsol.com.bo/2015/04/trucos-efectivos-para-rejuvenecer-el-iphone",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://elsol.com.bo/index.php?cat=182&pla=3&id_articulo=103707"
         },
         "exalli.com/2015/04/para-regalar-tecnolog%C3%ADa-parte-2": {
             "title": "Para regalar tecnolog\u00eda (parte 2)...",
             "snippet": "En qu\u00e9 se almacenar\u00e1 el video una vez guardado? Actualmente muchos modelos de c\u00e1mara ya no utilizan medios externos para guardar el video, pues cuentan con disco duro interno o memoria flash en ambos casos los videos se guardan como archivos los...",
             "date": "2015-04-24",
             "categories": "disco-duro,tecnologia,memoria",
-            "tags": "tecnolog\u00eda,memoria,flash",
+            "tags": "archivos,disco,disco-duro,duro,guardar,parte,memoria,flash",
             "recuweb_url": "http://es.recuweb.com/memoria/exalli.com/2015/04/para-regalar-tecnolog%C3%ADa-parte-2",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://exalli.com/index.php/reportaje/tecnologia/214-para-regalar-tecnologia-parte-2"
@@ -56,60 +106,10 @@
             "snippet": "Analiza cu\u00e1les en verdad necesitas y desinstala los que no sean de utilidad. Usa memoria Flash USB para acelerar tu sistema Tanto Windows Vista como Windows 7 incluyen la funci\u00f3n ReadyBoost mediante la cual es posible usar una memoria externa USB...",
             "date": "2015-04-23",
             "categories": "memoria",
-            "tags": "flash,flash_usb,usb,cu\u00e1les,windows,memoria,sistema",
+            "tags": "flash,flash_usb,usb,cu\u00e1les,memoria,sistema",
             "recuweb_url": "http://es.recuweb.com/memoria/exalli.com/2015/04/4-tips-para-acelerar-tu-windows",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://exalli.com/index.php/tips/software/344-4-tips-para-acelerar-tu-windows"
-        },
-        "tecnopasion.com/2015/04/acer-presenta-un-chromebook-econ%C3%B3mico-de-15-6-pulgadas": {
-            "title": "Acer presenta un Chromebook econ\u00f3mico de 15,6 pulgadas...",
-            "snippet": "El port\u00e1til incorpora un procesador Intel Celeron de doble n\u00facleo N2830, con gr\u00e1ficos Intel HD Graphics, 2 GB de RAM y 16 GB de memoria flash. En cuanto a conectividad destaca la Wi-Fi ac, aunque tambi\u00e9n tiene Bluetooth 4.0, un puerto USB 3.0...",
-            "date": "2015-04-23",
-            "categories": "memoria",
-            "tags": "procesador,memoria,flash,usb",
-            "recuweb_url": "http://es.recuweb.com/memoria/tecnopasion.com/2015/04/acer-presenta-un-chromebook-econ%C3%B3mico-de-15-6-pulgadas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://tecnopasion.com/acer-presenta-un-chromebook-economico-de-156-pulgadas-14077/"
-        },
-        "martinoticias.com/2015/04/se-vuelve-viral-canci%C3%B3n-que-critica-al-sistema-de-salud": {
-            "title": "Se vuelve viral canci\u00f3n que critica al sistema de salud en Cuba - Mart\u00ed Noticias...",
-            "snippet": "Mart\u00ed NoticiasSe vuelve viral canci\u00f3n que critica al sistema de salud en CubaMart\u00ed NoticiasDe una memoria flash a la otra, va recorriendo la Isla una canci\u00f3n que en aproximadamente 4 minutos y en ritmo de merengue, describe, humor por delante,...",
-            "date": "2015-04-23",
-            "categories": "humor,salud,memoria",
-            "tags": "aproximadamente,noticias,sistema,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/martinoticias.com/2015/04/se-vuelve-viral-canci%C3%B3n-que-critica-al-sistema-de-salud",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://martinoticias.com/content/cuba-salud-cancion-critica/91655.html"
-        },
-        "technologyreview.es/2015/04/la-m%C3%A1quina-de-los-sue%C3%B1os-hp": {
-            "title": "La m\u00e1quina de los sue\u00f1os de HP...",
-            "snippet": "Los clientes les abandonaban en masa para trabajar con start-ups que ofrec\u00edan almacenamiento de datos en veloces chips de memoria flash y mayor eficiencia energ\u00e9tica como los que contienen los smartphones. HP s\u00f3lo vend\u00eda la tecnolog\u00eda de...",
-            "date": "2015-04-21",
-            "categories": "tecnologia,memoria",
-            "tags": "tecnolog\u00eda,almacenamiento,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/technologyreview.es/2015/04/la-m%C3%A1quina-de-los-sue%C3%B1os-hp",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://technologyreview.es/informatica/47321/"
-        },
-        "teknikop.com/2015/04/saygus-v2-el-smartphone-con-320-gb-de-almacenamiento": {
-            "title": "Saygus V2 el smartphone con 320 GB de almacenamiento...",
-            "snippet": "Lo m\u00e1s llamativo del V2 como hemos mencionado es su capacidad de almacenamiento, no es que tengamos una memoria flash con est\u00e1 capacidad ya que en realidad cuenta con 64 GB, pero si que es llamativo como el fabricante incluye dos ranuras microSD...",
-            "date": "2015-04-21",
-            "categories": "memoria",
-            "tags": "capacidad,almacenamiento,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/teknikop.com/2015/04/saygus-v2-el-smartphone-con-320-gb-de-almacenamiento",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://teknikop.com/2015/04/saygus-v2-caracterisitcas.html"
-        },
-        "digitalavmagazine.com/2015/04/sony-acudi%C3%B3-a-prolight-sound-2015-con-lo-m%C3%A1s-innovador": {
-            "title": "Sony acudi\u00f3 a Prolight Sound 2015 con lo m\u00e1s innovador para audio profesional en directo...",
-            "snippet": "El grabador de audio PCM-D100 con 32 GB de memoria flash integrada admite la grabaci\u00f3n y reproducci\u00f3n del formato de audio PCM lineal a 192 kHz/24 bits de alta resoluci\u00f3n y es compatible con DSD de 2,8 MHz/1 bit. Producci\u00f3n web y en directo Para...",
-            "date": "2015-04-20",
-            "categories": "memoria",
-            "tags": "bits,memoria,flash,mhz",
-            "recuweb_url": "http://es.recuweb.com/memoria/digitalavmagazine.com/2015/04/sony-acudi%C3%B3-a-prolight-sound-2015-con-lo-m%C3%A1s-innovador",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://digitalavmagazine.com/2015/04/20/sony-acudio-a-prolightsound-2015-con-lo-mas-innovador-para-audio-profesional-en-directo/"
         }
     }
 }

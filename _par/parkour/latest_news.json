@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "parkour",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/parkour/",
@@ -11,15 +11,45 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/parkour/parkour/blogs.json"
     },
     "items": {
-        "hobbyconsolas.com/2015/04/50-claves-de-call-of-duty-black-ops-3": {
-            "title": "50 claves de Call of Duty Black Ops 3...",
-            "snippet": "29. No habr\u00e1 EXO esqueletos. 30. No habr\u00e1 doble salto. 31. Se podr\u00e1 correr por las paredes, de forma breve, como en parkour. 32. No podremos lanzarnos cuerpo a tierra en carrera. 33. Habr\u00e1 una habilidad de sprint infinito 34. Treyarch ya ha...",
-            "date": "2015-04-27",
+        "theguardian.com/2015/05/fitness-clubs-parkour-and-virtual-reality-the-trend-movies-that-time": {
+            "title": "Fitness clubs, parkour and virtual reality: the trend movies that time... - The Guardian (blog)...",
+            "snippet": "The Guardian (blog)Fitness clubs, parkour and virtual reality: the trend movies that time...The Guardian (blog)Fitness clubs, parkour and virtual reality: the trend movies that time forgot. Will social media horror film Unfriended capture a new fad...",
+            "date": "2015-05-01",
             "categories": "parkour",
-            "tags": "habilidad,exo,parkour,carrera",
-            "recuweb_url": "http://es.recuweb.com/parkour/hobbyconsolas.com/2015/04/50-claves-de-call-of-duty-black-ops-3",
+            "tags": "that,parkour",
+            "recuweb_url": "http://es.recuweb.com/parkour/theguardian.com/2015/05/fitness-clubs-parkour-and-virtual-reality-the-trend-movies-that-time",
+            "resource_url": "http://news.google.es/?hl=es&q=parkour%2Bparkour&output=atom&nord=1",
+            "source_url": "http://theguardian.com/film/filmblog/2015/may/01/fitness-clubs-parkour-and-virtual-reality-the-trend-movies-that-time-forgot"
+        },
+        "bbc.com/2015/05/the-women-who-are-obsessed-with-parkour-bbc-news": {
+            "title": "The women who are obsessed with Parkour - BBC News...",
+            "snippet": "BBC NewsThe women who are obsessed with ParkourBBC NewsParkour is a sport that revolves around moving quickly and creatively over obstacles. It has its roots in military training, but it has a growing following - especially among women. Author...",
+            "date": "2015-05-01",
+            "categories": "parkour",
+            "tags": "sport,that,parkour",
+            "recuweb_url": "http://es.recuweb.com/parkour/bbc.com/2015/05/the-women-who-are-obsessed-with-parkour-bbc-news",
+            "resource_url": "http://news.google.es/?hl=es&q=parkour%2Bparkour&output=atom&nord=1",
+            "source_url": "http://bbc.com/news/magazine-32533679"
+        },
+        "teinteresa.es/2015/05/tres-cantos-acoge-este-fin-de-semana-un-encuentro-nacional-practicantes": {
+            "title": "Tres Cantos acoge este fin de semana un encuentro nacional de practicantes de disciplinas...",
+            "snippet": "En concreto, participar\u00e1n practicantes de parkour, freerunning, street stunts y tricking. Tendr\u00e1 lugar en el Espacio Enrique M\u00e1s, con entrada gratuita. Entre los invitados est\u00e1 previsto que asistan algunos de los atletas m\u00e1s representativos de...",
+            "date": "2015-05-01",
+            "categories": "parkour",
+            "tags": "semana,parkour",
+            "recuweb_url": "http://es.recuweb.com/parkour/teinteresa.es/2015/05/tres-cantos-acoge-este-fin-de-semana-un-encuentro-nacional-practicantes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
-            "source_url": "http://hobbyconsolas.com/reportajes/50-claves-call-duty-black-ops-3-116022"
+            "source_url": "http://teinteresa.es/comunidad-de-madrid/madrid/Cantos-encuentro-practicantes-disciplinas-deportivas_0_1349265182.html"
+        },
+        "gentedigital.es/2015/04/el-alcalde-visita-parkour-y-muestra-su-apoyo-a-los-usuarios": {
+            "title": "El alcalde visita el Parkour y muestra su apoyo a los usuarios de esta disciplina...",
+            "snippet": "El candidato popular a la alcald\u00eda de Getafe, Juan Soler, ha visitado el pasado s\u00e1bado el Parkour Park en el barrio de Kelvinator, el m\u00e1s grande de Espa\u00f1a y el primero de la Comunidad de Madrid. Durante su visita, Soler se comprometi\u00f3 con los...",
+            "date": "2015-04-28",
+            "categories": "parkour",
+            "tags": "barrio,muestra,disciplina,parkour,kelvinator",
+            "recuweb_url": "http://es.recuweb.com/parkour/gentedigital.es/2015/04/el-alcalde-visita-parkour-y-muestra-su-apoyo-a-los-usuarios",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
+            "source_url": "http://gentedigital.es/getafe/noticia/1650554/el-alcalde-visita-el-parkour-y-muestra-su-apoyo-a-los-usuarios-de-esta-disciplina/"
         },
         "thedenverchannel.com/2015/04/the-now-denver-international-parkour-champions-come-to-colorado-channel": {
             "title": "The Now Denver: International parkour champions come to Colorado - The Denver Channel...",
@@ -28,7 +58,7 @@
             "categories": "parkour",
             "tags": "parkour",
             "recuweb_url": "http://es.recuweb.com/parkour/thedenverchannel.com/2015/04/the-now-denver-international-parkour-champions-come-to-colorado-channel",
-            "resource_url": "http://news.google.es/?hl=es&q=parkour&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=parkour%2Bparkour&output=atom&nord=1",
             "source_url": "http://thedenverchannel.com/thenow/the-now-denver-international-parkour-champions-come-to-colorado"
         },
         "cooperativa.cl/2015/04/24-04-201521-35abuelo-persigue-de-ladrones-en-sorprendente": {
@@ -36,9 +66,9 @@
             "snippet": ":35\"Abuelo\" persigue de ladrones en sorprendente...... en sorprendente recorrido parkour. La producci\u00f3n creada por Scott Winn muestra una entretenida persecuci\u00f3n parkour, donde un \"abuelo\" demuestra toda su habilidad para trepar y saltar...",
             "date": "2015-04-25",
             "categories": "parkour",
-            "tags": "habilidad,muestra,scott,scott_winn,winn,ladrones,parkour",
+            "tags": "muestra,ladrones,parkour",
             "recuweb_url": "http://es.recuweb.com/parkour/cooperativa.cl/2015/04/24-04-201521-35abuelo-persigue-de-ladrones-en-sorprendente",
-            "resource_url": "http://news.google.es/?hl=es&q=parkour&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=parkour%2Bparkour&output=atom&nord=1",
             "source_url": "http://cooperativa.cl/noticias/entretencion/abuelo-persigue-de-ladrones-en-sorprendente-recorrido-parkour/2015-04-24/213959.html"
         },
         "24horas.cl/2015/04/video-las-espectaculares-piruetas-de-parkour-un-anciano": {
@@ -46,7 +76,7 @@
             "snippet": "Con saltos, giros y volteretas sorprendi\u00f3 a toda la ciudad con tal de atrapar a los delincuentes que robaron la cartera de una joven en un callej\u00f3n. Un incre\u00edble video muestra a un particular anciano realizando piruetas de la disciplina Parkour...",
             "date": "2015-04-24",
             "categories": "parkour",
-            "tags": "muestra,anciano,disciplina,ciudad,atrapar,callej\u00f3n,parkour,saltos",
+            "tags": "muestra,anciano,disciplina,atrapar,callej\u00f3n,parkour,saltos",
             "recuweb_url": "http://es.recuweb.com/parkour/24horas.cl/2015/04/video-las-espectaculares-piruetas-de-parkour-un-anciano",
             "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
             "source_url": "http://24horas.cl/tendencias/video-las-espectaculares-piruetas-de-parkour-de-un-anciano-1645754"
@@ -58,58 +88,28 @@
             "categories": "parkour",
             "tags": "callej\u00f3n,atrapar,ladrones,anciano,youtube,parkour",
             "recuweb_url": "http://es.recuweb.com/parkour/elcomercio.pe/2015/04/youtube-anciano-salta-como-spiderman-para-atrapar-ladrones-el-comercio",
-            "resource_url": "http://news.google.es/?hl=es&q=parkour&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=parkour%2Bparkour&output=atom&nord=1",
             "source_url": "http://elcomercio.pe/redes-sociales/youtube/youtube-anciano-sorprende-haciendo-parkour-calles-video-noticia-1806371"
+        },
+        "depor.pe/2015/04/youtube-video-de-anciano-haciendo-parkour-en-las-calles-se-vuelve": {
+            "title": "YouTube: video de anciano haciendo -parkour- en las calles se vuelve viral...",
+            "snippet": "Seguramente has estado tirado en tu cama viendo tu smartphone, se acab\u00f3 la bater\u00eda y tienes que levantarte para cargarlo. Lo peor es que el cable no te permite volver a la cama. Para eso una empresa estadounidense cre\u00f3 el Couchlet, un hub con...",
+            "date": "2015-04-24",
+            "categories": "parkour",
+            "tags": "anciano,youtube,parkour",
+            "recuweb_url": "http://es.recuweb.com/parkour/depor.pe/2015/04/youtube-video-de-anciano-haciendo-parkour-en-las-calles-se-vuelve",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
+            "source_url": "http://depor.pe/off-side/youtube/youtube-video-anciano-haciendoparkour-calles-se-vuelve-viral-177"
         },
         "gentedigital.es/2015/04/el-circuito-de-parkour-ya-est%C3%A1-listo": {
             "title": "El circuito de Parkour ya est\u00e1 listo...",
             "snippet": "El circuito de Parkour en el barrio de Kelvinator es ya una realidad. El Ayuntamiento ha dado por finalizadas las obras esta semana, en las que se ha invertido un total de euros. Localizada en la calle Ram\u00f3n Rubial, esta nueva \u00e1rea deportiva...",
             "date": "2015-04-23",
             "categories": "parkour",
-            "tags": "deportiva,parkour",
+            "tags": "semana,barrio,parkour,kelvinator",
             "recuweb_url": "http://es.recuweb.com/parkour/gentedigital.es/2015/04/el-circuito-de-parkour-ya-est%C3%A1-listo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
             "source_url": "http://gentedigital.es/getafe/noticia/1647086/el-circuito-de-parkour-ya-esta-listo/"
-        },
-        "fox13now.com/2015/04/new-parkour-video-brings-epic-chase-through-slc-streets": {
-            "title": "New Parkour video brings epic chase through SLC streets -...",
-            "snippet": "Parkour video brings epic chase through SLC video is the work of a Utah County man who makes his living creating and posting videos on YouTube. The Parkour video is the latest from director Scott Winn. You may have seen his work before and you can...",
-            "date": "2015-04-23",
-            "categories": "parkour",
-            "tags": "scott,scott_winn,winn,parkour,youtube",
-            "recuweb_url": "http://es.recuweb.com/parkour/fox13now.com/2015/04/new-parkour-video-brings-epic-chase-through-slc-streets",
-            "resource_url": "http://news.google.es/?hl=es&q=parkour&output=atom&nord=1",
-            "source_url": "http://fox13now.com/2015/04/22/new-parkour-video-brings-epic-chase-through-slc-streets/"
-        },
-        "europapress.es/2015/04/el-brit%C3%A1nico-kie-willis-artista-del-parkour": {
-            "title": "El brit\u00e1nico Kie Willis, artista del 'Parkour'...",
-            "snippet": "El brit\u00e1nico Kie Willis, exponente del 'Parkour', el arte del desplazamiento por la ciudad y embajador de H&S, define esta disciplina deportiva que gana adeptos por todo el mundo como interactuar con el entorno, yendo de un sitio a otro de una...",
-            "date": "2015-04-22",
-            "categories": "parkour",
-            "tags": "disciplina,deportiva,arte,arte-del-desplazamiento,desplazamiento,ciudad,kie,kie_willis,willis,parkour",
-            "recuweb_url": "http://es.recuweb.com/parkour/europapress.es/2015/04/el-brit%C3%A1nico-kie-willis-artista-del-parkour",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
-            "source_url": "http://europapress.es/deportes/noticia-britanico-kie-willis-artista-parkour-20150422122453.html"
-        },
-        "mundogamers.com/2015/04/los-videojuegos-y-su-bendita-sensaci%C3%B3n-de-libertad": {
-            "title": "Los videojuegos y su bendita sensaci\u00f3n de libertad...",
-            "snippet": "Ah, el parkour... El free runing, la filosof\u00eda del movimiento libre, lo que toda la vida de Dios se llam\u00f3 'hacer el cabra'y que ahora, por obra y gracia -sobre todo- de Ubisoft, parece un sine qua non a la hora de hacer un videojuego. No me...",
-            "date": "2015-04-22",
-            "categories": "videojuego,parkour",
-            "tags": "free,parkour",
-            "recuweb_url": "http://es.recuweb.com/parkour/mundogamers.com/2015/04/los-videojuegos-y-su-bendita-sensaci%C3%B3n-de-libertad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=parkour&format=RSS&cc=es",
-            "source_url": "http://mundogamers.com/noticia-los-videojuegos-y-su-bendita-sensacion-de-libertad.10094.html"
-        },
-        "well.blogs.nytimes.com/2015/04/parkour-for-beginners-new-york-times-blog": {
-            "title": "Parkour for Beginners - New York Times (blog)...",
-            "snippet": "New York Times (blog)Parkour for BeginnersNew York Times (blog)Parkour, or free-running, is a discipline based on military obstacle-course training, and it requires the athlete to negotiate seemingly insurmountable obstacles by running, jumping and...",
-            "date": "2015-04-22",
-            "categories": "discipline,parkour",
-            "tags": "free,parkour",
-            "recuweb_url": "http://es.recuweb.com/parkour/well.blogs.nytimes.com/2015/04/parkour-for-beginners-new-york-times-blog",
-            "resource_url": "http://news.google.es/?hl=es&q=parkour&output=atom&nord=1",
-            "source_url": "http://well.blogs.nytimes.com/2015/04/22/parkour-for-beginners/"
         }
     }
 }

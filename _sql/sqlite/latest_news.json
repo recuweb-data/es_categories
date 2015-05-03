@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sqlite/",
@@ -11,14 +11,44 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
+        "redmondmag.com/2015/05/microsoft-ushering-in-dev-ops-cloud-future-with-nano-server": {
+            "title": "Microsoft Ushering in Dev-Ops Cloud Future with Nano Server -...",
+            "snippet": "Ushering in Dev-Ops Cloud Future with Nano Server currently works with a number of platforms, including \"Chef, PHP, Nginx, Python 3.5,, GO, Redis, MySQL, OpenSSL, Java (OpenJDK), Ruby () and SQLite,\" according to a presentation slide. Microsoft and...",
+            "date": "2015-05-02",
+            "categories": "php,mysql,java,sqlite",
+            "tags": "currently,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/redmondmag.com/2015/05/microsoft-ushering-in-dev-ops-cloud-future-with-nano-server",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "source_url": "http://redmondmag.com/articles/2015/05/01/nano-server-devops-future.aspx"
+        },
+        "digit.in/2015/04/handling-offline-capability-and-data-sync-in-an-android-app-part": {
+            "title": "Handling Offline Capability and Data Sync In An Android App Part 1 - Digit...",
+            "snippet": "DigitHandling Offline Capability and Data Sync In An Android App Part 1DigitContent provider APIs can be used to abstract away the data model, and using SQLite APIs we can maintain a device resident SQLite database for a local copy of the data. For...",
+            "date": "2015-04-30",
+            "categories": "sqlite",
+            "tags": "database,data,android,app,sqlite",
+            "recuweb_url": "http://es.recuweb.com/sqlite/digit.in/2015/04/handling-offline-capability-and-data-sync-in-an-android-app-part",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "source_url": "http://digit.in/apps/handling-offline-capability-and-data-sync-in-an-android-app-part-1-25942.html"
+        },
+        "androidauthority.com/2015/04/how-to-use-sqlite-store-data-for-your-android-app-authority": {
+            "title": "How to use SQLite to store data for your Android app - Android Authority (blog)...",
+            "snippet": "How to use SQLite to store data for your Android appAndroid Authority (blog)Most Android apps will need to persist user data at sometime. There are different ways to store user data, but SQLite databases are a very convenient and speedy method of...",
+            "date": "2015-04-29",
+            "categories": "sqlite",
+            "tags": "databases,are,data,apps,need,some,sqlite,android,app,there",
+            "recuweb_url": "http://es.recuweb.com/sqlite/androidauthority.com/2015/04/how-to-use-sqlite-store-data-for-your-android-app-authority",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
+            "source_url": "http://androidauthority.com/use-sqlite-store-data-app-599743/"
+        },
         "i-programmer.info/2015/04/meet-squidb-iprogrammer": {
             "title": "Meet SquiDB - iProgrammer...",
             "snippet": "Meet SquiDBiProgrammerSquiDB is designed to let you work with SQLite databases while still giving the power and flexibility of raw SQL. It combines features of an ORM with object-oriented SQL statement builders, so avoiding the need to have SQL...",
             "date": "2015-04-23",
             "categories": "sqlite",
-            "tags": "need,features,work,sqlite,sql",
+            "tags": "need,databases,work,sqlite,sql",
             "recuweb_url": "http://es.recuweb.com/sqlite/i-programmer.info/2015/04/meet-squidb-iprogrammer",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://i-programmer.info/news/84-database/8517-meet-squidb.html"
         },
         "itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle": {
@@ -26,29 +56,19 @@
             "snippet": "IT JungleGoing Off the Grid with IBM i Mobile AppsIT JungleCM First built the open source SQLite database directly into the client application, and added the necessary data synchronization processes to allow the apps to automatically update with the...",
             "date": "2015-04-15",
             "categories": "sqlite",
-            "tags": "data,database,application,ibm,sqlite",
+            "tags": "data,apps,database,application,ibm,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://itjungle.com/tfh/tfh041515-story05.html"
-        },
-        "computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better": {
-            "title": "Review: Office 2016 for Mac offers a new interface and better features - Computerworld...",
-            "snippet": "ComputerworldReview: Office 2016 for Mac offers a new interface and better featuresComputerworldMicrosoft says that's because it's switched from its previous proprietary database to SQLite. The company also says this makes Outlook's database not...",
-            "date": "2015-04-01",
-            "categories": "sqlite",
-            "tags": "database,not,that,features,sqlite",
-            "recuweb_url": "http://es.recuweb.com/sqlite/computerworld.com/2015/04/review-office-2016-for-mac-offers-a-new-interface-and-better",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
-            "source_url": "http://computerworld.com/article/2904266/review-office-2016-for-mac-offers-a-new-interface-and-better-features.html"
         },
         "infoq.com/2014/10/realm-brings-sqlite-alternative-to-android": {
             "title": "Realm Brings SQLite Alternative to Android -...",
             "snippet": "Realm Brings SQLite Alternative to you have currently have an app that uses CoreData (on iOS) or SQLite (on Android) and want to migrate to Realm, there is definitely some work involved. It is not a drop-in change - Tim explains that CoreData and...",
             "date": "2014-10-24",
             "categories": "sqlite",
-            "tags": "that,not,work,sqlite,android,ios",
+            "tags": "there,some,work,currently,app,sqlite,android,ios",
             "recuweb_url": "http://es.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://infoq.com/news/2014/10/Realm-android"
         },
         "drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb": {
@@ -56,9 +76,9 @@
             "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
             "date": "2014-08-12",
             "categories": "sqlite",
-            "tags": "data,need,ios,sqlite",
+            "tags": "data,need,are,ios,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
         },
         "pcactual.com/2013/03/crea-una-base-de-datos-para-gestionar-tus-gastos": {
@@ -68,7 +88,7 @@
             "categories": "sqlite",
             "tags": "parte,muy,base,datos,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/pcactual.com/2013/03/crea-una-base-de-datos-para-gestionar-tus-gastos",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://pcactual.com/articulo/zona_practica/paso_a_paso/paso_a_paso_internet/12680/gestiona_tus_gastos_desde_smartphone.html"
         },
         "unaaldia.hispasec.com/2012/05/sqlite-journal-revelaci%C3%B3n-de-informaci%C3%B3n-en-android-hispasec": {
@@ -78,7 +98,7 @@
             "categories": "sqlite",
             "tags": "ibm,application,sqlite,informaci\u00f3n,android",
             "recuweb_url": "http://es.recuweb.com/sqlite/unaaldia.hispasec.com/2012/05/sqlite-journal-revelaci%C3%B3n-de-informaci%C3%B3n-en-android-hispasec",
-            "resource_url": "http://news.google.es/?hl=es&q=sqlite%2Bsqlite&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2012/05/sqlite-journal-revelacion-de.html"
         }
     }

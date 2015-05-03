@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xhtml",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xhtml/",
@@ -13,7 +13,7 @@
     "items": {
         "dragonjar.org/2015/03/curso-gratuito-online-de-introducci%C3%B3n-al-pentesting": {
             "title": "Curso Gratuito ONLINE, de Introducci\u00f3n al Pentesting...",
-            "snippet": "www dragonjar org/curso-gratuito-online-de-introduccion-al-pentesting xhtml?utm_content=buffer4ad5d&utm_medium=social&utm_source=plus google com&utm_campaign=buffer...",
+            "snippet": "www dragonjar org/curso-gratuito-online-de-introduccion-al-pentesting xhtml?utm_content=bufferc8846&utm_medium=social&utm_source=plus google com&utm_campaign=buffer. www dragonjar...",
             "date": "2015-03-11",
             "author_name": "DragoN",
             "categories": "google,xhtml",
@@ -28,20 +28,20 @@
             "date": "2015-03-08",
             "author_name": "Yoyo",
             "categories": "wordpress,xhtml",
-            "tags": "forma,vamos,antes,wordpress,xhtml",
+            "tags": "vamos,antes,xhtml",
             "recuweb_url": "http://es.recuweb.com/xhtml/deblinux.wordpress.com/2015/03/truco-wordpress-corregir-de-forma-autom%C3%A1tica-el-xhtml",
             "resource_url": "http://www.google.com/search?q=xhtml%2Bxhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://deblinux.wordpress.com/2015/03/08/truco-wordpress-corregir-de-forma-automatica-el-xhtml-incorrectamente-anidado/"
         },
-        "solucioneasir.wordpress.com/2014/10/sintaxis-de-las-etiquetas-xhtml-soluciones-asir": {
-            "title": "SINTAXIS DE LAS ETIQUETAS XHTML Soluciones Asir...",
-            "snippet": "Afortunadamente, XHTML soluciona estos problemas a\u00f1adiendo ciertas normas en la forma de escribir las etiquetas y atributos. A continuaci\u00f3n se muestran las cinco restricciones b\u00e1sicas que introduce XHTML respecto a...",
+        "solucioneasir.wordpress.com/2014/10/sintaxis-de-las-etiquetas-xhtml": {
+            "title": "SINTAXIS DE LAS ETIQUETAS XHTML...",
+            "snippet": "El lenguaje HTML original era muy permisivo en su sintaxis, por lo que era posible escribir sus etiquetas y atributos de muchas formas diferentes. Las etiquetas por ejemplo pod\u00edan []...",
             "date": "2014-10-07",
             "author_name": "Silvina",
-            "categories": "xhtml",
-            "tags": "b\u00e1sicas,forma,xhtml",
-            "recuweb_url": "http://es.recuweb.com/xhtml/solucioneasir.wordpress.com/2014/10/sintaxis-de-las-etiquetas-xhtml-soluciones-asir",
-            "resource_url": "http://www.google.com/search?q=xhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "categories": "xhtml,lenguaje,html",
+            "tags": "etiquetas,ejemplo,diferentes,xhtml,lenguaje,html",
+            "recuweb_url": "http://es.recuweb.com/html/solucioneasir.wordpress.com/2014/10/sintaxis-de-las-etiquetas-xhtml",
+            "resource_url": "http://es.search.wordpress.com/?q=xhtml%2Bxhtml&f=feed&page=1",
             "source_url": "http://solucioneasir.wordpress.com/2014/10/07/sintaxis-de-las-etiquetas-xhtml/"
         },
         "desarrolloweb.com/2011/01/qu%C3%A9-es-xhtml": {
@@ -60,8 +60,8 @@
             "snippet": "Si sabemos HTML podemos apoyar nuestros conocimientos con esta lista de diferencias con XHTML, que nos ayudar\u00e1n a entender el lenguaje evoluci\u00f3n de HTML. A lo largo de los anteriores cap\u00edtulos del Manual de...",
             "date": "2011-01-05",
             "author_name": "desconocido",
-            "categories": "html,xhtml,conocimiento,lenguaje",
-            "tags": "entender,diferencias,html,xhtml,conocimientos,lenguaje,manual",
+            "categories": "conocimiento,html,xhtml,lenguaje",
+            "tags": "entender,diferencias,conocimientos,html,xhtml,lenguaje,manual",
             "recuweb_url": "http://es.recuweb.com/lenguaje/desarrolloweb.com/2011/01/diferencias-entre-html-y-xhtml",
             "resource_url": "http://www.google.com/search?q=xhtml%2Bxhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/articulos/diferencias-html-xhtml.html"
@@ -74,8 +74,19 @@
             "categories": "xhtml,css,html",
             "tags": "vamos,utilizar,hacer,p\u00e1gina,documento,manual,xhtml,css,web,html,antes",
             "recuweb_url": "http://es.recuweb.com/html/lawebera.es/2007/11/manual-de-xhtml-y-css-como-hacer-una-pagina-web",
-            "resource_url": "http://www.google.com/search?q=xhtml%2Bxhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=xhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://lawebera.es/xhtml-css"
+        },
+        "manual-xhtml.blogspot.com/2006/05/manual-xhtml-encabezados-y-marcas-de-importancia": {
+            "title": "Manual XHTML: Encabezados y marcas de importancia...",
+            "snippet": "Encabezados t\u00edtulos. Los encabezados o t\u00edtulos se pueden obtener mediante 6 etiquetas diferentes: h1, h2, h3, h4, h5 y h6 que tienen una jerarqu\u00eda de importancia en la manera en que se representan por los navegadores. Esto significa que...",
+            "date": "2006-05-16",
+            "author_name": "Sr.Bit",
+            "categories": "xhtml",
+            "tags": "significa,etiquetas,diferentes,t\u00edtulos,manual,manual_xhtml,xhtml",
+            "recuweb_url": "http://es.recuweb.com/xhtml/manual-xhtml.blogspot.com/2006/05/manual-xhtml-encabezados-y-marcas-de-importancia",
+            "resource_url": "http://www.google.com/search?q=xhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://manual-xhtml.blogspot.com/2006/05/encabezados-y-marcas-de-importancia.html"
         },
         "manual-xhtml.blogspot.com/2006/05/manual-xhtml-enlaces-v%C3%ADnculos-y-anchor": {
             "title": "Manual XHTML: Enlaces, v\u00ednculos y anchor...",
@@ -87,17 +98,6 @@
             "recuweb_url": "http://es.recuweb.com/xhtml/manual-xhtml.blogspot.com/2006/05/manual-xhtml-enlaces-v%C3%ADnculos-y-anchor",
             "resource_url": "http://www.google.com/search?q=xhtml%2Bxhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://manual-xhtml.blogspot.com/2006/05/enlaces-vnculos-y-anchor.html"
-        },
-        "manual-xhtml.blogspot.com/2006/05/manual-xhtml-tablas": {
-            "title": "Manual XHTML: Tablas...",
-            "snippet": "Quiz\u00e1 los maree un poco seguir la estructura de la tabla en el c\u00f3digo, para ayudar aqu\u00ed tienen un gr\u00e1fico que muestra la tabla anterior visualmente y los elementos utilizados para construirla. ubicaci\u00f3n de los elementos XHTML en una tabla.",
-            "date": "2006-05-14",
-            "author_name": "Sr.Bit",
-            "categories": "xhtml",
-            "tags": "gr\u00e1fico,manual,manual_xhtml,xhtml",
-            "recuweb_url": "http://es.recuweb.com/xhtml/manual-xhtml.blogspot.com/2006/05/manual-xhtml-tablas",
-            "resource_url": "http://www.google.com/search?q=xhtml%2Bxhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://manual-xhtml.blogspot.com/2006/05/tablas.html"
         },
         "manual-xhtml.blogspot.com/2006/05/manual-xhtml-formularios": {
             "title": "Manual XHTML: Formularios...",
@@ -116,7 +116,7 @@
             "date": "2006-05-03",
             "author_name": "Sr.Bit",
             "categories": "xhtml,lenguaje,html",
-            "tags": "documento,manual,manual_xhtml,xhtml,introducci\u00f3n,lenguaje,web,html",
+            "tags": "documento,manual,manual_xhtml,xhtml,introducci\u00f3n,significa,lenguaje,web,html",
             "recuweb_url": "http://es.recuweb.com/html/manual-xhtml.blogspot.com/2006/05/manual-xhtml-primer-documento",
             "resource_url": "http://www.google.com/search?q=xhtml%2Bxhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://manual-xhtml.blogspot.com/2006/05/primer-documento-xhtml.html"

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "red-social",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/red-social/",
@@ -11,22 +11,43 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/red-social/red-social/blogs.json"
     },
     "items": {
+        "zonared.com/2015/05/twitter-elimina-la-posibilidad-de-jugar-a-t%C3%ADtulos-cl%C3%A1sicos-desde-red": {
+            "title": "Twitter elimina la posibilidad de jugar a t\u00edtulos cl\u00e1sicos desde la red...",
+            "snippet": "Ayer mismo os coment\u00e1bamos que se hab\u00eda descubierto una nueva funcionalidad dentro de la red social Twitter (adem\u00e1s de en webs y blogs a trav\u00e9s de lenguaje HTML) de poder jugar de forma directa a algunos t\u00edtulos...",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
+            "categories": "lenguaje,twitter,html",
+            "tags": "nueva,dentro,red,social",
+            "recuweb_url": "http://es.recuweb.com/html/zonared.com/2015/05/twitter-elimina-la-posibilidad-de-jugar-a-t%C3%ADtulos-cl%C3%A1sicos-desde-red",
+            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://zonared.com/noticias/twitter-elimina-posibilidad-jugar-titulos-clasicos-desde-red-social/"
+        },
         "vilmanunez.com/2015/04/estad%C3%ADsticas-de-redes-sociales-para-convencer-a-tus-clientes": {
             "title": "Estad\u00edsticas de redes sociales para convencer a tus clientes...",
             "snippet": "... me sirven las estad\u00edsticas? Para proponerle presencia en una red social a tu cliente; Para estar actualizado de las novedades de las principales redes sociales; Para argumentar tus estrategias en propuestas de marketing...",
             "date": "2015-04-27",
             "author_name": "Vilma N\u00fa\u00f1ez",
-            "tags": "novedades,presencia,redes,red,sociales,social",
+            "tags": "presencia,redes,red,sociales,social",
             "recuweb_url": "http://es.recuweb.com/vilmanunez.com/2015/04/estad%C3%ADsticas-de-redes-sociales-para-convencer-a-tus-clientes",
-            "resource_url": "http://www.google.com/search?q=red%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://vilmanunez.com/2015/04/27/estadisticas-de-redes-sociales-2015-convencer-a-tus-clientes/"
+        },
+        "netambulo.com/2015/04/periscope-la-nueva-red-social-para-emitir-tu-vida-en-directo": {
+            "title": "Periscope, la nueva red social para emitir tu vida en directo...",
+            "snippet": "Periscope es la nueva red social que te permite emitir v\u00eddeo para mostar lo que est\u00e1s haciendo en este momento y a su vez, ver lo que hacen otros.",
+            "date": "2015-04-27",
+            "author_name": "Netambulo",
+            "tags": "v\u00eddeo,momento,nueva,vida,red,social",
+            "recuweb_url": "http://es.recuweb.com/netambulo.com/2015/04/periscope-la-nueva-red-social-para-emitir-tu-vida-en-directo",
+            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://netambulo.com/2015/04/27/periscope-la-nueva-red-social-para-ver-y-escuchar-lo-que-hacen-otros/"
         },
         "americaeconomia.com/2015/04/bid-pymes-peruanas-son-bastante-din%C3%A1micas-en-red-social": {
             "title": "BID: pymes peruanas son bastante din\u00e1micas en red social...",
             "snippet": "Las peque\u00f1as y medianas empresas (pymes) peruanas est\u00e1n entre las que tienen mayor presencia y actividad en ConnectAmericas, la primera red social empresarial de las Am\u00e9ricas, formada por iniciativa del Banco...",
             "date": "2015-04-23",
             "author_name": "Patricio D\u00edaz",
-            "tags": "est\u00e1n,presencia,pymes,son,red,social",
+            "tags": "presencia,est\u00e1n,empresas,din\u00e1micas,pymes,son,red,social,tienen",
             "recuweb_url": "http://es.recuweb.com/americaeconomia.com/2015/04/bid-pymes-peruanas-son-bastante-din%C3%A1micas-en-red-social",
             "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://americaeconomia.com/negocios-industrias/bid-pymes-peruanas-son-bastante-dinamicas-en-red-social-empresarial-regional"
@@ -34,75 +55,45 @@
         "revistaroulette.com/2015/04/qu%C3%A9-pueden-aprender-las-pymes-de-la-pel%C3%ADcula-red-social": {
             "title": "Qu\u00e9 pueden aprender las pymes de la pel\u00edcula 'La red social...",
             "snippet": "La pel\u00edcula 'La Red Social', aunque fue filmada para el p\u00fablico en general, abarca dimensiones tan profundas como es la pasi\u00f3n, el sue\u00f1o, la voluntad por lograr una empresa tecnol\u00f3gica propia, y son los fundadores de...",
-            "date": "2015-04-20",
+            "date": "2015-04-22",
             "author_name": "Firmas Invitadas",
             "categories": "red-social",
-            "tags": "son,lograr,tan,red,red-social,social,pymes",
+            "tags": "lograr,red,social,pymes,son",
             "recuweb_url": "http://es.recuweb.com/red-social/revistaroulette.com/2015/04/qu%C3%A9-pueden-aprender-las-pymes-de-la-pel%C3%ADcula-red-social",
-            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=red%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://revistaroulette.com/2015/04/22/que-pueden-aprender-las-pymes-de-la-pelicula-la-red-social/"
+        },
+        "rpp.com.pe/2015/04/facebook-irlandesa-encuentra-a-su-gemela-gracias-red-social": {
+            "title": "Facebook: irlandesa encuentra a su 'gemela'gracias a red social...",
+            "snippet": "Conductora de televisi\u00f3n ret\u00f3 a sus amigos a encontrarle una gemela en menos de un mes y gracias a Facebook fue posible.",
+            "date": "2015-04-17",
+            "author_name": "RPP Noticias",
+            "categories": "television,facebook",
+            "tags": "televisi\u00f3n,amigos,gracias,encuentra,facebook,red,social",
+            "recuweb_url": "http://es.recuweb.com/facebook/rpp.com.pe/2015/04/facebook-irlandesa-encuentra-a-su-gemela-gracias-red-social",
+            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://rpp.com.pe/2015-04-17-facebook-irlandesa-encuentra-a-su--039-gemela-039-gracias-a-red-social-noticia_788810.html"
         },
         "cnnexpansion.com/2015/04/high-there-la-red-social-para-consumidores-de-mariguana": {
             "title": "High There: la red social para consumidores de mariguana...",
             "snippet": "High There: la red social para consumidores de mariguana. La herramienta gratuita busca que personas afines al cannabis puedan conocerse; la 'app'ya ha sido aprobada por las tiendas iOS y Android. Por: Jack Regan.",
             "date": "2015-04-15",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "tags": "sido,gratuita,busca,red,social,personas",
+            "tags": "gratuita,red,social,herramienta,app,ios,android",
             "recuweb_url": "http://es.recuweb.com/cnnexpansion.com/2015/04/high-there-la-red-social-para-consumidores-de-mariguana",
             "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/tecnologia/2015/04/15/high-there-la-red-social-para-consumidores-de-mariguana"
         },
-        "wwwhatsnew.com/2015/04/nemeos-nueva-red-social-para-deportistas-wwwhat-s-new": {
-            "title": "Nemeos, nueva red social para deportistas - WWWhat's new?",
-            "snippet": "Desde nemeos nos presentan este proyecto argentino que quiere hacerse un hueco en el mundo de las redes sociales para deportistas. Se trata de una plataforma en la que podemos identificarnos con Facebook, Google o...",
-            "date": "2015-04-13",
-            "author_name": "Juan Diego Polo",
-            "categories": "facebook,google",
-            "tags": "plataforma,nueva,redes,sociales,wwwhat,mundo,facebook,google",
-            "recuweb_url": "http://es.recuweb.com/google/wwwhatsnew.com/2015/04/nemeos-nueva-red-social-para-deportistas-wwwhat-s-new",
-            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/04/13/nemeos-nueva-red-social-para-deportistas/"
-        },
-        "informador.com.mx/2015/04/la-red-social-pinterest-cumple-cinco-a%C3%B1os-el-informador": {
-            "title": "La red social Pinterest cumple cinco a\u00f1os:: El Informador...",
-            "snippet": "NUEVA YORK, ESTADOS UNIDOS (04/ABR/2015).- En sus escasos cinco a\u00f1os de vida, Pinterest se ha convertido en el lugar donde la gente comparte ideas e ingeniosidad, y donde se inspira creativamente. Y ha alimentado una nueva...",
-            "date": "2015-04-04",
-            "author_name": "desconocido",
-            "tags": "nueva,convertido,lugar,vida,red,social",
-            "recuweb_url": "http://es.recuweb.com/informador.com.mx/2015/04/la-red-social-pinterest-cumple-cinco-a%C3%B1os-el-informador",
-            "resource_url": "http://www.google.com/search?q=red%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informador.com.mx/tecnologia/2015/584931/6/la-red-social-pinterest-cumple-cinco-anos.htm"
-        },
         "ticbeat.com/2015/04/social-textiles-una-red-wearable-del-mit-que-pretende": {
             "title": "Social Textiles, una red social 'wearable'del MIT que pretende...",
-            "snippet": "A ra\u00edz de esto, ha nacido un verdadero culto para el efecto estimulante de conexi\u00f3n instant\u00e1nea que experimentamos cuando usamos las herramientas de la red y entre las cuales las redes sociales han ganado un lugar...",
+            "snippet": "Social Textiles, una red social 'wearable'del MIT. Tecnolog\u00eda. 4 abril, 2015. social-textiles-mit. Los canales digitales nos han agilizado tanto la comunicaci\u00f3n que ahora podemos interactuar en tiempo real. A ra\u00edz de esto, ha nacido un...",
             "date": "2015-04-04",
             "author_name": "Mihaela Mar\u00edn",
-            "tags": "lugar,sociales,redes",
-            "recuweb_url": "http://es.recuweb.com/ticbeat.com/2015/04/social-textiles-una-red-wearable-del-mit-que-pretende",
-            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ticbeat.com/tecnologias/social-textiles-red-social-mit/"
-        },
-        "canaltic.com/2015/03/edmodo-red-social-educativa": {
-            "title": "Edmodo, red social educativa...",
-            "snippet": "Edmodo es una plataforma social educativa y gratuita que permite la comunicaci\u00f3n y el intercambio de archivos entre profesorado y alumnado en un entorno cerrado y privado. Est\u00e1 pensada como una red social basada en...",
-            "date": "2015-03-22",
-            "author_name": "Fernando",
-            "tags": "educativa,gratuita,plataforma,red,social",
-            "recuweb_url": "http://es.recuweb.com/canaltic.com/2015/03/edmodo-red-social-educativa",
-            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://canaltic.com/blog/?p=2161"
-        },
-        "ticbeat.com/2015/03/una-nueva-red-social-apoya-al-estado-isl%C3%A1mico-ticbeat": {
-            "title": "Una nueva red social apoya al Estado Isl\u00e1mico TICbeat...",
-            "snippet": "Una nueva red social ha aparecido esta semana en Internet en la URL. Tras un breve per\u00edodo de tiempo online, ahora muestra un mensaje en el que informa de que se encuentra temporalmente fuera de...",
-            "date": "2015-03-13",
-            "author_name": "TICbeat",
-            "categories": "internet",
-            "tags": "encuentra,tiempo,estado,estado_isl\u00e1mico,isl\u00e1mico,ticbeat,nueva,red,social,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/ticbeat.com/2015/03/una-nueva-red-social-apoya-al-estado-isl%C3%A1mico-ticbeat",
+            "categories": "tecnologia",
+            "tags": "social,red",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/ticbeat.com/2015/04/social-textiles-una-red-wearable-del-mit-que-pretende",
             "resource_url": "http://www.google.com/search?q=red%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ticbeat.com/socialmedia/una-nueva-red-social-apoya-al-estado-islamico/"
+            "source_url": "http://ticbeat.com/tecnologias/social-textiles-red-social-mit/"
         },
         "ticbeat.com/2015/02/the-capsuled-una-nueva-red-social-educativa-ticbeat": {
             "title": "The Capsuled, una nueva red social educativa TICbeat...",
@@ -110,10 +101,20 @@
             "date": "2015-02-14",
             "author_name": "Marcos Merino",
             "categories": "escuela",
-            "tags": "lograr,nueva,red,social,educativa,ticbeat",
+            "tags": "nueva,red,social,ticbeat,lograr,convertirse",
             "recuweb_url": "http://es.recuweb.com/escuela/ticbeat.com/2015/02/the-capsuled-una-nueva-red-social-educativa-ticbeat",
             "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ticbeat.com/cyborgcultura/the-capsuled-una-nueva-red-social-educativa/"
+        },
+        "ticbeat.com/2014/12/lukkin-necesitamos-una-red-social-para-el-activismo-ticbeat": {
+            "title": "Lukkin: \u00bfnecesitamos una red social para el activismo? TICbeat...",
+            "snippet": "Las din\u00e1micas de \u00e9xito y fracaso de las plataformas sociales en la Red se encuentra en constante tensi\u00f3n entre el riesgo de fragmentaci\u00f3n (dedicar una red a cada tema termina por resultar poco pr\u00e1ctico) y el de la...",
+            "date": "2014-12-08",
+            "author_name": "Marcos Merino",
+            "tags": "tema,encuentra,din\u00e1micas,red,sociales,ticbeat",
+            "recuweb_url": "http://es.recuweb.com/ticbeat.com/2014/12/lukkin-necesitamos-una-red-social-para-el-activismo-ticbeat",
+            "resource_url": "http://www.google.com/search?q=red%2Bsocial%2Bred%2Bsocial&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ticbeat.com/emprendedores/lukkin-necesitamos-una-red-social-para-el-activismo/"
         }
     }
 }

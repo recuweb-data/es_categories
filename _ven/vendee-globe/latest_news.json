@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "vendee-globe",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/vendee-globe/",
@@ -11,22 +11,52 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/vendee-globe/vendee-globe/blogs.json"
     },
     "items": {
-        "vendeeglobe.org/2015/04/paul-meilhat-steps-up-from-the-figaro-class-to-an-imoca": {
-            "title": "Paul Meilhat steps up from the Figaro class to an IMOCA - Vend\u00e9e Globe...",
-            "snippet": "Vend\u00e9e GlobePaul Meilhat steps up from the Figaro class to an IMOCAVend\u00e9e GlobeMichel Desjoyeaux, who was behind the design of this boat, the former Macif, which won the last edition of the Vend\u00e9e Globe with Fran\u00e7ois Gabart at the helm, was on...",
-            "date": "2015-04-27",
+        "lejournaldessables.fr/2015/05/accident-boulevard-du-vend%C3%A9e-globe-le-journal-des-sables": {
+            "title": "Accident boulevard du Vend\u00e9e Globe - Le Journal des Sables...",
+            "snippet": "Le Journal des SablesAccident boulevard du Vend\u00e9e GlobeLe Journal des SablesUn automobiliste en a fait les frais ce samedi peu avant 18 heures boulevard du Vend\u00e9e Globe sur le rond-point pr\u00e9c\u00e9dent celui de la Vannerie dans le sens Le...",
+            "date": "2015-05-02",
             "categories": "vendee-globe",
-            "tags": "was,helm,fran\u00e7ois,fran\u00e7ois_gabart,gabart,which,won,who,this,boat,desjoyeaux,vend\u00e9e,vend\u00e9e_globepaul,vend\u00e9e_globepaul_meilhat,globepaul,globepaul_meilhat,meilhat,vend\u00e9e_globe,globe,paul,paul_meilhat,figaro,imoca,macif",
-            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/paul-meilhat-steps-up-from-the-figaro-class-to-an-imoca",
+            "tags": "vend\u00e9e,vend\u00e9e_globe,globe,sables",
+            "recuweb_url": "http://es.recuweb.com/vendee-globe/lejournaldessables.fr/2015/05/accident-boulevard-du-vend%C3%A9e-globe-le-journal-des-sables",
             "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
-            "source_url": "http://vendeeglobe.org/en/news/newswire/14758/paul-meilhat-steps-up-from-the-figaro-class-to-an-imoca.html"
+            "source_url": "http://lejournaldessables.fr/2015/05/02/accident-boulevard-du-vendee-globe/"
+        },
+        "vendeeglobe.org/2015/04/bertrand-de-broc-saying-what-he-thinks-vend%C3%A9e-globe": {
+            "title": "Bertrand de Broc saying what he thinks - Vend\u00e9e Globe...",
+            "snippet": "Vend\u00e9e GlobeBertrand de Broc saying what he thinksVend\u00e9e GlobeHe had thought about handing over his boat to a younger racer, but Bertrand de Broc will in fact be competing in his fourth Vend\u00e9e Globe aboard the Finot-Conq designed boat on which he...",
+            "date": "2015-04-30",
+            "categories": "vendee-globe",
+            "tags": "boat,which,will,his,fourth,vend\u00e9e,vend\u00e9e_globe,globe",
+            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/bertrand-de-broc-saying-what-he-thinks-vend%C3%A9e-globe",
+            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
+            "source_url": "http://vendeeglobe.org/en/news/article/14764/bertrand-de-broc-saying-what-he-thinks.html"
+        },
+        "vendeeglobe.org/2015/04/busy-study-session-for-the-vend%C3%A9e-globe-skippers": {
+            "title": "Busy study session for the Vend\u00e9e Globe skippers - Vend\u00e9e Globe...",
+            "snippet": "Vend\u00e9e GlobeBusy study session for the Vend\u00e9e Globe skippersVend\u00e9e GlobeWith 18 months to go to the start of the next Vend\u00e9e Globe, the Saem Vend\u00e9e, the event organiser set up a first study session on Monday in les Sables-d'Olonne for the...",
+            "date": "2015-04-28",
+            "categories": "vendee-globe",
+            "tags": "event,vend\u00e9e,start,vend\u00e9e_globe,globe,sables,olonne",
+            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/busy-study-session-for-the-vend%C3%A9e-globe-skippers",
+            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
+            "source_url": "http://vendeeglobe.org/en/news/article/14762/busy-study-session-for-the-vendee-globe-skippers.html"
+        },
+        "vendeeglobe.org/2015/04/tanguy-de-lamotte-taking-part-in-the-guyader-grand-prix-vend%C3%A9e": {
+            "title": "Tanguy de Lamotte taking part in the Guyader Grand Prix - Vend\u00e9e Globe...",
+            "snippet": "Vend\u00e9e GlobeTanguy de Lamotte taking part in the Guyader Grand PrixVend\u00e9e GlobeIt was in fact thanks to the funding from Tanguy's campaign in the last Vend\u00e9e Globe, in the 2013 Transat Jacques Vabre and in the 2014 Route du Rhum, with the...",
+            "date": "2015-04-28",
+            "categories": "vendee-globe",
+            "tags": "was,vend\u00e9e,vend\u00e9e_globe,globe",
+            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/tanguy-de-lamotte-taking-part-in-the-guyader-grand-prix-vend%C3%A9e",
+            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
+            "source_url": "http://vendeeglobe.org/en/news/newswire/14760/tanguy-de-lamotte-taking-part-in-the-guyader-grand-prix.html"
         },
         "vendeeglobe.org/2015/04/yann-eli%C3%A8s-has-won-the-solo-ma%C3%AEtre-coq-vend%C3%A9e-globe": {
             "title": "Yann Eli\u00e8s has won the Solo Ma\u00eetre Coq - Vend\u00e9e Globe...",
             "snippet": "Vend\u00e9e GlobeYann Eli\u00e8s has won the Solo Ma\u00eetre CoqVend\u00e9e GlobeYann Eli\u00e8s (Groupe Qu\u00e9guiner) has won the first event in the French solo offshore racing championship, which took place this week in les Sables d'Olonne. He came in ahead of two...",
             "date": "2015-04-25",
             "categories": "vendee-globe",
-            "tags": "which,this,week,championship,won,event,vend\u00e9e,vend\u00e9e_globe,globe,french,sables",
+            "tags": "which,this,week,event,vend\u00e9e,vend\u00e9e_globe,globe,sables,olonne",
             "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/yann-eli%C3%A8s-has-won-the-solo-ma%C3%AEtre-coq-vend%C3%A9e-globe",
             "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
             "source_url": "http://vendeeglobe.org/en/news/article/14756/yann-elies-has-won-the-solo-maitre-coq.html"
@@ -36,26 +66,16 @@
             "snippet": "Vend\u00e9e GlobePaul Meilhat to be welcomed on Saturday by Michel DesjoyeauxVend\u00e9e GlobePaul Meilhat will set off again from les Sables at the helm of his new boat and will then be able to begin his training for the 2016 Vend\u00e9e Globe. Just before...",
             "date": "2015-04-24",
             "categories": "vendee-globe",
-            "tags": "helm,his,boat,will,globepaul,globepaul_meilhat,meilhat,vend\u00e9e,vend\u00e9e_globepaul,vend\u00e9e_globepaul_meilhat,vend\u00e9e_globe,globe,desjoyeaux,paul,paul_meilhat,sables,just",
+            "tags": "helm,his,boat,will,vend\u00e9e,vend\u00e9e_globe,globe,sables",
             "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/paul-meilhat-to-be-welcomed-on-saturday-by-michel-desjoyeaux-vend%C3%A9e",
             "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
             "source_url": "http://vendeeglobe.org/en/news/article/14754/paul-meilhat-to-be-welcomed-on-saturday-by-michel-desjoyeaux.html"
-        },
-        "vendeeglobe.org/2015/04/jean-le-cam-2013-2014-imoca-world-champion-vend%C3%A9e-globe": {
-            "title": "Jean Le Cam, 2013-2014 IMOCA World Champion - Vend\u00e9e Globe...",
-            "snippet": "Vend\u00e9e GlobeJean Le Cam, 2013-2014 IMOCA World ChampionVend\u00e9e GlobeThe Barcelona World Race has just brought an end to the 2013-2014 IMOCA Ocean Masters World Championship. Jean Le Cam, the winner of the double-handed race with Bernard Stamm and...",
-            "date": "2015-04-21",
-            "categories": "vendee-globe",
-            "tags": "bernard,bernard_stamm,stamm,handed,race,winner,double,imoca,world,championship,just,globethe,barcelona,barcelona_world,barcelona_world_race,vend\u00e9e,cam,vend\u00e9e_globe,globe,jean,jean_le_cam",
-            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/jean-le-cam-2013-2014-imoca-world-champion-vend%C3%A9e-globe",
-            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
-            "source_url": "http://vendeeglobe.org/en/news/article/14752/jean-le-cam-2013-2014-imoca-world-champion.html"
         },
         "vendeeglobe.org/2015/04/four-solo-sailors-with-the-globe-in-front-of-them-vend%C3%A9e": {
             "title": "Four solo sailors with the Globe in front of them - Vend\u00e9e Globe...",
             "snippet": "Vend\u00e9e GlobeFour solo sailors with the Globe in front of themVend\u00e9e GlobeAs we get close to the Solitaire du Figaro and with 500 days to go to the start of the eighth Vend\u00e9e Globe, competitors are eyeing one another up. This week, J\u00e9r\u00e9mie Beyou...",
             "date": "2015-04-20",
-            "tags": "vend\u00e9e,globe,figaro,this,week",
+            "tags": "start,vend\u00e9e,globe,this,week",
             "recuweb_url": "http://es.recuweb.com/vendeeglobe.org/2015/04/four-solo-sailors-with-the-globe-in-front-of-them-vend%C3%A9e",
             "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
             "source_url": "http://vendeeglobe.org/en/news/article/14750/four-solo-sailors-with-the-globe-in-front-of-them.html"
@@ -70,35 +90,15 @@
             "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
             "source_url": "http://vendeeglobe.org/en/news/article/14742/morgan-lagraviere-officially-registered-for-the-2016-vendee-globe.html"
         },
-        "vendeeglobe.org/2015/04/kito-de-pavant-will-be-there-in-2016-vend%C3%A9e-globe": {
-            "title": "Kito de Pavant will be there in 2016 - Vend\u00e9e Globe...",
-            "snippet": "Vend\u00e9e GlobeKito de Pavant will be there in 2016Vend\u00e9e GlobeThe French sailor Kito de Pavant will be lining up in the 2016 Vend\u00e9e Globe thanks to the support of Bastide M\u00e9dical and the HBF group, who were his partners in the 2014 Route du Rhum.",
-            "date": "2015-04-10",
-            "categories": "vendee-globe",
-            "tags": "who,his,will,vend\u00e9e,globethe,french,vend\u00e9e_globe,globe",
-            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/kito-de-pavant-will-be-there-in-2016-vend%C3%A9e-globe",
-            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe%2Bvendee%2Bglobe&output=atom&nord=1",
-            "source_url": "http://vendeeglobe.org/en/news/article/14739/kito-de-pavant-will-be-there-in-2016.html"
-        },
         "vendeeglobe.org/2015/04/interview-with-bernard-stamm-who-is-considering-a-fourth-vend%C3%A9e-globe": {
             "title": "Interview with Bernard Stamm, who is considering a fourth Vend\u00e9e Globe - Vend\u00e9e Globe...",
             "snippet": "Vend\u00e9e GlobeInterview with Bernard Stamm, who is considering a fourth Vend\u00e9e GlobeVend\u00e9e GlobeRecent winner of the double-handed round the world race, the Barcelona World Race alongside Jean Le Cam, Bernard Stamm is planning to compete in his...",
             "date": "2015-04-07",
             "categories": "vendee-globe",
-            "tags": "his,jean,jean_le_cam,cam,barcelona,barcelona_world,barcelona_world_race,world,race,handed,winner,double,vend\u00e9e,vend\u00e9e_globevend\u00e9e,globevend\u00e9e,vend\u00e9e_globe,globe,who,bernard,bernard_stamm,stamm",
+            "tags": "his,vend\u00e9e,vend\u00e9e_globevend\u00e9e,globevend\u00e9e,vend\u00e9e_globe,globe,fourth",
             "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/interview-with-bernard-stamm-who-is-considering-a-fourth-vend%C3%A9e-globe",
-            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe%2Bvendee%2Bglobe&output=atom&nord=1",
             "source_url": "http://vendeeglobe.org/en/news/article/14732/interview-with-bernard-stamm-who-is-considering-a-fourth-vendee-globe.html"
-        },
-        "vendeeglobe.org/2015/04/the-vend%C3%A9e-globe-candidates-go-on-a-charm-offensive": {
-            "title": "The Vend\u00e9e Globe candidates go on a charm offensive - Vend\u00e9e Globe...",
-            "snippet": "Vend\u00e9e GlobeThe Vend\u00e9e Globe candidates go on a charm offensiveVend\u00e9e GlobeThe aim of the first Vend\u00e9e Globe Speed Dating event on Wednesday 1st April at the Naval Museum in Paris was to bring together skippers looking for sponsors with...",
-            "date": "2015-04-02",
-            "categories": "vendee-globe",
-            "tags": "was,event,globethe,vend\u00e9e,vend\u00e9e_globe,globe",
-            "recuweb_url": "http://es.recuweb.com/vendee-globe/vendeeglobe.org/2015/04/the-vend%C3%A9e-globe-candidates-go-on-a-charm-offensive",
-            "resource_url": "http://news.google.es/?hl=es&q=vendee%2Bglobe&output=atom&nord=1",
-            "source_url": "http://vendeeglobe.org/en/news/article/14728/the-vendee-globe-candidates-go-on-a-charm-offensive.html"
         }
     }
 }

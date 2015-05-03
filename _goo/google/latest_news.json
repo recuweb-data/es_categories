@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/google/",
@@ -11,32 +11,62 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
+        "es.paperblog.com/2015/05/cibercriminales-utilizan-google-adsense-para-distribuir-malware": {
+            "title": "Cibercriminales Utilizan Google AdSense Para Distribuir Malware...",
+            "snippet": "C\u00f3mo Se Distribuyen Virus, Spyware o Malware Usando Publicidad Online? Los cibercriminales son cada d\u00eda m\u00e1s comunes ya que el Internet permite distintas formas de estos realizar sus actividades il\u00edcitas. Los virus, programas esp\u00edas o Malware ya...",
+            "date": "2015-05-02",
+            "categories": "google,google-adsense,internet",
+            "tags": "permite,son,d\u00eda,usando,c\u00f3mo,google",
+            "recuweb_url": "http://es.recuweb.com/internet/es.paperblog.com/2015/05/cibercriminales-utilizan-google-adsense-para-distribuir-malware",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/cibercriminales-utilizan-google-adsense-para-distribuir-malware-3188689/"
+        },
+        "rpp.com.pe/2015/05/google-plus-public%C3%B3-por-primera-vez-en-twitter-rpp-noticias": {
+            "title": "Google Plus public\u00f3 por primera vez en Twitter - RPP Noticias...",
+            "snippet": "RPP NoticiasGoogle Plus public\u00f3 por primera vez en TwitterRPP NoticiasLuego de cuatro a\u00f1os de existencia, la cuenta de la red social Google Plus envi\u00f3 su primer tuit el 1 de mayo. Si bien Google Plus cre\u00f3 la cuenta de Twitter en junio del 2011,...",
+            "date": "2015-05-02",
+            "categories": "red-social,google,twitter",
+            "tags": "mayo,google",
+            "recuweb_url": "http://es.recuweb.com/twitter/rpp.com.pe/2015/05/google-plus-public%C3%B3-por-primera-vez-en-twitter-rpp-noticias",
+            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "source_url": "http://rpp.com.pe/2015-05-02-google-plus-publico-por-primera-vez-en-twitter-noticia_793385.html"
+        },
+        "adslzone.net/2015/05/google-busca-el-mejor-camino-para-entrar-de-lleno": {
+            "title": "Google busca el mejor camino para entrar de lleno en la banca digital...",
+            "snippet": "Estados Unidos, e incluso China, son pa\u00edses mucho m\u00e1s din\u00e1micos y de mente m\u00e1s abierta a la hora de aceptar y adecuarse a las nuevas tecnolog\u00edas que el viejo continente europeo. Esto es algo que sabemos desde hace a\u00f1os, pero no es fruto de...",
+            "date": "2015-05-02",
+            "categories": "google",
+            "tags": "hace,son,pa\u00edses,digital,google",
+            "recuweb_url": "http://es.recuweb.com/google/adslzone.net/2015/05/google-busca-el-mejor-camino-para-entrar-de-lleno",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
+            "source_url": "http://adslzone.net/2015/05/02/google-banca-digital/"
+        },
+        "wwwhatsnew.com/2015/05/google-desarrolla-un-framework-basado-en-dart-para-desarrollar-wwwhat": {
+            "title": "Google desarrolla un framework basado en Dart para desarrollar... - WWWhat's new? (blog)...",
+            "snippet": "Google desarrolla un framework basado en Dart para desarrollar...WWWhat's new? (blog)Las aplicaciones m\u00f3viles que habitualmente usamos en nuestros dispositivos Android, sin contar con los juegos, han sido desarrolladas usando el lenguaje de...",
+            "date": "2015-05-02",
+            "categories": "lenguaje,google",
+            "tags": "usando,google,android",
+            "recuweb_url": "http://es.recuweb.com/google/wwwhatsnew.com/2015/05/google-desarrolla-un-framework-basado-en-dart-para-desarrollar-wwwhat",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bgoogle&output=atom&nord=1",
+            "source_url": "http://wwwhatsnew.com/2015/05/02/google-desarrolla-un-framework-basado-en-dart-para-desarrollar-aplicaciones-mas-rapidas/"
+        },
         "lanacion.com.py/2015/05/google-se-une-a-peri%C3%B3dicos-europeos-para-potenciar-el-periodismo": {
             "title": "Google se une a peri\u00f3dicos europeos para potenciar el periodismo... - La Naci\u00f3...",
             "snippet": "Google se une a peri\u00f3dicos europeos para potenciar el periodismo...La Naci\u00f3 y ocho diarios europeos, entre ellos el espa\u00f1ol El Pa\u00eds, anunciaron el pasado martes la creaci\u00f3n de un fondo de 150 millones para apoyar el periodismo digital. Este...",
             "date": "2015-05-02",
             "categories": "periodismo,google",
-            "tags": "pasado,ellos,espa\u00f1ol,google,pa\u00eds",
+            "tags": "digital,pasado,espa\u00f1ol,google,pa\u00eds",
             "recuweb_url": "http://es.recuweb.com/google/lanacion.com.py/2015/05/google-se-une-a-peri%C3%B3dicos-europeos-para-potenciar-el-periodismo",
             "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
             "source_url": "http://lanacion.com.py/2015/05/02/google-se-une-a-periodicos-europeos-para-potenciar-el-periodismo-digital-2/"
-        },
-        "es.paperblog.com/2015/05/servicio-seo-en-google": {
-            "title": "Servicio SEO en Google...",
-            "snippet": "Crear una p\u00e1gina web es el primer paso para crear una presencia online pero para tener \u00e9xito en internet es necesario conseguir que nuestros clientes conozcan nuestros servicios y para ello una de las mejores alternativas que existe es el...",
-            "date": "2015-05-02",
-            "categories": "internet,google",
-            "tags": "web,\u00e9xito,internet,servicio,google",
-            "recuweb_url": "http://es.recuweb.com/google/es.paperblog.com/2015/05/servicio-seo-en-google",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/servicio-seo-en-google-3188460/"
         },
         "gestion.pe/2015/05/project-fi-puede-extender-la-vida-del-tel%C3%A9fono-nexus-6": {
             "title": "\u00bfProject Fi puede extender la vida del tel\u00e9fono Nexus 6 de Google? - Diario Gesti\u00f3n...",
             "snippet": "Diario Gesti\u00f3n\u00bfProject Fi puede extender la vida del tel\u00e9fono Nexus 6 de Google?Diario Gesti\u00f3n(Bloomberg) El Nexus 6, el \u00faltimo de los tel\u00e9fonos inteligentes de marca propia de Google, dista de ser un \u00e9xito de ventas. Luego de que la...",
             "date": "2015-05-02",
             "categories": "google",
-            "tags": "\u00e9xito,project,puede,google",
+            "tags": "project,puede,google",
             "recuweb_url": "http://es.recuweb.com/google/gestion.pe/2015/05/project-fi-puede-extender-la-vida-del-tel%C3%A9fono-nexus-6",
             "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
             "source_url": "http://gestion.pe/tecnologia/project-fi-puede-extender-vida-telefono-nexus-6-google-2130653"
@@ -46,70 +76,40 @@
             "snippet": "CNET en Espa\u00f1olComando 'OK, Google'ya ejecuta acciones en apps de tercerosCNET en Espa\u00f1ol'OK, Google'podr\u00e1 abrir comandos en apps de terceros, aunque por ahora solo en ingl\u00e9s. CNET Google ha actualizado las posibilidades de interacci\u00f3n y...",
             "date": "2015-05-01",
             "categories": "google",
-            "tags": "aunque,ahora,google,espa\u00f1ol",
+            "tags": "ahora,ingl\u00e9s,google,espa\u00f1ol",
             "recuweb_url": "http://es.recuweb.com/google/cnet.com/2015/05/comando-ok-google-ya-ejecuta-acciones-en-apps-de-terceros-cnet",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bgoogle&output=atom&nord=1",
             "source_url": "http://cnet.com/es/noticias/comando-ok-google-ejecuta-acciones-apps-de-terceros/"
+        },
+        "elcomercio.pe/2015/05/d%C3%ADa-del-trabajo-google-celebra-la-fecha-con-nuevo-doodle": {
+            "title": "D\u00eda del Trabajo: Google celebra la fecha con nuevo doodle El... - El Comercio...",
+            "snippet": "El ComercioD\u00eda del Trabajo: Google celebra la fecha con nuevo doodle El...El ComercioCada primero de mayo se descansa con un feriado que conmemora el D\u00eda Internacional de los Trabajadores y Google quiso acompa\u00f1ar las celebraciones honrando la...",
+            "date": "2015-05-01",
+            "categories": "google",
+            "tags": "internacional,mayo,conmemora,celebra,nuevo,d\u00eda,trabajo,google,doodle",
+            "recuweb_url": "http://es.recuweb.com/google/elcomercio.pe/2015/05/d%C3%ADa-del-trabajo-google-celebra-la-fecha-con-nuevo-doodle",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Bgoogle&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/redes-sociales/google/google-celebra-dia-trabajo-doodle-noticia-1808074"
         },
         "abc.es/2015/05/google-qu%C3%A9-es-lo-m%C3%A1s-buscado-en-cada-pa%C3%ADs": {
             "title": "GOOGLE \u00bfQu\u00e9 es lo m\u00e1s buscado en Google en cada pa\u00eds?",
             "snippet": "Desde el precio de la gasolina hasta informaci\u00f3n sobre la compraventa ilegal de ri\u00f1ones, estas son las curiosidades de los ciudadanos Desde una rinoplastia hasta c\u00f3mo pilotar un caza MIG, est\u00e1 claro que en cada pa\u00eds los ciudadanos tienen...",
             "date": "2015-05-01",
             "categories": "google",
-            "tags": "pa\u00eds,tienen,c\u00f3mo,son,google",
+            "tags": "pa\u00eds,son,informaci\u00f3n,google,c\u00f3mo",
             "recuweb_url": "http://es.recuweb.com/google/abc.es/2015/05/google-qu%C3%A9-es-lo-m%C3%A1s-buscado-en-cada-pa%C3%ADs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
             "source_url": "http://abc.es/tecnologia/redes/20150501/abci-google-busquedas-paises-201505011814.html"
         },
-        "adslzone.net/2015/05/google-adaptar%C3%A1-internet-para-poder-navegar-con-cobertura-2g": {
-            "title": "Google adaptar\u00e1 Internet para poder navegar con cobertura 2G...",
-            "snippet": "\u00bfConexi\u00f3n lenta? Aunque hablemos ya de redes 4G y el futuro de la telefon\u00eda m\u00f3vil 5G, a\u00fan hay quien navega sobre redes m\u00f3viles 2G de baja velocidad. Este a\u00f1o, Google tiene un objetivo principal, facilitar la navegaci\u00f3n web en dispositivos...",
-            "date": "2015-05-01",
-            "categories": "google,internet",
-            "tags": "web,tiene,hay,m\u00f3vil,telefon\u00eda,telefon\u00eda-m\u00f3vil,google,internet,aunque",
-            "recuweb_url": "http://es.recuweb.com/internet/adslzone.net/2015/05/google-adaptar%C3%A1-internet-para-poder-navegar-con-cobertura-2g",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://adslzone.net/2015/05/01/google-internet-lite-2g"
-        },
-        "aztecanoticias.com.mx/2015/05/google-celebra-el-d%C3%ADa-del-trabajo-azteca-noticias": {
-            "title": "Google celebra el D\u00eda del Trabajo - Azteca Noticias...",
-            "snippet": "Azteca NoticiasGoogle celebra el D\u00eda del TrabajoAzteca NoticiasM\u00e9xico, DF.- Google celebra hoy, 1 de mayo, el D\u00eda Internacional del Trabajo con su tradicional doodle. Como es costumbre, Google sustituye las letras de su logotipo con elementos...",
+        "24horas.cl/2015/05/google-celebra-el-d%C3%ADa-del-trabajo-con-divertido-doodle-24-horas": {
+            "title": "Google celebra el d\u00eda del trabajo con divertido Doodle - 24 Horas...",
+            "snippet": "24 HorasGoogle celebra el d\u00eda del trabajo con divertido Doodle24 HorasComo ya es de costumbre Google, volvi\u00f3 a deleitar a sus usuarios con un Doodle para celebrar este 1 de mayo, en que se conmemora el D\u00eda Internacional del Trabajo. La imagen...",
             "date": "2015-05-01",
             "categories": "google",
-            "tags": "celebra,google,d\u00eda,doodle",
-            "recuweb_url": "http://es.recuweb.com/google/aztecanoticias.com.mx/2015/05/google-celebra-el-d%C3%ADa-del-trabajo-azteca-noticias",
+            "tags": "d\u00eda,internacional,conmemora,mayo,celebra,trabajo,google,doodle,usuarios",
+            "recuweb_url": "http://es.recuweb.com/google/24horas.cl/2015/05/google-celebra-el-d%C3%ADa-del-trabajo-con-divertido-doodle-24-horas",
             "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://aztecanoticias.com.mx/notas/tecnologia-y-educacion/219852/google-celebra-el-dia-del-trabajo"
-        },
-        "androidayuda.com/2015/05/google-trabaja-para-lanzar-un-internet-accesible-desde-conexiones-2g": {
-            "title": "Google trabaja para lanzar un Internet accesible desde conexiones 2G...",
-            "snippet": "Google y Facebook ya son utilizados por casi todos los usuarios conectados del mundo. \u00bfY ahora qu\u00e9 hacemos?, se preguntar\u00e1n ellos. Pues llegar a los que no tienen Internet, y si para eso hay que darles Internet, pues se busca la manera de...",
-            "date": "2015-05-01",
-            "categories": "google,internet,facebook",
-            "tags": "hay,tienen,ellos,ahora,son,usuarios,google,internet,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/androidayuda.com/2015/05/google-trabaja-para-lanzar-un-internet-accesible-desde-conexiones-2g",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://androidayuda.com/2015/05/01/google-trabaja-para-lanzar-un-internet-accesible-desde-conexiones-2g/"
-        },
-        "24horas.cl/2015/05/t%C3%A9rmino-volc%C3%A1n-calbuco-registr%C3%B3-m%C3%A1s-de-800-mil-b%C3%BAsquedas-en-24": {
-            "title": "T\u00e9rmino Volc\u00e1n Calbuco registr\u00f3 m\u00e1s de 800 mil b\u00fasquedas en... - 24 Horas...",
-            "snippet": "24 HorasT\u00e9rmino \"Volc\u00e1n Calbuco\" registr\u00f3 m\u00e1s de 800 mil b\u00fasquedas en...24 HorasT\u00e9rmino \"Volc\u00e1n Calbuco\" registr\u00f3 m\u00e1s de 800 mil b\u00fasquedas en Google. En tanto, la plataforma de YouTube tiene m\u00e1s de registros sobre la erupci\u00f3n del macizo.",
-            "date": "2015-05-01",
-            "categories": "google",
-            "tags": "tiene,google,youtube",
-            "recuweb_url": "http://es.recuweb.com/google/24horas.cl/2015/05/t%C3%A9rmino-volc%C3%A1n-calbuco-registr%C3%B3-m%C3%A1s-de-800-mil-b%C3%BAsquedas-en-24",
-            "resource_url": "http://news.google.es/?hl=es&q=google&output=atom&nord=1",
-            "source_url": "http://24horas.cl/tendencias/mundodigital/termino-volcan-calbuco-registro-mas-de-800-mil-busquedas-en-google-1651718"
-        },
-        "20minutos.es/2015/04/google-for-nonprofits-una-ayuda-a-las-organizaciones-no-lucrativas": {
-            "title": "Google for Nonprofits, una ayuda a las organizaciones no lucrativas...",
-            "snippet": "Google Espa\u00f1a ha presentado el programa Google for Nonprofits, un proyecto que permitir\u00e1 a las organizaciones no lucrativas trabajar de un modo m\u00e1s eficiente, encontrar voluntarios y donantes a trav\u00e9s de las herramientas que pone a su...",
-            "date": "2015-04-30",
-            "categories": "google",
-            "tags": "espa\u00f1a,google",
-            "recuweb_url": "http://es.recuweb.com/google/20minutos.es/2015/04/google-for-nonprofits-una-ayuda-a-las-organizaciones-no-lucrativas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=es",
-            "source_url": "http://20minutos.es/noticia/2445756/0/google-for-nonprofits/ayuda-organizaciones/no-lucrativas/"
+            "source_url": "http://24horas.cl/tendencias/mundodigital/google-celebra-el-dia-del-trabajo-con-divertido-doodle-1651694"
         }
     }
 }

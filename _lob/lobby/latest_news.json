@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lobby",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lobby/",
@@ -11,64 +11,44 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lobby/lobby/blogs.json"
     },
     "items": {
-        "infovaticana.com/2015/05/cifuentes-quiere-crear-una-ley-a-favor-del-lobby-gay-infovaticana": {
-            "title": "Cifuentes quiere crear una ley a favor del 'lobby gay'- Infovaticana...",
-            "snippet": "InfovaticanaCifuentes quiere crear una ley a favor del 'lobby gay'InfovaticanaLa candidata del PP a la presidencia de la Comunidad de Madrid, Cristina Cifuentes, ha publicado en su blog el anuncio de una nueva Ley de Protecci\u00f3n contra la...",
-            "date": "2015-05-01",
-            "categories": "lobby",
-            "tags": "contra,crear,ley,favor,lobby,nueva,protecci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/lobby/infovaticana.com/2015/05/cifuentes-quiere-crear-una-ley-a-favor-del-lobby-gay-infovaticana",
-            "resource_url": "http://news.google.es/?hl=es&q=lobby&output=atom&nord=1",
-            "source_url": "http://infovaticana.com/2015/04/30/cifuentes-quiere-crear-una-ley-a-favor-del-lobby-gay/"
-        },
         "eltiempo.com/2015/04/cuestionan-lobby-en-favor-del-fiscal-general": {
             "title": "Cuestionan lobby en favor del Fiscal General -...",
-            "snippet": "Radio Santa FeCuestionan lobby en favor del Fiscal cara de Claros no es desconocida a los congresistas, ya que ha estado pendiente de la reforma del equilibrio de poderes desde la primera vuelta y, adem\u00e1s, es la encargada de concretar las citas de...",
+            "snippet": "El ColombianoCuestionan lobby en favor del Fiscal lo que s\u00ed todos los legisladores consultados por EL TIEMPO estuvieron de acuerdo fue en que ese lobby de Claros Osorio existi\u00f3 y que este se dio en pleno recinto, en el pasillo que separa a las...",
             "date": "2015-04-30",
-            "categories": "radio,lobby",
-            "tags": "estado,fiscal,general,favor,lobby",
+            "categories": "lobby",
+            "tags": "fiscal,general,favor,lobby",
             "recuweb_url": "http://es.recuweb.com/lobby/eltiempo.com/2015/04/cuestionan-lobby-en-favor-del-fiscal-general",
-            "resource_url": "http://news.google.es/?hl=es&q=lobby&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=lobby%2Blobby&output=atom&nord=1",
             "source_url": "http://eltiempo.com/politica/congreso/cuestionan-lobby-en-favor-del-fiscal-general/15658375"
         },
-        "infobae.com/2015/04/el-lobby-de-taxistas-intenta-prohibir-servicio-uber-en-am%C3%A9rica": {
-            "title": "El lobby de taxistas intenta prohibir el servicio de Uber en Am\u00e9rica... -...",
-            "snippet": "lobby de taxistas intenta prohibir el servicio de Uber en Am\u00e9rica... lobby de taxistas intenta prohibir el servicio de Uber en Am\u00e9rica Latina. Han obtenido un primer triunfo en Brasil, donde lograron que un tribunal de San Pablo suspenda el...",
+        "entornointeligente.com/2015/04/el-lobby-de-los-sindicatos-taxistas-intenta-prohibir-servicio-entornointeligente": {
+            "title": "El lobby de los sindicatos de taxistas intenta prohibir el servicio de... - EntornoInteligente...",
+            "snippet": "EntornoInteligenteEl lobby de los sindicatos de taxistas intenta prohibir el servicio de...EntornoInteligenteEl lobby de los sindicatos de taxistas intenta prohibir el servicio de Uber en Am\u00e9rica Latina/Infobae/Han obtenido un primer triunfo en...",
             "date": "2015-04-30",
             "categories": "lobby",
-            "tags": "lobby",
-            "recuweb_url": "http://es.recuweb.com/lobby/infobae.com/2015/04/el-lobby-de-taxistas-intenta-prohibir-servicio-uber-en-am%C3%A9rica",
-            "resource_url": "http://news.google.es/?hl=es&q=lobby&output=atom&nord=1",
+            "tags": "obtenido,obtenido-un-primer,primer,primer-triunfo,triunfo,am\u00e9rica,am\u00e9rica_latina,latina,taxistas,taxistas-intenta,taxistas-intenta-prohibir,intenta,intenta-prohibir,prohibir,prohibir-el-servicio,servicio,lobby,uber",
+            "recuweb_url": "http://es.recuweb.com/lobby/entornointeligente.com/2015/04/el-lobby-de-los-sindicatos-taxistas-intenta-prohibir-servicio-entornointeligente",
+            "resource_url": "http://news.google.es/?hl=es&q=lobby%2Blobby&output=atom&nord=1",
+            "source_url": "http://entornointeligente.com/articulo/5807704/El-lobby-de-los-sindicatos-de-taxistas-intenta-prohibir-el-servicio-de-Uber-en-America-Latina-30042015"
+        },
+        "infobae.com/2015/04/el-lobby-de-taxistas-intenta-prohibir-servicio-uber-en-am%C3%A9rica-latina": {
+            "title": "El lobby de taxistas intenta prohibir el servicio de Uber en Am\u00e9rica Latina...",
+            "snippet": "Han obtenido un primer triunfo en Brasil, donde lograron que un tribunal de San Pablo suspenda el servicio que pone en contacto a pasajeros y conductores. Tambi\u00e9n hay batallas judiciales en Colombia y Chile La aplicaci\u00f3n Uber, creada en los...",
+            "date": "2015-04-30",
+            "categories": "lobby",
+            "tags": "hay,servicio,obtenido,obtenido-un-primer,primer,primer-triunfo,triunfo,am\u00e9rica,am\u00e9rica_latina,latina,taxistas,taxistas-intenta,taxistas-intenta-prohibir,intenta,intenta-prohibir,prohibir,prohibir-el-servicio,lobby,uber,colombia,chile",
+            "recuweb_url": "http://es.recuweb.com/lobby/infobae.com/2015/04/el-lobby-de-taxistas-intenta-prohibir-servicio-uber-en-am%C3%A9rica-latina",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
             "source_url": "http://infobae.com/2015/04/30/1725688-el-lobby-taxistas-intenta-prohibir-el-servicio-uber-america-latina"
-        },
-        "lavanguardia.com/2015/04/el-presidente-de-la-cev-pide-un-%C3%BAnico-lobby-ante-humillaci%C3%B3n": {
-            "title": "El presidente de la CEV pide un \u00fanico lobby ante la humillaci\u00f3n de la infrafinanciaci\u00f3n...",
-            "snippet": "Valencia (EFE).- El reelegido presidente de la Confederaci\u00f3n Empresarial Valenciana (CEV), Salvador Navarro, ha instado hoy a todas las organizaciones empresariales a hacer un \u00fanico lobby ante la humillaci\u00f3n que supone la infrafinanciaci\u00f3n de...",
-            "date": "2015-04-30",
-            "categories": "lobby",
-            "tags": "humillaci\u00f3n,infrafinanciaci\u00f3n,organizaciones,organizaciones-empresariales,empresariales,empresarial,\u00fanico,salvador,navarro,confederaci\u00f3n,confederaci\u00f3n_empresarial,confederaci\u00f3n_empresarial_valenciana,empresarial_valenciana,valenciana,reelegido,reelegido-presidente,presidente,pide,cev,lobby",
-            "recuweb_url": "http://es.recuweb.com/lobby/lavanguardia.com/2015/04/el-presidente-de-la-cev-pide-un-%C3%BAnico-lobby-ante-humillaci%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
-            "source_url": "http://lavanguardia.com/local/valencia/20150430/54430963495/presidente-cev-lobby-infrafinanciacion.html"
-        },
-        "expansion.com/2015/04/google-saca-la-cartera-para-influir-en-bruselas": {
-            "title": "Google saca la cartera para influir en Bruselas...",
-            "snippet": "Google, Microsoft y otros grupos han invertido en actividades de lobby en Bruselas en los \u00faltimos a\u00f1os, con la intenci\u00f3n de influir en la nueva legislaci\u00f3n europea en cuestiones que van desde la protecci\u00f3n de datos a los derechos de autor, y...",
-            "date": "2015-04-30",
-            "categories": "google,lobby",
-            "tags": "protecci\u00f3n,\u00fal,lobby,nueva",
-            "recuweb_url": "http://es.recuweb.com/lobby/expansion.com/2015/04/google-saca-la-cartera-para-influir-en-bruselas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
-            "source_url": "http://expansion.com/empresas/tecnologia/2015/04/30/55427f7ee2704e28678b4577.html"
         },
         "elcolombiano.com/2015/04/hay-un-tipo-de-lobby-razonable-en-democracia-pero-el-colombiano": {
             "title": "HAY UN TIPO DE LOBBY RAZONABLE EN DEMOCRACIA, PERO... - El Colombiano...",
             "snippet": "HAY UN TIPO DE LOBBY RAZONABLE EN DEMOCRACIA, PERO...El ColombianoEn el Congreso de Colombia es habitual el lobby. Lo hacen con toda tranquilidad las empresas privadas, las multinacionales, los ministros de Estado, y \u00faltimamente, delegados de las...",
             "date": "2015-04-30",
             "categories": "multinacional,lobby,democracia",
-            "tags": "\u00fal,lobby,congreso,estado",
+            "tags": "privadas,hay,lobby,democracia,congreso,colombia",
             "recuweb_url": "http://es.recuweb.com/democracia/elcolombiano.com/2015/04/hay-un-tipo-de-lobby-razonable-en-democracia-pero-el-colombiano",
-            "resource_url": "http://news.google.es/?hl=es&q=lobby&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=lobby%2Blobby&output=atom&nord=1",
             "source_url": "http://elcolombiano.com/hay-un-tipo-de-lobby-razonable-en-democracia-pero-hay-otros-mezquinos-XI1820707"
         },
         "ccaa.elpais.com/2015/04/navarro-pide-crear-un-lobby-contra-la-humillaci%C3%B3n-de-financiaci%C3%B3n": {
@@ -76,7 +56,7 @@
             "snippet": "Salvador Navarro ha sido reelegido este jueves presidente de la Confederaci\u00f3n Empresarial Valenciana (CEV) que dirige desde 2011 y a cuyas elecciones se presentaba como \u00fanico candidato. Navarro ha puesto como meta de la organizaci\u00f3n que los...",
             "date": "2015-04-30",
             "categories": "lobby",
-            "tags": "\u00fanico,confederaci\u00f3n,confederaci\u00f3n_empresarial,confederaci\u00f3n_empresarial_valenciana,empresarial,empresarial_valenciana,valenciana,sido,sido-reelegido,reelegido,presidente,contra,humillaci\u00f3n,financiaci\u00f3n,pide,crear,navarro,lobby,salvador,cev",
+            "tags": "\u00fanico,confederaci\u00f3n,confederaci\u00f3n_empresarial,confederaci\u00f3n_empresarial_valenciana,empresarial,empresarial_valenciana,valenciana,sido,sido-reelegido,reelegido,presidente,financiaci\u00f3n,pide,crear,navarro,lobby,contra,salvador",
             "recuweb_url": "http://es.recuweb.com/lobby/ccaa.elpais.com/2015/04/navarro-pide-crear-un-lobby-contra-la-humillaci%C3%B3n-de-financiaci%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
             "source_url": "http://ccaa.elpais.com/ccaa/2015/04/30/valencia/1430417598_821469.html"
@@ -86,10 +66,20 @@
             "snippet": "Salvador Navarro ha sido reelegido presidente de la Confederaci\u00f3n Empresarial Valenciana. En su discurso ha emplazado a las organizaciones empresariales a formar un lobby \u00fanico para reivindicar una mejor financiaci\u00f3n auton\u00f3mica y dejar as\u00ed de...",
             "date": "2015-04-30",
             "categories": "lobby",
-            "tags": "\u00fanico,financiaci\u00f3n,organizaciones,organizaciones-empresariales,empresariales,empresarial,confederaci\u00f3n,confederaci\u00f3n_empresarial,confederaci\u00f3n_empresarial_valenciana,empresarial_valenciana,valenciana,sido,sido-reelegido,reelegido,reelegido-presidente,presidente,contra,infrafinanciaci\u00f3n,pide,navarro,lobby,salvador",
+            "tags": "\u00fanico,financiaci\u00f3n,empresarial,confederaci\u00f3n,confederaci\u00f3n_empresarial,confederaci\u00f3n_empresarial_valenciana,empresarial_valenciana,valenciana,sido,sido-reelegido,reelegido,presidente,pide,navarro,lobby,contra,salvador",
             "recuweb_url": "http://es.recuweb.com/lobby/cadenaser.com/2015/04/navarro-pide-un-lobby-empresarial-%C3%BAnico-contra-la-infrafinanciaci%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
             "source_url": "http://cadenaser.com/emisora/2015/04/30/radio_valencia/1430409501_515007.html"
+        },
+        "infovaticana.com/2015/04/cifuentes-quiere-crear-una-ley-a-favor-del-lobby-gay": {
+            "title": "Cifuentes quiere crear una ley a favor del lobby gay...",
+            "snippet": "Impulsar\u00e9 una nueva Ley de Protecci\u00f3n contra la Discriminaci\u00f3n y por la Igualdad de Trato para educar a los ciudadanos a ser tolerantes en la diferencia, declara. La candidata del PP a la presidencia de la Comunidad de Madrid, Cristina...",
+            "date": "2015-04-29",
+            "categories": "lobby",
+            "tags": "crear,ley,favor,lobby,contra",
+            "recuweb_url": "http://es.recuweb.com/lobby/infovaticana.com/2015/04/cifuentes-quiere-crear-una-ley-a-favor-del-lobby-gay",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
+            "source_url": "http://infovaticana.com/2015/04/30/cifuentes-quiere-crear-una-ley-a-favor-del-lobby-gay/"
         },
         "elespectador.com/2015/04/duras-cr%C3%ADticas-en-contra-del-fiscal-por-su-lobby": {
             "title": "Duras cr\u00edticas en contra del Fiscal por su 'lobby'ante el Congreso -...",
@@ -98,18 +88,28 @@
             "categories": "lobby",
             "tags": "general,contra,fiscal,lobby,congreso",
             "recuweb_url": "http://es.recuweb.com/lobby/elespectador.com/2015/04/duras-cr%C3%ADticas-en-contra-del-fiscal-por-su-lobby",
-            "resource_url": "http://news.google.es/?hl=es&q=lobby&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=lobby%2Blobby&output=atom&nord=1",
             "source_url": "http://elespectador.com/noticias/politica/duras-criticas-contra-del-fiscal-su-lobby-el-congreso-articulo-557716"
         },
         "clarin.com/2015/04/el-lobby-del-malba-entre-llantos-de-beb%C3%A9-y-la-elecci%C3%B3n": {
             "title": "El lobby del Malba, entre llantos de beb\u00e9 y la elecci\u00f3n porte\u00f1a - Clar\u00ed...",
-            "snippet": "El lobby del Malba, entre llantos de beb\u00e9 y la elecci\u00f3n porte\u00f1aClar\u00ed lobby del MALBA estaba repleto y los temas de la previa a los debates, entre el caf\u00e9 con medialunas, eran lo que dej\u00f3 la elecci\u00f3n porte\u00f1a y el llanto hambriento de Trilce,...",
+            "snippet": "El lobby del Malba, entre llantos de beb\u00e9 y la elecci\u00f3n porte\u00f1aClar\u00ed lobby del Malba, entre llantos de beb\u00e9 y la elecci\u00f3n porte\u00f1a. CICLO DE DEBATES \"DEMOCRACIA Y DESARROLLO\".Tras los resultados del domingo, empresarios y pol\u00edticos...",
+            "date": "2015-04-29",
+            "categories": "democracia,lobby",
+            "tags": "democracia,lobby",
+            "recuweb_url": "http://es.recuweb.com/lobby/clarin.com/2015/04/el-lobby-del-malba-entre-llantos-de-beb%C3%A9-y-la-elecci%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=lobby%2Blobby&output=atom&nord=1",
+            "source_url": "http://clarin.com/politica/Grupo_Clarin-Democracia_y_Desarrollo-Malba_0_1348065206.html"
+        },
+        "expansion.com/2015/04/goldman-sachs-dispara-el-gasto-en-lobby-bruselas": {
+            "title": "Goldman Sachs dispara el gasto en lobby en Bruselas...",
+            "snippet": "Goldman Sachs revel\u00f3 un incremento de 14 veces en la suma que el banco dice destinar a actividades de lobby en Bruselas, despu\u00e9s de que la UE endureciese las normas de informaci\u00f3n. El banco de inversi\u00f3n estadounidense gast\u00f3 entre y...",
             "date": "2015-04-29",
             "categories": "lobby",
             "tags": "lobby",
-            "recuweb_url": "http://es.recuweb.com/lobby/clarin.com/2015/04/el-lobby-del-malba-entre-llantos-de-beb%C3%A9-y-la-elecci%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=lobby&output=atom&nord=1",
-            "source_url": "http://clarin.com/politica/Grupo_Clarin-Democracia_y_Desarrollo-Malba_0_1348065206.html"
+            "recuweb_url": "http://es.recuweb.com/lobby/expansion.com/2015/04/goldman-sachs-dispara-el-gasto-en-lobby-bruselas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=es",
+            "source_url": "http://expansion.com/empresas/banca/2015/04/29/5540c161e2704e477d8b456b.html"
         }
     }
 }

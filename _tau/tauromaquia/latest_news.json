@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tauromaquia",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/tauromaquia/",
@@ -11,55 +11,75 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/tauromaquia/tauromaquia/blogs.json"
     },
     "items": {
-        "elmundo.es/2015/05/boxeo-en-blanco-y-negro": {
-            "title": "Boxeo en blanco y negro...",
-            "snippet": "La religi\u00f3n impone la fe, la ficci\u00f3n precisa de la suspensi\u00f3n de la incredulidad (c\u00f3mo creer si no en unicornios y elfos), la tauromaquia se dignifican como arte y el boxeo se ampara en la literatura. De otra manera, \u00bfc\u00f3mo justificar la...",
-            "date": "2015-05-02",
-            "categories": "boxeo,literatura,religion,tauromaquia",
-            "tags": "c\u00f3mo,arte,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/elmundo.es/2015/05/boxeo-en-blanco-y-negro",
+        "diariocritico.com/2015/05/el-dios-de-la-tauromaquia-ha-vuelto-gran-triunfo-jos%C3%A9-tom%C3%A1s": {
+            "title": "El dios de la tauromaquia ha vuelto: gran triunfo de Jos\u00e9 Tom\u00e1s en su reaparici\u00f3n en...",
+            "snippet": "Con una abarrotada plaza para espectadores, el diestro de Galapagar (Madrid) se present\u00f3 con traje azul y oro para hacer olvidar aquel 24 de abril de 2010, cuando un toro de nombre Navegante casi le arranca la cornada de 15 cent\u00edmetros en...",
+            "date": "2015-05-03",
+            "categories": "tauromaquia",
+            "tags": "jos\u00e9,gran,triunfo,tauromaquia,plaza,madrid",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/diariocritico.com/2015/05/el-dios-de-la-tauromaquia-ha-vuelto-gran-triunfo-jos%C3%A9-tom%C3%A1s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/deportes/2015/05/02/5544b7c9e2704eb61d8b457e.html"
+            "source_url": "http://diariocritico.com/ocio/toros/toros/jose-tomas/477928"
+        },
+        "marca.com/2015/05/heroico-l%C3%B3pez-sim%C3%B3n-y-puerta-grande-para-morenito-de-aranda": {
+            "title": "Heroico L\u00f3pez Sim\u00f3n y puerta grande para Morenito de Aranda...",
+            "snippet": "Morenito ha dado, \u00a1por fin!, el aldabonazo, la campanada en la primera plaza del mundo. Y lo hizo sobre la base de una tauromaquia de enciclopedia, es decir sobre la base del toreo hondo, en el terreno de la verdad y esparciendo temple y mando...",
+            "date": "2015-05-03",
+            "categories": "tauromaquia",
+            "tags": "toreo,l\u00f3pez,plaza,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/marca.com/2015/05/heroico-l%C3%B3pez-sim%C3%B3n-y-puerta-grande-para-morenito-de-aranda",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/05/03/toros/1430606048.html"
+        },
+        "zocalo.com.mx/2015/05/tarde-de-triunfo-y-gloria-peri%C3%B3dico-z%C3%B3calo": {
+            "title": "Tarde de triunfo y gloria - Peri\u00f3dico Z\u00f3calo...",
+            "snippet": "Peri\u00f3dico Z\u00f3caloTarde de triunfo y gloriaPeri\u00f3dico Z\u00f3caloTarde de triunfo y gloria. Tauromaquia. Por V\u00edctor Gonz\u00e1lez. 02/05/2015 - 09:58 PM. Google. Saltillo.- Una tarde de triunfo, con tres orejas compartidas cada uno, tuvieron Pablo Hermoso...",
+            "date": "2015-05-03",
+            "categories": "tauromaquia,google",
+            "tags": "tarde,triunfo,tauromaquia",
+            "recuweb_url": "http://es.recuweb.com/google/zocalo.com.mx/2015/05/tarde-de-triunfo-y-gloria-peri%C3%B3dico-z%C3%B3calo",
+            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
+            "source_url": "http://zocalo.com.mx/seccion/articulo/tarde-de-triunfo-y-gloria-1430622024"
         },
         "yucatan.com.mx/2015/05/figura-hist%C3%B3rica-en-el-coliseo-diario-de-yucat%C3%A1n": {
             "title": "Figura hist\u00f3rica en el Coliseo - El Diario de Yucat\u00e1n...",
             "snippet": "El Diario de Yucat\u00e1nFigura hist\u00f3rica en el ColiseoEl Diario de Yucat\u00e1nSu trayectoria no tiene precedentes en la historia de la tauromaquia y las cifras que atesora son de libro Guinness. Desde que el 16 de marzo de 1990 tomara la alternativa en...",
             "date": "2015-05-02",
             "categories": "tauromaquia",
-            "tags": "trayectoria,tiene,tauromaquia",
+            "tags": "tauromaquia",
             "recuweb_url": "http://es.recuweb.co/tauromaquia/yucatan.com.mx/2015/05/figura-hist%C3%B3rica-en-el-coliseo-diario-de-yucat%C3%A1n",
-            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia%2Btauromaquia&output=atom&nord=1",
             "source_url": "http://yucatan.com.mx/deportes/toros/figura-historica-en-el-coliseo"
         },
-        "diariocordoba.com/2015/05/fallece-el-decano-de-la-prensa-taurina-juanele": {
-            "title": "Fallece el decano de la prensa taurina 'Juanele'...",
-            "snippet": "Juanele naci\u00f3 en la localidad cordobesa de Lucena y lleg\u00f3 a Barcelona a principios de la d\u00e9cada de los sesenta, donde ejerci\u00f3 toda su trayectoria profesional dedicada al mundo de la tauromaquia. Pronto comenz\u00f3 a colaborar con distintos medios...",
-            "date": "2015-05-01",
-            "categories": "tauromaquia",
-            "tags": "trayectoria,naci\u00f3,localidad,prensa,taurina,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/diariocordoba.com/2015/05/fallece-el-decano-de-la-prensa-taurina-juanele",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://diariocordoba.com/noticias/sociedad/fallece-decano-prensa-taurina-juanele_959292.html"
+        "elnuevoherald.com/2015/05/viste-a-golpe-de-pasarela-el-nuevo-herald": {
+            "title": "Viste a golpe de pasarela - El Nuevo Herald...",
+            "snippet": "El Nuevo HeraldViste a golpe de pasarelaEl Nuevo HeraldDolce&Gabanna ha rendido homenaje al arte de la tauromaquia y al folclore espa\u00f1ol, en el que la chaqueta torera es la estrella, combinada con faldas lenceras o pantal\u00f3n de talle alto. La...",
+            "date": "2015-05-02",
+            "categories": "estrella,folclore,tauromaquia",
+            "tags": "arte,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/elnuevoherald.com/2015/05/viste-a-golpe-de-pasarela-el-nuevo-herald",
+            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia%2Btauromaquia&output=atom&nord=1",
+            "source_url": "http://elnuevoherald.com/vivir-mejor/estilo/article19721043.html"
         },
         "taurologia.com/2015/05/jos%C3%A9-tomas-el-misterio-%C3%A9pico-del-toreo": {
             "title": "Jos\u00e9 Tomas, el misterio \u00e9pico del toreo...",
             "snippet": "pero tambi\u00e9n se refer\u00eda Camar\u00e1 a c\u00f3mo banalizaban algunos las cuestiones internas de la Tauromaquia. No oculto que me apena cuando he visto a m\u00e1s de un torero de los actuales dar rienda suelta a tanta palabrer\u00eda in\u00fatil. \u00a1Qu\u00e9 tendr\u00e1 que...",
             "date": "2015-05-01",
             "categories": "tauromaquia,torero",
-            "tags": "c\u00f3mo,cuestiones,jos\u00e9,tauromaquia,torero",
+            "tags": "toreo,jos\u00e9,tauromaquia,torero",
             "recuweb_url": "http://es.recuweb.co/torero/taurologia.com/2015/05/jos%C3%A9-tomas-el-misterio-%C3%A9pico-del-toreo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
             "source_url": "http://taurologia.com/seccion/jose-tomas-misterio-epico-toreo-3606.htm"
         },
-        "eltiempo.com/2015/04/documental-colombiano-nuestro-monte-luna": {
-            "title": "Documental colombiano Nuestro monte luna -...",
-            "snippet": "Documental colombiano Nuestro monte documental sigue la vida de la escuela de tauromaquia de Choach\u00ed, una localidad situada a 45 kil\u00f3metros de Bogot\u00e1 y que es el centro de la cultura taurina en Colombia. \"'Nuestro Monte Luna'es un documental que...",
+        "pulzo.com/2015/04/documental-nuestro-monte-luna-sobre-tauromaquia-es-una-pulzo": {
+            "title": "Documental 'Nuestro Monte Luna'sobre tauromaquia es una... - Pulzo...",
+            "snippet": "PulzoDocumental 'Nuestro Monte Luna'sobre tauromaquia es una...PulzoEl documental sigue la vida de la escuela de tauromaquia de Choach\u00ed, una localidad situada a 45 kil\u00f3metros de Bogot\u00e1 y que es el centro de la cultura taurina en Colombia.",
             "date": "2015-04-30",
             "categories": "cultura,cultura-taurina,escuela,tauromaquia",
-            "tags": "taurina,localidad,escuela,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/eltiempo.com/2015/04/documental-colombiano-nuestro-monte-luna",
+            "tags": "escuela,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/pulzo.com/2015/04/documental-nuestro-monte-luna-sobre-tauromaquia-es-una-pulzo",
             "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
-            "source_url": "http://eltiempo.com/entretenimiento/cine-y-tv/documental-colombiano-nuestro-monte-luna/15659596"
+            "source_url": "http://pulzo.com/entretenimiento/333576-documental-nuestro-monte-luna-sobre-tauromaquia-es-una-metafora-del-proceso"
         },
         "rioja2.com/2015/04/guarismos-de-la-tauromaquia": {
             "title": "Guarismos de la Tauromaquia...",
@@ -86,30 +106,10 @@
             "snippet": "El director teatral Albert Boadella ha sido galardonado con la segunda edici\u00f3n del premio nacional a la promoci\u00f3n y fomento de la tauromaquia, en su edici\u00f3n 2014, que otorga la Uni\u00f3n de Federaciones Taurinas de Aficionados de Espa\u00f1a (UFTAE).",
             "date": "2015-04-29",
             "categories": "tauromaquia",
-            "tags": "sido,sido-galardonado,galardonado,nacional,promoci\u00f3n,director,director-teatral,teatral,albert,boadella,tauromaquia,espa\u00f1a",
+            "tags": "tauromaquia,espa\u00f1a",
             "recuweb_url": "http://es.recuweb.co/tauromaquia/abc.es/2015/04/la-afici%C3%B3n-premia-a-boadella-por-insigne-defensor-de-los-valores",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
             "source_url": "http://abc.es/cultura/toros/20150429/abci-aficion-premia-boadella-insigne-201504291854.html"
-        },
-        "elmundo.es/2015/04/albert-boadella-premiado-por-su-defensa-de-la-tauromaquia": {
-            "title": "Albert Boadella, premiado por su defensa de la Tauromaquia...",
-            "snippet": "El dramaturgo y director teatral Albert Boadella, en la actualidad al frente de la direcci\u00f3n de los Teatros del Canal en Madrid, ha sido galardonado con el II Trofeo Nacional a la Promoci\u00f3n y Fomento de la Tauromaquia, seg\u00fan informa Aplausos.",
-            "date": "2015-04-27",
-            "categories": "tauromaquia",
-            "tags": "trofeo,nacional,sido,sido-galardonado,galardonado,director,director-teatral,teatral,albert,boadella,tauromaquia,madrid,promoci\u00f3n",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/elmundo.es/2015/04/albert-boadella-premiado-por-su-defensa-de-la-tauromaquia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/cultura/2015/04/27/553e969a22601df2448b4573.html"
-        },
-        "eldiario.es/2015/04/el-gobierno-de-cospedal-incluir%C3%A1-reformar-plazas-toros-como-ayuda-al": {
-            "title": "El Gobierno de Cospedal incluir\u00e1 reformar plazas de toros como ayuda al desarrollo rural...",
-            "snippet": "Mejorar las plazas de toros por el gran arraigo que la tauromaquia tiene en Castilla-La Mancha ser\u00e1 una de las cuestiones prioritarias en el pr\u00f3ximo Plan de Desarrollo Rural (PDR). Se trata de un proyecto del que apenas se conoce contenido...",
-            "date": "2015-04-27",
-            "categories": "tauromaquia",
-            "tags": "cuestiones,tiene,gran,toros,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/eldiario.es/2015/04/el-gobierno-de-cospedal-incluir%C3%A1-reformar-plazas-toros-como-ayuda-al",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://eldiario.es/clm/Gobierno-Cospedal-incluira-reformar-desarrollo_0_381811946.html"
         }
     }
 }

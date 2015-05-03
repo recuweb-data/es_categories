@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/magento/",
@@ -11,27 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/magento/magento/blogs.json"
     },
     "items": {
+        "dinaweb.net/2015/04/magento-vs-shopify-woocommerce": {
+            "title": "Magento vs Shopify vs Woocommerce...",
+            "snippet": "Con el auge del comercio electr\u00f3nico est\u00e1n saliendo continuamente nuevos actores en el terreno de las plataformas ecommerce para ayudar a peque\u00f1as y grandes empresas a afrontar el reto de la venta online. Este abanico de soluciones nos pueden...",
+            "date": "2015-04-28",
+            "author_name": "admin",
+            "categories": "magento",
+            "tags": "ecommerce,venta,venta-online,comercio,comercio-electr\u00f3nico,electr\u00f3nico,nuevos,magento,shopify,plataformas",
+            "recuweb_url": "http://es.recuweb.com/magento/dinaweb.net/2015/04/magento-vs-shopify-woocommerce",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=magento%2Bmagento&rss=1&lng=es",
+            "source_url": "http://dinaweb.net/comercio-electronico/magento-vs-shopify-vs-woocommerce/?utm_source=rss&utm_medium=rss&utm_campaign=magento-vs-shopify-vs-woocommerce"
+        },
         "geek.com.mx/2015/04/check-point-descubre-vulnerabilidad-masiva-en-la-plataforma": {
             "title": "Check Point descubre vulnerabilidad masiva en la plataforma de...",
             "snippet": "Si se explota la vulnerabilidad le da al atacante la capacidad de violar cualquier tienda en l\u00ednea basada en la plataforma Magento incluyendo datos de tarjetas de cr\u00e9dito, informaci\u00f3n financiera y personal de los clientes.",
             "date": "2015-04-27",
             "author_name": "Geek Staff",
             "categories": "magento",
-            "tags": "tarjetas,tarjetas-de-cr\u00e9dito,cr\u00e9dito,vulnerabilidad,tienda,l\u00ednea,descubre,descubre-vulnerabilidad,check,check_point,point,plataforma,magento",
+            "tags": "datos,datos-de-tarjetas,tarjetas,tarjetas-de-cr\u00e9dito,cr\u00e9dito,l\u00ednea,basada,vulnerabilidad,cualquier,descubre,descubre-vulnerabilidad,check,check_point,point,plataforma,tienda,magento",
             "recuweb_url": "http://es.recuweb.com/magento/geek.com.mx/2015/04/check-point-descubre-vulnerabilidad-masiva-en-la-plataforma",
             "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geek.com.mx/2015/04/check-point-descubre-vulnerabilidad-masiva-en-la-plataforma-de-comercio-electronico-magento/"
         },
-        "urbecom.com/2015/04/se-descubre-una-vulnerabilidad-en-magento-blog-urbecom": {
-            "title": "Se descubre una vulnerabilidad en Magento Blog UrbeCOM...",
-            "snippet": "Magento, la conocida plataforma de comercio electr\u00f3nico propiedad de eBay desde el a\u00f1o 2011 que se usa por innumerables tiendas online en todo el mundo, presenta una grave vulnerabilidad que podr\u00eda provocar que los...",
-            "date": "2015-04-23",
-            "author_name": "urbeCOM Ecomercio",
-            "categories": "propiedad,magento",
-            "tags": "vulnerabilidad,vulnerabilidad-que-podr\u00eda,podr\u00eda,tiendas,tiendas-online,mundo,comercio,comercio-electr\u00f3nico,electr\u00f3nico,magento,descubre,plataforma,ebay",
-            "recuweb_url": "http://es.recuweb.com/magento/urbecom.com/2015/04/se-descubre-una-vulnerabilidad-en-magento-blog-urbecom",
+        "brainsins.com/2015/04/vulnerabilidad-grave-en-magento-aplica-el-parche-de-seguridad": {
+            "title": "Vulnerabilidad grave en Magento, aplica el parche de seguridad...",
+            "snippet": "\u00bfTu tienda online est\u00e1 basada en Magento? Si es que si, existe una gran probabilidad de que se vea afectada por la recientemente vulnerabilidad publicada por Check Point, que puede tener efectos cr\u00edticos en tu web.",
+            "date": "2015-04-24",
+            "author_name": "Jos\u00e9 Carlos Cortizo P\u00e9rez",
+            "categories": "magento",
+            "tags": "puede,web,check,check_point,point,gran,vulnerabilidad,basada,seguridad,magento,tienda",
+            "recuweb_url": "http://es.recuweb.com/magento/brainsins.com/2015/04/vulnerabilidad-grave-en-magento-aplica-el-parche-de-seguridad",
             "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://urbecom.com/blog/se-descubre-una-vulnerabilidad-en-magento/"
+            "source_url": "http://brainsins.com/es/blog/vulnerabilidad-grave-magento/111828"
+        },
+        "segured.com/2015/04/descubierta-una-vulnerabilidad-en-magento-que-pone-peligro": {
+            "title": "Descubierta una vulnerabilidad en Magento que pone en peligro a...",
+            "snippet": "Descubierta por Check Point, la vulnerabilidad comprometer\u00eda plenamente cualquier tienda online basada en la plataforma de comercio online de eBay Magento, permitiendo el robo de datos de tarjetas de cr\u00e9dito.",
+            "date": "2015-04-23",
+            "author_name": "Segured",
+            "categories": "magento",
+            "tags": "datos,datos-de-tarjetas,tarjetas,tarjetas-de-cr\u00e9dito,cr\u00e9dito,comercio,ebay,basada,vulnerabilidad,cualquier,check,check_point,point,magento,tienda,plataforma",
+            "recuweb_url": "http://es.recuweb.com/magento/segured.com/2015/04/descubierta-una-vulnerabilidad-en-magento-que-pone-peligro",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://segured.com/2015/descubierta-una-vulnerabilidad-en-magento-que-pone-en-peligro-a-200-000-tiendas-online/"
         },
         "ecommaster.es/2015/04/prep%C3%A1rate-para-dominar-magento-y-ganar-dinero-con-tu-tienda": {
             "title": "Prep\u00e1rate para dominar Magento y ganar dinero con tu tienda...",
@@ -39,7 +61,7 @@
             "date": "2015-04-22",
             "author_name": "desconocido",
             "categories": "magento",
-            "tags": "hay,venta,tienda,magento",
+            "tags": "hay,venta,venta-online,magento,tienda",
             "recuweb_url": "http://es.recuweb.com/magento/ecommaster.es/2015/04/prep%C3%A1rate-para-dominar-magento-y-ganar-dinero-con-tu-tienda",
             "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ecommaster.es/dominar-magento-ganar-dinero-tienda-online"
@@ -50,7 +72,7 @@
             "date": "2015-04-19",
             "author_name": "Jason Soto",
             "categories": "magento",
-            "tags": "vulnerabilidad,vulnerabilidad-que-podr\u00eda,podr\u00eda,ejecuci\u00f3n,cr\u00edtica,magento,patch",
+            "tags": "vulnerabilidad,seguridad,ejecuci\u00f3n,magento,patch",
             "recuweb_url": "http://es.recuweb.com/magento/jsitech.com/2015/04/actualizaci%C3%B3n-cr%C3%ADtica-de-seguridad-supee-5344-magento",
             "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://jsitech.com/seguridad/actualizacion-critica-de-seguridad-supee-5344-magento/"
@@ -61,32 +83,10 @@
             "date": "2015-04-15",
             "author_name": "Hugo Hern\u00e1ndez",
             "categories": "magento",
-            "tags": "need,those,programador,magento,platform,that,ecommerce,this",
+            "tags": "those,magento,platform,that,ecommerce,this",
             "recuweb_url": "http://es.recuweb.com/magento/donchambitas.com/2015/04/programador-magento-don-chambitas",
             "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://donchambitas.com/programador-magento/"
-        },
-        "danielnavarroymas.com/2015/03/instalar-y-configurar-varnish-para-optimizar-magento-daniel-navarro": {
-            "title": "Instalar y configurar Varnish para optimizar Magento - Daniel Navarro...",
-            "snippet": "Ideas b\u00e1sicas acerca de Varnish y Magento. Si quieres conocer los aspectos b\u00e1sicos de la integraci\u00f3n de Magento y Varnish, puedes comenzar leyendo el art\u00edculo Acelerar Magento con Varnish Cach\u00e9...",
-            "date": "2015-03-23",
-            "author_name": "Daniel Navarro Murillo",
-            "categories": "magento",
-            "tags": "puedes,conocer,magento",
-            "recuweb_url": "http://es.recuweb.com/magento/danielnavarroymas.com/2015/03/instalar-y-configurar-varnish-para-optimizar-magento-daniel-navarro",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://danielnavarroymas.com/instalar-y-configurar-varnish-para-optimizar-magento/"
-        },
-        "danielnavarroymas.com/2015/03/magento-obtener-todas-las-rutas-configuradas-programador": {
-            "title": "Magento: Obtener todas las rutas configuradas Programador...",
-            "snippet": "No es un caso muy habitual, pero a veces la mejor forma de saber qu\u00e9 m\u00f3dulos est\u00e1n instalados en nuestra tienda Magento es conocer todas las rutas posibles que cada uno de los m\u00f3dulos genera. En particular a nosotros...",
-            "date": "2015-03-21",
-            "author_name": "Daniel Navarro Murillo",
-            "categories": "magento",
-            "tags": "conocer,m\u00f3dulos,tienda,magento,programador",
-            "recuweb_url": "http://es.recuweb.com/magento/danielnavarroymas.com/2015/03/magento-obtener-todas-las-rutas-configuradas-programador",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://danielnavarroymas.com/magento-obtener-todas-las-rutas-configuradas/"
         },
         "publimail.asx.mx/2015/03/modificaciones-en-magento": {
             "title": "Modificaciones en Magento...",
@@ -94,7 +94,7 @@
             "date": "2015-03-07",
             "author_name": "Alfonso S\u00e1nchez Gonz\u00e1lez",
             "categories": "desarrollo-web,magento,twitter",
-            "tags": "web,hay,magento,puedes",
+            "tags": "web,proyectos,hay,nuevos,magento",
             "recuweb_url": "http://es.recuweb.com/twitter/publimail.asx.mx/2015/03/modificaciones-en-magento",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=magento%2Bmagento&rss=1&lng=es",
             "source_url": "http://publimail.asx.mx/2015/03/modificaciones-en-magento.html"
@@ -105,7 +105,7 @@
             "date": "2015-03-05",
             "author_name": "Isidro Ros",
             "categories": "magento",
-            "tags": "comercio,comercio-electr\u00f3nico,electr\u00f3nico,tiendas,tiendas-online,magento",
+            "tags": "gran,comercio,comercio-electr\u00f3nico,electr\u00f3nico,ideal,magento",
             "recuweb_url": "http://es.recuweb.com/magento/muycomputer.com/2015/03/magento-un-gestor-de-contenidos-ideal-para-tiendas-online",
             "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://muycomputer.com/2015/03/05/ventajas-magento"

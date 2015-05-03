@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bing",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bing/",
@@ -11,13 +11,23 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
+        "vistelacalle.com/2015/04/el-estilo-de-fan-bingbing-viste-la-calle": {
+            "title": "El estilo de Fan Bingbing Viste la Calle...",
+            "snippet": "Puede pasar de llevar un delicado vestido Valentino a protagonizar la campa\u00f1a de Adidas Originals sin problemas. La actriz china Fan Bingbing, protagonista de la nueva serie The empress of China que ya revisamos...",
+            "date": "2015-04-28",
+            "author_name": "Andrea Mart\u00ednez Maugard",
+            "tags": "nueva,fan,fan_bingbing,bingbing,llevar,puede",
+            "recuweb_url": "http://es.recuweb.com/vistelacalle.com/2015/04/el-estilo-de-fan-bingbing-viste-la-calle",
+            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://vistelacalle.com/133295/el-estilo-de-fan-bingbing/"
+        },
         "pulsosocial.com/2015/04/cyanogen-bing-spotify-y-el-ceo-mejor-pagado-de-2014": {
             "title": "Cyanogen, Bing, Spotify y el CEO mejor pagado de 2014...",
             "snippet": "As\u00ed, aquellos dispositivos que usen Cyanogen tendr\u00e1n incluidos Bing, Skype, OneDrive, OneNote, Outlook y Office. No est\u00e1 claro si podr\u00e1n eliminarse y ser\u00e1n opcionales, o si estar\u00e1n totalmente integrados con el sistema...",
             "date": "2015-04-18",
             "author_name": "J\u00f3se Martin",
             "categories": "bing",
-            "tags": "bing",
+            "tags": "sistema,bing",
             "recuweb_url": "http://es.recuweb.com/bing/pulsosocial.com/2015/04/cyanogen-bing-spotify-y-el-ceo-mejor-pagado-de-2014",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pulsosocial.com/2015/04/17/cyanogen-bing-spotify-y-el-ceo-mejor-pagado-de-2014/"
@@ -28,9 +38,9 @@
             "date": "2015-04-17",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "bing",
-            "tags": "semana,estados,estados_unidos,unidos,mercado,b\u00fasqueda,primera,buscador,bing,microsoft,comscore",
+            "tags": "estados,unidos,primera,utiliza,buscador,bing,microsoft,b\u00fasqueda",
             "recuweb_url": "http://es.recuweb.com/bing/cnnexpansion.com/2015/04/1-de-cada-5-personas-utiliza-el-buscador-bing-microsoft",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/tecnologia/2015/04/17/1-de-cada-5-personas-utiliza-el-buscador-bing-de-microsoft"
         },
         "muycomputer.com/2015/04/bing-alcanza-el-20%-de-cuota-en-b%C3%BAsquedas-desde-pc-estados": {
@@ -39,7 +49,7 @@
             "date": "2015-04-17",
             "author_name": "Eduardo Medina",
             "categories": "bing",
-            "tags": "alcanza,bing,estados,unidos",
+            "tags": "bing,estados,unidos",
             "recuweb_url": "http://es.recuweb.com/bing/muycomputer.com/2015/04/bing-alcanza-el-20%-de-cuota-en-b%C3%BAsquedas-desde-pc-estados",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://muycomputer.com/2015/04/17/bing-20-por-ciento-cuota-busquedas-pc-estados-unidos"
@@ -50,21 +60,10 @@
             "date": "2015-04-16",
             "author_name": "Hector Russo",
             "categories": "bing",
-            "tags": "b\u00fasqueda,acaba,bing,ios,android,ejemplo",
+            "tags": "menos,acaba,bing,b\u00fasqueda,ios,android",
             "recuweb_url": "http://es.recuweb.com/bing/geeksroom.com/2015/04/bing-mejora-la-b%C3%BAsqueda-de-im%C3%A1genes-en-ios-y-android-escribir",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geeksroom.com/2015/04/bing-mejora-la-busqueda-de-imagenes-en-ios-y-android-escribir-menos-buscar-imagenes-mas-rapido/93463/"
-        },
-        "posicionamientoenbuscadoreswebseo.es/2015/04/nueve-diferencias-entre-bing-ads-y-google-adwords": {
-            "title": "Nueve diferencias entre Bing Ads y Google Adwords...",
-            "snippet": "Esta semana hemos conocido los \u00faltimos datos de ComsCore sobre las cuotas de mercado de los principales buscadores en Estados Unidos, y nos encontramos con una gran sorpresa: Bing alcanza un digno 20% del...",
-            "date": "2015-04-16",
-            "author_name": "Marco Pilco Vinueza",
-            "categories": "google,adwords,bing",
-            "tags": "alcanza,gran,estados,estados_unidos,unidos,mercado,datos,semana,google,google_adwords,adwords,bing,bing_ads,ads,comscore",
-            "recuweb_url": "http://es.recuweb.com/bing/posicionamientoenbuscadoreswebseo.es/2015/04/nueve-diferencias-entre-bing-ads-y-google-adwords",
-            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://posicionamientoenbuscadoreswebseo.es/nueve-diferencias-entre-bing-ads-y-google-adwords/"
         },
         "microsoftinsider.es/2015/04/bing-ads-disponible-para-ios-monitoriza-tus-campa%C3%B1as": {
             "title": "Bing Ads disponible para iOS, monitoriza tus campa\u00f1as - Bing...",
@@ -72,7 +71,7 @@
             "date": "2015-04-15",
             "author_name": "Pablo Guijarro",
             "categories": "bing,iphone,ipad",
-            "tags": "informaci\u00f3n,aplicaci\u00f3n,acaba,bing,bing_ads,ads,ios,microsoft,iphone,ipad,publicidad",
+            "tags": "aplicaci\u00f3n,acaba,bing,bing_ads,ads,ios,microsoft,iphone,ipad,publicidad",
             "recuweb_url": "http://es.recuweb.com/ipad/microsoftinsider.es/2015/04/bing-ads-disponible-para-ios-monitoriza-tus-campa%C3%B1as",
             "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsoftinsider.es/67914/bing-ads-disponible-para-ios-monitoriza-tus-campanas/"
@@ -83,9 +82,9 @@
             "date": "2015-04-15",
             "author_name": "Juan David Qui\u00f1\u00f3nez",
             "categories": "bing,adwords,iphone,ipad",
-            "tags": "aplicaci\u00f3n,bing,bing_ads,ads,nueva,ios,microsoft,adwords,iphone,ipad",
+            "tags": "cualquier,ser\u00e1,\u00fatil,aplicaci\u00f3n,bing,bing_ads,ads,nueva,ios,microsoft,iphone,ipad",
             "recuweb_url": "http://es.recuweb.com/ipad/wwwhatsnew.com/2015/04/nueva-aplicaci%C3%B3n-m%C3%B3vil-oficial-de-bing-ads-para-ios-wwwhat",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/04/15/nueva-aplicacion-movil-oficial-bing-ads/"
         },
         "microsoftinsider.es/2015/04/bing-pronostica-el-resultado-del-primer-cruce-de-cuartos-final": {
@@ -105,7 +104,7 @@
             "date": "2015-04-13",
             "author_name": "dianaort",
             "categories": "pintura,bing",
-            "tags": "dos,empieza,hacer,bing,fuente",
+            "tags": "empieza,cosas,bing,hacer,fuente",
             "recuweb_url": "http://es.recuweb.com/bing/dianaort.wordpress.com/2015/04/tema-8-vanguardias-art%C3%ADsticas",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=bing%2Bbing&rss=1&lng=es",
             "source_url": "http://dianaort.wordpress.com/2015/04/13/tema-8-vanguardias-artisticas/"
@@ -116,7 +115,7 @@
             "date": "2015-04-11",
             "author_name": "Xavi Santamaria",
             "categories": "google,bing,yahoo",
-            "tags": "fuente,gran,buscador,aunque,google,microsoft,bing,android,yahoo",
+            "tags": "fuente,google,aspecto,microsoft,bing,android,buscador,yahoo,gracias,navegador",
             "recuweb_url": "http://es.recuweb.com/yahoo/andro4all.com/2015/04/microsoft-cambia-el-aspecto-de-bing-en-android-andro4all",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://andro4all.com/2015/04/microsoft-renueva-aspecto-bing"

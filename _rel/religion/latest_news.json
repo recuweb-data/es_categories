@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "religion",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/religion/",
@@ -11,42 +11,52 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/religion/religion/blogs.json"
     },
     "items": {
+        "infovaticana.com/2015/05/una-guerra-de-religi%C3%B3n-la-independencia-espa%C3%B1ola-1808-1814-infovaticana": {
+            "title": "Una guerra de religi\u00f3n: La de la Independencia espa\u00f1ola (1808-1814) - Infovaticana...",
+            "snippet": "InfovaticanaUna guerra de religi\u00f3n: La de la Independencia espa\u00f1ola (1808-1814)InfovaticanaUn muy querido amigo ha festejado el d\u00eda de hoy, 2 de mayo, enviando a su lista de correos un viejo art\u00edculo m\u00edo. Es de 1991 y yo lo ten\u00eda...",
+            "date": "2015-05-02",
+            "categories": "religion",
+            "tags": "religi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/religion/infovaticana.com/2015/05/una-guerra-de-religi%C3%B3n-la-independencia-espa%C3%B1ola-1808-1814-infovaticana",
+            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
+            "source_url": "http://infovaticana.com/blog/cigona/2015/05/02/una-guerra-de-religion-la-de-la-independencia-espanola-1808-1814/"
+        },
+        "es.catholic.net/2015/05/la-virtud-de-religi%C3%B3n": {
+            "title": "La virtud de la religi\u00f3n...",
+            "snippet": "La virtud de la religi\u00f3n tiene sus ra\u00edces en la sabidur\u00eda, en la humildad y en el amor. Por la sabidur\u00eda, el hombre conoce y reconoce a Dios como creador y se\u00f1or del cosmos; por la humildad, acepta el lugar que le corresponde y considera su...",
+            "date": "2015-05-01",
+            "categories": "religion",
+            "tags": "acepta,tiene,religi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/religion/es.catholic.net/2015/05/la-virtud-de-religi%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=es",
+            "source_url": "http://es.catholic.net/op/articulos/56651/la-virtud-de-la-religion"
+        },
         "chilevision.cl/2015/05/mi-esposa-no-acepta-la-religi%C3%B3n-que-profeso-hace-a%C3%B1os-chilevision": {
             "title": "Mi esposa no acepta la religi\u00f3n que profeso hace a\u00f1os - Chilevision...",
             "snippet": "ChilevisionMi esposa no acepta la religi\u00f3n que profeso hace a\u00f1osChilevisionAdem\u00e1s el profesa la religi\u00f3n de los babalao. Esta situaci\u00f3n le ha generado problemas con su matrimonio porque ella no acepta su religi\u00f3n, ya que le bot\u00f3 todo lo que...",
             "date": "2015-05-01",
             "categories": "religion",
-            "tags": "porque,religi\u00f3n",
+            "tags": "porque,acepta,religi\u00f3n",
             "recuweb_url": "http://es.recuweb.com/religion/chilevision.cl/2015/05/mi-esposa-no-acepta-la-religi%C3%B3n-que-profeso-hace-a%C3%B1os-chilevision",
-            "resource_url": "http://news.google.es/?hl=es&q=religion&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
             "source_url": "http://chilevision.cl/caso-cerrado/casos/mi-esposa-no-acepta-la-religion-que-profeso-hace-anos/2015-04-30/195437.html"
         },
         "diario.mx/2015/04/cambia-religi%C3%B3n-vida-de-pacquiao-diario-digital-ju%C3%A1rez": {
             "title": "Cambia religi\u00f3n vida de Pacquiao - Diario Digital Ju\u00e1rez...",
-            "snippet": "Cambia religi\u00f3n vida de PacquiaoDiario Digital Ju\u00e1rezManila El boxeador filipino Manny Pacquiao, rival el s\u00e1bado del estadounidense Floyd Mayweather en un combate de m\u00e1xima expectaci\u00f3n, es ahora un ferviente cristiano, despu\u00e9s de que la...",
+            "snippet": "ESPN DeportesCambia religi\u00f3n vida de PacquiaoDiario Digital Ju\u00e1rezManila El boxeador filipino Manny Pacquiao, rival el s\u00e1bado del estadounidense Floyd Mayweather en un combate de m\u00e1xima expectaci\u00f3n, es ahora un ferviente cristiano, despu\u00e9s de...",
             "date": "2015-04-30",
             "categories": "religion",
             "tags": "ahora,cristiano,religi\u00f3n",
             "recuweb_url": "http://es.recuweb.com/religion/diario.mx/2015/04/cambia-religi%C3%B3n-vida-de-pacquiao-diario-digital-ju%C3%A1rez",
-            "resource_url": "http://news.google.es/?hl=es&q=religion&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
             "source_url": "http://diario.mx/Deportes/2015-04-29_c2e0fac6/cambia-religion-vida-de-pacquiao/"
-        },
-        "eltiempo.com/2015/04/cr%C3%ADtica-mente-extremismo-y-religi%C3%B3n": {
-            "title": "Cr\u00edtica Mente/Extremismo y religi\u00f3n -...",
-            "snippet": "Cr\u00edtica Mente/Extremismo y religi\u00f3 lleg\u00f3 la hora de elegir la mejor pel\u00edcula extranjera, en la pasada entrega de los premios \u00d3scar, las apuestas de la mayor\u00eda de los observadores colombianos se concentraron en dos filmes: Ida, por su belleza,...",
-            "date": "2015-04-30",
-            "categories": "religion",
-            "tags": "religi\u00f3,religi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/religion/eltiempo.com/2015/04/cr%C3%ADtica-mente-extremismo-y-religi%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=religion&output=atom&nord=1",
-            "source_url": "http://eltiempo.com/entretenimiento/cine-y-tv/critica-mentecolumnaextremismo-y-religion/15656020"
         },
         "madridiario.es/2015/04/el-curr%C3%ADculum-de-bachillerato-incluye-m%C3%A1s-religi%C3%B3n-y-desvirt%C3%BAa-la-modalidad": {
             "title": "El curr\u00edculum de Bachillerato incluye m\u00e1s Religi\u00f3n y desvirt\u00faa la modalidad de Artes...",
             "snippet": "Religi\u00f3n hasta en 2 de Bachillerato: La asignatura de Religi\u00f3n gana peso con la LOMCE tambi\u00e9n en Bachillerato. Hasta ahora solo era optativa en 1 de Bachillerato, pero con el nuevo curr\u00edculum tambi\u00e9n se incluye entre las opciones de 2, al...",
             "date": "2015-04-30",
             "categories": "religion",
-            "tags": "nuevo,ahora,asignatura,religi\u00f3n",
+            "tags": "ahora,asignatura,religi\u00f3n",
             "recuweb_url": "http://es.recuweb.com/religion/madridiario.es/2015/04/el-curr%C3%ADculum-de-bachillerato-incluye-m%C3%A1s-religi%C3%B3n-y-desvirt%C3%BAa-la-modalidad",
             "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=es",
             "source_url": "http://madridiario.es/educacion/religion/lomce/comunidad-de-madrid-/curriculum-bachillerato/bachillerato-de-artes/422087"
@@ -66,50 +76,40 @@
             "snippet": "ACI PrensaMant\u00e9n tu religi\u00f3n fuera del Parlamento: El pol\u00e9mico pedido de...ACI PrensaEn declaraciones a ACI Prensa el 28 de abril, concluida la sesi\u00f3n de la Comisi\u00f3n de Justicia que debate el proyecto de ley de aborto por violaci\u00f3n, Mulder...",
             "date": "2015-04-30",
             "categories": "religion",
-            "tags": "debate,fuera,religi\u00f3n",
+            "tags": "fuera,religi\u00f3n,justicia",
             "recuweb_url": "http://es.recuweb.com/religion/aciprensa.com/2015/04/mant%C3%A9n-tu-religi%C3%B3n-fuera-del-parlamento-el-pol%C3%A9mico-pedido-de-aci",
-            "resource_url": "http://news.google.es/?hl=es&q=religion&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
             "source_url": "http://aciprensa.com/noticias/manten-tu-religion-fuera-del-parlamento-el-polemico-pedido-de-congresista-peruano-29449/"
         },
-        "eldia.es/2015/04/religi%C3%B3n-en-las-aulas": {
-            "title": "Religi\u00f3n en las aulas...",
-            "snippet": "Sin haberse celebrado todav\u00eda las elecciones municipales y auton\u00f3micas, el PSOE, a trav\u00e9s de su secretario general, Pedo S\u00e1nchez, ha iniciado ya su particular campa\u00f1a para las generales mostrando su cara m\u00e1s hostil hacia la Iglesia cat\u00f3lica,...",
+        "ciudad.com.ar/2015/04/mar%C3%ADa-paz-de-gran-hermano-2015-chica-religiosa-a-bailarina": {
+            "title": "Mar\u00eda Paz de Gran Hermano 2015, de chica religiosa a bailarina de... -...",
+            "snippet": "\u00eda Paz de Gran Hermano 2015, de chica religiosa a bailarina de... no est\u00e1 permitido tener relaciones antes del casamiento, dej\u00e9 la religi\u00f3n y empec\u00e9 hacer todo lo que no pod\u00eda y me llamaron para posar para Playboy. En mi casa siempre estoy en...",
+            "date": "2015-04-30",
+            "categories": "religion",
+            "tags": "mar\u00eda,paz,religi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/religion/ciudad.com.ar/2015/04/mar%C3%ADa-paz-de-gran-hermano-2015-chica-religiosa-a-bailarina",
+            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
+            "source_url": "http://ciudad.com.ar/espectaculos/131740/maria-paz-gran-hermano-2015-chica-religiosa-bailarina-showmatch-tapa-playboy-sus"
+        },
+        "teinteresa.es/2015/04/se-triplican-en-10-a%C3%B1os-las-religiones-no-cat%C3%B3licas-espa%C3%B1a": {
+            "title": "Se triplican en 10 a\u00f1os las religiones no cat\u00f3licas en Espa\u00f1a, seg\u00fan el Ministerio de Justicia...",
+            "snippet": "As\u00ed lo ha explicado Herrera este jueves durante una reuni\u00f3n con el ministro de Justicia austriaco, Wolfgang Brandstetter, que previamente se hab\u00eda reunido con su hom\u00f3logo espa\u00f1ol, Rafael Catal\u00e1, para tratar asuntos de cooperaci\u00f3n bilateral.",
+            "date": "2015-04-30",
+            "categories": "religion",
+            "tags": "espa\u00f1ol,durante,ministro,religiones,espa\u00f1a,justicia",
+            "recuweb_url": "http://es.recuweb.com/religion/teinteresa.es/2015/04/se-triplican-en-10-a%C3%B1os-las-religiones-no-cat%C3%B3licas-espa%C3%B1a",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=religion%2Breligion&format=RSS&cc=es",
+            "source_url": "http://teinteresa.es/religion/religiones-catolicas-Espana-Ministerio-Justicia_0_1348666872.html"
+        },
+        "eltiempo.com/2015/04/critica-mentecolumnaextremismo-y-religion": {
+            "title": "Critica MentecolumnaExtremismo y religion -...",
+            "snippet": "Critica MentecolumnaExtremismo y lleg\u00f3 la hora de elegir la mejor pel\u00edcula extranjera, en la pasada entrega de los premios \u00d3scar, las apuestas de la mayor\u00eda de los observadores colombianos se concentraron en dos filmes: Ida, por su belleza, y...",
             "date": "2015-04-29",
             "categories": "religion",
-            "tags": "religi\u00f3n,psoe",
-            "recuweb_url": "http://es.recuweb.com/religion/eldia.es/2015/04/religi%C3%B3n-en-las-aulas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=es",
-            "source_url": "http://eldia.es/criterios/2015-04-30/13-Religion-aulas.htm"
-        },
-        "elsiglodetorreon.com.mx/2015/04/ciencia-y-religi%C3%B3n-un-debate-menor-el-siglo-de-torre%C3%B3n": {
-            "title": "Ciencia y religi\u00f3n, un debate menor - El Siglo de Torre\u00f3n...",
-            "snippet": "El Siglo de Torre\u00f3nCiencia y religi\u00f3n, un debate menorEl Siglo de Torre\u00f3nHan modificado gen\u00e9ticamente embriones humanos, una pr\u00e1ctica muy controvertida en Occidente, pero no tanto en el gigante asi\u00e1tico, donde el debate entre ciencia y...",
-            "date": "2015-04-28",
-            "categories": "ciencia,religion",
-            "tags": "debate,religi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/religion/elsiglodetorreon.com.mx/2015/04/ciencia-y-religi%C3%B3n-un-debate-menor-el-siglo-de-torre%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
-            "source_url": "http://elsiglodetorreon.com.mx/noticia/1109385.ciencia-y-religion-un-debate-menor.html"
-        },
-        "elcolombiano.com/2015/04/ecoturismo-y-religi%C3%B3n-los-atractivos-del-aburr%C3%A1-sur-el-colombiano": {
-            "title": "Ecoturismo y religi\u00f3n, los atractivos del Aburr\u00e1 Sur - El Colombiano...",
-            "snippet": "El ColombianoEcoturismo y religi\u00f3n, los atractivos del Aburr\u00e1 SurEl ColombianoLa religi\u00f3n, el inter\u00e9s por la ecolog\u00eda y el ecoturismo, y la gastronom\u00eda son algunas de las ventajas que los municipios del sur del Valle de Aburr\u00e1 tienen a su...",
-            "date": "2015-04-28",
-            "categories": "religion",
-            "tags": "algunas,religi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/religion/elcolombiano.com/2015/04/ecoturismo-y-religi%C3%B3n-los-atractivos-del-aburr%C3%A1-sur-el-colombiano",
-            "resource_url": "http://news.google.es/?hl=es&q=religion%2Breligion&output=atom&nord=1",
-            "source_url": "http://elcolombiano.com/ecoturismo-y-religion-los-atractivos-del-aburra-sur-FN1807676"
-        },
-        "periodistadigital.com/2015/04/el-nuevo-curr%C3%ADculo-de-religi%C3%B3n-a-debate-en-granada": {
-            "title": "El nuevo curr\u00edculo de Religi\u00f3n, a debate en Granada...",
-            "snippet": "El seminario ha sido convocado por el Vicerrectorado de Relaciones Institucionales con el deseo de escuchar y reflexionar con los distintos agentes implicados en el desarrollo de la clase de religi\u00f3n para mejorar tanto la docencia como la oferta...",
-            "date": "2015-04-28",
-            "categories": "religion",
-            "tags": "debate,nuevo,curr\u00edculo,religi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/religion/periodistadigital.com/2015/04/el-nuevo-curr%C3%ADculo-de-religi%C3%B3n-a-debate-en-granada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=es",
-            "source_url": "http://periodistadigital.com/religion/educacion/2015/04/28/el-nuevo-curriculo-de-religion-a-debate-en-granada-religion-iglesia-edelvives.shtml"
+            "tags": "religion",
+            "recuweb_url": "http://es.recuweb.com/religion/eltiempo.com/2015/04/critica-mentecolumnaextremismo-y-religion",
+            "resource_url": "http://news.google.es/?hl=es&q=religion&output=atom&nord=1",
+            "source_url": "http://eltiempo.com/entretenimiento/cine-y-tv/critica-mentecolumnaextremismo-y-religion/15656020"
         }
     }
 }

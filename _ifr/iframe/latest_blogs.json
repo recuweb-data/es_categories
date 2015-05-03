@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "iframe",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/iframe/",
@@ -17,21 +17,21 @@
             "date": "2015-04-02",
             "author_name": "Peter Gramantik",
             "categories": "iframe",
-            "tags": "c\u00f3mo,utiliza,ese,puesto,flash,malware,sucuri,espa\u00f1ol,web,iframe,malicioso",
+            "tags": "c\u00f3mo,utiliza,ese,flash,espa\u00f1ol,web,iframe",
             "recuweb_url": "http://es.recuweb.com/iframe/blog.sucuri.net/2015/04/malware-web-los-swf-iframe-inyector-evoluciona-sucuri-espa%C3%B1ol",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.sucuri.net/espanol/2015/04/02/malware-web-los-swf-iframe-inyector-evoluciona.html"
         },
-        "blog.sucuri.net/2015/03/wordpress-malware-causas-psuedo-darkleech-infecci%C3%B3n-sucuri": {
-            "title": "WordPress Malware Causas Psuedo-Darkleech Infecci\u00f3n Sucuri...",
-            "snippet": "Declaraci\u00f3n de una clase CSS con un nombre aleatorio y la posici\u00f3n absoluta negativa al azar; Un div de esa clase; Un iFrame malicioso con dimensiones azar dentro de ese div. Esto es lo que parec\u00eda en septiembre de...",
-            "date": "2015-03-26",
-            "author_name": "Denis Sinegubko",
-            "categories": "wordpress,css,iframe",
-            "tags": "malicioso,dentro,ese,esa,sucuri,malware,css,iframe",
-            "recuweb_url": "http://es.recuweb.com/iframe/blog.sucuri.net/2015/03/wordpress-malware-causas-psuedo-darkleech-infecci%C3%B3n-sucuri",
+        "forobeta.com/2015/03/ssl-https-no-muestra-iframes-forobeta": {
+            "title": "Ssl (https) no muestra iframes. - ForoBeta...",
+            "snippet": "Hola me he dado cuenta que cuando una web tiene ssl (https) y pones el codigo por ejemplo: Colocamos un c\u00f3digo de iframe en nuestra web con https ssl,...",
+            "date": "2015-03-30",
+            "author_name": "Carambel",
+            "categories": "iframe",
+            "tags": "https,c\u00f3digo,ejemplo,iframes,forobeta,hola,web,iframe",
+            "recuweb_url": "http://es.recuweb.com/iframe/forobeta.com/2015/03/ssl-https-no-muestra-iframes-forobeta",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.sucuri.net/espanol/2015/03/26/wordpress-malware-causas-psuedo-darkleech-infeccion.html"
+            "source_url": "http://forobeta.com/charla-del-webmaster/404505-ssl-https-no-muestra-iframes.html"
         },
         "comunidadcrm.com/2015/03/mostrar-crm-online-dentro-de-un-iframe-aplicaci%C3%B3n-terceros": {
             "title": "Mostrar CRM Online dentro de un IFrame de aplicaci\u00f3n de terceros...",
@@ -39,10 +39,21 @@
             "date": "2015-03-25",
             "author_name": "desconocido",
             "categories": "iframe",
-            "tags": "sea,utiliza,dentro,mostrar,iframe,aplicaci\u00f3n,problema",
+            "tags": "problema,sea,utiliza,iframe,aplicaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/iframe/comunidadcrm.com/2015/03/mostrar-crm-online-dentro-de-un-iframe-aplicaci%C3%B3n-terceros",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://comunidadcrm.com/topico/mostrar-crm-online-dentro-de-un-iframe-de-aplicacion-de-terceros/"
+        },
+        "losdeinformatica.wordpress.com/2015/03/regresar-a-la-p%C3%A1gina-anterior-desde-un-iframe-contenido": {
+            "title": "Regresar a la p\u00e1gina anterior desde un iframe contenido en otra...",
+            "snippet": "Imaginemos que creamos una p\u00e1gina que manda a llamar a una p\u00e1gina que contiene un iframe, hasta ahorita no hay ning\u00fan problema, pero que pasa si el iframe necesita regresarse a la p\u00e1gina que lo mando a llamar (no a...",
+            "date": "2015-03-23",
+            "author_name": "losdeinformatica",
+            "categories": "iframe",
+            "tags": "ning\u00fan,problema,creamos,contenido,anterior,p\u00e1gina,iframe,hay",
+            "recuweb_url": "http://es.recuweb.com/iframe/losdeinformatica.wordpress.com/2015/03/regresar-a-la-p%C3%A1gina-anterior-desde-un-iframe-contenido",
+            "resource_url": "http://www.google.com/search?q=iframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://losdeinformatica.wordpress.com/2015/03/23/regresar-a-la-pagina-anterior-desde-un-iframe-contenido-en-otra-pagina/"
         },
         "eoicalatayud.blogspot.com/2015/03/who-s-that-material-girl": {
             "title": "Who's that Material Girl?",
@@ -50,7 +61,7 @@
             "date": "2015-03-11",
             "author_name": "(JUAN MANUEL VILLAMAYOR)",
             "categories": "iframe",
-            "tags": "who,that,iframe",
+            "tags": "that,iframe",
             "recuweb_url": "http://es.recuweb.com/iframe/eoicalatayud.blogspot.com/2015/03/who-s-that-material-girl",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=iframe%2Biframe&rss=1&lng=es",
             "source_url": "http://eoicalatayud.blogspot.com/2015/03/whos-that-material-girl.html"
@@ -61,7 +72,7 @@
             "date": "2015-03-03",
             "author_name": "Angel",
             "categories": "iframe",
-            "tags": "simple,hacer,web,usar,iframe,puedo",
+            "tags": "darle,hacer,web,usar,iframe,puedo",
             "recuweb_url": "http://es.recuweb.com/iframe/algodeblogs.blogspot.com/2015/03/ver-o-incrustar-otra-web-en-tu-blog",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=iframe%2Biframe&rss=1&lng=es",
             "source_url": "http://algodeblogs.blogspot.com/2015/03/ver-o-incrustar-otra-web-en-tu-blog.html"
@@ -72,7 +83,7 @@
             "date": "2015-02-17",
             "author_name": "LuisNara",
             "categories": "iframe",
-            "tags": "puedo,hacer,esa,iframe,hola,web",
+            "tags": "puedo,hacer,iframe,forobeta,hola,web",
             "recuweb_url": "http://es.recuweb.com/iframe/forobeta.com/2015/02/ocultar-referrer-de-un-iframe-forobeta",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forobeta.com/php/395050-ocultar-referrer-de-iframe.html"
@@ -83,7 +94,7 @@
             "date": "2015-02-03",
             "author_name": "CybMeta",
             "categories": "iframe",
-            "tags": "sea,hacer,contenido,insertar,externo,c\u00f3mo,iframe,youtube,tutorial",
+            "tags": "sea,hacer,contenido,c\u00f3mo,iframe,insertar,youtube,tutorial",
             "recuweb_url": "http://es.recuweb.com/iframe/cybmeta.com/2015/02/c%C3%B3mo-hacer-un-iframe-responsive-cybmeta",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cybmeta.com/como-hacer-un-iframe-responsive/"
@@ -94,7 +105,7 @@
             "date": "2015-01-27",
             "author_name": "abtronic",
             "categories": "phpbb,iframe",
-            "tags": "allow,mediante,codigo,insertar,iframe,src,width,height,frameborder,screen",
+            "tags": "allow,juego,mediante,codigo,insertar,iframe,https,src,width,height,frameborder,screen",
             "recuweb_url": "http://es.recuweb.com/iframe/phpbb-es.com/2015/01/insertar-juego-mediante-su-codigo-iframe-phpbb-espa%C3%B1a-oficial",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://phpbb-es.com/foro/viewtopic.php?t=40300"
@@ -109,17 +120,6 @@
             "recuweb_url": "http://es.recuweb.com/iframe/ayudarbloggers.com/2015/01/poner-publicidad-en-v%C3%ADdeos-iframe-ayudar-bloggers",
             "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ayudarbloggers.com/2015/01/pober-publicidad-en-videos-iframe.html"
-        },
-        "blog.solucionex.com/2015/01/c%C3%B3mo-escalar-o-hacer-zoom-en-un-iframe-el-blog": {
-            "title": "C\u00f3mo escalar o hacer zoom en un iframe El Blog de Solucionex...",
-            "snippet": "Hoy os contamos un peque\u00f1o truco por si os puede ser de utilidad en alg\u00fan momento. Hace unas semanas uno de nuestros clientes nos solicit\u00f3 insertar un iframe de un servicio externo en una de las columnas de su web.",
-            "date": "2015-01-08",
-            "author_name": "tomas.olivera",
-            "categories": "iframe",
-            "tags": "externo,insertar,hacer,c\u00f3mo,iframe,web",
-            "recuweb_url": "http://es.recuweb.com/iframe/blog.solucionex.com/2015/01/c%C3%B3mo-escalar-o-hacer-zoom-en-un-iframe-el-blog",
-            "resource_url": "http://www.google.com/search?q=iframe%2Biframe&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.solucionex.com/css/como-escalar-o-hacer-zoom-en-un-iframe"
         }
     }
 }

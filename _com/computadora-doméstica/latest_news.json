@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "computadora-dom\u00e9stica",
+        "language": "es",
+        "updated": "20150503"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/computadora-dom\u00e9stica/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/computadora-dom%C3%A9stica/computadora-dom%C3%A9stica/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/computadora-dom%C3%A9stica/computadora-dom%C3%A9stica/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/computadora-dom%C3%A9stica/computadora-dom%C3%A9stica/blogs.json"
+    },
+    "items": {
+        "elmanana.com/2015/05/m%C3%A9xico-podr%C3%ADa-enfrentar-hasta-3-veces-m%C3%A1s-delitos-inform%C3%A1ticos-el-ma%C3%B1ana": {
+            "title": "M\u00e9xico podr\u00eda enfrentar hasta 3 veces m\u00e1s delitos inform\u00e1ticos - El Ma\u00f1ana de Reynosa...",
+            "snippet": "El Ma\u00f1ana de ReynosaM\u00e9xico podr\u00eda enfrentar hasta 3 veces m\u00e1s delitos inform\u00e1ticosEl Ma\u00f1ana de ReynosaLos expertos advierten que cualquier usuario de computadoras domesticas es vulnerable conforme empiezan a comprar conexiones a internet...",
+            "date": "2015-05-03",
+            "categories": "computadora",
+            "tags": "domesticas,computadoras",
+            "recuweb_url": "http://es.recuweb.com/computadora/elmanana.com/2015/05/m%C3%A9xico-podr%C3%ADa-enfrentar-hasta-3-veces-m%C3%A1s-delitos-inform%C3%A1ticos-el-ma%C3%B1ana",
+            "resource_url": "http://news.google.es/?hl=es&q=computadora%2Bdom%C3%A9stica&output=atom&nord=1",
+            "source_url": "http://elmanana.com/mexicopodriaenfrentarhasta3vecesmasdelitosinformaticos\u00a0-2877221.html"
+        }
+    }
+}

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register": {
+            "title": "Oracle paltry patch opens MySQL man-in-the-middle diddle - The Register...",
+            "snippet": "The RegisterOracle paltry patch opens MySQL man-in-the-middle diddleThe RegisterAdam Goodman of Duo Security has found a vulnerability in the 'vast majority'of Oracle MySQL databases that allows SSL to be stripped, exposing sensitive data to...",
+            "date": "2015-05-01",
+            "categories": "mysql",
+            "tags": "that,that-allows,allows,vulnerability,duo,duo_security,security,oracle,mysql,ssl",
+            "recuweb_url": "http://es.recuweb.com/mysql/theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/05/01/mysql_popped/"
+        },
+        "scmagazine.com/2015/05/vulnerability-enables-downgrading-of-mysql-ssl-tls-connections-sc-magazine": {
+            "title": "Vulnerability enables downgrading of MySQL SSL/TLS connections - SC Magazine...",
+            "snippet": "SC MagazineVulnerability enables downgrading of MySQL SSL/TLS connectionsSC MagazineA researcher with Duo Security has identified a vulnerability in MySQL client libraries, as well as forks such as MariaDB and Percona, that could enable an attacker...",
+            "date": "2015-05-01",
+            "categories": "mysql",
+            "tags": "that,attacker,identified,vulnerability,duo,duo_security,security,mysql,ssl,tls,connections,mariadb",
+            "recuweb_url": "http://es.recuweb.com/mysql/scmagazine.com/2015/05/vulnerability-enables-downgrading-of-mysql-ssl-tls-connections-sc-magazine",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://scmagazine.com/vulnerability-enables-downgrading-of-mysql-ssltls-connections/article/412558/"
+        },
+        "es.paperblog.com/2015/04/los-riesgos-del-community-manager-1-el-llanero-solitario": {
+            "title": "Los riesgos del Community Manager (1): El llanero solitario...",
+            "snippet": "MySql y Dise\u00f1o Gr\u00e1fico. Es lo que se conoce como el s\u00edndrome del llanero solitario. A nadie se le ocurrir\u00eda ir al dentista para que le opere de cataratas ni llevar el ordenador a reparar a un carpintero, sin embargo en el \u00e1mbito de internet...",
+            "date": "2015-04-30",
+            "categories": "internet,mysql",
+            "tags": "dise\u00f1o,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/es.paperblog.com/2015/04/los-riesgos-del-community-manager-1-el-llanero-solitario",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/los-riesgos-del-community-manager-1-el-llanero-solitario-3183069/"
+        },
+        "abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1": {
+            "title": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) 1. -...",
+            "snippet": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) l\u00e1nek je uren pedev\u00edm za\u00e1ten\u00edkm. Nejprve bych chtl popsat p\u00e1r z\u00e1kladn\u00edch funkc\u00ed pro komunikaci a pr\u00e1ci s datab\u00e1zemi MySQL, kter\u00e9 se pou\u00edvaj\u00ed v PHP. Jsou u jist vem dobe zn\u00e1my, ale opakov\u00e1n\u00ed je matka...",
+            "date": "2015-04-30",
+            "categories": "mysql,php",
+            "tags": "mysql,php",
+            "recuweb_url": "http://es.recuweb.com/php/abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://abclinuxu.cz/clanky/maly-mysql-manual-ale-po-svem-1"
+        },
+        "threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections-threatpost": {
+            "title": "MySQL Bug Can Strip SSL Protection From Connections - Threatpost...",
+            "snippet": "ThreatpostMySQL Bug Can Strip SSL Protection From ConnectionsThreatpostResearchers have identified a serious vulnerability in some versions of Oracle's MySQL database product that allows an attacker to strip SSL/TLS connections of their security...",
+            "date": "2015-04-30",
+            "categories": "mysql",
+            "tags": "connections,security,database,that,that-allows,allows,attacker,identified,vulnerability,mysql,ssl,oracle,tls",
+            "recuweb_url": "http://es.recuweb.com/mysql/threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections-threatpost",
+            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "source_url": "http://threatpost.com/mysql-bug-can-strip-ssl-protection-from-connections/112513"
+        },
+        "zonared.com/2015/04/v%C3%ADdeo-impresiones-lego-jurassic-world": {
+            "title": "V\u00eddeo impresiones 'LEGO Jurassic World'...",
+            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
+            "date": "2015-04-30",
+            "categories": "mysql",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,numrows,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/v%C3%ADdeo-impresiones-lego-jurassic-world",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://zonared.com/pc/videos/video-impresiones-lego-jurassic-world/"
+        },
+        "zonared.com/2015/04/little-big-planet-3-kit-de-niveles-hora-aventuras": {
+            "title": "'Little Big Planet 3'- Kit de Niveles de Hora de Aventuras...",
+            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
+            "date": "2015-04-29",
+            "categories": "mysql",
+            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,numrows,datos,virtual,free",
+            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/little-big-planet-3-kit-de-niveles-hora-aventuras",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
+            "source_url": "http://zonared.com/ps3/videos/little-big-planet-3-hora-de-aventuras-trailer/"
+        },
         "linuxadictos.com/2015/04/debian-8-jessie-ya-est%C3%A1-en-la-calle": {
             "title": "Debian 8 Jessie ya est\u00e1 en la calle...",
             "snippet": "En cuanto al mundo del servidor, Debian tambi\u00e9n incluye algunas opciones interesantes como la inclusi\u00f3n de MariaDB que sustituir\u00e1 poco a poco a Mysql, aunque por el momento, en Debian 8 Jessie coexisten estos dos softwares. Debian 8 Jessie...",
-            "date": "2015-04-27",
+            "date": "2015-04-29",
             "categories": "mysql",
-            "tags": "dos,debian,jessie,servidor,mariadb,mysql",
+            "tags": "servidor,mariadb,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/linuxadictos.com/2015/04/debian-8-jessie-ya-est%C3%A1-en-la-calle",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
             "source_url": "http://linuxadictos.com/debian-8-jessie-ya-esta-en-la-calle.html"
         },
-        "siliconweek.es/2015/04/ya-est%C3%A1-disponible-debian-8-jessie": {
-            "title": "Ya est\u00e1 disponible Debian 8 Jessie...",
-            "snippet": "Otras de sus caracter\u00edsticas son el perfeccionamiento de la compatibilidad con UEFI, la actualizaci\u00f3n de GNOME o los saltos a LibreOffice, GIMP, MariaDB y MySQL, por ejemplo. Seg\u00fan han garantizado sus responsables al...",
-            "date": "2015-04-27",
+        "informationweek.com/2015/04/mysql-cluster-an-in-memory-nosql-pioneer-informationweek": {
+            "title": "MySQL Cluster: An In-Memory, NoSQL Pioneer? - InformationWeek...",
+            "snippet": "InformationWeekMySQL Cluster: An In-Memory, NoSQL Pioneer?InformationWeekMost people think of MySQL Cluster as the distributed, high-performance, high-availability version of the popular open source database. But way back in its history -- before...",
+            "date": "2015-04-29",
             "categories": "mysql",
-            "tags": "ejemplo,caracter\u00edsticas,son,debian,jessie,mariadb,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/siliconweek.es/2015/04/ya-est%C3%A1-disponible-debian-8-jessie",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://siliconweek.es/software/disponible-debian-8-jessie-80037"
-        },
-        "es.paperblog.com/2015/04/c%C3%B3mo-elegir-un-buen-hosting-o-streaming-para-tu-blog-sitio": {
-            "title": "C\u00f3mo elegir un buen hosting o streaming para tu blog o sitio web.",
-            "snippet": "monitoreo 24/7 (todos los d\u00edas y horas del a\u00f1o), deben soportar la publicaci\u00f3n de archivos de video y audio, Java, Webmail, acceso FTP y Base de datos en MySql o SQL dependiendo. Si tienen m\u00e1s caracter\u00edsticas mucho mejor.",
-            "date": "2015-04-26",
-            "categories": "java,mysql",
-            "tags": "caracter\u00edsticas,datos,web,java,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/es.paperblog.com/2015/04/c%C3%B3mo-elegir-un-buen-hosting-o-streaming-para-tu-blog-sitio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/como-elegir-un-buen-hosting-o-streaming-para-tu-blog-o-sitio-web-3178870/"
-        },
-        "zonared.com/2015/04/este-es-gigas-nuevo-personaje-de-tekken-7": {
-            "title": "Este es Gigas, nuevo personaje de 'Tekken 7'...",
-            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
-            "date": "2015-04-26",
-            "categories": "mysql",
-            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,numrows,datos,virtual,free",
-            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/este-es-gigas-nuevo-personaje-de-tekken-7",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://zonared.com/ps4/videos/tekken-7-bandai-namco-gigas-video/"
-        },
-        "zonared.com/2015/04/submerged-tr%C3%A1iler-de-presentaci%C3%B3n": {
-            "title": "'Submerged'- Tr\u00e1iler de presentaci\u00f3n...",
-            "snippet": "Warning: mysql_numrows(): supplied argument is not a valid MySQL result resource in/datos/virtual/on line 61 Warning: mysql_free_result(): supplied argument is not a valid MySQL result resource in/datos/virtual...",
-            "date": "2015-04-25",
-            "categories": "mysql",
-            "tags": "line,result,result-resource,resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,numrows,datos,virtual,free",
-            "recuweb_url": "http://es.recuweb.com/mysql/zonared.com/2015/04/submerged-tr%C3%A1iler-de-presentaci%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://zonared.com/ps4/videos/submerged-trailer-presentacion/"
-        },
-        "eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-eweek": {
-            "title": "Deep Engine Brings Enterprise-Level Performance to MySQL... - eWeek...",
-            "snippet": "eWeekDeep Engine Brings Enterprise-Level Performance to MySQL...eWeekDeep Information Sciences has launched Deep Engine, a plug-and-play storage engine that brings scale and performance to MySQL databases, without the need for recoding or...",
-            "date": "2015-04-24",
-            "categories": "play,mysql",
-            "tags": "mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-eweek",
+            "tags": "database,people,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/informationweek.com/2015/04/mysql-cluster-an-in-memory-nosql-pioneer-informationweek",
             "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
-            "source_url": "http://eweek.com/database/slideshows/deep-engine-brings-enterprise-level-performance-to-mysql-databases.html"
+            "source_url": "http://informationweek.com/messages.asp?piddl_msgthreadid=22906&piddl_msgid=292001&piddl_msgtocontent=yes"
         },
-        "diariopresente.com.mx/2015/04/fotos-que-demuestran-los-animales-pueden-dormir-en-donde-sea": {
-            "title": "Fotos que demuestran que los animales pueden dormir en donde sea...",
+        "diariopresente.com.mx/2015/04/el-enorme-da%C3%B1o-al-patrimonio-mundial-de-la-humanid": {
+            "title": "El enorme da\u00f1o al Patrimonio Mundial de la Humanid...",
             "snippet": "Warning: mysql_fetch_object(): supplied argument is not a valid MySQL result resource in/home/diariop/public_html/php/02/on line 880 Warning: mysql_free_result() expects parameter 1 to be resource, boolean given in/home/diariop/public_html/php...",
-            "date": "2015-04-21",
+            "date": "2015-04-28",
             "categories": "mysql,html,php",
             "tags": "resource,line,result,result-resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,php,free",
-            "recuweb_url": "http://es.recuweb.com/php/diariopresente.com.mx/2015/04/fotos-que-demuestran-los-animales-pueden-dormir-en-donde-sea",
+            "recuweb_url": "http://es.recuweb.com/php/diariopresente.com.mx/2015/04/el-enorme-da%C3%B1o-al-patrimonio-mundial-de-la-humanid",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://diariopresente.com.mx/fotogaleria/5483.0.0.0.0/-fotos-demuestran-animales-pueden-dormir-donde-sea/"
-        },
-        "planoinformativo.com/2015/04/universidad-polit%C3%A9cnica-certifica-a-800-estudiantes-de-ingenier%C3%ADa": {
-            "title": "Universidad Polit\u00e9cnica certifica a 800 estudiantes de ingenier\u00eda...",
-            "snippet": "Java Solaris y MySQL), adem\u00e1s, se impartieron dos conferencias por parte de ingenieros de Cisco Systems Latinoam\u00e9rica, mismos que egresaron de la Universidad Polit\u00e9cnica en Ingenier\u00eda en Telem\u00e1tica. Hasta ahora son 800 las certificaciones...",
-            "date": "2015-04-21",
-            "categories": "java,ingenieria,mysql",
-            "tags": "certificaciones,son,dos,parte,java,java_solaris,solaris,estudiantes,certifica,universidad,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/planoinformativo.com/2015/04/universidad-polit%C3%A9cnica-certifica-a-800-estudiantes-de-ingenier%C3%ADa",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://planoinformativo.com/nota/id/386454/noticia/universidad-politecnica-certifica-a-800-estudiantes-de-ingenieria.html"
-        },
-        "revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes": {
-            "title": "UPSLP certifica a m\u00e1s de M\u00e1s de 800 estudiantes...",
-            "snippet": "Java Solaris y MySQL). 120 certificaciones fueron entregadas a estudiantes, lo que refleja el compromiso de la Academia de profesores para fortalecer esos programas educativos. Los estudiantes tuvieron la oportunidad de compartir experiencias con...",
-            "date": "2015-04-20",
-            "categories": "java,mysql",
-            "tags": "estudiantes,certificaciones,java,java_solaris,solaris,certifica,mysql,programas",
-            "recuweb_url": "http://es.recuweb.com/mysql/revistapuntodevista.com.mx/2015/04/upslp-certifica-a-m%C3%A1s-de-800-estudiantes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://revistapuntodevista.com.mx/2015/04/21/upslp-certifica-a-mas-de-mas-de-800-estudiantes/63146/"
-        },
-        "pcworldenespanol.com/2015/04/escoge-la-distro-de-gnu-linux-apropiadamente": {
-            "title": "Escoge la distro de GNU/Linux apropiadamente...",
-            "snippet": "Por ejemplo, si el servidor debe ejecutar las \u00faltimas versiones de un paquete com\u00fan como MySQL o PHP, la elecci\u00f3n de una distribuci\u00f3n m\u00e1s estable como CentOS o RHEL con un calendario de lanzamientos ya que complicar\u00e1 las cosas. Es probable que...",
-            "date": "2015-04-19",
-            "categories": "mysql,php",
-            "tags": "ejemplo,servidor,mysql,php",
-            "recuweb_url": "http://es.recuweb.com/php/pcworldenespanol.com/2015/04/escoge-la-distro-de-gnu-linux-apropiadamente",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://pcworldenespanol.com/2015/04/20/escoge-la-distro-de-gnulinux-apropiadamente/"
+            "source_url": "http://diariopresente.com.mx/fotogaleria/5517.0.0.0.0/gal_9080//"
         }
     }
 }

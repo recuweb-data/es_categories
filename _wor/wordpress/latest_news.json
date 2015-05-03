@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/wordpress/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
+        "europapress.es/2015/05/twitter-quiere-comprar-la-app-de-noticias-circa": {
+            "title": "Twitter quiere comprar la app de noticias Circa...",
+            "snippet": "Tiene grandes inversores que le respaldan como por ejemplo el fundador de Wordpress, Matt Mullenweg. Por el momento Galligan no ha hecho ning\u00fan comentario sobre este rumor y Twitter tampoco ha dicho nada al respecto. Es cierto que la aplicaci\u00f3n...",
+            "date": "2015-05-02",
+            "categories": "twitter,wordpress",
+            "tags": "grandes,twitter,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/europapress.es/2015/05/twitter-quiere-comprar-la-app-de-noticias-circa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
+            "source_url": "http://europapress.es/portaltic/socialmedia/noticia-twitter-quiere-comprar-app-noticias-circa-20150502122933.html"
+        },
         "smallbiztrends.com/2015/05/is-your-business-making-one-of-these-wordpress-mistakes-small-trends": {
             "title": "Is Your Business Making One of These WordPress Mistakes? - Small Business Trends...",
             "snippet": "Small Business TrendsIs Your Business Making One of These WordPress Mistakes?Small Business TrendsIn a day where online efforts seem to be getting more advanced, it's easy to forget some of the most basic, fundamental tips for online success, namely...",
             "date": "2015-05-01",
             "categories": "wordpress",
-            "tags": "small,small_business,business,small_business_trendsis,business_trendsis,trendsis,small_business_trends,business_trends,trends,wordpress",
+            "tags": "wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/smallbiztrends.com/2015/05/is-your-business-making-one-of-these-wordpress-mistakes-small-trends",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://smallbiztrends.com/2015/05/wordpress-mistakes.html"
         },
         "listas.20minutos.es/2015/05/todo-sobre-xiaomi-y-lo-mejor-en-tecnolog%C3%ADa-de-forma-simple": {
@@ -26,19 +36,19 @@
             "snippet": "Crave: A modern WordPress theme with appetizing aesthetic Pero al probar Fleksy y la soltura que dan esas teclas grandes No hay color! Deslizando el dedo hacia la izquierda borr\u00e1is la palabra, hacia arriba ten\u00e9is las posibles correcciones. Eso...",
             "date": "2015-05-01",
             "categories": "tecnologia,wordpress",
-            "tags": "hay,dan,wordpress",
+            "tags": "hay,dan,grandes,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/listas.20minutos.es/2015/05/todo-sobre-xiaomi-y-lo-mejor-en-tecnolog%C3%ADa-de-forma-simple",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
             "source_url": "http://listas.20minutos.es/lista/todo-sobre-xiaomi-y-lo-mejor-en-tecnologia-de-forma-simple-y-diferente-396966/"
         },
         "pymnts.com/2015/05/vulnerable-wordpress-ecommerce-plug-in-won-t-be-fixed": {
             "title": "Vulnerable WordPress eCommerce Plug-In Won't Be Fixed -...",
-            "snippet": "WordPress eCommerce Plug-In Won't Be, an open-source plug-in that is currently used in more than 5,000 WordPress eCommerce installations, suffers from a whole slew of security problems that could let attackers execute arbitrary PHP code, disclose...",
+            "snippet": "WordPress eCommerce Plug-In Won't Be popular WordPress plug-in that provides eCommerce capabilities for thousands of websites has several high-risk vulnerabilities and they're not expected to be fixed, the IDG News Service reported on Thursday...",
             "date": "2015-05-01",
-            "categories": "wordpress,php",
-            "tags": "security,that,attackers,wordpress",
-            "recuweb_url": "http://es.recuweb.com/php/pymnts.com/2015/05/vulnerable-wordpress-ecommerce-plug-in-won-t-be-fixed",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
+            "categories": "wordpress",
+            "tags": "that,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/pymnts.com/2015/05/vulnerable-wordpress-ecommerce-plug-in-won-t-be-fixed",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://pymnts.com/news/2015/vulnerable-wordpress-ecommerce-plug-in-wont-be-fixed/"
         },
         "theregister.co.uk/2015/05/wordpress-munching-contagion-turns-linux-servers-into-spam-bots-the-register": {
@@ -48,7 +58,7 @@
             "categories": "wordpress",
             "tags": "wordpress,register,security",
             "recuweb_url": "http://es.recuweb.com/wordpress/theregister.co.uk/2015/05/wordpress-munching-contagion-turns-linux-servers-into-spam-bots-the-register",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://theregister.co.uk/2015/05/01/mumblehard_linux_server_spam_malware/"
         },
         "unocero.com/2015/04/juega-pac-man-street-fighter-y-cientos-de-juegos-cl%C3%A1sicos": {
@@ -56,7 +66,7 @@
             "snippet": "No s\u00f3lo en Twitter Lo maravilloso de esta iniciativa no radica \u00fanicamente en que se puede jugar desde Twitter, sino que tambi\u00e9n se pueden incrustar los videojuegos dentro de p\u00e1ginas basadas en WordPress y jugar desde ah\u00ed. Lo \u00fanico que hay que...",
             "date": "2015-04-30",
             "categories": "videojuego,twitter,wordpress",
-            "tags": "hay,dentro,p\u00e1ginas,wordpress",
+            "tags": "hay,dentro,p\u00e1ginas,twitter,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/unocero.com/2015/04/juega-pac-man-street-fighter-y-cientos-de-juegos-cl%C3%A1sicos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
             "source_url": "http://unocero.com/2015/04/30/juega-pac-man-street-fighter-y-cientos-de-juegos-clasicos-mas-desde-twitter/"
@@ -86,7 +96,7 @@
             "snippet": "Las plataformas m\u00e1s populares que ofrecen servicio de blogging son Tumblr, Wordpress y Blogger. No solo los individuos tienen blogs: por propiciar un intercambio directo y relajado con los lectores, es moneda corriente en pr\u00e1cticamente todas...",
             "date": "2015-04-28",
             "categories": "tumblr,wordpress",
-            "tags": "ofrecen,blogging,dentro,wordpress",
+            "tags": "ofrecen,dentro,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/elobservador.com.uy/2015/04/blogging-el-blog-que-llevamos-dentro",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=es",
             "source_url": "http://elobservador.com.uy/noticia/303712/-blogging-el-blog-que-llevamos-dentro-/"
@@ -96,20 +106,10 @@
             "snippet": "The RegisterComments considered harmful: WordPress web hijack bug revealedThe RegisterA frustrated Finnish security researcher has gone public with a vulnerability in WordPress that lets attackers hijack website admin accounts. The flaw was found by...",
             "date": "2015-04-28",
             "categories": "wordpress",
-            "tags": "that,attackers,security,wordpress,register",
+            "tags": "that,security,wordpress,register",
             "recuweb_url": "http://es.recuweb.com/wordpress/theregister.co.uk/2015/04/comments-considered-harmful-wordpress-web-hijack-bug-revealed-the-register",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=wordpress&output=atom&nord=1",
             "source_url": "http://theregister.co.uk/2015/04/27/wordpress_zero_day_xss/"
-        },
-        "smallbiztrends.com/2015/04/is-wordpress-really-the-best-site-builder-for-small-businesses-business": {
-            "title": "Is WordPress Really the Best Site Builder for Small Businesses? - Small Business Trends...",
-            "snippet": "Small Business TrendsIs WordPress Really the Best Site Builder for Small Businesses?Small Business TrendsBuilt for blogging, WordPress has remained true to its roots. The functions and features of a new WordPress site all support one purpose: a well...",
-            "date": "2015-04-28",
-            "categories": "wordpress",
-            "tags": "blogging,small,small_business,business,small_business_trendsis,business_trendsis,trendsis,wordpress,small_business_trends,business_trends,trends",
-            "recuweb_url": "http://es.recuweb.com/wordpress/smallbiztrends.com/2015/04/is-wordpress-really-the-best-site-builder-for-small-businesses-business",
-            "resource_url": "http://news.google.es/?hl=es&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://smallbiztrends.com/2015/04/best-site-builder-for-small-business.html"
         }
     }
 }

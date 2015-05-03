@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "planta-medicinal",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/planta-medicinal/",
@@ -11,15 +11,54 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/planta-medicinal/planta-medicinal/blogs.json"
     },
     "items": {
-        "informe21.com/2015/04/c%C3%B3mo-limpiar-de-toxinas-los-ri%C3%B1ones": {
-            "title": "C\u00f3mo limpiar de toxinas los ri\u00f1ones -...",
-            "snippet": "C\u00f3mo limpiar de toxinas los ri\u00f1 planta tiene muchas propiedades medicinales, entre ellas, limpiar los ri\u00f1ones debido a sus efectos diur\u00e9ticos. Reduce la acumulaci\u00f3n de toxinas y mejora la salud del tracto urinario en general. Consume perejil,...",
-            "date": "2015-04-27",
-            "categories": "salud,propiedad",
-            "tags": "salud,limpiar,limpiar-los-ri\u00f1ones,ri\u00f1ones,ellas,tiene,propiedades,c\u00f3mo,planta,medicinales",
-            "recuweb_url": "http://es.recuweb.com/propiedad/informe21.com/2015/04/c%C3%B3mo-limpiar-de-toxinas-los-ri%C3%B1ones",
+        "diariodemocracia.com/2015/05/incayuyo-una-hierba-ancestral-en-auge": {
+            "title": "Incayuyo, una hierba ancestral en auge...",
+            "snippet": "Como una iniciativa para fortalecer las econom\u00edas regionales, el programa Cambio Rural, que lleva a cabo el INTA junto con el Ministerio de Agricultura de la Naci\u00f3n, acompa\u00f1a a dos grupos de productores de incayuyo, una planta medicinal y...",
+            "date": "2015-05-02",
+            "categories": "economia",
+            "tags": "productores,programa,planta,medicinal",
+            "recuweb_url": "http://es.recuweb.com/economia/diariodemocracia.com/2015/05/incayuyo-una-hierba-ancestral-en-auge",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
+            "source_url": "http://diariodemocracia.com/notas/2015/5/2/incayuyo-hierba-ancestral-auge-103738.asp"
+        },
+        "dinero.com/2015/05/las-obligaciones-tributarias-del-cannabis": {
+            "title": "Las obligaciones tributarias del cannabis en. -...",
+            "snippet": "Las obligaciones tributarias del cannabis en planta cultivada en el transcurso de la historia como fuente de fibra textil, aceite de semillas y alimento, se ha utilizado durante miles de a\u00f1os como planta medicinal con registros escritos que datan...",
+            "date": "2015-05-02",
+            "tags": "utilizado,aceite,fuente,planta,medicinal",
+            "recuweb_url": "http://es.recuweb.com/dinero.com/2015/05/las-obligaciones-tributarias-del-cannabis",
             "resource_url": "http://news.google.es/?hl=es&q=planta%2Bmedicinal&output=atom&nord=1",
-            "source_url": "http://informe21.com/toxinas/como-limpiar-de-toxinas-los-rinones"
+            "source_url": "http://dinero.com/internacional/articulo/obligaciones-tributarias-marihuana-estados-unidos/208262"
+        },
+        "es.paperblog.com/2015/05/cola-de-caballo": {
+            "title": "Cola de caballo...",
+            "snippet": "Existen varias especies de esta planta medicinal, una de ellas es Equisetum arvense, reconocida por sus m\u00faltiples propiedades medicinales. Actualmente es una de las plantas medicinales m\u00e1s usadas en todo el mundo. La cola de caballo pertenece a...",
+            "date": "2015-05-01",
+            "categories": "propiedad",
+            "tags": "propiedades,ellas,existen,plantas,medicinales",
+            "recuweb_url": "http://es.recuweb.com/propiedad/es.paperblog.com/2015/05/cola-de-caballo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/cola-de-caballo-3187968/"
+        },
+        "es.paperblog.com/2015/04/el-maravilloso-diente-de-le%C3%B3n-como-planta-medicinal": {
+            "title": "El Maravilloso Diente de Le\u00f3n como Planta Medicinal...",
+            "snippet": "Los usos del diente de le\u00f3n son muy variados esta maravillosa planta llega a medir hasta 40 cm de altura y la podemos encontrar en la mayor\u00eda de los bosques, pastizales, en la ciudad y sobre todo en los jardines, ya en la actualidad es considerada...",
+            "date": "2015-04-30",
+            "categories": "planta-medicinal",
+            "tags": "usos,son,maravillosa,planta,planta_medicinal,medicinal",
+            "recuweb_url": "http://es.recuweb.com/planta-medicinal/es.paperblog.com/2015/04/el-maravilloso-diente-de-le%C3%B3n-como-planta-medicinal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/el-maravilloso-diente-de-leon-como-planta-medicinal-3185618/"
+        },
+        "m.informe21.com/2015/04/medicinas-naturales-efectivas-ante-golpes-y-quemaduras-leves": {
+            "title": "Medicinas naturales efectivas ante golpes y quemaduras leves...",
+            "snippet": "La U\u00f1a de Gato se consume en infusiones debiendo la corteza entre 15 a 20 minutos antes de consumirse. En cuanto a la planta medicinal Chupasangre este debe molerse hasta formar una pasta, mientras que el Llanten deber\u00e1 remojarse en agua hirviendo...",
+            "date": "2015-04-29",
+            "categories": "medicina",
+            "tags": "pasta,infusiones,efectivas,planta,medicinal",
+            "recuweb_url": "http://es.recuweb.com/medicina/m.informe21.com/2015/04/medicinas-naturales-efectivas-ante-golpes-y-quemaduras-leves",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
+            "source_url": "http://m.informe21.com/golpes/medicinas-naturales-efectivas-ante-golpes-y-quemaduras-leves"
         },
         "msn.com/2015/04/las-maravillas-del-aloe-vera": {
             "title": "Las maravillas del aloe vera...",
@@ -28,26 +67,7 @@
             "tags": "cualquier,vera,aloe,aloe-vera,planta,medicinal,son",
             "recuweb_url": "http://es.recuweb.com/msn.com/2015/04/las-maravillas-del-aloe-vera",
             "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
-            "source_url": "http://msn.com/es-co/estilo-de-vida/other/las-maravillas-del-aloe-vera/ar-AAbCvRI?srcref=rss"
-        },
-        "lostiempos.com/2015/04/productos-%C3%B3rganicos-los-tiempos": {
-            "title": "Productos \u00f3rganicos - Los Tiempos...",
-            "snippet": "Los TiemposProductos \u00f3rganicosLos TiemposLas aguas madres (esencias) en frascos de 200 ml tiene un precio de 15 bolivianos. Gaia adem\u00e1s promociona productos contra la ca\u00edda del cabello a base de tres plantas medicinales: romero, ortiga y \u00e1loe...",
-            "date": "2015-04-27",
-            "tags": "base,tiene,tiempos,plantas,medicinales",
-            "recuweb_url": "http://es.recuweb.com/lostiempos.com/2015/04/productos-%C3%B3rganicos-los-tiempos",
-            "resource_url": "http://news.google.es/?hl=es&q=planta%2Bmedicinal&output=atom&nord=1",
-            "source_url": "http://lostiempos.com/especiales/edicion/especiales/20150426/productos-organicos_299599_661794.html"
-        },
-        "es.paperblog.com/2015/04/las-7-plantas-medicinales-mas-%C3%BAtiles-para-la-salud": {
-            "title": "Las 7 plantas medicinales mas \u00fatiles para la salud...",
-            "snippet": "Probablemente no existe una planta medicinal m\u00e1s conocida y estudiada que el ajo se ha utilizado de hace siglos en numerosas y variadas formas. Un ejemplo de esto es un papiro egipcio de m\u00e1s de 3500 a\u00f1os que conten\u00eda m\u00e1s de doscientas recetas...",
-            "date": "2015-04-26",
-            "categories": "salud",
-            "tags": "conocida,utilizado,hace,hace-siglos,siglos,existe,salud,plantas,planta,medicinales,medicinal",
-            "recuweb_url": "http://es.recuweb.com/salud/es.paperblog.com/2015/04/las-7-plantas-medicinales-mas-%C3%BAtiles-para-la-salud",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/las-7-plantas-medicinales-mas-utiles-para-la-salud-3179220/"
+            "source_url": "http://msn.com/es-ar/estilo-de-vida/other/las-maravillas-del-aloe-vera/ar-AAbCvRI?srcref=rss"
         },
         "laprensa.hn/2015/04/el-poder-nutritivo-del-aloe-vera": {
             "title": "El poder nutritivo del aloe vera...",
@@ -62,27 +82,17 @@
             "title": "Marihuana medicinal sin reglas para su uso -...",
             "snippet": "Marihuana medicinal sin reglas para su define como plantaci\u00f3n veinte plantas, se\u00f1ala el art\u00edculo 3 de la Ley 30 de 1986. Sin embargo, 29 a\u00f1os despu\u00e9s esa reglamentaci\u00f3n no existe. (Lea: Habla el m\u00e9dico que es pionero en marihuana medicinal en...",
             "date": "2015-04-24",
-            "tags": "marihuana,esa,existe,medicinal,plantas",
+            "tags": "marihuana,esa,medicinal,plantas",
             "recuweb_url": "http://es.recuweb.com/eltiempo.com/2015/04/marihuana-medicinal-sin-reglas-para-su-uso",
             "resource_url": "http://news.google.es/?hl=es&q=planta%2Bmedicinal&output=atom&nord=1",
             "source_url": "http://eltiempo.com/bogota/marihuana-medicinal-sin-reglas-para-su-uso/15624235"
-        },
-        "es.paperblog.com/2015/04/%C3%A1rnica-y-abedul-antes-despu%C3%A9s-del-esfuerzo-f%C3%ADsico-para-runners": {
-            "title": "\u00c1rnica y abedul: antes y despu\u00e9s del esfuerzo f\u00edsico y para runners...",
-            "snippet": "El \u00e1rnica, es una planta medicinal con alto poder reparador y calor\u00edfico, conocida en muchas culturas como santo patr\u00f3n de m\u00fasculos y hematomas. Por ello, se ha utilizado desde hace siglos para el tratamiento de contusiones y contracciones...",
-            "date": "2015-04-24",
-            "categories": "tratamiento,cultura",
-            "tags": "utilizado,utilizado-desde-hace,hace,hace-siglos,siglos,tratamiento,tratamiento-de-contusiones,contusiones,contusiones-contracciones,contracciones,conocida,culturas,culturas-como-santo,santo,santo-patr\u00f3n,patr\u00f3n,patr\u00f3n-de-m\u00fasculos,m\u00fasculos,m\u00fasculos-hematomas,hematomas,alto,alto-poder,alto-poder-reparador,poder,poder-reparador,poder-reparador-calor\u00edfico,reparador,reparador-calor\u00edfico,calor\u00edfico,\u00e1rnica,planta,medicinal,ello",
-            "recuweb_url": "http://es.recuweb.com/cultura/es.paperblog.com/2015/04/%C3%A1rnica-y-abedul-antes-despu%C3%A9s-del-esfuerzo-f%C3%ADsico-para-runners",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/arnica-y-abedul-antes-y-despues-del-esfuerzo-fisico-y-para-runners-3176338/"
         },
         "runandwalk.net/2015/04/aceite-para-masaje-con-%C3%A1rnica-de-welleda-el-producto-que-prepara": {
             "title": "Aceite para Masaje con \u00c1rnica de Welleda, el producto que prepara y luego recupera los m\u00fasculos...",
             "snippet": "La \u00e1rnica, planta medicinal con alto poder reparador y calor\u00edfico, es conocida en muchas culturas como santo patr\u00f3n de m\u00fasculos y hematomas. Por ello, se ha utilizado desde hace siglos para el tratamiento de contusiones y contracciones...",
             "date": "2015-04-23",
             "categories": "tratamiento,cultura,masaje",
-            "tags": "utilizado,utilizado-desde-hace,hace,hace-siglos,siglos,tratamiento,tratamiento-de-contusiones,contusiones,contusiones-contracciones,contracciones,conocida,culturas,culturas-como-santo,santo,santo-patr\u00f3n,patr\u00f3n,patr\u00f3n-de-m\u00fasculos,m\u00fasculos,m\u00fasculos-hematomas,hematomas,alto,alto-poder,alto-poder-reparador,poder,poder-reparador,poder-reparador-calor\u00edfico,reparador,reparador-calor\u00edfico,calor\u00edfico,\u00e1rnica,planta,medicinal,ello",
+            "tags": "utilizado,siglos,poder,aceite,planta,medicinal",
             "recuweb_url": "http://es.recuweb.com/masaje/runandwalk.net/2015/04/aceite-para-masaje-con-%C3%A1rnica-de-welleda-el-producto-que-prepara",
             "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
             "source_url": "http://runandwalk.net/articulo/material/aceite-masaje-arnica-welleda-producto-prepara-y-luego-recupera-musculos/20150423162311011039.html"
@@ -95,15 +105,6 @@
             "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/expoinia-2015-exalta-logros-en-la-investigaci%C3%B3n-agr%C3%ADcola-de-venezuela",
             "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
             "source_url": "http://entornointeligente.com/articulo/5752354/ExpoInia-2015-exalta-logros-en-la-investigacion-agricola-de-Venezuela-23042015"
-        },
-        "lavozdegalicia.es/2015/04/c%C3%B3mo-devolver-la-laguna-glaciar-de-lucenza-a-su-tama%C3%B1o-original": {
-            "title": "C\u00f3mo devolver la laguna glaciar de Lucenza a su tama\u00f1o original...",
-            "snippet": "En los alrededores de la laguna, por otra parte, se desarrolla una variada vegetaci\u00f3n entre la que destaca la presencia de la genciana-llamada xanz\u00e1 en la sierra-, una planta medicinal que crece por encima de los metros de altura. La variedad...",
-            "date": "2015-04-21",
-            "tags": "c\u00f3mo,planta,medicinal",
-            "recuweb_url": "http://es.recuweb.com/lavozdegalicia.es/2015/04/c%C3%B3mo-devolver-la-laguna-glaciar-de-lucenza-a-su-tama%C3%B1o-original",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=planta%2Bmedicinal&format=RSS&cc=es",
-            "source_url": "http://lavozdegalicia.es/noticia/lemos/2015/04/22/devolver-laguna-glaciar-lucenza-tamano-original/0003_201504M22C4991.htm"
         }
     }
 }

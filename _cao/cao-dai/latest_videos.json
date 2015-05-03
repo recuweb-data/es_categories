@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "cao-dai",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cao-dai/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cao-dai/cao-dai/blogs.json"
     },
     "items": {
-        "youtube.com/2013/03/hoa-mi-hot-cuc-hay-quynh33": {
-            "title": "hoa mi hot cuc hay quynh33...",
-            "snippet": "hoa mi hot cuc hay quynh33 cn b\u00e1n ho mi. Mi chin cc nh.t tr\u00ean b\u00e0n ngi cnh b\u00fang tay h\u00f3t nh i\u00ea cao hi d\u00e0i. c li\u00ean h.T:0914911733. From: quynh cong Views: 5010 2 ratings Time: 22:00 More in Entertainment...",
-            "date": "2013-03-30",
-            "author_name": "quynh cong",
-            "tags": "tay,cao",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2013/03/hoa-mi-hot-cuc-hay-quynh33",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=VPJz95WrFT4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/VPJz95WrFT4/0.jpg"
-        },
         "youtube.com/2012/10/celebracion-religiosa-en-templo-cao-dai": {
             "title": "Celebracion religiosa en templo Cao Dai...",
             "snippet": "Celebracion religiosa en templo Cao Dai Ceremonia de celebraci\u00f3n de misa Caodaista de la religi\u00f3n Cao Dai en el templo Cao Dai (Santa Sede Cao Dai) de Tay Ninh, provincia de Vietnam. M\u00e1s de 300 personas celebran el acto religioso... From:...",
             "date": "2012-10-28",
             "author_name": "Vietnamitas en Madrid",
             "categories": "religion,cao-dai",
-            "tags": "tay,tay_ninh,ninh,santa,sede,templo,cao,cao_dai,dai,caodaista,vietnam",
+            "tags": "personas,provincia,tay,tay_ninh,ninh,santa,santa-sede,sede,templo,religi\u00f3n,celebraci\u00f3n,misa,cao,cao_dai,dai,caodaista,vietnam",
             "recuweb_url": "http://es.recuweb.com/cao-dai/youtube.com/2012/10/celebracion-religiosa-en-templo-cao-dai",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai%2Bcao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=yc1qsIBQd2E&feature=youtube_gdata",
@@ -52,11 +41,35 @@
             "date": "2012-10-27",
             "author_name": "Vietnamitas en Madrid",
             "categories": "escultura,pintura,cao-dai",
-            "tags": "chi,chi_minh,minh,templo,tay,tay_ninh,ninh,cao,cao_dai,dai,interior,vietnam",
+            "tags": "chi,chi_minh,minh,templo,tay,tay_ninh,ninh,cao,cao_dai,dai,interior,vietnam,vietnamitas",
             "recuweb_url": "http://es.recuweb.com/cao-dai/youtube.com/2012/10/interior-de-la-iglesia-cao-dai-en-tay-ninh",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai%2Bcao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=GjuX_LJnE_8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/GjuX_LJnE_8/0.jpg"
+        },
+        "youtube.com/2012/10/misa-caodaista-en-el-templo-cao-dai-de-tay-ninh-parte": {
+            "title": "Misa Caodaista en el templo Cao Dai de Tay Ninh (parte 1/6)...",
+            "snippet": "Misa Caodaista en el templo Cao Dai de Tay Ninh (parte 1/6) Celebraci\u00f3n de misa Caodaista de la religi\u00f3n Cao Dai en el templo Cao Dai (Santa Sede Cao Dai) de Tay Ninh, provincia de Vietnam. M\u00e1s de 300 personas celebra... From: Vietnamitas en...",
+            "date": "2012-10-27",
+            "author_name": "Vietnamitas en Madrid",
+            "categories": "religion,cao-dai",
+            "tags": "personas,provincia,santa,santa-sede,sede,religi\u00f3n,misa,tay,tay_ninh,ninh,cao,cao_dai,dai,templo,caodaista,celebraci\u00f3n,vietnam,vietnamitas",
+            "recuweb_url": "http://es.recuweb.com/cao-dai/youtube.com/2012/10/misa-caodaista-en-el-templo-cao-dai-de-tay-ninh-parte",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai%2Bcao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=n_5eT-XrZBY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/n_5eT-XrZBY/0.jpg"
+        },
+        "youtube.com/2012/05/servicio-en-el-templo-cao-dai": {
+            "title": "Servicio en el templo Cao Dai...",
+            "snippet": "Servicio en el templo Cao Dai Espectacular. From: distorsionando Views: 12 0 ratings Time: 01:03 More in Travel & Events...",
+            "date": "2012-05-18",
+            "author_name": "distorsionando",
+            "categories": "cao-dai",
+            "tags": "cao,cao_dai,dai,templo",
+            "recuweb_url": "http://es.recuweb.com/cao-dai/youtube.com/2012/05/servicio-en-el-templo-cao-dai",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai%2Bcao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=noJjAcpTXyo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/noJjAcpTXyo/0.jpg"
         },
         "dailymotion.com/2010/04/el-valle-de-rodrigo-un-aprendiz-del-caos-obra-literaria": {
             "title": "El Valle de Rodrigo: Un aprendiz del Caos (obra literaria)...",
@@ -78,17 +91,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai%2Bcao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=xnsA_I_5x58&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/xnsA_I_5x58/0.jpg"
-        },
-        "youtube.com/2009/07/a-liga%C3%A7%C3%A3o-pra-sogra-oficial": {
-            "title": "A liga\u00e7\u00e3o pra sogra! (oficial)...",
-            "snippet": "A liga\u00e7\u00e3o pra sogra! (oficial) Arbitro aggredito dai calciatori pestaggio in campo in Argentina, From: DjPerikitoBaladas Views: 5323 17 ratings Time: 02:13 More in Sports...",
-            "date": "2009-07-23",
-            "author_name": "DjPerikitoBaladas",
-            "tags": "dai",
-            "recuweb_url": "http://es.recuweb.com/youtube.com/2009/07/a-liga%C3%A7%C3%A3o-pra-sogra-oficial",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=cao%2Bdai&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=R4gIoxseFTI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/R4gIoxseFTI/0.jpg"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "perl",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/perl/",
@@ -11,6 +11,28 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/perl/perl/blogs.json"
     },
     "items": {
+        "graficadiz.wordpress.com/2015/04/videoclip-cuando-por-perles&perles": {
+            "title": "Videoclip 'Cuando', por Perles&Perles...",
+            "snippet": "Realizado por este estudio de dise\u00f1o e ilustraci\u00f3n del Puerto de SantaMar\u00eda/Madrid y parte del extranjero web de un festival de animaci\u00f3n, en UK, donde fueron seleccionados por []...",
+            "date": "2015-04-28",
+            "author_name": "Miguel Rey Kochinke",
+            "categories": "videoclip",
+            "tags": "web,parte",
+            "recuweb_url": "http://es.recuweb.com/videoclip/graficadiz.wordpress.com/2015/04/videoclip-cuando-por-perles&perles",
+            "resource_url": "http://es.search.wordpress.com/?q=perl%2Bperl&f=feed&page=1",
+            "source_url": "http://graficadiz.wordpress.com/2015/04/28/videoclip-cuando-por-perlesperles/"
+        },
+        "niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clvii-metacpan-weekly-report": {
+            "title": "where we turn Perl inside out: (clvii) metacpan weekly report - perl...",
+            "snippet": "Module::Reload - Reload%INC files when updated on disk; Mojo::JWT - JSON Web Token the Mojo way; Mojolicious::Plugin::ServerSession - Perl extension to enable an additional server side session in mojolicious...",
+            "date": "2015-04-26",
+            "author_name": "prz",
+            "categories": "json,perl",
+            "tags": "extension,json,web,files,report,inside,inside-out,out,where,where-we-turn,turn,perl",
+            "recuweb_url": "http://es.recuweb.com/perl/niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clvii-metacpan-weekly-report",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://niceperl.blogspot.com/2015/04/clvii-metacpan-weekly-report-perl.html"
+        },
         "niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clxxxii-stackoverflow-report": {
             "title": "where we turn Perl inside out: (clxxxii) stackoverflow perl report...",
             "snippet": "(clxxxii) stackoverflow perl report. This is the ten most rated questions at Stack Overflow last week. Between brackets: question score/answers count Build date: 2015-04-26 06:20:29 GMT...",
@@ -44,25 +66,36 @@
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://niceperl.blogspot.com/2015/04/clxxx-stackoverflow-perl-report.html"
         },
+        "radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta": {
+            "title": "Alfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta...",
+            "snippet": "Claves: alfredo perl, andr\u00e9s maupoint, ceac, centro de extension art\u00edstica y cultural universidad de chile, Franz Liszt, mathias bamert, orquesta sinf\u00f3nica de chile, robert schumann. Gana invitaciones dobles para la funci\u00f3n de...",
+            "date": "2015-04-10",
+            "author_name": "Rodrigo Alarc\u00f3n",
+            "categories": "perl",
+            "tags": "orquesta,sinf\u00f3nica,chile,extension,cultural,universidad,andr\u00e9s,andr\u00e9s_maupoint,maupoint,obra,alfredo,alfredo_perl,perl",
+            "recuweb_url": "http://es.recuweb.com/perl/radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://radio.uchile.cl/2015/04/10/alfredo-perl-estrena-obra-de-andres-maupoint-junto-a-la-orquesta-sinfonica"
+        },
         "ceacuchile.com/2015/04/orquesta-sinf%C3%B3nica-de-chile-estrenar%C3%A1-obra-maupoint": {
             "title": "Orquesta Sinf\u00f3nica de Chile estrenar\u00e1 obra de Maupoint con...",
             "snippet": "Alfredo Perl detalla que La gestaci\u00f3n de este proyecto comenz\u00f3 en 1999. Ese a\u00f1o toqu\u00e9 en un recital en Londres los cuatro Estudios para Piano de Andr\u00e9s, lo que le llev\u00f3 en ese entonces a concebir la idea de componer...",
             "date": "2015-04-10",
             "author_name": "admin12",
             "categories": "perl",
-            "tags": "entonces,alfredo,alfredo_perl,perl,orquesta,sinf\u00f3nica,chile,obra,maupoint,piano,andr\u00e9s",
+            "tags": "alfredo,alfredo_perl,perl,obra,orquesta,sinf\u00f3nica,chile,maupoint,piano,andr\u00e9s",
             "recuweb_url": "http://es.recuweb.com/perl/ceacuchile.com/2015/04/orquesta-sinf%C3%B3nica-de-chile-estrenar%C3%A1-obra-maupoint",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ceacuchile.com/2015/04/orquesta-sinfonica-de-chile-estrenara-obra-de-maupoint-con-alfredo-perl-como-solista/"
         },
         "niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clxxix-stackoverflow-report": {
             "title": "where we turn Perl inside out: (clxxix) stackoverflow perl report...",
-            "snippet": "(clxxix) stackoverflow perl report. This is the ten most rated questions at Stack Overflow last week. Between brackets: question score/answers count Build date: 2015-04-04 06:52:17 GMT...",
+            "snippet": "How to replace a string in an existing file in Perl while not touching unchanged files - 5/3; Tainting of constants in unpruned branches - 3/0; Script extracts and prints UTF-8 words well, but prints JSON as garbage - 3/2...",
             "date": "2015-04-04",
             "author_name": "prz",
-            "categories": "perl",
-            "tags": "questions,question-score,score,last,last-week,week,stack,stack_overflow,stackoverflow,overflow,most,most-rated,most-rated-questions,rated,rated-questions,inside,inside-out,out,where,where-we-turn,turn,perl,report,this,between,brackets,answers,build,date,gmt",
-            "recuweb_url": "http://es.recuweb.com/perl/niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clxxix-stackoverflow-report",
+            "categories": "perl,json",
+            "tags": "files,inside,inside-out,out,where,where-we-turn,turn,perl,stackoverflow,report,how,json",
+            "recuweb_url": "http://es.recuweb.com/json/niceperl.blogspot.com/2015/04/where-we-turn-perl-inside-out-clxxix-stackoverflow-report",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://niceperl.blogspot.com/2015/04/clxxix-stackoverflow-perl-report.html"
         },
@@ -87,39 +120,6 @@
             "recuweb_url": "http://es.recuweb.com/perl/niceperl.blogspot.com/2015/03/where-we-turn-perl-inside-out-clxxvii-stackoverflow-report",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://niceperl.blogspot.com/2015/03/clxxvii-stackoverflow-perl-report.html"
-        },
-        "niceperl.blogspot.com/2015/03/where-we-turn-perl-inside-out-clxxvi-stackoverflow-report": {
-            "title": "where we turn Perl inside out: (clxxvi) stackoverflow perl report...",
-            "snippet": "(clxxvi) stackoverflow perl report. This is the ten most rated questions at Stack Overflow last week. Between brackets: question score/answers count Build date: 2015-03-13 20:01:30 GMT...",
-            "date": "2015-03-13",
-            "author_name": "prz",
-            "categories": "perl",
-            "tags": "questions,question-score,score,last,last-week,week,stack,stack_overflow,stackoverflow,overflow,most,most-rated,most-rated-questions,rated,rated-questions,inside,inside-out,out,where,where-we-turn,turn,perl,report,this,between,brackets,answers,build,date,gmt",
-            "recuweb_url": "http://es.recuweb.com/perl/niceperl.blogspot.com/2015/03/where-we-turn-perl-inside-out-clxxvi-stackoverflow-report",
-            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://niceperl.blogspot.com/2015/03/clxxvi-stackoverflow-perl-report.html"
-        },
-        "borrajas.es/2015/03/scripting-qu%C3%A9-es-perl": {
-            "title": "Scripting \u00bfQu\u00e9 es Perl?",
-            "snippet": "\u00bfQu\u00e9 es Perl? Perl es un lenguaje de programaci\u00f3n, dise\u00f1ado por Larry Wall en 1987. Es un lenguaje de prop\u00f3sito general originalmente desarrollado para la manipulaci\u00f3n de texto y que ahora es utilizado para un amplio rango de tareas incluyendo...",
-            "date": "2015-03-07",
-            "author_name": "dnotivol",
-            "categories": "lenguaje,perl",
-            "tags": "lenguaje,ahora,perl,programaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/perl/borrajas.es/2015/03/scripting-qu%C3%A9-es-perl",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=es",
-            "source_url": "http://borrajas.es/2015/03/07/scripting-que-es-perl/"
-        },
-        "4matperu.wordpress.com/2015/03/instalar-un-m%C3%B3dulo-perl": {
-            "title": "Instalar un m\u00f3dulo Perl...",
-            "snippet": "Suponga que desea instalar el m\u00f3dulo Data::Compare. Si el m\u00f3dulo Perl que necesita ha sido empaquetado para el sistema operativo que est\u00e9 utilizando entonces la instalaci\u00f3n es simplemente una cuesti\u00f3n de invocar el gestor de paquetes. Por...",
-            "date": "2015-03-03",
-            "author_name": "jackkfrost",
-            "categories": "perl",
-            "tags": "entonces,instalar,perl",
-            "recuweb_url": "http://es.recuweb.com/perl/4matperu.wordpress.com/2015/03/instalar-un-m%C3%B3dulo-perl",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=es",
-            "source_url": "http://4matperu.wordpress.com/2015/03/03/instalar-un-modulo-perl/"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "awstats",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/awstats/",
@@ -11,14 +11,14 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
     },
     "items": {
-        "xn--apaados-6za.es/2015/03/error-en-virtualmin-awstats-report-missing-headers-apa%C3%B1ados": {
-            "title": "Error en virtualmin: AWstats report Error - Missing Headers - Apa\u00f1ados...",
+        "xn--apaados-6za.es/2015/03/error-en-virtualmin-awstats-report-missing-headers-somos": {
+            "title": "Error en virtualmin: AWstats report Error - Missing Headers - Somos...",
             "snippet": "En el proceso de \"yum update\", sin querer se actualiz\u00f3 el paquete de AWStats por defecto, 0:, al paquete de Virtualmin de Repoforge. Esto hizo saltar en...",
             "date": "2015-03-05",
             "author_name": "Jes\u00fas C\u00e1ceres",
             "categories": "awstats",
             "tags": "awstats",
-            "recuweb_url": "http://es.recuweb.com/awstats/xn--apaados-6za.es/2015/03/error-en-virtualmin-awstats-report-missing-headers-apa%C3%B1ados",
+            "recuweb_url": "http://es.recuweb.com/awstats/xn--apaados-6za.es/2015/03/error-en-virtualmin-awstats-report-missing-headers-somos",
             "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xn--apaados-6za.es/tenemos-que-apanar/internet-tutoriales-y-trucos/1083-error-en-virtualmin-awstats-report-error-missing-headers.html"
         },

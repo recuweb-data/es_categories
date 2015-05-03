@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "politica",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/politica/",
@@ -11,60 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/politica/politica/blogs.json"
     },
     "items": {
+        "havanatimes.org/2015/05/una-pol%C3%ADtica-especial-para-inmigrantes-cubanos-havana": {
+            "title": "Una pol\u00edtica especial para inmigrantes cubanos - Havana...",
+            "snippet": "El acercamiento ha reenfocado la atenci\u00f3n en la pol\u00edtica norteamericana que por casi cinco d\u00e9cadas ha permitido a los cubanos emigrar a los Estados Unidos sin l\u00edmite alguno, un privilegio que el gobierno estadounidense...",
+            "date": "2015-05-02",
+            "author_name": "Circles Robinson",
+            "categories": "politica",
+            "tags": "estados,estados_unidos,unidos,d\u00e9cadas,pol\u00edtica,gobierno",
+            "recuweb_url": "http://es.recuweb.com/politica/havanatimes.org/2015/05/una-pol%C3%ADtica-especial-para-inmigrantes-cubanos-havana",
+            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://havanatimes.org/sp/?p=105723"
+        },
+        "noticias.lainformacion.com/2015/05/primero-mayo-toxo-ccoo-denuncia-la-pol%C3%ADtica-de-resignaci%C3%B3n": {
+            "title": "Primero mayo. Toxo (ccoo) denuncia la \"pol\u00edtica de resignaci\u00f3n\" de...",
+            "snippet": "El secretario general de CCOO, Ignacio Fern\u00e1ndez Toxo, denunci\u00f3 hoy la \"pol\u00edtica de resignaci\u00f3n\" del presidente del Gobierno, Mariano Rajoy, frente al paro. En declaraciones a la prensa antes de participar en la...",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "politica",
+            "tags": "antes,frente,frente-al-paro,paro,mariano,mariano_rajoy,rajoy,pol\u00edtica,secretario,mayo,presidente,gobierno",
+            "recuweb_url": "http://es.recuweb.com/politica/noticias.lainformacion.com/2015/05/primero-mayo-toxo-ccoo-denuncia-la-pol%C3%ADtica-de-resignaci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/economia-general/primero-mayo-toxo-ccoo-denuncia-la-politica-de-resignacion-de-rajoy-frente-al-paro_fiRs88wJGt2yuresP2NnU3/"
+        },
+        "abc.com.py/2015/05/propaganda-pol%C3%ADtica-cronicas-ciudadanas-abc-color-digital": {
+            "title": "Propaganda pol\u00edtica - Cronicas Ciudadanas - ABC Color - ABC Digital...",
+            "snippet": "... 2015 16:42. Propaganda pol\u00edtica. A plena luz del d\u00eda funcionarios del centro municipal pintan murallas de la Plaza H\u00e9roes del Chaco, de Zeballos Cu\u00e9, a favor de pol\u00edticos colorados como Hugo Ram\u00edrez (actual concjeal).",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "politica",
+            "tags": "actual,pol\u00edticos,plena,d\u00eda,propaganda,pol\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/politica/abc.com.py/2015/05/propaganda-pol%C3%ADtica-cronicas-ciudadanas-abc-color-digital",
+            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/cronicas-ciudadanas/propaganda-politica-1362286.html"
+        },
+        "noticias.lainformacion.com/2015/05/salazar-uso-reivindica-una-aut%C3%A9ntica-regeneraci%C3%B3n-pol%C3%ADtica-moral": {
+            "title": "Salazar (USO) reivindica una \"aut\u00e9ntica regeneraci\u00f3n pol\u00edtica, moral...",
+            "snippet": "Para Salazar, las personas y el trabajo decente deben situarse \"en el epicentro de las pol\u00edticas\", con la recuperaci\u00f3n del empleo digno, pleno y con derechos, retribuciones suficientes, reparto equitativo de las rentas...",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "empleo,politica",
+            "tags": "empleo,pol\u00edticas,pol\u00edtica,uso,derechos",
+            "recuweb_url": "http://es.recuweb.com/politica/noticias.lainformacion.com/2015/05/salazar-uso-reivindica-una-aut%C3%A9ntica-regeneraci%C3%B3n-pol%C3%ADtica-moral",
+            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticias.lainformacion.com/mano-de-obra/legislacion-laboral/salazar-uso-reivindica-una-autentica-regeneracion-politica-moral-social-y-sindical_FR4rD3GufeIqbxXMOBymx3/"
+        },
         "politicandspeech.com/2015/04/de-pol%C3%ADtica-y-pol%C3%ADticos": {
             "title": "De pol\u00edtica y pol\u00edticos...",
             "snippet": "En la recta final de las elecciones, y como cada semana, hacemos un repaso del panorama nacional, auton\u00f3mico y local. Encuestas que generan intranquilidad a grandes y peque\u00f1os.",
             "date": "2015-04-29",
             "author_name": "gmorcillo",
             "categories": "politica",
-            "tags": "elecciones,pol\u00edticos,pol\u00edtica",
+            "tags": "hacemos,nacional,elecciones,pol\u00edticos,pol\u00edtica",
             "recuweb_url": "http://es.recuweb.com/politica/politicandspeech.com/2015/04/de-pol%C3%ADtica-y-pol%C3%ADticos",
             "resource_url": "http://es.search.wordpress.com/?q=politica%2Bpolitica&f=feed&page=1",
             "source_url": "http://politicandspeech.com/2015/04/29/de-politica-y-politicos-5/"
         },
-        "americaeconomia.com/2015/04/fitch-rebaja-calificaci%C3%B3n-soberana-de-jap%C3%B3n-y-advierte-sobre-pol%C3%ADtica": {
-            "title": "Fitch rebaja calificaci\u00f3n soberana de Jap\u00f3n y advierte sobre pol\u00edtica...",
-            "snippet": "Fitch rebaja calificaci\u00f3n soberana de Jap\u00f3n y advierte sobre pol\u00edtica fiscal. Asia. Fitch redujo su calificaci\u00f3n de Jap\u00f3n en un escal\u00f3n a \"A\", un grado que se sit\u00faa cinco pelda\u00f1os por debajo de la m\u00e1xima calificaci\u00f3n de \"AAA\".",
-            "date": "2015-04-27",
-            "author_name": "Gast\u00f3n Meza",
+        "forbes.com.mx/2015/04/reforma-pol%C3%ADtica-el-adi%C3%B3s-al-distrito-federal-forbes-m%C3%A9xico": {
+            "title": "Reforma pol\u00edtica, el adi\u00f3s al Distrito Federal - Forbes M\u00e9xico...",
+            "snippet": "El nombre formal de la capital del pa\u00eds dejar\u00e1 de ser Distrito Federal y pasar\u00e1 a ser un estado m\u00e1s dentro de la Rep\u00fablica, te presentamos cu\u00e1les son los cambios m\u00e1s relevantes dentro de la Reforma Pol\u00edtica aprobada esta...",
+            "date": "2015-04-29",
+            "author_name": "Forbes Staff",
             "categories": "politica",
-            "tags": "advierte,jap\u00f3n,pol\u00edtica,fiscal",
-            "recuweb_url": "http://es.recuweb.com/politica/americaeconomia.com/2015/04/fitch-rebaja-calificaci%C3%B3n-soberana-de-jap%C3%B3n-y-advierte-sobre-pol%C3%ADtica",
+            "tags": "pol\u00edtica,son,dentro,pasar\u00e1,estado,dejar\u00e1,pa\u00eds,rep\u00fablica",
+            "recuweb_url": "http://es.recuweb.com/politica/forbes.com.mx/2015/04/reforma-pol%C3%ADtica-el-adi%C3%B3s-al-distrito-federal-forbes-m%C3%A9xico",
             "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://americaeconomia.com/economia-mercados/finanzas/fitch-rebaja-calificacion-soberana-de-japon-y-advierte-sobre-politica-fis"
+            "source_url": "http://forbes.com.mx/reforma-politica-el-adios-al-distrito-federal/"
         },
-        "aldia.microjuris.com/2015/04/g%C3%A9nero-pol%C3%ADtica-y-medios-con-la-participaci%C3%B3n-de-alexandra-l%C3%BAgaro": {
-            "title": "G\u00e9nero, pol\u00edtica y medios con la participaci\u00f3n de Alexandra L\u00fagaro...",
-            "snippet": "G\u00e9nero, pol\u00edtica y medios con la participaci\u00f3n de Alexandra L\u00fagaro El mi\u00e9rcoles, 29 de abril de 2015 como parte del curso G\u00e9nero, medios y comunicaci\u00f3n del Programa de Estudios de G\u00e9nero y de la Mujer ofrecido por Dra.",
-            "date": "2015-04-27",
-            "author_name": "Ed. Microjuris.com Puerto Rico",
-            "categories": "politica",
-            "tags": "g\u00e9nero,pol\u00edtica,mujer",
-            "recuweb_url": "http://es.recuweb.com/politica/aldia.microjuris.com/2015/04/g%C3%A9nero-pol%C3%ADtica-y-medios-con-la-participaci%C3%B3n-de-alexandra-l%C3%BAgaro",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://aldia.microjuris.com/2015/04/27/genero-politica-y-medios-con-la-participacion-de-alexandra-lugaro/"
-        },
-        "noticias.lainformacion.com/2015/04/rajoy-advierte-de-que-la-inestabilidad-pol%C3%ADtica-y-grecia-son": {
-            "title": "Rajoy advierte de que la inestabilidad pol\u00edtica y grecia son los...",
-            "snippet": "El presidente del Gobierno y del Partido Popular, Mariano Rajoy, advirti\u00f3 este lunes de que la inestabilidad pol\u00edtica y Grecia son los enemigos de la recuperaci\u00f3n econ\u00f3mica que vive Espa\u00f1a. Rajoy realiz\u00f3 estas...",
-            "date": "2015-04-27",
-            "author_name": "desconocido",
-            "categories": "politica",
-            "tags": "son,econ\u00f3mica,partido,partido_popular,popular,grecia,advierte,rajoy,pol\u00edtica,presidente,gobierno,mariano,espa\u00f1a",
-            "recuweb_url": "http://es.recuweb.com/politica/noticias.lainformacion.com/2015/04/rajoy-advierte-de-que-la-inestabilidad-pol%C3%ADtica-y-grecia-son",
+        "historiasdelahistoria.com/2015/04/el-foro-de-augusto-la-propaganda-pol%C3%ADtica-hecha-m%C3%A1rmol": {
+            "title": "El Foro de Augusto, la propaganda pol\u00edtica hecha de m\u00e1rmol de...",
+            "snippet": "En esta ocasi\u00f3n trataremos los motivos por los que Augusto decidi\u00f3 crear un nuevo foro. El ideario pol\u00edtico y de propaganda para elevar su papel dentro de la historia de Roma, utilizando para este fin el lenguaje escult\u00f3rico...",
+            "date": "2015-04-28",
+            "author_name": "Javier Sanz",
+            "categories": "lenguaje,politica",
+            "tags": "propaganda,dentro,foro,pol\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/politica/historiasdelahistoria.com/2015/04/el-foro-de-augusto-la-propaganda-pol%C3%ADtica-hecha-m%C3%A1rmol",
             "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/politica-economica/rajoy-advierte-de-que-la-inestabilidad-politica-y-grecia-son-los-enemigos-de-la-recuperacion_zN28E8ZnzVhawjvHnPCKE6/"
-        },
-        "larepublica.pe/2015/04/un-virus-de-la-pol%C3%ADtica-columnistas": {
-            "title": "Un virus de la pol\u00edtica Columnistas...",
-            "snippet": "Se puede decir en descargo del Apra que la historia de las relaciones entre narcotr\u00e1fico y pol\u00edtica incluye contactos con casi todos los partidos, y a todo nivel. El descuido frente a la infiltraci\u00f3n ha sido general, y lo m\u00e1s que...",
-            "date": "2015-04-27",
-            "author_name": "desconocido",
-            "categories": "politica",
-            "tags": "general,casi,narcotr\u00e1fico,pol\u00edtica,partidos",
-            "recuweb_url": "http://es.recuweb.com/politica/larepublica.pe/2015/04/un-virus-de-la-pol%C3%ADtica-columnistas",
-            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://larepublica.pe/columnistas/observador/un-virus-de-la-politica-27-04-2015"
+            "source_url": "http://historiasdelahistoria.com/2015/04/28/el-foro-de-augusto-la-propaganda-politica-hecha-de-marmol-de-carrara"
         },
         "cnnespanol.cnn.com/2015/04/acaso-internet-ha-acabado-con-la-pol%C3%ADtica-cnnespa%C3%B1": {
             "title": "\u00bfAcaso internet ha acabado con la pol\u00edtica? CNNEspa\u00f1...",
@@ -72,54 +94,32 @@
             "date": "2015-04-27",
             "author_name": "marpichel",
             "categories": "internet,politica",
-            "tags": "d\u00eda,pol\u00edtica,hace",
+            "tags": "d\u00eda,plena,pol\u00edtica",
             "recuweb_url": "http://es.recuweb.com/politica/cnnespanol.cnn.com/2015/04/acaso-internet-ha-acabado-con-la-pol%C3%ADtica-cnnespa%C3%B1",
             "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/27/acaso-internet-ha-acabado-con-la-politica/"
         },
-        "adoptanegotiator.org/2015/04/voluntad-pol%C3%ADtica-por-favor-adopt-a-negotiator": {
-            "title": "\u00a1Voluntad pol\u00edtica por favor! - Adopt a Negotiator...",
-            "snippet": "A finales del a\u00f1o 2014, escrib\u00ed un art\u00edculo titulado Los pol\u00edticos admiten el cambio clim\u00e1tico, pero, \u00bfsus pol\u00edticas delatan lo contrario?, en el que hacia un an\u00e1lisis sobre la falta de voluntad pol\u00edtica en la toma de acciones...",
-            "date": "2015-04-26",
-            "author_name": "adoptanegotiator@campaginhub.org (Adopt A Negotiator)",
+        "ciperchile.cl/2015/04/financiamiento-ilegal-de-la-pol%C3%ADtica-los-pagos-las-pesqueras": {
+            "title": "Financiamiento ilegal de la pol\u00edtica: Los pagos de las pesqueras...",
+            "snippet": "La investigaci\u00f3n al financiamiento ilegal de la pol\u00edtica por parte de empresas debiera abrirse a otro sector: las pesqueras. Y ello porque al menos seis de los contribuyentes investigados por boletas emitidas a SQM,...",
+            "date": "2015-04-23",
+            "author_name": "Mat\u00edas Jara",
             "categories": "politica",
-            "tags": "falta,pol\u00edticos,pol\u00edticas",
-            "recuweb_url": "http://es.recuweb.com/politica/adoptanegotiator.org/2015/04/voluntad-pol%C3%ADtica-por-favor-adopt-a-negotiator",
-            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://adoptanegotiator.org/voluntad-politica-por-favor/"
-        },
-        "xarxatic.com/2015/04/no-es-educaci%C3%B3n-pol%C3%ADtica-xarxatic": {
-            "title": "No es educaci\u00f3n, es pol\u00edtica XarxaTIC...",
-            "snippet": "No existen las decisiones educativas, existen las decisiones pol\u00edticas. S\u00ed, por mucho que hablemos o expresemos bondades acerca de una determinada metodolog\u00eda,...",
-            "date": "2015-04-25",
-            "author_name": "Jordi Mart\u00ed",
-            "categories": "politica",
-            "tags": "pol\u00edticas",
-            "recuweb_url": "http://es.recuweb.com/politica/xarxatic.com/2015/04/no-es-educaci%C3%B3n-pol%C3%ADtica-xarxatic",
+            "tags": "menos,parte,pol\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/politica/ciperchile.cl/2015/04/financiamiento-ilegal-de-la-pol%C3%ADtica-los-pagos-las-pesqueras",
             "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xarxatic.com/no-es-educacion-es-politica/"
+            "source_url": "http://ciperchile.cl/2015/04/22/financiamiento-ilegal-de-la-politica-los-pagos-de-las-pesqueras/"
         },
-        "radio.uchile.cl/2015/04/expertos-plantean-nueva-constituci%C3%B3n-como-salida-a-la-crisis-pol%C3%ADtica": {
-            "title": "Expertos plantean nueva Constituci\u00f3n como salida a la crisis pol\u00edtica...",
-            "snippet": "Expertos en materia pol\u00edtica concuerdan en que las soluciones que se deben tomar implican una visi\u00f3n profunda y de largo plazo para enfrentar la gravedad de esta crisis: desde la transparencia en los aportes a las...",
-            "date": "2015-04-24",
-            "author_name": "Gonzalo Castillo",
-            "categories": "gravedad,politica",
-            "tags": "tomar,plazo,crisis,expertos,pol\u00edtica,deben",
-            "recuweb_url": "http://es.recuweb.com/politica/radio.uchile.cl/2015/04/expertos-plantean-nueva-constituci%C3%B3n-como-salida-a-la-crisis-pol%C3%ADtica",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://radio.uchile.cl/2015/04/23/expertos-plantean-nueva-constitucion-como-salida-a-la-crisis-politica"
-        },
-        "informador.com.mx/2015/04/silvia-pinal-no-tiene-planes-de-regresar-a-la-pol%C3%ADtica": {
-            "title": "Silvia Pinal no tiene planes de regresar a la pol\u00edtica:: El Informador...",
-            "snippet": "CIUDAD DE M\u00c9XICO (24/ABR/2015).- A Silvia Pinal le parece fascinante la pol\u00edtica y aunque no tiene planes para regresar a un puesto de elecci\u00f3n popular, reconoce que es algo muy interesante. La primera actriz explic\u00f3 que en su...",
-            "date": "2015-04-24",
+        "blog.twitter.com/2015/04/actualizamos-nuestras-pol%C3%ADticas-y-productos-para-combatir-el-abuso": {
+            "title": "Actualizamos nuestras pol\u00edticas y productos para combatir el abuso...",
+            "snippet": "Mejoramos nuestras pol\u00edticas para ampliar los tipos de contenidos contra los que podemos actuar y hacemos m\u00e1s actualizaciones para limitar el alcance de los abusos en nuestra plataforma.",
+            "date": "2015-04-22",
             "author_name": "desconocido",
             "categories": "politica",
-            "tags": "popular,pol\u00edtica,abr",
-            "recuweb_url": "http://es.recuweb.com/politica/informador.com.mx/2015/04/silvia-pinal-no-tiene-planes-de-regresar-a-la-pol%C3%ADtica",
+            "tags": "hacemos,pol\u00edticas,contra",
+            "recuweb_url": "http://es.recuweb.com/politica/blog.twitter.com/2015/04/actualizamos-nuestras-pol%C3%ADticas-y-productos-para-combatir-el-abuso",
             "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informador.com.mx/entretenimiento/2015/588368/6/silvia-pinal-no-tiene-planes-de-regresar-a-la-politica.htm"
+            "source_url": "http://blog.twitter.com/es/2015/actualizamos-nuestras-pol-ticas-y-productos-para-combatir-el-abuso-0"
         }
     }
 }

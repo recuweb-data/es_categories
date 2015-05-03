@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "almacenamiento-de-video",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/almacenamiento-de-video/",
@@ -11,15 +11,33 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/almacenamiento-de-video/almacenamiento-de-video/blogs.json"
     },
     "items": {
-        "noticias.terra.com/2015/04/transfiere-im%C3%A1genes-de-iphoto-a-mis-fotos-para-mac": {
-            "title": "Transfiere im\u00e1genes de iPhoto a Mis Fotos para Mac -...",
-            "snippet": "im\u00e1genes de iPhoto a Mis Fotos para ahorrar espacio en tu iPhone, escoge la opci\u00f3n para Optimizar Almacenamiento en iPhone, que sube tus fotos y videos de resoluci\u00f3n completa a iCloud y mantiene \"versiones optimizadas\" en tu iPhone. Este ajuste...",
-            "date": "2015-04-22",
-            "categories": "iphone",
-            "tags": "fotos,resoluci\u00f3n,espacio,im\u00e1genes,iphone,almacenamiento",
-            "recuweb_url": "http://es.recuweb.com/iphone/noticias.terra.com/2015/04/transfiere-im%C3%A1genes-de-iphoto-a-mis-fotos-para-mac",
+        "diario.mx/2015/05/compa%C3%B1%C3%ADa-taser-dejar%C3%A1-de-emplear-a-jefes-la-polic%C3%ADa-diario-digital": {
+            "title": "Compa\u00f1\u00eda Taser dejar\u00e1 de emplear a jefes de la Polic\u00eda - Diario Digital Ju\u00e1rez...",
+            "snippet": "Compa\u00f1\u00eda Taser dejar\u00e1 de emplear a jefes de la Polic\u00edaDiario Digital Ju\u00e1rezEn los tres casos, sus departamentos hab\u00edan celebrado contratos importantes con Taser para la compra de c\u00e1maras corporales y software de almacenamiento de video,.",
+            "date": "2015-05-02",
+            "tags": "compra,digital,almacenamiento",
+            "recuweb_url": "http://es.recuweb.com/diario.mx/2015/05/compa%C3%B1%C3%ADa-taser-dejar%C3%A1-de-emplear-a-jefes-la-polic%C3%ADa-diario-digital",
             "resource_url": "http://news.google.es/?hl=es&q=almacenamiento%2Bde%2Bvideo%2Balmacenamiento%2Bde%2Bvideo&output=atom&nord=1",
-            "source_url": "http://noticias.terra.com/tecnologia/tutorial-como-transferir-imagenes-de-iphoto-a-mis-fotos-para-mac,d5291486b70a76628a92f63a0530425259i0RCRD.html"
+            "source_url": "http://diario.mx/El_Paso/2015-05-01_ca2764e6/compania-taser-dejara-de-emplear-a-jefes-de-la-policia/"
+        },
+        "redusers.com/2015/05/lg-presenta-nuevos-videos-del-g4-redusers": {
+            "title": "LG presenta nuevos videos del G4 - RedUSERS...",
+            "snippet": "presenta nuevos videos del G4RedUSERS... el LG G4 posee una pantalla IPS de 5.5 pulgadas con resoluci\u00f3n QHD (2560x1440p, 538ppi, y tecnolog\u00eda Quantum Dot), procesador Qualcomm Snapdragon 808 hexa-core, 3GB de RAM, 32GB de almacenamiento interno...",
+            "date": "2015-05-01",
+            "categories": "tecnologia",
+            "tags": "resoluci\u00f3n,ram,almacenamiento",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/redusers.com/2015/05/lg-presenta-nuevos-videos-del-g4-redusers",
+            "resource_url": "http://news.google.es/?hl=es&q=almacenamiento%2Bde%2Bvideo%2Balmacenamiento%2Bde%2Bvideo&output=atom&nord=1",
+            "source_url": "http://redusers.com/noticias/lg-presenta-nuevos-videos-del-g4/"
+        },
+        "hipertextual.com/2015/04/el-futuro-del-almacenamiento-son-ssds-que-caben-en-la-palma": {
+            "title": "El futuro del almacenamiento son SSDs que caben en la palma de... - Hipertextual...",
+            "snippet": "HipertextualEl futuro del almacenamiento son SSDs que caben en la palma de...HipertextualNo hace muchos a\u00f1os, los que realizaban trabajos de edici\u00f3n fotogr\u00e1fica o v\u00eddeo llevaban consigo unas aparatosas carcasas de pl\u00e1stico o aluminio con dos o...",
+            "date": "2015-04-30",
+            "tags": "v\u00eddeo,almacenamiento",
+            "recuweb_url": "http://es.recuweb.com/hipertextual.com/2015/04/el-futuro-del-almacenamiento-son-ssds-que-caben-en-la-palma",
+            "resource_url": "http://news.google.es/?hl=es&q=almacenamiento%2Bde%2Bvideo%2Balmacenamiento%2Bde%2Bvideo&output=atom&nord=1",
+            "source_url": "http://hipertextual.com/2015/04/samsung-portable-ssd-t1"
         },
         "itclat.com/2015/04/nab-2015-ericsson-lleva-el-video-a-la-nube-y-reinventa": {
             "title": "NAB 2015: Ericsson lleva el video a la nube y reinventa la TV - IT CONNECT...",
@@ -44,7 +62,7 @@
             "snippet": "El Veedor Digital (Comunicado de prensa)Google permite almacenar fotos y v\u00eddeos en DriveEl Veedor Digital (Comunicado de prensa)Google ha activado el servicio de almacenamiento en la nube para im\u00e1genes y v\u00eddeos en Google Drive. Desde un espacio...",
             "date": "2015-04-06",
             "categories": "google",
-            "tags": "espacio,nube,im\u00e1genes,fotos,almacenamiento",
+            "tags": "nube,im\u00e1genes,digital,almacenamiento",
             "recuweb_url": "http://es.recuweb.com/google/elveedordigital.com/2015/04/google-permite-almacenar-fotos-y-v%C3%ADdeos-en-drive-el-veedor-digital",
             "resource_url": "http://news.google.es/?hl=es&q=almacenamiento%2Bde%2Bvideo%2Balmacenamiento%2Bde%2Bvideo&output=atom&nord=1",
             "source_url": "http://elveedordigital.com/actualidad/ciencia-y-tecnologia/6679-google-permite-almacenar-fotos-y-videos-en-drive"

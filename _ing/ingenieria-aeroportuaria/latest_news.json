@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "ingenieria-aeroportuaria",
+        "language": "es",
+        "updated": "20150503"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/ingenieria-aeroportuaria/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/ingenieria-aeroportuaria/ingenieria-aeroportuaria/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/ingenieria-aeroportuaria/ingenieria-aeroportuaria/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenieria-aeroportuaria/ingenieria-aeroportuaria/blogs.json"
+    },
+    "items": {
+        "elespectador.com/2015/04/nombran-nuevo-presidente-en-la-junta-directiva-del-grupo-argos": {
+            "title": "Nombran nuevo presidente en la junta directiva del Grupo Argos -...",
+            "snippet": "nuevo presidente en la junta directiva del Grupo d\u00edas pasados, el Grupo Argos ingres\u00f3 al sector de las concesiones viales y aeroportuarias con la compra de acciones en la Organizaci\u00f3n de Ingenier\u00eda Internacional, Odinsa, que de acuerdo con el...",
+            "date": "2015-04-28",
+            "categories": "ingenieria",
+            "tags": "ingenier\u00eda",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/elespectador.com/2015/04/nombran-nuevo-presidente-en-la-junta-directiva-del-grupo-argos",
+            "resource_url": "http://news.google.es/?hl=es&q=ingenieria%2Baeroportuaria&output=atom&nord=1",
+            "source_url": "http://elespectador.com/noticias/economia/nombran-nuevo-presidente-junta-directiva-del-grupo-argo-articulo-557523"
+        }
+    }
+}

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "placa-base",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/placa-base/",
@@ -11,49 +11,78 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/placa-base/placa-base/blogs.json"
     },
     "items": {
-        "hardzone.es/2015/04/as%C3%AD-es-el-apple-watch-por-dentro-ifixit-lo-desmonta": {
-            "title": "As\u00ed es el Apple Watch por dentro: iFixit lo desmonta...",
-            "snippet": "Sin embargo, al parecer la mayor dificultad del gadget radica en su placa base. Seg\u00fan iFixit un problema en la placa base har\u00eda que pr\u00e1cticamente tuvi\u00e9ramos que tirar el Apple Watch a la basura, pues su chip S1 (de dise\u00f1o personalizado por...",
-            "date": "2015-04-27",
-            "tags": "pues,problema,mayor,mayor-dificultad,dificultad,apple,placa,base",
-            "recuweb_url": "http://es.recuweb.com/hardzone.es/2015/04/as%C3%AD-es-el-apple-watch-por-dentro-ifixit-lo-desmonta",
+        "hardzone.es/2015/05/asrock-ya-tiene-una-placa-lga2011-3-mini-itx-con-memoria": {
+            "title": "ASRock ya tiene una placa LGA2011-3 mini ITX con memoria Quad-Channel...",
+            "snippet": "ASRock ha sido el primer fabricante en solventar el problema de espacio que hasta ahora imped\u00eda crear placas base de formato mini ITX con memoria Quad-channel, y ahora presentan orgullosos ya que es la primera y la \u00fanica placa base mini-ITX del...",
+            "date": "2015-05-02",
+            "categories": "memoria",
+            "tags": "primera,mini,problema,memoria,tiene,asrock,placas,itx,base",
+            "recuweb_url": "http://es.recuweb.com/memoria/hardzone.es/2015/05/asrock-ya-tiene-una-placa-lga2011-3-mini-itx-con-memoria",
             "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
-            "source_url": "http://hardzone.es/2015/04/26/apple-watch-por-dentro/"
+            "source_url": "http://hardzone.es/2015/05/02/asrock-lga2011-3-mini-itx-memoria-quad-channel/"
+        },
+        "hardzone.es/2015/05/gigabyte-lanza-su-nueva-placa-base-x99-sli": {
+            "title": "Gigabyte lanza su nueva placa base X99-SLI...",
+            "snippet": "En un intento de exprimir al m\u00e1ximo sus ingresos en el sector de la gama alta (conocido como HEDT), Gigabyte ha presentado su nueva placa base X99-SLI, con la intenci\u00f3n de saturar este sector del mercado con todo tipo de placas base que busquen...",
+            "date": "2015-05-02",
+            "tags": "m\u00e1ximo,gigabyte,placas,base",
+            "recuweb_url": "http://es.recuweb.com/hardzone.es/2015/05/gigabyte-lanza-su-nueva-placa-base-x99-sli",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
+            "source_url": "http://hardzone.es/2015/05/02/gigabyte-x99-sli/"
+        },
+        "configurarequipos.com/2015/05/compatibilidad-memoria-ram-y-placa-base": {
+            "title": "Compatibilidad memoria RAM y placa base...",
+            "snippet": "Tengo una placa base MSI G41M-P33 Combo, actualmente con dos m\u00f3dulos de memoria RAM Samsung DDR2 a 667 MHz, aunque las tengo en overclocking a 835 MHz. La placa como m\u00e1ximo soporta 4GB de memoria total y tiene otras dos ranuras libres para DDR3.",
+            "date": "2015-05-01",
+            "categories": "memoria",
+            "tags": "memoria,tiene,dos,m\u00e1ximo,aunque,tengo,placa,base,msi",
+            "recuweb_url": "http://es.recuweb.com/memoria/configurarequipos.com/2015/05/compatibilidad-memoria-ram-y-placa-base",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
+            "source_url": "http://configurarequipos.com/respuestas/pregunta127979.html"
+        },
+        "mundogamers.com/2015/04/cambia-los-sticks-del-dualshock-4": {
+            "title": "Cambia los sticks del DualShock 4...",
+            "snippet": "Hay otras soluciones si esta no os convence: pod\u00e9is comprar nuevos sticks de pl\u00e1stico e irlos cambiando a medida que se desgasten e incluso ponerle unos sticks de Xbox One, pues ir\u00f3nicamente, tienen la misma conexi\u00f3n con la placa base, si bien...",
+            "date": "2015-04-29",
+            "categories": "xbox",
+            "tags": "tienen,pod\u00e9is,nuevos,cambia,placa,base",
+            "recuweb_url": "http://es.recuweb.co/xbox/mundogamers.com/2015/04/cambia-los-sticks-del-dualshock-4",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
+            "source_url": "http://mundogamers.com/noticia-cambia-los-sticks-del-dualshock-4.10187.html"
+        },
+        "benchmarkhardware.com/2015/04/asus-presenta-la-placa-base-tuf-sabertooth-x99": {
+            "title": "ASUS presenta la placa base TUF Sabertooth X99...",
+            "snippet": "ASUS anuncia hoy la TUF Sabertooth X99, la primera placa base con soporte para todas las opciones de almacenamiento NVM Express como PCI Express (PCIe), M.2 PCI Express y los nuevos discos SSD de 2,5 con SFF-8639 v\u00eda el conector mini SAS HD...",
+            "date": "2015-04-28",
+            "tags": "mini,nuevos,primera,placa,base",
+            "recuweb_url": "http://es.recuweb.com/benchmarkhardware.com/2015/04/asus-presenta-la-placa-base-tuf-sabertooth-x99",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
+            "source_url": "http://benchmarkhardware.com/2015/04/asus-presenta-la-placa-base-tuf-sabertooth-x99-96011/"
+        },
+        "adslzone.net/2015/04/duda-rendimiento-de-pc": {
+            "title": "Duda rendimiento de PC...",
+            "snippet": "He mirado temperaturas, rendimiento y varias cosas mas y creo que el problema puede ser de incompatibilidad, de placa base y de CPU. A ver qu\u00e9 me pod\u00e9is decir. El equipo es: Placa base AMD socket AM3 asrock 970 extreme 3 R2.0...",
+            "date": "2015-04-28",
+            "tags": "pod\u00e9is,problema,puede,placa,base,cpu,amd,socket,asrock",
+            "recuweb_url": "http://es.recuweb.com/adslzone.net/2015/04/duda-rendimiento-de-pc",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
+            "source_url": "http://adslzone.net/postt380676.html"
         },
         "tuexperto.com/2015/04/la-nexus-7-deja-de-estar-disponible-en-google-store": {
             "title": "La Nexus 7 deja de estar disponible en la Google Store...",
             "snippet": "No pasaba del logo de Google. El fallo se encontrar\u00eda en la placa base y la soluci\u00f3n bastante complicada para usuarios inexpertos, el tener que introducir otra versi\u00f3n de manera manual, o en muchos casos cambiar la placa base.",
-            "date": "2015-04-27",
+            "date": "2015-04-28",
             "categories": "google",
             "tags": "cambiar,manera,fallo,placa,base",
             "recuweb_url": "http://es.recuweb.com/google/tuexperto.com/2015/04/la-nexus-7-deja-de-estar-disponible-en-google-store",
             "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
             "source_url": "http://tuexperto.com/2015/04/27/la-nexus-7-deja-de-estar-disponible-en-la-google-store/"
         },
-        "zonaforo.meristation.com/2015/04/half-life-2-tech-demo-e3-2003": {
-            "title": "Half-Life 2 Tech Demo E3 2003...",
-            "snippet": "Mi PC Master Race: Procesador Intel Core i7 4770K; Placa Base GIGABYTE GA-Z87X-D3H; Memoria F3-1600C9D-8GAO Ares; Disipador Be Quiet! DARK ROCK PRO 2; Tarjeta Gr\u00e1fica Gigabyte GeForce GTX 780 Ghz Edition 3GB; Fuente Seasonic P-760W 80...",
-            "date": "2015-04-25",
-            "categories": "rock,placa-base,memoria",
-            "tags": "gigabyte,placa,placa_base,base,procesador,memoria",
-            "recuweb_url": "http://es.recuweb.com/memoria/zonaforo.meristation.com/2015/04/half-life-2-tech-demo-e3-2003",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
-            "source_url": "http://zonaforo.meristation.com/topic/2309660/"
-        },
-        "adslzone.net/2015/04/mi-nuevo-disco-duro-externo-wd-funciona-exageradamente-lento": {
-            "title": "Mi nuevo disco duro externo WD funciona exageradamente lento...",
-            "snippet": "Western Digital WD10EZEX - Disco duro interno 3.5 de 1 TB (SATA Buffer 64 MB). Mi placa base solo tolera hasta SATA 2, pero el DD nuevo lo tengo conectado a esta placa base mediante SATA 3, pues los cables SATA son retrocompatibles, y todo el mundo...",
-            "date": "2015-04-25",
-            "tags": "pues,cables,nuevo,tengo,funciona,disco,duro,placa,base,son",
-            "recuweb_url": "http://es.recuweb.com/adslzone.net/2015/04/mi-nuevo-disco-duro-externo-wd-funciona-exageradamente-lento",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
-            "source_url": "http://adslzone.net/postt380422.html"
-        },
         "movilzona.es/2015/04/todos-los-componentes-del-apple-watch-al-descubierto": {
             "title": "Todos los componentes del Apple Watch, al descubierto...",
             "snippet": "La mayor dificultad en este terrero es la desconexi\u00f3n de los cables que unen el digitalizador, display y placa base. Una vez retirada la pantalla tenemos acceso al compartimento interior del smartwatch. Desde aqu\u00ed se puede acceder a la bater\u00eda...",
             "date": "2015-04-25",
-            "tags": "puede,mayor,mayor-dificultad,dificultad,cables,componentes,apple,placa,base",
+            "tags": "puede,placa,base",
             "recuweb_url": "http://es.recuweb.com/movilzona.es/2015/04/todos-los-componentes-del-apple-watch-al-descubierto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
             "source_url": "http://movilzona.es/2015/04/25/apple-watch-despiece-prueba-reloj-inteligente-pulsera-desmontaje/"
@@ -62,7 +91,7 @@
             "title": "Ayuda para conectar ventiladores de la caja a la placa base...",
             "snippet": "Hola, tengo el ordenador ya montado pero he visto que mi placa dispone de dos conectores que supongo tienen algo que ver con los ventiladores de la caja, Sys_Fan de 4 pines y Power_Fan de 3 pines. La placa base es una gigabyte ga 970a ds3p socket...",
             "date": "2015-04-21",
-            "tags": "gigabyte,dos,tengo,placa,base,hola,ordenador,socket",
+            "tags": "gigabyte,dos,tienen,caja,tengo,placa,base,ordenador,socket",
             "recuweb_url": "http://es.recuweb.com/zonaforo.meristation.com/2015/04/ayuda-para-conectar-ventiladores-de-la-caja-a-placa-base",
             "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
             "source_url": "http://zonaforo.meristation.com/topic/2308888/"
@@ -71,37 +100,10 @@
             "title": "ESPA\u00d1A: \u00a1Sigue a GIGABYTE y ll\u00e9vate una fant\u00e1stica placa base! - EntornoInteligente...",
             "snippet": "EntornoInteligenteESPA\u00d1A: \u00a1Sigue a GIGABYTE y ll\u00e9vate una fant\u00e1stica placa base!EntornoInteligenteMuyComputer y GIGABYTE te ofrecen la posibilidad de llevarte una F2A88XN-WIFI a casa, una placa mini-ITX basada en el potente chipset AMD A88X y...",
             "date": "2015-04-21",
-            "tags": "gigabyte,placa,base",
+            "tags": "amd,gigabyte,placa,base,mini,itx",
             "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/espa%C3%B1a-sigue-a-gigabyte-y-ll%C3%A9vate-una-fant%C3%A1stica-placa-base-entornointeligente",
             "resource_url": "http://news.google.es/?hl=es&q=placa%2Bbase%2Bplaca%2Bbase&output=atom&nord=1",
             "source_url": "http://entornointeligente.com/articulo/5716148/ESPANA-Sigue-a-GIGABYTE-y-llevate-una-fantastica-placa-base-21042015"
-        },
-        "configurarequipos.com/2015/04/placa-base-muerta-con-socket-1366-hay-esperanza": {
-            "title": "Placa base muerta con socket 1366. \u00bfHay esperanza?",
-            "snippet": "Win8 cons prev, quadcore 4gb SSD 80gb 2TB Hola Me gustar\u00eda saber que diferencia hay entre elegir un procesador con socket 2011 (creo que sandy bridge) y los 1366 \u00a1\u00a1 Que diferencias notables hay? veo que una placa base para los socket 2011 cuesta...",
-            "date": "2015-04-17",
-            "tags": "creo,sandy,bridge,saber,placa,base,socket,hola,procesador,\u00a1\u00a1",
-            "recuweb_url": "http://es.recuweb.com/configurarequipos.com/2015/04/placa-base-muerta-con-socket-1366-hay-esperanza",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
-            "source_url": "http://configurarequipos.com/respuestas/pregunta126995.html"
-        },
-        "bandaancha.eu/2015/04/procesador-para-p67-sandy-bridge": {
-            "title": "Procesador para P67 Sandy Bridge...",
-            "snippet": "Buenas. Necesito cambiar de CPU, pero tengo algunas limitaciones, ya que tiene que ser compatible con mi placa base Asrock P67 BIOS. No puedo mejorar la BIOS, ya que solo la revisi\u00f3n (B3 creo que se llamaban) de mi placa base pod\u00edan hacerlo...",
-            "date": "2015-04-17",
-            "tags": "hacerlo,creo,tiene,tengo,cambiar,sandy,bridge,procesador,cpu,placa,base,bios",
-            "recuweb_url": "http://es.recuweb.com/bandaancha.eu/2015/04/procesador-para-p67-sandy-bridge",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
-            "source_url": "http://bandaancha.eu/foros/procesador-p67-sandy-bridge-1717463"
-        },
-        "hardzone.es/2015/04/asus-tuf-trooper-b85-la-placa-m%C3%A1s-duradera-y-fiable": {
-            "title": "Asus TUF Trooper B85, la placa m\u00e1s duradera y fiable de Asus...",
-            "snippet": "Si eres de los que usan su ordenador en pleno desierto o simplemente buscas la m\u00e1xima fiabilidad y durabilidad en tu placa base, Asus tiene la placa base perfecta para ti. Bromas aparte, la nueva Asus TUF Trooper B85 que acaba de presentar la marca...",
-            "date": "2015-04-16",
-            "tags": "tiene,placa,ordenador,base",
-            "recuweb_url": "http://es.recuweb.com/hardzone.es/2015/04/asus-tuf-trooper-b85-la-placa-m%C3%A1s-duradera-y-fiable",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=placa%2Bbase&format=RSS&cc=es",
-            "source_url": "http://hardzone.es/2015/04/16/asus-tuf-trooper-b85/"
         }
     }
 }

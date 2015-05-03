@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-apple",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-apple/",
@@ -11,13 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/blogs.json"
     },
     "items": {
+        "actualidadiphone.com/2015/04/foxconn-quiere-que-apple-deje-de-depender-samsung": {
+            "title": "Foxconn quiere que Apple deje de depender de Samsung...",
+            "snippet": "dany me da a mi que de hardware de apple poco. pues los procesadores los fabrica samsung. la memoria samsung. la pantalla LG y Sharp. la camara Sony.. osea un popurri de hardware. Responder a Alba. Gadiel Santos...",
+            "date": "2015-04-29",
+            "author_name": "Nacho",
+            "categories": "memoria,hardware",
+            "tags": "pantalla,procesadores,apple,hardware,poco",
+            "recuweb_url": "http://es.recuweb.com/hardware/actualidadiphone.com/2015/04/foxconn-quiere-que-apple-deje-de-depender-samsung",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://actualidadiphone.com/foxconn-quiere-que-apple-deje-de-depender-de-samsung-para-fabricar-sus-productos/"
+        },
+        "uberbin.net/2015/04/xiaomi-el-hardware-como-excusa-denken-%C3%BCber": {
+            "title": "Xiaomi el hardware como excusa - Denken \u00dcber...",
+            "snippet": "Xiaomi es el startup que m\u00e1s r\u00e1pido aumento su valuaci\u00f3n y mientras todos lo miran como un \"fabricante de tel\u00e9fonos que se copia de Apple\" la realidad es m,...",
+            "date": "2015-04-28",
+            "author_name": "mariano",
+            "categories": "hardware",
+            "tags": "r\u00e1pido,apple,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/uberbin.net/2015/04/xiaomi-el-hardware-como-excusa-denken-%C3%BCber",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://uberbin.net/archivos/estrategias/xiaomi-el-hardware-como-excusa.php"
+        },
         "unocero.com/2015/04/la-wwdc-2015-de-apple-ya-tiene-fechas-qu%C3%A9-habr%C3%A1-nuevo": {
             "title": "La WWDC 2015 de Apple ya tiene fechas \u00bfqu\u00e9 habr\u00e1 de nuevo...",
             "snippet": "En cuanto a hardware, Apple podr\u00eda presentar la tan rumorada versi\u00f3n pro del iPad, con una pantalla cercana a las 12 pulgadas de tama\u00f1o; y una renovada iPad Mini. Como cada a\u00f1o, y tal como sucede con otros eventos de...",
             "date": "2015-04-14",
             "author_name": "unocero",
             "categories": "hardware,ipad",
-            "tags": "presentar,tan,pro,nuevo,apple,hardware,ipad,mini",
+            "tags": "pantalla,presentar,tan,pro,nuevo,apple,hardware,ipad,mini",
             "recuweb_url": "http://es.recuweb.com/ipad/unocero.com/2015/04/la-wwdc-2015-de-apple-ya-tiene-fechas-qu%C3%A9-habr%C3%A1-nuevo",
             "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://unocero.com/2015/04/14/la-wwdc-2015-de-apple-ya-tiene-fechas/"
@@ -28,7 +50,7 @@
             "date": "2015-03-10",
             "author_name": "Jorge Gacit\u00faa",
             "categories": "hardware",
-            "tags": "precio,presentar,hardware,apple,adem\u00e1s",
+            "tags": "presentar,hardware,apple",
             "recuweb_url": "http://es.recuweb.com/hardware/digitalbrands.cl/2015/03/hardware-apple-rebaja-el-tv-a-69-usd-digitalbrands",
             "resource_url": "http://www.google.com/search?q=hardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://digitalbrands.cl/?p=1361"
@@ -39,7 +61,7 @@
             "date": "2015-02-25",
             "author_name": "noreply@blogger.com (SeguridadApple)",
             "categories": "hardware",
-            "tags": "dispositivos,hacer,apple,hardware",
+            "tags": "dispositivos,hacer,traemos,apple,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/seguridadapple.com/2015/02/seguridad-apple-es-el-hardware-de-calidad-o-un-falso",
             "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://seguridadapple.com/2015/02/es-el-hardware-de-apple-de-calidad-o-es.html"
@@ -55,13 +77,24 @@
             "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javipas.com/2015/01/29/apple-hardware-triunfo-iphone/"
         },
+        "applesfera.com/2014/10/apple-actualiza-el-hardware-del-mac-mini-applesfera": {
+            "title": "Apple actualiza el hardware del Mac Mini - Apple. Applesfera...",
+            "snippet": "Apple actualiza el hardware del Mac Mini, con nuevos procesadores Intel de cuarta generaci\u00f3n, gr\u00e1ficos basados en Intel Iris y una HD Graphics...",
+            "date": "2014-10-16",
+            "author_name": "Pedro Aznar",
+            "categories": "mac-mini,hardware",
+            "tags": "procesadores,mac,mini,apple,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/applesfera.com/2014/10/apple-actualiza-el-hardware-del-mac-mini-applesfera",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://applesfera.com/sobremesa/apple-actualiza-el-hardware-del-mac-mini"
+        },
         "markaphone.com/2014/09/apple-por-qu%C3%A9-eres-tan-r%C3%A1pido": {
             "title": "Apple, \u00bfpor qu\u00e9 eres tan r\u00e1pido?",
             "snippet": "Desde la creaci\u00f3n de Apple y de sus incre\u00edbles placas base all\u00e1 por 1976, Apple ha sabido utilizar poco hardware para obtener mucha potencia. Las primeras placas base []...",
             "date": "2014-09-16",
             "author_name": "jurado1992",
             "categories": "hardware",
-            "tags": "primeras,poco,tan,apple,hardware",
+            "tags": "poco,tan,r\u00e1pido,apple,hardware,primeras",
             "recuweb_url": "http://es.recuweb.com/hardware/markaphone.com/2014/09/apple-por-qu%C3%A9-eres-tan-r%C3%A1pido",
             "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bapple%2Bhardware%2Bapple&f=feed&page=1",
             "source_url": "http://markaphone.com/2014/09/16/apple-por-que-eres-tan-rapido/"
@@ -72,7 +105,7 @@
             "date": "2014-07-21",
             "author_name": "macypc",
             "categories": "conocimiento,hardware",
-            "tags": "herramienta,herramienta-de-diagnostico,diagnostico,propia,cuenta,poco,alg\u00fan,mac,apple,hardware,test",
+            "tags": "herramienta,herramienta-de-diagnostico,diagnostico,cuenta,poco,alg\u00fan,mac,apple,hardware,test",
             "recuweb_url": "http://es.recuweb.com/hardware/macypc.com/2014/07/macypc-como-testear-un-mac-con-el-apple-hardware-test-aht",
             "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://macypc.com/como-testear-un-mac-con-el-apple-hardware-test-aht/"
@@ -83,43 +116,10 @@
             "date": "2014-01-31",
             "author_name": "desconocido",
             "categories": "hardware",
-            "tags": "alg\u00fan,problema,hacer,forma,apple,hardware,test,c\u00f3mo,mac",
+            "tags": "alg\u00fan,hacer,estado,equipo,forma,apple,hardware,test,c\u00f3mo,mac",
             "recuweb_url": "http://es.recuweb.com/hardware/tecnologia.uncomo.com/2014/01/c%C3%B3mo-usar-apple-hardware-test-de-forma-remota-8-pasos",
             "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://tecnologia.uncomo.com/articulo/como-usar-apple-hardware-test-de-forma-remota-24218.html"
-        },
-        "fayerwayer.com/2013/02/tim-cook-asegura-que-apple-no-es-una-empresa-de-hardware": {
-            "title": "Tim Cook asegura que Apple \"no es una empresa de hardware...",
-            "snippet": "Los Macs, iPhones y iPads podr\u00edan considerarse hardware, pero \"Apple no es una empresa de hardware\", afirm\u00f3 el CEO de Apple, Tim Cook, en una conferencia organizada por Goldman Sachs en San Francisco, reiterando...",
-            "date": "2013-02-12",
-            "author_name": "Cony Sturm",
-            "categories": "hardware,ipad",
-            "tags": "apple,hardware,cook",
-            "recuweb_url": "http://es.recuweb.com/ipad/fayerwayer.com/2013/02/tim-cook-asegura-que-apple-no-es-una-empresa-de-hardware",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fayerwayer.com/2013/02/tim-cook-asegura-que-apple-no-es-una-empresa-de-hardware/"
-        },
-        "applesfera.com/2011/07/rember-y-apple-hardware-test-dos-opciones-gr%C3%A1ficas": {
-            "title": "Rember y Apple hardware test: dos opciones gr\u00e1ficas para...",
-            "snippet": "La primera es la propia herramienta de Apple: Apple Hardware Test. Esta viene incluida en los discos de recuperaci\u00f3n del sistema o en la memoria USB que acompa\u00f1a a los nuevos MacBook Air. Para iniciar la herramienta...",
-            "date": "2011-07-14",
-            "author_name": "Pedro Santamar\u00eda",
-            "categories": "macbook,memoria,hardware",
-            "tags": "herramienta,nuevos,viene,sistema,memoria,hardware,test,propia,apple",
-            "recuweb_url": "http://es.recuweb.com/hardware/applesfera.com/2011/07/rember-y-apple-hardware-test-dos-opciones-gr%C3%A1ficas",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bapple%2Bhardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://applesfera.com/aplicaciones-os-x-1/rember-y-apple-hardware-test-dos-opciones-graficas-para-comprobar-el-estado-de-tu-memoria-ram"
-        },
-        "actualidadiphone.com/2010/01/apple-keynote-27-01-hardware-actualidad-iphone": {
-            "title": "Apple Keynote 27/01 - Hardware - Actualidad iPhone...",
-            "snippet": "Media pulgada de grosor lo dice todo. Como nos viene acostumbrando Apple, todos sus nuevos dispositivos m\u00f3viles apuestan por un dise\u00f1o incre\u00edblemente delga.",
-            "date": "2010-01-28",
-            "author_name": "Abeledo",
-            "categories": "hardware,iphone",
-            "tags": "nuevos,dispositivos,viene,apple,hardware,iphone",
-            "recuweb_url": "http://es.recuweb.com/iphone/actualidadiphone.com/2010/01/apple-keynote-27-01-hardware-actualidad-iphone",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bapple&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://actualidadiphone.com/apple-keynote-2701-hardware/"
         }
     }
 }

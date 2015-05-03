@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware/",
@@ -11,37 +11,71 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware/hardware/blogs.json"
     },
     "items": {
+        "zonared.com/2015/05/star-wars-battlefront-ser%C3%A1-cap%C3%A1z-de-conseguir-el-m%C3%A1ximo": {
+            "title": "'Star Wars: Battlefront'ser\u00e1 cap\u00e1z de \"conseguir el m\u00e1ximo del...",
+            "snippet": "'Star Wars: Battlefront'ser\u00e1 cap\u00e1z de \"conseguir el m\u00e1ximo del hardware\" en su versi\u00f3n para PS4. En DICE aseguran estar trabajando en estrecha colaboraci\u00f3n con los ingenieros de Sony para conseguirlo. PC PS4 XONE...",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
+            "categories": "hardware",
+            "tags": "ser\u00e1,hardware,versi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/hardware/zonared.com/2015/05/star-wars-battlefront-ser%C3%A1-cap%C3%A1z-de-conseguir-el-m%C3%A1ximo",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://zonared.com/noticias/star-wars-battlefront-maximo-hardware-ps4/"
+        },
+        "somoslibres.org/2015/04/la-biblioteca-de-westlake-porter-tendr%C3%A1-una-secci%C3%B3n": {
+            "title": "La Biblioteca de Westlake Porter tendr\u00e1 una secci\u00f3n para el...",
+            "snippet": "Cada d\u00eda que pasa, muchas instituciones antiguas van evolucionando y cambiando. Posiblemente, uno de esos cambios va a ser el uso de Hardware Libre, pero no de la manera que pensamos sino como productos o servicios del Cat\u00e1logo.",
+            "date": "2015-04-29",
+            "author_name": "desconocido",
+            "categories": "hardware",
+            "tags": "servicios,hardware,libre,pasa",
+            "recuweb_url": "http://es.recuweb.com/hardware/somoslibres.org/2015/04/la-biblioteca-de-westlake-porter-tendr%C3%A1-una-secci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://somoslibres.org/modules.php?name=News&file=article&sid=6921"
+        },
+        "tecnogeek.com/2015/04/windows-10-requerir%C3%A1-drm-por-hardware-para-contenido-4k": {
+            "title": "Windows 10 requerir\u00e1 DRM por hardware para contenido 4K...",
+            "snippet": "Windows 10 requerir\u00e1 DRM por hardware para contenido 4K, Una vez m\u00e1s el DRM ser\u00e1 el gran tema de discusi\u00f3n en la nueva versi\u00f3n de Windows, cada a\u00f1o que pasa, cada nueva actualizaci\u00f3n, un sector \u00ednfimo pero muy...",
+            "date": "2015-04-28",
+            "author_name": "Fabio Baccaglioni",
+            "categories": "hardware",
+            "tags": "nueva,pasa,ser\u00e1,versi\u00f3n,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/tecnogeek.com/2015/04/windows-10-requerir%C3%A1-drm-por-hardware-para-contenido-4k",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tecnogeek.com/verpost.php?id_noticia=3959"
+        },
+        "uberbin.net/2015/04/xiaomi-el-hardware-como-excusa-denken-%C3%BCber": {
+            "title": "Xiaomi el hardware como excusa - Denken \u00dcber...",
+            "snippet": "Xiaomi es visto como un hardware-maker donde su principal problema es que los bloggers dicen que copia descaradamente a Apple pero mientras tanto construye un ecosistema de servicios que incluyen desde...",
+            "date": "2015-04-28",
+            "author_name": "mariano",
+            "categories": "hardware",
+            "tags": "servicios,hardware,apple",
+            "recuweb_url": "http://es.recuweb.com/hardware/uberbin.net/2015/04/xiaomi-el-hardware-como-excusa-denken-%C3%BCber",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://uberbin.net/archivos/estrategias/xiaomi-el-hardware-como-excusa.php"
+        },
+        "teknikop.com/2015/04/hardware-malware-la-amenaza-desconocida-que-afecta": {
+            "title": "Hardware Malware la amenaza desconocida que afecta a los...",
+            "snippet": "Malware-hardware-1024x1024 Es bien conocido por todos que los virus, malware y en general los ataques producidos a nuestros equipos vienen de la mano del software y atacan directamente a este. Sin embargo recientes...",
+            "date": "2015-04-26",
+            "author_name": "Leonardo Ulric",
+            "categories": "hardware",
+            "tags": "malware,hardware,software",
+            "recuweb_url": "http://es.recuweb.com/hardware/teknikop.com/2015/04/hardware-malware-la-amenaza-desconocida-que-afecta",
+            "resource_url": "http://www.google.com/search?q=hardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://teknikop.com/2015/04/hardware-malware.html"
+        },
         "cnnexpansion.com/2015/04/las-ventas-de-hardware-impulsan-ingresos-microsoft-negocios": {
             "title": "Las ventas de 'hardware'impulsan ingresos de Microsoft - Negocios...",
             "snippet": "NUEVA YORK (Reuters) El gigante tecnol\u00f3gico Microsoft report\u00f3 este jueves ingresos y utilidades por encima de las expectativas de Wall Street, debido a que sus ventas de \"hardware\" y productos de computaci\u00f3n en...",
             "date": "2015-04-23",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "hardware",
-            "tags": "hardware,wall,wall_street,street,microsoft",
+            "tags": "hardware,wall,wall_street,street,nueva,microsoft",
             "recuweb_url": "http://es.recuweb.com/hardware/cnnexpansion.com/2015/04/las-ventas-de-hardware-impulsan-ingresos-microsoft-negocios",
             "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/negocios/2015/04/23/ventas-de-hardware-impulsan-ingresos-de-microsoft"
-        },
-        "aquivaletodo.blogspot.com/2015/04/aqui-vale-todo-los-fotocromos-de-hardware": {
-            "title": "Aqui Vale Todo: LOS FOTOCROMOS DE \"HARDWARE...",
-            "snippet": "LOS FOTOCROMOS DE \"HARDWARE, PROGRAMADO PARA MATAR\". Hoy reunimos para todos ustedes los fotocromos de la pel\u00edcula del debut -la mejor, me temo- de Richard Stanley, sobre la que me enrollar\u00eda m\u00e1s si no...",
-            "date": "2015-04-19",
-            "author_name": "Naxo Fiol",
-            "tags": "richard",
-            "recuweb_url": "http://es.recuweb.com/aquivaletodo.blogspot.com/2015/04/aqui-vale-todo-los-fotocromos-de-hardware",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://aquivaletodo.blogspot.com/2015/04/los-fotocromos-de-hardware-programado.html"
-        },
-        "lignux.com/2015/04/i-nex-una-forma-sencilla-de-conocer-tu-hardware-lignux": {
-            "title": "I-Nex, una forma sencilla de conocer tu hardware. LiGNUx...",
-            "snippet": "Seguro que la gran mayor\u00eda de vosotros conoc\u00e9is al c\u00e9lebre CPU-Z, la aplicaci\u00f3n para Windows que nos revela datos sobre el hardware en el que est\u00e1 instalado y que es una parte fundamental en toda rewiew de hardware...",
-            "date": "2015-04-17",
-            "author_name": "isorfe",
-            "categories": "hardware",
-            "tags": "parte,aplicaci\u00f3n,sencilla,hardware,cpu",
-            "recuweb_url": "http://es.recuweb.com/hardware/lignux.com/2015/04/i-nex-una-forma-sencilla-de-conocer-tu-hardware-lignux",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lignux.com/i-nex-una-forma-sencilla-de-conocer-tu-hardware/"
         },
         "eldiario.es/2015/04/dos-a%C3%B1os-cacharreando-con-impresoras-3d-y-hardware-libre": {
             "title": "dos a\u00f1os 'cacharreando'con impresoras 3D y 'hardware'libre...",
@@ -49,21 +83,10 @@
             "date": "2015-04-16",
             "author_name": "contacto@eldiario.es (Cristina S\u00e1nchez)",
             "categories": "electronica,impresora,hardware",
-            "tags": "hardware,libre",
+            "tags": "dos,hardware,libre,cables",
             "recuweb_url": "http://es.recuweb.com/hardware/eldiario.es/2015/04/dos-a%C3%B1os-cacharreando-con-impresoras-3d-y-hardware-libre",
             "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eldiario.es/hojaderouter/tecnologia/Makespace_Madrid-makers-impresion_3D-hardware_libre_0_377962480.html"
-        },
-        "securityartwork.es/2015/04/hardware-hacking-row-hammer-y-light-eater-security-art-work": {
-            "title": "Hardware Hacking, Row Hammer y Light Eater Security Art Work...",
-            "snippet": "No obstante, el problema radica en la creencia firme de que los dispositivos hardware que ejecutan el mismo son perfecta y completamente seguros. Nada m\u00e1s alejado de la realidad; el hardware est\u00e1 formado por multitud...",
-            "date": "2015-04-13",
-            "author_name": "David Cutanda",
-            "categories": "hardware",
-            "tags": "son,dispositivos,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/securityartwork.es/2015/04/hardware-hacking-row-hammer-y-light-eater-security-art-work",
-            "resource_url": "http://www.google.com/search?q=hardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://securityartwork.es/2015/04/13/hardware-hacking-row-hammer-y-light-eater/"
         },
         "xatakandroid.com/2015/04/aparecen-los-primeros-detalles-del-hardware-de-samsung": {
             "title": "Aparecen los primeros detalles del hardware de los Samsung...",
@@ -71,7 +94,7 @@
             "date": "2015-04-08",
             "author_name": "Juan Carlos Gonz\u00e1lez",
             "categories": "hardware",
-            "tags": "tel\u00e9fono,hardware,samsung",
+            "tags": "tel\u00e9fono,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/xatakandroid.com/2015/04/aparecen-los-primeros-detalles-del-hardware-de-samsung",
             "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakandroid.com/moviles-android/aparecen-los-primeros-detalles-del-hardware-de-los-samsung-galaxy-j5-y-j7"
@@ -82,7 +105,7 @@
             "date": "2015-04-07",
             "author_name": "TICbeat",
             "categories": "hardware",
-            "tags": "dispositivos,wall,wall_street,street,monta,propia,android,hardware",
+            "tags": "dispositivos,wall,wall_street,street,monta,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/ticbeat.com/2015/04/andy-rubin-creador-de-android-monta-su-propia-aceleradora",
             "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ticbeat.com/emprendedores/andy-rubin-creador-de-android-monta-su-propia-aceleradora-de-hardware/"
@@ -93,32 +116,10 @@
             "date": "2015-03-27",
             "author_name": "Juan Carlos Gonz\u00e1lez",
             "categories": "hardware",
-            "tags": "monta,aplicaci\u00f3n,estado,tel\u00e9fono,hardware",
+            "tags": "monta,tel\u00e9fono,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/xatakandroid.com/2015/03/castro-nos-da-en-detalle-toda-la-informaci%C3%B3n-sobre-el-hardware",
             "resource_url": "http://www.google.com/search?q=hardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xatakandroid.com/aplicaciones-android/castro-nos-da-en-detalle-toda-la-informacion-sobre-el-hardware-de-nuestro-android"
-        },
-        "victorhckinthefreeworld.wordpress.com/2015/03/los-dise%C3%B1os-del-hardware-deber%C3%ADan-ser-libres": {
-            "title": "Los dise\u00f1os del hardware deber\u00edan ser libres...",
-            "snippet": "Segunda parte del art\u00edculo de Richard Stallman sobre la necesidad de desarrollar dise\u00f1os libres para el hardware. Hace unos d\u00edas pudiste leer en mi blog la traducci\u00f3n realizada por el amigo Jcsl sobre el art\u00edculo de Richard...",
-            "date": "2015-03-18",
-            "author_name": "victorhck",
-            "categories": "hardware",
-            "tags": "art\u00edculo,dise\u00f1os,libres,richard,parte,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/victorhckinthefreeworld.wordpress.com/2015/03/los-dise%C3%B1os-del-hardware-deber%C3%ADan-ser-libres",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://victorhckinthefreeworld.wordpress.com/2015/03/18/los-disenos-del-hardware-deberian-ser-libres/"
-        },
-        "victorhckinthefreeworld.wordpress.com/2015/03/por-qu%C3%A9-necesitamos-dise%C3%B1os-de-hardware-digitales-libres": {
-            "title": "Por qu\u00e9 necesitamos dise\u00f1os de hardware digitales libres...",
-            "snippet": "Tenemos el software libre, que garantiza la libertad de los usuarios, pero \u00bfEs necesario un hardware libre? Recientemente el compa\u00f1ero Replicante, en un comentario en mi blog, comentaba sobre un art\u00edculo reciente...",
-            "date": "2015-03-16",
-            "author_name": "victorhck",
-            "categories": "hardware",
-            "tags": "art\u00edculo,libres,dise\u00f1os,hardware,software,libre",
-            "recuweb_url": "http://es.recuweb.com/hardware/victorhckinthefreeworld.wordpress.com/2015/03/por-qu%C3%A9-necesitamos-dise%C3%B1os-de-hardware-digitales-libres",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bhardware&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://victorhckinthefreeworld.wordpress.com/2015/03/16/por-que-necesitamos-disenos-de-hardware-digitales-libres/"
         }
     }
 }

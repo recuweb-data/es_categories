@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/wordpress/",
@@ -11,16 +11,48 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "ragose.com/2015/04/mantenimiento-en-wordpress-las-tareas-que-debes-realizar-si": {
-            "title": "Mantenimiento en WordPress, las tareas que debes realizar si o si...",
-            "snippet": "WordPress es un sistema muy completo, pero necesita un mantenimiento cada poco tiempo, si no queremos que nos empiece a dar problemas. A diario suelo ver instalaciones en WordPress que pod\u00edan ir muy r\u00e1pidas y no van porque no...",
-            "date": "2015-04-27",
-            "author_name": "Ra\u00fal Gonz\u00e1lez",
-            "categories": "wordpress",
-            "tags": "porque,queremos,dar,sistema,completo,debes,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/ragose.com/2015/04/mantenimiento-en-wordpress-las-tareas-que-debes-realizar-si",
+        "3cero.com/2015/05/conexi%C3%B3n-a-wordpress-traves-de-api-m%C3%A1s-all%C3%A1-la-web-2": {
+            "title": "Conexi\u00f3n a WordPress a traves de API - M\u00e1s all\u00e1 de la web 2 cero...",
+            "snippet": "Con WP REST API podemos implementar en nuestra instalaci\u00f3n de WordPress una API que devuelve datos del sitio web en formato JSON por peticiones POST y GET.",
+            "date": "2015-05-01",
+            "author_name": "\u00c1lvaro Fontela",
+            "categories": "wordpress,json",
+            "tags": "web,podemos,wordpress,cero,sitio",
+            "recuweb_url": "http://es.recuweb.com/json/3cero.com/2015/05/conexi%C3%B3n-a-wordpress-traves-de-api-m%C3%A1s-all%C3%A1-la-web-2",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ragose.com/mantenimiento-en-wordpress-las-tareas-que-debes-realizar-si-o-si/"
+            "source_url": "http://3cero.com/wordpress-api/"
+        },
+        "zonavirus.com/2015/04/wordpress-corrige-vulnerabilidad-zero-day-que-permite-cross-site-scriptig": {
+            "title": "Wordpress corrige vulnerabilidad zero day que permite cross-site scriptig...",
+            "snippet": "Wordpress lanz\u00f3 un parche de emergencia para corregir una vulnerabilidad de d\u00eda cero que afecta a millones de sitios web, \u00e9stos podr\u00edan ser v\u00edctimas de cross-site scriptig e incluso secuestro del sitio web. Gary Pendergast, consultor de...",
+            "date": "2015-04-30",
+            "categories": "wordpress",
+            "tags": "vulnerabilidad,cero,afecta,sitio,web,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/zonavirus.com/2015/04/wordpress-corrige-vulnerabilidad-zero-day-que-permite-cross-site-scriptig",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=es",
+            "source_url": "http://zonavirus.com/noticias/2015/wordpress-421-corrige-vulnerabilidad-zero-day-que-permite-cross-site-scriptig.asp"
+        },
+        "lecciones.batiburrillo.net/2015/04/wordpress-crear-p%C3%A1ginas-con-page-builder": {
+            "title": "WordPress: Crear p\u00e1ginas con Page Builder...",
+            "snippet": "Existen algunos temas para WordPress que permiten la creaci\u00f3n de p\u00e1ginas utilizando un editor que pone a nuestra disposici\u00f3n una serie de widgets que podemos activar y desplazar de un lugar a otro. Pero no es as\u00ed en...",
+            "date": "2015-04-29",
+            "author_name": "fabriciano",
+            "categories": "wordpress",
+            "tags": "editor,podemos,creaci\u00f3n,algunos,temas,wordpress,crear,p\u00e1ginas,existen",
+            "recuweb_url": "http://es.recuweb.com/wordpress/lecciones.batiburrillo.net/2015/04/wordpress-crear-p%C3%A1ginas-con-page-builder",
+            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lecciones.batiburrillo.net/wordpress-crear-paginas-con-page-builder/"
+        },
+        "bloguismo.com/2015/04/custom-posts-y-fields-en-wordpress-bloguismo": {
+            "title": "Custom Posts y Custom Fields en WordPress - Bloguismo...",
+            "snippet": "Types es un plugin para WordPress que te permitir\u00e1 crear y gestionar Custom Posts y campos personalizados en WordPress desde la interfaz gr\u00e1fica.",
+            "date": "2015-04-29",
+            "author_name": "\u00c1lvaro Fontela",
+            "categories": "wordpress",
+            "tags": "plugin,wordpress,crear",
+            "recuweb_url": "http://es.recuweb.com/wordpress/bloguismo.com/2015/04/custom-posts-y-fields-en-wordpress-bloguismo",
+            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://bloguismo.com/custom-posts-fields-wordpress/"
         },
         "ciudadano2cero.com/2015/04/top-plugins-gratuitos-de-wordpress-el-5-abril": {
             "title": "Top Plugins gratuitos de WordPress: El 'Top 5 de Abril...",
@@ -28,21 +60,10 @@
             "date": "2015-04-26",
             "author_name": "Berto L\u00f3pez",
             "categories": "wordpress",
-            "tags": "blogger,plugins,gratuitos,wordpress",
+            "tags": "existen,blogger,viene,gratuitos,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/ciudadano2cero.com/2015/04/top-plugins-gratuitos-de-wordpress-el-5-abril",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ciudadano2cero.com/top-plugins-gratis-wordpress-abril-2015/"
-        },
-        "ragose.com/2015/04/de-web-html-a-wordpress-lo-que-debes-saber-antes-dar": {
-            "title": "De web HTML a WordPress: lo que debes saber antes de dar el...",
-            "snippet": "Son muchos los que cada d\u00eda quieren pasar su web HTML est\u00e1tica o hecha en PHP a WordPress por sus ventajas. Las dos son m\u00e1s o menos iguales, porque si tu no sabes de programaci\u00f3n, no creo que puedas hacer cambios en ninguna.",
-            "date": "2015-04-24",
-            "author_name": "Ra\u00fal Gonz\u00e1lez",
-            "categories": "html,wordpress,php",
-            "tags": "creo,porque,programaci\u00f3n,son,menos,web,debes,dar,wordpress,php",
-            "recuweb_url": "http://es.recuweb.com/php/ragose.com/2015/04/de-web-html-a-wordpress-lo-que-debes-saber-antes-dar",
-            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ragose.com/de-web-html-a-wordpress-lo-que-debes-saber-antes-de-dar-el-paso/"
         },
         "frikipandi.com/2015/04/descargar-wordpress-4-2-powell": {
             "title": "Descargar WordPress 4.2 Powell...",
@@ -50,7 +71,7 @@
             "date": "2015-04-24",
             "author_name": "Juan Casc\u00f3n Ba\u00f1os",
             "categories": "wordpress",
-            "tags": "nuevo,versi\u00f3n,actualizaci\u00f3n,descargar,wordpress",
+            "tags": "idea,destacando,destacando-su-nuevo,nuevo,nuevo-bot\u00f3n,bot\u00f3n,anuncia,anuncia-su-versi\u00f3n,versi\u00f3n,actualizaci\u00f3n,descargar,wordpress,press,this",
             "recuweb_url": "http://es.recuweb.com/wordpress/frikipandi.com/2015/04/descargar-wordpress-4-2-powell",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=es",
             "source_url": "http://frikipandi.com/public/post/descargar-wordpress-4-2-powell/"
@@ -61,65 +82,43 @@
             "date": "2015-04-23",
             "author_name": "noreply@blogger.com (Antonio Ropero)",
             "categories": "wordpress,php,mysql",
-            "tags": "sistema,creaci\u00f3n,actualizaci\u00f3n,wordpress,php",
+            "tags": "creaci\u00f3n,actualizaci\u00f3n,wordpress",
             "recuweb_url": "http://es.recuweb.com/mysql/unaaldia.hispasec.com/2015/04/hispasec-unaaldia-actualizaci%C3%B3n-cr%C3%ADtica-para-wordpress",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2015/04/actualizacion-critica-para-wordpress.html"
         },
-        "platzi.com/2015/04/5-razones-de-peso-para-elegir-wordpress-como-tu-cms-platzi": {
-            "title": "5 razones de peso para elegir WordPress como tu CMS - Platzi...",
-            "snippet": "Para todo principiante en el mundo del blogging o, para los amateurs de la creaci\u00f3n de sitios web, es fundamental la cuesti\u00f3n acerca de cu\u00e1l gestor de contenido (CMS) o qu\u00e9 plataforma usar para empezar. Pero...",
-            "date": "2015-04-22",
-            "author_name": "desconocido",
-            "categories": "wordpress",
-            "tags": "usar,fundamental,creaci\u00f3n,sitios,web,wordpress,platzi,blogging",
-            "recuweb_url": "http://es.recuweb.com/wordpress/platzi.com/2015/04/5-razones-de-peso-para-elegir-wordpress-como-tu-cms-platzi",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://platzi.com/blog/porque-usar-wordpress/"
-        },
-        "bloguismo.com/2015/04/plugins-seo-de-pago-para-wordpress-merecen-la-pena": {
-            "title": "Plugins SEO de pago para WordPress, \u00bfmerecen la pena?",
-            "snippet": "Merecen la pena los plugins Premium para mejorar el SEO en Wordpress? Personalmente creo que solo Premium SEO Pack sirve para algo.",
-            "date": "2015-04-22",
-            "author_name": "\u00c1lvaro Fontela",
-            "categories": "wordpress",
-            "tags": "creo,plugins,seo,wordpress,premium",
-            "recuweb_url": "http://es.recuweb.com/wordpress/bloguismo.com/2015/04/plugins-seo-de-pago-para-wordpress-merecen-la-pena",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://bloguismo.com/plugins-seo-pago-wordpress/"
-        },
-        "platzi.com/2015/04/wordpress-rest-api-y-google-charts-reportes-a-la-medida-platzi": {
-            "title": "Wordpress REST API y Google Charts: reportes a la medida - Platzi...",
-            "snippet": "Recientemente Alejandro Gonz\u00e1lez nos habl\u00f3 de la API REST de Wordpress que facilita el desarrollo de aplicaciones externas para trabajar con nuestros sitios. Hoy vamos a explorar c\u00f3mo mostrar las estad\u00edsticas generales...",
-            "date": "2015-04-21",
-            "author_name": "desconocido",
-            "categories": "google,wordpress",
-            "tags": "vamos,sitios,medida,wordpress,platzi,c\u00f3mo",
-            "recuweb_url": "http://es.recuweb.com/wordpress/platzi.com/2015/04/wordpress-rest-api-y-google-charts-reportes-a-la-medida-platzi",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://platzi.com/blog/wp-api-google-charts/"
-        },
-        "linuxgnublog.org/2015/04/como-crear-un-blog-wordpress-en-digitalocean-linux-gnu": {
-            "title": "Como crear un blog WordPress en DigitalOcean Linux gnu blog...",
-            "snippet": "Como estamos usando el plan barato y, por lo tanto, con menos recursos, no vamos a tomar el camino m\u00e1s c\u00f3modo eligiendo WordPress, pues ese paquete se basa en Apache y queremos usar Nginx. Por eso vamos a...",
-            "date": "2015-04-20",
-            "author_name": "El\u00edas R.M.",
-            "categories": "wordpress",
-            "tags": "eso,vamos,queremos,usar,menos,usando,linux,crear,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/linuxgnublog.org/2015/04/como-crear-un-blog-wordpress-en-digitalocean-linux-gnu",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://linuxgnublog.org/como-crear-un-blog-wordpress-en-digitalocean"
-        },
-        "wwwhatsnew.com/2015/04/cloudpress-una-pr%C3%A1ctica-forma-de-crear-temas-para-wordpress": {
-            "title": "cloudpress, una pr\u00e1ctica forma de crear temas para WordPress...",
-            "snippet": "Si os gustar\u00eda tener un tema de WordPress personalizado, dise\u00f1ado a medida, pero no ten\u00e9is presupuesto para contratarlo ni conocimiento de programaci\u00f3n para desarrollarlo desde cero, echad un vistazo en la soluci\u00f3n...",
-            "date": "2015-04-17",
+        "wwwhatsnew.com/2015/04/lleg%C3%B3-wordpress-4-2-mejorando-la-forma-de-compartir-art%C3%ADculos": {
+            "title": "Lleg\u00f3 WordPress 4.2 mejorando la forma de compartir art\u00edculos...",
+            "snippet": "WordPress anuncia su versi\u00f3n 4.2 destacando su nuevo bot\u00f3n Press this. La idea es que al pulsar el bot\u00f3n de publicaci\u00f3n cuando estemos visitando cualquier p\u00e1gina web, se abra el editor de WordPress con informaci\u00f3n...",
+            "date": "2015-04-23",
             "author_name": "Juan Diego Polo",
-            "categories": "conocimiento,wordpress",
-            "tags": "ten\u00e9is,programaci\u00f3n,medida,temas,forma,crear,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/wwwhatsnew.com/2015/04/cloudpress-una-pr%C3%A1ctica-forma-de-crear-temas-para-wordpress",
+            "categories": "wordpress",
+            "tags": "editor,idea,bot\u00f3n,web,destacando,destacando-su-nuevo,nuevo,nuevo-bot\u00f3n,anuncia,anuncia-su-versi\u00f3n,versi\u00f3n,forma,wordpress,press,this",
+            "recuweb_url": "http://es.recuweb.com/wordpress/wwwhatsnew.com/2015/04/lleg%C3%B3-wordpress-4-2-mejorando-la-forma-de-compartir-art%C3%ADculos",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/04/17/cloudpress-una-practica-forma-de-crear-temas-para-wordpress/"
+            "source_url": "http://wwwhatsnew.com/2015/04/23/llego-wordpress-4-2-mejorando-la-forma-de-compartir-articulos-anadiendo-mas-caracteres-y-mas/"
+        },
+        "raven.es/2015/04/la-semana-que-viene-en-wordcamp-barcelona": {
+            "title": "La semana que viene, en WordCamp Barcelona...",
+            "snippet": "Este a\u00f1o la temporada de congresos empieza fuerte. Tenemos nada menos que cinco ya en calendario, y empezamos este a\u00f1o por Barcelona. Wordcamp Spain Del a\u00f1o 2008 al a\u00f1o 2010 se celebr\u00f3 en Barcelona el gran evento WordPress: la WordCamp Spain.",
+            "date": "2015-04-16",
+            "author_name": "Rafa Poveda",
+            "categories": "wordpress",
+            "tags": "nada,viene,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/raven.es/2015/04/la-semana-que-viene-en-wordcamp-barcelona",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=es",
+            "source_url": "http://raven.es/2015/04/16/la-semana-que-viene-en-wordcamp-barcelona/"
+        },
+        "proyectoyzeta.wordpress.com/2015/04/ya-estamos-en-wordpress": {
+            "title": "Ya estamos en WordPress!",
+            "snippet": "Ya estamos en WordPress para que te puedas informar con nosotros y puedas disfrutar de nosotros, espacio de IT (Information Technology), poes\u00eda, pol\u00edtica, cuentos, historias, situaci\u00f3n actual sobre...",
+            "date": "2015-04-13",
+            "author_name": "humano73",
+            "categories": "wordpress,politica",
+            "tags": "wordpress",
+            "recuweb_url": "http://es.recuweb.com/politica/proyectoyzeta.wordpress.com/2015/04/ya-estamos-en-wordpress",
+            "resource_url": "http://es.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
+            "source_url": "http://proyectoyzeta.wordpress.com/2015/04/13/ya-estamos-en-wordpress/"
         }
     }
 }

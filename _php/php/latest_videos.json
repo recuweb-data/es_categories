@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/php/",
@@ -11,30 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/importar-archivos-csv-con-php-pdo": {
-            "title": "Importar Archivos CSV con PHP - PDO...",
-            "snippet": "Importar Archivos CSV con PHP - PDO En este video tutorial les quiero mostrar como cargar una base de datos MySQL desde un archivo CSV, utilizando los PDO de PHP. Bienvenidos. CRUD de PHP con PDO... From: David Reyes Views: 193 5 ratings Time: 26:22...",
-            "date": "2015-04-13",
-            "author_name": "David Reyes",
-            "categories": "base-de-datos,php,mysql",
-            "tags": "datos,php,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2015/04/importar-archivos-csv-con-php-pdo",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=cr_QPXjqUv4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/cr_QPXjqUv4/0.jpg"
-        },
-        "youtube.com/2015/02/codigo-de-barras-barcode-php-softunicorn": {
-            "title": "Codigo de Barras - Barcode PHP - SoftUnicorn...",
-            "snippet": "Codigo de Barras - Barcode PHP - SoftUnicorn Barcode, Codigo de Barras en PHP Facebook: Facebook: Twitter: Descargar Codigo... From: SoftUnicorn2013 Views: 677 2 ratings Time: 05:06 More in Education...",
-            "date": "2015-02-02",
-            "author_name": "SoftUnicorn2013",
-            "categories": "php,facebook,twitter",
-            "tags": "php",
-            "recuweb_url": "http://es.recuweb.com/twitter/youtube.com/2015/02/codigo-de-barras-barcode-php-softunicorn",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=96OLlr3IsyM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/96OLlr3IsyM/0.jpg"
-        },
         "dailymotion.com/2014/11/curso-de-mongodb-con-php-13-ejecutar-mapreduce": {
             "title": "Curso de MongoDB con PHP 13 - Ejecutar MapReduce en PHP...",
             "snippet": "Curso completo de MongoDB con PHP. Con el crecimiento de la web en tiempo real exist\u00eda una necesidad de proporcionar medios de procesamiento para grandes vol\u00famenes de datos de estructuras similares. Las principales compa\u00f1\u00edas de Internet, como...",
@@ -89,23 +65,23 @@
             "date": "2014-06-20",
             "author_name": "salascarlos40",
             "categories": "mysql,php",
-            "tags": "servidor,servidor_apache,apache,mysql,php,phpauthor,tags",
+            "tags": "servidor,apache,mysql,php,tags",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/06/videotutorial-apache-mysql-php",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zv7pp_videotutorial-apache-mysql-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zv7pp_videotutorial-apache-mysql-php_tech"
         },
-        "dailymotion.com/2014/06/instalar-y-configurar-los-programas-servidor-apache-mysql-php": {
-            "title": "instalar y configurar los programas Servidor Apache Mysql PHP...",
-            "snippet": "instalar y configurar en su computadora los programas Servidor Apache Mysql PHPAuthor: andersonj15Tags: Posted: 17 June 2014Rating:: 0...",
-            "date": "2014-06-17",
-            "author_name": "andersonj15",
-            "categories": "mysql,computadora,php",
-            "tags": "servidor,servidor_apache,apache,mysql,phpauthor,configurar,php,tags",
-            "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/06/instalar-y-configurar-los-programas-servidor-apache-mysql-php",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1zng5p_instalar-y-configurar-los-programas-servidor-apache-mysql-php_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1zng5p_instalar-y-configurar-los-programas-servidor-apache-mysql-php_tech"
+        "youtube.com/2014/05/aprende-jquery-c%C3%B3mo-enviar-datos-mediante-ajax-usando-php": {
+            "title": "Aprende jQuery: C\u00f3mo enviar datos mediante Ajax usando PHP...",
+            "snippet": "Aprende jQuery: C\u00f3mo enviar datos mediante Ajax usando PHP Aprende m\u00e1s en \u00bfTe gustar\u00eda saber como funciona el m\u00e9todo.Ajax de jQuery? En el siguiente video veremos como funciona el m\u00e9todo.Ajax de jQuery para procesar... From: Codejobs Views:...",
+            "date": "2014-05-29",
+            "author_name": "Codejobs",
+            "categories": "jquery,php",
+            "tags": "datos,php",
+            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/05/aprende-jquery-c%C3%B3mo-enviar-datos-mediante-ajax-usando-php",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=woJTmWmFWvc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/woJTmWmFWvc/0.jpg"
         },
         "dailymotion.com/2014/04/carrito-de-compras-php": {
             "title": "CARRITO DE COMPRAS - PHP...",
@@ -119,17 +95,41 @@
             "source_url": "http://dailymotion.com/video/x1px31q_carrito-de-compras-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1px31q_carrito-de-compras-php_tech"
         },
-        "youtube.com/2014/03/php-para-novatos-leccion-1": {
-            "title": "PHP PARA NOVATOS leccion 1...",
-            "snippet": "PHP PARA NOVATOS leccion 1/PHP PARA NOVATOS. Es una serie de lecciones de php para principiantes. para mas informacion o puedes enviarme un... From: Augusto Duncan Views: 82 1 ratings Time: 21:24 More in Howto & Style...",
-            "date": "2014-03-26",
-            "author_name": "Augusto Duncan",
+        "youtube.com/2014/04/crear-un-formulario-de-registro-y-login-en-dreamweaver-php": {
+            "title": "Crear Un Formulario De Registro y Login En Dreamweaver PHP Sin Foto de perfil! B\u00e1sico...",
+            "snippet": "Crear Un Formulario De Registro y Login En Dreamweaver PHP Sin Foto de perfil! B\u00e1sico Pero.....Primero!! -_- SUSCRIBANSE A MI CANAL! Segundo...:\") SUSCRIBANSE A MI 2DO CANAL, DE DREAMWEAVER Muy pronto... From: Daniel Taboada Views: 39834 156...",
+            "date": "2014-04-08",
+            "author_name": "Daniel Taboada",
             "categories": "php",
-            "tags": "php",
-            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/03/php-para-novatos-leccion-1",
+            "tags": "php,crear",
+            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/04/crear-un-formulario-de-registro-y-login-en-dreamweaver-php",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=tjm4bj0CuEo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/tjm4bj0CuEo/0.jpg"
+            "source_url": "http://youtube.com/watch?v=VZEunZjfQzE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/VZEunZjfQzE/0.jpg"
+        },
+        "dailymotion.com/2013/12/hosting-and-domains-cheap-domain-goedkoop-php-mysql-formularios": {
+            "title": "HOSTING AND DOMAINS CHEAP - HOSTING DOMAIN GOEDKOOP - PHP-MYSQL- FORMULARIOS...",
+            "snippet": "Click The Link Below To Find Honest Uptodate Reviews Of The Cheapest AND DOMAINS CHEAP - HOSTING DOMAIN GOEDKOOP - PHP-MYSQL- FORMULARIOS PHP HOSTING,AND,DOMAINS,CHEAP,HOSTING,DOMAIN,GOEDKOOP,WWWARENAWEBBE,PHPMYSQL,FORMULARIOS,: HyoMarlin129Tags:...",
+            "date": "2013-12-01",
+            "author_name": "HyoMarlin129",
+            "categories": "php,mysql",
+            "tags": "below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,hosting,cheap,php,mysql,cheapest,tags",
+            "recuweb_url": "http://es.recuweb.com/mysql/dailymotion.com/2013/12/hosting-and-domains-cheap-domain-goedkoop-php-mysql-formularios",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php+php/0?af=1",
+            "source_url": "http://dailymotion.com/video/x17uxj8_hosting-and-domains-cheap-hosting-domain-goedkoop-www-arenaweb-be-php-mysql-formularios-php_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x17uxj8_hosting-and-domains-cheap-hosting-domain-goedkoop-www-arenaweb-be-php-mysql-formularios-php_news"
+        },
+        "dailymotion.com/2013/12/simple-php-cheap-web-hosting-help": {
+            "title": "Simple PHP - Cheap Web Hosting Php Help...",
+            "snippet": "Click The Link Below To Find Honest Uptodate Reviews Of The Cheapest PHP - Cheap Web Hosting Php Help Simple,PHP,Cheap,Web,Hosting,Php,: JazmineLucille832Tags: Simple PHP Cheap Web Hosting Php Help Posted: 01 December 2013Rating:: 0...",
+            "date": "2013-12-01",
+            "author_name": "JazmineLucille832",
+            "categories": "php",
+            "tags": "below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,cheap,web,hosting,php,cheapest,tags",
+            "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2013/12/simple-php-cheap-web-hosting-help",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/php+php/0?af=1",
+            "source_url": "http://dailymotion.com/video/x17uyxd_simple-php-cheap-web-hosting-php-help_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x17uyxd_simple-php-cheap-web-hosting-php-help_news"
         }
     }
 }

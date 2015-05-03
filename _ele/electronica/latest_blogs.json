@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "electronica",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/electronica/",
@@ -11,82 +11,115 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/electronica/electronica/blogs.json"
     },
     "items": {
-        "elciudadanoweb.com/2015/04/los-porte%C3%B1os-prueban-la-boleta-%C3%BAnica-electr%C3%B3nica-diario": {
-            "title": "Los porte\u00f1os prueban la boleta \u00fanica electr\u00f3nica Diario El...",
-            "snippet": "Los electores porte\u00f1os prueban este domingo en las elecciones Primarias la boleta \u00fanica electr\u00f3nica, sistema que se aplicar\u00e1 en los comicios generales en la ciudad de Buenos Aires, que se desarrollar\u00e1n el pr\u00f3ximo 5 de...",
-            "date": "2015-04-26",
-            "author_name": "Gvm",
+        "abc.com.py/2015/05/electr%C3%B3nica-noche-con-hardwell-fotos-abc-color-digital": {
+            "title": "Electr\u00f3nica noche con Hardwell - Fotos - ABC Color - ABC Digital...",
+            "snippet": "Fiesta entre la noche del jueves y la madrugada del viernes en el Illusion Fest. Diego Peralbo, ABC Color. El show tuvo todos los condimentos necesarios para una noche electrizante, colores, m\u00fasica y un p\u00fablico entusiasta.",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
             "categories": "electronica",
-            "tags": "buenos,buenos_aires,aires,generales,elecciones,boleta,\u00fanica,electr\u00f3nica,sistema,ciudad",
-            "recuweb_url": "http://es.recuweb.com/electronica/elciudadanoweb.com/2015/04/los-porte%C3%B1os-prueban-la-boleta-%C3%BAnica-electr%C3%B3nica-diario",
+            "tags": "madrugada,viernes,abc,abc_digital,digital,abc_color,electr\u00f3nica,hardwell,fiesta,m\u00fasica",
+            "recuweb_url": "http://es.recuweb.com/electronica/abc.com.py/2015/05/electr%C3%B3nica-noche-con-hardwell-fotos-abc-color-digital",
             "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elciudadanoweb.com/los-portenos-prueban-la-boleta-unica-electronica/"
+            "source_url": "http://abc.com.py/fotos/electronica-noche-con-hardwell-1362217.html"
+        },
+        "blogthinkbig.com/2015/04/electr%C3%B3nica-flexible-una-realidad-gracias-al-metal-l%C3%ADquido-think-big": {
+            "title": "Electr\u00f3nica flexible, \u00bfuna realidad gracias al metal l\u00edquido? - Think Big...",
+            "snippet": "En el futuro podr\u00edamos imprimir circuitos de electr\u00f3nica flexible. Una investigaci\u00f3n dise\u00f1a el metal l\u00edquido que funciona como tinta de estas impresoras.",
+            "date": "2015-04-29",
+            "author_name": "Angela Bernardo",
+            "categories": "impresora,electronica",
+            "tags": "tinta,realidad,gracias,electr\u00f3nica",
+            "recuweb_url": "http://es.recuweb.com/electronica/blogthinkbig.com/2015/04/electr%C3%B3nica-flexible-una-realidad-gracias-al-metal-l%C3%ADquido-think-big",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogthinkbig.com/la-electronica-flexible/"
+        },
+        "abc.com.py/2015/04/factura-electr%C3%B3nica-en-2016-nacionales-abc-color-digital": {
+            "title": "Factura electr\u00f3nica, en 2016 - Nacionales - ABC Color - ABC Digital...",
+            "snippet": "El Ministerio de Hacienda anunci\u00f3 que para el pr\u00f3ximo a\u00f1o se prev\u00e9 la implementaci\u00f3n de la llamada factura electr\u00f3nica, un sistema mediante el cual se registrar\u00e1n todas las transacciones comerciales de manera...",
+            "date": "2015-04-29",
+            "author_name": "desconocido",
+            "categories": "electronica",
+            "tags": "sistema,manera,anunci\u00f3,pr\u00f3ximo,abc,abc_digital,digital,abc_color,color,electr\u00f3nica,ministerio",
+            "recuweb_url": "http://es.recuweb.com/electronica/abc.com.py/2015/04/factura-electr%C3%B3nica-en-2016-nacionales-abc-color-digital",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/nacionales/factura-electronica-en-2016-1361503.html"
+        },
+        "culturamas.es/2015/04/la-m%C3%BAsica-electr%C3%B3nica-demuestra-que-no-es-un-g%C3%A9nero-menor": {
+            "title": "La m\u00fasica electr\u00f3nica demuestra que no es un g\u00e9nero menor...",
+            "snippet": "Foto: AFP \u00bfLa m\u00fasica electr\u00f3nica es un g\u00e9nero menor, con DJ que se limitan a hacer 'click'en sus computadoras? Eso afirman muchos de sus detractores. Pero.",
+            "date": "2015-04-28",
+            "author_name": "Mar\u00eda Bravo Sancha",
+            "categories": "computadora,electronica",
+            "tags": "m\u00fasica,electr\u00f3nica",
+            "recuweb_url": "http://es.recuweb.com/electronica/culturamas.es/2015/04/la-m%C3%BAsica-electr%C3%B3nica-demuestra-que-no-es-un-g%C3%A9nero-menor",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://culturamas.es/blog/2015/04/28/la-musica-electronica-demuestra-que-no-es-un-genero-menor/"
+        },
+        "elpais.com.uy/2015/04/nueva-c%C3%A9dula-electr%C3%B3nica-estar%C3%A1-en-espa%C3%B1ol-y-portugu%C3%A9s-noticias": {
+            "title": "Nueva c\u00e9dula electr\u00f3nica estar\u00e1 en espa\u00f1ol y portugu\u00e9s Noticias...",
+            "snippet": "El nuevo documento electr\u00f3nico de identidad uruguayo ser\u00e1 emitido en espa\u00f1ol y portugu\u00e9s, anunci\u00f3 hoy la Unidad de Comunicaci\u00f3n (Unicom) del Ministerio del Interior. Su primera emisi\u00f3n ser\u00e1 el 4 de mayo en la ciudad...",
+            "date": "2015-04-28",
+            "author_name": "Diario EL PAIS",
+            "categories": "electronica",
+            "tags": "primera,anunci\u00f3,electr\u00f3nico,nueva,electr\u00f3nica,nuevo,ministerio",
+            "recuweb_url": "http://es.recuweb.com/electronica/elpais.com.uy/2015/04/nueva-c%C3%A9dula-electr%C3%B3nica-estar%C3%A1-en-espa%C3%B1ol-y-portugu%C3%A9s-noticias",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elpais.com.uy/informacion/nueva-cedula-electronica-estara-espanol.html"
+        },
+        "ecoosfera.com/2015/04/2014-fue-un-a%C3%B1o-r%C3%A9cord-en-la-generaci%C3%B3n-de-basura-electr%C3%B3nica": {
+            "title": "2014 fue un a\u00f1o r\u00e9cord en la generaci\u00f3n de basura electr\u00f3nica (2...",
+            "snippet": "2014 fue un a\u00f1o r\u00e9cord en la generaci\u00f3n de basura electr\u00f3nica (2 veces las distancia entre Tokio y Nueva York). La ONU explica que es indispensable cambiar nuestra manera moderna de consumir as\u00ed como de recolectar,...",
+            "date": "2015-04-26",
+            "author_name": "Ecoosfera",
+            "categories": "electronica",
+            "tags": "manera,nueva,basura,electr\u00f3nica,tokio,onu",
+            "recuweb_url": "http://es.recuweb.com/electronica/ecoosfera.com/2015/04/2014-fue-un-a%C3%B1o-r%C3%A9cord-en-la-generaci%C3%B3n-de-basura-electr%C3%B3nica",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ecoosfera.com/2015/04/2014-fue-ano-record-en-la-generacion-de-basura-electronica-2-veces-las-distancia-entre-tokio-y-nueva-york/"
+        },
+        "abc.com.py/2015/04/hardwell-conexi%C3%B3n-electr%C3%B3nica-edicion-impresa-abc-color": {
+            "title": "Hardwell: conexi\u00f3n electr\u00f3nica - Edicion Impresa - ABC Color...",
+            "snippet": "Es el DJ n\u00famero uno del mundo, seg\u00fan la DJ Mag. En medio de una gira mundial que lo traer\u00e1 al Paraguay, el holand\u00e9s Hardwell habla de la escena imparable con la que hoy conquista el mundo.",
+            "date": "2015-04-26",
+            "author_name": "desconocido",
+            "categories": "electronica",
+            "tags": "mundial,abc,abc_color,color,edicion,hardwell,electr\u00f3nica",
+            "recuweb_url": "http://es.recuweb.com/electronica/abc.com.py/2015/04/hardwell-conexi%C3%B3n-electr%C3%B3nica-edicion-impresa-abc-color",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/edicion-impresa/suplementos/abc-revista/hardwell-conexion-electronica-1359801.html"
+        },
+        "adslzone.net/2015/04/movistar-lanza-una-tienda-electr%C3%B3nica-con-televisores": {
+            "title": "Movistar lanza una tienda electr\u00f3nica con televisores... \u00bfpara...",
+            "snippet": "El operador de telecomunicaciones Movistar, de Telef\u00f3nica, lanza su tienda electr\u00f3nica con productos asociados a sus tarifas y libres.",
+            "date": "2015-04-26",
+            "author_name": "desconocido",
+            "categories": "telecomunicacion,electronica",
+            "tags": "electr\u00f3nica",
+            "recuweb_url": "http://es.recuweb.com/electronica/adslzone.net/2015/04/movistar-lanza-una-tienda-electr%C3%B3nica-con-televisores",
+            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://adslzone.net/2015/04/26/movistar-tienda-electronica/"
+        },
+        "omicrono.com/2015/04/tinta-electr%C3%B3nica-en-la-que-puedes-dibujar-omicrono": {
+            "title": "tinta electr\u00f3nica en la que puedes dibujar - Omicrono...",
+            "snippet": "Investigadores de la Universidad de Tokio han renovado por completo el concepto del papel electr\u00f3nico, creando tinta electr\u00f3nica en la que puedes dibujar. El estudio, publicado en Journal of Applied Physics, supone un...",
+            "date": "2015-04-26",
+            "author_name": "Ignacio Losada Perez",
+            "categories": "electronica",
+            "tags": "tinta,electr\u00f3nico,electr\u00f3nica,tokio",
+            "recuweb_url": "http://es.recuweb.com/electronica/omicrono.com/2015/04/tinta-electr%C3%B3nica-en-la-que-puedes-dibujar-omicrono",
+            "resource_url": "http://www.google.com/search?q=electronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://omicrono.com/2015/04/tinta-electronica-en-la-que-puedes-dibujar/"
         },
         "noticias.lainformacion.com/2015/04/comunicado-primer-hospital-en-espa%C3%B1a-que-adopta": {
             "title": "COMUNICADO: Primer hospital en Espa\u00f1a que adopta...",
-            "snippet": "COMUNICADO: Primer hospital en Espa\u00f1a que adopta braquiterapia electr\u00f3nica Xoft para tratamiento temprano de varios tipos de c\u00e1ncer.. s\u00e1bado, 25/04/15 - 02:01. 0. Declaraci\u00f3n \"Safe Harbor\" bajo la Ley de Reforma...",
+            "snippet": "El primer hospital de Espa\u00f1a que adopta el sistema de braquiterapia electr\u00f3nica Xoft para el tratamiento de fases tempranas de c\u00e1ncer de mama, c\u00e1ncer de piel no melanoma y otros de tipo ginecol\u00f3gico --- Los desarrollos...",
             "date": "2015-04-25",
             "author_name": "desconocido",
             "categories": "tratamiento,electronica",
-            "tags": "electr\u00f3nica,varios",
+            "tags": "sistema,electr\u00f3nica",
             "recuweb_url": "http://es.recuweb.com/electronica/noticias.lainformacion.com/2015/04/comunicado-primer-hospital-en-espa%C3%B1a-que-adopta",
-            "resource_url": "http://www.google.com/search?q=electronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/litigios-y-reglamentaciones/comunicado-primer-hospital-en-espana-que-adopta-braquiterapia-electronica-xoft-para-tratamiento-temprano-de-varios-tipos-de-cancer_nEO367kYVrGUXMCH773F7/"
-        },
-        "unocero.com/2015/04/basura-electr%C3%B3nica-el-lado-oscuro-de-la-tecnolog%C3%ADa-unocero": {
-            "title": "Basura electr\u00f3nica, el lado oscuro de la tecnolog\u00eda unocero...",
-            "snippet": "En el ultimo informe dado a conocer por la Universidad de las Naciones Unidas (UNU) se\u00f1ala que en el 2014 se generaron 41.8 millones de toneladas de basura electr\u00f3nica y que para 2018 la cifra se situar\u00e1 en 50 millones...",
-            "date": "2015-04-21",
-            "author_name": "Eduardo Rivero",
-            "categories": "tecnologia,electronica",
-            "tags": "cifra,millones,millones-de-toneladas,toneladas,toneladas-de-basura,basura,generaron,se\u00f1ala,naciones,naciones_unidas,unidas,informe,informe-dado,electr\u00f3nica,universidad,unu",
-            "recuweb_url": "http://es.recuweb.com/electronica/unocero.com/2015/04/basura-electr%C3%B3nica-el-lado-oscuro-de-la-tecnolog%C3%ADa-unocero",
             "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://unocero.com/2015/04/21/basura-electronica-el-lado-oscuro-de-la-tecnologia/"
-        },
-        "informador.com.mx/2015/04/la-basura-electr%C3%B3nica-aument%C3%B3-en-todo-el-mundo-a-41-8": {
-            "title": "La basura electr\u00f3nica aument\u00f3 en todo el mundo a 41.8 millones de...",
-            "snippet": "TORONTO, CANAD\u00c1 (19/ABR/2015).- Un informe dado a conocer hoy por la Universidad de las Naciones Unidas (UNU) se\u00f1ala que en el 2014 se generaron 41.8 millones de toneladas de \"basura electr\u00f3nica\" y que para 2018 la cifra se...",
-            "date": "2015-04-20",
-            "author_name": "desconocido",
-            "categories": "electronica",
-            "tags": "cifra,millones,millones-de-toneladas,toneladas,toneladas-de-basura,basura,electr\u00f3nica,generaron,se\u00f1ala,naciones,naciones_unidas,unidas,informe,informe-dado,mundo,abr,universidad,unu",
-            "recuweb_url": "http://es.recuweb.com/electronica/informador.com.mx/2015/04/la-basura-electr%C3%B3nica-aument%C3%B3-en-todo-el-mundo-a-41-8",
-            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informador.com.mx/tecnologia/2015/587494/6/la-basura-electronica-aumento-en-todo-el-mundo-a-418-millones-de-toneladas.htm"
-        },
-        "cnnexpansion.com/2015/04/cambia-tu-firma-electr%C3%B3nica-y-contrase%C3%B1a-sin-acudir-al-sat": {
-            "title": "Cambia tu firma electr\u00f3nica y contrase\u00f1a sin acudir al SAT - Mi...",
-            "snippet": "Para generar otra contrase\u00f1a se requiere un correo electr\u00f3nico o la firma electr\u00f3nica vigente; el SAT dijo que la firma electr\u00f3nica se puede renovar por Internet antes de su vencimiento.",
-            "date": "2015-04-17",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "electronica,internet",
-            "tags": "puede,firma,contrase\u00f1a,acudir,electr\u00f3nica,sat,electr\u00f3nico,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/cnnexpansion.com/2015/04/cambia-tu-firma-electr%C3%B3nica-y-contrase%C3%B1a-sin-acudir-al-sat",
-            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/mi-dinero/2015/04/17/cambia-tu-fiel-y-contrasena-sin-acudir-al-sat"
-        },
-        "informador.com.mx/2015/04/podr%C3%A1s-cambiar-contrase%C3%B1a-y-firma-electr%C3%B3nica-sin-ir-al-sat": {
-            "title": "Podr\u00e1s cambiar contrase\u00f1a y Firma Electr\u00f3nica sin ir al SAT:: El...",
-            "snippet": "CIUDAD DE M\u00c9XICO (17/ABR/2015).- El Servicio de Administraci\u00f3n Tributaria (SAT) asegur\u00f3 que el contribuyente puede modificar v\u00eda Internet sus contrase\u00f1as y Firma Electr\u00f3nica (Fiel), sin necesidad de acudir f\u00edsicamente a las oficinas del...",
-            "date": "2015-04-17",
-            "author_name": "desconocido",
-            "categories": "electronica,internet",
-            "tags": "acudir,contrase\u00f1a,puede,v\u00eda,ciudad,firma,firma_electr\u00f3nica,electr\u00f3nica,sat,abr,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/informador.com.mx/2015/04/podr%C3%A1s-cambiar-contrase%C3%B1a-y-firma-electr%C3%B3nica-sin-ir-al-sat",
-            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informador.com.mx/economia/2015/587094/6/podras-cambiar-contrasena-y-firma-electronica-sin-ir-al-sat.htm"
-        },
-        "cnnexpansion.com/2015/04/la-contabilidad-electr%C3%B3nica-y-sus-modificaciones-opini%C3%B3n": {
-            "title": "La contabilidad electr\u00f3nica y sus modificaciones - Opini\u00f3n...",
-            "snippet": "Los cambios a la contabilidad electr\u00f3nica no han modificado su esencia, dice Mar\u00eda Teresa Bastidas; sin embargo, muchos contribuyentes han acudido al amparo al no aceptar esta obligaci\u00f3n.",
-            "date": "2015-04-14",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "contabilidad,electronica",
-            "tags": "electr\u00f3nica",
-            "recuweb_url": "http://es.recuweb.com/electronica/cnnexpansion.com/2015/04/la-contabilidad-electr%C3%B3nica-y-sus-modificaciones-opini%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=electronica%2Belectronica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/opinion/2015/04/13/la-contabilidad-electronica-y-sus-modificaciones"
+            "source_url": "http://noticias.lainformacion.com/salud/occidentales/comunicado-primer-hospital-en-espana-que-adopta-braquiterapia-electronica-xoft-para-tratamiento-temprano-de-varios-tipos-de-cancer_8TdS82bNMuSmOL4OyT7RU5/"
         }
     }
 }

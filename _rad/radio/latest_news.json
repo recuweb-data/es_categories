@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radio",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/radio/",
@@ -11,12 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
+        "cancioneros.com/2015/05/david-escamilla-presenta-palabras-de-amor-una-novela-que-evoca": {
+            "title": "David Escamilla presenta Palabras de amor una novela que evoca la canci\u00f3n de Serrat...",
+            "snippet": "Ha publicado m\u00e1s de cuarenta libros (poes\u00eda, narrativa, ensayo, biograf\u00edas, gu\u00edas culturales). Director y presentador de programas de radio (Radio Nacional de Espa\u00f1a, RAC1, Catalunya Radio, COM Radio). Ha trabajado en televisi\u00f3n (Cuatro,...",
+            "date": "2015-05-02",
+            "categories": "television,radio",
+            "tags": "radio",
+            "recuweb_url": "http://es.recuweb.com/radio/cancioneros.com/2015/05/david-escamilla-presenta-palabras-de-amor-una-novela-que-evoca",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=es",
+            "source_url": "http://cancioneros.com/co/7379/2/david-escamilla-presenta-palabras-de-amor-una-novela-que-evoca-la-cancion-de-serrat"
+        },
+        "rcnradio.com/2015/05/el-ciclista-colombiano-diego-tamayo-gana-la-titan-desert-rcn-radio": {
+            "title": "El ciclista colombiano Diego Tamayo gana la Titan Desert - RCN Radio (Comunicado de prensa) (blog)...",
+            "snippet": "RCN Radio (Comunicado de prensa) (blog)El ciclista colombiano Diego Tamayo gana la Titan DesertRCN Radio (Comunicado de prensa) (blog)El ciclista colombiano Diego Tamayo gan\u00f3 la Titan Desert pese a quedar noveno en la \u00faltima jornada en la que...",
+            "date": "2015-05-02",
+            "categories": "radio",
+            "tags": "radio,prensa,rcn,rcn_radio,comunicado",
+            "recuweb_url": "http://es.recuweb.com/radio/rcnradio.com/2015/05/el-ciclista-colombiano-diego-tamayo-gana-la-titan-desert-rcn-radio",
+            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
+            "source_url": "http://rcnradio.com/noticias/el-ciclista-colombiano-diego-tamayo-gana-la-titan-desert-209694"
+        },
         "radio.uchile.cl/2015/05/la-educaci%C3%B3n-c%C3%ADvica-vuelve-al-colegio-diario-y-radio-uchile": {
             "title": "La Educaci\u00f3n C\u00edvica vuelve al colegio - Diario y Radio Uchile...",
             "snippet": "Diario y Radio UchileLa Educaci\u00f3n C\u00edvica vuelve al colegioDiario y Radio UchileDesde el Senado y el Colegio de Profesores solicitar\u00e1n al Gobierno que la Educaci\u00f3n C\u00edvica regrese a las aulas como asignatura, luego de que el ministro de...",
             "date": "2015-05-02",
             "categories": "radio",
-            "tags": "radio,vuelve,radio_uchile,uchile,diario,gobierno",
+            "tags": "radio,radio_uchile,uchile,diario,profesores",
             "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/la-educaci%C3%B3n-c%C3%ADvica-vuelve-al-colegio-diario-y-radio-uchile",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
             "source_url": "http://radio.uchile.cl/2015/05/02/la-educacion-civica-vuelve-al-colegio"
@@ -26,7 +46,7 @@
             "snippet": "Lista de grabaciones de Radio PLPrensa Latina02 de mayo de 2015, 10:45Lista actualizada de grabaciones de hoy, s\u00e1bado 2 de mayo de 2015, del Servicio de Radio de Prensa Latina (PLRadio) el cual puede solicitar a trav\u00e9s de e-mail address is being...",
             "date": "2015-05-02",
             "categories": "radio",
-            "tags": "mayo,radio,prensa,s\u00e1bado",
+            "tags": "mayo,radio,prensa",
             "recuweb_url": "http://es.recuweb.com/radio/prensa-latina.cu/2015/05/lista-de-grabaciones-radio-pl-prensa-latina",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
             "source_url": "http://prensa-latina.cu/index.php?option=com_content&task=view&id=3766611&Itemid=1"
@@ -36,7 +56,7 @@
             "snippet": "Luc\u00eda Huergo, para siempre en el recuerdo de Radio EnciclopediaRadio CubanaDoli\u00f3 mucho la noticia: en horas de la madrugada de este primer d\u00eda de mayo falleci\u00f3 Luc\u00eda Huergo, una de las m\u00e1s queridas y admiradas int\u00e9rpretes que radiamos en...",
             "date": "2015-05-02",
             "categories": "radio",
-            "tags": "horas,mayo,radio",
+            "tags": "d\u00eda,mayo,radio",
             "recuweb_url": "http://es.recuweb.com/radio/radiocubana.cu/2015/05/luc%C3%ADa-huergo-para-siempre-en-el-recuerdo-de-radio-enciclopedia-cubana",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
             "source_url": "http://radiocubana.cu/index.php/articulos-especializados-sobre-la-radio/8418-lucia-huergo-para-siempre-en-el-recuerdo-de-radio-enciclopedia"
@@ -46,10 +66,40 @@
             "snippet": "El UniversalNo estoy en negociaciones con Radio F\u00f3rmula: AristeguiEl UniversalLa periodista Carmen Aristegui neg\u00f3 hoy en su cuenta de Twitter que actualmente tenga una negociaci\u00f3n con Radio F\u00f3rmula para un espacio en esta empresa, sin embargo,...",
             "date": "2015-05-02",
             "categories": "radio,twitter",
-            "tags": "espacio,cuenta,radio,twitter",
+            "tags": "cuenta,radio,twitter",
             "recuweb_url": "http://es.recuweb.com/twitter/eluniversal.com.mx/2015/05/no-estoy-en-negociaciones-con-radio-f%C3%B3rmula-aristegui-el-universal",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
             "source_url": "http://eluniversal.com.mx/nacion-mexico/2015/no-estoy-negociando-con-radio-formula-aristegui-1096864.html"
+        },
+        "nacion.com/2015/05/adn-radio-tuvo-un-emotivo-adi%C3%B3s-la-naci%C3%B3n-costa-rica": {
+            "title": "ADN Radio tuvo un emotivo adi\u00f3s - La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa RicaADN Radio tuvo un emotivo adi\u00f3sLa Naci\u00f3n Costa RicaEn resumen fue un momento en el que yo par\u00e9, porque era tal la cantidad de mensajes, de chats en mi celular, en el c\u00f3digo 9070 de la radio y en el Facebook, que dije: 'Paro...",
+            "date": "2015-05-01",
+            "categories": "radio,facebook",
+            "tags": "radio,facebook",
+            "recuweb_url": "http://es.recuweb.com/facebook/nacion.com/2015/05/adn-radio-tuvo-un-emotivo-adi%C3%B3s-la-naci%C3%B3n-costa-rica",
+            "resource_url": "http://news.google.es/?hl=es&q=radio%2Bradio&output=atom&nord=1",
+            "source_url": "http://nacion.com/ocio/farandula/ADN-Radio-emotivo-adios_0_1484851547.html"
+        },
+        "rcnradio.com/2015/05/as%C3%AD-marcha-el-pa%C3%ADs-en-d%C3%ADa-del-trabajo-rcn-radio-comunicado": {
+            "title": "As\u00ed marcha el pa\u00eds en el D\u00eda del Trabajo - RCN Radio (Comunicado de prensa) (blog)...",
+            "snippet": "RCN Radio (Comunicado de prensa) (blog)As\u00ed marcha el pa\u00eds en el D\u00eda del TrabajoRCN Radio (Comunicado de prensa) (blog)Centrales obreras, profesores, estudiantes y organizaciones sociales salieron a las calles de las principales ciudades del...",
+            "date": "2015-05-01",
+            "categories": "radio",
+            "tags": "sociales,principales,principales-ciudades,ciudades,radio,prensa,rcn,rcn_radio,pa\u00eds,d\u00eda,trabajo,comunicado,profesores",
+            "recuweb_url": "http://es.recuweb.com/radio/rcnradio.com/2015/05/as%C3%AD-marcha-el-pa%C3%ADs-en-d%C3%ADa-del-trabajo-rcn-radio-comunicado",
+            "resource_url": "http://news.google.es/?hl=es&q=radio%2Bradio&output=atom&nord=1",
+            "source_url": "http://rcnradio.com/noticias/asi-marcha-el-pais-en-el-dia-del-trabajo-209544"
+        },
+        "bluradio.com/2015/05/avanzan-concentraciones-y-marchas-por-el-d%C3%ADa-del-trabajo-blu-radio": {
+            "title": "Avanzan concentraciones y marchas por el D\u00eda del Trabajo - Blu Radio...",
+            "snippet": "Blu RadioAvanzan concentraciones y marchas por el D\u00eda del TrabajoBlu RadioEn las principales ciudades del pa\u00eds comenzaron las concentraciones de los trabajadores y gremios para marchar en la celebraci\u00f3n del D\u00eda del Trabajo. En Mosquera,...",
+            "date": "2015-05-01",
+            "categories": "radio",
+            "tags": "principales,principales-ciudades,ciudades,pa\u00eds,radio,d\u00eda,trabajo",
+            "recuweb_url": "http://es.recuweb.com/radio/bluradio.com/2015/05/avanzan-concentraciones-y-marchas-por-el-d%C3%ADa-del-trabajo-blu-radio",
+            "resource_url": "http://news.google.es/?hl=es&q=radio%2Bradio&output=atom&nord=1",
+            "source_url": "http://bluradio.com/98013/inician-concentraciones-y-marchas-por-el-dia-del-trabajo"
         },
         "radio.uchile.cl/2015/05/chile-bolivia-en-la-haya-se-ven-las-caras-diario": {
             "title": "Chile-Bolivia: En La Haya se ven las caras - Diario y Radio Uchile...",
@@ -60,56 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/chile-bolivia-en-la-haya-se-ven-las-caras-diario",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
             "source_url": "http://radio.uchile.cl/2015/05/01/chile-bolivia-en-la-haya-se-ven-las-caras"
-        },
-        "bluradio.com/2015/05/colombia-ser%C3%ADa-sancionada-por-ocde-de-no-presentar-pruebas-pisa-blu": {
-            "title": "Colombia ser\u00eda sancionada por OCDE de no presentar Pruebas PISA - Blu Radio...",
-            "snippet": "Blu RadioColombia ser\u00eda sancionada por OCDE de no presentar Pruebas PISABlu RadioHacia las 6 de la tarde de este viernes avanzaba sin contratiempos la jornada de conversaciones entre Fecode y el Gobierno Nacional, se espera que en horas de la noche...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "horas,gobierno,viernes,radio",
-            "recuweb_url": "http://es.recuweb.com/radio/bluradio.com/2015/05/colombia-ser%C3%ADa-sancionada-por-ocde-de-no-presentar-pruebas-pisa-blu",
-            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://bluradio.com/98036/colombia-seria-sancionada-por-ocde-de-no-presentar-pruebas-pisa"
-        },
-        "prensa.com/2015/05/denuncian-presi%C3%B3n-de-odebrecht-a-cadena-radio-ecuatoriana-la-prensa-comunicado": {
-            "title": "Denuncian presi\u00f3n de Odebrecht a cadena de radio ecuatoriana - La Prensa (Comunicado de prensa)...",
-            "snippet": "La Prensa (Comunicado de prensa) (blog)Denuncian presi\u00f3n de Odebrecht a cadena de radio ecuatorianaLa Prensa (Comunicado de prensa) (blog)La Organizaci\u00f3n No Gubernamental (ONG) ecuatoriana FundaMedios denunci\u00f3 presiones de la multinacional...",
-            "date": "2015-05-01",
-            "categories": "multinacional,radio",
-            "tags": "prensa,radio",
-            "recuweb_url": "http://es.recuweb.com/radio/prensa.com/2015/05/denuncian-presi%C3%B3n-de-odebrecht-a-cadena-radio-ecuatoriana-la-prensa-comunicado",
-            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://prensa.com/mundo/odebrecht_radio_ecuador_0_4198830192.html"
-        },
-        "elmundo.es/2015/05/nieves-herrero-vuelve-a-la-radio-con-ana-botella": {
-            "title": "Nieves Herrero vuelve a la radio con Ana Botella...",
-            "snippet": "Nieves Herrero vuelve a la radio este s\u00e1bado al frente de Vivir, viajar, un espacio din\u00e1mico dedicado a la actualidad tur\u00edstica y gastron\u00f3mica que se emitir\u00e1 los s\u00e1bados de a horas en la emisora econ\u00f3mica Capital Radio. Durante una hora...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "horas,radio,espacio,tur\u00edstica,s\u00e1bado,vuelve",
-            "recuweb_url": "http://es.recuweb.com/radio/elmundo.es/2015/05/nieves-herrero-vuelve-a-la-radio-con-ana-botella",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/television/2015/04/30/554293c3ca4741dc7b8b456d.html"
-        },
-        "radio.uchile.cl/2015/05/por-precipitaciones-mantienen-vigilancia-en-zona-del-volc%C3%A1n-calbuco-diario": {
-            "title": "Por precipitaciones mantienen vigilancia en zona del volc\u00e1n Calbuco - Diario y Radio Uchile...",
-            "snippet": "Diario y Radio UchilePor precipitaciones mantienen vigilancia en zona del volc\u00e1n CalbucoDiario y Radio UchileDe radio de exclusi\u00f3n y una masiva evacuaci\u00f3n de los habitantes de sectores Llanquihue, Ensenada y Puerto Octay. Por las caracter\u00edsticas...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "radio,radio_uchile,uchile,diario",
-            "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/por-precipitaciones-mantienen-vigilancia-en-zona-del-volc%C3%A1n-calbuco-diario",
-            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://radio.uchile.cl/2015/05/01/por-las-precipitaciones-mantienen-vigilancia-en-zona-del-volcan-calbuco"
-        },
-        "rtve.es/2015/05/radio-5-entre-vinos-y-camelias-desde-santiago-de-compostela": {
-            "title": "Radio 5 entre 'vinos y camelias', desde Santiago de Compostela...",
-            "snippet": "Vinos y camelias es una propuesta tur\u00edstica que permite conocer los jardines de varios pazos gallegos y adentrarse tambi\u00e9n en sus vi\u00f1edos y bodegas. La ruta de los vinos y las camelias es una alternativa diferente para conocer Galicia al conocido...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "tur\u00edstica,radio",
-            "recuweb_url": "http://es.recuweb.com/radio/rtve.es/2015/05/radio-5-entre-vinos-y-camelias-desde-santiago-de-compostela",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=es",
-            "source_url": "http://rtve.es/radio/20150501/radio-5-entre-vinos-camelias-desde-santiago-compostela/1137480.shtml"
         }
     }
 }

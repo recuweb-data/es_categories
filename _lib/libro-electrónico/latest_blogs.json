@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "libro-electr\u00f3nico",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/libro-electr\u00f3nico/",
@@ -11,6 +11,37 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/libro-electr%C3%B3nico/libro-electr%C3%B3nico/blogs.json"
     },
     "items": {
+        "elmundo.com.sv/2015/05/diario-el-mundo-eeuu-crea-plan-para-facilitar-libros-electr%C3%B3nicos": {
+            "title": "Diario El Mundo EEUU crea plan para facilitar libros electr\u00f3nicos a...",
+            "snippet": "El presidente de Estados Unidos, Barack Obama, visit\u00f3 hoy una biblioteca de Washington para anunciar una iniciativa, dotada con m\u00e1s de 250 millones de d\u00f3lares, que ofrecer\u00e1 libros electr\u00f3nicos gratuitos a estudiantes de...",
+            "date": "2015-05-01",
+            "author_name": "Eduardo Orantes",
+            "tags": "gratuitos,gratuitos-estudiantes,estudiantes,ofrecer\u00e1,d\u00f3lares,dotada,anunciar,anunciar-una-iniciativa,iniciativa,visit\u00f3,visit\u00f3-hoy,barack,barack_obama,obama,estados,estados_unidos,unidos,facilitar,mundo,plan,libros,electr\u00f3nicos,presidente,biblioteca,washington,millones",
+            "recuweb_url": "http://es.recuweb.com/elmundo.com.sv/2015/05/diario-el-mundo-eeuu-crea-plan-para-facilitar-libros-electr%C3%B3nicos",
+            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elmundo.com.sv/eeuu-crea-plan-para-facilitar-libros-electronicos-a-estudiantes-pobres/"
+        },
+        "abc.com.py/2015/04/plan-para-facilitar-libros-electr%C3%B3nicos-a-estudiantes-pobres": {
+            "title": "Plan para facilitar libros electr\u00f3nicos a estudiantes pobres...",
+            "snippet": "El presidente de Estados Unidos, Barack Obama, visit\u00f3 hoy una biblioteca de Washington para anunciar una iniciativa, dotada con m\u00e1s de US 250 millones, que ofrecer\u00e1 libros electr\u00f3nicos gratuitos a estudiantes de bajos...",
+            "date": "2015-04-30",
+            "author_name": "desconocido",
+            "tags": "gratuitos,gratuitos-estudiantes,estudiantes,ofrecer\u00e1,dotada,anunciar,anunciar-una-iniciativa,iniciativa,visit\u00f3,visit\u00f3-hoy,barack,barack_obama,obama,estados,estados_unidos,unidos,facilitar,plan,libros,electr\u00f3nicos,presidente,biblioteca,washington,millones",
+            "recuweb_url": "http://es.recuweb.com/abc.com.py/2015/04/plan-para-facilitar-libros-electr%C3%B3nicos-a-estudiantes-pobres",
+            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/internacionales/plan-para-facilitar-libros-electronicos-a-estudiantes-pobres-1361974.html"
+        },
+        "universoabierto.com/2015/04/libros-electr%C3%B3nicos-y-tecnolog%C3%ADas-disruptivas-universo-abierto": {
+            "title": "Libros electr\u00f3nicos y tecnolog\u00edas disruptivas Universo Abierto...",
+            "snippet": "En el caso del libro electr\u00f3nico est\u00e1 ocurriendo algo similar. En principio se pens\u00f3 que un cambio en el formato no iba a afectar a los modelos de negocio, sin embargo este elemento de transmisi\u00f3n provoc\u00f3 disrupciones en...",
+            "date": "2015-04-28",
+            "author_name": "julio",
+            "categories": "tecnologia",
+            "tags": "universo,universo_abierto,abierto,tecnolog\u00edas,libros,libro,electr\u00f3nicos,electr\u00f3nico",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/universoabierto.com/2015/04/libros-electr%C3%B3nicos-y-tecnolog%C3%ADas-disruptivas-universo-abierto",
+            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://universoabierto.com/19376/libros-electronicos-y-tecnologias-disruptivas/"
+        },
         "blogs.lainformacion.com/2015/04/libros-de-papel-y-electr%C3%B3nicos-podemos-decir-ya-qui%C3%A9n": {
             "title": "Libros de papel y libros electr\u00f3nicos: \u00bfpodemos decir ya qui\u00e9n...",
             "snippet": "Pesan menos que un tocho de Ken Follet (La ca\u00edda de los gigantes pesaba en papel 1,4 kilos y un lector electr\u00f3nico unos 200 gramos), puedes llevar en tu maleta de viaje cientos de libros en un chip de memoria del tama\u00f1o...",
@@ -28,9 +59,9 @@
             "date": "2015-04-23",
             "author_name": "Blog Welearning",
             "categories": "tecnologia",
-            "tags": "book,internacional,libro,electr\u00f3nico,d\u00eda",
+            "tags": "tecnolog\u00edas,libro,electr\u00f3nico,d\u00eda",
             "recuweb_url": "http://es.recuweb.com/tecnologia/welearning.es/2015/04/welearning-los-retos-el-libro-electr%C3%B3nico",
-            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://welearning.es/los-retos-el-libro-electronico/"
         },
         "blog.udlap.mx/2015/04/la-revoluci%C3%B3n-del-libro-electr%C3%B3nico": {
@@ -38,53 +69,40 @@
             "snippet": "Dr. Eduardo Mart\u00ednez Mar\u00edn Profesor de Tiempo Completo Dise\u00f1o de Informaci\u00f3n Los medios tecnol\u00f3gicos han evolucionado notablemente en los \u00faltimos a\u00f1os, y se presentan ante todos evidenciando su gran poder\u00edo,...",
             "date": "2015-04-22",
             "author_name": "Universidad de las Am\u00e9ricas Puebla",
-            "tags": "tiempo,dise\u00f1o,libro,electr\u00f3nico,informaci\u00f3n",
+            "tags": "gran,dise\u00f1o,libro,electr\u00f3nico",
             "recuweb_url": "http://es.recuweb.com/blog.udlap.mx/2015/04/la-revoluci%C3%B3n-del-libro-electr%C3%B3nico",
             "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.udlap.mx/blog/2015/04/larevoluciondellibroelectronico/"
         },
-        "regispro.es/2015/04/libro-electronico-resumen-de-rdgrn-boe-a%C3%B1o-2014": {
-            "title": "LIBRO ELECTRONICO: resumen de RDGRN BOE A\u00d1O 2014, por...",
-            "snippet": "En el siguiente enlace puedes acceder y descargar, en formato de libro electr\u00f3nico.epub, la recopilaci\u00f3n de res\u00famenes elaborados por Basilio Aguirre de las resoluciones de la DGRN en materia de registro de la propiedad...",
-            "date": "2015-04-21",
-            "author_name": "admin",
-            "categories": "propiedad",
-            "tags": "puedes,libro,libro_electronico,electr\u00f3nico,descargar",
-            "recuweb_url": "http://es.recuweb.com/propiedad/regispro.es/2015/04/libro-electronico-resumen-de-rdgrn-boe-a%C3%B1o-2014",
-            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://regispro.es/libro-electronico-resumen-de-rdgrn-boe-ano-2014-por-basilio-aguirre/"
+        "estandarte.com/2015/04/c%C3%B3mo-se-firma-un-libro-electr%C3%B3nico-estandarte": {
+            "title": "\u00bfC\u00f3mo se firma un libro electr\u00f3nico? - Estandarte...",
+            "snippet": "El libro electr\u00f3nico nos ofrece un pu\u00f1ado de ventajas y cierto n\u00famero de inconvenientes. Uno de ellos, por ejemplo, es la imposibilidad de llevarnos a casa el libro firmado por su autor: en un mundo sin libros en papel,...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "tags": "mundo,c\u00f3mo,libros,electr\u00f3nico,papel",
+            "recuweb_url": "http://es.recuweb.com/estandarte.com/2015/04/c%C3%B3mo-se-firma-un-libro-electr%C3%B3nico-estandarte",
+            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://estandarte.com/noticias/libro-electronico/como-se-firma-un-libro-electronico_3069.html"
         },
         "laurawebsoc.wordpress.com/2015/04/libro-electr%C3%B3nico-o-anal%C3%B3gico": {
             "title": "\u00bfLibro electr\u00f3nico o libro \"anal\u00f3gico\"?",
             "snippet": "Hola a todos! a ra\u00edz te un tuit que ha puesto Sarai, y con eso de que en 3 d\u00edas tenemos el d\u00eda del libro, escribo este post. []...",
             "date": "2015-04-20",
             "author_name": "laurawebsoc",
-            "tags": "d\u00edas,d\u00eda,electr\u00f3nico,libro,hola",
+            "tags": "d\u00eda,electr\u00f3nico,libro",
             "recuweb_url": "http://es.recuweb.com/laurawebsoc.wordpress.com/2015/04/libro-electr%C3%B3nico-o-anal%C3%B3gico",
             "resource_url": "http://es.search.wordpress.com/?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&f=feed&page=1",
             "source_url": "http://laurawebsoc.wordpress.com/2015/04/20/libro-electronico-o-libro-analogico/"
         },
-        "elbruno.com/2015/04/azure-libro-electronico-gratis-de-machinelearning": {
-            "title": "AZURE Libro electronico gratis de Azure MachineLearning (o...",
-            "snippet": "Hola! Post corto de viernes que ahora me tocan series y las piernas no est\u00e1n de humor para lo que sigue. Hace unos d\u00edas escrib\u00ed un post con algunas opciones para comenzar con Machine Learning. Una de las opciones...",
-            "date": "2015-04-17",
-            "author_name": "elbruno",
-            "categories": "humor",
-            "tags": "d\u00edas,sigue,libro,electronico,gratis,hola",
-            "recuweb_url": "http://es.recuweb.com/humor/elbruno.com/2015/04/azure-libro-electronico-gratis-de-machinelearning",
-            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elbruno.com/2015/04/17/azure-libro-electronico-gratis-de-azure-machinelearning-o-azureml-como-le-decimos-en-casa/"
-        },
-        "analisisdigital.org/2015/04/libro-electr%C3%B3nico-gratuito-de-la-catequesis-papal-sobre-familia": {
-            "title": "Libro electr\u00f3nico gratuito de la catequesis papal sobre la familia...",
-            "snippet": "La Oficina de Informaci\u00f3n del Opus Dei ha publicado en su web el primer volumen de un libro electr\u00f3nico que recoge las catequesis que est\u00e1 dedicando el Papa Francisco a la familia, durante este tiempo intermedio entre...",
-            "date": "2015-04-15",
-            "author_name": "Redacci\u00f3n",
-            "categories": "papa-francisco",
-            "tags": "tiempo,libro,electr\u00f3nico,informaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/papa-francisco/analisisdigital.org/2015/04/libro-electr%C3%B3nico-gratuito-de-la-catequesis-papal-sobre-familia",
-            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://analisisdigital.org/2015/04/15/libro-electronico-gratuito-de-la-catequesis-papal-sobre-la-familia/"
+        "opusdei.org.pr/2015/04/opus-dei-libros-electr%C3%B3nicos-para-descargar": {
+            "title": "Opus Dei - Libros electr\u00f3nicos para descargar...",
+            "snippet": "En todos los casos las descargas son gratuitas. Si necesita ayuda acerca de los diferentes formatos o dispositivos con los que se pueden leer los libros, le recomendamos que visite nuestra Gu\u00eda de libros electr\u00f3nicos.",
+            "date": "2015-04-16",
+            "author_name": "desconocido",
+            "tags": "dispositivos,son,descargar,libros,electr\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/opusdei.org.pr/2015/04/opus-dei-libros-electr%C3%B3nicos-para-descargar",
+            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://opusdei.org.pr/es-pr/article/libros-electronicos-para-descargar/"
         },
         "universoabierto.com/2015/04/qu%C3%A9-plataformas-venden-m%C3%A1s-libros-electr%C3%B3nicos-universo-abierto": {
             "title": "\u00bfQu\u00e9 plataformas venden m\u00e1s libros electr\u00f3nicos? Universo Abierto...",
@@ -92,30 +110,10 @@
             "date": "2015-04-15",
             "author_name": "julio",
             "categories": "reino",
-            "tags": "libros,electr\u00f3nicos,mediante",
+            "tags": "estados,estados_unidos,unidos,universo,universo_abierto,abierto,libros,electr\u00f3nicos,mediante",
             "recuweb_url": "http://es.recuweb.com/reino/universoabierto.com/2015/04/qu%C3%A9-plataformas-venden-m%C3%A1s-libros-electr%C3%B3nicos-universo-abierto",
             "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://universoabierto.com/18883/\u00bfque-plataformas-venden-mas-libros-electronicos/"
-        },
-        "universoabierto.com/2015/04/self-e-plataforma-colaborativa-entre-autores-independientes": {
-            "title": "SELF-e: plataforma colaborativa entre autores independientes y...",
-            "snippet": "Los libros autopublicaodos son una de las l\u00edneas de crecimiento de las colecciones en las bibliotecas publicas, especialmente en lo que se refiere a autores locales. Los autores eligen distribuir sus libros electr\u00f3nicos a...",
-            "date": "2015-04-13",
-            "author_name": "julio",
-            "tags": "plataforma,libros,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/universoabierto.com/2015/04/self-e-plataforma-colaborativa-entre-autores-independientes",
-            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://universoabierto.com/18842/self-e-plataforma-colaborativa-entre-autores-independientes-y-bibliotecas-para-publicar-y-descubrir-libros-electronicos/"
-        },
-        "aldia.microjuris.com/2015/04/bufete-ponce%C3%B1o-publica-libro-electr%C3%B3nico-abec%C3%A9-del-derecho": {
-            "title": "Bufete ponce\u00f1o publica libro electr\u00f3nico Abec\u00e9 del derecho...",
-            "snippet": "La firma de abogados y notarios de Ponce, Bufete Emmanuelli,. y su editorial Del Derecho y del Rev\u00e9s public\u00f3 su nuevo libro electr\u00f3nico (e-book) titulado Abec\u00e9 del derecho puertorrique\u00f1o, un texto que aborda de...",
-            "date": "2015-04-09",
-            "author_name": "Embajador Microjuris al D\u00eda",
-            "tags": "libro,electr\u00f3nico,editorial,book,texto",
-            "recuweb_url": "http://es.recuweb.com/aldia.microjuris.com/2015/04/bufete-ponce%C3%B1o-publica-libro-electr%C3%B3nico-abec%C3%A9-del-derecho",
-            "resource_url": "http://www.google.com/search?q=libro%2Belectr%C3%B3nico&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://aldia.microjuris.com/2015/04/09/bufete-ponceno-publica-libro-electronico-abece-del-derecho-puertorriqueno/"
         }
     }
 }

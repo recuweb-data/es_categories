@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ruteadores",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ruteadores/",
@@ -17,7 +17,7 @@
             "date": "2014-08-04",
             "author_name": "xymind",
             "categories": "ruteadores",
-            "tags": "usando,ruteadores",
+            "tags": "ruteadores",
             "recuweb_url": "http://es.recuweb.com/ruteadores/youtube.com/2014/08/ruteadores-para-urls-personalizadas-en-ruby-on-rails",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ruteadores&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Upr34SoI870&feature=youtube_gdata",
@@ -47,17 +47,29 @@
             "source_url": "http://youtube.com/watch?v=j1VTCNTtku0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/j1VTCNTtku0/0.jpg"
         },
-        "youtube.com/2014/04/1ra-parte-configuracion-packet-tracer-http-dns-ftp-y-cloud": {
-            "title": "1ra parte Configuracion Packet Tracer - HTTP, DNS, FTP y CLOUD...",
-            "snippet": "1ra parte Configuracion Packet Tracer - HTTP, DNS, FTP y CLOUD Este video muestra una configuracion basica de los servidores HTTP, DNS y FTP; ademas mostrare la configuracion entre dos ruteadores conectados con cable cruzado usando ruteo estatico.",
-            "date": "2014-04-27",
-            "author_name": "Root Toor",
+        "youtube.com/2014/03/configuracion-ruteador-izquierdo": {
+            "title": "Configuracion ruteador izquierdo...",
+            "snippet": "Configuracion ruteador izquierdo Configuraci\u00f3n del ruteador izquierdo en una topolog\u00eda de bus, ejemplo de conectividad b\u00e1sica entre ruteadores. From: Carlos Delgado Views: 21 0 ratings Time: 04:39 More in People & Blogs...",
+            "date": "2014-03-19",
+            "author_name": "Carlos Delgado",
             "categories": "ruteadores",
-            "tags": "configuracion,ruteadores,usando",
-            "recuweb_url": "http://es.recuweb.com/ruteadores/youtube.com/2014/04/1ra-parte-configuracion-packet-tracer-http-dns-ftp-y-cloud",
+            "tags": "carlos,carlos_delgado,delgado,ejemplo,ejemplo-de-conectividad,conectividad,conectividad-b\u00e1sica,b\u00e1sica,b\u00e1sica-entre-ruteadores,ruteadores,ruteador,topolog\u00eda,topolog\u00eda-de-bus,bus,configuraci\u00f3n,people",
+            "recuweb_url": "http://es.recuweb.com/ruteadores/youtube.com/2014/03/configuracion-ruteador-izquierdo",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ruteadores&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=eJDICQcu4lY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/eJDICQcu4lY/0.jpg"
+            "source_url": "http://youtube.com/watch?v=i5dIFYfb-iw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/i5dIFYfb-iw/0.jpg"
+        },
+        "youtube.com/2014/03/configuraci%C3%B3n-ruteador-derecho": {
+            "title": "Configuraci\u00f3n ruteador derecho...",
+            "snippet": "Configuraci\u00f3n ruteador derecho Configuraci\u00f3n del ruteador derecho en una topolog\u00eda de bus, ejemplo de conectividad b\u00e1sica entre ruteadores. From: Carlos Delgado Views: 50 1 ratings Time: 06:16 More in People & Blogs...",
+            "date": "2014-03-19",
+            "author_name": "Carlos Delgado",
+            "categories": "ruteadores",
+            "tags": "carlos,carlos_delgado,delgado,ejemplo,ejemplo-de-conectividad,conectividad,conectividad-b\u00e1sica,b\u00e1sica,b\u00e1sica-entre-ruteadores,ruteadores,ruteador,topolog\u00eda,topolog\u00eda-de-bus,bus,configuraci\u00f3n,people",
+            "recuweb_url": "http://es.recuweb.com/ruteadores/youtube.com/2014/03/configuraci%C3%B3n-ruteador-derecho",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ruteadores&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=0XJ-sgk-y-g&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/0XJ-sgk-y-g/0.jpg"
         },
         "youtube.com/2013/01/ruteadores-asus-facil-configuracion-en-30-segundos": {
             "title": "Ruteadores ASUS. Facil configuracion en 30 segundos!",
@@ -65,7 +77,7 @@
             "date": "2013-01-18",
             "author_name": "ASUS M\u00e9xico",
             "categories": "ruteadores,facebook",
-            "tags": "ruteadores,configuracion",
+            "tags": "ruteadores",
             "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2013/01/ruteadores-asus-facil-configuracion-en-30-segundos",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ruteadores%2Bruteadores&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=_ACDLOx4jes&feature=youtube_gdata",
@@ -85,7 +97,7 @@
         },
         "youtube.com/2012/05/routerpwn-guadalajaracon-2012": {
             "title": "RouterPWN GuadalajaraCON 2012...",
-            "snippet": "RouterPWN GuadalajaraCON 2012 RouterPWN es una aplicaci\u00f3n web que te permite explotar vulnerabilidades en ruteadores y otros dispositivos desde tu celular. Se puede acceder desde la p\u00e1gina o desde la... From: WEBSECmx Views: 4605 32 ratings Time:...",
+            "snippet": "RouterPWN GuadalajaraCON 2012 RouterPWN es una aplicaci\u00f3n web que te permite explotar vulnerabilidades en ruteadores y otros dispositivos desde tu celular. Se puede acceder desde la p\u00e1gina o desde la... From: WEBSECmx Views: 4627 32 ratings Time:...",
             "date": "2012-05-16",
             "author_name": "WEBSECmx",
             "categories": "ruteadores",

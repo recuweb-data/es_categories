@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "television-por-internet",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/television-por-internet/",
@@ -11,62 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/television-por-internet/television-por-internet/blogs.json"
     },
     "items": {
-        "eleconomista.com.mx/2015/04/carlos-slim-hace-las-paces-con-televisa-para-volver": {
-            "title": "Carlos Slim hace las paces con Televisa para volver a la TV - El Economista...",
-            "snippet": "El EconomistaCarlos Slim hace las paces con Televisa para volver a la TVEl EconomistaA cuatro a\u00f1os de aquel rompimiento, Carlos Slim reforz\u00f3 su presencia en las telecomunicaciones y otros rubros, con el canal de televisi\u00f3n por Internet denominado...",
-            "date": "2015-04-27",
-            "categories": "telecomunicacion,television,internet",
-            "tags": "canal,televisi\u00f3n,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/eleconomista.com.mx/2015/04/carlos-slim-hace-las-paces-con-televisa-para-volver",
+        "vtv.gob.ve/2015/05/ingenieros-descubren-cu%C3%A1ntos-a%C3%B1os-le-quedan-a-internet-venezolana-de-televisi%C3%B3n": {
+            "title": "Ingenieros descubren cu\u00e1ntos a\u00f1os le quedan a Internet - Venezolana de Televisi\u00f3n...",
+            "snippet": "Venezolana de Televisi\u00f3nIngenieros descubren cu\u00e1ntos a\u00f1os le quedan a InternetVenezolana de Televisi\u00f3nEl auge de la televisi\u00f3n a Internet, servicios de streaming y los ordenadores cada vez m\u00e1s potentes ha aumentado la tensi\u00f3n en nuestra...",
+            "date": "2015-05-02",
+            "categories": "internet,television",
+            "tags": "servicios,servicios-de-streaming,streaming,streaming-los-ordenadores,ordenadores,potentes,potentes-ha-aumentado,aumentado,aumentado-la-tensi\u00f3n,tensi\u00f3n,auge,descubren,descubren-cu\u00e1ntos,cu\u00e1ntos,ingenieros,internet,televisi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/television/vtv.gob.ve/2015/05/ingenieros-descubren-cu%C3%A1ntos-a%C3%B1os-le-quedan-a-internet-venezolana-de-televisi%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet%2Btelevision%2Bpor%2Binternet&output=atom&nord=1",
+            "source_url": "http://vtv.gob.ve/articulos/2015/05/02/ingenieros-descubren-cuantos-anos-le-quedan-a-internet-4457.html"
+        },
+        "noticias24.com/2015/05/se-acerca-una-crisis-web-ingenieros-descubren-cu%C3%A1ntos-a%C3%B1os-le-noticias24": {
+            "title": "\u00bfSe acerca una crisis web? Ingenieros descubren cu\u00e1ntos a\u00f1os le... - Noticias24...",
+            "snippet": "Noticias24\u00bfSe acerca una crisis web? Ingenieros descubren cu\u00e1ntos a\u00f1os le...Noticias24El auge de la televisi\u00f3n a Internet, servicios de streaming y los ordenadores cada vez m\u00e1s potentes ha aumentado la tensi\u00f3n en nuestra infraestructura de...",
+            "date": "2015-05-02",
+            "categories": "television,internet",
+            "tags": "servicios,servicios-de-streaming,streaming,streaming-los-ordenadores,ordenadores,potentes,potentes-ha-aumentado,aumentado,aumentado-la-tensi\u00f3n,tensi\u00f3n,auge,descubren,descubren-cu\u00e1ntos,cu\u00e1ntos,ingenieros,televisi\u00f3n,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/noticias24.com/2015/05/se-acerca-una-crisis-web-ingenieros-descubren-cu%C3%A1ntos-a%C3%B1os-le-noticias24",
             "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet&output=atom&nord=1",
-            "source_url": "http://eleconomista.com.mx/industrias/2015/04/27/slim-hace-las-paces-televisa-volver-tv"
+            "source_url": "http://noticias24.com/tecnologia/noticia/22867/se-acerca-una-crisis-de-capacidad-ingenieros-descubren-cuantos-anos-le-quedan-a-internet/"
+        },
+        "cnnexpansion.com/2015/04/as%C3%AD-consumen-los-mexicanos-internet-tv-de-paga-y-telefon%C3%ADa-cnnexpansi%C3%B3": {
+            "title": "As\u00ed consumen los mexicanos Internet, TV de paga y telefon\u00eda - CNNExpansi\u00f3...",
+            "snippet": "CNNExpansi\u00f3 \u00ed consumen los mexicanos Internet, TV de paga y telefon\u00edaCNNExpansi\u00f3 satisfacci\u00f3n del usuario sobre la televisi\u00f3n de paga se centran en la calidad del servicio y el nivel de precios, as\u00ed como la disponibilidad de servicios de paga...",
+            "date": "2015-04-30",
+            "categories": "internet,television",
+            "tags": "servicios,paga,internet,televisi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/television/cnnexpansion.com/2015/04/as%C3%AD-consumen-los-mexicanos-internet-tv-de-paga-y-telefon%C3%ADa-cnnexpansi%C3%B3",
+            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet%2Btelevision%2Bpor%2Binternet&output=atom&nord=1",
+            "source_url": "http://cnnexpansion.com/economia/2015/04/29/15-habitos-de-consumo-de-telecomunicaciones-de-los-mexicanos"
+        },
+        "territoriodigital.com/2015/04/la-televisi%C3%B3n-por-internet-comienza-a-ganar-batalla-sobre-el-cable": {
+            "title": "La televisi\u00f3n por internet comienza a ganar la batalla sobre el cable...",
+            "snippet": "A la hora de consumir televisi\u00f3n, la mayor\u00eda de los norteamericanos ya prefiere hacerlo a trav\u00e9s de internet, seg\u00fan un estudio publicado por la consultora Deloitte cuyas conclusiones son un reflejo de la profunda y acelerada transformaci\u00f3n...",
+            "date": "2015-04-29",
+            "categories": "television,internet",
+            "tags": "cuyas,cuyas-conclusiones,cuyas-conclusiones-son,conclusiones,conclusiones-son,son,son-un-reflejo,reflejo,estudio,estudio-publicado,publicado,consultora,mayor\u00eda,prefiere,prefiere-hacerlo,prefiere-hacerlo-trav\u00e9s,hacerlo,hacerlo-trav\u00e9s,trav\u00e9s,hora,hora-de-consumir,consumir,televisi\u00f3n,internet,cable,deloitte",
+            "recuweb_url": "http://es.recuweb.com/internet/territoriodigital.com/2015/04/la-televisi%C3%B3n-por-internet-comienza-a-ganar-batalla-sobre-el-cable",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
+            "source_url": "http://territoriodigital.com/nota3.aspx?c=0586498578833238"
+        },
+        "cultura.elpais.com/2015/04/netflix-habla-espa%C3%B1ol": {
+            "title": "Netflix habla espa\u00f1ol...",
+            "snippet": "Frank Underwood (protagonista de House of Cards) y Saul Goodman (Breaking Bad y Better Call Saul) tendr\u00e1n pronto parientes latinoamericanos. Netflix, la cadena de televisi\u00f3n por Internet, estrenar\u00e1 este a\u00f1o dos producciones desarrolladas por...",
+            "date": "2015-04-29",
+            "categories": "television,internet",
+            "tags": "televisi\u00f3n,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/cultura.elpais.com/2015/04/netflix-habla-espa%C3%B1ol",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
+            "source_url": "http://cultura.elpais.com/cultura/2015/04/29/actualidad/1430337224_439278.html"
+        },
+        "aporelmundial.com/2015/04/ver-barcelona-vs-getafe-en-vivo-online-se%C3%B1al-directv-directo-gol": {
+            "title": "Ver Barcelona vs Getafe en vivo online se\u00f1al DirecTV en directo Gol Televisi\u00f3n por Internet...",
+            "snippet": "\u00bfA qu\u00e9 hora y d\u00f3nde emiten en vivo y en directo el Barcelona vs Getafe? El partido entre el Barcelona y el Getafe dar\u00e1 comienzo a las 20:00 horas en Espa\u00f1a y se podr\u00e1 ver en directo por televisi\u00f3n a trav\u00e9s de la emisi\u00f3n de las...",
+            "date": "2015-04-28",
+            "categories": "television,internet",
+            "tags": "trav\u00e9s,emisi\u00f3n,directo,hora,televisi\u00f3n,vivo,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/aporelmundial.com/2015/04/ver-barcelona-vs-getafe-en-vivo-online-se%C3%B1al-directv-directo-gol",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
+            "source_url": "http://aporelmundial.com/ver-barcelona-vs-getafe-en-vivo-online-senal-directv-en-directo-gol-television-por-internet-online/42561/"
         },
         "pulzo.com/2015/04/estados-unidos-ya-prefiere-ver-televisi%C3%B3n-por-internet-seg%C3%BAn-estudio": {
             "title": "Estados Unidos ya prefiere ver televisi\u00f3n por Internet, seg\u00fan estudio...",
             "snippet": "Un 53% de los espectadores reconoce ver sus programas preferidos en streaming (emisi\u00f3n en directo), a su ritmo, sin estar pendiente de la hora de emisi\u00f3n oficial de ese contenido en un canal de cable, porcentaje que contrasta con el 45% que...",
             "date": "2015-04-27",
             "categories": "television,internet",
-            "tags": "cable,hora,directo,programas,streaming,estudio,prefiere,prefiere-ver,estados,estados_unidos,unidos,televisi\u00f3n,internet,canal",
+            "tags": "hora,emisi\u00f3n,canal,directo,streaming,estudio,prefiere,prefiere-ver,estados,estados_unidos,unidos,televisi\u00f3n,internet,cable",
             "recuweb_url": "http://es.recuweb.com/internet/pulzo.com/2015/04/estados-unidos-ya-prefiere-ver-televisi%C3%B3n-por-internet-seg%C3%BAn-estudio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
             "source_url": "http://pulzo.com/tecnologia/331791-estados-unidos-ya-prefiere-ver-television-por-internet-segun-estudio"
-        },
-        "en-cuba.com/2015/04/muchos-ya-prefieren-ver-la-televisi%C3%B3n-en-internet": {
-            "title": "Muchos ya prefieren ver la televisi\u00f3n en Internet - en...",
-            "snippet": "en ya prefieren ver la televisi\u00f3n en Interneten \u00daltimas noticias08:59 reino por un nuevo corte: Letizia reta al tradicional mo\u00f1o07:14 alem\u00e1n grab\u00f3 avalancha en el Everest tras terremoto en Nepal06:54 y Osa repartieron honores con empate 1-1 en...",
-            "date": "2015-04-27",
-            "categories": "reino,television,internet",
-            "tags": "nuevo,\u00fal,prefieren,televisi\u00f3n,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/en-cuba.com/2015/04/muchos-ya-prefieren-ver-la-televisi%C3%B3n-en-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet&output=atom&nord=1",
-            "source_url": "http://en-cuba.com/muchos-ya-prefieren-ver-la-television-en-internet-22184.html"
-        },
-        "planoinformativo.com/2015/04/netflix-estrena-imagen-de-tercera-temporada-orange-is-the-new-black": {
-            "title": "Netflix estrena imagen de tercera temporada de Orange is the new black...",
-            "snippet": "La red de televisi\u00f3n por Internet Netflix lanz\u00f3 este lunes la imagen de la tercera temporada de la serie Orange is the new black, la cual se lanzar\u00e1 en exclusiva el 12 de junio pr\u00f3ximo. En la imagen se puede observar cinco veladoras con la...",
-            "date": "2015-04-27",
-            "categories": "internet,television",
-            "tags": "imagen,imagen-se-puede,puede,junio,junio-pr\u00f3ximo,pr\u00f3ximo,lanzar\u00e1,lanzar\u00e1-en-exclusiva,exclusiva,lanz\u00f3,lanz\u00f3-este-lunes,lunes,lunes-la-imagen,tercera,tercera-temporada,temporada,serie,internet,red,black,imagen-de-tercera,netflix,orange,televisi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/television/planoinformativo.com/2015/04/netflix-estrena-imagen-de-tercera-temporada-orange-is-the-new-black",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
-            "source_url": "http://planoinformativo.com/nota/id/387571"
-        },
-        "omnia.com.mx/2015/04/netflix-lanza-imagen-de-tercera-entrega-orange-is-the-new-black": {
-            "title": "Netflix lanza imagen de tercera entrega de Orange is the new black...",
-            "snippet": "27-Apr-2015 14:46 - M\u00e9xico.- La red de televisi\u00f3n por Internet Netflix lanz\u00f3 este lunes la imagen de la tercera temporada de la serie Orange is the new black, la cual se lanzar\u00e1 en exclusiva el 12 de junio pr\u00f3ximo. En la imagen se puede...",
-            "date": "2015-04-27",
-            "categories": "internet,television",
-            "tags": "imagen,imagen-se-puede,puede,junio,junio-pr\u00f3ximo,pr\u00f3ximo,lanzar\u00e1,lanzar\u00e1-en-exclusiva,exclusiva,lanz\u00f3,lanz\u00f3-este-lunes,lunes,lunes-la-imagen,tercera,tercera-temporada,temporada,serie,internet,red,black,imagen-de-tercera,netflix,orange,televisi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/television/omnia.com.mx/2015/04/netflix-lanza-imagen-de-tercera-entrega-orange-is-the-new-black",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
-            "source_url": "http://omnia.com.mx/noticias/netflix-lanza-imagen-de-tercera-entrega-de-orange-is-the-new-black/"
         },
         "eltiempo.com/2015/04/internet-ser%C3%A1-el-rey-de-la-televisi%C3%B3n": {
             "title": "Internet ser\u00e1 el rey de la televisi\u00f3n...",
             "snippet": "Durante los \u00faltimos seis meses la televisi\u00f3n ha vivido una aut\u00e9ntica revoluci\u00f3n: HBO lanz\u00f3 HBO Go, una oferta de streaming por internet que no requiere pagar una suscripci\u00f3n de televisi\u00f3n y que ya opera en Am\u00e9rica Latina; CBS se subi\u00f3 al...",
             "date": "2015-04-26",
             "categories": "internet,television",
-            "tags": "streaming,\u00fal,internet,televisi\u00f3n,hbo,lanz\u00f3",
+            "tags": "streaming,internet,televisi\u00f3n,hbo",
             "recuweb_url": "http://es.recuweb.com/television/eltiempo.com/2015/04/internet-ser%C3%A1-el-rey-de-la-televisi%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
             "source_url": "http://eltiempo.com/tecnosfera/novedades-tecnologia/television-por-internet-en-el-mundo/15631416"
@@ -76,9 +96,9 @@
             "snippet": "Unidos ya prefiere ver la televisi\u00f3n por la hora de consumir televisi\u00f3n, la mayor\u00eda de los estadounidenses ya prefiere hacerlo a trav\u00e9s de internet, seg\u00fan un estudio publicado por la consultora Deloitte cuyas conclusiones son un reflejo de la...",
             "date": "2015-04-24",
             "categories": "television,internet",
-            "tags": "cuyas,cuyas-conclusiones,cuyas-conclusiones-son,conclusiones,conclusiones-son,son,son-un-reflejo,reflejo,estudio,estudio-publicado,publicado,consultora,mayor\u00eda,estadounidenses,prefiere,prefiere-hacerlo,prefiere-hacerlo-trav\u00e9s,hacerlo,hacerlo-trav\u00e9s,trav\u00e9s,hora,hora-de-consumir,consumir,prefiere-ver,estados,estados_unidos,unidos,televisi\u00f3n,internet,deloitte",
+            "tags": "cuyas,cuyas-conclusiones,cuyas-conclusiones-son,conclusiones,conclusiones-son,son,son-un-reflejo,reflejo,estudio,estudio-publicado,publicado,consultora,mayor\u00eda,prefiere,prefiere-hacerlo,prefiere-hacerlo-trav\u00e9s,hacerlo,hacerlo-trav\u00e9s,trav\u00e9s,hora,hora-de-consumir,consumir,prefiere-ver,estados,estados_unidos,unidos,televisi\u00f3n,internet,deloitte",
             "recuweb_url": "http://es.recuweb.com/internet/diez.hn/2015/04/estados-unidos-ya-prefiere-ver-la-televisi%C3%B3n-por-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet%2Btelevision%2Bpor%2Binternet&output=atom&nord=1",
             "source_url": "http://diez.hn/otrassecciones/videojuegosytecnologia/834194-99/estados-unidos-ya-prefiere-ver-la-televisi\u00f3n-por-internet"
         },
         "sipse.com/2015/04/incrementa-la-tendencia-hacia-televisi%C3%B3n-por-internet": {
@@ -86,30 +106,10 @@
             "snippet": "la tendencia hacia la televisi\u00f3n por tendencia hacia la televisi\u00f3n por internet avanza. Los conocidos cord cutters, prefieren desterrar la televisi\u00f3n de paga y buscar alternativa de entretenimiento por internet, indic\u00f3 el jefe del Departamento...",
             "date": "2015-04-24",
             "categories": "entretenimiento,television,internet",
-            "tags": "paga,prefieren,televisi\u00f3n,internet",
+            "tags": "paga,televisi\u00f3n,internet",
             "recuweb_url": "http://es.recuweb.com/internet/sipse.com/2015/04/incrementa-la-tendencia-hacia-televisi%C3%B3n-por-internet",
-            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet%2Btelevision%2Bpor%2Binternet&output=atom&nord=1",
             "source_url": "http://sipse.com/novedades/usuarios-optan-la-television-por-internet-148463.html"
-        },
-        "sinmordaza.com/2015/04/la-televisi%C3%B3n-por-internet-comienza-a-ganar-batalla": {
-            "title": "La televisi\u00f3n por internet comienza a ganar la batalla...",
-            "snippet": "A la hora de consumir televisi\u00f3n, la mayor\u00eda de los norteamericanos ya prefiere hacerlo a trav\u00e9s de internet, seg\u00fan un estudio publicado por la consultora Deloitte cuyas conclusiones son un reflejo de la profunda y acelerada transformaci\u00f3n...",
-            "date": "2015-04-24",
-            "categories": "television,internet",
-            "tags": "cuyas,cuyas-conclusiones,cuyas-conclusiones-son,conclusiones,conclusiones-son,son,son-un-reflejo,reflejo,estudio,estudio-publicado,publicado,consultora,mayor\u00eda,prefiere,prefiere-hacerlo,prefiere-hacerlo-trav\u00e9s,hacerlo,hacerlo-trav\u00e9s,trav\u00e9s,hora,hora-de-consumir,consumir,televisi\u00f3n,internet,deloitte",
-            "recuweb_url": "http://es.recuweb.com/internet/sinmordaza.com/2015/04/la-televisi%C3%B3n-por-internet-comienza-a-ganar-batalla",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television%2Bpor%2Binternet&format=RSS&cc=es",
-            "source_url": "http://sinmordaza.com/noticia/299684-la-television-por-internet-comienza-a-ganar-la-batalla.html"
-        },
-        "el-nacional.com/2015/04/auge-en-ee-uu-de-la-televisi%C3%B3n-por-streaming": {
-            "title": "Auge en EE UU de la televisi\u00f3n por streaming - El...",
-            "snippet": "El Nuevo Siglo (Colombia)Auge en EE UU de la televisi\u00f3n por streamingEl consumidores estadounidenses ven cada vez m\u00e1s televisi\u00f3n en internet por 'streaming'y en diferido, en vez de ver los programas en directo, seg\u00fan un estudio publicado el...",
-            "date": "2015-04-23",
-            "categories": "television,internet",
-            "tags": "estudio,estudio-publicado,publicado,programas,directo,estadounidenses,nuevo,streaming,televisi\u00f3n,internet",
-            "recuweb_url": "http://es.recuweb.com/internet/el-nacional.com/2015/04/auge-en-ee-uu-de-la-televisi%C3%B3n-por-streaming",
-            "resource_url": "http://news.google.es/?hl=es&q=television%2Bpor%2Binternet&output=atom&nord=1",
-            "source_url": "http://el-nacional.com/variedades/Auge-EE-UU-television-streaming_0_615538457.html"
         }
     }
 }

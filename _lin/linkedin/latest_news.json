@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "linkedin",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/linkedin/",
@@ -11,95 +11,98 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/linkedin/linkedin/blogs.json"
     },
     "items": {
-        "trabajo.excite.es/2015/04/linkedin-adquiere-un-sistema-de-detecci%C3%B3n-curr%C3%ADculos-maquillados": {
-            "title": "LinkedIn adquiere un sistema de detecci\u00f3n de curr\u00edculos maquillados...",
-            "snippet": "La popular red social de contactos profesionales LinkedIn intentar\u00e1 luchar contra los curr\u00edculos falseados. Se da por supuesto que la mayor\u00eda de los curr\u00edculos est\u00e1n adornados e inflados con experiencias que en realidad no han existido y...",
-            "date": "2015-04-27",
-            "tags": "experiencias,realidad,intentar\u00e1,contactos,sistema,edin,red,social,profesionales",
-            "recuweb_url": "http://es.recuweb.com/trabajo.excite.es/2015/04/linkedin-adquiere-un-sistema-de-detecci%C3%B3n-curr%C3%ADculos-maquillados",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://trabajo.excite.es/linkedin-adquiere-un-sistema-de-deteccion-de-curriculos-maquillados-N48696.html"
-        },
-        "es.finance.yahoo.com/2015/04/linkedin-detectar%C3%A1-mentiras-en-el-curr%C3%ADculum-de-los-usuarios": {
-            "title": "LinkedIn detectar\u00e1 mentiras en el curr\u00edculum de los usuarios...",
-            "snippet": "LinkedIn est\u00e1 trabajando en detectar posibles exageraciones o mentiras en los curr\u00edculums de sus usuarios. Del mismo modo que los curr\u00edculums tradicionales, hay personas que retocan ligeramente su perfil para encajar en un determinado puesto.",
-            "date": "2015-04-27",
-            "tags": "puesto,personas,curr\u00edculums,curr\u00edculum,trabajando,mentiras,usuarios,edin,perfil",
-            "recuweb_url": "http://es.recuweb.com/es.finance.yahoo.com/2015/04/linkedin-detectar%C3%A1-mentiras-en-el-curr%C3%ADculum-de-los-usuarios",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://es.finance.yahoo.com/video/linkedin-detectar\u00e1-mentiras-en-el-082437934.html"
-        },
-        "elcomercio.pe/2015/04/linkedin-c%C3%B3mo-conseguir-el-trabajo-de-ensue%C3%B1o": {
-            "title": "LinkedIn: \u00bfc\u00f3mo conseguir el trabajo de ensue\u00f1o?",
-            "snippet": "Los reclutadores y personal de recursos humanos lo primero que hacen es buscar activamente en LinkedIn candidatos y es necesario que los perfiles est\u00e9n optimizados. La especialista en ventas internas, Sara Grillo, explica que mejorar una cuenta...",
-            "date": "2015-04-27",
-            "tags": "explica,mejorar,recursos,recursos-humanos,humanos,buscar,c\u00f3mo,trabajo,edin",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-c%C3%B3mo-conseguir-el-trabajo-de-ensue%C3%B1o",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-como-conseguir-trabajo-ensueno-noticia-1807100"
-        },
-        "es.paperblog.com/2015/04/qu%C3%A9-debes-hacer-cuando-alguien-visita-tu-perfil-en-linkedin": {
-            "title": "Qu\u00e9 debes hacer cuando alguien visita tu perfil en linkedin...",
-            "snippet": "No voy a descubrir ahora que la gran red social para el desarrollo profesional es LinkedIn. Es el gran escaparate donde nos relacionamos con otros colegas o empresas. Pero como en otras redes el \u00e9xito o rendimiento que podamos extraer est\u00e1...",
-            "date": "2015-04-27",
-            "tags": "redes,red,empresas,desarrollo,hacer,perfil,edin,social,profesional",
-            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/qu%C3%A9-debes-hacer-cuando-alguien-visita-tu-perfil-en-linkedin",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/que-debes-hacer-cuando-alguien-visita-tu-perfil-en-linkedin-3180517/"
-        },
-        "gestion.pe/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan": {
-            "title": "LinkedIn, a la caza de los usuarios que mientan en su curr\u00edculum - Diario Gesti\u00f3n...",
-            "snippet": "Diario Gesti\u00f3nLinkedIn, a la caza de los usuarios que mientan en su curr\u00edculumDiario Gesti\u00f3nSi bien estas mentiras pod\u00edan pasar inadvertidas para los atribulados departamentos de recursos humanos, la red social para profesionales LinkedIn ha...",
-            "date": "2015-04-26",
-            "tags": "mentiras,recursos,recursos-humanos,humanos,caza,usuarios,usuarios-que-mientan,mientan,curr\u00edculum,edin,red,social,profesionales",
-            "recuweb_url": "http://es.recuweb.com/gestion.pe/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan",
+        "es.investing.com/2015/05/el-desplome-de-linkedin-en-bolsa-conmociona-a-inversores-espa%C3%B1a": {
+            "title": "El desplome de LinkedIn en bolsa conmociona a inversores de... - Espa\u00f1a...",
+            "snippet": "Espa\u00f1aEl desplome de LinkedIn en bolsa conmociona a inversores de... Espa\u00f1a2 mayo (Reuters) - El desplome de 20 por ciento de las acciones de LinkedIn (NYSE:LNKD) Corp, operador de la red social m\u00e1s popular entre profesionales, conmocion\u00f3 el...",
+            "date": "2015-05-02",
+            "tags": "popular,operador,ciento,acciones,bolsa,conmociona,conmociona-inversores,inversores,desplome,edin,red,social,profesionales",
+            "recuweb_url": "http://es.recuweb.com/es.investing.com/2015/05/el-desplome-de-linkedin-en-bolsa-conmociona-a-inversores-espa%C3%B1a",
             "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://gestion.pe/empresas/linkedin-caza-usuarios-que-mientan-su-curriculum-2130056"
+            "source_url": "http://es.investing.com/news/technology-news/el-desplome-de-linkedin-en-bolsa-conmociona-a-inversores-de-redes-sociales-267103"
         },
-        "cadenaser.com/2015/04/linkedin-comprobar%C3%A1-si-sus-usuarios-mienten-en-el-curr%C3%ADculum": {
-            "title": "LinkedIn comprobar\u00e1 si sus usuarios mienten en el curr\u00edculum...",
-            "snippet": "T\u00edtulos no obtenidos, idiomas desconocidos o grandes experiencias laborales no adquiridas tienen, en ocasiones un papel protagonista en el curr\u00edculum vitae. Sin embargo, la red social para profesionales LinkedIn ha desarrollado un nuevo sistema...",
-            "date": "2015-04-25",
-            "tags": "nuevo,sistema,curr\u00edculum,grandes,experiencias,laborales,usuarios,edin,t\u00edtulos,red,social,profesionales",
-            "recuweb_url": "http://es.recuweb.com/cadenaser.com/2015/04/linkedin-comprobar%C3%A1-si-sus-usuarios-mienten-en-el-curr%C3%ADculum",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://cadenaser.com/ser/2015/04/25/ciencia/1429957804_416827.html"
-        },
-        "lanacion.cl/2015/04/fundador-de-linkedin-revisar-tu-perfil-cada-ma%C3%B1ana-la-naci%C3%B3n-chile": {
-            "title": "Fundador de LinkedIn: Revisar tu perfil de LinkedIn cada ma\u00f1ana... - La Naci\u00f3n (Chile)...",
-            "snippet": "La Naci\u00f3n (Chile)Fundador de LinkedIn: Revisar tu perfil de LinkedIn cada ma\u00f1ana...La Naci\u00f3n (Chile)Con un curioso ejercicio acerca de los 3 grados de separaci\u00f3n en la empresa, Konstantin Guericke, uno de los fundadores de la red social...",
-            "date": "2015-04-24",
-            "tags": "empresa,edin,perfil,red,social",
-            "recuweb_url": "http://es.recuweb.com/lanacion.cl/2015/04/fundador-de-linkedin-revisar-tu-perfil-cada-ma%C3%B1ana-la-naci%C3%B3n-chile",
+        "laparadadigital.com/2015/05/linkedin-borra-6-mmdd-en-valor-de-mercado-laparadadigital": {
+            "title": "LinkedIn borra 6 mmdd en valor de mercado - laparadadigital...",
+            "snippet": "laparadadigitalLinkedIn borra 6 mmdd en valor de mercadolaparadadigitalLas acciones de LinkedIn se desplomaron 20 por ciento este viernes luego de recortar sus pron\u00f3sticos para el a\u00f1o. Con esta ca\u00edda se borran m\u00e1s de 6 mil millones de d\u00f3lares...",
+            "date": "2015-05-02",
+            "tags": "d\u00f3lares,ca\u00edda,ciento,viernes,viernes-luego,luego,luego-de-recortar,recortar,recortar-sus-pron\u00f3sticos,pron\u00f3sticos,desplomaron,acciones,mercado,edin,borra,millones",
+            "recuweb_url": "http://es.recuweb.com/laparadadigital.com/2015/05/linkedin-borra-6-mmdd-en-valor-de-mercado-laparadadigital",
             "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://lanacion.cl/noticias/tecnologia/internet/fundador-de-linkedin-revisar-tu-perfil-de-linkedin-cada-manana-deberia-ser-un-habito-como-tomar-cafe/2015-04-24/160621.html"
+            "source_url": "http://laparadadigital.com/noticias-de-chihuahua-mexico.cfm?n=49748"
         },
-        "elcomercio.pe/2015/04/linkedin-podr%C3%ADa-determinar-si-un-usuario-miente-en-su-cv": {
-            "title": "LinkedIn podr\u00eda determinar si un usuario miente en su CV - El Comercio...",
-            "snippet": "El ComercioLinkedIn podr\u00eda determinar si un usuario miente en su CVEl ComercioDe acuerdo al portal Business Insider, LinkedIn estar\u00eda trabajando en una patente que ayudar\u00eda a aligerar las revisiones de las empresas en estos casos. En un futuro no...",
-            "date": "2015-04-24",
-            "tags": "trabajando,empresas,business,edin",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/04/linkedin-podr%C3%ADa-determinar-si-un-usuario-miente-en-su-cv",
-            "resource_url": "http://news.google.es/?hl=es&q=linkedin&output=atom&nord=1",
-            "source_url": "http://elcomercio.pe/redes-sociales/linkedin/linkedin-podria-determinar-si-usuario-miente-su-cv-noticia-1806546"
-        },
-        "genbeta.com/2015/04/linkedin-ser%C3%A1-capaz-de-adivinar-si-has-mentido-en-tu-curr%C3%ADculum": {
-            "title": "LinkedIn ser\u00e1 capaz de adivinar si has mentido en tu curr\u00edculum...",
-            "snippet": "A d\u00eda de hoy, LinkedIn sigue siendo una p\u00e1gina clave para buscar trabajo o trabajadores que encajen con un puesto. Es donde puedes colocar todo tu historial laboral, tu curr\u00edculum, tus logros acad\u00e9micos... y es donde casi todo el mundo ha...",
-            "date": "2015-04-24",
-            "tags": "mundo,curr\u00edculum,buscar,buscar-trabajo,trabajo,puesto,edin",
-            "recuweb_url": "http://es.recuweb.com/genbeta.com/2015/04/linkedin-ser%C3%A1-capaz-de-adivinar-si-has-mentido-en-tu-curr%C3%ADculum",
+        "expansion.com/2015/05/linkedin-rebaja-sus-previsiones-y-se-desploma-en-bolsa": {
+            "title": "LinkedIn rebaja sus previsiones y se desploma en Bolsa...",
+            "snippet": "El 'profit warning'provoca un desplome en sus acciones del 18% en Wall Street. La temporada de presentaci\u00f3n de resultados en Estados Unidos deja otro damnificado en el sector tecnol\u00f3gico. Las acciones de LinkedIn sufre un varapalo en sus acciones...",
+            "date": "2015-05-02",
+            "tags": "acciones,estados,estados_unidos,unidos,desplome,previsiones,desploma,edin,bolsa",
+            "recuweb_url": "http://es.recuweb.com/expansion.com/2015/05/linkedin-rebaja-sus-previsiones-y-se-desploma-en-bolsa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://genbeta.com/redes-sociales-y-comunidades/linkedin-sera-capaz-de-adivinar-si-has-mentido-en-tu-curriculum"
+            "source_url": "http://expansion.com/mercados/2015/05/01/554364ea268e3e4d228b456f.html"
         },
-        "expansion.com/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan": {
-            "title": "LinkedIn, a la caza de los usuarios que mientan en su curr\u00edculum...",
-            "snippet": "La red social no quiere que se presuma de lo que, en realidad, se carece e intentar\u00e1 desinflar los curr\u00edculums demasiado abultados. Presumir de t\u00edtulos que no tenemos, 'engordar'nuestra experiencia o alardear de grandes gestas laborales es una...",
-            "date": "2015-04-24",
-            "tags": "grandes,laborales,t\u00edtulos,intentar\u00e1,curr\u00edculums,curr\u00edculum,realidad,caza,usuarios,usuarios-que-mientan,mientan,edin,red,social",
-            "recuweb_url": "http://es.recuweb.com/expansion.com/2015/04/linkedin-a-la-caza-de-los-usuarios-que-mientan",
+        "bolsamania.com/2015/05/linkedin-se-hunde-en-bolsa-un-18-61%-tras-recortar": {
+            "title": "LinkedIn se hunde en bolsa un 18,61% tras recortar sus previsiones de ingresos...",
+            "snippet": "La compa\u00f1\u00eda report\u00f3 beneficios este jueves, que no gustaron nada a los inversores. Las p\u00e9rdidas se incrementaron hasta los 34 centavos por d\u00f3lar. Pero lo que no que castiga el mercado es la previsi\u00f3n de ingresos para este trimestre, que...",
+            "date": "2015-05-02",
+            "tags": "mercado,previsiones,ingresos,inversores,report\u00f3,jueves,recortar,bolsa,edin",
+            "recuweb_url": "http://es.recuweb.com/bolsamania.com/2015/05/linkedin-se-hunde-en-bolsa-un-18-61%-tras-recortar",
             "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
-            "source_url": "http://expansion.com/empresas/tecnologia/2015/04/24/553a599a22601db07e8b4572.html"
+            "source_url": "http://bolsamania.com/noticias/empresas/linkedin-se-hunde-en-bolsa-un-18-tras-recortar-sus-previsiones-de-ingresos--709535.html"
+        },
+        "cincodias.com/2015/05/linkedin-sigue-los-pasos-de-twitter-se-desploma-un-18%": {
+            "title": "LinkedIn sigue los pasos de Twitter: se desploma un 18%...",
+            "snippet": "Semana para olvidar para las redes sociales en Estados Unidos. De esas que arrojan publicaciones poco agradables que se comparten con los seguidores. Al desplome superior al 25% que acumul\u00f3 Twitter en las dos \u00faltimas sesiones (este viernes cay\u00f3...",
+            "date": "2015-05-02",
+            "categories": "twitter",
+            "tags": "viernes,desplome,estados,estados_unidos,unidos,redes,redes-sociales,sociales,desploma,edin,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/cincodias.com/2015/05/linkedin-sigue-los-pasos-de-twitter-se-desploma-un-18%",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://cincodias.com/cincodias/2015/05/01/empresas/1430488638_826915.html"
+        },
+        "zocalo.com.mx/2015/05/linkedin-al-abismo-peri%C3%B3dico-z%C3%B3calo": {
+            "title": "LinkedIn, al abismo - Peri\u00f3dico Z\u00f3calo...",
+            "snippet": "Peri\u00f3dico Z\u00f3caloLinkedIn, al abismoPeri\u00f3dico Z\u00f3caloLinkedIn, al abismo. Redes Sociales. Por Agencias. 02/05/2015 - 08:30 AM. Google. Nueva York.- Las acciones de LinkedIn se desplomaron 18.6% este viernes luego de recortar sus pron\u00f3sticos para...",
+            "date": "2015-05-02",
+            "categories": "google",
+            "tags": "viernes,viernes-luego,luego,luego-de-recortar,recortar,recortar-sus-pron\u00f3sticos,pron\u00f3sticos,desplomaron,acciones,redes,sociales,edin",
+            "recuweb_url": "http://es.recuweb.com/google/zocalo.com.mx/2015/05/linkedin-al-abismo-peri%C3%B3dico-z%C3%B3calo",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
+            "source_url": "http://zocalo.com.mx/seccion/articulo/linkedin-al-abismo-1430576791"
+        },
+        "bolsamania.com/2015/05/linkedin-el-desplome-de-las-acciones-conmociona-a-los-inversores-redes": {
+            "title": "LinkedIn: el desplome de las acciones conmociona a los inversores de las redes sociales...",
+            "snippet": "El desplome del 20% en las acciones de LinkedIn el viernes ha conmocionado a los inversores en redes sociales. La red profesional m\u00e1s famosa del mundo recort\u00f3 sus pron\u00f3sticos para el a\u00f1o completo y sus t\u00edtulos se desplomaron tras conocerse los...",
+            "date": "2015-05-02",
+            "tags": "mundo,pron\u00f3sticos,desplomaron,viernes,inversores,redes,red,redes-sociales,sociales,acciones,desplome,conmociona,edin,profesional",
+            "recuweb_url": "http://es.recuweb.com/bolsamania.com/2015/05/linkedin-el-desplome-de-las-acciones-conmociona-a-los-inversores-redes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://bolsamania.com/noticias/empresas/linkedin-el-desplome-de-las-acciones-conmociona-a-los-inversores-de-las-redes-sociales--709959.html"
+        },
+        "economiadigital.es/2015/05/linkedin-triplica-n%C3%BAmeros-rojos-se-derrumba-en-bolsa-y-pierde": {
+            "title": "Linkedin triplica n\u00fameros rojos, se derrumba en bolsa y pierde la fe...",
+            "snippet": "Otrora referente de crecimiento, Linkedin se ha sumado a los batacazos de empresas tecnol\u00f3gicas en Estados Unidos en este arranque de 2015. Ya Twitter hab\u00eda dado muestras de que las redes sociales no son tan voyantes como parecen, y ahora es el...",
+            "date": "2015-05-02",
+            "categories": "twitter",
+            "tags": "redes,redes-sociales,sociales,estados,estados_unidos,unidos,crecimiento,bolsa,edin,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/economiadigital.es/2015/05/linkedin-triplica-n%C3%BAmeros-rojos-se-derrumba-en-bolsa-y-pierde",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://economiadigital.es/es/notices/2015/05/linkedin-triplica-numeros-rojos-se-derrumba-en-bolsa-y-pierde-la-fe-70581.php"
+        },
+        "mdzol.com/2015/05/mentiste-en-tu-cv-linkedin-lo-sabe-mdz-online": {
+            "title": "\u00bfMentiste en tu CV? Linkedin lo sabe - MDZ Online...",
+            "snippet": "MDZ Online\u00bfMentiste en tu CV? Linkedin lo sabeMDZ OnlineLinkedIn, la red social del \u00e1mbito laboral compr\u00f3 una patente que le permite comprobar toda la informaci\u00f3n que contienen los millones de perfiles que aloja. De acuerdo con el diario...",
+            "date": "2015-05-02",
+            "tags": "edin,red,social,millones",
+            "recuweb_url": "http://es.recuweb.com/mdzol.com/2015/05/mentiste-en-tu-cv-linkedin-lo-sabe-mdz-online",
+            "resource_url": "http://news.google.es/?hl=es&q=linkedin%2Blinkedin&output=atom&nord=1",
+            "source_url": "http://mdzol.com/nota/603191-mentiste-en-tu-cv-linkedin-lo-sabe/"
+        },
+        "noticias.terra.com/2015/05/desplome-acciones-linkedin-conmociona-a-inversores-de-redes-sociales": {
+            "title": "Desplome acciones LinkedIn conmociona a inversores de redes sociales...",
+            "snippet": "LinkedIn, operador de la red social m\u00e1s popular entre profesionales, report\u00f3 el jueves el crecimiento trimestral de ingresos m\u00e1s lento desde que sali\u00f3 a bolsa, hace cuatro a\u00f1os. La ca\u00edda de sus acciones borra m\u00e1s de millones de d\u00f3lares en...",
+            "date": "2015-05-01",
+            "tags": "d\u00f3lares,ca\u00edda,acciones,borra,report\u00f3,jueves,crecimiento,ingresos,bolsa,popular,operador,conmociona,conmociona-inversores,inversores,redes,red,redes-sociales,sociales,social,desplome,edin,profesionales,millones",
+            "recuweb_url": "http://es.recuweb.com/noticias.terra.com/2015/05/desplome-acciones-linkedin-conmociona-a-inversores-de-redes-sociales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=linkedin&format=RSS&cc=es",
+            "source_url": "http://noticias.terra.com/tecnologia/desplome-acciones-linkedin-conmociona-a-inversores-de-redes-sociales,230069e52001d410VgnCLD200000b1bf46d0RCRD.html"
         }
     }
 }

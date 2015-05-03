@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bibliofilia",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bibliofilia/",
@@ -11,42 +11,62 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bibliofilia/bibliofilia/blogs.json"
     },
     "items": {
-        "lavanguardia.com/2015/04/edicions-de-l-eixample-y-el-arquitecto-santiago-cirugeda-medallas-fad": {
-            "title": "Edicions de l'Eixample y el arquitecto Santiago Cirugeda, medallas FAD 2015...",
-            "snippet": "La editorial est\u00e1 especializada en el campo de la cultura, principalmente en las artes esc\u00e9nicas y el arte contempor\u00e1neo y, \u00faltimamente en la edici\u00f3n de libros singulares y de bibliofilia. Al arquitecto Santiago Cirugeda se le reconoce el haber...",
-            "date": "2015-04-27",
-            "categories": "cultura,bibliofilia",
-            "tags": "edici\u00f3n,libros,arte,editorial,especializada,cultura,bibliofilia",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/lavanguardia.com/2015/04/edicions-de-l-eixample-y-el-arquitecto-santiago-cirugeda-medallas-fad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
-            "source_url": "http://lavanguardia.com/economia/20150427/54430242083/edicions-de-l-eixample-y-el-arquitecto-santiago-cirugeda-medallas-fad-2015.html"
-        },
-        "elconfidencial.com/2015/04/la-39-feria-del-libro-antiguo-y-de-ocasi%C3%B3n": {
-            "title": "La 39 Feria del Libro Antiguo y de Ocasi\u00f3n, desde el jueves en Madrid...",
-            "snippet": "Adem\u00e1s, los bibli\u00f3filos, investigadores, aficionados y curiosos podr\u00e1n encontrar encuadernaciones art\u00edsticas, documentos manuscritos de todas las \u00e9pocas, carteles, postales o alta bibliofilia. Seg\u00fan los organizadores, la feria (...",
-            "date": "2015-04-27",
+        "elcomercio.es/2015/05/un-poeta-contaminado-por-el-arte": {
+            "title": "Un poeta contaminado por el arte...",
+            "snippet": "Autor de Rumor de T\u00e1nger, La dictadura del jayk\u00fa, \u00d3rganos dispersos, Ni mu y Con todas las letras, varias de sus obras fueron objeto de ediciones de bibliofilia -en colaboraci\u00f3n con pintores como Chillida, Rojo...",
+            "date": "2015-05-01",
             "categories": "bibliofilia",
-            "tags": "feria,organizadores,ales,ales-alta,alta,documentos,documentos-manuscritos,manuscritos,\u00e9pocas,aficionados,aficionados-curiosos,aficionados-curiosos-podr\u00e1n,curiosos,curiosos-podr\u00e1n,curiosos-podr\u00e1n-encontrar,podr\u00e1n,podr\u00e1n-encontrar,podr\u00e1n-encontrar-encuadernaciones,encontrar,encontrar-encuadernaciones,encontrar-encuadernaciones-art\u00edsticas,encuadernaciones,encuadernaciones-art\u00edsticas,art\u00edsticas,bibli\u00f3filos,libro,ocasi\u00f3n,adem\u00e1s,investigadores,carteles,bibliofilia",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/elconfidencial.com/2015/04/la-39-feria-del-libro-antiguo-y-de-ocasi%C3%B3n",
+            "tags": "colaboraci\u00f3n,obras,objeto,arte,autor,bibliofilia",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/elcomercio.es/2015/05/un-poeta-contaminado-por-el-arte",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
-            "source_url": "http://elconfidencial.com/ultima-hora-en-vivo/2015-04-27/la-39-feria-del-libro-antiguo-y-de-ocasion-desde-el-jueves-en-madrid_561209/"
+            "source_url": "http://elcomercio.es/culturas/libros/201505/02/poeta-contaminado-arte-20150502000459-rc.html"
+        },
+        "telemadrid.es/2015/04/recoletos-se-llena-de-libros-antiguos-y-ocasi%C3%B3n": {
+            "title": "Recoletos se llena de libros antiguos y de ocasi\u00f3n...",
+            "snippet": "Adem\u00e1s, los bibli\u00f3filos, investigadores, aficionados y curiosos podr\u00e1n encontrar encuadernaciones art\u00edsticas, documentos manuscritos de todas las \u00e9pocas, carteles, postales o alta bibliofilia. Seg\u00fan los organizadores, la feria (...",
+            "date": "2015-04-30",
+            "categories": "bibliofilia",
+            "tags": "feria,organizadores,ales,ales-alta,alta,documentos,documentos-manuscritos,manuscritos,\u00e9pocas,aficionados,aficionados-curiosos,aficionados-curiosos-podr\u00e1n,curiosos,curiosos-podr\u00e1n,curiosos-podr\u00e1n-encontrar,podr\u00e1n,podr\u00e1n-encontrar,podr\u00e1n-encontrar-encuadernaciones,encontrar,encontrar-encuadernaciones,encontrar-encuadernaciones-art\u00edsticas,encuadernaciones,encuadernaciones-art\u00edsticas,art\u00edsticas,bibli\u00f3filos,libros,libros-antiguos,antiguos,ocasi\u00f3n,recoletos,adem\u00e1s,investigadores,carteles,bibliofilia",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/telemadrid.es/2015/04/recoletos-se-llena-de-libros-antiguos-y-ocasi%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
+            "source_url": "http://telemadrid.es/noticias/madrid/noticia/recoletos-se-llena-de-libros-antiguos-y-de-ocasion"
+        },
+        "cronicanorte.es/2015/04/comienza-la-39-edici%C3%B3n-de-feria-del-libro-viejo": {
+            "title": "Comienza la 39 edici\u00f3n de la Feria del Libro Viejo...",
+            "snippet": "adem\u00e1s de alta bibliofilia. El jueves 30 de abril se celebrar\u00e1 la inauguraci\u00f3n a las 13:00 horas, con la lectura del preg\u00f3n a cargo del presentador televisivo, escritor y columnista Jos\u00e9 Miguel Monz\u00f3n, conocido art\u00edsticamente como El Gran...",
+            "date": "2015-04-29",
+            "categories": "bibliofilia",
+            "tags": "jos\u00e9,lectura,adem\u00e1s,alta,libro,viejo,edici\u00f3n,feria,bibliofilia,gran",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/cronicanorte.es/2015/04/comienza-la-39-edici%C3%B3n-de-feria-del-libro-viejo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
+            "source_url": "http://cronicanorte.es/comienza-la-39a-edicion-de-la-feria-del-libro-viejo/84364"
         },
         "elmundo.es/2015/04/los-libros-antiguos-lucen-con-nuevo-brillo-en-recoletos": {
             "title": "Los libros antiguos lucen con nuevo brillo en Recoletos...",
             "snippet": "Adem\u00e1s, los bibli\u00f3filos, investigadores, aficionados y curiosos podr\u00e1n encontrar encuadernaciones art\u00edsticas, documentos manuscritos de todas las \u00e9pocas, carteles, postales o alta bibliofilia. Seg\u00fan los organizadores, la feria, que abrir\u00e1...",
             "date": "2015-04-27",
             "categories": "bibliofilia",
-            "tags": "feria,organizadores,ales,ales-alta,alta,documentos,documentos-manuscritos,manuscritos,\u00e9pocas,aficionados,aficionados-curiosos,aficionados-curiosos-podr\u00e1n,curiosos,curiosos-podr\u00e1n,curiosos-podr\u00e1n-encontrar,podr\u00e1n,podr\u00e1n-encontrar,podr\u00e1n-encontrar-encuadernaciones,encontrar,encontrar-encuadernaciones,encontrar-encuadernaciones-art\u00edsticas,encuadernaciones,encuadernaciones-art\u00edsticas,art\u00edsticas,bibli\u00f3filos,libros,adem\u00e1s,investigadores,carteles,bibliofilia",
+            "tags": "abrir\u00e1,feria,organizadores,ales,ales-alta,alta,documentos,documentos-manuscritos,manuscritos,\u00e9pocas,aficionados,aficionados-curiosos,aficionados-curiosos-podr\u00e1n,curiosos,curiosos-podr\u00e1n,curiosos-podr\u00e1n-encontrar,podr\u00e1n,podr\u00e1n-encontrar,podr\u00e1n-encontrar-encuadernaciones,encontrar,encontrar-encuadernaciones,encontrar-encuadernaciones-art\u00edsticas,encuadernaciones,encuadernaciones-art\u00edsticas,art\u00edsticas,bibli\u00f3filos,libros,libros-antiguos,antiguos,recoletos,adem\u00e1s,investigadores,carteles,bibliofilia",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/elmundo.es/2015/04/los-libros-antiguos-lucen-con-nuevo-brillo-en-recoletos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
             "source_url": "http://elmundo.es/cultura/2015/04/27/553e1c5e22601db74c8b4588.html?intcmp=ULNOH002"
+        },
+        "madridactual.es/2015/04/recoletos-recibe-a-los-libros-antiguos": {
+            "title": "Recoletos recibe a los libros antiguos...",
+            "snippet": "Adem\u00e1s, los bibli\u00f3filos, investigadores, aficionados y curiosos podr\u00e1n encontrar encuadernaciones art\u00edsticas, documentos manuscritos de todas las \u00e9pocas, carteles, postales o alta bibliofilia. Seg\u00fan los organizadores, la feria, que abrir\u00e1...",
+            "date": "2015-04-27",
+            "categories": "bibliofilia",
+            "tags": "abrir\u00e1,feria,organizadores,ales,ales-alta,alta,documentos,documentos-manuscritos,manuscritos,\u00e9pocas,aficionados,aficionados-curiosos,aficionados-curiosos-podr\u00e1n,curiosos,curiosos-podr\u00e1n,curiosos-podr\u00e1n-encontrar,podr\u00e1n,podr\u00e1n-encontrar,podr\u00e1n-encontrar-encuadernaciones,encontrar,encontrar-encuadernaciones,encontrar-encuadernaciones-art\u00edsticas,encuadernaciones,encuadernaciones-art\u00edsticas,art\u00edsticas,bibli\u00f3filos,libros,libros-antiguos,antiguos,recoletos,adem\u00e1s,investigadores,carteles,bibliofilia",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/madridactual.es/2015/04/recoletos-recibe-a-los-libros-antiguos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
+            "source_url": "http://madridactual.es/20150427680521/la-feria-del-libro-antiguo-y-de-ocasion-desde-el-jueves-en-el-paseo-de-recoletos"
         },
         "laverdad.es/2015/04/pepe-yag%C3%BCes-pasea-sus-libros-joya-por-art-libris": {
             "title": "Pepe Yag\u00fces pasea sus libros-joya por Art Libris...",
             "snippet": "De la mano de la galer\u00eda La Aurora -la \u00fanica murciana presente en esta feria de bibliofilia-, el artista molinense Pepe Yag\u00fces expone sus libros de autor en la Feria Internacional de Edici\u00f3n Contempor\u00e1nea Art Libris (Barcelona), dedicada a los...",
             "date": "2015-04-25",
             "categories": "bibliofilia",
-            "tags": "edici\u00f3n,contempor\u00e1nea,feria,internacional,libros,libris,bibliofilia,barcelona",
+            "tags": "edici\u00f3n,contempor\u00e1nea,feria,internacional,libros,autor,bibliofilia",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/laverdad.es/2015/04/pepe-yag%C3%BCes-pasea-sus-libros-joya-por-art-libris",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
             "source_url": "http://laverdad.es/murcia/culturas/201504/26/pepe-yagues-pasea-libros-20150426022525-v.html"
@@ -56,54 +76,34 @@
             "snippet": "A Javier Villarreal le gusta el libro como objeto, adem\u00e1s de recrearse en su lectura y recurrir a ellos para su trabajo. En su biblioteca hay unos 5 mil vol\u00famenes, provenientes de tres generaciones: su abuelo, su madre y \u00e9l. En su casa se le\u00eda y...",
             "date": "2015-04-23",
             "categories": "bibliofilia",
-            "tags": "biblioteca,adem\u00e1s,lectura,bibliofilia,d\u00eda,libro",
+            "tags": "adem\u00e1s,lectura,objeto,bibliofilia,libro",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/zocalo.com.mx/2015/04/bibliofilia-al-descubierto-en-el-d%C3%ADa-del-libro",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
             "source_url": "http://zocalo.com.mx/seccion/articulo/en-el-dia-del-libro-bibliofilia-al-descubierto-1429780410"
+        },
+        "elmundo.es/2015/04/juegos-de-libros": {
+            "title": "Juegos de libros...",
+            "snippet": "Y sorprendentemente, a pesar del desorden por mi bibliofilia, al lado de Carr aparece La Armada, el libro de otro gran hispanista, John Elliott, reclamando su derecho a ser le\u00eddo. Lo apart\u00e9 el a\u00f1o pasado como lectura de verano pero otras obras...",
+            "date": "2015-04-23",
+            "categories": "bibliofilia",
+            "tags": "lectura,obras,gran,libros,libro,bibliofilia",
+            "recuweb_url": "http://es.recuweb.com/bibliofilia/elmundo.es/2015/04/juegos-de-libros",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/andalucia/2015/04/23/5538aa24e2704eb95e8b4575.html"
         },
         "20minutos.es/2015/04/la-fotograf%C3%ADa-intimista-y-emocional-de-jessica-lange-toma-el-arts": {
             "title": "La fotograf\u00eda intimista y emocional de Jessica Lange toma el Arts Santa M\u00f3nica...",
             "snippet": "fotolibro y la bibliofilia contempor\u00e1nea son los protagonistas. En esta ocasi\u00f3n, el espacio ha consolidado su feria m\u00e1s internacional con la colaboraci\u00f3n de redes editoriales relacionadas con el arte y la cultura contempor\u00e1neas, como ha...",
             "date": "2015-04-22",
             "categories": "cultura,fotografia,bibliofilia",
-            "tags": "feria,internacional,arte,cultura,contempor\u00e1nea,ocasi\u00f3n,fotolibro,arts,arts_santa,santa,bibliofilia",
+            "tags": "feria,internacional,colaboraci\u00f3n,arte,contempor\u00e1nea,ocasi\u00f3n,bibliofilia",
             "recuweb_url": "http://es.recuweb.com/bibliofilia/20minutos.es/2015/04/la-fotograf%C3%ADa-intimista-y-emocional-de-jessica-lange-toma-el-arts",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
             "source_url": "http://20minutos.es/noticia/2439414/0/fotografia-intimista-emocional/actriz-jessica-lange/arts-santa-monica/"
         },
-        "todoliteratura.es/2015/04/la-biblioteca-l%C3%A1zaro-galdiano-rinde-homenaje-al-quijote-en-su-cuarto": {
-            "title": "La Biblioteca L\u00e1zaro Galdiano rinde homenaje al Quijote, en su cuarto centenario...",
-            "snippet": "Jos\u00e9 L\u00e1zaro, que mostr\u00f3 inter\u00e9s por las m\u00e1s variadas especialidades de la bibliofilia, reuni\u00f3 notables ediciones del Quijote y de otras obras de Cervantes: Novelas ejemplares, Trabajos de Persiles y Segismunda o La Galatea. Esta actividad es...",
-            "date": "2015-04-20",
-            "categories": "bibliofilia",
-            "tags": "jos\u00e9,biblioteca,bibliofilia",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/todoliteratura.es/2015/04/la-biblioteca-l%C3%A1zaro-galdiano-rinde-homenaje-al-quijote-en-su-cuarto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
-            "source_url": "http://todoliteratura.es/noticia/8377/EVENTOS/La-Biblioteca-Lazaro-Galdiano-rinde-homenaje-al-Quijote-en-su-cuarto-centenario.html"
-        },
-        "abcblogs.abc.es/2015/04/libros-en-arts-libris": {
-            "title": "Libros en ARTS LIBRIS...",
-            "snippet": "Arts Libris, es la feria especializada en libros de artistas, fotolibro y bibliofilia contempor\u00e1nea que se celebrar\u00e1 en el centro Arts Santa M\u00f2nica de Barcelona del 23 al 26 de abril y esta ya es su sexta edici\u00f3n. Es una cita para los...",
-            "date": "2015-04-19",
-            "categories": "bibliofilia",
-            "tags": "edici\u00f3n,arts,arts_santa,santa,contempor\u00e1nea,fotolibro,feria,especializada,libros,libris,bibliofilia,barcelona",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/abcblogs.abc.es/2015/04/libros-en-arts-libris",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
-            "source_url": "http://abcblogs.abc.es/fahrenheit-451/2015/04/19/libros-en-arts-libris/"
-        },
-        "rtve.es/2015/04/os-ofrecemos-muchas-ideas-para-hacer-el-mejor-regalo-en-pr%C3%B3ximo": {
-            "title": "Os ofrecemos muchas ideas para hacer el mejor regalo en el pr\u00f3ximo D\u00eda del Libro...",
-            "snippet": "que ha preparado dos post televisivos: uno sobre la lectura digital con la ayuda de David Fern\u00e1ndez de Lektu y Blanca Rosa Roca de Roca Editorial, y otro sobre Bibliofilia, con el librero Manolo Cami\u00f1o y el escritor Miqui Otero.",
-            "date": "2015-04-18",
-            "categories": "bibliofilia",
-            "tags": "editorial,david,lectura,d\u00eda,libro,bibliofilia",
-            "recuweb_url": "http://es.recuweb.com/bibliofilia/rtve.es/2015/04/os-ofrecemos-muchas-ideas-para-hacer-el-mejor-regalo-en-pr%C3%B3ximo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliofilia&format=RSS&cc=es",
-            "source_url": "http://rtve.es/television/20150417/especial-sobre-dia-del-libro/1131581.shtml"
-        },
         "corriereadriatico.it/2015/04/elogio-alla-bibliofilia-allo-sperimentale-umberto-eco-affascina-gli-corriere-adriatico": {
             "title": "Elogio alla bibliofilia, allo Sperimentale Umberto Eco affascina gli... - Corriere Adriatico...",
-            "snippet": "Elogio alla bibliofilia, allo Sperimentale Umberto Eco affascina gli...Corriere AdriaticoEco ha dunque iniziato a parlare della bibliofilia, l'amore per i libri e tutte le conseguenze. Ha spiegato ad esempio la differenza tra bibliofilo e bibliomane...",
+            "snippet": "Il Resto del CarlinoElogio alla bibliofilia, allo Sperimentale Umberto Eco affascina gli...Corriere AdriaticoEco ha dunque iniziato a parlare della bibliofilia, l'amore per i libri e tutte le conseguenze. Ha spiegato ad esempio la differenza tra...",
             "date": "2015-04-09",
             "categories": "bibliofilia",
             "tags": "bibliofilia",

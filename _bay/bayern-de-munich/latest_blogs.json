@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bayern-de-munich",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bayern-de-munich/",
@@ -11,79 +11,59 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bayern-de-munich/bayern-de-munich/blogs.json"
     },
     "items": {
-        "futboltotal.com.mx/2015/04/bayern-m%C3%BAnich-consigue-la-bundesliga-futbol-total": {
-            "title": "Bayern M\u00fanich consigue la Bundesliga Futbol Total...",
-            "snippet": "El Bayern M\u00fanich se proclam\u00f3 campe\u00f3n de la Bundesliga a flata de cuatro jornadas para que conluya la temporada 2014-2015 a. El equipo dirigido por el espa\u00f1ol Josep Guardiola lo consigui\u00f3 matem\u00e1tiamente este fin de...",
-            "date": "2015-04-27",
-            "author_name": "Staff FT",
-            "categories": "futbol",
-            "tags": "josep,josep_guardiola,guardiola,dirigido,espa\u00f1ol,bundesliga,bundesliga_futbol,bundesliga_futbol_total,futbol,futbol_total,total,bayern,bayern_m\u00fanich,m\u00fanich,campe\u00f3n,cuatro,jornadas,temporada",
-            "recuweb_url": "http://es.recuweb.com/futbol/futboltotal.com.mx/2015/04/bayern-m%C3%BAnich-consigue-la-bundesliga-futbol-total",
+        "extrafutbol.com/2015/04/bayern-munich-vs-borussia-dortmund-2015-en-vivo-cl%C3%A1sico": {
+            "title": "Bayern Munich vs Borussia Dortmund 2015 En Vivo: Cl\u00e1sico...",
+            "snippet": "Bayern M\u00fanich y Borussia Dortmund viven este martes un cl\u00e1sico de infarto, por las semifinales de la Copa de Alemania, un duelo en el que el cuadro b\u00e1varo espera encaminarse a su segundo t\u00edtulo de la temporada, luego...",
+            "date": "2015-04-28",
+            "author_name": "FUTBOL EN VIVO",
+            "categories": "borussia-dortmund",
+            "tags": "espera,t\u00edtulo,cuadro,martes,bayern,bayern_m\u00fanich,bayern_munich,m\u00fanich,munich,borussia,borussia_dortmund,dortmund,vivo,semifinales,copa,alemania,b\u00e1varo,luego",
+            "recuweb_url": "http://es.recuweb.com/borussia-dortmund/extrafutbol.com/2015/04/bayern-munich-vs-borussia-dortmund-2015-en-vivo-cl%C3%A1sico",
             "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://futboltotal.com.mx/2015/04/bayern-munich-consigue-la-bundesliga/"
+            "source_url": "http://extrafutbol.com/2443-bayern-munich-vs-borussia-dortmund-2015-en-vivo-clasico-semifinal-por-directv-online.html"
         },
-        "fcbarcelonanoticias.com/2015/04/bar%C3%A7a-bayern-y-juventus-madrid-en-semis-de-champions-fc": {
-            "title": "Bar\u00e7a-Bayern y Juventus-Madrid en semis de Champions - FC...",
-            "snippet": "El sorteo de semifinales de la UEFA Champions League ha emparejado al FC Barcelona con el Bayern de Munich y a la juventus con el Real Madrid. Los partidos de ida se jugar\u00e1n el 5-6 de mayo, mientras que los de vuelta...",
-            "date": "2015-04-27",
-            "author_name": "FC Barcelona Noticias",
-            "tags": "mientras,partidos,jugar\u00e1n,juventus,real,barcelona,league,emparejado,uefa,bar\u00e7a,bayern,madrid,semis,champions,sorteo,semifinales,munich",
-            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/bar%C3%A7a-bayern-y-juventus-madrid-en-semis-de-champions-fc",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fcbarcelonanoticias.com/2015/04/barcelona-bayern-y-juventus-real-madrid-semifinales-champions.html"
-        },
-        "fcbarcelonanoticias.com/2015/04/el-bar%C3%A7a-se-enfrentar%C3%A1-al-bayern-en-semis-de-champions-fc": {
-            "title": "El Bar\u00e7a se enfrentar\u00e1 al Bayern en \"semis\" de Champions - FC...",
-            "snippet": "El Bayern de Munich ser\u00e1 el rival del Barcelona en las semifinales de la Uefa Champions League 2014-2015. El conjunto alem\u00e1n y el Barcelona han quedado emparejados tras el sorteo celebrado hoy en Nyon (Suiza).",
-            "date": "2015-04-27",
-            "author_name": "FC Barcelona Noticias",
-            "tags": "uefa,semis,bar\u00e7a,enfrentar\u00e1,bayern,champions,munich,barcelona,semifinales,league,conjunto,alem\u00e1n,sorteo,nyon",
-            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/el-bar%C3%A7a-se-enfrentar%C3%A1-al-bayern-en-semis-de-champions-fc",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fcbarcelonanoticias.com/2015/04/barcelona-vs-bayern-munich-semifinal-champions.html"
-        },
-        "elfinanciero.com.mx/2015/04/bayern-munich-campe%C3%B3n-de-la-bundesliga-el-financiero": {
-            "title": "Bayern Munich, campe\u00f3n de la Bundesliga El Financiero...",
-            "snippet": "El Bayern Munich se coron\u00f3 tricampe\u00f3n de la Bundesliga del futbol alem\u00e1n, luego de la derrota del VfL Wolfsburgo ante Borussia Moenchengladbach el domingo, para quedar con una ventaja de 15 puntos a falta de cuatro...",
-            "date": "2015-04-26",
-            "author_name": "Roberto Estrada",
-            "categories": "futbol",
-            "tags": "borussia,wolfsburgo,futbol,tricampe\u00f3n,bundesliga,bayern,bayern_munich,munich,campe\u00f3n,alem\u00e1n,derrota,domingo,falta,cuatro",
-            "recuweb_url": "http://es.recuweb.com/futbol/elfinanciero.com.mx/2015/04/bayern-munich-campe%C3%B3n-de-la-bundesliga-el-financiero",
+        "rpp.com.pe/2015/04/bayern-munich-vs-borussia-dortmund-los-memes-de-la-rpp": {
+            "title": "Bayern Munich vs. Borussia Dortmund: Los memes de la... - RPP...",
+            "snippet": "El Bayern Munich de Pep Guardiola cay\u00f3 eliminado en las semifinales de la Copa de Alemania de f\u00fatbol al perder en la tanda de lanzamientos desde el punto de penal ante el Borussia Dortmund despu\u00e9s de que el tiempo...",
+            "date": "2015-04-28",
+            "author_name": "RPP Noticias",
+            "categories": "borussia-dortmund,futbol",
+            "tags": "eliminado,pep,pep_guardiola,guardiola,memes,borussia,borussia_dortmund,dortmund,bayern,bayern_munich,munich,semifinales,copa,alemania,f\u00fatbol,tanda,tiempo",
+            "recuweb_url": "http://es.recuweb.com/futbol/rpp.com.pe/2015/04/bayern-munich-vs-borussia-dortmund-los-memes-de-la-rpp",
             "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elfinanciero.com.mx/after-office/bayern-munich-campeon-de-la-bundesliga.html"
+            "source_url": "http://rpp.com.pe/2015-04-28-bayern-munich-vs-borussia-dortmund-los-memes-de-la-eliminacion-bavara-noticia_792146.html"
         },
-        "futboltotal.com.mx/2015/04/bayern-munich-campe%C3%B3n-de-la-bundesliga-futbol-total": {
-            "title": "Bayern Munich, campe\u00f3n de la Bundesliga Futbol Total...",
-            "snippet": "Bayern Munich altern\u00f3 futbolistas el s\u00e1bado en su victoria ante el Hertha Berl\u00edn. El partido lo sufri\u00f3 pero a 10 minutos del final del encuentro, Bastian Schweinsteiger encontr\u00f3 la llave del gol y dio la victoria al conjunto del...",
-            "date": "2015-04-26",
-            "author_name": "Staff FT",
-            "categories": "futbol",
-            "tags": "conjunto,dio,bastian,bastian_schweinsteiger,schweinsteiger,minutos,partido,hertha,hertha_berl\u00edn,berl\u00edn,s\u00e1bado,bundesliga,bundesliga_futbol,bundesliga_futbol_total,futbol,futbol_total,total,bayern,bayern_munich,munich,campe\u00f3n,victoria,final,gol",
-            "recuweb_url": "http://es.recuweb.com/futbol/futboltotal.com.mx/2015/04/bayern-munich-campe%C3%B3n-de-la-bundesliga-futbol-total",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://futboltotal.com.mx/2015/04/bayern-munich-campeon-de-la-bundesliga/"
-        },
-        "futboltotal.com.mx/2015/04/bayern-munich-a-un-juego-de-ser-campe%C3%B3n-futbol-total": {
-            "title": "Bayern Munich, a un juego de ser campe\u00f3n Futbol Total...",
-            "snippet": "El Bayern Munich venci\u00f3 con complicaciones 1-0 al Hertha Berl\u00edn en el Allianz Arena y con ello es virtualmente campe\u00f3n de la Bundesliga, a falta de un tropiezo por parte de su escolta el Wolfsburgo (que no logre la victoria...",
-            "date": "2015-04-25",
-            "author_name": "Staff FT",
-            "categories": "futbol",
-            "tags": "allianz,allianz_arena,arena,hertha,hertha_berl\u00edn,berl\u00edn,futbol,futbol_total,total,bayern,bayern_munich,munich,campe\u00f3n,bundesliga,falta,wolfsburgo,victoria",
-            "recuweb_url": "http://es.recuweb.com/futbol/futboltotal.com.mx/2015/04/bayern-munich-a-un-juego-de-ser-campe%C3%B3n-futbol-total",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://futboltotal.com.mx/2015/04/bayern-munich-a-un-juego-de-ser-campeon/"
-        },
-        "abc.com.py/2015/04/bayern-m%C3%BAnich-campe%C3%B3n-virtual-de-la-bundesliga-deportes-abc": {
-            "title": "Bayern M\u00fanich, campe\u00f3n virtual de la Bundesliga - Deportes - ABC...",
-            "snippet": "Bayern M\u00fanich, gracias a un gol de Bastian Schweinsteiger a diez minutos para el final, gan\u00f3 1-0 en casa al Hertha Berl\u00edn y es ya campe\u00f3n virtual de la Bundesliga, tras su partido de este s\u00e1bado en la 30 jornada del...",
-            "date": "2015-04-25",
+        "larepublica.pe/2015/04/bayern-m%C3%BAnich-perdi%C3%B3-2-0-ante-borussia-dortmund-en-tanda": {
+            "title": "Bayern M\u00fanich perdi\u00f3 2-0 ante Borussia Dortmund en tanda de...",
+            "snippet": "El Bayern M\u00fanich fue eliminado este martes de la Copa Alemana. Su verdugo fue el Borussia Dortmund, que lo derrot\u00f3 por 2-0 en la tanda de penales, tras 120 minutos de duro juego.",
+            "date": "2015-04-28",
             "author_name": "desconocido",
-            "tags": "jornada,partido,s\u00e1bado,hertha,hertha_berl\u00edn,berl\u00edn,minutos,bastian,bastian_schweinsteiger,schweinsteiger,bayern,bayern_m\u00fanich,m\u00fanich,campe\u00f3n,bundesliga,deportes,abc,gracias,gol,final",
-            "recuweb_url": "http://es.recuweb.com/abc.com.py/2015/04/bayern-m%C3%BAnich-campe%C3%B3n-virtual-de-la-bundesliga-deportes-abc",
+            "categories": "borussia-dortmund",
+            "tags": "duro,copa,alemana,eliminado,martes,borussia,borussia_dortmund,dortmund,bayern,bayern_m\u00fanich,m\u00fanich,perdi\u00f3,tanda,penales",
+            "recuweb_url": "http://es.recuweb.com/borussia-dortmund/larepublica.pe/2015/04/bayern-m%C3%BAnich-perdi%C3%B3-2-0-ante-borussia-dortmund-en-tanda",
             "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/deportes/futbol/bayern-munich-campeon-virtual-de-la-bundesliga-1360327.html"
+            "source_url": "http://larepublica.pe/27-04-2015/bayern-munich-vs-borussia-dortmund-bavaros-en-semifinal-de-infarto-por-copa-alemana"
+        },
+        "eluniversal.com.co/2015/04/borussia-dortmund-elimin%C3%B3-al-bayern-m%C3%BAnich-en-la-copa": {
+            "title": "Borussia Dortmund elimin\u00f3 al Bayern M\u00fanich en la Copa de...",
+            "snippet": "Borussia Dortmund se impuso en la tanda de penaltis por 2-0 al Bayern Munich y clasifico a la final de la Copa Alemana.",
+            "date": "2015-04-28",
+            "author_name": "practicante2",
+            "categories": "borussia-dortmund",
+            "tags": "bayern,bayern_m\u00fanich,m\u00fanich,elimin\u00f3,borussia,borussia_dortmund,dortmund,copa,tanda,penaltis,final,alemana",
+            "recuweb_url": "http://es.recuweb.com/borussia-dortmund/eluniversal.com.co/2015/04/borussia-dortmund-elimin%C3%B3-al-bayern-m%C3%BAnich-en-la-copa",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://eluniversal.com.co/deportes/futbol/borussia-dortmund-elimino-al-bayern-munich-en-la-copa-de-alemania-191997"
+        },
+        "europapress.es/2015/04/el-bayern-de-m%C3%BAnich-campe%C3%B3n-la-bundesliga-europa-press": {
+            "title": "El Bayern de M\u00fanich, campe\u00f3n de la Bundesliga - Europa Press...",
+            "snippet": "El Bayern de M\u00fanich se ha proclamado, por vig\u00e9simo quinta vez en su historia, campe\u00f3n de la Bundesliga 2014/15 a falta de cuatro jornadas para el final de la...",
+            "date": "2015-04-26",
+            "author_name": "desconocido",
+            "tags": "cuatro,campe\u00f3n,bayern,m\u00fanich,bundesliga,final",
+            "recuweb_url": "http://es.recuweb.com/europapress.es/2015/04/el-bayern-de-m%C3%BAnich-campe%C3%B3n-la-bundesliga-europa-press",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://europapress.es/deportes/futbol-00162/noticia-bayern-munich-campeon-bundesliga-20150426194429.html"
         },
         "eluniversal.com.co/2015/04/barcelona-bayern-m%C3%BAnich-y-juventus-real-madrid-las-semis": {
             "title": "Barcelona-Bayern M\u00fanich y Juventus-Real Madrid, las 'semis'de la...",
@@ -91,7 +71,7 @@
             "date": "2015-04-24",
             "author_name": "dbuelvas",
             "categories": "realmadrid",
-            "tags": "pep,pep_guardiola,guardiola,dirigido,mientras,real,real_madrid,madrid,bayern,bayern_m\u00fanich,m\u00fanich,barcelona,juventus,semis,campe\u00f3n,campeones,enfrentar\u00e1,semifinales,liga",
+            "tags": "pep,pep_guardiola,guardiola,mientras,campe\u00f3n,campeones,real,real_madrid,madrid,bayern,bayern_m\u00fanich,m\u00fanich,barcelona,juventus,enfrentar\u00e1,semifinales",
             "recuweb_url": "http://es.recuweb.com/realmadrid/eluniversal.com.co/2015/04/barcelona-bayern-m%C3%BAnich-y-juventus-real-madrid-las-semis",
             "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eluniversal.com.co/deportes/futbol/barcelona-bayern-munich-y-juventus-real-madrid-las-semis-de-la-champions-191534"
@@ -101,20 +81,41 @@
             "snippet": "Desde Nyon-Francia, se conocieron los partidazos que se jugar\u00e1n en la semifinal de la Champions League. Barcelona tendr\u00e1 un duro y atractivo choque ante Bayern M\u00fanich, mientras que en otro...",
             "date": "2015-04-24",
             "author_name": "erickson.bautista",
-            "tags": "mientras,jugar\u00e1n,semifinal,bayern,bayern_m\u00fanich,m\u00fanich,champions,champions_league,league,barcelona,real,nyon",
+            "tags": "mientras,duro,semifinal,bayern,bayern_m\u00fanich,m\u00fanich,champions,champions_league,league,barcelona,real",
             "recuweb_url": "http://es.recuweb.com/libero.pe/2015/04/champions-league-barcelona-chocar%C3%A1-ante-bayern-m%C3%BAnich-y-real",
-            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://libero.pe/futbol-internacional/2015-04-24-champions-league-en-vivo-sorteo-de-las-llaves-de-semifinales"
         },
-        "abc.com.py/2015/04/bayern-m%C3%BAnich-quiere-asegurar-la-bundesliga-deportes-abc-color": {
-            "title": "Bayern M\u00fanich quiere asegurar la Bundesliga - Deportes - ABC Color...",
-            "snippet": "BERL\u00cdN. Tras su demostraci\u00f3n de fuerza en Europa, al clasificarse para semifinales de la Champions, el Bayern M\u00fanich regresa a la Bundesliga con el objetivo de asegurar el t\u00edtulo, el s\u00e1bado en terreno del Hoffenheim.",
-            "date": "2015-04-23",
-            "author_name": "desconocido",
-            "tags": "s\u00e1bado,regresa,abc,bayern,bayern_m\u00fanich,m\u00fanich,bundesliga,deportes,berl\u00edn,semifinales,champions,t\u00edtulo",
-            "recuweb_url": "http://es.recuweb.com/abc.com.py/2015/04/bayern-m%C3%BAnich-quiere-asegurar-la-bundesliga-deportes-abc-color",
+        "fcbarcelonanoticias.com/2015/04/entradas-fc-barcelona-vs-bayern-champions": {
+            "title": "Entradas FC Barcelona vs Bayern - Champions - FC Barcelona...",
+            "snippet": "Ya est\u00e1n a la venta las entradas para los dos partidos que enfrentar\u00e1n a FC Barcelona y Bayern de Munich en las semifinales de la UEFA Champions League 2014-15. El partido de ida se juega en el Camp Nou, mi\u00e9rcoles 6 de mayo, y el de...",
+            "date": "2015-04-24",
+            "author_name": "FC Barcelona Noticias",
+            "tags": "mayo,camp,camp_nou,nou,ida,uefa,entradas,dos,barcelona,bayern,champions,munich,semifinales,league,mi\u00e9rcoles",
+            "recuweb_url": "http://es.recuweb.com/fcbarcelonanoticias.com/2015/04/entradas-fc-barcelona-vs-bayern-champions",
             "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/deportes/futbol/bayern-munich-quiere-asegurar-la-bundesliga-1359627.html"
+            "source_url": "http://fcbarcelonanoticias.com/2015/04/entradas-fc-barcelona-vs-bayern-munich.html"
+        },
+        "larepublica.pe/2015/04/bayern-m%C3%BAnich-vs-porto-b%C3%A1varos-golearon-6-1-por-champions": {
+            "title": "Bayern M\u00fanich vs. Porto: b\u00e1varos golearon 6-1 por Champions...",
+            "snippet": "Con facilidad y autoridad, el Bayern M\u00fanich consigui\u00f3 su pase a las semifinales de la Champions League, luego de vencer por 6 goles a 1 a un desconocido Porto que no supo ser rival en el Allianz Arena.",
+            "date": "2015-04-21",
+            "author_name": "desconocido",
+            "tags": "allianz,allianz_arena,arena,luego,bayern,bayern_m\u00fanich,m\u00fanich,porto,b\u00e1varos,champions,semifinales,league",
+            "recuweb_url": "http://es.recuweb.com/larepublica.pe/2015/04/bayern-m%C3%BAnich-vs-porto-b%C3%A1varos-golearon-6-1-por-champions",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://larepublica.pe/20-04-2015/bayern-munich-vs-porto-bavaros-obligados-a-ganar-para-pasar-a-las-semifinales-de-la-champions-league"
+        },
+        "cnnespanol.cnn.com/2015/04/bar%C3%A7a-y-bayern-munich-clasifican-a-semifinales-de-la-champions": {
+            "title": "Bar\u00e7a y Bayern Munich clasifican a semifinales de la Champions...",
+            "snippet": "El Barcelona y el Bayern Munich clasificaron con contundencia a las semifinales de la Champions League tras eliminar al Paris Saint Germain y al Porto.",
+            "date": "2015-04-21",
+            "author_name": "(CNNEspa\u00f1ol)",
+            "categories": "paris-saint-germain",
+            "tags": "league,bayern,bayern_munich,munich,bar\u00e7a,semifinales,champions,barcelona,porto",
+            "recuweb_url": "http://es.recuweb.com/paris-saint-germain/cnnespanol.cnn.com/2015/04/bar%C3%A7a-y-bayern-munich-clasifican-a-semifinales-de-la-champions",
+            "resource_url": "http://www.google.com/search?q=bayern%2Bde%2Bmunich%2Bbayern%2Bde%2Bmunich&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/04/21/barca-y-bayern-munich-clasifican-semifinales-de-la-champions-league/"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "aguas-termales",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/aguas-termales/",
@@ -11,32 +11,51 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/aguas-termales/aguas-termales/blogs.json"
     },
     "items": {
+        "diariofutrono.cl/2015/05/caba%C3%B1as-en-termas-chihuio-futrono": {
+            "title": "CABA\u00d1AS EN TERMAS CHIHUIO FUTRONO...",
+            "snippet": "Reserva al 63-2481257 y en Botiller\u00eda El Molino. El ba\u00f1o en aguas termales aumenta la temperatura del cuerpo, matando g\u00e9rmenes, entre ellos virus, adem\u00e1s aumenta la presi\u00f3n hidrost\u00e1tica del cuerpo, por lo que aumenta la circulaci\u00f3n sangu\u00ednea...",
+            "date": "2015-05-02",
+            "tags": "ba\u00f1o,aguas,termales",
+            "recuweb_url": "http://es.recuweb.com/diariofutrono.cl/2015/05/caba%C3%B1as-en-termas-chihuio-futrono",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
+            "source_url": "http://diariofutrono.cl/include/php/popup/?id=7&avf=150502135940"
+        },
+        "peru.com/2015/04/jap%C3%B3n-y-el-hotel-m%C3%A1s-antiguo-del-mundo-lo-conoces-fotos": {
+            "title": "Jap\u00f3n y el hotel m\u00e1s antiguo del mundo \u00bfLo conoces? (FOTOS)...",
+            "snippet": "Hoy, considerado el hotel m\u00e1s antiguo del mundo, tambi\u00e9n se alza con el Record Guinnes de la posada de aguas termales m\u00e1s antigua de la historia. TAMBI\u00c9N PUEDES LEER: Espa\u00f1a: \u00bfGulpiyuri, la playa m\u00e1s peque\u00f1a del mundo? (FOTOS) En los...",
+            "date": "2015-04-30",
+            "tags": "hotel,aguas,termales",
+            "recuweb_url": "http://es.recuweb.com/peru.com/2015/04/jap%C3%B3n-y-el-hotel-m%C3%A1s-antiguo-del-mundo-lo-conoces-fotos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
+            "source_url": "http://peru.com/viajes/noticia-de-viajes/japon-y-hotel-mas-antiguo-mundo-lo-conoces-fotos-noticia-351326"
+        },
+        "diariocorreo.pe/2015/04/aguas-termales-del-geronta-no-son-aptas-para-la-salud": {
+            "title": "Aguas termales del Geronta no son aptas para la salud...",
+            "snippet": "Milagro en abril Aunque en mayo de 2014 Santiago Gasta\u00f1adui hab\u00eda dicho que los documentos que muestran cu\u00e1nto pag\u00f3 a Belaunde Lossio por Todo Graph desaparecieron en un incendio, ayer afirm\u00f3 que tras bucear en los cuadernos de la empresa...",
+            "date": "2015-04-29",
+            "categories": "salud",
+            "tags": "ayer,son,aguas,termales,aunque",
+            "recuweb_url": "http://es.recuweb.com/salud/diariocorreo.pe/2015/04/aguas-termales-del-geronta-no-son-aptas-para-la-salud",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
+            "source_url": "http://diariocorreo.pe/edicion/ayacucho/aguas-termales-del-geronta-no-son-aptas-para-la-salud-583788/"
+        },
         "lmcordoba.com.ar/2015/04/buscan-alternativas-para-que-proyecto-de-parque-termal-sea-la-ma%C3%B1ana": {
             "title": "Buscan alternativas para que proyecto de Parque Termal sea... - LA MA\u00d1ANA de C\u00f3rdoba...",
             "snippet": "LA MA\u00d1ANA de C\u00f3rdobaBuscan alternativas para que proyecto de Parque Termal sea...LA MA\u00d1ANA de C\u00f3rdobaLa posibilidad de disponer de aguas termales complementar\u00eda el atractivo tur\u00edstico que significa contar con el barro salino de la laguna, que...",
             "date": "2015-04-29",
-            "tags": "contar,barro,laguna,termales,aguas",
+            "tags": "laguna,termales,aguas",
             "recuweb_url": "http://es.recuweb.com/lmcordoba.com.ar/2015/04/buscan-alternativas-para-que-proyecto-de-parque-termal-sea-la-ma%C3%B1ana",
-            "resource_url": "http://news.google.es/?hl=es&q=aguas%2Btermales&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=aguas%2Btermales%2Baguas%2Btermales&output=atom&nord=1",
             "source_url": "http://lmcordoba.com.ar/nota/202732_buscan-alternativas-para-que-proyecto-de-parque-termal-sea-sustentable"
         },
-        "diariofutrono.cl/2015/04/caba%C3%B1as-en-termas-chihuio-futrono": {
-            "title": "CABA\u00d1AS EN TERMAS CHIHUIO FUTRONO...",
-            "snippet": "Reserva al 63-2481257 y en Botiller\u00eda El Molino. El ba\u00f1o en aguas termales aumenta la temperatura del cuerpo, matando g\u00e9rmenes, entre ellos virus, adem\u00e1s aumenta la presi\u00f3n hidrost\u00e1tica del cuerpo, por lo que aumenta la circulaci\u00f3n sangu\u00ednea...",
+        "que.es/2015/04/regala-una-sesi%C3%B3n-de-belleza-low-cost-en-el-d%C3%ADa": {
+            "title": "Regala una sesi\u00f3n de belleza low cost en el D\u00eda de la Madre...",
+            "snippet": "Orense. Podr\u00e1s relajarte en aguas termales naturales tanto en las Pozas de Outariz como en las Burgas de Canedo. Cada una de ellas cuenta con 4 piscinas, de las cuales 3 son calientes y una fr\u00eda. Aunque el agua sale del interior de la tierra a 60...",
             "date": "2015-04-29",
-            "tags": "ba\u00f1o,aguas,termales",
-            "recuweb_url": "http://es.recuweb.com/diariofutrono.cl/2015/04/caba%C3%B1as-en-termas-chihuio-futrono",
+            "tags": "aguas,son,d\u00eda,termales,piscinas,aunque",
+            "recuweb_url": "http://es.recuweb.com/que.es/2015/04/regala-una-sesi%C3%B3n-de-belleza-low-cost-en-el-d%C3%ADa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
-            "source_url": "http://diariofutrono.cl/include/php/popup/?id=7&avf=150429153836"
-        },
-        "elapuron.com/2015/04/rodr%C3%ADguez-ve-dif%C3%ADcil-un-cambio-en-la-palma-porque-hay-embudo": {
-            "title": "Rodr\u00edguez ve dif\u00edcil un cambio en La Palma porque hay un embudo con el que tropezamos todos...",
-            "snippet": "Hay que ejecutar un plan de inversiones estrat\u00e9gicas en los cuatro pr\u00f3ximos a\u00f1os, para poder contar con el Centro de Visitantes del Roque; el centro de aguas termales de Fuente Santa o un Jard\u00edn bot\u00e1nico, que cualifique el destino y permita...",
-            "date": "2015-04-29",
-            "tags": "contar,aguas,termales",
-            "recuweb_url": "http://es.recuweb.com/elapuron.com/2015/04/rodr%C3%ADguez-ve-dif%C3%ADcil-un-cambio-en-la-palma-porque-hay-embudo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
-            "source_url": "http://elapuron.com/noticias/politica/15340/rodrguez-ve-difcil-un-cambio-en-la-palma-porque-hay-un-embudo-con-el-que-tropezamos-todos/"
+            "source_url": "http://que.es/blogs/201504300700-regala-sesion-belleza-cost-madre.html"
         },
         "oferplan.heraldo.es/2015/04/hotel-granada-palace-4-para-2": {
             "title": "Hotel Granada Palace 4 para 2...",
@@ -52,38 +71,10 @@
             "title": "70 evacuados en piscinas de Ba\u00f1os...",
             "snippet": "Setenta ba\u00f1istas que se hallaban en las piscinas de aguas termales El Salado fueron evacuados ayer ante los riesgos por el aumento de los caudales de los r\u00edos cercanos que triplicaron su nivel luego de tres d\u00edas de continuas lluvias. Mercedes...",
             "date": "2015-04-27",
-            "tags": "fueron,fueron-evacuados,fueron-evacuados-ayer,evacuados,evacuados-ayer,ayer,riesgos,aumento,caudales,r\u00edos,r\u00edos-cercanos,cercanos,ba\u00f1istas,hallaban,piscinas,evacuados-en-piscinas,ba\u00f1os,setenta,aguas,termales,salado",
+            "tags": "ayer,aumento,ba\u00f1istas,piscinas,ba\u00f1os,aguas,termales,salado",
             "recuweb_url": "http://es.recuweb.com/eluniverso.com/2015/04/70-evacuados-en-piscinas-de-ba%C3%B1os",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
             "source_url": "http://eluniverso.com/noticias/2015/04/27/nota/4815371/70-evacuados-piscinas-banos"
-        },
-        "entornointeligente.com/2015/04/ecuador-70-evacuados-en-piscinas-de-ba%C3%B1os-entornointeligente": {
-            "title": "ECUADOR: 70 evacuados en piscinas de Ba\u00f1os - EntornoInteligente...",
-            "snippet": "ECUADOR: 70 evacuados en piscinas de Ba\u00f1osEntornoInteligenteEl Universo/Setenta ba\u00f1istas que se hallaban en las piscinas de aguas termales El Salado fueron evacuados ayer ante los riesgos por el aumento de los caudales de los r\u00edos cercanos que...",
-            "date": "2015-04-27",
-            "tags": "fueron,fueron-evacuados,fueron-evacuados-ayer,evacuados,evacuados-ayer,ayer,riesgos,aumento,caudales,r\u00edos,r\u00edos-cercanos,cercanos,ba\u00f1istas,hallaban,piscinas,evacuados-en-piscinas,ecuador,ba\u00f1os,setenta,aguas,termales,salado",
-            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/ecuador-70-evacuados-en-piscinas-de-ba%C3%B1os-entornointeligente",
-            "resource_url": "http://news.google.es/?hl=es&q=aguas%2Btermales%2Baguas%2Btermales&output=atom&nord=1",
-            "source_url": "http://entornointeligente.com/articulo/5772947/ECUADOR-70-evacuados-en-piscinas-de-Banos"
-        },
-        "lagranepoca.com/2015/04/las-5-mejores-eco-aventuras-de-costa-rica-lagranepoca": {
-            "title": "Las 5 mejores eco aventuras de Costa Rica - lagranepoca...",
-            "snippet": "lagranepocaLas 5 mejores eco aventuras de Costa RicalagranepocaSi has llegado a Costa Rica buscando relajarte o simplemente si est\u00e1s cansado despu\u00e9s de un d\u00eda de senderismo, puedes calmar tus m\u00fasculos relaj\u00e1ndote en las aguas termales. Estas...",
-            "date": "2015-04-27",
-            "categories": "senderismo",
-            "tags": "d\u00eda,costa,costa_rica,rica,aguas,termales",
-            "recuweb_url": "http://es.recuweb.com/senderismo/lagranepoca.com/2015/04/las-5-mejores-eco-aventuras-de-costa-rica-lagranepoca",
-            "resource_url": "http://news.google.es/?hl=es&q=aguas%2Btermales&output=atom&nord=1",
-            "source_url": "http://lagranepoca.com/viajes/4841-las-5-mejores-eco-aventuras-de-costa-rica.html"
-        },
-        "teletica.com/2015/04/lujoso-avi%C3%B3n-del-four-seasons-aterrizar%C3%A1-en-costa-rica-el-2016": {
-            "title": "Lujoso avi\u00f3n del Four Seasons aterrizar\u00e1 en Costa Rica en el 2016...",
-            "snippet": "Pascal Forotti, gerente general del hotel en nuestro pa\u00eds, explic\u00f3 a que los viajeros que aterricen en Costa Rica podr\u00e1n disfrutar de una serie de actividades, entre ellas paseos en canopy, aguas termales o ba\u00f1os con barro del volc\u00e1n...",
-            "date": "2015-04-27",
-            "tags": "ba\u00f1os,barro,hotel,costa,costa_rica,rica,aguas,termales",
-            "recuweb_url": "http://es.recuweb.com/teletica.com/2015/04/lujoso-avi%C3%B3n-del-four-seasons-aterrizar%C3%A1-en-costa-rica-el-2016",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
-            "source_url": "http://teletica.com/Noticias/88991-Lujoso-avion-del-Four-Seasons-aterrizara-en-Costa-Rica-en-el-2016.note.aspx"
         },
         "eluniverso.com/2015/04/se-evacu%C3%B3-a-ba%C3%B1istas-de-las-piscinas-el-salado-en-ba%C3%B1os": {
             "title": "Se evacu\u00f3 a ba\u00f1istas de las piscinas de El Salado en Ba\u00f1os...",
@@ -102,6 +93,15 @@
             "recuweb_url": "http://es.recuweb.com/ngenespanol.com/2015/04/los-lagos-de-aguas-termales-national-geographic-en-espanol",
             "resource_url": "http://news.google.es/?hl=es&q=aguas%2Btermales%2Baguas%2Btermales&output=atom&nord=1",
             "source_url": "http://ngenespanol.com/traveler/lugares/15/04/23/los-lagos-de-aguastermales.html"
+        },
+        "lagacetasalta.com.ar/2015/04/especialistas-aseguran-que-no-hay-actividad-volc%C3%A1nica-en-la-zona": {
+            "title": "Especialistas aseguran que no hay actividad volc\u00e1nica en la zona del San Bernardo...",
+            "snippet": "Flores agreg\u00f3: no hay ning\u00fan tipo de generaci\u00f3n cal\u00f3rica, g\u00e9iseres ni aguas termales en la zona. Por otra parte, LA GACETA convers\u00f3 tambi\u00e9n con el ge\u00f3logo Jos\u00e9 Sastre, quien confirm\u00f3 que el cerro est\u00e1 formado por roca sedimentaria y no...",
+            "date": "2015-04-22",
+            "tags": "san,aguas,termales",
+            "recuweb_url": "http://es.recuweb.com/lagacetasalta.com.ar/2015/04/especialistas-aseguran-que-no-hay-actividad-volc%C3%A1nica-en-la-zona",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aguas%2Btermales&format=RSS&cc=es",
+            "source_url": "http://lagacetasalta.com.ar/nota/18405/sociedad/especialistas-aseguran-no-hay-actividad-volcanica-zona-san-bernardo.html"
         }
     }
 }

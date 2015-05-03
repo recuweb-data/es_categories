@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "folclore",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/folclore/",
@@ -11,26 +11,70 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/folclore/folclore/blogs.json"
     },
     "items": {
-        "radioaires.com/2015/04/folclore-aymama-una-nueva-historia-con-nombre-propio": {
-            "title": "FOLCLORE:Aymama: Una nueva historia con nombre propio...",
-            "snippet": "Con tres discos en su haber y alg\u00fan repertorio in\u00e9dito pero de presencia persistente en sus conciertos, es posible trazar, en las ambiciones del tr\u00edo, un paisaje territorial amplio, que adem\u00e1s del hegem\u00f3nico folclore de cu\u00f1o...",
-            "date": "2015-04-19",
-            "author_name": "Sistema Noticias",
+        "noticiasdeinfantes.com/2015/04/cruz-de-santiago-celebrar%C3%A1-el-domingo-festival-infantil-folclore": {
+            "title": "Cruz de Santiago celebrar\u00e1 el domingo el Festival Infantil de Folclore...",
+            "snippet": "El Auditorio Municipal de La Encarnaci\u00f3n acoger\u00e1 el pr\u00f3ximo domingo 3 de mayo, a las horas, el VII Festival de Folclore Infantil. Organizado por la Asociaci\u00f3n de Folclore y Tradici\u00f3n Cruz de Santiago y con la...",
+            "date": "2015-04-30",
+            "author_name": "infantes DIGITAL",
             "categories": "folclore",
-            "tags": "tr\u00edo,nueva,historia,nombre,folclore",
-            "recuweb_url": "http://es.recuweb.com/folclore/radioaires.com/2015/04/folclore-aymama-una-nueva-historia-con-nombre-propio",
+            "tags": "vii,vii_festival,festival,domingo,festival_infantil,infantil,celebrar\u00e1,santiago,folclore,mayo,horas",
+            "recuweb_url": "http://es.recuweb.com/folclore/noticiasdeinfantes.com/2015/04/cruz-de-santiago-celebrar%C3%A1-el-domingo-festival-infantil-folclore",
+            "resource_url": "http://www.google.com/search?q=folclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticiasdeinfantes.com/2015/04/cruz-de-santiago-celebrara-el-domingo.html"
+        },
+        "zonanortevision.com.ar/2015/04/el-folclore-tigrense-representar%C3%A1-al-pa%C3%ADs-ante-la-unesco-zona": {
+            "title": "El Folclore Tigrense representar\u00e1 al pa\u00eds ante la UNESCO - Zona...",
+            "snippet": "Ante la presencia de numeroso p\u00fablico, el domingo pasado, el Ballet de Arte Folcl\u00f3rico Argentino (.) de Miguel \u00c1ngel Saravia, present\u00f3 en los jardines del Museo de Arte de Tigre una selecci\u00f3n de tres cuadros...",
+            "date": "2015-04-28",
+            "author_name": "Ariel Lazzaro",
+            "categories": "folclore",
+            "tags": "tres,folcl\u00f3rico,domingo,pasado,folclore,ballet,tigre",
+            "recuweb_url": "http://es.recuweb.com/folclore/zonanortevision.com.ar/2015/04/el-folclore-tigrense-representar%C3%A1-al-pa%C3%ADs-ante-la-unesco-zona",
             "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://radioaires.com/folclore-aymama-una-nueva-historia-con-nombre-propio/"
+            "source_url": "http://zonanortevision.com.ar/39864/el-folclore-tigrense-representara-al-pais-ante-la-unesco/"
+        },
+        "puertomontt.cl/2015/04/con-cine-y-folclore-centro-cultural-de-rusia-celebrar%C3%A1-aniversario": {
+            "title": "Con cine y Folclore centro cultural de Rusia celebrar\u00e1 aniversario...",
+            "snippet": "Un nuevo ciclo de cine b\u00e9lico y un gala de folclor denominados Camino a la Victoria- conforman el programa con que el Centro Cultural de Rusia junto al municipio local y la Corporaci\u00f3n Cultural celebrar\u00e1n el 70...",
+            "date": "2015-04-27",
+            "author_name": "Jonathan Cabrera Acevedo",
+            "categories": "cine,folclore",
+            "tags": "celebrar\u00e1n,cultural,municipio,centro,programa,nuevo,celebrar\u00e1,aniversario,folclore,junto",
+            "recuweb_url": "http://es.recuweb.com/folclore/puertomontt.cl/2015/04/con-cine-y-folclore-centro-cultural-de-rusia-celebrar%C3%A1-aniversario",
+            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://puertomontt.cl/2015/04/27/con-cine-y-folclore-centro-cultural-de-rusia-celebrara-aniversario-en-puerto-montt/"
+        },
+        "laopiniondezamora.es/2015/04/zamora-se-vuelca-con-el-folclore-y-baile-la-opini%C3%B3n": {
+            "title": "Zamora se vuelca con el folclore y el baile - La Opini\u00f3n de Zamora...",
+            "snippet": "La lluvia respet\u00f3 y Zamora se rindi\u00f3 ayer al folclore y y el baile para celebrar el D\u00eda de la Danza, dentro de los actos del Sesenta Aniversario del Grupo de Coros y Danzas de Do\u00f1a Urraca. M\u00e1s de 180 ni\u00f1os de la escuela de...",
+            "date": "2015-04-27",
+            "author_name": "La Opini\u00f3n de Zamora",
+            "categories": "escuela,folclore,danza",
+            "tags": "escuela,aniversario,baile,ayer,folclore,grupo",
+            "recuweb_url": "http://es.recuweb.com/danza/laopiniondezamora.es/2015/04/zamora-se-vuelca-con-el-folclore-y-baile-la-opini%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://laopiniondezamora.es/zamora/2015/04/27/zamora-vuelca-folclore-baile/838977.html"
+        },
+        "prensa-salta.gov.ar/2015/04/isa-salta-es-folclore-y-poes%C3%ADa-por-eso-hacemos-este-festival": {
+            "title": "Isa: Salta es folclore y poes\u00eda, por eso hacemos este festival para...",
+            "snippet": "Isa: Salta es folclore y poes\u00eda, por eso hacemos este festival para homenajear a todos los salte\u00f1os. Este mediod\u00eda, en la Pe\u00f1a Boliche Balderrama, se realiz\u00f3 la presentaci\u00f3n oficial del festival Salta Cumple con el cual se...",
+            "date": "2015-04-24",
+            "author_name": "prensa1",
+            "categories": "folclore",
+            "tags": "folclore,festival",
+            "recuweb_url": "http://es.recuweb.com/folclore/prensa-salta.gov.ar/2015/04/isa-salta-es-folclore-y-poes%C3%ADa-por-eso-hacemos-este-festival",
+            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prensa-salta.gov.ar/2015/04/24/isa-salta-es-folclore-y-poesia-por-eso-hacemos-este-festival-para-homenajear-a-todos-los-saltenos/"
         },
         "teldeactualidad.com/2015/04/la-agrupaci%C3%B3n-salitre-del-fayc%C3%A1n-traslada-su-folclore-a-ingenio": {
             "title": "La agrupaci\u00f3n Salitre del Fayc\u00e1n traslada su folclore a Ingenio...",
-            "snippet": "En esta ocasi\u00f3n, se han dado cita en el encuentro la A.F. Taorogan (Mog\u00e1n), la agrupaci\u00f3n folcl\u00f3rica de Guayadeque (Ingenio), la A.C. Miguel Gil (Firgas), la agrupaci\u00f3n Labrante y Cabuqueros (Firgas), y la del Salitre del...",
+            "snippet": "La agrupaci\u00f3n teldense El Salitre del Faycan ha organizdo y participado en la tercera convivencia de bailadores, que se ha celebrado recientemente en el municipio de La Villa de Ingenio.",
             "date": "2015-04-19",
             "author_name": "CULTURA",
             "categories": "folclore",
-            "tags": "ocasi\u00f3n,folclore",
+            "tags": "villa,municipio,folclore",
             "recuweb_url": "http://es.recuweb.com/folclore/teldeactualidad.com/2015/04/la-agrupaci%C3%B3n-salitre-del-fayc%C3%A1n-traslada-su-folclore-a-ingenio",
-            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=folclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://teldeactualidad.com/noticia/cultura/2015/04/19/4895.html"
         },
         "abc.com.py/2015/04/tributo-al-folclore-nacional-edicion-impresa-abc-color-digital": {
@@ -39,7 +83,7 @@
             "date": "2015-04-17",
             "author_name": "desconocido",
             "categories": "folclore",
-            "tags": "teatro,nombre,paz,folclore,nacional,grupo",
+            "tags": "teatro,pasado,mi\u00e9rcoles,nuevo,grupo,folcl\u00f3rico,paz,folclore,nacional",
             "recuweb_url": "http://es.recuweb.com/folclore/abc.com.py/2015/04/tributo-al-folclore-nacional-edicion-impresa-abc-color-digital",
             "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abc.com.py/edicion-impresa/artes-espectaculos/tributo-al-folclore-nacional-1357275.html"
@@ -50,43 +94,21 @@
             "date": "2015-04-14",
             "author_name": "Agencias",
             "categories": "folclore",
-            "tags": "semana,folclore",
+            "tags": "primer,fin,folclore,semana",
             "recuweb_url": "http://es.recuweb.com/folclore/laregion.es/2015/04/el-primer-congreso-mundial-de-folclore-y-turismo-re%C3%BAne-a-19",
             "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://laregion.es/articulo/ourense/primer-congreso-mundial-folclore-y-turismo-reune-19-paises/20150414153408537264.html"
         },
-        "xn--fincaespaa-19a.com/2015/04/la-escuela-de-folclore-alisios-del-valle-finca-espa%C3%B1a-celebr%C3%B3": {
-            "title": "La Escuela de Folclore, Alisios del Valle de Finca Espa\u00f1a celebr\u00f3...",
-            "snippet": "La escuela de Folclore Alisios del Valle de Finca Espa\u00f1a, ha celebrado su d\u00e9cimo segundo aniversario como mejor lo sabe hacer, junto con las tradiciones y el buen folclore. Cantos y bailes tradicionales, con los que...",
-            "date": "2015-04-12",
-            "author_name": "fincaespana",
-            "categories": "escuela,folclore",
-            "tags": "bailes,junto,aniversario,hacer,escuela,folclore",
-            "recuweb_url": "http://es.recuweb.com/folclore/xn--fincaespaa-19a.com/2015/04/la-escuela-de-folclore-alisios-del-valle-finca-espa%C3%B1a-celebr%C3%B3",
-            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://xn--fincaespaa-19a.com/la-escuela-de-folclore-alisios-del-valle-de-finca-espana-celebro-su-decimo-segundo-aniversario/"
-        },
-        "radioteca.net/2015/04/programa-dedicado-al-folclore-argentino-radioteca-intercambio": {
-            "title": "Programa dedicado al folclore argentino. Radioteca, intercambio...",
-            "snippet": "Descripci\u00f3n: Luz para mundos remotos es un programa radial documental sobre m\u00fasicas y m\u00fasicos, producido en y emitido desde la Comarca de R\u00edo Colorado, en la Patagonia Norte argentina. En cada programa...",
-            "date": "2015-04-11",
-            "author_name": "desconocido",
+        "tangauta.net/2015/04/tango-y-folclore-esp-tangauta": {
+            "title": "Tango y folclore (ESP) Tangauta...",
+            "snippet": "Obras de tango y p\u00e1ginas de folclore conviven con naturalidad y belleza en la dupla de Santiago \u00c1lvarez en arm\u00f3nica y Fernando S\u00e1nchez en guitarra. Su segundo \u00e1lbum Pulso sur se siente al encender la escucha para...",
+            "date": "2015-04-06",
+            "author_name": "Luz Valbuena",
             "categories": "folclore",
-            "tags": "programa,folclore,argentina",
-            "recuweb_url": "http://es.recuweb.com/folclore/radioteca.net/2015/04/programa-dedicado-al-folclore-argentino-radioteca-intercambio",
+            "tags": "santiago,tango,folclore",
+            "recuweb_url": "http://es.recuweb.com/folclore/tangauta.net/2015/04/tango-y-folclore-esp-tangauta",
             "resource_url": "http://www.google.com/search?q=folclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://radioteca.net/audio/programa-dedicado-al-folclore-argentino/"
-        },
-        "prensatur.pe/2015/04/federacion-nacional-de-cultura-y-folclore-travel": {
-            "title": "FEDERACION NACIONAL DE CULTURA Y FOLCLORE. Travel...",
-            "snippet": "Impulsar\u00e1n creaci\u00f3n de la Federaci\u00f3n Nacional de Folclore del Per\u00fa las cuales serian integradas por Puno, Arequipa, Tacna, Cusco, Cajamarca y Trujillo, anuncios como estos hechas por el Presidente de la Federaci\u00f3n...",
-            "date": "2015-04-10",
-            "author_name": "Miguel Borges",
-            "categories": "cultura,folclore",
-            "tags": "nacional,cultura,folclore",
-            "recuweb_url": "http://es.recuweb.com/folclore/prensatur.pe/2015/04/federacion-nacional-de-cultura-y-folclore-travel",
-            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://prensatur.pe/2015/04/federacion-nacional-de-cultura-y-folclore/"
+            "source_url": "http://tangauta.net/pulso-sur-de-tanino-esp/"
         },
         "taringa.net/2015/04/5-supersticiones-raras-del-folclore-japon%C3%A9s-taringa": {
             "title": "5 Supersticiones Raras Del Folclore Japon\u00e9s - Taringa!",
@@ -94,32 +116,10 @@
             "date": "2015-04-02",
             "author_name": "desconocido",
             "categories": "religion,budismo,folclore",
-            "tags": "folclore",
+            "tags": "mundo,folclore,dos",
             "recuweb_url": "http://es.recuweb.com/folclore/taringa.net/2015/04/5-supersticiones-raras-del-folclore-japon%C3%A9s-taringa",
             "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://taringa.net/posts/info/18582996/5-Supersticiones-Raras-Del-Folclore-Japones.html"
-        },
-        "cordanzacolombia.wordpress.com/2015/03/que-es-folclor": {
-            "title": "\u00bfQUE ES FOLCLOR?",
-            "snippet": "El folclore,1 folclor, folklore o folklor (del ingl\u00e9s folk, pueblo y lore, acervo, saber o conocimiento)2 es la expresi\u00f3n de la cultura de un pueblo: artesan\u00eda, bailes, chistes, []...",
-            "date": "2015-03-25",
-            "author_name": "franklin barragan martinez",
-            "categories": "cultura,conocimiento,folclore",
-            "tags": "cultura,folclore,bailes",
-            "recuweb_url": "http://es.recuweb.com/folclore/cordanzacolombia.wordpress.com/2015/03/que-es-folclor",
-            "resource_url": "http://es.search.wordpress.com/?q=folclore%2Bfolclore&f=feed&page=1",
-            "source_url": "http://cordanzacolombia.wordpress.com/que-es-folclor/"
-        },
-        "diariojaen.es/2015/03/una-fiesta-de-folclore-y-gastronom%C3%ADa-diario-jaen": {
-            "title": "Una fiesta de folclore y gastronom\u00eda - Diario JAEN...",
-            "snippet": "Una jornada de ma\u00f1ana que se complet\u00f3 con la historia de G\u00e9nave, a cargo de Manuel Rodr\u00edguez Herreros, y, finalmente, una muestra de folclore de la Sierra de Segura con los grupos Natao de Beas y Cuna del Segura,...",
-            "date": "2015-03-22",
-            "author_name": "no-spam@diariojaen.es (francisco juan torres)",
-            "categories": "folclore",
-            "tags": "historia,diario,fiesta,folclore",
-            "recuweb_url": "http://es.recuweb.com/folclore/diariojaen.es/2015/03/una-fiesta-de-folclore-y-gastronom%C3%ADa-diario-jaen",
-            "resource_url": "http://www.google.com/search?q=folclore%2Bfolclore&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diariojaen.es/sierra-de-segura/item/76108-una-fiesta-de-folclore-y-gastronomia"
         }
     }
 }

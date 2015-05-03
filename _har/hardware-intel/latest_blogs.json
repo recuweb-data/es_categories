@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-intel",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-intel/",
@@ -11,49 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-intel/hardware-intel/blogs.json"
     },
     "items": {
-        "muycomputer.com/2015/04/c%C3%B3mo-habilitar-intel-vt-x-para-virtualizaci%C3%B3n-muycomputer": {
-            "title": "C\u00f3mo habilitar Intel VT-x para virtualizaci\u00f3n MuyComputer...",
-            "snippet": "Gu\u00eda para habilitar la funci\u00f3n Intel VT-x, caracter\u00edstica de virtualizaci\u00f3n de hardware que ayuda a acelerar aplicaciones de m\u00e1quina virtual.",
-            "date": "2015-04-14",
-            "author_name": "Juan Ranchal",
-            "categories": "hardware",
-            "tags": "intel,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/muycomputer.com/2015/04/c%C3%B3mo-habilitar-intel-vt-x-para-virtualizaci%C3%B3n-muycomputer",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://muycomputer.com/2015/04/14/intel-vt-x-virtualizacion"
-        },
         "hardware.tecnogaming.com/2015/04/intel-revela-su-procesador-core-i3-4170t-tecnogaming-hardware": {
             "title": "Intel revela su procesador Core i3-4170T TecnoGaming - Hardware...",
             "snippet": "Nuevos modelos de procesadores van apareciendo, esta vez le toca el turno a Intel revelando un nuevo producto perteneciente a su l\u00ednea dual-core haciendo hincapi\u00e9 en la eficiencia energ\u00e9tica. Hablamos del Core...",
             "date": "2015-04-13",
             "author_name": "Alejandro Dau",
             "categories": "hardware",
-            "tags": "nuevos,producto,revela,procesadores,intel,core,tecnogaming,hardware",
+            "tags": "core,nuevos,producto,procesadores,intel,tecnogaming,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/hardware.tecnogaming.com/2015/04/intel-revela-su-procesador-core-i3-4170t-tecnogaming-hardware",
             "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hardware.tecnogaming.com/2015/04/intel-revela-su-procesador-core-i3-4170t/"
-        },
-        "hardware.tecnogaming.com/2015/04/intel-revela-su-ssd-de-alt%C3%ADsimo-rendimiento-tecnogaming-hardware": {
-            "title": "Intel revela su SSD de alt\u00edsimo rendimiento - Tecnogaming Hardware...",
-            "snippet": "Intel anunci\u00f3 su serie Solid-State Drive (SSD) 750, la cual resulta ser la m\u00e1s alta en rendimiento para clientes de almacenamiento en PC y estaciones de trabajo. La serie SSD 750 entrega hasta 4 veces m\u00e1s de desempe\u00f1o...",
-            "date": "2015-04-03",
-            "author_name": "Alejandro Dau",
-            "categories": "hardware",
-            "tags": "alta,rendimiento,tecnogaming,hardware,revela,intel,ssd",
-            "recuweb_url": "http://es.recuweb.com/hardware/hardware.tecnogaming.com/2015/04/intel-revela-su-ssd-de-alt%C3%ADsimo-rendimiento-tecnogaming-hardware",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hardware.tecnogaming.com/2015/04/intel-revela-su-ssd-de-altisimo-rendimiento/"
-        },
-        "newsroom.intel.com/2015/04/noblex-aio-a18w12-intel-newsroom": {
-            "title": "Noblex - AIO A18W12 - Intel Newsroom...",
-            "snippet": "Centro de dise\u00f1o integrado. Hardware y software. Soluciones por sector. Recursos de dise\u00f1o. Solicitar muestras. Comprar productos. Cont\u00e1ctenos. Intel Technology Provider. Centro de recursos para distribuidores Intel.",
-            "date": "2015-04-01",
-            "author_name": "webadmin@intel.com",
-            "categories": "hardware",
-            "tags": "intel,hardware,software,comprar,productos",
-            "recuweb_url": "http://es.recuweb.com/hardware/newsroom.intel.com/2015/04/noblex-aio-a18w12-intel-newsroom",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://newsroom.intel.com/docs/DOC-6440"
         },
         "libuntu.net/2015/03/linux-4-0-mejorar%C3%A1-el-rendimiento-del-motor-gr%C3%A1fico-source": {
             "title": "Linux 4.0 mejorar\u00e1 el rendimiento del motor gr\u00e1fico Source en Intel Haswell...",
@@ -61,7 +28,7 @@
             "date": "2015-03-12",
             "author_name": "rmarquez",
             "categories": "hardware",
-            "tags": "rendimiento,intel,hardware",
+            "tags": "rendimiento,intel,haswell,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/libuntu.net/2015/03/linux-4-0-mejorar%C3%A1-el-rendimiento-del-motor-gr%C3%A1fico-source",
             "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bintel%2Bhardware%2Bintel&f=feed&page=1",
             "source_url": "http://libuntu.net/2015/03/12/linux-4-0-mejorara-el-rendimiento-del-motor-grafico-source-en-intel-haswell/"
@@ -72,21 +39,21 @@
             "date": "2015-03-05",
             "author_name": "MSX2",
             "categories": "hardware",
-            "tags": "quinta,nuevos,comunicado,intel,hardware,procesadores,broadwell",
+            "tags": "nuevos,comunicado,intel,hardware,procesadores,broadwell",
             "recuweb_url": "http://es.recuweb.com/hardware/androidpc.es/2015/03/intel-presenta-nuevo-hardware-e-iniciativas-en-sus-gpu-para-juegos",
             "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://androidpc.es/blog/2015/03/05/intel-presenta-nuevo-hardware-e-iniciativas-en-sus-gpu-para-juegos/"
         },
-        "fidsystem.blogspot.com/2015/02/hardware-intel-comercializa-los-core-vpro-de-quinta-fidsystem": {
-            "title": "HARDWARE - Intel comercializa los Core vPro de quinta... - fidsystem...",
-            "snippet": "vPro es la se\u00f1a distintiva de los chips Intel destinados a equipos profesionales. Incluyen un conjunto de prestaciones de seguridad y gesti\u00f3n por hardware con tecnolog\u00edas como las destinadas a protecci\u00f3n de la identidad,...",
-            "date": "2015-02-02",
-            "author_name": "fidsystem",
-            "categories": "tecnologia,hardware",
-            "tags": "prestaciones,chips,quinta,hardware,intel,core",
-            "recuweb_url": "http://es.recuweb.com/hardware/fidsystem.blogspot.com/2015/02/hardware-intel-comercializa-los-core-vpro-de-quinta-fidsystem",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fidsystem.blogspot.com/2015/02/hardware-intel-comercializa-los-core.html"
+        "hardware.tecnogaming.com/2015/01/intel-core-i7-5960x-extreme-edition-tecnogaming-hardware": {
+            "title": "Intel Core i7 5960X Extreme Edition TecnoGaming - Hardware...",
+            "snippet": "Te presentamos el m\u00e1s potente procesador para la arquitectura de Intel con chipset X99 brindando alto rendimiento en m\u00faltiples aplicaciones y gran capacidad de.",
+            "date": "2015-01-23",
+            "author_name": "Alejandro Dau",
+            "categories": "hardware",
+            "tags": "rendimiento,tecnogaming,intel,intel_core,core,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/hardware.tecnogaming.com/2015/01/intel-core-i7-5960x-extreme-edition-tecnogaming-hardware",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://hardware.tecnogaming.com/2015/01/intel-core-i7-5960x-extreme-edition/"
         },
         "altadensidad.com/2015/01/alta-densidad-presentan-intel-curie-un-m%C3%B3dulo-de-hardware": {
             "title": "Alta Densidad Presentan Intel Curie un m\u00f3dulo de hardware del...",
@@ -94,21 +61,10 @@
             "date": "2015-01-13",
             "author_name": "Alta Densidad",
             "categories": "hardware",
-            "tags": "curie,quark,compa\u00f1\u00eda,compa\u00f1\u00eda-fabricado,compa\u00f1\u00eda-fabricado-especialmente,fabricado,fabricado-especialmente,especialmente,dispositivos,dispositivos-port\u00e1tiles,port\u00e1tiles,diminuto,diminuto-basado,basado,primer,producto,revel\u00f3,revel\u00f3-los-planes,planes,m\u00f3dulo,alta,intel,hardware,soc",
+            "tags": "dispositivos,producto,intel,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/altadensidad.com/2015/01/alta-densidad-presentan-intel-curie-un-m%C3%B3dulo-de-hardware",
             "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://altadensidad.com/?p=73015"
-        },
-        "versionfinal.com.ve/2015/01/intel-libera-m%C3%B3dulo-de-hardware-baja-potencia-para-dispositivos": {
-            "title": "Intel libera m\u00f3dulo de hardware de baja potencia para dispositivos...",
-            "snippet": "Intel revel\u00f3 los planes para el m\u00f3dulo Intel Curie, un producto para hardware diminuto basado en el primer SoC de la compa\u00f1\u00eda fabricado especialmente para los dispositivos port\u00e1tiles: el SoC Intel Quark SE. El m\u00f3dulo Intel...",
-            "date": "2015-01-08",
-            "author_name": "karina",
-            "categories": "hardware",
-            "tags": "quark,compa\u00f1\u00eda,compa\u00f1\u00eda-fabricado,compa\u00f1\u00eda-fabricado-especialmente,fabricado,fabricado-especialmente,especialmente,dispositivos,dispositivos-port\u00e1tiles,port\u00e1tiles,diminuto,diminuto-basado,basado,primer,producto,revel\u00f3,revel\u00f3-los-planes,planes,m\u00f3dulo,intel,hardware,curie,soc",
-            "recuweb_url": "http://es.recuweb.com/hardware/versionfinal.com.ve/2015/01/intel-libera-m%C3%B3dulo-de-hardware-baja-potencia-para-dispositivos",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://versionfinal.com.ve/2015/01/intel-libera-modulo-de-hardware-de-baja-potencia-para-dispositivos-portatiles-caracteristicas/"
         },
         "elotrolado.net/2014/11/intel-fusionar%C3%A1-su-negocio-de-hardware-m%C3%B3vil-con-divisi%C3%B3n": {
             "title": "Intel fusionar\u00e1 su negocio de hardware m\u00f3vil con su divisi\u00f3n de...",
@@ -116,7 +72,7 @@
             "date": "2014-11-18",
             "author_name": "desconocido",
             "categories": "hardware",
-            "tags": "comunicado,firma,chips,dispositivos,intel,hardware",
+            "tags": "comunicado,dispositivos,intel,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/elotrolado.net/2014/11/intel-fusionar%C3%A1-su-negocio-de-hardware-m%C3%B3vil-con-divisi%C3%B3n",
             "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elotrolado.net/noticia_intel-fusionara-su-negocio-de-hardware-movil-con-su-division-de-ordenadores_25403"

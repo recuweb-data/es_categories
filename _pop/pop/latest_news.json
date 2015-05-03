@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pop/",
@@ -11,22 +11,72 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
+        "vanguardia.com/2015/05/cien-a%C3%B1os-de-pop-art-tras-una-botella-vanguardia-liberal": {
+            "title": "Cien a\u00f1os de pop art tras una botella - Vanguardia Liberal...",
+            "snippet": "Vanguardia LiberalCien a\u00f1os de pop art tras una botellaVanguardia LiberalCon esta idea en mente, la marca organiz\u00f3 la exposici\u00f3n 'The Coca-Cola Bottle Art Tour: Inspiring Pop Culture for 100 Years', que ya ha recorrido m\u00e1s de 15 pa\u00edses y que...",
+            "date": "2015-05-02",
+            "categories": "pop",
+            "tags": "pop,art,marca",
+            "recuweb_url": "http://es.recuweb.com/pop/vanguardia.com/2015/05/cien-a%C3%B1os-de-pop-art-tras-una-botella-vanguardia-liberal",
+            "resource_url": "http://news.google.es/?hl=es&q=pop&output=atom&nord=1",
+            "source_url": "http://vanguardia.com/entretenimiento/cultura/309807-cien-anos-de-pop-art-tras-una-botella"
+        },
+        "canarias7.es/2015/05/el-pop-art-de-andy-warhol-inunda-las-pantallas-times-square": {
+            "title": "El pop art de Andy Warhol inunda las pantallas de Times Square...",
+            "snippet": "Andy Warhol, en Times Square. La pareja perfecta formada por el icono del pop art y la meca de la sociedad capitalista se reunir\u00e1 a partir de esta medianoche en la plaza neoyorquina, que se inundar\u00e1 (m\u00e1s) de manifestaci\u00f3n pl\u00e1stica de la cultura...",
+            "date": "2015-05-02",
+            "categories": "cultura,sociedad,pop",
+            "tags": "reunir\u00e1,medianoche,art,meca,sociedad,sociedad-capita,capita,pareja,pareja-perfecta,pareja-perfecta-formada,perfecta,perfecta-formada,formada,icono,inunda,inunda-las-pantallas,pantallas,andy,andy_warhol,warhol,pop,square",
+            "recuweb_url": "http://es.recuweb.com/pop/canarias7.es/2015/05/el-pop-art-de-andy-warhol-inunda-las-pantallas-times-square",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
+            "source_url": "http://canarias7.es/articulo.cfm?Id=374135"
+        },
         "informador.com.mx/2015/05/el-pop-art-de-andy-warhol-inunda-las-pantallas-times-square": {
             "title": "El Pop Art de Andy Warhol inunda las pantallas de Times Square -...",
             "snippet": "Pop Art de Andy Warhol inunda las pantallas de Times YORK, ESTADOS UNIDOS (01/MAY/2015).- Andy Warhol, en Times Square. La pareja perfecta formada por el icono del Pop Art y la meca de la sociedad capitalista se reunir\u00e1 a partir de esta medianoche...",
             "date": "2015-05-02",
             "categories": "sociedad,pop",
-            "tags": "reunir\u00e1,medianoche,meca,sociedad,sociedad-capita,capita,pareja,pareja-perfecta,pareja-perfecta-formada,perfecta,perfecta-formada,formada,icono,inunda,inunda-las-pantallas,pantallas,andy,andy_warhol,warhol,pop,pop_art,art,square,york",
+            "tags": "reunir\u00e1,medianoche,meca,sociedad,sociedad-capita,capita,pareja,pareja-perfecta,pareja-perfecta-formada,perfecta,perfecta-formada,formada,icono,inunda,inunda-las-pantallas,pantallas,andy,andy_warhol,warhol,pop,art,square",
             "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/05/el-pop-art-de-andy-warhol-inunda-las-pantallas-times-square",
             "resource_url": "http://news.google.es/?hl=es&q=pop&output=atom&nord=1",
             "source_url": "http://informador.com.mx/entretenimiento/2015/589726/6/el-pop-art-de-andy-warhol-inunda-las-pantallas-de-times-square.htm"
+        },
+        "abc.es/2015/05/el-pop-espa%C3%B1ol-se-pasa-a-la-literatura-ritmo-en-palabra": {
+            "title": "El pop espa\u00f1ol se pasa a la literatura: el ritmo en la palabra...",
+            "snippet": "Parece un paso natural. Al fin y al cabo, es habitual utilizar la expresi\u00f3n escribir canciones, y la letra forma parte fundamental de una canci\u00f3n, a menos que sea instrumental. Bob Dylan es un eterno candidato al Nobel de Literatura porque sus...",
+            "date": "2015-05-02",
+            "categories": "literatura,pop",
+            "tags": "parte,canciones,espa\u00f1ol,pop",
+            "recuweb_url": "http://es.recuweb.com/pop/abc.es/2015/05/el-pop-espa%C3%B1ol-se-pasa-a-la-literatura-ritmo-en-palabra",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
+            "source_url": "http://abc.es/cultura/libros/20150429/abci-musicos-escritores-julian-hernandez-201504281256.html"
+        },
+        "eluniversal.com/2015/05/el-universo-pop-de-carlos-zerpa-universal-venezuela": {
+            "title": "El universo pop de Carlos Zerpa - El Universal (Venezuela)...",
+            "snippet": "El Universal (Venezuela)El universo pop de Carlos ZerpaEl Universal (Venezuela)En esta muestra, Zerpa re\u00fane tres a\u00f1os de trabajo condensados en una selecci\u00f3n de 12 pinturas, 16 esculturas, una instalaci\u00f3n y un video, en los que, con su...",
+            "date": "2015-05-02",
+            "categories": "pop,pintura,escultura",
+            "tags": "carlos,pop",
+            "recuweb_url": "http://es.recuweb.com/escultura/eluniversal.com/2015/05/el-universo-pop-de-carlos-zerpa-universal-venezuela",
+            "resource_url": "http://news.google.es/?hl=es&q=pop%2Bpop&output=atom&nord=1",
+            "source_url": "http://eluniversal.com/arte-y-entretenimiento/150502/el-universo-pop-de-carlos-zerpa"
+        },
+        "listas.20minutos.es/2015/05/chicos-guapos-k-pop": {
+            "title": "Chicos guapos K-pop...",
+            "snippet": "Lista creada por Maoge. Publicada el a las 00:09h. Clasificada en la categor\u00eda M\u00fasica. La lista SI admite nuevos comentarios. La lista SI admite que sus elementos sean votados. La lista NO admite que otros usuarios a\u00f1adan nuevos elementos.",
+            "date": "2015-05-01",
+            "categories": "pop",
+            "tags": "pop,m\u00fasica",
+            "recuweb_url": "http://es.recuweb.com/pop/listas.20minutos.es/2015/05/chicos-guapos-k-pop",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
+            "source_url": "http://listas.20minutos.es/lista/chicos-guapos-k-pop-396963/"
         },
         "elmundo.es/2015/05/el-south-pop-marca-del-camino": {
             "title": "El South Pop marca del camino...",
             "snippet": "La atomizaci\u00f3n de los canales de acceso a la m\u00fasica que hoy se fabrica y el f\u00e1cil y cada vez m\u00e1s barato acceso a una tecnolog\u00eda casi infinita ha reforzado la necesidad de existir de los festivales de m\u00fasica en su papel de aglutinantes de la...",
             "date": "2015-05-01",
             "categories": "tecnologia,pop",
-            "tags": "m\u00fasica,barato,necesidad,pop",
+            "tags": "m\u00fasica,marca,pop",
             "recuweb_url": "http://es.recuweb.com/pop/elmundo.es/2015/05/el-south-pop-marca-del-camino",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
             "source_url": "http://elmundo.es/andalucia/2015/05/01/554213ba268e3eab278b4571.html"
@@ -36,80 +86,30 @@
             "snippet": "ABC ColorEl mundo pop de AchoABC ColorCon 18 a\u00f1os, prepara diez canciones con las que busca crear un p\u00fablico. El joven Acho Laterza presenta el proyecto musical con el que se juega la vida. Im\u00e1genes. Acho Laterza comparte su debut...",
             "date": "2015-05-01",
             "categories": "pop",
-            "tags": "debut,proyecto,crear,diez,pop,canciones",
+            "tags": "debut,proyecto,pop,canciones",
             "recuweb_url": "http://es.recuweb.com/pop/abc.com.py/2015/05/el-mundo-pop-de-acho-abc-color",
-            "resource_url": "http://news.google.es/?hl=es&q=pop&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=pop%2Bpop&output=atom&nord=1",
             "source_url": "http://abc.com.py/especiales/fin-de-semana/el-mundo-pop-de-acho-1361975.html"
         },
-        "abc.es/2015/05/el-pop-espa%C3%B1ol-se-pasa-a-la-literatura-ritmo-en-palabra": {
-            "title": "El pop espa\u00f1ol se pasa a la literatura: el ritmo en la palabra...",
-            "snippet": "Parece un paso natural. Al fin y al cabo, es habitual utilizar la expresi\u00f3n escribir canciones, y la letra forma parte fundamental de una canci\u00f3n, a menos que sea instrumental. Bob Dylan es un eterno candidato al Nobel de Literatura porque sus...",
-            "date": "2015-05-01",
-            "categories": "literatura,pop",
-            "tags": "menos,parte,canciones,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/abc.es/2015/05/el-pop-espa%C3%B1ol-se-pasa-a-la-literatura-ritmo-en-palabra",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
-            "source_url": "http://abc.es/cultura/libros/20150429/abci-musicos-escritores-julian-hernandez-201504281256.html"
-        },
-        "abc.es/2015/05/enrique-iglesias-y-romeo-santos-arrasan-en-los-premios-billboard": {
-            "title": "Enrique Iglesias y Romeo Santos arrasan en los premios Billboard a la M\u00fasica Latina...",
-            "snippet": "Santos se llev\u00f3 a casa diez premios, incluyendo el de Artista del A\u00f1o, Compositor del A\u00f1o y Productor del A\u00f1o, mientras que Iglesias obtuvo nueve galardones, incluyendo Latin Pop Albums Artista del A\u00f1o Solista y Latin Pop Songs Artista del A\u00f1o...",
-            "date": "2015-05-01",
-            "categories": "pop",
-            "tags": "pop,latin,diez,m\u00fasica",
-            "recuweb_url": "http://es.recuweb.com/pop/abc.es/2015/05/enrique-iglesias-y-romeo-santos-arrasan-en-los-premios-billboard",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
-            "source_url": "http://abc.es/cultura/musica/20150501/abci-enrique-iglesias-billboard-premios-201505011321.html"
-        },
-        "cubasi.cu/2015/05/muere-la-leyenda-del-pop-ben-e-king-autor-de-cl%C3%A1sica": {
-            "title": "Muere la leyenda del pop Ben E King, autor de la cl\u00e1sica 'Stand By... - CubaS\u00cd...",
-            "snippet": "la leyenda del pop Ben E King, autor de la cl\u00e1sica 'Stand By...CubaS\u00cdbuy cialis overnight delivery cialis super active homepage cialis best prices canadian pharmacy for generic cialis good Fuentes cercanas a la leyenda del pop, citadas por el...",
+        "nacion.com/2015/05/fonseca-dar%C3%A1-una-dosis-de-pop-a-los-sancarle%C3%B1os-la-naci%C3%B3n": {
+            "title": "Fonseca dar\u00e1 una dosis de pop a los sancarle\u00f1os - La Naci\u00f3n Costa Rica...",
+            "snippet": "La Naci\u00f3n Costa RicaFonseca dar\u00e1 una dosis de pop a los sancarle\u00f1osLa Naci\u00f3n Costa RicaFonseca dar\u00e1 una dosis de pop a los sancarle\u00f1os. POR Katherine Chaves R./POR BOLDKatherine Chaves R./BOLD - Actualizado el 1 de mayo de 2015 a: 12:00 a.m..",
             "date": "2015-05-01",
             "categories": "pop",
             "tags": "pop",
-            "recuweb_url": "http://es.recuweb.com/pop/cubasi.cu/2015/05/muere-la-leyenda-del-pop-ben-e-king-autor-de-cl%C3%A1sica",
-            "resource_url": "http://news.google.es/?hl=es&q=pop&output=atom&nord=1",
-            "source_url": "http://cubasi.cu/cubasi-noticias-cuba-mundo-ultima-hora/item/38981-muere-la-leyenda-del-pop-ben-e-king-autor-de-la-clasica-stand-by-me"
+            "recuweb_url": "http://es.recuweb.com/pop/nacion.com/2015/05/fonseca-dar%C3%A1-una-dosis-de-pop-a-los-sancarle%C3%B1os-la-naci%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=pop%2Bpop&output=atom&nord=1",
+            "source_url": "http://nacion.com/ocio/musica/Fonseca-dara-dosis-pop-sancarlenos_0_1484851545.html"
         },
-        "tvnotas.com.mx/2015/05/ov7-y-kabah-revivieron-los-90-en-el-auditorio-nacional-explosi%C3%B3n": {
-            "title": "OV7 y Kabah revivieron los 90 en el Auditorio Nacional \u00a1explosi\u00f3n... - TVNotas...",
-            "snippet": "TVNotasOV7 y Kabah revivieron los 90 en el Auditorio Nacional \u00a1explosi\u00f3n...TVNotasOV7 y Kabah revivieron los 90 en el Auditorio Nacional \u00a1explosi\u00f3n Pop! Video. 1 de Mayo del 2015Por Redacci\u00f3n y Notimex/Foto: Twitter. Miles de personas corearon...",
+        "elpais.com/2015/05/la-tercera-edad-de-un-icono-del-pop-franc%C3%A9s": {
+            "title": "La tercera edad de un icono del pop franc\u00e9s...",
+            "snippet": "En el elegante distrito XVI de Par\u00eds vive una solitaria mujer de 71 a\u00f1os que apenas sale de casa. Tiene el pelo corto y blanco y es de una extrema delgadez. Se llama Fran\u00e7oise Hardy, una compositora, cantante y escritora que no ha parado de...",
             "date": "2015-05-01",
-            "categories": "pop,twitter",
-            "tags": "pop,mayo",
-            "recuweb_url": "http://es.recuweb.com/twitter/tvnotas.com.mx/2015/05/ov7-y-kabah-revivieron-los-90-en-el-auditorio-nacional-explosi%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=pop&output=atom&nord=1",
-            "source_url": "http://tvnotas.com.mx/2015/05/01/C-72726-ov7-y-kabah-revivieron-los-90-en-el-auditorio-nacional-explosion-pop-video.php"
-        },
-        "elnortedecastilla.es/2015/04/paella-pop-una-novedosa-iniciativa-de-arte-en-nueva-york": {
-            "title": "'Paella Pop', una novedosa iniciativa de arte en Nueva York con esencia espa\u00f1ola...",
-            "snippet": "Un innovador proyecto de arte relacional impulsado por dos j\u00f3venes artistas espa\u00f1oles ser\u00e1 centro de actividad art\u00edstica en Nueva York, el pr\u00f3ximo 2 de mayo. Paula G\u00f3mez Rosado y Juan Carlos Rosa Casasola, creadores de este movimiento...",
-            "date": "2015-04-30",
             "categories": "pop",
-            "tags": "juan,carlos,mayo,proyecto,artistas,nueva,york,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/elnortedecastilla.es/2015/04/paella-pop-una-novedosa-iniciativa-de-arte-en-nueva-york",
+            "tags": "icono,pop",
+            "recuweb_url": "http://es.recuweb.com/pop/elpais.com/2015/05/la-tercera-edad-de-un-icono-del-pop-franc%C3%A9s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
-            "source_url": "http://elnortedecastilla.es/culturas/201504/30/paella-novedosa-iniciativa-arte-20150430134634.html"
-        },
-        "es.paperblog.com/2015/04/c%C3%B3mo-insertar-un-pop-up-en-wix": {
-            "title": "C\u00f3mo insertar un pop up en Wix...",
-            "snippet": "Muchos son los que utilizan esta herramienta para crear webs sencillas y sin necesidad de tener conocimiento de HTLM, javascricpt y todos esos nombres que s\u00f3lo de escucharlos pueden dar jaquecas. Basta con arrastrar formas, cuadros de texto e...",
-            "date": "2015-04-30",
-            "categories": "conocimiento,pop",
-            "tags": "nombres,crear,necesidad,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/es.paperblog.com/2015/04/c%C3%B3mo-insertar-un-pop-up-en-wix",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/como-insertar-un-pop-up-en-wix-3186183/"
-        },
-        "minuto30.com/2015/04/el-pop-art-de-andy-warhol-inunda-las-pantallas-times-square": {
-            "title": "El Pop Art de Andy Warhol inunda las pantallas de Times Square...",
-            "snippet": "Andy Warhol, en Times Square. La pareja perfecta formada por el icono del Pop Art y la meca de la sociedad capitalista se reunir\u00e1 a partir de esta medianoche en la plaza neoyorquina, que se inundar\u00e1 (m\u00e1s) de manifestaci\u00f3n pl\u00e1stica de la cultura...",
-            "date": "2015-04-30",
-            "categories": "cultura,sociedad,pop",
-            "tags": "reunir\u00e1,medianoche,meca,sociedad,sociedad-capita,capita,pareja,pareja-perfecta,pareja-perfecta-formada,perfecta,perfecta-formada,formada,icono,inunda,inunda-las-pantallas,pantallas,andy,andy_warhol,warhol,pop,pop_art,art,square",
-            "recuweb_url": "http://es.recuweb.com/pop/minuto30.com/2015/04/el-pop-art-de-andy-warhol-inunda-las-pantallas-times-square",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=es",
-            "source_url": "http://minuto30.com/el-pop-art-de-andy-warhol-inunda-las-pantallas-de-times-square/334958/"
+            "source_url": "http://elpais.com/elpais/2015/05/01/estilo/1430482810_285095.html"
         }
     }
 }

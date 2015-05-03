@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/jquery/",
@@ -11,14 +11,34 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
+        "phpmagazin.de/2015/04/jquery-und-ver%C3%B6ffentlicht-php-magazin": {
+            "title": "jQuery und ver\u00f6ffentlicht - php magazin...",
+            "snippet": "jQuery und ver\u00f6ffentlichtphp magazinGleich zwei neue Patch-Releases sind von jQuery erschienen. Die Versionen und, die Timmy Willison im jQuery-Blog vorgestellt hat, sollen insbesondere einen Bug in iOS 8.2 und 8.3 fixen. Dabei handelt es sich um...",
+            "date": "2015-04-29",
+            "categories": "php,jquery",
+            "tags": "hat,die,von,php,php-magazin,magazin,ver\u00f6ffentlicht,jquery,erschienen,ios",
+            "recuweb_url": "http://es.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-und-ver%C3%B6ffentlicht-php-magazin",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://phpmagazin.de/news/jquery-1-11-3-2-1-4-179519"
+        },
+        "itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld": {
+            "title": "jQuery's creator annotates his original source code - ITworld...",
+            "snippet": "ITworldjQuery's creator annotates his original source codeITworldSince its release in January 2006, jQuery has become one of the most popular JavaScript libraries, currently used by more than half the top million web sites in the world. Knowing how...",
+            "date": "2015-04-29",
+            "categories": "jquery,javascript",
+            "tags": "how,web,its,release,jquery,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://itworld.com/article/2915599/open-source-tools/jquery-s-creator-annotates-his-original-source-code.html"
+        },
         "phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin": {
             "title": "jQuery Foundation ver\u00f6ffentlicht Globalize 1.0 - php magazin...",
             "snippet": "php magazinjQuery Foundation ver\u00f6ffentlicht Globalize magazinBis zur gerade erschienen Version 1.0 der Internationalisierungs-Library Globalize hat es zwar eine ganze Weile gedauert, daf\u00fcr bringt die von der jQuery Foundation ver\u00f6ffentlichte...",
             "date": "2015-04-27",
             "categories": "php,jquery",
-            "tags": "foundation,php,jquery,jquery_foundation,globalize,version",
+            "tags": "die,von,hat,erschienen,foundation,php,php-magazin,magazin,jquery,jquery_foundation,ver\u00f6ffentlicht,globalize,version",
             "recuweb_url": "http://es.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin",
-            "resource_url": "http://news.google.es/?hl=es&q=jquery&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://phpmagazin.de/news/jquery-foundation-globalize-1-0-179468"
         },
         "web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez-vous": {
@@ -28,7 +48,7 @@
             "categories": "jquery",
             "tags": "est,outil,globalize,jquery",
             "recuweb_url": "http://es.recuweb.com/jquery/web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez-vous",
-            "resource_url": "http://news.google.es/?hl=es&q=jquery&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://web.developpez.com/actu/84341/Globalize-1-0-l-outil-d-internationalisation-de-jQuery-rendez-vous-vos-applications-accessibles-a-tous/"
         },
         "javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery": {
@@ -38,7 +58,7 @@
             "categories": "google,jquery",
             "tags": "outil,est,jquery",
             "recuweb_url": "http://es.recuweb.com/jquery/javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery",
-            "resource_url": "http://news.google.es/?hl=es&q=jquery&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://javascript.developpez.com/actu/84339/PEP-0-3-0-polyfill-Pointer-Events-de-Google-est-repris-par-jQuery-afin-de-maintenir-l-outil-de-normalisation-des-evenements/"
         },
         "hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release": {
@@ -46,9 +66,9 @@
             "snippet": "JQuery Foundation Launches Globalize V (press release)Walnut, CA. (PRWEB) April 23, 2015 - The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers...",
             "date": "2015-04-23",
             "categories": "jquery",
-            "tags": "version,jquery,jquery_foundation,foundation,globalize",
+            "tags": "its,version,jquery,jquery_foundation,foundation,release,globalize",
             "recuweb_url": "http://es.recuweb.com/jquery/hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release",
-            "resource_url": "http://news.google.es/?hl=es&q=jquery&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://hostreview.com/news/150423-jquery-foundation-launches-globalize-v-10"
         },
         "adlatina.com/2015/04/dise%C3%B1ador-gr%C3%A1fico-multimedia-senior": {
@@ -56,7 +76,7 @@
             "snippet": "jquery, optimizaci\u00f3n exploradores (excluyente). Habilidad de trabajar bajo presi\u00f3n y en equipo, con predisposici\u00f3n, din\u00e1micos, comprometido con las tareas. Con disponibilidad full-time in House. Se valora cierto conocimiento en programaci\u00f3n...",
             "date": "2015-04-22",
             "categories": "conocimiento,jquery",
-            "tags": "programaci\u00f3n,equipo,jquery",
+            "tags": "equipo,jquery",
             "recuweb_url": "http://es.recuweb.com/jquery/adlatina.com/2015/04/dise%C3%B1ador-gr%C3%A1fico-multimedia-senior",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=es",
             "source_url": "http://adlatina.com/ofertas-laborales/dise\u00f1ador-gr\u00e1fico-multimedia-senior"
@@ -68,7 +88,7 @@
             "categories": "jquery",
             "tags": "jquery",
             "recuweb_url": "http://es.recuweb.com/jquery/linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres",
-            "resource_url": "http://news.google.es/?hl=es&q=jquery&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://linuxexpres.cz/software/jquery-9-funkce-jako-parametr"
         },
         "cronista.com/2015/04/las-plataformas-online-recargadas": {
@@ -76,40 +96,20 @@
             "snippet": "Para el primer semestre del a\u00f1o, espera contar con un equipo de 20 recursos, con perfiles orientados sobre todo a NodeJS, ElasticSearch, jQuery y Javascript para dise\u00f1o de interfaces y desarrolladores espec\u00edficos para Android y iOS. Otro sitio...",
             "date": "2015-04-20",
             "categories": "jquery,javascript",
-            "tags": "desarrolladores,equipo,primer,jquery,javascript,android",
+            "tags": "equipo,primer,jquery,javascript,android,ios,sitio",
             "recuweb_url": "http://es.recuweb.com/javascript/cronista.com/2015/04/las-plataformas-online-recargadas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=es",
             "source_url": "http://cronista.com/itbusiness/Las-plataformas-online-recargadas-20150421-0034.html"
         },
-        "marketingdirecto.com/2015/04/arsys-renueva-su-cartera-de-servicios-hosting-web": {
-            "title": "Arsys renueva su cartera de servicios de hosting web...",
-            "snippet": "Teniendo en cuenta el creciente uso de los gestores de contenido (CMS) en la creaci\u00f3n web, tambi\u00e9n se ha mejorado la capacidad de las bases de datos y su compatibilidad de cara a la programaci\u00f3n en PHP, Perl, Python, Ruby on Rails, JQuery y con...",
-            "date": "2015-04-19",
-            "categories": "php,perl,jquery",
-            "tags": "mejorado,mejorado-la-capacidad,capacidad,bases,bases-de-datos,datos,datos-su-compatibilidad,compatibilidad,compatibilidad-de-cara,cara,cara-a-programaci\u00f3n,programaci\u00f3n,creaci\u00f3n,creaci\u00f3n-web,web,cuenta,cuenta-el-creciente,creciente,creciente-uso,uso,gestores,gestores-de-contenido,contenido,servicios,servicios-de-hosting,hosting,hosting-web,arsys,teniendo,cms,php,perl,python,ruby,rails,jquery",
-            "recuweb_url": "http://es.recuweb.com/jquery/marketingdirecto.com/2015/04/arsys-renueva-su-cartera-de-servicios-hosting-web",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=es",
-            "source_url": "http://marketingdirecto.com/actualidad/anunciantes/arsys-renueva-su-cartera-de-servicios-de-hosting-web/"
-        },
-        "computerworld.es/2015/04/arsys-adapta-los-servicios-de-hosting-web-a-desarrolladores": {
-            "title": "Arsys adapta los servicios de hosting web a los desarrolladores...",
-            "snippet": "Teniendo en cuenta el creciente uso de los gestores de contenido (CMS) en la creaci\u00f3n web, tambi\u00e9n se ha mejorado la capacidad de las bases de datos y su compatibilidad de cara a la programaci\u00f3n en PHP, Perl, Python, Ruby on Rails, JQuery y con...",
-            "date": "2015-04-17",
-            "categories": "php,perl,jquery",
-            "tags": "mejorado,mejorado-la-capacidad,capacidad,bases,bases-de-datos,datos,datos-su-compatibilidad,compatibilidad,compatibilidad-de-cara,cara,cara-a-programaci\u00f3n,programaci\u00f3n,creaci\u00f3n,creaci\u00f3n-web,web,cuenta,cuenta-el-creciente,creciente,creciente-uso,uso,gestores,gestores-de-contenido,contenido,servicios,servicios-de-hosting,hosting,hosting-web,desarrolladores,arsys,teniendo,cms,php,perl,python,ruby,rails,jquery",
-            "recuweb_url": "http://es.recuweb.com/jquery/computerworld.es/2015/04/arsys-adapta-los-servicios-de-hosting-web-a-desarrolladores",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=es",
-            "source_url": "http://computerworld.es/sociedad-de-la-informacion/arsys-adapta-los-servicios-de-hosting-web-a-los-desarrolladores"
-        },
-        "imasters.com.br/2015/04/entendendo-o-event-delegation-da-fun%C3%A7%C3%A3o-on-no-jquery-imasters": {
-            "title": "Entendendo o Event Delegation da fun\u00e7\u00e3o on() no jQuery - iMasters...",
-            "snippet": "iMastersEntendendo o Event Delegation da fun\u00e7\u00e3o on() no jQueryiMastersGeralmente uma delega\u00e7\u00e3o, que seria a uma tradu\u00e7\u00e3o livre para delegation, significa definir um evento para um elemento pai, que ser\u00e1 disparado para todos os seus filhos. O...",
-            "date": "2015-04-16",
+        "programmableweb.com/2015/04/how-to-configure-and-interrogate-the-pixlr-api-with-jquery-programmableweb": {
+            "title": "How To Configure And Interrogate The Pixlr API With jQuery - ProgrammableWeb...",
+            "snippet": "How To Configure And Interrogate The Pixlr API With jQueryProgrammableWebWhile the article is relatively light and primarily focuses on a snippet-like offering, it does have a jQuery example at the end that calls the API directly, demonstrating how...",
+            "date": "2015-04-06",
             "categories": "jquery",
-            "tags": "jquery",
-            "recuweb_url": "http://es.recuweb.com/jquery/imasters.com.br/2015/04/entendendo-o-event-delegation-da-fun%C3%A7%C3%A3o-on-no-jquery-imasters",
-            "resource_url": "http://news.google.es/?hl=es&q=jquery&output=atom&nord=1",
-            "source_url": "http://imasters.com.br/front-end/jquery/entendendo-o-event-delegation-da-funcao-on-no-jquery/?trace=1519021197&source=home"
+            "tags": "how,jquery",
+            "recuweb_url": "http://es.recuweb.com/jquery/programmableweb.com/2015/04/how-to-configure-and-interrogate-the-pixlr-api-with-jquery-programmableweb",
+            "resource_url": "http://news.google.es/?hl=es&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://programmableweb.com/news/how-to-configure-and-interrogate-pixlr-api-jquery/how-to/2015/04/06"
         }
     }
 }

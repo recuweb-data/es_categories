@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "felicidad",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/felicidad/",
@@ -11,60 +11,71 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/felicidad/felicidad/blogs.json"
     },
     "items": {
+        "culturamas.es/2015/05/una-felicidad-repulsiva-de-guillermo-mart%C3%ADnez-culturamas": {
+            "title": "Una felicidad repulsiva, de Guillermo Mart\u00ednez Culturamas, la...",
+            "snippet": "Por Sergio S\u00e1nchez. Una felicidad respulsiva, de Guillermo Mart\u00ednez (Editorial Destino): la felicidad como una maldici\u00f3n Aquello que conocemos como un.",
+            "date": "2015-05-02",
+            "author_name": "pilarmartinez",
+            "categories": "felicidad",
+            "tags": "editorial,destino,felicidad",
+            "recuweb_url": "http://es.recuweb.com/felicidad/culturamas.es/2015/05/una-felicidad-repulsiva-de-guillermo-mart%C3%ADnez-culturamas",
+            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://culturamas.es/blog/2015/05/02/una-felicidad-repulsiva-de-guillermo-martinez/"
+        },
+        "cnnespanol.cnn.com/2015/05/la-felicidad-de-costa-rica-cnnespa%C3%B1": {
+            "title": "La felicidad de Costa Rica CNNEspa\u00f1...",
+            "snippet": "Un informe se\u00f1ala que Costa Rica est\u00e1 entre los pa\u00edses m\u00e1s felices del planeta y es el m\u00e1s feliz en Am\u00e9rica Latina. Entonces, \u00bfpor qu\u00e9 otras encuestas locales en Costa Rica que muestran altos niveles de insatisfacci\u00f3n?",
+            "date": "2015-05-01",
+            "author_name": "(CNNEspa\u00f1ol)",
+            "categories": "planeta,felicidad",
+            "tags": "pa\u00edses,pa\u00edses-m\u00e1s-felices,felices,costa,costa_rica,rica,informe,felicidad,feliz",
+            "recuweb_url": "http://es.recuweb.com/felicidad/cnnespanol.cnn.com/2015/05/la-felicidad-de-costa-rica-cnnespa%C3%B1",
+            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/05/01/la-felicidad-de-costa-rica/"
+        },
+        "gestion.pe/2015/05/per%C3%BA-figura-entre-los-diez-pa%C3%ADses-con-mayor-incremento-en-felicidad": {
+            "title": "Per\u00fa figura entre los diez pa\u00edses con mayor incremento en felicidad...",
+            "snippet": "... mayo del 2015. Econom\u00eda; 07:40. En el \u00faltimo ranking mundial de la felicidad de la ONU el pa\u00eds figura en el puesto 58 entre 158 naciones evaluadas, aunque tiene uno de los cuatro puntajes m\u00e1s bajos de Latinoam\u00e9rica.",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "felicidad,economia",
+            "tags": "aunque,naciones,pa\u00edses,pa\u00eds,mundial,mayo,diez,mayor,felicidad,onu",
+            "recuweb_url": "http://es.recuweb.com/economia/gestion.pe/2015/05/per%C3%BA-figura-entre-los-diez-pa%C3%ADses-con-mayor-incremento-en-felicidad",
+            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://gestion.pe/economia/peru-figura-entre-10-paises-mayor-incremento-felicidad-desde-2005-2130635"
+        },
+        "vidanueva.es/2015/04/premios-barco-de-vapor-2015-la-b%C3%BAsqueda-felicidad": {
+            "title": "Premios Barco de Vapor 2015: la b\u00fasqueda de la felicidad en los...",
+            "snippet": "JUAN CARLOS RODR\u00cdGUEZ Son dos delicias dirigidas a lectores de entre 8 y 17 a\u00f1os, pero os aseguro que he disfrutado con ambos a mis 42 como si tuviera nueve, asegur\u00f3 la Reina. Do\u00f1a Letizia presidi\u00f3 el pasado...",
+            "date": "2015-04-30",
+            "author_name": "Vidanueva",
+            "categories": "felicidad",
+            "tags": "son,b\u00fasqueda,premios,barco,felicidad",
+            "recuweb_url": "http://es.recuweb.com/felicidad/vidanueva.es/2015/04/premios-barco-de-vapor-2015-la-b%C3%BAsqueda-felicidad",
+            "resource_url": "http://www.google.com/search?q=felicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://vidanueva.es/2015/04/30/premios-barco-de-vapor-2015-la-busqueda-de-la-felicidad-en-los-pequenos-detalles-fundacion-sm/"
+        },
         "microsiervos.com/2015/04/seg%C3%BAn-el-informe-de-los-pa%C3%ADses-m%C3%A1s-felices-del-mundo-ocupamos": {
             "title": "Seg\u00fan el informe de los pa\u00edses m\u00e1s felices del mundo ocupamos el...",
             "snippet": "Momento Happy Flower! Porque habi\u00e9ndose publicado el Informe sobre la Felicidad Mundial 2015 PDF, 8 MB los amantes de los numeritos y...",
             "date": "2015-04-27",
             "author_name": "alvy@microsiervos.com (Alvy)",
             "categories": "felicidad",
-            "tags": "felicidad,mundial,pa\u00edses,informe,felices,mundo",
+            "tags": "felicidad,mundial,publicado,informe,pa\u00edses,pa\u00edses-m\u00e1s-felices,felices,mundo,porque",
             "recuweb_url": "http://es.recuweb.com/felicidad/microsiervos.com/2015/04/seg%C3%BAn-el-informe-de-los-pa%C3%ADses-m%C3%A1s-felices-del-mundo-ocupamos",
-            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=felicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://microsiervos.com/archivo/mundoreal/informe-paises-mas-felices-2015.html"
         },
-        "diariodeavisos.com/2015/04/espa%C3%B1a-entre-los-pa%C3%ADses-que-m%C3%A1s-felicidad-han-perdido-durante": {
-            "title": "Espa\u00f1a, entre los pa\u00edses que m\u00e1s felicidad han perdido durante la...",
-            "snippet": "Espa\u00f1a es el s\u00e9ptimo pa\u00eds que m\u00e1s ha reducido su nivel de felicidad en los \u00faltimos a\u00f1os y se sit\u00faa en el puesto n\u00famero 36 a nivel mundial, seg\u00fan el 'Informe Mundial de Felicidad 2015 que m\u00e1s de una decena de...",
-            "date": "2015-04-25",
-            "author_name": "Diario de Avisos",
-            "categories": "felicidad",
-            "tags": "informe,informe_mundial,mundial,s\u00e9p,pa\u00edses,pa\u00eds,espa\u00f1a,felicidad,puesto",
-            "recuweb_url": "http://es.recuweb.com/felicidad/diariodeavisos.com/2015/04/espa%C3%B1a-entre-los-pa%C3%ADses-que-m%C3%A1s-felicidad-han-perdido-durante",
-            "resource_url": "http://www.google.com/search?q=felicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diariodeavisos.com/2015/04/espana-entre-paises-mas-felicidad-han-perdido-durante-crisis-segun-estudio/"
-        },
-        "abc.com.py/2015/04/felicidad-paraguaya-en-otro-ranking-nacionales-abc-color": {
-            "title": "Felicidad paraguaya, en otro ranking - Nacionales - ABC Color...",
-            "snippet": "Felicidad paraguaya, en otro ranking. Un estudio denominado Informe Mundial de la Felicidad ubica a Paraguay como s\u00e9ptimo entre los m\u00e1s felices en un ranking mundial dominado por pa\u00edses latinoamericanos.",
+        "pijamasurf.com/2015/04/estos-son-los-pa%C3%ADses-m%C3%A1s-felices-del-mundo-seg%C3%BAn-la-onu": {
+            "title": "Estos son los pa\u00edses m\u00e1s felices del mundo seg\u00fan la ONU...",
+            "snippet": "La Organizaci\u00f3n de las Naciones Unidas recientemente public\u00f3 su reporte anual de la felicidad mundial, en el que mide el bienestar conforme a una serie de variables estad\u00edsticas y percepciones individuales. En su reporte...",
             "date": "2015-04-24",
-            "author_name": "desconocido",
+            "author_name": "pijamasurf",
             "categories": "felicidad",
-            "tags": "pa\u00edses,s\u00e9p,informe,informe_mundial,mundial,felicidad,ranking,estudio,denominado,felices,latinoamericanos",
-            "recuweb_url": "http://es.recuweb.com/felicidad/abc.com.py/2015/04/felicidad-paraguaya-en-otro-ranking-nacionales-abc-color",
-            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/nacionales/felicidad-paraguaya-en-otro-ranking-1359987.html"
-        },
-        "attac.es/2015/04/la-cultura-capitalista-es-anti-vida-y-felicidad-attac-espa%C3%B1a": {
-            "title": "La cultura capitalista es anti-vida y anti-felicidad ATTAC Espa\u00f1a...",
-            "snippet": "Leonardo Boff - ADITAL. La demolici\u00f3n te\u00f3rica del capitalismo como modo de producci\u00f3n comenz\u00f3 con Karl Marx y fue creciendo a lo largo de todo el siglo XX con el surgimiento del socialismo. Para realizar su prop\u00f3sito...",
-            "date": "2015-04-24",
-            "author_name": "juanluis",
-            "categories": "socialismo,capitalismo,cultura,felicidad",
-            "tags": "espa\u00f1a,vida,felicidad",
-            "recuweb_url": "http://es.recuweb.com/felicidad/attac.es/2015/04/la-cultura-capitalista-es-anti-vida-y-felicidad-attac-espa%C3%B1a",
+            "tags": "public\u00f3,naciones,son,pa\u00edses,pa\u00edses-m\u00e1s-felices,felices,mundo,onu,felicidad,mundial",
+            "recuweb_url": "http://es.recuweb.com/felicidad/pijamasurf.com/2015/04/estos-son-los-pa%C3%ADses-m%C3%A1s-felices-del-mundo-seg%C3%BAn-la-onu",
             "resource_url": "http://www.google.com/search?q=felicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://attac.es/2015/04/24/la-cultura-capitalista-es-anti-vida-y-anti-felicidad/"
-        },
-        "mejoraemocional.com/2015/04/felicidad-sin-motivo-mejora-emocional": {
-            "title": "Felicidad sin motivo Mejora Emocional...",
-            "snippet": "felicidad sin motivo. Hace pocos d\u00edas, en una clase de gimnasia, el profesor se me acerc\u00f3 y me pregunt\u00f3, \u00bfpor qu\u00e9 sonr\u00edes? Su cara extra\u00f1ada me dej\u00f3 desconcertada. Me mir\u00e9 al espejo que estaba delante de m\u00ed y s\u00ed,...",
-            "date": "2015-04-23",
-            "author_name": "Merlina Meiler",
-            "categories": "felicidad",
-            "tags": "cara,felicidad",
-            "recuweb_url": "http://es.recuweb.com/felicidad/mejoraemocional.com/2015/04/felicidad-sin-motivo-mejora-emocional",
-            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mejoraemocional.com/superacion-personal/felicidad-sin-motivo/"
+            "source_url": "http://pijamasurf.com/2015/04/estos-son-los-paises-mas-felices-del-mundo-segun-la-onu/"
         },
         "mangaland.es/2015/04/shiawase-felicidad-mangaland": {
             "title": "Shiawase (Felicidad) MangaLand...",
@@ -72,21 +83,21 @@
             "date": "2015-04-22",
             "author_name": "Marc Bernabe",
             "categories": "felicidad",
-            "tags": "felicidad,autor",
+            "tags": "felicidad,editorial,revista",
             "recuweb_url": "http://es.recuweb.com/felicidad/mangaland.es/2015/04/shiawase-felicidad-mangaland",
             "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mangaland.es/2015/04/shiawase/"
         },
-        "eluniversal.com.co/2015/04/calculan-con-cu%C3%A1nta-cantidad-de-dinero-se-logra-la-felicidad": {
-            "title": "Calculan con cu\u00e1nta cantidad de dinero se logra la felicidad...",
-            "snippet": "Aunque resulte dif\u00edcil de creer la felicidad tiene un precio, seg\u00fan descubrieron investigadores del Centro de Salud y Bienestar de la Universidad de P.",
-            "date": "2015-04-21",
-            "author_name": "lsarruf",
-            "categories": "felicidad,salud",
-            "tags": "felicidad,aunque,tiene,universidad",
-            "recuweb_url": "http://es.recuweb.com/salud/eluniversal.com.co/2015/04/calculan-con-cu%C3%A1nta-cantidad-de-dinero-se-logra-la-felicidad",
-            "resource_url": "http://www.google.com/search?q=felicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://eluniversal.com.co/salud/calculan-con-cuanta-cantidad-de-dinero-se-logra-la-felicidad-191207"
+        "taringa.net/2015/04/tu-celular-podr%C3%ADa-destruir-felicidad-en-tan-s%C3%B3lo-unos-taringa": {
+            "title": "Tu celular podr\u00eda destruir tu felicidad en tan s\u00f3lo unos - Taringa!",
+            "snippet": "CUIDADO: Tu celular podr\u00eda destruir tu felicidad en tan s\u00f3lo unos minutos. Quiz\u00e1s te vayas a sentir identificado con este peque\u00f1o corto, y es que...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "felicidad",
+            "tags": "tan,felicidad",
+            "recuweb_url": "http://es.recuweb.com/felicidad/taringa.net/2015/04/tu-celular-podr%C3%ADa-destruir-felicidad-en-tan-s%C3%B3lo-unos-taringa",
+            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/post/apuntes-y-monografias/18619504/Tu-celular-podria-destruir-tu-felicidad-en-tan-solo-unos.html"
         },
         "lizyz.blogspot.com/2015/04/el-autoconocimiento-la-aut%C3%A9ntica-clave-de-felicidad": {
             "title": "El autoconocimiento, la aut\u00e9ntica clave de la felicidad...",
@@ -94,7 +105,7 @@
             "date": "2015-04-20",
             "author_name": "(lizy)",
             "categories": "felicidad",
-            "tags": "felicidad",
+            "tags": "exclusivamente,destino,realmente,clave,felicidad",
             "recuweb_url": "http://es.recuweb.com/felicidad/lizyz.blogspot.com/2015/04/el-autoconocimiento-la-aut%C3%A9ntica-clave-de-felicidad",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=felicidad%2Bfelicidad&rss=1&lng=es",
             "source_url": "http://lizyz.blogspot.com/2015/04/el-autoconocimiento-la-autentica-clave.html"
@@ -105,21 +116,10 @@
             "date": "2015-04-19",
             "author_name": "desconocido",
             "categories": "felicidad",
-            "tags": "felicidad,son,vida",
+            "tags": "barco,felicidad,son,vida,mejor",
             "recuweb_url": "http://es.recuweb.com/felicidad/news.va/2015/04/buscaban-la-felicidad-el-papa-por-naufragio-del-barco-en-sicilia",
             "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://news.va/es/news/buscaban-la-felicidad-el-papa-por-el-naufragio-del"
-        },
-        "quo.es/2015/04/la-felicidad-se-huele-quo": {
-            "title": "La felicidad se huele - Quo...",
-            "snippet": "La felicidad se huele. Los humanos podr\u00edamos ser capaces de transmitir emociones positivas, como la felicidad, por medio de la transpiraci\u00f3n, de acuerdo con una investigaci\u00f3n publicada en Psychological Science.",
-            "date": "2015-04-17",
-            "author_name": "administrador.quo.es@hearst.es (Juan Scaliter)",
-            "categories": "felicidad",
-            "tags": "felicidad,medio",
-            "recuweb_url": "http://es.recuweb.com/felicidad/quo.es/2015/04/la-felicidad-se-huele-quo",
-            "resource_url": "http://www.google.com/search?q=felicidad%2Bfelicidad&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://quo.es/ciencia/la-felicidad-se-huele"
         }
     }
 }

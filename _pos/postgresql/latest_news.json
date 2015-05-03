@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/postgresql/",
@@ -11,6 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
+        "virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy": {
+            "title": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for... - Virtual-Strategy Magazine...",
+            "snippet": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for...Virtual-Strategy Magazine (press release)SAN FRANCISCO, CA -- (Marketwired) -- 04/29/15 -- Citus Data, creators of solutions to scale out and extend the analytics capabilities of...",
+            "date": "2015-04-29",
+            "tags": "press,press-release,release,gresql",
+            "recuweb_url": "http://es.recuweb.com/virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy",
+            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
+            "source_url": "http://virtual-strategy.com/2015/04/29/first-annual-pgconf-silicon-valley-postgresql-conference-call-speakers-now-open"
+        },
+        "channelbiz.es/2015/04/fujitsu-lanza-nuevas-soluciones-saas-para-ayudar-al-omnicanal": {
+            "title": "Fujitsu lanza nuevas soluciones SaaS para ayudar al omnicanal...",
+            "snippet": "como el soporte para el sistema de base de datos PostgreSQL y la inclusi\u00f3n, como caracter\u00edsticas est\u00e1ndar, de funciones para la recogida de productos en tienda que previamente han sido comprados en l\u00ednea. Dice un comunicado de prensa de Fujitsu...",
+            "date": "2015-04-29",
+            "tags": "prensa,soporte,base,datos,gresql",
+            "recuweb_url": "http://es.recuweb.com/channelbiz.es/2015/04/fujitsu-lanza-nuevas-soluciones-saas-para-ayudar-al-omnicanal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
+            "source_url": "http://channelbiz.es/2015/04/28/fujitsu-lanza-nuevas-soluciones-saas-para-ayudar-al-omnicanal/"
+        },
         "channelbiz.es/2015/04/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad": {
             "title": "Qmatic Orchestra R6 aborda los retos de la movilidad...",
             "snippet": "Se ha a\u00f1adido soporte para la base de datos PostgreSQL para reducir el coste total de propiedad de Orchestra. -Muchas m\u00e1s funcionalidades que ser\u00e1n anunciadas en una etapa posterior. Orchestra R6 ser\u00e1 presentado en la Conferencia de Qmatic The...",
@@ -26,7 +44,7 @@
             "snippet": "Se ha a\u00f1adido soporte para la base de datos PostgreSQL para reducir el coste total de propiedad de Orchestra. -Muchas m\u00e1s funcionalidades que ser\u00e1n anunciadas en una etapa posterior. Para Mart\u00edn Carvallo, Director General de Qmatic Espa\u00f1a...",
             "date": "2015-04-27",
             "categories": "propiedad",
-            "tags": "qmatic,funcionalidades,funcionalidades-que-ser\u00e1n,ser\u00e1n,ser\u00e1n-anunciadas,anunciadas,etapa,reducir,reducir-el-coste,coste,coste-total,total,total-de-propiedad,propiedad,a\u00f1adido,a\u00f1adido-soporte,soporte,base,datos,gresql,orchestra,erior",
+            "tags": "qmatic,funcionalidades,funcionalidades-que-ser\u00e1n,ser\u00e1n,ser\u00e1n-anunciadas,anunciadas,etapa,reducir,reducir-el-coste,coste,coste-total,total,total-de-propiedad,propiedad,a\u00f1adido,a\u00f1adido-soporte,soporte,prensa,base,datos,gresql,orchestra,erior",
             "recuweb_url": "http://es.recuweb.com/propiedad/acceso.com/2015/04/zona-notas-de-prensa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
             "source_url": "http://acceso.com/es_ES/notas-de-prensa/qmatic-anuncia-el-proximo-lanzamiento-de-orchestra-r6-para-abordar-los-retos-de-la-movilidad/101758/"
@@ -35,7 +53,7 @@
             "title": "Call for Papers, PostgreSQL Session 7, September, 24th - (press release)...",
             "snippet": "Call for Papers, PostgreSQL Session 7, September, (press release)After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to...",
             "date": "2015-04-22",
-            "tags": "features,gresql",
+            "tags": "features,press,press-release,release,gresql",
             "recuweb_url": "http://es.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release",
             "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
             "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
@@ -44,27 +62,17 @@
             "title": "DBAWSPostgreSQL - IT Leaders...",
             "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...y m\u00e1s...",
             "date": "2015-04-21",
-            "tags": "gresql,gres",
+            "tags": "database,software,gresql,gres",
             "recuweb_url": "http://es.recuweb.com/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
             "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
             "source_url": "http://it.impressbm.co.jp/articles/-/12288"
-        },
-        "abclinuxu.cz/2015/04/jak-v-postgresql-porovn%C3%A1m-sloupec-je-men%C3%AD-nebo-roven-ne": {
-            "title": "Jak v postgresql porovn\u00e1m sloupec je men\u00ed nebo roven ne... -...",
-            "snippet": "Jak v postgresql porovn\u00e1m sloupec je men\u00ed nebo roven ne.... Sna\u00edm se v PHP zobrazit seznam \u00e1dk tak, e sloupec definovan\u00fd jako timestamp without timezone mus\u00ed b\u00fdt men\u00ed nebo roven ne. Nicm\u00e9n postgresql mi po\u00e1d vrac\u00ed jen \"men\u00ed ne\". \u00e1st...",
-            "date": "2015-04-02",
-            "categories": "php",
-            "tags": "jen,gresql",
-            "recuweb_url": "http://es.recuweb.com/php/abclinuxu.cz/2015/04/jak-v-postgresql-porovn%C3%A1m-sloupec-je-men%C3%AD-nebo-roven-ne",
-            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
-            "source_url": "http://abclinuxu.cz/poradna/databaze/show/402861"
         },
         "infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape": {
             "title": "PostgreSQL advances in the JSON datastore landscape -...",
             "snippet": "PostgreSQL advances in the JSON datastore the other hand, relational databases are also evolving, with PostgreSQL getting more and more features inspired but the non relational world. Since version 9.2 Postgres supports the new JSON datatype and...",
             "date": "2015-04-02",
             "categories": "json",
-            "tags": "gres,features,gresql",
+            "tags": "gres,features,gresql,version",
             "recuweb_url": "http://es.recuweb.com/json/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
             "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
             "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"

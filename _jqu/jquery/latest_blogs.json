@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/jquery/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
-        "softandapps.info/2015/04/manual-de-jquery-mobile-gratuito-y-en-espa%C3%B1ol-soft-&-apps": {
-            "title": "Manual de jQuery Mobile gratuito y en espa\u00f1ol - Soft & Apps...",
-            "snippet": "Un excelente manual de jQuery Mobile en espa\u00f1ol para aprender el uso de este framework para el desarrollo de aplicaciones web para los dispositivos m\u00f3viles.",
+        "html5facil.com/2015/04/una-alternativa-a-jquery-en-solo-5kb-html5-f%C3%A1cil": {
+            "title": "una alternativa a JQuery en solo 5KB - HTML5 F\u00e1cil...",
+            "snippet": "Compatible con los conocimientos de JQuery que ya tienes y con gran aumento en el rendimiento, es una buena alternativa para la mejora en la web.",
             "date": "2015-04-23",
-            "author_name": "Juan Luis Berm\u00fadez",
-            "categories": "jquery",
-            "tags": "dispositivos,dispositivos-m\u00f3viles,m\u00f3viles,desarrollo,desarrollo-de-aplicaciones,aplicaciones,jquery,jquery_mobile,mobile,uso,web",
-            "recuweb_url": "http://es.recuweb.com/jquery/softandapps.info/2015/04/manual-de-jquery-mobile-gratuito-y-en-espa%C3%B1ol-soft-&-apps",
+            "author_name": "Luis Antonio Gomez Prieto",
+            "categories": "conocimiento,jquery,html",
+            "tags": "jquery,html,web",
+            "recuweb_url": "http://es.recuweb.com/html/html5facil.com/2015/04/una-alternativa-a-jquery-en-solo-5kb-html5-f%C3%A1cil",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://softandapps.info/2015/04/23/manual-de-jquery-mobile-gratuito-y-en-espanol/"
+            "source_url": "http://html5facil.com/tips/sprint-js-alternativa-jquery-solo-5kb/"
         },
         "4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r": {
             "title": "Mootools vs. jQuery: eligiendo la mejor biblioteca de JavaScript 4r...",
@@ -28,7 +28,7 @@
             "date": "2015-04-22",
             "author_name": "seoguru",
             "categories": "lenguaje,jquery,javascript",
-            "tags": "desarrollo,desarrollo-de-aplicaciones,aplicaciones,jquery,javascript",
+            "tags": "jquery,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/4rsoluciones.com/2015/04/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript-4r",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://4rsoluciones.com/mootools-vs-jquery-eligiendo-la-mejor-biblioteca-de-javascript/"
@@ -39,21 +39,43 @@
             "date": "2015-04-21",
             "author_name": "Miguel Tabernero",
             "categories": "jquery",
-            "tags": "tenemos,serie,mediante,jquery,contenido",
+            "tags": "tenemos,serie,mediante,jquery",
             "recuweb_url": "http://es.recuweb.com/jquery/migtaber.wordpress.com/2015/04/modificaci%C3%B3n-de-metas-mediante-jquery",
             "resource_url": "http://es.search.wordpress.com/?q=jquery%2Bjquery&f=feed&page=1",
             "source_url": "http://migtaber.wordpress.com/2015/04/21/modificacion-de-metas-mediante-jquery/"
         },
-        "blog.collectivecloudperu.com/2015/04/compartir-contenido-en-whatsapp-usando-jquery-blog-ccp": {
-            "title": "Compartir contenido en Whatsapp usando jQuery. Blog CCP...",
-            "snippet": "En esta oportunidad les quiero mostrar como compartir un enlance por Whatsapp mediante uno de los mejores frameworks de javascript (jQuery). NOTA: Para ver la demo, necesitas abrirla desde tu dispositivo m\u00f3vil que...",
+        "arielmax.com.ar/2015/04/47-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
+            "title": "47 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
+            "snippet": "Tutorial 47 del curso de Jquery, en este tutorial veremos como navegar entre p\u00e1ginas utilizando Jquery mobile.!DOCTYPE html html lang=\"es\" head meta charset=\"utf-8\" meta...",
             "date": "2015-04-20",
-            "author_name": "Juan Ricardo Castro Lurita",
-            "categories": "jquery,javascript",
-            "tags": "mediante,mostrar,compartir,contenido,usando,jquery,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/blog.collectivecloudperu.com/2015/04/compartir-contenido-en-whatsapp-usando-jquery-blog-ccp",
-            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.collectivecloudperu.com/como-compartir-contenido-en-whatsapp-usando-jquery/"
+            "author_name": "ArielMax",
+            "categories": "html,jquery",
+            "tags": "html,html-lang,lang,p\u00e1ginas,utilizando,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,doctype",
+            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/47-cursos-de-jquery-mobile-arielmax-2015-v5-0",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arielmax.com.ar/47-cursos-de-jquery-jquery-mobile/"
+        },
+        "arielmax.com.ar/2015/04/48-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
+            "title": "48 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
+            "snippet": "Tutorial 48 del curso de Jquery, en este video tutorial veremos como agregar efectos de transici\u00f3n entre p\u00e1ginas, tambi\u00e9n veremos como crear ventanas de dialogo todo esto en Jquery-mobile.",
+            "date": "2015-04-20",
+            "author_name": "ArielMax",
+            "categories": "jquery",
+            "tags": "ventanas,agregar,p\u00e1ginas,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,crear",
+            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/48-cursos-de-jquery-mobile-arielmax-2015-v5-0",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arielmax.com.ar/48-cursos-de-jquery-jquery-mobile/"
+        },
+        "arielmax.com.ar/2015/04/49-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
+            "title": "49 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
+            "snippet": "Tutorial 49 del curso de Jquery, en este tutorial veremos como a\u00f1adir botones al header y al footer de una p\u00e1gina en jquery-mobile, adem\u00e1s de personalizar el los botones del footer..",
+            "date": "2015-04-20",
+            "author_name": "ArielMax",
+            "categories": "jquery",
+            "tags": "adem\u00e1s,p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,veremos",
+            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/49-cursos-de-jquery-mobile-arielmax-2015-v5-0",
+            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://arielmax.com.ar/49-cursos-de-jquery-jquery-mobile/"
         },
         "wannabe-programmer.blogspot.com/2015/04/el-programador-subest%C3%A1ndar-insertar-jquery-con-la-consola": {
             "title": "El programador subest\u00e1ndar: Insertar JQuery con la consola de...",
@@ -66,24 +88,13 @@
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wannabe-programmer.blogspot.com/2015/04/insertar-jquery-con-la-consola-de-chrome.html"
         },
-        "arielmax.com.ar/2015/04/44-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
-            "title": "44 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
-            "snippet": "Tutorial 44 del curso de jquery, en este tutorial nos adentramos a la utilizaci\u00f3n de una de las extensiones de jquery, llamada (Jquery Mobile) orienta al dise\u00f1o de interfaces de usuario para dispositivos m\u00f3viles, similar a...",
-            "date": "2015-04-13",
-            "author_name": "ArielMax",
-            "categories": "jquery",
-            "tags": "dise\u00f1o,dise\u00f1o-de-interfaces,interfaces,interfaces-de-usuario,usuario,dispositivos,dispositivos-m\u00f3viles,m\u00f3viles,jquery,jquery_mobile,mobile,cursos,curso,arielmax,tutorial",
-            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/44-cursos-de-jquery-mobile-arielmax-2015-v5-0",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arielmax.com.ar/44-cursos-de-jquery-jquery-mobile/"
-        },
         "arielmax.com.ar/2015/04/45-cursos-de-jquery-mobile-arielmax-2015-v5-0": {
             "title": "45 Cursos de JQuery Jquery-mobile ArielMax 2015 v5.0...",
             "snippet": "Tutorial 45 del curso de Jquery en este tutorial veremos la estructura de una p\u00e1gina en jquery-mobile para ello utilizaremos los atributos (data-role)..!DOCTYPE html html lang=\"es\"...",
             "date": "2015-04-13",
             "author_name": "ArielMax",
             "categories": "html,jquery",
-            "tags": "html,mobile,p\u00e1gina,jquery,cursos,curso,arielmax,tutorial,veremos,doctype",
+            "tags": "html,html-lang,lang,mobile,p\u00e1gina,jquery,cursos,curso,arielmax,tutorial,veremos,doctype",
             "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/45-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/45-cursos-de-jquery-jquery-mobile/"
@@ -94,32 +105,21 @@
             "date": "2015-04-13",
             "author_name": "ArielMax",
             "categories": "jquery,html",
-            "tags": "insertar,p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,doctype,html",
+            "tags": "adem\u00e1s,insertar,p\u00e1gina,jquery,cursos,curso,mobile,arielmax,tutorial,veremos,doctype,html",
             "recuweb_url": "http://es.recuweb.com/html/arielmax.com.ar/2015/04/46-cursos-de-jquery-mobile-arielmax-2015-v5-0",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://arielmax.com.ar/46-cursos-de-jquery-jquery-mobile/"
         },
-        "arielmax.com.ar/2015/04/42-cursos-de-jquery-ui-arielmax-2015-v5-0": {
-            "title": "42 Cursos de JQuery Jquery-UI ArielMax 2015 v5.0...",
-            "snippet": "Tutorial 42 del curso de JQuery, en este tutorial veremos el widget tabs de jquery-ui, que nos permite crear una interfaz de navegaci\u00f3n por pesta\u00f1as, apropiado para simplificar contenido en un sitio web..",
-            "date": "2015-04-06",
-            "author_name": "ArielMax",
-            "categories": "jquery",
-            "tags": "sitio,jquery,cursos,curso,arielmax,tutorial,veremos,crear,contenido,web",
-            "recuweb_url": "http://es.recuweb.com/jquery/arielmax.com.ar/2015/04/42-cursos-de-jquery-ui-arielmax-2015-v5-0",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://arielmax.com.ar/42-cursos-de-jquery-jquery-ui/"
-        },
-        "desarrolloweb.com/2015/03/scroll-en-jquery": {
-            "title": "Scroll en jQuery -...",
-            "snippet": "Una de las facetas t\u00edpicas donde podemos sacar un buen partido de jQuery es trabajando con las propiedades de scroll de la ventana o los elementos. Para realizaci\u00f3n de interfaces de usuario y para la interacci\u00f3n con el...",
-            "date": "2015-03-02",
-            "author_name": "desconocido",
-            "categories": "propiedad,jquery",
-            "tags": "interfaces,interfaces-de-usuario,usuario,jquery",
-            "recuweb_url": "http://es.recuweb.com/jquery/desarrolloweb.com/2015/03/scroll-en-jquery",
-            "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://desarrolloweb.com/articulos/scroll-posibilidades-en-jquery.html"
+        "drupalmexico.com/2015/04/visualizaci%C3%B3n-de-el-jquery-que-se-usa-en-drupal-8-m%C3%A9xico": {
+            "title": "Visualizaci\u00f3n de el Jquery que se usa en Drupal 8 Drupal M\u00e9xico...",
+            "snippet": "En el blog de Th\u00e9odore Biadala Se puede encontrar esta visualizaci\u00f3n de Jquery que usa Drupal 8, en su caso creo que esos datos los esta usando para sustentar su idea de no depender tanto de jquery dentro de Drupal.",
+            "date": "2015-04-07",
+            "author_name": "admin",
+            "categories": "jquery,drupal",
+            "tags": "datos,puede,jquery,usando",
+            "recuweb_url": "http://es.recuweb.com/drupal/drupalmexico.com/2015/04/visualizaci%C3%B3n-de-el-jquery-que-se-usa-en-drupal-8-m%C3%A9xico",
+            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://drupalmexico.com/es/visualizaci\u00f3n-el-jquery-que-se-usa-drupal-8"
         }
     }
 }

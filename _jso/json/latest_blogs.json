@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/json/",
@@ -17,7 +17,7 @@
             "date": "2015-04-15",
             "author_name": "Paloma Verdejo Herreras",
             "categories": "javascript,json",
-            "tags": "objeto,javascript,json",
+            "tags": "objeto,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json",
             "recuweb_url": "http://es.recuweb.com/json/mundogeomatica.blogspot.com/2015/04/geom%C3%A1tica-json-javascript-object-notation",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://mundogeomatica.blogspot.com/2015/04/json-javascript-object-notation.html"
@@ -28,7 +28,7 @@
             "date": "2015-04-03",
             "author_name": "Miguel Catalan Ba\u00f1uls",
             "categories": "json,java",
-            "tags": "forma,manera,trabajar,clases,utilizar,geeky,geeky_theory,theory,trabajando,json,android,gson,hace,java",
+            "tags": "manera,trabajar,utilizar,geeky,geeky_theory,theory,trabajando,json,android,gson,hace,java",
             "recuweb_url": "http://es.recuweb.com/java/geekytheory.com/2015/04/trabajando-con-json-en-android-gson-geeky-theory",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geekytheory.com/trabajando-con-json-en-android-gson/"
@@ -39,7 +39,7 @@
             "date": "2015-04-01",
             "author_name": "CybMeta",
             "categories": "json,php,javascript,jquery",
-            "tags": "biblioteca,vamos,trabajar,tiempo,ajax,json,php,javascript,hace,tutorial,jquery,utilizando",
+            "tags": "biblioteca,vamos,trabajar,tutorial,ajax,json,php,javascript,hace,jquery,utilizando",
             "recuweb_url": "http://es.recuweb.com/jquery/cybmeta.com/2015/04/ajax-con-json-y-php-javascript-puro-cybmeta",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cybmeta.com/ajax-con-json-y-php-con-javascript-puro/"
@@ -50,19 +50,19 @@
             "date": "2015-03-24",
             "author_name": "Javier Perez",
             "categories": "json,google",
-            "tags": "contenido,puedes,utilizar,f\u00e1cil,web,desarrollar,json,formato,datos,google,b\u00fasqueda,ejemplo",
+            "tags": "puedes,utilizar,formato,f\u00e1cil,web,desarrollar,json,datos,estructurados,google",
             "recuweb_url": "http://es.recuweb.com/google/googlewebmaster-es.blogspot.com/2015/03/desarrollar-tu-sitio-web-es-f%C3%A1cil-con-components-y-json-ld",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://googlewebmaster-es.blogspot.com/2015/03/desarrollar-tu-sitio-web-es-facil-con.html"
         },
         "geekytheory.com/2015/03/trabajando-con-json-en-android-geeky-theory": {
             "title": "Trabajando con JSON en Android Geeky Theory...",
-            "snippet": "No es la primera vez que os hablamos de JSON, nuestro querido Alejandro ya lo coment\u00f3 en su momento en este tutorial para PHP. Esta vez pretendo dar un peque\u00f1o resumen de c\u00f3mo se trabajar\u00eda con Android para leer...",
+            "snippet": "Vemos lo sencillo que es trabajar con JSON en Android donde pasamos de una cadena JSON a un Objeto propio con el que trabajar dentro de nuestro c\u00f3digo.",
             "date": "2015-03-20",
             "author_name": "Miguel Catalan Ba\u00f1uls",
-            "categories": "json,php",
-            "tags": "leer,c\u00f3mo,android,geeky,geeky_theory,theory,trabajando,json,tutorial,php",
-            "recuweb_url": "http://es.recuweb.com/php/geekytheory.com/2015/03/trabajando-con-json-en-android-geeky-theory",
+            "categories": "json",
+            "tags": "trabajar,c\u00f3digo,android,geeky,geeky_theory,theory,trabajando,json,objeto",
+            "recuweb_url": "http://es.recuweb.com/json/geekytheory.com/2015/03/trabajando-con-json-en-android-geeky-theory",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geekytheory.com/trabajando-con-json-en-android/"
         },
@@ -72,7 +72,7 @@
             "date": "2015-02-26",
             "author_name": "Cecilio \u00c1lvarez",
             "categories": "json",
-            "tags": "herramienta,archivos,json,formato",
+            "tags": "herramienta,edici\u00f3n,json,formato,importante",
             "recuweb_url": "http://es.recuweb.com/json/genbetadev.com/2015/02/edici%C3%B3n-de-archivos-json-online-genbeta-dev",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://genbetadev.com/desarrollo-web/edicion-de-archivos-json-online"
@@ -83,7 +83,7 @@
             "date": "2015-01-28",
             "author_name": "ana2lp",
             "categories": "json,javascript,xml",
-            "tags": "intercambio,usar,vamos,json,objetos,javascript,xml,formato",
+            "tags": "formato,intercambio,usar,vamos,json,objetos,javascript,xml",
             "recuweb_url": "http://es.recuweb.com/xml/analoyo.wordpress.com/2015/01/json-qu%C3%A9-es-eso",
             "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
             "source_url": "http://analoyo.wordpress.com/2015/01/28/json-que-es-eso/"
@@ -94,7 +94,7 @@
             "date": "2015-01-24",
             "author_name": "James Revelo",
             "categories": "json,java",
-            "tags": "objetos,aprender,convertir,aplicaci\u00f3n,c\u00f3mo,leer,datos,json,android,gson,java",
+            "tags": "objetos,aprender,leer,datos,json,android,gson,formas,java",
             "recuweb_url": "http://es.recuweb.com/java/hermosaprogramacion.com/2015/01/parsear-datos-json-en-android-con-jsonreader-y-gson",
             "resource_url": "http://www.google.com/search?q=json%2Bjson&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hermosaprogramacion.com/2015/01/android-json-parsing.html"
@@ -116,7 +116,7 @@
             "date": "2014-10-11",
             "author_name": "diegolopezdsdupc",
             "categories": "xml,json",
-            "tags": "xml,json",
+            "tags": "puede,xml,json",
             "recuweb_url": "http://es.recuweb.com/json/diegolopezdsdupc.wordpress.com/2014/10/popularidad-de-xml-y-json",
             "resource_url": "http://es.search.wordpress.com/?q=json%2Bjson&f=feed&page=1",
             "source_url": "http://diegolopezdsdupc.wordpress.com/2014/10/11/xml-and-json/"

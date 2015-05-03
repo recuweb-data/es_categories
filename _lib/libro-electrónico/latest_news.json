@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "libro-electr\u00f3nico",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/libro-electr\u00f3nico/",
@@ -11,29 +11,58 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/libro-electr%C3%B3nico/libro-electr%C3%B3nico/blogs.json"
     },
     "items": {
-        "es.euronews.com/2015/04/cuando-la-traducci%C3%B3n-se-convierte-en-arte-euronews": {
-            "title": "Cuando la traducci\u00f3n se convierte en arte - euronews...",
-            "snippet": "euronewsCuando la traducci\u00f3n se convierte en arteeuronewsEl proyecto de traducci\u00f3n tambi\u00e9n incluye libros electr\u00f3nicos. Y No s\u00f3lo se queda en la publicaci\u00f3n. Michaela Velkov\u00e1 es la coordinadora del proyecto. Ella comenta: Nosotros, al igual...",
-            "date": "2015-04-27",
-            "tags": "s\u00f3lo,libros,electr\u00f3nicos",
-            "recuweb_url": "http://es.recuweb.com/es.euronews.com/2015/04/cuando-la-traducci%C3%B3n-se-convierte-en-arte-euronews",
+        "es.finance.yahoo.com/2015/05/la-industria-china-vuelve-a-mostrar-expansi%C3%B3n-en-abril-yahoo-finanzas": {
+            "title": "La industria china vuelve a mostrar expansi\u00f3n en abril - Yahoo Finanzas Espa\u00f1a...",
+            "snippet": "Yahoo Finanzas Espa\u00f1aLa industria china vuelve a mostrar expansi\u00f3n en abrilYahoo Finanzas Espa\u00f1aLa industria china vuelve a mostrar expansi\u00f3n en abril. Agencia EFE Hace 13 horas. Una trabajadora se dedica al montaje de libros electr\u00f3nicos en...",
+            "date": "2015-05-01",
+            "categories": "yahoo",
+            "tags": "finanzas,industria,yahoo,yahoo_finanzas,yahoo_finanzas_espa\u00f1a,finanzas_espa\u00f1a,espa\u00f1a,libros,electr\u00f3nicos",
+            "recuweb_url": "http://es.recuweb.com/yahoo/es.finance.yahoo.com/2015/05/la-industria-china-vuelve-a-mostrar-expansi%C3%B3n-en-abril-yahoo-finanzas",
             "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico&output=atom&nord=1",
-            "source_url": "http://es.euronews.com/2015/04/27/cuando-la-traduccion-se-convierte-en-arte/"
+            "source_url": "http://es.finance.yahoo.com/noticias/industria-china-vuelve-mostrar-expansi\u00f3n-abril-065807292--sector.html"
+        },
+        "es.noticias.yahoo.com/2015/04/obama-anunciar%C3%A1-plan-de-miles-libros-electr%C3%B3nicos-para-ni%C3%B1os-con-yahoo": {
+            "title": "Obama anunciar\u00e1 plan de miles libros electr\u00f3nicos para ni\u00f1os con... - Yahoo Finanzas Espa\u00f1a...",
+            "snippet": "HoyEnTECObama anunciar\u00e1 plan de miles libros electr\u00f3nicos para ni\u00f1os con...Yahoo Finanzas Espa\u00f1aWASHINGTON (Reuters) - El presidente de Estados Unidos, Barack Obama, visitar\u00e1 el jueves una biblioteca p\u00fablica situada en uno de los barrios m\u00e1s...",
+            "date": "2015-04-30",
+            "categories": "yahoo",
+            "tags": "jueves,biblioteca,estados,estados_unidos,unidos,presidente,yahoo,yahoo_finanzas,finanzas,yahoo_finanzas_espa\u00f1a,finanzas_espa\u00f1a,espa\u00f1a,plan,obama,libros,electr\u00f3nicos,barack",
+            "recuweb_url": "http://es.recuweb.com/yahoo/es.noticias.yahoo.com/2015/04/obama-anunciar%C3%A1-plan-de-miles-libros-electr%C3%B3nicos-para-ni%C3%B1os-con-yahoo",
+            "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico&output=atom&nord=1",
+            "source_url": "http://es.noticias.yahoo.com/obama-anunciar\u00e1-plan-miles-libros-electr\u00f3nicos-ni\u00f1os-recursos-121517945--finance.html"
+        },
+        "noticias.terra.com/2015/04/obama-presenta-plan-para-facilitar-libros-electr%C3%B3nicos-a-estudiantes": {
+            "title": "Obama presenta plan para facilitar libros electr\u00f3nicos a estudiantes... -...",
+            "snippet": "NTN24Obama presenta plan para facilitar libros electr\u00f3nicos a estudiantes... presidente de Estados Unidos, Barack Obama, visit\u00f3 hoy una biblioteca de Washington para anunciar una iniciativa, dotada con m\u00e1s de 250 millones de d\u00f3lares, que...",
+            "date": "2015-04-30",
+            "tags": "millones,biblioteca,estados,estados_unidos,unidos,presidente,plan,obama,libros,electr\u00f3nicos,barack",
+            "recuweb_url": "http://es.recuweb.com/noticias.terra.com/2015/04/obama-presenta-plan-para-facilitar-libros-electr%C3%B3nicos-a-estudiantes",
+            "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&output=atom&nord=1",
+            "source_url": "http://noticias.terra.com/eeuu/obama-presenta-plan-para-facilitar-libros-electronicos-a-estudiantes-pobres,5ea8f7c9c2c0d410VgnCLD200000b1bf46d0RCRD.html"
+        },
+        "larepublica.ec/2015/04/am%C3%A9rica-latina-dar%C3%A1-el-gran-salto-al-libro-digital": {
+            "title": "Am\u00e9rica Latina dar\u00e1 el gran salto al libro digital de aqu\u00ed al 2020 - La Rep\u00fablica Ecuador...",
+            "snippet": "La Rep\u00fablica EcuadorAm\u00e9rica Latina dar\u00e1 el gran salto al libro digital de aqu\u00ed al 2020La Rep\u00fablica EcuadorBookwire ha entendido el potencial para el libro electr\u00f3nico que tiene Am\u00e9rica Latina, donde la gente lee pocos libros en papel pero...",
+            "date": "2015-04-28",
+            "tags": "papel,tiene,digital,libros,electr\u00f3nico",
+            "recuweb_url": "http://es.recuweb.com/larepublica.ec/2015/04/am%C3%A9rica-latina-dar%C3%A1-el-gran-salto-al-libro-digital",
+            "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico&output=atom&nord=1",
+            "source_url": "http://larepublica.ec/blog/vida-estilo/2015/04/28/america-latina-dara-el-gran-salto-al-libro-digital-de-aqui-al-2020/"
         },
         "dinero.com/2015/04/la-era-de-los-libros-digitales": {
             "title": "\u00bfLa era de los libros digitales? -...",
             "snippet": "\u00bfLa era de los libros digitales? Las ventas de libros electr\u00f3nicos en el mundo han crecido paralelamente a las de los dispositivos de lectura consolidando un fen\u00f3meno que se extiende cada d\u00eda m\u00e1s. En 2010 se vendieron en el mundo 17 millones...",
             "date": "2015-04-26",
-            "tags": "lectura,d\u00eda,ventas,libros,electr\u00f3nicos",
+            "tags": "lectura,d\u00eda,ventas,libros,electr\u00f3nicos,millones",
             "recuweb_url": "http://es.recuweb.com/dinero.com/2015/04/la-era-de-los-libros-digitales",
-            "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&output=atom&nord=1",
             "source_url": "http://dinero.com/pais/articulo/como-avanza-libros-digitales/207977"
         },
         "es.paperblog.com/2015/04/c%C3%B3mo-ahorrarse-30-euros-comprando-su-libro-electr%C3%B3nico-con-iluminaci%C3%B3n-integrada": {
             "title": "C\u00f3mo ahorrarse 30 euros comprando su libro electr\u00f3nico con iluminaci\u00f3n integrada!pero s\u00f3lo hoy!",
             "snippet": "Pues en efecto aprovechando el d\u00eda del libro,Amazon Espa\u00f1a ha hecho este fenomenal descuento s\u00f3lo hoy de 30 euros al comprar el kindle paperwhite (es decir la versi\u00f3n con luz integrada) que pasar\u00e1 a costar s\u00f3lo hoy Jueves 23 de...",
             "date": "2015-04-25",
-            "tags": "s\u00f3lo,d\u00eda,c\u00f3mo,libro,electr\u00f3nico",
+            "tags": "espa\u00f1a,d\u00eda,c\u00f3mo,libro,electr\u00f3nico,jueves",
             "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/04/c%C3%B3mo-ahorrarse-30-euros-comprando-su-libro-electr%C3%B3nico-con-iluminaci%C3%B3n-integrada",
             "resource_url": "http://www.bing.com/news/search?first=1&q=libro%2Belectr%C3%B3nico&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/como-ahorrarse-30-euros-comprando-su-libro-electronico-con-iluminacion-integrada-pero-solo-hoy-3176054/"
@@ -53,26 +82,17 @@
             "snippet": "A\u00fan hay muchos amantes del papel y el libro f\u00edsico, con sus razones, pero el libro electr\u00f3nico tiene muchas virtudes, entre ellas el poco espacio que ocupa en las estanter\u00edas y que puedes transportar pr\u00e1cticamente una biblioteca a cualquier...",
             "date": "2015-04-24",
             "categories": "iphone,ipad",
-            "tags": "tiene,papel,libro,libro_electr\u00f3nico,electr\u00f3nico,c\u00f3mo",
+            "tags": "biblioteca,tiene,papel,libro,libro_electr\u00f3nico,electr\u00f3nico,c\u00f3mo",
             "recuweb_url": "http://es.recuweb.com/ipad/ipadizate.es/2015/04/c%C3%B3mo-regalar-un-libro-electr%C3%B3nico-para-iphone-y-ipad",
             "resource_url": "http://www.bing.com/news/search?first=1&q=libro%2Belectr%C3%B3nico&format=RSS&cc=es",
             "source_url": "http://ipadizate.es/2015/04/24/como-regalar-libro-electronico-iphone-ipad/"
-        },
-        "economiahoy.mx/2015/04/diez-webs-para-descargar-libros-electr%C3%B3nicos-gratis-y-de-forma-legal": {
-            "title": "Diez webs para descargar libros electr\u00f3nicos gratis y de forma legal - Econom\u00ed...",
-            "snippet": "Econom\u00ed webs para descargar libros electr\u00f3nicos gratis y de forma legalEconom\u00ed libro electr\u00f3nico ha acabado imponi\u00e9ndose entre los h\u00e1bitos de lectura de los espa\u00f1oles, sin embargo, uno de los principales problemas con los que se encuentran...",
-            "date": "2015-04-23",
-            "tags": "lectura,gratis,descargar,libros,libro,electr\u00f3nicos,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/economiahoy.mx/2015/04/diez-webs-para-descargar-libros-electr%C3%B3nicos-gratis-y-de-forma-legal",
-            "resource_url": "http://news.google.es/?hl=es&q=libro%2Belectr%C3%B3nico%2Blibro%2Belectr%C3%B3nico&output=atom&nord=1",
-            "source_url": "http://economiahoy.mx/sociedad-eAm-mexico/noticias/6654238/04/15/Diez-webs-para-descargar-libros-electronicos-gratis-y-de-forma-legal.html"
         },
         "expansion.com/2015/04/el-libro-electr%C3%B3nico-no-puede-con-papel": {
             "title": "El libro electr\u00f3nico no puede con el papel...",
             "snippet": "Tras a\u00f1os de euforia el mercado editorial digital pierde fuelle. Las ventas de libros electr\u00f3nicos se han enfriado y los lectores de tinta electr\u00f3nica languidecen frente a las tabletas. La industria editorial ve en la pirater\u00eda un mal creciente.",
             "date": "2015-04-23",
             "categories": "electronica",
-            "tags": "editorial,ventas,mercado,mercado-editorial,digital,papel,libros,electr\u00f3nicos",
+            "tags": "industria,lectores,ventas,mercado,digital,papel,libros,electr\u00f3nicos",
             "recuweb_url": "http://es.recuweb.com/electronica/expansion.com/2015/04/el-libro-electr%C3%B3nico-no-puede-con-papel",
             "resource_url": "http://www.bing.com/news/search?first=1&q=libro%2Belectr%C3%B3nico&format=RSS&cc=es",
             "source_url": "http://expansion.com/multimedia/videos.html?media=jJu10eLgJ6j"
@@ -85,24 +105,6 @@
             "recuweb_url": "http://es.recuweb.com/elsiglodetorreon.com.mx/2015/04/el-libro-electr%C3%B3nico-una-opci%C3%B3n-para-disfrutar-de-la-lectura",
             "resource_url": "http://www.bing.com/news/search?first=1&q=libro%2Belectr%C3%B3nico&format=RSS&cc=es",
             "source_url": "http://elsiglodetorreon.com.mx/noticia/1108268.el-libro-electronico-una-opcion-para-disfrutar-de-la-lectura.html"
-        },
-        "elmundo.es/2015/04/el-libro-sigue-siendo-de-papel": {
-            "title": "El libro sigue siendo de papel...",
-            "snippet": "Algo inesperado est\u00e1 pasando en el mercado editorial. Tras a\u00f1os de apuesta por el libro electr\u00f3nico, el futuro que parec\u00eda inevitable: el triunfo del libro digital sobre el anal\u00f3gico no termina de cuajar. Varias cadenas de librer\u00edas y...",
-            "date": "2015-04-23",
-            "tags": "digital,mercado,mercado-editorial,editorial,papel,libro,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/elmundo.es/2015/04/el-libro-sigue-siendo-de-papel",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=libro%2Belectr%C3%B3nico&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/tecnologia/2015/04/23/5538ca01268e3e1b378b456d.html"
-        },
-        "torreviejaip.tv/2015/04/torrevieja-conmemora-el-d%C3%ADa-del-libro-presentando-la-plataforma-de-pr%C3%A9stamo": {
-            "title": "Torrevieja conmemora el D\u00eda del Libro presentando la plataforma de pr\u00e9stamo de libro electr\u00f3nico...",
-            "snippet": "Ayer se conmemor\u00f3 el D\u00eda Internacional del Libro. En Torrevieja se aprovech\u00f3 esta fecha destacada para entregar los premios del 19 Certamen Pict\u00f3rico-Literario de la Feria del Libro y tambi\u00e9n para presentar la plataforma de pr\u00e9stamo de...",
-            "date": "2015-04-23",
-            "tags": "d\u00eda,libro,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/torreviejaip.tv/2015/04/torrevieja-conmemora-el-d%C3%ADa-del-libro-presentando-la-plataforma-de-pr%C3%A9stamo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=libro%2Belectr%C3%B3nico&format=RSS&cc=es",
-            "source_url": "http://torreviejaip.tv/cultura/2015042417391/torrevieja-conmemora-el-dia-del-libro-presentando-la-plataforma-de-prestamo-de-libro-electronico.html"
         }
     }
 }

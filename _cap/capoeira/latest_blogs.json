@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "capoeira",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/capoeira/",
@@ -11,13 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/capoeira/capoeira/blogs.json"
     },
     "items": {
+        "librosyletras.com/2015/05/taller-de-capoeira-libros-y-letras-noticias-culturales-literatura": {
+            "title": "Taller de capoeira Libros y Letras Noticias Culturales: Literatura y...",
+            "snippet": "Bogot\u00e1. IBRACO lo invita a disfrutar el pr\u00f3ximo martes 5 de mayo de una clase de Capoeira, el arte marcial m\u00e1s completo que existe. Viva la cultura de Brasil dentro de una din\u00e1mica de cantos y coros propios de esta pr\u00e1ctica...",
+            "date": "2015-05-01",
+            "author_name": "Libros y Letras",
+            "categories": "cultura,arte-marcial,capoeira,literatura",
+            "tags": "cultura,arte,arte-marcial,marcial,pr\u00f3ximo,letras,capoeira,bogot\u00e1,brasil",
+            "recuweb_url": "http://es.recuweb.com/literatura/librosyletras.com/2015/05/taller-de-capoeira-libros-y-letras-noticias-culturales-literatura",
+            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://librosyletras.com/2015/05/taller-de-capoeira.html"
+        },
+        "capoeirabrasilbogota.wordpress.com/2015/04/disfruta-de-cinco-ebooks-capoeira-brasil-bogot%C3%A1": {
+            "title": "Disfruta de cinco eBooks de Capoeira Capoeira Brasil-Bogot\u00e1...",
+            "snippet": "O livro Capoeira: a circularidade do saber na escola articula saberes da capoeira, como a hist\u00f3ria, a m\u00fasica, o corpo, as produ\u00e7\u00f5es, reflex\u00f5es e a\u00e7\u00f5es dessa arte de uma forma complexa e significativa. Tenho certeza de que...",
+            "date": "2015-04-23",
+            "author_name": "gcbbogota",
+            "categories": "capoeira",
+            "tags": "arte,m\u00fasica,capoeira,capoeira_brasil,brasil,bogot\u00e1",
+            "recuweb_url": "http://es.recuweb.com/capoeira/capoeirabrasilbogota.wordpress.com/2015/04/disfruta-de-cinco-ebooks-capoeira-brasil-bogot%C3%A1",
+            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://capoeirabrasilbogota.wordpress.com/2015/04/23/dia-del-libro-disfruta-de-cinco-ebooks-de-capoeira/"
+        },
         "plazaeliptica.com/2015/04/evento-de-capoeira-maculel%C3%AA-y-samba-en-plaza-el%C3%ADptica-centro": {
             "title": "Evento de Capoeira, Maculel\u00ea y Samba en Plaza El\u00edptica Centro...",
             "snippet": "Evento de Capoeira, Maculel\u00ea y Samba en Plaza El\u00edptica. No os perd\u00e1is el pr\u00f3ximo domingo 26 de abril a las 11 horas, el espectacular evento de exhibiciones de Capoeira, Maculel\u00ea o Samba de Roda en nuestro Centro.",
             "date": "2015-04-17",
             "author_name": "plazaeliptica",
             "categories": "capoeira",
-            "tags": "centro,capoeira,samba,horas",
+            "tags": "evento,pr\u00f3ximo,centro,capoeira,samba",
             "recuweb_url": "http://es.recuweb.com/capoeira/plazaeliptica.com/2015/04/evento-de-capoeira-maculel%C3%AA-y-samba-en-plaza-el%C3%ADptica-centro",
             "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://plazaeliptica.com/agenda/evento-de-capoeira-maculele-y-samba-en-plaza-eliptica/"
@@ -28,10 +50,21 @@
             "date": "2015-04-16",
             "author_name": "Sagrados Corazones",
             "categories": "capoeira",
-            "tags": "hacer,concurso,premios,acudieron,miembros,capoeira,adem\u00e1s",
+            "tags": "concurso,premios,capoeira,acudieron",
             "recuweb_url": "http://es.recuweb.com/capoeira/santodomingosagradoscorazones.blogspot.com/2015/04/asprodema-capoeira-colegio-sagrados-corazones",
             "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://santodomingosagradoscorazones.blogspot.com/2015/04/asprodema-capoeira.html"
+        },
+        "radazulsportcenter.es/2015/04/exhibici%C3%B3n-de-capoeira-radazul-sport-center": {
+            "title": "Exhibici\u00f3n de capoeira - Radazul Sport Center...",
+            "snippet": "Exhibici\u00f3n de capoeira. \u00a1Radazul Sport Center sigue creciendo! Por eso ofrecemos nuevas actividades, pensadas para que te diviertas con nosotros en el mejor ambiente de Radazul. El s\u00e1bado 18 a las 12:45 presentamos...",
+            "date": "2015-04-16",
+            "author_name": "Radazul Sport Center",
+            "categories": "capoeira",
+            "tags": "center,exhibici\u00f3n,capoeira,actividades,s\u00e1bado",
+            "recuweb_url": "http://es.recuweb.com/capoeira/radazulsportcenter.es/2015/04/exhibici%C3%B3n-de-capoeira-radazul-sport-center",
+            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://radazulsportcenter.es/news/exhibicion-de-capoeira/"
         },
         "redlatinastl.com/2015/04/brazil-performs-hip-hop-mixed-with-samba-capoeira-contemporary": {
             "title": "brazil performs hip-hop mixed with samba, capoeira, contemporary...",
@@ -39,16 +72,27 @@
             "date": "2015-04-16",
             "author_name": "admin",
             "categories": "capoeira",
-            "tags": "music,samba,capoeira",
+            "tags": "samba,capoeira",
             "recuweb_url": "http://es.recuweb.com/capoeira/redlatinastl.com/2015/04/brazil-performs-hip-hop-mixed-with-samba-capoeira-contemporary",
-            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=capoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://redlatinastl.com/brazil-performs-hip-hop-mixed-with-samba-capoeira-contemporary-dance-more-as-dance-st-louis/"
+        },
+        "elquilombodelhenares.blogspot.com/2015/04/el-quilombo-del-henares-mochilas-para-la-capoeira": {
+            "title": "El Quilombo del Henares: Mochilas para la Capoeira - Capoeira...",
+            "snippet": "SIGA na CAPOEIRA es una web en la que puedes encontrar moda y complementos elaborados a mano con diferentes tejidos: Africano, Neopreno, Nylon pero desde nuestro blog queremos destacar su producto especial...",
+            "date": "2015-04-14",
+            "author_name": "El Quilombo del Henares",
+            "categories": "moda,capoeira",
+            "tags": "web,capoeira",
+            "recuweb_url": "http://es.recuweb.com/capoeira/elquilombodelhenares.blogspot.com/2015/04/el-quilombo-del-henares-mochilas-para-la-capoeira",
+            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elquilombodelhenares.blogspot.com/2015/04/mochilas-para-la-capoeira.html"
         },
         "sandradefelipe.wordpress.com/2015/04/dundak-la-plataforma-digital-para-m%C3%BAsica-de-capoeira": {
             "title": "DunDak la plataforma digital para m\u00fasica de Capoeira...",
             "snippet": "En la industria musical no es algo nuevo el hecho de que la industria cambi\u00f3, que vender el disco f\u00edsico en la tienda ya no es el foco...",
             "date": "2015-04-06",
-            "author_name": "najagcb",
+            "author_name": "SandraDefelipe",
             "categories": "capoeira",
             "tags": "nuevo,m\u00fasica,capoeira",
             "recuweb_url": "http://es.recuweb.com/capoeira/sandradefelipe.wordpress.com/2015/04/dundak-la-plataforma-digital-para-m%C3%BAsica-de-capoeira",
@@ -66,17 +110,6 @@
             "resource_url": "http://www.google.com/search?q=capoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juanmalcala.es/2015/04/capoeira-en-calpe.html"
         },
-        "cuentocolectivo.com/2015/04/capoeira-en-la-playa-de-pernambuco-cuento-colectivo": {
-            "title": "Capoeira en la playa de Pernambuco Cuento Colectivo...",
-            "snippet": "Te invitamos a participar en esta narraci\u00f3n inspirada en la Capoeira, declarada recientemente patrimonio cultural inmaterial por la UNESCO. Puedes hacer tu aporte en la zona de comentarios de esta entrada o escribiendo...",
-            "date": "2015-04-04",
-            "author_name": "Redacci\u00f3n",
-            "categories": "capoeira",
-            "tags": "hacer,patrimonio,patrimonio-cultural,patrimonio-cultural-inmaterial,cultural,cultural-inmaterial,inmaterial,capoeira,unesco",
-            "recuweb_url": "http://es.recuweb.com/capoeira/cuentocolectivo.com/2015/04/capoeira-en-la-playa-de-pernambuco-cuento-colectivo",
-            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cuentocolectivo.com/capoeira-en-la-playa-de-pernambuco/"
-        },
         "trinitymultimedia.blogspot.com/2015/03/desfile-de-montevideo-2011": {
             "title": "Desfile de. Montevideo. 2011.",
             "snippet": "Capoeira Capoeira T\u00eda Tina Reinas. La Zabala La Zabala La Llama Las Panteras de Benguela Las Panteras de Benguela Sinfon\u00eda de Ansina Sinfon\u00eda de Ansina Sinfon\u00eda de Ansina Sinfon\u00eda de Ansina Kimba Kimba...",
@@ -87,39 +120,6 @@
             "recuweb_url": "http://es.recuweb.com/capoeira/trinitymultimedia.blogspot.com/2015/03/desfile-de-montevideo-2011",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=capoeira%2Bcapoeira&rss=1&lng=es",
             "source_url": "http://trinitymultimedia.blogspot.com/2015/03/desfile-de-llamadasjueves-montevideo.html"
-        },
-        "caou.uanl.mx/2015/02/capoeira-centro-acu%C3%A1tico-ol%C3%ADmpico-universitario": {
-            "title": "Capoeira Centro Acu\u00e1tico Ol\u00edmpico Universitario...",
-            "snippet": "Capoeira es un sistema de defensa personal Afro-brasile\u00f1o, que integra facetas musicales, culturales, acrob\u00e1ticas e hist\u00f3ricas dentro de la misma disciplina para hombres y mujeres. Beneficios. -Mejora tu condici\u00f3n f\u00edsica.",
-            "date": "2015-02-24",
-            "author_name": "dcastaneda9",
-            "categories": "capoeira",
-            "tags": "capoeira,centro,brasile\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/capoeira/caou.uanl.mx/2015/02/capoeira-centro-acu%C3%A1tico-ol%C3%ADmpico-universitario",
-            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://caou.uanl.mx/capoeira/"
-        },
-        "ciudadania-express.com/2015/02/realizan-batizado-y-troca-de-cordas-en-sala-ju%C3%A1rez-la-eba": {
-            "title": "Realizan batizado y troca de cordas en Sala Ju\u00e1rez de la EBA de la UABJO...",
-            "snippet": "Oaxaca, M\u00e9 Sala Ju\u00e1rez de la Escuela de Bellas Artes de la Universidad Aut\u00f3noma Benito Ju\u00e1rez de Oaxaca (UABJO) fue el escenario para la representaci\u00f3n del ritual de batizado y troca de cordas del grupo de capoeira Capoeira Canga\u00c7o. Sobre la...",
-            "date": "2015-02-13",
-            "author_name": "Naked snake",
-            "categories": "capoeira,bellas-artes,escuela",
-            "tags": "capoeira,batizado,bellas,bellas_artes,artes,grupo",
-            "recuweb_url": "http://es.recuweb.com/escuela/ciudadania-express.com/2015/02/realizan-batizado-y-troca-de-cordas-en-sala-ju%C3%A1rez-la-eba",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=capoeira%2Bcapoeira&rss=1&lng=es",
-            "source_url": "http://ciudadania-express.com/2015/02/13/realizan-batizado-y-troca-de-cordas-en-sala-juarez-de-la-eba-de-la-uabjo/"
-        },
-        "blogs.unicef.org/2015/02/capoeira-is-a-tool-for-peace-in-the-drc-unicef-connect": {
-            "title": "Capoeira is a tool for peace in the DRC UNICEF Connect - UNICEF...",
-            "snippet": "Capoeira for Peace introduces children formerly associated with armed forces and groups to capoeira in the Democratic Republic of Congo.",
-            "date": "2015-02-10",
-            "author_name": "Dieudonn\u00e9 Mosikikongo",
-            "categories": "capoeira",
-            "tags": "capoeira",
-            "recuweb_url": "http://es.recuweb.com/capoeira/blogs.unicef.org/2015/02/capoeira-is-a-tool-for-peace-in-the-drc-unicef-connect",
-            "resource_url": "http://www.google.com/search?q=capoeira%2Bcapoeira&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.unicef.org/2015/02/10/capoeira-is-a-tool-for-peace-in-the-drc/"
         }
     }
 }

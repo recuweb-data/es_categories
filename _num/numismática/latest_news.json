@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "numism\u00e1tica",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/numism\u00e1tica/",
@@ -11,52 +11,81 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/numism%C3%A1tica/numism%C3%A1tica/blogs.json"
     },
     "items": {
+        "abc.com.py/2015/05/agenda-del-fin-de-semana-abc-color": {
+            "title": "Agenda del fin de semana - ABC Color...",
+            "snippet": "ABC ColorAgenda del fin de semanaABC ColorMUSEO DE NUMISM\u00c1TICA Y JOYAS DEL BANCO CENTRAL (Federaci\u00f3n Rusa y Cabo 1 F. Marecos). Exposici\u00f3n permanente de monedas, medallas y billetes del Paraguay. Tambi\u00e9n se pueden ver alhajas antiguas, mates y...",
+            "date": "2015-05-01",
+            "tags": "antiguas,billetes,numism\u00e1tica,banco,banco_central,central,semana,exposici\u00f3n,monedas,paraguay",
+            "recuweb_url": "http://es.recuweb.com/abc.com.py/2015/05/agenda-del-fin-de-semana-abc-color",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
+            "source_url": "http://abc.com.py/espectaculos/cultura/agenda-del-fin-de-semana-1362281.html"
+        },
+        "es.finance.yahoo.com/2015/05/el-tesoro-rescatado-por-los-piratas-del-odyssey-un-fiasco": {
+            "title": "El tesoro rescatado por los piratas del Odyssey, un fiasco con... - Yahoo Finanzas Espa\u00f1a...",
+            "snippet": "Yahoo Finanzas Espa\u00f1aEl tesoro rescatado por los piratas del Odyssey, un fiasco con...Yahoo Finanzas Espa\u00f1aAdem\u00e1s, los peritos espa\u00f1oles tasaron las monedas bas\u00e1ndose en los precios actuales del mercado de la numism\u00e1tica, lo que daba un total...",
+            "date": "2015-05-01",
+            "categories": "yahoo",
+            "tags": "precios,espa\u00f1a,monedas,numism\u00e1tica",
+            "recuweb_url": "http://es.recuweb.com/yahoo/es.finance.yahoo.com/2015/05/el-tesoro-rescatado-por-los-piratas-del-odyssey-un-fiasco",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
+            "source_url": "http://es.finance.yahoo.com/blogs/finlaotracaradelamoneda/el-tesoro-rescatado-por-los-piratas-del-odyssey-153732911.html"
+        },
+        "elnortedecastilla.es/2015/05/pagan-euros-por-una-moneda-acu%C3%B1ada-en-la-ceca-de-segovia": {
+            "title": "Pagan euros por una moneda acu\u00f1ada en la Ceca de Segovia en 1626...",
+            "snippet": "Los salones del hotel Ritz de Madrid acogieron la tarde del martes una subasta de monedas la mayor\u00eda acu\u00f1adas en la Ceca de Segovia que ha levantado gran expectaci\u00f3n en el mundo de la numism\u00e1tica y el coleccionismo. Aunque los precios de...",
+            "date": "2015-05-01",
+            "categories": "coleccionismo",
+            "tags": "precios,coleccionismo,gran,mundo,hotel,monedas,segovia,madrid,numism\u00e1tica",
+            "recuweb_url": "http://es.recuweb.com/coleccionismo/elnortedecastilla.es/2015/05/pagan-euros-por-una-moneda-acu%C3%B1ada-en-la-ceca-de-segovia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=numism%C3%A1tica&format=RSS&cc=es",
+            "source_url": "http://elnortedecastilla.es/segovia/201505/01/pagan-euros-moneda-acunada-20150501120437.html"
+        },
+        "rtp.pt/2015/04/aberta-classifica%C3%A7%C3%A3o-como-tesouro-nacional-da-cole%C3%A7%C3%A3o-numism%C3%A1tica-rtp": {
+            "title": "Aberta classifica\u00e7\u00e3o como tesouro nacional da cole\u00e7\u00e3o numism\u00e1tica... - RTP...",
+            "snippet": "Aberta classifica\u00e7\u00e3o como tesouro nacional da cole\u00e7\u00e3o numism\u00e1tica...RTPDe acordo com o F\u00f3rum de Numism\u00e1tica, a cole\u00e7\u00e3o foi reunida ao longo de quatro d\u00e9cadas pelo empres\u00e1rio e colecionador Carlos Marques da Costa - natural de Lisboa e...",
+            "date": "2015-04-30",
+            "tags": "d\u00e9cadas,nacional,numism\u00e1tica",
+            "recuweb_url": "http://es.recuweb.com/rtp.pt/2015/04/aberta-classifica%C3%A7%C3%A3o-como-tesouro-nacional-da-cole%C3%A7%C3%A3o-numism%C3%A1tica-rtp",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
+            "source_url": "http://rtp.pt/noticias/index.php?article=824969&tm=6&layout=121&visual=49"
+        },
+        "acueducto2.com/2015/04/iii-convenci%C3%B3n-numism%C3%A1tica-de-segovia": {
+            "title": "III Convenci\u00f3n Numism\u00e1tica de Segovia...",
+            "snippet": "Por tercer a\u00f1o consecutivo tendr\u00e1 lugar en la Casa de la Moneda la Convenci\u00f3n Numism\u00e1tica que organiza la Asociaci\u00f3n Segoviana de Numism\u00e1tica y Coleccionismo de Segovia, con la colaboraci\u00f3n de la Filatelia Dobl\u00f3n y el Ayuntamiento de...",
+            "date": "2015-04-29",
+            "categories": "filatelia,coleccionismo",
+            "tags": "asociaci\u00f3n,convenci\u00f3n,convenci\u00f3n_numism\u00e1tica,numism\u00e1tica,segovia,moneda,coleccionismo",
+            "recuweb_url": "http://es.recuweb.com/coleccionismo/acueducto2.com/2015/04/iii-convenci%C3%B3n-numism%C3%A1tica-de-segovia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=numism%C3%A1tica&format=RSS&cc=es",
+            "source_url": "http://acueducto2.com/convencion-numismatica-2015/18721"
+        },
+        "elsiglodetorreon.com.mx/2015/04/personajes-en-la-historia-de-m%C3%A9xico-el-siglo-torre%C3%B3n": {
+            "title": "PERSONAJES EN LA HISTORIA DE M\u00c9XICO - El Siglo de Torre\u00f3n...",
+            "snippet": "El Siglo de Torre\u00f3nPERSONAJES EN LA HISTORIA DE M\u00c9XICOEl Siglo de Torre\u00f3nYo tuve la oportunidad de consultar archivos en varios lugares del pa\u00eds para documentar mis libros de genealog\u00edas, de numism\u00e1tica, de historia, etc., y algunos de esos...",
+            "date": "2015-04-28",
+            "tags": "historia,oportunidad,numism\u00e1tica",
+            "recuweb_url": "http://es.recuweb.com/elsiglodetorreon.com.mx/2015/04/personajes-en-la-historia-de-m%C3%A9xico-el-siglo-torre%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
+            "source_url": "http://elsiglodetorreon.com.mx/noticia/1109738.personajes-en-la-historia-de-mexico.html"
+        },
         "lanacion.com.ar/2015/04/negocios-antiguos-venden-desde-guantes-hasta-cepillos-y-siguen-argentina": {
             "title": "Negocios antiguos: venden desde guantes hasta cepillos y siguen... - (Argentina)...",
             "snippet": "(Argentina)Negocios antiguos: venden desde guantes hasta cepillos y siguen... (Argentina)Diseminados por toda la ciudad, hay ocho locales de numism\u00e1tica, siete barber\u00edas, cinco parag\u00fcer\u00edas, cuatro sombrerer\u00edas, tres botoner\u00edas, dos...",
             "date": "2015-04-26",
             "tags": "numism\u00e1tica",
             "recuweb_url": "http://es.recuweb.com/lanacion.com.ar/2015/04/negocios-antiguos-venden-desde-guantes-hasta-cepillos-y-siguen-argentina",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica%2Bnumism%C3%A1tica&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
             "source_url": "http://lanacion.com.ar/1787689-negocios-antiguos-venden-de-guantes-a-cepillos-y-siguen-vigentes"
-        },
-        "abc.com.py/2015/04/agenda-del-fin-de-semana-abc-color": {
-            "title": "Agenda del fin de semana - ABC Color...",
-            "snippet": "ABC ColorAgenda del fin de semanaABC ColorMUSEO DE NUMISM\u00c1TICA Y JOYAS DEL BANCO CENTRAL (Federaci\u00f3n Rusa y Cabo 1 F. Marecos). Exposici\u00f3n permanente de monedas, medallas y billetes del Paraguay. Tambi\u00e9n se pueden ver alhajas antiguas, mates y...",
-            "date": "2015-04-24",
-            "tags": "antiguas,billetes,numism\u00e1tica,banco,banco_central,central,semana,exposici\u00f3n,monedas,paraguay",
-            "recuweb_url": "http://es.recuweb.com/abc.com.py/2015/04/agenda-del-fin-de-semana-abc-color",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica%2Bnumism%C3%A1tica&output=atom&nord=1",
-            "source_url": "http://abc.com.py/espectaculos/cultura/agenda-del-fin-de-semana-1359946.html"
-        },
-        "radioalcoy.com/2015/04/el-cartel-se-reduce-para-salir-al-mundo": {
-            "title": "El cartel se reduce para salir al mundo...",
-            "snippet": "Alberto Molines, de la Asociaci\u00f3n Filat\u00e9lica y numismatica de Alcoy lo ha presentado en Hoy por Hoy Alcoy. En la entrevista cuenta algunas an\u00e9cdotas de esta iniciativa.",
-            "date": "2015-04-21",
-            "tags": "numismatica,asociaci\u00f3n,mundo,alcoy",
-            "recuweb_url": "http://es.recuweb.com/radioalcoy.com/2015/04/el-cartel-se-reduce-para-salir-al-mundo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=numism%C3%A1tica&format=RSS&cc=es",
-            "source_url": "http://radioalcoy.com/News/New/el-cartel-se-reduce-salir-al-mundo"
         },
         "elcomercio.es/2015/04/el-s%C3%A1bado-nueva-convenci%C3%B3n-numism%C3%A1tica": {
             "title": "El s\u00e1bado, nueva Convenci\u00f3n Numism\u00e1tica...",
             "snippet": "El Hotel Silken Villa de Avil\u00e9s acoger\u00e1 el pr\u00f3ximo s\u00e1bado, 25 de abril, la edici\u00f3n n\u00famero 73 de la Convenci\u00f3n Numism\u00e1tica organizada por la Sociedad Numism\u00e1tica Avilesina. La actividad estar\u00e1 abierta de 10 a 14 horas y de 16 a 18 horas, si...",
             "date": "2015-04-21",
             "categories": "sociedad",
-            "tags": "horas,numism\u00e1tica,edici\u00f3n,abril,s\u00e1bado",
+            "tags": "horas,numism\u00e1tica,abril,s\u00e1bado,hotel,convenci\u00f3n,convenci\u00f3n_numism\u00e1tica",
             "recuweb_url": "http://es.recuweb.com/sociedad/elcomercio.es/2015/04/el-s%C3%A1bado-nueva-convenci%C3%B3n-numism%C3%A1tica",
             "resource_url": "http://www.bing.com/news/search?first=1&q=numism%C3%A1tica&format=RSS&cc=es",
             "source_url": "http://elcomercio.es/aviles/201504/22/sabado-nueva-convencion-numismatica-20150422001950-v.html"
-        },
-        "noticiasvillaguay.com.ar/2015/04/se-realizar%C3%A1-en-villaguay-un-encuentro-de-numism%C3%A1tica": {
-            "title": "Se realizar\u00e1 en Villaguay un encuentro de numism\u00e1tica...",
-            "snippet": "Direcci\u00f3n de Educaci\u00f3n, Cultura y Juventud de la Municipalidad de Villaguay invita a la comunidad a participar del 2do Encuentro de Entre R\u00edos Numism\u00e1tica, donde se expondr\u00e1n monedas, billetes, bonos y estampillas, entre otros objetos. Este...",
-            "date": "2015-04-21",
-            "categories": "cultura",
-            "tags": "numism\u00e1tica,invita,monedas,billetes",
-            "recuweb_url": "http://es.recuweb.com/cultura/noticiasvillaguay.com.ar/2015/04/se-realizar%C3%A1-en-villaguay-un-encuentro-de-numism%C3%A1tica",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=numism%C3%A1tica&format=RSS&cc=es",
-            "source_url": "http://noticiasvillaguay.com.ar/?p=10629"
         },
         "diaadia.com.ar/2015/04/d%C3%ADa-nacional-de-la-numism%C3%A1tica": {
             "title": "D\u00eda nacional de la Numism\u00e1tica - D\u00eda a d\u00eda...",
@@ -64,45 +93,17 @@
             "date": "2015-04-13",
             "tags": "abril,nacional,numism\u00e1tica",
             "recuweb_url": "http://es.recuweb.com/diaadia.com.ar/2015/04/d%C3%ADa-nacional-de-la-numism%C3%A1tica",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica%2Bnumism%C3%A1tica&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
             "source_url": "http://diaadia.com.ar/cordoba/dia-nacional-de-la-numismatica"
         },
         "lagacetasalta.com.ar/2015/04/m%C3%BAsica-orquestas-y-numism%C3%A1tica-ser%C3%A1n-el-atractivo-de-la-semana-gaceta": {
             "title": "M\u00fasica, orquestas y numism\u00e1tica ser\u00e1n el atractivo de la semana - La Gaceta de Salta...",
             "snippet": "La Gaceta de SaltaM\u00fasica, orquestas y numism\u00e1tica ser\u00e1n el atractivo de la semanaLa Gaceta de SaltaNumism\u00e1tica: se habilitar\u00e1 la exposici\u00f3n de monedas y piezas numism\u00e1ticas de la historia monetaria nacional, en la Sala G\u00fcemes del Museo de la...",
             "date": "2015-04-06",
-            "tags": "piezas,numism\u00e1tica,historia,nacional,exposici\u00f3n,semana,monedas,museo",
+            "tags": "piezas,numism\u00e1tica,historia,nacional,exposici\u00f3n,semana,monedas",
             "recuweb_url": "http://es.recuweb.com/lagacetasalta.com.ar/2015/04/m%C3%BAsica-orquestas-y-numism%C3%A1tica-ser%C3%A1n-el-atractivo-de-la-semana-gaceta",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica%2Bnumism%C3%A1tica&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
             "source_url": "http://lagacetasalta.com.ar/nota/17108/espectaculos/musica-orquestas-numismatica-seran-atractivo-semana.html"
-        },
-        "azuqueca.tv/2014/11/la-asociaci%C3%B3n-de-numism%C3%A1tica-y-filatelia-azuqueca-nos-trae-el-television": {
-            "title": "La Asociaci\u00f3n de numism\u00e1tica y filatelia de Azuqueca nos trae el... - Azuqueca Television...",
-            "snippet": "La Asociaci\u00f3n de numism\u00e1tica y filatelia de Azuqueca nos trae el...Azuqueca TelevisionLa Asociaci\u00f3n de numism\u00e1tica y filatelia de Azuqueca nos trae el mundo de la abeja en ExpoAfna Azuqueca Televisi\u00f3n. Eres t\u00fa. Decimocuarta edici\u00f3n de La...",
-            "date": "2014-11-27",
-            "categories": "filatelia,television",
-            "tags": "edici\u00f3n,mundo,asociaci\u00f3n,numism\u00e1tica",
-            "recuweb_url": "http://es.recuweb.com/television/azuqueca.tv/2014/11/la-asociaci%C3%B3n-de-numism%C3%A1tica-y-filatelia-azuqueca-nos-trae-el-television",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
-            "source_url": "http://azuqueca.tv/index.php/video/533/la-asociaci\u00f3n-de-numism\u00e1tica-y-filatelia-de-azuqueca-nos-trae-el-mundo-de-la-abeja-expoafna/"
-        },
-        "diarioinformacion.com/2014/11/la-joya-de-numism%C3%A1tica-espa%C3%B1ola-informaci%C3%B3n": {
-            "title": "La joya de la numism\u00e1tica espa\u00f1ola - Informaci\u00f3n...",
-            "snippet": "Informaci\u00f3nLa joya de la numism\u00e1tica espa\u00f1olaInformaci\u00f3nColeccionismo en Alcoy. Juan Carlos Mir\u00f3, especialista numism\u00e1tico en Alcoy, ha tenido estos d\u00edas entre sus manos un duro de plata de 1869, nna de las pocas piezas que todav\u00eda se...",
-            "date": "2014-11-04",
-            "tags": "piezas,tenido,d\u00edas,plata,numism\u00e1tico,juan,numism\u00e1tica,alcoy",
-            "recuweb_url": "http://es.recuweb.com/diarioinformacion.com/2014/11/la-joya-de-numism%C3%A1tica-espa%C3%B1ola-informaci%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica%2Bnumism%C3%A1tica&output=atom&nord=1",
-            "source_url": "http://diarioinformacion.com/alcoy/2014/11/04/joya-numismatica-espanola/1563206.html"
-        },
-        "priegodigital.com/2014/11/el-museo-hist%C3%B3rico-municipal-participa-en-xv-congreso-nacional-priego-digital": {
-            "title": "El Museo Hist\u00f3rico Municipal participa en el XV Congreso Nacional... - PRIEGO DIGITAL...",
-            "snippet": "El Museo Hist\u00f3rico Municipal participa en el XV Congreso Nacional...PRIEGO DIGITALEntre los d\u00edas 28 y 30 de octubre se ha celebrado en el recientemente remodelado Museo Arqueol\u00f3gico Nacional la XV edici\u00f3n del Congreso Nacional de Numism\u00e1tica,...",
-            "date": "2014-11-02",
-            "tags": "edici\u00f3n,museo,nacional,d\u00edas,numism\u00e1tica",
-            "recuweb_url": "http://es.recuweb.com/priegodigital.com/2014/11/el-museo-hist%C3%B3rico-municipal-participa-en-xv-congreso-nacional-priego-digital",
-            "resource_url": "http://news.google.es/?hl=es&q=numism%C3%A1tica&output=atom&nord=1",
-            "source_url": "http://priegodigital.com/ver.php?categoria=117&id_noticia=9607"
         }
     }
 }

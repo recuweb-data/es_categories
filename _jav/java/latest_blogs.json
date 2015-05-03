@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/java/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
+        "javahispano.org/2015/04/javahispano-portada-10-funcionalidades-de-java-8-las-que-no": {
+            "title": "javaHispano - Portada - 10 funcionalidades de Java 8 de las que no...",
+            "snippet": "Eso es todo lo que se oye hablar sobre Java 8. Pero esa no es nada m\u00e1s que una parte. Java 8 cuenta con muchas nuevas funcionalidades: algunas de ellas son nuevas -y muy poderosas- clases y expresiones, mientras...",
+            "date": "2015-04-28",
+            "author_name": "javaHispano",
+            "categories": "java",
+            "tags": "muy,nada,parte,hablar,javahispano,portada,java,son",
+            "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/javahispano-portada-10-funcionalidades-de-java-8-las-que-no",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://javahispano.org/portada/2015/4/28/10-funcionalidades-de-java-8-de-las-que-no-has-oido-hablar.html"
+        },
+        "compudredu.blogspot.com/2015/04/androrat-un-troyano-rat-para-android": {
+            "title": "Androrat: un troyano RAT para Android...",
+            "snippet": "Androrat es un RAT (Remote Administration Tool) de c\u00f3digo abierto para Android. Se trata de una aplicaci\u00f3n cliente-servidor desarrollada en Java (Java Android para el cliente y Java/Swing para el servidor) por un equipo de cuatro desarrolladores...",
+            "date": "2015-04-27",
+            "author_name": "Gtwentytwelve",
+            "categories": "java",
+            "tags": "aplicaci\u00f3n,android,c\u00f3digo,java",
+            "recuweb_url": "http://es.recuweb.com/java/compudredu.blogspot.com/2015/04/androrat-un-troyano-rat-para-android",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
+            "source_url": "http://compudredu.blogspot.com/2015/04/androrat-un-troyano-rat-para-android.html"
+        },
+        "sinotedigoqueno.com/2015/04/instalacion-del-galssfish-2-1": {
+            "title": "instalacion del Galssfish 2.1...",
+            "snippet": "La version de glassfish 2.1 es porque es la version 6 de java. java -Xmx256m -jar En este momento se ejecuta la instalaci\u00f3n de Glassfish 2.1. En la siguiente ventana leemos las condiciones de uso y pulsamos Accept Si los puertos 8080 los tienes...",
+            "date": "2015-04-27",
+            "author_name": "taguase",
+            "categories": "java",
+            "tags": "tienes,siguiente,uso,version,java",
+            "recuweb_url": "http://es.recuweb.com/java/sinotedigoqueno.com/2015/04/instalacion-del-galssfish-2-1",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
+            "source_url": "http://sinotedigoqueno.com/2015/04/instalacion-del-galssfish-21.html"
+        },
         "javahispano.org/2015/04/5-herramientas-de-rastreo-errores-que-todo-desarrollador-java": {
             "title": "5 herramientas de rastreo de errores que todo desarrollador Java...",
             "snippet": "Con el ecosistema Java que sigue avanzando, las aplicaciones web sirviendo un n\u00famero creciente de solicitudes y la demanda de los usuarios de un alto desempe\u00f1o, nace una nueva era de herramientas modernas de...",
             "date": "2015-04-22",
             "author_name": "javaHispano",
             "categories": "java",
-            "tags": "era,herramientas,demanda,usuarios,aplicaciones,ecosistema,java,web",
+            "tags": "herramientas,web,ecosistema,java,aplicaciones",
             "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/5-herramientas-de-rastreo-errores-que-todo-desarrollador-java",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/4/22/5-herramientas-de-rastreo-de-errores-que-todo-desarrollador.html"
+        },
+        "javamexico.org/2015/04/sitio-personal-en-vaadin-java-m%C3%A9xico": {
+            "title": "Sitio Personal en Vaadin Java Java M\u00e9xico...",
+            "snippet": "Estoy muy interesado en aprender el Framework Vaadin de Java, me la he pasado buscando informaci\u00f3n en la red de sitios personales pero no he encontrado nada de ejemplos. La mayoria son aplicaciones mas no sitios...",
+            "date": "2015-04-20",
+            "author_name": "linux-genesis",
+            "categories": "java",
+            "tags": "pasado,nada,framework,muy,java,son,aplicaciones",
+            "recuweb_url": "http://es.recuweb.com/java/javamexico.org/2015/04/sitio-personal-en-vaadin-java-m%C3%A9xico",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://javamexico.org/blogs/linuxgenesis/sitio_personal_en_vaadin_java"
         },
         "danivara.blogspot.com/2015/04/lenguaje-de-programaci%C3%B3n-java-daniel-bonilla": {
             "title": "lenguaje de programaci\u00f3n JAVA- DANIEL BONILLA...",
@@ -28,7 +72,7 @@
             "date": "2015-04-19",
             "author_name": "Daniel Bonilla",
             "categories": "lenguaje,java",
-            "tags": "m\u00e1quina,m\u00e1quina-virtual,virtual,lenguaje,programaci\u00f3n,java",
+            "tags": "lenguaje,programaci\u00f3n,java",
             "recuweb_url": "http://es.recuweb.com/java/danivara.blogspot.com/2015/04/lenguaje-de-programaci%C3%B3n-java-daniel-bonilla",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
             "source_url": "http://danivara.blogspot.com/2015/04/lenguaje-de-programacion-java-daniel.html"
@@ -39,10 +83,21 @@
             "date": "2015-04-18",
             "author_name": "ovruni",
             "categories": "java",
-            "tags": "debe,target,software,java",
+            "tags": "debe,software,java",
             "recuweb_url": "http://es.recuweb.com/java/ovruni.wordpress.com/2015/04/auto-java-complete-mode-para-gnu-emacs-urpi-y-el-software",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ovruni.wordpress.com/2015/04/18/auto-java-complete-mode-para-gnu-emacs/"
+        },
+        "blog.segu-info.com.ar/2015/04/decompiladores-de-java-online-segu-info": {
+            "title": "Decompiladores de Java online Segu-Info...",
+            "snippet": "Si te encuentras en la necesidad, por el motivo que sea, de tener que acceder al c\u00f3digo fuente de una aplicaci\u00f3n Java y obviamente no tienes acceso al mismo, la mejor opci\u00f3n en la mayor\u00eda de los casos es usar un...",
+            "date": "2015-04-18",
+            "author_name": "noreply@blogger.com (Cristian Borghello)",
+            "categories": "java",
+            "tags": "tienes,aplicaci\u00f3n,tener,java,c\u00f3digo",
+            "recuweb_url": "http://es.recuweb.com/java/blog.segu-info.com.ar/2015/04/decompiladores-de-java-online-segu-info",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.segu-info.com.ar/2015/04/decompiladores-de-java-online.html"
         },
         "seguridadapple.com/2015/04/seguridad-apple-oracle-libera-java-se-8u45-para-os-x-actualiza": {
             "title": "Seguridad Apple: Oracle libera Java SE 8u45 para OS X. Actualiza y...",
@@ -50,7 +105,7 @@
             "date": "2015-04-17",
             "author_name": "noreply@blogger.com (SeguridadApple)",
             "categories": "java",
-            "tags": "seguridad,oracle,java,\u00fal",
+            "tags": "siguientes,seguridad,java,son",
             "recuweb_url": "http://es.recuweb.com/java/seguridadapple.com/2015/04/seguridad-apple-oracle-libera-java-se-8u45-para-os-x-actualiza",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://seguridadapple.com/2015/04/oracle-libera-java-se-8u45-para-os-x.html"
@@ -61,65 +116,10 @@
             "date": "2015-04-17",
             "author_name": "Abraham",
             "categories": "java",
-            "tags": "ecosistema,javahispano,nuevo,java",
+            "tags": "tener,ecosistema,javahispano,portada,nuevo,java",
             "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/javahispano-portada-nuevo-podcast-de-noticias-java",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/4/17/nuevo-podcast-de-noticias-java.html"
-        },
-        "adictosaltrabajo.com/2015/04/bytecode-sabes-lo-que-realmente-programas-en-java": {
-            "title": "ByteCode: \u00bfSabes lo que realmente programas en Java?",
-            "snippet": "Una de las caracter\u00edsticas m\u00e1s relevante del lenguaje de programaci\u00f3n Java es el hecho de que utiliza una m\u00e1quina virtual para la ejecuci\u00f3n de los programas, haciendo \u00e9sta de intermediaria entre la m\u00e1quina real (HW...",
-            "date": "2015-04-16",
-            "author_name": "desconocido",
-            "categories": "java,lenguaje",
-            "tags": "m\u00e1quina,m\u00e1quina-virtual,virtual,java,lenguaje,programaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/lenguaje/adictosaltrabajo.com/2015/04/bytecode-sabes-lo-que-realmente-programas-en-java",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=ByteCode"
-        },
-        "javahispano.org/2015/04/los-servidores-java-ee-m%C3%A1s-populares-seg%C3%BAn-plumbr-javahispano": {
-            "title": "Los servidores Java EE m\u00e1s populares seg\u00fan Plumbr - javaHispano...",
-            "snippet": "Plumbr, una compa\u00f1\u00eda dedicada a la creaci\u00f3n de herramientas de monitorizaci\u00f3n de servidores Java EE ha publicado su informe anual relativo a la cuota de mercado de los distintos servidores Java EE que la compa\u00f1\u00eda...",
-            "date": "2015-04-16",
-            "author_name": "Abraham",
-            "categories": "java",
-            "tags": "publicado,herramientas,java,javahispano",
-            "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/los-servidores-java-ee-m%C3%A1s-populares-seg%C3%BAn-plumbr-javahispano",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://javahispano.org/portada/2015/4/16/los-servidores-java-ee-mas-populares-segun-plumbr.html"
-        },
-        "cesarhernandezgt.blogspot.com/2015/04/automatizaci%C3%B3n-y-administraci%C3%B3n-de-dependencias-java-con-maven": {
-            "title": "Automatizaci\u00f3n y administraci\u00f3n de dependencias Java con Maven...",
-            "snippet": "Les comparto mi nuevo art\u00edculo publicado por Oracle Technology Network sobre: Automatizaci\u00f3n y administraci\u00f3n de dependencias Java con Maven. El objetivo del art\u00edculo es proveer los conceptos b\u00e1sicos para crear el conocimiento necesario y poder...",
-            "date": "2015-04-15",
-            "author_name": "Cesar Hernandez M.",
-            "categories": "conocimiento,java",
-            "tags": "objetivo,oracle,technology,publicado,java,nuevo,crear",
-            "recuweb_url": "http://es.recuweb.com/java/cesarhernandezgt.blogspot.com/2015/04/automatizaci%C3%B3n-y-administraci%C3%B3n-de-dependencias-java-con-maven",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
-            "source_url": "http://cesarhernandezgt.blogspot.com/2015/04/automatizacion-y-administracion-de.html"
-        },
-        "softandapps.info/2015/04/curso-gratuito-de-programaci%C3%B3n-java-nivel-avanzado-soft-&-apps": {
-            "title": "Curso gratuito de programaci\u00f3n Java nivel avanzado - Soft & Apps...",
-            "snippet": "Un curso gratuito de programaci\u00f3n Java, \u00edntegramente en espa\u00f1ol, para usuarios con conocimientos previos. Puede seguirse online o descargarse como PDF.",
-            "date": "2015-04-15",
-            "author_name": "Juan Luis Berm\u00fadez",
-            "categories": "conocimiento,java",
-            "tags": "usuarios,curso,programaci\u00f3n,java",
-            "recuweb_url": "http://es.recuweb.com/java/softandapps.info/2015/04/curso-gratuito-de-programaci%C3%B3n-java-nivel-avanzado-soft-&-apps",
-            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://softandapps.info/2015/04/15/curso-gratuito-de-programacion-java-nivel-avanzado/"
-        },
-        "tecnologia.starmedia.com/2015/04/c%C3%B3mo-activar-java-silverlight-y-todos-los-plugins-npapi-de-google": {
-            "title": "\u00bfC\u00f3mo activar Java, Silverlight y todos los plugins NPAPI de Google...",
-            "snippet": "Hoy aprender\u00e1s a c\u00f3mo activar Java, Silverlight y dem\u00e1s plugins NPAPI que con Google Chrome 42 han sido desactivados...",
-            "date": "2015-04-15",
-            "author_name": "desconocido",
-            "categories": "java,google",
-            "tags": "c\u00f3mo,java,google",
-            "recuweb_url": "http://es.recuweb.com/google/tecnologia.starmedia.com/2015/04/c%C3%B3mo-activar-java-silverlight-y-todos-los-plugins-npapi-de-google",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tecnologia.starmedia.com/tutoriales/como-activar-java-silverlight-todos-plugins-npapi-google-chrome-42.html"
         }
     }
 }

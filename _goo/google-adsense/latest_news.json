@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google-adsense",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/google-adsense/",
@@ -11,15 +11,55 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/google-adsense/google-adsense/blogs.json"
     },
     "items": {
+        "es.paperblog.com/2015/05/cibercriminales-utilizan-google-adsense-para-distribuir-malware": {
+            "title": "Cibercriminales Utilizan Google AdSense Para Distribuir Malware...",
+            "snippet": "C\u00f3mo Se Distribuyen Virus, Spyware o Malware Usando Publicidad Online? Los cibercriminales son cada d\u00eda m\u00e1s comunes ya que el Internet permite distintas formas de estos realizar sus actividades il\u00edcitas. Los virus, programas esp\u00edas o Malware ya...",
+            "date": "2015-05-02",
+            "categories": "google,google-adsense,internet",
+            "tags": "cibercriminales,malware,usando,c\u00f3mo,google,google_adsense,adsense,distribuir,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/es.paperblog.com/2015/05/cibercriminales-utilizan-google-adsense-para-distribuir-malware",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/cibercriminales-utilizan-google-adsense-para-distribuir-malware-3188689/"
+        },
+        "seroundtable.com/2015/04/google-adsense-dropping-existing-payment-transaction-history-search-engine-roundtable": {
+            "title": "Google AdSense Dropping Existing Payment Transaction History... - Search Engine Roundtable...",
+            "snippet": "Google AdSense Dropping Existing Payment Transaction History...Search Engine RoundtableGoogle AdSense logo Sunny K. Ujjawal received an email from Google that they will be shutting down and sunsetting the existing payment transaction history report...",
+            "date": "2015-04-30",
+            "categories": "google,google-adsense",
+            "tags": "that,adsense,google,google_adsense",
+            "recuweb_url": "http://es.recuweb.com/google-adsense/seroundtable.com/2015/04/google-adsense-dropping-existing-payment-transaction-history-search-engine-roundtable",
+            "resource_url": "http://news.google.es/?hl=es&q=google%2Badsense%2Bgoogle%2Badsense&output=atom&nord=1",
+            "source_url": "http://seroundtable.com/google-adsense-payment-transaction-history-20233.html"
+        },
+        "cso.computerworld.es/2015/04/detectan-una-campa%C3%B1a-de-malvertising-en-la-red-anuncios-google": {
+            "title": "Detectan una campa\u00f1a de malvertising en la red de anuncios de Google...",
+            "snippet": "G Data alerta que Google AdSense ha sido utiliza para distribuir anuncios fraudulentos, capaces de infectar a sus v\u00edctimas usando un exploit kit que aprovechaba una vulnerabilidad ya parcheada de Adobe Flash Player. El malware embebido en...",
+            "date": "2015-04-28",
+            "categories": "google",
+            "tags": "malware,malware-embebido,embebido,usando,adsense,distribuir,anuncios,malvertising,red,red-de-anuncios,google,data",
+            "recuweb_url": "http://es.recuweb.com/google/cso.computerworld.es/2015/04/detectan-una-campa%C3%B1a-de-malvertising-en-la-red-anuncios-google",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
+            "source_url": "http://cso.computerworld.es/alertas/detectan-una-campana-de-malvertising-en-la-red-de-anuncios-de-google"
+        },
         "ebizlatam.com/2015/04/g-data-google-adsense-utilizado-para-distribuir-malware": {
             "title": "G Data: Google AdSense, utilizado para distribuir malware...",
             "snippet": "Los cibercriminales han utilizado al red de anuncios Google AdSense para distribuir malvertising (malware embebido en banners publicitarios) a millones de internautas. La causa de estos ataques se han encontrado en uno de los proveedores de la red...",
             "date": "2015-04-24",
             "categories": "google,google-adsense",
-            "tags": "causa,ataques,encontrado,proveedores,red,millones,millones-de-internautas,internautas,malware,embebido,embebido-en-banners,banners,banners-publicitarios,publicitarios,distribuir,distribuir-malvertising,malvertising,cibercriminales,cibercriminales-han-utilizado,utilizado,red-de-anuncios,anuncios,distribuir-malware,google,google_adsense,adsense,data",
+            "tags": "red,malware,malware-embebido,embebido,banners,distribuir,malvertising,cibercriminales,red-de-anuncios,anuncios,google,google_adsense,adsense,data",
             "recuweb_url": "http://es.recuweb.com/google-adsense/ebizlatam.com/2015/04/g-data-google-adsense-utilizado-para-distribuir-malware",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
             "source_url": "http://ebizlatam.com/news/117/ARTICLE/22850/2015-04-24.html"
+        },
+        "tuexperto.com/2015/04/google-aumenta-sus-ingresos-un-12%-en-el-primer-trimestre": {
+            "title": "Google aumenta sus ingresos un 12% en el primer trimestre...",
+            "snippet": "Gran parte de los ingresos totales llega desde este sector, que incluye tanto su plataforma Google AdSense como los ingresos recibidos desde su plataforma YouTube o a trav\u00e9s de dispositivos m\u00f3viles. Durante los primeros meses de 2015 se...",
+            "date": "2015-04-24",
+            "categories": "google",
+            "tags": "primeros,plataforma,adsense,incluye,primer,google,ingresos,youtube",
+            "recuweb_url": "http://es.recuweb.com/google/tuexperto.com/2015/04/google-aumenta-sus-ingresos-un-12%-en-el-primer-trimestre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
+            "source_url": "http://tuexperto.com/2015/04/24/google-aumenta-sus-ingresos-un-12-en-el-primer-trimestre/"
         },
         "econsultancy.com/2015/04/google-launches-free-content-recommendation-tool-for-adsense-econsultancy-blog": {
             "title": "Google launches free content recommendation tool for AdSense - Econsultancy (blog)...",
@@ -56,7 +96,7 @@
             "snippet": "C\u00f3mo? Pagando una cuota mensual a cambio de que salgan menos banners en las p\u00e1ginas web que visitemos; o mejor dicho, en las p\u00e1ginas que visitemos y que est\u00e9n asociadas a Contributor a trav\u00e9s de Google Adsense. Pues bien, ya est\u00e1n llegando...",
             "date": "2015-04-22",
             "categories": "google,google-adsense,internet",
-            "tags": "google,google_adsense,adsense,trav\u00e9s,p\u00e1ginas,banners,web,anuncios",
+            "tags": "google,google_adsense,adsense,banners,web,anuncios,internet,c\u00f3mo",
             "recuweb_url": "http://es.recuweb.com/internet/genbeta.com/2015/04/10-d%C3%B3lares-al-mes-por-ver-la-mitad-de-anuncios",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
             "source_url": "http://genbeta.com/web/10-dolares-al-mes-por-ver-la-mitad-de-anuncios-en-internet-los-precios-de-google-contributor"
@@ -66,50 +106,10 @@
             "snippet": "TWCN Tech News (blog)Google AdSense introduces Matched ContentTWCN Tech News (blog)... be eligible for Matched content, your website has to get some minimum requirements for web traffic volume and unique views, that meet Google's requirements. To...",
             "date": "2015-04-22",
             "categories": "google,google-adsense",
-            "tags": "web,matched,matched_content,content,google,google_adsense,adsense",
+            "tags": "that,web,matched,matched_content,content,google,google_adsense,adsense",
             "recuweb_url": "http://es.recuweb.com/google-adsense/news.thewindowsclub.com/2015/04/google-adsense-introduces-matched-content-twcn-tech-news-blog",
             "resource_url": "http://news.google.es/?hl=es&q=google%2Badsense%2Bgoogle%2Badsense&output=atom&nord=1",
             "source_url": "http://news.thewindowsclub.com/google-adsense-introduces-matched-content-77501/"
-        },
-        "tuexperto.com/2015/04/un-ataque-en-la-red-utiliza-google-adsense-para-infectar-ordenadores": {
-            "title": "Un ataque en la red utiliza Google AdSense para infectar ordenadores...",
-            "snippet": "Los cibercriminales cada vez encuentran herramientas m\u00e1s sofisticadas para desplegar sus programas maliciosas. G Data ha analizado un ataque que habr\u00eda afectado a millones de internautas, y que inclu\u00eda el uso de la popular plataforma de anuncios...",
-            "date": "2015-04-22",
-            "categories": "google,google-adsense",
-            "tags": "plataforma,anuncios,millones,millones-de-internautas,internautas,cibercriminales,infectar,google,google_adsense,adsense,red,data",
-            "recuweb_url": "http://es.recuweb.com/google-adsense/tuexperto.com/2015/04/un-ataque-en-la-red-utiliza-google-adsense-para-infectar-ordenadores",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
-            "source_url": "http://tuexperto.com/2015/04/22/un-ataque-en-la-red-utiliza-google-adsense-para-infectar-malware/"
-        },
-        "elfinanciero.com.mx/2015/04/alertan-sobre-ataques-a-trav%C3%A9s-de-anuncios-google-adsense": {
-            "title": "Alertan sobre ataques a trav\u00e9s de anuncios de Google AdSense...",
-            "snippet": "La empresa G Data Software AG anunci\u00f3 que cibercriminales han utilizado la red de anuncios Google AdSense, para distribuir malvertising, un malware incluido en banners publicitarios, a millones de internautas. La compa\u00f1\u00eda de seguridad...",
-            "date": "2015-04-21",
-            "categories": "google,google-adsense",
-            "tags": "millones,millones-de-internautas,internautas,malware,banners,banners-publicitarios,publicitarios,distribuir,distribuir-malvertising,malvertising,anuncios,cibercriminales,cibercriminales-han-utilizado,utilizado,utilizado-la-red,red,red-de-anuncios,data,google,google_adsense,adsense,ataques,trav\u00e9s",
-            "recuweb_url": "http://es.recuweb.com/google-adsense/elfinanciero.com.mx/2015/04/alertan-sobre-ataques-a-trav%C3%A9s-de-anuncios-google-adsense",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
-            "source_url": "http://elfinanciero.com.mx/tech/alertan-sobre-ataques-a-traves-de-anuncios-de-google-adsense.html"
-        },
-        "libertaddigital.com/2015/04/algunos-anuncios-de-google-adsense-pueden-infectar-tu-ordenador": {
-            "title": "Algunos anuncios de Google Adsense pueden infectar tu ordenador...",
-            "snippet": "Los cibercriminales han utilizado la red de anuncios Google AdSense para distribuir 'malvertising'('malware'embebido en banners publicitarios) a millones de internautas. La causa de estos ataques se ha encontrado en uno de los proveedores de la red...",
-            "date": "2015-04-21",
-            "categories": "google,google-adsense",
-            "tags": "causa,ataques,encontrado,proveedores,red,millones,millones-de-internautas,internautas,embebido,embebido-en-banners,banners,banners-publicitarios,publicitarios,distribuir,cibercriminales,cibercriminales-han-utilizado,utilizado,utilizado-la-red,red-de-anuncios,anuncios,infectar,google,google_adsense,adsense,malvertising,malware",
-            "recuweb_url": "http://es.recuweb.com/google-adsense/libertaddigital.com/2015/04/algunos-anuncios-de-google-adsense-pueden-infectar-tu-ordenador",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
-            "source_url": "http://libertaddigital.com/ciencia-tecnologia/internet/2015-04-21/algunos-anuncios-de-google-adsense-pueden-infectar-tu-ordenador-1276546135/"
-        },
-        "teinteresa.es/2015/04/cibercriminales-utilizan-google-adsense-para-distribuir-malware": {
-            "title": "Cibercriminales utilizan Google Adsense para distribuir malware...",
-            "snippet": "Los anuncios fraudulentos eran capaces de infectar a sus v\u00edctimas -los internautas que visitaban las p\u00e1ginas donde eran mostrados- usando un 'kit de exploit'que aprovechaba una vulnerabilidad de Adobe Flash Player. Un 'exploit kit'es un kit de...",
-            "date": "2015-04-21",
-            "categories": "google,google-adsense",
-            "tags": "internautas,p\u00e1ginas,anuncios,infectar,distribuir,distribuir-malware,malware,google,google_adsense,adsense,cibercriminales",
-            "recuweb_url": "http://es.recuweb.com/google-adsense/teinteresa.es/2015/04/cibercriminales-utilizan-google-adsense-para-distribuir-malware",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Badsense&format=RSS&cc=es",
-            "source_url": "http://teinteresa.es/tecno/internet/Cibercriminales-utilizan-Google-Adsense-distribuir_0_1343266412.html"
         }
     }
 }

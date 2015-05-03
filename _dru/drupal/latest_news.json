@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/drupal/",
@@ -11,6 +11,46 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
+        "opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem": {
+            "title": "How containers will shape the Drupal ecosystem -...",
+            "snippet": "containers will shape the Drupal recently had the opportunity to interview David Strauss about how Pantheon uses containers to isolate many Drupal applications from development to production environments. His upcoming DrupalCon talk, PHP Containers...",
+            "date": "2015-05-01",
+            "categories": "php,drupal",
+            "tags": "php,development,how,will,drupal",
+            "recuweb_url": "http://es.recuweb.com/drupal/opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem",
+            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/5/how-containers-will-shape-drupal-ecosystem"
+        },
+        "pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket": {
+            "title": "Web Developer (Drupal & PHP) - Pocket...",
+            "snippet": "Web Developer (Drupal & PHP)Pocket will have a strong background in PHP Development, have been part of several Drupal 6/7 implementation or upgrade projects, and have experience with integrating Drupal with external API's. You will demonstrate an...",
+            "date": "2015-05-01",
+            "categories": "drupal,php",
+            "tags": "will,web,drupal,php,development",
+            "recuweb_url": "http://es.recuweb.com/php/pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket",
+            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
+            "source_url": "http://pocketgamer.biz/jobs/advert/391/web-developer-drupal-and-php/"
+        },
+        "opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs": {
+            "title": "Building better pages in Drupal with Paragraphs -...",
+            "snippet": "better pages in Drupal with of content management systems like Drupal have a number of options that allow them to create very attractive, very usable layouts. That's one factor that drew Murray Woodman to Drupal. He co-founded Morpht, a...",
+            "date": "2015-04-30",
+            "categories": "drupal",
+            "tags": "create,content,content-management,management,systems,drupal",
+            "recuweb_url": "http://es.recuweb.com/drupal/opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs",
+            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/4/interview-Murray-Woodman-Morpht"
+        },
+        "hup.hu/2015/04/webtudor-s1e12-mit-hoz-a-drupal-8-hungarian-unix-portal": {
+            "title": "Webtudor S1E12: Mit hoz a Drupal 8? - Hungarian Unix Portal...",
+            "snippet": "Hungarian Unix PortalWebtudor S1E12: Mit hoz a Drupal 8?Hungarian Unix PortalN\u00e9ha nincs sz\u00fcks\u00e9g saj\u00e1t fejleszt\u00e9sre, st kifejezetten elny\u00f6s a k\u00e9sz megold\u00e1s. Ugyan a Drupal messze f\u00f6ld\u00f6n h\u00edres a magas bel\u00e9p szintje miatt, de az ennek...",
+            "date": "2015-04-29",
+            "categories": "drupal",
+            "tags": "drupal",
+            "recuweb_url": "http://es.recuweb.com/drupal/hup.hu/2015/04/webtudor-s1e12-mit-hoz-a-drupal-8-hungarian-unix-portal",
+            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
+            "source_url": "http://hup.hu/node/140237"
+        },
         "es.paperblog.com/2015/04/c%C3%B3mo-elegir-un-buen-hosting-o-streaming-para-tu-blog-sitio": {
             "title": "C\u00f3mo elegir un buen hosting o streaming para tu blog o sitio web.",
             "snippet": "Drupal, Moodle, Flash, Copia de seguridad autom\u00e1tica y peri\u00f3dica, monitoreo 24/7 (todos los d\u00edas y horas del a\u00f1o), deben soportar la publicaci\u00f3n de archivos de video y audio, Java, Webmail, acceso FTP y Base de datos en MySql o SQL dependiendo.",
@@ -26,77 +66,37 @@
             "snippet": "Smile pr\u00e9pare la sortie de Drupal 8 Le groupe lance un portail d\u00e9di\u00e9... est un CMS (Content Management System, ou syst\u00e8me de gestion de contenu) open source, qui permet de publier facilement, de g\u00e9rer et d'organiser des contenus sur le Web.",
             "date": "2015-04-23",
             "categories": "drupal",
-            "tags": "open,open-source,source,content,content_management,management,system,drupal,cms,web",
+            "tags": "sur,open,open-source,source,content,content_management,management,system,drupal,cms,web",
             "recuweb_url": "http://es.recuweb.com/drupal/developpez.com/2015/04/smile-pr%C3%A9pare-la-sortie-de-drupal-8-le-groupe-lance",
             "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://developpez.com/actu/84293/Smile-prepare-la-sortie-de-Drupal-8-le-groupe-lance-un-portail-dedie-a-la-prochaine-version-majeure-du-CMS-open-source/"
-        },
-        "publictechnology.net/2015/04/councils-in-move-for-joint-drupal-content-management-system": {
-            "title": "Councils in move for joint Drupal content management system -...",
-            "snippet": "Councils in move for joint Drupal content management councils, which already share a number of services, are proposing to procure a hosting provider to run their CMSs on the Drupal platform to power their websites and intranets. The procurement is...",
-            "date": "2015-04-22",
-            "categories": "drupal",
-            "tags": "websites,provider,are,which,content,content-management,management,content-management-system,management-system,system,drupal,hosting",
-            "recuweb_url": "http://es.recuweb.com/drupal/publictechnology.net/2015/04/councils-in-move-for-joint-drupal-content-management-system",
-            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://publictechnology.net/articles/news/councils-move-joint-drupal-content-management-system"
         },
         "lademajagua.co.cu/2015/04/rescatan-documentos-hist%C3%B3ricos-de-bayamo-referentes-a-la-colonia-y-rep%C3%BAblica": {
             "title": "Rescatan documentos hist\u00f3ricos de Bayamo referentes a la colonia y la rep\u00fablica...",
             "snippet": "Empleamos una herramienta de avanzada para la confecci\u00f3n de Portales Web, nombrada Sistema Gestor de Contenidos Drupal, en su \u00faltima versi\u00f3n, la. Esta posibilita de forma r\u00e1pida publicar, manejar, organizar contenidos mediante roles y...",
             "date": "2015-04-22",
             "categories": "drupal",
-            "tags": "drupal,web",
+            "tags": "r\u00e1pida,drupal,web",
             "recuweb_url": "http://es.recuweb.com/drupal/lademajagua.co.cu/2015/04/rescatan-documentos-hist%C3%B3ricos-de-bayamo-referentes-a-la-colonia-y-rep%C3%BAblica",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=es",
             "source_url": "http://lademajagua.co.cu/index.php/component/content/article/68-1ra/28608-rescatan-documentos-historicos-de-bayamo-referentes-a-la-colonia-y-la-republica"
-        },
-        "zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration": {
-            "title": "Eweev taking part in Drupal worldwide family - Zawya (registration)...",
-            "snippet": "Eweev taking part in Drupal worldwide familyZawya (registration)Eweev, a web development company in Lebanon, announces its participation in DrupalCon 2015 in Los Angeles, USA, from May 11th till the 15th. This conference gathers, from around the...",
-            "date": "2015-04-20",
-            "categories": "drupal",
-            "tags": "conference,its,company,drupal,web,this",
-            "recuweb_url": "http://es.recuweb.com/drupal/zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration",
-            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://zawya.com/story/Eweev_taking_part_in_Drupal_worldwide_family-ZAWYA20150420133206/"
-        },
-        "prnewswire.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-pr-newswire": {
-            "title": "FTC Orlando Hosts Largest Educational Conference in Florida of... - PR Newswire (press release)...",
-            "snippet": "FTC Orlando Hosts Largest Educational Conference in Florida of...PR Newswire (press release)Drupal is a popular, free content management system. It is used to build everything from personal blogs to a diversity of business applications. Millions of...",
-            "date": "2015-04-16",
-            "categories": "drupal",
-            "tags": "content,content-management,content-management-system,management,management-system,system,release,conference,drupal",
-            "recuweb_url": "http://es.recuweb.com/drupal/prnewswire.com/2015/04/ftc-orlando-hosts-largest-educational-conference-in-florida-of-pr-newswire",
-            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://prnewswire.com/news-releases/ftc-orlando-hosts-largest-educational-conference-in-florida-of-drupal-web-developers-300067014.html"
         },
         "computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia": {
             "title": "govCMS to release its own Drupal distribution - Computerworld Australia...",
             "snippet": "Computerworld AustraliagovCMS to release its own Drupal distributionComputerworld AustraliaThe government's govCMS project will make its own Drupal distribution publicly available for download, it announced today. The distribution will be a fork of...",
             "date": "2015-04-16",
             "categories": "drupal",
-            "tags": "its,release,drupal",
+            "tags": "will,drupal",
             "recuweb_url": "http://es.recuweb.com/drupal/computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia",
             "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://computerworld.com.au/article/572793/govcms-release-its-own-drupal-distribution/"
-        },
-        "whatech.com/2015/04/drupal-version-released-to-upgrade-the-websites-whatech": {
-            "title": "Drupal Version Released To Upgrade The Websites - WhaTech...",
-            "snippet": "Drupal Version Released To Upgrade The WebsitesWhaTechApril 2015 - The company has launched a new version of Drupal 7.x series i.e. Drupal on 02 April 2015. This latest version is a maintenance release and fixes numerous bugs. Drupal consists of...",
-            "date": "2015-04-14",
-            "categories": "drupal",
-            "tags": "release,company,drupal,websites,this",
-            "recuweb_url": "http://es.recuweb.com/drupal/whatech.com/2015/04/drupal-version-released-to-upgrade-the-websites-whatech",
-            "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://whatech.com/development/press-release/53383-drupal-version-7-36-released-to-upgrade-the-websites"
         },
         "pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine": {
             "title": "WordPress Vs Drupal Vs Joomla - PC Tech Magazine...",
             "snippet": "PC Tech MagazineWordPress Vs Drupal Vs JoomlaPC Tech MagazineIn case you have decided to create a website and you are wondering which content management system (CMS) is the best choice for you. This post is going to look at three of the most...",
             "date": "2015-04-13",
             "categories": "drupal,wordpress,joomla",
-            "tags": "are,which,content,content-management,content-management-system,management,management-system,system,drupal,wordpress,joomla,cms,this",
+            "tags": "create,content,content-management,management,system,drupal,wordpress,joomla,cms",
             "recuweb_url": "http://es.recuweb.com/joomla/pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine",
             "resource_url": "http://news.google.es/?hl=es&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://pctechmag.com/2015/04/wordpress-vs-joomla-vs-drupal/"

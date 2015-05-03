@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sqlite/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
-        "linux-os.net/2015/04/implementando-un-sistema-de-templates-con-bash-y-sqlite-linux": {
-            "title": "Implementando un Sistema de templates con Bash y Sqlite Linux...",
+        "ubuntulife.wordpress.com/2015/04/implementando-un-sistema-de-templates-con-bash-y-sqlite-ubuntu": {
+            "title": "Implementando un Sistema de templates con Bash y Sqlite Ubuntu...",
             "snippet": "Puede que en alg\u00fan proyecto tengamos que utilizar alg\u00fan fichero de plantilla (que en definitiva no dejan de ser ficheros de texto plano con variables) donde tengamos que sustituir las variables del fichero de la plantilla por...",
             "date": "2015-04-21",
             "author_name": "Lobo",
             "categories": "sqlite",
-            "tags": "sqlite,sistema,proyecto",
-            "recuweb_url": "http://es.recuweb.com/sqlite/linux-os.net/2015/04/implementando-un-sistema-de-templates-con-bash-y-sqlite-linux",
+            "tags": "alg\u00fan,sqlite,sistema,proyecto",
+            "recuweb_url": "http://es.recuweb.com/sqlite/ubuntulife.wordpress.com/2015/04/implementando-un-sistema-de-templates-con-bash-y-sqlite-ubuntu",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://linux-os.net/implementando-un-sistema-de-templates-con-bash-y-sqlite/"
+            "source_url": "http://ubuntulife.wordpress.com/2015/04/21/implementando-un-sistema-de-templates-con-bash-y-sqlite/"
         },
         "conestecurso.wordpress.com/2015/03/tutorial-sqlite-studio-conestecurso": {
             "title": "Tutorial SqLite Studio conestecurso...",
@@ -28,7 +28,7 @@
             "date": "2015-03-31",
             "author_name": "conestecursoblog",
             "categories": "sqlite",
-            "tags": "usada,mundo,motor,bases,software,sistema,sql,sqlite,tutorial,tutorial_sqlite,tutorial_sqlite_studio,sqlite_studio,studio,datos",
+            "tags": "siendo,usada,mundo,motor,bases,servidor,necesidad,software,sistema,sql,sqlite,tutorial,tutorial_sqlite,tutorial_sqlite_studio,sqlite_studio,studio,datos",
             "recuweb_url": "http://es.recuweb.com/sqlite/conestecurso.wordpress.com/2015/03/tutorial-sqlite-studio-conestecurso",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://conestecurso.wordpress.com/2015/03/31/tutorial-sqlite-studio/"
@@ -39,7 +39,7 @@
             "date": "2015-03-25",
             "author_name": "Hugo Gomez Arenas",
             "categories": "sqlite",
-            "tags": "primero,aplicaci\u00f3n,veremos,android,apps,consultas,sqlite,base,datos",
+            "tags": "primero,aplicaci\u00f3n,veremos,android,consultas,sqlite,apps,base,datos",
             "recuweb_url": "http://es.recuweb.com/sqlite/hugox.me/2015/03/consultas-a-sqlite-desde-adb-para-apps-xamarin-android",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hugox.me/consultas-a-sqlite-desde-adb-para-apps-xamarin-android/"
@@ -50,7 +50,7 @@
             "date": "2015-02-13",
             "author_name": "esmsdn",
             "categories": "sqlite",
-            "tags": "proyecto,c\u00f3mo,trabajar,sqlite,tenemos",
+            "tags": "proyecto,podemos,trabajar,sqlite,tenemos",
             "recuweb_url": "http://es.recuweb.com/sqlite/blogs.msdn.com/2015/02/usando-sqlite-en-desarrollos-multiplataforma-esmsdn-site-home",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogs.msdn.com/b/esmsdn/archive/2015/02/13/usando-sqlite-en-desarrollos-multiplataforma.aspx"
@@ -65,6 +65,28 @@
             "recuweb_url": "http://es.recuweb.com/sqlite/developeando.net/2015/01/descargar-e-instalar-sqlite-en-windows-developeando",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://developeando.net/descargar-sqlite/"
+        },
+        "blog.desdelinux.net/2014/12/aplicaciones-gr%C3%A1ficas-para-abrir-archivos-sqlite-en-linux": {
+            "title": "Aplicaciones gr\u00e1ficas para abrir archivos SQLite en Linux...",
+            "snippet": "En determinadas ocasiones necesitamos abrir alg\u00fan archivo del tipo SQLite. O sea, un tipo de base de datos que est\u00e1 siendo popular, su posibilidad de almacenar datos sin necesidad de un servidor (como ocurre con...",
+            "date": "2014-12-01",
+            "author_name": "KZKG^Gaara",
+            "categories": "sqlite",
+            "tags": "necesidad,servidor,siendo,alg\u00fan,aplicaciones,sqlite,base,datos",
+            "recuweb_url": "http://es.recuweb.com/sqlite/blog.desdelinux.net/2014/12/aplicaciones-gr%C3%A1ficas-para-abrir-archivos-sqlite-en-linux",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.desdelinux.net/aplicaciones-graficas-para-abrir-archivos-sqlite-en-linux/"
+        },
+        "20142411valdali.wordpress.com/2014/11/video-base-de-datos": {
+            "title": "Video Base de Datos...",
+            "snippet": "Por este medio te explico como crear una Base de Datos en Sqlite Administrator paso por paso. Aqui tienes un breve ejemplo, espero que te guste.",
+            "date": "2014-11-20",
+            "author_name": "valdali",
+            "categories": "sqlite",
+            "tags": "sqlite,sqlite_administrator,administrator,crear,base,datos",
+            "recuweb_url": "http://es.recuweb.com/sqlite/20142411valdali.wordpress.com/2014/11/video-base-de-datos",
+            "resource_url": "http://es.search.wordpress.com/?q=sqlite%2Bsqlite&f=feed&page=1",
+            "source_url": "http://20142411valdali.wordpress.com/video-base-de-datos/"
         },
         "hermosaprogramacion.com/2014/10/tutorial-de-bases-datos-sqlite-en-aplicaciones-android": {
             "title": "Tutorial De Bases De Datos SQLite En Aplicaciones Android...",
@@ -98,28 +120,6 @@
             "recuweb_url": "http://es.recuweb.com/java/dany145blog.wordpress.com/2014/07/conectar-una-base-de-datos-sqlite-en-java",
             "resource_url": "http://es.search.wordpress.com/?q=sqlite%2Bsqlite&f=feed&page=1",
             "source_url": "http://dany145blog.wordpress.com/2014/07/10/conectar-una-base-de-datos-sqlite-en-java/"
-        },
-        "blog.udemy.com/2013/12/tutorial-de-android-sqlite-para-principiantes-udemy-blog": {
-            "title": "Tutorial de Android SQLite para Principiantes - Udemy Blog...",
-            "snippet": "Sea como sea, aprender c\u00f3mo usar SQLite es vital para la creaci\u00f3n de aplicaciones en Android. Si quieres aprender a desarrollar aplicaciones Android pero todav\u00eda no dominas bien los conceptos b\u00e1sicos, el curso Aprende...",
-            "date": "2013-12-21",
-            "author_name": "Kasia Mikoluk",
-            "categories": "sqlite",
-            "tags": "conceptos,aprender,aplicaciones,c\u00f3mo,usar,android,sqlite,tutorial",
-            "recuweb_url": "http://es.recuweb.com/sqlite/blog.udemy.com/2013/12/tutorial-de-android-sqlite-para-principiantes-udemy-blog",
-            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.udemy.com/tutorial-de-android-sqlite-para-principiantes/"
-        },
-        "sgoliver.net/2011/01/bases-de-datos-en-android-i-primeros-pasos-blog": {
-            "title": "Bases de Datos en Android (I): Primeros pasos blog...",
-            "snippet": "En estos pr\u00f3ximos art\u00edculos nos centraremos en la primera opci\u00f3n, SQLite, que abarcar\u00e1 todas las tareas relacionadas con el almacenamiento de los datos propios de nuestra aplicaci\u00f3n. El segundo de los mecanismos, los...",
-            "date": "2011-01-31",
-            "author_name": "sgoliver",
-            "categories": "sqlite",
-            "tags": "aplicaci\u00f3n,bases,datos,android,sqlite",
-            "recuweb_url": "http://es.recuweb.com/sqlite/sgoliver.net/2011/01/bases-de-datos-en-android-i-primeros-pasos-blog",
-            "resource_url": "http://www.google.com/search?q=sqlite&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://sgoliver.net/blog/bases-de-datos-en-android-i-primeros-pasos/"
         }
     }
 }

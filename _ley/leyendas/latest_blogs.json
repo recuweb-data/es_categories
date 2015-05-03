@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "leyendas",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/leyendas/",
@@ -11,60 +11,93 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/leyendas/leyendas/blogs.json"
     },
     "items": {
-        "blog.empleate.com/2015/04/leyendas-de-un-dise%C3%B1ador-el-blog-empl%C3%A9ate": {
-            "title": "Leyendas de un dise\u00f1ador El blog de Empl\u00e9ate...",
-            "snippet": "Un d\u00eda como hoy, 27 de abril pero de 1963, se conmemora el D\u00eda del Dise\u00f1ador Gr\u00e1fico, instaurado por el Consejo Internacional de Asociaciones de Dise\u00f1o Gr\u00e1fico, con el fin de rendir homenaje a todos los profesionales...",
+        "taringa.net/2015/05/leyendas-urbanas-hoy-john-titor-taringa": {
+            "title": "Leyendas urbanas. Hoy John Titor - Taringa!",
+            "snippet": "Leyendas urbanas, siempre han estado entre nosotros, leyendas que con el paso de los a\u00f1os y la implantacion de la tecnologia de la informacion (inter...",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "tecnologia,leyendas",
+            "tags": "leyendas,urbanas,taringa",
+            "recuweb_url": "http://es.recuweb.com/leyendas/taringa.net/2015/05/leyendas-urbanas-hoy-john-titor-taringa",
+            "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/info/18637340/Leyendas-urbanas-Hoy-John-Titor.html"
+        },
+        "taringa.net/2015/04/leyendas-urbanas-de-buenos-aires-pasa-troesma-taringa": {
+            "title": "Leyendas urbanas de Buenos Aires, Pasa troesma - Taringa!",
+            "snippet": "1 Iglesia de Santa Felicitas. En Barracas, en Isabel La Cat\u00f3lica entre Pinz\u00f3n y Brandsen, la Iglesia de Santa Felicitas encarna una de las leyendas...",
+            "date": "2015-04-30",
+            "author_name": "desconocido",
+            "categories": "leyendas",
+            "tags": "santa,leyendas,urbanas,taringa",
+            "recuweb_url": "http://es.recuweb.com/leyendas/taringa.net/2015/04/leyendas-urbanas-de-buenos-aires-pasa-troesma-taringa",
+            "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/info/18636445/Leyendas-urbanas-de-Buenos-Aires-Pasa-troesma.html"
+        },
+        "soymotero.net/2015/04/v%C3%ADdeo-leyendas-del-motor-1969-2015-de-nieto-a-m%C3%A1rquez": {
+            "title": "V\u00eddeo Leyendas del motor (1969-2015): de Nieto a M\u00e1rquez...",
+            "snippet": "Video Leyendas del motor (1969-2015): de Nieto a M\u00e1rquez, Repsol inaugura en Jerez la exposici\u00f3n que recorre toda su trayectoria vinculada al mundo de las carreras, desde 1969, cuando la R de Repesa comenz\u00f3 a verse...",
+            "date": "2015-04-30",
+            "author_name": "Javier P\u00e9rez Rubio",
+            "categories": "leyendas",
+            "tags": "leyendas,m\u00e1rquez,mundo",
+            "recuweb_url": "http://es.recuweb.com/leyendas/soymotero.net/2015/04/v%C3%ADdeo-leyendas-del-motor-1969-2015-de-nieto-a-m%C3%A1rquez",
+            "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://soymotero.net/leyendas-del-motor-1969-2015-de-nieto-a-marquez-15853"
+        },
+        "rafabasa.com/2015/04/fiestas-leyendas-del-rock-s%C3%A1bado-9-en-burgos-16": {
+            "title": "FIESTAS LEYENDAS DEL ROCK: S\u00e1bado 9 en BURGOS, 16 de...",
+            "snippet": "FIESTAS LEYENDAS DEL ROCK: S\u00e1bado 9 en BURGOS, 16 de mayo en AGUILAS, (MURCIA). Como a\u00f1os anteriores, organiza las FIESTAS OFICIALES del FESTIVAL LEYENDAS DEL ROCK. Tras el gran...",
             "date": "2015-04-27",
-            "author_name": "empleate",
-            "categories": "leyendas",
-            "tags": "fin,homenaje,abril,d\u00eda,leyendas",
-            "recuweb_url": "http://es.recuweb.com/leyendas/blog.empleate.com/2015/04/leyendas-de-un-dise%C3%B1ador-el-blog-empl%C3%A9ate",
+            "author_name": "rafabasa",
+            "categories": "leyendas,rock",
+            "tags": "festival,leyendas,rock,burgos",
+            "recuweb_url": "http://es.recuweb.com/rock/rafabasa.com/2015/04/fiestas-leyendas-del-rock-s%C3%A1bado-9-en-burgos-16",
             "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.empleate.com/leyendas-de-disenador/1843"
+            "source_url": "http://rafabasa.com/2015/04/27/fiestas-leyendas-del-rock-sabado-9-en-burgos-16-de-mayo-en-aguilas-murcia/"
         },
-        "supercurioso.com/2015/04/4-escalofriantes-leyendas-latinoamericanas-parte-iii-supercurioso": {
-            "title": "4 Escalofriantes leyendas latinoamericanas (Parte III) Supercurioso...",
-            "snippet": "En Supercurioso te hemos contado sobre algunas de las leyendas latinoamericanas m\u00e1s famosas, en esta oportunidad te traemos las tercera parte de esta lista, descubre cuales son las m\u00e1s terror\u00edficas.",
-            "date": "2015-04-26",
-            "author_name": "Cristina Garc\u00eda Bautista",
-            "categories": "leyendas",
-            "tags": "parte,latinoamericanas,escalofriantes,leyendas,son",
-            "recuweb_url": "http://es.recuweb.com/leyendas/supercurioso.com/2015/04/4-escalofriantes-leyendas-latinoamericanas-parte-iii-supercurioso",
-            "resource_url": "http://www.google.com/search?q=leyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://supercurioso.com/4-escalofriantes-leyendas-latinoamericanas-parte-iii/"
-        },
-        "europapress.es/2015/04/patrick-dempsey-se-une-a-otras-leyendas-del-cine": {
-            "title": "Patrick Dempsey se une a otras leyendas del cine con su pasi\u00f3n por...",
-            "snippet": "Patrick Dempsey no es el primer actor de \u00e9xito que aparca por un tiempo la actuaci\u00f3n para dedicarse por entero al competitivo y arriesgado mundo del automovilismo. Al protagonista de Anatom\u00eda de Grey le precedieron...",
-            "date": "2015-04-26",
-            "author_name": "desconocido",
-            "categories": "automovilismo,cine,leyendas",
-            "tags": "mundo,leyendas,tiempo",
-            "recuweb_url": "http://es.recuweb.com/leyendas/europapress.es/2015/04/patrick-dempsey-se-une-a-otras-leyendas-del-cine",
+        "upsocl.com/2015/04/mitos-y-leyendas-rusas-quedaron-inmortalizados-en-estas-upsocl": {
+            "title": "Mitos y leyendas rusas quedaron inmortalizados en estas... - Upsocl...",
+            "snippet": "Ella presta atenci\u00f3n especial a su interpretaci\u00f3n del simbolismo oculto en leyendas y mitos. El objetivo del proyecto es utilizar la fotograf\u00eda para contar historias que se han dicho, reescrito o se han distorsionado durante muchos siglos.",
+            "date": "2015-04-27",
+            "author_name": "Catalina Grez",
+            "categories": "fotografia,leyendas",
+            "tags": "historias,mitos,leyendas,ella",
+            "recuweb_url": "http://es.recuweb.com/leyendas/upsocl.com/2015/04/mitos-y-leyendas-rusas-quedaron-inmortalizados-en-estas-upsocl",
             "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://europapress.es/chance/gente/noticia-patrick-dempsey-une-leyendas-cine-pasion-velocidad-20150426160017.html"
+            "source_url": "http://upsocl.com/creatividad/mitos-y-leyendas-rusas-quedaron-inmortalizados-en-estas-sorprendentes-fotografias/"
         },
-        "eslahoradelastortas.com/2015/04/rese%C3%B1a-las-leyendas-de-san-jorge-esteban-maroto": {
-            "title": "Rese\u00f1a: Las Leyendas de San Jorge, de Esteban Maroto Es la...",
-            "snippet": "Una de las novedades m\u00e1s interesantes del pasado Sal\u00f3 del C\u00f3mic de Barcelona, y muy oportunamente coincidiendo con el D\u00eda de Sant Jordi (y del Libro) ha sido el Leyendas de San Jorge, de Esteban Maroto, publicado...",
+        "mundoajedrez.com.pe/2015/04/batalla-de-las-leyendas-kasparov-vs-short-d%C3%ADa-2-mundoajedrez": {
+            "title": "Batalla de Las Leyendas: Kasparov vs Short (D\u00eda 2) - mundoajedrez...",
+            "snippet": "Las leyendas del ajedrez Garry Kasparov y Nigel Short est\u00e1n sosteniendo un duro encuentro denominado La batalla de Las Leyendas, el cual viene llev\u00e1ndose a cabo en la ciudad de Saint Louis, la capital ajedrec\u00edstica de...",
             "date": "2015-04-26",
-            "author_name": "Antonio Hidalgo",
-            "categories": "leyendas",
-            "tags": "san,jorge,leyendas,barcelona,muy,d\u00eda,libro,publicado",
-            "recuweb_url": "http://es.recuweb.com/leyendas/eslahoradelastortas.com/2015/04/rese%C3%B1a-las-leyendas-de-san-jorge-esteban-maroto",
+            "author_name": "PHILOCHESS",
+            "categories": "ajedrez,leyendas",
+            "tags": "capital,capital-ajedrec\u00edstica,ajedrec\u00edstica,saint,saint_louis,louis,viene,viene-llev\u00e1ndose,viene-llev\u00e1ndose-cabo,llev\u00e1ndose,llev\u00e1ndose-cabo,cabo,ciudad,batalla,est\u00e1n,est\u00e1n-sosteniendo,sosteniendo,sosteniendo-un-duro,duro,nigel,ajedrez,ajedrez-garry,garry,leyendas,kasparov,short,d\u00eda,mundoajedrez,encuentro,denominado",
+            "recuweb_url": "http://es.recuweb.com/leyendas/mundoajedrez.com.pe/2015/04/batalla-de-las-leyendas-kasparov-vs-short-d%C3%ADa-2-mundoajedrez",
             "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://eslahoradelastortas.com/?p=32774"
+            "source_url": "http://mundoajedrez.com.pe/batalla-de-las-leyendas-kasparov-vs-short-dia-2/"
         },
-        "taringa.net/2015/04/las-leyendas-latinoamericanas-que-nunca-ganaron-la-champions": {
-            "title": "Las leyendas latinoamericanas que nunca ganaron la Champions...",
-            "snippet": "Las leyendas latinoamericanas que nunca ganaron la Champions League. Gran cantidad de estrellas, s\u00edmbolos de sus selecciones, no pudieron conquistar...",
+        "mundoajedrez.com.pe/2015/04/batalla-de-las-leyendas-kasparov-vs-short-d%C3%ADa-1-mundoajedrez": {
+            "title": "Batalla de Las Leyendas: Kasparov vs Short (D\u00eda 1) - mundoajedrez...",
+            "snippet": "Las leyendas del ajedrez Garry Kasparov y Nigel Short est\u00e1n sosteniendo un duro encuentro denominado La batalla de Las Leyendas, el cual viene llev\u00e1ndose a cabo en la ciudad de Saint Louis, la capital ajedrec\u00edstica de...",
             "date": "2015-04-25",
-            "author_name": "desconocido",
-            "categories": "estrella,leyendas",
-            "tags": "cantidad,latinoamericanas,leyendas,gran",
-            "recuweb_url": "http://es.recuweb.com/leyendas/taringa.net/2015/04/las-leyendas-latinoamericanas-que-nunca-ganaron-la-champions",
+            "author_name": "PHILOCHESS",
+            "categories": "ajedrez,leyendas",
+            "tags": "capital,capital-ajedrec\u00edstica,ajedrec\u00edstica,saint,saint_louis,louis,viene,viene-llev\u00e1ndose,viene-llev\u00e1ndose-cabo,llev\u00e1ndose,llev\u00e1ndose-cabo,cabo,ciudad,batalla,est\u00e1n,est\u00e1n-sosteniendo,sosteniendo,sosteniendo-un-duro,duro,nigel,ajedrez,ajedrez-garry,garry,leyendas,kasparov,short,d\u00eda,mundoajedrez,encuentro,denominado",
+            "recuweb_url": "http://es.recuweb.com/leyendas/mundoajedrez.com.pe/2015/04/batalla-de-las-leyendas-kasparov-vs-short-d%C3%ADa-1-mundoajedrez",
+            "resource_url": "http://www.google.com/search?q=leyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mundoajedrez.com.pe/la-batalla-de-las-leyendas-kasparov-vs-short-ronda-1/"
+        },
+        "generacionkpop.com/2015/04/leyendas-de-corea-tinta-roja-generacion-kpop-radio": {
+            "title": "LEYENDAS DE COREA \"TINTA ROJA\" - Generacion Kpop Radio...",
+            "snippet": "En Corea se cuenta que hab\u00eda una vez una maestra muy hermosa pero muy amargada y mala con sus estudiantes. En su clase, hab\u00eda un chico que estaba perdidamente enamorado de ella, a\u00fan sabiendo como era ella.",
+            "date": "2015-04-25",
+            "author_name": "Joxdra",
+            "categories": "radio,leyendas",
+            "tags": "era,ella,cuenta,leyendas,muy",
+            "recuweb_url": "http://es.recuweb.com/leyendas/generacionkpop.com/2015/04/leyendas-de-corea-tinta-roja-generacion-kpop-radio",
             "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/posts/deportes/18626639/Las-leyendas-latinoamericanas-que-nunca-ganaron-la-Champions.html"
+            "source_url": "http://generacionkpop.com/2015/04/leyendas-de-corea-tinta-roja.html"
         },
         "americaeconomia.com/2015/04/el-mito-de-las-sirenas-pueden-antiguas-leyendas-proteger": {
             "title": "El mito de las sirenas: \u00bfpueden las antiguas leyendas proteger a las...",
@@ -72,54 +105,21 @@
             "date": "2015-04-24",
             "author_name": "Lino Sol\u00eds de Ovando",
             "categories": "planeta,leyendas",
-            "tags": "leyendas",
+            "tags": "est\u00e1n,leyendas,global",
             "recuweb_url": "http://es.recuweb.com/leyendas/americaeconomia.com/2015/04/el-mito-de-las-sirenas-pueden-antiguas-leyendas-proteger",
             "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://americaeconomia.com/politica-sociedad/sociedad/el-mito-de-las-sirenas-pueden-las-antiguas-leyendas-proteger-las-verdader"
         },
-        "abc.com.py/2015/04/monsters-of-rock-regresa-a-brasil-con-leyendas-como-ozzy": {
-            "title": "Monsters of Rock regresa a Brasil con leyendas como Ozzy...",
-            "snippet": "Monsters of Rock regresa a Brasil con leyendas como Ozzy Osbourne y Kiss. Por EFE. SAO PAULO. Los legendarios Kiss, Judas Priest y Ozzy Osbourne son los pesos pesados que animar\u00e1n en Sao Paulo este fin de...",
-            "date": "2015-04-24",
-            "author_name": "desconocido",
-            "categories": "rock,leyendas",
-            "tags": "fin,leyendas,son",
-            "recuweb_url": "http://es.recuweb.com/leyendas/abc.com.py/2015/04/monsters-of-rock-regresa-a-brasil-con-leyendas-como-ozzy",
-            "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://abc.com.py/espectaculos/musica/monsters-of-rock-regresa-a-brasil-con-leyendas-como-ozzy-osbourne-y-kiss-1360042.html"
-        },
-        "blogs.lainformacion.com/2015/04/la-destrucci%C3%B3n-de-mitos-leyendas-y-h%C3%A9roes-en-siete-a%C3%B1os-crisis": {
-            "title": "La destrucci\u00f3n de mitos, leyendas y h\u00e9roes en siete a\u00f1os de crisis...",
-            "snippet": "Y casi nadie hubiera adivinado la cantidad de creencias, mitos, leyendas y h\u00e9roes que caer\u00edan -como Pompeya- arrastrados por esa lava empezando por -Rodrigo Rato. Ex vicepresidente econ\u00f3mico, padre del milagro...",
-            "date": "2015-04-20",
-            "author_name": "zoomboomcrash",
+        "misteriosarealidad.com/2015/04/leyendas-urbanas-la-verdadera-identidad-de-jack-el-destripador": {
+            "title": "Leyendas Urbanas: La verdadera identidad de Jack el destripador...",
+            "snippet": "Por tal motivo, el caso de Jack el destripador se ha convertido en una oscura Leyenda Urbana. De hecho hay muchos investigadores que afirman que Jack, no fue un solo hombre, si no que el verdadero autor fueron dos o...",
+            "date": "2015-04-23",
+            "author_name": "Alex Mendez Romero",
             "categories": "leyendas",
-            "tags": "esa,cantidad,mitos,leyendas",
-            "recuweb_url": "http://es.recuweb.com/leyendas/blogs.lainformacion.com/2015/04/la-destrucci%C3%B3n-de-mitos-leyendas-y-h%C3%A9roes-en-siete-a%C3%B1os-crisis",
+            "tags": "hecho,leyendas,leyenda_urbana,urbanas,leyendas_urbanas,dos",
+            "recuweb_url": "http://es.recuweb.com/leyendas/misteriosarealidad.com/2015/04/leyendas-urbanas-la-verdadera-identidad-de-jack-el-destripador",
             "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.lainformacion.com/zoomboomcrash/2015/04/20/la-destruccion-de-mitos-leyendas-y-heroes-en-siete-anos-de-crisis/"
-        },
-        "circoviral.com/2015/04/estas-son-las-10-leyendas-urbanas-japonesas-m%C3%A1s-escalofriantes": {
-            "title": "Estas Son Las 10 Leyendas Urbanas Japonesas M\u00e1s Escalofriantes...",
-            "snippet": "De peque\u00f1os escuchamos varias historias de miedo que nos aterrorizaron e hicieron que sali\u00e9ramos corriendo al cuarto de mam\u00e1, porque ni por error \u00edbamos a dormir esa noche solos. Y as\u00ed como estas historias, hay muchas m\u00e1s alrededor...",
-            "date": "2015-04-17",
-            "author_name": "Lizeth Ovalle Burgos",
-            "categories": "leyendas",
-            "tags": "historias,esa,hicieron,leyendas,leyendas_urbanas,urbanas,escalofriantes,son",
-            "recuweb_url": "http://es.recuweb.com/leyendas/circoviral.com/2015/04/estas-son-las-10-leyendas-urbanas-japonesas-m%C3%A1s-escalofriantes",
-            "resource_url": "http://www.google.com/search?q=leyendas%2Bleyendas&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://circoviral.com/10-leyendas-urbanas-japonesas/"
-        },
-        "esoterismos.com/2015/04/cuentos-y-leyendas-para-ni%C3%B1os": {
-            "title": "Cuentos y leyendas para ni\u00f1os...",
-            "snippet": "Los cuentos y leyendas para ni\u00f1os son herramientas para su desarrollo. A trav\u00e9s de los cuentos y leyendas los ni\u00f1os comienzan a iniciarse en el lenguaje y a desarrollar su imaginaci\u00f3n. Aprenden valores y comienzan a interesarse por la lectura.",
-            "date": "2015-04-01",
-            "author_name": "Verdemar",
-            "categories": "lenguaje,leyendas",
-            "tags": "cuentos,desarrollo,leyendas,son",
-            "recuweb_url": "http://es.recuweb.com/leyendas/esoterismos.com/2015/04/cuentos-y-leyendas-para-ni%C3%B1os",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=leyendas%2Bleyendas&rss=1&lng=es",
-            "source_url": "http://esoterismos.com/cuentos-y-leyendas-para-ninos/"
+            "source_url": "http://misteriosarealidad.com/2015/04/leyendas-urbanas-la-verdadera-identidad-jack-destripador.html"
         }
     }
 }

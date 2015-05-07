@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "json",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/json/",
@@ -11,16 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/json/json/blogs.json"
     },
     "items": {
-        "pedestrian.tv/2015/05/kill-time-by-finding-out-how-long-you-have-till-kills": {
-            "title": "Kill Time By Finding Out How Long You Have Till Time Kills You - Pedestrian TV...",
-            "snippet": "Pedestrian TVKill Time By Finding Out How Long You Have Till Time Kills YouPedestrian TVYou can read more about the method behind this fadness HERE. Tbh they lost me at \"This is represented in following JSON document: \"event_datetime\":...",
-            "date": "2015-05-02",
-            "categories": "json",
-            "tags": "json,document,date",
-            "recuweb_url": "http://es.recuweb.com/json/pedestrian.tv/2015/05/kill-time-by-finding-out-how-long-you-have-till-kills",
-            "resource_url": "http://news.google.es/?hl=es&q=json%2Bjson&output=atom&nord=1",
-            "source_url": "http://pedestrian.tv/news/entertainment/kill-time-by-finding-out-how-long-you-have-till-ti/4dda5fc1-3c28-4368-bad6-f9d4666e2052.htm"
-        },
         "unocero.com/2015/05/microsoft-libera-entorno-de-programaci%C3%B3n-para-linux-mac-y-windows": {
             "title": "Microsoft libera entorno de programaci\u00f3n para Linux, Mac y Windows...",
             "snippet": "Una introducci\u00f3n en video al respecto de esta nueva herramienta puede verse aqu\u00ed: Por el momento la lista de proyectos que puede soportar VSCode es corta: JavaScript, JSON, HTML, CSS, LESS y SASS. Si se quiere c\u00f3digo que pueda colorearse (por...",
@@ -51,12 +41,22 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=es",
             "source_url": "http://techweek.es/software-servicios-ti/noticias/1015143004701/teradata-think-big-panel-control.1.html"
         },
+        "jaxenter.de/2015/04/rest-und-hateoas-verlinkung-von-resources-jaxenter": {
+            "title": "REST und HATEOAS Verlinkung von Resources - JAXenter...",
+            "snippet": "JAXenterREST und HATEOAS Verlinkung von ResourcesJAXenterWenn Sie jetzt bei gestartetem Server mit curl localhost:8080/javamagazine/1 ein JavaMagazine abrufen, sehen Sie als Ergebnis eine JSON-Darstellung des Magazins und der eingebetteten Artikel.",
+            "date": "2015-04-27",
+            "categories": "json",
+            "tags": "mit,von,als,eine,json",
+            "recuweb_url": "http://es.recuweb.com/json/jaxenter.de/2015/04/rest-und-hateoas-verlinkung-von-resources-jaxenter",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bjson&output=atom&nord=1",
+            "source_url": "http://jaxenter.de/rest-und-hateoas-verlinkung-von-resources-18726"
+        },
         "programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb": {
             "title": "Google Enables JSON Search History Downloads - ProgrammableWeb...",
             "snippet": "ProgrammableWebGoogle Enables JSON Search History DownloadsProgrammableWebThe actual search history data is contained in a JSON file within the ZIP. Each JSON file corresponds to a date range and has a schema that describes the search events that...",
             "date": "2015-04-22",
             "categories": "json,google",
-            "tags": "date,data,json,google",
+            "tags": "search,data,json,google",
             "recuweb_url": "http://es.recuweb.com/google/programmableweb.com/2015/04/google-enables-json-search-history-downloads-programmableweb",
             "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
             "source_url": "http://programmableweb.com/news/google-enables-json-search-history-downloads/2015/04/22"
@@ -66,30 +66,50 @@
             "snippet": "eWeekGoogle's Jsonnet Language Generates JSONeWeek\"By adding new constructs between the gaps of existing JSON syntax, Jsonnet adds useful features without breaking backwards compatibility,\" Cunningham said. \"Any valid JSON is also a valid Jsonnet...",
             "date": "2015-04-22",
             "categories": "json,google",
-            "tags": "json,google",
+            "tags": "also,features,between,jsonnet,json,google",
             "recuweb_url": "http://es.recuweb.com/google/eweek.com/2015/04/google-s-jsonnet-language-generates-json-eweek",
             "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
             "source_url": "http://eweek.com/developer/googles-jsonnet-language-generates-json.html"
         },
-        "webadictos.com/2015/04/ya-puedes-ver-y-descargar-tu-historial-de-b%C3%BAsquedas-en-google": {
-            "title": "Ya puedes ver y descargar tu historial de b\u00fasquedas en Google...",
-            "snippet": "El sistema compilar\u00e1 tu historial de b\u00fasqueda en un archivo JSON ordenado cronol\u00f3gicamente por trimestre. Cuando este se complete, recibir\u00e1s un correo electr\u00f3nico con tu historial de b\u00fasqueda en Google Drive que podr\u00e1 ser descargado en un...",
+        "tomsguide.com/2015/04/how-to-download-or-delete-your-google-search-history-tom": {
+            "title": "How to Download or Delete Your Google Search History - Tom's Guide...",
+            "snippet": "Tom's GuideHow to Download or Delete Your Google Search HistoryTom's GuideA JSON Viewer application will make the data more comprehensible, but it will also take much longer to read. Between the difficulty in acquiring, reading and parsing them, the...",
             "date": "2015-04-21",
-            "categories": "google,json",
-            "tags": "google,json",
-            "recuweb_url": "http://es.recuweb.com/json/webadictos.com/2015/04/ya-puedes-ver-y-descargar-tu-historial-de-b%C3%BAsquedas-en-google",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=json&format=RSS&cc=es",
-            "source_url": "http://webadictos.com/2015/04/21/ya-puedes-ver-y-descargar-tu-historial-de-busquedas-en-google/"
+            "categories": "json,google",
+            "tags": "also,application,data,json,google,search,between",
+            "recuweb_url": "http://es.recuweb.com/google/tomsguide.com/2015/04/how-to-download-or-delete-your-google-search-history-tom",
+            "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
+            "source_url": "http://tomsguide.com/us/delete-google-search-history,news-20802.html"
+        },
+        "phpmagazin.de/2015/04/jsonnet-googles-daten-templating-sprache-zur-erweiterung-von-php-magazin": {
+            "title": "Jsonnet Googles Daten-Templating-Sprache zur Erweiterung von... - php magazin...",
+            "snippet": "php magazinJsonnet Googles Daten-Templating-Sprache zur Erweiterung von...php magazinErst vor wenigen Monaten ver\u00f6ffentlichte Google mit Jsonnet eine einfache, aber reichhaltige Konfigurationssprache, die als eine Erweiterung von JSON dienen soll.",
+            "date": "2015-04-21",
+            "categories": "php,google,json",
+            "tags": "als,eine,php,jsonnet,von,google,mit,json",
+            "recuweb_url": "http://es.recuweb.com/json/phpmagazin.de/2015/04/jsonnet-googles-daten-templating-sprache-zur-erweiterung-von-php-magazin",
+            "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
+            "source_url": "http://phpmagazin.de/news/jsonnet-google-daten-templating-sprache-erweiterung-json-179438"
         },
         "itjungle.com/2015/04/it-s-tr-time-what-next-for-the-ibm-i-database": {
             "title": "It's TR Time: What's Next For The IBM i Database? - IT Jungle...",
             "snippet": "IT JungleIt's TR Time: What's Next For The IBM i Database?IT JungleWeb application development depends on two document formats for the interchange of business data: XML and JSON. The smaller (lighter weight), quicker to transmit, and more efficient...",
             "date": "2015-04-20",
             "categories": "xml,json",
-            "tags": "document,data,json",
+            "tags": "application,data,json",
             "recuweb_url": "http://es.recuweb.com/json/itjungle.com/2015/04/it-s-tr-time-what-next-for-the-ibm-i-database",
             "resource_url": "http://news.google.es/?hl=es&q=json&output=atom&nord=1",
             "source_url": "http://itjungle.com/tfh/tfh042015-story02.html"
+        },
+        "news.thewindowsclub.com/2015/04/microsoft-introduces-the-ie-diagnostics-adapter-for-third-party-twcn-tech": {
+            "title": "Microsoft introduces the IE Diagnostics Adapter for third party... - TWCN Tech News (blog)...",
+            "snippet": "TWCN Tech News (blog)Microsoft introduces the IE Diagnostics Adapter for third party...TWCN Tech News (blog)Firefox has been closely following Chrome and has superior features such as font inspector, JSON formatter, and 3D view for z-index...",
+            "date": "2015-04-03",
+            "categories": "json",
+            "tags": "features,microsoft,json",
+            "recuweb_url": "http://es.recuweb.com/json/news.thewindowsclub.com/2015/04/microsoft-introduces-the-ie-diagnostics-adapter-for-third-party-twcn-tech",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bjson&output=atom&nord=1",
+            "source_url": "http://news.thewindowsclub.com/microsoft-introduces-ie-diagnostics-adapter-third-party-developer-tools-76152/"
         }
     }
 }

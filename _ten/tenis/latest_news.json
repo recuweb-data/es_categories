@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tenis",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/tenis/",
@@ -11,104 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/tenis/tenis/blogs.json"
     },
     "items": {
+        "marca.com/2015/05/he-aprendido-a-disfrutar-del-tenis-aunque-lo-sufra": {
+            "title": "He aprendido a disfrutar del tenis aunque lo sufra...",
+            "snippet": "Despu\u00e9s de muchos a\u00f1os sin que el tenis espa\u00f1ol estuviera representado en la zona alta del ranking femenino, Carla Su\u00e1rez logr\u00f3 en Miami entrar en el top 10. Y en cuanto a grandes torneos, estrena la categor\u00eda en Madrid. Pregunta. Llega a...",
+            "date": "2015-05-03",
+            "categories": "tenis",
+            "tags": "logr\u00f3,carla,carla_su\u00e1rez,su\u00e1rez,femenino,tenis,espa\u00f1ol,madrid",
+            "recuweb_url": "http://es.recuweb.com/tenis/marca.com/2015/05/he-aprendido-a-disfrutar-del-tenis-aunque-lo-sufra",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/05/03/tenis/1430645309.html"
+        },
         "vanitatis.elconfidencial.com/2015/05/ana-boyer-verdasco-y-elsa-pataky-protagonistas-de-un-torneo-tenis": {
             "title": "Ana Boyer, Verdasco y Elsa Pataky, protagonistas de un torneo de tenis ben\u00e9fico...",
             "snippet": "El llamado Charity Day, un torneo de tenis ben\u00e9fico organizado en el Madrid Open, ha supuesto una ocasi\u00f3n \u00fanica para ver a rostros conocidos tanto en la pista como fuera de ella. Fernando Verdasco era uno de los profesionales que integraban un...",
-            "date": "2015-05-02",
+            "date": "2015-05-03",
             "categories": "tenis",
-            "tags": "madrid,madrid_open,open,torneo,protagonistas,tenis",
+            "tags": "madrid,madrid_open,open,torneo,tenis",
             "recuweb_url": "http://es.recuweb.com/tenis/vanitatis.elconfidencial.com/2015/05/ana-boyer-verdasco-y-elsa-pataky-protagonistas-de-un-torneo-tenis",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
             "source_url": "http://vanitatis.elconfidencial.com/noticias/2015-05-02/ana-boyer-verdasco-y-elsa-pataky-protagonistas-de-un-torneo-de-tenis-benefico_786678/"
         },
-        "marca.com/2015/05/cuevas-reta-a-federer-en-la-final-de-estambul": {
-            "title": "Cuevas reta a Federer en la final de Estambul...",
-            "snippet": "Todav\u00eda siento que soy muy joven y he tenido la oportunidad de descubrir nuevos lugares. Creo que es probablemente una de las razones por las que todav\u00eda estoy jugando tenis hoy en d\u00eda, dijo el suizo en declaraciones a la p\u00e1gina ATP.",
-            "date": "2015-05-02",
+        "abc.es/2015/05/david-ferrer-el-tenis-es-m%C3%A1s-f%C3%A1cil-cuando-creces": {
+            "title": "David Ferrer: El tenis es m\u00e1s f\u00e1cil cuando creces...",
+            "snippet": "Es m\u00e1s que probable que David Ferrer (J\u00e1vea, 1 de abril de 1982) sea el tenista m\u00e1s querido en el vestuario de la ATP. Es educado, agradable y un jugador enorme que cada a\u00f1o parece m\u00e1s bueno. En este 2015 ha vuelto a levantar el vuelo despu\u00e9s...",
+            "date": "2015-05-03",
             "categories": "tenis",
-            "tags": "dijo,d\u00eda,probablemente,razones,todav\u00eda,todav\u00eda-estoy,estoy,siento,siento-que-soy,soy,soy-muy,soy-muy-joven,muy,muy-joven,joven,joven-he-tenido,tenido,tenido-la-oportunidad,oportunidad,oportunidad-de-descubrir,descubrir,descubrir-nuevos,descubrir-nuevos-lugares,nuevos,nuevos-lugares,lugares,federer,final,estambul,creo,jugando,tenis",
-            "recuweb_url": "http://es.recuweb.com/tenis/marca.com/2015/05/cuevas-reta-a-federer-en-la-final-de-estambul",
+            "tags": "vuelto,abril,tenis,tenista",
+            "recuweb_url": "http://es.recuweb.com/tenis/abc.es/2015/05/david-ferrer-el-tenis-es-m%C3%A1s-f%C3%A1cil-cuando-creces",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
-            "source_url": "http://marca.com/2015/05/02/tenis/1430588235.html"
+            "source_url": "http://abc.es/deportes/tenis/20150501/abci-entrevista-david-ferrer-201504301941.html"
         },
-        "expansion.com/2015/05/el-mutua-madrid-open-dispara-impacto-publicitario-de-la-aseguradora": {
-            "title": "El Mutua Madrid Open dispara el impacto publicitario de la aseguradora y de la capital...",
-            "snippet": "El torneo Mutua Madrid Open de tenis es el segundo torneo de tierra batida m\u00e1s importante del calendario y congrega a las grandes figuras del panorama ten\u00edstico a lo largo de sus diez d\u00edas de duraci\u00f3n. Pero la cita trasciende del aspecto...",
-            "date": "2015-05-02",
+        "lat.wsj.com/2015/05/en-el-calzado-deportivo-estilo-pesa-m%C3%A1s-que-rendimiento": {
+            "title": "En el calzado deportivo, el estilo pesa m\u00e1s que el rendimiento...",
+            "snippet": "Hoy por hoy, parecer que se va a correr se ha vuelto casi tan popular como salir a correr. El crecimiento de las ventas de zapatillas o tenis para correr en Estados Unidos se desplaz\u00f3 el a\u00f1o pasado de los modelos de alto rendimiento a los m\u00e1s...",
+            "date": "2015-05-03",
             "categories": "tenis",
-            "tags": "torneo,tierra,tierra-batida,batida,importante,grandes,d\u00edas,mutua,mutua_madrid,mutua_madrid_open,madrid,madrid_open,open,tenis",
-            "recuweb_url": "http://es.recuweb.com/tenis/expansion.com/2015/05/el-mutua-madrid-open-dispara-impacto-publicitario-de-la-aseguradora",
+            "tags": "pasado,estados,estados_unidos,unidos,vuelto,tenis",
+            "recuweb_url": "http://es.recuweb.com/tenis/lat.wsj.com/2015/05/en-el-calzado-deportivo-estilo-pesa-m%C3%A1s-que-rendimiento",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
-            "source_url": "http://expansion.com/directivos/deporte-negocio/2015/05/02/55450ab8268e3ee37f8b456e.html"
+            "source_url": "http://lat.wsj.com/articles/SB12777624514006393725204580604933355669188?tesla=y"
         },
-        "latarde.com/2015/05/el-futuro-del-tenis-colombiano-en-pereira": {
-            "title": "El futuro del tenis colombiano en Pereira -...",
-            "snippet": "El futuro del tenis colombiano en futuro del tenis colombiano en Pereira. Estos son algunos de los tenistas que participan en el Torneo Nacional Grado 2 de tenis en el Club del Comercio de Pereira. Tenistas juveniles de todo el pa\u00eds muestran lo...",
-            "date": "2015-05-02",
+        "deportes.televisa.com/2015/05/exitoso-debut-de-sharapova-en-madrid": {
+            "title": "Exitoso debut de Sharapova en Madrid -...",
+            "snippet": "Exitoso debut de Sharapova en debut de Sharapova en Madrid. Temas Relacionados WTA, Maria Sharapova, Tenis. COMPARTE ESTA FOTO. La bella Maria Sharapova. Foto: Getty Iimages. Maria Sharapova inicia la defensa de su t\u00edtulo con un triunfo sobre Timea...",
+            "date": "2015-05-03",
             "categories": "tenis",
-            "tags": "torneo,nacional,colombiano,tenis",
-            "recuweb_url": "http://es.recuweb.com/tenis/latarde.com/2015/05/el-futuro-del-tenis-colombiano-en-pereira",
-            "resource_url": "http://news.google.es/?hl=es&q=tenis%2Btenis&output=atom&nord=1",
-            "source_url": "http://latarde.com/noticias/deportes/150160-el-futuro-del-tenis-colombiano-en-pereira"
+            "tags": "t\u00edtulo,maria,wta,sharapova,madrid,tenis",
+            "recuweb_url": "http://es.recuweb.com/tenis/deportes.televisa.com/2015/05/exitoso-debut-de-sharapova-en-madrid",
+            "resource_url": "http://news.google.es/?hl=es&q=tenis&output=atom&nord=1",
+            "source_url": "http://deportes.televisa.com/tenis/2015-05-03/exitoso-debut-sharapova-madrid/"
         },
-        "abc.es/2015/05/far%C3%ADas-y-burmakin-ganadores-individuales-del-open-de-tenis-playa": {
-            "title": "Far\u00edas y Burmakin, ganadores individuales del Open de tenis playa en Las Canteras...",
-            "snippet": "El ruso Nikita Burmakin y la grancanaria Omayra Far\u00edas se convirtieron en los grandes protagonistas de la tercera jornada del ITF Open de Gran Canaria de tenis playa tras imponerse este viernes en las finales individuales disputadas en la playa de...",
-            "date": "2015-05-02",
+        "marca.com/2015/05/federer-conquista-estambul": {
+            "title": "Federer conquista Estambul...",
+            "snippet": "El suizo Roger Federer respondi\u00f3 a su condici\u00f3n de primer favorito en el torneo de tenis de Estambul con la conquista del t\u00edtulo n\u00famero 85 de su carrera, un trofeo que el exn\u00famero uno del mundo agreg\u00f3 a su palmar\u00e9s tras batir por 6-3 y 7-6...",
+            "date": "2015-05-03",
             "categories": "tenis",
-            "tags": "grandes,protagonistas,tercera,open,tenis",
-            "recuweb_url": "http://es.recuweb.com/tenis/abc.es/2015/05/far%C3%ADas-y-burmakin-ganadores-individuales-del-open-de-tenis-playa",
+            "tags": "mundo,carrera,t\u00edtulo,primer,favorito,torneo,suizo,suizo-roger,roger,federer,estambul,tenis",
+            "recuweb_url": "http://es.recuweb.com/tenis/marca.com/2015/05/federer-conquista-estambul",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
-            "source_url": "http://abc.es/local-canarias/20150502/abci-tenis-playa-jornada-201505021024.html"
+            "source_url": "http://marca.com/2015/05/03/tenis/1430671170.html"
+        },
+        "tenis.as.com/2015/05/federer-gana-en-estambul-su-t%C3%ADtulo-85-y-viaja-a-madrid": {
+            "title": "Federer gana en Estambul su t\u00edtulo 85 y viaja a Madrid...",
+            "snippet": "El suizo Roger Federer logr\u00f3 el t\u00edtulo 85 de su carrera y el primero sobre arcilla en esta temporada al vencer este domingo al uruguayo Pablo Cuevas en la final del torneo de tenis de Estambul. En su primera aparici\u00f3n en Turqu\u00eda, el suizo...",
+            "date": "2015-05-03",
+            "categories": "tenis",
+            "tags": "suizo,torneo,carrera,vencer,vencer-este-domingo,domingo,logr\u00f3,t\u00edtulo,suizo-roger,roger,federer,estambul,madrid,final,tenis",
+            "recuweb_url": "http://es.recuweb.com/tenis/tenis.as.com/2015/05/federer-gana-en-estambul-su-t%C3%ADtulo-85-y-viaja-a-madrid",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
+            "source_url": "http://tenis.as.com/tenis/2015/05/03/mas_tenis/1430671622_521223.html"
+        },
+        "tenis.as.com/2015/05/gasquet-vence-a-kyrgios-en-estoril-y-logra-su-12-t%C3%ADtulo": {
+            "title": "Gasquet vence a Kyrgios en Estoril y logra su 12 t\u00edtulo...",
+            "snippet": "El franc\u00e9s Richard Gasquet obtuvo el duod\u00e9cimo t\u00edtulo de su carrera al vencer este domingo al australiano Nick Kyrgios en la final del torneo de tenis de Estoril. Apenas 63 minutos necesit\u00f3 el quinto favorito para superar por 6-3 y 6-2 al...",
+            "date": "2015-05-03",
+            "categories": "tenis",
+            "tags": "favorito,torneo,t\u00edtulo,carrera,vencer,vencer-este-domingo,domingo,final,tenis",
+            "recuweb_url": "http://es.recuweb.com/tenis/tenis.as.com/2015/05/gasquet-vence-a-kyrgios-en-estoril-y-logra-su-12-t%C3%ADtulo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
+            "source_url": "http://tenis.as.com/tenis/2015/05/03/mas_tenis/1430674058_284502.html"
+        },
+        "abc.es/2015/05/la-dupla-italiana-cramarossa-avantaggiato-se-queda-con-el-open-gran": {
+            "title": "La dupla italiana Cramarossa-Avantaggiato se queda con el Open Gran Canaria de tenis playa...",
+            "snippet": "Tenis playa de primer nivel mundial en la \u00faltima jornada del Open de Gran Canaria ITF Beachtennis Tour que se ha celebrado en Las Palmas de Gran Canaria desde el pasado 29 de abril y que vio c\u00f3mo este domingo se proclamaban campeones absolutos...",
+            "date": "2015-05-03",
+            "categories": "tenis",
+            "tags": "abril,domingo,pasado,canaria,tour,primer,mundial,open,tenis",
+            "recuweb_url": "http://es.recuweb.com/tenis/abc.es/2015/05/la-dupla-italiana-cramarossa-avantaggiato-se-queda-con-el-open-gran",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
+            "source_url": "http://abc.es/local-canarias/20150503/abci-tenis-playa-final-201505032207.html"
         },
         "deportes.televisa.com/2015/05/federer-finalista-en-estambul": {
             "title": "Federer, finalista en Estambul -...",
-            "snippet": "ESPNFederer, finalista en \"Me sent\u00ed como un turista. Todav\u00eda siento que soy muy joven y he tenido la oportunidad de descubrir nuevos lugares. Creo que es probablemente una de las razones por las que todav\u00eda estoy jugando tenis hoy en d\u00eda\", dijo...",
+            "snippet": "El UniversalFederer, finalista en \"Me sent\u00ed como un turista. Todav\u00eda siento que soy muy joven y he tenido la oportunidad de descubrir nuevos lugares. Creo que es probablemente una de las razones por las que todav\u00eda estoy jugando tenis hoy en...",
             "date": "2015-05-02",
             "categories": "tenis",
-            "tags": "d\u00eda,probablemente,razones,todav\u00eda,todav\u00eda-estoy,estoy,siento,siento-que-soy,soy,soy-muy,soy-muy-joven,muy,muy-joven,joven,joven-he-tenido,tenido,tenido-la-oportunidad,oportunidad,oportunidad-de-descubrir,descubrir,descubrir-nuevos,descubrir-nuevos-lugares,nuevos,nuevos-lugares,lugares,federer,estambul,creo,jugando,tenis,dijo",
+            "tags": "federer,estambul,jugando,tenis",
             "recuweb_url": "http://es.recuweb.com/tenis/deportes.televisa.com/2015/05/federer-finalista-en-estambul",
-            "resource_url": "http://news.google.es/?hl=es&q=tenis%2Btenis&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=tenis&output=atom&nord=1",
             "source_url": "http://deportes.televisa.com/tenis/2015-05-02/federer-finalista-estambul/"
-        },
-        "lavozdemichoacan.com.mx/2015/05/hans-hach-va-tras-la-corona-del-torneo-de-tenis-voz": {
-            "title": "Hans Hach, va tras la 'corona'del torneo de tenis - La Voz de Michoac\u00e1n...",
-            "snippet": "La Voz de Michoac\u00e1nHans Hach, va tras la 'corona'del torneo de tenisLa Voz de Michoac\u00e1nHans Hach tratar\u00e1 de sacar la casta por el tenis mexicano, al ser el \u00fanico representante azteca en disputar las semifinales del torneo internacional de tenis...",
-            "date": "2015-05-02",
-            "categories": "tenis",
-            "tags": "semifinales,torneo,tenis,mexicano",
-            "recuweb_url": "http://es.recuweb.com/tenis/lavozdemichoacan.com.mx/2015/05/hans-hach-va-tras-la-corona-del-torneo-de-tenis-voz",
-            "resource_url": "http://news.google.es/?hl=es&q=tenis%2Btenis&output=atom&nord=1",
-            "source_url": "http://lavozdemichoacan.com.mx/229407/torneo-de-tenis-pablo-arroyo-en-la-recta-final/"
-        },
-        "excelsior.com.mx/2015/05/jos%C3%A9-lemus-tiene-anhelos-en-el-tenis-exc%C3%A9lsior": {
-            "title": "Jos\u00e9 Lemus tiene anhelos en el tenis - Exc\u00e9lsior...",
-            "snippet": "Exc\u00e9lsiorJos\u00e9 Lemus tiene anhelos en el tenisExc\u00e9lsiorCIUDAD DE M\u00c9XICO, 2 de mayo.- Por todos es sabido que en la actualidad el tenis mexicano est\u00e1 lejos de tener sus mejores d\u00edas, con un equipo de Copa Davis en Tercera Divisi\u00f3n y el mejor...",
-            "date": "2015-05-02",
-            "categories": "tenis",
-            "tags": "tercera,copa,copa_davis,davis,mexicano,d\u00edas,tiene,tenis,equipo",
-            "recuweb_url": "http://es.recuweb.com/tenis/excelsior.com.mx/2015/05/jos%C3%A9-lemus-tiene-anhelos-en-el-tenis-exc%C3%A9lsior",
-            "resource_url": "http://news.google.es/?hl=es&q=tenis%2Btenis&output=atom&nord=1",
-            "source_url": "http://excelsior.com.mx/adrenalina/2015/05/02/1021933"
-        },
-        "meridiano.com.ve/2015/05/murray-se-une-a-la-fiebre-de-pelea-del-siglo-meridiano": {
-            "title": "Murray se une a la fiebre de La Pelea del Siglo - Meridiano...",
-            "snippet": "MeridianoMurray se une a la fiebre de \"La Pelea del Siglo\"MeridianoEl tenista Andy Murray quien se encuentra en estos momentos en Munich a la b\u00fasqueda de su primer t\u00edtulo en tierra batida, aprovech\u00f3 la oportunidad para referirse al magno evento...",
-            "date": "2015-05-02",
-            "tags": "oportunidad,tierra,tierra-batida,batida,primer,murray,tenista,andy,t\u00edtulo",
-            "recuweb_url": "http://es.recuweb.com/meridiano.com.ve/2015/05/murray-se-une-a-la-fiebre-de-pelea-del-siglo-meridiano",
-            "resource_url": "http://news.google.es/?hl=es&q=tenis%2Btenis&output=atom&nord=1",
-            "source_url": "http://meridiano.com.ve/tenis/98697/murray-se-une-a-la-fiebre-de--la-pelea-del-siglo-.html"
-        },
-        "laguiatv.abc.es/2015/05/tve-arrebata-a-antena-3-los-derechos-del-mutua-madrid-open": {
-            "title": "TVE arrebata a Antena 3 los derechos del Mutua Madrid Open de Tenis...",
-            "snippet": "TVE ha adquirido los derechos para la emisi\u00f3n a partir del a\u00f1o pr\u00f3ximo y hasta 2019 del Mutua Madrid Open, el torneo (patrocinado por ABC) m\u00e1s importante de tenis que se disputa en Espa\u00f1a, seg\u00fan avanz\u00f3 el portal. La noticia se produjo en...",
-            "date": "2015-05-02",
-            "categories": "tenis",
-            "tags": "noticia,importante,torneo,mutua,mutua_madrid,mutua_madrid_open,madrid,madrid_open,open,tenis,espa\u00f1a",
-            "recuweb_url": "http://es.recuweb.com/tenis/laguiatv.abc.es/2015/05/tve-arrebata-a-antena-3-los-derechos-del-mutua-madrid-open",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tenis&format=RSS&cc=es",
-            "source_url": "http://laguiatv.abc.es/noticias/20150502/abci-derechos-open-mutua-tenis-201505021823.html"
         }
     }
 }

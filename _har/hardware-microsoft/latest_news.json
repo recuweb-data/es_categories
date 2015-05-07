@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-microsoft",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-microsoft/",
@@ -11,15 +11,65 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-microsoft/hardware-microsoft/blogs.json"
     },
     "items": {
-        "svethardware.cz/2015/05/dozvuky-buildu-2015-stal-se-apple-nudn%C3%BDm-a-microsoft-zaj%C3%ADmav%C3%BDm-svt": {
-            "title": "Dozvuky Buildu 2015: stal se Apple nudn\u00fdm a Microsoft zaj\u00edmav\u00fdm? - Svt hardware...",
-            "snippet": "Svt hardwareDozvuky Buildu 2015: stal se Apple nudn\u00fdm a Microsoft zaj\u00edmav\u00fdm?Svt hardwareTake zb\u00fdv\u00e1 Microsoft, aby pekvapoval a ohromoval. Zat\u00edmco za Steva Ballmera Redmond pomlouval Linux, nebo se mu vysm\u00edval, zat\u00edmco neuspl se speci\u00e1ln\u00edm...",
-            "date": "2015-05-02",
+        "adslzone.net/2015/05/an%C3%A1lisis-de-microsoft-surface-3-un-tablet-con-alma-port%C3%A1til": {
+            "title": "An\u00e1lisis de Microsoft Surface 3: un tablet con alma de port\u00e1til...",
+            "snippet": "Adem\u00e1s, el sistema operativo es Windows 8.1 y Microsoft se ha dejado de probaturas, lo que es todo un acierto. Pero, por el contrario, hay detalles donde se puede y debe avanzar, como el peso, la potencia del hardware y el coste de los accesorios.",
+            "date": "2015-05-06",
             "categories": "hardware",
-            "tags": "redmond,microsoft,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/svethardware.cz/2015/05/dozvuky-buildu-2015-stal-se-apple-nudn%C3%BDm-a-microsoft-zaj%C3%ADmav%C3%BDm-svt",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
-            "source_url": "http://svethardware.cz/dozvuky-buildu-2015-stal-se-apple-nudnym-a-microsoft-zajimavym/40406"
+            "tags": "puede,microsoft,surface,windows,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/adslzone.net/2015/05/an%C3%A1lisis-de-microsoft-surface-3-un-tablet-con-alma-port%C3%A1til",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bhardware%2Bmicrosoft&format=RSS&cc=es",
+            "source_url": "http://adslzone.net/2015/05/06/surface-3-analisis/"
+        },
+        "windowsnoticias.com/2015/05/estas-son-las-novedades-m%C3%A1s-importantes-que-nos-dej%C3%B3-la-microsoft": {
+            "title": "Estas son las novedades m\u00e1s importantes que nos dej\u00f3 la Microsoft Build 2015...",
+            "snippet": "La \u00faltima habla de que los smartphones necesitar\u00e1n hardware adicional para funcionar de una forma correcta. Las aplicaciones de Android e iOS llegar\u00e1n a Windows 10 Era un rumor que llevaba mucho tiempo en el candelero, pero Microsoft ha decidido...",
+            "date": "2015-05-06",
+            "categories": "hardware",
+            "tags": "funcionar,microsoft,hardware,windows,era",
+            "recuweb_url": "http://es.recuweb.com/hardware/windowsnoticias.com/2015/05/estas-son-las-novedades-m%C3%A1s-importantes-que-nos-dej%C3%B3-la-microsoft",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bhardware%2Bmicrosoft&format=RSS&cc=es",
+            "source_url": "http://windowsnoticias.com/estas-son-las-novedades-mas-importantes-que-nos-dejo-la-microsoft-build-2015/"
+        },
+        "unocero.com/2015/05/microsoft-hololens-empieza-a-dar-de-qu%C3%A9-hablar": {
+            "title": "Microsoft Hololens empieza a dar de qu\u00e9 hablar...",
+            "snippet": "Un segmento del video, que empieza por el minuto 15, es una exploraci\u00f3n del hardware, el cual sigue siendo misterioso. Parece ser la combinaci\u00f3n de c\u00e1maras, t\u00e9cnicas de proyecci\u00f3n y mucho poder de c\u00f3mputo. \u00bfC\u00f3mo lo hacen? Microsoft no lo...",
+            "date": "2015-05-06",
+            "categories": "hardware",
+            "tags": "hablar,microsoft,microsoft_hololens,hololens,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/unocero.com/2015/05/microsoft-hololens-empieza-a-dar-de-qu%C3%A9-hablar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bhardware%2Bmicrosoft&format=RSS&cc=es",
+            "source_url": "http://unocero.com/2015/05/06/microsoft-hololens-empieza-a-dar-de-que-hablar/"
+        },
+        "3djuegos.com/2015/05/microsoft-estar%C3%ADa-asegurando-que-las-hololens-costar%C3%A1n-significativamente": {
+            "title": "Microsoft estar\u00eda asegurando que las HoloLens costar\u00e1n significativamente m\u00e1s que una...",
+            "snippet": "Esto no es un hardware de baja gama barato con una X encima... joder voy a comprar acciones de Microsoft. Datudas ya se cual es la diferencia, a\u00fan asi insisto en que ser\u00e1n caras, ambas, puede que las de Microsoft un poco mas por ser tecnolog\u00eda...",
+            "date": "2015-05-04",
+            "categories": "tecnologia,hardware",
+            "tags": "puede,microsoft,hololens,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/3djuegos.com/2015/05/microsoft-estar%C3%ADa-asegurando-que-las-hololens-costar%C3%A1n-significativamente",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bhardware%2Bmicrosoft&format=RSS&cc=es",
+            "source_url": "http://3djuegos.com/noticia/152551/0/hololens/precio/"
+        },
+        "gr.pcmag.com/2015/05/microsoft-hololens-hardware-video-pc-magazine": {
+            "title": "Microsoft Hololens: hardware video - Pc Magazine ()...",
+            "snippet": "Microsoft Hololens: hardware [video]Pc Magazine ()To Hololens Windows 10 Microsoft. CPU/GPU Hololens...y m\u00e1s...",
+            "date": "2015-05-03",
+            "categories": "hardware",
+            "tags": "hololens,windows,microsoft,microsoft_hololens,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/gr.pcmag.com/2015/05/microsoft-hololens-hardware-video-pc-magazine",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft&output=atom&nord=1",
+            "source_url": "http://gr.pcmag.com/microsoft-hololens/16821/feature/microsoft-hololens-to-hardware-video"
+        },
+        "tomshw.it/2015/05/recensione-microsoft-lumia-640-il-migliore-windows-phone-del-tom": {
+            "title": "Recensione Microsoft Lumia 640, il migliore Windows Phone del... - Tom's Hardware...",
+            "snippet": "Tom's HardwareRecensione Microsoft Lumia 640, il migliore Windows Phone del...Tom's HardwareVERDETTO: Con hardware alla pari del pi\u00f9 costoso Lumia 830, il Lumia 640 \u00e8 da prendere a occhi chiusi. La fotocamera non \u00e8 una PureView, ma va bene per...",
+            "date": "2015-05-03",
+            "categories": "hardware",
+            "tags": "microsoft,windows,phone,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/tomshw.it/2015/05/recensione-microsoft-lumia-640-il-migliore-windows-phone-del-tom",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft&output=atom&nord=1",
+            "source_url": "http://tomshw.it/articoli/recensione-microsoft-lumia-640-il-migliore-windows-phone-del-momento-65758"
         },
         "pcworld.com/2015/05/developing-with-hololens-decent-hardware-chases-microsoft-s-lofty-pcworld": {
             "title": "Developing with HoloLens: Decent hardware chases Microsoft's lofty... - PCWorld...",
@@ -28,7 +78,7 @@
             "categories": "hardware",
             "tags": "its,hololens,hardware,microsoft",
             "recuweb_url": "http://es.recuweb.com/hardware/pcworld.com/2015/05/developing-with-hololens-decent-hardware-chases-microsoft-s-lofty-pcworld",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft&output=atom&nord=1",
             "source_url": "http://pcworld.com/article/2917613/developing-with-hololens-decent-hardware-chases-microsofts-lofty-augmented-reality-ideal.html"
         },
         "europapress.es/2015/05/hololens-podr%C3%ADa-ser-la-raz%C3%B3n-por-que-microsoft-compr%C3%B3-minecraft": {
@@ -36,7 +86,7 @@
             "snippet": "El pasado mes de junio, en el s\u00f3tano del centro de visitantes de Microsoft en Redmond (Washington), Todd Holmdahl, un gur\u00fa de hardware Microsoft, y otros caminaron con nerviosismo junto Satya Nadella, para conocer el que por entonces era un...",
             "date": "2015-05-01",
             "categories": "hardware",
-            "tags": "satya,satya_nadella,nadella,junto,hololens,microsoft,redmond,hardware",
+            "tags": "era,hololens,microsoft,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/europapress.es/2015/05/hololens-podr%C3%ADa-ser-la-raz%C3%B3n-por-que-microsoft-compr%C3%B3-minecraft",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bmicrosoft&format=RSS&cc=es",
             "source_url": "http://europapress.es/portaltic/sector/noticia-hololens-podria-ser-razon-microsoft-compro-minecraft-20150501164823.html"
@@ -46,9 +96,9 @@
             "snippet": "WinFutureMicrosoft HoloLens: Die HardwareWinFutureIn diesem Video gibt Microsoft einen ausf\u00fchrlichen Blick auf die Hardware der Datenbrille HoloLens und spricht auch \u00fcber die Hintergr\u00fcnde der Entwicklung, etwa die Wahl der Sensoren oder die...",
             "date": "2015-05-01",
             "categories": "hardware",
-            "tags": "hololens,hardware,microsoft",
+            "tags": "hololens,hardware,microsoft,microsoft_hololens",
             "recuweb_url": "http://es.recuweb.com/hardware/winfuture.de/2015/05/microsoft-hololens-die-hardware-winfuture",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft&output=atom&nord=1",
             "source_url": "http://winfuture.de/videos/Hardware/Microsoft-HoloLens-Die-Hardware-14433.html"
         },
         "zdnet.com/2015/05/microsoft-reveals-more-on-hololens-hardware-gets-3d-print-boost-zdnet": {
@@ -56,50 +106,10 @@
             "snippet": "ZDNetMicrosoft reveals more on HoloLens hardware, gets 3D print boost...ZDNetHoloLens Image: Microsoft Microsoft has revealed more about its forthcoming virtual reality headset, HoloLens: hardware that's packed with sensors and a double-layered lens...",
             "date": "2015-05-01",
             "categories": "hardware",
-            "tags": "microsoft,its,hololens,hardware,that",
+            "tags": "microsoft,its,hololens,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/zdnet.com/2015/05/microsoft-reveals-more-on-hololens-hardware-gets-3d-print-boost-zdnet",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft&output=atom&nord=1",
             "source_url": "http://zdnet.com/article/microsoft-reveals-more-on-hololens-hardware-gets-3d-print-boost-from-autodesk/"
-        },
-        "itespresso.es/2015/04/as%C3%AD-son-las-gafas-ar-hololens-de-microsoft": {
-            "title": "As\u00ed son las gafas AR HoloLens de Microsoft...",
-            "snippet": "En un breve v\u00eddeo titulado Microsoft HoloLens: A Close Look at the Hardware, Microsoft ha mostrado algunos detalles concretos del hardware, junto con la evoluci\u00f3n de los prototipos y una breve muestra del desarrollo de estas avanzadas gafas de...",
-            "date": "2015-04-30",
-            "categories": "hardware",
-            "tags": "junto,hololens,microsoft,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/itespresso.es/2015/04/as%C3%AD-son-las-gafas-ar-hololens-de-microsoft",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hardware%2Bmicrosoft&format=RSS&cc=es",
-            "source_url": "http://itespresso.es/asi-son-las-gafas-ar-hololens-de-microsoft-137106.html"
-        },
-        "cnnexpansion.com/2015/04/las-ventas-de-hardware-impulsan-ingresos-microsoft-cnnexpansi%C3%B3": {
-            "title": "Las ventas de 'hardware'impulsan ingresos de Microsoft - CNNExpansi\u00f3...",
-            "snippet": "CNNExpansi\u00f3 ventas de 'hardware'impulsan ingresos de MicrosoftCNNExpansi\u00f3 YORK (Reuters) El gigante tecnol\u00f3gico Microsoft report\u00f3 este jueves ingresos y utilidades por encima de las expectativas de Wall Street, debido a que sus ventas de...",
-            "date": "2015-04-23",
-            "categories": "hardware",
-            "tags": "hardware,microsoft",
-            "recuweb_url": "http://es.recuweb.com/hardware/cnnexpansion.com/2015/04/las-ventas-de-hardware-impulsan-ingresos-microsoft-cnnexpansi%C3%B3",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
-            "source_url": "http://cnnexpansion.com/negocios/2015/04/23/ventas-de-hardware-impulsan-ingresos-de-microsoft"
-        },
-        "bbc.com/2015/04/microsoft-profits-fall-but-hardware-sales-rise-bbc-news": {
-            "title": "Microsoft profits fall but hardware sales rise - BBC News...",
-            "snippet": "BBC NewsMicrosoft profits fall but hardware sales riseBBC News\"We saw incredible growth across our cloud services this quarter,\" said Satya Nadella, chief executive officer at Microsoft in a statement with the earnings release. Investors were...",
-            "date": "2015-04-23",
-            "categories": "hardware",
-            "tags": "satya,satya_nadella,nadella,microsoft,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/bbc.com/2015/04/microsoft-profits-fall-but-hardware-sales-rise-bbc-news",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
-            "source_url": "http://bbc.com/news/business-32441334"
-        },
-        "computerworld.com/2015/04/for-microsoft-hardware-and-os-consistency-are-key-in-surface-3": {
-            "title": "For Microsoft, hardware and OS consistency are key in Surface 3 - Computerworld...",
-            "snippet": "ComputerworldFor Microsoft, hardware and OS consistency are key in Surface 3ComputerworldThe Surface 3 is based on a new Intel Atom processor code-named Cherry Trail, and that signals an end to Microsoft's experiment with ARM processors in Surface...",
-            "date": "2015-04-15",
-            "categories": "hardware",
-            "tags": "that,microsoft,hardware,surface",
-            "recuweb_url": "http://es.recuweb.com/hardware/computerworld.com/2015/04/for-microsoft-hardware-and-os-consistency-are-key-in-surface-3",
-            "resource_url": "http://news.google.es/?hl=es&q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&output=atom&nord=1",
-            "source_url": "http://computerworld.com/article/2910264/for-microsoft-hardware-and-os-consistency-are-key-in-surface-3.html"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/sqlite/",
@@ -16,7 +16,7 @@
             "snippet": "Ushering in Dev-Ops Cloud Future with Nano Server currently works with a number of platforms, including \"Chef, PHP, Nginx, Python 3.5,, GO, Redis, MySQL, OpenSSL, Java (OpenJDK), Ruby () and SQLite,\" according to a presentation slide. Microsoft and...",
             "date": "2015-05-02",
             "categories": "php,mysql,java,sqlite",
-            "tags": "currently,sqlite",
+            "tags": "currently,java,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/redmondmag.com/2015/05/microsoft-ushering-in-dev-ops-cloud-future-with-nano-server",
             "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://redmondmag.com/articles/2015/05/01/nano-server-devops-future.aspx"
@@ -26,7 +26,7 @@
             "snippet": "DigitHandling Offline Capability and Data Sync In An Android App Part 1DigitContent provider APIs can be used to abstract away the data model, and using SQLite APIs we can maintain a device resident SQLite database for a local copy of the data. For...",
             "date": "2015-04-30",
             "categories": "sqlite",
-            "tags": "database,data,android,app,sqlite",
+            "tags": "database,data,using,android,app,sqlite",
             "recuweb_url": "http://es.recuweb.com/sqlite/digit.in/2015/04/handling-offline-capability-and-data-sync-in-an-android-app-part",
             "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://digit.in/apps/handling-offline-capability-and-data-sync-in-an-android-app-part-1-25942.html"
@@ -36,7 +36,7 @@
             "snippet": "How to use SQLite to store data for your Android appAndroid Authority (blog)Most Android apps will need to persist user data at sometime. There are different ways to store user data, but SQLite databases are a very convenient and speedy method of...",
             "date": "2015-04-29",
             "categories": "sqlite",
-            "tags": "databases,are,data,apps,need,some,sqlite,android,app,there",
+            "tags": "databases,are,data,apps,need,some,your,sqlite,android,app,there",
             "recuweb_url": "http://es.recuweb.com/sqlite/androidauthority.com/2015/04/how-to-use-sqlite-store-data-for-your-android-app-authority",
             "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://androidauthority.com/use-sqlite-store-data-app-599743/"
@@ -76,10 +76,20 @@
             "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
             "date": "2014-08-12",
             "categories": "sqlite",
-            "tags": "data,need,are,ios,sqlite",
+            "tags": "data,need,are,ios,sqlite,dobb",
             "recuweb_url": "http://es.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
             "resource_url": "http://news.google.es/?hl=es&q=sqlite&output=atom&nord=1",
             "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
+        },
+        "drdobbs.com/2014/04/java-and-network-port-restrictions-dr-dobb": {
+            "title": "Java and Network Port Restrictions - Dr. Dobb's...",
+            "snippet": "Java and Network Port RestrictionsDr. Dobb's1. 2. 3. grant. permission \"localhost:1527\", \"listen\";.;... Your Java Projects with Gradle Rather than Ant or Maven? Jolt Awards 2015: Coding Tools Parsing XML Files in.NET Using C Using SQLite on Android...",
+            "date": "2014-04-03",
+            "categories": "sqlite,xml,java",
+            "tags": "using,sqlite,xml,java,dobb,your,android",
+            "recuweb_url": "http://es.recuweb.com/java/drdobbs.com/2014/04/java-and-network-port-restrictions-dr-dobb",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bsqlite&output=atom&nord=1",
+            "source_url": "http://drdobbs.com/jvm/java-and-network-port-restrictions/240166917"
         },
         "pcactual.com/2013/03/crea-una-base-de-datos-para-gestionar-tus-gastos": {
             "title": "Crea una base de datos para gestionar tus gastos desde el m\u00f3vil - PC Actual...",

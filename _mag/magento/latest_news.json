@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/magento/",
@@ -11,16 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/magento/magento/blogs.json"
     },
     "items": {
-        "whatech.com/2015/04/get-high-quality-psd-to-responsive-magento-conversion-boost-roi-whatech": {
-            "title": "Get High-Quality PSD to Responsive Magento Conversion To Boost ROI - WhaTech...",
-            "snippet": "Get High-Quality PSD to Responsive Magento Conversion To Boost ROIWhaTechHaving excellence in PSD to responsive Magento conversion, we at CSSChopper, are pledged to transform your project requirements aesthetically and cater qualitative development...",
-            "date": "2015-04-30",
-            "categories": "magento",
-            "tags": "are,your,magento",
-            "recuweb_url": "http://es.recuweb.com/magento/whatech.com/2015/04/get-high-quality-psd-to-responsive-magento-conversion-boost-roi-whatech",
-            "resource_url": "http://news.google.es/?hl=es&q=magento&output=atom&nord=1",
-            "source_url": "http://whatech.com/web-design/press-release/58091-get-high-quality-psd-to-responsive-magento-conversion-to-boost-roi"
-        },
         "pressreleaserocket.net/2015/04/creatuity-joins-the-new-ebay-enterprise-magento-small-business-program-press": {
             "title": "Creatuity Joins the New eBay Enterprise Magento Small Business Program - Press Release Rocket...",
             "snippet": "Creatuity Joins the New eBay Enterprise Magento Small Business ProgramPress Release RocketCreatuity today announced its participation in the new Magento Small Business program recently announced by eBay Enterprise, an eBay Inc. company. The new...",
@@ -86,7 +76,7 @@
             "snippet": "BrainSINS Blog (blog)Critical RCE Vulnerability in Magento, Apply the Security Patch ASAPBrainSINS Blog (blog)Is based your online store in Magento? If that's so, there is a big chance that your online store can be compromised due to this...",
             "date": "2015-04-24",
             "categories": "magento",
-            "tags": "that,your,critical,rce,vulnerability,magento",
+            "tags": "that,critical,rce,vulnerability,magento",
             "recuweb_url": "http://es.recuweb.com/magento/brainsins.com/2015/04/critical-rce-vulnerability-in-magento-apply-the-security-patch-asap-brainsins",
             "resource_url": "http://news.google.es/?hl=es&q=magento&output=atom&nord=1",
             "source_url": "http://brainsins.com/en/blog/critical-rce-vulnerability-magento/3800"
@@ -96,7 +86,7 @@
             "snippet": "ZDNetZero Day Weekly: iOS Wi-Fi DoS, Aaron's Law, active Magento attacks, and moreZDNetAttackers exploit Magento e-commerce vulnerability: Those using Magento's e-commerce platform should ensure they're using its latest software, as attackers are...",
             "date": "2015-04-24",
             "categories": "magento",
-            "tags": "are,its,platform,magento,commerce,vulnerability",
+            "tags": "its,software,platform,magento,commerce,vulnerability",
             "recuweb_url": "http://es.recuweb.com/magento/zdnet.com/2015/04/zero-day-weekly-ios-wi-fi-dos-aaron-s-law-active",
             "resource_url": "http://news.google.es/?hl=es&q=magento&output=atom&nord=1",
             "source_url": "http://zdnet.com/article/zero-day-weekly-ios-wi-fi-dos-aarons-law-active-magento-attacks-and-a-harsh-p2p-ssid-rce/"
@@ -106,10 +96,20 @@
             "snippet": "La vulnerabilidad en la plataforma en l\u00ednea de venta minorista deja millones de tarjetas de cr\u00e9dito y de compradores en l\u00ednea en riesgo. Check Point anunci\u00f3 que su grupo de investigaci\u00f3n descubri\u00f3 una vulnerabilidad RCE (Ejecuci\u00f3n Remota de...",
             "date": "2015-04-23",
             "categories": "magento",
-            "tags": "plataforma,magento,rce",
+            "tags": "grupo,investigaci\u00f3n,plataforma,point,magento,rce",
             "recuweb_url": "http://es.recuweb.com/magento/addictware.com.mx/2015/04/check-point-descubre-vulnerabilidad-en-magento",
             "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=es",
             "source_url": "http://addictware.com.mx/seguridad/7370-check-point-descubre-vulnerabilidad-en-magento"
+        },
+        "pcworld.com.mx/2015/04/descubierta-una-vulnerabilidad-en-magento-que-pone-peligro-a-200000-pcworld": {
+            "title": "Descubierta una vulnerabilidad en Magento que pone en peligro a 200000... - PCWorld M\u00e9xico...",
+            "snippet": "WebAdictosDescubierta una vulnerabilidad en Magento que pone en peligro a 200000...PCWorld M\u00e9xicoCheck Point Software Technologies advierte que su Grupo de Investigaci\u00f3n de Vulnerabilidades y Malware ha detectado una vulnerabilidad cr\u00edtica de...",
+            "date": "2015-04-23",
+            "categories": "magento",
+            "tags": "point,software,magento,grupo,investigaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/magento/pcworld.com.mx/2015/04/descubierta-una-vulnerabilidad-en-magento-que-pone-peligro-a-200000-pcworld",
+            "resource_url": "http://news.google.es/?hl=es&q=magento&output=atom&nord=1",
+            "source_url": "http://pcworld.com.mx/Articulos/34268.htm"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/postgresql/",
@@ -11,71 +11,96 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy": {
-            "title": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for... - Virtual-Strategy Magazine...",
-            "snippet": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for...Virtual-Strategy Magazine (press release)SAN FRANCISCO, CA -- (Marketwired) -- 04/29/15 -- Citus Data, creators of solutions to scale out and extend the analytics capabilities of...",
-            "date": "2015-04-29",
-            "tags": "press,press-release,release,gresql",
-            "recuweb_url": "http://es.recuweb.com/virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy",
-            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
-            "source_url": "http://virtual-strategy.com/2015/04/29/first-annual-pgconf-silicon-valley-postgresql-conference-call-speakers-now-open"
+        "recordonline.com/2015/05/barbara-bedell-troop-58-honors-newest-eagle-scouts-times-herald-record": {
+            "title": "Barbara Bedell: Troop 58 honors newest Eagle Scouts - Times Herald-Record...",
+            "snippet": "Barbara Bedell: Troop 58 honors newest Eagle ScoutsTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP...",
+            "date": "2015-05-05",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/barbara-bedell-troop-58-honors-newest-eagle-scouts-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150505/NEWS/150509808/101140/NEWS"
         },
-        "channelbiz.es/2015/04/fujitsu-lanza-nuevas-soluciones-saas-para-ayudar-al-omnicanal": {
-            "title": "Fujitsu lanza nuevas soluciones SaaS para ayudar al omnicanal...",
-            "snippet": "como el soporte para el sistema de base de datos PostgreSQL y la inclusi\u00f3n, como caracter\u00edsticas est\u00e1ndar, de funciones para la recogida de productos en tienda que previamente han sido comprados en l\u00ednea. Dice un comunicado de prensa de Fujitsu...",
-            "date": "2015-04-29",
-            "tags": "prensa,soporte,base,datos,gresql",
-            "recuweb_url": "http://es.recuweb.com/channelbiz.es/2015/04/fujitsu-lanza-nuevas-soluciones-saas-para-ayudar-al-omnicanal",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
-            "source_url": "http://channelbiz.es/2015/04/28/fujitsu-lanza-nuevas-soluciones-saas-para-ayudar-al-omnicanal/"
+        "recordonline.com/2015/05/classic-choral-society-welcomes-spring-with-concerts-times-herald-record": {
+            "title": "Classic Choral Society welcomes spring with concerts - Times Herald-Record...",
+            "snippet": "Classic Choral Society welcomes spring with concertsTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP...",
+            "date": "2015-05-05",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/classic-choral-society-welcomes-spring-with-concerts-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150505/NEWS/150509798/101154/ENTERTAINMENT"
         },
-        "channelbiz.es/2015/04/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad": {
-            "title": "Qmatic Orchestra R6 aborda los retos de la movilidad...",
-            "snippet": "Se ha a\u00f1adido soporte para la base de datos PostgreSQL para reducir el coste total de propiedad de Orchestra. -Muchas m\u00e1s funcionalidades que ser\u00e1n anunciadas en una etapa posterior. Orchestra R6 ser\u00e1 presentado en la Conferencia de Qmatic The...",
-            "date": "2015-04-27",
-            "categories": "propiedad",
-            "tags": "funcionalidades,funcionalidades-que-ser\u00e1n,ser\u00e1n,ser\u00e1n-anunciadas,anunciadas,etapa,reducir,reducir-el-coste,coste,coste-total,total,total-de-propiedad,propiedad,a\u00f1adido,a\u00f1adido-soporte,soporte,qmatic,orchestra,base,datos,gresql,erior",
-            "recuweb_url": "http://es.recuweb.com/propiedad/channelbiz.es/2015/04/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
-            "source_url": "http://channelbiz.es/2015/04/27/qmatic-orchestra-r6-aborda-los-retos-de-la-movilidad/"
+        "recordonline.com/2015/05/dear-abby-parents-with-strong-beliefs-won-t-visit-cohabitating-couple": {
+            "title": "Dear Abby: Parents with strong beliefs won't visit cohabitating couple - Times Herald-Record...",
+            "snippet": "Dear Abby: Parents with strong beliefs won't visit cohabitating coupleTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and...",
+            "date": "2015-05-05",
+            "tags": "server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/dear-abby-parents-with-strong-beliefs-won-t-visit-cohabitating-couple",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150505/NEWS/150509940/101147/LIFESTYLE"
         },
-        "acceso.com/2015/04/zona-notas-de-prensa": {
-            "title": "Zona notas de prensa...",
-            "snippet": "Se ha a\u00f1adido soporte para la base de datos PostgreSQL para reducir el coste total de propiedad de Orchestra. -Muchas m\u00e1s funcionalidades que ser\u00e1n anunciadas en una etapa posterior. Para Mart\u00edn Carvallo, Director General de Qmatic Espa\u00f1a...",
-            "date": "2015-04-27",
-            "categories": "propiedad",
-            "tags": "qmatic,funcionalidades,funcionalidades-que-ser\u00e1n,ser\u00e1n,ser\u00e1n-anunciadas,anunciadas,etapa,reducir,reducir-el-coste,coste,coste-total,total,total-de-propiedad,propiedad,a\u00f1adido,a\u00f1adido-soporte,soporte,prensa,base,datos,gresql,orchestra,erior",
-            "recuweb_url": "http://es.recuweb.com/propiedad/acceso.com/2015/04/zona-notas-de-prensa",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=es",
-            "source_url": "http://acceso.com/es_ES/notas-de-prensa/qmatic-anuncia-el-proximo-lanzamiento-de-orchestra-r6-para-abordar-los-retos-de-la-movilidad/101758/"
+        "mcdonoughvoice.com/2015/05/here-s-how-one-of-the-most-memorable-scenes-from-hbo": {
+            "title": "Here's how one of the most memorable scenes from HBO's Kurt... - McDonough Voice...",
+            "snippet": "McDonough VoiceHere's how one of the most memorable scenes from HBO's Kurt...McDonough VoiceWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" ()...",
+            "date": "2015-05-05",
+            "tags": "server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,unable,gresql,connection,refused",
+            "recuweb_url": "http://es.recuweb.com/mcdonoughvoice.com/2015/05/here-s-how-one-of-the-most-memorable-scenes-from-hbo",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://mcdonoughvoice.com/article/20150505/BUSINESS/305059984/13206/BUSINESS"
         },
-        "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release": {
-            "title": "Call for Papers, PostgreSQL Session 7, September, 24th - (press release)...",
-            "snippet": "Call for Papers, PostgreSQL Session 7, September, (press release)After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to...",
-            "date": "2015-04-22",
-            "tags": "features,press,press-release,release,gresql",
-            "recuweb_url": "http://es.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release",
-            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
-            "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
+        "recordonline.com/2015/05/jays-rally-dooms-yanks-times-herald-record": {
+            "title": "Jays'rally dooms Yanks - Times Herald-Record...",
+            "snippet": "Times Herald-RecordJays'rally dooms YanksTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP connections...",
+            "date": "2015-05-05",
+            "categories": "rally",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connections,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/rally/recordonline.com/2015/05/jays-rally-dooms-yanks-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150504/SPORTS/150509720/101210/SPORTS"
         },
-        "it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders": {
-            "title": "DBAWSPostgreSQL - IT Leaders...",
-            "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...y m\u00e1s...",
-            "date": "2015-04-21",
-            "tags": "database,software,gresql,gres",
-            "recuweb_url": "http://es.recuweb.com/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
-            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
-            "source_url": "http://it.impressbm.co.jp/articles/-/12288"
+        "recordonline.com/2015/05/letter-opting-out-follows-questionable-history-times-herald-record": {
+            "title": "Letter: Opting-out follows questionable history - Times Herald-Record...",
+            "snippet": "Letter: Opting-out follows questionable historyTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP...",
+            "date": "2015-05-05",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/letter-opting-out-follows-questionable-history-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150501/OPINION/150509909/101135/COMM05"
         },
-        "infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape": {
-            "title": "PostgreSQL advances in the JSON datastore landscape -...",
-            "snippet": "PostgreSQL advances in the JSON datastore the other hand, relational databases are also evolving, with PostgreSQL getting more and more features inspired but the non relational world. Since version 9.2 Postgres supports the new JSON datatype and...",
-            "date": "2015-04-02",
-            "categories": "json",
-            "tags": "gres,features,gresql,version",
-            "recuweb_url": "http://es.recuweb.com/json/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
-            "resource_url": "http://news.google.es/?hl=es&q=postgresql&output=atom&nord=1",
-            "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"
+        "recordonline.com/2015/05/miller-s-crucible-starts-season-at-playhouse-times-herald-record": {
+            "title": "Miller's 'Crucible'starts season at Playhouse - Times Herald-Record...",
+            "snippet": "Miller's 'Crucible'starts season at PlayhouseTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP...",
+            "date": "2015-05-05",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/miller-s-crucible-starts-season-at-playhouse-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150505/NEWS/150509802/101154/ENTERTAINMENT"
+        },
+        "recordonline.com/2015/05/rangers-can-t-solve-holtby-times-herald-record": {
+            "title": "Rangers can't solve Holtby - Times Herald-Record...",
+            "snippet": "Times Herald-RecordRangers can't solve HoltbyTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP...",
+            "date": "2015-05-05",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/rangers-can-t-solve-holtby-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150504/SPORTS/150509718/101124/SPORTS"
+        },
+        "recordonline.com/2015/05/rich-woods-1977-puch-maxi-moped-times-herald-record": {
+            "title": "Rich Woods'1977 PUCH Maxi Moped - Times Herald-Record...",
+            "snippet": "Times Herald-RecordRich Woods'1977 PUCH Maxi MopedTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP...",
+            "date": "2015-05-05",
+            "tags": "accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,connection,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/rich-woods-1977-puch-maxi-moped-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150504/NEWS/150509925/101192/COMM05"
+        },
+        "recordonline.com/2015/05/schumer-oil-train-rules-fall-short-times-herald-record": {
+            "title": "Schumer: Oil-train rules fall short - Times Herald-Record...",
+            "snippet": "Schumer: Oil-train rules fall shortTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP connections on...",
+            "date": "2015-05-05",
+            "tags": "connections,connection,accepting,server,server-running,running,running-on-host,host,host-localhost,localhost,not,not-connect,connect,connect-to-server,herald,record,recordwarning,unable,gresql,refused,tcp",
+            "recuweb_url": "http://es.recuweb.com/recordonline.com/2015/05/schumer-oil-train-rules-fall-short-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150504/NEWS/150509734"
         }
     }
 }

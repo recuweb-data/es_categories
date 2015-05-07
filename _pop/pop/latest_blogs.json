@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pop/",
@@ -11,26 +11,37 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
-        "cookingideas.es/2015/04/cuando-los-cubre-vasos-de-starbucks-se-convierten-en-arte-pop": {
-            "title": "Cuando los cubre vasos de Starbucks se convierten en arte 'pop...",
+        "abc.com.py/2015/05/el-mundo-pop-de-acho-especiales-abc-color-digital": {
+            "title": "El mundo pop de Acho - Especiales - ABC Color - ABC Digital...",
+            "snippet": "01 de Mayo de 2015 19:00. El mundo pop de Acho. Por Jorge Coronel. Con 18 a\u00f1os, prepara diez canciones con las que busca crear un p\u00fablico. El joven Acho Laterza presenta el proyecto musical con el que se juega la vida.",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "pop",
+            "tags": "proyecto,vida,abc,abc_color,color,pop,canciones",
+            "recuweb_url": "http://es.recuweb.com/pop/abc.com.py/2015/05/el-mundo-pop-de-acho-especiales-abc-color-digital",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/especiales/fin-de-semana/el-mundo-pop-de-acho-1361975.html"
+        },
+        "cookingideas.es/2015/04/cuando-los-cubrevasos-de-starbucks-se-convierten-en-arte-pop": {
+            "title": "Cuando los cubrevasos de Starbucks se convierten en arte 'pop...",
             "snippet": "Todo aquel que adore el caf\u00e9 de Starbucks tiene un hueco en su corazoncito para su sirena. Presente en cada uno de los vasos en los que la cadena estadouni.",
             "date": "2015-04-30",
             "author_name": "Redacci\u00f3n",
             "categories": "pop",
-            "tags": "tiene,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/cookingideas.es/2015/04/cuando-los-cubre-vasos-de-starbucks-se-convierten-en-arte-pop",
+            "tags": "tiene,arte,pop",
+            "recuweb_url": "http://es.recuweb.com/pop/cookingideas.es/2015/04/cuando-los-cubrevasos-de-starbucks-se-convierten-en-arte-pop",
             "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cookingideas.es/inspiracion-starbucks-20150430.html"
         },
         "diariosdefutbol.com/2015/04/un-icono-pop-en-watford-diarios-de-futbol": {
             "title": "Un icono pop en Watford - Diarios de Futbol...",
-            "snippet": "Pienso en el Watford FC, nuevo inquilino de la Premier League desde que el pasado fin de semana asegurase su ascenso de manera matem\u00e1tica tras ocho a\u00f1os de ausencia, e inevitablemente visualizo a Sir Elton John en...",
+            "snippet": "Tal vez por eso me resulta imposible desligar la imagen del equipo de la del icono pop. El recient\u00edsimo y aclamado \u00e9xito del Watford, entrenado por el exfutbolista de Oviedo o Tenerife Slavisa Jokanovic y amamantado por la...",
             "date": "2015-04-29",
             "author_name": "Borja Barba",
             "categories": "pop,futbol",
-            "tags": "fin,nuevo,icono,pop",
+            "tags": "pop",
             "recuweb_url": "http://es.recuweb.com/futbol/diariosdefutbol.com/2015/04/un-icono-pop-en-watford-diarios-de-futbol",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diariosdefutbol.com/2015/04/29/watford-fc-elton-john/"
         },
         "plasticosydecibelios.com/2015/04/12-perlas-del-electro-pop-listas-canciones-noticias-musica": {
@@ -39,9 +50,9 @@
             "date": "2015-04-28",
             "author_name": "Julian Ruiz",
             "categories": "pop",
-            "tags": "gran,disco,musica,pop,canciones,era",
+            "tags": "gran,tema,disco,musica,pop,canciones,era",
             "recuweb_url": "http://es.recuweb.com/pop/plasticosydecibelios.com/2015/04/12-perlas-del-electro-pop-listas-canciones-noticias-musica",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://plasticosydecibelios.com/12-perlas-electropop/"
         },
         "informador.com.mx/2015/04/blur-deja-atr%C3%A1s-el-espejismo-del-brit-pop-informador": {
@@ -50,9 +61,9 @@
             "date": "2015-04-28",
             "author_name": "desconocido",
             "categories": "pop",
-            "tags": "junto,pop,informador,abr",
+            "tags": "junto,bandas,real,deja,pop,informador,abr",
             "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/blur-deja-atr%C3%A1s-el-espejismo-del-brit-pop-informador",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://informador.com.mx/entretenimiento/2015/588959/6/blur-deja-atras-el-espejismo-del-brit-pop.htm"
         },
         "xataka.com/2015/04/withings-activit%C3%A9-pop-an%C3%A1lisis-gran-cuantificador-que-llega": {
@@ -61,9 +72,9 @@
             "date": "2015-04-27",
             "author_name": "Javier Penalva",
             "categories": "pop",
-            "tags": "nuevo,gran,pop",
+            "tags": "gran,pop",
             "recuweb_url": "http://es.recuweb.com/pop/xataka.com/2015/04/withings-activit%C3%A9-pop-an%C3%A1lisis-gran-cuantificador-que-llega",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://xataka.com/analisis/withings-activite-pop-analisis-gran-cuantificador-que-llega-en-el-peor-momento"
         },
         "informador.com.mx/2015/04/pop-entre-amigos-y-rivales-el-informador": {
@@ -72,43 +83,10 @@
             "date": "2015-04-24",
             "author_name": "desconocido",
             "categories": "pop",
-            "tags": "paso,era,gusta,pop,informador,abr",
+            "tags": "era,gusta,pop,informador,abr,kabah",
             "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/pop-entre-amigos-y-rivales-el-informador",
             "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://informador.com.mx/entretenimiento/2015/588334/6/pop-entre-amigos-y-rivales.htm"
-        },
-        "prodavinci.com/2015/04/balada-pop-de-los-ochenta-una-apolog%C3%ADa-por-rita-indiana": {
-            "title": "Balada pop de los ochenta, una apolog\u00eda; por Rita Indiana...",
-            "snippet": "Si es cierto que la nostalgia todo lo embellece, tambi\u00e9n lo es que el pop latinoamericano actual, excepto algunas excepciones que tiran m\u00e1s hacia lo alternativo, lleva varias d\u00e9cadas de capa ca\u00edda. Esto no es una rabieta...",
-            "date": "2015-04-23",
-            "author_name": "Rita Indiana",
-            "categories": "pop",
-            "tags": "pop",
-            "recuweb_url": "http://es.recuweb.com/pop/prodavinci.com/2015/04/balada-pop-de-los-ochenta-una-apolog%C3%ADa-por-rita-indiana",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://prodavinci.com/blogs/balada-pop-de-los-ochenta-una-apologia-por-rita-indiana/"
-        },
-        "europafm.com/2015/04/europa-fm-el-disco-2015-mejor-pop-rock-de-hoy": {
-            "title": "Europa FM El Disco 2015: el mejor pop rock de hoy...",
-            "snippet": "El martes 21 de abril estrenamos por s\u00e9ptimo a\u00f1o consecutivo nuestro recopilatorio Europa FM El Disco 2015. Europa FM te re\u00fane el mejor pop rock de hoy en un doble CD: Mark Ronson, One Direction, Maroon 5, Sia,...",
-            "date": "2015-04-21",
-            "author_name": "europafm.com",
-            "categories": "rock,pop",
-            "tags": "rock,re\u00fane,abril,disco,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/europafm.com/2015/04/europa-fm-el-disco-2015-mejor-pop-rock-de-hoy",
-            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://europafm.com/especiales/recopilatorios/europafm-disco-recopilatorio-2015_2015042100162.html"
-        },
-        "americaeconomia.com/2015/04/chilenos-griten-me-gusta-el-k-pop-con-orgullo": {
-            "title": "Chilenos, griten \u00a1me gusta el K-Pop con orgullo!, y la presidenta...",
-            "snippet": "La primera presidenta surcoreana, Park Geun-hye, visitar\u00e1 Chile entre el 21 y 23 de abril. A mi modo de ver, la presidenta coreana estar\u00eda interesada en conocer a los abundantes fans chilenos del K-Pop (pop coreano) que...",
-            "date": "2015-04-20",
-            "author_name": "Lino Sol\u00eds de Ovando",
-            "categories": "pop",
-            "tags": "abril,gusta,pop",
-            "recuweb_url": "http://es.recuweb.com/pop/americaeconomia.com/2015/04/chilenos-griten-me-gusta-el-k-pop-con-orgullo",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://americaeconomia.com/analisis-opinion/chilenos-griten-me-gusta-el-k-pop-con-orgullo-y-la-presidenta-park-les-saludara-con"
         },
         "informador.com.mx/2015/04/el-rock-pop-de-%C3%ADndigo-evoluciona-informador": {
             "title": "El rock pop de \u00cdndigo evoluciona:: El Informador...",
@@ -116,10 +94,32 @@
             "date": "2015-04-18",
             "author_name": "desconocido",
             "categories": "rock,pop",
-            "tags": "nuevos,rock,pop,informador",
+            "tags": "rock,pop,informador,banda",
             "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/el-rock-pop-de-%C3%ADndigo-evoluciona-informador",
             "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://informador.com.mx/entretenimiento/2015/587182/6/el-rock-pop-de-indigo-evoluciona.htm"
+        },
+        "cnnespanol.cnn.com/2015/04/la-estrella-de-pop-taylor-swift-revela-que-su-mam%C3%A1-tiene": {
+            "title": "La estrella de pop Taylor Swift revela que su mam\u00e1 tiene c\u00e1ncer...",
+            "snippet": "Por Brandon Griggs, CNN (CNN) -- La estrella de pop Taylor Swift, quien ha construido un intenso v\u00ednculo con sus fans al compartir detalles personales de su vida, revel\u00f3 el jueves una noticia que dio mucho qu\u00e9 pensar: su...",
+            "date": "2015-04-10",
+            "author_name": "Rodrigo Aguiar",
+            "categories": "estrella,pop",
+            "tags": "vida,tiene,estrella,pop,fans",
+            "recuweb_url": "http://es.recuweb.com/pop/cnnespanol.cnn.com/2015/04/la-estrella-de-pop-taylor-swift-revela-que-su-mam%C3%A1-tiene",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/04/09/la-estrella-de-pop-taylor-swift-revela-que-su-mama-tiene-cancer/"
+        },
+        "informador.com.mx/2015/04/agina-una-nueva-propuesta-en-el-pop-informador": {
+            "title": "Agina, una nueva propuesta en el pop:: El Informador...",
+            "snippet": "Estoy grabando muchas baladas pop, toda las canciones tienen mucho soul. Estoy escribiendo la m\u00fasica, las baladas son mis favoritas porque toco el cielo. Quiero hacerlo completamente en espa\u00f1ol (el disco), porque las...",
+            "date": "2015-04-09",
+            "author_name": "desconocido",
+            "categories": "pop",
+            "tags": "disco,son,m\u00fasica,nueva,pop,informador,canciones,espa\u00f1ol",
+            "recuweb_url": "http://es.recuweb.com/pop/informador.com.mx/2015/04/agina-una-nueva-propuesta-en-el-pop-informador",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://informador.com.mx/entretenimiento/2015/585652/6/agina-una-nueva-propuesta-en-el-pop.htm"
         }
     }
 }

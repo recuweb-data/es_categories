@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "impresion-3d",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/impresion-3d/",
@@ -11,54 +11,100 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/impresion-3d/impresion-3d/blogs.json"
     },
     "items": {
+        "elmundo.es/2015/05/la-mesa-que-une-impresi%C3%B3n-3d-y-el-rfid-para-dar": {
+            "title": "La mesa que une la impresi\u00f3n 3D y el RFID para dar con el s\u00f3fa perfecto en la tienda...",
+            "snippet": "Una de sus \u00faltimas creaciones es conocida como Sofa Studio. Esta soluci\u00f3n combina la impresi\u00f3n 3D, el RFID y la realidad virtual en un \u00fanico servicio para 'atrapar'al consumidor en la tienda (y animar su compra). Impresi\u00f3n 3D y RFID. Sofa...",
+            "date": "2015-05-07",
+            "tags": "realidad,impresi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/elmundo.es/2015/05/la-mesa-que-une-impresi%C3%B3n-3d-y-el-rfid-para-dar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bimpresion%2B3d&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/economia/2015/05/07/554b322122601db5588b4581.html?intcmp=ULNOH002"
+        },
+        "lne.es/2015/05/la-impresi%C3%B3n-en-3d-permite-a-una-madre-ciega-tocar-ecograf%C3%ADa": {
+            "title": "La impresi\u00f3n en 3D permite a una madre ciega tocar la ecograf\u00eda de su beb\u00e9...",
+            "snippet": "EP/Madrid El momento en el que una persona ve por primera vez a su beb\u00e9 es uno de los momentos m\u00e1s emocionantes de su vida, siempre y cuando pueda verlo. Utilizando la impresi\u00f3n 3D y a partir de una ecograf\u00eda, una mujer ciega ha podido tener...",
+            "date": "2015-05-06",
+            "tags": "mujer,mujer-ciega,ciega,ecograf\u00eda,beb\u00e9,vida,permite,permite-una-madre,madre,madre-ciega,madre-ciega-tocar,ciega-tocar,tocar,tocar-la-ecograf\u00eda,impresi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/lne.es/2015/05/la-impresi%C3%B3n-en-3d-permite-a-una-madre-ciega-tocar-ecograf%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bimpresion%2B3d&format=RSS&cc=es",
+            "source_url": "http://lne.es/vida-y-estilo/salud/2015/05/06/impresion-3d-permite-madre-ciega/1752299.html"
+        },
+        "telecinco.es/2015/05/una-impresi%C3%B3n-3d-permite-a-madre-ciega-tocar-la-ecograf%C3%ADa": {
+            "title": "Una impresi\u00f3n 3D permite a una madre ciega tocar la ecograf\u00eda de su beb\u00e9...",
+            "snippet": "Si para cualquier madre una ecograf\u00eda de su beb\u00e9 es emocionante, la alianza entre una agencia de publicidad y la marca de pa\u00f1ales Huggies hizo que para Tatiana Guerra, una mujer ciega de 30 a\u00f1os no fuera menos. Gracias a la impresi\u00f3n 3D de...",
+            "date": "2015-05-06",
+            "tags": "mujer,mujer-ciega,ciega,hizo,agencia,madre,ecograf\u00eda,beb\u00e9,permite,permite-una-madre,madre-ciega,madre-ciega-tocar,ciega-tocar,tocar,tocar-la-ecograf\u00eda,impresi\u00f3n,gracias",
+            "recuweb_url": "http://es.recuweb.com/telecinco.es/2015/05/una-impresi%C3%B3n-3d-permite-a-madre-ciega-tocar-la-ecograf%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bimpresion%2B3d&format=RSS&cc=es",
+            "source_url": "http://telecinco.es/informativos/sociedad/impresion_3D-bebe-madre_ciega-ecografia_2_1982955022.html"
+        },
+        "gurusblog.com/2015/05/pincha-la-burbuja-burs%C3%A1til-de-impresi%C3%B3n-3d": {
+            "title": "Pincha la burbuja burs\u00e1til de la impresi\u00f3n 3D...",
+            "snippet": "Os dejamos algunos ejemplos Stratasys (SSYS), es el mayor fabricante de impresi\u00f3n en 3D, esta semana publica resultados indicando que espera generar en todo el a\u00f1o ingresos por entre 800 y 860 millones, los analistas eran m\u00e1s optimistas y...",
+            "date": "2015-05-05",
+            "tags": "impresi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/gurusblog.com/2015/05/pincha-la-burbuja-burs%C3%A1til-de-impresi%C3%B3n-3d",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bimpresion%2B3d&format=RSS&cc=es",
+            "source_url": "http://gurusblog.com/archives/pincha-burbuja-impresion-3d/05/05/2015/"
+        },
+        "computerhoy.com/2015/05/united-nude-reinventa-los-zapatos-con-la-impresi%C3%B3n-3d": {
+            "title": "United Nude reinventa los zapatos con la impresi\u00f3n 3D...",
+            "snippet": "Ya hemos visto impresoras 3D que crean esculturas a partir... corre a cargo de United Nude y 3D Systems. El procedimiento que utilizan para fabrical el calzado es el de mejor calidad dentro de la impresi\u00f3n 3D, que es el de sintetizado selectivo...",
+            "date": "2015-05-05",
+            "categories": "escultura,impresora",
+            "tags": "mejor,crean,impresi\u00f3n,impresoras",
+            "recuweb_url": "http://es.recuweb.co/impresora/computerhoy.com/2015/05/united-nude-reinventa-los-zapatos-con-la-impresi%C3%B3n-3d",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bimpresion%2B3d&format=RSS&cc=es",
+            "source_url": "http://computerhoy.com/noticias/life/united-nude-reinventa-zapatos-impresion-3d-27903"
+        },
+        "altadensidad.com/2015/05/m%C3%A1s-opciones-de-impresi%C3%B3n-3d-en-venezuela-audio-alta-densidad": {
+            "title": "M\u00e1s opciones de impresi\u00f3n 3D en Venezuela Audio - Alta Densidad...",
+            "snippet": "Alta DensidadM\u00e1s opciones de impresi\u00f3n 3D en Venezuela AudioAlta DensidadInversiones EN3D estar\u00e1 ofreciendo los servicios de dise\u00f1o 3D, impresi\u00f3n 3D y escaneo 3D, a todo el p\u00fablico en general, profesionales y empresario, facilitando as\u00ed la...",
+            "date": "2015-05-03",
+            "tags": "general,alta,impresi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/altadensidad.com/2015/05/m%C3%A1s-opciones-de-impresi%C3%B3n-3d-en-venezuela-audio-alta-densidad",
+            "resource_url": "http://news.google.es/?hl=es&q=impresion%2B3d&output=atom&nord=1",
+            "source_url": "http://altadensidad.com/?p=77416"
+        },
         "prensa-latina.cu/2015/04/impresi%C3%B3n-3d-con-tecnolog%C3%ADa-l%C3%A1ser-salva-a-tres-beb%C3%A9s-prensa-latina": {
             "title": "Impresi\u00f3n 3D con tecnolog\u00eda l\u00e1ser salva a tres beb\u00e9s - Prensa Latina...",
-            "snippet": "El Diario de Yucat\u00e1nImpresi\u00f3n 3D con tecnolog\u00eda l\u00e1ser salva a tres beb\u00e9sPrensa Latina30 de abril de 2015, 16:51Washington, 30 abr (PL) Investigadores del hospital infantil C.S. Mott, en Michigan, Estados Unidos, emplearon impresi\u00f3n 3D con...",
+            "snippet": "Impresi\u00f3n 3D con tecnolog\u00eda l\u00e1ser salva a tres beb\u00e9sPrensa Latina30 de abril de 2015, 16:51Washington, 30 abr (PL) Investigadores del hospital infantil C.S. Mott, en Michigan, Estados Unidos, emplearon impresi\u00f3n 3D con tecnolog\u00eda l\u00e1ser para...",
             "date": "2015-04-30",
             "categories": "tecnologia",
-            "tags": "tecnolog\u00eda,impresi\u00f3n,investigadores",
+            "tags": "salva,tres,tres-beb\u00e9s,beb\u00e9s,impresi\u00f3n,tecnolog\u00eda,investigadores",
             "recuweb_url": "http://es.recuweb.com/tecnologia/prensa-latina.cu/2015/04/impresi%C3%B3n-3d-con-tecnolog%C3%ADa-l%C3%A1ser-salva-a-tres-beb%C3%A9s-prensa-latina",
             "resource_url": "http://news.google.es/?hl=es&q=impresion%2B3d&output=atom&nord=1",
             "source_url": "http://prensa-latina.cu/index.php?option=com_content&task=view&idioma=1&id=3763311&Itemid=1"
         },
-        "cioal.com/2015/04/impresi%C3%B3n-3d-de-juguetes-en-casa-cosa-meses-cio-latin-america": {
-            "title": "Impresi\u00f3n 3D de juguetes en casa: \u00a1cosa de meses! - CIO Latin America...",
-            "snippet": "CIO Latin AmericaImpresi\u00f3n 3D de juguetes en casa: \u00a1cosa de meses!CIO Latin AmericaAutodesk, Inc. y Mattel anunciaron la firma de un acuerdo exclusivo para alimentar la l\u00ednea de juguetes de Mattel con tecnolog\u00eda de vanguardia en dise\u00f1o e...",
-            "date": "2015-04-23",
-            "categories": "tecnologia",
-            "tags": "tecnolog\u00eda,anunciaron,impresi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/cioal.com/2015/04/impresi%C3%B3n-3d-de-juguetes-en-casa-cosa-meses-cio-latin-america",
-            "resource_url": "http://news.google.es/?hl=es&q=impresion%2B3d&output=atom&nord=1",
-            "source_url": "http://cioal.com/2015/04/23/impresion-3d-de-juguetes-en-casa-cosa-de-meses/"
-        },
-        "ohmygeek.net/2015/04/crean-un-kit-educativo-para-ense%C3%B1ar-lo-b%C3%A1sico-de-la-impresi%C3%B3n": {
-            "title": "Crean un Kit educativo para ense\u00f1ar lo b\u00e1sico de la impresi\u00f3n 3D - OhMyGeek!",
-            "snippet": "OhMyGeek!Crean un Kit educativo para ense\u00f1ar lo b\u00e1sico de la impresi\u00f3n 3DOhMyGeek!Los argentinos de Kikai Labs, quienes desarrollan impresoras 3D, anunciaron la presentaci\u00f3n de un Kit Educativo de Impresi\u00f3n 3D para fomentar el uso de esta...",
-            "date": "2015-04-20",
+        "elconfidencial.com/2015/04/as%C3%AD-es-como-la-impresi%C3%B3n-3d-salv%C3%B3-vida-de-tres-beb%C3%A9s": {
+            "title": "As\u00ed es como la impresi\u00f3n 3D salv\u00f3 la vida de tres beb\u00e9s...",
+            "snippet": "Impresi\u00f3n 4D? La dificultad que entra\u00f1aba una pr\u00f3tesis traqueal de este calibre era bastante alta, y s\u00f3lo pudo convertirse en realidad gracias a las impresoras 3D. El problema de dise\u00f1ar un dispositivo destinado a ni\u00f1os y beb\u00e9s, es que este...",
+            "date": "2015-04-29",
             "categories": "impresora",
-            "tags": "anunciaron,impresi\u00f3n,impresoras",
-            "recuweb_url": "http://es.recuweb.co/impresora/ohmygeek.net/2015/04/crean-un-kit-educativo-para-ense%C3%B1ar-lo-b%C3%A1sico-de-la-impresi%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=impresion%2B3d&output=atom&nord=1",
-            "source_url": "http://ohmygeek.net/2015/04/20/kit-educativo-impresion-3d-arg/"
+            "tags": "ni\u00f1os,realidad,gracias,pr\u00f3tesis,alta,vida,tres,tres-beb\u00e9s,beb\u00e9s,impresi\u00f3n,impresoras",
+            "recuweb_url": "http://es.recuweb.co/impresora/elconfidencial.com/2015/04/as%C3%AD-es-como-la-impresi%C3%B3n-3d-salv%C3%B3-vida-de-tres-beb%C3%A9s",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bimpresion%2B3d&format=RSS&cc=es",
+            "source_url": "http://elconfidencial.com/tecnologia/2015-04-29/impresion-3d-traquea-4d_785374/"
         },
-        "rpp.com.pe/2015/04/cient%C3%ADficos-alemanes-buscan-crear-huesos-con-impresoras-3d-rpp-noticias": {
-            "title": "Cient\u00edficos alemanes buscan crear huesos con impresoras 3D - RPP Noticias...",
-            "snippet": "RPP NoticiasCient\u00edficos alemanes buscan crear huesos con impresoras 3DRPP NoticiasUn grupo de investigadores de la Universidad de Friburgo se encuentra desarrollando un proyecto para, mediante la tecnolog\u00eda de impresi\u00f3n 3D, crear huesos humanos...",
-            "date": "2015-04-10",
-            "categories": "tecnologia,impresora",
-            "tags": "mediante,tecnolog\u00eda,investigadores,impresoras,grupo,impresi\u00f3n",
-            "recuweb_url": "http://es.recuweb.co/impresora/rpp.com.pe/2015/04/cient%C3%ADficos-alemanes-buscan-crear-huesos-con-impresoras-3d-rpp-noticias",
+        "elnuevodia.com/2015/04/implantes-desarrollados-en-impresoras-3d-salvan-a-tres-ni%C3%B1os-el-nuevo": {
+            "title": "Implantes desarrollados en impresoras 3D salvan a tres ni\u00f1os - El Nuevo...",
+            "snippet": "El Nuevo desarrollados en impresoras 3D salvan a tres ni\u00f1osEl Nuevo m\u00e9dicos recurren cada vez m\u00e1s a la tecnolog\u00eda de impresi\u00f3n en tres dimensiones. (El ni\u00f1o Ian Orbich, de apenas 17 meses de nacido, fue uno de los beb\u00e9s con defectos en la...",
+            "date": "2015-04-29",
+            "categories": "impresora,tecnologia",
+            "tags": "beb\u00e9s,tres,m\u00e9dicos,nuevo,tres-ni\u00f1os,ni\u00f1os,impresoras,tecnolog\u00eda,impresi\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/elnuevodia.com/2015/04/implantes-desarrollados-en-impresoras-3d-salvan-a-tres-ni%C3%B1os-el-nuevo",
             "resource_url": "http://news.google.es/?hl=es&q=impresion%2B3d&output=atom&nord=1",
-            "source_url": "http://rpp.com.pe/2015-04-09-cientificos-alemanes-buscan-crear-huesos-con-impresoras-3d-noticia_786144.html"
+            "source_url": "http://elnuevodia.com/tecnologia/tecnologia/nota/implantesdesarrolladosenimpresoras3dsalvanatresninos-2041060/"
         },
-        "wwwhatsnew.com/2015/04/autodesk-invierte-10-millones-de-d%C3%B3lares-en-carbon3d-impresi%C3%B3n-wwwhat": {
-            "title": "Autodesk invierte 10 millones de d\u00f3lares en Carbon3D, impresi\u00f3n... - WWWhat's new? (blog)...",
-            "snippet": "WWWhat's new? (blog)Autodesk invierte 10 millones de d\u00f3lares en Carbon3D, impresi\u00f3n...WWWhat's new? (blog)La empresa quiere ofrecer una forma m\u00e1s r\u00e1pida, barata y robusta de impresi\u00f3n 3D, y lo ha demostrado en algunas ocasiones acelerando hasta...",
-            "date": "2015-04-09",
-            "tags": "barata,impresi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/wwwhatsnew.com/2015/04/autodesk-invierte-10-millones-de-d%C3%B3lares-en-carbon3d-impresi%C3%B3n-wwwhat",
+        "laestrella.com.pa/2015/04/impresi%C3%B3n-3d-salva-la-vida-de-ni%C3%B1os-estrella-panam%C3%A1": {
+            "title": "Impresi\u00f3n 3D salva la vida de ni\u00f1os - La Estrella de Panam\u00e1...",
+            "snippet": "La Estrella de Panam\u00e1Impresi\u00f3n 3D salva la vida de ni\u00f1osLa Estrella de Panam\u00e1Uno de estos grandes avances es la impresi\u00f3n 3D, un nuevo hito en impresiones que hizo que m\u00e9dicos estadounidenses pudieran salvar la vida a tres ni\u00f1os que padec\u00edan...",
+            "date": "2015-04-29",
+            "categories": "estrella",
+            "tags": "nuevo,impresi\u00f3n,hizo,m\u00e9dicos,vida,tres,tres-ni\u00f1os,ni\u00f1os,salva",
+            "recuweb_url": "http://es.recuweb.com/estrella/laestrella.com.pa/2015/04/impresi%C3%B3n-3d-salva-la-vida-de-ni%C3%B1os-estrella-panam%C3%A1",
             "resource_url": "http://news.google.es/?hl=es&q=impresion%2B3d&output=atom&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/04/09/autodesk-invierte-10-millones-de-dolares-en-carbon3d-impresion-3d-a-alta-velocidad/"
+            "source_url": "http://laestrella.com.pa/vida-de-hoy/salud/impresion-salva-vida-ninos/23862098"
         }
     }
 }

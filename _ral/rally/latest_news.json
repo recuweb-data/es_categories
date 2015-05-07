@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rally",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/rally/",
@@ -11,92 +11,62 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/rally/rally/blogs.json"
     },
     "items": {
+        "recordonline.com/2015/05/jays-rally-dooms-yanks-times-herald-record": {
+            "title": "Jays'rally dooms Yanks - Times Herald-Record...",
+            "snippet": "Times Herald-RecordJays'rally dooms YanksTimes Herald-RecordWarning: pg_connect(): Unable to connect to PostgreSQL server: could not connect to server: Connection refused Is the server running on host \"localhost\" () and accepting TCP/IP connections...",
+            "date": "2015-05-05",
+            "categories": "rally",
+            "tags": "rally",
+            "recuweb_url": "http://es.recuweb.com/rally/recordonline.com/2015/05/jays-rally-dooms-yanks-times-herald-record",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Brally&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150504/SPORTS/150509720/101210/SPORTS"
+        },
         "yucatan.com.mx/2015/05/autos-cl%C3%A1sicos-en-el-rally-maya-2015-diario-de-yucat%C3%A1n": {
             "title": "Autos cl\u00e1sicos en el Rally Maya 2015 - El Diario de Yucat\u00e1n...",
             "snippet": "cl\u00e1sicos en el Rally Maya 2015El Diario de Yucat\u00e1nM\u00c9RIDA.- M\u00e1s de 100 autom\u00f3viles cl\u00e1sicos, cuyos modelos son entre 1920 y 1970, que participan en el Rally Maya 2015, se encuentran en exhibici\u00f3n en el sal\u00f3n Chich\u00e9n Itz\u00e1 del Siglo XXI.",
             "date": "2015-05-03",
             "categories": "rally",
-            "tags": "participan,autom\u00f3viles,autom\u00f3viles-cl\u00e1sicos,cl\u00e1sicos,rally,rally_maya,maya,diario,yucat\u00e1n",
+            "tags": "cl\u00e1sicos,rally,diario",
             "recuweb_url": "http://es.recuweb.com/rally/yucatan.com.mx/2015/05/autos-cl%C3%A1sicos-en-el-rally-maya-2015-diario-de-yucat%C3%A1n",
             "resource_url": "http://news.google.es/?hl=es&q=rally&output=atom&nord=1",
             "source_url": "http://yucatan.com.mx/merida/ciudadanos/autos-clasicos-en-el-rally-maya-2015"
         },
-        "sipse.com/2015/05/arraca-rally-maya-con-motor-del-altruismo": {
-            "title": "Arraca Rally Maya con motor del altruismo -...",
-            "snippet": "Rally Maya con motor del la entrega de sillas de ruedas, aparatos auditivos y zapatos especiales a ni\u00f1os con diabetes de Yucat\u00e1n iniciaron las primeras actividades del Rally Maya 2015, en el que participan 110 autom\u00f3viles cl\u00e1sicos de 1915 a...",
-            "date": "2015-05-02",
-            "categories": "rally,altruismo",
-            "tags": "autom\u00f3viles,autom\u00f3viles-cl\u00e1sicos,cl\u00e1sicos,participan,actividades,rally,rally_maya,maya,motor,yucat\u00e1n",
-            "recuweb_url": "http://es.recuweb.com/altruismo/sipse.com/2015/05/arraca-rally-maya-con-motor-del-altruismo",
-            "resource_url": "http://news.google.es/?hl=es&q=rally%2Brally&output=atom&nord=1",
-            "source_url": "http://sipse.com/milenio/merida-inicia-rally-maya-entrega-apoyos-necesitados-149708.html"
-        },
-        "garuyo.com/2015/05/buena-comida-y-m%C3%BAsica-para-hipsterear-a-gusto-si-te-garuyo": {
-            "title": "Buena comida y buena m\u00fasica para hipsterear a gusto si te... - Garuyo...",
-            "snippet": "Buena comida y buena m\u00fasica para hipsterear a gusto si te...GaruyoSi te vas a quedar en la ciudad, este fin de semana largo que debemos al D\u00eda del Trabajo, definitivamente tienes que darte una vuelta por el Foodtruck Rally de Foodtrucks Mx, donde...",
-            "date": "2015-05-02",
+        "gameit.es/2015/05/dirt-rally-primeras-impresiones": {
+            "title": "DiRT Rally. Primeras Impresiones...",
+            "snippet": "Los aficionados del rally deben de estar de enhorabuena porque hac\u00eda mucho tiempo que no se ve\u00eda un t\u00edtulo centrado en dar una experiencia de simulaci\u00f3n de conducci\u00f3n en el mundo del rally con un estudio tan destacado en el g\u00e9nero como es...",
+            "date": "2015-05-03",
             "categories": "rally",
-            "tags": "rally,ciudad,d\u00eda",
-            "recuweb_url": "http://es.recuweb.com/rally/garuyo.com/2015/05/buena-comida-y-m%C3%BAsica-para-hipsterear-a-gusto-si-te-garuyo",
-            "resource_url": "http://news.google.es/?hl=es&q=rally%2Brally&output=atom&nord=1",
-            "source_url": "http://garuyo.com/restaurantes/foodtruck-rally-2015-horarios-direccion"
-        },
-        "prensa-latina.cu/2015/05/colombiano-diego-tamayo-domina-rally-cicl%C3%ADstico-titan-desert-prensa-latina": {
-            "title": "Colombiano Diego Tamayo domina rally cicl\u00edstico Titan Desert - Prensa Latina...",
-            "snippet": "Colombiano Diego Tamayo domina rally cicl\u00edstico Titan DesertPrensa Latina02 de mayo de 2015, 10:00Rabat, 2 may (PL) El ciclista colombiano Diego Tamayo concret\u00f3 hoy su triunfo en la clasificaci\u00f3n general del rally Titan Desert, que se corri\u00f3 por...",
-            "date": "2015-05-02",
-            "categories": "rally",
-            "tags": "rally",
-            "recuweb_url": "http://es.recuweb.com/rally/prensa-latina.cu/2015/05/colombiano-diego-tamayo-domina-rally-cicl%C3%ADstico-titan-desert-prensa-latina",
-            "resource_url": "http://news.google.es/?hl=es&q=rally%2Brally&output=atom&nord=1",
-            "source_url": "http://prensa-latina.cu/index.php?option=com_content&task=view&id=3766511&Itemid=1"
-        },
-        "laarena.com.ar/2015/05/comenz%C3%B3-el-rally-aventura-diario-la-arena": {
-            "title": "Comenz\u00f3 el Rally Aventura - Diario La Arena...",
-            "snippet": "Comenz\u00f3 el Rally AventuraDiario La ArenaEl Rally Aventura La Pampa, v\u00e1lido por la segunda fecha del Campeonato Argentino de Navegaci\u00f3n (Canav) Rally Raid (RR) 2015 se puso en marcha anoche en Toay, con la largada simb\u00f3lica y un especial nocturno...",
-            "date": "2015-05-02",
-            "categories": "rally,rally-raid",
-            "tags": "especial,puso,puso-en-marcha,marcha,rally,campeonato,argentino,v\u00e1lido,segunda,fecha,diario",
-            "recuweb_url": "http://es.recuweb.com/rally-raid/laarena.com.ar/2015/05/comenz%C3%B3-el-rally-aventura-diario-la-arena",
-            "resource_url": "http://news.google.es/?hl=es&q=rally%2Brally&output=atom&nord=1",
-            "source_url": "http://laarena.com.ar/deportes-comenzo_el_rally_aventura-137659-116.html"
-        },
-        "rtvc.es/2015/05/gustavo-sosa-segundo-en-un-vibrante-rally-de-tierra-gran-canaria": {
-            "title": "Gustavo Sosa,segundo en un vibrante Rally de Tierra de Gran Canaria...",
-            "snippet": "Gustavo Sosa y Rogelio Pe\u00f1ate han protagonizado un excelente arranque de Campeonato Auton\u00f3mico de Canarias de Rallies de Tierra en Gran Canaria. El equipo de Disa, con el Mitsubishi Lancer Evo IX preparado por Quattro Rally, ha terminado segundo...",
-            "date": "2015-05-02",
-            "categories": "rally",
-            "tags": "segundo,campeonato,rally,rallies",
-            "recuweb_url": "http://es.recuweb.com/rally/rtvc.es/2015/05/gustavo-sosa-segundo-en-un-vibrante-rally-de-tierra-gran-canaria",
+            "tags": "destacado,g\u00e9nero,tiempo,conducci\u00f3n,impresiones,dirt,dirt_rally,rally",
+            "recuweb_url": "http://es.recuweb.com/rally/gameit.es/2015/05/dirt-rally-primeras-impresiones",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rally&format=RSS&cc=es",
-            "source_url": "http://rtvc.es/deportes/gustavo-sosasegundo-en-un-vibrante-rally-de-tierra-de-gran-canaria-134647.aspx"
+            "source_url": "http://gameit.es/dirt-rally-primeras-impresiones/"
+        },
+        "elpinguino.com/2015/05/se-disput%C3%B3-pen%C3%BAltima-fecha-del-rally-prc-el-ping%C3%BCino": {
+            "title": "Se disput\u00f3 pen\u00faltima fecha del Rally del PRC - El Ping\u00fcino...",
+            "snippet": "Se disput\u00f3 pen\u00faltima fecha del Rally del PRCEl Ping\u00fcinoCon m\u00e1s de 42 veh\u00edculos, se disput\u00f3 la pen\u00faltima fecha del rally organizado por Patagonia Rally Club realizada en Porvenir. Durante el transcurso de la carrera se registraron numerosas...",
+            "date": "2015-05-03",
+            "categories": "rally",
+            "tags": "organizado,fecha,rally,veh\u00edculos",
+            "recuweb_url": "http://es.recuweb.com/rally/elpinguino.com/2015/05/se-disput%C3%B3-pen%C3%BAltima-fecha-del-rally-prc-el-ping%C3%BCino",
+            "resource_url": "http://news.google.es/?hl=es&q=rally&output=atom&nord=1",
+            "source_url": "http://elpinguino.com/noticia/2015/05/03/se-disputo-penultima-fecha-del-rally-del-prc-"
         },
         "aragondigital.es/2015/05/el-viii-rally-internacional-de-hospeder%C3%ADas-recorre-los-puntos-tur%C3%ADsticos": {
             "title": "El VIII Rally Internacional de Hospeder\u00edas recorre los puntos tur\u00edsticos m\u00e1s atractivos de...",
             "snippet": "La VIII edici\u00f3n del Rally Internacional Hospeder\u00edas de Arag\u00f3n ha salido hoy de la c\u00e9ntrica plaza de Santa Engracia de la capital aragonesa. \u00c9ste ha sido organizado por la Asociaci\u00f3n Aragonesa de Cl\u00e1sicos Deportivos y recorrer\u00e1 hasta el...",
             "date": "2015-05-01",
             "categories": "rally",
-            "tags": "cl\u00e1sicos,rally,viii,viii_rally,hospeder\u00edas,arag\u00f3n",
+            "tags": "cl\u00e1sicos,organizado,edici\u00f3n,rally,viii,viii_rally,hospeder\u00edas,arag\u00f3n",
             "recuweb_url": "http://es.recuweb.com/rally/aragondigital.es/2015/05/el-viii-rally-internacional-de-hospeder%C3%ADas-recorre-los-puntos-tur%C3%ADsticos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rally&format=RSS&cc=es",
             "source_url": "http://aragondigital.es/noticia.asp?notid=132092"
-        },
-        "yucatan.com.mx/2015/05/todo-listo-para-el-rally-maya-2015-diario-de-yucat%C3%A1n": {
-            "title": "Todo listo para el Rally Maya 2015 - El Diario de Yucat\u00e1n...",
-            "snippet": "El Diario de Yucat\u00e1nTodo listo para el Rally Maya 2015El Diario de Yucat\u00e1nLas bellezas naturales y arqueol\u00f3gicas de la Pen\u00ednsula servir\u00e1n de escenario al Rally Maya 2015 de autom\u00f3viles antiguos, que se llevar\u00e1 al cabo del lunes 4 al viernes 8...",
-            "date": "2015-05-01",
-            "categories": "rally",
-            "tags": "autom\u00f3viles,rally,rally_maya,maya,diario,yucat\u00e1n",
-            "recuweb_url": "http://es.recuweb.com/rally/yucatan.com.mx/2015/05/todo-listo-para-el-rally-maya-2015-diario-de-yucat%C3%A1n",
-            "resource_url": "http://news.google.es/?hl=es&q=rally%2Brally&output=atom&nord=1",
-            "source_url": "http://yucatan.com.mx/imagen/calidad-de-vida-imagen/todo-listo-para-el-rally-maya-2015"
         },
         "highmotor.com/2015/05/viii-rally-hospeder%C3%ADas-de-arag%C3%B3n-2015": {
             "title": "VIII Rally Hospeder\u00edas de Arag\u00f3n 2015...",
             "snippet": "Los rallys de naturaleza tur\u00edstica no competitiva reservados a veh\u00edculos cl\u00e1sicos escasean cada vez m\u00e1s en el territorio espa\u00f1ol. A diferencia de otros pa\u00edses europeos, como Alemania, Austria, B\u00e9lgica, Francia o Italia, donde se conserva una...",
             "date": "2015-05-01",
             "categories": "rally,naturaleza",
-            "tags": "rally,cl\u00e1sicos,viii,viii_rally,hospeder\u00edas,arag\u00f3n",
+            "tags": "rally,veh\u00edculos,cl\u00e1sicos,viii,viii_rally,hospeder\u00edas,arag\u00f3n",
             "recuweb_url": "http://es.recuweb.com/naturaleza/highmotor.com/2015/05/viii-rally-hospeder%C3%ADas-de-arag%C3%B3n-2015",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rally&format=RSS&cc=es",
             "source_url": "http://highmotor.com/viii-rally-hospederias-de-aragon-2015.html"
@@ -110,6 +80,36 @@
             "recuweb_url": "http://es.recuweb.com/rally/laaficion.milenio.com/2015/04/confirman-etapas-del-rally-dakar-2016",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rally&format=RSS&cc=es",
             "source_url": "http://laaficion.milenio.com/automovilismo/Rally_Dakar_2016-Etapas_Rally_Dakar-Etapas_Rally_2016-Bolivia-Peru-Argentina_0_508749201.html"
+        },
+        "nuevodiarioweb.com.ar/2015/04/cordobeses-crearon-un-auto-de-cart%C3%B3n-para-competir-en-el-rally": {
+            "title": "Cordobeses crearon un auto de cart\u00f3n para competir en el Rally... - Nuevo Diario de Santiago del...",
+            "snippet": "Nuevo Diario de Santiago del EsteroCordobeses crearon un auto de cart\u00f3n para \"competir\" en el Rally...Nuevo Diario de Santiago del EsteroCORDOBA.- La 35 edici\u00f3n del Rally Argentina, despert\u00f3 la creatividad de todos los cordobeses a tal punto que...",
+            "date": "2015-04-29",
+            "categories": "rally",
+            "tags": "edici\u00f3n,diario,rally,argentina",
+            "recuweb_url": "http://es.recuweb.com/rally/nuevodiarioweb.com.ar/2015/04/cordobeses-crearon-un-auto-de-cart%C3%B3n-para-competir-en-el-rally",
+            "resource_url": "http://news.google.es/?hl=es&q=rally&output=atom&nord=1",
+            "source_url": "http://nuevodiarioweb.com.ar/nota/deportes/602734/cordobeses-crearon-auto-carton-para-competir-rally-argentina.html"
+        },
+        "es.ign.com/2015/04/dirt-rally-impresiones-pc": {
+            "title": "DiRT Rally. Impresiones PC...",
+            "snippet": "Los fans de la velocidad se han llevado una alegr\u00eda esta semana con el anuncio de DiRT Rally. Codemasters presenta una declaraci\u00f3n de intenciones para reavivar la llama de un g\u00e9nero que hace no demasiado tiempo vivi\u00f3 una \u00e9poca de esplendor,...",
+            "date": "2015-04-29",
+            "categories": "rally",
+            "tags": "g\u00e9nero,tiempo,dirt,dirt_rally,rally,impresiones",
+            "recuweb_url": "http://es.recuweb.com/rally/es.ign.com/2015/04/dirt-rally-impresiones-pc",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rally&format=RSS&cc=es",
+            "source_url": "http://es.ign.com/dirt-rally-pc/93049/preview/dirt-rally-impresiones-pc"
+        },
+        "vandal.net/2015/04/impresiones-de-dirt-rally-para-ordenador": {
+            "title": "Impresiones de DiRT Rally para Ordenador...",
+            "snippet": "En los \u00faltimos meses estamos viendo un renacer de sagas m\u00e1s o menos veteranas que llevaban ya alg\u00fan tiempo desaparecidas del mercado. Por nombrar s\u00f3lo algunas, hemos visto el retorno de Wolfenstein, estamos viendo la vuelta de algunos cl\u00e1sicos...",
+            "date": "2015-04-29",
+            "categories": "rally",
+            "tags": "cl\u00e1sicos,tiempo,dirt,dirt_rally,rally,impresiones",
+            "recuweb_url": "http://es.recuweb.com/rally/vandal.net/2015/04/impresiones-de-dirt-rally-para-ordenador",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rally&format=RSS&cc=es",
+            "source_url": "http://vandal.net/avances/pc/dirt-rally/30634/1"
         }
     }
 }

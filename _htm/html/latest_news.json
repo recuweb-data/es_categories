@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "html",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/html/",
@@ -16,10 +16,30 @@
             "snippet": "WWWhat's new? (blog)HtmlSig Para crear en pocos minutos una firma HTML en el emailWWWhat's new? (blog)Si queremos incluir nuestra firma en formato HTML en los mensajes de correo electr\u00f3nico que redactemos, podemos contar con la ayuda de la...",
             "date": "2015-05-01",
             "categories": "html",
-            "tags": "podemos,crear,html,wwwhat,ayuda",
+            "tags": "podemos,ayuda,crear,html,wwwhat",
             "recuweb_url": "http://es.recuweb.com/html/wwwhatsnew.com/2015/05/htmlsig-para-crear-en-pocos-minutos-una-firma-html-el-email",
             "resource_url": "http://news.google.es/?hl=es&q=html&output=atom&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/05/01/htmlsig-nos-ayudara-a-tener-nuestra-firma-en-html/"
+        },
+        "jaxenter.de/2015/04/rest-und-hateoas-verlinkung-von-resources-jaxenter": {
+            "title": "REST und HATEOAS Verlinkung von Resources - JAXenter...",
+            "snippet": "JAXenterREST und HATEOAS Verlinkung von ResourcesJAXenterWie aber sieht die Situation bei einer typischen Businessanwendung aus, einem HTML-5-RIA-Client inklusive selbstgestricktem Java-REST-Server? Kann man in diesem Kontext dasselbe schaffen? Doch...",
+            "date": "2015-04-27",
+            "categories": "html,java",
+            "tags": "html",
+            "recuweb_url": "http://es.recuweb.com/java/jaxenter.de/2015/04/rest-und-hateoas-verlinkung-von-resources-jaxenter",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bhtml&output=atom&nord=1",
+            "source_url": "http://jaxenter.de/rest-und-hateoas-verlinkung-von-resources-18726"
+        },
+        "abclinuxu.cz/2015/04/jak-zprovoznit-munin-na-ubuntu": {
+            "title": "Jak zprovoznit Munin na Ubuntu -...",
+            "snippet": "Jak zprovoznit Munin na Ubuntu... templates Alias/munin-cgi/static/var/cache/munin/www/static ScriptAlias/munin-cgi/usr/lib/munin/cgi/munin-cgi-html Order allow,deny Allow from localhost::1 AuthUserFile/etc/munin/munin-htpasswd AuthName \"Munin...",
+            "date": "2015-04-12",
+            "categories": "html",
+            "tags": "html",
+            "recuweb_url": "http://es.recuweb.com/html/abclinuxu.cz/2015/04/jak-zprovoznit-munin-na-ubuntu",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bhtml&output=atom&nord=1",
+            "source_url": "http://abclinuxu.cz/poradna/linux/show/403183"
         },
         "wwwhatsnew.com/2015/04/selector-una-aplicaci%C3%B3n-que-transforma-nuestro-sitio-html-en-wwwhat": {
             "title": "selector, una aplicaci\u00f3n que transforma nuestro sitio HTML en una... - WWWhat's new? (blog)...",

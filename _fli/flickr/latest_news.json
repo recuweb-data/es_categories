@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "flickr",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/flickr/",
@@ -11,25 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
     },
     "items": {
-        "bsides.es/2015/05/christina-rosenvinge-pone-al-lara-en-pie": {
-            "title": "Christina Rosenvinge pone al Lara en pie con Lo Nuestro...",
-            "snippet": "Puedes ver algunas fotos del concierto en nuestro \u00e1lbum de Flickr. Lo Nuestro, que se public\u00f3 a principios de este mes, es un disco inmenso, pero muy complicado. La propia Rosenvinge ped\u00eda disculpas por lo poco habladora que se hab\u00eda encontrado...",
-            "date": "2015-05-01",
-            "categories": "flickr",
-            "tags": "muy,puedes,fotos,\u00e1lbum,flickr",
-            "recuweb_url": "http://es.recuweb.com/flickr/bsides.es/2015/05/christina-rosenvinge-pone-al-lara-en-pie",
+        "clarin.com/2015/05/randi-zuckerberg-el-anonimato-en-internet-debe-desaparecer": {
+            "title": "Randi Zuckerberg: El anonimato en Internet debe desaparecer...",
+            "snippet": "El ex CEO de Google, Eric Schmidt, tambi\u00e9n lo consider\u00f3 peligroso. Randi Zuckerberg, hermana de Mark Zuckerberg y directora de marketing de Facebook (foto del usuario de Flickr NRKbeta) El anonimato en Internet favorece el acoso digital y el spam...",
+            "date": "2015-05-03",
+            "categories": "flickr,internet,google,facebook",
+            "tags": "flickr,foto",
+            "recuweb_url": "http://es.recuweb.com/facebook/clarin.com/2015/05/randi-zuckerberg-el-anonimato-en-internet-debe-desaparecer",
             "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=es",
-            "source_url": "http://bsides.es/2015/05/"
+            "source_url": "http://clarin.com/tecnologia/Randi-Zuckerberg-anonimato-Internet-desaparecer_0_528547370.html"
         },
-        "automatiseringgids.nl/2015/05/flickr-wijst-weg-naar-beste-fotoplekjes-automatisering-gids": {
-            "title": "Flickr wijst weg naar beste fotoplekjes - Automatisering Gids...",
-            "snippet": "Automatisering GidsFlickr wijst weg naar beste fotoplekjesAutomatisering GidsMapbox heeft foto's van de afgelopen 10 jaar van Flickr gebruikt als uitgangsmateriaal voor de analyse. Het bedrijf gaat met zijn interactieve kaarten de concurrentie aan...",
-            "date": "2015-05-01",
+        "hobbyconsolas.com/2015/05/un-bosque-como-los-de-crysis-recreado-forma-espectacular-con-unreal": {
+            "title": "Un bosque como los de Crysis recreado de forma espectacular con Unreal Engine 4...",
+            "snippet": "Un aficionado y desarrollador ha colgado en Flickr una serie de capturas de un bosque al estilo Crysis recreado de forma espectacular en Unreal Engine 4. Por todos son conocidos los frondosos bosques y jungla donde se desarrolla buena parte la...",
+            "date": "2015-05-03",
             "categories": "flickr",
-            "tags": "foto,flickr",
-            "recuweb_url": "http://es.recuweb.com/flickr/automatiseringgids.nl/2015/05/flickr-wijst-weg-naar-beste-fotoplekjes-automatisering-gids",
+            "tags": "serie,flickr",
+            "recuweb_url": "http://es.recuweb.com/flickr/hobbyconsolas.com/2015/05/un-bosque-como-los-de-crysis-recreado-forma-espectacular-con-unreal",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=es",
+            "source_url": "http://hobbyconsolas.com/videos/bosque-como-crysis-recreado-forma-espectacular-con-unreal-engine-4-116500"
+        },
+        "nbcbayarea.com/2015/05/flickr-founder-wants-to-challenge-work-email-nbc-bay-area": {
+            "title": "Flickr Founder Wants to Challenge Work Email - NBC Bay Area...",
+            "snippet": "NBC Bay AreaFlickr Founder Wants to Challenge Work EmailNBC Bay AreaMost people may know Stewart Butterfield as one of the founders of Flickr, who sold the company off to Yahoo for 25 million in 2005. Now his new company, Slack, a new team...",
+            "date": "2015-05-02",
+            "categories": "flickr,yahoo",
+            "tags": "flickr,people",
+            "recuweb_url": "http://es.recuweb.com/yahoo/nbcbayarea.com/2015/05/flickr-founder-wants-to-challenge-work-email-nbc-bay-area",
             "resource_url": "http://news.google.es/?hl=es&q=flickr&output=atom&nord=1",
-            "source_url": "http://automatiseringgids.nl/nieuws/2015/18/flickr-wijst-weg-naar-beste-fotoplekjes"
+            "source_url": "http://nbcbayarea.com/news/local/Flickr-Founder-Wants-to-Challenge-Work-Email-302266411.html"
         },
         "elpais.com/2015/05/s%C3%AD-esta-foto-es-de-1913": {
             "title": "S\u00ed, esta foto es de 1913...",
@@ -56,20 +66,10 @@
             "snippet": "Bournemouth Echo14 of our favourite pictures from Flickr in AprilBournemouth EchoIT'S the end of another month and that means it's time for a round-up of our favourite pictures from our Echo Year 2015 Flickr group. You can see our gallery of...",
             "date": "2015-04-30",
             "categories": "flickr",
-            "tags": "our,our-gallery,gallery,echo,echo_year,our-favourite,our-favourite-pictures,favourite,favourite-pictures,pictures,end,end-of-another,another,another-month,month,month-and-that,that,that-means,means,aprilbournemouth,aprilbournemouth_echoit,echoit,bournemouth,bournemouth_echo,flickr,group",
+            "tags": "pictures,flickr,group",
             "recuweb_url": "http://es.recuweb.com/flickr/bournemouthecho.co.uk/2015/04/14-of-our-favourite-pictures-from-flickr-in-april-bournemouth-echo",
-            "resource_url": "http://news.google.es/?hl=es&q=flickr%2Bflickr&output=atom&nord=1",
-            "source_url": "http://bournemouthecho.co.uk/news/12920651.14_of_our_favourite_pictures_from_Flickr_in_April/"
-        },
-        "bournemouthecho.co.uk/2015/04/15-of-our-favourite-pictures-from-flickr-in-april-bournemouth-echo": {
-            "title": "15 of our favourite pictures from Flickr in April - Bournemouth Echo...",
-            "snippet": "Bournemouth Echo15 of our favourite pictures from Flickr in AprilBournemouth EchoIT'S the end of another month and that means it's time for a round-up of our favourite pictures from our Echo Year 2015 Flickr group. You can see our gallery of...",
-            "date": "2015-04-30",
-            "categories": "flickr",
-            "tags": "our,our-gallery,gallery,echo,echo_year,our-favourite,our-favourite-pictures,favourite,favourite-pictures,pictures,end,end-of-another,another,another-month,month,month-and-that,that,that-means,means,aprilbournemouth,aprilbournemouth_echoit,echoit,bournemouth,bournemouth_echo,flickr,group",
-            "recuweb_url": "http://es.recuweb.com/flickr/bournemouthecho.co.uk/2015/04/15-of-our-favourite-pictures-from-flickr-in-april-bournemouth-echo",
             "resource_url": "http://news.google.es/?hl=es&q=flickr&output=atom&nord=1",
-            "source_url": "http://bournemouthecho.co.uk/news/12920651.15_of_our_favourite_pictures_from_Flickr_in_April/"
+            "source_url": "http://bournemouthecho.co.uk/news/12920651.14_of_our_favourite_pictures_from_Flickr_in_April/"
         },
         "fucsia.co/2015/04/inicio-personajes-internacionales-en-la-vida-misma-est%C3%A1-el-material": {
             "title": "Inicio Personajes Internacionales En la vida misma est\u00e1 el material donde yo voy a dibujar: Power...",
@@ -80,16 +80,6 @@
             "recuweb_url": "http://es.recuweb.com/flickr/fucsia.co/2015/04/inicio-personajes-internacionales-en-la-vida-misma-est%C3%A1-el-material",
             "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=es",
             "source_url": "http://fucsia.co/personajes/internacionales/articulo/power-paola-historietista-autobiografica/62380"
-        },
-        "martinoticias.com/2015/04/the-illegal-and-refugee-la-historia-de-amor-un-balsero-mart%C3%AD": {
-            "title": "The illegal and the refugee: La historia de amor de un balsero... - Mart\u00ed Noticias...",
-            "snippet": "Mart\u00ed NoticiasThe illegal and the refugee: La historia de amor de un balsero...Mart\u00ed NoticiasUna embarcaci\u00f3n r\u00fastica utilizada por balseros cubanos y abandonada en la costa. Foto: Phil's1stPix/Flickr. inCompartir0; men\u00e9ame Enrique Aguado. abril...",
-            "date": "2015-04-30",
-            "categories": "flickr",
-            "tags": "foto,flickr",
-            "recuweb_url": "http://es.recuweb.com/flickr/martinoticias.com/2015/04/the-illegal-and-refugee-la-historia-de-amor-un-balsero-mart%C3%AD",
-            "resource_url": "http://news.google.es/?hl=es&q=flickr%2Bflickr&output=atom&nord=1",
-            "source_url": "http://martinoticias.com/content/the-illegal-and-the-refugee-novela-amor-el-amor-de-una-ilegal-mexicana-y-un-balsero-cubano/92177.html"
         },
         "abc.es/2015/04/el-arte-llega-hasta-las-alcantarillas-en-jap%C3%B3n": {
             "title": "El arte llega hasta las alcantarillas en Jap\u00f3n...",
@@ -110,6 +100,16 @@
             "recuweb_url": "http://es.recuweb.com/flickr/diarioinformacion.com/2015/04/el-patrimonio-destruido-en-nepal-antes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=es",
             "source_url": "http://diarioinformacion.com/internacional/2015/04/27/patrimono-destruido-nepal-despues/1625799.html"
+        },
+        "dailypost.co.uk/2015/04/look-daily-post-flickr-group-s-top-pictures-of-april-2015": {
+            "title": "LOOK: Daily Post Flickr group's top pictures of April 2015 - Daily Post North Wales...",
+            "snippet": "Daily Post North WalesLOOK: Daily Post Flickr group's top pictures of April 2015Daily Post North WalesSince the Daily Post launched a Flickr group in 2008, more than 51,000 images from across North Wales have been uploaded by enthusiastic...",
+            "date": "2015-04-29",
+            "categories": "flickr",
+            "tags": "group,pictures,flickr",
+            "recuweb_url": "http://es.recuweb.com/flickr/dailypost.co.uk/2015/04/look-daily-post-flickr-group-s-top-pictures-of-april-2015",
+            "resource_url": "http://news.google.es/?hl=es&q=flickr&output=atom&nord=1",
+            "source_url": "http://dailypost.co.uk/news/local-news/look-daily-post-flickr-groups-9142289"
         }
     }
 }

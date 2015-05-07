@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-intel",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-intel/",
@@ -17,10 +17,21 @@
             "date": "2015-04-13",
             "author_name": "Alejandro Dau",
             "categories": "hardware",
-            "tags": "core,nuevos,producto,procesadores,intel,tecnogaming,hardware",
+            "tags": "energ\u00e9tica,nuevos,producto,procesadores,intel,core,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/hardware.tecnogaming.com/2015/04/intel-revela-su-procesador-core-i3-4170t-tecnogaming-hardware",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://hardware.tecnogaming.com/2015/04/intel-revela-su-procesador-core-i3-4170t/"
+        },
+        "formula-hardware.com/2015/03/intel-y-micron-revelan-nueva-su-memoria-flash-nand-3d": {
+            "title": "Intel y Micron revelan nueva su memoria flash NAND 3D...",
+            "snippet": "Micron e Intel revelaron ayer la disponibilidad de su tecnolog\u00eda 3D NAND, la memoria flash de mayor densidad del mundo.... Copyright 2015 Formula Hardware. Dedicados al Hardware, 100% en Espa\u00f1ol. sponsored.",
+            "date": "2015-03-28",
+            "author_name": "Asis Ferrer",
+            "categories": "hardware,memoria,memoria-flash,tecnologia",
+            "tags": "hardware,densidad,nueva,intel,copyright,espa\u00f1ol",
+            "recuweb_url": "http://es.recuweb.com/tecnologia/formula-hardware.com/2015/03/intel-y-micron-revelan-nueva-su-memoria-flash-nand-3d",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://formula-hardware.com/2015/03/intel-y-micron-revelan-nueva-su-memoria-flash-nand-3d/"
         },
         "libuntu.net/2015/03/linux-4-0-mejorar%C3%A1-el-rendimiento-del-motor-gr%C3%A1fico-source": {
             "title": "Linux 4.0 mejorar\u00e1 el rendimiento del motor gr\u00e1fico Source en Intel Haswell...",
@@ -28,9 +39,9 @@
             "date": "2015-03-12",
             "author_name": "rmarquez",
             "categories": "hardware",
-            "tags": "rendimiento,intel,haswell,hardware",
+            "tags": "rendimiento,intel,haswell,linux,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/libuntu.net/2015/03/linux-4-0-mejorar%C3%A1-el-rendimiento-del-motor-gr%C3%A1fico-source",
-            "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bintel%2Bhardware%2Bintel&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=hardware%2Bintel&f=feed&page=1",
             "source_url": "http://libuntu.net/2015/03/12/linux-4-0-mejorara-el-rendimiento-del-motor-grafico-source-en-intel-haswell/"
         },
         "androidpc.es/2015/03/intel-presenta-nuevo-hardware-e-iniciativas-en-sus-gpu-para-juegos": {
@@ -39,21 +50,10 @@
             "date": "2015-03-05",
             "author_name": "MSX2",
             "categories": "hardware",
-            "tags": "nuevos,comunicado,intel,hardware,procesadores,broadwell",
+            "tags": "quinta,quinta-generaci\u00f3n,generaci\u00f3n,montar,nueva,informaci\u00f3n,comunicado,nuevos,intel,hardware,procesadores,broadwell",
             "recuweb_url": "http://es.recuweb.com/hardware/androidpc.es/2015/03/intel-presenta-nuevo-hardware-e-iniciativas-en-sus-gpu-para-juegos",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://androidpc.es/blog/2015/03/05/intel-presenta-nuevo-hardware-e-iniciativas-en-sus-gpu-para-juegos/"
-        },
-        "hardware.tecnogaming.com/2015/01/intel-core-i7-5960x-extreme-edition-tecnogaming-hardware": {
-            "title": "Intel Core i7 5960X Extreme Edition TecnoGaming - Hardware...",
-            "snippet": "Te presentamos el m\u00e1s potente procesador para la arquitectura de Intel con chipset X99 brindando alto rendimiento en m\u00faltiples aplicaciones y gran capacidad de.",
-            "date": "2015-01-23",
-            "author_name": "Alejandro Dau",
-            "categories": "hardware",
-            "tags": "rendimiento,tecnogaming,intel,intel_core,core,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/hardware.tecnogaming.com/2015/01/intel-core-i7-5960x-extreme-edition-tecnogaming-hardware",
             "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hardware.tecnogaming.com/2015/01/intel-core-i7-5960x-extreme-edition/"
+            "source_url": "http://androidpc.es/blog/2015/03/05/intel-presenta-nuevo-hardware-e-iniciativas-en-sus-gpu-para-juegos/"
         },
         "altadensidad.com/2015/01/alta-densidad-presentan-intel-curie-un-m%C3%B3dulo-de-hardware": {
             "title": "Alta Densidad Presentan Intel Curie un m\u00f3dulo de hardware del...",
@@ -61,10 +61,21 @@
             "date": "2015-01-13",
             "author_name": "Alta Densidad",
             "categories": "hardware",
-            "tags": "dispositivos,producto,intel,hardware",
+            "tags": "dispositivos,port\u00e1tiles,basado,producto,densidad,intel,hardware,compa\u00f1\u00eda",
             "recuweb_url": "http://es.recuweb.com/hardware/altadensidad.com/2015/01/alta-densidad-presentan-intel-curie-un-m%C3%B3dulo-de-hardware",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://altadensidad.com/?p=73015"
+        },
+        "labarqui.wordpress.com/2014/11/intel-galileo-realizando-un-control-para-pelea-rpg-por-turnos": {
+            "title": "Intel Galileo Realizando un control para pelea RPG por turnos...",
+            "snippet": "El objetivo del proyecto consist\u00eda utilizar la placa Intel Galileo para interactuar con partes de hardware, para luego utilizar c\u00f3digo en la placa para enviar informaci\u00f3n a un servidor. Una vez arriba, se deb\u00eda realizar alguna...",
+            "date": "2014-11-25",
+            "author_name": "Jjdiaz",
+            "categories": "hardware",
+            "tags": "informaci\u00f3n,intel,hardware",
+            "recuweb_url": "http://es.recuweb.com/hardware/labarqui.wordpress.com/2014/11/intel-galileo-realizando-un-control-para-pelea-rpg-por-turnos",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://labarqui.wordpress.com/2014/11/25/intel-galileo-realizando-un-control-para-pelea-rpg-por-turnos/"
         },
         "elotrolado.net/2014/11/intel-fusionar%C3%A1-su-negocio-de-hardware-m%C3%B3vil-con-divisi%C3%B3n": {
             "title": "Intel fusionar\u00e1 su negocio de hardware m\u00f3vil con su divisi\u00f3n de...",
@@ -74,8 +85,19 @@
             "categories": "hardware",
             "tags": "comunicado,dispositivos,intel,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/elotrolado.net/2014/11/intel-fusionar%C3%A1-su-negocio-de-hardware-m%C3%B3vil-con-divisi%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bintel%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elotrolado.net/noticia_intel-fusionara-su-negocio-de-hardware-movil-con-su-division-de-ordenadores_25403"
+        },
+        "florentinoh.blogspot.com/2014/09/inform%C3%A1tica-configurando-la-tarjeta-de-red-en-linux": {
+            "title": "Inform\u00e1tica: Configurando la tarjeta de red en Linux...",
+            "snippet": "Comprobacion de HW. Comprobar si la targeta es detectada por linux al menos a nivel del Hardware con el comando: lspco esto debe entregar algo parecido a: [rootlocalhost/] lspco. 00:00.0 Host bridge: Intel...",
+            "date": "2014-09-05",
+            "author_name": "Arcangel Asesino",
+            "categories": "hardware",
+            "tags": "linux,nivel,hardware,intel",
+            "recuweb_url": "http://es.recuweb.com/hardware/florentinoh.blogspot.com/2014/09/inform%C3%A1tica-configurando-la-tarjeta-de-red-en-linux",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhardware%2Bintel&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://florentinoh.blogspot.com/2014/09/configurando-la-tarjeta-de-red-en-linux.html"
         }
     }
 }

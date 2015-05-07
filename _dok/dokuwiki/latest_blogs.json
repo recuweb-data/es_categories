@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "dokuwiki",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/dokuwiki/",
@@ -17,9 +17,9 @@
             "date": "2015-04-20",
             "author_name": "no_email@example.com (carmenmbr)",
             "categories": "dokuwiki",
-            "tags": "dokuwiki,dokuwiki_user,user,hola",
+            "tags": "tengo,dokuwiki,dokuwiki_user,user,hola",
             "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/04/salvar-p%C3%A1gina-con-resultados-de-una-b%C3%BAsqueda-dokuwiki-user",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forum.dokuwiki.org/post/47984;?unb855sess=ee043ef7828cb2a85a132fbb9c541982"
         },
         "forobeta.com/2015/03/dokuwiki-ayuda-forobeta": {
@@ -28,7 +28,7 @@
             "date": "2015-03-17",
             "author_name": "victorsnk",
             "categories": "dokuwiki,wiki",
-            "tags": "foro,informaci\u00f3n,dokuwiki,ayuda,hola,wiki",
+            "tags": "foro,informaci\u00f3n,dokuwiki,hola,wiki",
             "recuweb_url": "http://es.recuweb.com/wiki/forobeta.com/2015/03/dokuwiki-ayuda-forobeta",
             "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forobeta.com/otras-plataformas/401774-dokuwiki-ayuda.html"
@@ -39,21 +39,10 @@
             "date": "2015-01-17",
             "author_name": "no_email@example.com (galopax)",
             "categories": "dokuwiki",
-            "tags": "problema,foro,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,muy",
+            "tags": "problema,foro,dokuwiki,dokuwiki_user,user",
             "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2015/01/geotag-y-coordenadas-negativas-dokuwiki-user-forum",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/12152"
-        },
-        "forum.dokuwiki.org/2014/10/ayuda-con-configuraci%C3%B3n-dokuwiki-user-forum": {
-            "title": "Ayuda con configuraci\u00f3n. - DokuWiki User Forum...",
-            "snippet": "Hola, instale hace 1 a\u00f1o, docuwiki para un trabajo de final de grado medio usando el servidor de alojamiento web hostinger. El problema es que puse, que cuando accedieras te saliera esta pagina con un mensaje de...",
-            "date": "2014-10-20",
-            "author_name": "no_email@example.com (N3v3rtheless)",
-            "categories": "dokuwiki",
-            "tags": "problema,trabajo,servidor,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,configuraci\u00f3n,ayuda,hola,web",
-            "recuweb_url": "http://es.recuweb.com/dokuwiki/forum.dokuwiki.org/2014/10/ayuda-con-configuraci%C3%B3n-dokuwiki-user-forum",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://forum.dokuwiki.org/thread/11813"
         },
         "gutl.jovenclub.cu/2014/10/compartiendo-aplicaciones-dokuwiki-hrun-te-suena": {
             "title": "Compartiendo aplicaciones Dokuwiki Hrun \u00bfTe suena nuestra...",
@@ -61,10 +50,21 @@
             "date": "2014-10-03",
             "author_name": "Maikel Llamaret Heredia",
             "categories": "dokuwiki,wiki",
-            "tags": "trabajo,versi\u00f3n,\u00fal,actualizar,dokuwiki,web,wiki",
+            "tags": "trabajo,dokuwiki,web,wiki",
             "recuweb_url": "http://es.recuweb.com/wiki/gutl.jovenclub.cu/2014/10/compartiendo-aplicaciones-dokuwiki-hrun-te-suena",
             "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://gutl.jovenclub.cu/compartiendo-aplicaciones-dokuwiki-hrun-te-suena-nuestra-wiki/"
+        },
+        "manualespordoquierr.blogspot.com/2014/09/manualespordoquier-instalaci%C3%B3n-y-primeros-pasos-de-dokuwiki": {
+            "title": "ManualesPorDoquier: Instalaci\u00f3n y primeros pasos de Dokuwiki...",
+            "snippet": "Tras esto, tenemos que realizar la configuraci\u00f3n inicial de Dokuwiki. Para ello dirig\u00edos ahttp://localhost/Nombre_de_vuestra_wiki/, donde Nombre_de_vuestra_wiki es obviamente el nombre del directorio de...",
+            "date": "2014-09-20",
+            "author_name": "Manuales por doquier",
+            "categories": "dokuwiki,wiki",
+            "tags": "configuraci\u00f3n,instalaci\u00f3n,dokuwiki,localhost,wiki",
+            "recuweb_url": "http://es.recuweb.com/wiki/manualespordoquierr.blogspot.com/2014/09/manualespordoquier-instalaci%C3%B3n-y-primeros-pasos-de-dokuwiki",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://manualespordoquierr.blogspot.com/2014/09/instalacion-y-primeros-pasos-de-dokuwiki.html"
         },
         "sobrebits.com/2014/07/dokuwiki-como-wiki-personal-postinstalaci%C3%B3n": {
             "title": "DokuWiki como Wiki personal: Postinstalaci\u00f3n de DokuWiki...",
@@ -72,9 +72,9 @@
             "date": "2014-07-18",
             "author_name": "Timbleck",
             "categories": "dokuwiki,wiki",
-            "tags": "configuraci\u00f3n,ponernos,ponernos-manos,manos,obra,introducci\u00f3n,entrega,entrega-del-tutorial,tutorial,instalaci\u00f3n,dokuwiki,wiki,personal",
+            "tags": "configuraci\u00f3n,ponernos,ponernos-manos,manos,obra,contenido,entrega,entrega-del-tutorial,tutorial,tendremos,instalaci\u00f3n,dokuwiki,wiki,personal",
             "recuweb_url": "http://es.recuweb.com/wiki/sobrebits.com/2014/07/dokuwiki-como-wiki-personal-postinstalaci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://sobrebits.com/instalar-dokuwiki-como-wiki-personal-parte-3-postinstalacion-de-dokuwiki/"
         },
         "sobrebits.com/2014/06/instalaci%C3%B3n-de-apache-php-y-dokuwiki-sobre-bits": {
@@ -83,9 +83,9 @@
             "date": "2014-06-05",
             "author_name": "Timbleck",
             "categories": "php,dokuwiki",
-            "tags": "servidor,instalar,entrega,entrega-del-tutorial,tutorial,instalaci\u00f3n,php,dokuwiki",
+            "tags": "instalar,entrega,entrega-del-tutorial,tutorial,instalaci\u00f3n,php,dokuwiki,bits",
             "recuweb_url": "http://es.recuweb.com/dokuwiki/sobrebits.com/2014/06/instalaci%C3%B3n-de-apache-php-y-dokuwiki-sobre-bits",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://sobrebits.com/instalar-dokuwiki-como-wiki-personal-parte-2-instalacion-de-apache-php-y-dokuwiki/"
         },
         "sobrebits.com/2014/05/instalar-dokuwiki-como-wiki-personal-preguntas-y-respuestas": {
@@ -96,30 +96,30 @@
             "categories": "dokuwiki,wiki",
             "tags": "ponernos,ponernos-manos,manos,obra,instalaci\u00f3n,instalar,dokuwiki,wiki,personal",
             "recuweb_url": "http://es.recuweb.com/wiki/sobrebits.com/2014/05/instalar-dokuwiki-como-wiki-personal-preguntas-y-respuestas",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://sobrebits.com/instalar-dokuwiki-como-wiki-personal-parte-1-preguntas-y-respuestas/"
         },
-        "blog.jorgeivanmeza.com/2010/12/actualizar-dokuwiki-jorge-iv%C3%A1n-meza-mart%C3%ADnez": {
-            "title": "Actualizar DokuWiki Jorge Iv\u00e1n Meza Mart\u00ednez...",
-            "snippet": "Obtener la \u00faltima versi\u00f3n disponible en el sitio de descargas de DokuWiki. wget Realizar una copia de seguridad de la instalaci\u00f3n actual.",
-            "date": "2010-12-02",
-            "author_name": "jimezam",
-            "categories": "dokuwiki",
-            "tags": "instalaci\u00f3n,versi\u00f3n,\u00fal,actualizar,dokuwiki,jorge,jorge_iv\u00e1n,jorge_iv\u00e1n_meza,iv\u00e1n,iv\u00e1n_meza,iv\u00e1n_meza_mart\u00ednez,meza,meza_mart\u00ednez,mart\u00ednez",
-            "recuweb_url": "http://es.recuweb.com/dokuwiki/blog.jorgeivanmeza.com/2010/12/actualizar-dokuwiki-jorge-iv%C3%A1n-meza-mart%C3%ADnez",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.jorgeivanmeza.com/2010/12/actualizar-dokuwiki/"
+        "atomosybits.com/2013/04/crea-en-un-pendrive-o-dropbox-tu-propio-wiki-portable-atomos": {
+            "title": "Crea en un pendrive o Dropbox tu propio wiki portable Atomos y bits...",
+            "snippet": "1. INSTALACI\u00d3N: Lo primero que tendremos que hacer ser\u00e1 descargar DokuWiki on a stick y descomprimirlo en la ruta d\u00f3nde lo queramos tener (Yo lo tengo en una carpeta en Dropbox para mi documentaci\u00f3n t\u00e9cnica). Una vez descomprimido, accedemos a...",
+            "date": "2013-04-25",
+            "author_name": "Sheldon (@sheldon_c81)",
+            "categories": "wiki,dokuwiki",
+            "tags": "tengo,stick,tener,tendremos,bits,dropbox,wiki,instalaci\u00f3n,dokuwiki",
+            "recuweb_url": "http://es.recuweb.com/dokuwiki/atomosybits.com/2013/04/crea-en-un-pendrive-o-dropbox-tu-propio-wiki-portable-atomos",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://atomosybits.com/crea-tu-propio-wiki-portable-en-dropbox-o-similar/"
         },
-        "blog.jorgeivanmeza.com/2010/10/instalaci%C3%B3n-de-dokuwiki-2010-jorge-iv%C3%A1n-meza-mart%C3%ADnez": {
-            "title": "Instalaci\u00f3n de DokuWiki 2010 Jorge Iv\u00e1n Meza Mart\u00ednez...",
-            "snippet": "Introducci\u00f3n. Dokuwiki es un excelente software para la creaci\u00f3n de Wikis. Ha sido desarrollado por Andreas Gohr en PHP, no requiere de una base de datos por lo que es muy c\u00f3mo para administrar, especialmente las...",
-            "date": "2010-10-31",
-            "author_name": "jimezam",
-            "categories": "base-de-datos,dokuwiki,wiki,php",
-            "tags": "muy,software,jorge,jorge_iv\u00e1n,jorge_iv\u00e1n_meza,iv\u00e1n,iv\u00e1n_meza,iv\u00e1n_meza_mart\u00ednez,meza,meza_mart\u00ednez,mart\u00ednez,instalaci\u00f3n,dokuwiki,introducci\u00f3n,php",
-            "recuweb_url": "http://es.recuweb.com/php/blog.jorgeivanmeza.com/2010/10/instalaci%C3%B3n-de-dokuwiki-2010-jorge-iv%C3%A1n-meza-mart%C3%ADnez",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.jorgeivanmeza.com/2010/10/instalacion-de-dokuwiki-2010/"
+        "akcdev.blogspot.com/2013/02/puroguramu-dropbox-dokuwiki": {
+            "title": "Puroguramu: Dropbox Dokuwiki...",
+            "snippet": "Entonces quedan las que son para instalar uno mismo, en el localhost. Luego, est\u00e1 el problema de tener el mismo contenido de computadora en computadora si, por ejemplo, usamos a veces la del trabajo, otras veces la de...",
+            "date": "2013-02-28",
+            "author_name": "Rulo Kobashikawa",
+            "categories": "computadora,dokuwiki",
+            "tags": "trabajo,problema,tener,contenido,localhost,instalar,dropbox,dokuwiki",
+            "recuweb_url": "http://es.recuweb.com/dokuwiki/akcdev.blogspot.com/2013/02/puroguramu-dropbox-dokuwiki",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://akcdev.blogspot.com/2013/02/dropbox-dokuwiki.html"
         }
     }
 }

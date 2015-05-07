@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pelota-valenciana",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pelota-valenciana/",
@@ -11,13 +11,23 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pelota-valenciana/pelota-valenciana/blogs.json"
     },
     "items": {
+        "levante-emv.com/2015/05/los-%C3%BAltimos-del-joc-a-llargues": {
+            "title": "Los \u00faltimos del Joc a Llargues...",
+            "snippet": "Cuenta el manuscrito publicado en 1974 que ganaron los vascos, tanto con sus pelotas, de mayor peso, como con las valencianas, de menor peso y di\u00e1metro... contados en cr\u00f3nicas cargadas de pasi\u00f3n. Es el caso del celebrado en Ondara, en 1880,...",
+            "date": "2015-05-03",
+            "tags": "celebrado,llargues",
+            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/05/los-%C3%BAltimos-del-joc-a-llargues",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvalenciana&format=RSS&cc=es",
+            "source_url": "http://levante-emv.com/deportes/2015/05/04/ultimos-joc-llargues/1259593.html"
+        },
         "levante-emv.com/2015/04/m%C3%A1xima-distinci%C3%B3n-a-la-pilota": {
             "title": "M\u00e1xima distinci\u00f3n a la pilota...",
-            "snippet": "A partir de este momento el emblema de la Orden podr\u00e1 lucirse en las comunicaciones o im\u00e1genes de la Federaci\u00f3 de Pilota Valenciana o de la propia selecci\u00f3n de pelota valenciana. Este reconocimiento es el primero que se realiza a nivel estatal...",
+            "snippet": "... en las comunicaciones o im\u00e1genes de la Federaci\u00f3 de Pilota Valenciana o de la propia selecci\u00f3n de pelota valenciana. Este reconocimiento es el primero que se realiza a nivel estatal para el deporte de la pilota valenciana. El presidente de...",
             "date": "2015-04-29",
-            "tags": "selecci\u00f3n,pilota,pilota_valenciana,valenciana,pelota",
-            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/04/m%C3%A1xima-distinci%C3%B3n-a-la-pilota",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvalenciana&format=RSS&cc=es",
+            "categories": "deporte",
+            "tags": "deporte,selecci\u00f3n,pilota,pilota_valenciana,valenciana,pelota",
+            "recuweb_url": "http://es.recuweb.com/deporte/levante-emv.com/2015/04/m%C3%A1xima-distinci%C3%B3n-a-la-pilota",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvalenciana&format=RSS&cc=es",
             "source_url": "http://levante-emv.com/deportes/2015/04/29/maxima-distincion-pilota/1257608.html"
         },
         "eldiario.es/2015/04/eu-apuesta-por-la-inmersi%C3%B3n-ling%C3%BC%C3%ADstica-y-reapertura-de-canal-9": {

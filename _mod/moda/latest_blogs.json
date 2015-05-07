@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moda",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/moda/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/moda/moda/blogs.json"
     },
     "items": {
+        "rey.com.pe/2015/05/corporaci%C3%B3n-rey-zipper-cierres-blog": {
+            "title": "Corporaci\u00f3n REY Zipper Cierres/REY Blog...",
+            "snippet": "... failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable in/var/www/localhost/htdocs/www/blog/wp-content/plugins/sexybookmarks/includes/on line 26.... Conscientes que el dise\u00f1o y la moda son factores claves para atender la...",
+            "date": "2015-05-06",
+            "author_name": "admin",
+            "categories": "moda",
+            "tags": "son,moda",
+            "recuweb_url": "http://es.recuweb.com/moda/rey.com.pe/2015/05/corporaci%C3%B3n-rey-zipper-cierres-blog",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://rey.com.pe/blog/0209/12/corporacion-rey/"
+        },
         "trendencias.com/2015/05/giorgio-armani-cumple-40-a%C3%B1os-en-la-moda-felicidades": {
             "title": "Giorgio Armani cumple 40 a\u00f1os en la moda \u00a1Felicidades!",
             "snippet": "Giorgio Armani est\u00e1 de cumplea\u00f1os. El dise\u00f1ador italiano cumple 40 a\u00f1os en el mundo de la moda y lo ha celebrado con una s\u00faper fiesta para inaugurar el museo Silos Armani en Mil\u00e1n, rodeado de sus amigos m\u00e1s...",
             "date": "2015-05-01",
             "author_name": "Colino",
             "categories": "moda",
-            "tags": "s\u00faper,mundo,italiano,cumple,moda,mil\u00e1n",
+            "tags": "s\u00faper,inaugurar,dise\u00f1ador,italiano,cumple,moda,mundo,mil\u00e1n",
             "recuweb_url": "http://es.recuweb.com/moda/trendencias.com/2015/05/giorgio-armani-cumple-40-a%C3%B1os-en-la-moda-felicidades",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://trendencias.com/alfombra-roja/giorgio-armani-cumple-40-anos-en-la-moda-felicidades"
         },
         "merca20.com/2015/05/m%C3%A9xico-est%C3%A1-de-a-la-moda-revista-merca2-0": {
@@ -28,21 +39,32 @@
             "date": "2015-05-01",
             "author_name": "Alan Campos",
             "categories": "moda",
-            "tags": "industria,moda,mil\u00e1n,tan",
+            "tags": "industria,s\u00f3lo,productos,moda,par\u00eds,mil\u00e1n,tan",
             "recuweb_url": "http://es.recuweb.com/moda/merca20.com/2015/05/m%C3%A9xico-est%C3%A1-de-a-la-moda-revista-merca2-0",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://merca20.com/mexico-esta-de-moda-y-a-la-moda/"
         },
-        "knvotv48.com/2015/04/moda-de-chiquitines-con-merci-noticias-48": {
-            "title": "Moda de Chiquitines con Merci Noticias 48...",
-            "snippet": "Merci Frezh nos acompa\u00f1a hoy, el dia del ni\u00f1o para presentarnos los mas nuevo para festejar este d\u00eda tan especial....",
+        "trendenciashombre.com/2015/04/no-solo-moda-sugerencias-de-la-semana-clxiii": {
+            "title": "No solo moda: sugerencias de la semana (CLXIII)...",
+            "snippet": "Una semana m\u00e1s, aqu\u00ed estamos con buenas sugerencias de ocio y estilo de vida para que disfrut\u00e9is al m\u00e1ximo de vuestro tiempo libre y, m\u00e1s...",
             "date": "2015-04-30",
-            "author_name": "Noticias 48",
+            "author_name": "JaviM",
             "categories": "moda",
-            "tags": "tan,especial,d\u00eda,moda",
-            "recuweb_url": "http://es.recuweb.com/moda/knvotv48.com/2015/04/moda-de-chiquitines-con-merci-noticias-48",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://knvotv48.com/moda-de-chiquitines-con-merci/"
+            "tags": "estamos,moda",
+            "recuweb_url": "http://es.recuweb.com/moda/trendenciashombre.com/2015/04/no-solo-moda-sugerencias-de-la-semana-clxiii",
+            "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://trendenciashombre.com/lifestyle/no-solo-moda-sugerencias-de-la-semana-clxiii"
+        },
+        "xatakafoto.com/2015/04/pasi%C3%B3n-fotogr%C3%A1fica-por-lo-abandonado-la-moda-de-los-exploradores": {
+            "title": "Pasi\u00f3n fotogr\u00e1fica por lo abandonado: la moda de los exploradores...",
+            "snippet": "Informaci\u00f3n, ejemplos e im\u00e1genes de fotograf\u00eda de lugares abandonados realizada por exploradores urbanos. Una moda fotogr\u00e1fica que busca...",
+            "date": "2015-04-30",
+            "author_name": "Jes\u00fas Le\u00f3n",
+            "categories": "fotografia,moda",
+            "tags": "busca,ejemplos,pasi\u00f3n,moda",
+            "recuweb_url": "http://es.recuweb.com/moda/xatakafoto.com/2015/04/pasi%C3%B3n-fotogr%C3%A1fica-por-lo-abandonado-la-moda-de-los-exploradores",
+            "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://xatakafoto.com/colecciones/pasion-fotografica-por-lo-abandonado-la-moda-de-los-exploradores-urbanos"
         },
         "trendencias.com/2015/04/2-cumple-tu-sue%C3%B1o-y-estudia-moda-estas-son-las-mejores": {
             "title": "2 Cumple tu sue\u00f1o y estudia moda: estas son las mejores escuelas...",
@@ -50,32 +72,10 @@
             "date": "2015-04-29",
             "author_name": "SueMissIndie",
             "categories": "escuela,moda",
-            "tags": "mejores,pasi\u00f3n,carrera,cumple,moda",
+            "tags": "son,mejores,pasi\u00f3n,quieres,cumple,moda",
             "recuweb_url": "http://es.recuweb.com/moda/trendencias.com/2015/04/2-cumple-tu-sue%C3%B1o-y-estudia-moda-estas-son-las-mejores",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://trendencias.com/otros/cumple-tu-sueno-y-estudia-moda-las-mejores-escuelas-y-cursos"
-        },
-        "blog.hola.com/2015/04/trussardi-moda-y-elegancia-italiana-en-madrid-marta-gonz%C3%A1lez": {
-            "title": "Trussardi, moda y elegancia italiana en Madrid Marta Gonz\u00e1lez...",
-            "snippet": "El emporio italiano de la firma Trussardi, admirado en todas las capitales de la moda desde Nueva York a Hong Kong, entra en Madrid por la puerta grande con la apertura de una flagship en el n\u00famero 82 de la conocida...",
-            "date": "2015-04-28",
-            "author_name": "martagonzalez",
-            "categories": "moda",
-            "tags": "nueva,nueva_york,york,italiano,madrid,elegancia,moda,firma",
-            "recuweb_url": "http://es.recuweb.com/moda/blog.hola.com/2015/04/trussardi-moda-y-elegancia-italiana-en-madrid-marta-gonz%C3%A1lez",
             "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.hola.com/marta-gonzalez/2015/04/28/trussardi-moda-y-elegancia-italiana-en-madrid/"
-        },
-        "saba.com.mx/2015/04/moda-online-bendito-internet-saba": {
-            "title": "Moda Online \u00a1Bendito Internet! Saba...",
-            "snippet": "Moda Online \u00a1Bendito Internet! Siempre que vamos a un centro comercial compramos lo que vemos y si corremos con un poco de suerte nos podemos llevar todo lo que nos guste, aunque luego ya ni lo usemos. Pero el...",
-            "date": "2015-04-27",
-            "author_name": "Saba Staff",
-            "categories": "internet,moda",
-            "tags": "moda,siempre",
-            "recuweb_url": "http://es.recuweb.com/moda/saba.com.mx/2015/04/moda-online-bendito-internet-saba",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://saba.com.mx/moda-online-bendito-internet/"
+            "source_url": "http://trendencias.com/otros/cumple-tu-sueno-y-estudia-moda-las-mejores-escuelas-y-cursos"
         },
         "diariosdefutbol.com/2015/04/est%C3%A1-de-moda-diarios-futbol": {
             "title": "Est\u00e1 de moda - Diarios de Futbol...",
@@ -83,43 +83,43 @@
             "date": "2015-04-27",
             "author_name": "\u00d3scar D\u00edez",
             "categories": "moda,futbol",
-            "tags": "moda",
+            "tags": "viejo,partir,moda",
             "recuweb_url": "http://es.recuweb.com/futbol/diariosdefutbol.com/2015/04/est%C3%A1-de-moda-diarios-futbol",
             "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diariosdefutbol.com/2015/04/27/esta-de-moda/"
         },
-        "celebmas.com/2015/04/glamour-y-moda-en-la-casa-blanca-celebm%C3%A1s": {
-            "title": "Glamour y moda en la casa blanca CelebM\u00e1s...",
-            "snippet": "Las supermodelos Irina Shayk y Adriana Lima han sido algunas de las invitadas de honor a la cena de corresponsales de la Casa Blanca. Las dos han compartido en instagram los modelitos escogidos para la ocasi\u00f3n.",
-            "date": "2015-04-26",
-            "author_name": "Celebmas",
-            "categories": "moda",
-            "tags": "casa,moda,dos",
-            "recuweb_url": "http://es.recuweb.com/moda/celebmas.com/2015/04/glamour-y-moda-en-la-casa-blanca-celebm%C3%A1s",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://celebmas.com/celebmas-espana/2015/04/26/glamour-y-moda-en-la-casa-blanca/"
+        "mujerhoy.com/2015/03/las-10-tendencias-de-moda-para-la-primavera-2015-galer%C3%ADa": {
+            "title": "Las 10 tendencias de moda para la primavera de 2015 Galer\u00eda de...",
+            "snippet": "El cuero deja paso al ante como tejido estrella del 2015 Vestidos, saharianas y faldas ser\u00e1n sus principales radios de acci\u00f3n como proponen Altuzarra, Ralph...",
+            "date": "2015-03-20",
+            "author_name": "desconocido",
+            "categories": "radio,estrella,moda",
+            "tags": "principales,paso,primavera,tendencias,moda",
+            "recuweb_url": "http://es.recuweb.com/moda/mujerhoy.com/2015/03/las-10-tendencias-de-moda-para-la-primavera-2015-galer%C3%ADa",
+            "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mujerhoy.com/moda/informate/tendencias-moda-2015-846447122014.html"
         },
-        "elblogdeshaniqua.blogspot.com/2015/04/ins%C3%B3lita-moda-se-atan-los-pechos-para-hacerlos-crecer": {
-            "title": "Ins\u00f3lita moda, se atan los pechos para hacerlos crecer...",
-            "snippet": "Las tendencias de belleza en Asia siempre sorprenden! La obsesi\u00f3n por la imagen que profesan las mujeres en Jap\u00f3n pasa por seguir modas de lo m\u00e1s bizarras, como usar aparatolog\u00eda para dar volumen a los labios en pocos segundos o hasta operarse...",
-            "date": "2015-04-24",
-            "author_name": "(el blog de shaniqua)",
+        "alternativa-verde.com/2015/02/moda-sustentable-tres-propuestas-para-vestir-conciencia": {
+            "title": "Moda sustentable: tres propuestas para vestir conciencia...",
+            "snippet": "Las propuestas de dise\u00f1adores, en este caso ligados a la industria de la moda, que eligen producir sosteniblemente siguen creciendo. Quiero contarte de 3 ejemplos de c\u00f3mo, desde la elecci\u00f3n de las materias primas hasta...",
+            "date": "2015-02-06",
+            "author_name": "Meri Castro",
             "categories": "moda",
-            "tags": "moda,imagen,mujeres,siempre",
-            "recuweb_url": "http://es.recuweb.com/moda/elblogdeshaniqua.blogspot.com/2015/04/ins%C3%B3lita-moda-se-atan-los-pechos-para-hacerlos-crecer",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=moda%2Bmoda&rss=1&lng=es",
-            "source_url": "http://elblogdeshaniqua.blogspot.com/2015/04/insolita-moda-se-atan-los-pechos-para.html"
+            "tags": "ejemplos,industria,tres,vestir,moda,c\u00f3mo",
+            "recuweb_url": "http://es.recuweb.com/moda/alternativa-verde.com/2015/02/moda-sustentable-tres-propuestas-para-vestir-conciencia",
+            "resource_url": "http://www.google.com/search?q=moda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://alternativa-verde.com/2015/02/06/moda-sustentable-tres-propuestas-para-vestir-conciencia/"
         },
-        "trendencias.com/2015/04/las-abuelas-est%C3%A1n-dando-marcha-a-la-moda": {
-            "title": "Las abuelas est\u00e1n dando marcha a la moda...",
-            "snippet": "Las se\u00f1oras mayores de m\u00e1s de 65 a\u00f1os empiezan a destacar en el mundo de la moda y las firmas as\u00ed nos lo muestran recurriendo a su imagen para...",
-            "date": "2015-04-24",
-            "author_name": "Charlie",
-            "categories": "moda",
-            "tags": "imagen,mundo,moda",
-            "recuweb_url": "http://es.recuweb.com/moda/trendencias.com/2015/04/las-abuelas-est%C3%A1n-dando-marcha-a-la-moda",
-            "resource_url": "http://www.google.com/search?q=moda%2Bmoda&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://trendencias.com/modelos/las-abuelas-estan-dando-marcha-a-la-moda"
+        "sararomero93.wordpress.com/2015/01/por-qu%C3%A9-estar-de-moda": {
+            "title": "\u00bfPor qu\u00e9 estar de moda?",
+            "snippet": "La gent5e te trata como te ve, as\u00ed que con\u00e9ctate con la moda para transmitir tu personalidad de una manera positiva...",
+            "date": "2015-01-30",
+            "author_name": "SaferyLili",
+            "categories": "personalidad,moda",
+            "tags": "trata,moda",
+            "recuweb_url": "http://es.recuweb.com/moda/sararomero93.wordpress.com/2015/01/por-qu%C3%A9-estar-de-moda",
+            "resource_url": "http://es.search.wordpress.com/?q=moda&f=feed&page=1",
+            "source_url": "http://sararomero93.wordpress.com/2015/01/30/por-que-estar-de-moda/"
         }
     }
 }

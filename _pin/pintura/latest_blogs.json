@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pintura",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pintura/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pintura/pintura/blogs.json"
     },
     "items": {
-        "manualidadesen.blogspot.com/2015/05/tipos-de-pintura-acr%C3%ADlica": {
-            "title": "Tipos de pintura, pintura acr\u00edlica...",
-            "snippet": "pintar pintura tiposdepintura pinturaacr\u00edlica Aquellos que gustan de pintar debe saber que los tipos de pintura son muchas. Entre los m\u00e1s utilizados son la pintura al \u00f3leo y pintura acr\u00edlica. Ventajas Entre las ventajas de la pintura de...",
-            "date": "2015-05-02",
-            "author_name": "(Yo As)",
+        "revistadearte.com/2015/05/sol-lewitt-el-genio-de-la-pintura-mural-estar%C3%A1-en-fundaci%C3%B3n": {
+            "title": "Sol LeWitt, el genio de la pintura mural, estar\u00e1 en la Fundaci\u00f3n Bot\u00edn...",
+            "snippet": "Del 18 de julio al 10 de enero de 2016, la sala de exposiciones de la Fundaci\u00f3n Bot\u00edn en Santander acoger\u00e1 Sol LeWitt. 17 Wall Drawings. 1970-2015. Organizada.",
+            "date": "2015-05-03",
+            "author_name": "Logopress - Editor",
             "categories": "pintura",
-            "tags": "\u00f3leo,pintura,pintar,son",
-            "recuweb_url": "http://es.recuweb.com/pintura/manualidadesen.blogspot.com/2015/05/tipos-de-pintura-acr%C3%ADlica",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pintura%2Bpintura&rss=1&lng=es",
-            "source_url": "http://manualidadesen.blogspot.com/2015/05/tipos-de-pintura-pintura-acrilica.html"
+            "tags": "sala,estar\u00e1,pintura,mural,organizada",
+            "recuweb_url": "http://es.recuweb.com/pintura/revistadearte.com/2015/05/sol-lewitt-el-genio-de-la-pintura-mural-estar%C3%A1-en-fundaci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://revistadearte.com/2015/05/03/sol-lewitt-el-genio-de-la-pintura-mural-estara-en-la-fundacion-botin/"
+        },
+        "ellitoral.com.ar/2015/05/capacitaci%C3%B3n-intensiva-en-pintura-al-%C3%B3leo-diario-el-litoral-corrientes": {
+            "title": "Capacitaci\u00f3n intensiva en pintura al \u00f3leo Diario El Litoral Corrientes...",
+            "snippet": "La renombrada artista pl\u00e1stica goyana Bel\u00e9n Pittaluga estar\u00e1 hoy en el taller de Luciana Zappa (San Juan 1230) al frente de una capacitaci\u00f3n intensiva te\u00f3rico-pr\u00e1ctico de pinturas al \u00f3leo con esp\u00e1tulas, que se desarrollar\u00e1...",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
+            "categories": "pintura",
+            "tags": "desarrollar\u00e1,pr\u00e1ctico,pr\u00e1ctico-de-pinturas,pinturas,pintura,pinturas-al-\u00f3leo,\u00f3leo,\u00f3leo-con-esp\u00e1tulas,esp\u00e1tulas,te\u00f3rico,san,san_juan,juan,luciana,luciana_zappa,zappa,estar\u00e1,taller,renombrada,artista,artista-pl\u00e1stica,pl\u00e1stica,diario",
+            "recuweb_url": "http://es.recuweb.com/pintura/ellitoral.com.ar/2015/05/capacitaci%C3%B3n-intensiva-en-pintura-al-%C3%B3leo-diario-el-litoral-corrientes",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ellitoral.com.ar/es/articulo/359176/Capacitacion-intensiva-en-pintura-al-oleo"
         },
         "diariomotor.com/2015/05/pintura-gris-mate-y-el-toque-abt-para-nuevo-audi-tt": {
             "title": "Pintura gris mate y el toque ABT para el nuevo Audi TT - Diariomotor...",
@@ -28,9 +39,9 @@
             "date": "2015-05-01",
             "author_name": "Mario Herraiz",
             "categories": "pintura",
-            "tags": "potencia,nuevos,primera,pintura",
+            "tags": "potencia,nuevos,algo,tiene,pintura",
             "recuweb_url": "http://es.recuweb.com/pintura/diariomotor.com/2015/05/pintura-gris-mate-y-el-toque-abt-para-nuevo-audi-tt",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://diariomotor.com/breve/pintura-gris-mate-y-el-toque-abt-para-el-nuevo-audi-tt/"
         },
         "ellitoral.com.ar/2015/04/renombrada-artista-pl%C3%A1stica-dar%C3%A1-un-curso-de-pintura-al-%C3%B3leo-diario": {
@@ -39,32 +50,10 @@
             "date": "2015-04-30",
             "author_name": "desconocido",
             "categories": "pintura",
-            "tags": "san,san_juan,juan,luciana,luciana_zappa,zappa,\u00f3leo,taller,pr\u00e1ctico,te\u00f3rico,pl\u00e1stica,dar\u00e1,renombrada,artista,curso,pinturas,diario",
+            "tags": "san,san_juan,juan,luciana,luciana_zappa,zappa,pr\u00e1ctico,pr\u00e1ctico-de-pinturas,pinturas,pintura,pinturas-al-\u00f3leo,\u00f3leo,\u00f3leo-con-esp\u00e1tulas,esp\u00e1tulas,desarrollar\u00e1,taller,te\u00f3rico,artista,artista-pl\u00e1stica,pl\u00e1stica,dar\u00e1,renombrada,curso,diario",
             "recuweb_url": "http://es.recuweb.com/pintura/ellitoral.com.ar/2015/04/renombrada-artista-pl%C3%A1stica-dar%C3%A1-un-curso-de-pintura-al-%C3%B3leo-diario",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ellitoral.com.ar/es/articulo/359015/Renombrada-artista-plastica-dara--un-curso-de-pintura-al-oleo"
-        },
-        "supercurioso.com/2015/04/las-6-mujeres-m%C3%A1s-guapas-de-la-pintura-supercurioso": {
-            "title": "Las 6 mujeres m\u00e1s guapas de la pintura Supercurioso...",
-            "snippet": "La historia del Arte est\u00e1 repleta de mujeres bellas no s\u00f3lo como modelos, sino tambi\u00e9n como creadoras -acordaos del art\u00edculo que escribimos sobre algunas de las mujeres artistas olvidadas por la historia-, pero en este...",
-            "date": "2015-04-29",
-            "author_name": "Sofia Hidalgo",
-            "categories": "pintura",
-            "tags": "artistas,pintura,arte",
-            "recuweb_url": "http://es.recuweb.com/pintura/supercurioso.com/2015/04/las-6-mujeres-m%C3%A1s-guapas-de-la-pintura-supercurioso",
             "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://supercurioso.com/las-6-mujeres-mas-bellas-de-la-pintura/"
-        },
-        "taringa.net/2015/04/mi-tarea-de-dibujo-y-pintura-ii-taringa": {
-            "title": "Mi Tarea de Dibujo y Pintura (II) - Taringa!",
-            "snippet": "Pero, regresando al tema a tratar aqu\u00ed, con el cuatrimestre tambi\u00e9n culmina la materia de Dibujo Natural y Pintura I. Por lo que este post tratara sobre el avance que haya logrado o no. Para ver lo que hice en la primera mitad...",
-            "date": "2015-04-29",
-            "author_name": "desconocido",
-            "categories": "pintura",
-            "tags": "hice,primera,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/taringa.net/2015/04/mi-tarea-de-dibujo-y-pintura-ii-taringa",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://taringa.net/post/arte/18632940/Mi-Tarea-de-Dibujo-y-Pintura-II.html"
+            "source_url": "http://ellitoral.com.ar/es/articulo/359015/Renombrada-artista-plastica-dara--un-curso-de-pintura-al-oleo"
         },
         "rpp.com.pe/2015/04/cusco-as%C3%AD-lucen-cripta-y-pintura-encontradas-en-templo-san-rpp": {
             "title": "Cusco: As\u00ed lucen cripta y pintura encontradas en Templo San... - RPP...",
@@ -72,10 +61,21 @@
             "date": "2015-04-28",
             "author_name": "RPP Noticias",
             "categories": "pintura",
-            "tags": "proceso,pintor,san,pintura",
+            "tags": "mural,proceso,san,pintura,pintor",
             "recuweb_url": "http://es.recuweb.com/pintura/rpp.com.pe/2015/04/cusco-as%C3%AD-lucen-cripta-y-pintura-encontradas-en-templo-san-rpp",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rpp.com.pe/2015-04-28-cusco-asi-lucen-cripta-y-pintura-encontradas-en-templo-san-francisco-de-asis-noticia_792112.html"
+        },
+        "salaamarilla2009.blogspot.com/2015/04/mi-sala-amarilla-los-trabajadores-en-la-pintura-propuesta": {
+            "title": "Mi Sala Amarilla: Los trabajadores en la pintura. Propuesta para el...",
+            "snippet": "Propuesta de arte para el d\u00eda del trabajador con de lectura de im\u00e1genes de pinturas de artistas reconocidos.",
+            "date": "2015-04-28",
+            "author_name": "Sandra Luz",
+            "categories": "pintura",
+            "tags": "pinturas,pintura,sala,arte,artistas",
+            "recuweb_url": "http://es.recuweb.com/pintura/salaamarilla2009.blogspot.com/2015/04/mi-sala-amarilla-los-trabajadores-en-la-pintura-propuesta",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://salaamarilla2009.blogspot.com/2015/04/los-trabajadores-en-la-pintura.html"
         },
         "casaturca.org/2015/04/ganadores-del-concurso-de-pintura-2015-casa-turca": {
             "title": "Ganadores del Concurso de Pintura 2015 Casa Turca...",
@@ -83,43 +83,43 @@
             "date": "2015-04-22",
             "author_name": "casaturca",
             "categories": "pintura,cultura",
-            "tags": "dentro,casa,pintura",
+            "tags": "dentro,casa,concurso,pintura",
             "recuweb_url": "http://es.recuweb.com/cultura/casaturca.org/2015/04/ganadores-del-concurso-de-pintura-2015-casa-turca",
             "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://casaturca.org/ganadores-del-concurso-de-pintura-2015/"
         },
-        "pijamasurf.com/2015/04/celebridades-contempor%C3%A1neas-insertas-en-obras-maestras": {
-            "title": "Celebridades contempor\u00e1neas insertas en obras maestras de la...",
-            "snippet": "El Tumblr Voyage dans le temps (Viaje en el tiempo), de la francesa B\u00e9n\u00e9dicte Lacroix, muestra una serie de reinterpretaciones de grandes obras maestras de la pintura en las que los protagonistas de las mismas se...",
-            "date": "2015-04-21",
-            "author_name": "pijamasurf",
-            "categories": "tumblr,pintura",
-            "tags": "muestra,tiempo,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/pijamasurf.com/2015/04/celebridades-contempor%C3%A1neas-insertas-en-obras-maestras",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pijamasurf.com/2015/04/celebridades-contemporaneas-insertadas-en-obras-maestras-de-la-pintura-fotos/"
+        "quesabesde.com/2015/03/10-grandes-fotograf%C3%ADas-que-evocan-a-cl%C3%A1sicos-de-la-pintura": {
+            "title": "10 grandes fotograf\u00edas que evocan a cl\u00e1sicos de la pintura...",
+            "snippet": "El lenguaje visual de la fotograf\u00eda tiene su origen en la pintura, de la cual a\u00fan hoy se sigue nutriendo. Desde la forma de representar la luz de Rembrandt hasta las abstracciones de Mondrian, no son pocos los fot\u00f3grafos que...",
+            "date": "2015-03-31",
+            "author_name": "desconocido",
+            "categories": "lenguaje,fotografia,pintura",
+            "tags": "son,fotograf\u00edas,tiene,pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/quesabesde.com/2015/03/10-grandes-fotograf%C3%ADas-que-evocan-a-cl%C3%A1sicos-de-la-pintura",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://quesabesde.com/noticias/10-fotografias-inspiradas-cuadros_13038"
         },
-        "fundacionunam.org.mx/2015/04/pintura-expresionista-descubre-fundaci%C3%B3n-unam": {
-            "title": "Pintura expresionista Descubre Fundaci\u00f3n UNAM...",
-            "snippet": "El expresionismo se form\u00f3 a partir de la est\u00e9tica manifestada por pintores que, en Dresde, Alemania, se reun\u00edan en el grupo que llamaron Die Br\u00fccke (El Puente), en 1905, quienes al siguiente a\u00f1o tuvieron su primera...",
-            "date": "2015-04-16",
-            "author_name": "Maribel Farf\u00e1n",
+        "labioguia.com/2015/03/11-formas-de-utilizar-pintura-pizarra-manera-creativa": {
+            "title": "11 formas de utilizar pintura de pizarra de manera creativa La...",
+            "snippet": "Algunas lindas maneras de renovar espacios u objetos con algo de pintura para pizarras. Tan solo a\u00f1ade un poco de pintura negra o verde y renueva la imagen de.",
+            "date": "2015-03-31",
+            "author_name": "Marina Zambrano",
             "categories": "pintura",
-            "tags": "primera,grupo,pintura",
-            "recuweb_url": "http://es.recuweb.com/pintura/fundacionunam.org.mx/2015/04/pintura-expresionista-descubre-fundaci%C3%B3n-unam",
-            "resource_url": "http://www.google.com/search?q=pintura%2Bpintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://fundacionunam.org.mx/arte-y-cultura/pintura-expresionista/"
+            "tags": "poco,algo,pintura,algunas",
+            "recuweb_url": "http://es.recuweb.com/pintura/labioguia.com/2015/03/11-formas-de-utilizar-pintura-pizarra-manera-creativa",
+            "resource_url": "http://www.google.com/search?q=pintura&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://labioguia.com/11-formas-de-utilizar-pintura-de-pizarra-de-manera-creativa/"
         },
-        "holismoplanetario.com/2015/04/la-vida-cotidiana-en-pintura-del-trecento-de-marta-cend%C3%B3n-fern%C3%A1ndez": {
-            "title": "La vida cotidiana en la pintura del Trecento de Marta Cend\u00f3n Fern\u00e1ndez (Universidad Santiago de...",
-            "snippet": "Ambrogio Lorenzetti. Efectos del buen gobierno en la ciudad. Siena: Palacio P\u00fablico. Cend\u00f3n Fern\u00e1ndez, Marta. La vida cotidiana en la pintura del Trecento, en SEMATA, Ciencias Sociais e Humanidades, vol. 21: 241-263. Archivado en: Art\u00edculos de...",
-            "date": "2015-04-05",
-            "author_name": "Holismo Planetario en la Web",
-            "categories": "ciencias,ciencia,pintura,humanidades",
-            "tags": "buen,gobierno,vida,pintura",
-            "recuweb_url": "http://es.recuweb.com/humanidades/holismoplanetario.com/2015/04/la-vida-cotidiana-en-pintura-del-trecento-de-marta-cend%C3%B3n-fern%C3%A1ndez",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pintura%2Bpintura&rss=1&lng=es",
-            "source_url": "http://holismoplanetario.com/2015/04/05/la-vida-cotidiana-en-la-pintura-del-trecento-de-marta-cendon-fernandez-universidad-santiago-de-compostela/"
+        "automaniablogdotcom.wordpress.com/2015/02/como-quitar-los-puntos-de-oxido-sobre-la-pintura-un-carro": {
+            "title": "Como quitar los puntos de oxido sobre la pintura de un carro (contaminacion de la pintura).",
+            "snippet": "Hoy dia, cuando lave mi auto me percate que habian puntos de oxido sobre el varniz de la pintura de mi carro, y que es dificil de sacar. []...",
+            "date": "2015-02-10",
+            "author_name": "everynlopez",
+            "categories": "pintura",
+            "tags": "pintura",
+            "recuweb_url": "http://es.recuweb.com/pintura/automaniablogdotcom.wordpress.com/2015/02/como-quitar-los-puntos-de-oxido-sobre-la-pintura-un-carro",
+            "resource_url": "http://es.search.wordpress.com/?q=pintura&f=feed&page=1",
+            "source_url": "http://automaniablogdotcom.wordpress.com/2015/02/10/como-quitar-los-puntos-de-oxido-sobre-la-pintura-de-un-carro-contaminacion-de-la-pintura/"
         }
     }
 }

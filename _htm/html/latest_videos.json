@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "html",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/html/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/html/html/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/website-design-html-coursevia": {
+            "title": "Website Design HTML Course[via]...",
+            "snippet": "Whether you are a complete beginner or have some website design experience, this web design course will teach you how to plan, design, build and market your own website with our... \"Simple Website Design Course that Will Not Only Provide You With...",
+            "date": "2015-04-22",
+            "author_name": "arturo-garcia2",
+            "categories": "html",
+            "tags": "web,how,html",
+            "recuweb_url": "http://es.recuweb.com/html/dailymotion.com/2015/04/website-design-html-coursevia",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+html/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nly65_website-design-html-course-via-torchbrowser-com_webcam",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nly65_website-design-html-course-via-torchbrowser-com_webcam"
+        },
         "youtube.com/2015/01/tutorial-b%C3%A1sico-de-html-desde-cero-video-1-introducci%C3%B3n": {
             "title": "Tutorial b\u00e1sico de HTML desde cero - Video 1: Introducci\u00f3n.",
             "snippet": "Tutorial b\u00e1sico de HTML desde cero - Video 1: Introducci\u00f3n. Hospeda tu sitio web con nosotros: Entonces t\u00fa quieres crear un sitio web, pero no tienes ninguna idea de c\u00f3mo hacerlo En este video curso vamos a aprender... From: Lievano San Views:...",
             "date": "2015-01-20",
             "author_name": "Lievano San",
             "categories": "html",
-            "tags": "curso,c\u00f3mo,crear,sitio,sitio-web,web,b\u00e1sico,tutorial,html",
+            "tags": "curso,c\u00f3mo,crear,web,b\u00e1sico,tutorial,html",
             "recuweb_url": "http://es.recuweb.com/html/youtube.com/2015/01/tutorial-b%C3%A1sico-de-html-desde-cero-video-1-introducci%C3%B3n",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Ch1GG4xM8nw&feature=youtube_gdata",
@@ -29,7 +41,7 @@
             "date": "2015-01-11",
             "author_name": "FalconMasters",
             "categories": "html,css,javascript",
-            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,hacer,barra,html,css,javascript",
+            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,hacer,barra,html,css",
             "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2015/01/como-hacer-un-men%C3%BA-pegajoso-sticky-menu-con-html-css",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=9me1HvKs_1U&feature=youtube_gdata",
@@ -41,9 +53,9 @@
             "date": "2014-12-18",
             "author_name": "generando-bits",
             "categories": "html",
-            "tags": "convertir,comentario,tutorial,html",
+            "tags": "convertir,how,comentario,tutorial,html",
             "recuweb_url": "http://es.recuweb.com/html/dailymotion.com/2014/12/como-convertir-imagen-a-texto-html-txt-jpg",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/html+html/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+html/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cuuup_como-convertir-imagen-a-texto-html-txt-jpg-y-mas_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2cuuup_como-convertir-imagen-a-texto-html-txt-jpg-y-mas_lifestyle"
         },
@@ -53,9 +65,9 @@
             "date": "2014-11-08",
             "author_name": "invercionesjerrys",
             "categories": "html",
-            "tags": "curso,dise\u00f1o,dise\u00f1o-web,web,poco,html,hola",
+            "tags": "curso,dise\u00f1o,dise\u00f1o-web,web,html,hola",
             "recuweb_url": "http://es.recuweb.com/html/dailymotion.com/2014/11/curso-de-c%C3%B3digos-html-completo-descargable",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/html+html/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+html/0?af=1",
             "source_url": "http://dailymotion.com/video/x29mtsi_curso-de-codigos-html-completo-descargable_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x29mtsi_curso-de-codigos-html-completo-descargable_lifestyle"
         },
@@ -65,7 +77,7 @@
             "date": "2014-10-17",
             "author_name": "FalconMasters",
             "categories": "html,css",
-            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,barra,pagina,hacer,html,css,necesitas,ayuda,falconmasters",
+            "tags": "dise\u00f1o,dise\u00f1o-web,web,tutorial,barra,compartir,pagina,hacer,html,css",
             "recuweb_url": "http://es.recuweb.com/css/youtube.com/2014/10/como-hacer-una-barra-social-vertical-y-fija-a-pantalla",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=oRhU90wCghY&feature=youtube_gdata",
@@ -77,9 +89,9 @@
             "date": "2014-09-15",
             "author_name": "crackmastersamm",
             "categories": "html,facebook,twitter,google",
-            "tags": "comentario,b\u00e1sico,crear,pagina,html,hola,web",
+            "tags": "comentario,b\u00e1sico,crear,pagina,html,hola,canal,web",
             "recuweb_url": "http://es.recuweb.com/google/dailymotion.com/2014/09/como-crear-una-pagina-insertar-video-con-html-5-b%C3%A1sico-bien",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/html+html/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+html/0?af=1",
             "source_url": "http://dailymotion.com/video/x25z76m_como-crear-una-pagina-insertar-video-con-html-5-basico-bien-explicado-para-empezar_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x25z76m_como-crear-una-pagina-insertar-video-con-html-5-basico-bien-explicado-para-empezar_tech"
         },
@@ -89,23 +101,11 @@
             "date": "2014-08-04",
             "author_name": "Platzi",
             "categories": "lenguaje,html,internet",
-            "tags": "c\u00f3mo,html",
+            "tags": "lenguaje,c\u00f3mo,html",
             "recuweb_url": "http://es.recuweb.com/internet/youtube.com/2014/08/qu%C3%A9-es-html-y-c%C3%B3mo-funciona",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html%2Bhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=av_PL4_jz1I&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/av_PL4_jz1I/0.jpg"
-        },
-        "youtube.com/2014/07/como-hacer-un-slideshow-para-sitio-web-con-html-css": {
-            "title": "Como hacer un slideshow para un sitio web con HTML, CSS y JS...",
-            "snippet": "Como hacer un slideshow para un sitio web con HTML, CSS y JS Aprende como crear un Slideshow para tu sitio web utilizando HTML, CSS y un poco de Javascript. Blog de dise\u00f1o web: Necesitas ayuda con el tutorial?... From: FalconMasters Views: 47141...",
-            "date": "2014-07-23",
-            "author_name": "FalconMasters",
-            "categories": "html,css,javascript",
-            "tags": "ayuda,tutorial,dise\u00f1o,dise\u00f1o-web,web,poco,sitio,sitio-web,crear,hacer,html,css,javascript,necesitas,falconmasters",
-            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2014/07/como-hacer-un-slideshow-para-sitio-web-con-html-css",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html%2Bhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=lgKg6lcsOAA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/lgKg6lcsOAA/0.jpg"
         },
         "dailymotion.com/2014/07/como-convertir-pdf-a-excel-word-powerpoint-html-gratis-paso": {
             "title": "Como Convertir PDF a Excel Word Powerpoint HTML Gratis PASO a PASO...",
@@ -113,23 +113,23 @@
             "date": "2014-07-17",
             "author_name": "CHVERE",
             "categories": "html",
-            "tags": "html,convertir",
+            "tags": "html,gratis,convertir",
             "recuweb_url": "http://es.recuweb.com/html/dailymotion.com/2014/07/como-convertir-pdf-a-excel-word-powerpoint-html-gratis-paso",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/html+html/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+html/0?af=1",
             "source_url": "http://dailymotion.com/video/x21nsfx_como-convertir-pdf-a-excel-word-powerpoint-html-gratis-paso-a-paso_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x21nsfx_como-convertir-pdf-a-excel-word-powerpoint-html-gratis-paso-a-paso_tech"
         },
-        "youtube.com/2014/06/curso-basico-de-html-8-creando-una-estructura-contenido-layout": {
-            "title": "Curso Basico de HTML - 8. Creando una Estructura de Contenido/Layout...",
-            "snippet": "Curso Basico de HTML - 8. Creando una Estructura de Contenido/Layout Capitulo 8 del curso b\u00e1sico de HTML, Creando una Estructura de Contenido/Layout. En este capitulo veremos como crear la estructura basica de un sitio con HTML, un sitio con...",
-            "date": "2014-06-11",
-            "author_name": "FalconMasters",
-            "categories": "html",
-            "tags": "sitio,crear,curso,b\u00e1sico,html",
-            "recuweb_url": "http://es.recuweb.com/html/youtube.com/2014/06/curso-basico-de-html-8-creando-una-estructura-contenido-layout",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=html%2Bhtml&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=yyYPFHAddvs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/yyYPFHAddvs/0.jpg"
+        "dailymotion.com/2014/06/tutorial-el-lenguaje-html-2": {
+            "title": "[Tutorial] El lenguaje HTML (2.2)...",
+            "snippet": "Curso de SEO gratuito, visitame en;mi canal principal es (mas info)no te olvides de compartir o informar si falta alguna: 4LANUG2Tags: tutorial tutoriales gratis dise\u00f1o programacion Posted: 15 June 2014Rating:: 0...",
+            "date": "2014-06-15",
+            "author_name": "4LANUG2",
+            "categories": "lenguaje,html",
+            "tags": "gratis,dise\u00f1o,compartir,canal,lenguaje,html,curso",
+            "recuweb_url": "http://es.recuweb.com/html/dailymotion.com/2014/06/tutorial-el-lenguaje-html-2",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+html/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1zi2wz_tutorial-el-lenguaje-html-2-2_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1zi2wz_tutorial-el-lenguaje-html-2-2_tech"
         }
     }
 }

@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "desembarcos-navales",
+        "language": "es",
+        "updated": "20150507"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/desembarcos-navales/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/desembarcos-navales/desembarcos-navales/blogs.json"
+    },
+    "items": {
+        "republica.com/2015/05/yemen-una-guerra-en-tres-escenarios": {
+            "title": "Yemen, una guerra en tres escenarios...",
+            "snippet": "Dentro de este escenario, es la aproximaci\u00f3n a un punto de acuerdo entre las... con operaciones a\u00e9reas, desembarcos navales y operaciones de infanter\u00eda por ese tercer escenario de la batalla de Ad\u00e9n. Por d\u00f3nde el Imperio Brit\u00e1nico dio el...",
+            "date": "2015-05-03",
+            "categories": "imperio,desembarcos-navales",
+            "recuweb_url": "http://es.recuweb.com/desembarcos-navales/republica.com/2015/05/yemen-una-guerra-en-tres-escenarios",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bdesembarcos%2Bnavales&format=RSS&cc=es",
+            "source_url": "http://republica.com/espacio-de-batientes/2015/05/03/yemen-una-guerra-en-tres-escenarios/"
+        }
+    }
+}

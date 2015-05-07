@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "html",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/html/",
@@ -11,82 +11,93 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/html/html/blogs.json"
     },
     "items": {
-        "vinagreasesino.com/2015/04/cp1-capturar-colores-rgb-y-exportarlos-como-html": {
-            "title": "CP1: Capturar colores RGB y exportarlos como HTML...",
-            "snippet": "CP1 es una herramienta para Windows en versi\u00f3n port\u00e1til que podemos usar para capturar uno o varios colores RGB y exportarlos en HTML.",
-            "date": "2015-04-27",
-            "author_name": "Rodrigo Iv\u00e1n Pacheco",
-            "categories": "html",
-            "tags": "herramienta,html,podemos",
-            "recuweb_url": "http://es.recuweb.com/html/vinagreasesino.com/2015/04/cp1-capturar-colores-rgb-y-exportarlos-como-html",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://vinagreasesino.com/cp1-capturar-varios-colores-en-windows-y-exportarlos-en-html/"
-        },
-        "augustomartinezrivas.blogspot.com/2015/04/t%C3%A9cnica-para-sustituir-im%C3%A1genes-utilizando-css3": {
-            "title": "T\u00e9cnica para sustituir im\u00e1genes utilizando CSS3...",
-            "snippet": "Al tratar con un cliente, sucedi\u00f3 que utiliza su propio CMS y que este da poco margen para modificar o aplicar ediciones a las publicaciones. Quedando entonces con la imposibilidad de modificar el c\u00f3digo HTML, nos queda utilizar CSS para aplicar...",
-            "date": "2015-04-25",
-            "author_name": "Augusto Martinez",
-            "categories": "css,html",
-            "tags": "entonces,propio,utilizando,css,poco,html",
-            "recuweb_url": "http://es.recuweb.com/html/augustomartinezrivas.blogspot.com/2015/04/t%C3%A9cnica-para-sustituir-im%C3%A1genes-utilizando-css3",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=html%2Bhtml&rss=1&lng=es",
-            "source_url": "http://augustomartinezrivas.blogspot.com/2015/04/tecnica-para-sustituis-imagenes.html"
-        },
         "emezeta.com/2015/04/html5-cheatsheet-chuleta-html-emezeta": {
             "title": "HTML5 Cheatsheet (Chuleta HTML) Emezeta...",
             "snippet": "Chuleta o cheatsheet de HTML5 (lenguaje de marcado HTML) en formato PDF, muy \u00fatil para desarrolladores frontend, dise\u00f1adores o programadores web.",
             "date": "2015-04-18",
             "author_name": "desconocido",
-            "categories": "lenguaje,html",
-            "tags": "muy,formato,lenguaje,html,pdf,web",
-            "recuweb_url": "http://es.recuweb.com/html/emezeta.com/2015/04/html5-cheatsheet-chuleta-html-emezeta",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "categories": "html,lenguaje",
+            "tags": "muy,formato,html,lenguaje,pdf,web",
+            "recuweb_url": "http://es.recuweb.com/lenguaje/emezeta.com/2015/04/html5-cheatsheet-chuleta-html-emezeta",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://emezeta.com/articulos/html5-cheatsheet-chuleta-html"
         },
-        "icalderond.wordpress.com/2015/04/web-app-con-node-js-ii-utilizando-documentos-html-rutas": {
-            "title": "Web App con Node JS (II) Utilizando documentos html con rutas...",
-            "snippet": "Ya vimos en la entrada anterior como crear nuestro propio servidor utilizando express. Ahora lo que sigue es indicarle a nuestro servidor las rutas que aceptar\u00e1 y la p\u00e1gina a mostrar. Para ello vamos a crear una p\u00e1gina de tipo html en nuestro...",
-            "date": "2015-04-13",
-            "author_name": "Israel Calderon",
-            "categories": "html",
-            "tags": "tipo,vamos,propio,utilizando,web,html,crear",
-            "recuweb_url": "http://es.recuweb.com/html/icalderond.wordpress.com/2015/04/web-app-con-node-js-ii-utilizando-documentos-html-rutas",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=html%2Bhtml&rss=1&lng=es",
-            "source_url": "http://icalderond.wordpress.com/2015/04/13/web-app-con-node-js-ii-utilizando-documentos-html-con-rutas/"
-        },
-        "iisd.ca/2015/03/hechos-destacados-de-wcdrr-martes-17-marzo-2015": {
-            "title": "Hechos Destacados de WCDRR martes, 17 de marzo de 2015...",
-            "snippet": "Idiomas: IN (HTML/PDF) FR (HTML/PDF) ES (HTML/PDF) AR (HTML/PDF) JA (HTML/PDF). Visite la cobertura de IISD/ENB de la conferencia de Sendai, Jap\u00f3n en:...",
-            "date": "2015-03-18",
+        "taringa.net/2014/10/crear-tu-localhost-privado-gu%C3%ADa-taringa": {
+            "title": "Crear tu localhost privado Gu\u00eda - Taringa!",
+            "snippet": "En esta Gu\u00eda/post te voy a ense\u00f1ar a crear tu propio Local Host para editar sitios web,. Y tambi\u00e9n vamos a instalar plantillas de sitios.///////...... Guia para hacer pagina web codigo html Parte 1...",
+            "date": "2014-10-08",
             "author_name": "desconocido",
             "categories": "html",
-            "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-martes-17-marzo-2015",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://iisd.ca/vol26/enb2614s.html"
+            "tags": "vamos,instalar,localhost,crear,taringa,web,hacer,pagina,codigo,html,parte",
+            "recuweb_url": "http://es.recuweb.com/html/taringa.net/2014/10/crear-tu-localhost-privado-gu%C3%ADa-taringa",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/hazlo-tu-mismo/18183037/Crear-tu-localhost-privado-Guia.html"
         },
-        "iisd.ca/2015/03/hechos-destacados-de-wcdrr-lunes-16-marzo-2015": {
-            "title": "Hechos Destacados de WCDRR lunes, 16 de marzo de 2015...",
-            "snippet": "Idiomas: IN (HTML/PDF) FR (HTML/PDF) ES (HTML/PDF) AR (HTML/PDF) JA (HTML/PDF). Visite la cobertura de IISD/ENB de la conferencia de Sendai, Jap\u00f3n en:...",
-            "date": "2015-03-17",
-            "author_name": "desconocido",
-            "categories": "html",
-            "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-lunes-16-marzo-2015",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://iisd.ca/vol26/enb2613s.html"
+        "jiestevez.blogspot.com/2013/09/neo-2-0-solucionar-problema-al-cargar-localhost-en-internet-explorer": {
+            "title": "neo 2.0: Solucionar problema al cargar localhost en Internet Explorer...",
+            "snippet": "C\u00f3mo modificar la configuraci\u00f3n de Internet Explorer para solucionar posible problema de carga de archivos en localhost.... Tutoriales de programaci\u00f3n y herramientas: HTML, PHP, CSS, WordPress, Dreamweaver, Email Marketing.",
+            "date": "2013-09-22",
+            "author_name": "Juan Ignacio Est\u00e9vez",
+            "categories": "internet,html,php,css,wordpress",
+            "tags": "email,programaci\u00f3n,archivos,localhost,internet,c\u00f3mo,tutoriales,html,php,css,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/jiestevez.blogspot.com/2013/09/neo-2-0-solucionar-problema-al-cargar-localhost-en-internet-explorer",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://jiestevez.blogspot.com/2013/09/solucionar-problema-al-cargar-localhost.html"
         },
-        "iisd.ca/2015/03/hechos-destacados-de-wcdrr-domingo-15-marzo-2015": {
-            "title": "Hechos Destacados de WCDRR domingo, 15 de marzo de 2015...",
-            "snippet": "Idiomas: IN (HTML/PDF) FR (HTML/PDF) ES (HTML/PDF) AR (HTML/PDF) JA (HTML/PDF). Visite la cobertura de IISD/ENB de la conferencia de Sendai, Jap\u00f3n en:...",
-            "date": "2015-03-16",
-            "author_name": "desconocido",
+        "fosforito.net/2013/08/redirecci%C3%B3n-con-php-o-html": {
+            "title": "Redirecci\u00f3n con PHP o HTML -...",
+            "snippet": "Muchas veces es necesario redireccionar el usuario de una p\u00e1gina web a otra, ya sea porque se cambi\u00f3 el dominio, se actualiz\u00f3 su contenido o para muchas otras aplicaciones m\u00e1s. Si quieres redireccionar con un archivo...",
+            "date": "2013-08-16",
+            "author_name": "Jens Wagner",
+            "categories": "php,html",
+            "tags": "quieres,necesario,php,html,web",
+            "recuweb_url": "http://es.recuweb.com/html/fosforito.net/2013/08/redirecci%C3%B3n-con-php-o-html",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fosforito.net/2013/08/16/redireccion-con-php-o-html/"
+        },
+        "blyx.com/2013/05/how-to-enable-tomcat-manager-in-an-alfresco-installation": {
+            "title": "How to enable Tomcat Manager in an Alfresco installation -...",
+            "snippet": "localhost:8080/manager/html. Screen Shot 2013-05-30 at PM. To list all applications: localhost:8080/manager/list. To list server information: localhost:8080/manager/serverinfo. To see default session...",
+            "date": "2013-05-30",
+            "author_name": "Toni",
             "categories": "html",
-            "tags": "conferencia,cobertura,marzo,hechos,hechos_destacados,destacados,wcdrr,idiomas,html,pdf,visite,iisd,enb,sendai,jap\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/html/iisd.ca/2015/03/hechos-destacados-de-wcdrr-domingo-15-marzo-2015",
-            "resource_url": "http://www.google.com/search?q=html%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://iisd.ca/vol26/enb2612s.html"
+            "tags": "server,how,localhost,html",
+            "recuweb_url": "http://es.recuweb.com/html/blyx.com/2013/05/how-to-enable-tomcat-manager-in-an-alfresco-installation",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blyx.com/2013/05/30/how-to-enable-tomcat-manager-in-an-alfresco-installation/"
+        },
+        "taringa.net/2011/08/instalar-servidor-web-en-ubuntu-linuxlocalhost-taringa": {
+            "title": "Instalar Servidor Web En Ubuntu LinuxLocalhost - Taringa!",
+            "snippet": "(puedes instalar paginas simples en HTML o tambien pagina que necesiten de bases de datos,, tambien CMS-s como Dedalus, Nuke-et, PHPnuke, Joomla, WordPress, u otros. Podr\u00edamos instalar todos los paquetes que nos...",
+            "date": "2011-08-22",
+            "author_name": "1494326",
+            "categories": "html,joomla,wordpress",
+            "tags": "instalar,pagina,web,ubuntu,taringa,html,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/taringa.net/2011/08/instalar-servidor-web-en-ubuntu-linuxlocalhost-taringa",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/post/hazlo-tu-mismo/12235035/Instalar-Servidor-Web-En-Ubuntu-Linux-Localhost.html"
+        },
+        "mike-com.blogspot.com/2011/04/subir-archivos-a-localhost-php-html": {
+            "title": ": Subir Archivos a localhost (php/html)...",
+            "snippet": "En multiples ocaciones hemos querido subir archivos en algun sistema montado en una maquina o en un localhost, bueno, es esta ocacion les traigo el codigo necesario para que a traves de un entorno grafico pueda...",
+            "date": "2011-04-21",
+            "author_name": "Miguel Angel Frausto Loera",
+            "categories": "php,html",
+            "tags": "codigo,necesario,archivos,localhost,php,html",
+            "recuweb_url": "http://es.recuweb.com/html/mike-com.blogspot.com/2011/04/subir-archivos-a-localhost-php-html",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhtml&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mike-com.blogspot.com/2011/04/subir-archivos-localhost-phphtml.html"
+        },
+        "librosweb.es/2008/06/cap%C3%ADtulo-1-introducci%C3%B3n-a-css-librosweb": {
+            "title": "Cap\u00edtulo 1. Introducci\u00f3n (Introducci\u00f3n a CSS) - LibrosWeb...",
+            "snippet": "CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentaci\u00f3n de los documentos electr\u00f3nicos definidos con HTML y XHTML. CSS es la mejor forma de separar los contenidos y su presentaci\u00f3n y es imprescindible...",
+            "date": "2008-06-05",
+            "author_name": "desconocido",
+            "categories": "css,lenguaje,html,xhtml",
+            "tags": "contenidos,creado,cap\u00edtulo,introducci\u00f3n,css,librosweb,lenguaje,html",
+            "recuweb_url": "http://es.recuweb.com/xhtml/librosweb.es/2008/06/cap%C3%ADtulo-1-introducci%C3%B3n-a-css-librosweb",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://librosweb.es/libro/css/capitulo_1.html"
         },
         "desarrolloweb.com/2008/05/html-a-fondo": {
             "title": "HTML a fondo -...",
@@ -98,6 +109,17 @@
             "recuweb_url": "http://es.recuweb.com/html/desarrolloweb.com/2008/05/html-a-fondo",
             "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/html/"
+        },
+        "librosweb.es/2007/05/cap%C3%ADtulo-4-modelo-de-cajas-introducci%C3%B3n-a-css-librosweb": {
+            "title": "Cap\u00edtulo 4. Modelo de cajas (Introducci\u00f3n a CSS) - LibrosWeb...",
+            "snippet": "Cada vez que se inserta una etiqueta HTML, se crea una nueva caja rectangular que encierra los contenidos de ese elemento. La siguiente imagen muestra las tres cajas rectangulares que crean las tres etiquetas HTML que incluye la...",
+            "date": "2007-05-27",
+            "author_name": "desconocido",
+            "categories": "css,html",
+            "tags": "imagen,contenidos,cap\u00edtulo,introducci\u00f3n,css,librosweb,html",
+            "recuweb_url": "http://es.recuweb.com/html/librosweb.es/2007/05/cap%C3%ADtulo-4-modelo-de-cajas-introducci%C3%B3n-a-css-librosweb",
+            "resource_url": "http://www.google.com/search?q=html&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://librosweb.es/libro/css/capitulo_4.html"
         }
     }
 }

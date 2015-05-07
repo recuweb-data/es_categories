@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "comercio-electr\u00f3nico",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/comercio-electr\u00f3nico/",
@@ -11,42 +11,90 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/comercio-electr%C3%B3nico/comercio-electr%C3%B3nico/blogs.json"
     },
     "items": {
+        "elperiodico.com/2015/05/bruselas-abre-una-investigaci%C3%B3n-sobre-el-comercio-electr%C3%B3nico": {
+            "title": "Bruselas abre una investigaci\u00f3n sobre el comercio electr\u00f3nico...",
+            "snippet": "El plan se desarrollar\u00e1 entre el 2015 y el 2016 con 16 iniciativas con las que pretenden mejorar el comercio transfronterizo. La intenci\u00f3n es armonizar reglas, combatir los elevados precios del env\u00edo de paqueter\u00eda en Europa o terminar con el...",
+            "date": "2015-05-06",
+            "tags": "combatir,mejorar,abre,abre-una-investigaci\u00f3n,investigaci\u00f3n,comercio,electr\u00f3nico,transfronterizo",
+            "recuweb_url": "http://es.recuweb.com/elperiodico.com/2015/05/bruselas-abre-una-investigaci%C3%B3n-sobre-el-comercio-electr%C3%B3nico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "source_url": "http://elperiodico.com/es/noticias/economia/bruselas-abre-una-investigacion-sobre-comercio-electronico-4163303"
+        },
+        "portinos.com/2015/05/cinco-aspectos-claves-para-mejorar-el-comercio-electr%C3%B3nico-en-argentina": {
+            "title": "Cinco aspectos claves para mejorar el comercio electr\u00f3nico en Argentina...",
+            "snippet": "El comercio electr\u00f3nico ha venido creciendo de gran manera en Argentina, no obstante, desde el punto de vista de PayU, a\u00fan existen algunos aspectos a mejorar, que har\u00e1n que el e-commerce sea a\u00fan m\u00e1s importante para el desarrollo econ\u00f3mico del...",
+            "date": "2015-05-06",
+            "tags": "commerce,sea,desarrollo,mejorar,creciendo,gran,comercio,electr\u00f3nico,argentina",
+            "recuweb_url": "http://es.recuweb.com/portinos.com/2015/05/cinco-aspectos-claves-para-mejorar-el-comercio-electr%C3%B3nico-en-argentina",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "source_url": "http://portinos.com/24765/cinco-aspectos-claves-para-mejorar-el-comercio-electronico-en-argentina"
+        },
+        "eldiario.es/2015/05/la-ce-inicia-una-investigaci%C3%B3n-en-el-sector-del-comercio-electr%C3%B3nico": {
+            "title": "La CE inicia una investigaci\u00f3n en el sector del comercio electr\u00f3nico en la UE...",
+            "snippet": "Para el organismo europeo \"tambi\u00e9n hay indicios de que son las propias empresas las que pueden poner trabas al comercio transfronterizo en l\u00ednea para fragmentar el mercado \u00fanico de la UE en funci\u00f3n a las fronteras nacionales e impedir as\u00ed la...",
+            "date": "2015-05-06",
+            "categories": "frontera",
+            "tags": "funci\u00f3n,funci\u00f3n-las-fronteras,fronteras,fronteras-nacionales,nacionales,transfronterizo,transfronterizo-en-l\u00ednea,l\u00ednea,l\u00ednea-para-fragmentar,fragmentar,fragmentar-el-mercado,mercado,mercado-\u00fanico,\u00fanico,organismo,organismo-europeo,europeo,europeo-tambi\u00e9n-hay,hay,hay-indicios,indicios,son,son-las-propias,propias,propias-empresas,empresas,pueden,pueden-poner,pueden-poner-trabas,poner,poner-trabas,trabas,investigaci\u00f3n,sector,comercio,electr\u00f3nico",
+            "recuweb_url": "http://es.recuweb.com/frontera/eldiario.es/2015/05/la-ce-inicia-una-investigaci%C3%B3n-en-el-sector-del-comercio-electr%C3%B3nico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "source_url": "http://eldiario.es/economia/CE-investigacion-comercio-electronico-UE_0_384961818.html"
+        },
+        "abc.es/2015/05/la-comisi%C3%B3n-europea-abre-una-investigaci%C3%B3n-sobre-el-sector-del-comercio": {
+            "title": "La Comisi\u00f3n Europea abre una investigaci\u00f3n sobre el sector del comercio electr\u00f3nico...",
+            "snippet": "Para el organismo europeo tambi\u00e9n hay indicios de que son las propias empresas las que pueden poner trabas al comercio transfronterizo en l\u00ednea para fragmentar el mercado \u00fanico de la UE, en funci\u00f3n a las fronteras nacionales e impedir as\u00ed la...",
+            "date": "2015-05-06",
+            "categories": "frontera",
+            "tags": "funci\u00f3n,funci\u00f3n-las-fronteras,fronteras,fronteras-nacionales,nacionales,transfronterizo,transfronterizo-en-l\u00ednea,l\u00ednea,l\u00ednea-para-fragmentar,fragmentar,fragmentar-el-mercado,mercado,mercado-\u00fanico,\u00fanico,organismo,organismo-europeo,europeo,europeo-tambi\u00e9n-hay,hay,hay-indicios,indicios,son,son-las-propias,propias,propias-empresas,empresas,pueden,pueden-poner,pueden-poner-trabas,poner,poner-trabas,trabas,abre,abre-una-investigaci\u00f3n,investigaci\u00f3n,sector,comercio,electr\u00f3nico",
+            "recuweb_url": "http://es.recuweb.com/frontera/abc.es/2015/05/la-comisi%C3%B3n-europea-abre-una-investigaci%C3%B3n-sobre-el-sector-del-comercio",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "source_url": "http://abc.es/economia/20150506/abci-comercio-electronico-201505061230.html"
+        },
+        "cioal.com/2015/05/comercio-electr%C3%B3nico-en-am%C3%A9rica-latina-crecer%C3%A1-un-18%-3": {
+            "title": "Comercio electr\u00f3nico en Am\u00e9rica Latina crecer\u00e1 un 18% en 3 a\u00f1os...",
+            "snippet": "Es m\u00e1s, el desarrollo del comercio electr\u00f3nico depende de un excelente servicio de conectividad. Brayan Peralta es, desde su cargo, el responsable de gestionar el desarrollo de negocios de soluciones de transferencia de dinero y pagos personales...",
+            "date": "2015-05-03",
+            "tags": "desarrollo,dinero,comercio,electr\u00f3nico",
+            "recuweb_url": "http://es.recuweb.com/cioal.com/2015/05/comercio-electr%C3%B3nico-en-am%C3%A9rica-latina-crecer%C3%A1-un-18%-3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "source_url": "http://cioal.com/2015/05/04/visa-comercio-electronico-en-america-latina-crecera-un-18-en-tres-anos/"
+        },
         "lacapital.com.ar/2015/05/comercio-electr%C3%B3nico-mejorar-la-oferta-es-clave-para-dar-otro-salto": {
             "title": "Comercio electr\u00f3nico: mejorar la oferta es clave para dar otro salto... -...",
             "snippet": "Comercio electr\u00f3nico: mejorar la oferta es clave para dar otro salto... mercado argentino creci\u00f3 un 61,7% el \u00faltimo a\u00f1o, reflej\u00f3 Diego Urfeigh, Director Ejecutivo de la C\u00e1mara Argentina de Comercio Electr\u00f3nico (Cace). En cifras concretas,...",
             "date": "2015-05-03",
-            "tags": "mercado,comercio,electr\u00f3nico",
+            "tags": "argentina,mercado,mejorar,comercio,electr\u00f3nico",
             "recuweb_url": "http://es.recuweb.com/lacapital.com.ar/2015/05/comercio-electr%C3%B3nico-mejorar-la-oferta-es-clave-para-dar-otro-salto",
-            "resource_url": "http://news.google.es/?hl=es&q=comercio%2Belectr%C3%B3nico%2Bcomercio%2Belectr%C3%B3nico&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=comercio%2Belectr%C3%B3nico&output=atom&nord=1",
             "source_url": "http://lacapital.com.ar/economia/Comercio-electronico-mejorar-la-oferta-es-clave-para-dar-otro-salto-de-liderazgo-20150503-0088.html"
         },
         "eleconomista.es/2015/05/correos-impulsa-el-comercio-electr%C3%B3nico-instalando-buzones-automatizados": {
             "title": "Correos impulsa el comercio electr\u00f3nico instalando buzones automatizados...",
-            "snippet": "Correos ha instalado ya cerca de 500 buzones automatizados para recoger y enviar paquetes, una iniciativa con la que la entidad estatal persigue impulsar el comercio electr\u00f3nico y que ampliar\u00e1 con la adquisici\u00f3n de unidades por unos 13 millones...",
+            "snippet": "Correos ha instalado ya cerca de 500 buzones automatizados para recoger y enviar paquetes, una iniciativa con la que la entidad estatal persigue impulsar el comercio electr\u00f3nico... Comenta las noticias de como usuario gen\u00e9rico o utiliza...",
             "date": "2015-05-02",
-            "tags": "enviar,correos,comercio,electr\u00f3nico,millones",
+            "tags": "noticias,comercio,electr\u00f3nico",
             "recuweb_url": "http://es.recuweb.com/eleconomista.es/2015/05/correos-impulsa-el-comercio-electr%C3%B3nico-instalando-buzones-automatizados",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=comercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
             "source_url": "http://eleconomista.es/empresas-finanzas/noticias/6677610/05/15/Correos-impulsa-el-comercio-electronico-instalando-buzones-automatizados.html"
+        },
+        "tecnonews.info/2015/04/el-comercio-electr%C3%B3nico-evoluciona": {
+            "title": "El comercio electr\u00f3nico evoluciona...",
+            "snippet": "No es una novedad que cada vez haya m\u00e1s personas que conf\u00eden en realizar sus compras por Internet y que muchas veces tengan problemas para recibirlas, ya sea por no encontrarse en sus domicilios durante la jornada laboral o no querer recibir...",
+            "date": "2015-04-29",
+            "categories": "internet",
+            "tags": "sea,durante,compras,comercio,electr\u00f3nico,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/tecnonews.info/2015/04/el-comercio-electr%C3%B3nico-evoluciona",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcomercio%2Belectr%C3%B3nico&format=RSS&cc=es",
+            "source_url": "http://tecnonews.info/ebd/5979/El-comercio-electronico-evoluciona45979"
         },
         "diariocorreo.pe/2015/04/formas-de-compra-en-el-comercio-electr%C3%B3nico-diario-correo": {
             "title": "Formas de compra en el comercio electr\u00f3nico - Diario Correo...",
             "snippet": "El ComercioFormas de compra en el comercio electr\u00f3nicoDiario CorreoGracias al comercio electr\u00f3nico los ciudadanos acceden a una gran cantidad de productos y servicios en Internet, muchos de ellos con descuentos y ofertas durante todo el a\u00f1o. Con...",
             "date": "2015-04-29",
             "categories": "internet",
-            "tags": "productos,diario,compra,comercio,electr\u00f3nico,internet",
+            "tags": "durante,gran,compra,comercio,electr\u00f3nico,internet",
             "recuweb_url": "http://es.recuweb.com/internet/diariocorreo.pe/2015/04/formas-de-compra-en-el-comercio-electr%C3%B3nico-diario-correo",
             "resource_url": "http://news.google.es/?hl=es&q=comercio%2Belectr%C3%B3nico&output=atom&nord=1",
             "source_url": "http://diariocorreo.pe/economia/formas-de-compra-en-el-comercio-electronico-583479/"
-        },
-        "elmanana.com/2015/04/impulsan-smartphones-al-comercio-electr%C3%B3nico-el-ma%C3%B1ana-de-reynosa": {
-            "title": "Impulsan smartphones al comercio electr\u00f3nico - El Ma\u00f1ana de Reynosa...",
-            "snippet": "El Ma\u00f1ana de ReynosaImpulsan smartphones al comercio electr\u00f3nicoEl Ma\u00f1ana de ReynosaLos m\u00e1s de 27.7 millones de smartphones que hay en M\u00e9xico se han convertido en el canal de ventas que m\u00e1s crece dentro del e-commerce. Esto representa ya el 36...",
-            "date": "2015-04-29",
-            "tags": "millones,comercio,electr\u00f3nico,ventas",
-            "recuweb_url": "http://es.recuweb.com/elmanana.com/2015/04/impulsan-smartphones-al-comercio-electr%C3%B3nico-el-ma%C3%B1ana-de-reynosa",
-            "resource_url": "http://news.google.es/?hl=es&q=comercio%2Belectr%C3%B3nico%2Bcomercio%2Belectr%C3%B3nico&output=atom&nord=1",
-            "source_url": "http://elmanana.com/impulsansmartphonesalcomercioelectronico-2874669.html"
         },
         "eldia.es/2015/04/la-empresa-del-comercio-electr%C3%B3nico-alibaba-no-contratar%C3%A1-personal": {
             "title": "La empresa del comercio electr\u00f3nico Alibaba no contratar\u00e1 personal este a\u00f1o...",
@@ -56,52 +104,6 @@
             "recuweb_url": "http://es.recuweb.com/eldia.es/2015/04/la-empresa-del-comercio-electr%C3%B3nico-alibaba-no-contratar%C3%A1-personal",
             "resource_url": "http://www.bing.com/news/search?first=1&q=comercio%2Belectr%C3%B3nico&format=RSS&cc=es",
             "source_url": "http://eldia.es/tecnologia/2015-04-29/1-empresa-comercio-electronico-Alibaba-contratara-personal-ano.htm"
-        },
-        "lne.es/2015/04/la-multinacional-ricoh-abre-en-llanera-una-planta-de-comercio-electr%C3%B3nico": {
-            "title": "La multinacional Ricoh abre en Llanera una planta de comercio electr\u00f3nico con 50 empleos...",
-            "snippet": "Pablo CASTA\u00d1O La multinacional japonesa Ricoh ha desembarcado en Asturias con la apertura de un centro tecnol\u00f3gico especializado en comercio electr\u00f3nico que da empleo inicialmente a 50 trabajadores. La compa\u00f1\u00eda ha alquilado una planta de m\u00e1s...",
-            "date": "2015-04-29",
-            "categories": "empleo,multinacional",
-            "tags": "comercio,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/multinacional/lne.es/2015/04/la-multinacional-ricoh-abre-en-llanera-una-planta-de-comercio-electr%C3%B3nico",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=comercio%2Belectr%C3%B3nico&format=RSS&cc=es",
-            "source_url": "http://lne.es/economia/2015/04/29/multinacional-ricoh-abre-llanera-planta/1748498.html"
-        },
-        "noticiaslogisticaytransporte.com/2015/04/jornada-aeutransmer-sobre-comercio-electr%C3%B3nico-en-transporte-ser%C3%A1-madrid": {
-            "title": "Jornada Aeutransmer sobre comercio electr\u00f3nico en transporte ser\u00e1 en Madrid...",
-            "snippet": "La jornada Aeutransmer sobre La log\u00edstica en el comercio electr\u00f3nico aplicable al transporte se celebrar\u00e1 el pr\u00f3ximo 30 de abril en el Hotel Holiday Inn de Madrid. El objetivo de la jornada es mostrar los retos a los que se enfrenta la...",
-            "date": "2015-04-28",
-            "tags": "ser\u00e1,comercio,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/noticiaslogisticaytransporte.com/2015/04/jornada-aeutransmer-sobre-comercio-electr%C3%B3nico-en-transporte-ser%C3%A1-madrid",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=comercio%2Belectr%C3%B3nico&format=RSS&cc=es",
-            "source_url": "http://noticiaslogisticaytransporte.com/logistica/28/04/2015/jornada-aeutransmer-sobre-comercio-electronico-en-transporte-sera-en-madrid/41943.html"
-        },
-        "gestion.pe/2015/04/solo-uno-de-cada-100-visitantes-a-un-portal-comercio-electr%C3%B3nico": {
-            "title": "Solo uno de cada 100 visitantes a un portal de comercio electr\u00f3nico... - Diario Gesti\u00f3n...",
-            "snippet": "Diario Gesti\u00f3nSolo uno de cada 100 visitantes a un portal de comercio electr\u00f3nico...Diario Gesti\u00f3nEl mercado peruano es chico respecto a otras realidades en la regi\u00f3n, pero es una tasa de crecimiento constante la que viene experimentando en el...",
-            "date": "2015-04-28",
-            "tags": "viene,mercado,diario,visitantes,visitantes-un-portal,portal,comercio,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/gestion.pe/2015/04/solo-uno-de-cada-100-visitantes-a-un-portal-comercio-electr%C3%B3nico",
-            "resource_url": "http://news.google.es/?hl=es&q=comercio%2Belectr%C3%B3nico%2Bcomercio%2Belectr%C3%B3nico&output=atom&nord=1",
-            "source_url": "http://gestion.pe/economia/solo-uno-cada-100-visitantes-portal-comercio-electronico-efectua-compra-2130229"
-        },
-        "lavoz.com.ar/2015/04/desaf%C3%ADos-del-comercio-electr%C3%B3nico-la-voz-interior": {
-            "title": "Desaf\u00edos del comercio electr\u00f3nico - La Voz del Interior...",
-            "snippet": "Desaf\u00edos del comercio electr\u00f3nicoLa Voz del InteriorLa empresa de comercio electr\u00f3nico MercadoLibre plante\u00f3 una disputa con el Ministerio de Finanzas de la Provincia de C\u00f3rdoba, luego de que esta cartera emitiera una resoluci\u00f3n por la que...",
-            "date": "2015-04-26",
-            "tags": "empresa,comercio,electr\u00f3nico",
-            "recuweb_url": "http://es.recuweb.com/lavoz.com.ar/2015/04/desaf%C3%ADos-del-comercio-electr%C3%B3nico-la-voz-interior",
-            "resource_url": "http://news.google.es/?hl=es&q=comercio%2Belectr%C3%B3nico%2Bcomercio%2Belectr%C3%B3nico&output=atom&nord=1",
-            "source_url": "http://lavoz.com.ar/editorial/desafios-del-comercio-electronico"
-        },
-        "cincodias.com/2015/04/comercio-electr%C3%B3nico-cosas-que-no-puedes-enviar-por-correos": {
-            "title": "Comercio electr\u00f3nico: cosas que no puedes enviar por Correos...",
-            "snippet": "El comercio electr\u00f3nico es una modalidad en auge en Espa\u00f1a. Sin embargo, las pymes, aut\u00f3nomos y emprendedores que se decanten por el ecommerce han de saber que no tienen permitido llevar a cabo env\u00edos internacionales de cualquier producto que se...",
-            "date": "2015-04-24",
-            "tags": "enviar,comercio,electr\u00f3nico,correos,espa\u00f1a",
-            "recuweb_url": "http://es.recuweb.com/cincodias.com/2015/04/comercio-electr%C3%B3nico-cosas-que-no-puedes-enviar-por-correos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=comercio%2Belectr%C3%B3nico&format=RSS&cc=es",
-            "source_url": "http://cincodias.com/cincodias/2015/04/23/pyme/1429790094_539809.html"
         }
     }
 }

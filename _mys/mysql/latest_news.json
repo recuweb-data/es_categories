@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "haberahval.com/2015/05/localhost-u-%C3%A7altrmak-haberi11-8-haberahval-haber-i-ve-yaam-portal": {
+            "title": "Localhost'u \u00c7altrmak haberi11-8 - Haberahval! Haber, i ve yaam portal...",
+            "snippet": "Haberahval! Haber, i ve yaam portalLocalhost'u \u00c7altrmak haberi11-8Haberahval! Haber, i ve yaam portalBunlar \u00f6zetle php, mysql ve apache ilemlerinde \u00e7alma ortam salayarak size yardm eder. te bu nedenle localhosta nasl girilir bilmeniz gereklidir.",
+            "date": "2015-05-06",
+            "categories": "php,mysql",
+            "tags": "localhost,php,mysql,apache",
+            "recuweb_url": "http://es.recuweb.com/mysql/haberahval.com/2015/05/localhost-u-%C3%A7altrmak-haberi11-8-haberahval-haber-i-ve-yaam-portal",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bmysql&output=atom&nord=1",
+            "source_url": "http://haberahval.com/nedir-1177030-localhostu-calistirmak-haberi11"
+        },
         "theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register": {
             "title": "Oracle paltry patch opens MySQL man-in-the-middle diddle - The Register...",
             "snippet": "The RegisterOracle paltry patch opens MySQL man-in-the-middle diddleThe RegisterAdam Goodman of Duo Security has found a vulnerability in the 'vast majority'of Oracle MySQL databases that allows SSL to be stripped, exposing sensitive data to...",
@@ -43,12 +53,12 @@
         },
         "abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1": {
             "title": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) 1. -...",
-            "snippet": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) l\u00e1nek je uren pedev\u00edm za\u00e1ten\u00edkm. Nejprve bych chtl popsat p\u00e1r z\u00e1kladn\u00edch funkc\u00ed pro komunikaci a pr\u00e1ci s datab\u00e1zemi MySQL, kter\u00e9 se pou\u00edvaj\u00ed v PHP. Jsou u jist vem dobe zn\u00e1my, ale opakov\u00e1n\u00ed je matka...",
+            "snippet": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) snad peci jen ano, tak parametr sever je jm\u00e9no serveru, ke kter\u00e9mu se chcete pipojit (implicitn nastaven na localhost), parametr uivatel je jm\u00e9no uivatele (implicitn nastaveno na uivatele, pod kter\u00fdm b\u00ed tento...",
             "date": "2015-04-30",
-            "categories": "mysql,php",
-            "tags": "mysql,php",
-            "recuweb_url": "http://es.recuweb.com/php/abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1",
-            "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
+            "categories": "mysql",
+            "tags": "localhost,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bmysql&output=atom&nord=1",
             "source_url": "http://abclinuxu.cz/clanky/maly-mysql-manual-ale-po-svem-1"
         },
         "threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections-threatpost": {
@@ -100,16 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/mysql/informationweek.com/2015/04/mysql-cluster-an-in-memory-nosql-pioneer-informationweek",
             "resource_url": "http://news.google.es/?hl=es&q=mysql&output=atom&nord=1",
             "source_url": "http://informationweek.com/messages.asp?piddl_msgthreadid=22906&piddl_msgid=292001&piddl_msgtocontent=yes"
-        },
-        "diariopresente.com.mx/2015/04/el-enorme-da%C3%B1o-al-patrimonio-mundial-de-la-humanid": {
-            "title": "El enorme da\u00f1o al Patrimonio Mundial de la Humanid...",
-            "snippet": "Warning: mysql_fetch_object(): supplied argument is not a valid MySQL result resource in/home/diariop/public_html/php/02/on line 880 Warning: mysql_free_result() expects parameter 1 to be resource, boolean given in/home/diariop/public_html/php...",
-            "date": "2015-04-28",
-            "categories": "mysql,html,php",
-            "tags": "resource,line,result,result-resource,supplied,supplied-argument,argument,argument-is-not,not,not-valid,valid,warning,mysql,php,free",
-            "recuweb_url": "http://es.recuweb.com/php/diariopresente.com.mx/2015/04/el-enorme-da%C3%B1o-al-patrimonio-mundial-de-la-humanid",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=es",
-            "source_url": "http://diariopresente.com.mx/fotogaleria/5517.0.0.0.0/gal_9080//"
         }
     }
 }

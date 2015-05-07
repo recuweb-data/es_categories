@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "curacion-sobrenatural",
+        "language": "es",
+        "updated": "20150507"
+    },
+    "schema": {
+        "html:portal": "http://es.recuweb.com/curacion-sobrenatural/",
+        "graph:videos": "http://es.recuweb.com/graph/v1.0/curacion-sobrenatural/curacion-sobrenatural/videos.json",
+        "graph:news": "http://es.recuweb.com/graph/v1.0/curacion-sobrenatural/curacion-sobrenatural/noticias.json",
+        "graph:blogs": "http://es.recuweb.com/graph/v1.0/curacion-sobrenatural/curacion-sobrenatural/blogs.json"
+    },
+    "items": {
+        "abc.es/2015/05/leyendas-el-sill%C3%B3n-del-diablo-que-concede-saber-o-roba": {
+            "title": "leyendas El Sill\u00f3n del Diablo que concede el saber o roba la vida...",
+            "snippet": "Sent\u00e1ndose en esa silla se recib\u00eda luces sobrenaturales para la curaci\u00f3n de enfermedades... m\u00e1s del mobiliario del siglo XVI, seg\u00fan se\u00f1ala Elo\u00edsa Wattenberg. Es una silla de brazos de roble con asiento y respaldo de cuero trabajados...",
+            "date": "2015-05-07",
+            "categories": "sobrenatural,leyendas",
+            "tags": "curaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/leyendas/abc.es/2015/05/leyendas-el-sill%C3%B3n-del-diablo-que-concede-saber-o-roba",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bcuracion%2Bsobrenatural&format=RSS&cc=es",
+            "source_url": "http://abc.es/cultura/20150507/abci-sillon-diablo-201505051414.html"
+        }
+    }
+}

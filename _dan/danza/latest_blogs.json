@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "danza",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/danza/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/danza/danza/blogs.json"
     },
     "items": {
+        "prodavinci.com/2015/05/bailando-por-la-libertad-un-manifiesto-danza-marcy": {
+            "title": "Bailando por la libertad Un manifiesto por la danza; por Marcy...",
+            "snippet": "Ahora tiene una compa\u00f1\u00eda de danza contempor\u00e1nea que llama Reformances, la uni\u00f3n de las palabras reforma y performance y funciona como una suerte de ox\u00edmoron, en la que crea nuevos significados a partir del...",
+            "date": "2015-05-02",
+            "author_name": "Marcy Alejandra Rangel",
+            "categories": "danza",
+            "tags": "contempor\u00e1nea,tiene,compa\u00f1\u00eda,libertad,danza",
+            "recuweb_url": "http://es.recuweb.com/danza/prodavinci.com/2015/05/bailando-por-la-libertad-un-manifiesto-danza-marcy",
+            "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://prodavinci.com/blogs/bailando-por-la-libertad-por-marcy-rangel/"
+        },
+        "lagaceta.com.ar/2015/05/muri%C3%B3-la-bailarina-maya-plisetskaya-s%C3%ADmbolo-de-danza-cl%C3%A1sica": {
+            "title": "Muri\u00f3 la bailarina Maya Plisetskaya, s\u00edmbolo de la danza cl\u00e1sica...",
+            "snippet": "MUNICH.- La bailarina hispano rusa Maya Plisetskaya, una de los s\u00edmbolos de la danza cl\u00e1sica, muri\u00f3 este s\u00e1bado en Munich a causa de un infarto a los 89 a\u00f1os, inform\u00f3 la agencia EFE. Plisetskaya, nacida en Mosc\u00fa el 20...",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
+            "categories": "danza",
+            "tags": "bailarina,maya,maya_plisetskaya,plisetskaya,danza",
+            "recuweb_url": "http://es.recuweb.com/danza/lagaceta.com.ar/2015/05/muri%C3%B3-la-bailarina-maya-plisetskaya-s%C3%ADmbolo-de-danza-cl%C3%A1sica",
+            "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://lagaceta.com.ar/nota/635777/espectaculos/murio-bailarina-maya-plisetskaya-simbolo-danza-clasica.html"
+        },
         "abc.com.py/2015/05/danza-contempor%C3%A1nea-con-mary-carmen-niella-edicion-impresa": {
             "title": "Danza contempor\u00e1nea con Mary Carmen Niella - Edicion Impresa...",
             "snippet": "El martes 5, a las 19:00, se dar\u00e1 inicio a un taller de danza contempor\u00e1nea para adultos principiantes a cargo de la profesora Mary Carmen Niella, en el Granel (Juan de Salazar 372 casi Artigas). La actividad est\u00e1 dirigida a...",
             "date": "2015-05-01",
             "author_name": "desconocido",
             "categories": "danza",
-            "tags": "dirigida,taller,carmen,danza,contempor\u00e1nea",
+            "tags": "contempor\u00e1nea,taller,danza,casi",
             "recuweb_url": "http://es.recuweb.com/danza/abc.com.py/2015/05/danza-contempor%C3%A1nea-con-mary-carmen-niella-edicion-impresa",
-            "resource_url": "http://www.google.com/search?q=danza%2Bdanza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abc.com.py/edicion-impresa/artes-espectaculos/danza-contemporanea-con-mary-carmen-niella-1361980.html"
+        },
+        "aristeguinoticias.com/2015/04/actividades-con-motivo-del-d%C3%ADa-internacional-de-la-danza-aristegui": {
+            "title": "Actividades con motivo del D\u00eda Internacional de la Danza - Aristegui...",
+            "snippet": "Con presentaciones y proyecciones en diversos recintos del pa\u00eds, se celebra la danza, que ha sido una importante herencia cultural.",
+            "date": "2015-04-29",
+            "author_name": "Redacci\u00f3n AN",
+            "categories": "danza",
+            "tags": "diversos,d\u00eda,d\u00eda_internacional,internacional,motivo,danza,sido,cultural",
+            "recuweb_url": "http://es.recuweb.com/danza/aristeguinoticias.com/2015/04/actividades-con-motivo-del-d%C3%ADa-internacional-de-la-danza-aristegui",
+            "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://aristeguinoticias.com/2904/kiosko/actividades-con-motivo-del-dia-internacional-de-la-danza/"
         },
         "abc.com.py/2015/04/bailarinas-cierran-pettirossi-para-celebrar-la-danza-espectaculos": {
             "title": "Bailarinas cierran Pettirossi para celebrar la danza - Espectaculos...",
@@ -28,98 +61,65 @@
             "date": "2015-04-29",
             "author_name": "desconocido",
             "categories": "bellas-artes,danza",
-            "tags": "espect\u00e1culo,d\u00eda,d\u00eda_internacional,internacional,artes,instituto,algunos,celebrar,danza",
+            "tags": "espect\u00e1culo,d\u00eda,d\u00eda_internacional,internacional,grupo,bailarinas,bailarines,danza",
             "recuweb_url": "http://es.recuweb.com/danza/abc.com.py/2015/04/bailarinas-cierran-pettirossi-para-celebrar-la-danza-espectaculos",
             "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abc.com.py/espectaculos/cultura/bailarinas-cierran-pettirossi-para-bailar-1361566.html"
         },
-        "balmacedartejoven.cl/2015/04/compa%C3%B1%C3%ADa-estable-de-danza-2015-anuncia-sus-seleccionados": {
-            "title": "Compa\u00f1\u00eda Estable de Danza 2015 anuncia sus seleccionados...",
-            "snippet": "Compa\u00f1\u00eda Estable de Danza 2015 anuncia sus seleccionados. compa\u00f1ia danza valpo. Concluy\u00f3 exitosamente el proceso de audici\u00f3n y selecci\u00f3n para la Compa\u00f1\u00eda Estable de DanzaBalmaceda Arte Joven Valpara\u00edso 2015. A continuaci\u00f3n...",
+        "elestimulo.com/2015/04/la-danza-ese-ritual-de-comprender-el-cuerpo-climax-estimulo": {
+            "title": "La danza, ese ritual de comprender el cuerpo Climax - El Estimulo...",
+            "snippet": "La danza es libertad como principio, como excusa de permanencia. Es ese impulso vital en el que el cuerpo descubre otros cuerpos, otros espacios, y se hace consciente de s\u00ed. Se vuelve rito. Llamada, de una forma casi...",
             "date": "2015-04-29",
-            "author_name": "webmaster@balmacedartejoven.cl",
+            "author_name": "Mar\u00eda Angelina Castillo",
             "categories": "danza",
-            "tags": "joven,valpara\u00edso,compa\u00f1\u00eda,danza",
-            "recuweb_url": "http://es.recuweb.com/danza/balmacedartejoven.cl/2015/04/compa%C3%B1%C3%ADa-estable-de-danza-2015-anuncia-sus-seleccionados",
+            "tags": "casi,espacios,libertad,danza",
+            "recuweb_url": "http://es.recuweb.com/danza/elestimulo.com/2015/04/la-danza-ese-ritual-de-comprender-el-cuerpo-climax-estimulo",
             "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://balmacedartejoven.cl/2015/04/compania-estable-de-danza-2015-anuncia-sus-seleccionados/"
+            "source_url": "http://elestimulo.com/climax/la-danza-ese-ritual-de-comprender-el-cuerpo/"
         },
-        "shantigoyo.wordpress.com/2015/04/con-la-danza-hasta-el-cuello": {
-            "title": "Con la Danza hasta el cuello...",
-            "snippet": "Con la Danza hasta el cuello Israel Andal\u00f3n \u00a1Con la danza hasta el cuello! Hoy 29 de Abril se celebra el D\u00eda Internacional de la Danza. Para los ajenos a esto, suena a uno de esos tantos d\u00edas que la UNESCO decidi\u00f3 dedicar a cosas sin sentido.",
+        "radio.uchile.cl/2015/04/la-bailarina-de-gabriela-mistral-salta-los-versos-a-danza": {
+            "title": "La Bailarina de Gabriela Mistral salta de los versos a la danza en el...",
+            "snippet": "\u00bfDe qu\u00e9 manera se pueden interpretar los versos de Gabriela Mistral a trav\u00e9s la danza? Esta pregunta la respondi\u00f3 la directora de la Compa\u00f1\u00eda Pe Mellado Danza, Paula Mellado, con el montaje La bailarina, o las voces se...",
             "date": "2015-04-29",
-            "author_name": "iandalon",
-            "categories": "sentido,danza",
-            "tags": "d\u00edas,d\u00eda,d\u00eda_internacional,internacional,celebra,danza,abril,unesco",
-            "recuweb_url": "http://es.recuweb.com/danza/shantigoyo.wordpress.com/2015/04/con-la-danza-hasta-el-cuello",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=danza%2Bdanza&rss=1&lng=es",
-            "source_url": "http://shantigoyo.wordpress.com/2015/04/29/danza_al_cuello/"
-        },
-        "revistadearte.com/2015/04/el-mundo-de-la-cultura-celebra-d%C3%ADa-internacional-danza": {
-            "title": "El mundo de la cultura celebra el D\u00eda Internacional de la Danza...",
-            "snippet": "El Instituto Nacional de las artes Esc\u00e9nicas y de la M\u00fasica (INAEM) celebra el D\u00eda Internacional de la Danza 2015 con la puesta en marcha de la aplicaci\u00f3n.",
-            "date": "2015-04-29",
-            "author_name": "Logopress - Editor",
-            "categories": "cultura,danza",
-            "tags": "celebra,instituto,nacional,artes,d\u00eda,d\u00eda_internacional,internacional,mundo,danza",
-            "recuweb_url": "http://es.recuweb.com/danza/revistadearte.com/2015/04/el-mundo-de-la-cultura-celebra-d%C3%ADa-internacional-danza",
-            "resource_url": "http://www.google.com/search?q=danza%2Bdanza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://revistadearte.com/2015/04/29/el-mundo-de-la-cultura-celebra-el-dia-internacional-de-la-danza/"
-        },
-        "pcdv.cl/2015/04/celebraremos-el-d%C3%ADa-de-la-danza-con-actividades-para-ni%C3%B1as": {
-            "title": "Celebraremos el D\u00eda de la Danza con actividades para ni\u00f1as y ni\u00f1os...",
-            "snippet": "El Parque Cultural de Valpara\u00edso quiere sumarse a la celebraci\u00f3n del D\u00eda Internacional de la Danza proponiendo actividades dedicadas a los ni\u00f1os y ni\u00f1as de la zona, para fomentar en ellos el gusto y conocimiento por esta...",
-            "date": "2015-04-28",
-            "author_name": "richardnn",
-            "categories": "conocimiento,danza",
-            "tags": "internacional,quiere,parque,d\u00eda,danza,valpara\u00edso",
-            "recuweb_url": "http://es.recuweb.com/danza/pcdv.cl/2015/04/celebraremos-el-d%C3%ADa-de-la-danza-con-actividades-para-ni%C3%B1as",
-            "resource_url": "http://www.google.com/search?q=danza%2Bdanza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pcdv.cl/2015/04/28/celebraremos-el-dia-de-la-danza-con-actividades-para-ninas-y-ninos/"
-        },
-        "espaciolacaracola.blogspot.com/2015/04/danza-y-acrobacia-en-telas-nuevas-propuestas-anuales-desde-mayo": {
-            "title": "DANZA y ACROBACIA en TELAS: nuevas propuestas anuales desde mayo.",
-            "snippet": "Danza Contempor\u00e1nea: Entrenamiento T\u00e9cnico Tecnolog\u00edas de Improvisaci\u00f3n Lunes y Mi\u00e9rcoles de 9 a 11 hs, anual. Comienza: Mi\u00e9rcoles 4 de mayo Coordina: Roxana Mart\u00edn Inversi\u00f3n 280 una vez por semana, 360 dos veces por semana. El taller...",
-            "date": "2015-04-28",
-            "author_name": "la caracola",
-            "categories": "tecnologia,danza",
-            "tags": "dos,mayo,entrenamiento,danza,danza_contempor\u00e1nea,contempor\u00e1nea,mi\u00e9rcoles,taller",
-            "recuweb_url": "http://es.recuweb.com/danza/espaciolacaracola.blogspot.com/2015/04/danza-y-acrobacia-en-telas-nuevas-propuestas-anuales-desde-mayo",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=danza%2Bdanza&rss=1&lng=es",
-            "source_url": "http://espaciolacaracola.blogspot.com/2015/04/danza-y-acrobacia-en-telas-nuevas.html"
-        },
-        "ibericadedanza.com/2015/04/d%C3%ADa-internacional-de-la-danza-en-el-museo-reina-sof%C3%ADa": {
-            "title": "D\u00cdA INTERNACIONAL DE LA DANZA en el Museo Reina Sof\u00eda...",
-            "snippet": "Se ofrecer\u00e1n ocho actuaciones, en distintos espacios, presentando una serie de coreograf\u00edas de los m\u00e1s diversos estilos: danza contempor\u00e1nea, espa\u00f1ola, flamenco de creaci\u00f3n actual o danzas urbanas, que entraran en...",
-            "date": "2015-04-28",
-            "author_name": "admin",
+            "author_name": "Diana Torres",
             "categories": "danza",
-            "tags": "danza,espacios,ocho,d\u00eda,d\u00eda_internacional,internacional,contempor\u00e1nea",
-            "recuweb_url": "http://es.recuweb.com/danza/ibericadedanza.com/2015/04/d%C3%ADa-internacional-de-la-danza-en-el-museo-reina-sof%C3%ADa",
+            "tags": "compa\u00f1\u00eda,danza,bailarina",
+            "recuweb_url": "http://es.recuweb.com/danza/radio.uchile.cl/2015/04/la-bailarina-de-gabriela-mistral-salta-los-versos-a-danza",
             "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ibericadedanza.com/dia-internacional-de-la-danza-en-el-museo-reina-sofia/"
+            "source_url": "http://radio.uchile.cl/2015/04/29/la-bailarina-de-mistral-salta-de-los-versos-a-la-danza"
         },
-        "infonudismo.wordpress.com/2015/04/d%C3%ADa-internacional-de-la-danza-info-nudismo": {
-            "title": "D\u00eda Internacional de la Danza Info Nudismo...",
-            "snippet": "El D\u00eda Internacional de la Danza (International Dance Day) se celebra todos los a\u00f1os el 29 de Abril, fue establecido por el Comit\u00e9 de Danza del Instituto Internacional del Teatro de la Unesco en 1982 con el fin de atraer la...",
-            "date": "2015-04-28",
-            "author_name": "Info Nudismo",
-            "categories": "danza",
-            "tags": "fin,instituto,internacional,celebra,danza,d\u00eda,d\u00eda_internacional,abril,teatro,unesco",
-            "recuweb_url": "http://es.recuweb.com/danza/infonudismo.wordpress.com/2015/04/d%C3%ADa-internacional-de-la-danza-info-nudismo",
-            "resource_url": "http://www.google.com/search?q=danza%2Bdanza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://infonudismo.wordpress.com/2015/04/29/dia-internacional-de-la-danza/"
+        "danzaballet.com/2015/04/marat%C3%B3n-de-danza-por-el-d%C3%ADa-internacional-la-en-cnd": {
+            "title": "Marat\u00f3n de Danza por el D\u00eda Internacional de la Danza en la CND...",
+            "snippet": "Mi\u00e9rcoles, 29 de abril, 2015 Sede de la CND - de 10h a 22h Con motivo de la celebraci\u00f3n del D\u00eda Internacional de la Danza la COMPA\u00d1\u00cdA NACIONAL DE DANZA,...",
+            "date": "2015-04-27",
+            "author_name": "danzaballet",
+            "categories": "danza,maraton",
+            "tags": "compa\u00f1\u00eda,nacional,danza,motivo,celebraci\u00f3n,d\u00eda,d\u00eda_internacional,internacional",
+            "recuweb_url": "http://es.recuweb.com/maraton/danzaballet.com/2015/04/marat%C3%B3n-de-danza-por-el-d%C3%ADa-internacional-la-en-cnd",
+            "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://danzaballet.com/maraton-de-danza-por-el-dia-internacional-de-la-danza-en-la-cnd/"
         },
-        "europapress.es/2015/04/d%C3%ADa-internacional-de-la-danza-los-que-no-bailan-est%C3%A1n-muertos": {
-            "title": "D\u00eda Internacional de la Danza: \"Los que no bailan est\u00e1n muertos\"...",
-            "snippet": "El D\u00eda Internacional de la Danza se celebra este mi\u00e9rcoles 29 de abril, con el fin de rendir homenaje a la danza y su universalidad, m\u00e1s all\u00e1 de las barreras...",
-            "date": "2015-04-28",
-            "author_name": "desconocido",
+        "alsondedan.wordpress.com/2015/03/la-danza-del-combate": {
+            "title": "La danza del combate; el combate de la danza.",
+            "snippet": "Se carga una armadura m\u00e1s fuerte que el acero ni una bala, ni una lanza puede penetrar el pecho nada la traspasa ni una flecha la hiere se trae...",
+            "date": "2015-03-24",
+            "author_name": "danellram",
             "categories": "danza",
-            "tags": "fin,abril,celebra,mi\u00e9rcoles,d\u00eda,d\u00eda_internacional,internacional,danza",
-            "recuweb_url": "http://es.recuweb.com/danza/europapress.es/2015/04/d%C3%ADa-internacional-de-la-danza-los-que-no-bailan-est%C3%A1n-muertos",
-            "resource_url": "http://www.google.com/search?q=danza%2Bdanza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://europapress.es/cultura/exposiciones-00131/noticia-dia-internacional-danza-no-bailan-estan-muertos-20150428122943.html"
+            "tags": "puede,danza",
+            "recuweb_url": "http://es.recuweb.com/danza/alsondedan.wordpress.com/2015/03/la-danza-del-combate",
+            "resource_url": "http://es.search.wordpress.com/?q=danza&f=feed&page=1",
+            "source_url": "http://alsondedan.wordpress.com/2015/03/23/258/"
+        },
+        "upsocl.com/2015/02/este-caballo-retando-a-una-bailarina-en-competencia-de-danza": {
+            "title": "Este caballo retando a una bailarina en una competencia de danza...",
+            "snippet": "Si nunca haz visto una batalla de danza entre un caballo y mujeres, est\u00e1s a punto de asombrarte. Con distintos estilos como el ballet o el tap, todas ellas intentan ganar con sus pasos de baile pero nunca pensaron que este hermoso animal...",
+            "date": "2015-02-23",
+            "author_name": "Catalina Grez",
+            "categories": "danza",
+            "tags": "bailarina,danza,ballet",
+            "recuweb_url": "http://es.recuweb.com/danza/upsocl.com/2015/02/este-caballo-retando-a-una-bailarina-en-competencia-de-danza",
+            "resource_url": "http://www.google.com/search?q=danza&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://upsocl.com/creatividad/este-caballo-retando-a-una-bailarina-en-una-competencia-de-danza-puede-que-sea-lo-mejor-que-veas-hoy/"
         }
     }
 }

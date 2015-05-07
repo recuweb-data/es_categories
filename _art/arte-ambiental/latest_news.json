@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "arte-ambiental",
         "language": "es",
-        "updated": "20150502"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/arte-ambiental/",
@@ -11,23 +11,72 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/arte-ambiental/arte-ambiental/blogs.json"
     },
     "items": {
-        "entornointeligente.com/2015/04/ense%C3%B1an-a-familias-reubicadas-el-arte-de-la-reutilizaci%C3%B3n-como-entornointeligente": {
-            "title": "Ense\u00f1an a familias reubicadas el arte de la reutilizaci\u00f3n como... - EntornoInteligente...",
-            "snippet": "EntornoInteligenteEnse\u00f1an a familias reubicadas el arte de la reutilizaci\u00f3n como...EntornoInteligenteUltima Hora/Esta actividad tiene lugar desde la semana pasada y se da en el marco de un proyecto de educaci\u00f3n ambiental consistente en la...",
-            "date": "2015-04-27",
-            "tags": "lugar,marco,educaci\u00f3n,arte,ambiental",
-            "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/ense%C3%B1an-a-familias-reubicadas-el-arte-de-la-reutilizaci%C3%B3n-como-entornointeligente",
-            "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental&output=atom&nord=1",
-            "source_url": "http://entornointeligente.com/articulo/5773134/Ensenan-a-familias-reubicadas-el-arte-de-la-reutilizacion-como-salida-laboral-27042015"
+        "ambientum.com/2015/05/iv-certamen-de-experiencias-did%C3%A1cticas": {
+            "title": "IV Certamen de Experiencias Did\u00e1cticas...",
+            "snippet": "Estas distinciones tienen como objetivo fomentar y estimular el desarrollo de actividades de educaci\u00f3n ambiental... p\u00fablicos e institutos que imparten Educaci\u00f3n Secundario Obligatoria, Bachillerato, Ciclos Formativos y Escuelas de Arte de la...",
+            "date": "2015-05-07",
+            "categories": "escuela",
+            "tags": "ciclos,ciclos_formativos,formativos,educaci\u00f3n,educaci\u00f3n_secundario,educaci\u00f3n_secundario_obligatoria,secundario,secundario_obligatoria,obligatoria,p\u00fablicos,p\u00fablicos-institutos,institutos,institutos-que-imparten,imparten,desarrollo,tienen,ambiental,bachillerato,escuelas,arte",
+            "recuweb_url": "http://es.recuweb.com/escuela/ambientum.com/2015/05/iv-certamen-de-experiencias-did%C3%A1cticas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Barte%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://ambientum.com/boletino/noticias/IV-Certamen-de-Experiencias-Didacticas-Recapacicla-20142015.asp"
         },
-        "milenio.com/2015/04/donan-arte-para-centro-de-educaci%C3%B3n-ambiental": {
-            "title": "Donan arte para Centro de Educaci\u00f3n Ambiental -...",
-            "snippet": "arte para Centro de Educaci\u00f3n \u00e1s de 30 artistas concedieron algunas de sus obras para la \"Subasta de Arte, yo con Jimulco\", el objetivo es la construcci\u00f3n del lugar en la Reserva Ecol\u00f3gica Municipal Sierra y Ca\u00f1\u00f3n de obras para centro de...",
-            "date": "2015-04-21",
-            "tags": "lugar,educaci\u00f3n,ambiental,arte",
-            "recuweb_url": "http://es.recuweb.com/milenio.com/2015/04/donan-arte-para-centro-de-educaci%C3%B3n-ambiental",
+        "elalmeria.es/2015/05/recapacicla-llama-a-los-estudiantes-al-concurso-de-ideas-educaci%C3%B3n-ambiental": {
+            "title": "Recapacicla llama a los estudiantes al concurso de ideas de educaci\u00f3n ambiental sobre residuos...",
+            "snippet": "La Consejer\u00eda de Medio Ambiente y Ordenaci\u00f3n del... de los residuos en los colegios p\u00fablicos e institutos que imparten Educaci\u00f3n Secundario Obligatoria, Bachillerato, Ciclos Formativos y Escuelas de Arte de la comunidad aut\u00f3noma.",
+            "date": "2015-05-06",
+            "categories": "medio-ambiente,escuela",
+            "tags": "ciclos,ciclos_formativos,formativos,educaci\u00f3n,educaci\u00f3n_secundario,educaci\u00f3n_secundario_obligatoria,secundario,secundario_obligatoria,obligatoria,p\u00fablicos,p\u00fablicos-institutos,institutos,institutos-que-imparten,imparten,medio,medio_ambiente,ambiente,estudiantes,concurso,ambiental,bachillerato,escuelas,arte",
+            "recuweb_url": "http://es.recuweb.com/escuela/elalmeria.es/2015/05/recapacicla-llama-a-los-estudiantes-al-concurso-de-ideas-educaci%C3%B3n-ambiental",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Barte%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://elalmeria.es/article/almeria/2022474/recapacicla/llama/los/estudiantes/concurso/ideas/educacion/ambiental/sobre/residuos.html"
+        },
+        "ecoticias.com/2015/05/ecologia-medio-ambiente-y-energias-renovables": {
+            "title": "Ecologia, Medio Ambiente y Energias Renovables...",
+            "snippet": "El Govern ha creado el distintivo ambiental de equipamiento esc\u00e9nicos y de artes visuales y testar\u00e1 su implementaci\u00f3n en una prueba piloto con ocho teatros, auditorios y centros de artes visuales catalanes que tienen la gesti\u00f3n ambiental en una...",
+            "date": "2015-05-04",
+            "categories": "medio-ambiente",
+            "tags": "artes,artes-visuales,visuales,tienen,gesti\u00f3n,medio,medio_ambiente,ambiente,ambiental",
+            "recuweb_url": "http://es.recuweb.com/medio-ambiente/ecoticias.com/2015/05/ecologia-medio-ambiente-y-energias-renovables",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Barte%2Bambiental&format=RSS&cc=es",
+            "source_url": "http://ecoticias.com/sostenibilidad/102972/Catalunya-distintivo-ambiental-equipamientos-escenicos"
+        },
+        "latarde.com/2015/05/as%C3%AD-avanzan-las-propuestas-de-los-candidatos-alcald%C3%ADa-gobernaci%C3%B3n": {
+            "title": "As\u00ed avanzan las propuestas de los candidatos Alcald\u00eda-Gobernaci\u00f3n -...",
+            "snippet": "As\u00ed avanzan las propuestas de los candidatos Alcald\u00eda-Gobernaci\u00f3 su parte, Gallo y Sigifredo, le apuestan claramente a lo ambiental, a mejorar las oportunidades para los campesinos (fortaleciendo la venta de sus productos en almacenes de cadena),...",
+            "date": "2015-05-03",
+            "tags": "parte,ambiental",
+            "recuweb_url": "http://es.recuweb.com/latarde.com/2015/05/as%C3%AD-avanzan-las-propuestas-de-los-candidatos-alcald%C3%ADa-gobernaci%C3%B3n",
             "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental&output=atom&nord=1",
-            "source_url": "http://milenio.com/cultura/Subasta_de_Arte-yo_con_Jimulco-Fundacion_Jimulco-Canon_de_Jimulco_0_503350019.html"
+            "source_url": "http://latarde.com/noticias/politica/150194-asi-avanzan-las-propuestas-de-los-candidatos-alcaldia-gobernacion"
+        },
+        "vanguardia.com.mx/2015/05/festejan-3-a%C3%B1os-del-ecotianguis": {
+            "title": "Festejan 3 a\u00f1os del Ecotianguis -...",
+            "snippet": "3 a\u00f1os del queremos ser el centro de educaci\u00f3n ambiental, sino queremos abarcar la sustentabilidad, para eso tenemos disciplinas como yoga, proyectos psicoterap\u00e9uticos, adem\u00e1s de la parte art\u00edstica. El arte es el mejor veh\u00edculo para...",
+            "date": "2015-05-03",
+            "categories": "yoga",
+            "tags": "educaci\u00f3n,ambiental,parte,arte",
+            "recuweb_url": "http://es.recuweb.com/yoga/vanguardia.com.mx/2015/05/festejan-3-a%C3%B1os-del-ecotianguis",
+            "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental&output=atom&nord=1",
+            "source_url": "http://vanguardia.com.mx/festejan3anosdelecotianguis-2314647.html"
+        },
+        "larepublica.pe/2015/05/modelo-para-desarmar-larep%C3%BA": {
+            "title": "Modelo para desarmar - LaRep\u00fa...",
+            "snippet": "Modelo para desarmarLaRep\u00fa empresa tiene un largo historial de malas pr\u00e1cticas ambientales. Los parecidos con... En 2010,public\u00f3 Bodeg\u00f3n de bodegones, un estudio de las artes visuales del Per\u00fa a trav\u00e9s de su gastronom\u00eda, premio Gourmand para...",
+            "date": "2015-05-03",
+            "tags": "artes,artes-visuales,visuales",
+            "recuweb_url": "http://es.recuweb.com/larepublica.pe/2015/05/modelo-para-desarmar-larep%C3%BA",
+            "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental&output=atom&nord=1",
+            "source_url": "http://larepublica.pe/columnistas/observador/modelo-para-desarmar-03-05-2015"
+        },
+        "rionegro.com.ar/2015/05/san-mart%C3%ADn-desde-el-fondo-de-los-tiempos": {
+            "title": "San Mart\u00edn, desde el fondo de los tiempos -...",
+            "snippet": "Mart\u00edn, desde el fondo de los su parte, Salaberry es responsable de la Subsecretar\u00eda de Gesti\u00f3n Ambiental, Secretar\u00eda de Planificaci\u00f3n y Desarrollo Sustentable. El informe, que aqu\u00ed se reproduce parcialmente conforme datos... A partir de esa...",
+            "date": "2015-05-03",
+            "tags": "desarrollo,gesti\u00f3n,ambiental,parte",
+            "recuweb_url": "http://es.recuweb.com/rionegro.com.ar/2015/05/san-mart%C3%ADn-desde-el-fondo-de-los-tiempos",
+            "resource_url": "http://news.google.es/?hl=es&q=arte%2Bambiental&output=atom&nord=1",
+            "source_url": "http://rionegro.com.ar/diario/san-martin-desde-el-fondo-de-los-tiempos-7559672-9574-nota.aspx"
         }
     }
 }

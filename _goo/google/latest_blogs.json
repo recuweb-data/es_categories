@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/google/",
@@ -11,71 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
+        "taringa.net/2015/05/descubri-algo-en-google-imagenes-y-te-lo-muestro-taringa": {
+            "title": "descubri algo en Google Imagenes y te lo muestro - Taringa!",
+            "snippet": "Hola linces de las praderas nocturnas de noruega!. Les traigo \"Descubri algo en Google Imagenes\". Estaba aburrido en la pc, hasta que Se me...",
+            "date": "2015-05-03",
+            "author_name": "desconocido",
+            "categories": "google",
+            "tags": "google",
+            "recuweb_url": "http://es.recuweb.com/google/taringa.net/2015/05/descubri-algo-en-google-imagenes-y-te-lo-muestro-taringa",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/humor/18640478/Descubri-algo-en-Google-Imagenes-y-te-lo-muestro.html"
+        },
+        "rpp.com.pe/2015/05/google-plus-public%C3%B3-por-primera-vez-en-twitter-rpp-noticias": {
+            "title": "Google Plus public\u00f3 por primera vez en Twitter RPP NOTICIAS...",
+            "snippet": "Luego de cuatro a\u00f1os de existencia, la cuenta de la red social Google Plus envi\u00f3 su primer tuit el 1 de mayo. Si bien Google Plus cre\u00f3 la cuenta de Twitter en junio del 2011, nunca antes hab\u00eda enviado un \"tuit\".",
+            "date": "2015-05-02",
+            "author_name": "RPP Noticias",
+            "categories": "red-social,twitter,google",
+            "tags": "cuenta,red,red-social,social,rpp,rpp_noticias,noticias,google,luego",
+            "recuweb_url": "http://es.recuweb.com/google/rpp.com.pe/2015/05/google-plus-public%C3%B3-por-primera-vez-en-twitter-rpp-noticias",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://rpp.com.pe/2015-05-02-google-plus-publico-por-primera-vez-en-twitter-noticia_793385.html"
+        },
+        "gestion.pe/2015/05/project-fi-puede-extender-la-vida-del-tel%C3%A9fono-nexus-6": {
+            "title": "\u00bfProject Fi puede extender la vida del tel\u00e9fono Nexus 6 de Google...",
+            "snippet": "(Bloomberg) El Nexus 6, el \u00faltimo de los tel\u00e9fonos inteligentes de marca propia de Google, dista de ser un \u00e9xito de ventas. Luego de que la compa\u00f1\u00eda no lograra fabricar suficientes unidades para cubrir la demanda de las...",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
+            "categories": "google",
+            "tags": "compa\u00f1\u00eda,tel\u00e9fonos,project,puede,google,luego",
+            "recuweb_url": "http://es.recuweb.com/google/gestion.pe/2015/05/project-fi-puede-extender-la-vida-del-tel%C3%A9fono-nexus-6",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://gestion.pe/tecnologia/project-fi-puede-extender-vida-telefono-nexus-6-google-2130653"
+        },
         "rpp.com.pe/2015/05/google-dedica-doodle-por-el-d%C3%ADa-del-trabajador-rpp-noticias": {
             "title": "Google dedica doodle por el D\u00eda del Trabajador RPP NOTICIAS...",
             "snippet": "Cr\u00e9ditos: Captura Google. Es una festividad que se celebra a nivel mundial desde el a\u00f1o 1989, por acuerdo del Congreso Obrero Socialista de la Segunda Internacional, celebrado en Par\u00eds. Compartir:...",
             "date": "2015-05-01",
             "author_name": "RPP Noticias",
             "categories": "google",
-            "tags": "internacional,rpp,rpp_noticias,noticias,google,doodle,d\u00eda,celebra",
+            "tags": "acuerdo,nivel,rpp,rpp_noticias,noticias,google,doodle,d\u00eda,celebra",
             "recuweb_url": "http://es.recuweb.com/google/rpp.com.pe/2015/05/google-dedica-doodle-por-el-d%C3%ADa-del-trabajador-rpp-noticias",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://rpp.com.pe/2015-05-01-google-dedica-doodle-por-el-dia-del-trabajador-noticia_793058.html"
-        },
-        "cnnexpansion.com/2015/05/c%C3%B3mo-evitar-el-robo-de-tu-contrase%C3%B1a-google-tecnolog%C3%ADa": {
-            "title": "C\u00f3mo evitar el robo de tu contrase\u00f1a de Google - Tecnolog\u00eda...",
-            "snippet": "CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n) La firma tecnol\u00f3gica Google lanz\u00f3 el mi\u00e9rcoles una herramienta para enviar se\u00f1ales a los usuarios sobre los sitios que quieren robar su contrase\u00f1a. Password Alert es una nueva...",
-            "date": "2015-05-01",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "google,tecnologia",
-            "tags": "nueva,password,password_alert,alert,contrase\u00f1a,lanz\u00f3,mi\u00e9rcoles,herramienta,ciudad,ciudad_de_m\u00e9xico,m\u00e9xico,robo,c\u00f3mo,google,tecnolog\u00eda,cnnexpansi\u00f3n,usuarios",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/cnnexpansion.com/2015/05/c%C3%B3mo-evitar-el-robo-de-tu-contrase%C3%B1a-google-tecnolog%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/04/30/guia-para-evitar-el-robo-de-tu-contrasena-de-google"
-        },
-        "informador.com.mx/2015/04/google-celebra-a-los-ni%C3%B1os-mexicanos-en-su-d%C3%ADa-el-informador": {
-            "title": "Google celebra a los ni\u00f1os mexicanos en su d\u00eda:: El Informador...",
-            "snippet": "CIUDAD DE M\u00c9XICO (30/ABR/2015).- Este 30 de abril, las letras de Google se divierten en las resbaladillas y celebran el D\u00eda del Ni\u00f1o con alegr\u00eda y entusiasmo. Con un colorido y divertido doodle, la empresa de Mountain View festeja a los...",
-            "date": "2015-04-30",
-            "author_name": "desconocido",
-            "categories": "google",
-            "tags": "festeja,divertido,letras,ciudad,ciudad_de_m\u00e9xico,m\u00e9xico,ni\u00f1o,google,celebra,d\u00eda,abril,doodle",
-            "recuweb_url": "http://es.recuweb.com/google/informador.com.mx/2015/04/google-celebra-a-los-ni%C3%B1os-mexicanos-en-su-d%C3%ADa-el-informador",
             "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://informador.com.mx/tecnologia/2015/589422/6/google-celebra-a-los-ninos-mexicanos-en-su-dia.htm"
-        },
-        "cnnexpansion.com/2015/04/google-festeja-con-un-doodle-el-d%C3%ADa-del-ni%C3%B1o-tecnolog%C3%ADa": {
-            "title": "Google festeja con un 'doodle'el D\u00eda del Ni\u00f1o - Tecnolog\u00eda...",
-            "snippet": "CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n) Google coloc\u00f3 este jueves un doodle con motivo del D\u00eda del Ni\u00f1o, celebraci\u00f3n que se festeja este 30 de abril en M\u00e9xico. En la imagen, las letras que forman el logo del buscador se...",
-            "date": "2015-04-30",
-            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "google,tecnologia",
-            "tags": "letras,imagen,festeja,ciudad,ciudad_de_m\u00e9xico,m\u00e9xico,google,doodle,d\u00eda,ni\u00f1o,tecnolog\u00eda,cnnexpansi\u00f3n,abril,buscador",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/cnnexpansion.com/2015/04/google-festeja-con-un-doodle-el-d%C3%ADa-del-ni%C3%B1o-tecnolog%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/tecnologia/2015/04/30/google-festeja-con-un-doodle-a-los-ninos"
-        },
-        "elladodelmal.com/2015/04/el-%C3%ADndice-de-google-te-filtra-los-autores-documentos-privados": {
-            "title": "El \u00edndice de Google te filtra los autores de documentos privados en Google Drive...",
-            "snippet": "Al igual que os cont\u00e9 hace ya mucho tiempo en un art\u00edculo que suced\u00eda con Skydrive donde la gente guarda de forma p\u00fablica de todo, Google est\u00e1 indexando los contenidos de Google Drive y tambi\u00e9n se puede encontrar de todo. La gente, como viene...",
-            "date": "2015-04-30",
-            "author_name": "(Maligno)",
-            "categories": "google",
-            "tags": "forma,google,hace,puede",
-            "recuweb_url": "http://es.recuweb.com/google/elladodelmal.com/2015/04/el-%C3%ADndice-de-google-te-filtra-los-autores-documentos-privados",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=es",
-            "source_url": "http://elladodelmal.com/2015/04/el-indice-de-google-te-filtra-los.html"
-        },
-        "tecnozis.blogspot.com/2015/04/google-lanza-alerta-para-proteger-tu-contrase%C3%B1a-en-gmail": {
-            "title": "Google lanza 'Alerta'para proteger tu contrase\u00f1a en Gmail...",
-            "snippet": "Google reconoce que el robo de informaci\u00f3n no s\u00f3lo afectar\u00eda las cuentas bancarias de sus v\u00edctimas sino tambi\u00e9n sus cuentas de correo electr\u00f3nico -- y la gigante de tecnolog\u00eda quiere ayudar a protegerte. Este mi\u00e9rcoles Google anunci\u00f3 el...",
-            "date": "2015-04-30",
-            "author_name": "erick campaz",
-            "categories": "tecnologia,google",
-            "tags": "tecnolog\u00eda,cuentas,robo,proteger,contrase\u00f1a,google,lanza,alerta,informaci\u00f3n,s\u00f3lo,gigante,mi\u00e9rcoles",
-            "recuweb_url": "http://es.recuweb.com/google/tecnozis.blogspot.com/2015/04/google-lanza-alerta-para-proteger-tu-contrase%C3%B1a-en-gmail",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=es",
-            "source_url": "http://tecnozis.blogspot.com/2015/04/google-lanza-alerta-para-proteger-tu.html"
+            "source_url": "http://rpp.com.pe/2015-05-01-google-dedica-doodle-por-el-dia-del-trabajador-noticia_793058.html"
         },
         "genbeta.com/2015/04/google-cree-tener-la-extensi%C3%B3n-definitiva-contra-el-phishing": {
             "title": "Google cree tener la extensi\u00f3n definitiva contra el phishing en sus...",
@@ -83,9 +61,9 @@
             "date": "2015-04-29",
             "author_name": "Mat\u00edas S. Zavia",
             "categories": "google",
-            "tags": "contrase\u00f1a,extensi\u00f3n,alerta,password,password_alert,alert,tener,phishing,google,chrome",
+            "tags": "extensi\u00f3n,password,password_alert,alert,google,chrome",
             "recuweb_url": "http://es.recuweb.com/google/genbeta.com/2015/04/google-cree-tener-la-extensi%C3%B3n-definitiva-contra-el-phishing",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://genbeta.com/seguridad/google-cree-tener-la-extension-definitiva-contra-el-phishing-en-sus-propios-servicios"
         },
         "googleespana.blogspot.com/2015/04/blog-oficial-de-google-espa%C3%B1a-protege-tu-cuenta": {
@@ -94,32 +72,54 @@
             "date": "2015-04-29",
             "author_name": "Ana\u00efs P\u00e9rez Figueras",
             "categories": "google",
-            "tags": "apps,cuentas,cuenta,extensi\u00f3n,password,password_alert,alert,google,oficial,chrome",
+            "tags": "cuenta,extensi\u00f3n,password,password_alert,alert,google,espa\u00f1a,chrome",
             "recuweb_url": "http://es.recuweb.com/google/googleespana.blogspot.com/2015/04/blog-oficial-de-google-espa%C3%B1a-protege-tu-cuenta",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://googleespana.blogspot.com/2015/04/protege-tu-cuenta-de-google-con.html"
-        },
-        "googleamericalatinablog.blogspot.com/2015/04/el-blog-corporativo-de-google-para-am%C3%A9rica-latina-protejan": {
-            "title": "El Blog Corporativo de Google para Am\u00e9rica Latina: Protejan su...",
-            "snippet": "Si escriben su contrase\u00f1a aqu\u00ed, los atacantes podr\u00edan robarla y acceder a su cuenta de Google incluso sin que lo noten. Esta es una trampa com\u00fan y peligrosa: los ataques de phishing m\u00e1s eficaces pueden tener \u00e9xito el...",
-            "date": "2015-04-29",
-            "author_name": "LatAm Blog Publisher",
-            "categories": "google",
-            "tags": "phishing,tener,\u00e9xito,incluso,cuenta,contrase\u00f1a,google",
-            "recuweb_url": "http://es.recuweb.com/google/googleamericalatinablog.blogspot.com/2015/04/el-blog-corporativo-de-google-para-am%C3%A9rica-latina-protejan",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://googleamericalatinablog.blogspot.com/2015/04/protejan-su-cuenta-de-google-con-la-alerta-de-contrasena.html"
         },
         "googleespana.blogspot.com/2015/04/google-y-editores-de-medios-europa-anuncian": {
             "title": "Google y editores de medios de Europa anuncian la...",
             "snippet": "Desde Google y en colaboraci\u00f3n con editores de noticias de Europa queremos dar a conocer la Digital News Initiative (DNI), una alianza creada para ofrecer apoyo al periodismo de alta calidad en Europa a trav\u00e9s de la...",
             "date": "2015-04-28",
             "author_name": "Ana\u00efs P\u00e9rez Figueras",
-            "categories": "periodismo,google",
-            "tags": "periodismo,digital,noticias,google",
-            "recuweb_url": "http://es.recuweb.com/google/googleespana.blogspot.com/2015/04/google-y-editores-de-medios-europa-anuncian",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "categories": "google,periodismo",
+            "tags": "editores,noticias,anuncian,medios,google,europa,periodismo",
+            "recuweb_url": "http://es.recuweb.com/periodismo/googleespana.blogspot.com/2015/04/google-y-editores-de-medios-europa-anuncian",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://googleespana.blogspot.com/2015/04/google-y-editores-de-medios-de-europa.html"
+        },
+        "cnnexpansion.com/2015/04/las-mejores-prestaciones-laborales-de-google-mi-carrera": {
+            "title": "Las mejores prestaciones laborales de Google - Mi Carrera...",
+            "snippet": "NUEVA YORK (CNNMoney) Todos quieren trabajar en Google. La compa\u00f1\u00eda siempre encabeza el ranking del mejor lugar para trabajar. \u00bfParte de la raz\u00f3n? un amplio abanico de beneficios y prestaciones, grandes y...",
+            "date": "2015-04-28",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "categories": "google",
+            "tags": "grandes,compa\u00f1\u00eda,mejores,nueva,google",
+            "recuweb_url": "http://es.recuweb.com/google/cnnexpansion.com/2015/04/las-mejores-prestaciones-laborales-de-google-mi-carrera",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/mi-carrera/2015/04/28/las-mejores-prestaciones-laborales-de-google"
+        },
+        "bagoneto.wordpress.com/2015/04/los-pasos-que-hay-saber-para-google-te-tenga-en-cuenta": {
+            "title": "Los pasos que hay que saber para que Google te tenga en cuenta. SEO...",
+            "snippet": "Os voy a explicar brevemente los peque\u00f1os pasos que ten\u00e9is que seguir para que el gigante Google tenga en cuenta vuestra p\u00e1gina web o vuestro blog para posicionarlo: Crear...",
+            "date": "2015-04-14",
+            "author_name": "Admin",
+            "categories": "google",
+            "tags": "cuenta,google,gigante,p\u00e1gina",
+            "recuweb_url": "http://es.recuweb.com/google/bagoneto.wordpress.com/2015/04/los-pasos-que-hay-saber-para-google-te-tenga-en-cuenta",
+            "resource_url": "http://es.search.wordpress.com/?q=google&f=feed&page=1",
+            "source_url": "http://bagoneto.wordpress.com/2015/04/14/los-pasos-que-hay-que-saber-para-que-google-te-tenga-en-cuenta-seo/"
+        },
+        "genbeta.com/2015/04/google-indexa-discos-duros-privados-desde-hace-a%C3%B1os-pero-no": {
+            "title": "Google indexa discos duros privados desde hace a\u00f1os, pero no es...",
+            "snippet": "Es f\u00e1cil encontrar en Google los datos personales de personas que tienen un disco duro con acceso a Internet inseguro. Fotos NSFW, emails....",
+            "date": "2015-04-10",
+            "author_name": "Mat\u00edas S. Zavia",
+            "categories": "disco-duro,google,internet",
+            "tags": "personas,hace,google,internet",
+            "recuweb_url": "http://es.recuweb.com/internet/genbeta.com/2015/04/google-indexa-discos-duros-privados-desde-hace-a%C3%B1os-pero-no",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://genbeta.com/seguridad/google-indexa-discos-duros-privados-desde-hace-anos-pero-no-es-culpa-de-google"
         }
     }
 }

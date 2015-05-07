@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bing",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bing/",
@@ -11,14 +11,34 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
+        "eluniversal.com.mx/2015/05/productora-de-friends-descarta-reencuentro-del-elenco": {
+            "title": "Productora de Friends descarta reencuentro del elenco...",
+            "snippet": "Rachel Green (Jennifer Aniston), Monica Geller (Courteney Cox), Phoebe Buffay (Lisa Kudrow), Joey Tribbiani (Matt LeBlanc), Chandler Bing (Matthew Perry) y Ross Geller (David Schwimmer), hicieron re\u00edr y llorar al mundo con sus an\u00e9cdotas...",
+            "date": "2015-05-03",
+            "categories": "bing",
+            "tags": "bing",
+            "recuweb_url": "http://es.recuweb.com/bing/eluniversal.com.mx/2015/05/productora-de-friends-descarta-reencuentro-del-elenco",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
+            "source_url": "http://eluniversal.com.mx/espectaculos/2015/friends-descartan-reencuentro-1097148.html"
+        },
+        "muycomputer.com/2015/05/vensmile-w10-mini-pc-tama%C3%B1o-phablet-con-bater%C3%ADa": {
+            "title": "Vensmile W10: mini-PC tama\u00f1o phablet con bater\u00eda...",
+            "snippet": "Est\u00e1 gobernado por Windows 8.1 with Bing y su precio va de 107 a 134 euros. Lo vende el gigante del comercio electr\u00f3nico Alibaba. Muy interesantes estos mini-PC que transforman pantallas en computadoras funcionales y que pueden llevarse a...",
+            "date": "2015-05-03",
+            "categories": "computadora,bing",
+            "tags": "electr\u00f3nico,windows,bing",
+            "recuweb_url": "http://es.recuweb.com/bing/muycomputer.com/2015/05/vensmile-w10-mini-pc-tama%C3%B1o-phablet-con-bater%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
+            "source_url": "http://muycomputer.com/2015/05/03/vensmile-w10-mini-pc"
+        },
         "philly.com/2015/05/bing-dim-sum": {
             "title": "Bing Bing Dim Sum -...",
             "snippet": "Bing Dim chef behind the irrepressibly likable and unabashedly inauthentic Cheu Noodle Bar was determined to get serious training in authentic dumpling craft before opening Bing Bing Dim Sum, his latest riff on Asian street food in collaboration...",
             "date": "2015-05-02",
             "categories": "bing",
-            "tags": "latest,bar,bing",
+            "tags": "latest,bing",
             "recuweb_url": "http://es.recuweb.com/bing/philly.com/2015/05/bing-dim-sum",
-            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
             "source_url": "http://philly.com/philly/food/20150503_LaBan_review_Bing_Bing_Dim_Sum.html"
         },
         "slashgear.com/2015/05/bing-maps-updated-with-expanded-transit-coverage-slashgear": {
@@ -26,66 +46,27 @@
             "snippet": "SlashGearBing Maps updated with expanded transit coverageSlashGearBing Maps has received another update, this one proving useful for commuters all over the world. Earlier this week, Microsoft added transit coverage from more than 3,000 transit...",
             "date": "2015-05-01",
             "categories": "bing",
-            "tags": "than,bing,microsoft",
+            "tags": "bing,microsoft",
             "recuweb_url": "http://es.recuweb.com/bing/slashgear.com/2015/05/bing-maps-updated-with-expanded-transit-coverage-slashgear",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
             "source_url": "http://slashgear.com/bing-maps-updated-with-expanded-transit-coverage-30381660/"
         },
-        "wowkeren.com/2015/05/fan-bingbing-ungkap-persahabatan-pemain-putri-huan-zhu-dalam-wow-keren": {
-            "title": "Fan Bingbing Ungkap Persahabatan Pemain 'Putri Huan Zhu'dalam... - Wow Keren...",
-            "snippet": "Wow KerenFan Bingbing Ungkap Persahabatan Pemain 'Putri Huan Zhu'dalam...Wow KerenFan Bingbing Ungkap Persahabatan Pemain 'Putri Huan Zhu'dalam 17 Tahun. 01 May 2015 10:57:03 WIB. Setelah sekian lama tak nampak di layar kaca Indonesia, bagaimana...",
-            "date": "2015-05-01",
-            "tags": "bingbing",
-            "recuweb_url": "http://es.recuweb.com/wowkeren.com/2015/05/fan-bingbing-ungkap-persahabatan-pemain-putri-huan-zhu-dalam-wow-keren",
-            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://wowkeren.com/berita/tampil/00073623.html"
-        },
-        "elcomercio.pe/2015/05/microsoft-calcula-tu-edad-usando-una-fotograf%C3%ADa": {
-            "title": "Microsoft calcula tu edad usando una fotograf\u00eda...",
-            "snippet": "El sitio web funciona gracias a Face API, que es parte del Projecto Oxford, una herramienta recientemente liberada por Microsoft Research y Bing. Basado en la tecnolog\u00eda de detecci\u00f3n de rostros, analiza las l\u00edneas del rostro y los razgos...",
-            "date": "2015-05-01",
-            "categories": "tecnologia,fotografia,bing",
-            "tags": "recientemente,funciona,gracias,edad,microsoft,sitio,web,bing",
-            "recuweb_url": "http://es.recuweb.com/bing/elcomercio.pe/2015/05/microsoft-calcula-tu-edad-usando-una-fotograf%C3%ADa",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
-            "source_url": "http://elcomercio.pe/tecnologia/actualidad/microsoft-calcula-tu-edad-usando-fotografia-noticia-1808145"
-        },
         "winbeta.org/2015/05/microsoft-continues-platform-pitch-with-new-apis-and-sdks-for-bing": {
             "title": "Microsoft continues platform pitch with new APIs and SDKs for Bing - WinBeta...",
-            "snippet": "WinBetaMicrosoft continues platform pitch with new APIs and SDKs for BingWinBetaConference keynotes tend to be a big deal in tech. More often than not, keynotes help to bridge information with the presentation. Typically a keynote helps paraphrase...",
+            "snippet": "WinBetaMicrosoft continues platform pitch with new APIs and SDKs for BingWinBetaDuring the conference developers and attendees of Build were introduced to new tech and data sources that transform Bing beyond a simple desktop search engine. Now...",
             "date": "2015-05-01",
             "categories": "bing",
-            "tags": "help,than,microsoft,bing",
+            "tags": "microsoft,bing",
             "recuweb_url": "http://es.recuweb.com/bing/winbeta.org/2015/05/microsoft-continues-platform-pitch-with-new-apis-and-sdks-for-bing",
-            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
             "source_url": "http://winbeta.org/news/microsoft-continues-platform-pitch-new-apis-and-sdks-bing"
-        },
-        "lafm.com.co/2015/05/microsoft-le-dice-cu%C3%A1ntos-a%C3%B1os-tiene": {
-            "title": "Microsoft le dice cu\u00e1ntos a\u00f1os tiene...",
-            "snippet": "utiliza un sistema de reconocimiento de rostro y funciona con una imagen de cualquier persona. Gracias a que el software trabaja con buscador Bing el usuario podr\u00e1 conocer la edad de alguna celebridad o de alguien que recientemente conoci\u00f3.",
-            "date": "2015-05-01",
-            "categories": "bing",
-            "tags": "edad,alguien,recientemente,buscador,funciona,tiene,microsoft,gracias,bing",
-            "recuweb_url": "http://es.recuweb.com/bing/lafm.com.co/2015/05/microsoft-le-dice-cu%C3%A1ntos-a%C3%B1os-tiene",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
-            "source_url": "http://lafm.com.co/noticias/microsoft-le-dice-cu-ntos-os-t-181907"
-        },
-        "cnet.com/2015/05/shakira-tiene-15-a%C3%B1os-pusimos-a-prueba-entre-cnet-en-espa%C3%B1ol": {
-            "title": "\u00bfShakira tiene 15 a\u00f1os? pusimos a prueba ''entre... - CNET en Espa\u00f1ol...",
-            "snippet": "CNET en Espa\u00f1ol\u00bfShakira tiene 15 a\u00f1os? pusimos a prueba ''entre...CNET en Espa\u00f1olComo es l\u00f3gico, es dif\u00edcil saber qu\u00e9 edad tiene alguien con base en una foto al azar, y menos si esa foto no es tan reciente, pero a trav\u00e9s del buscador Bing...",
-            "date": "2015-05-01",
-            "categories": "bing",
-            "tags": "buscador,edad,tiene,alguien,espa\u00f1ol,bing",
-            "recuweb_url": "http://es.recuweb.com/bing/cnet.com/2015/05/shakira-tiene-15-a%C3%B1os-pusimos-a-prueba-entre-cnet-en-espa%C3%B1ol",
-            "resource_url": "http://news.google.es/?hl=es&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://cnet.com/es/noticias/shakira-edad-herramienta-how-old-microsoft/"
         },
         "bostinno.streetwise.co/2015/04/bing-s-howoldrobot-disastrously-estimated-the-ages-of-boston-bostinno": {
             "title": "Bing's HowOldRobot Disastrously Estimated the Ages of Boston... - BostInno...",
             "snippet": "BostInnoBing's HowOldRobot Disastrously Estimated the Ages of Boston...BostInnoBing's (or is it Microsoft's?) latest device to help undermine the productivity of the American workforce went viral on Thursday, as tried to tell you how old the faces...",
             "date": "2015-04-30",
             "categories": "bing",
-            "tags": "latest,help,bing,microsoft",
+            "tags": "latest,bing,microsoft",
             "recuweb_url": "http://es.recuweb.com/bing/bostinno.streetwise.co/2015/04/bing-s-howoldrobot-disastrously-estimated-the-ages-of-boston-bostinno",
             "resource_url": "http://news.google.es/?hl=es&q=bing&output=atom&nord=1",
             "source_url": "http://bostinno.streetwise.co/2015/04/30/bings-howoldrobots-boston-sports-age-estimates-bill-belichick-larry-bird-babe-ruth-included-photos/"
@@ -95,7 +76,7 @@
             "snippet": "Adem\u00e1s, Cortana hace consultas por ti para facilitar el proceso de b\u00fasqueda en Edge. Bing S\u00ed, algo nuevo para ti ser\u00e1 usar Bing, el buscador de Microsoft. En este aspecto, los de Redmond prometen un motor de b\u00fasqueda mucho m\u00e1s \u00fatil e...",
             "date": "2015-04-30",
             "categories": "bing",
-            "tags": "motor,motor-de-b\u00fasqueda,b\u00fasqueda,buscador,bing,hacer,navegador,microsoft,cortana,edge",
+            "tags": "motor,bing,hacer,navegador,microsoft,cortana,b\u00fasqueda,edge",
             "recuweb_url": "http://es.recuweb.com/bing/noticias.terra.es/2015/04/cosas-que-puedes-hacer-en-el-nuevo-navegador-de-microsoft",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
             "source_url": "http://noticias.terra.es/tecnologia/que-diferencia-hay-entre-edge-y-internet-explorer,eb5554a0f14a647215e09362041b47e4rqotRCRD.html"
@@ -105,10 +86,30 @@
             "snippet": "B\u00fasqueda inteligente: Con su motor de b\u00fasqueda por defecto Bing, Microsoft Edge puede sugerir resultados de b\u00f1usqueda seg\u00fan nuestros datos de navegaci\u00f3n, pero tambi\u00e9n resultados instant\u00e1neos seg\u00fan los mismos patrones. Cortana: El asistente...",
             "date": "2015-04-30",
             "categories": "bing",
-            "tags": "datos,motor,motor-de-b\u00fasqueda,b\u00fasqueda,microsoft,edge,navegador,bing,cortana",
+            "tags": "datos,motor,microsoft,edge,navegador,b\u00fasqueda,bing,cortana",
             "recuweb_url": "http://es.recuweb.com/bing/adslzone.net/2015/04/todas-las-novedades-del-navegador-microsoft-edge",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
             "source_url": "http://adslzone.net/2015/04/30/novedades-microsoft-edge/"
+        },
+        "lavanguardia.com/2015/04/40-a%C3%B1os-de-la-ca%C3%ADda-saig%C3%B3n-guerra-vietnam-en-cifras": {
+            "title": "40 a\u00f1os de la ca\u00edda de Saig\u00f3n: La Guerra de Vietnam en cifras...",
+            "snippet": "La premisa era una canci\u00f3n navide\u00f1a. Cuando el cl\u00e1sico I'm Dreaming of a White Christmas de Bing Crosby sonase por la radio de las fuerzas estadounidenses quer\u00eda decir que se iniciaba la operaci\u00f3n Frequent Wind, la mayor evacuaci\u00f3n en...",
+            "date": "2015-04-29",
+            "categories": "radio,bing",
+            "tags": "radio,fuerzas,bing,bing_crosby,crosby,white,white_christmas,christmas,canci\u00f3n,ca\u00edda,dreaming",
+            "recuweb_url": "http://es.recuweb.com/bing/lavanguardia.com/2015/04/40-a%C3%B1os-de-la-ca%C3%ADda-saig%C3%B3n-guerra-vietnam-en-cifras",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
+            "source_url": "http://lavanguardia.com/internacional/20150430/54430301719/40-anos-caida-saigon.html"
+        },
+        "noticiasdenavarra.com/2015/04/la-ca%C3%ADda-de-saigon-40-a%C3%B1os-%C3%A9xodo-y-derrota": {
+            "title": "La ca\u00edda de Saigon, 40 a\u00f1os de \u00e9xodo y derrota...",
+            "snippet": "La Radio de las Fuerzas Estadounidense retransmitir\u00eda I'm Dreaming of a White Christmas de Bing Crosby y esa ser\u00eda la se\u00f1al para comenzar a preparar el \u00e9xodo. Unos dicen que corrieron al ritmo de esa canci\u00f3n el d\u00eda 29, otros que no la...",
+            "date": "2015-04-29",
+            "categories": "bing,radio",
+            "tags": "canci\u00f3n,d\u00eda,bing,bing_crosby,crosby,white,white_christmas,christmas,fuerzas,radio,ca\u00edda,dreaming",
+            "recuweb_url": "http://es.recuweb.com/radio/noticiasdenavarra.com/2015/04/la-ca%C3%ADda-de-saigon-40-a%C3%B1os-%C3%A9xodo-y-derrota",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=es",
+            "source_url": "http://noticiasdenavarra.com/2015/04/29/mundo/la-caida-de-saigon-40-anos-de-exodo-y-derrota"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformato",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/microformato/",
@@ -21,20 +21,11 @@
             "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
             "source_url": "http://rockol.it/recensioni-musicali/dischi/5982/shawn-mendes-handwritten"
         },
-        "elcolombiano.com/2015/03/revoluci%C3%B3n-femenina-hace-gozar-al-pa%C3%ADs-el-colombiano": {
-            "title": "Revoluci\u00f3n femenina hace gozar al pa\u00eds - El Colombiano...",
-            "snippet": "El ColombianoRevoluci\u00f3n femenina hace gozar al pa\u00edsEl Colombiano84 85 end 86 87 Macro Micro formato CIFRA 88 if((Micro_Cifra &&!=\"\") && (Micro_Cifra_Texto &&!=\"\")) 89 foreach(Micro_Cif in ()) 90 set (indexActual=velocityCount - 1)...",
-            "date": "2015-03-08",
-            "tags": "macro,macro_micro,micro,colombiano,end,formato,cifra,texto,foreach,cif,indexactual,velocity",
-            "recuweb_url": "http://es.recuweb.com/elcolombiano.com/2015/03/revoluci%C3%B3n-femenina-hace-gozar-al-pa%C3%ADs-el-colombiano",
-            "resource_url": "http://news.google.es/?hl=es&q=microformato%2Bmicroformato&output=atom&nord=1",
-            "source_url": "http://elcolombiano.com/revolucion-femenina-hace-gozar-al-pais-ED1445655"
-        },
         "elcolombiano.com/2015/03/ecopetrol-medir%C3%A1-el-aceite-a-echeverry-como-l%C3%ADder-colombiano": {
             "title": "Ecopetrol medir\u00e1 el aceite a Echeverry como l\u00edder - El Colombiano...",
             "snippet": "El ColombianoEcopetrol medir\u00e1 el aceite a Echeverry como l\u00edderEl Colombiano84 85 end 86 87 Macro Micro formato CIFRA 88 if((Micro_Cifra &&!=\"\") && (Micro_Cifra_Texto &&!=\"\")) 89 foreach(Micro_Cif in ()) 90 set (indexActual=velocityCount - 1)y m\u00e1s...",
             "date": "2015-03-06",
-            "tags": "macro,macro_micro,micro,colombiano,end,formato,cifra,texto,foreach,cif,indexactual,velocity",
+            "tags": "micro,formato",
             "recuweb_url": "http://es.recuweb.com/elcolombiano.com/2015/03/ecopetrol-medir%C3%A1-el-aceite-a-echeverry-como-l%C3%ADder-colombiano",
             "resource_url": "http://news.google.es/?hl=es&q=microformato&output=atom&nord=1",
             "source_url": "http://elcolombiano.com/ecopetrol-medira-el-aceite-a-echeverry-como-lider-BB1434553"

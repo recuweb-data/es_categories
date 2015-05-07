@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ajedrez",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ajedrez/",
@@ -19,7 +19,7 @@
             "categories": "ajedrez",
             "tags": "juego,ajedrez",
             "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2015/03/cuando-juego-ajedrez",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez+ajedrez/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ku409_cuando-juego-ajedrez_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ku409_cuando-juego-ajedrez_fun"
         },
@@ -31,45 +31,9 @@
             "categories": "ajedrez",
             "tags": "ajedrez,juego,partida,partida-de-ajedrez,canal",
             "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2015/03/sketch-1-el-ajedrez",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez+ajedrez/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez/0?af=1",
             "source_url": "http://dailymotion.com/video/x2kape7_sketch-1-el-ajedrez_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2kape7_sketch-1-el-ajedrez_fun"
-        },
-        "dailymotion.com/2015/03/deep-fritz-14-vs-saros": {
-            "title": "DEEP FRITZ 14 vs DEEP SAROS...",
-            "snippet": "DEEP SAROS, un nuevo robot ajedrec\u00edstico con una fuerza espectacular y no ha participado en el \u00faltimo TCEC (Thoresen Chess Engines Competition) COMPETENCIA DE MOTORES DE AJEDREZ. Lo hemos enfrentado contra el conocido DEEP FRITZ 14. Las partidas...",
-            "date": "2015-03-18",
-            "author_name": "josegalvezc",
-            "categories": "ajedrez",
-            "tags": "ajedrez",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2015/03/deep-fritz-14-vs-saros",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez+ajedrez/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2jwmgz_deep-fritz-14-vs-deep-saros_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jwmgz_deep-fritz-14-vs-deep-saros_sport"
-        },
-        "youtube.com/2014/12/v%C3%ADdeo-extra-ajedrez-w-kaumaru": {
-            "title": "V\u00eddeo extra, Ajedrez w/Kaumaru...",
-            "snippet": "V\u00eddeo extra, Ajedrez w/Kaumaru Canal de Kau: Canal del Creador: AVISO: Como ya he dicho decenas de veces no va a haber survival,... From: ElRichMC - Minecraft T\u00e9cnico, PvP & CTMs Views: 121605 7390 ratings Time: 25:01 More in Gaming...",
-            "date": "2014-12-07",
-            "author_name": "ElRichMC - Minecraft T\u00e9cnico, PvP & CTMs",
-            "categories": "ajedrez",
-            "tags": "ajedrez,canal",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/youtube.com/2014/12/v%C3%ADdeo-extra-ajedrez-w-kaumaru",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez%2Bajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=NcYg-iABhPs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/NcYg-iABhPs/0.jpg"
-        },
-        "dailymotion.com/2014/11/jaque-y-mate-un-problema-que-utilizaban-los-entrenadores-para-talentos": {
-            "title": "JAQUE Y JAQUE MATE y un problema que utilizaban los entrenadores para talentos en la URSS.",
-            "snippet": "Las amenazas al rey(jaque) y la conclusi\u00f3n de una partida de ajedrez (jaque mate). El problema consiste en capturar todos los peones con la dama blanca e ignorar la presencia de los reyes, Juegan: josegalvezcTags: Jaque Mate Jaque Ajedrez...",
-            "date": "2014-11-28",
-            "author_name": "josegalvezc",
-            "categories": "ajedrez",
-            "tags": "ajedrez,partida,partida-de-ajedrez,josegalvezctags",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2014/11/jaque-y-mate-un-problema-que-utilizaban-los-entrenadores-para-talentos",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez+ajedrez/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2bb0wh_jaque-y-jaque-mate-y-un-problema-que-utilizaban-los-entrenadores-para-talentos-en-la-urss_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bb0wh_jaque-y-jaque-mate-y-un-problema-que-utilizaban-los-entrenadores-para-talentos-en-la-urss_sport"
         },
         "youtube.com/2014/11/ajedrez-campeonato-mundial-2014-segunda-partida-carlsen-anand": {
             "title": "AJEDREZ - Campeonato mundial Ajedrez 2014 (SEGUNDA PARTIDA) Carlsen Anand - Mundial ajedrez 2014...",
@@ -89,47 +53,83 @@
             "date": "2014-11-05",
             "author_name": "josegalvezc",
             "categories": "ajedrez",
-            "tags": "ajedrez,josegalvezctags",
+            "tags": "ajedrez",
             "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2014/11/movimientos-de-las-piezas-ajedrez",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez+ajedrez/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez/0?af=1",
             "source_url": "http://dailymotion.com/video/x29ejsi_movimientos-de-las-piezas-de-ajedrez_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x29ejsi_movimientos-de-las-piezas-de-ajedrez_sport"
         },
         "youtube.com/2014/10/los-secretos-y-t%C3%A9cnicas-para-mejorar-en-ajedrez-mi-andrew-martin": {
             "title": "\u00a1Los SECRETOS y T\u00c9CNICAS para mejorar en ajedrez! - MI Andrew Martin...",
-            "snippet": "\u00a1Los SECRETOS y T\u00c9CNICAS para mejorar en ajedrez! - MI Andrew Martin DVD: 10 SECRETOS DE UN GM: M\u00c1S:... From: Views: 25033 231 ratings Time: 18:31 More in Education...",
+            "snippet": "\u00a1Los SECRETOS y T\u00c9CNICAS para mejorar en ajedrez! - MI Andrew Martin DVD: 10 SECRETOS DE UN GM: M\u00c1S:... From: Views: 25455 234 ratings Time: 18:31 More in Education...",
             "date": "2014-10-16",
             "author_name": "ClasesDeAjedrez.NET",
             "categories": "ajedrez",
-            "tags": "ajedrez,dvd",
+            "tags": "mejorar,ajedrez,secretos,dvd,education",
             "recuweb_url": "http://es.recuweb.com/ajedrez/youtube.com/2014/10/los-secretos-y-t%C3%A9cnicas-para-mejorar-en-ajedrez-mi-andrew-martin",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=B6zyGiPY4MY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/B6zyGiPY4MY/0.jpg"
         },
-        "youtube.com/2014/10/documental-discovery-channel-en-espa%C3%B1ol-asesino-serie-el-del-ajedrez": {
-            "title": "Documental Discovery Channel en Espa\u00f1ol. Asesino en Serie \"El Asesino del Ajedrez\"...",
-            "snippet": "Documental Discovery Channel en Espa\u00f1ol. Asesino en Serie \"El Asesino del Ajedrez\" Documental Discovery Channel en Espa\u00f1ol. Asesino en Serie \"El Asesino del Ajedrez\" Aleksandr Pichushkin (Ruso:), (n. 9 de abril de 1974 en Mytishchi, \u00d3blast...",
-            "date": "2014-10-15",
-            "author_name": "YouTube Documentales",
+        "dailymotion.com/2014/09/jden-macro-region-huanuco-2014-balonmano-y-ajedrez": {
+            "title": "JDEN Macro Region Huanuco 2014(Balonmano y Ajedrez)...",
+            "snippet": "Macro Regi\u00f3n: Hu\u00e1nuco. Disciplina: Balonmano y Ajedrez. El deporte sigue llenando de alegr\u00eda a todos los participantes de los Juegos Deportivos Escolares Nacionales: catedradeportivaTags: Posted: 23 September 2014Rating:: 0...",
+            "date": "2014-09-23",
+            "author_name": "catedradeportiva",
+            "categories": "deporte,balonmano,ajedrez",
+            "tags": "juegos,juegos_deportivos,deportivos,escolares,escolares_nacionales,nacionales,macro,macro_regi\u00f3n,regi\u00f3n,hu\u00e1nuco,ajedrez,disciplina,catedradeportivatags",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2014/09/jden-macro-region-huanuco-2014-balonmano-y-ajedrez",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez/0?af=1",
+            "source_url": "http://dailymotion.com/video/x26g9l1_jden-macro-region-huanuco-2014-balonmano-y-ajedrez_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x26g9l1_jden-macro-region-huanuco-2014-balonmano-y-ajedrez_sport"
+        },
+        "youtube.com/2014/09/la-f%C3%B3rmula-secreta-para-mejorar-tu-ajedrez-gm-roman-dzindzichashvili": {
+            "title": "La f\u00f3rmula SECRETA para mejorar tu ajedrez! - GM Roman Dzindzichashvili...",
+            "snippet": "La f\u00f3rmula SECRETA para mejorar tu ajedrez! - GM Roman Dzindzichashvili DVD: 10 SECRETOS DE UN GM: M\u00c1S:... From: Views: 45146 291 ratings Time: 16:28 More in Education...",
+            "date": "2014-09-22",
+            "author_name": "ClasesDeAjedrez.NET",
+            "categories": "ajedrez",
+            "tags": "mejorar,ajedrez,dvd,secretos,education",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/youtube.com/2014/09/la-f%C3%B3rmula-secreta-para-mejorar-tu-ajedrez-gm-roman-dzindzichashvili",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=eBS9Uup9fVM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/eBS9Uup9fVM/0.jpg"
+        },
+        "dailymotion.com/2014/09/juegos-escolares-nacionales-macro-regi%C3%B3n-huanuco-ajedrez": {
+            "title": "Juegos Escolares Nacionales-Macro Regi\u00f3n Huanuco-Ajedrez...",
+            "snippet": "Macro Regi\u00f3n: Hu\u00e1nuco. Disciplina: Ajedrez -Categor\u00eda B. Comentarista Deportivo: Julio Nestor Garrido Huarancca. V\u00eddeo de los Juegos Deportivos Nacionales Escolares 2014Author: catedradeportivaTags: Ajedrez Juegos Deportivos Escolares Huanuco...",
+            "date": "2014-09-20",
+            "author_name": "catedradeportiva",
+            "categories": "ajedrez",
+            "tags": "juegos,juegos_deportivos,deportivos,escolares,hu\u00e1nuco,nacionales,macro,macro_regi\u00f3n,regi\u00f3n,escolares_nacionales,ajedrez,disciplina,catedradeportivatags",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/dailymotion.com/2014/09/juegos-escolares-nacionales-macro-regi%C3%B3n-huanuco-ajedrez",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ajedrez/0?af=1",
+            "source_url": "http://dailymotion.com/video/x26bp3i_juegos-escolares-nacionales-macro-region-huanuco-ajedrez_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x26bp3i_juegos-escolares-nacionales-macro-region-huanuco-ajedrez_sport"
+        },
+        "youtube.com/2014/09/curso-audiovisual-de-ajedrez-2011-espa%C3%B1ol-entrega-2-libro-completo": {
+            "title": "Curso Audiovisual de Ajedrez 2011 Espa\u00f1ol - Entrega 2 (Libro Completo)...",
+            "snippet": "Curso Audiovisual de Ajedrez 2011 Espa\u00f1ol - Entrega 2 (Libro Completo) Entrega N\u00famero 2: - Introducci\u00f3n: Resumen de la entrega - Apertura: El enroque r\u00e1pido - T\u00e1ctica: C\u00f3mo encontrar las combinaciones - Estrategia: Amenaza y defensa: los...",
+            "date": "2014-09-01",
+            "author_name": "studiocelentano",
             "categories": "ajedrez",
             "tags": "ajedrez",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/youtube.com/2014/10/documental-discovery-channel-en-espa%C3%B1ol-asesino-serie-el-del-ajedrez",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez%2Bajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=RDoiAlXumFU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/RDoiAlXumFU/0.jpg"
+            "recuweb_url": "http://es.recuweb.com/ajedrez/youtube.com/2014/09/curso-audiovisual-de-ajedrez-2011-espa%C3%B1ol-entrega-2-libro-completo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Y7XT6wNIVOE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Y7XT6wNIVOE/0.jpg"
         },
-        "youtube.com/2014/10/tutorial-de-ajedrez-aprenda-las-reglas-b%C3%A1sicas-en-menos-35-minutos": {
-            "title": "Tutorial de Ajedrez - Aprenda las Reglas B\u00e1sicas en menos de 35 minutos...",
-            "snippet": "Tutorial de Ajedrez - Aprenda las Reglas B\u00e1sicas en menos de 35 minutos... En este video se pueden aprender las reglas b\u00e1sicas del Ajedrez como para jugar una partida entera de manera reglamentaria. El video fue creado y producido por la Escuela...",
-            "date": "2014-10-06",
-            "author_name": "javiernez",
-            "categories": "ajedrez,escuela",
-            "tags": "partida,ajedrez",
-            "recuweb_url": "http://es.recuweb.com/escuela/youtube.com/2014/10/tutorial-de-ajedrez-aprenda-las-reglas-b%C3%A1sicas-en-menos-35-minutos",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez%2Bajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=35DzQCv_tCA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/35DzQCv_tCA/0.jpg"
+        "youtube.com/2014/07/la-mejor-partida-de-ajedrez-todos-los-tiempos-del-siglo": {
+            "title": "La mejor partida de ajedrez de todos los tiempos, la partida del siglo...",
+            "snippet": "La mejor partida de ajedrez de todos los tiempos, la partida del siglo SUSCR\u00cdBETE La mejor partida de ajedrez de todos los tiempos, la partida del siglo Comp\u00e1rtelo y haz un me gusta amigo. No te pierdas M\u00e1s Videos!! Suscribete!!: Canal... From:...",
+            "date": "2014-07-12",
+            "author_name": "Reydama",
+            "categories": "ajedrez",
+            "tags": "partida,partida-de-ajedrez,ajedrez,canal",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/youtube.com/2014/07/la-mejor-partida-de-ajedrez-todos-los-tiempos-del-siglo",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ajedrez&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=SyMKEgcA7yQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/SyMKEgcA7yQ/0.jpg"
         }
     }
 }

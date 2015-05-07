@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "beisbol",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/beisbol/",
@@ -11,26 +11,15 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/beisbol/beisbol/blogs.json"
     },
     "items": {
-        "santiago30caballeros.blogspot.com/2015/05/miniaturas-de-beisbol-a-quien-va-usted": {
-            "title": "MINIATURAS DE BEISBOL \u00bfA quien va usted?",
-            "snippet": "El mundo del boxeo es due\u00f1o de las noticias deportivas este fin de semana, cuando se celebra este s\u00e1bado la MegaPelea entre Floyd Mayweather y Manny Pacquiao.. Este combate generar\u00e1 tanto dinero que no habr\u00e1...",
-            "date": "2015-05-01",
-            "author_name": "JUNIOR SAINT HILAIRE",
-            "categories": "boxeo,beisbol",
-            "tags": "beisbol",
-            "recuweb_url": "http://es.recuweb.com/beisbol/santiago30caballeros.blogspot.com/2015/05/miniaturas-de-beisbol-a-quien-va-usted",
-            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://santiago30caballeros.blogspot.com/2015/05/miniaturas-de-beisbol-quien-va-usted.html"
-        },
         "mariadaniela412.wordpress.com/2015/04/el-b%C3%A9isbol-menor-es-un-escape-de-la-violencia": {
             "title": "El b\u00e9isbol menor es un escape de la violencia...",
             "snippet": "La ayuda de los padres es fundamental en el b\u00e9isbol Padres inscriben a sus hijos en escuelas de b\u00e9isbol menor para mantenerlos ocupados y alejados de vicios que puedan...",
             "date": "2015-04-30",
             "author_name": "danielapagostini",
             "categories": "escuela,beisbol",
-            "tags": "b\u00e9isbol,padres",
+            "tags": "padres,b\u00e9isbol",
             "recuweb_url": "http://es.recuweb.com/beisbol/mariadaniela412.wordpress.com/2015/04/el-b%C3%A9isbol-menor-es-un-escape-de-la-violencia",
-            "resource_url": "http://es.search.wordpress.com/?q=beisbol%2Bbeisbol&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=beisbol&f=feed&page=1",
             "source_url": "http://mariadaniela412.wordpress.com/2015/04/30/el-beisbol-menor-es-un-escape-de-la-violencia/"
         },
         "zonadestrike.wordpress.com/2015/04/comienza-hoy-el-xxxix-campeonato-de-b%C3%A9isbol-granma-zona": {
@@ -39,9 +28,9 @@
             "date": "2015-04-28",
             "author_name": "Ibrah\u00edn S\u00e1nchez Carrillo",
             "categories": "beisbol",
-            "tags": "ahora,categor\u00eda,campeonato,b\u00e9isbol,temporada,cuba",
+            "tags": "ahora,campeonato,b\u00e9isbol,temporada",
             "recuweb_url": "http://es.recuweb.com/beisbol/zonadestrike.wordpress.com/2015/04/comienza-hoy-el-xxxix-campeonato-de-b%C3%A9isbol-granma-zona",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://zonadestrike.wordpress.com/2015/04/28/comienza-hoy-el-xxxix-campeonato-de-beisbol-de-granma/"
         },
         "universiada2015.uanl.mx/2015/04/listos-los-cuartos-en-beisbol-universiada2015": {
@@ -50,9 +39,9 @@
             "date": "2015-04-27",
             "author_name": "Dario Ramos",
             "categories": "beisbol",
-            "tags": "abril,celebraci\u00f3n,b\u00e9isbol,final,nacional",
+            "tags": "abril,celebraci\u00f3n,lunes,b\u00e9isbol,mejor,final,nacional",
             "recuweb_url": "http://es.recuweb.com/beisbol/universiada2015.uanl.mx/2015/04/listos-los-cuartos-en-beisbol-universiada2015",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://universiada2015.uanl.mx/celebraran-cuartos-de-final-en-beisbol/"
         },
         "cuban-play.com/2015/04/liv%C3%A1n-es-ahora-un-maestro-del-b%C3%A9isbol-cuban-play": {
@@ -61,10 +50,32 @@
             "date": "2015-04-27",
             "author_name": "cuban-play",
             "categories": "deporte,beisbol,play",
-            "tags": "ahora,deporte,b\u00e9isbol",
+            "tags": "ahora,deporte,maestro,b\u00e9isbol",
             "recuweb_url": "http://es.recuweb.com/play/cuban-play.com/2015/04/liv%C3%A1n-es-ahora-un-maestro-del-b%C3%A9isbol-cuban-play",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cuban-play.com/livan-es-ahora-un-maestro-del-beisbol-4238/"
+        },
+        "eluniversal.com.co/2015/04/fallece-humberto-bayuelo-zeti%C3%A9n-vieja-gloria-del-b%C3%A9isbol-de-bol%C3%ADvar": {
+            "title": "Fallece Humberto Bayuelo Zeti\u00e9n, vieja gloria del b\u00e9isbol de Bol\u00edvar...",
+            "snippet": "Muri\u00f3 en Cartagena Humberto Bayuelo Zeti\u00e9n, una de las glorias del b\u00e9isbol del departamento de Bol\u00edvar y quien por siempre ser\u00e1 considerado como el mejor segunda base de la selecci\u00f3n colombiana de b\u00e9isbol amateur,...",
+            "date": "2015-04-25",
+            "author_name": "eotero",
+            "categories": "beisbol",
+            "tags": "humberto,vieja,b\u00e9isbol,muri\u00f3,ser\u00e1,mejor",
+            "recuweb_url": "http://es.recuweb.com/beisbol/eluniversal.com.co/2015/04/fallece-humberto-bayuelo-zeti%C3%A9n-vieja-gloria-del-b%C3%A9isbol-de-bol%C3%ADvar",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://eluniversal.com.co/deportes/fallece-humberto-bayuelo-zetien-vieja-gloria-del-beisbol-de-bolivar-191648"
+        },
+        "universobeisbol.mlblogs.com/2015/04/los-retos-del-b%C3%A9isbol-internacional-universo": {
+            "title": "Los retos del b\u00e9isbol internacional Universo B\u00e9isbol...",
+            "snippet": "Por Reynaldo Cruz La celebraci\u00f3n en el pr\u00f3ximo mes de noviembre del torneo Premier 12 tiene a muchos seguidores del b\u00e9isbol de selecciones nacionales a la expectativa, toda vez que se trata de un torneo similar al...",
+            "date": "2015-04-24",
+            "author_name": "universobeisbol",
+            "categories": "beisbol",
+            "tags": "tiene,celebraci\u00f3n,b\u00e9isbol",
+            "recuweb_url": "http://es.recuweb.com/beisbol/universobeisbol.mlblogs.com/2015/04/los-retos-del-b%C3%A9isbol-internacional-universo",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://universobeisbol.mlblogs.com/2015/04/24/los-retos-del-beisbol-internacional/"
         },
         "listindiario.com/2015/04/rd-debe-usar-b%C3%A9isbol-como-marca-pa%C3%ADs": {
             "title": "RD debe usar b\u00e9isbol como marca-pa\u00eds -...",
@@ -72,32 +83,10 @@
             "date": "2015-04-24",
             "author_name": "desconocido",
             "categories": "beisbol",
-            "tags": "presidente,p\u00e9rez,b\u00e9isbol,pa\u00eds",
+            "tags": "b\u00e9isbol,latino,marca,pa\u00eds,encuentro,presidente",
             "recuweb_url": "http://es.recuweb.com/beisbol/listindiario.com/2015/04/rd-debe-usar-b%C3%A9isbol-como-marca-pa%C3%ADs",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://listindiario.com/movil/article?id=364608"
-        },
-        "universobeisbol.mlblogs.com/2015/04/ay-b%C3%A9isbol-en-cuba-qu%C3%A9-dif%C3%ADcil-lo-que-te-toca-universo": {
-            "title": "Ay, b\u00e9isbol en Cuba \u00a1qu\u00e9 dif\u00edcil lo que te toca! Universo B\u00e9isbol...",
-            "snippet": "Por Reynaldo Cruz Es verdaderamente doloroso ver hoy el b\u00e9isbol en Cuba; sobre todo para una generaci\u00f3n como la m\u00eda, que creci\u00f3 bajo la emoci\u00f3n de ver a L\u00e1zaro Junco derribar el r\u00e9cord de jonrones del gigante Antonio...",
-            "date": "2015-04-21",
-            "author_name": "universobeisbol",
-            "categories": "beisbol",
-            "tags": "reynaldo,reynaldo_cruz,cruz,universo,universo_b\u00e9isbol,b\u00e9isbol,cuba",
-            "recuweb_url": "http://es.recuweb.com/beisbol/universobeisbol.mlblogs.com/2015/04/ay-b%C3%A9isbol-en-cuba-qu%C3%A9-dif%C3%ADcil-lo-que-te-toca-universo",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://universobeisbol.mlblogs.com/2015/04/21/ay-beisbol-en-cuba-que-dificil-lo-que-te-toca/"
-        },
-        "universobeisbol.mlblogs.com/2015/04/54-snb-seleccionado-el-todos-estrellas-universo-b%C3%A9isbol": {
-            "title": "54 SNB: Seleccionado el Todos Estrellas Universo B\u00e9isbol...",
-            "snippet": "Por Reynaldo Cruz Con Yander Guevara como Jugador M\u00e1s Valioso de la postemporada y Alfredo Despaigne como el MVP de la campa\u00f1a regular, se divulg\u00f3 el Todos Estrellas de la 54 Serie Nacional de B\u00e9isbol, dado a...",
-            "date": "2015-04-17",
-            "author_name": "universobeisbol",
-            "categories": "estrella,beisbol",
-            "tags": "serie,nacional,campa\u00f1a,jugador,reynaldo,reynaldo_cruz,cruz,universo,universo_b\u00e9isbol,b\u00e9isbol",
-            "recuweb_url": "http://es.recuweb.com/beisbol/universobeisbol.mlblogs.com/2015/04/54-snb-seleccionado-el-todos-estrellas-universo-b%C3%A9isbol",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://universobeisbol.mlblogs.com/2015/04/17/54-snb-seleccionado-el-todos-estrellas/"
         },
         "cubanet.org/2015/04/crisis-del-b%C3%A9isbol-villaclare%C3%B1o-pelotero-atrapado-en-salida-ilegal": {
             "title": "Crisis del b\u00e9isbol villaclare\u00f1o: Pelotero atrapado en salida ilegal del...",
@@ -105,21 +94,32 @@
             "date": "2015-04-17",
             "author_name": "Jos\u00e9 Luis Le\u00f3n P\u00e9rez",
             "categories": "deporte,beisbol",
-            "tags": "pa\u00eds,deporte,medida,abril,pasado,b\u00e9isbol,dos",
+            "tags": "pa\u00eds,deporte,medida,abril,dio,b\u00e9isbol,dos",
             "recuweb_url": "http://es.recuweb.com/beisbol/cubanet.org/2015/04/crisis-del-b%C3%A9isbol-villaclare%C3%B1o-pelotero-atrapado-en-salida-ilegal",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cubanet.org/actualidad-destacados/crisis-del-beisbol-villaclareno-pelotero-atrapado-en-salida-ilegal-del-pais/"
         },
-        "autobild.es/2015/04/el-jugador-de-b%C3%A9isbol-millonario-que-vive-en-una-bulli-estilo": {
-            "title": "El jugador de b\u00e9isbol millonario que vive en una 'Bulli'-- Estilo de...",
-            "snippet": "Daniel Norris es jugador de b\u00e9isbol y gana m\u00e1s de dos millones de euros al a\u00f1o. Aun as\u00ed le gusta m\u00e1s la vida austera y por eso vive en una autocaravana, un.",
-            "date": "2015-04-09",
-            "author_name": "Sara Soria",
+        "martinono.blogspot.com/2015/03/utilizar-administrador-usando-visual-studio-2013": {
+            "title": "Utilizar administrador usando Visual Studio 2013...",
+            "snippet": "... barra de navegaci\u00f3n lo siguiente: localhost:8089/?... el Instituto Tecnol\u00f3gico del Istmo. Me apasiona la tecnolog\u00eda, me encanta la programaci\u00f3n, el b\u00e9isbol y adem\u00e1s juego b\u00e9isbol.",
+            "date": "2015-03-28",
+            "author_name": "Martin Cecilio",
+            "categories": "tecnologia,beisbol",
+            "tags": "juego,instituto,b\u00e9isbol",
+            "recuweb_url": "http://es.recuweb.com/beisbol/martinono.blogspot.com/2015/03/utilizar-administrador-usando-visual-studio-2013",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://martinono.blogspot.com/2015/03/utilizar-administrador-aspnet-usando.html"
+        },
+        "cubanet.org/2015/03/los-padres-costean-el-b%C3%A9isbol-en-las-categor%C3%ADas-infantiles-cubanet": {
+            "title": "Los padres costean el b\u00e9isbol en las categor\u00edas infantiles Cubanet...",
+            "snippet": "-Las categor\u00edas infantiles del b\u00e9isbol cubano son rescatadas por los padres de los peloteritos, pues, al parecer, el Instituto Nacional de Deportes, Educaci\u00f3n F\u00edsica y Recreaci\u00f3n (INDER) no tiene recursos para ofrecer los...",
+            "date": "2015-03-18",
+            "author_name": "Anddy Sierra Alvarez",
             "categories": "beisbol",
-            "tags": "eso,jugador,daniel,b\u00e9isbol,vive,dos",
-            "recuweb_url": "http://es.recuweb.com/beisbol/autobild.es/2015/04/el-jugador-de-b%C3%A9isbol-millonario-que-vive-en-una-bulli-estilo",
-            "resource_url": "http://www.google.com/search?q=beisbol%2Bbeisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://autobild.es/noticias/daniel-norris-millonario-jugador-beisbol-vive-caravana-250373"
+            "tags": "tiene,instituto,nacional,padres,b\u00e9isbol,deportes",
+            "recuweb_url": "http://es.recuweb.com/beisbol/cubanet.org/2015/03/los-padres-costean-el-b%C3%A9isbol-en-las-categor%C3%ADas-infantiles-cubanet",
+            "resource_url": "http://www.google.com/search?q=beisbol&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cubanet.org/actualidad-destacados/los-padres-costean-el-beisbol-en-las-categorias-infantiles/"
         }
     }
 }

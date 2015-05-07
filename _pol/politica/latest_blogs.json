@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "politica",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/politica/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/politica/politica/blogs.json"
     },
     "items": {
-        "havanatimes.org/2015/05/una-pol%C3%ADtica-especial-para-inmigrantes-cubanos-havana": {
-            "title": "Una pol\u00edtica especial para inmigrantes cubanos - Havana...",
-            "snippet": "El acercamiento ha reenfocado la atenci\u00f3n en la pol\u00edtica norteamericana que por casi cinco d\u00e9cadas ha permitido a los cubanos emigrar a los Estados Unidos sin l\u00edmite alguno, un privilegio que el gobierno estadounidense...",
-            "date": "2015-05-02",
-            "author_name": "Circles Robinson",
+        "kaosenlared.net/2015/05/la-presa-pol%C3%ADtica-noelia-cotelo-deja-huelga-de-hambre": {
+            "title": "La presa pol\u00edtica Noelia Cotelo deja la Huelga de Hambre a los...",
+            "snippet": "Noelia Cotelo Riveiro ha dejado huelga de hambre que ha mantenido durante 37 d\u00edas, desde el 23 de marzo, en la c\u00e1rcel de Brieva, por que se le permita disponer de sus efectos personales y de aseo y se deje de poner...",
+            "date": "2015-05-03",
+            "author_name": "Administradora",
             "categories": "politica",
-            "tags": "estados,estados_unidos,unidos,d\u00e9cadas,pol\u00edtica,gobierno",
-            "recuweb_url": "http://es.recuweb.com/politica/havanatimes.org/2015/05/una-pol%C3%ADtica-especial-para-inmigrantes-cubanos-havana",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://havanatimes.org/sp/?p=105723"
+            "tags": "efectos,c\u00e1rcel,pol\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/politica/kaosenlared.net/2015/05/la-presa-pol%C3%ADtica-noelia-cotelo-deja-huelga-de-hambre",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://kaosenlared.net/la-presa-politica-noelia-cotelo-deja-la-huelga-de-hambre-a-los-37dias-para-enfrentar-el-juicio/"
+        },
+        "kaosenlared.net/2015/05/persiste-la-pol%C3%ADtica-de-estado-los-falsos-positivos": {
+            "title": "Persiste la pol\u00edtica de estado de los FALSOS POSITIVOS en...",
+            "snippet": "Fiscal\u00eda investiga de estos asesinatos, 4200 militares y 22 generales; pero la impunidad reina, y esta pr\u00e1ctica contin\u00faa, ya que el problema de fondo es que es una pol\u00edtica de Estado, como lo denuncia El CINEP.",
+            "date": "2015-05-03",
+            "author_name": "Ojos para la Paz Colombia",
+            "categories": "politica",
+            "tags": "denuncia,pol\u00edtica,estado",
+            "recuweb_url": "http://es.recuweb.com/politica/kaosenlared.net/2015/05/persiste-la-pol%C3%ADtica-de-estado-los-falsos-positivos",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://kaosenlared.net/persiste-la-politica-de-estado-de-los-falsos-positivos-en-colombia/"
+        },
+        "taringa.net/2015/05/quise-hacer-una-web-de-politica-y-salio-muy-mal-taringa": {
+            "title": "Quise hacer una Web de politica y salio muy mal!!! - Taringa!",
+            "snippet": "Hola... les cuento que hace tiempo quise hacer una web de prometia tocar temas a niveles internacionales utilizando la plataforma gratuita de bligoo, so\u00f1ando con que seria conocida y reconocida por tocar...",
+            "date": "2015-05-03",
+            "author_name": "desconocido",
+            "categories": "politica",
+            "tags": "hace,tiempo,plataforma,mal,politica",
+            "recuweb_url": "http://es.recuweb.com/politica/taringa.net/2015/05/quise-hacer-una-web-de-politica-y-salio-muy-mal-taringa",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://taringa.net/posts/info/18640901/Quise-hacer-una-Web-de-politica-y-salio-muy-mal.html"
         },
         "noticias.lainformacion.com/2015/05/primero-mayo-toxo-ccoo-denuncia-la-pol%C3%ADtica-de-resignaci%C3%B3n": {
             "title": "Primero mayo. Toxo (ccoo) denuncia la \"pol\u00edtica de resignaci\u00f3n\" de...",
@@ -28,9 +50,9 @@
             "date": "2015-05-01",
             "author_name": "desconocido",
             "categories": "politica",
-            "tags": "antes,frente,frente-al-paro,paro,mariano,mariano_rajoy,rajoy,pol\u00edtica,secretario,mayo,presidente,gobierno",
+            "tags": "antes,denunci\u00f3,pol\u00edtica,secretario,secretario-general,general,denuncia,mayo,presidente,gobierno,frente",
             "recuweb_url": "http://es.recuweb.com/politica/noticias.lainformacion.com/2015/05/primero-mayo-toxo-ccoo-denuncia-la-pol%C3%ADtica-de-resignaci%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/economia-general/primero-mayo-toxo-ccoo-denuncia-la-politica-de-resignacion-de-rajoy-frente-al-paro_fiRs88wJGt2yuresP2NnU3/"
         },
         "abc.com.py/2015/05/propaganda-pol%C3%ADtica-cronicas-ciudadanas-abc-color-digital": {
@@ -39,20 +61,20 @@
             "date": "2015-05-01",
             "author_name": "desconocido",
             "categories": "politica",
-            "tags": "actual,pol\u00edticos,plena,d\u00eda,propaganda,pol\u00edtica",
+            "tags": "favor,pol\u00edticos,plena,d\u00eda,pol\u00edtica",
             "recuweb_url": "http://es.recuweb.com/politica/abc.com.py/2015/05/propaganda-pol%C3%ADtica-cronicas-ciudadanas-abc-color-digital",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abc.com.py/cronicas-ciudadanas/propaganda-politica-1362286.html"
         },
         "noticias.lainformacion.com/2015/05/salazar-uso-reivindica-una-aut%C3%A9ntica-regeneraci%C3%B3n-pol%C3%ADtica-moral": {
             "title": "Salazar (USO) reivindica una \"aut\u00e9ntica regeneraci\u00f3n pol\u00edtica, moral...",
-            "snippet": "Para Salazar, las personas y el trabajo decente deben situarse \"en el epicentro de las pol\u00edticas\", con la recuperaci\u00f3n del empleo digno, pleno y con derechos, retribuciones suficientes, reparto equitativo de las rentas...",
+            "snippet": "Salazar (USO) reivindica una \"aut\u00e9ntica regeneraci\u00f3n pol\u00edtica, moral, social y sindical\".. viernes, 01/05/15 - 15:31. 0. El secretario general de Uni\u00f3n Sindical Obrera (USO), Julio Salazar, ha exigido este 1 de Mayo, D\u00eda...",
             "date": "2015-05-01",
             "author_name": "desconocido",
-            "categories": "empleo,politica",
-            "tags": "empleo,pol\u00edticas,pol\u00edtica,uso,derechos",
+            "categories": "politica",
+            "tags": "uni\u00f3n,secretario,secretario-general,general,reivindica,uso,pol\u00edtica,viernes,mayo,d\u00eda",
             "recuweb_url": "http://es.recuweb.com/politica/noticias.lainformacion.com/2015/05/salazar-uso-reivindica-una-aut%C3%A9ntica-regeneraci%C3%B3n-pol%C3%ADtica-moral",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://noticias.lainformacion.com/mano-de-obra/legislacion-laboral/salazar-uso-reivindica-una-autentica-regeneracion-politica-moral-social-y-sindical_FR4rD3GufeIqbxXMOBymx3/"
         },
         "politicandspeech.com/2015/04/de-pol%C3%ADtica-y-pol%C3%ADticos": {
@@ -61,9 +83,9 @@
             "date": "2015-04-29",
             "author_name": "gmorcillo",
             "categories": "politica",
-            "tags": "hacemos,nacional,elecciones,pol\u00edticos,pol\u00edtica",
+            "tags": "pol\u00edticos,pol\u00edtica,nacional",
             "recuweb_url": "http://es.recuweb.com/politica/politicandspeech.com/2015/04/de-pol%C3%ADtica-y-pol%C3%ADticos",
-            "resource_url": "http://es.search.wordpress.com/?q=politica%2Bpolitica&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=politica&f=feed&page=1",
             "source_url": "http://politicandspeech.com/2015/04/29/de-politica-y-politicos-5/"
         },
         "forbes.com.mx/2015/04/reforma-pol%C3%ADtica-el-adi%C3%B3s-al-distrito-federal-forbes-m%C3%A9xico": {
@@ -72,21 +94,10 @@
             "date": "2015-04-29",
             "author_name": "Forbes Staff",
             "categories": "politica",
-            "tags": "pol\u00edtica,son,dentro,pasar\u00e1,estado,dejar\u00e1,pa\u00eds,rep\u00fablica",
+            "tags": "pol\u00edtica,capital,m\u00e9xico,estado",
             "recuweb_url": "http://es.recuweb.com/politica/forbes.com.mx/2015/04/reforma-pol%C3%ADtica-el-adi%C3%B3s-al-distrito-federal-forbes-m%C3%A9xico",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://forbes.com.mx/reforma-politica-el-adios-al-distrito-federal/"
-        },
-        "historiasdelahistoria.com/2015/04/el-foro-de-augusto-la-propaganda-pol%C3%ADtica-hecha-m%C3%A1rmol": {
-            "title": "El Foro de Augusto, la propaganda pol\u00edtica hecha de m\u00e1rmol de...",
-            "snippet": "En esta ocasi\u00f3n trataremos los motivos por los que Augusto decidi\u00f3 crear un nuevo foro. El ideario pol\u00edtico y de propaganda para elevar su papel dentro de la historia de Roma, utilizando para este fin el lenguaje escult\u00f3rico...",
-            "date": "2015-04-28",
-            "author_name": "Javier Sanz",
-            "categories": "lenguaje,politica",
-            "tags": "propaganda,dentro,foro,pol\u00edtica",
-            "recuweb_url": "http://es.recuweb.com/politica/historiasdelahistoria.com/2015/04/el-foro-de-augusto-la-propaganda-pol%C3%ADtica-hecha-m%C3%A1rmol",
             "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://historiasdelahistoria.com/2015/04/28/el-foro-de-augusto-la-propaganda-politica-hecha-de-marmol-de-carrara"
+            "source_url": "http://forbes.com.mx/reforma-politica-el-adios-al-distrito-federal/"
         },
         "cnnespanol.cnn.com/2015/04/acaso-internet-ha-acabado-con-la-pol%C3%ADtica-cnnespa%C3%B1": {
             "title": "\u00bfAcaso internet ha acabado con la pol\u00edtica? CNNEspa\u00f1...",
@@ -94,32 +105,21 @@
             "date": "2015-04-27",
             "author_name": "marpichel",
             "categories": "internet,politica",
-            "tags": "d\u00eda,plena,pol\u00edtica",
+            "tags": "d\u00eda,plena,pol\u00edtica,cnn,hace",
             "recuweb_url": "http://es.recuweb.com/politica/cnnespanol.cnn.com/2015/04/acaso-internet-ha-acabado-con-la-pol%C3%ADtica-cnnespa%C3%B1",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/27/acaso-internet-ha-acabado-con-la-politica/"
         },
-        "ciperchile.cl/2015/04/financiamiento-ilegal-de-la-pol%C3%ADtica-los-pagos-las-pesqueras": {
-            "title": "Financiamiento ilegal de la pol\u00edtica: Los pagos de las pesqueras...",
-            "snippet": "La investigaci\u00f3n al financiamiento ilegal de la pol\u00edtica por parte de empresas debiera abrirse a otro sector: las pesqueras. Y ello porque al menos seis de los contribuyentes investigados por boletas emitidas a SQM,...",
-            "date": "2015-04-23",
-            "author_name": "Mat\u00edas Jara",
+        "cnnespanol.cnn.com/2015/04/crisis-pol%C3%ADtica-sacude-el-gobierno-de-p%C3%A9rez-molina-en-guatemala": {
+            "title": "Crisis pol\u00edtica sacude el gobierno de P\u00e9rez Molina en Guatemala...",
+            "snippet": "(CNN Espa\u00f1ol) - El gobierno del presidente Otto P\u00e9rez Molina vive una nueva tormenta pol\u00edtica tras la salida del partido en el poder del que habr\u00eda sido el candidato presidencial, Alejandro Sinibaldi. Esto se suma el...",
+            "date": "2015-04-21",
+            "author_name": "((CNNEspa\u00f1ol))",
             "categories": "politica",
-            "tags": "menos,parte,pol\u00edtica",
-            "recuweb_url": "http://es.recuweb.com/politica/ciperchile.cl/2015/04/financiamiento-ilegal-de-la-pol%C3%ADtica-los-pagos-las-pesqueras",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ciperchile.cl/2015/04/22/financiamiento-ilegal-de-la-politica-los-pagos-de-las-pesqueras/"
-        },
-        "blog.twitter.com/2015/04/actualizamos-nuestras-pol%C3%ADticas-y-productos-para-combatir-el-abuso": {
-            "title": "Actualizamos nuestras pol\u00edticas y productos para combatir el abuso...",
-            "snippet": "Mejoramos nuestras pol\u00edticas para ampliar los tipos de contenidos contra los que podemos actuar y hacemos m\u00e1s actualizaciones para limitar el alcance de los abusos en nuestra plataforma.",
-            "date": "2015-04-22",
-            "author_name": "desconocido",
-            "categories": "politica",
-            "tags": "hacemos,pol\u00edticas,contra",
-            "recuweb_url": "http://es.recuweb.com/politica/blog.twitter.com/2015/04/actualizamos-nuestras-pol%C3%ADticas-y-productos-para-combatir-el-abuso",
-            "resource_url": "http://www.google.com/search?q=politica%2Bpolitica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.twitter.com/es/2015/actualizamos-nuestras-pol-ticas-y-productos-para-combatir-el-abuso-0"
+            "tags": "salida,partido,cnn,sacude,crisis,pol\u00edtica,gobierno,presidente",
+            "recuweb_url": "http://es.recuweb.com/politica/cnnespanol.cnn.com/2015/04/crisis-pol%C3%ADtica-sacude-el-gobierno-de-p%C3%A9rez-molina-en-guatemala",
+            "resource_url": "http://www.google.com/search?q=politica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/04/20/crisis-politica-sacude-el-gobierno-de-perez-molina-en-guatemala/"
         }
     }
 }

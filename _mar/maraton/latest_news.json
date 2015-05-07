@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "maraton",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/maraton/",
@@ -11,34 +11,94 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/maraton/maraton/blogs.json"
     },
     "items": {
-        "mundod.lavoz.com.ar/2015/05/este-domingo-se-corre-la-marat%C3%B3n-por-todo-c%C3%B3rdoba-mir%C3%A1": {
-            "title": "Este domingo se corre la marat\u00f3n por todo C\u00f3rdoba: mir\u00e1 el recorrido - La Voz del Interior...",
-            "snippet": "La Voz del InteriorEste domingo se corre la marat\u00f3n por todo C\u00f3rdoba: mir\u00e1 el recorridoLa Voz del InteriorTambi\u00e9n se correr\u00e1n los 10k, una mini marat\u00f3n de 3k y claro, la chance de correr junto a los hijos con la Carrera de la familia. Los 42k...",
-            "date": "2015-05-02",
+        "eluniversal.com/2015/05/un-marat%C3%B3n-impecable-el-universal-venezuela": {
+            "title": "Un marat\u00f3n impecable - El Universal (Venezuela)...",
+            "snippet": "El Universal (Venezuela)\"Un marat\u00f3n impecable\"El Universal (Venezuela)Tras haber finalizado la IV edici\u00f3n del Marat\u00f3n CAF, los resultados de la organizaci\u00f3n del evento de talla mundial son m\u00e1s que satisfactorios. Y es que de acuerdo a lo...",
+            "date": "2015-05-03",
             "categories": "maraton",
-            "tags": "correr,domingo,marat\u00f3n,carrera",
-            "recuweb_url": "http://es.recuweb.com/maraton/mundod.lavoz.com.ar/2015/05/este-domingo-se-corre-la-marat%C3%B3n-por-todo-c%C3%B3rdoba-mir%C3%A1",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
-            "source_url": "http://mundod.lavoz.com.ar/atletismo/este-domingo-se-corre-la-maraton-por-todo-cordoba-mira-el-recorrido"
+            "tags": "marat\u00f3n,marat\u00f3n_caf,caf,edici\u00f3n,venezuela,evento",
+            "recuweb_url": "http://es.recuweb.com/maraton/eluniversal.com/2015/05/un-marat%C3%B3n-impecable-el-universal-venezuela",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
+            "source_url": "http://eluniversal.com/deportes/150503/un-maraton-impecable"
         },
-        "tiempo.hn/2015/05/mientras-unos-marcharon-otros-corrieron-una-marat%C3%B3n-en-honduras": {
-            "title": "Mientras unos marcharon otros corrieron una marat\u00f3n en Honduras -...",
-            "snippet": "unos marcharon otros corrieron una marat\u00f3n en - Sobre su silla de ruedas corri\u00f3 cinco kil\u00f3metros y demostr\u00f3 su pasi\u00f3n y amor por la competencia en la Marat\u00f3n Educarrera 2015, que realiz\u00f3 ayer Radio Cadena Voces (RCV) para ayudar a la escuela...",
-            "date": "2015-05-02",
-            "categories": "escuela,radio,maraton",
-            "tags": "realiz\u00f3,ayer,marat\u00f3n,corri\u00f3,cinco,kil\u00f3metros,corrieron",
-            "recuweb_url": "http://es.recuweb.com/maraton/tiempo.hn/2015/05/mientras-unos-marcharon-otros-corrieron-una-marat%C3%B3n-en-honduras",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
-            "source_url": "http://tiempo.hn/nacion/item/29298-mientras-unos-marcharon-otros-corrieron-una-maraton-en-honduras"
+        "marca.com/2015/05/boca-y-river-empiezan-su-marat%C3%B3n": {
+            "title": "Boca y River empiezan su marat\u00f3n...",
+            "snippet": "Desde las hora de Espa\u00f1a jugar\u00e1n el primero de los tres supercl\u00e1sicos que disputar\u00e1n en s\u00f3lo 12 d\u00edas. El partido de hoy los encuentra a ambos como l\u00edderes del torneo local. El 7 y 14 se medir\u00e1n por octavos de la Libertadores. Boca Juniors...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "hora,marat\u00f3n,d\u00edas",
+            "recuweb_url": "http://es.recuweb.com/maraton/marca.com/2015/05/boca-y-river-empiezan-su-marat%C3%B3n",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/05/03/futbol/futbol_internacional/argentina/1430644711.html"
+        },
+        "diaadia.com.pa/2015/05/correr%C3%A1-en-la-marat%C3%B3n-de-berl%C3%ADn-d%C3%ADa": {
+            "title": "Correr\u00e1 en la marat\u00f3n de Berl\u00edn - D\u00eda a d\u00eda...",
+            "snippet": "D\u00eda a d\u00edaCorrer\u00e1 en la marat\u00f3n de Berl\u00ednD\u00eda a d\u00edaQuerer es poder! El presentador de Buenos D\u00edas Rolando Sterling est\u00e1 en estos momentos sudando la gota gorda, y no es para menos, ya que el criollo participar\u00e1 en la gran marat\u00f3n de...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "menos,d\u00edas,marat\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/maraton/diaadia.com.pa/2015/05/correr%C3%A1-en-la-marat%C3%B3n-de-berl%C3%ADn-d%C3%ADa",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
+            "source_url": "http://diaadia.com.pa/fama/correr\u00e1-en-la-marat\u00f3n-de-berl\u00edn-272374"
+        },
+        "marca.com/2015/05/felix-kandie-gana-el-marat%C3%B3n-de-praga": {
+            "title": "Felix Kandie gana el marat\u00f3n de Praga...",
+            "snippet": "El corredor keniano Felix Kipchirchir Kandie, de 28 a\u00f1os, gan\u00f3 este domingo el marat\u00f3n internacional de Praga con un tiempo de 2:08:32, mejorando su propia marca personal, por delante de su compatriota Evans Kiplagat Chebet, quien acab\u00f3 con...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "personal,tiempo,internacional,gan\u00f3,felix,kandie,corredor,keniano,gana,felix_kandie,marat\u00f3n,praga,domingo",
+            "recuweb_url": "http://es.recuweb.com/maraton/marca.com/2015/05/felix-kandie-gana-el-marat%C3%B3n-de-praga",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/05/03/atletismo/1430670076.html"
+        },
+        "prensa.com/2015/05/keniano-felix-kandie-gana-el-marat%C3%B3n-de-praga-con-2-08": {
+            "title": "Keniano Felix Kandie gana el marat\u00f3n de Praga con 2:08:32 - La Prensa (Comunicado de prensa)...",
+            "snippet": "La Prensa (Comunicado de prensa) (blog)Keniano Felix Kandie gana el marat\u00f3n de Praga con 2:08:32La Prensa (Comunicado de prensa) (blog)\"Estoy muy contento. No esperaba la victoria, y mi objetivo era mejorar mi r\u00e9cord personal. El crono ha sido...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "era,r\u00e9cord,personal,muy,gana,keniano,felix,felix_kandie,kandie,marat\u00f3n,praga",
+            "recuweb_url": "http://es.recuweb.com/maraton/prensa.com/2015/05/keniano-felix-kandie-gana-el-marat%C3%B3n-de-praga-con-2-08",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
+            "source_url": "http://prensa.com/deportes/maraton-Felix_Kandie-Praga-atletismo_0_4200330008.html"
+        },
+        "elcomercio.es/2015/05/marat%C3%B3n-de-donantes-sangre-en-luarca": {
+            "title": "Marat\u00f3n de donantes de sangre en Luarca...",
+            "snippet": "La Casa del Mar de Luarca, en el concejo de Vald\u00e9s, acoge esta semana un nuevo marat\u00f3n de donantes de Sangre. Se celebrar\u00e1 los d\u00edas 6 y 7, mi\u00e9rcoles y jueves, de 10 a 21 horas. Adem\u00e1s, la unidad m\u00f3vil de la Hermandad de Donantes de Sangre...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "d\u00edas,marat\u00f3n,horas",
+            "recuweb_url": "http://es.recuweb.com/maraton/elcomercio.es/2015/05/marat%C3%B3n-de-donantes-sangre-en-luarca",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
+            "source_url": "http://elcomercio.es/asturias/occidente/201505/03/maraton-donantes-sangre-luarca-20150503010545-v.html"
+        },
+        "lmcordoba.com.ar/2015/05/una-marat%C3%B3n-complic%C3%B3-los-accesos-al-centro-la-ma%C3%B1ana-de-c%C3%B3rdoba": {
+            "title": "Una marat\u00f3n complic\u00f3 los accesos al Centro - LA MA\u00d1ANA de C\u00f3rdoba...",
+            "snippet": "LA MA\u00d1ANA de C\u00f3rdobaUna marat\u00f3n complic\u00f3 los accesos al CentroLA MA\u00d1ANA de C\u00f3rdobaEn el marco de la Marat\u00f3n 42 kil\u00f3metros Ciudad de C\u00f3rdoba que se corri\u00f3 esta ma\u00f1ana, varias arterias c\u00e9ntricas permanecieron cortadas. Hubo interrupciones...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "corri\u00f3,marat\u00f3n,kil\u00f3metros",
+            "recuweb_url": "http://es.recuweb.com/maraton/lmcordoba.com.ar/2015/05/una-marat%C3%B3n-complic%C3%B3-los-accesos-al-centro-la-ma%C3%B1ana-de-c%C3%B3rdoba",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
+            "source_url": "http://lmcordoba.com.ar/nota/203069_una-maraton-complico-los-accesos-al-centro"
+        },
+        "mdzol.com/2015/05/y-despu%C3%A9s-de-la-marat%C3%B3n-sigue-estos-consejos-para-recuperarte-mdz": {
+            "title": "\u00bfY despu\u00e9s de la marat\u00f3n...? Sigue estos consejos para recuperarte - MDZ Online...",
+            "snippet": "MDZ Online\u00bfY despu\u00e9s de la marat\u00f3n...? Sigue estos consejos para recuperarteMDZ OnlineRehidratarte tambi\u00e9n es importante, se recomienda tomar agua o una bebida deportiva al menos cada media hora las siguientes dos horas de la marat\u00f3n hasta...",
+            "date": "2015-05-03",
+            "categories": "maraton",
+            "tags": "horas,hora,menos,mdz,mdz_online,marat\u00f3n,deportiva,dos",
+            "recuweb_url": "http://es.recuweb.com/maraton/mdzol.com/2015/05/y-despu%C3%A9s-de-la-marat%C3%B3n-sigue-estos-consejos-para-recuperarte-mdz",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
+            "source_url": "http://mdzol.com/nota/603421-y-despues-de-la-maraton-sigue-estos-consejos-para-recuperarte/"
         },
         "mdzol.com/2015/05/todo-el-color-de-la-marat%C3%B3n-internacional-mendoza-mdz-online": {
             "title": "Todo el color de la Marat\u00f3n Internacional Mendoza - MDZ Online...",
             "snippet": "MDZ OnlineTodo el color de la Marat\u00f3n Internacional MendozaMDZ OnlineRecordemos que esta fue la edici\u00f3n n\u00famero 16 de la MIM -Marat\u00f3n Internacional Mendoza- y finaliz\u00f3 en la pista de atletismo de la Villa Deportiva del Parque General San...",
             "date": "2015-05-02",
             "categories": "atletismo,maraton",
-            "tags": "deportiva,edici\u00f3n,marat\u00f3n",
+            "tags": "general,deportiva,edici\u00f3n,marat\u00f3n,internacional,mdz,mdz_online",
             "recuweb_url": "http://es.recuweb.com/maraton/mdzol.com/2015/05/todo-el-color-de-la-marat%C3%B3n-internacional-mendoza-mdz-online",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=maraton&output=atom&nord=1",
             "source_url": "http://mdzol.com/nota/603315-todo-el-color-de-la-maraton-internacional-mendoza/"
         },
         "laopiniondezamora.es/2015/05/marat%C3%B3n-de-madrid-con-un-par": {
@@ -50,66 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/maraton/laopiniondezamora.es/2015/05/marat%C3%B3n-de-madrid-con-un-par",
             "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
             "source_url": "http://laopiniondezamora.es/zamora/2015/05/01/par/839967.html"
-        },
-        "blogs.as.com/2015/04/dopaje-kenia-resiste-en-marat%C3%B3n-aunque-est%C3%A1-vigilada": {
-            "title": "Dopaje: Kenia resiste en marat\u00f3n aunque est\u00e1 vigilada...",
-            "snippet": "El keniano Eliud Kipchoge, l\u00edder mundial en 2015. Alguno de vosotros me lo hizo llegar en los comentarios que escrib\u00eds en Carros de Fuego: veremos qu\u00e9 hace Kenia en la marat\u00f3n tras la vigilancia a la que est\u00e1 sometida ahora en cuanto al dopaje...",
-            "date": "2015-04-30",
-            "categories": "maraton",
-            "tags": "llegar,kipchoge,marat\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/blogs.as.com/2015/04/dopaje-kenia-resiste-en-marat%C3%B3n-aunque-est%C3%A1-vigilada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://blogs.as.com/carros-de-fuego/2015/04/dopaje-kenia-resiste-en-marat\u00f3n-aunque-est\u00e1-vigilada.html"
-        },
-        "info.elcorreo.com/2015/04/la-marat%C3%B3n-mart%C3%ADn-fiz-en-patines-pondr%C3%A1-escena-a-2-campeones": {
-            "title": "La Marat\u00f3n Mart\u00edn Fiz en patines pondr\u00e1 en escena a 2 campeones del mundo en Vitoria-Gasteiz...",
-            "snippet": "Hay otra atractiva forma de correr la decimotercera edici\u00f3n del Marat\u00f3n Mart\u00edn Fiz de Vitoria-Gasteiz, que se disputar\u00e1 el pr\u00f3ximo 10 de mayo. Y esta es el marat\u00f3n en patines. Una modalidad, que edici\u00f3n tras edici\u00f3n, gana en adeptos y...",
-            "date": "2015-04-30",
-            "categories": "maraton",
-            "tags": "gana,edici\u00f3n,forma,correr,marat\u00f3n,mundo",
-            "recuweb_url": "http://es.recuweb.com/maraton/info.elcorreo.com/2015/04/la-marat%C3%B3n-mart%C3%ADn-fiz-en-patines-pondr%C3%A1-escena-a-2-campeones",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://info.elcorreo.com/noticias/la-maraton-martin-fiz-en-patines-pondra-en-escena-a-2-campeones-del-mundo-en-vitoriagasteiz-20150430.html"
-        },
-        "cronicajalisco.com/2015/04/realizan-marat%C3%B3n-del-d%C3%ADa-ni%C3%B1o-en-el-hospital-civil-nuevo-cronicajalisco": {
-            "title": "Realizan Marat\u00f3n del D\u00eda del Ni\u00f1o en el Hospital Civil Nuevo - CronicaJalisco...",
-            "snippet": "Realizan Marat\u00f3n del D\u00eda del Ni\u00f1o en el Hospital Civil NuevoCronicaJaliscoEl acopio y la entrega de juguetes tuvieron lugar en el marco del XIV Gran Marat\u00f3n del D\u00eda del Ni\u00f1o que se realiza en el ingreso principal del nosocomio. La...",
-            "date": "2015-04-30",
-            "categories": "maraton",
-            "tags": "marat\u00f3n,civil",
-            "recuweb_url": "http://es.recuweb.com/maraton/cronicajalisco.com/2015/04/realizan-marat%C3%B3n-del-d%C3%ADa-ni%C3%B1o-en-el-hospital-civil-nuevo-cronicajalisco",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
-            "source_url": "http://cronicajalisco.com/notas/2015/42378.html"
-        },
-        "entornointeligente.com/2015/04/youtube-marat%C3%B3n-militar-termin%C3%B3-de-forma-conmovedora-entornointeligente": {
-            "title": "YouTube: marat\u00f3n militar termin\u00f3 de forma conmovedora - EntornoInteligente...",
-            "snippet": "YouTube: marat\u00f3n militar termin\u00f3 de forma conmovedoraEntornoInteligenteUna mujer protagoniz\u00f3 un dram\u00e1tico desenlace en una marat\u00f3n militar realizada en Fort Dix, en Nueva Jersey (Estados Unidos). El conmovedor esfuerzo que realiz\u00f3 la mujer por...",
-            "date": "2015-04-30",
-            "categories": "maraton",
-            "tags": "realiz\u00f3,forma,marat\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/entornointeligente.com/2015/04/youtube-marat%C3%B3n-militar-termin%C3%B3-de-forma-conmovedora-entornointeligente",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
-            "source_url": "http://entornointeligente.com/articulo/5809373/YouTube-maraton-militar-termino-de-forma-conmovedora-30042015"
-        },
-        "vamosacorrer.com/2015/04/el-marat%C3%B3n-de-sevilla-2016-ya-cuenta-con-m%C3%A1s-inscritos": {
-            "title": "El Marat\u00f3n de Sevilla 2016 ya cuenta con m\u00e1s de inscritos a diez meses vista...",
-            "snippet": "El Zurich Marat\u00f3n de Sevilla 2016, que cumple XXXII ediciones el 21 de febrero de 2016, sigue evolucionando y contin\u00faa con su l\u00ednea de crecimiento a todos los niveles. Especialmente en cuanto al ritmo de inscripciones se refiere, ya que en este...",
-            "date": "2015-04-28",
-            "categories": "maraton",
-            "tags": "marat\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/maraton/vamosacorrer.com/2015/04/el-marat%C3%B3n-de-sevilla-2016-ya-cuenta-con-m%C3%A1s-inscritos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=maraton&format=RSS&cc=es",
-            "source_url": "http://vamosacorrer.com/noticias/el-maraton-de-sevilla-2016-ya-cuenta-con-mas-de-2500-inscritos-a-diez-meses-vista-20150428.html"
-        },
-        "es.eurosport.yahoo.com/2015/04/casi-cien-corredores-atendidos-en-el-marat%C3%B3n-de-madrid-ninguno-yahoo": {
-            "title": "Casi cien corredores atendidos en el Marat\u00f3n de Madrid, ninguno... - Yahoo Eurosport ES...",
-            "snippet": "Yahoo Eurosport ESCasi cien corredores atendidos en el Marat\u00f3n de Madrid, ninguno...Yahoo Eurosport ESMadrid, 26 abr (EFE).- Los servicios de emergencia del Samur-Protecci\u00f3n Civil han atendido a 97 corredores en el Marat\u00f3n de Madrid, ninguno de...",
-            "date": "2015-04-26",
-            "categories": "yahoo,maraton",
-            "tags": "civil,marat\u00f3n,madrid",
-            "recuweb_url": "http://es.recuweb.com/maraton/es.eurosport.yahoo.com/2015/04/casi-cien-corredores-atendidos-en-el-marat%C3%B3n-de-madrid-ninguno-yahoo",
-            "resource_url": "http://news.google.es/?hl=es&q=maraton%2Bmaraton&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/noticias/cien-corredores-atendidos-marat\u00f3n-madrid-grave-155600110.html"
         }
     }
 }

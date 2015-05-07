@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bing",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bing/",
@@ -11,15 +11,27 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
-        "vistelacalle.com/2015/04/el-estilo-de-fan-bingbing-viste-la-calle": {
-            "title": "El estilo de Fan Bingbing Viste la Calle...",
-            "snippet": "Puede pasar de llevar un delicado vestido Valentino a protagonizar la campa\u00f1a de Adidas Originals sin problemas. La actriz china Fan Bingbing, protagonista de la nueva serie The empress of China que ya revisamos...",
-            "date": "2015-04-28",
-            "author_name": "Andrea Mart\u00ednez Maugard",
-            "tags": "nueva,fan,fan_bingbing,bingbing,llevar,puede",
-            "recuweb_url": "http://es.recuweb.com/vistelacalle.com/2015/04/el-estilo-de-fan-bingbing-viste-la-calle",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://vistelacalle.com/133295/el-estilo-de-fan-bingbing/"
+        "digitalmarketingtrends.es/2015/04/como-posicionar-tu-web-en-bing-digital-marketing-trends": {
+            "title": "Como posicionar tu web en Bing - Digital Marketing Trends...",
+            "snippet": "Cuando hablamos de buscadores solo pensamos en Google, pero existen otros. Aqu\u00ed te ofrecemos consejos para saber como posicoinar en Bing.",
+            "date": "2015-04-23",
+            "author_name": "Enara Franco",
+            "categories": "bing,google",
+            "tags": "existen,buscadores,web,bing,google",
+            "recuweb_url": "http://es.recuweb.com/google/digitalmarketingtrends.es/2015/04/como-posicionar-tu-web-en-bing-digital-marketing-trends",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://digitalmarketingtrends.es/como-posicionar-en-bing/"
+        },
+        "marketingdirecto.com/2015/04/la-publicidad-en-buscadores-crece-todo-el-mundo-y-bing-se": {
+            "title": "La publicidad en buscadores crece en todo el mundo y Bing se...",
+            "snippet": "La publicidad en buscadores crece en todo el mundo y Bing se beneficia de las vacas gordas. buscadores Soplan vientos a favor de la publicidad en los motores de b\u00fasquedas. Seg\u00fan un reciente estudio del gigante del...",
+            "date": "2015-04-23",
+            "author_name": "Redactora 2",
+            "categories": "bing",
+            "tags": "gigante,b\u00fasquedas,buscadores,mundo,publicidad,bing",
+            "recuweb_url": "http://es.recuweb.com/bing/marketingdirecto.com/2015/04/la-publicidad-en-buscadores-crece-todo-el-mundo-y-bing-se",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://marketingdirecto.com/actualidad/digital/la-publicidad-en-buscadores-crece-en-todo-el-mundo-y-bing-se-beneficia-de-las-vacas-gordas/"
         },
         "pulsosocial.com/2015/04/cyanogen-bing-spotify-y-el-ceo-mejor-pagado-de-2014": {
             "title": "Cyanogen, Bing, Spotify y el CEO mejor pagado de 2014...",
@@ -27,7 +39,7 @@
             "date": "2015-04-18",
             "author_name": "J\u00f3se Martin",
             "categories": "bing",
-            "tags": "sistema,bing",
+            "tags": "bing",
             "recuweb_url": "http://es.recuweb.com/bing/pulsosocial.com/2015/04/cyanogen-bing-spotify-y-el-ceo-mejor-pagado-de-2014",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pulsosocial.com/2015/04/17/cyanogen-bing-spotify-y-el-ceo-mejor-pagado-de-2014/"
@@ -38,7 +50,7 @@
             "date": "2015-04-17",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
             "categories": "bing",
-            "tags": "estados,unidos,primera,utiliza,buscador,bing,microsoft,b\u00fasqueda",
+            "tags": "estados,unidos,primera,buscador,bing,microsoft,b\u00fasqueda",
             "recuweb_url": "http://es.recuweb.com/bing/cnnexpansion.com/2015/04/1-de-cada-5-personas-utiliza-el-buscador-bing-microsoft",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnexpansion.com/tecnologia/2015/04/17/1-de-cada-5-personas-utiliza-el-buscador-bing-de-microsoft"
@@ -49,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "Eduardo Medina",
             "categories": "bing",
-            "tags": "bing,estados,unidos",
+            "tags": "b\u00fasquedas,bing,estados,unidos",
             "recuweb_url": "http://es.recuweb.com/bing/muycomputer.com/2015/04/bing-alcanza-el-20%-de-cuota-en-b%C3%BAsquedas-desde-pc-estados",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://muycomputer.com/2015/04/17/bing-20-por-ciento-cuota-busquedas-pc-estados-unidos"
@@ -60,21 +72,10 @@
             "date": "2015-04-16",
             "author_name": "Hector Russo",
             "categories": "bing",
-            "tags": "menos,acaba,bing,b\u00fasqueda,ios,android",
+            "tags": "bing,b\u00fasqueda,ios,android",
             "recuweb_url": "http://es.recuweb.com/bing/geeksroom.com/2015/04/bing-mejora-la-b%C3%BAsqueda-de-im%C3%A1genes-en-ios-y-android-escribir",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://geeksroom.com/2015/04/bing-mejora-la-busqueda-de-imagenes-en-ios-y-android-escribir-menos-buscar-imagenes-mas-rapido/93463/"
-        },
-        "microsoftinsider.es/2015/04/bing-ads-disponible-para-ios-monitoriza-tus-campa%C3%B1as": {
-            "title": "Bing Ads disponible para iOS, monitoriza tus campa\u00f1as - Bing...",
-            "snippet": "Por este motivo Microsoft acaba de lanzar Bing Ads para iOS, una aplicaci\u00f3n que permitir\u00e1 a los usuarios de iPhone y iPad ver el rendimiento de todas sus cuentas, campa\u00f1as, grupos de publicidad y toda la informaci\u00f3n...",
-            "date": "2015-04-15",
-            "author_name": "Pablo Guijarro",
-            "categories": "bing,iphone,ipad",
-            "tags": "aplicaci\u00f3n,acaba,bing,bing_ads,ads,ios,microsoft,iphone,ipad,publicidad",
-            "recuweb_url": "http://es.recuweb.com/ipad/microsoftinsider.es/2015/04/bing-ads-disponible-para-ios-monitoriza-tus-campa%C3%B1as",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsoftinsider.es/67914/bing-ads-disponible-para-ios-monitoriza-tus-campanas/"
         },
         "wwwhatsnew.com/2015/04/nueva-aplicaci%C3%B3n-m%C3%B3vil-oficial-de-bing-ads-para-ios-wwwhat": {
             "title": "Nueva aplicaci\u00f3n m\u00f3vil oficial de Bing Ads para iOS - WWWhat's new?",
@@ -82,32 +83,10 @@
             "date": "2015-04-15",
             "author_name": "Juan David Qui\u00f1\u00f3nez",
             "categories": "bing,adwords,iphone,ipad",
-            "tags": "cualquier,ser\u00e1,\u00fatil,aplicaci\u00f3n,bing,bing_ads,ads,nueva,ios,microsoft,iphone,ipad",
+            "tags": "ser\u00e1,\u00fatil,bing,ads,nueva,ios,microsoft",
             "recuweb_url": "http://es.recuweb.com/ipad/wwwhatsnew.com/2015/04/nueva-aplicaci%C3%B3n-m%C3%B3vil-oficial-de-bing-ads-para-ios-wwwhat",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/04/15/nueva-aplicacion-movil-oficial-bing-ads/"
-        },
-        "microsoftinsider.es/2015/04/bing-pronostica-el-resultado-del-primer-cruce-de-cuartos-final": {
-            "title": "Bing pronostica el resultado del primer cruce de Cuartos de Final de...",
-            "snippet": "Como empieza a ser costumbre, Bing ha aprovechado otro evento de inter\u00e9s mundial para mostrarnos a todos sus dotes de predicci\u00f3n. Esta vez el evento elegido ha sido los Cuartos de Final de la Champions League.",
-            "date": "2015-04-13",
-            "author_name": "\u00c1lex Rodr\u00edguez",
-            "categories": "bing",
-            "tags": "empieza,bing,primer",
-            "recuweb_url": "http://es.recuweb.com/bing/microsoftinsider.es/2015/04/bing-pronostica-el-resultado-del-primer-cruce-de-cuartos-final",
-            "resource_url": "http://www.google.com/search?q=bing%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsoftinsider.es/67697/bing-pronostica-el-resultado-del-primer-cruce-de-cuartos-de-final-de-la-champions-league/"
-        },
-        "dianaort.wordpress.com/2015/04/tema-8-vanguardias-art%C3%ADsticas": {
-            "title": "Tema 8: VANGUARDIAS ART\u00cdSTICAS...",
-            "snippet": "Samuel Bing Bing Hab\u00eda tendencia hacer las cosas simples, empieza a tomar a la naturaleza como referencia Fuente de inspiraci\u00f3n org\u00e1nica, curva cirgelia se forma de dos arcos propiamente de una elipse Oculencia en las pinturas. Alfonso muchart,...",
-            "date": "2015-04-13",
-            "author_name": "dianaort",
-            "categories": "pintura,bing",
-            "tags": "empieza,cosas,bing,hacer,fuente",
-            "recuweb_url": "http://es.recuweb.com/bing/dianaort.wordpress.com/2015/04/tema-8-vanguardias-art%C3%ADsticas",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=bing%2Bbing&rss=1&lng=es",
-            "source_url": "http://dianaort.wordpress.com/2015/04/13/tema-8-vanguardias-artisticas/"
         },
         "andro4all.com/2015/04/microsoft-cambia-el-aspecto-de-bing-en-android-andro4all": {
             "title": "Microsoft cambia el aspecto de Bing en Android - Andro4all...",
@@ -115,10 +94,32 @@
             "date": "2015-04-11",
             "author_name": "Xavi Santamaria",
             "categories": "google,bing,yahoo",
-            "tags": "fuente,google,aspecto,microsoft,bing,android,buscador,yahoo,gracias,navegador",
+            "tags": "existen,buscador,mundo,google,aspecto,microsoft,bing,android,yahoo,navegador",
             "recuweb_url": "http://es.recuweb.com/yahoo/andro4all.com/2015/04/microsoft-cambia-el-aspecto-de-bing-en-android-andro4all",
             "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://andro4all.com/2015/04/microsoft-renueva-aspecto-bing"
+        },
+        "diarioti.com/2014/09/seg%C3%BAn-bing-escocia-seguir%C3%A1-siendo-parte-del-reino-unido-diario": {
+            "title": "Seg\u00fan Bing, Escocia seguir\u00e1 siendo parte del Reino Unido Diario TI...",
+            "snippet": "El buscador Bing cree que la opci\u00f3n No se impondr\u00e1 al voto S\u00ed por 51,9% contra 48,1%. El pron\u00f3stico es relevante debido a que Bing acert\u00f3 recientemente que Alemania ganar\u00eda el campeonato mundial de f\u00fatbol, a\u00fan...",
+            "date": "2014-09-18",
+            "author_name": "hlpg1965WP",
+            "categories": "futbol,reino,bing",
+            "tags": "bing,buscador,s\u00ed",
+            "recuweb_url": "http://es.recuweb.com/bing/diarioti.com/2014/09/seg%C3%BAn-bing-escocia-seguir%C3%A1-siendo-parte-del-reino-unido-diario",
+            "resource_url": "http://www.google.com/search?q=bing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://diarioti.com/segun-bing-escocia-seguira-siendo-parte-del-reino-unido/"
+        },
+        "123hosting.com.mx/2014/08/medir-ancho-de-banda-desde-la-consola-blog": {
+            "title": "Medir ancho de banda desde la consola Blog...",
+            "snippet": "sudo bing localhost BING localhost () and () 44 and 108 data bytes (1024 bits): minimum delay difference is zero, can't estimate link throughput:...",
+            "date": "2014-08-15",
+            "author_name": "Dinno Vezzoni",
+            "categories": "bing",
+            "tags": "data,bing",
+            "recuweb_url": "http://es.recuweb.com/bing/123hosting.com.mx/2014/08/medir-ancho-de-banda-desde-la-consola-blog",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bbing&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://123hosting.com.mx/blog/medir-ancho-de-banda-desde-la-consola/"
         }
     }
 }

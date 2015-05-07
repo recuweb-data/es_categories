@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-apple",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-apple/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-apple/hardware-apple/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/macbook-2015-unboxing-y-primeras-impresiones": {
-            "title": "Macbook 2015, unboxing y primeras impresiones...",
-            "snippet": "Macbook 2015, unboxing y primeras impresiones Suscr\u00edbete: El \u00faltimo port\u00e1til de Apple es el nuevo Macbook, nuevo por ser un equipo completamente renovado en dise\u00f1o, fino y ligero, y hardware con pantalla de 12... From: XatakaTV Views: 15346 461...",
-            "date": "2015-04-30",
-            "author_name": "XatakaTV",
-            "categories": "hardware,macbook",
-            "tags": "hardware,equipo,primeras,primeras-impresiones,impresiones,suscr\u00edbete,apple",
-            "recuweb_url": "http://es.recuweb.com/macbook/youtube.com/2015/04/macbook-2015-unboxing-y-primeras-impresiones",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=vsCIgPHb6X4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/vsCIgPHb6X4/0.jpg"
-        },
         "youtube.com/2015/02/guia-para-el-pc-gamer-principiante-lo-basico-del-hardware": {
             "title": "Guia para el pc gamer principiante (lo basico del hardware)...",
             "snippet": "Guia para el pc gamer principiante (lo basico del hardware) Twiter: applejoan1. From: apple joan Views: 528 28 ratings Time: 17:22 More in Entertainment...",
@@ -31,7 +19,7 @@
             "categories": "hardware",
             "tags": "apple,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2015/02/guia-para-el-pc-gamer-principiante-lo-basico-del-hardware",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=8lyGlfBB-Wo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/8lyGlfBB-Wo/0.jpg"
         },
@@ -41,9 +29,9 @@
             "date": "2014-07-18",
             "author_name": "sistemasumma",
             "categories": "hardware",
-            "tags": "hardware,equipo,mac,apple",
+            "tags": "hardware,apple",
             "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2014/07/como-diagnosticar-el-hardware-de-un-mac",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=vzdn9j7KDy4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/vzdn9j7KDy4/0.jpg"
         },
@@ -53,11 +41,35 @@
             "date": "2014-04-04",
             "author_name": "ordenador de gesti\u00f3n de la unidad",
             "categories": "hardware,imac",
-            "tags": "hardware,apple",
+            "tags": "hardware,c\u00f3mo,apple,howto,style",
             "recuweb_url": "http://es.recuweb.com/imac/youtube.com/2014/04/c%C3%B3mo-probar-de-apple-hardware-en-un-imac-g5",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=kX1cZOO_lo0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kX1cZOO_lo0/0.jpg"
+        },
+        "youtube.com/2014/01/c%C3%B3mo-solucionar-problemas-de-hardware-del-ipod": {
+            "title": "C\u00f3mo solucionar problemas de hardware del iPod...",
+            "snippet": "C\u00f3mo solucionar problemas de hardware del iPod From: apple ipods Views: 52 0 ratings Time: 01:52 More in Howto & Style...",
+            "date": "2014-01-28",
+            "author_name": "apple ipods",
+            "categories": "ipod,hardware",
+            "tags": "apple,hardware,c\u00f3mo,howto,style",
+            "recuweb_url": "http://es.recuweb.com/hardware/youtube.com/2014/01/c%C3%B3mo-solucionar-problemas-de-hardware-del-ipod",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=jTLTWlebrZQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jTLTWlebrZQ/0.jpg"
+        },
+        "youtube.com/2013/12/rese%C3%B1a-en-video-apple-iphone-5s": {
+            "title": "Rese\u00f1a en video: Apple iPhone 5S...",
+            "snippet": "Rese\u00f1a en video: Apple iPhone 5S Cambios en hardware y software, algunos acertados y otros que nos dejan pensando si es realmente lo que esper\u00e1bamos de esta evoluci\u00f3n del celular insignia de Apple. Checa a detalle el... From: Par\u00e9 Views: 29636...",
+            "date": "2013-12-04",
+            "author_name": "Par\u00e9ntesis.com",
+            "categories": "hardware,iphone",
+            "tags": "algunos,hardware,software,apple,iphone",
+            "recuweb_url": "http://es.recuweb.com/iphone/youtube.com/2013/12/rese%C3%B1a-en-video-apple-iphone-5s",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Zep1TznXT94&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Zep1TznXT94/0.jpg"
         },
         "youtube.com/2013/10/apple-iphone-5c-review-videorama": {
             "title": "Apple iPhone 5c review Videorama...",
@@ -65,9 +77,9 @@
             "date": "2013-10-31",
             "author_name": "clipset",
             "categories": "hardware,tecnologia,iphone",
-            "tags": "hardware,suscr\u00edbete,apple,iphone",
+            "tags": "hardware,apple,iphone,algunos",
             "recuweb_url": "http://es.recuweb.com/iphone/youtube.com/2013/10/apple-iphone-5c-review-videorama",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=bjbUDN2Bwqk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/bjbUDN2Bwqk/0.jpg"
         },
@@ -77,23 +89,11 @@
             "date": "2013-06-04",
             "author_name": "Salvador Carrasco",
             "categories": "hardware,iphone",
-            "tags": "hardware,iphone,apple",
+            "tags": "software,hardware,iphone,apple",
             "recuweb_url": "http://es.recuweb.com/iphone/youtube.com/2013/06/iphone-4s-orange-apple-original-16gb-perfecto-estado-envio-24-horas",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=tJcGHaqtWws&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/tJcGHaqtWws/0.jpg"
-        },
-        "youtube.com/2012/09/curso-mac-os-x-mountain-lion-cap%C3%ADtulo-7-preferencias-del-sistema": {
-            "title": "CURSO Mac OS X Mountain Lion Cap\u00edtulo 7 Preferencias del Sistema: Hardware Parte 2...",
-            "snippet": "CURSO Mac OS X Mountain Lion Cap\u00edtulo 7 Preferencias del Sistema: Hardware Parte 2 S\u00edguenos por Twitter: S\u00edguenos por Facebook: S\u00edguenos por la web (En construcci\u00f3n):... From: AppleMindTV Views: 413 4 ratings Time: 10:09 More in Science &...",
-            "date": "2012-09-12",
-            "author_name": "AppleMindTV",
-            "categories": "hardware,twitter,facebook",
-            "tags": "hardware,mac",
-            "recuweb_url": "http://es.recuweb.com/facebook/youtube.com/2012/09/curso-mac-os-x-mountain-lion-cap%C3%ADtulo-7-preferencias-del-sistema",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=8stVskV25sY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/8stVskV25sY/0.jpg"
         },
         "youtube.com/2010/11/analisis-iphone-4-hardware-en-hd": {
             "title": "Analisis iphone 4 Hardware en hd...",
@@ -101,23 +101,23 @@
             "date": "2010-11-10",
             "author_name": "Appledroide",
             "categories": "hardware,iphone",
-            "tags": "hardware,primeras,primeras-impresiones,impresiones,primer,primer-video,iphone",
+            "tags": "hardware,iphone",
             "recuweb_url": "http://es.recuweb.com/iphone/youtube.com/2010/11/analisis-iphone-4-hardware-en-hd",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=TgH7MbWt388&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/TgH7MbWt388/0.jpg"
         },
-        "youtube.com/2010/04/videos-de-mundipad-01-hardware": {
-            "title": "Videos de Mundipad 01-Hardware...",
-            "snippet": "Videos de Mundipad 01-Hardware Desde os traemos comentarios en vivo y en espa\u00f1ol sobre el iPad de Apple antes de su venta fuera de los Estados Unidos. En este primer video hablamos sobre el acabado exterior del... From: mundipad Views: 468 1...",
-            "date": "2010-04-22",
-            "author_name": "mundipad",
-            "categories": "hardware,ipad",
-            "tags": "primer,primer-video,hardware,apple",
-            "recuweb_url": "http://es.recuweb.com/ipad/youtube.com/2010/04/videos-de-mundipad-01-hardware",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple%2Bhardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=2vMse2swfcU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2vMse2swfcU/0.jpg"
+        "youtube.com/2010/07/que-siempre-s%C3%AD-fue-el-hardware": {
+            "title": "Que siempre s\u00ed fue el hardware...",
+            "snippet": "Que siempre s\u00ed fue el hardware La semana pasada comentamos sobre el problema de recepci\u00f3n en el iPhone 4. Entonces, Apple asegur\u00f3 que el problema se solucionar\u00eda con una actualizaci\u00f3n del software. Sin embargo a... From: Yo Influyo Views: 508 0...",
+            "date": "2010-07-13",
+            "author_name": "Yo Influyo",
+            "categories": "hardware,iphone",
+            "tags": "software,hardware,iphone,apple",
+            "recuweb_url": "http://es.recuweb.com/iphone/youtube.com/2010/07/que-siempre-s%C3%AD-fue-el-hardware",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hardware%2Bapple&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=6AF-eoFSgy8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/6AF-eoFSgy8/0.jpg"
         }
     }
 }

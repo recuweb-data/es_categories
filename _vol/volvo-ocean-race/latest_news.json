@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "volvo-ocean-race",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/volvo-ocean-race/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/volvo-ocean-race/volvo-ocean-race/blogs.json"
     },
     "items": {
-        "europapress.es/2015/05/el-mapfre-se-pelea-con-las-algas-y-desciende": {
-            "title": "El 'MAPFRE'se pelea con las algas y desciende a la quinta plaza...",
-            "snippet": "El 'MAPFRE'ha descendido a la quinta posici\u00f3n de la Volvo Ocean Race, la vuelta al mundo con escalas, en el trascurso de la sexta etapa tras haber sufrido una noche complicada en la que las algas volvieron a convertirse en el caballo de batalla.",
-            "date": "2015-05-02",
+        "deportes.elpais.com/2015/05/el-dongfeng-gana-en-newport": {
+            "title": "El Dongfeng gana en Newport...",
+            "snippet": "Este es el segundo triunfo parcial del equipo chino en la 12 edici\u00f3n de la Volvo Ocean Race tras imponerse en la tercera etapa entre Abu Dhabi y Sanya (China). El Abu Dhabi de Ian Walker y Roberto Berm\u00fadez de Castro, segundo en Newport, se...",
+            "date": "2015-05-07",
             "categories": "volvo-ocean-race",
-            "tags": "complicada,batalla,sexta,vuelta,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,quinta,pelea,mapfre,mundo,etapa",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/europapress.es/2015/05/el-mapfre-se-pelea-con-las-algas-y-desciende",
+            "tags": "segundo,ian,ian_walker,walker,abu,abu_dhabi,dhabi,tercera,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,edici\u00f3n,triunfo,chino,gana,dongfeng,newport,etapa,china",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/deportes.elpais.com/2015/05/el-dongfeng-gana-en-newport",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://deportes.elpais.com/deportes/2015/05/07/actualidad/1431023048_866711.html"
+        },
+        "diarioinformacion.com/2015/05/el-dongfeng-se-impone-en-la-sexta-etapa-de-volvo-ocean": {
+            "title": "El Dongfeng se impone en la sexta etapa de la Volvo Ocean Race y el Mapfre queda cuarto...",
+            "snippet": "El VO65 Dongfeng franco-chino de Charles Caudrelier se ha impuesto en la sexta etapa de la Volvo Ocean Race entre Itaja\u00ed (Brasil) y Newport (Estados Unidos) al cruzar la l\u00ednea de meta a las 02:03:00 GMT de hoy, despu\u00e9s de invertir 17 d\u00edas, 9...",
+            "date": "2015-05-07",
+            "categories": "impuesto,volvo-ocean-race",
+            "tags": "cruzar,sexta,charles,charles_caudrelier,caudrelier,chino,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,impone,dongfeng,etapa,mapfre,franco,itaja\u00ed,brasil,newport,d\u00edas",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/diarioinformacion.com/2015/05/el-dongfeng-se-impone-en-la-sexta-etapa-de-volvo-ocean",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://diarioinformacion.com/nautica/2015/05/07/dongfeng-impone-sexta-etapa-volvo/1629733.html"
+        },
+        "nauta360.expansion.com/2015/05/el-puesto-de-timonel-en-team-sca": {
+            "title": "El puesto de timonel en el Team SCA...",
+            "snippet": "Competir en la Volvo Ocean Race, la vuelta al mundo por equipos y escalas, es un todo un desaf\u00edo personal y humano. Bien los saben las componentes del \u00fanico equipo femenino de esta edici\u00f3n 2015, el team SCA. La tripulante de la embarcaci\u00f3n...",
+            "date": "2015-05-07",
+            "categories": "volvo-ocean-race",
+            "tags": "equipos,edici\u00f3n,escalas,vuelta,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,team,team_sca,sca,mundo",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/nauta360.expansion.com/2015/05/el-puesto-de-timonel-en-team-sca",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://nauta360.expansion.com/2015/05/06/volvo_ocean_race/1430906761.html"
+        },
+        "abc.es/2015/05/vor-dongfeng-se-impone-en-newport": {
+            "title": "VOR: Dongfeng se impone en Newport...",
+            "snippet": "Ahora nuestro objetivo es ser segundos, y ganar las series In-Port, explicaba el veterano patr\u00f3n holand\u00e9s que celebra con \u00e9sta su s\u00e9ptima participaci\u00f3n, y a quien todav\u00eda se le resiste el triunfo en la Volvo Ocean Race. El barco espa\u00f1ol...",
+            "date": "2015-05-07",
+            "categories": "volvo-ocean-race",
+            "tags": "barco,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,resiste,triunfo,celebra,impone,dongfeng,newport",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/abc.es/2015/05/vor-dongfeng-se-impone-en-newport",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://abc.es/vela/noticia/vor-dongfeng-se-impone-en-newport/"
+        },
+        "eldesmarque.com/2015/05/el-dongfeng-acelera-hacia-newport-y-s%C3%B3lo-abu-dhabi-resiste": {
+            "title": "El 'Dongfeng'acelera hacia Newport y s\u00f3lo 'Abu Dhabi'resiste su velocidad...",
+            "snippet": "El 'Dongfeng'franco-chino de Charles Caudrelier ha acelerado esta ma\u00f1ana su velocidad en la recta final de la sexta etapa de la Volvo Ocean Race y se encuentra a 135... y con una ventaja de apenas 2 millas, (4 km) e 'Dongfeng'viraba para cubrir...",
+            "date": "2015-05-06",
+            "categories": "volvo-ocean-race",
+            "tags": "volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,sexta,charles,charles_caudrelier,caudrelier,chino,resiste,abu,abu_dhabi,dhabi,hacia,dongfeng,newport,franco,etapa,millas",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/eldesmarque.com/2015/05/el-dongfeng-acelera-hacia-newport-y-s%C3%B3lo-abu-dhabi-resiste",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://eldesmarque.com/vela/54982-el-dongfeng-acelera-hacia-newport-y-solo-abu-dhabi-resiste-su-velocidad"
+        },
+        "diarioinformacion.com/2015/05/el-mapfre-pelea-por-podio-de-la-volvo-ocean-race": {
+            "title": "El Mapfre pelea por el podio de la Volvo Ocean Race, en la etapa de Itajai a Newport...",
+            "snippet": "Parte posiciones de las 12:00 hora espa\u00f1ola 6 de mayo de 2015??1 Dongfeng Racing Team, CHN (Charles Caudrelier) a 156,6 millas de la llegada?2 Abu Dhabi Ocean Racing, UAE (Ian Walker), a 6 millas del l\u00edder?3 Team Brunel, NED (Bouwe Bekking...",
+            "date": "2015-05-06",
+            "categories": "volvo-ocean-race",
+            "tags": "team,team_brunel,brunel,millas,millas-del-l\u00edder,l\u00edder,ian,ian_walker,walker,abu,abu_dhabi,abu_dhabi_ocean,dhabi,dhabi_ocean,dhabi_ocean_racing,ocean,ocean_racing,racing,charles,charles_caudrelier,caudrelier,dongfeng,volvo,volvo_ocean,volvo_ocean_race,ocean_race,race,pelea,mapfre,etapa,newport",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/diarioinformacion.com/2015/05/el-mapfre-pelea-por-podio-de-la-volvo-ocean-race",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://diarioinformacion.com/nautica/2015/05/06/mapfre-pelea-podio-falta-150/1629334.html"
+        },
+        "rtvc.es/2015/05/la-volvo-ocean-race-atraviesa-el-tri%C3%A1ngulo-de-las-bermudas": {
+            "title": "La Volvo Ocean Race atraviesa el ''tri\u00e1ngulo de las Bermudas''...",
+            "snippet": "De entrada, no hay nada oficial sobre el 'Tri\u00e1ngulo de las Bermudas'. No es un \u00e1rea que est\u00e9 delimitada en mapas, pero se entiende que se extiende desde Miami, a la isla de Bermuda y San Juan en Puerto Rico. Dejando atr\u00e1s las leyendas de...",
+            "date": "2015-05-05",
+            "categories": "leyendas,volvo-ocean-race",
+            "tags": "volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/rtvc.es/2015/05/la-volvo-ocean-race-atraviesa-el-tri%C3%A1ngulo-de-las-bermudas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvolvo%2Bocean%2Brace&format=RSS&cc=es",
+            "source_url": "http://rtvc.es/deportes/la-volvo-ocean-race-atraviesa-el-tri\u00e1ngulo-de-las-bermudas-134733.aspx"
+        },
+        "europapress.es/2015/05/el-mapfre-se-mantiene-quinto-y-la-flota-comprime": {
+            "title": "El 'MAPFRE'se mantiene quinto y la flota se comprime...",
+            "snippet": "La flota de la Volvo Ocean Race, la vuelta al mundo a vela sin escalas, se ha comprimido en las \u00faltimas horas y el 'MAPFRE'se mantiene quinto a 22 millas del l\u00edder de la sexta etapa, el 'Dongfeng', y a tan solo una de 'Alvimedica', su rival...",
+            "date": "2015-05-03",
+            "categories": "volvo-ocean-race",
+            "tags": "millas,millas-del-l\u00edder,l\u00edder,sexta,vela,escalas,vuelta,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,flota,mapfre,mundo,etapa,dongfeng",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/europapress.es/2015/05/el-mapfre-se-mantiene-quinto-y-la-flota-comprime",
             "resource_url": "http://www.bing.com/news/search?first=1&q=volvo%2Bocean%2Brace&format=RSS&cc=es",
-            "source_url": "http://europapress.es/deportes/noticia-mapfre-pelea-algas-desciende-quinta-plaza-20150502181234.html"
+            "source_url": "http://europapress.es/deportes/noticia-mapfre-mantiene-quinto-flota-comprime-20150503164710.html"
         },
-        "sail-world.com/2015/05/volvo-ocean-race-tight-battle-at-the-front-sail-world-press": {
-            "title": "Volvo Ocean Race - Tight battle at the front - Sail World (press release)...",
-            "snippet": "Sail World (press release)Volvo Ocean Race - Tight battle at the frontSail World (press release)2014 - 15 Volvo Ocean Race - In a tight battle at the front, a tiny 0.3 nautical miles (nm) separates the front three boats. Yes, we have a helluva race...",
-            "date": "2015-05-02",
+        "nauta360.expansion.com/2015/05/el-reportero-del-mapfre-fran-vignale-se-hace-un-selfie": {
+            "title": "El reportero del Mapfre, Fran Vignale, se hace un 'selfie'en popa.",
+            "snippet": "A sus 32 a\u00f1os a\u00f1os, el c\u00e1ntabro disputa su tercera Volvo Ocean Race, siendo en esta ocasi\u00f3n proa y capit\u00e1n del barco Mapfre, as\u00ed como el 'rey del bricolaje'cuando a bordo se produce cualquier rotura o aver\u00eda. Estamos ya a punto de encarar...",
+            "date": "2015-05-03",
             "categories": "volvo-ocean-race",
-            "tags": "world,sail,sail_world,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/sail-world.com/2015/05/volvo-ocean-race-tight-battle-at-the-front-sail-world-press",
-            "resource_url": "http://news.google.es/?hl=es&q=volvo%2Bocean%2Brace&output=atom&nord=1",
-            "source_url": "http://sail-world.com/Volvo-Ocean-Race----Tight-battle-at-the-front/133955"
-        },
-        "europapress.es/2015/05/el-mapfre-sigue-cuarto-en-su-defensa-por-la-ruta-norte": {
-            "title": "El 'MAPFRE'sigue cuarto en su defensa por la ruta Norte...",
-            "snippet": "meta de la sexta etapa de la Volvo Ocean Race. En el Atl\u00e1ntico Norte y a la altura de Martinica, la situaci\u00f3n parece aclararse despu\u00e9s de que los dos partes meteorol\u00f3gicos de los que dispone la flota hayan comenzado a converger y apuntan a una...",
-            "date": "2015-05-01",
-            "categories": "volvo-ocean-race",
-            "tags": "flota,atl\u00e1ntico,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,sexta,sigue,ruta,mapfre,norte,etapa",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/europapress.es/2015/05/el-mapfre-sigue-cuarto-en-su-defensa-por-la-ruta-norte",
+            "tags": "barco,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,tercera,mapfre",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/nauta360.expansion.com/2015/05/el-reportero-del-mapfre-fran-vignale-se-hace-un-selfie",
             "resource_url": "http://www.bing.com/news/search?first=1&q=volvo%2Bocean%2Brace&format=RSS&cc=es",
-            "source_url": "http://europapress.es/deportes/noticia-mapfre-sigue-cuarto-defensa-ruta-norte-20150501185333.html"
+            "source_url": "http://nauta360.expansion.com/2015/05/03/mapfre_in_the_vor/1430668558.html"
         },
-        "sailingscuttlebutt.com/2015/05/inside-track-dawn-riley-&-craig-leweck-volvo-ocean-race-2014": {
-            "title": "Inside Track: Dawn Riley & Craig Leweck, Volvo Ocean Race 2014-15 - Scuttlebutt Sailing News...",
-            "snippet": "Scuttlebutt Sailing NewsInside Track: Dawn Riley & Craig Leweck, Volvo Ocean Race 2014-15Scuttlebutt Sailing NewsGenny Tulloch, host and producer of the Inside Track, is joined by Dawn Riley and Craig Leweck who offer insight on the fleet at this...",
-            "date": "2015-05-01",
-            "categories": "volvo-ocean-race",
-            "tags": "scuttlebutt,scuttlebutt_sailing,sailing,scuttlebutt_sailing_news,sailing_news,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/sailingscuttlebutt.com/2015/05/inside-track-dawn-riley-&-craig-leweck-volvo-ocean-race-2014",
-            "resource_url": "http://news.google.es/?hl=es&q=volvo%2Bocean%2Brace&output=atom&nord=1",
-            "source_url": "http://sailingscuttlebutt.com/2015/05/01/inside-track-dawn-riley-craig-leweck-volvo-ocean-race-2014-15/"
-        },
-        "abc.es/2015/05/vor-barco-casi-nuevo-para-vestas": {
-            "title": "VOR: Barco casi nuevo para Vestas...",
-            "snippet": "El tipo de esprint que nosotros tenemos que realizar es completamente distinto al de los que est\u00e1n en el agua, pero sigue siendo parte de lo que es la Volvo Ocean Race; las adversidades son parte de este evento y de las regatas oce\u00e1nicas, y tienes...",
-            "date": "2015-05-01",
-            "categories": "regata,volvo-ocean-race",
-            "tags": "volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,sigue,barco,vestas",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/abc.es/2015/05/vor-barco-casi-nuevo-para-vestas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=volvo%2Bocean%2Brace&format=RSS&cc=es",
-            "source_url": "http://abc.es/vela/noticia/vor-barco-casi-nuevo-para-vestas/"
-        },
-        "eldia.es/2015/04/mapfre-y-dongfeng-presionan-al-l%C3%ADder-abu-dhabi-a-la-entrada": {
-            "title": "'Mapfre'y 'Dongfeng'presionan al l\u00edder Abu Dhabi'a la entrada del Caribe...",
-            "snippet": "El 'Abu Dhabi'de Ian Walker y Roberto Berm\u00fadez de Castro sigue l\u00edder de la sexta etapa de la Volvo Ocean Race pero mantiene una dura lucha frente al 'Dongfeng'franc\u00e9s y el 'Mapfre'espa\u00f1ol, que se ha colocado a su estela. La flota esta dividida...",
-            "date": "2015-04-30",
-            "categories": "volvo-ocean-race",
-            "tags": "flota,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,sigue,sexta,abu,abu_dhabi,dhabi,mapfre,dongfeng,etapa",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/eldia.es/2015/04/mapfre-y-dongfeng-presionan-al-l%C3%ADder-abu-dhabi-a-la-entrada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=volvo%2Bocean%2Brace&format=RSS&cc=es",
-            "source_url": "http://eldia.es/deportes/2015-04-30/22--Mapfre-Dongfeng-presionan-lider-Abu-Dhabi-entrada-Caribe.htm"
-        },
-        "es.euronews.com/2015/04/el-dongfeng-recupera-liderato-en-sexta-etapa-de-volvo-ocean-race": {
-            "title": "El 'Dongfeng'recupera liderato en sexta etapa de Volvo Ocean Race - euronews...",
-            "snippet": "euronewsEl 'Dongfeng'recupera liderato en sexta etapa de Volvo Ocean RaceeuronewsEl 'Dongfeng'chino retoma las riendas de la sexta etapa de la Volvo Ocean Race, con salida desde el puerto brasile\u00f1o de Itaja\u00ed y llegada en Newport, Estados Unidos.",
-            "date": "2015-04-30",
-            "categories": "volvo-ocean-race",
-            "tags": "salida,chino,sexta,volvo,volvo_ocean,ocean,volvo_ocean_race,ocean_race,race,recupera,dongfeng,etapa,itaja\u00ed,newport",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/es.euronews.com/2015/04/el-dongfeng-recupera-liderato-en-sexta-etapa-de-volvo-ocean-race",
-            "resource_url": "http://news.google.es/?hl=es&q=volvo%2Bocean%2Brace&output=atom&nord=1",
-            "source_url": "http://es.euronews.com/2015/04/30/el-dongfeng-recupera-liderato-en-sexta-etapa-de-volvo-ocean-race/"
-        },
-        "sailingscuttlebutt.com/2015/04/getting-team-vestas-wind-back-to-the-volvo-ocean-race-scuttlebutt": {
-            "title": "Getting Team Vestas Wind back to the Volvo Ocean Race - Scuttlebutt Sailing News...",
-            "snippet": "Scuttlebutt Sailing NewsGetting Team Vestas Wind back to the Volvo Ocean RaceScuttlebutt Sailing NewsThe shed at Persico Marine in Bergamo, Italy, is bustling with activity with dozens of people working on the different parts of the re-born Vestas...",
-            "date": "2015-04-30",
-            "categories": "volvo-ocean-race",
-            "tags": "persico,volvo,volvo_ocean,ocean,sailing,scuttlebutt,scuttlebutt_sailing,team,team_vestas,team_vestas_wind,vestas,vestas_wind,wind,scuttlebutt_sailing_news,sailing_news,volvo_ocean_race,ocean_race,race,bergamo,italy",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/sailingscuttlebutt.com/2015/04/getting-team-vestas-wind-back-to-the-volvo-ocean-race-scuttlebutt",
-            "resource_url": "http://news.google.es/?hl=es&q=volvo%2Bocean%2Brace%2Bvolvo%2Bocean%2Brace&output=atom&nord=1",
-            "source_url": "http://sailingscuttlebutt.com/2015/04/30/getting-team-vestas-wind-back-to-the-volvo-ocean-race/"
-        },
-        "nauta360.expansion.com/2015/04/una-nube-supers%C3%B3nica": {
+        "nauta360.expansion.com/2015/05/una-nube-supers%C3%B3nica": {
             "title": "Una nube 'supers\u00f3nica'...",
             "snippet": "Once d\u00edas despu\u00e9s de que la flota tomara la salida de la etapa 6 entre Itaja\u00ed (Brasil), y Newport (EEUU), tras millas recorridas en el oc\u00e9ano Atl\u00e1ntico, la flota de la Volvo Ocean Race sigue librando una batalla abierta. Los seis barcos...",
-            "date": "2015-04-30",
+            "date": "2015-05-03",
             "categories": "volvo-ocean-race",
-            "tags": "sigue,batalla,volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,flota,salida,etapa,itaja\u00ed,newport,atl\u00e1ntico",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/nauta360.expansion.com/2015/04/una-nube-supers%C3%B3nica",
+            "tags": "volvo,volvo_ocean,volvo_ocean_race,ocean,ocean_race,race,flota,millas,d\u00edas,etapa,itaja\u00ed,brasil,newport",
+            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/nauta360.expansion.com/2015/05/una-nube-supers%C3%B3nica",
             "resource_url": "http://www.bing.com/news/search?first=1&q=volvo%2Bocean%2Brace&format=RSS&cc=es",
             "source_url": "http://nauta360.expansion.com/2015/04/30/volvo_ocean_race/1430407643.html"
-        },
-        "sail-world.com/2015/04/volvo-ocean-race-70-percent-rebuilt-in-half-the-time-videos": {
-            "title": "Volvo Ocean Race - '70 percent rebuilt, in half the time'Videos - Sail World...",
-            "snippet": "Sail WorldVolvo Ocean Race - '70 percent rebuilt, in half the time'VideosSail WorldVolvo Ocean Race - Most of Team Vestas Wind crew members have been reunited in Bergamo, Italy, at the Persico shipyard where the rebuild process progresses swiftly...",
-            "date": "2015-04-30",
-            "categories": "volvo-ocean-race",
-            "tags": "team,team_vestas,team_vestas_wind,vestas,vestas_wind,wind,ocean,ocean_race,race,sail,sail_world,world,volvo,volvo_ocean,volvo_ocean_race,bergamo,italy,persico",
-            "recuweb_url": "http://es.recuweb.com/volvo-ocean-race/sail-world.com/2015/04/volvo-ocean-race-70-percent-rebuilt-in-half-the-time-videos",
-            "resource_url": "http://news.google.es/?hl=es&q=volvo%2Bocean%2Brace&output=atom&nord=1",
-            "source_url": "http://sail-world.com/Volvo-Ocean-Race----70-percent-rebuilt--in-half-the-time----Videos/133909"
         }
     }
 }

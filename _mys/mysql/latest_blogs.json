@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "operativoslinux.wordpress.com/2015/04/mysql-resetear-la-contrase%C3%B1a-de-root-operativoslinux": {
+            "title": "MySQL: Resetear la contrase\u00f1a de root OperativosLinux...",
+            "snippet": "Hay veces que se pone una contrase\u00f1a dif\u00edcil para el usuario root (bien hecho), pero no se apunta en ning\u00fan lado (mal hecho) y al final se olvida. Bueno, de momento para solucionar esto en MySQL es posible y f\u00e1cil.",
+            "date": "2015-04-23",
+            "author_name": "IsmaelChasco",
+            "categories": "mysql",
+            "tags": "momento,mysql,bueno",
+            "recuweb_url": "http://es.recuweb.com/mysql/operativoslinux.wordpress.com/2015/04/mysql-resetear-la-contrase%C3%B1a-de-root-operativoslinux",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://operativoslinux.wordpress.com/2015/04/23/mysql-resetear-la-contrasena-de-root/"
+        },
         "linux-party.com/2015/04/conocer-que-ips-est%C3%A1n-conectados-a-mysql-haciendo-consultas": {
             "title": "Conocer que IPs est\u00e1n conectados a MySQL haciendo consultas a...",
             "snippet": "He intentado averiguar que IPs \"externas\" estaban haciendo consultas a la BBDD de MySQL, bueno, yo al menos, por mucho que lo he intentado no he conseguido conocer m\u00e1s IP que la del server de la BBDD, y \u00e9sta, no es...",
             "date": "2015-04-22",
             "author_name": "Javier Orovengua",
             "categories": "mysql",
-            "tags": "server,mysql",
+            "tags": "server,mysql,bueno",
             "recuweb_url": "http://es.recuweb.com/mysql/linux-party.com/2015/04/conocer-que-ips-est%C3%A1n-conectados-a-mysql-haciendo-consultas",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://linux-party.com/index.php/89-basesdedatos/9311-conocer-que-ips-estan-conectados-a-mysql-haciendo-consultas-a-la-base-de-datos"
         },
         "euskadinnova.net/2015/04/infraestructura-lamp-linux-apache-mysql-php-euskadi": {
@@ -28,9 +39,9 @@
             "date": "2015-04-20",
             "author_name": "desconocido",
             "categories": "lenguaje,mysql,php",
-            "tags": "apache,apache_mysql,apache_mysql_php,mysql,mysql_php,php,servidor,web,datos",
+            "tags": "gestor,gestor-de-base,base,linux,apache,apache_mysql,apache_mysql_php,mysql,mysql_php,php,servidor,web,datos",
             "recuweb_url": "http://es.recuweb.com/php/euskadinnova.net/2015/04/infraestructura-lamp-linux-apache-mysql-php-euskadi",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://euskadinnova.net/es/enpresa-digitala/agenda/infraestructura-lamp-linux-apache-mysql/9450.aspx?utm_source=rss_feed&utm_medium=rss&utm_campaign=accesos_rss"
         },
         "stratos-ad.com/2015/04/stratos-trabajo-programador-mysql-php-y-javascript": {
@@ -44,26 +55,15 @@
             "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://stratos-ad.com/index.php?section=2&subsection=1&vtipo=1&vfecha=2015-04-15&vhora=13:13:30"
         },
-        "geeks.ms/2015/04/access-y-mysql-con-recorsets-desconectados-geeksms": {
-            "title": "Access y MySQL con recorsets desconectados - Access - Geeksms...",
-            "snippet": "El pr\u00f3ximo jueves 16/04/15 a las 21:00, Carlos Gonz\u00e1lez (Guarracuco) nos hablar\u00e1 de lo que son recordsets desconectados y c\u00f3mo utilizarlos a trav\u00e9s de una conexi\u00f3n en web con MySql. Nos ofrecer\u00e1 diversas sistem\u00e1ticas...",
-            "date": "2015-04-14",
-            "author_name": "Chea",
-            "categories": "mysql",
-            "tags": "carlos,mysql,web",
-            "recuweb_url": "http://es.recuweb.com/mysql/geeks.ms/2015/04/access-y-mysql-con-recorsets-desconectados-geeksms",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://geeks.ms/blogs/access/archive/2015/04/14/access-y-mysql-con-recorsets-desconectados.aspx"
-        },
         "juank.io/2015/04/entity-framework-con-mysql-y-sql-server-c-juank-1-0": {
             "title": "Entity Framework con MySql y SQL Server C - JuanK 1/0...",
             "snippet": "Sino conoces EF es una buena oportunidad para conocerlo y si ya lo conocias es la oportunidad para ver como hacerlo funcionar con MySQL myu f\u00e1cilmente.",
             "date": "2015-04-13",
             "author_name": "Juan Carlos Ruiz",
             "categories": "mysql",
-            "tags": "hacerlo,sql,server,mysql",
+            "tags": "sql,server,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/juank.io/2015/04/entity-framework-con-mysql-y-sql-server-c-juank-1-0",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://juank.io/entity-framework-mysql-sqlserver-csharp/"
         },
         "netsysblog.info/2015/03/netsys-blog-mysql-workbench-disponible-para-fedora-21": {
@@ -72,54 +72,54 @@
             "date": "2015-03-29",
             "author_name": "noreply@blogger.com (\u00c1lvaro Castillo)",
             "categories": "mysql",
-            "tags": "programa,poco,mysql,mysql_workbench,workbench",
+            "tags": "poco,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/netsysblog.info/2015/03/netsys-blog-mysql-workbench-disponible-para-fedora-21",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://netsysblog.info/2015/03/mysql-workbench-disponible-para-fedora.html"
         },
-        "brotebit.blogspot.com/2015/03/conectar-sql-a-excel-con-power-pivot": {
-            "title": "Conectar Sql a Excel con Power Pivot...",
-            "snippet": "Tener conectado Excel directamente con Sql puede ser muy \u00fatil a la hora de armar Dashboards y paneles. Hoy te ense\u00f1o como hacerlo con Power Pivot. Lo que vas a necesitar: Microsoft Excel Excel PowerPivot Plugin () MySQL Workbench ()...",
-            "date": "2015-03-26",
-            "author_name": "(Brote Bit)",
+        "ochobitshacenunbyte.com/2015/02/next-story-crear-una-base-de-datos-mysql-en-gnu-linux": {
+            "title": "Next story Crear una base de datos MySQL en GNU Linux...",
+            "snippet": "Pr\u00e1cticamente cada d\u00eda tengo que lidiar con la l\u00ednea de comandos de la consola MySQL en los diferentes sistemas que administro GNU Linux. Siguiendo la l\u00ednea de otros art\u00edculos, \u00e9ste va para mis apuntes y para todo el...",
+            "date": "2015-02-02",
+            "author_name": "desconocido",
             "categories": "mysql",
-            "tags": "mysql,mysql_workbench,workbench,ense\u00f1o,hacerlo,hora,sql",
-            "recuweb_url": "http://es.recuweb.com/mysql/brotebit.blogspot.com/2015/03/conectar-sql-a-excel-con-power-pivot",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
-            "source_url": "http://brotebit.blogspot.com/2015/03/conectar-sql-excel-con-power-pivot.html"
+            "tags": "apuntes,sistemas,consola,linux,base,crear,datos,mysql",
+            "recuweb_url": "http://es.recuweb.com/mysql/ochobitshacenunbyte.com/2015/02/next-story-crear-una-base-de-datos-mysql-en-gnu-linux",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ochobitshacenunbyte.com/2015/02/02/crear-una-base-de-datos-mysql-en-gnu-linux/"
         },
-        "diegomacev.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu": {
-            "title": "Cambio de Puerto de MySql en Ubuntu...",
-            "snippet": "\u00bfPara que nos sirve el cambio de puerto? Este sirve para brindarle una mayor seguridad a mysql y para que no haya errores con el puerto. Al igual se utiliza para abrir un puerto en el router y dirigirlo al servidor donde se tiene instalado mysql de...",
-            "date": "2015-03-25",
-            "author_name": "diegomac93",
+        "deskogabriel.wordpress.com/2014/12/cambiar-el-definer-de-mysql-rootlocalhost-mis-apuntes": {
+            "title": "Cambiar el definer de Mysql(rootlocalhost) Mis apuntes de...",
+            "snippet": "Cambiar el definer de Mysql(rootlocalhost). Cuando deseamos usar vistas o procedimientos almacenados en una base de datos remota,como en el caso de google cloud platform sucede que los procedimientos no se...",
+            "date": "2014-12-30",
+            "author_name": "GabrielGP",
+            "categories": "google,mysql",
+            "tags": "base,apuntes,mysql,datos",
+            "recuweb_url": "http://es.recuweb.com/mysql/deskogabriel.wordpress.com/2014/12/cambiar-el-definer-de-mysql-rootlocalhost-mis-apuntes",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://deskogabriel.wordpress.com/2014/12/30/cambiar-el-definer-de-mysqlrootlocalhost/"
+        },
+        "nacionphp.com/2014/12/referencia-para-valores-db-host-en-desarrollo": {
+            "title": "Referencia para valores DB_HOST en Desarrollo...",
+            "snippet": "BlueHost, localhost. DreamHost,. GoDaddy Shared and 4GH Hosting, In the Databases menu go to MySQL. To the right of the database name click on Actions and Details. The hostname is at the bottom...",
+            "date": "2014-12-17",
+            "author_name": "adminphp",
             "categories": "mysql",
-            "tags": "puerto,cambio,mysql,ubuntu,servidor",
-            "recuweb_url": "http://es.recuweb.com/mysql/diegomacev.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
-            "source_url": "http://diegomacev.wordpress.com/2015/03/25/cambio-de-puerto-de-mysql-en-ubuntu/"
+            "tags": "desarrollo,localhost,hosting,databases,mysql,database",
+            "recuweb_url": "http://es.recuweb.com/mysql/nacionphp.com/2014/12/referencia-para-valores-db-host-en-desarrollo",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://nacionphp.com/site/?p=71"
         },
-        "lizbethrojas.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu": {
-            "title": "Cambio de puerto de MySQL en Ubuntu...",
-            "snippet": "El puerto que esta por defecto en mysql es el 3306, en caso de contar con otro programa como xampp, tendr\u00edamos que detener el primero para poder ejecutarlo ya que se encuentran en el mismo puerto, evitando el funcionamiento del programa. Para no...",
-            "date": "2015-03-25",
-            "author_name": "liz31ropi",
-            "categories": "xampp,mysql",
-            "tags": "programa,puerto,cambio,mysql,ubuntu",
-            "recuweb_url": "http://es.recuweb.com/mysql/lizbethrojas.wordpress.com/2015/03/cambio-de-puerto-mysql-en-ubuntu",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=es",
-            "source_url": "http://lizbethrojas.wordpress.com/2015/03/25/cambio-de-puerto-de-mysql-en-ubuntu/"
-        },
-        "preceptosdigitales.com/2015/03/episodio-22-mysql-preceptos-digitales": {
-            "title": "Episodio 22: MySQL Preceptos Digitales...",
-            "snippet": "Herramienta hecha en php para administrar MySQL a trav\u00e9s de p\u00e1ginas web (permite hacer de todo) Limitado por el timeout de servidor (max_input_time, max_execution_time) Limitado por el timeout de MySQL...",
-            "date": "2015-03-17",
-            "author_name": "Sebasti\u00e1n Barr\u00eda Garc\u00e9s",
-            "categories": "mysql,php",
-            "tags": "mysql,php,web,servidor",
-            "recuweb_url": "http://es.recuweb.com/php/preceptosdigitales.com/2015/03/episodio-22-mysql-preceptos-digitales",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://preceptosdigitales.com/episodios/episodio-22-mysql/"
+        "luisramirezdeleon2014.wordpress.com/2014/09/como-se-instala-my-sql-en-windows": {
+            "title": "Como se instala my sql en windows...",
+            "snippet": "MySQL es un gestor de base de datos que puedes emplear en equipos con distintos sistemas operativos, lo que lo hace muy vers\u00e1til. Otro de sus atractivos radica []...",
+            "date": "2014-09-27",
+            "author_name": "luisramirezdeleon2014",
+            "categories": "mysql",
+            "tags": "sistemas,gestor,gestor-de-base,base,sql,windows,mysql,datos",
+            "recuweb_url": "http://es.recuweb.com/mysql/luisramirezdeleon2014.wordpress.com/2014/09/como-se-instala-my-sql-en-windows",
+            "resource_url": "http://es.search.wordpress.com/?q=mysql&f=feed&page=1",
+            "source_url": "http://luisramirezdeleon2014.wordpress.com/2014/09/27/como-se-instala-my-sql-en-windows/"
         }
     }
 }

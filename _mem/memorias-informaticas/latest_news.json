@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "memorias-informaticas",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/memorias-informaticas/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/memorias-informaticas/memorias-informaticas/blogs.json"
     },
     "items": {
+        "muycanal.com/2015/04/kingston-anuncia-las-ssd-hyperx-savage": {
+            "title": "Kingston anuncia las SSD HyperX Savage...",
+            "snippet": "SSD HyperX Savage es la nueva soluci\u00f3n de almacenamiento basado en estado s\u00f3lido presentado por la divisi\u00f3n de Kingston Technology dedicada a memorias inform\u00e1ticas. Las SSD son el gran reclamo del almacenamiento mundial por sus ventajas frente a...",
+            "date": "2015-04-27",
+            "categories": "memoria,memorias-informaticas",
+            "tags": "memorias,memorias-inform\u00e1ticas,inform\u00e1ticas,nueva",
+            "recuweb_url": "http://es.recuweb.com/memorias-informaticas/muycanal.com/2015/04/kingston-anuncia-las-ssd-hyperx-savage",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmemorias%2Binformaticas&format=RSS&cc=es",
+            "source_url": "http://muycanal.com/2015/04/28/ssd-hyperx-savage"
+        },
         "computerhoy.com/2014/10/la-polic%C3%ADa-usa-perros-para-detectar-memorias-usb-ocultas-computerhoy": {
             "title": "La polic\u00eda usa perros para detectar memorias USB ocultas - ComputerHoy...",
             "snippet": "ComputerHoyLa polic\u00eda usa perros para detectar memorias USB ocultasComputerHoyEs por eso que la polic\u00eda de Nueva York est\u00e1 trabajando con perros adiestrados de invidentes, para localizar memorias inform\u00e1ticas ocultas, mediante el olfato. Al...",
@@ -30,16 +40,6 @@
             "recuweb_url": "http://es.recuweb.com/memorias-informaticas/eldiariomontanes.es/2014/09/crean-una-memoria-ram-cientos-de-veces-m%C3%A1s-eficiente-el-diario",
             "resource_url": "http://news.google.es/?hl=es&q=memorias%2Binformaticas&output=atom&nord=1",
             "source_url": "http://eldiariomontanes.es/tecnologia/investigacion/201409/03/crean-memoria-cientos-veces-20140903174311-rc.html"
-        },
-        "muycomputer.com/2014/08/corsair-presenta-memorias-ddr4-vengeance-lpx-y-dominator-muycomputer": {
-            "title": "Corsair presenta memorias DDR4 Vengeance LPX y Dominator... - MuyComputer...",
-            "snippet": "MuyComputerCorsair presenta memorias DDR4 Vengeance LPX y Dominator...MuyComputerPasadas semanas te comentamos que la llegada de la nueva generaci\u00f3n de memorias inform\u00e1ticas era inminente, y despu\u00e9s de ADATA, llega el anuncio de una de las marcas...",
-            "date": "2014-08-15",
-            "categories": "memoria,memorias-informaticas",
-            "tags": "nueva,memorias,memorias-inform\u00e1ticas,inform\u00e1ticas",
-            "recuweb_url": "http://es.recuweb.com/memorias-informaticas/muycomputer.com/2014/08/corsair-presenta-memorias-ddr4-vengeance-lpx-y-dominator-muycomputer",
-            "resource_url": "http://news.google.es/?hl=es&q=memorias%2Binformaticas&output=atom&nord=1",
-            "source_url": "http://muycomputer.com/2014/08/15/memorias-ddr4-corsair"
         }
     }
 }

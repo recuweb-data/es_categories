@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bayer-04-leverkusen",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bayer-04-leverkusen/",
@@ -11,68 +11,96 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bayer-04-leverkusen/bayer-04-leverkusen/blogs.json"
     },
     "items": {
-        "ksta.de/2015/05/bundesliga-spiel-am-samstag-bayer-leverkusen-f%C3%BCr-die-bayern-k%C3%B6lner-stadt": {
-            "title": "Bundesliga-Spiel am Samstag - Bayer Leverkusen f\u00fcr die Bayern... - K\u00f6lner Stadt-Anzeiger...",
-            "snippet": "K\u00f6lner Stadt-AnzeigerBundesliga-Spiel am Samstag - Bayer Leverkusen f\u00fcr die Bayern...K\u00f6lner Stadt-AnzeigerDie Bundesliga ist vorbei, sagte Bayern-Coach Guardiola vor dem vermeintlichen Topspiel gegen Bayer 04 Leverkusen am Samstag. Der Blick...",
-            "date": "2015-05-02",
-            "tags": "der,ist,k\u00f6lner,k\u00f6lner_stadt,stadt,f\u00fcr,bayer,bayer_leverkusen,leverkusen,bundesliga,bayern,anzeiger,gegen",
-            "recuweb_url": "http://es.recuweb.com/ksta.de/2015/05/bundesliga-spiel-am-samstag-bayer-leverkusen-f%C3%BCr-die-bayern-k%C3%B6lner-stadt",
-            "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
-            "source_url": "http://ksta.de/bayer-04-leverkusen/bundesliga-spiel-am-samstag--bayer-leverkusen-fuer-die-bayern-uninteressant,15189374,30571996.html"
+        "es-us.deportes.yahoo.com/2015/05/gladbach-bayer-leverkusen-duelo-clave-de-la-jornada-alemana": {
+            "title": "Gladbach-Bayer Leverkusen, duelo clave de la jornada alemana...",
+            "snippet": "De momento la ventaja es... Bayern Munich-Augsburgo, Borussia Dortmund-Hertha Berlin, Borussia Moenchengladbach-Bayer Leverkusen, Eintracht Frankfurt-Hoffenheim, Hannover 96-Werder Bremen, Stuttgart-Maguncia. Domingo: Paderborn-Wolfsburgo y...",
+            "date": "2015-05-07",
+            "categories": "borussia-dortmund",
+            "tags": "borussia,bayern,bayern_munich,munich,ventaja,duelo,jornada,alemana,bayer,bayer_leverkusen,leverkusen,wolfsburgo",
+            "recuweb_url": "http://es.recuweb.com/borussia-dortmund/es-us.deportes.yahoo.com/2015/05/gladbach-bayer-leverkusen-duelo-clave-de-la-jornada-alemana",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbayer%2B04%2Bleverkusen&format=RSS&cc=es",
+            "source_url": "http://es-us.deportes.yahoo.com/noticias/gladbach-bayer-leverkusen-duelo-clave-jornada-alemana-134500922--sow.html"
         },
-        "sport.interia.pl/2015/05/bundesliga-bayer-04-leverkusen-bayern-monachium-2-0-interia": {
-            "title": "Bundesliga: Bayer 04 Leverkusen - Bayern Monachium 2-0 - Interia...",
-            "snippet": "InteriaBundesliga: Bayer 04 Leverkusen - Bayern Monachium 2-0InteriaOsabiony Bayern Monachium, grajcy w eksperymentalnym ustawieniu, przegra w Leverkusen z Bayerem 0-2. Pewni tytuu w Bundeslidze Bawarczycy oszczdzali zawodnik\u00f3w przed p\u00f3finaem Ligi...",
-            "date": "2015-05-02",
-            "tags": "bayern,bundesliga,bayer,leverkusen",
-            "recuweb_url": "http://es.recuweb.com/sport.interia.pl/2015/05/bundesliga-bayer-04-leverkusen-bayern-monachium-2-0-interia",
+        "marca.com/2015/05/javi-mart%C3%ADnez-somos-el-bayern-y-tenemos-al-mejor-t%C3%A9cnico": {
+            "title": "Javi Mart\u00ednez: Somos el Bayern y tenemos al mejor t\u00e9cnico del mundo...",
+            "snippet": "As\u00ed explica Javi Mart\u00ednez lo que sinti\u00f3 el s\u00e1bado en el BayArena de Leverkusen, escenario en el... En situaciones as\u00ed es cuando importa tener una plantilla como la del Bayern. Se vio el d\u00eda del Oporto, que con muchas bajas sali\u00f3 un equipo...",
+            "date": "2015-05-05",
+            "tags": "equipo,bayern,leverkusen",
+            "recuweb_url": "http://es.recuweb.com/marca.com/2015/05/javi-mart%C3%ADnez-somos-el-bayern-y-tenemos-al-mejor-t%C3%A9cnico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbayer%2B04%2Bleverkusen&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/05/04/futbol/champions_league/1430740386.html"
+        },
+        "es.uefa.com/2015/05/el-leverkusen-supera-al-bayern-noticias": {
+            "title": "El Leverkusen supera al Bayern - Noticias - -...",
+            "snippet": "Leverkusen supera al Bayern - Noticias - UEFA.com Leverkusen supera al Bayern. El conjunto de Roger Schmidt venci\u00f3 por 2-0 al equipo de la UEFA Champions League, mientras que el Wolfsburgo empat\u00f3. Leer m\u00e1s. El Bayer 04 Leverkusen, tercero,...",
+            "date": "2015-05-03",
+            "tags": "champions,champions-league,league,equipo,leverkusen,bayern,noticias,uefa,venci\u00f3,wolfsburgo,bayer,tercero",
+            "recuweb_url": "http://es.recuweb.com/es.uefa.com/2015/05/el-leverkusen-supera-al-bayern-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
-            "source_url": "http://sport.interia.pl/bundesliga/news-bundesliga-bayer-04-leverkusen-bayern-monachium-2-0,nId,1727169"
+            "source_url": "http://es.uefa.com/memberassociations/association=ger/news/newsid=2242494.html"
+        },
+        "abc.com.py/2015/05/campe%C3%B3n-bayern-pierde-en-leverkusen": {
+            "title": "Campe\u00f3n Bayern pierde en Leverkusen...",
+            "snippet": "la carrera por quedar segundo es uno de los grandes alicientes de la recta final del torneo y los Lobos cuentan ahora con cuatro puntos de ventaja sobre el tercero, el Bayer Leverkusen, y con cinco sobre el Borussia M\u00f6nchengladbach (4), que...",
+            "date": "2015-05-02",
+            "tags": "borussia,borussia_m\u00f6nchengladbach,m\u00f6nchengladbach,cinco,bayer,cuentan,cuentan-ahora,ahora,ahora-con-cuatro,cuatro,cuatro-puntos,puntos,puntos-de-ventaja,ventaja,tercero,torneo,carrera,carrera-por-quedar,quedar,quedar-segundo,segundo,grandes,grandes-alicientes,alicientes,recta,pierde,campe\u00f3n,bayern,leverkusen,final,lobos",
+            "recuweb_url": "http://es.recuweb.com/abc.com.py/2015/05/campe%C3%B3n-bayern-pierde-en-leverkusen",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbayer%2B04%2Bleverkusen&format=RSS&cc=es",
+            "source_url": "http://abc.com.py/deportes/futbol/campeon-bayern-pierde-en-leverkusen-1362528.html"
+        },
+        "guatefutbol.com/2015/05/el-campe%C3%B3n-bayern-pierde-en-leverkusen-pensando-barcelona": {
+            "title": "El campe\u00f3n Bayern pierde en Leverkusen pensando en el Barcelona...",
+            "snippet": "la carrera por quedar segundo es uno de los grandes alicientes de la recta final del torneo y los 'Lobos'cuentan ahora con cuatro puntos de ventaja sobre el tercero, el Bayer Leverkusen, y con cinco sobre el Borussia M\u00f6nchengladbach (4), que visita...",
+            "date": "2015-05-02",
+            "tags": "visita,borussia,borussia_m\u00f6nchengladbach,m\u00f6nchengladbach,cinco,bayer,cuentan,cuentan-ahora,ahora,ahora-con-cuatro,cuatro,cuatro-puntos,puntos,puntos-de-ventaja,ventaja,tercero,torneo,carrera,carrera-por-quedar,quedar,quedar-segundo,segundo,grandes,grandes-alicientes,alicientes,recta,pensando,pierde,campe\u00f3n,bayern,leverkusen,barcelona,final,lobos",
+            "recuweb_url": "http://es.recuweb.com/guatefutbol.com/2015/05/el-campe%C3%B3n-bayern-pierde-en-leverkusen-pensando-barcelona",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbayer%2B04%2Bleverkusen&format=RSS&cc=es",
+            "source_url": "http://guatefutbol.com/otras-noticias/internacionales/14029-el-campen-bayern-pierde-en-leverkusen-pensando-en-el-barcelona"
         },
         "ksta.de/2015/05/heung-min-son-sonny-der-popstar-von-bayer-04-leverkusen-k%C3%B6lner": {
             "title": "Heung-Min Son Sonny, der Popstar von Bayer 04 Leverkusen - K\u00f6lner Stadt-Anzeiger...",
             "snippet": "K\u00f6lner Stadt-AnzeigerHeung-Min Son Sonny, der Popstar von Bayer 04 LeverkusenK\u00f6lner Stadt-AnzeigerHeung-Min Son, Asiens Fu\u00dfballer des Jahres, ist bei Bayer 04 Leistungstr\u00e4ger und Markenbotschafter zugleich. In seiner Heimat S\u00fcdkorea wird er...",
             "date": "2015-05-02",
-            "tags": "ist,bei,stadt,k\u00f6lner,k\u00f6lner_stadt,der,bayer,leverkusen,anzeiger,und",
+            "tags": "bayer,leverkusen",
             "recuweb_url": "http://es.recuweb.com/ksta.de/2015/05/heung-min-son-sonny-der-popstar-von-bayer-04-leverkusen-k%C3%B6lner",
             "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
             "source_url": "http://ksta.de/stadt-leverkusen/heung-min-son--sonny---der-popstar-von-bayer-04-leverkusen,15189132,30572478.html"
         },
-        "sportschau.de/2015/05/leverkusen-bezwingt-bayerns-rotations-elf": {
-            "title": "Leverkusen bezwingt Bayerns Rotations-Elf -...",
-            "snippet": "bezwingt Bayerns Bayern spielten bei der Generalprobe f\u00fcr das Halbfinale in der Champions League gegen den FC Barcelona mit einer verst\u00e4rkten C-Elf. Leverkusen gewann verdient mit 2:0 (0:0) und bleibt damit im Rennen um einen Platz zur direkten...",
+        "bbc.co.uk/2015/05/live-text-commentary-bbc-sport": {
+            "title": "Live Text Commentary - BBC Sport...",
+            "snippet": "BBC SportLive Text CommentaryBBC SportAttempt missed. Julian Brandt (Bayer 04 Leverkusen) left footed shot from the left side of the box misses to the right. Assisted by Tin Jedvaj following a set piece situation. 90:00 2:15. Foul by Mario G\u00f6tze...",
             "date": "2015-05-02",
-            "tags": "und,gegen,champions,champions_league,league,der,f\u00fcr,bei,bayern,leverkusen,barcelona",
-            "recuweb_url": "http://es.recuweb.com/sportschau.de/2015/05/leverkusen-bezwingt-bayerns-rotations-elf",
+            "tags": "bayer,leverkusen",
+            "recuweb_url": "http://es.recuweb.com/bbc.co.uk/2015/05/live-text-commentary-bbc-sport",
             "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
-            "source_url": "http://sportschau.de/fussball/bundesliga/spielbericht-bayer-leverkusen-gegen-bayern-muenchen-100.html"
+            "source_url": "http://bbc.co.uk/sport/0/football/32553139"
+        },
+        "canchallena.lanacion.com.ar/2015/05/los-suplentes-del-bayern-munich-perdieron-en-la-previa-duelo": {
+            "title": "Los suplentes del Bayern Munich perdieron en la previa del duelo... -...",
+            "snippet": "suplentes del Bayern Munich perdieron en la previa del duelo... (AFP).- Bayern Munich, campe\u00f3n de la Bundesliga desde el pasado fin de semana, perdi\u00f3 2-0 en su visita a Bayer Leverkusen, en la 31 jornada del campeonato alem\u00e1n, pensando ya en el...",
+            "date": "2015-05-02",
+            "tags": "pensando,jornada,bayer,bayer_leverkusen,leverkusen,visita,campe\u00f3n,duelo,bayern,bayern_munich,munich,bundesliga",
+            "recuweb_url": "http://es.recuweb.com/canchallena.lanacion.com.ar/2015/05/los-suplentes-del-bayern-munich-perdieron-en-la-previa-duelo",
+            "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
+            "source_url": "http://canchallena.lanacion.com.ar/1789444-los-suplentes-del-bayern-munich-perdieron-en-la-previa-del-duelo-ante-barcelona"
+        },
+        "europapress.es/2015/05/un-bayern-con-muchas-rotaciones-pincha-leverkusen-pensando-en-la-champions": {
+            "title": "Un Bayern con muchas rotaciones pincha Leverkusen pensando en la Champions...",
+            "snippet": "Con 62 puntos, saca cinco a un Borussia Monchengladbach con una jornada menos y seis al Bayer Leverkusen. Quien no tiene posibilidades de jugar la m\u00e1xima competici\u00f3n continental la temporada que viene es el Schalke 04, que sufri\u00f3 m\u00e1s de la...",
+            "date": "2015-05-02",
+            "tags": "jugar,jornada,bayer,borussia,cinco,pensando,bayern,leverkusen,champions,puntos,schalke",
+            "recuweb_url": "http://es.recuweb.com/europapress.es/2015/05/un-bayern-con-muchas-rotaciones-pincha-leverkusen-pensando-en-la-champions",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbayer%2B04%2Bleverkusen&format=RSS&cc=es",
+            "source_url": "http://europapress.es/deportes/futbol-00162/noticia-bayern-muchas-rotaciones-pincha-leverkusen-pensando-champions-20150502205922.html"
         },
         "bundesliga.com/2015/05/bayern-eager-to-stay-in-shape-for-barca-leverkusen-bundesliga-official": {
             "title": "Bayern eager to stay in shape for Barca in Leverkusen - Bundesliga - official website...",
             "snippet": "Bundesliga - official websiteBayern eager to stay in shape for Barca in LeverkusenBundesliga - official websiteBayern may have wrapped up the title last weekend, but they'll be keen to stay sharp for the trip to FC Barcelona in the UEFA Champions...",
             "date": "2015-05-01",
-            "tags": "champions,official,official-website,website,bayern,leverkusen,bundesliga,barcelona",
+            "tags": "uefa,champions,bayern,leverkusen,bundesliga,barcelona",
             "recuweb_url": "http://es.recuweb.com/bundesliga.com/2015/05/bayern-eager-to-stay-in-shape-for-barca-leverkusen-bundesliga-official",
             "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
             "source_url": "http://bundesliga.com/en/liga/news/2014/0000319358.php"
-        },
-        "bundesliga.com/2015/04/leverkusen-s-brandt-burning-bright-for-bayern-test-bundesliga-official-website": {
-            "title": "Leverkusen's Brandt burning bright for Bayern test - Bundesliga - official website...",
-            "snippet": "Bundesliga - official websiteLeverkusen's Brandt burning bright for Bayern testBundesliga - official websiteCologne - Amidst all the brouhaha surrounding FC Bayern M\u00fcnchen's ongoing injury epidemic, the blossoming form of the 2014/15 Bundesliga...",
-            "date": "2015-04-29",
-            "tags": "official,official-website,website,leverkusen,bayern,bundesliga",
-            "recuweb_url": "http://es.recuweb.com/bundesliga.com/2015/04/leverkusen-s-brandt-burning-bright-for-bayern-test-bundesliga-official-website",
-            "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
-            "source_url": "http://bundesliga.com/en/liga/news/2014/0000319199.php"
-        },
-        "libero.pe/2015/04/bayern-m%C3%BAnich-vs-bayer-leverkusen-b%C3%A1varos-igualan-0-en-l%C3%ADbero": {
-            "title": "Bayern M\u00fanich vs. Bayer Leverkusen: 'B\u00e1varos'igualan 0-0 en... - L\u00edbero...",
-            "snippet": "L\u00edberoBayern M\u00fanich vs. Bayer Leverkusen: 'B\u00e1varos'igualan 0-0 en...L\u00edberoBayern M\u00fanich sufri\u00f3, pero avanaz\u00f3 a las semifinales de la Copa Alemana al vencer 5-3 en definici\u00f3n por penales al Bayer Leverkusen, el encuentro en su tiempo regular...",
-            "date": "2015-04-08",
-            "tags": "tiempo,definici\u00f3n,copa,copa_alemana,alemana,m\u00fanich,bayer,bayer_leverkusen,leverkusen,bayern,bayern_m\u00fanich,penales",
-            "recuweb_url": "http://es.recuweb.com/libero.pe/2015/04/bayern-m%C3%BAnich-vs-bayer-leverkusen-b%C3%A1varos-igualan-0-en-l%C3%ADbero",
-            "resource_url": "http://news.google.es/?hl=es&q=bayer%2B04%2Bleverkusen&output=atom&nord=1",
-            "source_url": "http://libero.pe/futbol-internacional/2015-04-07-bayern-munich-vs-bayer-leverkusen-partido-de-copa-alemana"
         }
     }
 }

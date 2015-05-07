@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radares-marinos",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/radares-marinos/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/radares-marinos/radares-marinos/blogs.json"
     },
     "items": {
+        "nodaltec.am/2015/04/investigadores-crean-red-de-observatorios-marinos-en-golfo": {
+            "title": "Investigadores crean red de observatorios marinos en Golfo de...",
+            "snippet": "El responsable del proyecto, Francisco Ocampo Torres, dijo que esta red estar\u00e1 compuesta por boyas oceanogr\u00e1ficas superficiales, anclajes con sensores diversos, planeadores submarinos (gliders), radares y robots.",
+            "date": "2015-04-28",
+            "author_name": "Pablo",
+            "categories": "radar",
+            "tags": "marinos,golfo,radares",
+            "recuweb_url": "http://es.recuweb.com/radar/nodaltec.am/2015/04/investigadores-crean-red-de-observatorios-marinos-en-golfo",
+            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://nodaltec.am/2015/04/investigadores-crean-red-de-observatorios-marinos-en-golfo-de-mexico/"
+        },
         "dgeo.udec.cl/2014/07/dgeo-universidad-de-concepci%C3%B3n-destacados-la-semana": {
             "title": "DGEO Universidad de Concepci\u00f3n Destacados de la semana...",
             "snippet": "Durante el mes de mayo, James Morales Lasalle, estudiante de Geof\u00edsica de la UDEC, tuvo la oportunidad de capacitarse en el manejo de Radares Marinos de alta Frecuencia en Alemania, conocimiento que actualmente lo...",
@@ -19,7 +30,7 @@
             "categories": "conocimiento,radar,radares-marinos",
             "tags": "radares,radares_marinos,marinos,universidad,durante,frecuencia",
             "recuweb_url": "http://es.recuweb.com/radares-marinos/dgeo.udec.cl/2014/07/dgeo-universidad-de-concepci%C3%B3n-destacados-la-semana",
-            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://dgeo.udec.cl/blog/2014/07/28/destacados-de-la-semana-estudiante-realiza-capacitacion-en-alemania-para-el-manejo-de-radares-marinos/"
         },
         "pilotnaval.blogspot.com/2013/09/navegacion-iii-caracteristicas-de-los-radares-marinos": {
@@ -28,9 +39,9 @@
             "date": "2013-09-30",
             "author_name": "karen reyes",
             "categories": "radar,radares-marinos",
-            "tags": "banda,est\u00e1n,est\u00e1n-disponibles,disponibles,disponibles-en-banda,caracteristicas,radares,radares_marinos,marinos",
+            "tags": "caracteristicas,radares,radares_marinos,marinos",
             "recuweb_url": "http://es.recuweb.com/radares-marinos/pilotnaval.blogspot.com/2013/09/navegacion-iii-caracteristicas-de-los-radares-marinos",
-            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://pilotnaval.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos.html"
         },
         "caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos": {
@@ -52,7 +63,7 @@
             "categories": "radar,radares-marinos",
             "tags": "radares,radar-marino,marinos,detecci\u00f3n,buques,radares_marinos,caracteristicas",
             "recuweb_url": "http://es.recuweb.com/radares-marinos/caracteristicasradaresmarinos.blogspot.com/2013/09/caracteristicas-de-los-radares-marinos-radar",
-            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://caracteristicasradaresmarinos.blogspot.com/2013/09/radar.html"
         },
         "redes.redciencia.net/2013/03/redciencia-expertos-debaten-sobre-uso-de-radares": {
@@ -61,7 +72,7 @@
             "date": "2013-03-22",
             "author_name": "Equipo RedCiencia",
             "categories": "radio,propiedad,radar",
-            "tags": "uso,radares,universidad,mediante,marinos",
+            "tags": "radares,universidad,mediante,marinos",
             "recuweb_url": "http://es.recuweb.com/radar/redes.redciencia.net/2013/03/redciencia-expertos-debaten-sobre-uso-de-radares",
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://redes.redciencia.net/archives/106943"
@@ -83,21 +94,21 @@
             "date": "2010-03-27",
             "author_name": "desconocido",
             "categories": "radar",
-            "tags": "radares,marinos",
+            "tags": "radares,marinos,dos",
             "recuweb_url": "http://es.recuweb.com/radar/listindiario.com/2010/03/gobierno-comprar%C3%A1-2-radares-marinos-para-combatir-narco",
-            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos%2Bradares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://listindiario.com/la-republica/2010/3/27/136422/Gobierno-comprara-2-radares-marinos-para-combatir-narco"
         },
-        "kasakovich.wordpress.com/2009/04/radar-banda-s-vs-x-electronica-marina": {
-            "title": "Radar Banda S vs. Radar Banda X ELECTRONICA MARINA...",
-            "snippet": "En el mercado de Radares marinos est\u00e1n disponibles en banda X y/o banda S. claro esta tanto para radares convencionales (uso Magnetr\u00f3n) como para los radares con nueva tecnolog\u00eda de banda ancha FMCW (sin el uso...",
-            "date": "2009-04-22",
-            "author_name": "kasakovich",
-            "categories": "tecnologia,radar,electronica",
-            "tags": "uso,banda,est\u00e1n,est\u00e1n-disponibles,disponibles,disponibles-en-banda,radares,marina,marinos",
-            "recuweb_url": "http://es.recuweb.com/electronica/kasakovich.wordpress.com/2009/04/radar-banda-s-vs-x-electronica-marina",
+        "universalocean.es/2008/02/radares-para-detectar-los-v%C3%A9rtidos-marinos-universalocean": {
+            "title": "Radares para detectar los v\u00e9rtidos marinos UniversalOcean...",
+            "snippet": "En Galicia han realizado una gran iniciativa, ya que han colocado dos radares para intentar detectar los vertidos marinos, y es que ser\u00e1n pioneros en este.",
+            "date": "2008-02-09",
+            "author_name": "TintaCalamar",
+            "categories": "radar",
+            "tags": "dos,radares,marinos,gran",
+            "recuweb_url": "http://es.recuweb.com/radar/universalocean.es/2008/02/radares-para-detectar-los-v%C3%A9rtidos-marinos-universalocean",
             "resource_url": "http://www.google.com/search?q=radares%2Bmarinos&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://kasakovich.wordpress.com/2009/04/21/radar-banda-s-vs-radar-banda-x/"
+            "source_url": "http://universalocean.es/radares-para-detectar-los-vertidos-marinos/"
         }
     }
 }

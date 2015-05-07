@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "awstats",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/awstats/",
@@ -80,6 +80,16 @@
             "recuweb_url": "http://es.recuweb.com/javascript/blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-visitor-numbers",
             "resource_url": "http://news.google.es/?hl=es&q=awstats&output=atom&nord=1",
             "source_url": "http://blogs.pctechmag.com/2013/03/understanding-your-websites-traffic-awstats-vs-webalizer-vs-google-analytics-visitor-numbers/"
+        },
+        "onlamp.com/2005/12/analyzing-web-logs-with-awstats-onlamp": {
+            "title": "Analyzing Web Logs with AWStats - Onlamp...",
+            "snippet": "Analyzing Web Logs with AWStatsOnlampThis is the first of a two-part series exploring how to use the open source tool AWStats to perform web server log file analysis. This first part shows how to prepare a sample web log file, perform a basic...",
+            "date": "2005-12-04",
+            "categories": "awstats",
+            "tags": "web,awstats",
+            "recuweb_url": "http://es.recuweb.com/awstats/onlamp.com/2005/12/analyzing-web-logs-with-awstats-onlamp",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bawstats&output=atom&nord=1",
+            "source_url": "http://onlamp.com/pub/a/onlamp/2005/12/01/awstats.html"
         }
     }
 }

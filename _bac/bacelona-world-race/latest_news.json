@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bacelona-world-race",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bacelona-world-race/",
@@ -11,6 +11,45 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bacelona-world-race/bacelona-world-race/blogs.json"
     },
     "items": {
+        "naucher.com/2015/05/el-ayuntamiento-de-barcelona-alienta-al-cl%C3%BAster-n%C3%A1utico-a-actuar": {
+            "title": "EL AYUNTAMIENTO DE BARCELONA ALIENTA AL CL\u00daSTER N\u00c1UTICO A ACTUAR COMO LOBBY...",
+            "snippet": "El Cl\u00faster N\u00e1utico de Barcelona es, hasta el momento, una entidad llena de buenas proposiciones... ofrecido esta ma\u00f1ana en el Centro de Interpretaci\u00f3n de la Barcelona World Race. Vives ha recordado que el nacimiento del Cl\u00faster se produjo...",
+            "date": "2015-05-07",
+            "categories": "lobby",
+            "tags": "world,world-race,race,momento,barcelona,centro,interpretaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/lobby/naucher.com/2015/05/el-ayuntamiento-de-barcelona-alienta-al-cl%C3%BAster-n%C3%A1utico-a-actuar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbacelona%2Bworld%2Brace&format=RSS&cc=es",
+            "source_url": "http://naucher.com/es/actualidad/el-ayuntamiento-de-barcelona-alienta-al-cluster-nautico-a-actuar-como-lobby/_n:3306/"
+        },
+        "abc.es/2015/05/adi%C3%B3s-de-andor-serra-a-la-fnob": {
+            "title": "Adi\u00f3s de Andor Serra a la FNOB...",
+            "snippet": "Con la llegada de los \u00faltimos participantes finaliza la 3 edici\u00f3 de la Barcelona World Race. Una vez estos grandes skippers han dado la vuelta al mundo, ha llegado el momento de iniciar una nueva etapa. He trabajado veintisiete a\u00f1os para y por...",
+            "date": "2015-05-04",
+            "tags": "momento,nueva,skippers,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,participantes,\u00fal,fnob,vuelta,mundo",
+            "recuweb_url": "http://es.recuweb.com/abc.es/2015/05/adi%C3%B3s-de-andor-serra-a-la-fnob",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbacelona%2Bworld%2Brace&format=RSS&cc=es",
+            "source_url": "http://abc.es/vela/noticia/adios-de-andor-serra-a-la-fnob/"
+        },
+        "abc.es/2015/05/ni-se-les-ve-espera": {
+            "title": "Ni se les ve, ni se les espera...",
+            "snippet": "A diferencia con la Vend\u00e9e Globe, donde los patrocinadores no es que te atienda... Pues bien en la tercera edici\u00f3n de la regata Barcelona World Race, a los gabinetes de prensa de los barcos, salvo notable exenci\u00f3n, no se les ha visto el plumero.",
+            "date": "2015-05-02",
+            "categories": "vendee-globe,regata",
+            "tags": "barcelona,barcelona_world,barcelona_world_race,world,world_race,race,tercera,tercera-edici\u00f3n,edici\u00f3n,regata",
+            "recuweb_url": "http://es.recuweb.com/regata/abc.es/2015/05/ni-se-les-ve-espera",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbacelona%2Bworld%2Brace&format=RSS&cc=es",
+            "source_url": "http://abc.es/vela/opinion/ni-se-les-ve-ni-se-les-espera/"
+        },
+        "eleconomista.es/2015/04/econom%C3%ADa-motor-renault-entrega-14-veh%C3%ADculos-a-los-participantes": {
+            "title": "Econom\u00eda/Motor.- Renault entrega 14 veh\u00edculos a los participantes de la Barcelona World Race de...",
+            "snippet": "Econom\u00eda/Motor.- Renault entrega 14 veh\u00edculos a los participantes de la Barcelona World Race de...",
+            "date": "2015-04-27",
+            "categories": "economia",
+            "tags": "barcelona,barcelona_world,barcelona_world_race,world,world_race,race,veh\u00edculos,veh\u00edculos-los-participantes,participantes,renault,entrega",
+            "recuweb_url": "http://es.recuweb.com/economia/eleconomista.es/2015/04/econom%C3%ADa-motor-renault-entrega-14-veh%C3%ADculos-a-los-participantes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
+            "source_url": "http://eleconomista.es/ecomotor/motor/noticias/6663559/04/15/Economia-Motor-Renault-entrega-14-vehiculos-a-los-participantes-de-la-Barcelona-World-Race-de-Vela.html"
+        },
         "autocasion.com/2015/04/renault-entrega-14-veh%C3%ADculos-a-los-participantes-de-la-barcelona-world": {
             "title": "Renault entrega 14 veh\u00edculos a los participantes de la Barcelona World Race de Vela...",
             "snippet": "MADRID, 27 (EUROPA PRESS). El director general de Renault Iberia, Ricardo Gondo, ha entregado un total de catorce veh\u00edculos a los integrantes de las cinco mejores embarcaciones de la Barcelona World Race 2014-2015 de vela, seg\u00fan inform\u00f3 la...",
@@ -22,18 +61,27 @@
         },
         "diariodeavisos.com/2015/04/renault-entrega-como-premio-14-veh%C3%ADculos-a-los-participantes": {
             "title": "Renault entrega como premio 14 veh\u00edculos a los participantes de la Barcelona World Race...",
-            "snippet": "Ricardo Gondo, director general de Renault Iberia, ha entregado a los skippers de los 5 mejores equipos de la Barcelona World Race 2014/2015, como premio tras su vuelta al mundo, 14 veh\u00edculos que corresponden a la gama Nuevo Espace y a la gama...",
+            "snippet": "Ricardo Gondo, director general de Renault Iberia, ha entregado a los skippers de los 5 mejores equipos de la Barcelona World Race 2014/2015... fueron premiados con dos Zoe y dos Kangoo Z.E., todos 100% el\u00e9ctricos cero emisiones. Los skippers...",
             "date": "2015-04-27",
-            "tags": "veh\u00edculos,mejores,equipos,entregado,director,director-general,general,ricardo,ricardo_gondo,gondo,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,veh\u00edculos-los-participantes,participantes,entrega,renault,iberia,vuelta,mundo",
+            "tags": "mejores,entregado,skippers,director,director-general,general,ricardo,ricardo_gondo,gondo,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,veh\u00edculos,veh\u00edculos-los-participantes,participantes,entrega,renault,iberia,dos",
             "recuweb_url": "http://es.recuweb.com/diariodeavisos.com/2015/04/renault-entrega-como-premio-14-veh%C3%ADculos-a-los-participantes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbacelona%2Bworld%2Brace&format=RSS&cc=es",
             "source_url": "http://diariodeavisos.com/2015/04/renault-entrega-como-premio-14-vehiculos-participantes-barcelona-world-race/"
+        },
+        "kioskoymas.abc.es/2015/04/barcelona-tres-ediciones": {
+            "title": "Barcelona, tres ediciones m\u00e1s...",
+            "snippet": "A pesar de que organizar una nueva edici\u00f3n de la Barcelona World Race se presum\u00eda improbable, nada m\u00e1s entrar el \u00faltimo barco por la bocana del puerto de Barcelona, la organizaci\u00f3n anunci\u00f3 que la FNOB (Fundaci\u00f3n Navegantes Oce\u00e1nicos de...",
+            "date": "2015-04-26",
+            "tags": "\u00fal,world,world-race,race,nueva,edici\u00f3n,ediciones,tres,tres-ediciones,barcelona,barco,fnob",
+            "recuweb_url": "http://es.recuweb.com/kioskoymas.abc.es/2015/04/barcelona-tres-ediciones",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbacelona%2Bworld%2Brace&format=RSS&cc=es",
+            "source_url": "http://kioskoymas.abc.es/noticias/deportes/20150427/abcp-barcelona-tres-ediciones-20150427.html"
         },
         "rrhhdigital.com/2015/04/vi-edici%C3%B3n-jornadas-sobre-conciliaci%C3%B3n-e-igualdad-de-gaes": {
             "title": "VI edici\u00f3n Jornadas sobre Conciliaci\u00f3n e Igualdad de GAES...",
             "snippet": "GAES Centros Auditivos ha celebrado en el Centro de Interpretaci\u00f3n de la Barcelona World Race de Barcelona la sexta edici\u00f3n de sus Jornadas sobre Conciliaci\u00f3n e Igualdad, un espacio de an\u00e1lisis y reflexi\u00f3n con la finalidad de reflexionar sobre...",
             "date": "2015-04-25",
-            "tags": "edici\u00f3n,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,gaes",
+            "tags": "edici\u00f3n,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,centro,gaes,interpretaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/rrhhdigital.com/2015/04/vi-edici%C3%B3n-jornadas-sobre-conciliaci%C3%B3n-e-igualdad-de-gaes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
             "source_url": "http://rrhhdigital.com/secciones/conciliacion-e-igualdad/109568/rrhh-digital-recursos-humanos-digital-gaes-conciliacion-igualdad-"
@@ -53,56 +101,10 @@
             "snippet": "La Barcelona World Race ha cerrado su primera trilog\u00eda con la tercera edici\u00f3n que acaba de terminar. Han sido diez a\u00f1os que han escrito una historia de crecimiento de la cultura de la vela y han permitido efectuar una labor cultural y social a...",
             "date": "2015-04-23",
             "categories": "cultura",
-            "tags": "sido,sido-diez,diez,escrito,escrito-una-historia,historia,historia-de-crecimiento,crecimiento,cultura,vela,vela-han-permitido,permitido,permitido-efectuar,efectuar,efectuar-una-labor,labor,labor-cultural,cultural,trilog\u00eda,tercera,tercera-edici\u00f3n,edici\u00f3n,edici\u00f3n-que-acaba,acaba,acaba-de-terminar,terminar,cerrado,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,imoca,primera",
+            "tags": "sido,sido-diez,diez,escrito,escrito-una-historia,historia,historia-de-crecimiento,crecimiento,cultura,vela,vela-han-permitido,permitido,permitido-efectuar,efectuar,efectuar-una-labor,labor,labor-cultural,cultural,trilog\u00eda,tercera,tercera-edici\u00f3n,edici\u00f3n,ediciones,edici\u00f3n-que-acaba,acaba,acaba-de-terminar,terminar,cerrado,barcelona,barcelona_world,barcelona_world_race,world,world_race,race,tres,tres-ediciones,fnob,primera",
             "recuweb_url": "http://es.recuweb.com/cultura/abc.es/2015/04/la-fnob-y-imoca-firman-tres-ediciones-m%C3%A1s-de-barcelona-world",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
             "source_url": "http://abc.es/vela/noticia/la-fnob-y-la-imoca-firman-tres-ediciones-mas-de-la-barcelona-world-race/"
-        },
-        "europasur.es/2015/04/tanto-futuro-como-pasado-y-presente": {
-            "title": "Tanto futuro como pasado y presente...",
-            "snippet": "El pasado lunes, con la ceremonia de entrega de premios, se pon\u00eda un brillante colof\u00f3n a la tercera edici\u00f3n de la Barcelona World Race, una regata que ya est\u00e1 m\u00e1s que consolidada en el circuito IMOCA 60 y, junto a la regata francesa Vend\u00e9e...",
-            "date": "2015-04-23",
-            "categories": "regata",
-            "tags": "barcelona,barcelona_world,barcelona_world_race,world,world_race,race,tercera,tercera-edici\u00f3n,edici\u00f3n,ceremonia,ceremonia-de-entrega,entrega,premios,regata,imoca",
-            "recuweb_url": "http://es.recuweb.com/regata/europasur.es/2015/04/tanto-futuro-como-pasado-y-presente",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
-            "source_url": "http://europasur.es/article/deportes/2013449/tanto/futuro/como/pasado/y/presente.html"
-        },
-        "sail-world.com/2015/04/barcelona-world-race-prizes-and-awards-presented-in-sail": {
-            "title": "Barcelona World Race - Prizes and awards presented in Barcelona - Sail World...",
-            "snippet": "Sail WorldBarcelona World Race - Prizes and awards presented in BarcelonaSail World2014 - 2015 Barcelona World Race - Barcelona's historic Maritime Museum was the perfect venue this afternoon for the prizegiving and awards ceremony for the 2014-15...",
-            "date": "2015-04-22",
-            "tags": "world,world_race,race,barcelona,barcelona_world,barcelona_world_race",
-            "recuweb_url": "http://es.recuweb.com/sail-world.com/2015/04/barcelona-world-race-prizes-and-awards-presented-in-sail",
-            "resource_url": "http://news.google.es/?hl=es&q=bacelona%2Bworld%2Brace%2Bbacelona%2Bworld%2Brace&output=atom&nord=1",
-            "source_url": "http://sail-world.com/Barcelona_World_Race_-_Prizes_and_awards_presented_in_Barcelona/133621"
-        },
-        "deportes.elpais.com/2015/04/el-spirit-of-hungary-llega-a-barcelona": {
-            "title": "El Spirit of Hungary llega a Barcelona...",
-            "snippet": "El Spirit of Hungary del h\u00fangaro Nando Fa y el neozeland\u00e9s Conrad Colman cruzaba la l\u00ednea de meta de la Barcelona World Race en s\u00e9ptima y \u00faltima posici\u00f3n a las hora local. Fa y Colman han invertido 110 d\u00edas, 10 horas, 59 minutos y 40...",
-            "date": "2015-04-22",
-            "tags": "world,world-race,race,meta,barcelona",
-            "recuweb_url": "http://es.recuweb.com/deportes.elpais.com/2015/04/el-spirit-of-hungary-llega-a-barcelona",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
-            "source_url": "http://deportes.elpais.com/deportes/2015/04/21/actualidad/1429648676_610912.html"
-        },
-        "naucher.com/2015/04/la-barcelona-world-race-entrega-sus-premios-de-edici%C3%B3n-2014-2015": {
-            "title": "LA BARCELONA WORLD RACE ENTREGA SUS PREMIOS DE LA EDICI\u00d3N 2014-2015...",
-            "snippet": "El Museo Mar\u00edtimo de Barcelona acogi\u00f3 ayer a mediod\u00eda la ceremonia de entrega de premios de la Barcelona World Race 2014-2015. En la recepci\u00f3n se rindi\u00f3 homenaje a los regatistas participantes y especialmente a los tres primeros, los equipos...",
-            "date": "2015-04-22",
-            "tags": "equipos,participantes,world,world_race,race,ceremonia,ceremonia-de-entrega,entrega,premios,barcelona,barcelona_world,barcelona_world_race,edici\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/naucher.com/2015/04/la-barcelona-world-race-entrega-sus-premios-de-edici%C3%B3n-2014-2015",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
-            "source_url": "http://naucher.com/es/actualidad/la-barcelona-world-race-entrega-sus-premios-de-la-edicion-2014-2015/_n:3259/"
-        },
-        "granadahoy.com/2015/04/stamp-y-le-cam-ya-tienen-sus-trofeos": {
-            "title": "Stamp y Le Cam ya tienen sus trofeos...",
-            "snippet": "El franc\u00e9s Jean Le Cam y el suizo Bernard Stamp, tripulantes del Imoca 60 Chemin\u00e9es Poujoulat, recibieron el martes en Barcelona los trofeos que les acreditan como ganadores absolutos de la tercera edici\u00f3n de la Barcelona World Race, la \u00fanica...",
-            "date": "2015-04-22",
-            "tags": "world,world-race,race,tercera,tercera-edici\u00f3n,edici\u00f3n,poujoulat,tienen,tripulantes,imoca,barcelona,\u00fanica",
-            "recuweb_url": "http://es.recuweb.com/granadahoy.com/2015/04/stamp-y-le-cam-ya-tienen-sus-trofeos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bacelona%2Bworld%2Brace&format=RSS&cc=es",
-            "source_url": "http://granadahoy.com/article/deportes/2012760/stamp/y/le/cam/ya/tienen/sus/trofeos.html"
         }
     }
 }

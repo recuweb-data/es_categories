@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radio",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/radio/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
-        "cancioneros.com/2015/05/david-escamilla-presenta-palabras-de-amor-una-novela-que-evoca": {
-            "title": "David Escamilla presenta Palabras de amor una novela que evoca la canci\u00f3n de Serrat...",
-            "snippet": "Ha publicado m\u00e1s de cuarenta libros (poes\u00eda, narrativa, ensayo, biograf\u00edas, gu\u00edas culturales). Director y presentador de programas de radio (Radio Nacional de Espa\u00f1a, RAC1, Catalunya Radio, COM Radio). Ha trabajado en televisi\u00f3n (Cuatro,...",
-            "date": "2015-05-02",
-            "categories": "television,radio",
+        "radio.uchile.cl/2015/05/chile-inicia-ronda-de-alegatos-en-la-haya-diario-y-radio": {
+            "title": "Chile inicia ronda de alegatos en La Haya - Diario y Radio Uchile...",
+            "snippet": "Diario y Radio UchileChile inicia ronda de alegatos en La HayaDiario y Radio UchileEn conversaci\u00f3n con Radio Universidad de Chile, la acad\u00e9mica del Instituto de Estudios Internacionales, Paz Millet, se refiri\u00f3 a las diferencias en las posturas de...",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "radio,radio_universidad,universidad,radio_uchile,uchile,chile,haya,diario",
+            "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/chile-inicia-ronda-de-alegatos-en-la-haya-diario-y-radio",
+            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
+            "source_url": "http://radio.uchile.cl/2015/05/04/chile-inicia-ronda-de-alegatos-en-la-haya"
+        },
+        "yucatan.com.mx/2015/05/despiden-a-la-radio-modular-el-diario-de-yucat%C3%A1n": {
+            "title": "Despiden a la radio modular - El Diario de Yucat\u00e1n...",
+            "snippet": "El Diario de Yucat\u00e1nDespiden a la radio modularEl Diario de Yucat\u00e1nEl costo de transmitir canales de radio nacional a trav\u00e9s de la red de FM es ocho veces mayor que por la red de Retransmisi\u00f3n Digital de Audio (DAB por sus siglas en ingl\u00e9s),...",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "digital,nacional,diario,radio,audio",
+            "recuweb_url": "http://es.recuweb.com/radio/yucatan.com.mx/2015/05/despiden-a-la-radio-modular-el-diario-de-yucat%C3%A1n",
+            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
+            "source_url": "http://yucatan.com.mx/tecnologia/video_y_foto/despiden-la-radio-modular"
+        },
+        "cadenaser.com/2015/05/el-debate-electoral-en-radio-valencia": {
+            "title": "El Debate electoral en Radio Valencia...",
+            "snippet": "Radio Valencia Cadena SER reune a los candidatos a la presidencia de la Generalitat en la Comunidad Valenciana en un debate electoral \u00fanico que se retrasmitir\u00e1 por streaming en. La cita tendr\u00e1 lugar el viernes 8 de mayo a las 13 horas.",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "mayo,radio",
+            "recuweb_url": "http://es.recuweb.com/radio/cadenaser.com/2015/05/el-debate-electoral-en-radio-valencia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=es",
+            "source_url": "http://cadenaser.com/emisora/2015/05/03/radio_valencia/1430643094_349274.html"
+        },
+        "noticias.terra.com/2015/05/estaciones-de-radio-ind%C3%ADgenas-espacios-libre-expresi%C3%B3n": {
+            "title": "Estaciones de radio ind\u00edgenas, espacios de libre expresi\u00f3n en... -...",
+            "snippet": "Estaciones de radio ind\u00edgenas, espacios de libre expresi\u00f3n en... \u00e9rida, 4 May (Notimex).- La posibilidad de permitir a las comunidades ind\u00edgenas contar con sus propias estaciones de radio, es tambi\u00e9n ofrecerles espacios para expresar sus...",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "libre,radio",
+            "recuweb_url": "http://es.recuweb.com/radio/noticias.terra.com/2015/05/estaciones-de-radio-ind%C3%ADgenas-espacios-libre-expresi%C3%B3n",
+            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
+            "source_url": "http://noticias.terra.com/mundo/latinoamerica/estaciones-de-radio-indigenas-espacios-de-libre-expresion-en-yucatan,97adcad148c1d410VgnCLD200000b2bf46d0RCRD.html"
+        },
+        "radio.uchile.cl/2015/05/justicia-oficializa-libertad-condicional-a-h%C3%A9ctor-llaitul-diario-y-radio-uchile": {
+            "title": "Justicia oficializa libertad condicional a H\u00e9ctor Llaitul - Diario y Radio Uchile...",
+            "snippet": "Diario y Radio UchileJusticia oficializa libertad condicional a H\u00e9ctor LlaitulDiario y Radio UchileA minutos de oficializarse su nueva condici\u00f3n penal, el dirigente convers\u00f3 con Radio Universidad de Chile y afirm\u00f3 que queda libre gracias a un...",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "libre,radio,radio_universidad,universidad,convers\u00f3,radio_uchile,uchile,diario,chile",
+            "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/justicia-oficializa-libertad-condicional-a-h%C3%A9ctor-llaitul-diario-y-radio-uchile",
+            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
+            "source_url": "http://radio.uchile.cl/2015/05/04/justicia-oficializa-libertad-condicional-a-hector-llaitul"
+        },
+        "elcomercio.com/2015/05/la-radio-documental-va-en-alza-el-comercio": {
+            "title": "La radio documental va en alza - El Comercio...",
+            "snippet": "El ComercioLa radio documental va en alzaEl ComercioEl documental es un g\u00e9nero que ha sido adaptado de la televisi\u00f3n y el cine y poco explorado en la radio. A pesar del desarrollo tecnol\u00f3gico y los m\u00faltiples contenidos que ofrece Internet, a\u00fan...",
+            "date": "2015-05-04",
+            "categories": "television,cine,radio,internet",
             "tags": "radio",
-            "recuweb_url": "http://es.recuweb.com/radio/cancioneros.com/2015/05/david-escamilla-presenta-palabras-de-amor-una-novela-que-evoca",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=es",
-            "source_url": "http://cancioneros.com/co/7379/2/david-escamilla-presenta-palabras-de-amor-una-novela-que-evoca-la-cancion-de-serrat"
-        },
-        "rcnradio.com/2015/05/el-ciclista-colombiano-diego-tamayo-gana-la-titan-desert-rcn-radio": {
-            "title": "El ciclista colombiano Diego Tamayo gana la Titan Desert - RCN Radio (Comunicado de prensa) (blog)...",
-            "snippet": "RCN Radio (Comunicado de prensa) (blog)El ciclista colombiano Diego Tamayo gana la Titan DesertRCN Radio (Comunicado de prensa) (blog)El ciclista colombiano Diego Tamayo gan\u00f3 la Titan Desert pese a quedar noveno en la \u00faltima jornada en la que...",
-            "date": "2015-05-02",
-            "categories": "radio",
-            "tags": "radio,prensa,rcn,rcn_radio,comunicado",
-            "recuweb_url": "http://es.recuweb.com/radio/rcnradio.com/2015/05/el-ciclista-colombiano-diego-tamayo-gana-la-titan-desert-rcn-radio",
+            "recuweb_url": "http://es.recuweb.com/internet/elcomercio.com/2015/05/la-radio-documental-va-en-alza-el-comercio",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://rcnradio.com/noticias/el-ciclista-colombiano-diego-tamayo-gana-la-titan-desert-209694"
+            "source_url": "http://elcomercio.com/tendencias/radio-documental-ecuador-cultura-adistancia.html"
         },
-        "radio.uchile.cl/2015/05/la-educaci%C3%B3n-c%C3%ADvica-vuelve-al-colegio-diario-y-radio-uchile": {
-            "title": "La Educaci\u00f3n C\u00edvica vuelve al colegio - Diario y Radio Uchile...",
-            "snippet": "Diario y Radio UchileLa Educaci\u00f3n C\u00edvica vuelve al colegioDiario y Radio UchileDesde el Senado y el Colegio de Profesores solicitar\u00e1n al Gobierno que la Educaci\u00f3n C\u00edvica regrese a las aulas como asignatura, luego de que el ministro de...",
-            "date": "2015-05-02",
+        "diariocronica.com.ar/2015/05/radio-universidad-celebra-los-primeros-21-a%C3%B1os-cr%C3%B3nica-digital": {
+            "title": "Radio Universidad celebra los primeros 21 a\u00f1os - Cr\u00f3nica Digital...",
+            "snippet": "Cr\u00f3nica DigitalRadio Universidad celebra los primeros 21 a\u00f1osCr\u00f3nica DigitalEl 4 de mayo en coincidencia con la fecha de creaci\u00f3n de la Universidad Nacional de la Patagonia San Juan Bosco, tambi\u00e9n se conmemora el Aniversario de Radio...",
+            "date": "2015-05-04",
             "categories": "radio",
-            "tags": "radio,radio_uchile,uchile,diario,profesores",
-            "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/la-educaci%C3%B3n-c%C3%ADvica-vuelve-al-colegio-diario-y-radio-uchile",
+            "tags": "juan,universidad,nacional,mayo,digital,radio,radio_universidad",
+            "recuweb_url": "http://es.recuweb.com/radio/diariocronica.com.ar/2015/05/radio-universidad-celebra-los-primeros-21-a%C3%B1os-cr%C3%B3nica-digital",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://radio.uchile.cl/2015/05/02/la-educacion-civica-vuelve-al-colegio"
+            "source_url": "http://diariocronica.com.ar/131831-radio-universidad-celebra-los-primeros-21-anos.html"
         },
-        "prensa-latina.cu/2015/05/lista-de-grabaciones-radio-pl-prensa-latina": {
-            "title": "Lista de grabaciones de Radio PL - Prensa Latina...",
-            "snippet": "Lista de grabaciones de Radio PLPrensa Latina02 de mayo de 2015, 10:45Lista actualizada de grabaciones de hoy, s\u00e1bado 2 de mayo de 2015, del Servicio de Radio de Prensa Latina (PLRadio) el cual puede solicitar a trav\u00e9s de e-mail address is being...",
-            "date": "2015-05-02",
+        "sdpnoticias.com/2015/05/rechaza-aristegui-negociaciones-con-radio-f%C3%B3rmula": {
+            "title": "Rechaza Aristegui negociaciones con Radio F\u00f3rmula -...",
+            "snippet": "Aristegui negociaciones con Radio F\u00f3 periodista Carmen Aristegu\u00ed rechaz\u00f3 que se encuentre en negociaciones con Radio F\u00f3rmula sobre un posible regreso a la radio. Ciudad de M\u00e9xico.- La periodista Carmen Aristegui rechaz\u00f3 que se encuentre en...",
+            "date": "2015-05-04",
             "categories": "radio",
-            "tags": "mayo,radio,prensa",
-            "recuweb_url": "http://es.recuweb.com/radio/prensa-latina.cu/2015/05/lista-de-grabaciones-radio-pl-prensa-latina",
+            "tags": "radio",
+            "recuweb_url": "http://es.recuweb.com/radio/sdpnoticias.com/2015/05/rechaza-aristegui-negociaciones-con-radio-f%C3%B3rmula",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://prensa-latina.cu/index.php?option=com_content&task=view&id=3766611&Itemid=1"
+            "source_url": "http://sdpnoticias.com/nacional/2015/05/04/rechaza-aristegui-negociaciones-con-radio-formula"
         },
-        "radiocubana.cu/2015/05/luc%C3%ADa-huergo-para-siempre-en-el-recuerdo-de-radio-enciclopedia-cubana": {
-            "title": "Luc\u00eda Huergo, para siempre en el recuerdo de Radio Enciclopedia - Radio Cubana...",
-            "snippet": "Luc\u00eda Huergo, para siempre en el recuerdo de Radio EnciclopediaRadio CubanaDoli\u00f3 mucho la noticia: en horas de la madrugada de este primer d\u00eda de mayo falleci\u00f3 Luc\u00eda Huergo, una de las m\u00e1s queridas y admiradas int\u00e9rpretes que radiamos en...",
-            "date": "2015-05-02",
+        "radio.uchile.cl/2015/05/vocero-de-marcaac-defiende-institucionalidad-la-asamblea-diario-y-radio-uchile": {
+            "title": "Vocero de MarcaAC defiende institucionalidad de la asamblea... - Diario y Radio Uchile...",
+            "snippet": "Diario y Radio UchileVocero de MarcaAC defiende institucionalidad de la asamblea...Diario y Radio UchileEl vocero del movimiento que impulsa la asamblea constituyente como v\u00eda para cambiar la Carta Fundamental, Genaro Cuadros, convers\u00f3 con Radio...",
+            "date": "2015-05-04",
             "categories": "radio",
-            "tags": "d\u00eda,mayo,radio",
-            "recuweb_url": "http://es.recuweb.com/radio/radiocubana.cu/2015/05/luc%C3%ADa-huergo-para-siempre-en-el-recuerdo-de-radio-enciclopedia-cubana",
+            "tags": "convers\u00f3,radio,radio_uchile,uchile,diario",
+            "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/vocero-de-marcaac-defiende-institucionalidad-la-asamblea-diario-y-radio-uchile",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://radiocubana.cu/index.php/articulos-especializados-sobre-la-radio/8418-lucia-huergo-para-siempre-en-el-recuerdo-de-radio-enciclopedia"
+            "source_url": "http://radio.uchile.cl/2015/05/04/vocero-marcaac-defiende-institucionalidad-de-la-asamblea-constituyente"
         },
-        "eluniversal.com.mx/2015/05/no-estoy-en-negociaciones-con-radio-f%C3%B3rmula-aristegui-el-universal": {
-            "title": "No estoy en negociaciones con Radio F\u00f3rmula: Aristegui - El Universal...",
-            "snippet": "El UniversalNo estoy en negociaciones con Radio F\u00f3rmula: AristeguiEl UniversalLa periodista Carmen Aristegui neg\u00f3 hoy en su cuenta de Twitter que actualmente tenga una negociaci\u00f3n con Radio F\u00f3rmula para un espacio en esta empresa, sin embargo,...",
-            "date": "2015-05-02",
-            "categories": "radio,twitter",
-            "tags": "cuenta,radio,twitter",
-            "recuweb_url": "http://es.recuweb.com/twitter/eluniversal.com.mx/2015/05/no-estoy-en-negociaciones-con-radio-f%C3%B3rmula-aristegui-el-universal",
+        "t13.cl/2015/05/tele13-en-punto-radio-lunes-4-de-mayo-teletrece": {
+            "title": "Tele13 en punto en Tele13 Radio Lunes 4 de mayo - Teletrece...",
+            "snippet": "TeletreceTele13 en punto en Tele13 Radio Lunes 4 de mayoTeletreceTele13 en punto en Tele13 Radio Lunes 4 de mayo. Elena Dressel y Consuelo Solar siguen actualizando las informaciones con lo que est\u00e1 ocurriendo en el tribunal de La Haya con los...",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "mayo,radio,haya",
+            "recuweb_url": "http://es.recuweb.com/radio/t13.cl/2015/05/tele13-en-punto-radio-lunes-4-de-mayo-teletrece",
             "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://eluniversal.com.mx/nacion-mexico/2015/no-estoy-negociando-con-radio-formula-aristegui-1096864.html"
-        },
-        "nacion.com/2015/05/adn-radio-tuvo-un-emotivo-adi%C3%B3s-la-naci%C3%B3n-costa-rica": {
-            "title": "ADN Radio tuvo un emotivo adi\u00f3s - La Naci\u00f3n Costa Rica...",
-            "snippet": "La Naci\u00f3n Costa RicaADN Radio tuvo un emotivo adi\u00f3sLa Naci\u00f3n Costa RicaEn resumen fue un momento en el que yo par\u00e9, porque era tal la cantidad de mensajes, de chats en mi celular, en el c\u00f3digo 9070 de la radio y en el Facebook, que dije: 'Paro...",
-            "date": "2015-05-01",
-            "categories": "radio,facebook",
-            "tags": "radio,facebook",
-            "recuweb_url": "http://es.recuweb.com/facebook/nacion.com/2015/05/adn-radio-tuvo-un-emotivo-adi%C3%B3s-la-naci%C3%B3n-costa-rica",
-            "resource_url": "http://news.google.es/?hl=es&q=radio%2Bradio&output=atom&nord=1",
-            "source_url": "http://nacion.com/ocio/farandula/ADN-Radio-emotivo-adios_0_1484851547.html"
-        },
-        "rcnradio.com/2015/05/as%C3%AD-marcha-el-pa%C3%ADs-en-d%C3%ADa-del-trabajo-rcn-radio-comunicado": {
-            "title": "As\u00ed marcha el pa\u00eds en el D\u00eda del Trabajo - RCN Radio (Comunicado de prensa) (blog)...",
-            "snippet": "RCN Radio (Comunicado de prensa) (blog)As\u00ed marcha el pa\u00eds en el D\u00eda del TrabajoRCN Radio (Comunicado de prensa) (blog)Centrales obreras, profesores, estudiantes y organizaciones sociales salieron a las calles de las principales ciudades del...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "sociales,principales,principales-ciudades,ciudades,radio,prensa,rcn,rcn_radio,pa\u00eds,d\u00eda,trabajo,comunicado,profesores",
-            "recuweb_url": "http://es.recuweb.com/radio/rcnradio.com/2015/05/as%C3%AD-marcha-el-pa%C3%ADs-en-d%C3%ADa-del-trabajo-rcn-radio-comunicado",
-            "resource_url": "http://news.google.es/?hl=es&q=radio%2Bradio&output=atom&nord=1",
-            "source_url": "http://rcnradio.com/noticias/asi-marcha-el-pais-en-el-dia-del-trabajo-209544"
-        },
-        "bluradio.com/2015/05/avanzan-concentraciones-y-marchas-por-el-d%C3%ADa-del-trabajo-blu-radio": {
-            "title": "Avanzan concentraciones y marchas por el D\u00eda del Trabajo - Blu Radio...",
-            "snippet": "Blu RadioAvanzan concentraciones y marchas por el D\u00eda del TrabajoBlu RadioEn las principales ciudades del pa\u00eds comenzaron las concentraciones de los trabajadores y gremios para marchar en la celebraci\u00f3n del D\u00eda del Trabajo. En Mosquera,...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "principales,principales-ciudades,ciudades,pa\u00eds,radio,d\u00eda,trabajo",
-            "recuweb_url": "http://es.recuweb.com/radio/bluradio.com/2015/05/avanzan-concentraciones-y-marchas-por-el-d%C3%ADa-del-trabajo-blu-radio",
-            "resource_url": "http://news.google.es/?hl=es&q=radio%2Bradio&output=atom&nord=1",
-            "source_url": "http://bluradio.com/98013/inician-concentraciones-y-marchas-por-el-dia-del-trabajo"
-        },
-        "radio.uchile.cl/2015/05/chile-bolivia-en-la-haya-se-ven-las-caras-diario": {
-            "title": "Chile-Bolivia: En La Haya se ven las caras - Diario y Radio Uchile...",
-            "snippet": "Diario y Radio UchileChile-Bolivia: En La Haya se ven las carasDiario y Radio UchileEn ultimos d\u00edas, la batalla verbal entre Chile y Bolivia se ha dado en el \u00e1mbito de los mutuos emplazamientos gubernamentales respecto a si el contrario acatar\u00e1...",
-            "date": "2015-05-01",
-            "categories": "radio",
-            "tags": "radio,radio_uchile,uchile,diario",
-            "recuweb_url": "http://es.recuweb.com/radio/radio.uchile.cl/2015/05/chile-bolivia-en-la-haya-se-ven-las-caras-diario",
-            "resource_url": "http://news.google.es/?hl=es&q=radio&output=atom&nord=1",
-            "source_url": "http://radio.uchile.cl/2015/05/01/chile-bolivia-en-la-haya-se-ven-las-caras"
+            "source_url": "http://t13.cl/radio/tele13-en-punto/audio/tele13-en-punto-en-tele13-radio-lunes-4-de-mayo"
         }
     }
 }

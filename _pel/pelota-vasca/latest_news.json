@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pelota-vasca",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pelota-vasca/",
@@ -11,12 +11,40 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pelota-vasca/pelota-vasca/blogs.json"
     },
     "items": {
+        "deia.com/2015/05/gabirondo-rechaza-suprimir-las-pelotas-de-goma-porque-hay-que-estar": {
+            "title": "Gabirondo rechaza suprimir las pelotas de goma porque hay que estar preparados...",
+            "snippet": "Bilbao - El director de la Ertzaintza, Gervasio Gabirondo, manifest\u00f3 ayer que no es partidario de erradicar las pelotas de goma ni ning\u00fan otro... con los votos de todas las fuerzas de la C\u00e1mara vasca, excepto de EH Bildu, de una resoluci\u00f3n...",
+            "date": "2015-05-07",
+            "tags": "erradicar,erradicar-las-pelotas,pelotas,pelotas-de-goma,goma,director,gabirondo,bilbao,ertzaintza,gervasio,vasca",
+            "recuweb_url": "http://es.recuweb.com/deia.com/2015/05/gabirondo-rechaza-suprimir-las-pelotas-de-goma-porque-hay-que-estar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvasca&format=RSS&cc=es",
+            "source_url": "http://deia.com/2015/05/07/politica/euskadi/gabirondo-rechaza-suprimir-las-pelotas-de-goma-porque-hay-que-estar-preparados"
+        },
+        "lavanguardia.com/2015/05/el-director-de-la-ertzaintza-contrario-a-erradicar-las-pelotas-goma": {
+            "title": "El director de la Ertzaintza, contrario a erradicar las pelotas de goma...",
+            "snippet": "El director de la Ertzaintza, Gervasio Gabirondo, ha asegurado que no es... vasca, dicte lo que tenga que dictar y cierre cap\u00edtulo. En una entrevista concedida a Radio Euskadi, recogida por Europa Press, Gabirondo ha rechazado que se vinculen...",
+            "date": "2015-05-06",
+            "categories": "radio",
+            "tags": "euskadi,gervasio,gabirondo,erradicar,erradicar-las-pelotas,pelotas,pelotas-de-goma,goma,director,ertzaintza,vasca",
+            "recuweb_url": "http://es.recuweb.com/radio/lavanguardia.com/2015/05/el-director-de-la-ertzaintza-contrario-a-erradicar-las-pelotas-goma",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvasca&format=RSS&cc=es",
+            "source_url": "http://lavanguardia.com/local/pais-vasco/20150506/54430451848/director-ertzaintza-contrario-erradicar-pelotas-de-goma.html"
+        },
+        "agenda.diariovasco.com/2015/05/feria-de-artesan%C3%ADa-del-pa%C3%ADs-vasco": {
+            "title": "Feria de Artesan\u00eda del Pa\u00eds Vasco...",
+            "snippet": "Una es la Feria Artesan\u00eda Vasca, en la que se dan cita los m\u00e1s variados artesanos... repujado en cuero, vidrier\u00eda, cester\u00eda, pelotas de cuero, muebler\u00eda, forja, talla de madera, damasquinado, tejidos, alfarer\u00eda, apicultura, confiter\u00eda,...",
+            "date": "2015-05-02",
+            "tags": "pelotas,pa\u00eds,pa\u00eds_vasco,vasco,vasca",
+            "recuweb_url": "http://es.recuweb.com/agenda.diariovasco.com/2015/05/feria-de-artesan%C3%ADa-del-pa%C3%ADs-vasco",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvasca&format=RSS&cc=es",
+            "source_url": "http://agenda.diariovasco.com/evento/feria-de-artesania-del-pais-vasco-471119.html"
+        },
         "ar.blastingnews.com/2015/05/pelota-vasca-el-deporte-por-excelencia-blasting-news": {
             "title": "Pelota vasca, el deporte por excelencia - Blasting News...",
             "snippet": "Blasting NewsPelota vasca, el deporte por excelenciaBlasting NewsEl ente mundial que regula la Pelota vasca, deporte proveniente del Pa\u00eds Vasco, es la Federaci\u00f3n Internacional de Pelota Vasca (FIVP). Este ultimo establece que existen cuatro...",
             "date": "2015-05-02",
             "categories": "deporte",
-            "tags": "existen,cuatro,vasco,deporte,pelota,vasca,mundial",
+            "tags": "cuatro,pa\u00eds,pa\u00eds_vasco,vasco,deporte,pelota,vasca,mundial",
             "recuweb_url": "http://es.recuweb.com/deporte/ar.blastingnews.com/2015/05/pelota-vasca-el-deporte-por-excelencia-blasting-news",
             "resource_url": "http://news.google.es/?hl=es&q=pelota%2Bvasca&output=atom&nord=1",
             "source_url": "http://ar.blastingnews.com/deportes/2015/05/pelota-vasca-el-deporte-por-excelencia-00371371.html"
@@ -26,9 +54,9 @@
             "snippet": "Deporte milenario, con or\u00edgenes muy variopintos seg\u00fan en qu\u00e9 lugar del planeta se practique, este del que hablar\u00e9 aqu\u00ed, es claramente vasco. Es la Pelota Vasca, tambi\u00e9n conocida como Front\u00f3n.",
             "date": "2015-05-01",
             "categories": "pelota-vasca,planeta,fronton,deporte",
-            "tags": "pelota,pelota_vasca,vasca,vasco,muy,frontones,front\u00f3n,beti,jai,madrid,deporte",
+            "tags": "pelota,pelota_vasca,vasca,vasco,muy,front\u00f3n,beti,jai,madrid,deporte",
             "recuweb_url": "http://es.recuweb.com/deporte/es.paperblog.com/2015/05/beti-jai-y-otros-frontones-de-madrid",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvasca&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/beti-jai-y-otros-frontones-de-madrid-3186484/"
         },
         "abc.es/2015/04/de-cancha-a-comisar%C3%ADa-y-c%C3%A1rcel-as%C3%AD-es-la-historia": {
@@ -36,10 +64,10 @@
             "snippet": "Aunque hoy est\u00e9 en ruinas, hubo un tiempo en que el Beti-Jai quiso ser el templo de la pelota vasca. Aquella ambici\u00f3n le dur\u00f3 pocos a\u00f1os... No m\u00e1s de 20. Desde su inauguraci\u00f3n en 1894 hasta 1918, seg\u00fan documenta la plataforma Salvemos el...",
             "date": "2015-04-29",
             "categories": "fronton",
-            "tags": "pocos,templo,front\u00f3n,cancha,beti,jai,pelota,vasca",
+            "tags": "templo,front\u00f3n,cancha,beti,jai,pelota,vasca",
             "recuweb_url": "http://es.recuweb.com/fronton/abc.es/2015/04/de-cancha-a-comisar%C3%ADa-y-c%C3%A1rcel-as%C3%AD-es-la-historia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://abc.es/madrid/20150430/abcp-cancha-comisaria-carcel-20150428.html"
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bpelota%2Bvasca&format=RSS&cc=es",
+            "source_url": "http://abc.es/madrid/20150429/abcp-cancha-comisaria-carcel-20150428.html"
         },
         "20minutos.es/2015/04/elena-anaya-en-estos-momentos-cuesta-mucho-mantenerse-esta-profesi%C3%B3n": {
             "title": "Elena Anaya: En estos momentos cuesta mucho mantenerse en esta profesi\u00f3n...",
@@ -55,7 +83,7 @@
             "snippet": "con cancha y con espacio para cuatro mil como templo de la pelota vasca en Madrid. Y por dentro, es espectacular, especialmente las gradas de hierro. Estas fotos muestran los partidos de pelotaris que se celebraban en su interior.",
             "date": "2015-04-28",
             "categories": "fronton",
-            "tags": "cancha,cuatro,mil,templo,front\u00f3n,beti,jai,madrid,pelota,vasca",
+            "tags": "cancha,cuatro,templo,front\u00f3n,beti,jai,madrid,pelota,vasca",
             "recuweb_url": "http://es.recuweb.com/fronton/telemadrid.es/2015/04/el-ayuntamiento-compra-por-7-millones-front%C3%B3n-beti-jai-de-madrid",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
             "source_url": "http://telemadrid.es/noticias/madrid/noticia/el-ayuntamiento-compra-por-7-millones-el-fronton-beti-jai-de-madrid"
@@ -79,26 +107,6 @@
             "recuweb_url": "http://es.recuweb.com/pelota-vasca/cadenaser.com/2015/04/bengoetxea-y-untoria-campeones-del-parejas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
             "source_url": "http://cadenaser.com/emisora/2015/04/26/radio_bilbao/1430074214_134906.html"
-        },
-        "levante-emv.com/2015/04/el-desaf%C3%ADo-que-apasion%C3%B3-a-vascos-y-valencianos": {
-            "title": "El desaf\u00edo que apasion\u00f3 a vascos y valencianos...",
-            "snippet": "Alberto Soldado valencia El Eder Jai de Benidorm, inaugurado en el verano de 1973, era uno de los mejores frontones de pelota vasca del mundo. Dos mil espectadores sentados contemplaban a los jugadores de cesta punta ejecutar sus espectaculares...",
-            "date": "2015-04-26",
-            "categories": "fronton",
-            "tags": "mil,mundo,frontones,jai,alberto,pelota,vasca",
-            "recuweb_url": "http://es.recuweb.com/fronton/levante-emv.com/2015/04/el-desaf%C3%ADo-que-apasion%C3%B3-a-vascos-y-valencianos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://levante-emv.com/deportes/2015/04/27/desafio-apasiono-vascos-valencianos/1256571.html"
-        },
-        "noticiasdenavarra.com/2015/04/berasaluze-zubieta-y-bengoetxea-untoria-disputan-una-final-sin-favoritos": {
-            "title": "Berasaluze-Zubieta y Bengoetxea-Untoria disputan una final sin favoritos...",
-            "snippet": "BILBAO. La final del Parejas es, junto a las finales del Manomanista y del Cuatro y Medio, una de las tres grandes citas anuales de la pelota a mano, sin duda la especialidad reina y m\u00e1s seguida de la Pelota Vasca. Antes del disparo inicial todos...",
-            "date": "2015-04-25",
-            "categories": "pelota-vasca",
-            "tags": "pelota,pelota_vasca,vasca,duda,duda-la-especialidad,especialidad,especialidad-reina,reina,reina-m\u00e1s-seguida,seguida,mano,tres,tres-grandes,tres-grandes-citas,grandes,grandes-citas,grandes-citas-anuales,citas,citas-anuales,anuales,junto,junto-las-finales,finales,final,bengoetxea,untoria,bilbao,parejas,manomanista,cuatro,medio",
-            "recuweb_url": "http://es.recuweb.com/pelota-vasca/noticiasdenavarra.com/2015/04/berasaluze-zubieta-y-bengoetxea-untoria-disputan-una-final-sin-favoritos",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelota%2Bvasca&format=RSS&cc=es",
-            "source_url": "http://noticiasdenavarra.com/2015/04/25/deportes/pelota/berasaluze-zubieta-y-bengoetxea-untoria-disputan-una-final-sin-favoritos"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/javascript/",
@@ -11,15 +11,55 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "bizkaia.eldesmarque.com/2015/05/en-directo-atl%C3%A9tico-de-madrid-athletic-club-comienza-la-segunda-mitad": {
-            "title": "En directo, Atl\u00e9tico de Madrid-Athletic Club: Comienza la segunda mitad...",
-            "snippet": "Si considera que alg\u00fan material debe ser retirado de nuestra p\u00e1gina, puede escribirnos a Esta direcci\u00f3n de correo electr\u00f3nico est\u00e1 siendo protegida contra los robots de spam. Necesita tener JavaScript habilitado para poder verlo.",
+        "alacarta.canalsur.es/2015/05/bienvenido-a-la-web-de-canal-sur-carta": {
+            "title": "Bienvenido a la web de Canal Sur a la Carta...",
+            "snippet": "Algunas de las funcionalidades de la p\u00e1gina que est\u00e1s viendo requiere para su funcionamiento el uso de JavaScript. Si lo has deshabilitado intencionadamente, por favor vuelve a activarlo. Gracias. Televisi\u00f3n Programas Especial Canalsur...",
+            "date": "2015-05-03",
+            "categories": "television,javascript",
+            "tags": "p\u00e1gina,uso,canal,web,javascript,gracias",
+            "recuweb_url": "http://es.recuweb.com/javascript/alacarta.canalsur.es/2015/05/bienvenido-a-la-web-de-canal-sur-carta",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
+            "source_url": "http://alacarta.canalsur.es/television/video/exhibicion-de-enganches-de-la-real-manestranza-de-sevilla-2015/1831401/29"
+        },
+        "muchocastro.com/2015/05/candidatura-partido-popular-pp": {
+            "title": "Candidatura Partido Popular - PP...",
+            "snippet": "Si perteneces al partido y quieres completar alg\u00fan dato de los que figuran en esta web, adjuntar fotos, documentos... puedes escribirnos a Esta direcci\u00f3n electr\u00f3nica esta protegida contra spam bots. Necesita activar JavaScript para visualizarla...",
+            "date": "2015-05-03",
+            "categories": "electronica,javascript",
+            "tags": "direcci\u00f3n,protegida,protegida-contra,contra,spam,puedes,escribirnos,alg\u00fan,web,necesita,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/muchocastro.com/2015/05/candidatura-partido-popular-pp",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
+            "source_url": "http://muchocastro.com/elecciones2015/21224"
+        },
+        "eldesmarque.com/2015/05/en-directo-la-jornada-del-domingo-el-chelsea-campe%C3%B3n-de-premier": {
+            "title": "En directo, la jornada del domingo: El Chelsea, campe\u00f3n de la Premier...",
+            "snippet": "Si considera que alg\u00fan material debe ser retirado de nuestra p\u00e1gina, puede escribirnos a Esta direcci\u00f3n de correo electr\u00f3nico est\u00e1 protegida contra spambots. Usted necesita tener Javascript activado para poder verla.",
+            "date": "2015-05-03",
+            "categories": "javascript",
+            "tags": "activado,activado-para-poder,poder,poder-verla,verla,necesita,necesita-tener,tener,direcci\u00f3n,direcci\u00f3n-de-correo,correo,correo-electr\u00f3nico,electr\u00f3nico,electr\u00f3nico-est\u00e1-protegida,protegida,protegida-contra,contra,escribirnos,alg\u00fan,p\u00e1gina,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/eldesmarque.com/2015/05/en-directo-la-jornada-del-domingo-el-chelsea-campe%C3%B3n-de-premier",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
+            "source_url": "http://eldesmarque.com/futbol/lfp-liga-bbva/54660-en-directo-jornada-35-liga-bbva-domingo"
+        },
+        "techspot.com/2015/05/weekend-tech-reading-debian-8-reviewed-how-a-javascript-ddos-techspot": {
+            "title": "Weekend tech reading: Debian 8 reviewed, how a JavaScript DDoS... - TechSpot...",
+            "snippet": "TechSpotWeekend tech reading: Debian 8 reviewed, how a JavaScript DDoS...TechSpotDebian 8: Linux's most reliable distro makes its biggest change since 1993 Debian 8 -- nicknamed \"Jessie\" after the cowgirl character in Toy Story 2 and 3 -- debuted...",
+            "date": "2015-05-03",
+            "categories": "javascript",
+            "tags": "its,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/techspot.com/2015/05/weekend-tech-reading-debian-8-reviewed-how-a-javascript-ddos-techspot",
+            "resource_url": "http://news.google.es/?hl=es&q=javascript&output=atom&nord=1",
+            "source_url": "http://techspot.com/news/60552-weekend-tech-reading-debian-8-review-javascript-ddos-rip-dave-goldberg.html"
+        },
+        "es.paperblog.com/2015/05/arduino-remoto-con-windows-parte-1-de-3": {
+            "title": "ARDUINO REMOTO CON WINDOWS Parte 1 de 3...",
+            "snippet": "Los desarrolladores que incluyen este componente en sus proyectos autom\u00e1ticamente tendr\u00e1 acceso a sus funciones en cualquiera de las lenguajes soportados de WinRT (C CX, C y JavaScript). En este post vamos a ver c\u00f3mo configurar su Arduino y...",
             "date": "2015-05-02",
             "categories": "javascript",
-            "tags": "habilitado,habilitado-para-poder,poder,poder-verlo,verlo,direcci\u00f3n,direcci\u00f3n-de-correo,correo,correo-electr\u00f3nico,electr\u00f3nico,electr\u00f3nico-est\u00e1-siendo,siendo,siendo-protegida,siendo-protegida-contra,protegida,protegida-contra,contra,contra-los-robots,robots,robots-de-spam,spam,puede,puede-escribirnos,escribirnos,considera,considera-que-alg\u00fan,alg\u00fan,alg\u00fan-material,alg\u00fan-material-debe,material,material-debe,debe,debe-ser-retirado,retirado,p\u00e1gina,segunda,necesita,tener,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/bizkaia.eldesmarque.com/2015/05/en-directo-atl%C3%A9tico-de-madrid-athletic-club-comienza-la-segunda-mitad",
+            "tags": "funciones,parte,javascript",
+            "recuweb_url": "http://es.recuweb.com/javascript/es.paperblog.com/2015/05/arduino-remoto-con-windows-parte-1-de-3",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
-            "source_url": "http://bizkaia.eldesmarque.com/athletic-club/noticias/46131-en-directo-atletico-de-madrid-athletic-club"
+            "source_url": "http://es.paperblog.com/arduino-remoto-con-windows-parte-1-de-3-3189083/"
         },
         "sdtimes.com/2015/05/enterprisejs-coalition-aims-for-enterprise-and-javascript": {
             "title": "EnterpriseJS Coalition aims for enterprise and JavaScript... -...",
@@ -36,30 +76,10 @@
             "snippet": "El origen del desarrollo de Dart fue simplificar el proceso de creaci\u00f3n de apps complicadas en Javascript. As\u00ed mismo, Sky est\u00e1 pensando tambi\u00e9n para poder ejecutarse en m\u00e1s sistemas operativos mediante Chrome, con lo que mantiene un cierto...",
             "date": "2015-05-02",
             "categories": "google,java,javascript",
-            "tags": "poder,mediante,google,desarrollo,javascript,chrome",
+            "tags": "poder,google,desarrollo,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/computerhoy.com/2015/05/google-quiere-prescindir-de-java-en-android-y-piensa-sky",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
             "source_url": "http://computerhoy.com/noticias/software/google-quiere-prescindir-java-android-piensa-sky-27799"
-        },
-        "eldesmarque.com/2015/05/jornada-35-de-la-liga-bbva": {
-            "title": "Jornada 35 de la Liga BBVA...",
-            "snippet": "Si considera que alg\u00fan material debe ser retirado de nuestra p\u00e1gina, puede escribirnos a Esta direcci\u00f3n de correo electr\u00f3nico est\u00e1 protegida contra spambots. Usted necesita tener Javascript activado para poder verla.",
-            "date": "2015-05-02",
-            "categories": "javascript",
-            "tags": "activado,activado-para-poder,poder,poder-verla,verla,necesita,necesita-tener,tener,direcci\u00f3n,direcci\u00f3n-de-correo,correo,correo-electr\u00f3nico,electr\u00f3nico,electr\u00f3nico-est\u00e1-protegida,protegida,protegida-contra,contra,puede,puede-escribirnos,escribirnos,considera,considera-que-alg\u00fan,alg\u00fan,alg\u00fan-material,alg\u00fan-material-debe,material,material-debe,debe,debe-ser-retirado,retirado,p\u00e1gina,jornada,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/eldesmarque.com/2015/05/jornada-35-de-la-liga-bbva",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
-            "source_url": "http://eldesmarque.com/futbol/54645-en-directo-la-jornada-35-de-la-liga-bbva"
-        },
-        "sevilla.eldesmarque.com/2015/05/jornada-36-de-segunda-divisi%C3%B3n": {
-            "title": "Jornada 36 de Segunda Divisi\u00f3n...",
-            "snippet": "Si considera que alg\u00fan material debe ser retirado de nuestra p\u00e1gina, puede escribirnos a Esta direcci\u00f3n de correo electr\u00f3nico est\u00e1 siendo protegida contra los robots de spam. Necesita tener JavaScript habilitado para poder verlo.",
-            "date": "2015-05-02",
-            "categories": "javascript",
-            "tags": "habilitado,habilitado-para-poder,poder,poder-verlo,verlo,direcci\u00f3n,direcci\u00f3n-de-correo,correo,correo-electr\u00f3nico,electr\u00f3nico,electr\u00f3nico-est\u00e1-siendo,siendo,siendo-protegida,siendo-protegida-contra,protegida,protegida-contra,contra,contra-los-robots,robots,robots-de-spam,spam,puede,puede-escribirnos,escribirnos,considera,considera-que-alg\u00fan,alg\u00fan,alg\u00fan-material,alg\u00fan-material-debe,material,material-debe,debe,debe-ser-retirado,retirado,p\u00e1gina,segunda,jornada,necesita,tener,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/sevilla.eldesmarque.com/2015/05/jornada-36-de-segunda-divisi%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
-            "source_url": "http://sevilla.eldesmarque.com/real-betis/72027-en-directo-betis-llagostera-liga"
         },
         "theregister.co.uk/2015/05/google-password-alert-could-be-foiled-with-just-7-lines-of": {
             "title": "Google Password Alert could be foiled with just 7 lines of JavaScript - The Register...",
@@ -76,7 +96,7 @@
             "snippet": "solicitar a trav\u00e9s de Esta direcci\u00f3n de correo electr\u00f3nico est\u00e1 protegida contra los robots de spam, necesita tener Javascript activado para poder verla Esta direcci\u00f3n de correo electr\u00f3nico est\u00e1 protegida contra los robots de spam, necesita...",
             "date": "2015-05-01",
             "categories": "javascript",
-            "tags": "activado,activado-para-poder,poder,poder-verla,verla,necesita,necesita-tener,tener,direcci\u00f3n,direcci\u00f3n-de-correo,correo,correo-electr\u00f3nico,electr\u00f3nico,electr\u00f3nico-est\u00e1-protegida,protegida,protegida-contra,contra,contra-los-robots,robots,robots-de-spam,spam,trav\u00e9s,javascript",
+            "tags": "activado,activado-para-poder,poder,poder-verla,verla,necesita,necesita-tener,tener,direcci\u00f3n,direcci\u00f3n-de-correo,correo,correo-electr\u00f3nico,electr\u00f3nico,electr\u00f3nico-est\u00e1-protegida,protegida,protegida-contra,contra,spam,trav\u00e9s,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/manzana.prensa-latina.cu/2015/05/lista-de-grabaciones-plradio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
             "source_url": "http://manzana.prensa-latina.cu/index.php?option=com_content&task=view&idioma=1&id=3766071"
@@ -86,30 +106,10 @@
             "snippet": "InfoWorldMicrosoft open-sources JavaScript toolsInfoWorldContinuing its overtures toward open source, Microsoft is unveiling technologies for packaging applications and remotely debugging JavaScript. One open source technology, ManifoldJS, helps...",
             "date": "2015-05-01",
             "categories": "javascript",
-            "tags": "its,microsoft,javascript",
+            "tags": "technology,its,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/infoworld.com/2015/05/microsoft-open-sources-javascript-tools-infoworld",
             "resource_url": "http://news.google.es/?hl=es&q=javascript&output=atom&nord=1",
             "source_url": "http://infoworld.com/article/2917441/microsoft-net/microsoft-open-sources-javascript-tools.html"
-        },
-        "theserverside.com/2015/04/how-netflix-modularized-their-javascript-codebase-techtarget": {
-            "title": "How Netflix modularized their JavaScript Codebase - TechTarget...",
-            "snippet": "How Netflix modularized their JavaScript CodebaseTechTargetSeveral years ago, Netflix decided to refactor its main client application to JavaScript from C. This approach promised a more consistent user interface (UI) and allowed Netflix to innovate...",
-            "date": "2015-04-30",
-            "categories": "javascript",
-            "tags": "its,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/theserverside.com/2015/04/how-netflix-modularized-their-javascript-codebase-techtarget",
-            "resource_url": "http://news.google.es/?hl=es&q=javascript&output=atom&nord=1",
-            "source_url": "http://theserverside.com/tip/How-Netflix-modularized-their-JavaScript-Codebase"
-        },
-        "muycomputer.com/2015/04/microsoft-edge-es-m%C3%A1s-r%C3%A1pido-que-chrome-y-firefox-en-benchmarks": {
-            "title": "Microsoft Edge es m\u00e1s r\u00e1pido que Chrome y Firefox en benchmarks oficiales...",
-            "snippet": "El segundo mide el rendimiento del motor JavaScript, e incluye una serie de pruebas que se pueden realizar no s\u00f3lo en ordenadores, sino tambi\u00e9n en tel\u00e9fonos inteligentes y tablets. Los resultados est\u00e1n a la vista. Microsoft Edge supera a Chrome...",
-            "date": "2015-04-30",
-            "categories": "javascript",
-            "tags": "microsoft,chrome,javascript",
-            "recuweb_url": "http://es.recuweb.com/javascript/muycomputer.com/2015/04/microsoft-edge-es-m%C3%A1s-r%C3%A1pido-que-chrome-y-firefox-en-benchmarks",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=es",
-            "source_url": "http://muycomputer.com/2015/05/01/microsoft-edge-resultados"
         }
     }
 }

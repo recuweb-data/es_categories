@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yoga",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/yoga/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
     },
     "items": {
+        "cream.mx/2015/05/angie-flores-trae-el-yoga-ashtanga-a-m%C3%A9xico-cream": {
+            "title": "Angie Flores trae el yoga ashtanga a M\u00e9xico Cream...",
+            "snippet": "Entre ellos se encuentran la meditaci\u00f3n y el yoga que la mayor\u00eda de los occidentales no tomamos tan en serio como lo hacen los orientales con total disciplina y entrega. Meditamos cuando tenemos tiempo y en cuanto a...",
+            "date": "2015-05-01",
+            "author_name": "Cream",
+            "categories": "yoga",
+            "tags": "tiempo,hacen,meditaci\u00f3n,ashtanga,yoga,disciplina",
+            "recuweb_url": "http://es.recuweb.com/yoga/cream.mx/2015/05/angie-flores-trae-el-yoga-ashtanga-a-m%C3%A9xico-cream",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cream.mx/angie-flores-trae-el-yoga-ashtanga-a-mexico/"
+        },
         "vitonica.com/2015/04/bikram-yoga-es-seguro-ejercitarse-a-altas-temperaturas-vit%C3%B3nica": {
             "title": "Bikram yoga, \u00bfes seguro ejercitarse a altas temperaturas? - Vit\u00f3nica...",
             "snippet": "Hay diferentes tipos de yoga a nuestra disposici\u00f3n y el Bikram yoga en particular se desarrolla en ambientes a alta temperatura, con hasta 40C,...",
             "date": "2015-04-27",
             "author_name": "Gabriela Gottau",
             "categories": "yoga",
-            "tags": "diferentes,bikram,yoga",
+            "tags": "bikram,yoga,hay",
             "recuweb_url": "http://es.recuweb.com/yoga/vitonica.com/2015/04/bikram-yoga-es-seguro-ejercitarse-a-altas-temperaturas-vit%C3%B3nica",
-            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://vitonica.com/entrenamiento/bikram-yoga-es-seguro-ejercitarse-a-altas-temperaturas"
         },
         "elsalvador.com/2015/04/beneficios-del-yoga-en-tu-cuerpo-y-esp%C3%ADritu": {
@@ -28,7 +39,7 @@
             "date": "2015-04-26",
             "author_name": "desconocido",
             "categories": "yoga",
-            "tags": "clases,beneficios,yoga,cuerpo,ofrece",
+            "tags": "s\u00e1bado,ayuda,relajar,beneficios,yoga,cuerpo,mente,clases",
             "recuweb_url": "http://es.recuweb.com/yoga/elsalvador.com/2015/04/beneficios-del-yoga-en-tu-cuerpo-y-esp%C3%ADritu",
             "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47862&idArt=9625224"
@@ -39,9 +50,9 @@
             "date": "2015-04-24",
             "author_name": "Laura Vidal",
             "categories": "yoga",
-            "tags": "haciendo,yoga",
+            "tags": "uras,mundo,corporales,haciendo,yoga,biogu\u00eda",
             "recuweb_url": "http://es.recuweb.com/yoga/labioguia.com/2015/04/15-divertidas-poses-de-animales-haciendo-yoga-la-biogu%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://labioguia.com/yoga-meditacion-inspirada-en-la-naturaleza/"
         },
         "blog.casapia.com/2015/04/sale-a-la-venta-40-d%C3%ADas-de-yoga-un-libro": {
@@ -50,76 +61,65 @@
             "date": "2015-04-22",
             "author_name": "Mercedes",
             "categories": "yoga",
-            "tags": "pr\u00e1ctica,yoga",
+            "tags": "pr\u00e1ctica,d\u00edas,yoga,dedicado",
             "recuweb_url": "http://es.recuweb.com/yoga/blog.casapia.com/2015/04/sale-a-la-venta-40-d%C3%ADas-de-yoga-un-libro",
             "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.casapia.com/sale-a-la-venta-40-dias-de-yoga-un-libro-en-formato-digital-para-practicar-yoga/"
         },
-        "kripaela-web.blogspot.com/2015/04/yoga-en-zona-oeste": {
-            "title": "Yoga en Zona Oeste...",
-            "snippet": "Centro de Artes Orientales Kripaela con Yoga Kripa y mucho mas para el 2015 Como todo el a\u00f1o aun en vacaciones, el Centro Kripaela, a trav\u00e9s de su Maestra en Artes Orientales y Monje Budista Kripa, brinda un sistema de Yoga que tiene sus or\u00edgenes...",
-            "date": "2015-04-22",
-            "author_name": "Kripa",
+        "yogaespacio.com/2015/04/yoga-espacio-ac%C3%A9rcate-al-y-a-la-meditaci%C3%B3n": {
+            "title": "Yoga Espacio Ac\u00e9rcate al yoga y a la meditaci\u00f3n...",
+            "snippet": "\u00bfQuieres probar la meditaci\u00f3n y el yoga desde cero? \u00bfTienes poco tiempo para invertir en ello? Para ti es este curso introductorio de tres sesiones de 2 horas cada una. Aprender\u00e1s una pr\u00e1ctica de yoga con y de meditaci\u00f3n...",
+            "date": "2015-04-10",
+            "author_name": "EditorYoga",
             "categories": "yoga",
-            "tags": "yoga,centro,trav\u00e9s",
-            "recuweb_url": "http://es.recuweb.com/yoga/kripaela-web.blogspot.com/2015/04/yoga-en-zona-oeste",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
-            "source_url": "http://kripaela-web.blogspot.com/2015/04/yoga-en-ituzaingo.html"
+            "tags": "meditaci\u00f3n,pr\u00e1ctica,horas,tiempo,yoga,yoga_espacio,espacio",
+            "recuweb_url": "http://es.recuweb.com/yoga/yogaespacio.com/2015/04/yoga-espacio-ac%C3%A9rcate-al-y-a-la-meditaci%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://yogaespacio.com/zona-5/introduccion-yoga-meditacion/"
         },
-        "medicablogs.diariomedico.com/2015/04/yoga-para-tu-salud-archivo-del-blog-el-mejora": {
-            "title": "Yoga para tu salud Archivo del Blog EL YOGA MEJORA LA...",
-            "snippet": "Practicar yoga regularmente mejora la circulaci\u00f3n sangu\u00ednea y asimismo mejora la respiraci\u00f3n. Mejora la circulaci\u00f3n sangu\u00ednea y estimula el coraz\u00f3n. Son ejercicios para progresar la circulaci\u00f3n de las piernas. Esto calma...",
-            "date": "2015-04-21",
-            "author_name": "yogaparaembarazadas",
-            "categories": "yoga,salud",
-            "tags": "ejercicios,yoga,son",
-            "recuweb_url": "http://es.recuweb.com/salud/medicablogs.diariomedico.com/2015/04/yoga-para-tu-salud-archivo-del-blog-el-mejora",
-            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://medicablogs.diariomedico.com/yogaparatusalud/2015/04/21/el-yoga-mejora-la-circulacion/"
-        },
-        "budistas.blogspot.com/2015/04/yoga-tibetano-en-espa%C3%B1a-con-el-lama-norbu-julio-2015": {
-            "title": "yoga tibetano en espa\u00f1a con el lama norbu: julio 2015.",
-            "snippet": "10, 11, 12 y 13 de julio de julio: Seminario Intensivo y Retiro de la III Promoci\u00f3n de Instructores de Yoga Tibetano/Jamyang Yoga de la Escuela Internacional de Yoga Tibetano y Meditaci\u00f3n \"Lhakhang Gongpa\", en la \"Casa...",
-            "date": "2015-04-21",
-            "author_name": "JAVIER AKERMAN",
-            "categories": "escuela,yoga",
-            "tags": "yoga,meditaci\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/yoga/budistas.blogspot.com/2015/04/yoga-tibetano-en-espa%C3%B1a-con-el-lama-norbu-julio-2015",
-            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://budistas.blogspot.com/2015/04/yoga-tibetano-en-espana-con-el-lama.html"
-        },
-        "clasesdeyogalugo.blogspot.com/2015/04/profesores-de-karmah-lugo": {
-            "title": "PROFESORES DE KARMAH LUGO...",
-            "snippet": "... Quieres conocer a los profesores de KARMAH Lugo?... Te gustar\u00eda iniciarte en el yoga?... Has practicado yoga y quieres continuar con la modalidad que m\u00e1s te gusta? En KARMAH TE OFRECEMOS 4 modalidades: 1 Hatha yoga (yoga cl\u00e1sico) 2 Kundalini...",
-            "date": "2015-04-21",
-            "author_name": "Jasanjot Singh",
+        "yogaespacio.com/2015/04/yoga-espacio-nueva-sede-alameda": {
+            "title": "Yoga Espacio Nueva sede Alameda...",
+            "snippet": "VER HORARIOS. En Yoga Espacio nuestra ense\u00f1anza se basa en pr\u00e1cticas donde cuerpo y mente se integran, se nutren entre s\u00ed, dialogan y apuntan a un solo objetivo: la integridad del ser humano. Un ser humano \u00edntegro...",
+            "date": "2015-04-09",
+            "author_name": "EditorYoga",
             "categories": "yoga",
-            "tags": "yoga",
-            "recuweb_url": "http://es.recuweb.com/yoga/clasesdeyogalugo.blogspot.com/2015/04/profesores-de-karmah-lugo",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=yoga%2Byoga&rss=1&lng=es",
-            "source_url": "http://clasesdeyogalugo.blogspot.com/2015/04/profesores-de-karmah-lugo.html"
+            "tags": "yoga,yoga_espacio,espacio,cuerpo,mente",
+            "recuweb_url": "http://es.recuweb.com/yoga/yogaespacio.com/2015/04/yoga-espacio-nueva-sede-alameda",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://yogaespacio.com/zona-13/alameda/"
         },
-        "trendenciasbelleza.com/2015/04/especial-novias-ejercicios-relajantes-de-yoga-trendencias-belleza": {
-            "title": "Especial novias: ejercicios relajantes de Yoga - Trendencias Belleza...",
-            "snippet": "Tres rutinas de Yoga diferentes para relajarnos de cara al d\u00eda de la boda. Estiramientos, flexibilidad y relajaci\u00f3n para liberarnos del...",
-            "date": "2015-04-17",
-            "author_name": "Lady Fitness",
+        "labioguia.com/2015/04/yoga-facial-tu-nuevo-aliado-para-relajar-tensiones-la-biogu%C3%ADa": {
+            "title": "Yoga facial, tu nuevo aliado para relajar tensiones La Biogu\u00eda...",
+            "snippet": "El yoga facial ayuda a aliviar tensiones, tanto de los tejidos corporales como de las de nuestro d\u00eda a d\u00eda. A veces olvidamos que nuestra cara tambi\u00e9n tiene m\u00fa.",
+            "date": "2015-04-01",
+            "author_name": "Turmalina",
             "categories": "yoga",
-            "tags": "flexibilidad,relajaci\u00f3n,diferentes,ejercicios,yoga",
-            "recuweb_url": "http://es.recuweb.com/yoga/trendenciasbelleza.com/2015/04/especial-novias-ejercicios-relajantes-de-yoga-trendencias-belleza",
-            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://trendenciasbelleza.com/ejercicio/especial-novias-ejercicios-relajantes-de-yoga"
+            "tags": "tiene,corporales,ayuda,relajar,yoga,biogu\u00eda,d\u00eda",
+            "recuweb_url": "http://es.recuweb.com/yoga/labioguia.com/2015/04/yoga-facial-tu-nuevo-aliado-para-relajar-tensiones-la-biogu%C3%ADa",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://labioguia.com/yoga-facial-tu-nuevo-aliado-para-relajar-tensiones/"
         },
-        "mysteryplanet.com.ar/2015/04/inti-yoga-en-busca-del-conocimiento-perdido": {
-            "title": "INTI YOGA: En busca del conocimiento perdido...",
-            "snippet": "La correspondencia sublime entre el Inti Yoga y los universalmente ya conocidos no reside especialmente en la pr\u00e1ctica; lo hace sobre algo m\u00e1s importante: su filosof\u00eda. Los principios de Metempsicosis, Reencarnaci\u00f3n,...",
-            "date": "2015-04-15",
-            "author_name": "Arkantos",
-            "categories": "conocimiento,yoga",
-            "tags": "pr\u00e1ctica,yoga,hace",
-            "recuweb_url": "http://es.recuweb.com/yoga/mysteryplanet.com.ar/2015/04/inti-yoga-en-busca-del-conocimiento-perdido",
-            "resource_url": "http://www.google.com/search?q=yoga%2Byoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://mysteryplanet.com.ar/site/inti-yoga-en-busca-del-conocimiento-perdido/"
+        "cnnespanol.cnn.com/2015/03/duerme-mejor-con-seis-minutos-de-yoga-antes-ir": {
+            "title": "Duerme mejor con seis minutos de yoga antes de ir a la cama...",
+            "snippet": "Por Dana Santas, especial para CNN Nota del editor: Dana Santas es la creadora de Radius Yoga Conditioning, un estilo de yoga dise\u00f1ado para ayudar a los atletas a moverse, respirar y enfocarse mejor.",
+            "date": "2015-03-27",
+            "author_name": "Rodrigo Aguiar",
+            "categories": "yoga",
+            "tags": "yoga,cnn,dana,antes,minutos",
+            "recuweb_url": "http://es.recuweb.com/yoga/cnnespanol.cnn.com/2015/03/duerme-mejor-con-seis-minutos-de-yoga-antes-ir",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/03/27/duerme-mejor-con-seis-minutos-de-yoga-antes-de-ir-a-la-cama/"
+        },
+        "cnnespanol.cnn.com/2015/02/el-gur%C3%BA-del-yoga-bikram-choudhury-es-acusado-de-agresi%C3%B3n-sexual": {
+            "title": "El gur\u00fa del yoga Bikram Choudhury es acusado de agresi\u00f3n sexual...",
+            "snippet": "Por Dana Ford (CNN) Para sus legiones de seguidores, Bikram Choudhury tiene una cualidad casi de otro mundo. El gur\u00fa del yoga inspira mientras promete sanar cuerpo y alma. Pero para sus cr\u00edticos, Choudhury es...",
+            "date": "2015-02-26",
+            "author_name": "paudaza02",
+            "categories": "yoga",
+            "tags": "tiene,mundo,dana,bikram,yoga,cnn,cuerpo",
+            "recuweb_url": "http://es.recuweb.com/yoga/cnnespanol.cnn.com/2015/02/el-gur%C3%BA-del-yoga-bikram-choudhury-es-acusado-de-agresi%C3%B3n-sexual",
+            "resource_url": "http://www.google.com/search?q=yoga&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnespanol.cnn.com/2015/02/26/el-guru-del-yoga-bikram-choudhury-es-acusado-de-agresion-sexual-y-violacion/"
         }
     }
 }

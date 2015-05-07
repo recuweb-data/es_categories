@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ingenier\u00eda-qu\u00edmica",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ingenier\u00eda-qu\u00edmica/",
@@ -11,32 +11,42 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ingenier%C3%ADa-qu%C3%ADmica/ingenier%C3%ADa-qu%C3%ADmica/blogs.json"
     },
     "items": {
+        "es.paperblog.com/2015/05/el-ingeniero-qu%C3%ADmico-que-ayud%C3%B3-a-cambiar-la-medicina": {
+            "title": "El ingeniero qu\u00edmico que ayud\u00f3 a cambiar la medicina...",
+            "snippet": "Para sus colegas, el impacto del trabajo de Langer est\u00e1 claro. Para m\u00ed, Bob es el mayor ingeniero qu\u00edmico de nuestro tiempo, se\u00f1ala el profesor de ingenier\u00eda qu\u00edmica en Caltech (EEUU) Mark Davis. No hay duda de que gracias a Bob hoy d\u00eda la...",
+            "date": "2015-05-04",
+            "categories": "medicina,ingenieria",
+            "tags": "ingeniero,qu\u00edmico,trabajo,ingenier\u00eda,qu\u00edmica",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/es.paperblog.com/2015/05/el-ingeniero-qu%C3%ADmico-que-ayud%C3%B3-a-cambiar-la-medicina",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/el-ingeniero-quimico-que-ayudo-a-cambiar-la-medicina-3191751/"
+        },
+        "consumer.es/2015/05/energ%C3%ADa-renovable-a-partir-de-aguas-residuales": {
+            "title": "Energ\u00eda renovable a partir de aguas residuales...",
+            "snippet": "Esta triple jugada ecol\u00f3gica y econ\u00f3mica es la propuesta de un equipo de investigadores del Departamento de Ingenier\u00eda Qu\u00edmica de la Universidad Aut\u00f3noma de Barcelona (UAB). Los cient\u00edficos, coordinados por los profesores Albert Guisasola y...",
+            "date": "2015-05-03",
+            "categories": "ingenieria",
+            "tags": "universidad,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,investigadores,partir",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/consumer.es/2015/05/energ%C3%ADa-renovable-a-partir-de-aguas-residuales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
+            "source_url": "http://consumer.es/web/es/medio_ambiente/energia_y_ciencia/2015/05/04/221875.php"
+        },
         "lavozdealmeria.es/2015/04/las-mejores-ideas-en-ingenier%C3%ADa-qu%C3%ADmica-de-la-universidad": {
             "title": "Las mejores ideas en Ingenier\u00eda Qu\u00edmica de la Universidad...",
-            "snippet": "La UAL ha celebrado la jornada de divulgaci\u00f3n de Ingenier\u00eda Qu\u00edmica con la que clausur\u00f3 el quinto certamen de Proyectos Educativos en Ingenier\u00eda Qu\u00edmica, dirigido a promover el inter\u00e9s de los alumnos de educaci\u00f3n secundaria por esta rama de...",
+            "snippet": "El certamen est\u00e1 destinado a estudiantes de 4 de ESO y bachillerato de la provincia. Uno de los objetivos es el de estrechar las relaciones entre los centros de ense\u00f1anza secundaria y la universidad y acercar a los alumnos a la Ingenier\u00eda...",
             "date": "2015-04-30",
             "categories": "ingenieria",
-            "tags": "dirigido,dirigido-promover,promover,promover-el-inter\u00e9s,inter\u00e9s,alumnos,alumnos-de-educaci\u00f3n,educaci\u00f3n,educaci\u00f3n-secundaria,secundaria,rama,proyectos,proyectos_educativos,educativos,clausur\u00f3,clausur\u00f3-el-quinto,quinto,quinto-certamen,certamen,jornada,jornada-de-divulgaci\u00f3n,divulgaci\u00f3n,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,mejores,universidad,ual",
+            "tags": "alumnos,estrechar,estrechar-las-relaciones,relaciones,centros,ense\u00f1anza,secundaria,certamen,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,mejores,universidad",
             "recuweb_url": "http://es.recuweb.com/ingenieria/lavozdealmeria.es/2015/04/las-mejores-ideas-en-ingenier%C3%ADa-qu%C3%ADmica-de-la-universidad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
             "source_url": "http://lavozdealmeria.es/vernoticia.asp?IdNoticia=81782"
-        },
-        "noticiasdealmeria.com/2015/04/una-investigaci%C3%B3n-sobre-la-adulteraci%C3%B3n-de-bebidas-alcoh%C3%B3licas-gana-el-quinto": {
-            "title": "Una investigaci\u00f3n sobre la adulteraci\u00f3n de bebidas alcoh\u00f3licas gana el quinto certamen de...",
-            "snippet": "La UAL celebr\u00f3 ayer la jornada de divulgaci\u00f3n de Ingenier\u00eda Qu\u00edmica con la que clausur\u00f3 el quinto certamen de Proyectos Educativos en Ingenier\u00eda Qu\u00edmica, dirigido a promover el inter\u00e9s de los alumnos de educaci\u00f3n secundaria por esta rama de...",
-            "date": "2015-04-30",
-            "categories": "ingenieria",
-            "tags": "dirigido,dirigido-promover,promover,promover-el-inter\u00e9s,inter\u00e9s,alumnos,alumnos-de-educaci\u00f3n,educaci\u00f3n,educaci\u00f3n-secundaria,secundaria,rama,proyectos,proyectos_educativos,educativos,clausur\u00f3,clausur\u00f3-el-quinto,quinto,quinto-certamen,certamen,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,celebr\u00f3,celebr\u00f3-ayer,ayer,ayer-la-jornada,jornada,jornada-de-divulgaci\u00f3n,divulgaci\u00f3n,investigaci\u00f3n,adulteraci\u00f3n,adulteraci\u00f3n-de-bebidas,bebidas,bebidas-alcoh\u00f3licas,bebidas-alcoh\u00f3licas-gana,alcoh\u00f3licas,alcoh\u00f3licas-gana,gana,ual",
-            "recuweb_url": "http://es.recuweb.com/ingenieria/noticiasdealmeria.com/2015/04/una-investigaci%C3%B3n-sobre-la-adulteraci%C3%B3n-de-bebidas-alcoh%C3%B3licas-gana-el-quinto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
-            "source_url": "http://noticiasdealmeria.com/noticia/104502/ALMERIA/Una-investigacion-sobre-la-adulteracion-de-bebidas-alcoholicas-gana-el-quinto-certamen-de-proyectos-educativos-en-Ingenieria-Quimica.html"
         },
         "teleprensa.com/2015/04/una-investigaci%C3%B3n-sobre-la-adulteraci%C3%B3n-de-bebidas-alcoh%C3%B3licas-gana-un-certamen": {
             "title": "Una investigaci\u00f3n sobre la adulteraci\u00f3n de bebidas alcoh\u00f3licas gana un certamen de la UAL...",
             "snippet": "ALMER\u00cdA.- La UAL celebr\u00f3 ayer la jornada de divulgaci\u00f3n de Ingenier\u00eda Qu\u00edmica con la que clausur\u00f3 el quinto certamen de Proyectos Educativos en Ingenier\u00eda Qu\u00edmica, dirigido a promover el inter\u00e9s de los alumnos de educaci\u00f3n secundaria por...",
             "date": "2015-04-30",
             "categories": "ingenieria",
-            "tags": "dirigido,dirigido-promover,promover,promover-el-inter\u00e9s,inter\u00e9s,alumnos,alumnos-de-educaci\u00f3n,educaci\u00f3n,educaci\u00f3n-secundaria,secundaria,proyectos,proyectos_educativos,educativos,clausur\u00f3,clausur\u00f3-el-quinto,quinto,quinto-certamen,certamen,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,celebr\u00f3,celebr\u00f3-ayer,ayer,ayer-la-jornada,jornada,jornada-de-divulgaci\u00f3n,divulgaci\u00f3n,investigaci\u00f3n,adulteraci\u00f3n,adulteraci\u00f3n-de-bebidas,bebidas,bebidas-alcoh\u00f3licas,bebidas-alcoh\u00f3licas-gana,alcoh\u00f3licas,alcoh\u00f3licas-gana,gana,ual,almer\u00eda",
+            "tags": "dirigido,dirigido-promover,promover,promover-el-inter\u00e9s,inter\u00e9s,alumnos,secundaria,proyectos,proyectos_educativos,educativos,clausur\u00f3,clausur\u00f3-el-quinto,quinto,quinto-certamen,certamen,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,jornada,jornada-de-divulgaci\u00f3n,divulgaci\u00f3n,investigaci\u00f3n,adulteraci\u00f3n,adulteraci\u00f3n-de-bebidas,bebidas,bebidas-alcoh\u00f3licas,alcoh\u00f3licas,ual,almer\u00eda",
             "recuweb_url": "http://es.recuweb.com/ingenieria/teleprensa.com/2015/04/una-investigaci%C3%B3n-sobre-la-adulteraci%C3%B3n-de-bebidas-alcoh%C3%B3licas-gana-un-certamen",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
             "source_url": "http://teleprensa.com/almeria/una-investigacion-sobre-la-adulteracion-de-bebidas-alcoholicas-gana-un-certamen-de-la-ual.html"
@@ -51,25 +61,25 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
             "source_url": "http://almeria360.com/ciencia/30042015_una-investigacion-sobre-la-adulteracion-de-bebidas-alcoholicas-premiada-por-la-ual_128095.html"
         },
+        "elcorreoweb.es/2015/04/qu%C3%ADmica-matem%C3%A1ticas-idiomas-e-ingenier%C3%ADa-de-la-hispalense-entre-las-mejores": {
+            "title": "Qu\u00edmica, matem\u00e1ticas, idiomas e ingenier\u00eda de la Hispalense, entre las mejores ense\u00f1anzas del...",
+            "snippet": "La Universidad de Sevilla se ha colocado entre las mejores universidades del mundo en seis de las 36 disciplinas del conocimiento analizadas por QS, seg\u00fan los datos publicados por QS World University Rankings 2015 by Subject. En esta edici\u00f3n, han...",
+            "date": "2015-04-29",
+            "categories": "conocimiento,ingenieria",
+            "tags": "mejores,universidades,universidad,qu\u00edmica,ingenier\u00eda",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/elcorreoweb.es/2015/04/qu%C3%ADmica-matem%C3%A1ticas-idiomas-e-ingenier%C3%ADa-de-la-hispalense-entre-las-mejores",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
+            "source_url": "http://elcorreoweb.es/quimica-matematicas-idiomas-e-ingenieria-de-la-hispalense-entre-las-mejores-ensenanzas-del-mundo-DH283621"
+        },
         "novapolis.es/2015/04/los-institutos-de-secundaria-almer%C3%ADa-innovan-en-ingenier%C3%ADa-qu%C3%ADmica": {
             "title": "Los institutos de secundaria de Almer\u00eda innovan en ingenier\u00eda qu\u00edmica...",
-            "snippet": "La Universidad de Almer\u00eda celebrar\u00e1 este mi\u00e9rcoles por la tarde (. Sala de Grados de la Escuela Polit\u00e9cnica Superior) la quinta edici\u00f3n de la Jornada de divulgaci\u00f3n de Ingenier\u00eda Qu\u00edmica con la que clausura el V Certamen de Proyectos...",
+            "snippet": "Aunque la Jornada finalizar\u00e1 con la entrega de un certificado de participaci\u00f3n y de cinco premios a los cinco mejores proyectos, el principal objetivo del certamen es el de estrechar las relaciones entre los Centros de Ense\u00f1anza Secundaria y...",
             "date": "2015-04-28",
-            "categories": "ingenieria,escuela",
-            "tags": "ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,divulgaci\u00f3n,escuela,superior,secundaria,almer\u00eda,universidad,jornada,certamen,proyectos",
-            "recuweb_url": "http://es.recuweb.com/escuela/novapolis.es/2015/04/los-institutos-de-secundaria-almer%C3%ADa-innovan-en-ingenier%C3%ADa-qu%C3%ADmica",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
+            "categories": "ingenieria",
+            "tags": "ense\u00f1anza,secundaria,certamen,estrechar,estrechar-las-relaciones,relaciones,mejores,proyectos,almer\u00eda,ingenier\u00eda,qu\u00edmica,jornada,centros",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/novapolis.es/2015/04/los-institutos-de-secundaria-almer%C3%ADa-innovan-en-ingenier%C3%ADa-qu%C3%ADmica",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
             "source_url": "http://novapolis.es/index.php/universidad/37406-los-institutos-de-secundaria-de-almeria-innovan-en-ingenieria-quimica"
-        },
-        "technologyreview.es/2015/04/el-ingeniero-qu%C3%ADmico-que-ayud%C3%B3-a-cambiar-la-medicina": {
-            "title": "El ingeniero qu\u00edmico que ayud\u00f3 a cambiar la medicina...",
-            "snippet": "Foto: Como pionero de la administraci\u00f3n dirigida de f\u00e1rmacos, Robert Langer ha ganado m\u00e1s de 220 grandes premios, incluyendo el Premio Reina Isabel 2015 de Ingenier\u00eda. Cuando Robert Langer acab\u00f3 su doctorado en ingenier\u00eda qu\u00edmica en 1974,...",
-            "date": "2015-04-27",
-            "categories": "medicina,ingenieria",
-            "tags": "pionero,ingeniero,qu\u00edmico,ingenier\u00eda,qu\u00edmica",
-            "recuweb_url": "http://es.recuweb.com/ingenieria/technologyreview.es/2015/04/el-ingeniero-qu%C3%ADmico-que-ayud%C3%B3-a-cambiar-la-medicina",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
-            "source_url": "http://technologyreview.es/read_article.aspx?id=47341"
         },
         "mimorelia.com/2015/04/facultad-de-ingenier%C3%ADa-qu%C3%ADmica-la-umsnh-cumple-50": {
             "title": "Facultad de Ingenier\u00eda Qu\u00edmica de la UMSNH cumple 50 a\u00f1os...",
@@ -86,7 +96,7 @@
             "snippet": "Categor\u00edas: Centro Universitario de la Ci\u00e9nega (CUCI\u00e9nega) licenciaturas en qu\u00edmico farmacobi\u00f3logo (QFB) e ingenier\u00eda qu\u00edmica celulosa lirio acu\u00e1tico papel universidades GUADALAJARA, JALISCO.- Con el fin de extraer celulosa de la planta del...",
             "date": "2015-04-23",
             "categories": "ingenieria",
-            "tags": "qu\u00edmico,ingenier\u00eda,qu\u00edmica",
+            "tags": "universidades,qu\u00edmico,partir,ingenier\u00eda,qu\u00edmica",
             "recuweb_url": "http://es.recuweb.com/ingenieria/digitallpost.mx/2015/04/jalisco-universitarios-crean-papel-a-partir-del-lirio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
             "source_url": "http://digitallpost.mx/noticias-detalle.php?contenido_id=82722&seccion_id=211"
@@ -96,20 +106,10 @@
             "snippet": "Investigadores del grupo de Ingenier\u00eda Qu\u00edmica y Medioambiental (IMAES) de la Escuela T\u00e9cnica Superior de Ingenieros Industriales de la Universidad de Castilla-La Mancha (UCLM) han iniciado una nueva l\u00ednea de trabajo que pretende desarrollar un...",
             "date": "2015-04-23",
             "categories": "escuela,ingenieria",
-            "tags": "ingenieros,escuela,superior,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,universidad",
+            "tags": "trabajo,ingenieros,ingenier\u00eda,ingenier\u00eda_qu\u00edmica,qu\u00edmica,universidad,investigadores",
             "recuweb_url": "http://es.recuweb.com/ingenieria/eldigitalcastillalamancha.es/2015/04/potente-y-emprendedor-proyecto-de-desarrollo-desde-la-universidad-regional",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ingenier%C3%ADa%2Bqu%C3%ADmica&format=RSS&cc=es",
             "source_url": "http://eldigitalcastillalamancha.es/articulo_economia.asp?idarticulo=185012&idfirma=&lugar="
-        },
-        "elnuevodia.com/2015/04/boricua-es-reconocida-entre-los-mejores-en-ingenier%C3%ADa-el-nuevo": {
-            "title": "Boricua es reconocida entre los mejores en. en ingenier\u00eda... - El Nuevo...",
-            "snippet": "El Nuevo es reconocida entre los mejores en. en ingenier\u00eda...El Nuevo Torres Lugo, doctora en ingenier\u00eda qu\u00edmica y profesora de la UPR en Mayag\u00fcez fue admitida como miembro de la AIMBE, que integra a bioingenieros que se distinguen por sus...",
-            "date": "2015-04-16",
-            "categories": "ingenieria",
-            "tags": "mejores,ingenier\u00eda,qu\u00edmica",
-            "recuweb_url": "http://es.recuweb.com/ingenieria/elnuevodia.com/2015/04/boricua-es-reconocida-entre-los-mejores-en-ingenier%C3%ADa-el-nuevo",
-            "resource_url": "http://news.google.es/?hl=es&q=ingenier%C3%ADa%2Bqu%C3%ADmica&output=atom&nord=1",
-            "source_url": "http://elnuevodia.com/ciencia/ciencia/nota/boricuaesreconocidaentrelosmejoreseneeuueningenieriabiomedica-2034434/"
         }
     }
 }

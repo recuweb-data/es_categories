@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mysql/",
@@ -19,7 +19,7 @@
             "categories": "mysql",
             "tags": "descargar,mysql,tags,instalar",
             "recuweb_url": "http://es.recuweb.com/mysql/dailymotion.com/2014/11/descargar-mysql-server-5",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql+mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x29uh0g_descargar-mysql-server-5-5_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x29uh0g_descargar-mysql-server-5-5_tech"
         },
@@ -43,7 +43,7 @@
             "categories": "mysql,php",
             "tags": "paginas,web,apache,mysql,php,tags",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/08/instalacion-de-apache-mysql-php",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql+mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zvdf0_instalacion-de-apache-mysql-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zvdf0_instalacion-de-apache-mysql-php_tech"
         },
@@ -55,7 +55,7 @@
             "categories": "mysql,php",
             "tags": "instalar,programas,mysql,apache,php",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/06/instalaciondephp-mysql-apache",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zv7za_instalaciondephp-mysql-apache_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zv7za_instalaciondephp-mysql-apache_tech"
         },
@@ -67,7 +67,7 @@
             "categories": "mysql,php",
             "tags": "servidor,servidor_apache,apache,mysql,php,phpauthor,tags",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/06/videotutorial-apache-mysql-php",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql+mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zv7pp_videotutorial-apache-mysql-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zv7pp_videotutorial-apache-mysql-php_tech"
         },
@@ -79,19 +79,19 @@
             "categories": "mysql,computadora,php",
             "tags": "servidor,servidor_apache,apache,mysql,phpauthor,instalar,configurar,programas,php,tags",
             "recuweb_url": "http://es.recuweb.com/php/dailymotion.com/2014/06/instalar-y-configurar-los-programas-servidor-apache-mysql-php",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql+mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zng5p_instalar-y-configurar-los-programas-servidor-apache-mysql-php_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zng5p_instalar-y-configurar-los-programas-servidor-apache-mysql-php_tech"
         },
         "youtube.com/2014/04/relacionar-2-tablas-por-consola-en-mysql": {
             "title": "Relacionar 2 tablas por consola en MySQL...",
-            "snippet": "Relacionar 2 tablas por consola en MySQL Alumno: Juan Carlos. From: Videos Views: 3301 15 ratings Time: 16:48 More in People & Blogs...",
+            "snippet": "Relacionar 2 tablas por consola en MySQL Alumno: Juan Carlos. From: Videos Views: 3727 16 ratings Time: 16:48 More in People & Blogs...",
             "date": "2014-04-25",
             "author_name": "Videos",
             "categories": "mysql",
             "tags": "mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/04/relacionar-2-tablas-por-consola-en-mysql",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql%2Bmysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=LMMACRRKGR8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/LMMACRRKGR8/0.jpg"
         },
@@ -103,21 +103,9 @@
             "categories": "mysql",
             "tags": "mysql,instalar,tags,configurar",
             "recuweb_url": "http://es.recuweb.com/mysql/dailymotion.com/2014/04/como-instalar-hedi-mysql",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql+mysql/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/mysql/0?af=1",
             "source_url": "http://dailymotion.com/video/x1l349s_como-instalar-hedi-mysql_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1l349s_como-instalar-hedi-mysql_tech"
-        },
-        "youtube.com/2014/01/insertar-datos-en-mysql-mendiante-con-php-dar-de-alta-registros": {
-            "title": "Insertar Datos en Mysql Mendiante/con PHP Dar de alta registros MYSQL con/usando PHP FACILITOPHP25...",
-            "snippet": "Insertar Datos en Mysql Mendiante/con PHP Dar de alta registros MYSQL con/usando PHP FACILITOPHP25 Insertar Datos mysql con/mediante/usando php,Registrar datos mysql con/usando/mediante php,Dar de alta registros en mysql con datos/registros con php...",
-            "date": "2014-01-31",
-            "author_name": "facilitophp",
-            "categories": "php,mysql",
-            "tags": "registros,php,mysql,datos,mediante,usando,facilitophp",
-            "recuweb_url": "http://es.recuweb.com/mysql/youtube.com/2014/01/insertar-datos-en-mysql-mendiante-con-php-dar-de-alta-registros",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=EJec3HOGbP0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/EJec3HOGbP0/0.jpg"
         },
         "youtube.com/2014/01/mostrar-consultar-datos-de-mysql-mediante-con-php-listar-registros-usando": {
             "title": "Mostrar/consultar Datos de Mysql Mediante/con PHP,Listar Registros de Mysql usando...",
@@ -125,11 +113,23 @@
             "date": "2014-01-31",
             "author_name": "facilitophp",
             "categories": "mysql,php",
-            "tags": "paginas,web,datos,mysql,php,mediante,registros,usando,facilitophp",
+            "tags": "paginas,web,datos,mysql,php,mediante,usando,dise\u00f1o",
             "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/01/mostrar-consultar-datos-de-mysql-mediante-con-php-listar-registros-usando",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql%2Bmysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=O0WcV5WcjOk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/O0WcV5WcjOk/0.jpg"
+        },
+        "youtube.com/2014/01/como-realizar-conexion-a-base-de-datos-mysql-mediante-php-conectar": {
+            "title": "Como realizar conexion a Base de Datos Mysql mediante PHP Conectar PHP con Mysql FACILITO PHP 24...",
+            "snippet": "Como realizar conexion a Base de Datos Mysql mediante PHP Conectar PHP con Mysql FACILITO PHP 24 como crear/realizar/hacer/abrir la conexion a la base de datos mysql mediante/usando de PHP. Conexi\u00f3n a Bases de datos con PHP y MySQL. Dise\u00f1o de...",
+            "date": "2014-01-30",
+            "author_name": "facilitophp",
+            "categories": "base-de-datos,mysql,php",
+            "tags": "datos,usando,mysql,mediante,php,dise\u00f1o",
+            "recuweb_url": "http://es.recuweb.com/php/youtube.com/2014/01/como-realizar-conexion-a-base-de-datos-mysql-mediante-php-conectar",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mysql&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=YD4r2DYRXD4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/YD4r2DYRXD4/0.jpg"
         }
     }
 }

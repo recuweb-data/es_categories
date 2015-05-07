@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "chamanismo",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/chamanismo/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/chamanismo/chamanismo/blogs.json"
     },
     "items": {
+        "radiopolar.com/2015/05/invitan-a-seminario-manejo-de-los-vientos-del-m%C3%BAsico": {
+            "title": "INVITAN A SEMINARIO MANEJO DE LOS VIENTOS DEL M\u00daSICO... -...",
+            "snippet": "A SEMINARIO MANEJO DE LOS VIENTOS DEL M\u00daSICO... \u00e1s, es el compositor principal de las m\u00e1s de veinte grabaciones de Altiplano, y ha efectuado trabajos de investigaci\u00f3n sobre chamanismo, organolog\u00eda, armon\u00eda, ritmos andinos e historia de las...",
+            "date": "2015-05-03",
+            "categories": "chamanismo",
+            "tags": "andinos,principal,chamanismo",
+            "recuweb_url": "http://es.recuweb.com/chamanismo/radiopolar.com/2015/05/invitan-a-seminario-manejo-de-los-vientos-del-m%C3%BAsico",
+            "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
+            "source_url": "http://radiopolar.com/noticia_103578.html"
+        },
         "opinion.informador.com.mx/2015/05/roc%C3%ADo-mart%C3%ADnez-prieto": {
             "title": "Roc\u00edo Mart\u00ednez Prieto...",
             "snippet": "Expo 750 por 3 d\u00edas o 250 diarios. Habr\u00e1 talleres de ni\u00f1os, chamanismo, conferencias, mesas de trabajo, rituales, desarrollo humano. Temas: Migraci\u00f3n, La Mujer, Madre Tierra. Ponentes de religiones y filosof\u00edas: Obispo Don Ra\u00fal Vera, Carlos...",
@@ -26,7 +36,7 @@
             "snippet": "El Sol de HidalgoCompartir\u00e1n saberes de medicina tradicional en TulaEl Sol de HidalgoLauro Hinostroza Garc\u00eda ha formado una red de expertos en medicina tradicional que se re\u00fanen peri\u00f3dicamente en congresos promoviendo el chamanismo. Su objetivo...",
             "date": "2015-04-30",
             "categories": "medicina,chamanismo",
-            "tags": "red,medicina,tradicional,sol,tula,hidalgo,chamanismo,objetivo",
+            "tags": "red,medicina,tradicional,sol,tula,hidalgo,chamanismo",
             "recuweb_url": "http://es.recuweb.com/chamanismo/oem.com.mx/2015/04/compartir%C3%A1n-saberes-de-medicina-tradicional-en-tula-el-sol-hidalgo",
             "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
             "source_url": "http://oem.com.mx/elsoldehidalgo/notas/n3790122.htm"
@@ -51,16 +61,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=chamanismo&format=RSS&cc=es",
             "source_url": "http://lajornadadeoriente.com.mx/2015/04/27/la-antropologa-antonella-fagetti-exploro-los-cantos-curativos-de-los-haaco-cama/"
         },
-        "lacapital.com.ar/2015/04/palo-pandolfo-llega-para-tocar-los-cl%C3%A1sicos-de-siempre-y-adelantar": {
-            "title": "Palo Pandolfo llega para tocar los cl\u00e1sicos de siempre y adelantar... -...",
-            "snippet": "Pandolfo llega para tocar los cl\u00e1sicos de siempre y adelantar... voy al \u00e9xtasis, al chamanismo, a perderme un momento y ver qu\u00e9 entra, qu\u00e9 puede pasar a trav\u00e9s m\u00edo. Esa es mi b\u00fasqueda, por eso hay rock and roll. El rock se compone de esos...",
-            "date": "2015-04-25",
-            "categories": "rock,chamanismo",
-            "tags": "trav\u00e9s,chamanismo",
-            "recuweb_url": "http://es.recuweb.com/chamanismo/lacapital.com.ar/2015/04/palo-pandolfo-llega-para-tocar-los-cl%C3%A1sicos-de-siempre-y-adelantar",
-            "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
-            "source_url": "http://lacapital.com.ar/escenario/Palo-Pandolfo-llega-para-tocar-los-clasicos-de-siempre-y-adelantar-su-proximo-disco-20150425-0039.html"
-        },
         "economia.elpais.com/2015/04/espa%C3%B1a-no-ha-aprovechado-el-potencial-de-la-red-ferroviaria": {
             "title": "Espa\u00f1a no ha aprovechado el potencial de la red ferroviaria...",
             "snippet": "Medio a\u00f1o despu\u00e9s de su llegada a la capital comunitaria, esta ingeniera inform\u00e1tica ya se ha ganado la fama de ser una de las comisarias m\u00e1s heterodoxas en lo personal: un diploma en chamanismo y un certificado de formadora Sundoor en el arte...",
@@ -71,25 +71,35 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=chamanismo&format=RSS&cc=es",
             "source_url": "http://economia.elpais.com/economia/2015/04/24/actualidad/1429897567_146739.html"
         },
-        "elespectador.com/2015/04/gira-internacional-4-10-colombia": {
-            "title": "Gira internacional 4-10 Colombia -...",
-            "snippet": "internacional 4-10 est\u00e9tica y gr\u00e1fica son una mezcla de elementos de las estampitas religiosas de la \u00e9poca Bizantina, jerogl\u00edficos egipcios, tejidos de culturas suramericanas y el mundo m\u00e1gico del chamanismo en Am\u00e9rica Latina donde encuentra...",
+        "lacapital.com.ar/2015/04/palo-pandolfo-llega-para-tocar-los-cl%C3%A1sicos-de-siempre-y-adelantar": {
+            "title": "Palo Pandolfo llega para tocar los cl\u00e1sicos de siempre y adelantar su pr\u00f3ximo disco...",
+            "snippet": "Yo siempre llego a ese mismo estado aunque est\u00e9 con la guitarra criolla desenchufada. Siempre voy al \u00e9xtasis, al chamanismo, a perderme un momento y ver qu\u00e9 entra, qu\u00e9 puede pasar a trav\u00e9s m\u00edo. Esa es mi b\u00fasqueda, por eso hay rock and roll.",
             "date": "2015-04-24",
-            "categories": "cultura,chamanismo",
-            "tags": "encuentra,am\u00e9rica,am\u00e9rica_latina,latina,tejidos,tejidos-de-culturas,culturas,culturas-suramericanas,suramericanas,suramericanas-el-mundo,mundo,mundo-m\u00e1gico,m\u00e1gico,jerogl\u00edficos,jerogl\u00edficos-egipcios,egipcios,est\u00e9tica,est\u00e9tica-gr\u00e1fica,est\u00e9tica-gr\u00e1fica-son,gr\u00e1fica,gr\u00e1fica-son,son,son-una-mezcla,mezcla,mezcla-de-elementos,elementos,elementos-las-estampitas,estampitas,estampitas-religiosas,religiosas,\u00e9poca,gira,internacional,colombia,bizantina,chamanismo",
-            "recuweb_url": "http://es.recuweb.com/chamanismo/elespectador.com/2015/04/gira-internacional-4-10-colombia",
-            "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
-            "source_url": "http://elespectador.com/noticias/cultura/gira-internacional-4-10-colombia-articulo-556712"
+            "categories": "rock,chamanismo",
+            "tags": "chamanismo",
+            "recuweb_url": "http://es.recuweb.com/chamanismo/lacapital.com.ar/2015/04/palo-pandolfo-llega-para-tocar-los-cl%C3%A1sicos-de-siempre-y-adelantar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=chamanismo&format=RSS&cc=es",
+            "source_url": "http://lacapital.com.ar/escenario/Palo-Pandolfo-llega-para-tocar-los-clasicos-de-siempre-y-adelantar-su-proximo-disco-20150425-0039.html"
         },
         "entornointeligente.com/2015/04/gira-internacional-410-colombia": {
             "title": "Gira internacional 410 Colombia...",
             "snippet": "Su est\u00e9tica y gr\u00e1fica son una mezcla de elementos de las estampitas religiosas de la \u00e9poca Bizantina, jerogl\u00edficos egipcios, tejidos de culturas suramericanas y el mundo m\u00e1gico del chamanismo en Am\u00e9rica Latina donde encuentra un v\u00ednculo entre...",
             "date": "2015-04-23",
             "categories": "cultura,chamanismo",
-            "tags": "encuentra,am\u00e9rica,am\u00e9rica_latina,latina,tejidos,tejidos-de-culturas,culturas,culturas-suramericanas,suramericanas,suramericanas-el-mundo,mundo,mundo-m\u00e1gico,m\u00e1gico,jerogl\u00edficos,jerogl\u00edficos-egipcios,egipcios,est\u00e9tica,est\u00e9tica-gr\u00e1fica,est\u00e9tica-gr\u00e1fica-son,gr\u00e1fica,gr\u00e1fica-son,son,son-una-mezcla,mezcla,mezcla-de-elementos,elementos,elementos-las-estampitas,estampitas,estampitas-religiosas,religiosas,\u00e9poca,gira,internacional,colombia,bizantina,chamanismo",
+            "tags": "encuentra,son,internacional,chamanismo",
             "recuweb_url": "http://es.recuweb.com/chamanismo/entornointeligente.com/2015/04/gira-internacional-410-colombia",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chamanismo&format=RSS&cc=es",
             "source_url": "http://entornointeligente.com/articulo/5752740/Gira-internacional-4minus;10-Colombia-23042015"
+        },
+        "eltiempo.com/2015/04/intente-con-la-telepatia-animal": {
+            "title": "Intente con la telepatia animal -...",
+            "snippet": "Intente con la telepatia origen de esta conexi\u00f3n es ancestral y proviene de diferentes corrientes del chamanismo, en las que pueblos ind\u00edgenas se comunicaban no solo con los animales sino con todos los elementales de la naturaleza. Varios estudios...",
+            "date": "2015-04-18",
+            "categories": "naturaleza,chamanismo",
+            "tags": "ancestral,chamanismo,estudios",
+            "recuweb_url": "http://es.recuweb.com/chamanismo/eltiempo.com/2015/04/intente-con-la-telepatia-animal",
+            "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
+            "source_url": "http://eltiempo.com/estilo-de-vida/ciencia/comunicacion-con-los-animales/15588095"
         },
         "oem.com.mx/2015/04/primer-encuentro-internacional-de-medicina-tradicional-y-el-sol-hidalgo": {
             "title": "Primer Encuentro Internacional de Medicina Tradicional y... - El Sol de Hidalgo...",
@@ -100,16 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/medicina/oem.com.mx/2015/04/primer-encuentro-internacional-de-medicina-tradicional-y-el-sol-hidalgo",
             "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
             "source_url": "http://oem.com.mx/elsoldezamora/notas/n3774035.htm"
-        },
-        "pijamasurf.com/2015/04/c%C3%B3mo-el-chamanismo-ayuda-a-los-esquizofr%C3%A9nicos-de-una-manera-pijama": {
-            "title": "C\u00f3mo el chamanismo ayuda a los esquizofr\u00e9nicos de una manera... - Pijama Surf...",
-            "snippet": "Pijama SurfC\u00f3mo el chamanismo ayuda a los esquizofr\u00e9nicos de una manera...Pijama SurfLa industria farmac\u00e9utica, sobre todo cuando se trata de enfermedades mentales, quiere dos cosas: la primera es eliminar r\u00e1pidamente los s\u00edntomas; la segunda,...",
-            "date": "2015-04-11",
-            "categories": "surf,chamanismo",
-            "tags": "c\u00f3mo,chamanismo",
-            "recuweb_url": "http://es.recuweb.com/chamanismo/pijamasurf.com/2015/04/c%C3%B3mo-el-chamanismo-ayuda-a-los-esquizofr%C3%A9nicos-de-una-manera-pijama",
-            "resource_url": "http://news.google.es/?hl=es&q=chamanismo&output=atom&nord=1",
-            "source_url": "http://pijamasurf.com/2015/04/como-el-chamanismo-ayuda-a-los-esquizofrenicos-de-una-manera-que-la-medicina-occidental-nunca-podra/"
         }
     }
 }

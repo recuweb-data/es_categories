@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "gas-natural",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/gas-natural/",
@@ -11,27 +11,57 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/gas-natural/gas-natural/blogs.json"
     },
     "items": {
-        "elmundotoday.com/2015/04/los-bomberos-rescatan-a-felipe-gonz%C3%A1lez-atrapado-en-una-puerta": {
-            "title": "Los bomberos rescatan a Felipe Gonz\u00e1lez, atrapado en una puerta...",
-            "snippet": "Los bomberos de la Comunidad de Madrid han auxiliado esta ma\u00f1ana al expresidente del Gobierno, Felipe Gonz\u00e1lez, que se hab\u00eda quedado atrapado en una puerta giratoria de la sede de Gas Natural. Gonz\u00e1lez ha tenido...",
-            "date": "2015-04-30",
-            "author_name": "Xavi Puig",
-            "categories": "gas-natural",
-            "tags": "gas,gas_natural,natural,hab\u00eda,gobierno",
-            "recuweb_url": "http://es.recuweb.com/gas-natural/elmundotoday.com/2015/04/los-bomberos-rescatan-a-felipe-gonz%C3%A1lez-atrapado-en-una-puerta",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elmundotoday.com/2015/04/los-bomberos-rescatan-a-felipe-gonzalez-atrapado-en-una-puerta-giratoria/"
-        },
-        "noticias.lainformacion.com/2015/04/directivos-de-toshiba-y-gas-natural-visitan-un-proyecto-conjunto": {
-            "title": "Directivos de toshiba y gas natural visitan un proyecto conjunto con...",
-            "snippet": "Directivos de Toshiba y Gas Natural Fenosa visitaron este mi\u00e9rcoles el proyecto de demostraci\u00f3n del sistema BESS (Battery Energy Storage System), que utiliza bater\u00edas de ion-litio transportables, seg\u00fan inform\u00f3 la compa\u00f1\u00eda...",
-            "date": "2015-04-29",
+        "noticias.lainformacion.com/2015/05/acciona-endesa-iberdrola-y-gas-natural-fenosa-a-por-el-mayor": {
+            "title": "Acciona, Endesa, Iberdrola y Gas Natural Fenosa, a por el mayor...",
+            "snippet": "Endesa, Iberdrola, Gas Natural Fenosa y Acciona pujan por hacerse con el contrato de suministro de electricidad a la red ferroviaria en 2016, la que constituye una de las mayores facturas de la luz del pa\u00eds, estimada en unos...",
+            "date": "2015-05-03",
             "author_name": "desconocido",
             "categories": "gas-natural",
-            "tags": "inform\u00f3,gas,gas_natural,gas_natural_fenosa,natural,natural_fenosa,fenosa,proyecto,sistema,compa\u00f1\u00eda",
-            "recuweb_url": "http://es.recuweb.com/gas-natural/noticias.lainformacion.com/2015/04/directivos-de-toshiba-y-gas-natural-visitan-un-proyecto-conjunto",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/produccion-y-distribucion-de-electricidad/directivos-de-toshiba-y-gas-natural-visitan-un-proyecto-conjunto-con-baterias-de-ion-litio_VX9GNaME35mP8d9U7n3QZ6/"
+            "tags": "constituye,mayor,luz,red,red-ferroviaria,ferroviaria,pujan,pujan-por-hacerse,hacerse,contrato,gas,gas_natural,gas_natural_fenosa,natural,natural_fenosa,fenosa,acciona,endesa,iberdrola,suministro,electricidad,pa\u00eds",
+            "recuweb_url": "http://es.recuweb.com/gas-natural/noticias.lainformacion.com/2015/05/acciona-endesa-iberdrola-y-gas-natural-fenosa-a-por-el-mayor",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/acciona-endesa-iberdrola-y-gas-natural-fenosa-a-por-el-mayor-contrato-de-electricidad_GvLZt17Jp4D1KnS0DDVs91/"
+        },
+        "cnnexpansion.com/2015/05/la-cfe-compra-cargamentos-de-gas-natural-licuado-cnn-expansi%C3%B3n": {
+            "title": "La CFE compra cargamentos de gas natural licuado - CNN Expansi\u00f3n...",
+            "snippet": "MILAN/LONDRES (Reuters) La Comisi\u00f3n Federal de Electricidad compr\u00f3 al menos ocho cargamentos de gas natural licuado (GNL), dijeron dos operadores. El grupo suizo Trafigura fue uno de los proveedores, agregaron...",
+            "date": "2015-05-01",
+            "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
+            "tags": "comisi\u00f3n,expansi\u00f3n,compra,gas,natural,licuado,electricidad,dos",
+            "recuweb_url": "http://es.recuweb.com/cnnexpansion.com/2015/05/la-cfe-compra-cargamentos-de-gas-natural-licuado-cnn-expansi%C3%B3n",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/negocios/2015/05/01/la-cfe-compra-cargamentos-de-gas-natural-operadores"
+        },
+        "elperiodicodelaenergia.com/2015/04/el-gas-natural-ya-llega-a-municipios-y-78%": {
+            "title": "El gas natural ya llega a municipios y el 78% de la poblaci\u00f3n...",
+            "snippet": "El precio del gas baja en Espa\u00f1a. FOTO: EFE El gas natural lleg\u00f3 a nuevos municipios durante 2014, 38 m\u00e1s que el a\u00f1o anterior, y super\u00f3 los nuevos.",
+            "date": "2015-04-30",
+            "author_name": "Redacci\u00f3n",
+            "tags": "durante,baja,precio,gas,natural,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/elperiodicodelaenergia.com/2015/04/el-gas-natural-ya-llega-a-municipios-y-78%",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elperiodicodelaenergia.com/el-gas-natural-llego-a-1-638-nuevos-municipios-en-2014-y-supero-los-82-000-nuevos-puntos-de-suministro/"
+        },
+        "eluniversal.com.co/2015/04/gas-natural-vehicular-busca-m%C3%A1s-espacio-en-transportes-masivos": {
+            "title": "Gas Natural Vehicular busca m\u00e1s espacio en transportes masivos...",
+            "snippet": "En Colombia el consumo diario de gas natural es de millones de metros c\u00fabicos y, de esa cifra, el 12% (unos 140 millones de m3 aproximadamente) est\u00e1 destinado al transporte que utiliza el Gas Natural Vehicular...",
+            "date": "2015-04-29",
+            "author_name": "nbadran",
+            "categories": "gas-natural",
+            "tags": "c\u00fabicos,consumo,gas,gas_natural,natural,colombia,millones",
+            "recuweb_url": "http://es.recuweb.com/gas-natural/eluniversal.com.co/2015/04/gas-natural-vehicular-busca-m%C3%A1s-espacio-en-transportes-masivos",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://eluniversal.com.co/economica/gas-natural-vehicular-busca-mas-espacio-en-transportes-masivos-192137"
+        },
+        "energia16.com/2015/04/energ%C3%ADa16-la-demanda-de-gas-natural-en-colombia-crecer%C3%A1-un-40": {
+            "title": "Energ\u00eda16 La demanda de gas natural en Colombia crecer\u00e1 un 40...",
+            "snippet": "La demanda de gas natural en Colombia crecer\u00e1, seg\u00fan las previsiones de Chevron, un 40 por ciento para el a\u00f1o 2035. El presidente de la compa\u00f1\u00eda en Colombia, Javier de la Rosa, afirm\u00f3 en un congreso organizado por la...",
+            "date": "2015-04-29",
+            "author_name": "Energ\u00eda 16",
+            "tags": "afirm\u00f3,presidente,energ\u00eda,gas,natural,colombia,ciento,compa\u00f1\u00eda",
+            "recuweb_url": "http://es.recuweb.com/energia16.com/2015/04/energ%C3%ADa16-la-demanda-de-gas-natural-en-colombia-crecer%C3%A1-un-40",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://energia16.com/actualidad/mercados-petroleros/la-demanda-de-gas-natural-en-colombia-crecera-un-40-hasta-2035"
         },
         "gestion.pe/2015/04/la-conversi%C3%B3n-del-per%C3%BA-al-gas-natural-de-camisea-econom%C3%ADa": {
             "title": "La conversi\u00f3n del Per\u00fa al gas natural de Camisea Econom\u00eda...",
@@ -39,9 +69,9 @@
             "date": "2015-04-29",
             "author_name": "desconocido",
             "categories": "economia",
-            "tags": "hab\u00eda,hab\u00eda-descubierto,descubierto,dos,vida,peruanos,recursos,recursos-m\u00e1s-valiosos,valiosos,valiosos-que-iniciar\u00eda,iniciar\u00eda,regalar\u00eda,selva,camisea,econom\u00eda,conversi\u00f3n,per\u00fa,gas,natural,petr\u00f3leo,ese,cusco,pa\u00eds,cambio",
+            "tags": "hab\u00eda,hab\u00eda-descubierto,descubierto,peruanos,recursos,recursos-m\u00e1s-valiosos,valiosos,valiosos-que-iniciar\u00eda,iniciar\u00eda,iniciar\u00eda-el-cambio,cambio,regalar\u00eda,selva,camisea,econom\u00eda,conversi\u00f3n,per\u00fa,gas,natural,petr\u00f3leo,ese,cusco,pa\u00eds,vida,dos",
             "recuweb_url": "http://es.recuweb.com/economia/gestion.pe/2015/04/la-conversi%C3%B3n-del-per%C3%BA-al-gas-natural-de-camisea-econom%C3%ADa",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://gestion.pe/economia/conversion-peru-al-gas-natural-camisea-2130233"
         },
         "europapress.es/2015/04/gas-natural-fenosa-lanza-una-app-para-conocer-el-consumo": {
@@ -50,68 +80,38 @@
             "date": "2015-04-28",
             "author_name": "desconocido",
             "categories": "gas-natural",
-            "tags": "anunci\u00f3,consumo,electricidad,filial,fenosa,distribuci\u00f3n,lanza,gas,gas_natural,gas_natural_fenosa,natural,natural_fenosa,distribuidora,usuarios",
+            "tags": "consumo,luz,lanzado,lanzado-una-aplicaci\u00f3n,aplicaci\u00f3n,uni\u00f3n,uni\u00f3n_fenosa,uni\u00f3n_fenosa_distribuci\u00f3n,fenosa,fenosa_distribuci\u00f3n,distribuci\u00f3n,lanza,gas,gas_natural,gas_natural_fenosa,natural,natural_fenosa,app,filial,distribuidora,electricidad,usuarios",
             "recuweb_url": "http://es.recuweb.com/gas-natural/europapress.es/2015/04/gas-natural-fenosa-lanza-una-app-para-conocer-el-consumo",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://europapress.es/economia/energia-00341/noticia-gas-natural-fenosa-lanza-app-conocer-consumo-luz-hora-hora-20150428123628.html"
         },
-        "gasollution.wordpress.com/2015/04/conversi%C3%B3n-de-cocinas-para-usar-con-gas-natural": {
-            "title": "Conversi\u00f3n de Cocinas para usar con Gas Natural...",
-            "snippet": "Hola, nuevamente estamos aqu\u00ed para resolver algunas dudas que nos plantean diariamente nuestros clientes, como comprender\u00e1n los temas que tratamos aqu\u00ed siempre ser\u00e1n vistos desde una visi\u00f3n general,...",
+        "elperiodicodelaenergia.com/2015/04/gas-natural-crea-una-app-para-que-los-clientes-consulten": {
+            "title": "Gas Natural crea una 'app'para que los clientes consulten su...",
+            "snippet": "Uni\u00f3n Fenosa Distribuci\u00f3n, filial distribuidora de electricidad de Gas Natural Fenosa, ha lanzado una aplicaci\u00f3n gratuita para dispositivos m\u00f3viles que permite que los usuarios dom\u00e9sticos de su red consulten su consumo...",
             "date": "2015-04-28",
-            "author_name": "ig1cvargas",
+            "author_name": "Redacci\u00f3n",
             "categories": "gas-natural",
-            "tags": "general,gas,gas_natural,natural,conversi\u00f3n",
-            "recuweb_url": "http://es.recuweb.com/gas-natural/gasollution.wordpress.com/2015/04/conversi%C3%B3n-de-cocinas-para-usar-con-gas-natural",
-            "resource_url": "http://es.search.wordpress.com/?q=gas%2Bnatural&f=feed&page=1",
-            "source_url": "http://gasollution.wordpress.com/2015/04/28/conversion-de-cocinas-para-usar-con-gas-natural/"
-        },
-        "hidrocarburosbolivia.com/2015/04/hallan-nueva-reservas-de-gas-natural-en-chuquisaca": {
-            "title": "Hallan nueva reservas de gas natural en Chuquisaca...",
-            "snippet": "\u00c1lvaro Valdez - Autoridades del Departamento esperan con optimismo los resultados del nuevo pozo productor de gas natural que descubri\u00f3 la empresa Repsol en territorio chuquisaque\u00f1o. El presidente.",
-            "date": "2015-04-28",
-            "author_name": "desconocido",
-            "tags": "empresa,reservas,gas,natural,autoridades,repsol,presidente",
-            "recuweb_url": "http://es.recuweb.com/hidrocarburosbolivia.com/2015/04/hallan-nueva-reservas-de-gas-natural-en-chuquisaca",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://hidrocarburosbolivia.com/bolivia-mainmenu-117/upstream/70781-hallan-nueva-reservas-de-gas-natural-en-chuquisaca.html"
+            "tags": "red,consumo,lanzado,lanzado-una-aplicaci\u00f3n,aplicaci\u00f3n,uni\u00f3n,uni\u00f3n_fenosa,uni\u00f3n_fenosa_distribuci\u00f3n,fenosa,fenosa_distribuci\u00f3n,distribuci\u00f3n,gas,gas_natural,natural,app,filial,distribuidora,electricidad,usuarios",
+            "recuweb_url": "http://es.recuweb.com/gas-natural/elperiodicodelaenergia.com/2015/04/gas-natural-crea-una-app-para-que-los-clientes-consulten",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elperiodicodelaenergia.com/gas-natural-crea-una-app-para-que-los-clientes-consulten-su-consumo-electrico-horario/"
         },
         "eluniversal.com.co/2015/04/hemos-triplicado-el-n%C3%BAmero-de-hogares-conectados-a-gas-natural": {
             "title": "Hemos triplicado el n\u00famero de hogares conectados a gas natural...",
             "snippet": "El presidente de la Rep\u00fablica, Juan Manuel Santos, afirm\u00f3 que durante los \u00faltimos cuatro a\u00f1os casi 2 millones de hogares adicionales se conectaron al servicio de gas natural por redes, lo cual corresponde a m\u00e1s de 2,5...",
             "date": "2015-04-28",
             "author_name": "lmmiranda",
-            "tags": "servicio,afirm\u00f3,\u00fal,presidente,n\u00famero,gas,natural,millones",
+            "tags": "afirm\u00f3,durante,\u00fal,presidente,gas,natural,millones",
             "recuweb_url": "http://es.recuweb.com/eluniversal.com.co/2015/04/hemos-triplicado-el-n%C3%BAmero-de-hogares-conectados-a-gas-natural",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eluniversal.com.co/colombia/hemos-triplicado-el-numero-de-hogares-conectados-gas-natural-191907"
-        },
-        "agenciasanluis.com/2015/04/inaugurar%C3%A1n-la-provisi%C3%B3n-de-gas-natural-para-el-b-212-viviendas": {
-            "title": "Inaugurar\u00e1n la provisi\u00f3n de gas natural para el B 212 Viviendas...",
-            "snippet": "La obra aportar\u00e1 mejor calidad de vida a m\u00e1s de 800 vecinos de la ciudad capital. Esto impactar\u00e1 en el bolsillo de los usuarios que a partir de ahora contar\u00e1n con el servicio de gas natural. El gobernador de la Provincia,...",
-            "date": "2015-04-27",
-            "author_name": "Cecilia Sosa",
-            "tags": "servicio,vida,gas,natural,viviendas,usuarios,provincia",
-            "recuweb_url": "http://es.recuweb.com/agenciasanluis.com/2015/04/inaugurar%C3%A1n-la-provisi%C3%B3n-de-gas-natural-para-el-b-212-viviendas",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://agenciasanluis.com/notas/2015/04/26/inauguraran-la-provision-de-gas-natural-para-el-bo-212-viviendas-productivas/"
-        },
-        "noticias.lainformacion.com/2015/04/gas-natural-y-bankinter-facilitar%C3%A1n-la-instalaci%C3%B3n-de-calderas": {
-            "title": "Gas natural y bankinter facilitar\u00e1n la instalaci\u00f3n de calderas...",
-            "snippet": "Bankinter y las distribuidoras de gas de Gas Natural Fenosa suscribieron este viernes un convenio de colaboraci\u00f3n para facilitar financiaci\u00f3n a las comunidades de propietarios interesadas en transformar sus salas de...",
-            "date": "2015-04-17",
-            "author_name": "desconocido",
-            "tags": "natural,fenosa,viernes,gas",
-            "recuweb_url": "http://es.recuweb.com/noticias.lainformacion.com/2015/04/gas-natural-y-bankinter-facilitar%C3%A1n-la-instalaci%C3%B3n-de-calderas",
-            "resource_url": "http://www.google.com/search?q=gas%2Bnatural%2Bgas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://noticias.lainformacion.com/economia-negocios-y-finanzas/petroleo-y-gases-primarios/gas-natural-y-bankinter-facilitaran-la-instalacion-de-calderas-comunitarias-que-usen-gas_AAswyC1TFMoYpZQYZSJJp3/"
         },
         "americaeconomia.com/2015/04/reservas-probables-y-posibles-de-gas-natural-en-per%C3%BA-alcanzan": {
             "title": "Reservas probables y posibles de gas natural en Per\u00fa alcanzan los...",
             "snippet": "Las reservas probables y posibles de gas natural alcanzan los 90.2 trillones de pies c\u00fabicos (TPC) y en l\u00edquidos bordea los,1 millones de barriles, los cuales se encuentran principalmente en la selva, inform\u00f3 hoy la...",
             "date": "2015-04-14",
             "author_name": "Gast\u00f3n Meza",
-            "tags": "inform\u00f3,selva,l\u00edquidos,reservas,gas,natural,per\u00fa,millones",
+            "tags": "selva,c\u00fabicos,gas,natural,per\u00fa,millones",
             "recuweb_url": "http://es.recuweb.com/americaeconomia.com/2015/04/reservas-probables-y-posibles-de-gas-natural-en-per%C3%BA-alcanzan",
             "resource_url": "http://www.google.com/search?q=gas%2Bnatural&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://americaeconomia.com/negocios-industrias/reservas-probables-y-posibles-de-gas-natural-en-peru-alcanzan-los-90-trillones-d"

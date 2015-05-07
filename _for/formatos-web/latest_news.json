@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "formatos-web",
-        "language": "es"
+        "language": "es",
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/formatos-web/",
@@ -10,24 +11,42 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/formatos-web/formatos-web/blogs.json"
     },
     "items": {
-        "m.informe21.com/2015/04/luis-chataing-presenta-por-todos-los-medios-en-el-centro-cultural": {
-            "title": "Luis Chataing presenta Por Todos los Medios en el Centro Cultural BOD...",
-            "snippet": "Con el estreno de Por todos los medios, el locutor reconocido en radio, televisi\u00f3n, prensa tradicional y los nuevos formatos web, ha unido todas las plataformas en un unipersonal que fusiona el teatro con el largometraje a trav\u00e9s de una...",
-            "date": "2015-04-14",
-            "categories": "radio,television",
-            "tags": "nuevos,formatos,web",
-            "recuweb_url": "http://es.recuweb.com/television/m.informe21.com/2015/04/luis-chataing-presenta-por-todos-los-medios-en-el-centro-cultural",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formatos%2Bweb&format=RSS&cc=es",
-            "source_url": "http://m.informe21.com/arte-y-espectaculos/luis-chataing-presenta-por-todos-los-medios-en-el-centro-cultural-bod"
+        "es.paperblog.com/2015/05/blogs-webs-sobre-mtb": {
+            "title": "Blogs Webs sobre MTB (V)...",
+            "snippet": "Otra cosa que resaltar\u00eda y que no suele ser habitual en este tipo de formatos (tienda de ciclismo online con blog) es que no es un bombardeo de enlaces a sus productos de la tienda. Muchas veces puedes leer en otras webs art\u00edculos sobre...",
+            "date": "2015-05-07",
+            "tags": "webs,formatos",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/05/blogs-webs-sobre-mtb",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bformatos%2Bweb&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/blogs-webs-sobre-mtb-v-3195967/"
         },
-        "lagranepoca.com/2015/04/buenos-aires-congrega-a-futuros-periodistas-de-argentina": {
-            "title": "Buenos Aires congrega a futuros periodistas de Argentina...",
-            "snippet": "Resulta imprescindible que los nuevos profesionales de la comunicaci\u00f3n aprendan a elaborar informaci\u00f3n de forma \u00e1gil y adaptable a diversos formatos web. Por primera vez en la Ciudad Aut\u00f3noma de Buenos Aires, del 16 al 18 de septiembre de...",
-            "date": "2015-04-10",
-            "tags": "nuevos,formatos,web",
-            "recuweb_url": "http://es.recuweb.com/lagranepoca.com/2015/04/buenos-aires-congrega-a-futuros-periodistas-de-argentina",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formatos%2Bweb&format=RSS&cc=es",
-            "source_url": "http://lagranepoca.com/36472-buenos-aires-congrega-futuros-periodistas-argentina"
+        "es.paperblog.com/2015/05/el-nuevo-online-video-converte-convertir-videos-a-audio": {
+            "title": "El nuevo Online Video Converte,convertir videos a audio...",
+            "snippet": "Herramienta que nos puede servir para convertir los v\u00eddeos a distintos formatos estrayendoles... v\u00ed es el enlace es una muy buena alternativa online para el aTube Catcher el problema que tienen estas p\u00e1ginas webs es la publicidad que...",
+            "date": "2015-05-07",
+            "tags": "p\u00e1ginas,webs,distintos,distintos-formatos,formatos",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/05/el-nuevo-online-video-converte-convertir-videos-a-audio",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bformatos%2Bweb&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/el-nuevo-online-video-converteconvertir-videos-a-audio-3196041/"
+        },
+        "iprofesional.com/2015/05/se-impone-el-consumidor-inteligente-6-de-cada-10-argentinos": {
+            "title": "Se impone el consumidor inteligente: 6 de cada 10 argentinos... -...",
+            "snippet": "impone el consumidor inteligente: 6 de cada 10 argentinos... este punto, Consumer Barometer arroja que \"4 de cada 10 argentinos hoy mira televisi\u00f3n mientras est\u00e1 conectado a la web\", algo que ha provocado cambios en los formatos de los programas...",
+            "date": "2015-05-07",
+            "categories": "television",
+            "tags": "formatos,web",
+            "recuweb_url": "http://es.recuweb.com/television/iprofesional.com/2015/05/se-impone-el-consumidor-inteligente-6-de-cada-10-argentinos",
+            "resource_url": "http://news.google.es/?hl=es&q=formatos%2Bweb&output=atom&nord=1",
+            "source_url": "http://iprofesional.com/notas/211290-Se-impone-el-consumidor-inteligente-6-de-cada-10-argentinos-buscan-en-la-web-antes-de-comprar"
+        },
+        "consumer.es/2015/05/cinco-nuevos-modelos-de-altavoces-inal%C3%A1mbricos": {
+            "title": "Cinco nuevos modelos de altavoces inal\u00e1mbricos...",
+            "snippet": "Son formatos 5.1, es decir cinco altavoces y un subwofer interno... Aquellos usuarios que no sigan estas normas de cordialidad no ver\u00e1n sus opiniones en nuestra web: Env\u00eda, por favor, comentarios destinados a compartir opiniones en relaci\u00f3n a...",
+            "date": "2015-05-05",
+            "tags": "web,formatos",
+            "recuweb_url": "http://es.recuweb.com/consumer.es/2015/05/cinco-nuevos-modelos-de-altavoces-inal%C3%A1mbricos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bformatos%2Bweb&format=RSS&cc=es",
+            "source_url": "http://consumer.es/web/es/tecnologia/imagen-y-sonido/2015/05/06/221871.php"
         }
     }
 }

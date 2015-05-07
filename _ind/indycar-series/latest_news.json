@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "indycar-series",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/indycar-series/",
@@ -11,25 +11,34 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/indycar-series/indycar-series/blogs.json"
     },
     "items": {
+        "nascar.com/2015/05/rub%C3%A9n-garc%C3%ADa-jr-al-programa-nascar-next-for-segunda-temporada-consecutiva": {
+            "title": "Rub\u00e9n Garc\u00eda Jr. al programa NASCAR NEXT for segunda temporada consecutiva...",
+            "snippet": "Por eso es un buen momento para aprovechar y buscar un buen proyecto como mexicano en Estados Unidos. - \u00bfEl programa NASCAR Next te ayudo para decidirte por la NASCAR en lugar de otras series como la IndyCar en Estados Unidos o la F\u00f3rmula 1 en...",
+            "date": "2015-05-06",
+            "tags": "lugar,estados,estados_unidos,unidos,buen,buscar,temporada,nascar,rub\u00e9n,rub\u00e9n_garc\u00eda,garc\u00eda,series,indycar,f\u00f3rmula",
+            "recuweb_url": "http://es.recuweb.com/nascar.com/2015/05/rub%C3%A9n-garc%C3%ADa-jr-al-programa-nascar-next-for-segunda-temporada-consecutiva",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bindycar%2Bseries&format=RSS&cc=es",
+            "source_url": "http://nascar.com/es_us/news-media/articles/2015/05/06/nascar-next-ruben-garcia-jr-entrevista.html"
+        },
+        "ovalzone.com/2015/05/rub%C3%A9n-garc%C3%ADa-jr-la-nueva-esperanza-mexicana-de-nascar": {
+            "title": "Rub\u00e9n Garc\u00eda Jr., la nueva esperanza mexicana de la NASCAR...",
+            "snippet": "Con apenas 19 a\u00f1os de edad, Rub\u00e9n Garc\u00eda Jr. es todo un veterano del automovilismo... se decidiera por buscar oportunidades en esta serie en lugar de otras quiz\u00e1s m\u00e1s populares en su pa\u00eds como la IndyCar Series y sobre todo la F\u00f3rmula 1,...",
+            "date": "2015-05-06",
+            "categories": "indycar-series,automovilismo",
+            "tags": "indycar,indycar_series,series,buscar,serie,lugar,nueva,rub\u00e9n,rub\u00e9n_garc\u00eda,garc\u00eda,nascar,automovilismo,f\u00f3rmula",
+            "recuweb_url": "http://es.recuweb.com/automovilismo/ovalzone.com/2015/05/rub%C3%A9n-garc%C3%ADa-jr-la-nueva-esperanza-mexicana-de-nascar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bindycar%2Bseries&format=RSS&cc=es",
+            "source_url": "http://ovalzone.com/ruben-garcia-jr-nueva-esperanza-nascar/"
+        },
         "paddocktalk.com/2015/05/avaya-to-partner-with-team-penske-in-both-the-verizon-indycar": {
             "title": "Avaya To Partner With Team Penske In Both The Verizon IndyCar Series And... - PaddockTalk...",
             "snippet": "To Partner With Team Penske In Both The Verizon IndyCar Series And...PaddockTalkThe Avaya partnership was fostered through the established, long-term relationship between Team Penske and HP. Together, Avaya and HP Enterprise Services are delivering...",
             "date": "2015-05-02",
             "categories": "indycar-series",
-            "tags": "are,team,team_penske,penske,was,through,avaya,verizon,verizon_indycar,verizon_indycar_series,indycar,indycar_series,series,together",
+            "tags": "are,was,verizon,verizon_indycar,verizon_indycar_series,indycar,indycar_series,series,together",
             "recuweb_url": "http://es.recuweb.com/indycar-series/paddocktalk.com/2015/05/avaya-to-partner-with-team-penske-in-both-the-verizon-indycar",
-            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries%2Bindycar%2Bseries&output=atom&nord=1",
-            "source_url": "http://paddocktalk.com/news/html/story-277771.html"
-        },
-        "crash.net/2015/05/indycar-news-honda-unveils-superspeedway-aero-kit": {
-            "title": "IndyCar News: Honda unveils superspeedway aero kit -...",
-            "snippet": "News: Honda unveils superspeedway aero drag and increased engine performance equal speed on the Indianapolis Motor Speedway oval, and Honda Performance Development COO and vice president Steve Eriksen believes the company's IndyCar Series entries...",
-            "date": "2015-05-02",
-            "categories": "indycar-series,speedway",
-            "tags": "indycar,indycar_series,series,performance,performance-development,development,indianapolis,motor,kit,honda",
-            "recuweb_url": "http://es.recuweb.com/speedway/crash.net/2015/05/indycar-news-honda-unveils-superspeedway-aero-kit",
             "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries&output=atom&nord=1",
-            "source_url": "http://crash.net/indycar/news/218284/1/honda-unveils-superspeedway-aero-kit.html"
+            "source_url": "http://paddocktalk.com/news/html/story-277771.html"
         },
         "diariomotor.com/2015/05/diariomotor-tag-indycar-series": {
             "title": "Diariomotor Tag IndyCar Series...",
@@ -46,67 +55,59 @@
             "snippet": "La v\u00edspera del emblem\u00e1tico mes de Indian\u00e1polis en mayo sirvi\u00f3 para que Honda Performance Development presentara el kit aerodin\u00e1mico que sus monoplazas emplear\u00e1n en los \u00f3valos m\u00e1s largos del calendario 2015 de la IndyCar Series y con el...",
             "date": "2015-05-01",
             "categories": "indycar-series,monoplaza",
-            "tags": "indycar,indycar_series,series,performance,performance-development,development,kit,monoplazas,calendario,honda,indian\u00e1polis",
+            "tags": "indycar,indycar_series,series,kit,monoplazas,calendario,honda,indian\u00e1polis",
             "recuweb_url": "http://es.recuweb.com/monoplaza/diariomotor.com/2015/05/honda-lo-apuesta-todo-a-su-kit-aerodin%C3%A1mico-para-%C3%B3valos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=indycar%2Bseries&format=RSS&cc=es",
             "source_url": "http://diariomotor.com/competicion/2015/05/01/honda-lo-apuesta-todo-a-su-kit-aerodinamico-para-ovalos/"
-        },
-        "racer.com/2015/05/indycar-avaya-backing-for-pagenaud-at-indy-500-racer": {
-            "title": "IndyCar: Avaya backing for Pagenaud at Indy 500 - Racer...",
-            "snippet": ": Avaya backing for Pagenaud at Indy 500RacerAvaya will sponsor the Team Penske entry of Simon Pagenaud for at least four Verizon IndyCar Series races beginning with the 99th Indianapolis 500. \"We are excited to welcome Avaya to Team Penske through...",
-            "date": "2015-05-01",
-            "tags": "are,series,races,verizon,team,team_penske,penske,will,indycar,avaya,indianapolis,through",
-            "recuweb_url": "http://es.recuweb.com/racer.com/2015/05/indycar-avaya-backing-for-pagenaud-at-indy-500-racer",
-            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries&output=atom&nord=1",
-            "source_url": "http://racer.com/indycar/item/116192-indycar-avaya-backing-for-pagenaud-at-indy-500"
         },
         "espn.go.com/2015/04/barber-a-season-high-for-indycar-espn": {
             "title": "Barber a season high for IndyCar - ESPN...",
             "snippet": "ESPNBarber a season high for IndyCarESPNINDIANAPOLIS -- The Verizon IndyCar Series started the 2015 season with a crash and continued with a splash, but then strung together two clean races, including a 90-lapper at Barber Motorsports Park that was...",
             "date": "2015-04-30",
-            "tags": "motorsports,was,together,races,season,series,verizon,indycar",
+            "tags": "motorsports,park,that,was,together,series,verizon,barber,indycar",
             "recuweb_url": "http://es.recuweb.com/espn.go.com/2015/04/barber-a-season-high-for-indycar-espn",
-            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries%2Bindycar%2Bseries&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries&output=atom&nord=1",
             "source_url": "http://espn.go.com/racing/indycar/story/_/id/12793309/alabama-race-juan-pablo-montoya-performance-high-points"
         },
-        "informe21.com/2015/04/piloto-rodolfo-speedy-gonz%C3%A1lez-satisfecho-con-su-actuaci%C3%B3n-en-indycar": {
-            "title": "Piloto Rodolfo \"Speedy\" Gonz\u00e1lez satisfecho con su actuaci\u00f3n en IndyCar -...",
-            "snippet": "Noticias24Piloto Rodolfo \"Speedy\" Gonz\u00e1lez satisfecho con su actuaci\u00f3n en IndyCar Series es la categor\u00eda de monoplazas m\u00e1s importante de Estados Unidos. Gran parte de su prestigio se debe a que cuenta entre sus pruebas con las 500 millas de...",
+        "autoweek.com/2015/04/honda-releases-photos-of-2015-indycar-speedway-aero-kit-autoweek": {
+            "title": "Honda releases photos of 2015 IndyCar speedway aero kit - Autoweek...",
+            "snippet": "releases photos of 2015 IndyCar speedway aero kitAutoweek\"We're excited to unveil our super speedway aero kit, the newest element in this era of enhanced manufacturer competition in the Verision IndyCar Series,\" said Art St. Cyr, president of Honda...",
+            "date": "2015-04-30",
+            "categories": "speedway",
+            "tags": "kit,honda,indycar,series",
+            "recuweb_url": "http://es.recuweb.com/speedway/autoweek.com/2015/04/honda-releases-photos-of-2015-indycar-speedway-aero-kit-autoweek",
+            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries&output=atom&nord=1",
+            "source_url": "http://autoweek.com/article/indycar/honda-releases-photos-2015-indycar-speedway-aero-kit"
+        },
+        "theroar.com.au/2015/04/a-great-day-for-american-indycar-stars-at-barber-motorsports-park": {
+            "title": "A great day for American IndyCar stars at Barber Motorsports Park - The Roar...",
+            "snippet": "The RoarA great day for American IndyCar stars at Barber Motorsports ParkThe RoarThey say the one real knock on the IndyCar Series in America is that, compared to NASCAR, there are few home-grown drivers racing at the pointy end of the field. Where...",
             "date": "2015-04-29",
-            "categories": "monoplaza",
-            "tags": "millas,parte,prestigio,prestigio-se-debe,debe,debe-que-cuenta,cuenta,pruebas,estados,estados_unidos,unidos,series,categor\u00eda,categor\u00eda-de-monoplazas,monoplazas,monoplazas-m\u00e1s-importante,importante,satisfecho,actuaci\u00f3n,piloto,rodolfo,gonz\u00e1lez,indycar,gran",
-            "recuweb_url": "http://es.recuweb.com/monoplaza/informe21.com/2015/04/piloto-rodolfo-speedy-gonz%C3%A1lez-satisfecho-con-su-actuaci%C3%B3n-en-indycar",
-            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries%2Bindycar%2Bseries&output=atom&nord=1",
-            "source_url": "http://informe21.com/deportes/piloto-rodolfo-speedy-gonzalez-satisfecho-con-su-actuacion-en-indycar"
+            "categories": "indycar-series",
+            "tags": "are,that,indycar,indycar_series,series,barber,motorsports,park,nascar",
+            "recuweb_url": "http://es.recuweb.com/indycar-series/theroar.com.au/2015/04/a-great-day-for-american-indycar-stars-at-barber-motorsports-park",
+            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries&output=atom&nord=1",
+            "source_url": "http://theroar.com.au/2015/04/30/a-great-day-for-american-indycar-stars-at-barber-motorsports-park/"
+        },
+        "diariomotor.com/2015/04/jeff-gordon-llevar%C3%A1-el-pace-car-en-las-500-millas": {
+            "title": "Jeff Gordon llevar\u00e1 el Pace Car en las 500 Millas de Indian\u00e1polis...",
+            "snippet": "sexta fecha en el calendario de la IndyCar Series. Gordon se comprometi\u00f3 oficialmente a estar en el evento para luego trasladarse hasta Charlotte, donde competir\u00e1 en la Coca Cola 600 de la Nascar Sprint Cup Series. Por su parte, Jim Cambell...",
+            "date": "2015-04-29",
+            "categories": "indycar-series",
+            "tags": "parte,nascar,series,indycar,indycar_series,fecha,calendario,car,millas,indian\u00e1polis",
+            "recuweb_url": "http://es.recuweb.com/indycar-series/diariomotor.com/2015/04/jeff-gordon-llevar%C3%A1-el-pace-car-en-las-500-millas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bindycar%2Bseries&format=RSS&cc=es",
+            "source_url": "http://diariomotor.com/competicion/2015/04/30/jeff-gordon-llevara-el-pace-car-en-las-500-millas-de-indianapolis/"
         },
         "el-nacional.com/2015/04/rodolfo-speedy-gonz%C3%A1lez-satisfecho-con-su-actuaci%C3%B3n-en-la-indycar": {
             "title": "Rodolfo Speedy Gonz\u00e1lez satisfecho con su actuaci\u00f3n en la IndyCar...",
             "snippet": "La IndyCar Series es la categor\u00eda de monoplazas m\u00e1s importante de Estados Unidos. Gran parte de su prestigio se debe a que cuenta entre sus pruebas con las 500 millas de Indian\u00e1polis y todo el campeonato gira en torno a esa carrera.",
             "date": "2015-04-29",
             "categories": "monoplaza",
-            "tags": "millas,parte,prestigio,prestigio-se-debe,debe,debe-que-cuenta,cuenta,pruebas,estados,estados_unidos,unidos,series,categor\u00eda,categor\u00eda-de-monoplazas,monoplazas,monoplazas-m\u00e1s-importante,importante,satisfecho,actuaci\u00f3n,rodolfo,gonz\u00e1lez,indycar,gran,indian\u00e1polis,carrera",
+            "tags": "millas,parte,estados,estados_unidos,unidos,series,monoplazas,indycar,gran,indian\u00e1polis,carrera",
             "recuweb_url": "http://es.recuweb.com/monoplaza/el-nacional.com/2015/04/rodolfo-speedy-gonz%C3%A1lez-satisfecho-con-su-actuaci%C3%B3n-en-la-indycar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=indycar%2Bseries&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bindycar%2Bseries&format=RSS&cc=es",
             "source_url": "http://el-nacional.com/deportes/Rodolfo-Speedy-Gonzalez-satisfecho-IndyCar_0_619138124.html"
-        },
-        "elobservador.com.uy/2015/04/doble-podio-en-alabama": {
-            "title": "Doble podio en Alabama...",
-            "snippet": "En el primero, celebrado en Canc\u00fan, Urrutia sorprendi\u00f3 y estableci\u00f3 el primer contacto con quien es hoy su manager, el chileno Eliseo Salazar, ex piloto de F\u00f3rmula 1 y de la IndyCar Series. Estoy orgulloso de ser su manager. Llegaremos a...",
-            "date": "2015-04-27",
-            "categories": "indycar-series",
-            "tags": "indycar,indycar_series,series,piloto,primer,alabama,f\u00f3rmula",
-            "recuweb_url": "http://es.recuweb.com/indycar-series/elobservador.com.uy/2015/04/doble-podio-en-alabama",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=indycar%2Bseries&format=RSS&cc=es",
-            "source_url": "http://elobservador.com.uy/noticia/303666/doble-podio-en-alabama/"
-        },
-        "foxsports.com.au/2015/04/new-face-in-indycar-s-winner-circle-fox-sports": {
-            "title": "New face in IndyCar's winner's circle - Fox Sports...",
-            "snippet": "Fox SportsNew face in IndyCar's winner's circleFox SportsAUSTRALIA'S defending IndyCar series champion Will Power is still in search of his first race victory this season after finishing fourth at the Grand Prix of Alabama. Josef Newgarden held off...",
-            "date": "2015-04-27",
-            "tags": "grand,grand_prix,prix,season,will,sports,indycar,series,race,alabama",
-            "recuweb_url": "http://es.recuweb.com/foxsports.com.au/2015/04/new-face-in-indycar-s-winner-circle-fox-sports",
-            "resource_url": "http://news.google.es/?hl=es&q=indycar%2Bseries%2Bindycar%2Bseries&output=atom&nord=1",
-            "source_url": "http://foxsports.com.au/motor-sport/indycar/indycar-series-2015-alabama-josef-newgarden-wins-penalised-will-power-charges-to-fourth/story-fn8albtt-1227322725823"
         }
     }
 }

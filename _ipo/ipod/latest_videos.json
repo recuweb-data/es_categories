@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ipod",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ipod/",
@@ -11,41 +11,17 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/03/review-ipod-touch-5g-16gb-espa%C3%B1ol": {
-            "title": "Review ipod touch 5g 16gb espa\u00f1ol...",
-            "snippet": "Hola gente, hoy les traigo una review mas, en este caso el ipod touch de 5ta generaci\u00f3n! Mi canal de YT:: randomizer1Tags: review ipod touch ipod 5g espa\u00f1ol randomizer 16gb Posted: 10 March 2015Rating:: 0...",
-            "date": "2015-03-10",
-            "author_name": "randomizer1",
-            "categories": "ipod",
-            "tags": "ipod,ipod-touch,touch,traigo,hola,gente",
-            "recuweb_url": "http://es.recuweb.com/ipod/dailymotion.com/2015/03/review-ipod-touch-5g-16gb-espa%C3%B1ol",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ipod+ipod/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2j3hdk_review-ipod-touch-5g-16gb-espanol_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2j3hdk_review-ipod-touch-5g-16gb-espanol_tech"
-        },
-        "youtube.com/2015/01/tag-qu%C3%A9-hay-en-mi-ipod-5-mau-sworld": {
-            "title": "TAG: Qu\u00e9 hay en mi iPod 5? Mau'sWorld...",
-            "snippet": "TAG: Qu\u00e9 hay en mi iPod 5? Mau'sWorld Hola a todos! Hoy les traigo el TAG de lo que hay en mi iPod 5. Es de color celeste, con 32 GB de almacenamiento. Te gust\u00f3 mi funda? From: Mau Views: 19212 297 ratings Time: 07:07 More in People & Blogs...",
-            "date": "2015-01-09",
-            "author_name": "Mau",
-            "categories": "ipod",
-            "tags": "traigo,hola,ipod,people",
-            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2015/01/tag-qu%C3%A9-hay-en-mi-ipod-5-mau-sworld",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=nQlc7sJnHXM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/nQlc7sJnHXM/0.jpg"
-        },
-        "youtube.com/2014/12/como-pasar-musica-a-mi-iphone-ipod-2015-ultima-versi%C3%B3n-itunes": {
-            "title": "Como pasar musica a mi iphone,ipod, 2015 ultima versi\u00f3n Itunes 12...",
-            "snippet": "Como pasar musica a mi iphone,ipod, 2015 ultima versi\u00f3n Itunes 12 LEA LA DESCRIPCION DEL VIDEO... From: The Guason YIRS Views: 304138 2020 ratings Time: 05:03 More in Comedy...",
-            "date": "2014-12-24",
+        "youtube.com/2015/01/como-pasar-videos-a-mi-iphone-ipod-2015-ultima-versi%C3%B3n-itunes": {
+            "title": "Como pasar videos a mi iphone,ipod, 2015 ultima versi\u00f3n Itunes 12...",
+            "snippet": "Como pasar videos a mi iphone,ipod, 2015 ultima versi\u00f3n Itunes 12 En este Video tutorial les ense\u00f1o Como pasar videos a mi iphone,ipod, 2015 ultima versi\u00f3n Itunes 12 espero les sirva y les guste el video de ser asi Suscribance y delen like..!!",
+            "date": "2015-01-17",
             "author_name": "The Guason YIRS",
             "categories": "iphone,ipod",
-            "tags": "musica,iphone,ipod,itunes",
-            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/12/como-pasar-musica-a-mi-iphone-ipod-2015-ultima-versi%C3%B3n-itunes",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=aF6n3nLGUCY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/aF6n3nLGUCY/0.jpg"
+            "tags": "espero,guste,tutorial,iphone,ipod,itunes",
+            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2015/01/como-pasar-videos-a-mi-iphone-ipod-2015-ultima-versi%C3%B3n-itunes",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=shDW7ctaMmg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/shDW7ctaMmg/0.jpg"
         },
         "youtube.com/2014/09/el-adi%C3%B3s-del-ipod-classic": {
             "title": "El adi\u00f3s del iPod Classic...",
@@ -53,69 +29,45 @@
             "date": "2014-09-19",
             "author_name": "Apple 5x1",
             "categories": "ipod",
-            "tags": "ipod",
+            "tags": "ipod,apple",
             "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/09/el-adi%C3%B3s-del-ipod-classic",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=LSj0Hi_HUbo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/LSj0Hi_HUbo/0.jpg"
         },
-        "youtube.com/2014/08/tutorial-como-restaurar-iphone-ipad-y-ipod-touch-reparar": {
-            "title": "Tutorial Como Restaurar iPhone, iPad y iPod Touch (Reparar)...",
-            "snippet": "Tutorial Como Restaurar iPhone, iPad y iPod Touch (Reparar) Suscribete: Tutorial para Instalar Apps de Paga Gratis Directamente de la App Store: Para iOS 7: Para iOS 6 y iOS 5:. From: maudricio Views: 148882 528 ratings Time: 14:55 More in Science &...",
-            "date": "2014-08-28",
-            "author_name": "maudricio",
-            "categories": "ipod,iphone,ipad",
-            "tags": "ipod,ipod_touch,touch,tutorial,iphone,ipad,ios",
-            "recuweb_url": "http://es.recuweb.com/ipad/youtube.com/2014/08/tutorial-como-restaurar-iphone-ipad-y-ipod-touch-reparar",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=4Wxcb9KNJoE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/4Wxcb9KNJoE/0.jpg"
-        },
         "youtube.com/2014/08/desbloqueo-de-icloud-en-ipod-touch-5g-parte-1": {
             "title": "desbloqueo de icloud en ipod touch 5g parte 1...",
-            "snippet": "desbloqueo de icloud en ipod touch 5g parte 1 espero que les guste este v\u00eddeo de seg\u00fan una desbloqueada de ipod touch 5g. From: pablo trejo Views: 14820 41 ratings Time: 04:03 More in People & Blogs...",
+            "snippet": "desbloqueo de icloud en ipod touch 5g parte 1 espero que les guste este v\u00eddeo de seg\u00fan una desbloqueada de ipod touch 5g. From: pablo trejo Views: 14996 41 ratings Time: 04:03 More in People & Blogs...",
             "date": "2014-08-28",
             "author_name": "pablo trejo",
             "categories": "ipod",
-            "tags": "espero,v\u00eddeo,ipod,ipod-touch,touch,desbloqueo,icloud,people",
+            "tags": "espero,guste,ipod,touch,desbloqueo,icloud",
             "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/08/desbloqueo-de-icloud-en-ipod-touch-5g-parte-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=-8oh45iATuk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/-8oh45iATuk/0.jpg"
         },
-        "youtube.com/2014/08/ipod-touch-6g-todo-lo-que-sabemos-el-iwatch": {
-            "title": "iPod Touch 6G (Todo lo que sabemos, el iWatch)...",
-            "snippet": "iPod Touch 6G (Todo lo que sabemos, el iWatch) Facebook Twitter En este v\u00eddeo les doy un an\u00e1lisis de la informaci\u00f3n que tengo sobre el esperado iPod Touch Sexta generacion. Recordar... From: MARCIANOPHONE Views: 84649 3157 ratings Time: 05:43...",
-            "date": "2014-08-19",
-            "author_name": "MARCIANOPHONE",
-            "categories": "facebook,twitter,ipod",
-            "tags": "v\u00eddeo,twitter,ipod,ipod_touch,touch,recordar",
-            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/08/ipod-touch-6g-todo-lo-que-sabemos-el-iwatch",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=ECnCv4mCTOs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ECnCv4mCTOs/0.jpg"
-        },
-        "youtube.com/2014/07/whatsapp-en-ios-ipod-touch-4g": {
-            "title": "Whatsapp en iOS iPod Touch 4g...",
-            "snippet": "Whatsapp en iOS iPod Touch 4g Hola que tal gente de YouTube espero les haiga gustado el video no se olviden de dejar sus Like, compartir el video y suscribirse para que los videos le lleguen mas r\u00e1pido. JAILBREAK... From: Sergio CHM Views: 63153...",
-            "date": "2014-07-20",
-            "author_name": "Sergio CHM",
+        "youtube.com/2014/07/c%C3%B3mo-hacer-jailbreak-al-ipod-touch-4g": {
+            "title": "C\u00f3mo hacer jailbreak al iPod Touch 4G...",
+            "snippet": "C\u00f3mo hacer jailbreak al iPod Touch 4G Aqu\u00ed os muestro el m\u00e9todo m\u00e1s sencillo de hacer jailbreak untethered a los iPod Touch 4G que tengan iOS,, y. Es muy sencillo, s\u00f3lo hay que seguir los pasos que... From: iOSJailbreakPro Views: 3387 26...",
+            "date": "2014-07-14",
+            "author_name": "iOSJailbreakPro",
             "categories": "ipod",
-            "tags": "espero,gente,ios,ipod,ipod_touch,touch,hola",
-            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/07/whatsapp-en-ios-ipod-touch-4g",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=IjcZDF2nEcU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IjcZDF2nEcU/0.jpg"
+            "tags": "s\u00f3lo,seguir,m\u00e9todo,jailbreak,untethered,ipod,ipod_touch,touch,ios",
+            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/07/c%C3%B3mo-hacer-jailbreak-al-ipod-touch-4g",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=12T13bR2FMw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/12T13bR2FMw/0.jpg"
         },
         "youtube.com/2014/05/desbloquear-icloud-iphone-5-ipod-y-ipad-metodo-doulci": {
             "title": "DESBLOQUEAR ICLOUD IPHONE 5, IPOD Y IPAD METODO DOULCI!!!!",
-            "snippet": "DESBLOQUEAR ICLOUD IPHONE 5, IPOD Y IPAD METODO DOULCI!!!! ERROR DE TIPEO AMIGOS, ES \"APPLE\" Y NO APLE COMO ESTA EN EL VIDEO Desbloqueo iCloud. M\u00e9todo DoulCi PAGINA OFICIAL DOULCI ESTAR PENDIENTE DEL TWITTER... From: Eloy Cy Views: 343166 2282...",
+            "snippet": "DESBLOQUEAR ICLOUD IPHONE 5, IPOD Y IPAD METODO DOULCI!!!! ERROR DE TIPEO AMIGOS, ES \"APPLE\" Y NO APLE COMO ESTA EN EL VIDEO Desbloqueo iCloud. M\u00e9todo DoulCi PAGINA OFICIAL DOULCI ESTAR PENDIENTE DEL TWITTER... From: Eloy Cy Views: 343993 2290...",
             "date": "2014-05-24",
             "author_name": "Eloy Cy",
             "categories": "twitter,ipod,ipad,iphone",
-            "tags": "twitter,desbloqueo,ipod,ipad,icloud,iphone",
+            "tags": "m\u00e9todo,desbloqueo,ipod,ipad,icloud,icloud_iphone,iphone",
             "recuweb_url": "http://es.recuweb.com/iphone/youtube.com/2014/05/desbloquear-icloud-iphone-5-ipod-y-ipad-metodo-doulci",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=uh8BWQJ5rpU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/uh8BWQJ5rpU/0.jpg"
         },
@@ -125,11 +77,59 @@
             "date": "2014-05-18",
             "author_name": "abraxa5",
             "categories": "iphone,ipod,ipad",
-            "tags": "recordar,tutorial,musica,iphone,ipod,ipad,itunes,ios",
+            "tags": "descargar,tutorial,m\u00fasica,iphone,ipod,ipad,itunes,ios",
             "recuweb_url": "http://es.recuweb.com/ipad/dailymotion.com/2014/05/tutorial-copiar-musica-a-ipod-iphone-o-ipad-sin-itunes",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ipod/0?af=1",
             "source_url": "http://dailymotion.com/video/x1veeio_tutorial-copiar-musica-a-ipod-iphone-o-ipad-sin-itunes_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1veeio_tutorial-copiar-musica-a-ipod-iphone-o-ipad-sin-itunes_tech"
+        },
+        "youtube.com/2014/04/tutorial-ios-jailbreak-untethered-ipod-iphone-ipad-en-espa%C3%B1ol": {
+            "title": "Tutorial: iOS Jailbreak Untethered - iPod iPhone iPad - (En espa\u00f1ol)...",
+            "snippet": "Tutorial: iOS Jailbreak Untethered - iPod iPhone iPad - (En espa\u00f1ol) Esta es la manera m\u00e1s f\u00e1cil de hacerle jailbreak a nuestro iOS. No olviden dejar un like y un comentario. Eso me ayuda a que les pueda seguir trayendo m\u00e1s...",
+            "date": "2014-04-01",
+            "author_name": "alambrixIT",
+            "categories": "ipod,iphone,ipad",
+            "tags": "seguir,jailbreak,ipod,iphone,iphone_ipad,ipad,ios,ios_jailbreak,untethered,tutorial",
+            "recuweb_url": "http://es.recuweb.com/ipad/youtube.com/2014/04/tutorial-ios-jailbreak-untethered-ipod-iphone-ipad-en-espa%C3%B1ol",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Y7xhi4rR2vU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Y7xhi4rR2vU/0.jpg"
+        },
+        "dailymotion.com/2014/03/como-bajar-musica-gratis-en-iphone-ipad-y-ipod-touch": {
+            "title": "como BAJAR MUSICA GRATIS en iPhone iPad y iPod Touch...",
+            "snippet": "como bajar m\u00fasica gratis en tu iphone, ipad o ipod touchAuthor: solissaulTags: bajar musica gratis descargar musica gratis iphone musica gratis bajar gratis descargar gratis musica gratis iphone musica gratis ipad musica gratis ipod gratis musica...",
+            "date": "2014-03-19",
+            "author_name": "solissaul",
+            "categories": "iphone,ipad,ipod",
+            "tags": "m\u00fasica,descargar,iphone,ipad,ipod,ipod_touch,touch,iphone_ipad",
+            "recuweb_url": "http://es.recuweb.com/ipod/dailymotion.com/2014/03/como-bajar-musica-gratis-en-iphone-ipad-y-ipod-touch",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ipod/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1idr47_como-bajar-musica-gratis-en-iphone-ipad-y-ipod-touch_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1idr47_como-bajar-musica-gratis-en-iphone-ipad-y-ipod-touch_tech"
+        },
+        "youtube.com/2014/02/soluci%C3%B3n-id-icloud-iphone-4-modo-ipod": {
+            "title": "Soluci\u00f3n ID iCloud iPhone 4 (Modo iPod)...",
+            "snippet": "Soluci\u00f3n ID iCloud iPhone 4 (Modo iPod) Aqu\u00ed los Links de los archivos que vamos a necesitar: Instala Java para correr el Expl0it (S\u00f3lo para... From: Mrwindows1hack Views: 116064 586 ratings Time: 09:56 More in Science & Technology...",
+            "date": "2014-02-07",
+            "author_name": "Mrwindows1hack",
+            "categories": "java,iphone,ipod",
+            "tags": "icloud,icloud_iphone,iphone,ipod,s\u00f3lo",
+            "recuweb_url": "http://es.recuweb.com/ipod/youtube.com/2014/02/soluci%C3%B3n-id-icloud-iphone-4-modo-ipod",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Nzl3eKe7i3M&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Nzl3eKe7i3M/0.jpg"
+        },
+        "dailymotion.com/2013/11/ios-jailbreak-iphone-ipod-touch-ipad-apple-tv": {
+            "title": "iOS JAILBREAK iPhone,iPod Touch,iPad,Apple Tv...",
+            "snippet": "iOS 7 jailbreak Apple Software Update iOS 7 and Compatibility:iPhone 5s 5C 5iPhone 4SiPhone 3GSiPhone 4GSM ModeliPhone 4 iPod Touch 3rd generationiPod Touch 4th generationiPadiPad 2iPad 3Thanks evad3rs evasionAuthor: dm_52777a786f95dTags: ios...",
+            "date": "2013-11-04",
+            "author_name": "dm_52777a786f95d",
+            "categories": "ipod,iphone,ipad",
+            "tags": "touch,apple,ipod,ipod_touch,ios,ios_jailbreak,jailbreak,iphone,ipad",
+            "recuweb_url": "http://es.recuweb.com/ipad/dailymotion.com/2013/11/ios-jailbreak-iphone-ipod-touch-ipad-apple-tv",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/ipod/0?af=1",
+            "source_url": "http://dailymotion.com/video/x16ruxt_ios-7-0-3-jailbreak-iphone-ipod-touch-ipad-apple-tv_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x16ruxt_ios-7-0-3-jailbreak-iphone-ipod-touch-ipad-apple-tv_tech"
         }
     }
 }

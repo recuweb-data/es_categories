@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xampp",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xampp/",
@@ -11,24 +11,14 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
     },
     "items": {
-        "ghacks.net/2015/04/caddy-is-a-3mb-web-server-for-your-home-computer-ghacks": {
-            "title": "Caddy is a 3MB web server for your home computer - Ghacks Technology News...",
-            "snippet": "Ghacks Technology NewsCaddy is a 3MB web server for your home computerGhacks Technology NewsIt may be easier however to use a full solution like Wampserver, XAMPP or QuickPHP Web Server that ships with everything right out of the box (everything...",
-            "date": "2015-04-29",
-            "categories": "xampp",
-            "tags": "web,server,your,computer,xampp",
-            "recuweb_url": "http://es.recuweb.com/xampp/ghacks.net/2015/04/caddy-is-a-3mb-web-server-for-your-home-computer-ghacks",
-            "resource_url": "http://news.google.es/?hl=es&q=xampp&output=atom&nord=1",
-            "source_url": "http://ghacks.net/2015/04/29/caddy-is-a-3mb-web-server-for-your-home-computer/"
-        },
         "computerhoy.com/2014/10/primeros-pasos-con-joomla-3-instalaci%C3%B3n-y-conceptos-b%C3%A1sicos-computer-hoy": {
             "title": "Primeros pasos con Joomla 3: Instalaci\u00f3n y conceptos b\u00e1sicos - Computer Hoy...",
-            "snippet": "Primeros pasos con Joomla 3: Instalaci\u00f3n y conceptos b\u00e1sicosComputer HoyAntes de nada, si est\u00e1s trabajando en local (esto es, con el servidor web instalado en tu ordenador), abre el panel de control de XAMPP y aseg\u00farate de que Apache y MySQL...",
+            "snippet": "Primeros pasos con Joomla 3: Instalaci\u00f3n y conceptos b\u00e1sicosComputer Hoy... de control de XAMPP y aseg\u00farate de que Apache y MySQL est\u00e1n ejecut\u00e1ndose. Cuando lo tengas, abre el navegador e ingresa la direcci\u00f3n localhost/joomla o, en el caso de...",
             "date": "2014-10-26",
             "categories": "joomla,xampp,mysql",
-            "tags": "computer,joomla,instalaci\u00f3n,local,servidor,web,xampp,apache,mysql",
+            "tags": "joomla,instalaci\u00f3n,xampp,apache,mysql",
             "recuweb_url": "http://es.recuweb.com/mysql/computerhoy.com/2014/10/primeros-pasos-con-joomla-3-instalaci%C3%B3n-y-conceptos-b%C3%A1sicos-computer-hoy",
-            "resource_url": "http://news.google.es/?hl=es&q=xampp&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Bxampp&output=atom&nord=1",
             "source_url": "http://computerhoy.com/paso-a-paso/software/primeros-pasos-joomla-3-instalacion-conceptos-basicos-6042"
         },
         "myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp-press": {
@@ -36,20 +26,10 @@
             "snippet": "(press release)Softaculous now available for Free on XAMPP, EasyPHP and WAMP (press release)Softaculous auto installer is now available on your desktop environments like XAMPP, EasyPHP and WAMP server. Installing apps like WordPress, Joomla,...",
             "date": "2014-08-01",
             "categories": "xampp,wordpress,joomla",
-            "tags": "your,xampp,server,wordpress,joomla",
+            "tags": "xampp,wordpress,joomla",
             "recuweb_url": "http://es.recuweb.com/joomla/myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp-press",
-            "resource_url": "http://news.google.es/?hl=es&q=xampp%2Bxampp&output=atom&nord=1",
-            "source_url": "http://myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp/"
-        },
-        "ticbeat.com/2014/06/c%C3%B3mo-instalar-un-servidor-web-en-tu-pc-ticbeat": {
-            "title": "C\u00f3mo instalar un servidor web en tu PC - TICbeat...",
-            "snippet": "C\u00f3mo instalar un servidor web en tu PCTICbeatXAMPP es completamente gratuito, est\u00e1 disponible para Windows, Mac OS X y GNU/Linux, y adem\u00e1s viene con todo el software necesario para ponernos en unos minutos a dise\u00f1ar nuestra web. XAMPP es el...",
-            "date": "2014-06-29",
-            "categories": "xampp",
-            "tags": "c\u00f3mo,instalar,servidor,web,windows,xampp",
-            "recuweb_url": "http://es.recuweb.com/xampp/ticbeat.com/2014/06/c%C3%B3mo-instalar-un-servidor-web-en-tu-pc-ticbeat",
             "resource_url": "http://news.google.es/?hl=es&q=xampp&output=atom&nord=1",
-            "source_url": "http://ticbeat.com/tecnologias/como-instalar-servidor-web-en-tu-pc/"
+            "source_url": "http://myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp/"
         }
     }
 }

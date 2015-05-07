@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblogging",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/microblogging/",
@@ -11,32 +11,42 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/microblogging/microblogging/blogs.json"
     },
     "items": {
-        "02b.com/2015/05/aena-censura-webs-cr%C3%ADticas-con-su-gesti%C3%B3n-seg%C3%BAn-los-trabajadores": {
-            "title": "Aena censura webs cr\u00edticas con su gesti\u00f3n, seg\u00fan los trabajadores...",
-            "snippet": "Adem\u00e1s, la matriz Enaire se ha enfrentado a un aluvi\u00f3n de cr\u00edticas por degradar a un controlador canario que cr\u00edtic\u00f3 a la empresa en la red de microblogging. El caso de Tom\u00e1s Enaire, ex jefe de sala hoy jubilado, ha acabado en el Senado en...",
-            "date": "2015-05-02",
+        "trome.pe/2015/05/floyd-mayweather-jr-vs-manny-pacquiao-mike-tyson-critic%C3%B3-la-pelea": {
+            "title": "Floyd Mayweather Jr. vs. Manny Pacquiao: Mike Tyson critic\u00f3 la pelea...",
+            "snippet": "Esperamos cinco a\u00f1os para esto, escribi\u00f3 Tyson en la red de microblogging. Otro excampe\u00f3n como Evander Holyfield consider\u00f3 incluso injusto el triunfo por decisi\u00f3n un\u00e1nime de Mayweather. Creo que gan\u00e9 la pelea, \u00e9l no hizo nada, s\u00f3lo corri...",
+            "date": "2015-05-03",
             "categories": "microblogging",
-            "tags": "trabajadores,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/02b.com/2015/05/aena-censura-webs-cr%C3%ADticas-con-su-gesti%C3%B3n-seg%C3%BAn-los-trabajadores",
+            "tags": "\u00e9l,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/trome.pe/2015/05/floyd-mayweather-jr-vs-manny-pacquiao-mike-tyson-critic%C3%B3-la-pelea",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
-            "source_url": "http://02b.com/es/notices/2015/05/aena-censura-webs-criticas-con-su-gestion-denuncian-los-trabajadores-12490.php"
+            "source_url": "http://trome.pe/deportes/floyd-mayweather-manny-pacquiao-mike-tyson-2047638?href=hdeportes6"
         },
-        "europapress.es/2015/05/twitter-quiere-comprar-la-app-de-noticias-circa": {
-            "title": "Twitter quiere comprar la app de noticias Circa...",
-            "snippet": "En este sentido es un poco extra\u00f1o que la red social de microblogging quiera adquirir una nueva empresa de noticias ya que Twitter no produce contenido propio. En su lugar ayuda a sus usuarios a difundir su contenido. El nuevo plataformas de los...",
-            "date": "2015-05-02",
-            "categories": "sentido,twitter,microblogging",
-            "tags": "usuarios,nueva,empresa,noticias,social,twitter,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/europapress.es/2015/05/twitter-quiere-comprar-la-app-de-noticias-circa",
+        "notimex.com.mx/2015/05/los-trinos-de-twitter": {
+            "title": "Los Trinos de Twitter...",
+            "snippet": "En el segundo d\u00eda de la semana, los usuarios del microblogging comentaron sobre la aplicaci\u00f3n de Messenger de Facebook, la cual ahora podr\u00e1 contar con videollamadas. Ese mismo martes se registr\u00f3 un sismo de 5.5 grados en Oaxaca, por lo que la...",
+            "date": "2015-05-03",
+            "categories": "twitter,microblogging,facebook",
+            "tags": "registr\u00f3,usuarios,d\u00eda,twitter,microblogging",
+            "recuweb_url": "http://es.recuweb.com/facebook/notimex.com.mx/2015/05/los-trinos-de-twitter",
             "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
-            "source_url": "http://europapress.es/portaltic/socialmedia/noticia-twitter-quiere-comprar-app-noticias-circa-20150502122933.html"
+            "source_url": "http://notimex.com.mx/acciones/verNota.php?clv=280273"
+        },
+        "rioja2.com/2015/05/madres-y-tuiteras": {
+            "title": "Madres y tuiteras...",
+            "snippet": "La red social de 'microblogging'ha dado a conocer estos datos con motivo de la celebraci\u00f3n, este domingo, 3 de mayo, del 'D\u00eda de la Madre'. Hay un d\u00eda al a\u00f1o en el que, curiosamente, todo el mundo se pone de acuerdo para mostrar su afecto en...",
+            "date": "2015-05-03",
+            "categories": "microblogging",
+            "tags": "d\u00eda,mayo,datos,social,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/rioja2.com/2015/05/madres-y-tuiteras",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
+            "source_url": "http://rioja2.com/n-99099-501-Madres_tuiteras"
         },
         "ultimasnoticias.com.ve/2015/05/zayn-malik-se-cambi%C3%B3-el-nombre-en-twitter-%C3%BAltimas-noticias": {
             "title": "Zayn Malik se cambi\u00f3 el nombre en Twitter - \u00daltimas Noticias...",
             "snippet": "\u00daltimas NoticiasZayn Malik se cambi\u00f3 el nombre en Twitter\u00daltimas NoticiasEspect\u00e1culos 01-05-2015 07:51:00 p.m.. Zayn Malik se cambi\u00f3 el nombre en Twitter. El cantante elimin\u00f3 el \"1D\" de su nombre de usuario en la red de microblogging.",
             "date": "2015-05-02",
             "categories": "twitter,microblogging",
-            "tags": "nombre,twitter,noticias,red,microblogging",
+            "tags": "nombre,twitter,red,microblogging",
             "recuweb_url": "http://es.recuweb.com/microblogging/ultimasnoticias.com.ve/2015/05/zayn-malik-se-cambi%C3%B3-el-nombre-en-twitter-%C3%BAltimas-noticias",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
             "source_url": "http://ultimasnoticias.com.ve/noticias/chevere/espectaculos/zayn-malik-se-cambio-el-nombre-en-twitter.aspx"
@@ -46,30 +56,10 @@
             "snippet": "El CronistaEl saludo de Cristina por el D\u00eda del trabajador, v\u00eda TwitterEl CronistaCon una serie corta de tuits, la presidenta Cristina Kirchner us\u00f3 hoy la red de microblogging para saludar a los trabajadores por el 1 de Mayo y celebrar lo logrado...",
             "date": "2015-05-01",
             "categories": "twitter,microblogging",
-            "tags": "trabajadores,corta,d\u00eda,twitter,red,microblogging,mayo",
+            "tags": "corta,d\u00eda,twitter,red,microblogging,mayo",
             "recuweb_url": "http://es.recuweb.com/microblogging/cronista.com/2015/05/el-saludo-de-cristina-por-d%C3%ADa-del-trabajador-v%C3%ADa-twitter-cronista",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
             "source_url": "http://cronista.com/economiapolitica/El-saludo-de-Cristina-por-el-Dia-del-trabajador-via-Twitter-20150501-0010.html"
-        },
-        "inforegion.com.ar/2015/05/no-pod%C3%ADa-faltar-el-doodle-de-google-por-1-mayo-inforegi%C3%B3n": {
-            "title": "No pod\u00eda faltar: el doodle de Google por el 1 de mayo - InfoRegi\u00f3n...",
-            "snippet": "InfoRegi\u00f3nNo pod\u00eda faltar: el doodle de Google por el 1 de mayoInfoRegi\u00f3nTwitter cumple 7 a\u00f1os. La red social de microblogging naci\u00f3 el 21 de marzo de 2006 en San Francisco, California, como un proyecto de investigaci\u00f3n de un peque\u00f1o...",
-            "date": "2015-05-01",
-            "categories": "google,microblogging",
-            "tags": "social,mayo,red,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/inforegion.com.ar/2015/05/no-pod%C3%ADa-faltar-el-doodle-de-google-por-1-mayo-inforegi%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=microblogging%2Bmicroblogging&output=atom&nord=1",
-            "source_url": "http://inforegion.com.ar/noticia/132666/n-a"
-        },
-        "tecnologia.starmedia.com/2015/04/juega-a-pr%C3%ADncipe-de-persia-desde-un-tuit": {
-            "title": "Juega a Pr\u00edncipe de Persia desde un tuit...",
-            "snippet": "Resulta que Twitter est\u00e1 implementando una nueva integraci\u00f3n entre las p\u00e1ginas web de videojuegos, archivos integrables de juegos y su plataforma de microblogging. Pr\u00edncipe de Persia es solo el comienzo de todos los juegos que se integrar\u00e1n a...",
-            "date": "2015-04-30",
-            "categories": "videojuego,twitter,microblogging",
-            "tags": "nueva,twitter,microblogging",
-            "recuweb_url": "http://es.recuweb.com/microblogging/tecnologia.starmedia.com/2015/04/juega-a-pr%C3%ADncipe-de-persia-desde-un-tuit",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
-            "source_url": "http://tecnologia.starmedia.com/redes-sociales/juega-principe-persia-desde-tuit.html"
         },
         "enter.co/2015/04/las-mejores-aplicaciones-para-windows-phone-de-abril-2015": {
             "title": "Las mejores aplicaciones para Windows Phone de Abril 2015 -...",
@@ -96,7 +86,7 @@
             "snippet": "OhMyGeek!Twitter contin\u00faa generando p\u00e9rdidas por sobre los 100 millones de...OhMyGeek!Esto se debe a que la empresa sigue perdiendo dinero. Durante los tres primeros meses de 2015, la red de microblogging tuvo p\u00e9rdidas de 162,4 millones de...",
             "date": "2015-04-30",
             "categories": "twitter,microblogging",
-            "tags": "empresa,millones,twitter,red,microblogging",
+            "tags": "p\u00e9rdidas,tres,tres-primeros,primeros,millones,twitter,durante,red,microblogging",
             "recuweb_url": "http://es.recuweb.com/microblogging/ohmygeek.net/2015/04/twitter-contin%C3%BAa-generando-p%C3%A9rdidas-por-sobre-los-100-millones-de-ohmygeek",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
             "source_url": "http://ohmygeek.net/2015/04/30/twitter-perdidas-q1-2015/"
@@ -110,6 +100,16 @@
             "recuweb_url": "http://es.recuweb.com/microblogging/chinatopix.com/2015/04/microblogging-site-victim-of-twitter-leak-chinatopix",
             "resource_url": "http://news.google.es/?hl=es&q=microblogging&output=atom&nord=1",
             "source_url": "http://chinatopix.com/articles/47834/20150429/microblogging-site-victim-of-twitter-leak.htm"
+        },
+        "abc.es/2015/04/twitter-no-se-recupera-y-aumenta-sus-p%C3%A9rdidas": {
+            "title": "Twitter no se recupera y aumenta sus p\u00e9rdidas...",
+            "snippet": "La Red de microblogging ha registrado un 22,7% m\u00e1s de p\u00e9rdidas que durante el periodo anterior Twitter registr\u00f3 en los tres primeros meses del a\u00f1o p\u00e9rdidas por importe neto de 162,4 millones de d\u00f3lares (147,7 millones de euros), un 22,7% m\u00e1s...",
+            "date": "2015-04-29",
+            "categories": "twitter,microblogging",
+            "tags": "millones,millones-de-euros,euros,millones-de-d\u00f3lares,d\u00f3lares,registr\u00f3,tres,tres-primeros,primeros,p\u00e9rdidas,durante,twitter,red,microblogging",
+            "recuweb_url": "http://es.recuweb.com/microblogging/abc.es/2015/04/twitter-no-se-recupera-y-aumenta-sus-p%C3%A9rdidas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblogging&format=RSS&cc=es",
+            "source_url": "http://abc.es/tecnologia/redes/20150429/abci-resultados-twitter-trimestre-201504291851.html"
         }
     }
 }

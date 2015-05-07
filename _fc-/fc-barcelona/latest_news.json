@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fc-barcelona",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/fc-barcelona/",
@@ -11,96 +11,97 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/fc-barcelona/fc-barcelona/blogs.json"
     },
     "items": {
-        "elhincha.cl/2015/05/claudio-bravo-va-por-un-nuevo-r%C3%A9cord-este-s%C3%A1bado-en-fc": {
-            "title": "Claudio Bravo va por un nuevo r\u00e9cord este s\u00e1bado en FC Barcelona/- El Hincha (blog)...",
-            "snippet": "El Hincha (blog)Claudio Bravo va por un nuevo r\u00e9cord este s\u00e1bado en FC Barcelona/El Hincha (blog)Claudio Bravo podr\u00eda sumar un nuevo r\u00e9cord en FC Barcelona este s\u00e1bado, cuando el conjunto catal\u00e1n visite a C\u00f3rdoba por la 35 fecha de la Liga...",
-            "date": "2015-05-02",
-            "tags": "s\u00e1bado,sumar,nuevo,barcelona,c\u00f3rdoba,liga",
-            "recuweb_url": "http://es.recuweb.com/elhincha.cl/2015/05/claudio-bravo-va-por-un-nuevo-r%C3%A9cord-este-s%C3%A1bado-en-fc",
-            "resource_url": "http://news.google.es/?hl=es&q=fc%2Bbarcelona&output=atom&nord=1",
-            "source_url": "http://elhincha.cl/noticias/claudio-bravo-va-por-un-nuevo-record-este-sabado-en-fc-barcelona-2261/"
+        "sport.es/2015/05/el-vestuario-del-fc-barcelona-celebr%C3%B3-la-vendetta-7-0": {
+            "title": "El vestuario del FC Barcelona celebr\u00f3 la 'vendetta'del 7-0 de 2013...",
+            "snippet": "La plantilla del FC Barcelona es una pi\u00f1a y los pupilos de Luis Enrique se han ganado el derecho a so\u00f1ar con todos los t\u00edtulos en juego. El contundente marcador cosechado este mi\u00e9rcoles ante el Bayern de M\u00fanich (3-0) sirvi\u00f3 para acercarse a la...",
+            "date": "2015-05-07",
+            "tags": "luis,luis_enrique,enrique,barcelona,bayern,m\u00fanich",
+            "recuweb_url": "http://es.recuweb.com/sport.es/2015/05/el-vestuario-del-fc-barcelona-celebr%C3%B3-la-vendetta-7-0",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://sport.es/es/noticias/barca/vestuario-del-barcelona-celebro-vendetta-del-7-0-2013-4163937"
         },
-        "rtve.es/2015/05/c%C3%B3rdoba-0-fc-barcelona-8": {
-            "title": "C\u00f3rdoba 0 - FC Barcelona 8...",
-            "snippet": "Levante 1 - C\u00f3rdoba 0 pasado mi\u00e9rcoles Un gol de David Barral permiti\u00f3 al Levante sumar un triunfo por la m\u00ednima ante el C\u00f3rdoba que acerca un poco m\u00e1s al cuadro valenciano a la permanencia ante un rival cada vez m\u00e1s cerca de la segunda...",
-            "date": "2015-05-02",
-            "tags": "rival,segunda,sumar,gol,c\u00f3rdoba,barcelona",
-            "recuweb_url": "http://es.recuweb.com/rtve.es/2015/05/c%C3%B3rdoba-0-fc-barcelona-8",
+        "es.paperblog.com/2015/05/fc-barcelona-vs-bayern-munich-en-vivo-uefa-champions-league": {
+            "title": "FC Barcelona vs Bayern Munich en Vivo, UEFA Champions League...",
+            "snippet": "El FC Barcelona y el Bayern Munich se enfrentan hoy en el Camp Nou en partido de ida por las semifinales de la UEFA Champions League. El Barcelona est\u00e1 en el mejor momento de la temporada, ya que es l\u00edder, a falta de tres partidos, de la Liga...",
+            "date": "2015-05-07",
+            "tags": "tres,partido,ida,uefa,champions,champions_league,league,bayern,bayern_munich,munich,barcelona,semifinales,liga",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/05/fc-barcelona-vs-bayern-munich-en-vivo-uefa-champions-league",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/fc-barcelona-vs-bayern-munich-en-vivo-uefa-champions-league-3195978/"
+        },
+        "planetadeporte.es/2015/05/fc-barcelona-bayern-munich-en-directo-champions-league": {
+            "title": "FC Barcelona Bayern Munich en directo: Champions League...",
+            "snippet": "Bienvenidos a! Hoy estaremos con vosotros en esta noche de Champions, donde se enfrentar\u00e1 en el partido de semifinales el F.C. Barcelona contra el Bayern de Munich.",
+            "date": "2015-05-07",
+            "tags": "champions,champions_league,league,directo,barcelona,barcelona_bayern,bayern,bayern_munich,munich,partido,semifinales",
+            "recuweb_url": "http://es.recuweb.com/planetadeporte.es/2015/05/fc-barcelona-bayern-munich-en-directo-champions-league",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://planetadeporte.es/futbol/champions-league/2015/fc-barcelona-bayern-directo-764569"
+        },
+        "sport.es/2015/05/los-mejores-memes-del-fc-barcelona-bayern-m%C3%BAnich": {
+            "title": "Los mejores memes del FC Barcelona-Bayern M\u00fanich...",
+            "snippet": "Os ofrecemos la selecci\u00f3n de los mejores tweets que se registraron durante el Bar\u00e7a-Bayern de la mano de Los Mejores Tweets Deportivos. Para que tengas opci\u00f3n de que tus tweets aparezcan en SPORT debes seguir a L_mejorestweets en Twitter. 10.",
+            "date": "2015-05-07",
+            "categories": "twitter",
+            "tags": "bayern,m\u00fanich,barcelona,bar\u00e7a,sport,twitter",
+            "recuweb_url": "http://es.recuweb.com/twitter/sport.es/2015/05/los-mejores-memes-del-fc-barcelona-bayern-m%C3%BAnich",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://sport.es/es/noticias/barca/los-mejores-memes-del-barcelona-bayern-munich-4164301"
+        },
+        "bolsamania.com/2015/05/cr%C3%B3nica-del-fc-barcelona-bayern-de-m%C3%BAnich-3-0": {
+            "title": "Cr\u00f3nica del FC Barcelona - Bayern de M\u00fanich, 3-0...",
+            "snippet": "El FC Barcelona gan\u00f3... la entidad bancaria no es abrir sus oficinas por la tarde de forma tradicional puesto que ellos ya prestan esos servicios a trav\u00e9s de sus oficinas \u00e1giles. 22:39 En directo Champions League: F.C. Barcelona vs.",
+            "date": "2015-05-06",
+            "tags": "champions,champions_league,league,forma,barcelona,bayern,m\u00fanich,directo",
+            "recuweb_url": "http://es.recuweb.com/bolsamania.com/2015/05/cr%C3%B3nica-del-fc-barcelona-bayern-de-m%C3%BAnich-3-0",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://bolsamania.com/noticias/deportes/cronica-del-fc-barcelona---bayern-de-munich-3-0--714971.html"
+        },
+        "tudiariodeapuestas.com/2015/05/el-fc-barcelona-favorito-ante-bayern-munich": {
+            "title": "El FC Barcelona favorito ante el Bayern Munich...",
+            "snippet": "Si los tres integrantes de la delantera del FC Barcelona marcan, se pagar\u00e1n 15,00 euros, si Lewandowski anota en los dos tiempos, la cifra subir\u00e1 hasta los 29,00 euros y si es Messi el que anota y el equipo de Luis Enrique el que se lleva la...",
+            "date": "2015-05-06",
+            "tags": "luis,luis_enrique,enrique,equipo,tres,bayern,bayern_munich,munich,barcelona,messi",
+            "recuweb_url": "http://es.recuweb.com/tudiariodeapuestas.com/2015/05/el-fc-barcelona-favorito-ante-bayern-munich",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://tudiariodeapuestas.com/not/6840/el_fc_barcelona_favorito_ante_el_bayern_munich/"
+        },
+        "planetadeporte.es/2015/05/peligra-el-atl%C3%A9tico-de-madrid-fc-barcelona-liga": {
+            "title": "Peligra el Atl\u00e9tico de Madrid FC Barcelona de Liga...",
+            "snippet": "La Asociaci\u00f3n de Futbolistas Espa\u00f1oles (AFE) propondr\u00e1 una jornada de huelga para el pr\u00f3ximo 17 de mayor, es decir, la pen\u00faltima jornada... el partido entre el Atl\u00e9tico de Madrid y el FC Barcelona que puede decidir el campe\u00f3n de la...",
+            "date": "2015-05-06",
+            "tags": "jornada,barcelona,liga,partido",
+            "recuweb_url": "http://es.recuweb.com/planetadeporte.es/2015/05/peligra-el-atl%C3%A9tico-de-madrid-fc-barcelona-liga",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://planetadeporte.es/futbol/2015/peligra-el-atletico-de-madrid-fc-barcelona-de-liga-764557"
+        },
+        "nuevofutbol.com/2015/05/rakitic-fc-barcelona-messi-es-un-jugador-%C3%BAnico": {
+            "title": "Rakitic - FC Barcelona -: Messi es un jugador \u00fanico...",
+            "snippet": "pero es la diferencia entre un gran jugador y un jugador \u00fanico. Gracias a Dios Leo est\u00e1 en nuestro equipo. Estamos contentos con sus goles y con nuestro trabajo, hemos hecho todo lo que nos pidi\u00f3 el mister, ha dicho Rakitic tras el FC Barcelona...",
+            "date": "2015-05-06",
+            "tags": "equipo,leo,barcelona,messi",
+            "recuweb_url": "http://es.recuweb.com/nuevofutbol.com/2015/05/rakitic-fc-barcelona-messi-es-un-jugador-%C3%BAnico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://nuevofutbol.com/2015/05/rakitic-fc-barcelona-messi-es-unico.html"
+        },
+        "computerhoy.com/2015/05/ver-online-y-en-directo-fc-barcelona-vs-bayern-munich": {
+            "title": "Ver online y en directo FC Barcelona vs Bayern Munich de Champions en Internet...",
+            "snippet": "La forma m\u00e1s sencilla de ver online el FC Barcelona - Bayern Munich, en directo y en streaming es a trav\u00e9s de Yomvi (adem\u00e1s de forma legal). Para ello, ni siquiera es necesario ser abonado de la plataforma. C\u00f3mo ver online el FC Barcelona -...",
+            "date": "2015-05-06",
+            "categories": "internet",
+            "tags": "forma,directo,bayern,bayern_munich,munich,barcelona,champions",
+            "recuweb_url": "http://es.recuweb.com/internet/computerhoy.com/2015/05/ver-online-y-en-directo-fc-barcelona-vs-bayern-munich",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bfc%2Bbarcelona&format=RSS&cc=es",
+            "source_url": "http://computerhoy.com/noticias/internet/ver-online-directo-fc-barcelona-vs-bayern-munich-champions-internet-27843"
+        },
+        "megastore.as.com/2015/05/camiseta-fc-barcelona-1-2014-15": {
+            "title": "Camiseta FC Barcelona 1 2014-15...",
+            "snippet": "La nueva camiseta del FC Barcelona presenta un estilo mas cl\u00e1sico, con las franjas azulgranas anchas y tonos oscuros. Como detalle novedoso, se muestra la senyera en el cuello en forma de pico y la palabra Bar\u00e7a escrita en la parte trasera, debajo...",
+            "date": "2015-05-05",
+            "tags": "forma,barcelona,bar\u00e7a",
+            "recuweb_url": "http://es.recuweb.com/megastore.as.com/2015/05/camiseta-fc-barcelona-1-2014-15",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://rtve.es/alacarta/videos/futbol/resumen-cordoba-barca-02051w-rtve-izqmaster/3113522/"
-        },
-        "fichajes.com/2015/05/el-fc-barcelona-prepara-una-oferta-colosal-por-marco-verratti": {
-            "title": "El FC Barcelona prepara una oferta colosal por Marco Verratti...",
-            "snippet": "Sigue llen\u00e1ndose de nombres la agenda del FC Barcelona, pese a que sobre este club pesa una prohibici\u00f3n de fichar hasta el a\u00f1o 2016. Y es en la medular donde m\u00e1s se mueve el equipo cul\u00e9, ya que en las \u00faltimas horas han sido relacionados con...",
-            "date": "2015-05-02",
-            "tags": "\u00fal,equipo,barcelona,sigue,club",
-            "recuweb_url": "http://es.recuweb.com/fichajes.com/2015/05/el-fc-barcelona-prepara-una-oferta-colosal-por-marco-verratti",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://fichajes.com/liga/el-fc-barcelona-prepara-una-oferta-colosal-por-marco-verratti_87317"
-        },
-        "eluniverso.com/2015/05/fc-barcelona-gole%C3%B3-8-0-al-c%C3%B3rdoba-y-luis-su%C3%A1rez-marc%C3%B3": {
-            "title": "FC Barcelona gole\u00f3 8-0 al C\u00f3rdoba y Luis Su\u00e1rez marc\u00f3 una tripleta - El Universo...",
-            "snippet": "El UniversoFC Barcelona gole\u00f3 8-0 al C\u00f3rdoba y Luis Su\u00e1rez marc\u00f3 una tripletaEl UniversoEl FC Barcelona gan\u00f3 8-0 en su visita al colista C\u00f3rdoba con una tripleta de Luis Su\u00e1rez y doblete de Lionel Messi, este s\u00e1bado en la 35 jornada, un...",
-            "date": "2015-05-02",
-            "tags": "s\u00e1bado,lionel,lionel_messi,messi,doblete,barcelona,luis,luis_su\u00e1rez,su\u00e1rez,c\u00f3rdoba,jornada",
-            "recuweb_url": "http://es.recuweb.com/eluniverso.com/2015/05/fc-barcelona-gole%C3%B3-8-0-al-c%C3%B3rdoba-y-luis-su%C3%A1rez-marc%C3%B3",
-            "resource_url": "http://news.google.es/?hl=es&q=fc%2Bbarcelona%2Bfc%2Bbarcelona&output=atom&nord=1",
-            "source_url": "http://eluniverso.com/deportes/2015/05/02/nota/4830221/fc-barcelona-goleo-8-0-cordoba-luis-suarez-marco-tripleta"
-        },
-        "cooperativa.cl/2015/05/fc-barcelona-sepult%C3%B3-a-c%C3%B3rdoba-con-impresionante-goleada": {
-            "title": "FC Barcelona sepult\u00f3 a C\u00f3rdoba con impresionante goleada...",
-            "snippet": "El l\u00edder FC Barcelona infligi\u00f3 una goleada de esc\u00e1ndalo en El Arc\u00e1ngel a C\u00f3rdoba y lo mand\u00f3 a Segunda Divisi\u00f3n con un 8-0 estructurado al final de la primera parte, con dos goles, y al comienzo de la segunda, con otros dos para sentenciar un...",
-            "date": "2015-05-02",
-            "tags": "segunda,goles,final,segunda_divisi\u00f3n,divisi\u00f3n,arc\u00e1ngel,barcelona,c\u00f3rdoba,primera",
-            "recuweb_url": "http://es.recuweb.com/cooperativa.cl/2015/05/fc-barcelona-sepult%C3%B3-a-c%C3%B3rdoba-con-impresionante-goleada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona%2Bfc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://cooperativa.cl/noticias/deportes/futbol/fc-barcelona/fc-barcelona-sepulto-a-cordoba-con-impresionante-goleada/2015-05-02/134451.html"
-        },
-        "hechosdehoy.com/2015/05/fc-barcelona-vapulea-al-c%C3%B3rdoba-0-8-e-intimida-bayern": {
-            "title": "FC Barcelona vapulea al C\u00f3rdoba (0-8) e intimida al Bayern de Pep Guardiola...",
-            "snippet": "Impactante jornada 35 en la que el C\u00f3rdoba cay\u00f3 con estr\u00e9pito ante el FC Barcelona (0-8). S\u00f3lo tres jornadas (36, 37 y 38) para un final de la Liga BBVA que se apret\u00f3 entre FC Barcelona y Real Madrid. Para el Atl\u00e9tico de Madrid est\u00e1 lucha...",
-            "date": "2015-05-02",
-            "categories": "realmadrid",
-            "tags": "liga,liga_bbva,bbva,final,tres,jornada,barcelona,c\u00f3rdoba,bayern",
-            "recuweb_url": "http://es.recuweb.com/realmadrid/hechosdehoy.com/2015/05/fc-barcelona-vapulea-al-c%C3%B3rdoba-0-8-e-intimida-bayern",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://hechosdehoy.com/seccion/fc-barcelona-vapulea-al-cordoba-08-e-intimida-al-bayern-de-43257.htm"
-        },
-        "planetadeporte.es/2015/05/los-ocho-goles-del-fc-barcelona-contra-el-c%C3%B3rdoba-v%C3%ADdeo": {
-            "title": "Los ocho goles del FC Barcelona contra el C\u00f3rdoba: V\u00eddeo...",
-            "snippet": "El FC Barcelona ha goleado al C\u00f3rdoba en el Nuevo Arc\u00e1ngel. Los hombres de Luis Enrique ten\u00edan un reto complicado por delante, no por el rival ni el escenario, sino por la importancia de los tres puntos d\u00edas antes del partido contra el Bayern de...",
-            "date": "2015-05-02",
-            "tags": "tres,antes,antes-del-partido,partido,rival,luis,nuevo,nuevo_arc\u00e1ngel,arc\u00e1ngel,ocho,goles,barcelona,c\u00f3rdoba,bayern",
-            "recuweb_url": "http://es.recuweb.com/planetadeporte.es/2015/05/los-ocho-goles-del-fc-barcelona-contra-el-c%C3%B3rdoba-v%C3%ADdeo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://planetadeporte.es/futbol/2015/goles-cordoba-barcelona-763032"
-        },
-        "telecinco.es/2015/05/luis-su%C3%A1rez-y-messi-hacen-un-ocho-a-c%C3%B3rdoba-de-segunda": {
-            "title": "Luis Su\u00e1rez y Messi 'hacen un ocho'a un C\u00f3rdoba de Segunda Divisi\u00f3n...",
-            "snippet": "El FC Barcelona logr\u00f3 imponerse por 0-8 en El Nuevo Arc\u00e1ngel al Cordoba, gracias a un triplete de Luis Su\u00e1rez y a un doblete de Leo Messi, en un festival de goles con el que meten miedo al Bayern de M\u00fanich de cara a la Champions. Mientras dan un...",
-            "date": "2015-05-02",
-            "tags": "goles,doblete,leo,nuevo,nuevo_arc\u00e1ngel,arc\u00e1ngel,segunda,segunda_divisi\u00f3n,divisi\u00f3n,ocho,luis,luis_su\u00e1rez,su\u00e1rez,messi,c\u00f3rdoba,cordoba,barcelona,bayern,champions",
-            "recuweb_url": "http://es.recuweb.com/telecinco.es/2015/05/luis-su%C3%A1rez-y-messi-hacen-un-ocho-a-c%C3%B3rdoba-de-segunda",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://telecinco.es/deportes/futbol/Cronica-Cordoba-Barcelona_0_1980825211.html"
-        },
-        "planetadeporte.es/2015/05/ocho-del-fc-barcelona-para-poner-oficialmente-al-c%C3%B3rdoba": {
-            "title": "Ocho del FC Barcelona para poner oficialmente al C\u00f3rdoba FC en la Liga Adelante...",
-            "snippet": "El C\u00f3rdoba FC hab\u00eda perdido la intensidad y las ganas de correr frente al FC Barcelona. Dani Alves y Lu\u00eds Su\u00e1rez hicieron su doblete. Los goles se encadenaban y con la certeza matem\u00e1tica de que el C\u00f3rdoba FC era equipo de la Liga Adelante,...",
-            "date": "2015-05-02",
-            "tags": "equipo,goles,doblete,su\u00e1rez,liga,ocho,barcelona,c\u00f3rdoba",
-            "recuweb_url": "http://es.recuweb.com/planetadeporte.es/2015/05/ocho-del-fc-barcelona-para-poner-oficialmente-al-c%C3%B3rdoba",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fc%2Bbarcelona&format=RSS&cc=es",
-            "source_url": "http://planetadeporte.es/futbol/liga-bbva/2015/02051751-762976"
-        },
-        "vavel.com/2015/05/resultado-c%C3%B3rdoba-vs-barcelona-en-la-liga-bbva-2015-0-8": {
-            "title": "Resultado C\u00f3rdoba vs Barcelona en la Liga BBVA 2015 (0-8) -...",
-            "snippet": "C\u00f3rdoba vs Barcelona en la Liga BBVA 2015 (0-8) a minuto del partido C\u00f3rdoba vs Barcelona en vivo y en directo online, correspondiente a la 35 jornada de la Liga BBVA. Horario del partido C\u00f3rdoba vs FC Barcelona 2015: 16:00. Sigue los resultados...",
-            "date": "2015-05-02",
-            "tags": "partido,jornada,liga,liga_bbva,bbva,c\u00f3rdoba,barcelona,sigue",
-            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/05/resultado-c%C3%B3rdoba-vs-barcelona-en-la-liga-bbva-2015-0-8",
-            "resource_url": "http://news.google.es/?hl=es&q=fc%2Bbarcelona&output=atom&nord=1",
-            "source_url": "http://vavel.com/es/futbol/fc-barcelona/483455-cordoba-vs-barcelona-en-vivo-y-en-directo-online-en-liga-bbva-2015.html"
+            "source_url": "http://megastore.as.com/camiseta-fc-barcelona-1-2014-15-p_6563.html?osCsid=t9cmkccbm51koke9g9um7rfbp1"
         }
     }
 }

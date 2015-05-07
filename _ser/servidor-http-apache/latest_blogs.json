@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servidor-http-apache",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servidor-http-apache/",
@@ -16,9 +16,9 @@
             "snippet": "Lo primero a instalar en nuestra sistema va a ser a el servidor HTTP para seguir con el stack de LAMP instalaremos Apache HTTP Server. Apache es un servidor web muy famoso desarrollado por Apache Software Fundation...",
             "date": "2015-04-19",
             "author_name": "rogelio",
-            "tags": "software,sistema,configuraci\u00f3n,instalaci\u00f3n,instalar,servidor,http,apache,server,web",
+            "tags": "software,sistema,instalaci\u00f3n,configuraci\u00f3n,instalar,servidor,http,apache,server,web",
             "recuweb_url": "http://es.recuweb.com/notasdesoftware.com/2015/04/instalaci%C3%B3n-y-configuraci%C3%B3n-b%C3%A1sica-de-lamp-en-archlinux-notas",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://notasdesoftware.com/2015/04/instalacion-y-configuracion-basica-de-lamp-en-archlinux.html"
         },
         "blog.cbtis88.edu.mx/2015/04/servidor-apache-aula-de-aprendizaje-en-linea": {
@@ -26,9 +26,9 @@
             "snippet": "UN SERVIDOR APACHE ES UN SERVIDOR WEB DE FORMA MULTIPLATAFORMA. YA QUE SE PUEDE TRABAJAR CON EL EN DIFERENTES SISTEMAS OPERATIVOS. TAMBI\u00c9N ES UN SERVIDOR HTTP DE CODIGO...",
             "date": "2015-04-16",
             "author_name": "juma10",
-            "tags": "servidor,servidor_http,http,http_de_codigo,codigo,diferentes,diferentes_sistemas,diferentes_sistemas_operativos,sistemas,sistemas_operativos,operativos,servidor_apache,apache,servidor_web,web,aula",
+            "tags": "servidor,servidor_http,http,http_de_codigo,codigo,trabajar,diferentes,diferentes_sistemas,diferentes_sistemas_operativos,sistemas,sistemas_operativos,operativos,servidor_apache,apache,servidor_web,web,aula",
             "recuweb_url": "http://es.recuweb.com/blog.cbtis88.edu.mx/2015/04/servidor-apache-aula-de-aprendizaje-en-linea",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.cbtis88.edu.mx/juma10/2015/04/16/servidor-apache/"
         },
         "blog.cbtis88.edu.mx/2015/04/servidor-apache-blog-for-aula-web": {
@@ -39,18 +39,8 @@
             "categories": "tecnologia",
             "tags": "servidor,servidor_web,web,tiene,servidor_http,http,http_de_codigo,codigo,codigo_abierto,abierto,plataformas,unix,aula,servidor_apache,apache,bsd,gnu,linux",
             "recuweb_url": "http://es.recuweb.com/tecnologia/blog.cbtis88.edu.mx/2015/04/servidor-apache-blog-for-aula-web",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.cbtis88.edu.mx/applch1209/2015/04/16/servidor-apache/"
-        },
-        "blog.cbtis88.edu.mx/2015/04/servidor-apache-jesus-y-adolfo-blog": {
-            "title": "SERVIDOR APACHE jesus y adolfo - BLOG DEL...",
-            "snippet": "SERVIDOR APACHE. El sservidor http apache es un servidor web http de codigo abierto para plataformas unix (bsd gnulinux etc) micrisoft windows masintosh y otras que implementa el protocolo http1.1 y la nocion de sitio...",
-            "date": "2015-04-16",
-            "author_name": "jesusadolfo",
-            "tags": "nocion,sitio,implementa,implementa-el-protocolo,protocolo,bsd,etc,codigo,codigo-abierto,abierto,plataformas,unix,servidor,servidor_apache,apache,http,web,windows",
-            "recuweb_url": "http://es.recuweb.com/blog.cbtis88.edu.mx/2015/04/servidor-apache-jesus-y-adolfo-blog",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.cbtis88.edu.mx/jesusadolfo/2015/04/16/servidor-apache/"
         },
         "blog.cbtis88.edu.mx/2015/04/servidor-apache-aulaweb-blog": {
             "title": "SERVIDOR APACHE aulaweb - BLOG DEL...",
@@ -58,9 +48,9 @@
             "date": "2015-04-16",
             "author_name": "alondraybrian",
             "categories": "macintosh",
-            "tags": "sitio,virtual,implementa,implementa-el-protocolo,protocolo,codigo,codigo-abierto,abierto,servidor,servidor_apache,apache,http,linux,macintosh,windows",
+            "tags": "virtual,protocolo,windows,codigo,abierto,servidor,servidor_apache,apache,http,linux,macintosh",
             "recuweb_url": "http://es.recuweb.com/macintosh/blog.cbtis88.edu.mx/2015/04/servidor-apache-aulaweb-blog",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.cbtis88.edu.mx/alondraybrian/2015/04/16/servidor-apache/"
         },
         "blog.cbtis88.edu.mx/2015/04/servidor-apache-educacion-web-blog-del-inicio": {
@@ -68,7 +58,7 @@
             "snippet": "... DIFERENTES DIFERENTES SISTEMAS OPERATIVOS Y ES UN SERVIDOR HTTP DE CODIGO ABIERTO QUE IMPLEMENTE EL PROTOCOLO HTTP/1.1 Y LA NOCION DE LA VISION VIRTUAL El SERVIDOR APACHE SE...",
             "date": "2015-04-15",
             "author_name": "ivale8",
-            "tags": "nocion,virtual,servidor,servidor_apache,apache,diferentes,diferentes_sistemas,diferentes_sistemas_operativos,sistemas,sistemas_operativos,operativos,servidor_http,http,http_de_codigo,codigo,codigo_abierto,abierto,protocolo,web",
+            "tags": "virtual,servidor,servidor_apache,apache,diferentes,diferentes_sistemas,diferentes_sistemas_operativos,sistemas,sistemas_operativos,operativos,servidor_http,http,http_de_codigo,codigo,codigo_abierto,abierto,protocolo,web",
             "recuweb_url": "http://es.recuweb.com/blog.cbtis88.edu.mx/2015/04/servidor-apache-educacion-web-blog-del-inicio",
             "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.cbtis88.edu.mx/ivale8/2015/04/15/servidor-apache/"
@@ -78,9 +68,9 @@
             "snippet": "Publicado por: KZKGGaara; Hace 2 meses; ab, Apache, benchmark, rendimiendo 9; 2775. Da igual si se usa Nginx, Apache, Lighttpd u otro, cualquier administrador de red que tenga un servidor web desear\u00e1 en alg\u00fan punto saber qu\u00e9 tan r\u00e1pido responde...",
             "date": "2015-02-16",
             "author_name": "KZKG^Gaara",
-            "tags": "saber,red,apache,servidor,web",
+            "tags": "saber,cualquier,red,apache,servidor,web",
             "recuweb_url": "http://es.recuweb.com/blog.desdelinux.net/2015/02/apache-benchmark-gnuplot-medir-y-graficar-el-rendimiento",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.desdelinux.net/apache-benchmark-gnuplot-medir-rendimiento-de-servidor-web/"
         },
         "albyta1989.wordpress.com/2015/02/creaci%C3%B3n-servidor-web-con-apache-en-ubuntu": {
@@ -90,7 +80,7 @@
             "author_name": "albyta1989",
             "tags": "servidor,servidor_web,web,apache,ubuntu,crear",
             "recuweb_url": "http://es.recuweb.com/albyta1989.wordpress.com/2015/02/creaci%C3%B3n-servidor-web-con-apache-en-ubuntu",
-            "resource_url": "http://es.search.wordpress.com/?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=servidor%2Bhttp%2Bapache&f=feed&page=1",
             "source_url": "http://albyta1989.wordpress.com/2015/02/15/creacion-servidor-web-con-apache-en-ubuntu/"
         },
         "fresahost.com/2015/02/trucos-apache-como-servidor-web-fresahost": {
@@ -98,9 +88,9 @@
             "snippet": "If you can read this page, it means that the. Apache HTTP server installed at this site is working properly. Esquema del Filesystem de Apache: x. apache. Document Root: Carpeta ra\u00edz de todos los archivos del servidor web...",
             "date": "2015-02-15",
             "author_name": "admin",
-            "tags": "archivos,apache,apache_http,http,servidor,web,server",
+            "tags": "archivos,server,apache,apache_http,http,servidor,web",
             "recuweb_url": "http://es.recuweb.com/fresahost.com/2015/02/trucos-apache-como-servidor-web-fresahost",
-            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache%2Bservidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://fresahost.com/trucos-apache-como-servidor-web/"
         },
         "blog.telmex.com/2015/01/telmexhub-certifica-a-25-alumnos-como-administradores": {
@@ -112,6 +102,16 @@
             "recuweb_url": "http://es.recuweb.com/blog.telmex.com/2015/01/telmexhub-certifica-a-25-alumnos-como-administradores",
             "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.telmex.com/2015/01/15/telmexhub-certifica-a-25-alumnos-como-administradores-de-servidor-web-con-apache/"
+        },
+        "aula128.wordpress.com/2015/01/instalaci%C3%B3n-de-moodle-en-un-servidor-apache-linux-aula128": {
+            "title": "Instalaci\u00f3n de moodle en un servidor Apache en Linux... - AULA128...",
+            "snippet": "HTTP y HTTPS en Apache: Instalaci\u00f3n y configuraci\u00f3n de varios sitios web con varios interfaces y puertos.... Para instala moodle una plataforma moodle, deber\u00eda haber tenido un servidor apache previamente instalado.",
+            "date": "2015-01-10",
+            "author_name": "Rolando G\u00fceyo",
+            "tags": "instalado,instalaci\u00f3n,servidor,apache,linux,aula,https,configuraci\u00f3n,web",
+            "recuweb_url": "http://es.recuweb.com/aula128.wordpress.com/2015/01/instalaci%C3%B3n-de-moodle-en-un-servidor-apache-linux-aula128",
+            "resource_url": "http://www.google.com/search?q=servidor%2Bhttp%2Bapache&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://aula128.wordpress.com/2015/01/10/instalacion-de-moodle-en-un-servidor-linux/"
         }
     }
 }

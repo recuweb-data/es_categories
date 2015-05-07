@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "zen",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/zen/",
@@ -11,25 +11,25 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/zen/zen/blogs.json"
     },
     "items": {
+        "chicagonow.com/2015/05/the-edge-of-zen-living-chicagonow-blog": {
+            "title": "The Edge of Zen Living - ChicagoNow (blog)...",
+            "snippet": "ChicagoNow (blog)The Edge of Zen LivingChicagoNow (blog)Blue water. Warm air. Seamless design. Taking the concept of Zen Living to it's natural extreme. Taking it to the edge. On a recent trip to Naples, Florida, I found a lifestyle that carries...",
+            "date": "2015-05-03",
+            "categories": "lifestyle,zen",
+            "tags": "that,zen,blue",
+            "recuweb_url": "http://es.recuweb.com/zen/chicagonow.com/2015/05/the-edge-of-zen-living-chicagonow-blog",
+            "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
+            "source_url": "http://chicagonow.com/zen-living-by-design/2015/05/the-edge-of-zen-living/"
+        },
         "horseracingnation.com/2015/05/derby-superfecta-zen-horse-racing-nation-blog": {
             "title": "Derby Superfecta Zen - Horse Racing Nation (blog)...",
             "snippet": "Horse Racing Nation (blog)Derby Superfecta ZenHorse Racing Nation (blog)I have filed this quest under Zen Handicapping for the last few years. The problem this year with finding my inner Derby winner, place, show and fourth place finishers is that...",
             "date": "2015-05-02",
             "categories": "zen",
-            "tags": "last,zen",
+            "tags": "that,this,last,zen",
             "recuweb_url": "http://es.recuweb.com/zen/horseracingnation.com/2015/05/derby-superfecta-zen-horse-racing-nation-blog",
             "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
             "source_url": "http://horseracingnation.com/blogs/derbywars/Derby_Superfecta_Zen_123"
-        },
-        "lesnumeriques.com/2015/05/quelques-d%C3%A9tails-sur-zen-la-v%C3%A9ritable-nouvelle-architecture-cpu-d": {
-            "title": "Quelques d\u00e9tails sur Zen, la v\u00e9ritable nouvelle architecture CPU d... - Les Num\u00e9riques...",
-            "snippet": "Quelques d\u00e9tails sur Zen, la v\u00e9ritable nouvelle architecture CPU d...Les Num\u00e9riquesL'un des grands chantiers d'AMD pour 2016 est donc une nouvelle architecture processeur nomm\u00e9e Zen. Quelques documents pr\u00e9sent\u00e9s aux investisseurs de la marque...",
-            "date": "2015-05-02",
-            "categories": "zen",
-            "tags": "zen,cpu,amd",
-            "recuweb_url": "http://es.recuweb.com/zen/lesnumeriques.com/2015/05/quelques-d%C3%A9tails-sur-zen-la-v%C3%A9ritable-nouvelle-architecture-cpu-d",
-            "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
-            "source_url": "http://lesnumeriques.com/cpu-processeur/quelques-details-sur-zen-veritable-nouvelle-architecture-cpu-amd-n41789.html"
         },
         "autocasion.com/2015/05/renault-captur-zen-eco2-edc-90": {
             "title": "RENAULT Captur Zen Eco2 Edc 90...",
@@ -56,27 +56,17 @@
             "snippet": "Touch ArcadeStar Wars Rebels Table Comes to 'Zen Pinball'and 'Star Wars Pinball'Touch ArcadeJust last week Zen Studios added a brand new Age of Ultron table to both Marvel Pinball and Zen Pinball in celebration of the new Avengers movie opening...",
             "date": "2015-05-01",
             "categories": "zen",
-            "tags": "zen,last,week,star,age",
+            "tags": "zen,last,week,age",
             "recuweb_url": "http://es.recuweb.com/zen/toucharcade.com/2015/05/star-wars-rebels-table-comes-to-zen-pinball-and-touch-arcade",
             "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
             "source_url": "http://toucharcade.com/2015/05/01/star-wars-rebels-pinball-table-2/"
-        },
-        "pasadenastarnews.com/2015/05/the-zen-report-questions-about-vietnam-war-pasadena-star-news": {
-            "title": "The Zen Report: Questions about the Vietnam War - The Pasadena Star-News...",
-            "snippet": "The Zen Report: Questions about the Vietnam WarThe Pasadena Star-NewsThis week I learned my parents didn't come to America during the Vietnam War. They left three years after the fall of Saigon. Mom and Dad previously told me they immigrated to the...",
-            "date": "2015-05-01",
-            "categories": "zen",
-            "tags": "star,zen,week",
-            "recuweb_url": "http://es.recuweb.com/zen/pasadenastarnews.com/2015/05/the-zen-report-questions-about-vietnam-war-pasadena-star-news",
-            "resource_url": "http://news.google.es/?hl=es&q=zen%2Bzen&output=atom&nord=1",
-            "source_url": "http://pasadenastarnews.com/social-affairs/20150501/the-zen-report-questions-about-the-vietnam-war"
         },
         "hardzone.es/2015/04/los-primeros-procesadores-amd-zen-ser%C3%A1n-de-cuatro-n%C3%BAcleos": {
             "title": "Los primeros procesadores AMD Zen ser\u00e1n de cuatro n\u00facleos...",
             "snippet": "Seg\u00fan se ha podido saber a trav\u00e9s de Toms Hardware, los primeros procesadores y APUs basados en la arquitectura Zen de AMD tendr\u00e1n cuatro n\u00facleos. Como sab\u00e9is, Zen ser\u00e1 el primer dise\u00f1o monol\u00edtico de n\u00facleos que emplee AMD desde que...",
             "date": "2015-04-30",
             "categories": "hardware,zen",
-            "tags": "dise\u00f1o,n\u00facleos,cuatro,cuatro-n\u00facleos,arquitectura,procesadores,amd,zen,apus",
+            "tags": "dise\u00f1o,n\u00facleos,cuatro,cuatro-n\u00facleos,arquitectura,primeros,procesadores,amd,amd_zen,zen,apus",
             "recuweb_url": "http://es.recuweb.com/zen/hardzone.es/2015/04/los-primeros-procesadores-amd-zen-ser%C3%A1n-de-cuatro-n%C3%BAcleos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=es",
             "source_url": "http://hardzone.es/2015/04/30/procesadores-amd-zen-cuatro-nucleos/"
@@ -86,30 +76,40 @@
             "snippet": "los CPU y APU AMD de 14nm con n\u00facleos ZEN para el... como el otro d\u00eda se filtraron presentaciones que detallan el nuevo dise\u00f1o de n\u00facleos Zen de AMD, ahora nuevamente se filtran otras dos presentaciones que AMD tiene bajo embargo de...",
             "date": "2015-04-30",
             "categories": "zen",
-            "tags": "bajo,ahora,dise\u00f1o,n\u00facleos,amd,cpu,zen",
+            "tags": "filtran,dise\u00f1o,n\u00facleos,amd,zen",
             "recuweb_url": "http://es.recuweb.com/zen/madboxpc.com/2015/04/revelados-los-cpu-y-apu-amd-de-14nm-con-n%C3%BAcleos-zen",
             "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
             "source_url": "http://madboxpc.com/revelados-los-cpu-y-apu-amd-de-14nm-con-nucleos-zen-para-el-2016/"
-        },
-        "readwrite.com/2015/04/speaker-profile-interaxon-s-ariel-garten-on-muse-the-art-of": {
-            "title": "Speaker Profile: Interaxon's Ariel Garten On Muse, The Art Of Zen... - ReadWrite...",
-            "snippet": "ReadWriteSpeaker Profile: Interaxon's Ariel Garten On Muse, The Art Of Zen...ReadWriteInteraXon launched the headband last year, and since then, it has earned rave reviews as thousands of customers use it to gameify their moments of Zen. In advance...",
-            "date": "2015-04-30",
-            "categories": "zen",
-            "tags": "last,zen",
-            "recuweb_url": "http://es.recuweb.com/zen/readwrite.com/2015/04/speaker-profile-interaxon-s-ariel-garten-on-muse-the-art-of",
-            "resource_url": "http://news.google.es/?hl=es&q=zen%2Bzen&output=atom&nord=1",
-            "source_url": "http://readwrite.com/2015/04/30/ariel-garten-wearable-world-congress-interaxon-muse"
         },
         "muycomputer.com/2015/04/zen-llegar%C3%ADa-primero-en-versiones-de-cuatro-n%C3%BAcleos": {
             "title": "Zen llegar\u00eda primero en versiones de cuatro n\u00facleos...",
             "snippet": "Una nueva filtraci\u00f3n nos ha dejado nueva informaci\u00f3n sobre la arquitectura Zen de AMD, cuyo debut podr\u00eda producirse inicialmente con procesadores y APUs de cuatro n\u00facleos. Antes de lanzarnos a analizar la informaci\u00f3n es conveniente dejar una...",
             "date": "2015-04-30",
             "categories": "zen",
-            "tags": "cuatro,cuatro-n\u00facleos,n\u00facleos,procesadores,arquitectura,zen,amd,apus",
+            "tags": "cuatro,cuatro-n\u00facleos,n\u00facleos,procesadores,nueva,arquitectura,llegar\u00eda,zen,amd,apus",
             "recuweb_url": "http://es.recuweb.com/zen/muycomputer.com/2015/04/zen-llegar%C3%ADa-primero-en-versiones-de-cuatro-n%C3%BAcleos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=es",
             "source_url": "http://muycomputer.com/2015/04/30/zen-cuatro-nucleos"
+        },
+        "extremetech.com/2015/04/new-leak-hints-at-amd-zen-s-architecture-organization-extremetech": {
+            "title": "New leak hints at AMD Zen's architecture, organization - ExtremeTech...",
+            "snippet": "ExtremeTechNew leak hints at AMD Zen's architecture, organizationExtremeTechAMD's Analyst Day is set for next week and it now appears certain that the company will spend at least some time discussing its Zen architecture. This new slide is designed...",
+            "date": "2015-04-29",
+            "categories": "zen",
+            "tags": "that,week,amd,amd_zen,zen,this",
+            "recuweb_url": "http://es.recuweb.com/zen/extremetech.com/2015/04/new-leak-hints-at-amd-zen-s-architecture-organization-extremetech",
+            "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
+            "source_url": "http://extremetech.com/gaming/204523-new-leak-hints-at-amd-zens-architecture-organization"
+        },
+        "poderpda.com/2015/04/se-filtran-primeros-datos-de-la-galaxy-note-5-poderpda": {
+            "title": "Se filtran primeros datos de la Galaxy Note 5 - PoderPDA...",
+            "snippet": "Se filtran primeros datos de la Galaxy Note 5PoderPDADe igual manera se ha revelado otro dispositivo, el Project Zen (SM-G928S) que ser\u00eda una nueva variante del actual estandarte de la surcoreana, el Galaxy S6, y que seg\u00fan los rumores llegar\u00eda...",
+            "date": "2015-04-29",
+            "categories": "zen",
+            "tags": "llegar\u00eda,nueva,zen,filtran,primeros",
+            "recuweb_url": "http://es.recuweb.com/zen/poderpda.com/2015/04/se-filtran-primeros-datos-de-la-galaxy-note-5-poderpda",
+            "resource_url": "http://news.google.es/?hl=es&q=zen&output=atom&nord=1",
+            "source_url": "http://poderpda.com/plataformas/android/samsung-project-zen-project-noble/"
         }
     }
 }

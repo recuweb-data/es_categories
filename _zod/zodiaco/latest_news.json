@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "zodiaco",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/zodiaco/",
@@ -11,22 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/zodiaco/zodiaco/blogs.json"
     },
     "items": {
-        "diariolanube.com/2015/05/hor%C3%B3scopo-hoy-acuario-s%C3%A1bado-2-mayo": {
-            "title": "Hor\u00f3scopo hoy Acuario s\u00e1bado 2 mayo...",
+        "es.paperblog.com/2015/05/el-zodiaco-en-astronom%C3%ADa": {
+            "title": "El Zodiaco en Astronom\u00eda.",
+            "snippet": "Si preguntas por la calle sobre el zodiaco, la mayor\u00eda pensar\u00e1 en las \u00faltimas p\u00e1ginas del peri\u00f3dico, en astrolog\u00eda o en ciertos caballeros de un conocido anime. Lo cierto es que desde que los hombres empezaron a mirar el cielo y ver cosas...",
+            "date": "2015-05-03",
+            "categories": "zodiaco",
+            "tags": "cosas,astrolog\u00eda,zodiaco,caballeros,anime",
+            "recuweb_url": "http://es.recuweb.com/zodiaco/es.paperblog.com/2015/05/el-zodiaco-en-astronom%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/el-zodiaco-en-astronomia-3189385/"
+        },
+        "diariolanube.com/2015/05/hor%C3%B3scopo-hoy-acuario-domingo-3-mayo": {
+            "title": "Hor\u00f3scopo hoy Acuario domingo 3 mayo...",
             "snippet": "Aquarius o Acuario () es el und\u00e9cimo signo del zodiaco, el sexto de naturaleza positiva (masculina) y el cuarto de cualidad fija junto con Tauro, Leo y Escorpi\u00f3n. Simboliza la revoluci\u00f3n y su s\u00edmbolo representa el agua; pertenece junto a...",
-            "date": "2015-05-02",
+            "date": "2015-05-03",
             "categories": "naturaleza,zodiaco",
             "tags": "signo,hor\u00f3scopo,zodiaco",
-            "recuweb_url": "http://es.recuweb.com/zodiaco/diariolanube.com/2015/05/hor%C3%B3scopo-hoy-acuario-s%C3%A1bado-2-mayo",
+            "recuweb_url": "http://es.recuweb.com/zodiaco/diariolanube.com/2015/05/hor%C3%B3scopo-hoy-acuario-domingo-3-mayo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
-            "source_url": "http://diariolanube.com/horoscopo-hoy-acuario-sabado-2-mayo-2015/2015/05/02/"
+            "source_url": "http://diariolanube.com/horoscopo-hoy-acuario-domingo-3-mayo-2015/2015/05/03/"
         },
         "hobbyconsolas.com/2015/04/ganadores-del-concurso-saint-seiya-la-leyenda-santuario-gana-packs": {
             "title": "Ganadores del concurso Saint Seiya: La Leyenda del Santuario. \u00a1Gana packs de la serie!",
             "snippet": "El 6 de marzo se estrena en cines Saint Seiya: La Leyenda del Santuario, la nueva pel\u00edcula de Los Caballeros del Zodiaco. Para celebrarlo, Selecta Visi\u00f3n, Alfa Pictures y Hobby Consolas sortean tres packs de la serie con los 18 primeros...",
             "date": "2015-04-30",
             "categories": "zodiaco",
-            "tags": "serie,saint,saint_seiya,seiya,leyenda,santuario,nueva,caballeros,zodiaco",
+            "tags": "serie,nueva,saint,saint_seiya,seiya,leyenda,santuario,caballeros,zodiaco",
             "recuweb_url": "http://es.recuweb.com/zodiaco/hobbyconsolas.com/2015/04/ganadores-del-concurso-saint-seiya-la-leyenda-santuario-gana-packs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
             "source_url": "http://hobbyconsolas.com/reportajes/ganadores-concurso-saint-seiya-leyenda-santuario-gana-packs-serie-110964"
@@ -36,7 +46,7 @@
             "snippet": "Son de las que te matan con la mirada, los arranques de ira son su arma m\u00e1s frecuente, y asustan hasta al mejor de sus amigos. Ya que no suelen mostrar sus emociones, aunque por dentro sean otro mundo. Se defienden con garras, u\u00f1as y dientes,...",
             "date": "2015-04-30",
             "categories": "zodiaco",
-            "tags": "aunque,signo,zod\u00edaco,mundo",
+            "tags": "son,signo,zod\u00edaco,mundo",
             "recuweb_url": "http://es.recuweb.com/zodiaco/sanjuan8.com/2015/04/seg%C3%BAn-su-signo-del-zod%C3%ADaco-cada-mujer-se-enoja-distinto",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
             "source_url": "http://sanjuan8.com/mundo/Segun-su-signo-del-zodiaco-cada-mujer-se-enoja-distinto-20150429-0053.html"
@@ -46,7 +56,7 @@
             "snippet": "Soul of Gold, que traducido al espa\u00f1ol significa (alma de oro) es el nombre con el que fue bautizada la neuva temporada de la legendaria serie que narra la historia de Seiya, Shaka, Saga e Ikki y los otros guerreros de oro. La nueva serie de los...",
             "date": "2015-04-28",
             "categories": "zodiaco",
-            "tags": "serie,saint,saint_seiya,seiya,caballeros,zodiaco,espa\u00f1ol,saga,nueva",
+            "tags": "nueva,serie,saint,saint_seiya,seiya,caballeros,zodiaco,espa\u00f1ol",
             "recuweb_url": "http://es.recuweb.com/zodiaco/direct.ecuavisa.com/2015/04/los-caballeros-del-zodiaco-vuelven-con-saint-seiya-soul-of-gold",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
             "source_url": "http://direct.ecuavisa.com/articulo/entretenimiento/espectaculo/107051-caballeros-del-zodiaco-vuelven-saint-seiya-soul-gold"
@@ -56,7 +66,7 @@
             "snippet": "\u00bfHola c\u00f3mo andan? Del nuevo Extremo esta sacando una nueva novela llamada Zod\u00edaco y el d\u00eda de hoy les vengo a compartir un poco sobre Piscis:D Color: plataCaracter\u00edstica principal: EspiritualidadConstelaci\u00f3n: El pez. 1 gran planeta...",
             "date": "2015-04-25",
             "categories": "planeta,zodiaco",
-            "tags": "gran,poco,tour,zod\u00edaco,piscis,nueva,color",
+            "tags": "gran,poco,nueva,zod\u00edaco,nuevo",
             "recuweb_url": "http://es.recuweb.com/zodiaco/es.paperblog.com/2015/04/blog-tour-zod%C3%ADaco-piscis",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/blog-tour-zodiaco-piscis-3177774/"
@@ -71,45 +81,35 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
             "source_url": "http://peru.com/entretenimiento/extramania/caballeros-zodiaco-muerte-patriarca-shion-video-noticia-349846"
         },
-        "colombia.com/2015/04/los-caballeros-del-zod%C3%ADaco-renacen-en-internet-comunicado-de-prensa": {
-            "title": "'Los Caballeros del Zod\u00edaco'renacen en internet - (Comunicado de prensa)...",
-            "snippet": "(Comunicado de prensa)'Los Caballeros del Zod\u00edaco'renacen en internet (Comunicado de prensa)Los fan\u00e1ticos de 'Caballeros del Zod\u00edaco'(creados por Masami Kurumada) pueden disfrutar de la serie que arranc\u00f3 con su primer cap\u00edtulo el 11 de abril y...",
-            "date": "2015-04-23",
-            "categories": "internet,zodiaco",
-            "tags": "serie,caballeros,zod\u00edaco",
-            "recuweb_url": "http://es.recuweb.com/zodiaco/colombia.com/2015/04/los-caballeros-del-zod%C3%ADaco-renacen-en-internet-comunicado-de-prensa",
-            "resource_url": "http://news.google.es/?hl=es&q=zodiaco%2Bzodiaco&output=atom&nord=1",
-            "source_url": "http://colombia.com/entretenimiento/television/noticias/sdi/114135/los-caballeros-del-zodiaco-renacen-en-internet"
-        },
         "que.es/2015/04/as%C3%AD-eres-en-la-cama-seg%C3%BAn-tu-signo-del-zodiaco": {
             "title": "As\u00ed eres en la cama seg\u00fan tu signo del zodiaco...",
             "snippet": "Creer o no creer depende solo de uno mismo, pero lo cierto es que los amantes de la astrolog\u00eda tambi\u00e9n aseguran que la actividad sexual est\u00e1 marcada por el hor\u00f3scopo. De esta forma, hay personas que consideran este punto a la hora de acostarse...",
             "date": "2015-04-23",
             "categories": "zodiaco",
-            "tags": "hor\u00f3scopo,signo,zodiaco",
+            "tags": "astrolog\u00eda,hor\u00f3scopo,signo,zodiaco",
             "recuweb_url": "http://es.recuweb.com/zodiaco/que.es/2015/04/as%C3%AD-eres-en-la-cama-seg%C3%BAn-tu-signo-del-zodiaco",
             "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
             "source_url": "http://que.es/ultimas-noticias/sociedad/201504240802-eres-cama-segun-signo-zodiaco.html"
-        },
-        "es.paperblog.com/2015/04/blog-tour-zod%C3%ADaco-casa-capricornio": {
-            "title": "Blog Tour: Zod\u00edaco - Casa Capricornio...",
-            "snippet": "no s\u00e9, me llama. A mi me toc\u00f3 traerles hoy a Capricornio, lo cual me encanta ya que, aunque yo sea de Piscis, el blog es de Capricornio:P (si el blog tiene fecha de aniversario, tiene signo del zodiaco, y que nadie me lo discuta, ok?) (?) Color...",
-            "date": "2015-04-22",
-            "categories": "zodiaco",
-            "tags": "signo,aunque,tour,zod\u00edaco,zodiaco,piscis,color",
-            "recuweb_url": "http://es.recuweb.com/zodiaco/es.paperblog.com/2015/04/blog-tour-zod%C3%ADaco-casa-capricornio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=zodiaco&format=RSS&cc=es",
-            "source_url": "http://es.paperblog.com/blog-tour-zodiaco-casa-capricornio-3173561/"
         },
         "publimetro.com.mx/2015/04/fotos-21-cosas-que-no-sab%C3%ADan-de-los-caballeros-del-zodiaco": {
             "title": "FOTOS: 21 cosas que no sab\u00edan de Los Caballeros del Zodiaco - Publimetro...",
             "snippet": "PublimetroFOTOS: 21 cosas que no sab\u00edan de \"Los Caballeros del Zodiaco\"PublimetroPor esta raz\u00f3n, \"Caballeros del Zodiaco\" sigue siendo un gran referente para quienes crecieron con esta serie hace 20 a\u00f1os. Hace poco, Cartoon Network transmiti\u00f3...",
             "date": "2015-04-21",
             "categories": "zodiaco",
-            "tags": "caballeros,zodiaco,gran,serie,poco",
+            "tags": "caballeros,zodiaco,gran,serie,cosas,poco",
             "recuweb_url": "http://es.recuweb.com/zodiaco/publimetro.com.mx/2015/04/fotos-21-cosas-que-no-sab%C3%ADan-de-los-caballeros-del-zodiaco",
-            "resource_url": "http://news.google.es/?hl=es&q=zodiaco%2Bzodiaco&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=zodiaco&output=atom&nord=1",
             "source_url": "http://publimetro.com.mx/entretenimiento/fotos-21-cosas-que-no-sabian-de-los-caballeros-del-zodiaco/XeSodu!fKJNaUJpajQf92tewi_LDQ/"
+        },
+        "nuevodiarioweb.com.ar/2015/04/descubr%C3%AD-los-signos-m%C3%A1s-infieles-del-zod%C3%ADaco-cu%C3%A1les-son-nuevo-diario": {
+            "title": "Descubr\u00ed los signos m\u00e1s infieles del zod\u00edaco: \u00bfCu\u00e1les son? - Nuevo Diario de Santiago del...",
+            "snippet": "Nuevo Diario de Santiago del EsteroDescubr\u00ed los signos m\u00e1s infieles del zod\u00edaco: \u00bfCu\u00e1les son?Nuevo Diario de Santiago del EsteroLos geminianos(as) son considerados uno de los signos m\u00e1s infieles del zodiaco, esto es por su car\u00e1cter variable y...",
+            "date": "2015-04-16",
+            "categories": "zodiaco",
+            "tags": "son,nuevo,zod\u00edaco,zodiaco",
+            "recuweb_url": "http://es.recuweb.com/zodiaco/nuevodiarioweb.com.ar/2015/04/descubr%C3%AD-los-signos-m%C3%A1s-infieles-del-zod%C3%ADaco-cu%C3%A1les-son-nuevo-diario",
+            "resource_url": "http://news.google.es/?hl=es&q=zodiaco&output=atom&nord=1",
+            "source_url": "http://nuevodiarioweb.com.ar/nota/mujer/599767/descubri-signos-mas-infieles-zodiaco-cuales-son.html"
         }
     }
 }

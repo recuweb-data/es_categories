@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lenguajes-web",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lenguajes-web/",
@@ -11,15 +11,53 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lenguajes-web/lenguajes-web/blogs.json"
     },
     "items": {
-        "unocero.com/2015/05/microsoft-libera-entorno-de-programaci%C3%B3n-para-linux-mac-y-windows-unocero": {
-            "title": "Microsoft libera entorno de programaci\u00f3n para Linux, Mac y Windows - unocero...",
-            "snippet": "unoceroMicrosoft libera entorno de programaci\u00f3n para Linux, Mac y WindowsunoceroArquitect\u00f3nicamente Visual Studio Code combina lo mejor de la web, c\u00f3digo nativo y tecnolog\u00edas espec\u00edficas de los lenguajes. Usando GitHub Electron Shell, Code...",
+        "consumer.es/2015/05/cinco-modelos-de-disco-duro-externo": {
+            "title": "Cinco modelos de disco duro externo...",
+            "snippet": "Se configura como servidor y soporta los lenguajes FTP, MySQL y HTML para que se pueda instalar un CMS (publicador de contenidos) o herramientas web de todo tipo. Un punto interesante de WEDG es que se liberar\u00e1 una API (instrucciones de...",
+            "date": "2015-05-05",
+            "categories": "disco-duro,mysql,html",
+            "tags": "herramientas,instalar,servidor,lenguajes,html,web",
+            "recuweb_url": "http://es.recuweb.com/html/consumer.es/2015/05/cinco-modelos-de-disco-duro-externo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blenguajes%2Bweb&format=RSS&cc=es",
+            "source_url": "http://consumer.es/web/es/tecnologia/hardware/2015/05/05/221857.php"
+        },
+        "unocero.com/2015/05/una-serie-radiof%C3%B3nica-sobre-c%C3%B3digos-que-cambiaron-al-mundo": {
+            "title": "Una serie radiof\u00f3nica sobre c\u00f3digos que cambiaron al mundo...",
+            "snippet": "La BBC Radio 4 es una estaci\u00f3n... el control de la web a los programadores, despu\u00e9s de la invenci\u00f3n de HTML que permit\u00eda que cualquiera hiciese p\u00e1ginas simples para Internet. Ahora se habla de que Java podr\u00eda ser uno de los lenguajes m\u00e1s...",
+            "date": "2015-05-05",
+            "categories": "radio,html,internet,java",
+            "tags": "web,html,p\u00e1ginas,lenguajes",
+            "recuweb_url": "http://es.recuweb.com/java/unocero.com/2015/05/una-serie-radiof%C3%B3nica-sobre-c%C3%B3digos-que-cambiaron-al-mundo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blenguajes%2Bweb&format=RSS&cc=es",
+            "source_url": "http://unocero.com/2015/05/05/codigo-que-cambio-al-mundo/"
+        },
+        "unocero.com/2015/05/microsoft-libera-entorno-de-programaci%C3%B3n-para-linux-mac-y-windows": {
+            "title": "Microsoft libera entorno de programaci\u00f3n para Linux, Mac y Windows...",
+            "snippet": "Lo que hizo posible este trabajo es que el equipo de lenguajes.NET se movi\u00f3 de la vieja infraestructura del compilador al nuevo compilador Roslyn. El IDE entonces puede pensarse como una aplicaci\u00f3n web local. Arquitect\u00f3nicamente Visual Studio...",
             "date": "2015-05-01",
-            "categories": "tecnologia",
-            "tags": "programaci\u00f3n,web,lenguajes",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/unocero.com/2015/05/microsoft-libera-entorno-de-programaci%C3%B3n-para-linux-mac-y-windows-unocero",
-            "resource_url": "http://news.google.es/?hl=es&q=lenguajes%2Bweb%2Blenguajes%2Bweb&output=atom&nord=1",
+            "tags": "microsoft,programaci\u00f3n,lenguajes,web",
+            "recuweb_url": "http://es.recuweb.com/unocero.com/2015/05/microsoft-libera-entorno-de-programaci%C3%B3n-para-linux-mac-y-windows",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blenguajes%2Bweb&format=RSS&cc=es",
             "source_url": "http://unocero.com/2015/05/01/microsoft-libera-entorno-de-programacion-para-linux-mac-y-windows/"
+        },
+        "genbeta.com/2013/10/c%C3%B3mo-instalar-un-servidor-web-dom%C3%A9stico-paso-a-parte-2-genbeta": {
+            "title": "C\u00f3mo instalar un servidor web dom\u00e9stico paso a paso (parte 2) - Genbeta...",
+            "snippet": "GenbetaC\u00f3mo instalar un servidor web dom\u00e9stico paso a paso (parte 2)GenbetaIIS permite construir aplicaciones web de gran complejidad. Podemos extender las funciones de IIS a\u00f1adiendo soporte para otros lenguajes de programaci\u00f3n y bases de datos...",
+            "date": "2013-10-29",
+            "tags": "aplicaciones,instalar,servidor,c\u00f3mo,web,parte,lenguajes,programaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/genbeta.com/2013/10/c%C3%B3mo-instalar-un-servidor-web-dom%C3%A9stico-paso-a-parte-2-genbeta",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Blenguajes%2Bweb&output=atom&nord=1",
+            "source_url": "http://genbeta.com/paso-a-paso/como-instalar-un-servidor-web-domestico-paso-a-paso-parte-2"
+        },
+        "nodo9.com/2011/11/diplomado-microsoft-de-html5-gratis": {
+            "title": "Diplomado Microsoft de HTML5 Gratis -...",
+            "snippet": "Diplomado Microsoft de HTML5 curso est\u00e1 dirigido a personas de toda Latino Am\u00e9rica, sin experiencia en HTML, CSS o JavaScript y que desean conocer los fundamentos de dichos lenguajes para empezar a desarrollar aplicaciones Web. En el se...",
+            "date": "2011-11-14",
+            "categories": "html,css,javascript",
+            "tags": "aplicaciones,curso,microsoft,html,javascript,lenguajes,web",
+            "recuweb_url": "http://es.recuweb.com/javascript/nodo9.com/2011/11/diplomado-microsoft-de-html5-gratis",
+            "resource_url": "http://news.google.es/?hl=es&q=es%2Blocalhost%2Bcom%2Blenguajes%2Bweb&output=atom&nord=1",
+            "source_url": "http://nodo9.com/2011/11/14/diplomado-microsoft-de-html5-gratis/"
         }
     }
 }

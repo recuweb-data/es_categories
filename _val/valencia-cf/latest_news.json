@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "valencia-cf",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/valencia-cf/",
@@ -11,98 +11,97 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/valencia-cf/valencia-cf/blogs.json"
     },
     "items": {
-        "superdeporte.es/2015/05/el-sevilla-se-cambiar%C3%ADa-por-nosotros": {
-            "title": "El Sevilla se cambiar\u00eda por nosotros...",
+        "superdeporte.es/2015/05/asado-de-ayala-para-la-plantilla-del-valencia-mestalla": {
+            "title": "Asado de Ayala para la plantilla del Valencia Mestalla...",
+            "snippet": "El exjugador argentino del Valencia CF y actual miembro de la secretar\u00eda t\u00e9cnica, prepar\u00f3 un asado para los canteranos, con la finalidad de hacer pi\u00f1a de cara al importante partido que este fin de semana tiene el Valencia Mestalla, en su camino...",
+            "date": "2015-05-07",
+            "tags": "partido,tiene,valencia,mestalla",
+            "recuweb_url": "http://es.recuweb.com/superdeporte.es/2015/05/asado-de-ayala-para-la-plantilla-del-valencia-mestalla",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvalencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://superdeporte.es/valencia/2015/05/07/asado-ayala-plantilla-valencia-mestalla/256725.html"
+        },
+        "abc.es/2015/05/el-valencia-prepara-la-visita-al-bernab%C3%A9u": {
+            "title": "El Valencia prepara la visita al Bernab\u00e9u...",
+            "snippet": "El Valencia CF ha entrenado esta ma\u00f1ana para preparar la esperada visita al Santiago Bernab\u00e9u, donde el equipo valencianista buscar\u00e1 sorprender y llevarse una victoria important\u00edsima para la lucha por los puestos de Liga de Campeones. La sesi\u00f3n...",
+            "date": "2015-05-07",
+            "tags": "equipo,valencia,liga",
+            "recuweb_url": "http://es.recuweb.com/abc.es/2015/05/el-valencia-prepara-la-visita-al-bernab%C3%A9u",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvalencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://abc.es/videos-futbol/20150507/valencia-prepara-visita-bernabeu-4222835459001.html"
+        },
+        "levante-emv.com/2015/05/el-valencia-quiere-salvar-a-rodrigo": {
+            "title": "El Valencia quiere salvar a Rodrigo...",
+            "snippet": "Con independencia de si finalmente podr\u00e1 estar o no en la \u00faltima jornada de liga, lo que exige el Valencia CF es que se juzguen todas las acciones similares por igual.",
+            "date": "2015-05-07",
+            "tags": "jornada,liga,\u00fal,quiere,valencia,rodrigo",
+            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/05/el-valencia-quiere-salvar-a-rodrigo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvalencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://levante-emv.com/valencia-cf/2015/05/07/valencia-quiere-salvar-rodrigo/1261111.html"
+        },
+        "levante-emv.com/2015/05/el-valencia-y-estrella-damm-renuevan-su-colaboraci%C3%B3n-hasta-2018": {
+            "title": "El Valencia y Estrella Damm renuevan su colaboraci\u00f3n hasta 2018...",
+            "snippet": "El patrocinio de Damm comenz\u00f3 hace ocho a\u00f1os y seg\u00fan apunt\u00f3 Crous conf\u00eda en que la relaci\u00f3n entre ambos sea a\u00fan m\u00e1s amplia y llegue hasta el 2019, cuando el Valencia CF estrenar\u00e1 su nuevo estadio. Hoy es un gran d\u00eda. El Valencia es un...",
+            "date": "2015-05-07",
+            "categories": "estrella",
+            "tags": "d\u00eda,valencia",
+            "recuweb_url": "http://es.recuweb.com/estrella/levante-emv.com/2015/05/el-valencia-y-estrella-damm-renuevan-su-colaboraci%C3%B3n-hasta-2018",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvalencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://levante-emv.com/valencia-cf/2015/05/07/valencia-estrella-damm-renuevan-colaboracion/1261387.html"
+        },
+        "deportevalenciano.com/2015/05/m%C3%A1ximo-respeto-al-valencia": {
+            "title": "M\u00e1ximo respeto al Valencia...",
+            "snippet": "Carlo Ancelotti, entrenador del Real Madrid, no rotar\u00e1 a sus estrellas en el partido de liga ante el Valencia CF ya que le tiene m\u00e1ximo respeto... alejar\u00edan much\u00edsimo del t\u00edtulo si el Barcelona es capaz de ganar su partido ante la Real...",
+            "date": "2015-05-07",
+            "categories": "estrella,realmadrid",
+            "tags": "partido,tiene,liga,madrid,valencia",
+            "recuweb_url": "http://es.recuweb.com/realmadrid/deportevalenciano.com/2015/05/m%C3%A1ximo-respeto-al-valencia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bvalencia%2Bcf&format=RSS&cc=es",
+            "source_url": "http://deportevalenciano.com/2015/05/07/maximo-respeto-valencia"
+        },
+        "superdeporte.es/2015/05/dani-parejo-el-sevilla-se-cambiar%C3%ADa-por-nosotros": {
+            "title": "Dani Parejo: El Sevilla se cambiar\u00eda por nosotros...",
             "snippet": "GarroteRBN El capit\u00e1n del Valencia CF, Dani Parejo, ha afirmado que todav\u00eda no sabe qu\u00e9 va a pasar con su futuro, pero que est\u00e1 tranquilo porque est\u00e1 muy contento en el equipo. Tambi\u00e9n insiste en que est\u00e1n en mejor situaci\u00f3n que el...",
-            "date": "2015-05-02",
-            "tags": "est\u00e1n,mejor,muy,equipo,sabe,dani,dani_parejo,parejo,sevilla,valencia",
-            "recuweb_url": "http://es.recuweb.com/superdeporte.es/2015/05/el-sevilla-se-cambiar%C3%ADa-por-nosotros",
+            "date": "2015-05-03",
+            "tags": "mejor,equipo,dani,dani_parejo,parejo,valencia",
+            "recuweb_url": "http://es.recuweb.com/superdeporte.es/2015/05/dani-parejo-el-sevilla-se-cambiar%C3%ADa-por-nosotros",
             "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
             "source_url": "http://superdeporte.es/valencia/2015/05/02/sevilla-cambiaria/256229.html"
         },
-        "levante-emv.com/2015/05/mi-renovaci%C3%B3n-est%C3%A1-muy-avanzada": {
-            "title": "Mi renovaci\u00f3n est\u00e1 muy avanzada...",
-            "snippet": "Ser\u00e1 el n\u00famero 1 de toda Espa\u00f1a. Esperemos que alg\u00fan d\u00eda capitane\u00e9 al Valencia CF, explic\u00f3, antes de entregarle una escultura del jugador en plena acci\u00f3n. Alc\u00e1cer tambi\u00e9n tom\u00f3 la palabra. En su caso, tambi\u00e9n, para elogiar al joven...",
-            "date": "2015-05-02",
-            "categories": "escultura",
-            "tags": "antes,muy,ser\u00e1,espa\u00f1a,valencia",
-            "recuweb_url": "http://es.recuweb.com/escultura/levante-emv.com/2015/05/mi-renovaci%C3%B3n-est%C3%A1-muy-avanzada",
+        "europapress.es/2015/05/el-valencia-refuerza-su-objetivo-champions-y-elche-logra-la-salvaci%C3%B3n": {
+            "title": "El Valencia refuerza su objetivo Champions y el Elche logra la salvaci\u00f3n...",
+            "snippet": "El Valencia CF sigue en la pelea por la tercera plaza tras vencer este domingo al Eibar (3-1) en Mestalla, duelo correspondiente a la trig\u00e9simo quinta jornada de la Liga BBVA, mientras que el Elche logra la salvaci\u00f3n matem\u00e1tica tras vencer al...",
+            "date": "2015-05-03",
+            "tags": "liga,liga_bbva,bbva,jornada,domingo,refuerza,valencia,champions,eibar,mestalla",
+            "recuweb_url": "http://es.recuweb.com/europapress.es/2015/05/el-valencia-refuerza-su-objetivo-champions-y-elche-logra-la-salvaci%C3%B3n",
             "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://levante-emv.com/valencia-cf/2015/05/02/renovacion-avanzada/1259130.html"
+            "source_url": "http://europapress.es/deportes/futbol-00162/noticia-valencia-refuerza-objetivo-champions-elche-logra-salvacion-20150503231258.html"
         },
-        "superdeporte.es/2015/05/el-valencia-cf-celebra-nuevo-decreto-televisivo": {
-            "title": "El Valencia CF celebra el nuevo decreto televisivo...",
-            "snippet": "SUPERDEPORTE_ES En el Valencia CF est\u00e1n satisfechos con la aprobaci\u00f3n del Real Decreto que obligar\u00e1 a la venta centralizada de los derechos de televisi\u00f3n de la Liga. Lo considera un primer paso para alcanzar el objetivo de incrementar los...",
-            "date": "2015-05-02",
-            "categories": "television",
-            "tags": "considera,considera-un-primer,primer,primer-paso,paso,paso-para-alcanzar,alcanzar,alcanzar-el-objetivo,objetivo,objetivo-de-incrementar,incrementar,obligar\u00e1,obligar\u00e1-la-venta,venta,venta-centralizada,centralizada,derechos,derechos-de-televisi\u00f3n,televisi\u00f3n,real,real_decreto,decreto,est\u00e1n,est\u00e1n-satisfechos,satisfechos,aprobaci\u00f3n,nuevo,valencia,liga",
-            "recuweb_url": "http://es.recuweb.com/television/superdeporte.es/2015/05/el-valencia-cf-celebra-nuevo-decreto-televisivo",
+        "levante-emv.com/2015/05/el-club-decide-no-bajar-valor-de-su-camiseta": {
+            "title": "El club decide no bajar el valor de su camiseta...",
+            "snippet": "pau fuster valencia La llegada de Peter Draper, que refuerza al Valencia CF en el \u00e1rea de marketing como Jefe de Ventas, no ha significado un cambio en la estrategia de patrocinios y en las \u00faltimas conversaciones que han tenido con el Consejo...",
+            "date": "2015-05-03",
+            "tags": "\u00fal,refuerza,club,valencia",
+            "recuweb_url": "http://es.recuweb.com/levante-emv.com/2015/05/el-club-decide-no-bajar-valor-de-su-camiseta",
             "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://superdeporte.es/valencia/2015/05/01/club-celebra-decreto-televisivo/256102.html"
-        },
-        "vavel.com/2015/05/fotos-e-im%C3%A1genes-del-rayo-vallecano-1-valencia-cf-jornada-34": {
-            "title": "Fotos e im\u00e1genes del Rayo Vallecano 1-1 Valencia CF, jornada 34... -...",
-            "snippet": "e im\u00e1genes del Rayo Vallecano 1-1 Valencia CF, jornada 34...... ocasiones para el Rayo Vallecano. El partido acababa con una expulsi\u00f3n de Rodrigo por parte del Valencia con un encontronazo con To\u00f1o, Un punto para el Rayo Vallecano que una vez...",
-            "date": "2015-05-02",
-            "tags": "punto,partido,ocasiones,rayo,rayo_vallecano,vallecano,fotos,valencia,jornada,rodrigo,to\u00f1o",
-            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/05/fotos-e-im%C3%A1genes-del-rayo-vallecano-1-valencia-cf-jornada-34",
-            "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf&output=atom&nord=1",
-            "source_url": "http://vavel.com/es/futbol/rayo-vallecano/483460-fotos-e-imagenes-del-rayo-vallecano-1-1-valencia-c-f-de-la-jornada-34-de-la-liga-bbva.html"
+            "source_url": "http://levante-emv.com/valencia-cf/2015/05/03/club-decide-bajar-camiseta/1259460.html"
         },
         "vavel.com/2015/05/valencia-cf-sd-eibar-sin-margen-de-error": {
             "title": "Valencia CF - SD Eibar: sin margen de error...",
             "snippet": "Cuatro jornadas para el final del campeonato liguero. Todo en juego. La liga, la champions y el descenso. Mestalla ser\u00e1 el pr\u00f3ximo domingo testigo de una batalla con el devenir de estas ultimas dos en el aire. Se persiguen distintas metas, pero...",
-            "date": "2015-05-02",
-            "tags": "ser\u00e1,champions,valencia,liga,mestalla",
+            "date": "2015-05-03",
+            "tags": "domingo,champions,valencia,eibar,liga,mestalla",
             "recuweb_url": "http://es.recuweb.com/vavel.com/2015/05/valencia-cf-sd-eibar-sin-margen-de-error",
             "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
             "source_url": "http://vavel.com/es/futbol/valencia-cf/483931-valencia-c-f-s-d-eibar-sin-margen-de-error.html"
         },
-        "levante-emv.com/2015/05/el-valencia-cf-ser%C3%A1-de-los-menos-beneficiados-en-nuevo-reparto": {
-            "title": "El Valencia CF ser\u00e1 de los menos beneficiados en el nuevo reparto...",
-            "snippet": "p. fuster madrid En el Valencia CF est\u00e1n satisfechos con la aprobaci\u00f3n del Real Decreto que obligar\u00e1 a la venta centralizada de los derechos de televisi\u00f3n de la Liga. Lo considera un primer paso para alcanzar el objetivo de incrementar los...",
-            "date": "2015-05-01",
-            "categories": "television",
-            "tags": "considera,considera-un-primer,primer,primer-paso,paso,paso-para-alcanzar,alcanzar,alcanzar-el-objetivo,objetivo,objetivo-de-incrementar,incrementar,obligar\u00e1,obligar\u00e1-la-venta,venta,venta-centralizada,centralizada,derechos,derechos-de-televisi\u00f3n,televisi\u00f3n,real,real_decreto,decreto,est\u00e1n,est\u00e1n-satisfechos,satisfechos,aprobaci\u00f3n,ser\u00e1,nuevo,valencia,madrid,liga",
-            "recuweb_url": "http://es.recuweb.com/television/levante-emv.com/2015/05/el-valencia-cf-ser%C3%A1-de-los-menos-beneficiados-en-nuevo-reparto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://levante-emv.com/deportes/2015/05/01/valencia-cf-sera-beneficiados-nuevo/1258523.html"
-        },
-        "vlcnoticias.com/2015/05/parejo-rescata-para-el-vcf-un-punto-que-sabe-a-champions": {
-            "title": "Parejo rescata para el VCF un punto que sabe a Champions (1-1)...",
-            "snippet": "Valencia Noticias VCF.- El Valencia CF s\u00f3lo pudo traerse de Vallecas un empate ante el Rayo por 1-1, en un encuentro raro y loco en el que los de Mestalla gozaron de m\u00faltiples ocasiones, pero sin punter\u00eda ante un rival voluntarioso. Lo mejor...",
-            "date": "2015-05-01",
-            "tags": "ocasiones,valencia,noticias,punto,sabe,parejo,vcf,champions,rayo,mestalla,mejor",
-            "recuweb_url": "http://es.recuweb.com/vlcnoticias.com/2015/05/parejo-rescata-para-el-vcf-un-punto-que-sabe-a-champions",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://vlcnoticias.com/parejo-rescata-para-el-vcf-un-punto-que-sabe-a-champions-1-1/"
-        },
-        "eldiario.es/2015/04/el-valencia-cf-carga-contra-unos-estudiantes-que-exhibieron-una-estelada": {
-            "title": "El Valencia CF carga contra unos estudiantes que exhibieron una estelada en una visita a Mestalla...",
-            "snippet": "El Valencia CF ha cargado contra la exhibici\u00f3n que hicieron un grupo de alumnos de secundaria de la localidad de Berga de una estelada (bandera independentista catalana) en el estadio de Mestalla durante una visita tur\u00edstica. Los j\u00f3venes, del...",
-            "date": "2015-04-30",
-            "tags": "valencia,mestalla",
-            "recuweb_url": "http://es.recuweb.com/eldiario.es/2015/04/el-valencia-cf-carga-contra-unos-estudiantes-que-exhibieron-una-estelada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://eldiario.es/cv/Valencia-CF-estudiantes-exhibieron-Mestalla_0_382512550.html"
-        },
-        "vavel.com/2015/04/valencia-cf-granada-puntuaciones-del-jornada": {
-            "title": "Valencia CF - Granada CF: puntuaciones del Granada CF, jornada... -...",
-            "snippet": "CF - Granada CF: puntuaciones del Granada CF, jornada... equipo granadino solo aguant\u00f3 25 minutos la embestida valencianista A partir del primer gol, el equipo de Abel Resino no supo qu\u00e9 hacer y acab\u00f3 recibiendo otro antes del descanso, tras un...",
-            "date": "2015-04-28",
-            "tags": "antes,equipo,primer,valencia,jornada",
-            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/04/valencia-cf-granada-puntuaciones-del-jornada",
+        "vavel.com/2015/05/valencia-cf-vs-sd-eibar-preview-three-points-key-for-both": {
+            "title": "Valencia CF vs SD Eibar Preview: Three Points Key for Both Sides... -...",
+            "snippet": "CF vs SD Eibar Preview: Three Points Key for Both Sides... on the other hand are trying to recover from that startling 1-1 draw with Rayo in midweek. Usually one of the better keepers in the league, Diego Alves'gaffe on 20 minutes saw Adrian...",
+            "date": "2015-05-03",
+            "tags": "diego,alves,eibar,valencia,rayo",
+            "recuweb_url": "http://es.recuweb.com/vavel.com/2015/05/valencia-cf-vs-sd-eibar-preview-three-points-key-for-both",
             "resource_url": "http://news.google.es/?hl=es&q=valencia%2Bcf&output=atom&nord=1",
-            "source_url": "http://vavel.com/es/futbol/granada-cf/482067-valencia-cf-granada-cf-puntuaciones-del-granada-cf-jornada-33-liga.html"
-        },
-        "vlcnoticias.com/2015/04/el-valencia-cf-reafirma-su-cuarta-plaza-a-base-de-goles": {
-            "title": "El Valencia CF reafirma su cuarta plaza a base de goles (4-0)...",
-            "snippet": "Valencia Noticias Javier Furi\u00f3. Fotos: VCF.- Mucho va a tener que pelear el Sevilla FC de Emery para arrebatarle a este Valencia CF arrollador, imparable en su campo pese a los obst\u00e1culos que le pongan delante desde los despachos. Da igual que...",
-            "date": "2015-04-27",
-            "tags": "valencia,noticias,goles,fotos,vcf,sevilla",
-            "recuweb_url": "http://es.recuweb.com/vlcnoticias.com/2015/04/el-valencia-cf-reafirma-su-cuarta-plaza-a-base-de-goles",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=valencia%2Bcf&format=RSS&cc=es",
-            "source_url": "http://vlcnoticias.com/el-valencia-cf-reafirma-su-cuarta-plaza-a-base-de-goles-4-0/"
+            "source_url": "http://vavel.com/en/international-football/spain-la-liga/484338-valencia-cf-vs-sd-eibar-preview-three-points-key-for-both-sides-but-for-different-reasons.html"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mac-pro",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/mac-pro/",
@@ -11,14 +11,62 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/mac-pro/mac-pro/blogs.json"
     },
     "items": {
+        "faq-mac.com/2015/05/fotos-para-mac-cambios-en-los-metadatos-por-lotes": {
+            "title": "Fotos para Mac: cambios en los metadatos por lotes...",
+            "snippet": "Una de ellas es el cambio por lotes, que permite modificar los metadatos de varias fotograf\u00edas seleccionadas de una sola vez. Mientras Apple no a\u00f1ada esta caracter\u00edstica a Fotos, hay que rodear este problema y una de las opciones es utilizar...",
+            "date": "2015-05-06",
+            "categories": "fotografia",
+            "tags": "apple,varias,mac",
+            "recuweb_url": "http://es.recuweb.com/fotografia/faq-mac.com/2015/05/fotos-para-mac-cambios-en-los-metadatos-por-lotes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmac%2Bpro&format=RSS&cc=es",
+            "source_url": "http://faq-mac.com/2015/05/fotos-para-mac-cambios-en-el-titulo-por-lotes/"
+        },
+        "es.paperblog.com/2015/05/novedades-en-mac-pro-longwear-waterproof-foundation": {
+            "title": "Novedades en MAC; Pro Longwear Waterproof Foundation...",
+            "snippet": "Volvemos con m\u00e1s novedades que nos ha preparado MAC, esta vez se trata de una nueva base, la Pro Longwear Waterproof Foundation... media-total y un acabado satinado natural. Aunque es indicada para todo tipo de pieles, el que su f\u00f3rmula sea...",
+            "date": "2015-05-06",
+            "tags": "pro,pro_longwear,longwear,foundation,mac,nueva",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/05/novedades-en-mac-pro-longwear-waterproof-foundation",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmac%2Bpro&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/novedades-en-mac-pro-longwear-waterproof-foundation-3195800/"
+        },
+        "muycomputer.com/2015/05/asus-zenbook-pro-ux501-contra-macbook": {
+            "title": "ASUS ZenBook Pro UX501 contra MacBook Pro...",
+            "snippet": "Con Windows 8.1 su precio no es econ\u00f3mico y se eleva a d\u00f3lares. Un Ultrabook premium competencia directa desde Windows a los MacBook Pro de Apple. ASUS ofrecer\u00e1 este ZenBook en variantes no-Pro con el mismo dise\u00f1o, pero con panel inferior en...",
+            "date": "2015-05-03",
+            "categories": "macbook",
+            "tags": "dise\u00f1o,premium,macbook,macbook_pro,pro,apple",
+            "recuweb_url": "http://es.recuweb.com/macbook/muycomputer.com/2015/05/asus-zenbook-pro-ux501-contra-macbook",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmac%2Bpro&format=RSS&cc=es",
+            "source_url": "http://muycomputer.com/2015/05/04/zenbook-pro-ux501"
+        },
+        "actualidadipad.com/2015/05/apple-corrige-los-fallos-de-imovie-para-ios": {
+            "title": "Apple corrige los fallos de iMovie para iOS...",
+            "snippet": "el Mac Pro. Hace unos d\u00edas, Apple actualizaba iMovie en la Mac App Store, y hace unos d\u00edas ha lanzado la versi\u00f3n de la aplicaci\u00f3n dentro de la tienda de aplicaciones para iDevices, solucionando errores. iMovie y sus continuos errores que son...",
+            "date": "2015-05-03",
+            "categories": "mac-pro",
+            "tags": "mac,mac_pro,pro,apple",
+            "recuweb_url": "http://es.recuweb.com/mac-pro/actualidadipad.com/2015/05/apple-corrige-los-fallos-de-imovie-para-ios",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bpro&format=RSS&cc=es",
+            "source_url": "http://actualidadipad.com/apple-corrige-los-fallos-de-imovie-para-ios/"
+        },
+        "lanacion.com.ar/2015/05/pro-el-primer-partido-nuevo-argentina": {
+            "title": "Pro, el primer partido nuevo - (Argentina)...",
+            "snippet": "Pro, el primer partido (Argentina)No es imposible que una gesti\u00f3n colegiada de los gobernadores Rodr\u00edguez Larreta, Del Sel y Mac Alister con los senadores Pinedo y Michetti consolide la organizaci\u00f3n. Tampoco lo es que el partido se disgregue como...",
+            "date": "2015-05-03",
+            "tags": "nuevo,pro,mac",
+            "recuweb_url": "http://es.recuweb.com/lanacion.com.ar/2015/05/pro-el-primer-partido-nuevo-argentina",
+            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro&output=atom&nord=1",
+            "source_url": "http://lanacion.com.ar/1788811-pro-el-primer-partido-nuevo"
+        },
         "9to5mac.com/2015/05/review-owc-s-envoy-pro-mini-hides-a-macbook-like-ssd": {
             "title": "Review: OWC's Envoy Pro mini hides a MacBook-like SSD inside a... - 9 to 5 Mac (blog)...",
             "snippet": "9 to 5 Mac (blog)Review: OWC's Envoy Pro mini hides a MacBook-like SSD inside a...9 to 5 Mac (blog)Across the How-To guides I've written for adding solid state drives (SSDs) to iMacs, Mac Pros, Mac minis and MacBooks, there was one option I left...",
             "date": "2015-05-02",
             "categories": "macbook,imac",
-            "tags": "mini,pro,macbooks,mac,how",
+            "tags": "mini,pro,macbooks,mac,pros",
             "recuweb_url": "http://es.recuweb.com/imac/9to5mac.com/2015/05/review-owc-s-envoy-pro-mini-hides-a-macbook-like-ssd",
-            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro%2Bmac%2Bpro&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro&output=atom&nord=1",
             "source_url": "http://9to5mac.com/2015/05/02/review-owcs-envoy-pro-mini-hides-a-macbook-like-ssd-inside-a-usb-3-0-flash-drive/"
         },
         "macworld.co.uk/2015/05/apple-macbook-early-2015-review-macworld-uk": {
@@ -26,7 +74,7 @@
             "snippet": "Macworld Apple MacBook (early 2015) reviewMacworld UKThe new MacBook takes the name once assigned to the cheapest non-Pro Apple notebook but now feels every inch the premium flagship notebook, as you would expect for a low-power portable priced from...",
             "date": "2015-05-01",
             "categories": "macbook",
-            "tags": "inch,pro,apple,macworld,apple_macbook,macbook",
+            "tags": "inch,premium,pro,apple,apple_macbook,macbook",
             "recuweb_url": "http://es.recuweb.com/macbook/macworld.co.uk/2015/05/apple-macbook-early-2015-review-macworld-uk",
             "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro&output=atom&nord=1",
             "source_url": "http://macworld.co.uk/review/mac-laptops/retina-macbook-2015-review-processor-speed-benchmarks-price-3595594/"
@@ -38,76 +86,27 @@
             "categories": "macbook,ipad",
             "tags": "retina,macbook,mac,macbook_pro,pro,macbook_air,air",
             "recuweb_url": "http://es.recuweb.com/ipad/macrumors.com/2015/05/buyer-s-guide-deals-on-macbook-air-retina-pro-apps-mac",
-            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro%2Bmac%2Bpro&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro&output=atom&nord=1",
             "source_url": "http://macrumors.com/2015/05/01/buyers-guide-deals-may-1/"
         },
-        "hipertextual.com/2015/05/estas-son-las-herramientas-que-uso-para-estudiar-y-trabajar-hipertextual": {
-            "title": "Estas son las herramientas que uso para estudiar y trabajar - Hipertextual...",
-            "snippet": "HipertextualEstas son las herramientas que uso para estudiar y trabajarHipertextualMacBook Pro Retina 13 (2014). El port\u00e1til es la base de mi trabajo diario. Y ah\u00ed, la elecci\u00f3n que hice fue un MacBook Pro Retina de 13 pulgadas. Su gran autonom\u00eda...",
-            "date": "2015-05-01",
+        "pacmac.es/2015/04/nuevo-macbook-2015-hacemos-el-unboxing": {
+            "title": "Nuevo MacBook 2015, Hacemos el Unboxing...",
+            "snippet": "... que el nuevo modelo de MacBook es vuestro equipo. M\u00e1s adelante tendremos oportunidad de analizar los Pros y los Contras, nuestras primeras impresiones y el publico al que va dirigido este gran equipo Ultraportatil, el nuevo Macbook 2015.",
+            "date": "2015-04-30",
             "categories": "macbook",
-            "tags": "macbook,macbook_pro,pro,pro_retina,retina,son,uso",
-            "recuweb_url": "http://es.recuweb.com/macbook/hipertextual.com/2015/05/estas-son-las-herramientas-que-uso-para-estudiar-y-trabajar-hipertextual",
-            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro&output=atom&nord=1",
-            "source_url": "http://hipertextual.com/2015/05/software-para-estudiar-y-trabajar"
+            "tags": "nuevo,modelo,macbook,unboxing,pros",
+            "recuweb_url": "http://es.recuweb.com/macbook/pacmac.es/2015/04/nuevo-macbook-2015-hacemos-el-unboxing",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmac%2Bpro&format=RSS&cc=es",
+            "source_url": "http://pacmac.es/unboxing-del-nuevo-macbook-2015/"
         },
         "hobbyconsolas.com/2015/04/autor-tema-post-informativo-mac-los-ordenadores-de-apple-le%C3%ADdo-4": {
             "title": "Autor Tema: Post informativo Mac, los ordenadores de Apple (Le\u00eddo 4 veces)...",
             "snippet": "Y por ultimo, contamos con el Mac Pro, el mas alto de gama de todos los sobremesa de Apple, y orientado hacia el uso profesional. Su dise\u00f1o consta de un cilindro...",
             "date": "2015-04-29",
-            "tags": "uso,gama,mac,apple,pro",
+            "tags": "dise\u00f1o,mac,apple,pro",
             "recuweb_url": "http://es.recuweb.com/hobbyconsolas.com/2015/04/autor-tema-post-informativo-mac-los-ordenadores-de-apple-le%C3%ADdo-4",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bpro&format=RSS&cc=es",
             "source_url": "http://hobbyconsolas.com/foros/index.php?topic=32488.0"
-        },
-        "macworld.co.uk/2015/04/how-to-take-a-screenshot-on-mac-macworld-uk": {
-            "title": "How to take a screenshot on Mac - Macworld UK...",
-            "snippet": "Macworld UKHow to take a screenshot on MacMacworld UK(Super pro tip for Mac screenshots sent in by Lou Hattersley: Hold Ctrl when you drag the cursor and the resultant screengrab will be copied to the pasteboard - in other words, you'll be able to...",
-            "date": "2015-04-29",
-            "tags": "macworld,how,mac,pro",
-            "recuweb_url": "http://es.recuweb.com/macworld.co.uk/2015/04/how-to-take-a-screenshot-on-mac-macworld-uk",
-            "resource_url": "http://news.google.es/?hl=es&q=mac%2Bpro%2Bmac%2Bpro&output=atom&nord=1",
-            "source_url": "http://macworld.co.uk/how-to/mac/how-take-screenshot-screen-capture-grab-mac-print-3448249/"
-        },
-        "applesfera.com/2015/04/m%C3%A1s-switchers-que-nunca-iphone-y-mac-convencen": {
-            "title": "M\u00e1s switchers que nunca. iPhone y Mac convencen a cada vez m\u00e1s usuarios...",
-            "snippet": "Toda la gama Mac actual es sobresaliente, con ejemplos tan notables como el Mac Pro o el iMac con pantalla Retina 5K, pero es la linea de port\u00e1tiles las que lideran este crecimiento. Y lo m\u00e1s interesante es que los datos ofrecidos ayer por Apple...",
-            "date": "2015-04-29",
-            "categories": "iphone,imac",
-            "tags": "pro,gama,mac,imac,retina,apple",
-            "recuweb_url": "http://es.recuweb.com/imac/applesfera.com/2015/04/m%C3%A1s-switchers-que-nunca-iphone-y-mac-convencen",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bpro&format=RSS&cc=es",
-            "source_url": "http://applesfera.com/apple-1/mas-switchers-que-nunca-iphone-y-mac-convencen-a-cada-vez-mas-usuarios"
-        },
-        "ipadizate.es/2015/04/pixelmator-para-mac": {
-            "title": "Pixelmator para Mac...",
-            "snippet": "Tambi\u00e9n es m\u00e1s eficiente a la hora de eliminar objetos de las im\u00e1genes. Incluso utilizamos el nuevo Mac Pro (porque es muy r\u00e1pido y potente) para mejorar autom\u00e1ticamente nuestros algoritmos de tecnolog\u00eda de reparaci\u00f3n. Ha dicho la firma.",
-            "date": "2015-04-29",
-            "categories": "tecnologia",
-            "tags": "r\u00e1pido,mac,pro",
-            "recuweb_url": "http://es.recuweb.com/tecnologia/ipadizate.es/2015/04/pixelmator-para-mac",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bpro&format=RSS&cc=es",
-            "source_url": "http://ipadizate.es/2015/04/30/pixelmator-3-3-2-mac-actualizacion/"
-        },
-        "vadejuegos.com/2015/04/cambio-de-tendencia-en-apple": {
-            "title": "Cambio de tendencia en Apple...",
-            "snippet": "Se vendieron millones equipos (iMac, MacBook Air, MacBook Pro y Mac Pro) entre enero y marzo, gener\u00e1ndose una cifra de negocio valorada en millones de d\u00f3lares. Algunos lo explican por la ca\u00edda del iPad (hasta los 12,6 millones de unidades...",
-            "date": "2015-04-28",
-            "categories": "mac-pro,macbook,imac,ipad",
-            "tags": "mac,mac_pro,pro,macbook,macbook_pro,macbook_air,air,apple,imac,ipad",
-            "recuweb_url": "http://es.recuweb.com/ipad/vadejuegos.com/2015/04/cambio-de-tendencia-en-apple",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bpro&format=RSS&cc=es",
-            "source_url": "http://vadejuegos.com/noticias/cambio-de-tendencia-en-apple-20150428.html"
-        },
-        "applesfera.com/2015/04/esta-es-la-generaci%C3%B3n-de-mac-que-ha-superado-al-ipad": {
-            "title": "Esta es la generaci\u00f3n de Mac que ha superado al iPad...",
-            "snippet": "En concreto estos son los modelos con los que retiene el t\u00edtulo de fabricante m\u00e1s rentable: El Mac Pro fue actualizado por \u00faltima vez en diciembre de 2013 tras un largo periodo de sequ\u00eda de actualizaciones de este equipo. Trajo un redise\u00f1o...",
-            "date": "2015-04-28",
-            "categories": "ipad",
-            "tags": "pro,son,mac,ipad",
-            "recuweb_url": "http://es.recuweb.com/ipad/applesfera.com/2015/04/esta-es-la-generaci%C3%B3n-de-mac-que-ha-superado-al-ipad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bpro&format=RSS&cc=es",
-            "source_url": "http://applesfera.com/portatil/esta-es-la-generacion-de-mac-que-ha-superado-al-ipad"
         }
     }
 }

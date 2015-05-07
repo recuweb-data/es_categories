@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rugby",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/rugby/",
@@ -11,27 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
     },
     "items": {
+        "ellitoral.com.ar/2015/05/rugby-diario-el-litoral-corrientes": {
+            "title": "Rugby Diario El Litoral Corrientes...",
+            "snippet": "El seleccionado de rugby del Nordeste logr\u00f3 el quinto puesto en la zona Ascenso, d\u00e9cimo tercero en la general, del Campeonato Argentino Juvenil que concluy\u00f3 ayer en La Plata. Los chicos correntinos y chaque\u00f1os...",
+            "date": "2015-05-03",
+            "author_name": "desconocido",
+            "categories": "rugby",
+            "tags": "argentino,juvenil,logr\u00f3,puesto,rugby,litoral,plata",
+            "recuweb_url": "http://es.recuweb.com/rugby/ellitoral.com.ar/2015/05/rugby-diario-el-litoral-corrientes",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ellitoral.com.ar/es/articulo/359365/Rugby"
+        },
+        "rugbychampagneweb.com/2015/05/los-tilos-tropez%C3%B3-en-la-zanja-rugby-champagne-web": {
+            "title": "Los Tilos tropez\u00f3 en la Zanja Rugby Champagne Web...",
+            "snippet": "Lo positivo fue que el equipo de Jorge C\u00e1ceres, Pablo Cardinali y Andr\u00e9s Fern\u00e1ndez le jug\u00f3 de igual a igual a uno de los mejores clubes del rugby de Buenos Aires y cosech\u00f3 un punto bonus en una cancha dif\u00edcil.",
+            "date": "2015-05-03",
+            "author_name": "jpgarcia",
+            "categories": "rugby",
+            "tags": "cancha,buenos,buenos_aires,aires,clubes,andr\u00e9s,rugby,rugby_champagne,rugby_champagne_web,champagne,champagne_web,web,equipo",
+            "recuweb_url": "http://es.recuweb.com/rugby/rugbychampagneweb.com/2015/05/los-tilos-tropez%C3%B3-en-la-zanja-rugby-champagne-web",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://rugbychampagneweb.com/2015/05/los-tilos-tropezo-en-la-zanja/"
+        },
+        "rugbychampagneweb.com/2015/05/tucum%C3%A1n-rugby-gan%C3%B3-y-sigue-en-carrera-champagne-web": {
+            "title": "Tucum\u00e1n Rugby gan\u00f3 y sigue en carrera Rugby Champagne Web...",
+            "snippet": "Envalentonado por tener un hombre m\u00e1s y obligado a cambiar la imagen que exhibi\u00f3 en el primer tiempo, Tucum\u00e1n Rugby se lanz\u00f3 decidido a dar vuelta el resultado. El escenario del partido era totalmente distinto.",
+            "date": "2015-05-02",
+            "author_name": "jpgarcia",
+            "categories": "rugby",
+            "tags": "escenario,partido,era,tiempo,rugby,rugby_champagne,rugby_champagne_web,champagne,champagne_web,web,gan\u00f3,sigue,sigue-en-carrera,carrera,tucum\u00e1n,tucum\u00e1n_rugby",
+            "recuweb_url": "http://es.recuweb.com/rugby/rugbychampagneweb.com/2015/05/tucum%C3%A1n-rugby-gan%C3%B3-y-sigue-en-carrera-champagne-web",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://rugbychampagneweb.com/2015/05/tucuman-rugby-gano-sigue-en-carrera/"
+        },
         "abc.com.py/2015/05/cambio-de-cancha-en-el-torneo-super-10-rugby-deportes": {
             "title": "Cambio de cancha en el Torneo Super 10 de rugby - Deportes...",
             "snippet": "La Uni\u00f3n de Rugby del Paraguay (URP), inform\u00f3 que han cambiado los escenario de dos enfrentamientos, correspondientes a la regularizaci\u00f3n de la Semifinal de Oro, del Super 10 de rugby.",
             "date": "2015-05-01",
             "author_name": "desconocido",
             "categories": "rugby",
-            "tags": "torneo,super,cancha,rugby,deportes,uni\u00f3n,dos",
+            "tags": "escenario,enfrentamientos,torneo,super,cancha,rugby,deportes,uni\u00f3n,urp,oro",
             "recuweb_url": "http://es.recuweb.com/rugby/abc.com.py/2015/05/cambio-de-cancha-en-el-torneo-super-10-rugby-deportes",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://abc.com.py/deportes/polideportivo/cambio-de-cancha-en-el-torneo-super-10-de-rugby-1362229.html"
-        },
-        "ellitoral.com.ar/2015/04/rugby-m18-urne-jugar%C3%A1-por-el-quinto-puesto-diario-litoral": {
-            "title": "Rugby M18: Urne jugar\u00e1 por el quinto puesto Diario El Litoral...",
-            "snippet": "En el marco del Concentrado del Campeonato Argentino Juvenil (M18) de rug\u00ed ayer Nordeste venci\u00f3 a Misiones 28 a 0 en cancha de San Luis (La Plata) y jugar\u00e1 frente a San Juan el s\u00e1bado 2 de mayo por el quinto puesto...",
-            "date": "2015-04-30",
-            "author_name": "desconocido",
-            "categories": "rugby",
-            "tags": "mayo,san,juan,frente,cancha,venci\u00f3,campeonato,argentino,argentino_juvenil,juvenil,diario,rugby,plata,s\u00e1bado",
-            "recuweb_url": "http://es.recuweb.com/rugby/ellitoral.com.ar/2015/04/rugby-m18-urne-jugar%C3%A1-por-el-quinto-puesto-diario-litoral",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ellitoral.com.ar/es/articulo/359049/Rugby-M18-Urne-jugara-por-el-quinto-puesto"
         },
         "desdeabajorugby.com/2015/04/desde-abajo-rugby-san-andr%C3%A9s-recibi%C3%B3-la-copa-esp%C3%ADritu": {
             "title": "Desde Abajo Rugby San Andr\u00e9s recibi\u00f3 la Copa Esp\u00edritu del Rugby...",
@@ -39,9 +61,9 @@
             "date": "2015-04-30",
             "author_name": "Gregorio Galli",
             "categories": "rugby",
-            "tags": "segunda,entrega,san,copa,copa_esp\u00edritu,esp\u00edritu,rugby,asociaci\u00f3n,veteranos,porte\u00f1o",
+            "tags": "entrega,san,san_andr\u00e9s,andr\u00e9s,copa,copa_esp\u00edritu,esp\u00edritu,rugby,asociaci\u00f3n,veteranos",
             "recuweb_url": "http://es.recuweb.com/rugby/desdeabajorugby.com/2015/04/desde-abajo-rugby-san-andr%C3%A9s-recibi%C3%B3-la-copa-esp%C3%ADritu",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desdeabajorugby.com/san-andres-recibio-la-copa-espiritu-del-rugby/"
         },
         "rugbychampagneweb.com/2015/04/federico-anselmi-en-otro-partido-del-super-rugby": {
@@ -50,9 +72,9 @@
             "date": "2015-04-30",
             "author_name": "jpgarcia",
             "categories": "rugby",
-            "tags": "equipos,argentina,ser\u00e1,ma\u00f1ana,super,super_rugby,rugby,partido,\u00e1rbitro,argentino,viernes",
+            "tags": "ma\u00f1ana,super,super_rugby,rugby,partido,argentino,viernes",
             "recuweb_url": "http://es.recuweb.com/rugby/rugbychampagneweb.com/2015/04/federico-anselmi-en-otro-partido-del-super-rugby",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rugbychampagneweb.com/2015/04/federico-anselmi-en-otro-partido-del-super-rugby/"
         },
         "independienterugbyclub.eu/2015/04/jornada-de-networking-bathco-rugby-independiente": {
@@ -61,54 +83,10 @@
             "date": "2015-04-29",
             "author_name": "Marcos Fierro",
             "categories": "rugby",
-            "tags": "instalaciones,ma\u00f1ana,jornada,rugby,club,abril",
+            "tags": "ma\u00f1ana,jornada,rugby,club,d\u00eda",
             "recuweb_url": "http://es.recuweb.com/rugby/independienterugbyclub.eu/2015/04/jornada-de-networking-bathco-rugby-independiente",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://independienterugbyclub.eu/index.php?option=com_content&view=article&id=1208:jornada-de-networking-bathco-rugby&catid=3:newsflash"
-        },
-        "elciudadanoweb.com/2015/04/rugby-argentina-juega-frente-a-estados-unidos-diario": {
-            "title": "Rugby: Argentina juega frente a Estados Unidos Diario El...",
-            "snippet": "Argentina disputar\u00e1 su primer partido de la temporada, con una alineaci\u00f3n compuesta por integrantes del equipo de Pampas XV que obtuvo la Pacific Rugby Challenge en marzo pasado en Fiji. Entre los suplentes habr\u00e1...",
-            "date": "2015-04-28",
-            "author_name": "Gvm",
-            "categories": "rugby",
-            "tags": "suplentes,temporada,disputar\u00e1,primer,estados,estados_unidos,unidos,diario,frente,rugby,argentina,partido,equipo",
-            "recuweb_url": "http://es.recuweb.com/rugby/elciudadanoweb.com/2015/04/rugby-argentina-juega-frente-a-estados-unidos-diario",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://elciudadanoweb.com/rugby-argentina-juega-frente-a-estados-unidos/"
-        },
-        "rugbychampagneweb.com/2015/04/copa-esp%C3%ADritu-del-rugby-y-medalla-al-caballero": {
-            "title": "Copa Esp\u00edritu del Rugby y Medalla al Caballero del Rugby Rugby...",
-            "snippet": "Tambi\u00e9n se distinguir\u00e1 con la Medalla al Caballero del Rugby 2014, tradicional premio que otorgan los Veteran Rugbiers desde 1976 a un jugador en actividad en los torneos de la URBA, que habiendo actuado en el...",
-            "date": "2015-04-28",
-            "author_name": "jpgarcia",
-            "categories": "rugby",
-            "tags": "jugador,copa,copa_esp\u00edritu,esp\u00edritu,rugby,caballero,premio,urba",
-            "recuweb_url": "http://es.recuweb.com/rugby/rugbychampagneweb.com/2015/04/copa-esp%C3%ADritu-del-rugby-y-medalla-al-caballero",
             "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://rugbychampagneweb.com/2015/04/copa-espiritu-del-rugby-medalla-al-caballero-del-rugby-3/"
-        },
-        "ellitoral.com.ar/2015/04/el-seleccionado-argentino-de-rugby-se-medir%C3%A1-frente-a-su-par": {
-            "title": "El seleccionado argentino de Rugby se medir\u00e1 frente a su par de...",
-            "snippet": "Los Pumas jugar\u00e1n a las 15,40 frente a su par de Estados Unidos, encuentro que se disputar\u00e1 en las instalaciones del club Jockey Club de Salta y que ser\u00e1 dirigido por el \u00e1rbitro porte\u00f1o Juan Sylvestre.",
-            "date": "2015-04-28",
-            "author_name": "desconocido",
-            "categories": "rugby",
-            "tags": "juan,ser\u00e1,\u00e1rbitro,porte\u00f1o,club,encuentro,disputar\u00e1,instalaciones,estados,estados_unidos,unidos,frente,argentino,rugby,pumas",
-            "recuweb_url": "http://es.recuweb.com/rugby/ellitoral.com.ar/2015/04/el-seleccionado-argentino-de-rugby-se-medir%C3%A1-frente-a-su-par",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://ellitoral.com.ar/es/articulo/358730/El-seleccionado-argentino-de-Rugby-se-medira-frente-a-su-par-de-EEUU"
-        },
-        "adupri.cl/2015/04/adupri-rugby-fecha-1-2015": {
-            "title": "Adupri Rugby Fecha 1 Adupri 2015...",
-            "snippet": "... Equipos Programaci\u00f3n y Resultados Cuadro Resumen N\u00f3mina Tenis de Mesa Ajedrez N\u00f3mina Ajedr\u00e9z Ranking 2015 Ranking y Programaci\u00f3n 2do Semestre. Home; Galer\u00eda Rugby/Rugby Fecha 1 Adupri 2015.",
-            "date": "2015-04-27",
-            "author_name": "adupri",
-            "categories": "rugby,ajedrez,tenis",
-            "tags": "rugby,fecha,equipos",
-            "recuweb_url": "http://es.recuweb.com/tenis/adupri.cl/2015/04/adupri-rugby-fecha-1-2015",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://adupri.cl/?p=3106"
+            "source_url": "http://independienterugbyclub.eu/index.php?option=com_content&view=article&id=1208:jornada-de-networking-bathco-rugby&catid=3:newsflash"
         },
         "rugbysitges.com/2015/04/presentem-el-nou-equip-tecnic-del-senior-per-la-temporada-2015": {
             "title": "Presentem el nou equip tecnic del Senior per la temporada 2015/2016...",
@@ -116,10 +94,32 @@
             "date": "2015-04-25",
             "author_name": "R.C.Sitges",
             "categories": "rugby",
-            "tags": "urba,rugby,nacional,jugador,equipo,club,temporada,nou,juvenil",
+            "tags": "campe\u00f3n,urba,rugby,nacional,jugador,equipo,club,temporada,juvenil",
             "recuweb_url": "http://es.recuweb.com/rugby/rugbysitges.com/2015/04/presentem-el-nou-equip-tecnic-del-senior-per-la-temporada-2015",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rugbysitges.com/presentem-el-nou-equip-tecnic-del-senior-per-la-temporada-20152016/"
+        },
+        "abc.com.py/2015/04/un-fin-de-semana-a-puro-rugby-deportes-abc-color-digital": {
+            "title": "Un fin de semana a Puro Rugby - Deportes - ABC Color - ABC Digital...",
+            "snippet": "Un fin de semana a Puro Rugby se vivir\u00e1 en distintos puntos del pa\u00eds. El resumen de las actividades se detalla a continuaci\u00f3n, de los numerosos enfrentamientos del rugby.",
+            "date": "2015-04-25",
+            "author_name": "desconocido",
+            "categories": "rugby",
+            "tags": "enfrentamientos,resumen,abc,abc_color,color,rugby,semana,deportes",
+            "recuweb_url": "http://es.recuweb.com/rugby/abc.com.py/2015/04/un-fin-de-semana-a-puro-rugby-deportes-abc-color-digital",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/deportes/polideportivo/un-fin-de-semana-a-puro-rugby-1360289.html"
+        },
+        "abc.com.py/2015/04/posiciones-y-cruces-por-semifinales-de-rugby-deportes-abc-color": {
+            "title": "Posiciones y cruces por semifinales de rugby - Deportes - ABC Color...",
+            "snippet": "La URP dio a conocer la Tabla Final de Posiciones por Zonas, y cruce por las Semifinales de las Copas de ORO, PLATA, BRONCE y MACHETE DE MADERA, por el torneo Nacional Regional de Clubes de Rugby, del...",
+            "date": "2015-04-22",
+            "author_name": "desconocido",
+            "categories": "rugby",
+            "tags": "nacional,regional,torneo,final,dio,abc,abc_color,color,semifinales,rugby,deportes,urp,oro,plata,clubes",
+            "recuweb_url": "http://es.recuweb.com/rugby/abc.com.py/2015/04/posiciones-y-cruces-por-semifinales-de-rugby-deportes-abc-color",
+            "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://abc.com.py/deportes/polideportivo/posiciones-y-cruces-por-semifinales-de-rugby-1359125.html"
         }
     }
 }

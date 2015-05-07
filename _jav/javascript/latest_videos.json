@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/javascript/",
@@ -11,25 +11,13 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "youtube.com/2015/02/el-camino-a-ser-un-pro-en-javascript-conferencia-platziconf-febrero": {
-            "title": "El camino a ser un pro en Javascript Conferencia en PlatziConf, Febrero 2015...",
-            "snippet": "El camino a ser un pro en Javascript Conferencia en PlatziConf, Febrero 2015 Entra al curso de desarrollo web en: Carlos Azaustre te cuenta cual es el camino ideal para llegar a ser profesional en Javascript empezando desde cero. Suscr\u00edbete...",
-            "date": "2015-02-17",
-            "author_name": "Platzi",
-            "categories": "desarrollo-web,javascript",
-            "tags": "curso,desarrollo,web,javascript,conferencia,platziconf,febrero,entra,suscr\u00edbete",
-            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2015/02/el-camino-a-ser-un-pro-en-javascript-conferencia-platziconf-febrero",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bjavascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=Bg89e__YpE8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Bg89e__YpE8/0.jpg"
-        },
         "youtube.com/2015/02/por-qu%C3%A9-apostar-todo-a-javascript-conferencia-en-platziconf-febrero-2015": {
             "title": ": \u00bfPor qu\u00e9 apostar todo a Javascript? Conferencia en PlatziConf, Febrero 2015...",
             "snippet": ": \u00bfPor qu\u00e9 apostar todo a Javascript? Conferencia en PlatziConf, Febrero 2015 Entra en: David Avellaneda te explica por que apostarle todo a Javascript, con ejemplos b\u00e1sicos muestra el poder y todo lo que puedes lograr con JS. Suscr\u00edbete a...",
             "date": "2015-02-15",
             "author_name": "Platzi",
             "categories": "javascript",
-            "tags": "javascript,conferencia,platziconf,febrero,entra,suscr\u00edbete",
+            "tags": "javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2015/02/por-qu%C3%A9-apostar-todo-a-javascript-conferencia-en-platziconf-febrero-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=ePofniBtZ7w&feature=youtube_gdata",
@@ -37,13 +25,13 @@
         },
         "youtube.com/2015/01/01-curso-de-javascript-para-principiantes-qu%C3%A9-sirve": {
             "title": "01.- Curso de JavaScript para principiantes. \u00bfPara qu\u00e9 sirve JavaScript?",
-            "snippet": "01.- Curso de JavaScript para principiantes. \u00bfPara qu\u00e9 sirve JavaScript? Realiza los tests de pr\u00e1cticas del curso: Videotutorial N\u00famero 01 del Curso de JavaScript para principiantes. \u00bfPara qu\u00e9 sirve... From: Jes\u00fas Conde Views: 12733 308...",
+            "snippet": "01.- Curso de JavaScript para principiantes. \u00bfPara qu\u00e9 sirve JavaScript? Realiza los tests de pr\u00e1cticas del curso: Videotutorial N\u00famero 01 del Curso de JavaScript para principiantes. \u00bfPara qu\u00e9 sirve... From: Jes\u00fas Conde Views: 12804 309...",
             "date": "2015-01-22",
             "author_name": "Jes\u00fas Conde",
             "categories": "javascript",
             "tags": "curso,javascript",
             "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2015/01/01-curso-de-javascript-para-principiantes-qu%C3%A9-sirve",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bjavascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=KXdhq9LzZ_A&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/KXdhq9LzZ_A/0.jpg"
         },
@@ -53,9 +41,9 @@
             "date": "2014-11-24",
             "author_name": "ReportajesDocumentales",
             "categories": "javascript",
-            "tags": "desarrollo,curso,javascript,dentro",
+            "tags": "diferentes,desarrollo,curso,javascript,dentro",
             "recuweb_url": "http://es.recuweb.com/javascript/dailymotion.com/2014/11/curso-desarrolla-aplicaciones-javascript-de-forma-r%C3%A1pida",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/javascript+javascript/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+javascript/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ay45v_curso-backbone-js-desarrolla-aplicaciones-javascript-de-forma-rapida_school",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ay45v_curso-backbone-js-desarrolla-aplicaciones-javascript-de-forma-rapida_school"
         },
@@ -65,23 +53,11 @@
             "date": "2014-09-10",
             "author_name": "Miguel Angel Vel\u00e1squez Zamora",
             "categories": "javascript,lenguaje",
-            "tags": "web,documento,c\u00f3digo,crear,tutorial,curso,javascript,introducci\u00f3n,lenguaje,programaci\u00f3n",
+            "tags": "web,documento,c\u00f3digo,dise\u00f1o,tutorial,curso,javascript,introducci\u00f3n,lenguaje,programaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/lenguaje/youtube.com/2014/09/curso-tutorial-de-javascript-crear-paginas-web-dinamicas-video-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=iXKRK1pNMhA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/iXKRK1pNMhA/0.jpg"
-        },
-        "youtube.com/2014/07/como-crear-una-calculadora-b%C3%A1sica-en-javascript-ejemplo-de-usando-mediante": {
-            "title": "Como Crear Una Calculadora B\u00e1sica en Javascript,Ejemplo de Calculadora usando/mediante Javascript...",
-            "snippet": "Como Crear Una Calculadora B\u00e1sica en Javascript,Ejemplo de Calculadora usando/mediante Javascript Como Crear Una Calculadora Basica en/usando/mediante/con javascript, Calculadora b\u00e1sica mediante javascript, hacer calculadora en...",
-            "date": "2014-07-30",
-            "author_name": "Ismael Zamora",
-            "categories": "javascript",
-            "tags": "javascript,crear",
-            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2014/07/como-crear-una-calculadora-b%C3%A1sica-en-javascript-ejemplo-de-usando-mediante",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bjavascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=Naxs_M8ZrjY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Naxs_M8ZrjY/0.jpg"
         },
         "youtube.com/2014/07/curso-javascript-desde-0-introducci%C3%B3n-v%C3%ADdeo-2": {
             "title": "Curso JavaScript desde 0. Introducci\u00f3n. V\u00eddeo 2...",
@@ -97,7 +73,7 @@
         },
         "youtube.com/2014/07/curso-javascript-desde-0-presentaci%C3%B3n-v%C3%ADdeo-1": {
             "title": "Curso JavaScript desde 0. Presentaci\u00f3n. V\u00eddeo 1...",
-            "snippet": "Curso JavaScript desde 0. Presentaci\u00f3n. V\u00eddeo 1 Comenzamos un nuevo curso de programaci\u00f3n en JavaScript. Espero que os guste. Para m\u00e1s cursos, ejercicios y manuales visita:. From: pildorasinformaticas Views: 20033 257 ratings Time: 15:11 More in...",
+            "snippet": "Curso JavaScript desde 0. Presentaci\u00f3n. V\u00eddeo 1 Comenzamos un nuevo curso de programaci\u00f3n en JavaScript. Espero que os guste. Para m\u00e1s cursos, ejercicios y manuales visita:. From: pildorasinformaticas Views: 20250 260 ratings Time: 15:11 More in...",
             "date": "2014-07-21",
             "author_name": "pildorasinformaticas",
             "categories": "javascript",
@@ -113,9 +89,9 @@
             "date": "2014-06-17",
             "author_name": "4LANUG3",
             "categories": "css,javascript",
-            "tags": "avanzado,tutorial,javascript,curso",
+            "tags": "avanzado,css,tutorial,javascript,curso",
             "recuweb_url": "http://es.recuweb.com/javascript/dailymotion.com/2014/06/tutorial-javascript-y-css",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/javascript+javascript/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/es+localhost+com+javascript/0?af=1",
             "source_url": "http://dailymotion.com/video/x1zkv4f_tutorial-javascript-y-css-1-2-4_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1zkv4f_tutorial-javascript-y-css-1-2-4_tech"
         },
@@ -127,9 +103,33 @@
             "categories": "lenguaje,moda,javascript,html",
             "tags": "desarrollo,lenguaje,programaci\u00f3n,avanzado,javascript,html",
             "recuweb_url": "http://es.recuweb.com/html/youtube.com/2014/05/qu%C3%A9-puertas-te-abre-javascript-avanzado-y-html5-programadorio",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bjavascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=IESWLEtrf4A&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/IESWLEtrf4A/0.jpg"
+        },
+        "youtube.com/2013/12/curso-de-javascript-7-funciones-basicas-para-el-uso-variables": {
+            "title": "(Curso de Javascript) 7. Funciones basicas para el uso de variables...",
+            "snippet": "(Curso de Javascript) 7. Funciones basicas para el uso de variables En este video aprenderemos acerca de las diferentes funciones b\u00e1sicas de javascript y el uso que les podemos dar en las variables. Blog de dise\u00f1o web:... From: FalconMasters...",
+            "date": "2013-12-05",
+            "author_name": "FalconMasters",
+            "categories": "javascript",
+            "tags": "dise\u00f1o,web,diferentes,javascript,curso",
+            "recuweb_url": "http://es.recuweb.com/javascript/youtube.com/2013/12/curso-de-javascript-7-funciones-basicas-para-el-uso-variables",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=Ze2Me8zAXyg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Ze2Me8zAXyg/0.jpg"
+        },
+        "youtube.com/2013/12/curso-completo-de-html5-css3-y-javascript-parte": {
+            "title": "Curso Completo de HTML5, CSS3 y JavaScript Parte I...",
+            "snippet": "Curso Completo de HTML5, CSS3 y JavaScript Parte I DESCARGAR MATERAL: SUSCRIBETE: S\u00cdGUENOS EN TWITTER: MANITA ARRIBA: Googe:... From: Homero Raul Vargas Cruz Views: 111978 1114 ratings Time: 26:25 More in Science & Technology...",
+            "date": "2013-12-01",
+            "author_name": "Homero Raul Vargas Cruz",
+            "categories": "twitter,javascript,html,css",
+            "tags": "javascript,curso,html,css",
+            "recuweb_url": "http://es.recuweb.com/css/youtube.com/2013/12/curso-completo-de-html5-css3-y-javascript-parte",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=qz8Q1UGQdts&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/qz8Q1UGQdts/0.jpg"
         }
     }
 }

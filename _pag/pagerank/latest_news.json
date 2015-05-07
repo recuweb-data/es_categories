@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/pagerank/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
+        "radar.oreilly.com/2015/05/on-the-evolution-of-machine-learning-o-reilly-radar": {
+            "title": "On the evolution of machine learning - O'Reilly Radar...",
+            "snippet": "On the evolution of machine learningO'Reilly RadarThe machine learning tools were simpler than what we're using today; they include things like logistic regression, SVMs (support vector machines), kernels with SVMs, and PageRank. Google became...",
+            "date": "2015-05-03",
+            "categories": "radar,pagerank,google",
+            "tags": "pagerank,google",
+            "recuweb_url": "http://es.recuweb.com/google/radar.oreilly.com/2015/05/on-the-evolution-of-machine-learning-o-reilly-radar",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
+            "source_url": "http://radar.oreilly.com/2015/05/on-the-evolution-of-machine-learning.html"
+        },
         "slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare": {
             "title": "The Dangers of Letting Algorithms Decide Who Is Eligible for Welfare - Slate Magazine...",
             "snippet": "Slate MagazineThe Dangers of Letting Algorithms Decide Who Is Eligible for WelfareSlate MagazineGoogle's much-debated PageRank algorithm, for example, calculates the relative importance of Web sources by counting the number and quality of links to...",
@@ -51,6 +61,16 @@
             "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
             "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
         },
+        "searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search": {
+            "title": "In 2014, How Important is an H1 Tag for SEO? - Search Engine Journal...",
+            "snippet": "Search Engine JournalIn 2014, How Important is an H1 Tag for SEO?Search Engine JournalThe lost opportunity in this argument is that both sides tend to focus on the direct relationship between an H1 tag and its ability to help a page rank by...",
+            "date": "2015-04-20",
+            "categories": "pagerank",
+            "tags": "page,rank,that,search,search_engine,engine,search_engine_journal,engine_journal,journal,seo",
+            "recuweb_url": "http://es.recuweb.com/pagerank/searchenginejournal.com/2015/04/in-2014-how-important-is-an-h1-tag-for-seo-search",
+            "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
+            "source_url": "http://searchenginejournal.com/in-2014-how-important-is-an-h1-tag-for-seo/"
+        },
         "wwwhatsnew.com/2015/03/cient%C3%ADficos-utilizan-el-algoritmo-pagerank-de-google-para-hacer-un-wwwhat": {
             "title": "Cient\u00edficos utilizan el algoritmo PageRank de Google para hacer un... - WWWhat's new? (blog)...",
             "snippet": "WWWhat's new? (blog)Cient\u00edficos utilizan el algoritmo PageRank de Google para hacer un...WWWhat's new? (blog)El PageRank fue el algoritmo que llev\u00f3 a la cima a Google, y su esencia es tan simple como brillante: Dar a cada sitio web cierto valor de...",
@@ -66,7 +86,7 @@
             "snippet": "Pagerank Algorithm Reveals World's All-Time Top Soccer TeamMIT Technology Review (blog)Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it...",
             "date": "2015-03-13",
             "categories": "pagerank",
-            "tags": "another,pagerank,algorithm",
+            "tags": "pagerank,algorithm",
             "recuweb_url": "http://es.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
             "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
@@ -81,15 +101,15 @@
             "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
             "source_url": "http://revistaeducacionvirtual.com/archives/1588"
         },
-        "searchengineland.com/2014/10/google-toolbar-pagerank-finally-&-officially-dead-search-engine-land": {
-            "title": "Google Toolbar PageRank Finally & Officially Dead? - Search Engine Land...",
-            "snippet": "Search Engine LandGoogle Toolbar PageRank Finally & Officially Dead?Search Engine LandIn October 2013, Google head of search spam Matt Cutts implied we would likely not see another Google Toolbar PageRank update before the year end. Well, by...",
-            "date": "2014-10-07",
+        "searchenginejournal.com/2014/10/google-will-probably-not-be-updating-toolbar-pagerank-again-search-engine": {
+            "title": "Google Will (Probably) Not Be Updating Toolbar PageRank Again... - Search Engine Journal...",
+            "snippet": "Google Will (Probably) Not Be Updating Toolbar PageRank Again...Search Engine JournalToolbar PageRank is something that we have not updated for about a year now, and we're probably not going to be updating it going forward we have a lot of way to...",
+            "date": "2014-10-09",
             "categories": "pagerank,google",
-            "tags": "pagerank,another,matt,cutts,google",
-            "recuweb_url": "http://es.recuweb.com/google/searchengineland.com/2014/10/google-toolbar-pagerank-finally-&-officially-dead-search-engine-land",
+            "tags": "that,search,search_engine,engine,pagerank,search_engine_journal,engine_journal,journal,google",
+            "recuweb_url": "http://es.recuweb.com/google/searchenginejournal.com/2014/10/google-will-probably-not-be-updating-toolbar-pagerank-again-search-engine",
             "resource_url": "http://news.google.es/?hl=es&q=pagerank&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/google-toolbar-pagerank-finally-officially-dead-205277"
+            "source_url": "http://searchenginejournal.com/google-will-probably-updating-toolbar-pagerank-john-mueller-confirms/117691/"
         }
     }
 }

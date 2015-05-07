@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/java/",
@@ -11,12 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
+        "derstandard.at/2015/05/sky-google-arbeitet-an-android-entwicklung-ohne-java": {
+            "title": "Sky: Google arbeitet an Android-Entwicklung ohne Java -...",
+            "snippet": ": Google arbeitet an Android-Entwicklung ohne war eine der ersten Entscheidungen rund um Android: Die App-Entwicklung erfolgt per Java. Mittlerweile sind zwar einige andere Optionen hinzugekommen, jenseits von Spielen dominiert aber weiter die...",
+            "date": "2015-05-03",
+            "categories": "google,java",
+            "tags": "sky,google,android,java",
+            "recuweb_url": "http://es.recuweb.com/java/derstandard.at/2015/05/sky-google-arbeitet-an-android-entwicklung-ohne-java",
+            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
+            "source_url": "http://derstandard.at/2000015208416/Sky-Google-arbeitet-an-Android-Entwicklung-ohne-Java"
+        },
+        "hipertextual.com/2015/05/podr%C3%A1-ser-dart-y-no-java-el-futuro-de-android-hipertextual": {
+            "title": "\u00bfPodr\u00e1 ser Dart y no Java el futuro de Android? - Hipertextual...",
+            "snippet": "Hipertextual\u00bfPodr\u00e1 ser Dart y no Java el futuro de Android?HipertextualLas aplicaciones para Android est\u00e1n normalmente escritas en Java, pero uno de los numerosos grupos que trabajan en diferentes proyectos en Google est\u00e1 experimentando con una...",
+            "date": "2015-05-03",
+            "categories": "java,google",
+            "tags": "aplicaciones,futuro,dart,java,android,google",
+            "recuweb_url": "http://es.recuweb.com/google/hipertextual.com/2015/05/podr%C3%A1-ser-dart-y-no-java-el-futuro-de-android-hipertextual",
+            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
+            "source_url": "http://hipertextual.com/2015/05/dart-android"
+        },
         "adslzone.net/2015/05/google-plantea-eliminar-el-lag-en-android-diciendo-adi%C3%B3s-a-java": {
             "title": "Google plantea eliminar el lag en Android diciendo adi\u00f3s a Java...",
             "snippet": "La compa\u00f1\u00eda de Mountain View est\u00e1 probando el desarrollo de aplicaciones sin Java, haciendo uso del lenguaje Dart, que permitir\u00e1 crear software m\u00e1s fluido y eliminar el lag en Android. Con una aplicaci\u00f3n de demostraci\u00f3n ya creada, Google...",
             "date": "2015-05-02",
             "categories": "lenguaje,google,java",
-            "tags": "aplicaciones,lenguaje,google,android,java,dart",
+            "tags": "aplicaciones,lenguaje,compa\u00f1\u00eda,google,android,java,dart",
             "recuweb_url": "http://es.recuweb.com/java/adslzone.net/2015/05/google-plantea-eliminar-el-lag-en-android-diciendo-adi%C3%B3s-a-java",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
             "source_url": "http://adslzone.net/2015/05/02/lag-android-java-dart/"
@@ -26,7 +46,7 @@
             "snippet": "Java es a d\u00eda de hoy el framework que utiliza Google en Android. De esta forma, las apps para Android se programan utilizando Java y, gracias a este framework, se ejecutan luego en Android. Durante mucho tiempo, Java ha venido acompa\u00f1ando a Google...",
             "date": "2015-05-02",
             "categories": "google,java",
-            "tags": "apps,d\u00eda,google,java,android",
+            "tags": "apps,d\u00eda,google,java,android,sky",
             "recuweb_url": "http://es.recuweb.com/java/computerhoy.com/2015/05/google-quiere-prescindir-de-java-en-android-y-piensa-sky",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
             "source_url": "http://computerhoy.com/noticias/software/google-quiere-prescindir-java-android-piensa-sky-27799"
@@ -36,49 +56,29 @@
             "snippet": "Para poder aplicar los cambios en nuestros tel\u00e9fonos, necesitaremos un ordenador con Windows, Linux o Mac, y las siguientes herramientas Primero descargaremos e instalaremos el Java SDK, aunque en el enlace os lleva directamente, deb\u00e9is aseguraros...",
             "date": "2015-05-02",
             "categories": "java",
-            "tags": "java,aplicaciones,android,windows",
+            "tags": "java,poder,aplicaciones,android,windows",
             "recuweb_url": "http://es.recuweb.com/java/elandroidelibre.com/2015/05/instalando-las-aplicaciones-de-android-en-la-tarjeta-sd",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
             "source_url": "http://elandroidelibre.com/2015/05/instalando-las-aplicaciones-de-android-en-la-tarjeta-sd.html"
-        },
-        "technical.ly/2015/05/java-tech-lead": {
-            "title": "Java Tech Lead -...",
-            "snippet": "Java Tech are looking for a Java Technical Lead for a long term contract position in Brooklyn,NY. Preferred only local candidates who can come for a F2F interview. REQUIRED SKILLS: A minimum of 8 years of experience in leading and managing...",
-            "date": "2015-05-02",
-            "categories": "java",
-            "tags": "skills,java,are",
-            "recuweb_url": "http://es.recuweb.com/java/technical.ly/2015/05/java-tech-lead",
-            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://technical.ly/job/java-tech-lead/"
         },
         "androidayuda.com/2015/05/java-es-el-pasado-de-android-futuro-dart": {
             "title": "Java es el pasado de Android, el futuro es Dart...",
             "snippet": "Hablar de Android es hablar de Java. Son casi sin\u00f3nimos, y de hecho gran parte del \u00e9xito del sistema operativo de Google se debe a dicho lenguaje de programaci\u00f3n. Sin embargo, Java empieza a convertirse en el pasado de Android. El futuro ya...",
             "date": "2015-05-02",
             "categories": "lenguaje,java,google",
-            "tags": "lenguaje,lenguaje-de-programaci\u00f3n,programaci\u00f3n,hecho,java,android,dart,son,google,embargo",
+            "tags": "futuro,lenguaje,hecho,java,android,dart,son,google,embargo",
             "recuweb_url": "http://es.recuweb.com/google/androidayuda.com/2015/05/java-es-el-pasado-de-android-futuro-dart",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=es",
             "source_url": "http://androidayuda.com/2015/05/02/java-es-el-pasado-de-android-el-futuro-es-dart/"
-        },
-        "technical.ly/2015/05/senior-java-developer-selling": {
-            "title": "Senior Java Developer (Selling) -...",
-            "snippet": "Senior Java Developer (Selling) is a growing company dedicated to innovation and teamwork. We are currently seeking a Sr. Java Developer (Selling) for our client in the IT Services domain. We value our professionals, providing comprehensive...",
-            "date": "2015-05-02",
-            "categories": "java",
-            "tags": "java,are",
-            "recuweb_url": "http://es.recuweb.com/java/technical.ly/2015/05/senior-java-developer-selling",
-            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://technical.ly/job/senior-java-developer-selling/"
         },
         "arstechnica.com/2015/05/google-s-dart-language-on-android-aims-for-java-free-120": {
             "title": "Google's Dart language on Android aims for Java-free, 120 FPS apps - Ars Technica...",
             "snippet": "TechwormGoogle's Dart language on Android aims for Java-free, 120 FPS appsArs TechnicaNon-game Android apps are normally written in Java, but a group inside Google is experimenting with a whole new way of writing Android apps using Dart, Google's...",
             "date": "2015-05-01",
             "categories": "google,java",
-            "tags": "apps,are,google,dart,android,java,free",
+            "tags": "apps,are,google,dart,android,java",
             "recuweb_url": "http://es.recuweb.com/java/arstechnica.com/2015/05/google-s-dart-language-on-android-aims-for-java-free-120",
-            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
             "source_url": "http://arstechnica.com/gadgets/2015/05/01/googles-dart-language-on-android-aims-for-java-free-120-fps-apps/"
         },
         "abc.es/2015/04/estos-son-algunos-de-los-animales-que-la-conservaci%C3%B3n-ha-salvado": {
@@ -106,9 +106,9 @@
             "snippet": "Web developers make less than IT peers, but skills are more in..., Java and C for back-end development to stream real-time data for online transactions and TV broadcasters developing on-demand applications for web, for example. However the banking...",
             "date": "2015-04-30",
             "categories": "java",
-            "tags": "skills,are,java",
+            "tags": "are,java",
             "recuweb_url": "http://es.recuweb.com/java/techworld.com/2015/04/web-developers-make-less-than-it-peers-but-skills-are",
-            "resource_url": "http://news.google.es/?hl=es&q=java%2Bjava&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=java&output=atom&nord=1",
             "source_url": "http://techworld.com/news/careers/net-java-c-are-programming-language-of-choice-for-firms-3610124/"
         }
     }

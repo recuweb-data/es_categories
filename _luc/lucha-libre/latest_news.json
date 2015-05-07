@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lucha-libre",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lucha-libre/",
@@ -11,98 +11,100 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/blogs.json"
     },
     "items": {
-        "andro4all.com/2015/05/la-lucha-libre-llega-a-terreno-inmortal-con-wwe-immortals": {
-            "title": "La lucha libre llega a terreno inmortal con WWE Immortals...",
-            "snippet": "La primera vez que iniciamos el juego, nos damos cuenta de que este va a convertirse en nuestro desestresante de turno. Machacar a nuestro oponente ser\u00e1 la misi\u00f3n principal. Los luchadores de la WWE se han convertido en seres inmortales con...",
-            "date": "2015-05-02",
-            "tags": "luchadores,primera,wwe,lucha,libre",
-            "recuweb_url": "http://es.recuweb.com/andro4all.com/2015/05/la-lucha-libre-llega-a-terreno-inmortal-con-wwe-immortals",
+        "debate.com.mx/2015/05/tremenda-funci%C3%B3n-de-lucha-libre": {
+            "title": "Tremenda funci\u00f3n de Lucha Libre...",
+            "snippet": "Esta funci\u00f3n es a beneficio del luchador local Sagrado Tormeno, quien en la pasada funci\u00f3n sufri\u00f3 un aparatoso golpe al momento de luchar. El evento. En punto de las 09:30 horas, en las instalaciones de la Honorable Comisi\u00f3n de Box y Lucha Libre...",
+            "date": "2015-05-06",
+            "categories": "lucha-libre",
+            "tags": "funci\u00f3n,momento,luchador,lucha,lucha_libre,libre,evento",
+            "recuweb_url": "http://es.recuweb.com/lucha-libre/debate.com.mx/2015/05/tremenda-funci%C3%B3n-de-lucha-libre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blucha%2Blibre&format=RSS&cc=es",
+            "source_url": "http://debate.com.mx/deportes/Tremenda-funcion-de-Lucha-Libre-20150506-0097.html"
+        },
+        "mmdeportes.telediario.mx/2015/05/mundial-de-lucha-libre-en-m%C3%A9xico": {
+            "title": "Mundial de Lucha Libre en M\u00e9xico...",
+            "snippet": "El d\u00eda de la presentaci\u00f3n de Rey Misterio Jr., en territorio mexicano, semanas antes de Rey de Reyes AAA, se hiz\u00f3 oficial el primer mundial de Lucha Libre; d\u00edas despu\u00e9s, se anunciaron algunas de las empresas que estar\u00edan participando en esta...",
+            "date": "2015-05-05",
+            "categories": "lucha-libre",
+            "tags": "d\u00eda,mundial,reyes,aaa,mexicano,lucha,lucha_libre,libre,m\u00e9xico,oficial",
+            "recuweb_url": "http://es.recuweb.com/lucha-libre/mmdeportes.telediario.mx/2015/05/mundial-de-lucha-libre-en-m%C3%A9xico",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blucha%2Blibre&format=RSS&cc=es",
+            "source_url": "http://mmdeportes.telediario.mx/note/mundial-de-lucha-libre-en-mexico"
+        },
+        "eldiario.es/2015/05/una-flor-para-la-esperanza-en-lucha-contra-el-c%C3%A1ncer": {
+            "title": "Una flor para la esperanza en la lucha contra el c\u00e1ncer...",
+            "snippet": "Este a\u00f1o la campa\u00f1a de la AECC tendr\u00e1 como lema No te imaginas todo lo que un euro pone en marcha y adoptar\u00e1 el iris blanco como s\u00edmbolo de la lucha contra el c\u00e1ncer... puedes tener una hora libre al d\u00eda, dice. Y es que la propuesta de...",
+            "date": "2015-05-05",
+            "tags": "d\u00eda,lucha,libre",
+            "recuweb_url": "http://es.recuweb.com/eldiario.es/2015/05/una-flor-para-la-esperanza-en-lucha-contra-el-c%C3%A1ncer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blucha%2Blibre&format=RSS&cc=es",
+            "source_url": "http://eldiario.es/canariasahora/sociedad/flor-esperanza-lucha-cancer-cuestacion_0_384611955.html"
+        },
+        "deportes.terra.com/2015/05/hulk-hogan-la-leyenda-de-lucha-libre-norteamericana": {
+            "title": "Hulk Hogan, la leyenda de la lucha libre norteamericana...",
+            "snippet": "... y es que el legendario luchador norteamericano es uno de los nombres m\u00e1s famosos en el mundo del wrestling. Gene Bollea naci\u00f3 en el a\u00f1o de 1953 en Augusta, Georgia y sus inicios en la lucha libre fue por su f\u00edsico, el cual fue lo primero...",
+            "date": "2015-05-03",
+            "tags": "wrestling,luchador,lucha,libre,mundo",
+            "recuweb_url": "http://es.recuweb.com/deportes.terra.com/2015/05/hulk-hogan-la-leyenda-de-lucha-libre-norteamericana",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Blucha%2Blibre&format=RSS&cc=es",
+            "source_url": "http://deportes.terra.com/luchas/conoce-a-hulk-hogan-el-legendario-luchador-norteamericano,745d8bd920bae193a7983cd907339f0adchfRCRD.html"
+        },
+        "mediotiempo.com/2015/05/listo-equipo-aaa-para-mundial-de-lucha-libre": {
+            "title": "Listo equipo AAA para Mundial de Lucha Libre...",
+            "snippet": "El equipo representativo de AAA (M\u00e9xico 2) para el Mundial de Lucha Libre, qued\u00f3 conformado este s\u00e1bado despu\u00e9s del evento de la empresa en Pachuca, Hidalgo. En Chiapas, El Texano Jr. y el Hijo del Fantasma pasaron sus respectivas eliminatorias...",
+            "date": "2015-05-03",
+            "categories": "lucha-libre",
+            "tags": "s\u00e1bado,evento,lucha,lucha_libre,libre,aaa,mundial,m\u00e9xico,hijo",
+            "recuweb_url": "http://es.recuweb.com/lucha-libre/mediotiempo.com/2015/05/listo-equipo-aaa-para-mundial-de-lucha-libre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=es",
-            "source_url": "http://andro4all.com/2015/05/wwe-immortals"
+            "source_url": "http://mediotiempo.com/mas-deportes/lucha-libre/noticias/2015/05/03/listo-equipo-aaa-para-mundial-de-lucha-libre"
         },
         "e-consulta.com/2015/05/feria-de-puebla-festej%C3%B3-a-los-ni%C3%B1os-con-funci%C3%B3n-lucha-libre": {
             "title": "Feria de Puebla festej\u00f3 a los ni\u00f1os con funci\u00f3n de lucha libre - e-consulta...",
             "snippet": "e-consultaFeria de Puebla festej\u00f3 a los ni\u00f1os con funci\u00f3n de lucha libree-consultaLa noche del 30 de abril cerr\u00f3 con una gran funci\u00f3n de Lucha Libre en la que los peque\u00f1os festejados pudieron disfrutar, en compa\u00f1\u00eda de sus familias, de un...",
-            "date": "2015-05-01",
+            "date": "2015-05-02",
             "categories": "lucha-libre",
-            "tags": "lucha,lucha_libre,libre,ni\u00f1os,abril",
+            "tags": "lucha,lucha_libre,libre,funci\u00f3n,ni\u00f1os,abril",
             "recuweb_url": "http://es.recuweb.com/lucha-libre/e-consulta.com/2015/05/feria-de-puebla-festej%C3%B3-a-los-ni%C3%B1os-con-funci%C3%B3n-lucha-libre",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre&output=atom&nord=1",
             "source_url": "http://e-consulta.com/nota/2015-05-01/espectaculos/feria-de-puebla-festejo-los-ninos-con-funcion-de-lucha-libre"
         },
-        "lacronica.com/2015/05/festejan-a-ni%C3%B1os-con-lucha-libre": {
-            "title": "Festejan a ni\u00f1os con lucha libre -...",
-            "snippet": "a ni\u00f1os con lucha libre a ni\u00f1os con lucha libre. Con motivo al d\u00eda del ni\u00f1o luchadores profesionales de Mexicali y Tijuana se dieron cita el jueves al Gimnasio de Mexicali con el af\u00e1n de consentir a los ni\u00f1os cachanillas y a su vez contribuir...",
-            "date": "2015-05-01",
-            "tags": "ni\u00f1os,d\u00eda,luchadores,lucha,libre",
-            "recuweb_url": "http://es.recuweb.com/lacronica.com/2015/05/festejan-a-ni%C3%B1os-con-lucha-libre",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://lacronica.com/EdicionEnLinea/Notas/DeportesLocal/01052015/966356-Festejan-a-ninos-con-lucha-libre.html"
-        },
-        "imparcialoaxaca.mx/2015/05/invitan-a-ni%C3%B1os-de-todo-el-pa%C3%ADs-concurso-cuento-imparcial": {
-            "title": "INVITAN A NI\u00d1OS DE TODO EL PA\u00cdS Concurso de Cuento de... - el Imparcial...",
-            "snippet": "el ImparcialINVITAN A NI\u00d1OS DE TODO EL PA\u00cdS Concurso de Cuento de...el ImparcialTodos los ni\u00f1os de siete a 12 a\u00f1os de edad podr\u00e1n participar en el Primer Concurso de Cuento de Lucha Libre A 2 de 3 Cuartillas que organizan el Consejo Nacional...",
-            "date": "2015-05-01",
-            "categories": "lucha-libre",
-            "tags": "consejo,consejo_nacional,nacional,lucha,lucha_libre,libre,concurso,edad,ni\u00f1os,siete,cuento,cuartillas",
-            "recuweb_url": "http://es.recuweb.com/lucha-libre/imparcialoaxaca.mx/2015/05/invitan-a-ni%C3%B1os-de-todo-el-pa%C3%ADs-concurso-cuento-imparcial",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://imparcialoaxaca.mx/arte-y-cultura/3xj/invitan-a-ni\u00f1os-de-todo-el-pa\u00eds-concurso-de-cuento-de-lucha-libre-a-2-de-3-cuartillas"
-        },
-        "deportes.terra.es/2015/05/texano-e-hijo-del-fantasma-van-a-la-copa-mundial": {
-            "title": "Texano e Hijo del Fantasma van a la Copa Mundial de Lucha...",
-            "snippet": "Texano Jr. se gan\u00f3 su lugar en Lucha Libre World Cup, ya que con ayuda de Cibern\u00e9tico, El Hijo del Fantasma e incluso del Hijo del Tirantes, hizo caer a La Parka, con base en marruller\u00edas y trampas, ya que el final del encuentro consisti\u00f3 en un...",
-            "date": "2015-05-01",
-            "tags": "libre,world,mundial,hijo,lucha",
-            "recuweb_url": "http://es.recuweb.com/deportes.terra.es/2015/05/texano-e-hijo-del-fantasma-van-a-la-copa-mundial",
+        "andro4all.com/2015/05/la-lucha-libre-llega-a-terreno-inmortal-con-wwe-immortals": {
+            "title": "La lucha libre llega a terreno inmortal con WWE Immortals...",
+            "snippet": "La primera vez que iniciamos el juego, nos damos cuenta de que este va a convertirse en nuestro desestresante de turno. Machacar a nuestro oponente ser\u00e1 la misi\u00f3n principal. Los luchadores de la WWE se han convertido en seres inmortales con...",
+            "date": "2015-05-02",
+            "tags": "wwe,lucha,libre",
+            "recuweb_url": "http://es.recuweb.com/andro4all.com/2015/05/la-lucha-libre-llega-a-terreno-inmortal-con-wwe-immortals",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=es",
-            "source_url": "http://deportes.terra.es/luchas/texano-jr-e-hijo-del-fantasma-van-a-la-copa-mundial-de-lucha-libre,d0b0a863a110966c0b18dc7ba2e4c8ccwv3uRCRD.html"
+            "source_url": "http://andro4all.com/2015/05/wwe-immortals"
         },
         "publimetro.com.mx/2015/04/convocan-a-concurso-de-cuento-lucha-libre-2-3-cuartillas": {
             "title": "Convocan a concurso de cuento de lucha libre A 2 de 3 cuartillas...",
             "snippet": "Para estimular la capacidad literaria de ni\u00f1os y ni\u00f1as de entre siete y 12 a\u00f1os de edad, el Consejo Mundial de Lucha Libre (CMLL), el Instituto Nacional de Lenguas Ind\u00edgenas (Inali) y el Consejo Nacional para la Cultura y las Artes (Conaculta...",
             "date": "2015-04-30",
             "categories": "lucha-libre,cultura",
-            "tags": "consejo,consejo_nacional,nacional,lucha,lucha_libre,libre,consejo_mundial,mundial,edad,ni\u00f1os,siete,concurso,cuento,cuartillas",
+            "tags": "consejo,nacional,lucha,lucha_libre,libre,consejo_mundial,mundial,ni\u00f1os",
             "recuweb_url": "http://es.recuweb.com/cultura/publimetro.com.mx/2015/04/convocan-a-concurso-de-cuento-lucha-libre-2-3-cuartillas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=es",
             "source_url": "http://publimetro.com.mx/vida/convocan-a-concurso-de-cuento-de-lucha-libre-a-2-de-3-cuartillas/modD!GQ6VEmInYud6/"
         },
-        "mediotiempo.com/2015/04/falleci%C3%B3-el-promotor-de-lucha-libre-carlos-m%C3%A1ynez": {
-            "title": "Falleci\u00f3 el promotor de lucha libre Carlos M\u00e1ynez...",
-            "snippet": "Una vez m\u00e1s la lucha libre mexicana est\u00e1 de luto, pues falleci\u00f3 uno de los promotores m\u00e1s emblem\u00e1ticos del pancracio nacional en los \u00faltimos 30 a\u00f1os, Carlos M\u00e1ynez. Participe de la \u00e9poca del Toreo de Cuatro Caminos junto a su t\u00edo Francisco...",
+        "mediotiempo.com/2015/04/falleci%C3%B3-el-promotor-de-lucha-libre-carlos-m%C3%A1ynez-medio": {
+            "title": "Falleci\u00f3 el promotor de lucha libre Carlos M\u00e1ynez - Medio...",
+            "snippet": "Medio \u00f3 el promotor de lucha libre Carlos M\u00e1ynezMedio vez m\u00e1s la lucha libre mexicana est\u00e1 de luto, pues falleci\u00f3 uno de los promotores m\u00e1s emblem\u00e1ticos del pancracio nacional en los \u00faltimos 30 a\u00f1os, Carlos M\u00e1ynez. Participe de la \u00e9poca...",
             "date": "2015-04-30",
-            "tags": "nacional,lucha,libre",
-            "recuweb_url": "http://es.recuweb.com/mediotiempo.com/2015/04/falleci%C3%B3-el-promotor-de-lucha-libre-carlos-m%C3%A1ynez",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=es",
+            "tags": "falleci\u00f3,nacional,mexicana,lucha,libre",
+            "recuweb_url": "http://es.recuweb.com/mediotiempo.com/2015/04/falleci%C3%B3-el-promotor-de-lucha-libre-carlos-m%C3%A1ynez-medio",
+            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre&output=atom&nord=1",
             "source_url": "http://mediotiempo.com/mas-deportes/lucha-libre/noticias/2015/04/30/fallecio-el-promotor-de-lucha-libre-carlos-maynez"
         },
         "entornointeligente.com/2015/04/hitler-revive-en-alemania-con-su-obra-mi-lucha-libre": {
             "title": "Hitler revive en Alemania con su obra 'Mi lucha', libre de derechos - EntornoInteligente...",
             "snippet": "Hitler revive en Alemania con su obra 'Mi lucha', libre de derechosEntornoInteligenteHitler revive en Alemania con su obra 'Mi lucha', libre de derechos/El Mundo/El 31 de diciembre de 2015. Cada vez m\u00e1s ag\u00f3nico. Y cada d\u00eda m\u00e1s cerca. Ese d\u00eda...",
             "date": "2015-04-30",
-            "tags": "d\u00eda,d\u00eda-m\u00e1s-cerca,cerca,ag\u00f3nico,diciembre,derechos,obra,revive,hitler,alemania,lucha,libre,mundo,ese",
+            "tags": "d\u00eda,lucha,libre,mundo",
             "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/hitler-revive-en-alemania-con-su-obra-mi-lucha-libre",
-            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=lucha%2Blibre&output=atom&nord=1",
             "source_url": "http://entornointeligente.com/articulo/5803772/Hitler-revive-en-Alemania-con-su-obra-Mi-lucha-libre-de-derechos-29042015"
-        },
-        "elcomercio.es/2015/04/lucha-libre-en-el-pelot%C3%B3n": {
-            "title": "Lucha libre en el pelot\u00f3n...",
-            "snippet": "Registro Mercantil de Asturias, Tomo, Libro 0, Folio 43, Hoja.: A-33600529 Domicilio social en Calle diario El comercio, n\u00famero 1 C.P. 33207, Gij\u00f3n, Asturias, Espa\u00f1a Correo electr\u00f3nico de contacto:...",
-            "date": "2015-04-30",
-            "tags": "lucha,libre,libro",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.es/2015/04/lucha-libre-en-el-pelot%C3%B3n",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=es",
-            "source_url": "http://elcomercio.es/videos/deportes/ciclismo/201504/30/lucha-libre-peloton-7d1sj3raeamu1qo0rpir8t4vi-mm.html"
-        },
-        "elmundo.es/2015/04/hitler-revive-en-alemania-con-su-obra-mi-lucha-libre": {
-            "title": "Hitler revive en Alemania con su obra 'Mi lucha', libre de derechos...",
-            "snippet": "El 31 de diciembre de 2015. Cada vez m\u00e1s ag\u00f3nico. Y cada d\u00eda m\u00e1s cerca. Ese d\u00eda expiran los derechos de autor de Mein Kampf, el libro de Adolf Hitler. La supuesta biblia del nazismo. 70 a\u00f1os despu\u00e9s de la muerte del dictador, Alemania vuelve...",
-            "date": "2015-04-29",
-            "tags": "libro,d\u00eda,derechos,d\u00eda-m\u00e1s-cerca,cerca,ag\u00f3nico,diciembre,obra,revive,hitler,alemania,lucha,libre,ese",
-            "recuweb_url": "http://es.recuweb.com/elmundo.es/2015/04/hitler-revive-en-alemania-con-su-obra-mi-lucha-libre",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/la-aventura-de-la-historia/2015/04/29/5540fb47e2704ef2528b456b.html"
         }
     }
 }

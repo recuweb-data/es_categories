@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "desarrollo-web",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/desarrollo-web/",
@@ -16,9 +16,9 @@
             "snippet": "Contamos con diferentes paquetes de p\u00e1ginas web responsivas que se ajustan a la medida y necesidades de su empresa. Paquete b\u00e1sico: P\u00e1gina informativa Dominio y hospedaje por un a\u00f1o 5 cuentas de []...",
             "date": "2015-03-28",
             "author_name": "azucenaorea",
-            "tags": "web,desarrollo,empresa",
+            "tags": "hospedaje,medida,p\u00e1ginas,p\u00e1gina,web,desarrollo,empresa,dominio",
             "recuweb_url": "http://es.recuweb.com/sistematicamx.wordpress.com/2015/03/desarrollo-de-p%C3%A1ginas-web",
-            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://sistematicamx.wordpress.com/2015/03/28/desarrollo-de-paginas-web/"
         },
         "desarrolloweb.com/2015/03/accede-a-virtualhost-desde-cualquier-dispositivo-de-la-red-local": {
@@ -26,7 +26,7 @@
             "snippet": "Generalmente ser\u00e1 suficiente para muchos casos, ahora bien, en el desarrollo de la web actual, no siempre te vale con probar las cosas con tu ordenador local para ver si est\u00e1 todo correcto, lo quieres hacer desde otros...",
             "date": "2015-03-25",
             "author_name": "desconocido",
-            "tags": "hacer,correcto,ahora,red,desarrollo,web",
+            "tags": "probar,local,correcto,accede,red,desarrollo,web",
             "recuweb_url": "http://es.recuweb.com/desarrolloweb.com/2015/03/accede-a-virtualhost-desde-cualquier-dispositivo-de-la-red-local",
             "resource_url": "http://www.google.com/search?q=desarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://desarrolloweb.com/articulos/acceso-virtualhost-dispositivo-red-local.html"
@@ -36,9 +36,9 @@
             "snippet": "Origen de WWW: La World Wide Web es la culminaci\u00f3n del hipertexto y, como tal, sus or\u00edgenes se remontan a la propia historia del hipertexto. Quince a\u00f1os despu\u00e9s de []...",
             "date": "2015-03-19",
             "author_name": "guarinandres",
-            "tags": "web,desarrollo",
+            "tags": "propia,web,desarrollo",
             "recuweb_url": "http://es.recuweb.com/guarinandres.wordpress.com/2015/03/origen-y-desarrollo-de-la-wordl-wide-web-www",
-            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://guarinandres.wordpress.com/2015/03/19/origen-y-desarrollo-de-la-wordl-wide-web-www/"
         },
         "ppazul171993.wordpress.com/2015/03/1-3-tecnolog%C3%ADas-para-el-desarrollo-de-aplicaciones-web": {
@@ -47,9 +47,9 @@
             "date": "2015-03-14",
             "author_name": "buqueextremo",
             "categories": "tecnologia",
-            "tags": "tener,tan,tecnolog\u00edas,desarrollo,aplicaciones,web",
+            "tags": "tener,aplicaciones,desarrollo,web",
             "recuweb_url": "http://es.recuweb.com/tecnologia/ppazul171993.wordpress.com/2015/03/1-3-tecnolog%C3%ADas-para-el-desarrollo-de-aplicaciones-web",
-            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://ppazul171993.wordpress.com/1-3-tecnologias-para-el-desarrollo-de-aplicaciones-web/"
         },
         "botonescreativos.wordpress.com/2015/01/dise%C3%B1o-y-desarrollo-web": {
@@ -58,10 +58,53 @@
             "date": "2015-01-03",
             "author_name": "Botones Creativos",
             "categories": "internet,desarrollo-web",
-            "tags": "red,desarrollo,desarrollo_web,web,dise\u00f1o",
+            "tags": "desarrollo,desarrollo_web,web,dise\u00f1o,red",
             "recuweb_url": "http://es.recuweb.com/desarrollo-web/botonescreativos.wordpress.com/2015/01/dise%C3%B1o-y-desarrollo-web",
-            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb%2Bdesarrollo%2Bweb&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=desarrollo%2Bweb&f=feed&page=1",
             "source_url": "http://botonescreativos.wordpress.com/diseno-y-desarrollo-web/"
+        },
+        "webartesanal.com/2014/05/c%C3%B3mo-trasladar-o-migrar-una-tienda-prestashop-de-localhost": {
+            "title": "C\u00f3mo trasladar o migrar una tienda Prestashop de localhost a un...",
+            "snippet": "Especialistas y expertos en dise\u00f1o web y programaci\u00f3n web... Servidor local: Nuestra tienda en desarrollo est\u00e1 instalada en la ruta/localhost/tienda, donde localhost ser\u00eda el dominio local y tienda un subdirectorio. Servidor...",
+            "date": "2014-05-16",
+            "author_name": "cdoral",
+            "categories": "prestashop",
+            "tags": "localhost,dominio,local,expertos,dise\u00f1o,web,programaci\u00f3n,servidor,desarrollo",
+            "recuweb_url": "http://es.recuweb.com/prestashop/webartesanal.com/2014/05/c%C3%B3mo-trasladar-o-migrar-una-tienda-prestashop-de-localhost",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdesarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://webartesanal.com/blog/como-trasladar-o-migrar-una-tienda-prestashop-de-localhost-a-un-servidor-online/"
+        },
+        "fernandoplaza.com/2014/04/wordpress-en-entorno-de-desarrollo-localhost-fernando-plaza": {
+            "title": "WordPress en entorno de desarrollo localhost Fernando Plaza...",
+            "snippet": "... accede a tu sitio web est\u00e1 en desarrollo o en producci\u00f3n, y en caso de estar en desarrollo cambiar el valor de las opciones siteurl y home a la URL en desarrollo, en mi caso localhost:82 (en lugar de tirar del valor...",
+            "date": "2014-04-13",
+            "author_name": "Fernando Plaza",
+            "categories": "wordpress",
+            "tags": "lugar,caso,localhost,producci\u00f3n,accede,sitio,wordpress,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/wordpress/fernandoplaza.com/2014/04/wordpress-en-entorno-de-desarrollo-localhost-fernando-plaza",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdesarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fernandoplaza.com/2014/04/wordpress-en-entorno-de-desarrollo-localhost.asp"
+        },
+        "xangelux.wordpress.com/2012/05/php-mail-localhost-smtp-gmail-configuraci%C3%B3n-para-desarrollo-web": {
+            "title": "PHP mail localhost smtp gmail: Configuraci\u00f3n para desarrollo web...",
+            "snippet": "PHP mail localhost smtp gmail: Configuraci\u00f3n para desarrollo web (Configure for web development). 16 may. Gmail Icon Una buena manera de probar un sitio web que enviar\u00e1 correos ya sea autom\u00e1ticamente o mediante intervenci\u00f3n del...",
+            "date": "2012-05-16",
+            "author_name": "Angelux",
+            "categories": "php",
+            "tags": "mediante,manera,probar,sitio,localhost,desarrollo,web",
+            "recuweb_url": "http://es.recuweb.com/php/xangelux.wordpress.com/2012/05/php-mail-localhost-smtp-gmail-configuraci%C3%B3n-para-desarrollo-web",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdesarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://xangelux.wordpress.com/2012/05/16/php-mail-localhost-smtp-gmail-configuracion-para-desarrollo-web-configure-for-web-development/"
+        },
+        "jonsegador.com/2010/10/acceder-a-la-web-en-desarrollo-propia-m%C3%A1quina-localhost": {
+            "title": "Acceder a la web en desarrollo en la propia m\u00e1quina (localhost)...",
+            "snippet": "Emulador Android: Acceder a la web en desarrollo en la propia m\u00e1quina (localhost). octubre 20, 2010. En mi caso, cuando estoy desarrollando una aplicaci\u00f3n web (o m\u00f3vil) desarrollo en local sincronizando con un servidor svn. Para poder ir...",
+            "date": "2010-10-19",
+            "author_name": "Jon",
+            "tags": "local,servidor,caso,propia,web,desarrollo,localhost",
+            "recuweb_url": "http://es.recuweb.com/jonsegador.com/2010/10/acceder-a-la-web-en-desarrollo-propia-m%C3%A1quina-localhost",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdesarrollo%2Bweb&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://jonsegador.com/2010/10/emulador-android-acceder-web-en-desarrollo-en-la-propia-maquina-localhost/"
         }
     }
 }

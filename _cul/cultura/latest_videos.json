@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "cultura",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/cultura/",
@@ -11,15 +11,39 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/cultura/cultura/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/nike-es-la-cultura": {
+            "title": "Nike es la cultura...",
+            "snippet": "interpretacion libre de una economia de mercado capitalistaAuthor: esperanzaenlatempestadTags: Posted: 07 May 2015Rating:: 0...",
+            "date": "2015-05-07",
+            "author_name": "esperanzaenlatempestad",
+            "categories": "economia,cultura",
+            "tags": "mercado,cultura",
+            "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/05/nike-es-la-cultura",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2pcgm8_nike-es-la-cultura_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2pcgm8_nike-es-la-cultura_creation"
+        },
+        "dailymotion.com/2015/05/reporte-semanal-con-el-profesor-brice%C3%B1o-la-cultura-del-gestor": {
+            "title": "Reporte Semanal con el profesor Brice\u00f1o: La cultura del gestor en Venezuela...",
+            "snippet": "Jos\u00e9 Rafael Brice\u00f1o habla, con un toque de humor, sobre la cultura del gestor en Venezuela en el episodio 43 de su Reporte Semanal. Cortes\u00eda de Reporte Semanal con Jos\u00e9 Rafael Brice\u00f1oAuthor: elnacionalwebTags: Profesor Brice\u00f1o La Cultura...",
+            "date": "2015-05-04",
+            "author_name": "elnacionalweb",
+            "categories": "cultura,humor",
+            "tags": "cultura",
+            "recuweb_url": "http://es.recuweb.com/humor/dailymotion.com/2015/05/reporte-semanal-con-el-profesor-brice%C3%B1o-la-cultura-del-gestor",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2p359n_reporte-semanal-con-el-profesor-briceno-la-cultura-del-gestor-en-venezuela_fun",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2p359n_reporte-semanal-con-el-profesor-briceno-la-cultura-del-gestor-en-venezuela_fun"
+        },
         "dailymotion.com/2015/05/la-gastronom%C3%ADa-y-cultura-chilena-llegan-a-expo-de-mil%C3%A1n": {
             "title": "La gastronom\u00eda y la cultura chilena llegan a la Expo de Mil\u00e1n...",
             "snippet": "Mil\u00e1n (Italia), 1 may (EFE).- (Imagen: \u00cd\u00f1igo \u00c1lvarez-Miranda) Chile inaugur\u00f3 hoy su pabell\u00f3n en la Expo de Mil\u00e1n, donde mostrar\u00e1 al mundo su gran riqueza en una muestra que pretende abordar los retos de la alimentaci\u00f3n en el siglo XXI y que...",
             "date": "2015-05-01",
             "author_name": "AgenciaEFE",
             "categories": "cultura",
-            "tags": "gastronom\u00eda,cultura,efe,imagen",
+            "tags": "cultura,efe,imagen",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/05/la-gastronom%C3%ADa-y-cultura-chilena-llegan-a-expo-de-mil%C3%A1n",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2oqs4a_la-gastronomia-y-la-cultura-chilena-llegan-a-la-expo-de-milan_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2oqs4a_la-gastronomia-y-la-cultura-chilena-llegan-a-la-expo-de-milan_news"
         },
@@ -31,7 +55,7 @@
             "categories": "cultura",
             "tags": "ministerio,cultura,noticiastvperuanatags",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/southern-el-ministerio-de-cultura-no-ha-cumplido-su-tarea",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ogsak_southern-el-ministerio-de-cultura-no-ha-cumplido-su-tarea_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ogsak_southern-el-ministerio-de-cultura-no-ha-cumplido-su-tarea_news"
         },
@@ -41,9 +65,9 @@
             "date": "2015-04-28",
             "author_name": "AgenciaEFE",
             "categories": "literatura,cultura",
-            "tags": "cultura,abr,efe,imagen",
+            "tags": "cultura,efe,imagen",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/rusia-dedica-un-a%C3%B1o-a-la-literatura-y-cultura-en-espa%C3%B1ol",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o93tk_rusia-dedica-un-ano-a-la-literatura-y-la-cultura-en-espanol_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2o93tk_rusia-dedica-un-ano-a-la-literatura-y-la-cultura-en-espanol_news"
         },
@@ -53,9 +77,9 @@
             "date": "2015-04-26",
             "author_name": "teleSUR_tv",
             "categories": "politica,cultura",
-            "tags": "cultura,telesur",
+            "tags": "cultura",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/guaran%C3%ADes-aportan-su-cultura-e-idioma-a-brasil",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o2uhx_guaranies-aportan-su-cultura-e-idioma-a-brasil_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2o2uhx_guaranies-aportan-su-cultura-e-idioma-a-brasil_news"
         },
@@ -65,9 +89,9 @@
             "date": "2015-04-25",
             "author_name": "noticiastvperuana",
             "categories": "pop,cultura",
-            "tags": "comunidad,cultura",
+            "tags": "cultura",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/gast%C3%B3n-ugalde-me-sent%C3%ADa-un-ignorante-de-mi-propia-cultura",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nyclv_gaston-ugalde-me-sentia-un-ignorante-de-mi-propia-cultura_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nyclv_gaston-ugalde-me-sentia-un-ignorante-de-mi-propia-cultura_news"
         },
@@ -79,21 +103,9 @@
             "categories": "cultura,television,rally,rally-dakar",
             "tags": "ministerio,cultura",
             "recuweb_url": "http://es.recuweb.com/rally-dakar/dailymotion.com/2015/04/rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n4ay2_rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado-de-su-realizacion_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n4ay2_rally-dakar-2016-ministerio-de-cultura-no-ha-sido-notificado-de-su-realizacion_news"
-        },
-        "dailymotion.com/2015/04/gastronom%C3%ADa-cultura-y-naturaleza-ejes-de-la-oferta-tur%C3%ADstica-extremadura": {
-            "title": "Gastronom\u00eda, cultura y naturaleza, ejes de la oferta tur\u00edstica de Extremadura...",
-            "snippet": "Barcelona, 17 abr (EFE).- El consejero de Fomento, Vivienda y Turismo de la Junta de Extremadura, V\u00edctor Del Moral, ha presentado hoy en el sal\u00f3n B-Travel de Barcelona la oferta tur\u00edstica de su comunidad basada en tres grandes ejes: gastronom\u00eda,...",
-            "date": "2015-04-17",
-            "author_name": "AgenciaEFE",
-            "categories": "cultura,naturaleza",
-            "tags": "comunidad,cultura,gastronom\u00eda,abr,efe",
-            "recuweb_url": "http://es.recuweb.com/naturaleza/dailymotion.com/2015/04/gastronom%C3%ADa-cultura-y-naturaleza-ejes-de-la-oferta-tur%C3%ADstica-extremadura",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n0791_gastronomia-cultura-y-naturaleza-ejes-de-la-oferta-turistica-de-extremadura_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n0791_gastronomia-cultura-y-naturaleza-ejes-de-la-oferta-turistica-de-extremadura_news"
         },
         "dailymotion.com/2015/04/alcalde-de-lima-cuestionado-por-atentar-contra-cultura-obrera": {
             "title": "Alcalde de Lima, cuestionado por atentar contra cultura obrera...",
@@ -103,7 +115,7 @@
             "categories": "cultura",
             "tags": "cultura",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/alcalde-de-lima-cuestionado-por-atentar-contra-cultura-obrera",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura+cultura/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mvy2g_alcalde-de-lima-cuestionado-por-atentar-contra-cultura-obrera_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mvy2g_alcalde-de-lima-cuestionado-por-atentar-contra-cultura-obrera_news"
         },
@@ -113,23 +125,11 @@
             "date": "2015-04-09",
             "author_name": "noticiastvperuana",
             "categories": "cultura",
-            "tags": "cultura,noticiastvperuanatags",
+            "tags": "mercado,cultura,noticiastvperuanatags",
             "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/%C3%A1ngel-a%C3%B1a%C3%B1os-hemos-tenido-una-cultura-de-escasez-y-hoy-debemos",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m49ua_angel-ananos-hemos-tenido-una-cultura-de-escasez-y-hoy-debemos-crear-una-de-abundancia_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m49ua_angel-ananos-hemos-tenido-una-cultura-de-escasez-y-hoy-debemos-crear-una-de-abundancia_news"
-        },
-        "dailymotion.com/2015/04/experta-la-cultura-debe-figurar-en-el-proceso-de-paz-colombia": {
-            "title": "Experta: La cultura debe figurar en el proceso de paz de Colombia...",
-            "snippet": "En entrevista para teleSUR, la poetisa y dramaturga colombiana Patricia Ariza, coment\u00f3 que la comunidad art\u00edstica de esa naci\u00f3n tiene la intenci\u00f3n de incidir desde al \u00e1mbito cultural en el proceso de paz entre el gobierno y las FARC-EP, ya que...",
-            "date": "2015-04-08",
-            "author_name": "teleSUR_tv",
-            "categories": "cultura",
-            "tags": "comunidad,cultura,telesur",
-            "recuweb_url": "http://es.recuweb.com/cultura/dailymotion.com/2015/04/experta-la-cultura-debe-figurar-en-el-proceso-de-paz-colombia",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/cultura/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m2yd9_experta-la-cultura-debe-figurar-en-el-proceso-de-paz-de-colombia_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m2yd9_experta-la-cultura-debe-figurar-en-el-proceso-de-paz-de-colombia_news"
         }
     }
 }

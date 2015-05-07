@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bici-critica",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/bici-critica/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/bici-critica/bici-critica/blogs.json"
     },
     "items": {
+        "madrid.bicicritica.com/2015/04/los-ciclocarriles-bici-cr%C3%ADtica": {
+            "title": "Los Ciclocarriles Bici Cr\u00edtica...",
+            "snippet": "\u00a1Muy buenas! Soy un estudiante de Ingenier\u00eda de Caminos, Canales y Puertos y estoy haciendo el proyecto final de carrera sobre los Ciclocarriles. El objetivo de mi proyecto es estudiar su funcionamiento y su efectividad.",
+            "date": "2015-04-23",
+            "author_name": "prove23",
+            "categories": "bici-critica,ingenieria",
+            "tags": "buenas,bici,bici_cr\u00edtica,cr\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/ingenieria/madrid.bicicritica.com/2015/04/los-ciclocarriles-bici-cr%C3%ADtica",
+            "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://madrid.bicicritica.com/ciclocarriles"
+        },
         "madrid.bicicritica.com/2015/04/problemilla-con-la-p%C3%A1gina-de-bicicr%C3%ADtica-bici-cr%C3%ADtica": {
             "title": "Problemilla con la p\u00e1gina de bicicr\u00edtica Bici Cr\u00edtica...",
             "snippet": "Problemilla con la p\u00e1gina de bicicr\u00edtica. Enviado por peter en Mar, 2015-04-21 22:23. \u00bfalguien sabe porque mi anterior publicaci\u00f3n en no sale en el twitter de la bicicr\u00edtica? me refiero a esta...",
@@ -28,7 +39,7 @@
             "date": "2015-04-19",
             "author_name": "Juan Ventura",
             "categories": "bici-critica",
-            "tags": "portavoz,uso,d\u00eda,d\u00eda_mundial,mundial,bici,bici_cr\u00edtica,cr\u00edtica,pa\u00edses,pa\u00edses-que-entr\u00f3,entr\u00f3,diario,mundo,pedalean,salvador,\u00fal,formar,parte,colectivo,social,celebra,bicicleta",
+            "tags": "portavoz,uso,d\u00eda,d\u00eda_mundial,mundial,bici,bici_cr\u00edtica,cr\u00edtica,pa\u00edses,pa\u00edses-que-entr\u00f3,entr\u00f3,entr\u00f3-formar,formar,diario,mundo,pedalean,salvador,\u00fal,parte,colectivo,social,celebra,bicicleta",
             "recuweb_url": "http://es.recuweb.com/bici-critica/elmundo.com.sv/2015/04/diario-el-mundo-pedalean-para-vencer-miedo-y-animar",
             "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://elmundo.com.sv/pedalean-para-vencer-el-miedo-y-animar-a-mas-ciclistas/"
@@ -39,9 +50,9 @@
             "date": "2015-03-06",
             "author_name": "LuisE",
             "categories": "bici-critica",
-            "tags": "estaba,bicicleta,bici,bici_cr\u00edtica,cr\u00edtica,s\u00e1bado",
+            "tags": "estaba,buenas,bicicleta,bici,bici_cr\u00edtica,cr\u00edtica,s\u00e1bado",
             "recuweb_url": "http://es.recuweb.com/bici-critica/madrid.bicicritica.com/2015/03/bicicleta-robada-bici-cr%C3%ADtica",
-            "resource_url": "http://www.google.com/search?q=bici%2Bcritica%2Bbici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://madrid.bicicritica.com/bicicleta-robada"
         },
         "madrid.bicicritica.com/2015/01/la-verdad-de-gasolina-barata-y-sus-efectos-bici-cr%C3%ADtica": {
@@ -52,27 +63,17 @@
             "categories": "bici-critica",
             "tags": "uso,mundo,bici,bici_cr\u00edtica,cr\u00edtica,\u00fal",
             "recuweb_url": "http://es.recuweb.com/bici-critica/madrid.bicicritica.com/2015/01/la-verdad-de-gasolina-barata-y-sus-efectos-bici-cr%C3%ADtica",
-            "resource_url": "http://www.google.com/search?q=bici%2Bcritica%2Bbici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://madrid.bicicritica.com/verdad-gasolina-barata-sus-efectos-ambientales-vallecas-texas"
-        },
-        "karabanchel.com/2015/01/fiesta-de-recepci%C3%B3n-la-bicicr%C3%ADtica-el-29-enero-en-eko": {
-            "title": "Fiesta de recepci\u00f3n de la Bicicr\u00edtica el 29 enero en el EKO...",
-            "snippet": "As\u00ed lo cuentan ellos: \"La buena gente de La Piratona de Getafe organizan el jueves 29 en El Eko una fiesta de recepci\u00f3n de la Bicicr\u00edtica de enero, con musiquita y m\u00e1s sorpresas, para autofinanciar la Criticona 2015.",
-            "date": "2015-01-27",
-            "author_name": "frankarabanchel",
-            "tags": "autofinanciar,musiquita,musiquita-m\u00e1s-sorpresas,sorpresas,enero,fiesta,fiesta-de-recepci\u00f3n,recepci\u00f3n,organizan,piratona,buena,buena-gente,gente,bicicr\u00edtica,eko,getafe,jueves,criticona",
-            "recuweb_url": "http://es.recuweb.com/karabanchel.com/2015/01/fiesta-de-recepci%C3%B3n-la-bicicr%C3%ADtica-el-29-enero-en-eko",
             "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://karabanchel.com/2015/01/27/fiesta-de-recepcion-de-la-bicicritica-el-29-enero-en-el-eko/"
+            "source_url": "http://madrid.bicicritica.com/verdad-gasolina-barata-sus-efectos-ambientales-vallecas-texas"
         },
         "eslaeko.net/2015/01/recepci%C3%B3n-de-la-bicicr%C3%ADtica-enero-eko": {
             "title": "Recepci\u00f3n de la Bicicr\u00edtica de enero!. EKO...",
             "snippet": "bicicritica-eko La buena gente de La Piratona de Getafe organizan el jueves 29 en El Eko una fiesta de recepci\u00f3n de la Bicicr\u00edtica de enero, con musiquita y m\u00e1s sorpresas, para autofinanciar la Criticona 2015. Os esperamos...",
             "date": "2015-01-25",
             "author_name": "admin",
-            "tags": "autofinanciar,musiquita,musiquita-m\u00e1s-sorpresas,sorpresas,fiesta,fiesta-de-recepci\u00f3n,recepci\u00f3n,organizan,piratona,buena,buena-gente,gente,enero,bicicr\u00edtica,bicicritica,eko,getafe,jueves,criticona,esperamos",
+            "tags": "piratona,enero,bicicr\u00edtica,bicicritica,eko,jueves,criticona,esperamos",
             "recuweb_url": "http://es.recuweb.com/eslaeko.net/2015/01/recepci%C3%B3n-de-la-bicicr%C3%ADtica-enero-eko",
-            "resource_url": "http://www.google.com/search?q=bici%2Bcritica%2Bbici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://eslaeko.net/2015/01/recepcion-de-la-bicicritica-de-enero/"
         },
         "piratona.transformandogetafe.org/2015/01/fin-de-bicicr%C3%ADtica-en-el-eko-pro-piratona": {
@@ -82,7 +83,7 @@
             "author_name": "piratona",
             "tags": "piratona,bicicr\u00edtica,eko,enero,masa,cr\u00edtica,criticona",
             "recuweb_url": "http://es.recuweb.com/piratona.transformandogetafe.org/2015/01/fin-de-bicicr%C3%ADtica-en-el-eko-pro-piratona",
-            "resource_url": "http://www.google.com/search?q=bici%2Bcritica%2Bbici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://piratona.transformandogetafe.org/?p=54"
         },
         "ecologistasenacciontoledo.wordpress.com/2015/01/s%C3%A1bado-24-a-las-bicicr%C3%ADtica-de-toledo-se-suma-al": {
@@ -92,7 +93,7 @@
             "author_name": "ecologistasenacciontoledo",
             "tags": "esperamos,pr\u00f3ximo,s\u00e1bado,bicicr\u00edtica,llega",
             "recuweb_url": "http://es.recuweb.com/ecologistasenacciontoledo.wordpress.com/2015/01/s%C3%A1bado-24-a-las-bicicr%C3%ADtica-de-toledo-se-suma-al",
-            "resource_url": "http://www.google.com/search?q=bici%2Bcritica%2Bbici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ecologistasenacciontoledo.wordpress.com/2015/01/19/sabado-24-a-las-12-00h-bicicritica-de-toledo-se-suma-al-leydecaza-clm-no/"
         },
         "bicissolidarias.wordpress.com/2014/11/bicicritica-madrid-pr%C3%B3ximo-jueves-27nov-a-las-20-00-en-cibeles": {
@@ -101,9 +102,9 @@
             "date": "2014-11-19",
             "author_name": "Bicis Solidarias",
             "categories": "bici-critica",
-            "tags": "grupo,bici,bici_cr\u00edtica,bicicritica,cr\u00edtica,pr\u00f3ximo,jueves,bicicritica_madrid,madrid,masa,cic,\u00fal",
+            "tags": "grupo,masa,bici,bici_cr\u00edtica,bicicritica,cr\u00edtica,pr\u00f3ximo,jueves,bicicritica_madrid,madrid,cic,\u00fal",
             "recuweb_url": "http://es.recuweb.com/bici-critica/bicissolidarias.wordpress.com/2014/11/bicicritica-madrid-pr%C3%B3ximo-jueves-27nov-a-las-20-00-en-cibeles",
-            "resource_url": "http://es.search.wordpress.com/?q=bici%2Bcritica%2Bbici%2Bcritica&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=bici%2Bcritica&f=feed&page=1",
             "source_url": "http://bicissolidarias.wordpress.com/2014/11/19/bicicritica-madrid-proximo-jueves-27nov-a-las-2000-en-cibeles/"
         },
         "madrid.bicicritica.com/2014/09/pre-kedadas-por-barrios-ve-en-grupo-a-bici-cr%C3%ADtica": {
@@ -114,7 +115,7 @@
             "categories": "bici-critica",
             "tags": "son,grupo,cr\u00edtica,bici,bici_cr\u00edtica,noviembre",
             "recuweb_url": "http://es.recuweb.com/bici-critica/madrid.bicicritica.com/2014/09/pre-kedadas-por-barrios-ve-en-grupo-a-bici-cr%C3%ADtica",
-            "resource_url": "http://www.google.com/search?q=bici%2Bcritica%2Bbici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=bici%2Bcritica&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://madrid.bicicritica.com/pre-kedadas-barrios-ve-grupo-cibeles-mini-masas-criticas"
         }
     }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "papa-francisco",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/papa-francisco/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/papa-francisco/papa-francisco/blogs.json"
     },
     "items": {
+        "elpais.com.uy/2015/05/el-papa-francisco-recibir%C3%A1-a-mujica-en-vaticano-pa%C3%ADs": {
+            "title": "El Papa Francisco recibir\u00e1 a Mujica en el Vaticano - El Pa\u00eds...",
+            "snippet": "El expresidente uruguayo, Jos\u00e9 Mujica, viajar\u00e1 en junioal Pa\u00eds Vasco espa\u00f1ol para visitar la localidad de donde es originaria su familia paterna, Muxica. Aprovechar\u00e1 para visitar al papa Francisco en el Vaticano.",
+            "date": "2015-05-03",
+            "author_name": "Diario EL PAIS",
+            "categories": "papa-francisco",
+            "tags": "espa\u00f1ol,pa\u00eds,papa,papa_francisco,francisco,vaticano",
+            "recuweb_url": "http://es.recuweb.com/papa-francisco/elpais.com.uy/2015/05/el-papa-francisco-recibir%C3%A1-a-mujica-en-vaticano-pa%C3%ADs",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elpais.com.uy/informacion/papa-recibira-mujica-vaticano.html"
+        },
+        "noticias.starmedia.com/2015/05/papa-francisco-defiende-canonizaci%C3%B3n-de-fray-jun%C3%ADpero-serra": {
+            "title": "Papa Francisco defiende canonizaci\u00f3n de fray Jun\u00edpero Serra...",
+            "snippet": "El papa Francisco defendi\u00f3 la canonizaci\u00f3n del fray Jun\u00edpero Serra ante las protestas realizadas por ind\u00edgenas estadounidenses.",
+            "date": "2015-05-02",
+            "author_name": "desconocido",
+            "categories": "papa-francisco",
+            "tags": "canonizaci\u00f3n,fray,jun\u00edpero,jun\u00edpero_serra,serra,papa,papa_francisco,francisco",
+            "recuweb_url": "http://es.recuweb.com/papa-francisco/noticias.starmedia.com/2015/05/papa-francisco-defiende-canonizaci%C3%B3n-de-fray-jun%C3%ADpero-serra",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://noticias.starmedia.com/sociedad/papa-francisco-defiende-canonizacion-fray-junipero-serra.html"
+        },
         "prensa.com/2015/05/papa-francisco-encomia-figura-de-fray-jun%C3%ADpero-serra": {
             "title": "Papa Francisco encomia figura de fray Jun\u00edpero Serra...",
             "snippet": "El papa Francisco encomi\u00f3 hoy la figura del misionero espa\u00f1ol Jun\u00edpero Serra, que ser\u00e1 canonizado el pr\u00f3ximo 24 de septiembre y al que consider\u00f3 \"uno de los padres fundadores de Estados Unidos\". En una misa...",
             "date": "2015-05-02",
             "author_name": "desconocido",
             "categories": "papa-francisco",
-            "tags": "estados,unidos,septiembre,ser\u00e1,espa\u00f1ol,jun\u00edpero,jun\u00edpero_serra,serra,papa,papa_francisco,francisco,fray,pr\u00f3ximo,padres,fundadores,misa",
+            "tags": "misa,septiembre,estados,unidos,pr\u00f3ximo,espa\u00f1ol,jun\u00edpero,jun\u00edpero_serra,serra,fray,papa,papa_francisco,francisco,ser\u00e1",
             "recuweb_url": "http://es.recuweb.com/papa-francisco/prensa.com/2015/05/papa-francisco-encomia-figura-de-fray-jun%C3%ADpero-serra",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://prensa.com/mundo/Papa-Francisco-encomia-figura-Junipero_0_4199580107.html"
-        },
-        "bolsamania.com/2015/05/las-15-enfermedades-del-liderazgo-seg%C3%BAn-el-papa-francisco": {
-            "title": "Las 15 enfermedades del liderazgo seg\u00fan el Papa Francisco...",
-            "snippet": "El Papa Francisco se ha convertido en toda una referencia para los l\u00edderes. Sus \u00faltimos discursos se han centrado en la cr\u00edtica a muchos gobiernos y empresas por la crisis econ\u00f3mica y social que vive buena parte del...",
-            "date": "2015-05-02",
-            "author_name": "BOLSAMANIA",
-            "categories": "papa-francisco",
-            "tags": "parte,papa,papa_francisco,francisco,\u00fal",
-            "recuweb_url": "http://es.recuweb.com/papa-francisco/bolsamania.com/2015/05/las-15-enfermedades-del-liderazgo-seg%C3%BAn-el-papa-francisco",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://bolsamania.com/noticias/empresas/las-15-enfermedades-del-liderazgo-segun-el-papa-francisco--709911.html"
         },
         "rpp.com.pe/2015/05/papa-francisco-hombre-le-colg%C3%B3-dos-veces-pensando-que-era": {
             "title": "Papa Francisco: hombre le colg\u00f3 dos veces pensando que era una...",
@@ -39,9 +50,9 @@
             "date": "2015-05-01",
             "author_name": "RPP Noticias",
             "categories": "papa-francisco",
-            "tags": "pasado,franco,franco_rabuffi,rabuffi,hombre,italiano,colg\u00f3,dos,broma,tel\u00e9fono,era,papa,papa_francisco,francisco",
+            "tags": "llama,papa,papa_francisco,francisco,dos",
             "recuweb_url": "http://es.recuweb.com/papa-francisco/rpp.com.pe/2015/05/papa-francisco-hombre-le-colg%C3%B3-dos-veces-pensando-que-era",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://rpp.com.pe/2015-05-01-papa-francisco-hombre-le-colgo-dos-veces-pensando-que-era-una-broma-noticia_793156.html"
         },
         "cnnespanol.cnn.com/2015/04/papa-francisco-desclasificar%C3%A1-los-archivos-sobre-la-dictadura-cnn": {
@@ -50,9 +61,9 @@
             "date": "2015-04-30",
             "author_name": "alvarovalde2020",
             "categories": "papa-francisco",
-            "tags": "dictadura,dictadura-militar,militar,\u00fal,archivos,papa,papa_francisco,francisco,cnn,espa\u00f1ol,vaticano,pa\u00eds,argentina",
+            "tags": "pa\u00eds,mundo,papa,papa_francisco,francisco,cnn,espa\u00f1ol,vaticano",
             "recuweb_url": "http://es.recuweb.com/papa-francisco/cnnespanol.cnn.com/2015/04/papa-francisco-desclasificar%C3%A1-los-archivos-sobre-la-dictadura-cnn",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/30/el-papa-francisco-desclasificara-los-archivos-sobre-la-dictadura-militar-argentina/"
         },
         "cnnespanol.cnn.com/2015/04/el-papa-francisco-se-refiere-a-la-brecha-salarial-de-g%C3%A9nero": {
@@ -61,9 +72,9 @@
             "date": "2015-04-29",
             "author_name": "Melissa Vel\u00e1squez Loaiza",
             "categories": "salario",
-            "tags": "trabajo,refiere,papa,francisco",
+            "tags": "dice,papa,francisco",
             "recuweb_url": "http://es.recuweb.com/salario/cnnespanol.cnn.com/2015/04/el-papa-francisco-se-refiere-a-la-brecha-salarial-de-g%C3%A9nero",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/29/el-papa-francisco-se-refiere-a-la-brecha-salarial-de-genero-como-un-escandalo/"
         },
         "cnnespanol.cnn.com/2015/04/correa-y-el-papa-francisco-ultiman-detalles-sobre-la-visita": {
@@ -71,30 +82,19 @@
             "snippet": "(CNN Espa\u00f1ol) El presidente Rafael Correa se reuni\u00f3 este martes hacia el mediod\u00eda (hora local) con el papa Francisco en una audiencia privada para cuadrar detalles de la visita del Pont\u00edfice a Ecuador el pr\u00f3ximo mes de...",
             "date": "2015-04-28",
             "author_name": "Melissa Vel\u00e1squez Loaiza",
-            "tags": "privada,hacia,correa,papa,francisco,visita,cnn,espa\u00f1ol,presidente,rafael,pont\u00edfice,ecuador,pr\u00f3ximo",
+            "tags": "pr\u00f3ximo,correa,papa,francisco,visita,cnn,espa\u00f1ol,pont\u00edfice,ecuador",
             "recuweb_url": "http://es.recuweb.com/cnnespanol.cnn.com/2015/04/correa-y-el-papa-francisco-ultiman-detalles-sobre-la-visita",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/28/correa-y-el-papa-francisco-ultiman-detalles-sobre-la-visita-a-ecuador/"
-        },
-        "news.va/2015/04/el-papa-francisco-rez%C3%B3-con-miles-de-peregrinos-por-la-calamidad": {
-            "title": "El Papa Francisco rez\u00f3 con miles de peregrinos por la calamidad en...",
-            "snippet": "Y saludando con afecto a todos los peregrinos provenientes de Roma, de Italia y de varios pa\u00edses, el Papa Francisco se dirigi\u00f3 en particular a los numerosos fieles polacos, que han peregrinado en ocasi\u00f3n del primer...",
-            "date": "2015-04-26",
-            "author_name": "desconocido",
-            "categories": "papa-francisco",
-            "tags": "primer,fieles,papa,papa_francisco,francisco,roma,italia",
-            "recuweb_url": "http://es.recuweb.com/papa-francisco/news.va/2015/04/el-papa-francisco-rez%C3%B3-con-miles-de-peregrinos-por-la-calamidad",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://news.va/es/news/el-papa-francisco-rezo-con-miles-de-peregrinos-por"
         },
         "cnsblog.wordpress.com/2015/04/el-papa-francisco-visitar%C3%A1-cuba-antes-de-comenzar-su-visita": {
             "title": "El papa Francisco visitar\u00e1 Cuba antes de comenzar su visita a...",
             "snippet": "Una monja mueve la bandera del Vaticano mientras asiste a la misa de Papa Juan Pablo II en La Habana el 25 de enero de 1998. El Vaticano confirm\u00f3 que Papa Francisco visitar\u00e1 Cuba en septiembre. (CNS/Alyssa Banta).",
             "date": "2015-04-22",
             "author_name": "Administrator1",
-            "tags": "septiembre,confirm\u00f3,papa,pablo,francisco,visitar\u00e1,cuba,visita,vaticano,misa",
+            "tags": "septiembre,confirm\u00f3,papa,misa,francisco,visitar\u00e1,cuba,visita,vaticano",
             "recuweb_url": "http://es.recuweb.com/cnsblog.wordpress.com/2015/04/el-papa-francisco-visitar%C3%A1-cuba-antes-de-comenzar-su-visita",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnsblog.wordpress.com/2015/04/22/el-papa-francisco-visitara-cuba-antes-de-comenzar-su-visita-a-estados-unidos/"
         },
         "cnnespanol.cnn.com/2015/04/el-papa-francisco-visitar%C3%A1-cuba-en-septiembre-cnnespa%C3%B1": {
@@ -102,9 +102,9 @@
             "snippet": "La Sala de Prensa del Vaticano confirm\u00f3 este mi\u00e9rcoles la visita del Papa Francisco a Cuba, como parte de su gira por Am\u00e9rica Latina y Estados Unidos en el segundo semestre de 2015.",
             "date": "2015-04-22",
             "author_name": "MelissaVel\u00e1squez",
-            "tags": "estados,estados_unidos,unidos,parte,papa,confirm\u00f3,septiembre,francisco,visitar\u00e1,cuba,prensa,vaticano,visita",
+            "tags": "estados,unidos,am\u00e9rica,am\u00e9rica_latina,latina,parte,papa,confirm\u00f3,septiembre,francisco,visitar\u00e1,cuba,prensa,vaticano,mi\u00e9rcoles,visita",
             "recuweb_url": "http://es.recuweb.com/cnnespanol.cnn.com/2015/04/el-papa-francisco-visitar%C3%A1-cuba-en-septiembre-cnnespa%C3%B1",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cnnespanol.cnn.com/2015/04/22/el-papa-francisco-visitara-cuba-en-septiembre/"
         },
         "news.va/2015/04/fechas-del-pr%C3%B3ximo-viaje-papa-francisco-a-latinoam%C3%A9rica": {
@@ -113,9 +113,9 @@
             "date": "2015-04-16",
             "author_name": "desconocido",
             "categories": "radio,papa-francisco",
-            "tags": "ser\u00e1,julio,papa,papa_francisco,francisco,pr\u00f3ximo,prensa,visita",
+            "tags": "santa,papa,papa_francisco,francisco,pr\u00f3ximo,oficina,prensa,visita,ser\u00e1",
             "recuweb_url": "http://es.recuweb.com/papa-francisco/news.va/2015/04/fechas-del-pr%C3%B3ximo-viaje-papa-francisco-a-latinoam%C3%A9rica",
-            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco%2Bpapa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=papa%2Bfrancisco&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://news.va/es/news/fechas-del-proximo-viaje-del-papa-francisco-a-lati"
         }
     }

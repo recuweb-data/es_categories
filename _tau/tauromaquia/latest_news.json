@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tauromaquia",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/tauromaquia/",
@@ -11,105 +11,105 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/tauromaquia/tauromaquia/blogs.json"
     },
     "items": {
+        "taurologia.com/2015/05/tauromaquia-2015-en-la-galer%C3%ADa-modus-operandi": {
+            "title": "Tauromaquia 2015, en la Galer\u00eda Modus Operandi...",
+            "snippet": "La Galer\u00eda Modus Operandi presentar Tauromaquia 2015, exposici\u00f3n colectiva de los artistas \u00c1lvaro Delgado, Andr\u00e9 Viard, David Arn\u00e1s, Elena Guerrero, Fernando Palacios, Pablo Lozano, Tico de la Rosa y Venancio Blanco, que podr\u00e1 visitarse...",
+            "date": "2015-05-05",
+            "categories": "tauromaquia",
+            "tags": "pablo,david,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/taurologia.com/2015/05/tauromaquia-2015-en-la-galer%C3%ADa-modus-operandi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
+            "source_url": "http://taurologia.com/seccion/tauromaquia-2015-galeria-modus-operandi-3618.htm"
+        },
+        "laopiniondemalaga.es/2015/05/la-diputaci%C3%B3n-hace-efectiva-disoluci%C3%B3n-del-contrato-centro-de-tauromaquia": {
+            "title": "La Diputaci\u00f3n hace efectiva la disoluci\u00f3n del contrato del Centro de la Tauromaquia...",
+            "snippet": "Ya lo anunci\u00f3 cuando salt\u00f3 la pol\u00e9mica por las condiciones del contrato y ayer se hizo efectiva la resoluci\u00f3n del acuerdo que vinculaba el Centro de la Tauromaquia que alberga la colecci\u00f3n Juan Barco en la plaza del Siglo con la Diputaci\u00f3n.",
+            "date": "2015-05-05",
+            "categories": "tauromaquia",
+            "tags": "juan,barco,colecci\u00f3n,hace,centro,tauromaquia,plaza,siglo",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/laopiniondemalaga.es/2015/05/la-diputaci%C3%B3n-hace-efectiva-disoluci%C3%B3n-del-contrato-centro-de-tauromaquia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
+            "source_url": "http://laopiniondemalaga.es/malaga/2015/05/06/diputacion-efectiva-disolucion-contrato-museo/763639.html"
+        },
+        "taurologia.com/2015/05/una-nueva-reflexi%C3%B3n-sobre-los-argumentos-acerca-de-la-dimensi%C3%B3n-cultural": {
+            "title": "Una nueva reflexi\u00f3n sobre los argumentos acerca de la dimensi\u00f3n cultural de la Tauromaquia...",
+            "snippet": "Para aportar elementos a ese argumentario protaurino, que hoy necesita la Taruomaquia, el historiador Jos\u00e9 Francisco Coello Ugalde analiza en este ensayo todo aquello relacionado con los diversos trabajos que han sido preparados y presentados en...",
+            "date": "2015-05-05",
+            "categories": "tauromaquia",
+            "tags": "jos\u00e9,nueva,argumentos,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/taurologia.com/2015/05/una-nueva-reflexi%C3%B3n-sobre-los-argumentos-acerca-de-la-dimensi%C3%B3n-cultural",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
+            "source_url": "http://taurologia.com/seccion/nueva-reflexion-sobre-argumentos-acerca-dimension-cultural-3614.htm"
+        },
+        "elcomercio.pe/2015/05/el-impresionante-auge-de-la-tauromaquia-popular-en-lima-comercio": {
+            "title": "El impresionante auge de la tauromaquia popular en Lima... - El Comercio...",
+            "snippet": "El ComercioEl impresionante auge de la tauromaquia popular en Lima...El ComercioNo solo en provincias. Tambi\u00e9n en Lima hay plazas populares como la de Villa Mar\u00eda del Triunfo en las que se dan decenas de corridas de toros al a\u00f1o. Quien crea que...",
+            "date": "2015-05-04",
+            "categories": "tauromaquia",
+            "tags": "corridas,hay,tauromaquia,triunfo,toros",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/elcomercio.pe/2015/05/el-impresionante-auge-de-la-tauromaquia-popular-en-lima-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
+            "source_url": "http://elcomercio.pe/blog/fiestabrava/2015/05/el-impresionante-auge-de-la-tauromaquia-popular-en-lima-metropolitana"
+        },
+        "elnuevoherald.com/2015/05/est%C3%A9tica-de-los-70-se-impone-en-la-pasarela-el-nuevo": {
+            "title": "Est\u00e9tica de los 70 se impone en la pasarela - El Nuevo Herald...",
+            "snippet": "El Nuevo HeraldEst\u00e9tica de los 70 se impone en la pasarelaEl Nuevo HeraldDolce & Gabanna ha rendido homenaje al arte de la tauromaquia y al folclore espa\u00f1ol, en el que la chaqueta torera es la estrella, combinada con faldas lenceras o pantal\u00f3n de...",
+            "date": "2015-05-04",
+            "categories": "estrella,folclore,tauromaquia",
+            "tags": "arte,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/elnuevoherald.com/2015/05/est%C3%A9tica-de-los-70-se-impone-en-la-pasarela-el-nuevo",
+            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
+            "source_url": "http://elnuevoherald.com/vivir-mejor/estilo/article19721043.html"
+        },
         "diariocritico.com/2015/05/el-dios-de-la-tauromaquia-ha-vuelto-gran-triunfo-jos%C3%A9-tom%C3%A1s": {
             "title": "El dios de la tauromaquia ha vuelto: gran triunfo de Jos\u00e9 Tom\u00e1s en su reaparici\u00f3n en...",
-            "snippet": "Con una abarrotada plaza para espectadores, el diestro de Galapagar (Madrid) se present\u00f3 con traje azul y oro para hacer olvidar aquel 24 de abril de 2010, cuando un toro de nombre Navegante casi le arranca la cornada de 15 cent\u00edmetros en...",
+            "snippet": "Es lo que tienen los dioses. O los mitos. Que da igual. El de la tauromaquia aparece y reaparece a su son, sin nadie que le mande. Ten\u00eda una deuda pendiente con el destino en Aguascalientes, donde 'Navegante'estuvo a punto de matarlo hace un...",
             "date": "2015-05-03",
             "categories": "tauromaquia",
-            "tags": "jos\u00e9,gran,triunfo,tauromaquia,plaza,madrid",
+            "tags": "hace,jos\u00e9,gran,triunfo,tauromaquia,aguascalientes",
             "recuweb_url": "http://es.recuweb.co/tauromaquia/diariocritico.com/2015/05/el-dios-de-la-tauromaquia-ha-vuelto-gran-triunfo-jos%C3%A9-tom%C3%A1s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
             "source_url": "http://diariocritico.com/ocio/toros/toros/jose-tomas/477928"
         },
-        "marca.com/2015/05/heroico-l%C3%B3pez-sim%C3%B3n-y-puerta-grande-para-morenito-de-aranda": {
-            "title": "Heroico L\u00f3pez Sim\u00f3n y puerta grande para Morenito de Aranda...",
-            "snippet": "Morenito ha dado, \u00a1por fin!, el aldabonazo, la campanada en la primera plaza del mundo. Y lo hizo sobre la base de una tauromaquia de enciclopedia, es decir sobre la base del toreo hondo, en el terreno de la verdad y esparciendo temple y mando...",
+        "elperiodicodemexico.com/2015/05/gobierno-de-eu-por-fin-admite-que-el-fracking-provoca-sismos": {
+            "title": "Gobierno de EU por fin admite que el fracking provoca sismos - El Periodico de Mexico...",
+            "snippet": "Gobierno de EU por fin admite que el fracking provoca sismosEl Periodico de MexicoEl clan itamita de Baill\u00e8res, que promueve el zoocidio de la salvaje tauromaquia, es uno de los principales beneficiados de la reforma neoliberal energ\u00e9tica y su...",
             "date": "2015-05-03",
             "categories": "tauromaquia",
-            "tags": "toreo,l\u00f3pez,plaza,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/marca.com/2015/05/heroico-l%C3%B3pez-sim%C3%B3n-y-puerta-grande-para-morenito-de-aranda",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://marca.com/2015/05/03/toros/1430606048.html"
+            "tags": "mexico,tauromaquia",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/elperiodicodemexico.com/2015/05/gobierno-de-eu-por-fin-admite-que-el-fracking-provoca-sismos",
+            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
+            "source_url": "http://elperiodicodemexico.com/contenido_columnas.php?sec=Columnas-Calamidades&id=782779"
         },
         "zocalo.com.mx/2015/05/tarde-de-triunfo-y-gloria-peri%C3%B3dico-z%C3%B3calo": {
             "title": "Tarde de triunfo y gloria - Peri\u00f3dico Z\u00f3calo...",
             "snippet": "Peri\u00f3dico Z\u00f3caloTarde de triunfo y gloriaPeri\u00f3dico Z\u00f3caloTarde de triunfo y gloria. Tauromaquia. Por V\u00edctor Gonz\u00e1lez. 02/05/2015 - 09:58 PM. Google. Saltillo.- Una tarde de triunfo, con tres orejas compartidas cada uno, tuvieron Pablo Hermoso...",
             "date": "2015-05-03",
             "categories": "tauromaquia,google",
-            "tags": "tarde,triunfo,tauromaquia",
+            "tags": "pablo,tarde,triunfo,tauromaquia",
             "recuweb_url": "http://es.recuweb.com/google/zocalo.com.mx/2015/05/tarde-de-triunfo-y-gloria-peri%C3%B3dico-z%C3%B3calo",
             "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
             "source_url": "http://zocalo.com.mx/seccion/articulo/tarde-de-triunfo-y-gloria-1430622024"
         },
-        "yucatan.com.mx/2015/05/figura-hist%C3%B3rica-en-el-coliseo-diario-de-yucat%C3%A1n": {
-            "title": "Figura hist\u00f3rica en el Coliseo - El Diario de Yucat\u00e1n...",
-            "snippet": "El Diario de Yucat\u00e1nFigura hist\u00f3rica en el ColiseoEl Diario de Yucat\u00e1nSu trayectoria no tiene precedentes en la historia de la tauromaquia y las cifras que atesora son de libro Guinness. Desde que el 16 de marzo de 1990 tomara la alternativa en...",
+        "mundotoro.com/2015/05/toroshopping-y-el-centro-de-arte-la-tauromaquia-un-proyecto-%C3%BAnico": {
+            "title": "Toroshopping y el Centro de Arte de la Tauromaquia, un proyecto \u00fanico...",
+            "snippet": "Madrid (Espa\u00f1a). Toroshopping abrir\u00e1 en M\u00e1laga la nueva tienda del Centro de Arte de la Tauromaquia Colecci\u00f3n Juan Barco. El Museo Juan Barco, el mayor centro de arte de la tauromaquia en el mundo, tendr\u00e1 a partir de ahora un espacio dedicado a...",
             "date": "2015-05-02",
             "categories": "tauromaquia",
-            "tags": "tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/yucatan.com.mx/2015/05/figura-hist%C3%B3rica-en-el-coliseo-diario-de-yucat%C3%A1n",
-            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia%2Btauromaquia&output=atom&nord=1",
-            "source_url": "http://yucatan.com.mx/deportes/toros/figura-historica-en-el-coliseo"
-        },
-        "elnuevoherald.com/2015/05/viste-a-golpe-de-pasarela-el-nuevo-herald": {
-            "title": "Viste a golpe de pasarela - El Nuevo Herald...",
-            "snippet": "El Nuevo HeraldViste a golpe de pasarelaEl Nuevo HeraldDolce&Gabanna ha rendido homenaje al arte de la tauromaquia y al folclore espa\u00f1ol, en el que la chaqueta torera es la estrella, combinada con faldas lenceras o pantal\u00f3n de talle alto. La...",
-            "date": "2015-05-02",
-            "categories": "estrella,folclore,tauromaquia",
-            "tags": "arte,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/elnuevoherald.com/2015/05/viste-a-golpe-de-pasarela-el-nuevo-herald",
-            "resource_url": "http://news.google.es/?hl=es&q=tauromaquia%2Btauromaquia&output=atom&nord=1",
-            "source_url": "http://elnuevoherald.com/vivir-mejor/estilo/article19721043.html"
-        },
-        "taurologia.com/2015/05/jos%C3%A9-tomas-el-misterio-%C3%A9pico-del-toreo": {
-            "title": "Jos\u00e9 Tomas, el misterio \u00e9pico del toreo...",
-            "snippet": "pero tambi\u00e9n se refer\u00eda Camar\u00e1 a c\u00f3mo banalizaban algunos las cuestiones internas de la Tauromaquia. No oculto que me apena cuando he visto a m\u00e1s de un torero de los actuales dar rienda suelta a tanta palabrer\u00eda in\u00fatil. \u00a1Qu\u00e9 tendr\u00e1 que...",
-            "date": "2015-05-01",
-            "categories": "tauromaquia,torero",
-            "tags": "toreo,jos\u00e9,tauromaquia,torero",
-            "recuweb_url": "http://es.recuweb.co/torero/taurologia.com/2015/05/jos%C3%A9-tomas-el-misterio-%C3%A9pico-del-toreo",
+            "tags": "centro,juan,barco,colecci\u00f3n,nueva,arte,tauromaquia,madrid,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.co/tauromaquia/mundotoro.com/2015/05/toroshopping-y-el-centro-de-arte-la-tauromaquia-un-proyecto-%C3%BAnico",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://taurologia.com/seccion/jose-tomas-misterio-epico-toreo-3606.htm"
+            "source_url": "http://mundotoro.com/noticia/toroshopping-y-el-centro-de-arte-de-la-tauromaquia-un-proyecto-unico/115023"
         },
         "pulzo.com/2015/04/documental-nuestro-monte-luna-sobre-tauromaquia-es-una-pulzo": {
             "title": "Documental 'Nuestro Monte Luna'sobre tauromaquia es una... - Pulzo...",
             "snippet": "PulzoDocumental 'Nuestro Monte Luna'sobre tauromaquia es una...PulzoEl documental sigue la vida de la escuela de tauromaquia de Choach\u00ed, una localidad situada a 45 kil\u00f3metros de Bogot\u00e1 y que es el centro de la cultura taurina en Colombia.",
             "date": "2015-04-30",
             "categories": "cultura,cultura-taurina,escuela,tauromaquia",
-            "tags": "escuela,tauromaquia",
+            "tags": "centro,escuela,tauromaquia",
             "recuweb_url": "http://es.recuweb.co/tauromaquia/pulzo.com/2015/04/documental-nuestro-monte-luna-sobre-tauromaquia-es-una-pulzo",
             "resource_url": "http://news.google.es/?hl=es&q=tauromaquia&output=atom&nord=1",
             "source_url": "http://pulzo.com/entretenimiento/333576-documental-nuestro-monte-luna-sobre-tauromaquia-es-una-metafora-del-proceso"
-        },
-        "rioja2.com/2015/04/guarismos-de-la-tauromaquia": {
-            "title": "Guarismos de la Tauromaquia...",
-            "snippet": "Se celebr\u00f3 una conferencia de tauromaquia, a cargo de Manuel Mart\u00ednez, la cuarta generaci\u00f3n de la Casa Chopera y el periodista econ\u00f3mico Diego S\u00e1nchez de la Cruz, mas conocido por La econom\u00eda del gran conferencia que organiz\u00f3 el...",
-            "date": "2015-04-30",
-            "categories": "economia,tauromaquia",
-            "tags": "gran,diego,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/rioja2.com/2015/04/guarismos-de-la-tauromaquia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://rioja2.com/opinion-1068-Guarismos_Tauromaquia"
-        },
-        "andaluciainformacion.es/2015/04/escolares-de-algeciras-conocen-la-escuela-tauromaquia": {
-            "title": "Escolares de Algeciras conocen la Escuela de Tauromaquia...",
-            "snippet": "La Escuela Municipal de Tauromaquia de Algeciras Miguel Mateo Miguelin est\u00e1 desarrollando durante el presente curso una serie de actividades destinadas a difundir la labor que realiza entre los centros escolares de la ciudad, seg\u00fan ha indicado...",
-            "date": "2015-04-29",
-            "categories": "escuela,tauromaquia",
-            "tags": "miguel,escuela,tauromaquia",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/andaluciainformacion.es/2015/04/escolares-de-algeciras-conocen-la-escuela-tauromaquia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://andaluciainformacion.es/campo-de-gibraltar/501343/escolares-de-algeciras-conocen-la-escuela-de-tauromaquia/"
-        },
-        "abc.es/2015/04/la-afici%C3%B3n-premia-a-boadella-por-insigne-defensor-de-los-valores": {
-            "title": "La afici\u00f3n premia a Boadella por insigne defensor de los valores de la tauromaquia...",
-            "snippet": "El director teatral Albert Boadella ha sido galardonado con la segunda edici\u00f3n del premio nacional a la promoci\u00f3n y fomento de la tauromaquia, en su edici\u00f3n 2014, que otorga la Uni\u00f3n de Federaciones Taurinas de Aficionados de Espa\u00f1a (UFTAE).",
-            "date": "2015-04-29",
-            "categories": "tauromaquia",
-            "tags": "tauromaquia,espa\u00f1a",
-            "recuweb_url": "http://es.recuweb.co/tauromaquia/abc.es/2015/04/la-afici%C3%B3n-premia-a-boadella-por-insigne-defensor-de-los-valores",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromaquia&format=RSS&cc=es",
-            "source_url": "http://abc.es/cultura/toros/20150429/abci-aficion-premia-boadella-insigne-201504291854.html"
         }
     }
 }

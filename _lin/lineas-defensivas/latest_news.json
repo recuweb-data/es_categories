@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lineas-defensivas",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/lineas-defensivas/",
@@ -11,14 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/lineas-defensivas/lineas-defensivas/blogs.json"
     },
     "items": {
+        "elespectador.com/2015/05/arriba-y-abajo": {
+            "title": "Arriba y abajo -...",
+            "snippet": "Arriba y... crey\u00f3 en su juego, le puso especial mimo a su evoluci\u00f3n hasta convertirlo en ese jugador efectivo en ataque, goleador, pero tambi\u00e9n en el pe\u00f3n de brega cuando se requiere rearmar l\u00edneas defensivas, hacer marcas y bloques de presi\u00f3n...",
+            "date": "2015-05-03",
+            "tags": "presi\u00f3n,jugador,juego,l\u00edneas,defensivas",
+            "recuweb_url": "http://es.recuweb.com/elespectador.com/2015/05/arriba-y-abajo",
+            "resource_url": "http://news.google.es/?hl=es&q=lineas%2Bdefensivas&output=atom&nord=1",
+            "source_url": "http://elespectador.com/opinion/arriba-y-abajo"
+        },
         "elperiodico.com/2015/05/el-1x1-azulgrana-en-c%C3%B3rdoba": {
             "title": "El 1x1 azulgrana en C\u00f3rdoba...",
             "snippet": "Vivaz (8). Fue una buena alternativa para abrir el campo por su banda y permitir a los interiores buscar grietas en las l\u00edneas defensivas del C\u00f3rdoba durante el 0-0. Sobrado a nivel f\u00edsico, dio el susto al final al sufrir un golpe que hizo temer...",
-            "date": "2015-05-02",
+            "date": "2015-05-03",
             "tags": "l\u00edneas,defensivas",
             "recuweb_url": "http://es.recuweb.com/elperiodico.com/2015/05/el-1x1-azulgrana-en-c%C3%B3rdoba",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lineas%2Bdefensivas&format=RSS&cc=es",
             "source_url": "http://elperiodico.com/es/noticias/deportes/1x1-azulgrana-cordoba-4151511"
+        },
+        "laindustria.pe/2015/05/universitario-cae-1-0-en-su-debut-ante-uni%C3%B3n-comercio": {
+            "title": "Universitario cae 1-0 en su debut ante Uni\u00f3n Comercio - La (blog)...",
+            "snippet": "L\u00edberoUniversitario cae 1-0 en su debut ante Uni\u00f3n ComercioLa (blog)Se vio otro esquema en el mediocampo, pero se top\u00f3 con un rival que ordena sus lineas defensivas y ofensivas. Aunque no hubo muchas oportunidades de gol, los de Moyobamba...",
+            "date": "2015-05-01",
+            "tags": "lineas,defensivas",
+            "recuweb_url": "http://es.recuweb.com/laindustria.pe/2015/05/universitario-cae-1-0-en-su-debut-ante-uni%C3%B3n-comercio",
+            "resource_url": "http://news.google.es/?hl=es&q=lineas%2Bdefensivas&output=atom&nord=1",
+            "source_url": "http://laindustria.pe/deportes/futbol-nacional/universitario-cae-1-0-en-su-debut-ante-union-comercio"
         },
         "sportyou.es/2015/04/luis-su%C3%A1rez-no-me-importan-mis-goles": {
             "title": "Luis Su\u00e1rez: No me importan mis goles...",

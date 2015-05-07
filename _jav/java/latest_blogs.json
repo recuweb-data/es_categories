@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/java/",
@@ -17,32 +17,21 @@
             "date": "2015-04-28",
             "author_name": "javaHispano",
             "categories": "java",
-            "tags": "muy,nada,parte,hablar,javahispano,portada,java,son",
+            "tags": "muy,cuenta,parte,hablar,javahispano,portada,java,son",
             "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/javahispano-portada-10-funcionalidades-de-java-8-las-que-no",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/4/28/10-funcionalidades-de-java-8-de-las-que-no-has-oido-hablar.html"
         },
-        "compudredu.blogspot.com/2015/04/androrat-un-troyano-rat-para-android": {
-            "title": "Androrat: un troyano RAT para Android...",
-            "snippet": "Androrat es un RAT (Remote Administration Tool) de c\u00f3digo abierto para Android. Se trata de una aplicaci\u00f3n cliente-servidor desarrollada en Java (Java Android para el cliente y Java/Swing para el servidor) por un equipo de cuatro desarrolladores...",
-            "date": "2015-04-27",
-            "author_name": "Gtwentytwelve",
+        "nucleosdeferrita.wordpress.com/2015/04/por-qu%C3%A9-java": {
+            "title": "\u00bfPor qu\u00e9 Java?",
+            "snippet": "Mi idea es que este blog no s\u00f3lo trate sobre Java, si no sobre inform\u00e1tica en general. Pero, \u00bfpor qu\u00e9 incluir una categor\u00eda como Java desde cero? Sencillo.",
+            "date": "2015-04-25",
+            "author_name": "J. M. Serrano",
             "categories": "java",
-            "tags": "aplicaci\u00f3n,android,c\u00f3digo,java",
-            "recuweb_url": "http://es.recuweb.com/java/compudredu.blogspot.com/2015/04/androrat-un-troyano-rat-para-android",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
-            "source_url": "http://compudredu.blogspot.com/2015/04/androrat-un-troyano-rat-para-android.html"
-        },
-        "sinotedigoqueno.com/2015/04/instalacion-del-galssfish-2-1": {
-            "title": "instalacion del Galssfish 2.1...",
-            "snippet": "La version de glassfish 2.1 es porque es la version 6 de java. java -Xmx256m -jar En este momento se ejecuta la instalaci\u00f3n de Glassfish 2.1. En la siguiente ventana leemos las condiciones de uso y pulsamos Accept Si los puertos 8080 los tienes...",
-            "date": "2015-04-27",
-            "author_name": "taguase",
-            "categories": "java",
-            "tags": "tienes,siguiente,uso,version,java",
-            "recuweb_url": "http://es.recuweb.com/java/sinotedigoqueno.com/2015/04/instalacion-del-galssfish-2-1",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
-            "source_url": "http://sinotedigoqueno.com/2015/04/instalacion-del-galssfish-21.html"
+            "tags": "java",
+            "recuweb_url": "http://es.recuweb.com/java/nucleosdeferrita.wordpress.com/2015/04/por-qu%C3%A9-java",
+            "resource_url": "http://es.search.wordpress.com/?q=java&f=feed&page=1",
+            "source_url": "http://nucleosdeferrita.wordpress.com/2015/04/25/por-que-java/"
         },
         "javahispano.org/2015/04/5-herramientas-de-rastreo-errores-que-todo-desarrollador-java": {
             "title": "5 herramientas de rastreo de errores que todo desarrollador Java...",
@@ -52,30 +41,8 @@
             "categories": "java",
             "tags": "herramientas,web,ecosistema,java,aplicaciones",
             "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/5-herramientas-de-rastreo-errores-que-todo-desarrollador-java",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/4/22/5-herramientas-de-rastreo-de-errores-que-todo-desarrollador.html"
-        },
-        "javamexico.org/2015/04/sitio-personal-en-vaadin-java-m%C3%A9xico": {
-            "title": "Sitio Personal en Vaadin Java Java M\u00e9xico...",
-            "snippet": "Estoy muy interesado en aprender el Framework Vaadin de Java, me la he pasado buscando informaci\u00f3n en la red de sitios personales pero no he encontrado nada de ejemplos. La mayoria son aplicaciones mas no sitios...",
-            "date": "2015-04-20",
-            "author_name": "linux-genesis",
-            "categories": "java",
-            "tags": "pasado,nada,framework,muy,java,son,aplicaciones",
-            "recuweb_url": "http://es.recuweb.com/java/javamexico.org/2015/04/sitio-personal-en-vaadin-java-m%C3%A9xico",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://javamexico.org/blogs/linuxgenesis/sitio_personal_en_vaadin_java"
-        },
-        "danivara.blogspot.com/2015/04/lenguaje-de-programaci%C3%B3n-java-daniel-bonilla": {
-            "title": "lenguaje de programaci\u00f3n JAVA- DANIEL BONILLA...",
-            "snippet": "HISTORIA DE JAVA El lenguaje Java as\u00ed como la m\u00e1quina virtual, comenzaron como un proyecto interno de Sun Microsystems en 1990. Los ingenieros de Sun no estaban satisfechos con el rendimiento del lenguaje C, por lo que James Gosling, Mike...",
-            "date": "2015-04-19",
-            "author_name": "Daniel Bonilla",
-            "categories": "lenguaje,java",
-            "tags": "lenguaje,programaci\u00f3n,java",
-            "recuweb_url": "http://es.recuweb.com/java/danivara.blogspot.com/2015/04/lenguaje-de-programaci%C3%B3n-java-daniel-bonilla",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=es",
-            "source_url": "http://danivara.blogspot.com/2015/04/lenguaje-de-programacion-java-daniel.html"
         },
         "ovruni.wordpress.com/2015/04/auto-java-complete-mode-para-gnu-emacs-urpi-y-el-software": {
             "title": "Auto Java Complete mode para GNU Emacs Urpi y el Software Libre...",
@@ -85,7 +52,7 @@
             "categories": "java",
             "tags": "debe,software,java",
             "recuweb_url": "http://es.recuweb.com/java/ovruni.wordpress.com/2015/04/auto-java-complete-mode-para-gnu-emacs-urpi-y-el-software",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ovruni.wordpress.com/2015/04/18/auto-java-complete-mode-para-gnu-emacs/"
         },
         "blog.segu-info.com.ar/2015/04/decompiladores-de-java-online-segu-info": {
@@ -94,9 +61,9 @@
             "date": "2015-04-18",
             "author_name": "noreply@blogger.com (Cristian Borghello)",
             "categories": "java",
-            "tags": "tienes,aplicaci\u00f3n,tener,java,c\u00f3digo",
+            "tags": "aplicaci\u00f3n,tener,java,c\u00f3digo",
             "recuweb_url": "http://es.recuweb.com/java/blog.segu-info.com.ar/2015/04/decompiladores-de-java-online-segu-info",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.segu-info.com.ar/2015/04/decompiladores-de-java-online.html"
         },
         "seguridadapple.com/2015/04/seguridad-apple-oracle-libera-java-se-8u45-para-os-x-actualiza": {
@@ -107,7 +74,7 @@
             "categories": "java",
             "tags": "siguientes,seguridad,java,son",
             "recuweb_url": "http://es.recuweb.com/java/seguridadapple.com/2015/04/seguridad-apple-oracle-libera-java-se-8u45-para-os-x-actualiza",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://seguridadapple.com/2015/04/oracle-libera-java-se-8u45-para-os-x.html"
         },
         "javahispano.org/2015/04/javahispano-portada-nuevo-podcast-de-noticias-java": {
@@ -118,8 +85,41 @@
             "categories": "java",
             "tags": "tener,ecosistema,javahispano,portada,nuevo,java",
             "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/04/javahispano-portada-nuevo-podcast-de-noticias-java",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://javahispano.org/portada/2015/4/17/nuevo-podcast-de-noticias-java.html"
+        },
+        "tecnologia.starmedia.com/2015/04/c%C3%B3mo-activar-java-silverlight-y-todos-los-plugins-npapi-de-google": {
+            "title": "\u00bfC\u00f3mo activar Java, Silverlight y todos los plugins NPAPI de Google...",
+            "snippet": "Hoy aprender\u00e1s a c\u00f3mo activar Java, Silverlight y dem\u00e1s plugins NPAPI que con Google Chrome 42 han sido desactivados...",
+            "date": "2015-04-15",
+            "author_name": "desconocido",
+            "categories": "java,google",
+            "tags": "c\u00f3mo,java,google",
+            "recuweb_url": "http://es.recuweb.com/google/tecnologia.starmedia.com/2015/04/c%C3%B3mo-activar-java-silverlight-y-todos-los-plugins-npapi-de-google",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://tecnologia.starmedia.com/tutoriales/como-activar-java-silverlight-todos-plugins-npapi-google-chrome-42.html"
+        },
+        "unocero.com/2015/04/java-y-las-m%C3%A1quinas-antiguas-unocero": {
+            "title": "Java y las m\u00e1quinas antiguas unocero...",
+            "snippet": "El lenguaje de programaci\u00f3n Java corre en millones de dispositivos, incluyendo estaciones de trabajo, m\u00e1quinas de escritorio, tablets, supercomputadoras,...",
+            "date": "2015-04-14",
+            "author_name": "Manuel L\u00f3pez Michelone",
+            "categories": "java,lenguaje,supercomputadora",
+            "tags": "programaci\u00f3n,java,lenguaje",
+            "recuweb_url": "http://es.recuweb.com/supercomputadora/unocero.com/2015/04/java-y-las-m%C3%A1quinas-antiguas-unocero",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://unocero.com/2015/04/14/java-y-las-maquinas-antiguas/"
+        },
+        "javahispano.org/2015/02/javahispano-portada-nuevo-tutorial-desarrollando-con-java-8": {
+            "title": "javaHispano - Portada - Nuevo tutorial: Desarrollando con Java 8...",
+            "snippet": "David P\u00e9rez Cabrera ha creado un tutorial para javaHispano titulado \"Desarrollando con Java 8\". Este tutorial va paso a paso desarrollando un juego de Poker, y para ello se apoya en varias caracter\u00edsticas de Java 8 como...",
+            "date": "2015-02-02",
+            "author_name": "javaHispano",
+            "categories": "java",
+            "tags": "tutorial,javahispano,portada,nuevo,java",
+            "recuweb_url": "http://es.recuweb.com/java/javahispano.org/2015/02/javahispano-portada-nuevo-tutorial-desarrollando-con-java-8",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://javahispano.org/portada/2015/2/2/nuevo-tutorial-desarrollando-con-java-8.html"
         }
     }
 }

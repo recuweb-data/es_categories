@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "buscadores-web",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/buscadores-web/",
@@ -11,21 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/buscadores-web/buscadores-web/blogs.json"
     },
     "items": {
-        "gestion.pe/2015/04/de-internauta-a-cliente-c%C3%B3mo-aumentar-tr%C3%A1fico-en-tu-sitio-web": {
-            "title": "De internauta a cliente: c\u00f3mo aumentar tr\u00e1fico en tu sitio web - Diario Gesti\u00f3n...",
-            "snippet": "Diario Gesti\u00f3nDe internauta a cliente: c\u00f3mo aumentar tr\u00e1fico en tu sitio webDiario Gesti\u00f3nUn usuario llega a navegar tu web por distintos medios: redes sociales, correo electr\u00f3nico, buscadores como Google, campa\u00f1as de publicidad,...",
-            "date": "2015-04-27",
+        "marketingdirecto.com/2015/05/apple-confirma-que-ya-tiene-listo-su-propio-buscador": {
+            "title": "Apple confirma que ya tiene listo su propio buscador...",
+            "snippet": "Apple llevaba meses rastreando la web en busca de contenidos que poder insertar... en principio Apple no busca hacer sombra a otros grandes buscadores como Google, sino que su objetivo es mejorar los resultados que ofrecen sus servicios de...",
+            "date": "2015-05-07",
             "categories": "google",
-            "tags": "redes,redes-sociales,sociales,sitio,web,buscadores,google",
-            "recuweb_url": "http://es.recuweb.com/google/gestion.pe/2015/04/de-internauta-a-cliente-c%C3%B3mo-aumentar-tr%C3%A1fico-en-tu-sitio-web",
-            "resource_url": "http://news.google.es/?hl=es&q=buscadores%2Bweb&output=atom&nord=1",
-            "source_url": "http://gestion.pe/tendencias/internauta-cliente-como-aumentar-trafico-tu-sitio-web-2130178"
+            "tags": "ofrecen,servicios,propio,propio-buscador,buscadores,tiene,apple,web,google",
+            "recuweb_url": "http://es.recuweb.com/google/marketingdirecto.com/2015/05/apple-confirma-que-ya-tiene-listo-su-propio-buscador",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbuscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://marketingdirecto.com/actualidad/digital/podria-apple-proximo-google/"
+        },
+        "actualizable.com/2015/05/aparecen-pruebas-de-que-apple-trabaja-en-su-propio-buscador": {
+            "title": "Aparecen pruebas de que Apple trabaja en su propio buscador...",
+            "snippet": "se identifica como Applebot, y para muchos es solamente una prueba m\u00e1s de que la empresa se quiere lanzar de lleno al negocio de los buscadores web. Actualmente Apple dice que su rastreador se utiliza para agregar datos como informaci\u00f3n de...",
+            "date": "2015-05-06",
+            "tags": "empresa,propio,propio-buscador,buscadores,apple,negocio,web,informaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/actualizable.com/2015/05/aparecen-pruebas-de-que-apple-trabaja-en-su-propio-buscador",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbuscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://actualizable.com/2015/05/aparecen-pruebas-de-que-apple-trabaja-en-su-propio-buscador//"
+        },
+        "periodistadigital.comperiodistadigital.com/2015/05/el-comercio-digital-y-sus-estrategias-para-captar-clientes": {
+            "title": "El comercio digital y sus estrategias para captar clientes...",
+            "snippet": "... que ofrecen servicios de creaci\u00f3n y optimizaci\u00f3n web, ya que es normal la falta de conocimiento de este sector por el empresario normal. Los algoritmos de b\u00fasqueda de los buscadores como Google o Yahoo est\u00e1n sometidos a un continuo cambio...",
+            "date": "2015-05-06",
+            "categories": "conocimiento,google,yahoo",
+            "tags": "b\u00fasqueda,normal,ofrecen,servicios,estrategias,clientes,izaci\u00f3n,web,buscadores,google,yahoo",
+            "recuweb_url": "http://es.recuweb.com/yahoo/periodistadigital.comperiodistadigital.com/2015/05/el-comercio-digital-y-sus-estrategias-para-captar-clientes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbuscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://periodistadigital.comperiodistadigital.com/tecnologia/internet/2015/05/06/el-comercio-digital-y-sus-estrategias-para-captar-clientes.shtml"
+        },
+        "es.paperblog.com/2015/05/seo-on-page-optimizar-para-los-motores-de-b%C3%BAsqueda": {
+            "title": "SEO on page, optimizar para los motores de b\u00fasqueda:...",
+            "snippet": "Hay webs que son un aut\u00e9ntico desprop\u00f3sito respecto a posicionamiento en buscadores, por muy buenos enlaces que tengan y a\u00fan siendo preciosas hay algo que les falla si el SEO on page!, claro es que cu\u00e1ndo alguien normal hace una web no cae en...",
+            "date": "2015-05-05",
+            "tags": "normal,hace,b\u00fasqueda,izar,seo,motores,posicionamiento,buscadores,web",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/05/seo-on-page-optimizar-para-los-motores-de-b%C3%BAsqueda",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bbuscadores%2Bweb&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/seo-on-page-optimizar-para-los-motores-de-busqueda-3193619/"
         },
         "wwwhatsnew.com/2015/04/5-p%C3%A1ginas-sencillas-y-%C3%BAtiles-para-dise%C3%B1adores-web-wwwhat-s-new": {
             "title": "5 p\u00e1ginas sencillas y \u00fatiles para dise\u00f1adores web - WWWhat's new? (blog)...",
             "snippet": "WWWhat's new? (blog)5 p\u00e1ginas sencillas y \u00fatiles para dise\u00f1adores webWWWhat's new? (blog)Buscadores de iconos: Nunca nos cansaremos de indicar buscadores de iconos de todo tipo, pero la recopilaci\u00f3n de cinco buscadores que hicimos hace unas...",
             "date": "2015-04-26",
-            "tags": "web,buscadores",
+            "tags": "hace,web,buscadores",
             "recuweb_url": "http://es.recuweb.com/wwwhatsnew.com/2015/04/5-p%C3%A1ginas-sencillas-y-%C3%BAtiles-para-dise%C3%B1adores-web-wwwhat-s-new",
             "resource_url": "http://news.google.es/?hl=es&q=buscadores%2Bweb&output=atom&nord=1",
             "source_url": "http://wwwhatsnew.com/2015/04/26/5-paginas-sencillas-y-utiles-para-disenadores-web/"

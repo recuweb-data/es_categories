@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ocultismo",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ocultismo/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ocultismo/ocultismo/blogs.json"
     },
     "items": {
+        "elmundo.es/2015/05/el-gran-show-de-alfonso-rus": {
+            "title": "El gran 'show'de Alfonso Rus...",
+            "snippet": "Si todo eso no es ocultismo, quiz\u00e1s sea un truco m\u00e1s de su show. Porque Rus ha acabado a su estilo, con un gran show dentro de su partido, resisti\u00e9ndose y forzando la maquinaria innecesaria e in\u00fatilmente. La informaci\u00f3n que marc\u00f3 un punto...",
+            "date": "2015-05-03",
+            "categories": "ocultismo",
+            "tags": "informaci\u00f3n,gran,partido,porque,sea,eso,ocultismo",
+            "recuweb_url": "http://es.recuweb.com/ocultismo/elmundo.es/2015/05/el-gran-show-de-alfonso-rus",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ocultismo&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/comunidad-valenciana/2015/05/03/5545d15ce2704e836c8b4572.html"
+        },
         "cultura.elpais.com/2015/05/los-monstruos-de-penny-dreadful": {
             "title": "Los monstruos de Penny Dreadful...",
             "snippet": "En Penny Dreadful puedo tomarme mi tiempo, se regodea el autor. Ahora puede explicar nuevas facetas de su musa, nociones que acercaron a Logan a la necromancia, al ocultismo y a las brujas. Eso es Evelyn Poole (Helen McCrory), personaje que apenas...",
             "date": "2015-05-01",
             "categories": "ocultismo",
-            "tags": "puede,tiempo,ocultismo",
+            "tags": "puede,tiempo,ocultismo,eso",
             "recuweb_url": "http://es.recuweb.com/ocultismo/cultura.elpais.com/2015/05/los-monstruos-de-penny-dreadful",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ocultismo&format=RSS&cc=es",
             "source_url": "http://cultura.elpais.com/cultura/2015/05/01/television/1430503471_466632.html"
@@ -26,20 +36,10 @@
             "snippet": "En el Partido Popular no hay m\u00e1s pacto que no sea con la ciudadan\u00eda, no vamos a ocultar nada porque el pacto nunca puede ser ocultista, y cuando hay ocultismo, no hay pacto, es falta de respeto y algunas cosas m\u00e1s. En este sentido, el candidato...",
             "date": "2015-05-01",
             "categories": "sentido,ocultismo",
-            "tags": "algunas,hay,pacto,ocultar,ocultar-nada,nada,porque,porque-el-pacto,nunca,puede,ocultista,partido,reparto,valc\u00e1rcel,moneo,ocultismo",
+            "tags": "algunas,nada,porque,puede,sea,partido,ocultismo",
             "recuweb_url": "http://es.recuweb.com/ocultismo/europapress.es/2015/05/valc%C3%A1rcel-sobre-el-pacto-del-moneo-parece-que-estamos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ocultismo&format=RSS&cc=es",
             "source_url": "http://europapress.es/nacional/noticia-valcarcel-pacto-moneo-parece-estamos-mas-reparto-pacto-20150501121639.html"
-        },
-        "laverdad.es/2015/05/valc%C3%A1rcel-sobre-el-pacto-del-moneo-es-m%C3%A1s-un-reparto": {
-            "title": "Valc\u00e1rcel sobre el 'pacto del Moneo': Es m\u00e1s un reparto...",
-            "snippet": "El l\u00edder de los populares murcianos afirm\u00f3 que su partido respeta la actuaci\u00f3n que decida hacer cualquier formaci\u00f3n pol\u00edtica, pero a\u00f1adi\u00f3 que el PP no va a ocultar nada, porque el pacto no puede ser nunca ocultista, y cuando hay ocultismo...",
-            "date": "2015-05-01",
-            "categories": "politica,ocultismo",
-            "tags": "hay,porque,porque-el-pacto,pacto,puede,nunca,ocultista,ocultar,ocultar-nada,nada,partido,hacer,pol\u00edtica,reparto,valc\u00e1rcel,moneo,ocultismo",
-            "recuweb_url": "http://es.recuweb.com/ocultismo/laverdad.es/2015/05/valc%C3%A1rcel-sobre-el-pacto-del-moneo-es-m%C3%A1s-un-reparto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ocultismo&format=RSS&cc=es",
-            "source_url": "http://laverdad.es/murcia/201505/02/valcarcel-sobre-pacto-moneo-20150502010032-v.html"
         },
         "larepublica.pe/2015/04/hoy-se-cumplen-70-a%C3%B1os-de-la-supuesta-muerte-hitler": {
             "title": "Hoy se cumplen 70 a\u00f1os de la supuesta muerte de Hitler: estos son... - LaRep\u00fa...",
@@ -48,7 +48,7 @@
             "categories": "ocultismo",
             "tags": "informaci\u00f3n,tiempo,ocultismo",
             "recuweb_url": "http://es.recuweb.com/ocultismo/larepublica.pe/2015/04/hoy-se-cumplen-70-a%C3%B1os-de-la-supuesta-muerte-hitler",
-            "resource_url": "http://news.google.es/?hl=es&q=ocultismo%2Bocultismo&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=ocultismo&output=atom&nord=1",
             "source_url": "http://larepublica.pe/30-04-2015/hoy-se-cumplen-70-anos-de-la-muerte-de-hitler-estos-son-los-libros-que-leyo"
         },
         "lanacion.com.ar/2015/04/una-obra-inspirada-y-avasallante-argentina": {
@@ -56,10 +56,20 @@
             "snippet": "Una obra inspirada y (Argentina)Pero de pronto descubre en un ignoto libro de ocultismo una f\u00f3rmula para hacer desaparecer objetos, primero, y personas, despu\u00e9s. Su primera reacci\u00f3n es buscar trabajo en un circo, pero de all\u00ed, gracias a la...",
             "date": "2015-04-30",
             "categories": "ocultismo",
-            "tags": "gracias,hacer,libro,ocultismo",
+            "tags": "gracias,libro,ocultismo",
             "recuweb_url": "http://es.recuweb.com/ocultismo/lanacion.com.ar/2015/04/una-obra-inspirada-y-avasallante-argentina",
-            "resource_url": "http://news.google.es/?hl=es&q=ocultismo%2Bocultismo&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=ocultismo&output=atom&nord=1",
             "source_url": "http://lanacion.com.ar/1788657-una-obra-inspirada-y-avasallante"
+        },
+        "es.paperblog.com/2015/04/kult-su-leyenda-negra-en-escandinavia": {
+            "title": "Kult:Su leyenda negra en Escandinavia...",
+            "snippet": "Esta muy inspirado por determinadas corriente filos\u00f3ficas,la C\u00e1bala y por el ocultismo,ademas de por obras de determinados autores,como Clive Barker. Aunque el juego ha sido reconocido mundialmente como uno de los mas novedosos juegos de rol de...",
+            "date": "2015-04-29",
+            "categories": "ocultismo",
+            "tags": "c\u00e1bala,ocultismo,aunque",
+            "recuweb_url": "http://es.recuweb.com/ocultismo/es.paperblog.com/2015/04/kult-su-leyenda-negra-en-escandinavia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ocultismo&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/kultsu-leyenda-negra-en-escandinavia-3183479/"
         },
         "periodistadigital.com/2015/04/el-presidente-del-gobierno-ha-pasado-ocultismo-a-una-fren%C3%A9tica-exposici%C3%B3n": {
             "title": "El presidente del Gobierno ha pasado del Ocultismo a una fren\u00e9tica exposici\u00f3n a los medios...",
@@ -86,20 +96,10 @@
             "snippet": "Para la Asociaci\u00f3n ASCEL la descarada pol\u00edtica anti lobo que lleva a cabo el Ministerio de Agricultura, Alimentaci\u00f3n y Medio Ambiente qued\u00f3 patente el pasado d\u00eda 12 de septiembre, cuando varios diarios se hicieron eco de la reuni\u00f3n...",
             "date": "2015-04-27",
             "categories": "politica,medio-ambiente,ocultismo",
-            "tags": "pasado,pol\u00edtica,informaci\u00f3n,ocultismo",
+            "tags": "pasado,informaci\u00f3n,ocultismo",
             "recuweb_url": "http://es.recuweb.com/ocultismo/tercerainformacion.es/2015/04/denuncian-opacidad-y-ocultismo-en-la-informaci%C3%B3n-del-ministerio-de-medio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ocultismo&format=RSS&cc=es",
             "source_url": "http://tercerainformacion.es/spip.php?article84941"
-        },
-        "diariocorreo.pe/2015/04/got-2x03-an%C3%A1lisis-del-tercer-cap%C3%ADtulo-de-la-quinta-temporada-diario": {
-            "title": "GOT 2X03: An\u00e1lisis del tercer cap\u00edtulo de la quinta temporada - Diario Correo...",
-            "snippet": "Diario CorreoGOT 2X03: An\u00e1lisis del tercer cap\u00edtulo de la quinta temporadaDiario CorreoEl experimento del maestre del ocultismo se mueve de la mesa y... bueno, \u00bfRecuerdan qui\u00e9n es? EN EL NORTE. Esta parte fue, sin duda alguna, el baldazo de agua...",
-            "date": "2015-04-27",
-            "categories": "ocultismo",
-            "tags": "ocultismo,norte",
-            "recuweb_url": "http://es.recuweb.com/ocultismo/diariocorreo.pe/2015/04/got-2x03-an%C3%A1lisis-del-tercer-cap%C3%ADtulo-de-la-quinta-temporada-diario",
-            "resource_url": "http://news.google.es/?hl=es&q=ocultismo%2Bocultismo&output=atom&nord=1",
-            "source_url": "http://diariocorreo.pe/espectaculos/got-2x03-analisis-del-tercer-capitulo-de-la-quinta-temporada-583016/"
         },
         "infocatolica.com/2015/04/hm-televisi%C3%B3n-emite-una-serie-de-entrevistas-sobre-sectas-nueva-era": {
             "title": "HM Televisi\u00f3n emite una serie de entrevistas sobre sectas, Nueva Era y ocultismo...",

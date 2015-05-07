@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "judo",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/judo/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/judo/judo/blogs.json"
     },
     "items": {
+        "es.euronews.com/2015/05/lasha-shavdatuashvili-y-tina-trstenjak-llevan-la-revoluci%C3%B3n-al-gran-prix": {
+            "title": "Lasha Shavdatuashvili y Tina Trstenjak llevan la revoluci\u00f3n al Gran Prix de Zagreb...",
+            "snippet": "Segunda jornada del Gran Prix de Zagreb de Judo y poco a poco las medallas de oro se van adjudicando. Comenzamos el repaso a lo m\u00e1s destacado de la jornada. En categor\u00eda masculina, en la categor\u00eda de 73 kilos triunfo de Lasha Shavdatuashvili...",
+            "date": "2015-05-03",
+            "categories": "judo",
+            "tags": "kilos,categor\u00eda,medallas,oro,judo",
+            "recuweb_url": "http://es.recuweb.com/judo/es.euronews.com/2015/05/lasha-shavdatuashvili-y-tina-trstenjak-llevan-la-revoluci%C3%B3n-al-gran-prix",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=judo&format=RSS&cc=es",
+            "source_url": "http://es.euronews.com/2015/05/02/lasha-shavdatuashvili-y-tina-trstenjak-llevan-la-revolucion-al-gran-prix-de/"
+        },
         "lne.es/2015/05/el-langreano-david-fern%C3%A1ndez-subcampe%C3%B3n-de-espa%C3%B1a-judo-en-m%C3%A1s-100": {
             "title": "El langreano David Fern\u00e1ndez, subcampe\u00f3n de Espa\u00f1a de judo en m\u00e1s de 100 kilos...",
             "snippet": "P. P\u00c9REZ El judo de las Cuencas vuelve a estar de enhorabuena. Dos de sus m\u00e1ximos exponentes, el langreano David Fern\u00e1ndez y la mierense Marta Fern\u00e1ndez, vienen de conseguir grandes resultados durante el campeonato de Espa\u00f1a senior, disputado...",
-            "date": "2015-05-02",
+            "date": "2015-05-01",
             "categories": "judo",
-            "tags": "campeonato,espa\u00f1a,judo,p\u00e9rez,dos,senior",
+            "tags": "resultados,campeonato,espa\u00f1a,judo,kilos,p\u00e9rez,dos,senior",
             "recuweb_url": "http://es.recuweb.com/judo/lne.es/2015/05/el-langreano-david-fern%C3%A1ndez-subcampe%C3%B3n-de-espa%C3%B1a-judo-en-m%C3%A1s-100",
             "resource_url": "http://www.bing.com/news/search?first=1&q=judo&format=RSS&cc=es",
             "source_url": "http://lne.es/cuencas/2015/05/02/langreano-david-fernandez-subcampeon-espana/1750190.html"
@@ -26,7 +36,7 @@
             "snippet": "La cantera de la Escuela Municipal de Alianza KSV obtuvo diez medallas en el Campeonato de Andaluc\u00eda, cinco de ellas de oro, dos platas, y tres bronces. Estos j\u00f3venes judocas volvieron con las mochilas cargadas de metales. Cinco oros para Mar\u00eda...",
             "date": "2015-05-01",
             "categories": "escuela,judo",
-            "tags": "tres,dos,oro,judo,campeonato",
+            "tags": "tres,dos,oro,medallas,judo,campeonato",
             "recuweb_url": "http://es.recuweb.com/judo/lavozdealmeria.es/2015/05/escuela-de-judo-visita-la-voz-y-cadena",
             "resource_url": "http://www.bing.com/news/search?first=1&q=judo&format=RSS&cc=es",
             "source_url": "http://lavozdealmeria.es/vernoticia.asp?IdNoticia=81804"
@@ -36,7 +46,7 @@
             "snippet": "MDZ OnlineAgust\u00edn P\u00e9rez viajar\u00e1 al Sudamericano de JudoMDZ OnlineEl Ministerio de Deportes de Mendoza brindar\u00e1 apoyo al judoca Agust\u00edn P\u00e9rez, para que viaje al Campeonato Sudamericano de Judo de Cadetes y Juniors, que se disputar\u00e1 en Lima. En...",
             "date": "2015-04-30",
             "categories": "judo",
-            "tags": "campeonato,p\u00e9rez,judo,deportes",
+            "tags": "campeonato,p\u00e9rez,judo",
             "recuweb_url": "http://es.recuweb.com/judo/mdzol.com/2015/04/agust%C3%ADn-p%C3%A9rez-viajar%C3%A1-al-sudamericano-de-judo-mdz-online",
             "resource_url": "http://news.google.es/?hl=es&q=judo&output=atom&nord=1",
             "source_url": "http://mdzol.com/nota/602846-agustin-perez-viajara-al-sudamericano-de-judo/"
@@ -100,16 +110,6 @@
             "recuweb_url": "http://es.recuweb.com/judo/diariocronica.com.ar/2015/04/un-nuevo-encuentro-de-judo-escuelas-municipales-cr%C3%B3nica-digital",
             "resource_url": "http://news.google.es/?hl=es&q=judo&output=atom&nord=1",
             "source_url": "http://diariocronica.com.ar/131519-un-nuevo-encuentro-de-judo-de-escuelas-municipales.html"
-        },
-        "deportesrcn.com/2015/04/alvear-y-amaris-plata-bronce-en-el-panamericano-de-judo-deportes": {
-            "title": "Alvear y Amaris, plata y bronce en el Panamericano de Judo - Deportes RCN (Comunicado de prensa)...",
-            "snippet": "y Amaris, plata y bronce en el Panamericano de JudoDeportes RCN (Comunicado de prensa) (Registro) (blog)Yuri Alvear sigue sumando preseas para Colombia, esta vez la vallecaucana se colg\u00f3 la plata en el Campeonato Panamericano de Judo, en...",
-            "date": "2015-04-27",
-            "categories": "judo",
-            "tags": "campeonato,deportes,bronce,judo",
-            "recuweb_url": "http://es.recuweb.com/judo/deportesrcn.com/2015/04/alvear-y-amaris-plata-bronce-en-el-panamericano-de-judo-deportes",
-            "resource_url": "http://news.google.es/?hl=es&q=judo%2Bjudo&output=atom&nord=1",
-            "source_url": "http://deportesrcn.com/noticia-video/alvear-y-amaris-plata-y-bronce-en-el-panamericano-de-judo-deportes-36584"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "servicios-web",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/servicios-web/",
@@ -17,7 +17,7 @@
             "date": "2015-03-20",
             "author_name": "Softline Latinoam\u00e9rica",
             "categories": "servicios-web",
-            "tags": "servicios,servicios-web,web,c\u00f3mo",
+            "tags": "servicios,servicios-web,web,webinar,c\u00f3mo",
             "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2015/03/webinar-c%C3%B3mo-provisionar-servicios-web-con-azure",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=L_qo5REZvac&feature=youtube_gdata",
@@ -29,23 +29,23 @@
             "date": "2015-02-20",
             "author_name": "mantisd3",
             "categories": "desarrollo-web",
-            "tags": "desarrollo,web,servicios,dise\u00f1o,tags",
+            "tags": "web,servicios,dise\u00f1o,tags",
             "recuweb_url": "http://es.recuweb.com/desarrollo-web/dailymotion.com/2015/02/desarrollo-web-servicios-en-mantisd3",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web+servicios+web/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hmkld_desarrollo-web-servicios-en-mantisd3_webcam",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hmkld_desarrollo-web-servicios-en-mantisd3_webcam"
         },
-        "youtube.com/2014/09/definicion-y-consumo-de-servicios-web-tipo-soap-rest-utilizando-java": {
-            "title": "Definicion y consumo de servicios web de tipo SOAP y REST utilizando Java...",
-            "snippet": "Definicion y consumo de servicios web de tipo SOAP y REST utilizando Java Este video muestra el despliegue y descripci\u00f3n de una aplicaci\u00f3n web que basada en la plataforma de desarrollo Java JDK 1.8 para la definici\u00f3n y consumo de operaciones...",
-            "date": "2014-09-15",
-            "author_name": "hlbarragan",
-            "categories": "servicios-web,java",
-            "tags": "web,desarrollo,servicios,servicios-web,java",
-            "recuweb_url": "http://es.recuweb.com/java/youtube.com/2014/09/definicion-y-consumo-de-servicios-web-tipo-soap-rest-utilizando-java",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=rMtqK2KZZa8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rMtqK2KZZa8/0.jpg"
+        "youtube.com/2014/07/consumo-de-servicios-web-en-ios-mantle-afnetworking-y-core-data": {
+            "title": "Consumo de servicios web en iOS: Mantle, AFNetworking y Core Data...",
+            "snippet": "Consumo de servicios web en iOS: Mantle, AFNetworking y Core Data Con Fernando Rodr\u00edguez (frr149) y Guillermo Gonz\u00e1lez Real (gonzalezreal) link curso Super Poderes iOS: link... From: Webinars AGBO Views: 1212 16 ratings Time: 01:25:51 More in...",
+            "date": "2014-07-02",
+            "author_name": "Webinars AGBO",
+            "categories": "servicios-web",
+            "tags": "servicios,servicios-web,web",
+            "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2014/07/consumo-de-servicios-web-en-ios-mantle-afnetworking-y-core-data",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=2fKEXUMCoOw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/2fKEXUMCoOw/0.jpg"
         },
         "dailymotion.com/2014/06/servicios-de-redise%C3%B1o-web": {
             "title": "Servicios de redise\u00f1o web...",
@@ -53,7 +53,7 @@
             "date": "2014-06-05",
             "author_name": "ventas5",
             "categories": "servicios-web",
-            "tags": "web,servicios,servicios-web,dise\u00f1o",
+            "tags": "creaci\u00f3n,web,servicios,servicios-web,dise\u00f1o",
             "recuweb_url": "http://es.recuweb.com/servicios-web/dailymotion.com/2014/06/servicios-de-redise%C3%B1o-web",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x1yq4uc_servicios-de-rediseno-web_tech",
@@ -77,11 +77,23 @@
             "date": "2014-05-26",
             "author_name": "tolo toko",
             "categories": "servicios-web",
-            "tags": "c\u00f3mo,servicios,web,crear,servicios_web",
+            "tags": "c\u00f3mo,servicios,web,servicios_web",
             "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2014/05/12-servicios-web-con-wcf",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=Pn74rdKqdfQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Pn74rdKqdfQ/0.jpg"
+        },
+        "youtube.com/2014/01/webinar-creaci%C3%B3n-de-servicios-web-soap-con-visual-studio-2012": {
+            "title": "Webinar - Creaci\u00f3n de Servicios WEb SOAP con Visual Studio 2012...",
+            "snippet": "Webinar - Creaci\u00f3n de Servicios WEb SOAP con Visual Studio 2012 Webinar - Creaci\u00f3n de Servicios WEb SOAP con Visual Studio 2012. From: Giancarlo Gamarra Views: 0 4 ratings Time: 23:01 More in Entertainment...",
+            "date": "2014-01-18",
+            "author_name": "Giancarlo Gamarra",
+            "categories": "servicios-web",
+            "tags": "servicios,servicios_web,web,webinar,creaci\u00f3n",
+            "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2014/01/webinar-creaci%C3%B3n-de-servicios-web-soap-con-visual-studio-2012",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "source_url": "http://youtube.com/watch?v=wZ5LAN6CAr0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/wZ5LAN6CAr0/0.jpg"
         },
         "dailymotion.com/2013/11/dyn-server-proveedor-de-hosting-y-servicios-web": {
             "title": "dyn-server - Proveedor de hosting y servicios web...",
@@ -91,7 +103,7 @@
             "categories": "servicios-web",
             "tags": "hosting,servicios,servicios-web,web,below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,cheapest,tags",
             "recuweb_url": "http://es.recuweb.com/servicios-web/dailymotion.com/2013/11/dyn-server-proveedor-de-hosting-y-servicios-web",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web+servicios+web/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x17u3es_dyn-server-proveedor-de-hosting-y-servicios-web_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x17u3es_dyn-server-proveedor-de-hosting-y-servicios-web_news"
         },
@@ -102,33 +114,21 @@
             "author_name": "BrittanyPatrina538",
             "tags": "servicios,hosting,web,cheapest,below,below_to_find,find,find_honest,find_honest_uptodate,honest,honest_uptodate,uptodate,tags",
             "recuweb_url": "http://es.recuweb.com/dailymotion.com/2013/11/los-mejores-servicios-de-hosting-para-tu-pagina-web",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web+servicios+web/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/es/search/servicios+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x17kpey_los-mejores-servicios-de-hosting-para-tu-pagina-web_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x17kpey_los-mejores-servicios-de-hosting-para-tu-pagina-web_news"
         },
         "youtube.com/2013/10/tutorial-servicios-web-parte-1": {
             "title": "TUTORIAL SERVICIOS WEB PARTE 1...",
-            "snippet": "TUTORIAL SERVICIOS WEB PARTE 1 From: Patricia Rivas Views: 244 0 ratings Time: 01:09:59 More in People & Blogs...",
+            "snippet": "TUTORIAL SERVICIOS WEB PARTE 1 From: Patricia Rivas Views: 261 0 ratings Time: 01:09:59 More in People & Blogs...",
             "date": "2013-10-03",
             "author_name": "Patricia Rivas",
             "categories": "servicios-web",
-            "tags": "tutorial,servicios,servicios_web,web",
+            "tags": "servicios,servicios_web,web",
             "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2013/10/tutorial-servicios-web-parte-1",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
             "source_url": "http://youtube.com/watch?v=MfaMIVP6dv4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/MfaMIVP6dv4/0.jpg"
-        },
-        "youtube.com/2013/09/java-web-services-%C3%B3-servicios-cliente-y-servidor": {
-            "title": "Java Web Services \u00f3 Servicios Web Java (Cliente y Servidor)...",
-            "snippet": "Java Web Services \u00f3 Servicios Web Java (Cliente y Servidor) Download Source:, Suscr\u00edbete a nuestro canal para que est\u00e9s actualizado con los \u00faltimos videos. En este tutorial aprender\u00e1s a crear un Web Service o Servicio... From: Java Revolutions...",
-            "date": "2013-09-02",
-            "author_name": "Java Revolutions",
-            "categories": "java,servicios-web",
-            "tags": "java,web,tutorial,crear,servicios,servicios_web",
-            "recuweb_url": "http://es.recuweb.com/servicios-web/youtube.com/2013/09/java-web-services-%C3%B3-servicios-cliente-y-servidor",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=servicios%2Bweb%2Bservicios%2Bweb&hl=es-ES&lang=es&lr=es&orderby=relevance_lang_es",
-            "source_url": "http://youtube.com/watch?v=fvKoSySXbEE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/fvKoSySXbEE/0.jpg"
         }
     }
 }

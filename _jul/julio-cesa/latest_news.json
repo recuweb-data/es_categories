@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "julio-cesa",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/julio-cesa/",
@@ -11,11 +11,56 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/julio-cesa/julio-cesa/blogs.json"
     },
     "items": {
+        "abc.es/2015/05/el-%C3%BAltimo-de-los-borgia": {
+            "title": "El \u00faltimo de los Borgia...",
+            "snippet": "Es dif\u00edcil ser Napole\u00f3n con pantalones cortos... recog\u00eda con su c\u00e1mara las declaraciones alucinadas y contradictorias de un Julio C\u00e9sar en bermudas que s\u00f3lo se hac\u00eda respetar en los planos cortos, cuando sus canillas no distra\u00edan la...",
+            "date": "2015-05-07",
+            "tags": "julio,julio_c\u00e9sar,c\u00e9sar",
+            "recuweb_url": "http://es.recuweb.com/abc.es/2015/05/el-%C3%BAltimo-de-los-borgia",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bjulio%2Bcesa&format=RSS&cc=es",
+            "source_url": "http://abc.es/cultura/cine/20150507/abci-ltimo-borgia-201505062023.html"
+        },
+        "es.paperblog.com/2015/05/an%C3%A9cdotas-romanas-xiv-julio-c%C3%A9sar-marido-de-todas-las-mujeres": {
+            "title": "An\u00e9cdotas romanas (XIV): Julio C\u00e9sar, marido de todas las mujeres...",
+            "snippet": "Cuando pienso en Julio C\u00e9sar, me imagino a un hombre creando tramas e intrigas, ambicioso en la guerra y en el poder, bailando con sus peores enemigos mientras les clava una daga en la espalda, lisonjeando a sus amigos para que le boten una vez...",
+            "date": "2015-05-04",
+            "tags": "amigos,poder,julio,julio_c\u00e9sar,c\u00e9sar",
+            "recuweb_url": "http://es.recuweb.com/es.paperblog.com/2015/05/an%C3%A9cdotas-romanas-xiv-julio-c%C3%A9sar-marido-de-todas-las-mujeres",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bjulio%2Bcesa&format=RSS&cc=es",
+            "source_url": "http://es.paperblog.com/anecdotas-romanas-xiv-julio-cesar-marido-de-todas-las-mujeres-3191124/"
+        },
+        "cronicanorte.es/2015/05/cal%C3%ADgula-una-obra-sobre-el-emperador-julio-c%C3%A9sar": {
+            "title": "Cal\u00edgula, una obra sobre el emperador Julio C\u00e9sar...",
+            "snippet": "El pr\u00f3ximo jueves 7 de mayo se estrena la obra Cal\u00edgula en Tres Cantos, donde se muestra una nueva faceta de Julio C\u00e9sar, m\u00e1s humana, un emperador que no cre\u00eda en el poder. La compa\u00f1\u00eda Expresando, a cargo de la directora Marian Hu\u00e9lamo...",
+            "date": "2015-05-04",
+            "tags": "poder,muestra,julio,julio_c\u00e9sar,c\u00e9sar",
+            "recuweb_url": "http://es.recuweb.com/cronicanorte.es/2015/05/cal%C3%ADgula-una-obra-sobre-el-emperador-julio-c%C3%A9sar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bjulio%2Bcesa&format=RSS&cc=es",
+            "source_url": "http://cronicanorte.es/caligula-una-obra-sobre-el-emperador-julio-cesar/84335"
+        },
+        "peru.com/2015/05/julio-c%C3%A9sar-uribe-castig%C3%B3-a-ascues-por-meter-trago-al-club": {
+            "title": "Julio C\u00e9sar Uribe castig\u00f3 a Ascues por meter trago al club...",
+            "snippet": "NO DEJES DE VER: Julio C\u00e9sar Uribe sue\u00f1a: En el Barcelona, yo sentaba a Iniesta:... una oportunidad para reivindicarse, pero si es reincidente obviamente se van, expres\u00f3...",
+            "date": "2015-05-04",
+            "tags": "meter,trago,club,julio,julio_c\u00e9sar,julio_c\u00e9sar_uribe,c\u00e9sar,c\u00e9sar_uribe,uribe,ascues",
+            "recuweb_url": "http://es.recuweb.com/peru.com/2015/05/julio-c%C3%A9sar-uribe-castig%C3%B3-a-ascues-por-meter-trago-al-club",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bjulio%2Bcesa&format=RSS&cc=es",
+            "source_url": "http://peru.com/futbol/local/julio-cesar-uribe-castigo-ascues-meter-trago-al-club-noticia-352782"
+        },
+        "peru.com/2015/05/julio-c%C3%A9sar-uribe-y-su-fuerte-cr%C3%ADtica-a-ricardo-gareca": {
+            "title": "Julio C\u00e9sar Uribe y su fuerte cr\u00edtica a Ricardo Gareca por viajes...",
+            "snippet": "Julio... cesar-uribe-castigo-ascues-meter-trago-al-club-noticia-352782 El entrenador peruano, en este momento sin club, reconoci\u00f3 que en su etapa en la selecci\u00f3n \u00e9l tambi\u00e9n lo hizo, el viajar por Europa, y asegur\u00f3 que fue una p\u00e9rdida de...",
+            "date": "2015-05-04",
+            "tags": "\u00e9l,club,julio,julio_c\u00e9sar,julio_c\u00e9sar_uribe,c\u00e9sar,cesar,c\u00e9sar_uribe,uribe,ascues,meter,trago",
+            "recuweb_url": "http://es.recuweb.com/peru.com/2015/05/julio-c%C3%A9sar-uribe-y-su-fuerte-cr%C3%ADtica-a-ricardo-gareca",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bjulio%2Bcesa&format=RSS&cc=es",
+            "source_url": "http://peru.com/futbol/seleccion/julio-cesar-uribe-y-su-fuerte-critica-ricardo-gareca-viajes-noticia-352867"
+        },
         "republica.com.uy/2015/05/julio-c%C3%A9sar-maglione-un-dirigente-que-sigue-haciendo-historia": {
             "title": "Julio C\u00e9sar Maglione, un dirigente que sigue haciendo historia...",
             "snippet": "El pasado 11 de abril, en Miami, el Dr. Julio C\u00e9sar Maglione, fue electo por aclamaci\u00f3n, presidente de Odepa (Organizaci\u00f3n Deportiva Panamericana), la cual aglutina a 41 Comit\u00e9s Ol\u00edmpicos de igual n\u00famero de naciones de toda Am\u00e9rica. Maglione,...",
             "date": "2015-05-02",
-            "tags": "julio,julio_c\u00e9sar,c\u00e9sar,am\u00e9rica",
+            "tags": "julio,julio_c\u00e9sar,c\u00e9sar,historia",
             "recuweb_url": "http://es.recuweb.com/republica.com.uy/2015/05/julio-c%C3%A9sar-maglione-un-dirigente-que-sigue-haciendo-historia",
             "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
             "source_url": "http://republica.com.uy/sigue-haciendo-historia/514563/"
@@ -24,25 +69,16 @@
             "title": "Julio C\u00e9sar Salazar clasifica en 20 km marcha a los Panamericanos...",
             "snippet": "El chihuahuense Julio C\u00e9sar Salazar se ubic\u00f3 en la cuarta posici\u00f3n de los 20 kil\u00f3metros, Race Walking Challenge de la IAAF, que se celebr\u00f3 en Taicang, China, al cruzar la meta con un crono de 1: horas. Derivado de este resultado, el andar\u00edn...",
             "date": "2015-05-02",
-            "tags": "andar\u00edn,resultado,cruzar,cruzar-la-meta,meta,crono,celebr\u00f3,race,race_walking,race_walking_challenge,walking,walking_challenge,challenge,ubic\u00f3,cuarta,cuarta-posici\u00f3n,posici\u00f3n,clasifica,julio,julio_c\u00e9sar,julio_c\u00e9sar_salazar,c\u00e9sar,c\u00e9sar_salazar,salazar,panamericanos,chihuahuense,kil\u00f3metros,iaaf,taicang,china,horas,derivado",
+            "tags": "resultado,cruzar,cruzar-la-meta,meta,crono,celebr\u00f3,race,race_walking,race_walking_challenge,walking,walking_challenge,challenge,ubic\u00f3,cuarta,cuarta-posici\u00f3n,posici\u00f3n,clasifica,julio,julio_c\u00e9sar,julio_c\u00e9sar_salazar,c\u00e9sar,c\u00e9sar_salazar,salazar,panamericanos,chihuahuense,kil\u00f3metros,iaaf,taicang,china,horas,derivado",
             "recuweb_url": "http://es.recuweb.com/tiempo.com.mx/2015/05/julio-c%C3%A9sar-salazar-clasifica-en-20-km-marcha-a-los-panamericanos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
             "source_url": "http://tiempo.com.mx/_notas/2194310"
-        },
-        "laaficion.milenio.com/2015/05/a-panamericanos-y-mundial": {
-            "title": "a Panamericanos y Mundial -...",
-            "snippet": "Panamericanos y, el marchista Julio C\u00e9sar Salazar es el segundo clasificado a los Juegos Panamericanos de Toronto, dentro de la prueba de 20 kil\u00f3metros, esto despu\u00e9s de que el andar\u00edn cumpli\u00f3 con el par\u00e1metro de cruzar la meta por debajo de...",
-            "date": "2015-05-02",
-            "tags": "andar\u00edn,cruzar,cruzar-la-meta,meta,prueba,julio,julio_c\u00e9sar,julio_c\u00e9sar_salazar,c\u00e9sar,c\u00e9sar_salazar,salazar,panamericanos,kil\u00f3metros",
-            "recuweb_url": "http://es.recuweb.com/laaficion.milenio.com/2015/05/a-panamericanos-y-mundial",
-            "resource_url": "http://news.google.es/?hl=es&q=julio%2Bcesa%2Bjulio%2Bcesa&output=atom&nord=1",
-            "source_url": "http://laaficion.milenio.com/masaficion/Julio-Cesar-Salazar-Panamericanos-Mundial_0_509949276.html"
         },
         "fichajes.net/2015/05/el-benfica-seguir%C3%A1-contando-con-%C3%A9l": {
             "title": "El Benfica seguir\u00e1 contando con \u00e9l...",
             "snippet": "El Benfica ha decidido renovar el contrato a J\u00falio C\u00e9sar seg\u00fan publican diversos medios lusos. Al parecer, el conjunto lisboeta est\u00e1 satisfecho con el rendimiento ofrecido por el internacional brasile\u00f1o y por eso se le presentar\u00e1 una propuesta...",
             "date": "2015-05-01",
-            "tags": "c\u00e9sar,contrato",
+            "tags": "c\u00e9sar,\u00e9l",
             "recuweb_url": "http://es.recuweb.com/fichajes.net/2015/05/el-benfica-seguir%C3%A1-contando-con-%C3%A9l",
             "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
             "source_url": "http://fichajes.net/noticias/benfica-seguira-contando-20150501.html"
@@ -56,53 +92,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
             "source_url": "http://oem.com.mx/esto/notas/n3791787.htm"
         },
-        "masdeporte.as.com/2015/05/las-leyendas-gana-mayweather-si-se-va-a-la-distancia": {
-            "title": "Las leyendas: gana Mayweather si se va a la distancia...",
-            "snippet": "Por el MGM de Las Vegas pasan estos d\u00edas grandes campeones. Los mexicanos Julio C\u00e9sar Ch\u00e1vez y Juanma M\u00e1rquez hacen de comentaristas para las televisiones mexicanas Azteca y ESPN. Mike Tyson aprovecha para hacer caja firmando aut\u00f3grafos en...",
+        "radioformula.com.mx/2015/05/quiero-ver-a-mayweather-sufrir-en-el-box-no-hay-supermanes": {
+            "title": "Quiero ver a Mayweather sufrir, en el box no hay Supermanes: Julio C\u00e9sar. Con Jos\u00e9 C\u00e1rdenas...",
+            "snippet": "Lo \u00fanico que s\u00ed, es quisiera que Mayweather sufriera que aqu\u00ed en el boxeo no existen los Superman y que todos podemos perder, declar\u00f3 Julio C\u00e9sar Ch\u00e1vez Jr. Aunque no tiene un favorito para la denominada pelea del siglo en el MGM de Las...",
             "date": "2015-05-01",
-            "categories": "television,leyendas",
-            "tags": "julio,julio_c\u00e9sar,julio_c\u00e9sar_ch\u00e1vez,c\u00e9sar,c\u00e9sar_ch\u00e1vez,ch\u00e1vez,gana,mayweather,mexicanos",
-            "recuweb_url": "http://es.recuweb.com/leyendas/masdeporte.as.com/2015/05/las-leyendas-gana-mayweather-si-se-va-a-la-distancia",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
-            "source_url": "http://masdeporte.as.com/masdeporte/2015/05/02/polideportivo/1430518617_511385.html"
-        },
-        "jornadanet.com/2015/04/julio-c%C3%A9sar-baldivieso-nada-es-imposible-la-jornada-bolivia": {
-            "title": "Julio C\u00e9sar Baldivieso: Nada es imposible - La Jornada (Bolivia)...",
-            "snippet": "EstoJulio C\u00e9sar Baldivieso: \"Nada es imposible\"La Jornada (Bolivia)\"Tigres es un gran equipo, con jugadores de mucha experiencia, pero esto es f\u00fatbol y nada es imposible\", declar\u00f3 Julio C\u00e9sar Baldivieso, entrenador de Universitario de Sucre...",
-            "date": "2015-04-30",
-            "categories": "futbol",
-            "tags": "entrenador,f\u00fatbol,f\u00fatbol-nada,nada,nada-es-imposible,imposible,jugadores,experiencia,tigres,gran,gran-equipo,equipo,c\u00e9sar,c\u00e9sar_baldivieso,baldivieso,julio,julio_c\u00e9sar,julio_c\u00e9sar_baldivieso,declar\u00f3,universitario,sucre",
-            "recuweb_url": "http://es.recuweb.com/futbol/jornadanet.com/2015/04/julio-c%C3%A9sar-baldivieso-nada-es-imposible-la-jornada-bolivia",
-            "resource_url": "http://news.google.es/?hl=es&q=julio%2Bcesa%2Bjulio%2Bcesa&output=atom&nord=1",
-            "source_url": "http://jornadanet.com/n.php?a=115928-1"
-        },
-        "zonanortediario.com.ar/2015/04/durrieu-es-llamativo-lo-bien-que-le-ha-ido-a-inelco": {
-            "title": "Durrieu: Es llamativo lo bien que le ha ido a INELCO en San Isidro - Zona Norte Diario OnLine...",
-            "snippet": "Zona Norte Diario OnLineDurrieu: Es llamativo lo bien que le ha ido a INELCO en San IsidroZona Norte Diario OnLineEl contrato hab\u00eda sido adjudicado en julio de 2008 a la firma CESA SAIC y A, relacionada con el ex Subsecretario de Obras Publicas de...",
-            "date": "2015-04-29",
-            "tags": "cesa,contrato,julio",
-            "recuweb_url": "http://es.recuweb.com/zonanortediario.com.ar/2015/04/durrieu-es-llamativo-lo-bien-que-le-ha-ido-a-inelco",
-            "resource_url": "http://news.google.es/?hl=es&q=julio%2Bcesa&output=atom&nord=1",
-            "source_url": "http://zonanortediario.com.ar/despachos.asp?cod_des=40668&ID_Seccion=146"
-        },
-        "lostiempos.com/2015/04/julio-c%C3%A9sar-baldivieso-nada-es-imposible": {
-            "title": "Julio C\u00e9sar Baldivieso: Nada es imposible...",
-            "snippet": "Tigres es un gran equipo, con jugadores de mucha experiencia, pero esto es f\u00fatbol y nada es imposible, declar\u00f3 Julio C\u00e9sar Baldivieso, entrenador de Universitario, de Sucre equipo que qued\u00f3 con un pie fuera de la Copa Libertadores de Am\u00e9rica...",
-            "date": "2015-04-29",
-            "categories": "futbol",
-            "tags": "equipo,fuera,entrenador,f\u00fatbol,f\u00fatbol-nada,nada,nada-es-imposible,imposible,jugadores,experiencia,gran,gran-equipo,julio,julio_c\u00e9sar,julio_c\u00e9sar_baldivieso,c\u00e9sar,c\u00e9sar_baldivieso,baldivieso,tigres,declar\u00f3,universitario,sucre,am\u00e9rica",
-            "recuweb_url": "http://es.recuweb.com/futbol/lostiempos.com/2015/04/julio-c%C3%A9sar-baldivieso-nada-es-imposible",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
-            "source_url": "http://lostiempos.com/diario/actualidad/deportes/20150429/julio-cesar-baldivieso-nada-es-imposible_299986_662744.html"
-        },
-        "cuatro.com/2015/04/julio-c%C3%A9sar-se-cuela-en-la-ciudad-de-espartaco-haci%C3%A9ndose-pasar": {
-            "title": "Julio C\u00e9sar se cuela en la ciudad de Espartaco haci\u00e9ndose pasar por un esclavo...",
-            "snippet": "El emperador consigue atravesar la muralla ataviado como un esclavo y se gana la confianza de Espartaco asesinando a uno de sus hombres. Adem\u00e1s, Crixus pone a prueba a C\u00e9sar al pedirle que ense\u00f1e la marca de esclavo.",
-            "date": "2015-04-29",
-            "tags": "prueba,gana,julio,julio_c\u00e9sar,c\u00e9sar,adem\u00e1s",
-            "recuweb_url": "http://es.recuweb.com/cuatro.com/2015/04/julio-c%C3%A9sar-se-cuela-en-la-ciudad-de-espartaco-haci%C3%A9ndose-pasar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=julio%2Bcesa&format=RSS&cc=es",
-            "source_url": "http://cuatro.com/spartacus/ultimo-capitulo/Julio-Cesar-Espartaco-haciendose-esclavo_2_1979280152.html"
+            "categories": "boxeo",
+            "tags": "boxeo,s\u00ed,julio,julio_c\u00e9sar,c\u00e9sar,box,siglo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/radioformula.com.mx/2015/05/quiero-ver-a-mayweather-sufrir-en-el-box-no-hay-supermanes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bjulio%2Bcesa&format=RSS&cc=es",
+            "source_url": "http://radioformula.com.mx/notas.asp?Idn=498929&idFC=2015"
         }
     }
 }

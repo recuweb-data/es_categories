@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "memoria-flash",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/memoria-flash/",
@@ -11,52 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/memoria-flash/memoria-flash/blogs.json"
     },
     "items": {
-        "applesfera.com/2015/05/procesador-s1-una-mirada-a-detalle-al-coraz%C3%B3n-del-apple-watch": {
-            "title": "Procesador S1, una mirada a detalle al coraz\u00f3n del Apple Watch...",
-            "snippet": "Por otro lado, la imagen tambi\u00e9n nos muestra que estamos ante un m\u00f3dulo fabricado por Elpida de 512 MB en RAM, una memoria Flash de 8 GB fabricada ya sea por SanDisk o Toshiba, un chip STM para el aceler\u00f3metro y giroscopio, un controlador ADI...",
+        "muycomputer.com/2015/05/google-chrome-c%C3%B3mo-reducir-uso-de-memoria-cpu-y-consumo-bater%C3%ADa": {
+            "title": "Google Chrome: c\u00f3mo reducir uso de memoria, CPU y consumo de bater\u00eda...",
+            "snippet": "Ello se traduce en un aumento significativo de recursos, que se suma al gran uso de memoria RAM y CPU al ejecutar pesta\u00f1as... Ello evitar\u00e1 que plugins de gran consumo como Adobe Flash se cargue autom\u00e1ticamente en segundo plano en todas las...",
+            "date": "2015-05-06",
+            "categories": "google,memoria",
+            "tags": "flash,uso,bater\u00eda,c\u00f3mo,google,memoria,cpu,ram",
+            "recuweb_url": "http://es.recuweb.com/memoria/muycomputer.com/2015/05/google-chrome-c%C3%B3mo-reducir-uso-de-memoria-cpu-y-consumo-bater%C3%ADa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmemoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://muycomputer.com/2015/05/06/google-chrome-recursos"
+        },
+        "ticbeat.com/2015/05/samsung-admite-fallos-en-la-gesti%C3%B3n-de-ram-su-galaxy-s6": {
+            "title": "Samsung admite fallos en la gesti\u00f3n de la RAM en su Galaxy S6...",
+            "snippet": "Sin embargo, y a pesar de que este nuevo m\u00f3vil es la tabla de salvaci\u00f3n para las cuentas... el ya mencionado sistema de memoria RAM LPDDR4 y una memoria flash UFS 2.0, que ofrece un rendimiento mayor y una velocidad de memoria mejorada con un...",
+            "date": "2015-05-05",
+            "categories": "memoria",
+            "tags": "ofrece,samsung,ram,galaxy,sistema,memoria,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/ticbeat.com/2015/05/samsung-admite-fallos-en-la-gesti%C3%B3n-de-ram-su-galaxy-s6",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmemoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://ticbeat.com/sim/samsung-admite-fallos-gestion-ram-galaxy-s6/"
+        },
+        "configurarequipos.com/2015/05/conexion-fuera-de-rango": {
+            "title": "Conexion fuera de rango...",
+            "snippet": "Android tm 4.0 (Ice cream Sandwich); Procesador: 1 GHz (cortex tm A8) memoria RAM 1GB;Wi-Fi b/g/n (inal\u00e1mbriga); Memoria: Flash 8 GB1;pantalla: tactil LCD de 9.7(capacitativa) 1024x768XGA Tengo conexi\u00f3n wi-fi en casa y hace 2 d\u00edas compre una...",
             "date": "2015-05-02",
             "categories": "memoria",
-            "tags": "controlador,chip,procesador,apple,memoria,flash,toshiba",
-            "recuweb_url": "http://es.recuweb.com/memoria/applesfera.com/2015/05/procesador-s1-una-mirada-a-detalle-al-coraz%C3%B3n-del-apple-watch",
+            "tags": "procesador,memoria,ram,flash",
+            "recuweb_url": "http://es.recuweb.com/memoria/configurarequipos.com/2015/05/conexion-fuera-de-rango",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://applesfera.com/apple-watch/procesador-s1-una-mirada-a-detalle-del-corazon-del-apple-watch"
-        },
-        "radioreloj.cu/2015/05/ra%C3%BAl-y-maduro-en-la-fiesta-de-los-trabajadores-radio-reloj": {
-            "title": "Ra\u00fal y Maduro en la fiesta de los trabajadores - Radio Reloj...",
-            "snippet": "Ra\u00fal y Maduro en la fiesta de los trabajadoresRadio RelojReafirm\u00f3 el apoyo incondicional al gobierno leg\u00edtimo del presidente Nicol\u00e1s Maduro y la lealtad a la memoria del Comandante Hugo Ch\u00e1vez, el mejor amigo de Cuba.... Audio clip: Adobe Flash...",
-            "date": "2015-05-02",
-            "categories": "radio,memoria",
-            "tags": "flash,memoria",
-            "recuweb_url": "http://es.recuweb.com/memoria/radioreloj.cu/2015/05/ra%C3%BAl-y-maduro-en-la-fiesta-de-los-trabajadores-radio-reloj",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://radioreloj.cu/index.php/noticias-radio-reloj/75-nacionales/22834-raul-y-maduro-en-la-fiesta-de-los-trabajadores"
+            "source_url": "http://configurarequipos.com/respuestas/pregunta128084.html"
         },
         "sierramaestra.cu/2015/05/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n-sierra-maestra": {
             "title": "Nuevas tecnolog\u00edas en nuestra educaci\u00f3n - Sierra Maestra...",
             "snippet": "Nuevas tecnolog\u00edas en nuestra educaci\u00f3nSierra MaestraY se\u00f1al\u00f3 la inclusi\u00f3n tambi\u00e9n de pizarras interactivas, sustituci\u00f3n de los videos VHS o DVD por interfaces de almacenamiento masivo MBOX (que reproduzcan desde una memoria flash o cualquier...",
             "date": "2015-05-01",
             "categories": "tecnologia,memoria",
-            "tags": "cualquier,reproduzcan,interfaces,interfaces-de-almacenamiento,almacenamiento,almacenamiento-masivo,masivo,sustituci\u00f3n,se\u00f1al\u00f3,se\u00f1al\u00f3-la-inclusi\u00f3n,inclusi\u00f3n,pizarras,pizarras-interactivas,interactivas,tecnolog\u00edas,educaci\u00f3n,nuevas,vhs,dvd,mbox,memoria,flash",
+            "tags": "nuevas,memoria,flash",
             "recuweb_url": "http://es.recuweb.com/memoria/sierramaestra.cu/2015/05/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n-sierra-maestra",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash%2Bmemoria%2Bflash&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
             "source_url": "http://sierramaestra.cu/titulares/46576-nuevas-tecnologias-en-nuestra-educacion"
         },
-        "periodico26.cu/2015/04/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n": {
-            "title": "Nuevas tecnolog\u00edas en nuestra educaci\u00f3n...",
-            "snippet": "Y se\u00f1al\u00f3 la inclusi\u00f3n tambi\u00e9n de pizarras interactivas, sustituci\u00f3n de los videos VHS o DVD por interfaces de almacenamiento masivo MBOX (que reproduzcan desde una memoria flash o cualquier disco duro). Sobre los planes y programas de estudio...",
-            "date": "2015-04-30",
-            "categories": "disco-duro,tecnologia,memoria",
-            "tags": "estudio,cualquier,disco,disco-duro,duro,reproduzcan,interfaces,interfaces-de-almacenamiento,almacenamiento,almacenamiento-masivo,masivo,sustituci\u00f3n,se\u00f1al\u00f3,se\u00f1al\u00f3-la-inclusi\u00f3n,inclusi\u00f3n,pizarras,pizarras-interactivas,interactivas,tecnolog\u00edas,educaci\u00f3n,nuevas,vhs,dvd,mbox,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/periodico26.cu/2015/04/nuevas-tecnolog%C3%ADas-en-nuestra-educaci%C3%B3n",
+        "applesfera.com/2015/05/procesador-s1-una-mirada-a-detalle-al-coraz%C3%B3n-del-apple-watch": {
+            "title": "Procesador S1, una mirada a detalle al coraz\u00f3n del Apple Watch...",
+            "snippet": "Por otro lado, la imagen tambi\u00e9n nos muestra que estamos ante un m\u00f3dulo fabricado por Elpida de 512 MB en RAM, una memoria Flash de 8 GB fabricada ya sea por SanDisk o Toshiba, un chip STM para el aceler\u00f3metro y giroscopio, un controlador ADI...",
+            "date": "2015-05-01",
+            "categories": "memoria",
+            "tags": "controlador,chip,procesador,apple,ram,memoria,flash,toshiba",
+            "recuweb_url": "http://es.recuweb.com/memoria/applesfera.com/2015/05/procesador-s1-una-mirada-a-detalle-al-coraz%C3%B3n-del-apple-watch",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://periodico26.cu/index.php/es/de-cuba/28770-nuevas-tecnologias-en-nuestra-educacion"
+            "source_url": "http://applesfera.com/apple-watch/procesador-s1-una-mirada-a-detalle-del-corazon-del-apple-watch"
+        },
+        "hardzone.es/2015/04/patriot-ya-ofrece-memorias-flash-con-usb-type-c": {
+            "title": "Patriot ya ofrece memorias flash con USB Type-C...",
+            "snippet": "Patriot, uno de los l\u00edderes mundiales en fabricaci\u00f3n de memorias USB y accesorios m\u00f3viles, ha anunciado que ya tiene preparados nuevas unidades flash con USB Type-C, especialmente pensados para los nuevos MacBook de Apple, los Chromebook Pixel de...",
+            "date": "2015-04-30",
+            "categories": "memoria,macbook",
+            "tags": "nuevas,unidades,usb,ofrece,flash,apple",
+            "recuweb_url": "http://es.recuweb.com/macbook/hardzone.es/2015/04/patriot-ya-ofrece-memorias-flash-con-usb-type-c",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmemoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://hardzone.es/2015/04/30/patriot-memorias-flash-usb-type-c/"
+        },
+        "hardzone.es/2015/04/toshiba-flashair-32-gb-an%C3%A1lisis-completo": {
+            "title": "Toshiba FlashAir 32 GB, an\u00e1lisis completo...",
+            "snippet": "Toshiba es otro de esos fabricantes que no necesita presentaci\u00f3n, ya que su amplio cat\u00e1logo abarca desde Televisiones hasta dispositivos de memoria. Y es sobre uno de \u00e9stos dispositivos sobre el que os vamos a hablar hoy, concretamente sobre la...",
+            "date": "2015-04-30",
+            "categories": "television,memoria",
+            "tags": "dispositivos,fabricantes,toshiba,memoria",
+            "recuweb_url": "http://es.recuweb.com/memoria/hardzone.es/2015/04/toshiba-flashair-32-gb-an%C3%A1lisis-completo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmemoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://hardzone.es/2015/04/30/toshiba-flashair-32-gb-analisis/"
         },
         "faq-mac.com/2015/04/apple-ampliar%C3%A1-su-centro-de-investigaci%C3%B3n-y-desarrollo-en-israel-semanas": {
             "title": "Apple ampliar\u00e1 su centro de investigaci\u00f3n y desarrollo en Israel semanas despu\u00e9s su apertura...",
             "snippet": "Mucho de este personal llega por las adquisiciones de empresas de Apple como el fabricante de memoria Flash Anobit o la empresa fabricantes de sensores PrimeSense.",
             "date": "2015-04-29",
             "categories": "memoria",
-            "tags": "flash,desarrollo,apple,memoria",
+            "tags": "fabricantes,flash,desarrollo,apple,memoria",
             "recuweb_url": "http://es.recuweb.com/memoria/faq-mac.com/2015/04/apple-ampliar%C3%A1-su-centro-de-investigaci%C3%B3n-y-desarrollo-en-israel-semanas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://faq-mac.com/2015/04/apple-ampliara-su-centro-de-investigacion-y-desarrollo-en-israel-semanas-despues-su-apertura/"
@@ -71,45 +101,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
             "source_url": "http://pcworld.es/movilidad/toshiba-quiere-atraer-a-los-desarrolladores-con-kits-para-wearables"
         },
-        "abc.com.py/2015/04/cronolog%C3%ADa-del-universo-marvel-parte-3-abc-color": {
-            "title": "Cronolog\u00eda del Universo Marvel (Parte 3) - ABC Color...",
-            "snippet": "ABC ColorCronolog\u00eda del Universo Marvel (Parte 3)ABC ColorTras liberar un barco de. de un grupo de secuestradores junto a Natasha Romanoff, Rogers descubre que su aliada ten\u00eda un obejtivo secreto: recuperar una memoria flash para Fury. Cuando es...",
+        "movilzona.es/2015/04/nexpaq-es-la-funda-que-a%C3%B1ade-flash-memoria-bater%C3%ADa-l%C3%A1sers": {
+            "title": "Nexpaq es la funda que a\u00f1ade flash, memoria, bater\u00eda, l\u00e1sers y m\u00e1s a tu iPhone o Samsung Galaxy...",
+            "snippet": "Seguro que al echar un vistazo en estas im\u00e1genes, lo primero que os ha venido a la cabeza es Project Ara... meter m\u00e1s memoria al terminal o usos tan poco comunes como potenciar el flash LED, a\u00f1adir altavoces amplificadores, lectores de...",
             "date": "2015-04-28",
-            "categories": "memoria",
-            "tags": "parte,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/abc.com.py/2015/04/cronolog%C3%ADa-del-universo-marvel-parte-3-abc-color",
-            "resource_url": "http://news.google.es/?hl=es&q=memoria%2Bflash&output=atom&nord=1",
-            "source_url": "http://abc.com.py/espectaculos/cine-y-tv/cronologia-del-universo-marvel-parte-3-1361155.html"
-        },
-        "elsol.com.bo/2015/04/trucos-efectivos-para-rejuvenecer-el-iphone": {
-            "title": "Trucos efectivos para rejuvenecer el iPhone...",
-            "snippet": "Memoria flash avanzada. Si cualquiera de los dispositivos est\u00e1 lleno de archivos y le hace falta un poco m\u00e1s de espacio, un iPhone viejo puede funcionar como un pendrive para guardar todo lo necesario. Esto vendr\u00eda bien as\u00ed se tenga un m\u00f3vil...",
-            "date": "2015-04-28",
-            "categories": "iphone,memoria",
-            "tags": "guardar,dispositivos,archivos,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/elsol.com.bo/2015/04/trucos-efectivos-para-rejuvenecer-el-iphone",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://elsol.com.bo/index.php?cat=182&pla=3&id_articulo=103707"
-        },
-        "exalli.com/2015/04/para-regalar-tecnolog%C3%ADa-parte-2": {
-            "title": "Para regalar tecnolog\u00eda (parte 2)...",
-            "snippet": "En qu\u00e9 se almacenar\u00e1 el video una vez guardado? Actualmente muchos modelos de c\u00e1mara ya no utilizan medios externos para guardar el video, pues cuentan con disco duro interno o memoria flash en ambos casos los videos se guardan como archivos los...",
-            "date": "2015-04-24",
-            "categories": "disco-duro,tecnologia,memoria",
-            "tags": "archivos,disco,disco-duro,duro,guardar,parte,memoria,flash",
-            "recuweb_url": "http://es.recuweb.com/memoria/exalli.com/2015/04/para-regalar-tecnolog%C3%ADa-parte-2",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://exalli.com/index.php/reportaje/tecnologia/214-para-regalar-tecnologia-parte-2"
-        },
-        "exalli.com/2015/04/4-tips-para-acelerar-tu-windows": {
-            "title": "4 tips para acelerar tu Windows...",
-            "snippet": "Analiza cu\u00e1les en verdad necesitas y desinstala los que no sean de utilidad. Usa memoria Flash USB para acelerar tu sistema Tanto Windows Vista como Windows 7 incluyen la funci\u00f3n ReadyBoost mediante la cual es posible usar una memoria externa USB...",
-            "date": "2015-04-23",
-            "categories": "memoria",
-            "tags": "flash,flash_usb,usb,cu\u00e1les,memoria,sistema",
-            "recuweb_url": "http://es.recuweb.com/memoria/exalli.com/2015/04/4-tips-para-acelerar-tu-windows",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=memoria%2Bflash&format=RSS&cc=es",
-            "source_url": "http://exalli.com/index.php/tips/software/344-4-tips-para-acelerar-tu-windows"
+            "categories": "memoria,iphone",
+            "tags": "samsung,galaxy,flash,memoria,bater\u00eda",
+            "recuweb_url": "http://es.recuweb.com/iphone/movilzona.es/2015/04/nexpaq-es-la-funda-que-a%C3%B1ade-flash-memoria-bater%C3%ADa-l%C3%A1sers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bmemoria%2Bflash&format=RSS&cc=es",
+            "source_url": "http://movilzona.es/2015/04/29/nexpaq-funda-modular-iphone-galaxy/"
         }
     }
 }

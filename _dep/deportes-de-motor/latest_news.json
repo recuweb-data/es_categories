@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "deportes-de-motor",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/deportes-de-motor/",
@@ -11,48 +11,78 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/deportes-de-motor/deportes-de-motor/blogs.json"
     },
     "items": {
-        "andaluciainformacion.es/2015/05/jerez-afronta-su-fin-de-semana-m%C3%A1s-internacional-con-unas-personas": {
-            "title": "Jerez afronta su fin de semana m\u00e1s internacional con unas personas...",
-            "snippet": "Se trata de una muestra itinerante sobre el patrocinio deportivo de Repsol ubicada en la plaza del Arenal que recoge los m\u00e1s de 45 a\u00f1os de la compa\u00f1\u00eda apoyando los deportes de motor, con objetos personales de pilotos como Marc M\u00e1rquez, Dani...",
-            "date": "2015-05-02",
-            "tags": "marc,marc_m\u00e1rquez,m\u00e1rquez,objetos,objetos-personales,personales,personales-de-pilotos,pilotos,compa\u00f1\u00eda,compa\u00f1\u00eda-apoyando,apoyando,recoge,plaza,muestra,patrocinio,fin,fin-de-semana,semana,jerez,repsol,arenal,deportes,motor,dani",
-            "recuweb_url": "http://es.recuweb.com/andaluciainformacion.es/2015/05/jerez-afronta-su-fin-de-semana-m%C3%A1s-internacional-con-unas-personas",
+        "marca.com/2015/05/honda-promete-m%C3%A1s-avances-en-espa%C3%B1a": {
+            "title": "Honda promete m\u00e1s avances en Espa\u00f1a...",
+            "snippet": "El director ejecutivo de deportes de motor de Honda, Yasuhisa Arai, asegur\u00f3 este martes que en el Gran Premio de Espa\u00f1a se ver\u00e1n m\u00e1s progresos en la unidad de potencia y en el monoplaza en general. El par\u00f3n corto antes del GP de Espa\u00f1a ha...",
+            "date": "2015-05-05",
+            "categories": "monoplaza",
+            "tags": "gran,gran_premio,premio,espa\u00f1a,deportes,motor",
+            "recuweb_url": "http://es.recuweb.com/monoplaza/marca.com/2015/05/honda-promete-m%C3%A1s-avances-en-espa%C3%B1a",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://andaluciainformacion.es/andalucia/501908/jerez-afronta-su-fin-de-semana-mas-internacional-con-unas-250000-personas/"
+            "source_url": "http://marca.com/2015/05/05/motor/formula1/gp-espana/1430842725.html"
         },
-        "espndeportes.espn.go.com/2015/04/la-siguiente-temporada-iniciar%C3%A1-en-abril-espn-deportes": {
-            "title": "La siguiente temporada iniciar\u00e1 en abril - ESPN Deportes...",
-            "snippet": "ESPN DeportesLa siguiente temporada iniciar\u00e1 en abrilESPN DeportesM\u00c1S TITULARES DE DEPORTE-MOTOR/F1. Audi no tiene intensiones de ir a la F-1 GP M\u00e9xico: Hasta 8 mil 400 d\u00f3lares boletos VIP Nico ya tiene 27 puntos menos que Lewis F-4: El hijo de...",
-            "date": "2015-04-30",
-            "categories": "deporte",
-            "tags": "deporte,deportes,motor",
-            "recuweb_url": "http://es.recuweb.com/deporte/espndeportes.espn.go.com/2015/04/la-siguiente-temporada-iniciar%C3%A1-en-abril-espn-deportes",
+        "lasprovincias.es/2015/05/el-rey-juan-carlos-a-nico-abad-quita-ese-micr%C3%B3fono": {
+            "title": "El Rey Juan Carlos a Nico Abad: Quita ese micr\u00f3fono de ah\u00ed...",
+            "snippet": "El Rey Juan Carlos, gran aficionado a los deportes de motor y asiduo de los circuitos cuando su agenda se lo ha permitido, estuvo ayer en Jerez para ver el Gran Premio de Espa\u00f1a de motociclismo. El Monarca no quiso atender esta vez a la televisi\u00f3n...",
+            "date": "2015-05-04",
+            "categories": "television,motociclismo",
+            "tags": "quiso,quiso-atender,atender,televisi\u00f3n,motociclismo,gran,gran_premio,premio,estuvo,estuvo-ayer,ayer,asiduo,circuitos,agenda,permitido,gran-aficionado,aficionado,rey,juan,juan_carlos,carlos,deportes,motor,jerez,espa\u00f1a,monarca",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/lasprovincias.es/2015/05/el-rey-juan-carlos-a-nico-abad-quita-ese-micr%C3%B3fono",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://lasprovincias.es/gente-estilo/201505/04/juan-carlos-motos-jerez-20150504001613-v.html"
+        },
+        "cincodias.com/2015/05/una-inversi%C3%B3n-en-imagen-y-principios": {
+            "title": "Una inversi\u00f3n en imagen y principios...",
+            "snippet": "Algo que tambi\u00e9n le ha sucedido a Repsol, que durante estos d\u00edas celebra sus 46 a\u00f1os de presencia como patrocinador de deportes de motor, en especial en el mundial de motociclismo. En el caso de la petrolera, con un elemento a\u00f1adido: la...",
+            "date": "2015-05-04",
+            "categories": "motociclismo",
+            "tags": "mundial,motociclismo,celebra,repsol,deportes,motor",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/cincodias.com/2015/05/una-inversi%C3%B3n-en-imagen-y-principios",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://cincodias.com/cincodias/2015/05/01/empresas/1430504579_266583.html"
+        },
+        "caranddriverthef1.com/2015/05/ya-a-la-venta-edici%C3%B3n-2015-de-who-works-in-motorsports": {
+            "title": "Ya a la venta la edici\u00f3n 2015 de 'Who Works in Motorsports'...",
+            "snippet": "El directorio l\u00edder en los deportes de motor recopila toda la informaci\u00f3n del DTM, la F1, la GP2, la Indycar, la NASCAR Sprint Cup, sobre USCC, V8 Suprecars, el Mundial de Resistencia, WRC y WTCC. 'Who Works in Motorsports'se ha convertido en...",
+            "date": "2015-05-04",
+            "tags": "deportes,motor,mundial",
+            "recuweb_url": "http://es.recuweb.com/caranddriverthef1.com/2015/05/ya-a-la-venta-edici%C3%B3n-2015-de-who-works-in-motorsports",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://caranddriverthef1.com/formula1/noticias/2015/05/04/110114-ya-la-venta-la-edicion-2015-who-works-motorsports"
+        },
+        "espndeportes.espn.go.com/2015/05/altuve-es-el-motor-de-los-astros-espn-deportes": {
+            "title": "Altuve es el motor de los Astros - ESPN Deportes...",
+            "snippet": "ESPN DeportesAltuve es el motor de los AstrosESPN DeportesJose Altuve Bob Levey/Getty Images Jos\u00e9 Altuve est\u00e1 peleando por los primeros lugares en bateo de la Liga Americana. Una de las grandes sorpresas despu\u00e9s de un mes de competencia en la...",
+            "date": "2015-05-03",
+            "tags": "deportes,motor",
+            "recuweb_url": "http://es.recuweb.com/espndeportes.espn.go.com/2015/05/altuve-es-el-motor-de-los-astros-espn-deportes",
             "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Bmotor&output=atom&nord=1",
-            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2360460/la-siguiente-temporada-iniciara-en-abril"
+            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2363089/altuve-es-el-motor-de-los-astros"
+        },
+        "diariovasco.com/2015/05/el-rey-juan-carlos-ve-las-motos-en-jerez": {
+            "title": "El rey Juan Carlos ve las motos en Jerez...",
+            "snippet": "El rey Juan Carlos, gran aficionado a los deportes de motor y asiduo de los circuitos cuando su agenda se lo ha permitido, estuvo ayer en Jerez para ver el Gran Premio de Espa\u00f1a de motociclismo. El monarca no quiso atender esta vez a la televisi\u00f3n...",
+            "date": "2015-05-03",
+            "categories": "television,motociclismo",
+            "tags": "monarca,quiso,quiso-atender,atender,televisi\u00f3n,motociclismo,gran,gran_premio,premio,estuvo,estuvo-ayer,ayer,asiduo,circuitos,agenda,permitido,gran-aficionado,aficionado,juan,juan_carlos,carlos,rey,jerez,deportes,motor,espa\u00f1a",
+            "recuweb_url": "http://es.recuweb.com/motociclismo/diariovasco.com/2015/05/el-rey-juan-carlos-ve-las-motos-en-jerez",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
+            "source_url": "http://diariovasco.com/gente-estilo/201505/04/juan-carlos-motos-jerez-20150504014116-v.html"
         },
         "elmundo.es/2015/04/medio-siglo-de-leyenda": {
             "title": "Medio siglo de leyenda...",
             "snippet": "Ezpeleta ha hecho un breve repaso a la tradici\u00f3n de Repsol en el patrocinio de equipos dedicados a deportes de motor y ha se\u00f1alado que ninguna otra marca puede presumir de un palmar\u00e9s como el de esta compa\u00f1\u00eda. Por su parte, la regidora...",
             "date": "2015-04-30",
-            "tags": "compa\u00f1\u00eda,patrocinio,repsol,deportes,motor",
+            "tags": "repsol,deportes,motor",
             "recuweb_url": "http://es.recuweb.com/elmundo.es/2015/04/medio-siglo-de-leyenda",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
             "source_url": "http://elmundo.es/deportes/2015/04/30/55420349268e3ec9248b456b.html"
-        },
-        "solodeporte.com.bo/2015/04/seguro-sufriremos-en-barcelona": {
-            "title": "'Seguro sufriremos en Barcelona'...",
-            "snippet": "La alineaci\u00f3n de pilotos ha sido anunciada para un proyecto muy especial en los deportes de motor: el piloto oficial de BMW, Alessandro Zanardi, competir\u00e1 en las 24 Horas de Spa-Francorchamps, junto con los conductores de BMW del DTM Timo Glock y...",
-            "date": "2015-04-29",
-            "tags": "junto,conductores,competir\u00e1,alessandro,alessandro_zanardi,zanardi,pilotos,piloto-oficial,oficial,alineaci\u00f3n,alineaci\u00f3n-de-pilotos,pilotos-ha-sido,sido,sido-anunciada,anunciada,proyecto,proyecto-muy,proyecto-muy-especial,muy,muy-especial,especial,deportes,motor,bmw,horas,spa,francorchamps,dtm,glock",
-            "recuweb_url": "http://es.recuweb.com/solodeporte.com.bo/2015/04/seguro-sufriremos-en-barcelona",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://solodeporte.com.bo/index.php?c=Motor&articulo=-Seguro-sufriremos-en-Barcelona-&cat=5&pla=3&id_articulo=7681"
         },
         "cincodias.com/2015/04/de-nieto-a-m%C3%A1rquez-46-a%C3%B1os-repsol-en-deportes-motor": {
             "title": "De Nieto a M\u00e1rquez: 46 a\u00f1os de Repsol en deportes de motor...",
             "snippet": "Marc M\u00e1rquez celebra su primer t\u00edtulo mundial de MotoGP en 2013, en el Circuit Ricardo Tormo de Valencia. \u00c1ngel Nieto, Emilio de Villota, Carlos Sainz, Marc Coma, Mick Doohan, \u00c1lex Crivill\u00e9, Valentino Rossi, Laia Sanz, Marc M\u00e1rquez... Todos...",
             "date": "2015-04-29",
-            "tags": "\u00e1lex,mick,mick_doohan,doohan,marc,marc_coma,coma,carlos,carlos_sainz,sainz,\u00e1ngel,\u00e1ngel_nieto,nieto,m\u00e1rquez,repsol,deportes,motor,emilio,villota",
+            "tags": "\u00e1lex,mick,mick_doohan,doohan,marc,marc_coma,coma,carlos,carlos_sainz,sainz,\u00e1ngel,\u00e1ngel_nieto,nieto,celebra,mundial,m\u00e1rquez,repsol,deportes,motor,emilio,villota",
             "recuweb_url": "http://es.recuweb.com/cincodias.com/2015/04/de-nieto-a-m%C3%A1rquez-46-a%C3%B1os-repsol-en-deportes-motor",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
             "source_url": "http://cincodias.com/cincodias/2015/04/29/sentidos/1430318000_066850.html"
@@ -63,47 +93,18 @@
             "date": "2015-04-29",
             "tags": "mick,mick_doohan,doohan,marc,marc_coma,coma,carlos,carlos_sainz,sainz,\u00e1ngel,\u00e1ngel_nieto,nieto,m\u00e1rquez,repsol,deportes,motor,emilio,villota,\u00e1lex",
             "recuweb_url": "http://es.recuweb.com/entornointeligente.com/2015/04/de-nieto-a-m%C3%A1rquez-46-a%C3%B1os-repsol-en-deportes-motor-entornointeligente",
-            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Bmotor%2Bdeportes%2Bde%2Bmotor&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=deportes%2Bde%2Bmotor&output=atom&nord=1",
             "source_url": "http://entornointeligente.com/articulo/5797634/De-Nieto-a-Maacute;rquez-46-antilde;os-de-Repsol-en-deportes-de-motor-"
-        },
-        "20minutos.es/2015/04/la-exposici%C3%B3n-repsol-racing-tour-llega-este-jueves-a-plaza": {
-            "title": "La exposici\u00f3n 'Repsol Racing Tour'llega este jueves a la plaza del Arenal de Jerez de la Frontera...",
-            "snippet": "En sus 145 metros cuadrados, la exposici\u00f3n recoge los m\u00e1s de 45 a\u00f1os de la compa\u00f1\u00eda apoyando los deportes de motor, con objetos personales de pilotos como Marc M\u00e1rquez, Dani Pedrosa, \u00c1ngel Nieto y Toni Bou. INTERACTIVA La exposici\u00f3n es...",
-            "date": "2015-04-29",
-            "categories": "frontera",
-            "tags": "exposici\u00f3n,\u00e1ngel,\u00e1ngel_nieto,nieto,dani,marc,marc_m\u00e1rquez,m\u00e1rquez,objetos,objetos-personales,personales,personales-de-pilotos,pilotos,compa\u00f1\u00eda,compa\u00f1\u00eda-apoyando,apoyando,recoge,plaza,repsol,arenal,jerez,deportes,motor",
-            "recuweb_url": "http://es.recuweb.com/frontera/20minutos.es/2015/04/la-exposici%C3%B3n-repsol-racing-tour-llega-este-jueves-a-plaza",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://20minutos.es/noticia/2446608/0/exposicion-repsol-racing-tour-llega-este-jueves-plaza-arenal-jerez-frontera/"
         },
         "xerezmania.masjerez.com/2015/04/muestra-leyendas-del-motor-1969-2015-de-%C3%A1ngel-nieto-a-marc": {
             "title": "Muestra Leyendas del Motor 1969-2015. De \u00c1ngel Nieto a Marc M\u00e1rquez...",
             "snippet": "La exposici\u00f3n se podr\u00e1 visitar gratuitamente hasta el 17 de mayo. En el v\u00eddeo adjunto, una muestra de la vinculaci\u00f3n de Repsol con los deportes de motor en Espa\u00f1a.",
             "date": "2015-04-29",
             "categories": "leyendas",
-            "tags": "muestra,exposici\u00f3n,marc,marc_m\u00e1rquez,m\u00e1rquez,\u00e1ngel,\u00e1ngel_nieto,nieto,motor,repsol,deportes",
+            "tags": "marc,m\u00e1rquez,\u00e1ngel,\u00e1ngel_nieto,nieto,motor,repsol,deportes,espa\u00f1a",
             "recuweb_url": "http://es.recuweb.com/leyendas/xerezmania.masjerez.com/2015/04/muestra-leyendas-del-motor-1969-2015-de-%C3%A1ngel-nieto-a-marc",
             "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
             "source_url": "http://xerezmania.masjerez.com/xerezmania/2015/04/29/1430301721.html"
-        },
-        "laf1.es/2015/04/todt-y-los-asistentes-a-un-congreso-de-la-fia-salvo": {
-            "title": "Todt y los asistentes a un congreso de la FIA, a salvo tras el terremoto de Nepal...",
-            "snippet": "Por hacer posible este anuncio, la FIA da las gracias a las autoridades locales del deporte y a la Asociaci\u00f3n Nepal\u00ed de Deportes de Motor (NASA en ingl\u00e9s). Los efectos de este se\u00edsmo en el Nepal han sido devastadores, con much\u00edsimas p\u00e9rdidas...",
-            "date": "2015-04-27",
-            "categories": "deporte",
-            "tags": "sido,deporte,deportes,motor",
-            "recuweb_url": "http://es.recuweb.com/deporte/laf1.es/2015/04/todt-y-los-asistentes-a-un-congreso-de-la-fia-salvo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://laf1.es/noticias/todt-y-los-asistentes-un-congreso-de-la-fia-salvo-tras-el-terremoto-de-nepal-910325"
-        },
-        "motoryracing.com/2015/04/alex-zanardi-compartir%C3%A1-coche-con-bruno-spengler-y-timo-glock": {
-            "title": "Alex Zanardi compartir\u00e1 coche con Bruno Spengler y Timo Glock...",
-            "snippet": "La alineaci\u00f3n de pilotos ha sido anunciada para un proyecto muy especial los deportes de motor: el piloto oficial de BMW Alessandro Zanardi competir\u00e1 en las 24 Horas de Spa-Francorchamps, junto con los conductores de BMW del DTM Timo Glock y Bruno...",
-            "date": "2015-04-26",
-            "tags": "junto,conductores,competir\u00e1,bmw,alessandro,alessandro_zanardi,zanardi,pilotos,piloto-oficial,oficial,alineaci\u00f3n,alineaci\u00f3n-de-pilotos,pilotos-ha-sido,sido,sido-anunciada,anunciada,proyecto,proyecto-muy,proyecto-muy-especial,muy,muy-especial,especial,glock,deportes,motor,horas,spa,francorchamps,dtm",
-            "recuweb_url": "http://es.recuweb.com/motoryracing.com/2015/04/alex-zanardi-compartir%C3%A1-coche-con-bruno-spengler-y-timo-glock",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=deportes%2Bde%2Bmotor&format=RSS&cc=es",
-            "source_url": "http://motoryracing.com/gt/noticias/zanardi-spengler-glock-spa-24-bmw-2015/"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "kitesurf",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/kitesurf/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/kitesurf/kitesurf/blogs.json"
     },
     "items": {
+        "kitesurf.com.uy/2015/05/curso-de-kitesurf-rey-sapo-escuela": {
+            "title": "Curso de Kitesurf Rey Sapo/Escuela de Kitesurf...",
+            "snippet": "Busc\u00e1s Adrenalina en un ambiente Extremo y Excitante? Entonces el Kitesurf es para vos! Bienvenido a Rey Sapo, Bienvenido al Kitesurf!",
+            "date": "2015-05-02",
+            "author_name": "Rey Sapo",
+            "categories": "kitesurf,escuela",
+            "tags": "kitesurf,extremo",
+            "recuweb_url": "http://es.recuweb.com/escuela/kitesurf.com.uy/2015/05/curso-de-kitesurf-rey-sapo-escuela",
+            "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://kitesurf.com.uy/curso-de-kitesurf/"
+        },
         "travelbymexico.com/2015/04/el-mejor-evento-freestyle-de-kite-surf-en-m%C3%A9xico-ya-tiene": {
             "title": "El mejor evento Freestyle de Kite Surf en M\u00e9xico ya tiene fecha en...",
             "snippet": "El pr\u00f3ximo mes, en las playas de Bucer\u00edas, en la Riviera Nayarit,se llevar\u00e1 a cabo el 6 Festival del Viento, una competencia de Kitesurfing (Kite Surf o Kite Boarding) considerada como el mejor evento Freestyle en M\u00e9xico.",
             "date": "2015-04-25",
             "author_name": "Travel By Mexico",
             "categories": "kitesurf,surf",
-            "tags": "considerada,kite,competencia,llevar\u00e1,llevar\u00e1-cabo,cabo,tiene,fecha,surf,freestyle,viento,kitesurfing",
+            "tags": "kite,competencia,llevar\u00e1,llevar\u00e1-cabo,cabo,riviera,pr\u00f3ximo,tiene,surf,freestyle,fecha,viento,kitesurfing",
             "recuweb_url": "http://es.recuweb.com/surf/travelbymexico.com/2015/04/el-mejor-evento-freestyle-de-kite-surf-en-m%C3%A9xico-ya-tiene",
             "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://travelbymexico.com/blog/17434-el-mejor-evento-freestyle-de-kite-surf-en-mexico-ya-tiene-fecha-en-bucerias-riviera-nayarit/"
@@ -28,7 +39,7 @@
             "date": "2015-04-24",
             "author_name": "Administrador",
             "categories": "kitesurf",
-            "tags": "freestyle,course,kitesurfing,competencia,kitesurf",
+            "tags": "club,freestyle,course,competencia,kitesurf,kitesurfing",
             "recuweb_url": "http://es.recuweb.com/kitesurf/kitesurfvacation.com/2015/04/lord-of-the-wind-2015-en-los-barriles-baja-california-kitesurf",
             "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://kitesurfvacation.com/?p=7879"
@@ -41,7 +52,7 @@
             "categories": "windsurf,kitesurf",
             "tags": "lugar,windsurf,kitesurf,playa,sotavento,fuerteventura,campeonato,mundo",
             "recuweb_url": "http://es.recuweb.com/kitesurf/epiccanarias.com/2015/04/epic-canarias-worldcup-windsurf-&-kitesurf",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://epiccanarias.com/worldcup-windsurf-kitesurf-fuerteventura/"
         },
         "remolacha.net/2015/04/dominicano-gana-campeonato-de-kitesurf-en-francia": {
@@ -50,21 +61,10 @@
             "date": "2015-04-13",
             "author_name": "Ricardo Oquil",
             "categories": "kitesurf",
-            "tags": "kitesurf,freestyle,primer,lugar,campeonato",
+            "tags": "kitesurf,freestyle,primer,lugar,javier,campeonato",
             "recuweb_url": "http://es.recuweb.com/kitesurf/remolacha.net/2015/04/dominicano-gana-campeonato-de-kitesurf-en-francia",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://remolacha.net/2015/04/dominicano-gana-campeonato-de-kitesurf-en-francia.html"
-        },
-        "blogs.comunitatvalenciana.com/2015/04/desembarco-de-surfkiters-en-la-vila-joiosa-kitesurf": {
-            "title": "Desembarco de surfkiters en la Vila Joiosa Kitesurf...",
-            "snippet": "La ciudad de La Vila Joiosa (Villa Alegre) es famosa por el desembarco pirata en sus fiestas patronales de moros y cristianos que se celebran del 24 al 31 de julio, pero esta vez el desembarco no fue de corsarios sino de un...",
-            "date": "2015-04-11",
-            "author_name": "Ra\u00fal Arellano",
-            "categories": "kitesurf",
-            "tags": "kitesurf",
-            "recuweb_url": "http://es.recuweb.com/kitesurf/blogs.comunitatvalenciana.com/2015/04/desembarco-de-surfkiters-en-la-vila-joiosa-kitesurf",
             "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.comunitatvalenciana.com/kitesurf/2015/04/11/desembarco-de-surfkiters-en-la-vila-joiosa/"
+            "source_url": "http://remolacha.net/2015/04/dominicano-gana-campeonato-de-kitesurf-en-francia.html"
         },
         "btv.cat/2015/04/en-estat-cr%C3%ADtic-l-home-accidentat-a-pals-mentre-feia-kitesurf": {
             "title": "En estat cr\u00edtic l'home accidentat a Pals mentre feia kitesurf... - BTV...",
@@ -72,9 +72,9 @@
             "date": "2015-04-05",
             "author_name": "Josep Maria Dempere",
             "categories": "kitesurf,surf",
-            "tags": "kitesurf,platja,surf,pals",
+            "tags": "kitesurf,surf,pals",
             "recuweb_url": "http://es.recuweb.com/surf/btv.cat/2015/04/en-estat-cr%C3%ADtic-l-home-accidentat-a-pals-mentre-feia-kitesurf",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://btv.cat/btvnoticies/2015/04/05/critic-accident-kitesurf-pal/"
         },
         "lavanguardia.com/2015/04/herido-cr%C3%ADtico-cuando-hac%C3%ADa-kitesurf-en-pals-la-vanguardia": {
@@ -85,7 +85,7 @@
             "categories": "kitesurf",
             "tags": "kitesurf,pals",
             "recuweb_url": "http://es.recuweb.com/kitesurf/lavanguardia.com/2015/04/herido-cr%C3%ADtico-cuando-hac%C3%ADa-kitesurf-en-pals-la-vanguardia",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://lavanguardia.com/sucesos/20150404/54429426730/herido-kitesurf-pals.html"
         },
         "veoverde.com/2015/04/campe%C3%B3n-de-kitesurf-arriesg%C3%B3-su-vida-para-rescatar-una-tortuga": {
@@ -93,33 +93,33 @@
             "snippet": "En febrero pasado el campe\u00f3n de kitesurf, Mitu Monteiro, practicaba su deporte favorito en la playa de Sierra Negra en Cabo Verde (\u00c1frica), cuando de repente vio algo flotando peligrosamente cerca de las rocas. Monteiro...",
             "date": "2015-04-02",
             "author_name": "Kurt Castro",
-            "categories": "kitesurf,deporte",
-            "tags": "cabo,kitesurf,deporte,playa",
-            "recuweb_url": "http://es.recuweb.com/deporte/veoverde.com/2015/04/campe%C3%B3n-de-kitesurf-arriesg%C3%B3-su-vida-para-rescatar-una-tortuga",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "categories": "deporte,kitesurf",
+            "tags": "cabo,deporte,kitesurf,playa",
+            "recuweb_url": "http://es.recuweb.com/kitesurf/veoverde.com/2015/04/campe%C3%B3n-de-kitesurf-arriesg%C3%B3-su-vida-para-rescatar-una-tortuga",
+            "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://veoverde.com/2015/04/campeon-de-kitesurf-arriesgo-su-vida-para-rescatar-una-tortuga-marina/"
         },
-        "blogs.comunitatvalenciana.com/2015/03/inminente-curso-de-kite-entrenador-base-nivel-2-kitesurf": {
-            "title": "Inminente curso de kite, entrenador de base, Nivel 2 Kitesurf...",
-            "snippet": "Hola amigos/as, por fin est\u00e1 en marcha el curso que tanto esperabais todos aquellos/as que pose\u00e9is el t\u00edtulo de instructor de kite Nivel 1 y que llev\u00e1is a\u00f1os impartiendo cursos de iniciaci\u00f3n. A diferencia del instructor de Kite,...",
-            "date": "2015-03-31",
+        "blogs.comunitatvalenciana.com/2015/03/el-futuro-de-las-zonas-kite-depende-su-regulaci%C3%B3n-kitesurf": {
+            "title": "El futuro de las zonas kite depende de su regulaci\u00f3n Kitesurf...",
+            "snippet": "Zona Club Kitesurf D\u00e9nia, Playa de les Deveses junto al rio Racons. Lo ideal hubiera sido que este tr\u00e1mite ya se hubiera hecho a nivel nacional pero se est\u00e1 retrasando demasiado y no podemos esperar m\u00e1s. La Federaci\u00f3n...",
+            "date": "2015-03-10",
             "author_name": "Ra\u00fal Arellano",
             "categories": "kitesurf",
-            "tags": "kite,kitesurf",
-            "recuweb_url": "http://es.recuweb.com/kitesurf/blogs.comunitatvalenciana.com/2015/03/inminente-curso-de-kite-entrenador-base-nivel-2-kitesurf",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.comunitatvalenciana.com/kitesurf/2015/03/31/inminente-curso-de-kite-entrenador-de-base-nivel-2/"
+            "tags": "club,kite,kitesurf,d\u00e9nia,playa,deveses,nacional",
+            "recuweb_url": "http://es.recuweb.com/kitesurf/blogs.comunitatvalenciana.com/2015/03/el-futuro-de-las-zonas-kite-depende-su-regulaci%C3%B3n-kitesurf",
+            "resource_url": "http://www.google.com/search?q=kitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogs.comunitatvalenciana.com/kitesurf/2015/03/10/el-futuro-de-las-zonas-kite-depende-de-su-regulacion/"
         },
-        "blogs.comunitatvalenciana.com/2015/03/playa-de-muchavista-spot-surf-kite-en-el-campello-kitesurf": {
-            "title": "Playa de Muchavista, spot de Surf Kite en El Campello Kitesurf...",
-            "snippet": "Playa de Muchavista, spot de Surf Kite en El Campello. Logotipo del \"Grupo de recreaci\u00f3n deportiva Kitesurf Campello\". En la playa de Muchavista (platja Mutxavista) de El Campello, se encuentra el famoso spot de olas,...",
-            "date": "2015-03-22",
-            "author_name": "Ra\u00fal Arellano",
-            "categories": "kitesurf,surf",
-            "tags": "olas,kitesurf,surf,kite,playa,platja",
-            "recuweb_url": "http://es.recuweb.com/surf/blogs.comunitatvalenciana.com/2015/03/playa-de-muchavista-spot-surf-kite-en-el-campello-kitesurf",
-            "resource_url": "http://www.google.com/search?q=kitesurf%2Bkitesurf&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.comunitatvalenciana.com/kitesurf/2015/03/22/playa-de-muchavista-spot-de-surf-kite-en-el-campello/"
+        "northwindkitesurf.wordpress.com/2014/12/material-de-segundamano-kitesurf-y-paddlesurf-sup": {
+            "title": "material de segundamano de kitesurf y paddlesurf sup...",
+            "snippet": "Nueva actualizaci\u00f3n (11 de diciembre de 2014) del listado del material de segunda mano, test 2014, o nuevo de ocasi\u00f3n de Kitesurf y SUP -paddle surf-. Tablas de kitesurf []...",
+            "date": "2014-12-10",
+            "author_name": "northwind escuela de kitesurf & sup en Cantabria",
+            "categories": "surf,kitesurf",
+            "tags": "surf,nuevo,kitesurf",
+            "recuweb_url": "http://es.recuweb.com/kitesurf/northwindkitesurf.wordpress.com/2014/12/material-de-segundamano-kitesurf-y-paddlesurf-sup",
+            "resource_url": "http://es.search.wordpress.com/?q=kitesurf&f=feed&page=1",
+            "source_url": "http://northwindkitesurf.wordpress.com/2014/12/10/material-de-segundamano-de-kitesurf-y-paddlesurf-sup/"
         }
     }
 }

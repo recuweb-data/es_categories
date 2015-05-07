@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xampp",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/xampp/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
     },
     "items": {
-        "cotidianaplace.blogspot.com/2015/04/mi-nube-instalaci%C3%B3n-local-de-owncloud": {
-            "title": "Mi nube: Instalaci\u00f3n local de ownCloud...",
-            "snippet": "En esta entrada de mi blog relato c\u00f3mo me fue con la instalaci\u00f3n de ownCloud en mi ordenador con XUBUNTU. Antes de instalar ownCloud debemos tener instalado XAMPP, y en este mismo blog tengo una entrada donde pod\u00e9is seguir el proceso de...",
-            "date": "2015-04-18",
-            "author_name": "(NACHO SALGADO)",
-            "categories": "xampp",
-            "tags": "tengo,instalado,ordenador,instalaci\u00f3n,local,c\u00f3mo,instalar,xampp",
-            "recuweb_url": "http://es.recuweb.com/xampp/cotidianaplace.blogspot.com/2015/04/mi-nube-instalaci%C3%B3n-local-de-owncloud",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=xampp%2Bxampp&rss=1&lng=es",
-            "source_url": "http://cotidianaplace.blogspot.com/2015/04/mi-nube-instalacion-local-de-owncloud.html"
-        },
         "forum.serverdev.net/2015/04/problema-con-el-xampp-serverdev": {
             "title": "Problema con el XAMPP ServerDev...",
             "snippet": "bien, me pasa lo siguiente tengo la ultima versi\u00f3n del XAMPP y me sale objeto no localizado mi pagina esta situada en C:/XAMPP/SERVER/EL NOMBRE DE MI...",
@@ -30,7 +19,7 @@
             "categories": "xampp",
             "tags": "pagina,versi\u00f3n,tengo,xampp,problema,server",
             "recuweb_url": "http://es.recuweb.com/xampp/forum.serverdev.net/2015/04/problema-con-el-xampp-serverdev",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=xampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://forum.serverdev.net/threads/problema-con-el-xampp.7565/"
         },
         "gcalvetty.wordpress.com/2015/04/xampp-apache-error-err-connection-refused-gecn": {
@@ -39,9 +28,9 @@
             "date": "2015-04-16",
             "author_name": "gcalvetty",
             "categories": "xampp",
-            "tags": "escucha,problema,error,xampp,apache,configurar,puerto",
+            "tags": "ingresa,escucha,problema,localhost,error,xampp,apache,configurar,puerto",
             "recuweb_url": "http://es.recuweb.com/xampp/gcalvetty.wordpress.com/2015/04/xampp-apache-error-err-connection-refused-gecn",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=xampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://gcalvetty.wordpress.com/2015/04/16/xampp-apache-error-err_connection_refused/"
         },
         "laraveles.com/2015/04/ayuda-con-laravel-4-2-y-xampp-en-espa%C3%B1ol": {
@@ -50,10 +39,21 @@
             "date": "2015-04-08",
             "author_name": "hheredia",
             "categories": "xampp",
-            "tags": "desarrollo,version,xampp,espa\u00f1ol,tengo",
+            "tags": "version,xampp,espa\u00f1ol,tengo",
             "recuweb_url": "http://es.recuweb.com/xampp/laraveles.com/2015/04/ayuda-con-laravel-4-2-y-xampp-en-espa%C3%B1ol",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=xampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://laraveles.com/foro/viewtopic.php?id=2992"
+        },
+        "sololinux.es/2015/04/instalar-y-configurar-xampp-en-linux-para-todos-sololinux": {
+            "title": "Instalar y configurar Xampp en linux - Linux para todos - SoloLinux...",
+            "snippet": "XAMPP es un paquete de c\u00f3digo libre, con el cual podr\u00e1s instalar de forma muy sencilla un servidor Apache en ordenador, es compatible con los sistemas operativos Linux, Windows, MAC o Solaris. Esta instalacion que...",
+            "date": "2015-04-08",
+            "author_name": "Sergio G.B.",
+            "categories": "xampp",
+            "tags": "muy,c\u00f3digo,c\u00f3digo-libre,libre,linux,instalar,configurar,xampp,servidor,apache,windows",
+            "recuweb_url": "http://es.recuweb.com/xampp/sololinux.es/2015/04/instalar-y-configurar-xampp-en-linux-para-todos-sololinux",
+            "resource_url": "http://www.google.com/search?q=xampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://sololinux.es/post/Instalar-y-configurar-Xampp-en-linux"
         },
         "sololinux.es/2015/04/historial-de-versiones-xampp-apache-mysql-php-y-fecha": {
             "title": "Historial de versiones XAMPP: Apache, MySQL, PHP y Fecha...",
@@ -61,9 +61,9 @@
             "date": "2015-04-07",
             "author_name": "Sergio G.B.",
             "categories": "xampp,mysql,php",
-            "tags": "versi\u00f3n,entorno,descarga,xampp,apache,mysql,php,servidor",
+            "tags": "versi\u00f3n,xampp,apache,mysql,php,servidor",
             "recuweb_url": "http://es.recuweb.com/php/sololinux.es/2015/04/historial-de-versiones-xampp-apache-mysql-php-y-fecha",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=xampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://sololinux.es/post/Historial-de-versiones-XAMPP-Apache-MySQL-PHP-y-Fecha"
         },
         "elbloglinux.wordpress.com/2015/03/instalar-xampp-en-ubuntu": {
@@ -72,9 +72,9 @@
             "date": "2015-03-18",
             "author_name": "elbloglinux",
             "categories": "xampp",
-            "tags": "muy,f\u00e1cil,linux,xampp,nada,instalar,ubuntu,p\u00e1gina",
+            "tags": "muy,f\u00e1cil,linux,xampp,instalar,ubuntu,p\u00e1gina",
             "recuweb_url": "http://es.recuweb.com/xampp/elbloglinux.wordpress.com/2015/03/instalar-xampp-en-ubuntu",
-            "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=xampp&f=feed&page=1",
             "source_url": "http://elbloglinux.wordpress.com/2015/03/17/instalar-xampp-en-ubuntu-14-04/"
         },
         "tonsigasi.wordpress.com/2015/03/xampp-download-espa%C3%B1ol-ultima-version": {
@@ -85,7 +85,7 @@
             "categories": "xampp",
             "tags": "programas,f\u00e1cil,xampp,windows,version,espa\u00f1ol,descargar,p\u00e1gina,web,local,instalaci\u00f3n",
             "recuweb_url": "http://es.recuweb.com/xampp/tonsigasi.wordpress.com/2015/03/xampp-download-espa%C3%B1ol-ultima-version",
-            "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=xampp&f=feed&page=1",
             "source_url": "http://tonsigasi.wordpress.com/2015/03/12/xampp-download-espanol-ultima-version/"
         },
         "jsstoni.wordpress.com/2015/03/instalar-xampp-en-ubuntu": {
@@ -94,32 +94,32 @@
             "date": "2015-03-02",
             "author_name": "jsstoni",
             "categories": "xampp,mysql",
-            "tags": "software,libre,plataforma,ubuntu,instalar,xampp,servidor,base,datos,mysql,web,apache",
+            "tags": "libre,plataforma,ubuntu,instalar,xampp,servidor,base,datos,mysql,web,apache",
             "recuweb_url": "http://es.recuweb.com/mysql/jsstoni.wordpress.com/2015/03/instalar-xampp-en-ubuntu",
-            "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=xampp&f=feed&page=1",
             "source_url": "http://jsstoni.wordpress.com/2015/03/02/instalar-xampp-en-ubuntu/"
         },
-        "blogs.ua.es/2015/02/problemas-con-xampp-y-el-puerto-80-blogs-de-la-ua": {
-            "title": "Problemas con XAMPP y el puerto 80? - Blogs de la UA...",
-            "snippet": "\u00bfA qui\u00e9n no le ha pasado que despu\u00e9s de instalar el XAMPP ha intentado iniciar el Apache y no le ha funcionado? Xampp_01a. Error del Apache porque se est\u00e1 usando el puerto 80. Este problema se suele dar porque ya...",
-            "date": "2015-02-16",
-            "author_name": "Xavi",
+        "miredlocal.wordpress.com/2015/02/instalaci%C3%B3n-de-la-plataforma-chamilo-en-localhost-con-xampp": {
+            "title": "Instalaci\u00f3n de la Plataforma Chamilo en localhost con XAMPP...",
+            "snippet": "Instalaci\u00f3n de la Plataforma Chamilo en localhost con XAMPP Videotutorial. Publicado: 27 febrero, 2015 en Windows... Notificarme los nuevos comentarios por correo electr\u00f3nico. Servidor Web Local con XAMPP Videotutorial Instalaci\u00f3n de...",
+            "date": "2015-02-27",
+            "author_name": "bellaflorazul",
             "categories": "xampp",
-            "tags": "usando,iniciar,xampp,puerto,instalar,apache,error",
-            "recuweb_url": "http://es.recuweb.com/xampp/blogs.ua.es/2015/02/problemas-con-xampp-y-el-puerto-80-blogs-de-la-ua",
-            "resource_url": "http://www.google.com/search?q=xampp%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.ua.es/labseps/2015/02/16/problemas-con-xampp-y-el-puerto-80/"
+            "tags": "servidor,web,local,localhost,plataforma,instalaci\u00f3n,xampp,febrero,windows",
+            "recuweb_url": "http://es.recuweb.com/xampp/miredlocal.wordpress.com/2015/02/instalaci%C3%B3n-de-la-plataforma-chamilo-en-localhost-con-xampp",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://miredlocal.wordpress.com/2015/02/27/instalacion-de-la-plataforma-chamilo-en-localhost-con-xampp-videotutorial/"
         },
-        "inforoberto.wordpress.com/2015/01/xampp-para-windows-php": {
-            "title": "XAMPP para Windows (PHP)...",
-            "snippet": "\u00bfQu\u00e9 es XAMPP? XAMPP es el entorno m\u00e1s popular de desarrollo con PHP XAMPP es una distribuci\u00f3n de Apache completamente gratuita y f\u00e1cil de instalar que contiene MySQL, PHP y...",
-            "date": "2015-01-30",
-            "author_name": "haldford",
-            "categories": "xampp,php,mysql",
-            "tags": "completamente,f\u00e1cil,entorno,desarrollo,xampp,windows,php,apache,instalar,mysql",
-            "recuweb_url": "http://es.recuweb.com/mysql/inforoberto.wordpress.com/2015/01/xampp-para-windows-php",
-            "resource_url": "http://es.search.wordpress.com/?q=xampp%2Bxampp&f=feed&page=1",
-            "source_url": "http://inforoberto.wordpress.com/2015/01/30/xampp-para-windows-v5-6-3-php-5-6-3/"
+        "eriksernavite.com/2015/02/compartir-localhost-xampp-en-red-local-wifi-erik-serna-vite": {
+            "title": "Compartir Localhost (Xampp) en red local (wifi) Erik Serna Vite...",
+            "snippet": "Compartir Localhost (Xampp) en red local (wifi). This entry was posted in XAMPP and tagged Compartir Localhost (Xampp) en red local (wifi) MYSQL PHP on 18 febrero, 2015 by Erik Serna Vite...",
+            "date": "2015-02-18",
+            "author_name": "Erik Serna Vite",
+            "categories": "mysql,php,xampp",
+            "tags": "mysql,php,localhost,xampp,local,febrero",
+            "recuweb_url": "http://es.recuweb.com/xampp/eriksernavite.com/2015/02/compartir-localhost-xampp-en-red-local-wifi-erik-serna-vite",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bxampp&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://eriksernavite.com/compartir-localhost-xampp-en-red-local-wifi/"
         }
     }
 }

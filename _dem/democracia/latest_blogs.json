@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "democracia",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/democracia/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/democracia/democracia/blogs.json"
     },
     "items": {
-        "aporrea.org/2015/04/eeuu-no-es-una-democracia-concluye-estudio-de-universidad": {
-            "title": "EEUU no es una democracia: Concluye estudio de Universidad de...",
-            "snippet": "30 abril 2015 - Un estudio publicado por la Universidad de Princeton califica a EEUU como un pa\u00eds no democr\u00e1tico, pues sus gobernantes se subordinan a los intereses de una \u00e9lite. \"EEUU ya n...",
-            "date": "2015-04-30",
-            "author_name": "desconocido",
+        "elcorreogallego.es/2015/05/santiago-vivir%C3%A1-las-elecciones-m%C3%A1s-re%C3%B1idas-de-la-democracia": {
+            "title": "Santiago vivir\u00e1 las elecciones m\u00e1s re\u00f1idas de la democracia...",
+            "snippet": "Agust\u00edn Hern\u00e1ndez es claro favorito pero necesita mayor\u00eda absoluta o el apoyo de Ciudadanos//Paco Reyes lucha por ser la alternativa mientras asoma Marti\u00f1o Noriega//El suelo del Bloque podr\u00eda hacer decisivo a Rub\u00e9n...",
+            "date": "2015-05-02",
+            "author_name": "JUAN S\u00c1NCHEZ SANTIAGO",
             "categories": "democracia",
-            "tags": "intereses,pa\u00eds,democr\u00e1tico,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/aporrea.org/2015/04/eeuu-no-es-una-democracia-concluye-estudio-de-universidad",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://aporrea.org/tiburon/n269600.html"
+            "tags": "podr\u00eda,hacer,lucha,absoluta,claro,elecciones,democracia,mayor\u00eda,ciudadanos",
+            "recuweb_url": "http://es.recuweb.com/democracia/elcorreogallego.es/2015/05/santiago-vivir%C3%A1-las-elecciones-m%C3%A1s-re%C3%B1idas-de-la-democracia",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://elcorreogallego.es/elecciones/ecg/santiago-vivira-elecciones-renidas-democracia/idEdicion-2015-05-03/idNoticia-929782/"
         },
-        "contrainfo.com/2015/04/la-democracia-argentina-amenazada-por-el-poder-judicial": {
-            "title": "La democracia argentina amenazada por el Poder Judicial...",
-            "snippet": "La democracia argentina amenazada por el Poder Judicial. El Poder Judicial argentino creci\u00f3 por completo apartado de los intereses populares. As\u00ed conform\u00f3 una corporaci\u00f3n aristocr\u00e1tica acompa\u00f1ante, sirviente y...",
-            "date": "2015-04-30",
-            "author_name": "george",
+        "independent.typepad.com/2015/05/el-independent-los-j%C3%B3venes-%C3%A1rabes-ya-no-conf%C3%ADan-en-la-democracia": {
+            "title": "El Independent: Los j\u00f3venes \u00e1rabes ya no conf\u00edan en la democracia...",
+            "snippet": "En los dos a\u00f1os siguientes, el porcentaje de j\u00f3venes que consideraban que la presi\u00f3n popular a favor de la democracia podr\u00eda traer un cambio positivo a Oriente Medio lleg\u00f3 a situarse en torno al 70% (72% en 2012 y 70%...",
+            "date": "2015-05-01",
+            "author_name": "Gabriel Gasave",
             "categories": "democracia",
-            "tags": "intereses,populares,poder,judicial,democracia,argentina",
-            "recuweb_url": "http://es.recuweb.com/democracia/contrainfo.com/2015/04/la-democracia-argentina-amenazada-por-el-poder-judicial",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://contrainfo.com/14505/la-democracia-argentina-amenazada-por-el-poder-judicial/"
+            "tags": "oriente,medio,podr\u00eda,dos,\u00e1rabes,j\u00f3venes,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/independent.typepad.com/2015/05/el-independent-los-j%C3%B3venes-%C3%A1rabes-ya-no-conf%C3%ADan-en-la-democracia",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://independent.typepad.com/elindependent/2015/05/los-j\u00f3venes-\u00e1rabes-ya-no-conf\u00edan-en-la-democracia.html"
+        },
+        "larepublica.pe/2015/05/gobernabilidad-democracia-y-eficiencia-para-el-desarrollo": {
+            "title": "Gobernabilidad: Democracia y eficiencia para el desarrollo...",
+            "snippet": "Ahora bien, si algo debemos haber aprendido en la \u00faltima d\u00e9cada, es que esa gobernabilidad para ser realmente un camino que nos lleve al desarrollo ha de ser democr\u00e1tica. Liderar una sociedad no consiste, por cierto,...",
+            "date": "2015-05-01",
+            "author_name": "desconocido",
+            "categories": "sociedad,democracia",
+            "tags": "sociedad,esa,\u00fal,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/larepublica.pe/2015/05/gobernabilidad-democracia-y-eficiencia-para-el-desarrollo",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://larepublica.pe/columnistas/desde-las-aulas/gobernabilidad-democracia-y-eficiencia-para-el-desarrollo-01-05-2015"
         },
         "cartasdesdecuba.com/2015/04/democracia-y-elecciones-en-cuba-cartas": {
             "title": "Democracia y elecciones en Cuba Cartas Desde Cuba por...",
@@ -39,87 +50,76 @@
             "date": "2015-04-29",
             "author_name": "Roberto G Peralo",
             "categories": "democracia",
-            "tags": "democr\u00e1tico,sistema,sistema-electoral,electoral,democracia",
+            "tags": "sistema,electoral,elecciones,democracia,candidatura",
             "recuweb_url": "http://es.recuweb.com/democracia/cartasdesdecuba.com/2015/04/democracia-y-elecciones-en-cuba-cartas",
             "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://cartasdesdecuba.com/democracia-y-elecciones-en-cuba/"
-        },
-        "eanoticias.com/2015/04/rocafull-sobre-el-fin-del-binominal-ahora-tendremos": {
-            "title": "Rocafull sobre el fin del binominal: Ahora tendremos una...",
-            "snippet": "A juicio del parlamentario, el cambio del binominal es una inyecci\u00f3n de competencia al sistema electoral. Ahora habr\u00e1 m\u00e1s incertidumbre sobre qui\u00e9n va a ganar. Por lo tanto, tendremos una democracia m\u00e1s vital y con m\u00e1s...",
-            "date": "2015-04-28",
-            "author_name": "Editor",
-            "categories": "democracia",
-            "tags": "vital,habr\u00e1,cambio,sistema,sistema-electoral,electoral,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/eanoticias.com/2015/04/rocafull-sobre-el-fin-del-binominal-ahora-tendremos",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://eanoticias.com/rocafull-sobre-el-fin-del-binominal-ahora-tendremos-una-democracia-mas-vital/"
-        },
-        "attac.es/2015/04/el-triste-fado-de-la-democracia-attac-espa%C3%B1a": {
-            "title": "El triste fado de la democracia ATTAC Espa\u00f1a...",
-            "snippet": "\u00bfPor qu\u00e9 la democracia representativa desde\u00f1a las formas de hacer pol\u00edtica de los movimientos populares que se vienen organizando para combatir el orden neoliberal y dar continuidad a las aspiraciones revolucionarias...",
-            "date": "2015-04-27",
-            "author_name": "amalia",
-            "categories": "politica,democracia",
-            "tags": "representativa,representativa-desde\u00f1a,desde\u00f1a,desde\u00f1a-las-formas,formas,formas-de-hacer,hacer,hacer-pol\u00edtica,pol\u00edtica,movimientos,movimientos-populares,populares,triste,triste-fado,fado,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/attac.es/2015/04/el-triste-fado-de-la-democracia-attac-espa%C3%B1a",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://attac.es/2015/04/27/el-triste-fado-de-la-democracia/"
-        },
-        "edgarjulca.blogspot.com/2015/04/la-democracia-coar-ayacucho": {
-            "title": "LA DEMOCRACIA - COAR AYACUCHO...",
-            "snippet": "Esta es una entrada creada para los alumnos del COAR Ayacucho, est\u00e1n los documentos a leer para poder sustentar su posici\u00f3n la pr\u00f3xima semana. Recuerden que el grupo de monarqu\u00eda y dictadura defender\u00e1n la posici\u00f3n DICTADURA y el grupo que...",
-            "date": "2015-04-27",
-            "author_name": "Edgar M. Julca Chuquista",
-            "categories": "democracia",
-            "tags": "monarqu\u00eda,dictadura,poder,democracia,pr\u00f3xima",
-            "recuweb_url": "http://es.recuweb.com/democracia/edgarjulca.blogspot.com/2015/04/la-democracia-coar-ayacucho",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=democracia%2Bdemocracia&rss=1&lng=es",
-            "source_url": "http://edgarjulca.blogspot.com/2015/04/la-democracia-coar-ayacucho.html"
-        },
-        "blogs.quien.com/2015/04/la-diferencia-entre-monarqu%C3%ADa-democracia-y-las-telenovelas": {
-            "title": "La diferencia entre la monarqu\u00eda, la democracia y las telenovelas en...",
-            "snippet": "&description=La diferencia entre la monarqu\u00eda, la democracia y las telenovelas\" data-pin-do=\"buttonPin\" data-pin-config=\"beside\". \u00bfA qu\u00e9 hora se habr\u00e1 levantado Anah\u00ed para poder llegar al altar a las ocho de la ma\u00f1ana?",
-            "date": "2015-04-27",
-            "author_name": "susanag",
-            "categories": "democracia",
-            "tags": "poder,habr\u00e1,monarqu\u00eda,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/blogs.quien.com/2015/04/la-diferencia-entre-monarqu%C3%ADa-democracia-y-las-telenovelas",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blogs.quien.com/laura-manzo/2015/04/27/la-diferencia-entre-la-monarquia-la-democracia-y-las-telenovelas/"
-        },
-        "larepublica.pe/2015/04/democracia-es-elegir-columnistas": {
-            "title": "Democracia es elegir Columnistas...",
-            "snippet": "Toda sociedad necesita autoridades y ellas tienen sus puntos de vista. Pero, al ejercer la autoridad en un pa\u00eds que es laico, las creencias religiosas son para que cada quien las guarde dentro de su coraz\u00f3n.",
-            "date": "2015-04-25",
-            "author_name": "desconocido",
-            "categories": "sociedad,democracia",
-            "tags": "son,pa\u00eds,sociedad,democracia",
-            "recuweb_url": "http://es.recuweb.com/democracia/larepublica.pe/2015/04/democracia-es-elegir-columnistas",
-            "resource_url": "http://www.google.com/search?q=democracia%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://larepublica.pe/columnistas/encuadre/democracia-es-elegir-25-04-2015"
         },
         "blogs.publico.es/2015/04/otras-miradas-el-triste-fado-de-la-democracia": {
             "title": "Otras miradas El triste fado de la democracia...",
             "snippet": "\u00bfPor qu\u00e9 en estos \u00faltimos a\u00f1os Portugal se ha convertido en una semicolonia informal de Alemania y la troika? \u00bfPor qu\u00e9 la democracia representativa desde\u00f1a las formas de hacer pol\u00edtica de los movimientos populares que...",
             "date": "2015-04-25",
             "author_name": "Opini\u00f3n",
-            "categories": "politica,democracia",
-            "tags": "representativa,representativa-desde\u00f1a,desde\u00f1a,desde\u00f1a-las-formas,formas,formas-de-hacer,hacer,hacer-pol\u00edtica,pol\u00edtica,movimientos,movimientos-populares,populares,triste,triste-fado,fado,democracia,\u00fal",
-            "recuweb_url": "http://es.recuweb.com/democracia/blogs.publico.es/2015/04/otras-miradas-el-triste-fado-de-la-democracia",
+            "categories": "democracia,politica",
+            "tags": "movimientos,hacer,\u00fal,democracia,pol\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/politica/blogs.publico.es/2015/04/otras-miradas-el-triste-fado-de-la-democracia",
             "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blogs.publico.es/otrasmiradas/4486/el-triste-fado-de-la-democracia/"
         },
-        "mesadeautoayudak.blogspot.com/2015/04/soberbia-moral-insignificancia-pol%C3%ADtica": {
-            "title": "Soberbia moral, insignificancia pol\u00edtica.",
-            "snippet": "Columna publicada en Nueva Ciudad. Democracia representativa no es democracia. Democracia es democracia directa, con mecanismos de revocatoria de mandatos, toda esta cosa que planteamos nosotros. Luis Zamora/diciembre del 2001 El 12 de agosto del...",
-            "date": "2015-04-24",
-            "author_name": "rinconete",
-            "categories": "politica,democracia",
-            "tags": "representativa,ciudad,pol\u00edtica,democracia,directa",
-            "recuweb_url": "http://es.recuweb.com/democracia/mesadeautoayudak.blogspot.com/2015/04/soberbia-moral-insignificancia-pol%C3%ADtica",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=democracia%2Bdemocracia&rss=1&lng=es",
-            "source_url": "http://mesadeautoayudak.blogspot.com/2015/04/soberbia-moral-insignificancia-politica.html"
+        "libremente.org/2015/04/libremente-democracia-un-sistema-justo": {
+            "title": "Libremente Democracia, \u00bfun sistema justo?",
+            "snippet": "Desde hace a\u00f1os mucho se ha escrito y debatido acerca de la democracia y su relaci\u00f3n con la Rep\u00fablica y las minor\u00edas. \u00bfQu\u00e9 es la democracia? \u00bfEs el mejor sistema de elecci\u00f3n de quien administra o administrar\u00e1 el...",
+            "date": "2015-04-23",
+            "author_name": "desconocido",
+            "categories": "democracia",
+            "tags": "sistema,minor\u00edas,relaci\u00f3n,hace,democracia,acerca,rep\u00fablica",
+            "recuweb_url": "http://es.recuweb.com/democracia/libremente.org/2015/04/libremente-democracia-un-sistema-justo",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://libremente.org/?p=1263"
+        },
+        "efectopandora.wordpress.com/2015/04/23-de-abril-difusi%C3%B3n-estatal-contra-la-democracia-pandora": {
+            "title": "23 de Abril: Difusi\u00f3n Estatal de Contra la Democracia Pandora...",
+            "snippet": "Por lo tanto, volvemos a convocar, a nivel estatal, un d\u00eda para la difusi\u00f3n del libro Contra la Democracia y materiales relacionados con M\u00f3nica y Francisco, Operaci\u00f3n Pandora, el antiterrorismo y la represi\u00f3n. El 23 de abril,...",
+            "date": "2015-04-21",
+            "author_name": "efectopandora",
+            "categories": "democracia",
+            "tags": "d\u00eda,nivel,democracia,contra",
+            "recuweb_url": "http://es.recuweb.com/democracia/efectopandora.wordpress.com/2015/04/23-de-abril-difusi%C3%B3n-estatal-contra-la-democracia-pandora",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://efectopandora.wordpress.com/2015/04/21/23-de-abril-difusion-estatal-de-contra-la-democracia/"
+        },
+        "informador.com.mx/2015/04/la-mayor%C3%ADa-de-los-rusos-antepone-el-orden-a-democracia": {
+            "title": "La mayor\u00eda de los rusos antepone el orden a la democracia:: El...",
+            "snippet": "MOSC\u00da, RUSIA (15/ABR/2015).- La mayor\u00eda absoluta de los rusos antepone el orden a la democracia y asegura que, en aras de su conservaci\u00f3n, est\u00e1 dispuesto a aceptar restricciones a las libertades individuales, seg\u00fan un sondeo...",
+            "date": "2015-04-15",
+            "author_name": "desconocido",
+            "categories": "democracia",
+            "tags": "absoluta,mayor\u00eda,democracia",
+            "recuweb_url": "http://es.recuweb.com/democracia/informador.com.mx/2015/04/la-mayor%C3%ADa-de-los-rusos-antepone-el-orden-a-democracia",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://informador.com.mx/internacional/2015/586625/6/la-mayoria-de-los-rusos-antepone-el-orden-a-la-democracia.htm"
+        },
+        "turiver.com/2015/03/24-de-marzo-a-39-a%C3%B1os-del-golpe-militar-turiver": {
+            "title": "24 de marzo: a 39 a\u00f1os del golpe militar - tuRiver...",
+            "snippet": "La violencia aparece siempre en contextos como el argentino a partir de 1955, con proscripci\u00f3n y atropello. Sin Democracia, pol\u00edtica ni partidos fuertes (de cualquier ideolog\u00eda). Yo diria a partir de 1930. me gusta A Delem9...",
+            "date": "2015-03-24",
+            "author_name": "Francisco del Toro",
+            "categories": "democracia,politica",
+            "tags": "cualquier,ideolog\u00eda,marzo,democracia,pol\u00edtica",
+            "recuweb_url": "http://es.recuweb.com/politica/turiver.com/2015/03/24-de-marzo-a-39-a%C3%B1os-del-golpe-militar-turiver",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bdemocracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://turiver.com/foros/politica-y-sociedad/83904-24-de-marzo-a-39-anos-del-golpe-militar.html"
+        },
+        "focusecuador.com/2015/03/la-muerte-lenta-de-democracia-en-el-ecuador": {
+            "title": "LA MUERTE LENTA DE LA DEMOCRACIA EN EL ECUADOR...",
+            "snippet": "LA MUERTE LENTA DE LA DEMOCRACIA EN EL ECUADOR. Posted on 20 marzo, 2015 by redaccion. WORLD POLITICS REVIEW, ANALIZA COMO EN ECUADOR SE APLICA AL PIE DE LA LETRA EL MANUAL DEL POPULISMO, QUE...",
+            "date": "2015-03-20",
+            "author_name": "GODO",
+            "categories": "democracia",
+            "tags": "ecuador,democracia,marzo",
+            "recuweb_url": "http://es.recuweb.com/democracia/focusecuador.com/2015/03/la-muerte-lenta-de-democracia-en-el-ecuador",
+            "resource_url": "http://www.google.com/search?q=democracia&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://focusecuador.com/2015/03/20/la-muerte-lenta-de-la-democracia-en-el-ecuador/"
         }
     }
 }

@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/wordpress/",
@@ -17,31 +17,10 @@
             "date": "2015-05-01",
             "author_name": "\u00c1lvaro Fontela",
             "categories": "wordpress,json",
-            "tags": "web,podemos,wordpress,cero,sitio",
+            "tags": "rest,wordpress,api,web,sitio,get",
             "recuweb_url": "http://es.recuweb.com/json/3cero.com/2015/05/conexi%C3%B3n-a-wordpress-traves-de-api-m%C3%A1s-all%C3%A1-la-web-2",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://3cero.com/wordpress-api/"
-        },
-        "zonavirus.com/2015/04/wordpress-corrige-vulnerabilidad-zero-day-que-permite-cross-site-scriptig": {
-            "title": "Wordpress corrige vulnerabilidad zero day que permite cross-site scriptig...",
-            "snippet": "Wordpress lanz\u00f3 un parche de emergencia para corregir una vulnerabilidad de d\u00eda cero que afecta a millones de sitios web, \u00e9stos podr\u00edan ser v\u00edctimas de cross-site scriptig e incluso secuestro del sitio web. Gary Pendergast, consultor de...",
-            "date": "2015-04-30",
-            "categories": "wordpress",
-            "tags": "vulnerabilidad,cero,afecta,sitio,web,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/zonavirus.com/2015/04/wordpress-corrige-vulnerabilidad-zero-day-que-permite-cross-site-scriptig",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=es",
-            "source_url": "http://zonavirus.com/noticias/2015/wordpress-421-corrige-vulnerabilidad-zero-day-que-permite-cross-site-scriptig.asp"
-        },
-        "lecciones.batiburrillo.net/2015/04/wordpress-crear-p%C3%A1ginas-con-page-builder": {
-            "title": "WordPress: Crear p\u00e1ginas con Page Builder...",
-            "snippet": "Existen algunos temas para WordPress que permiten la creaci\u00f3n de p\u00e1ginas utilizando un editor que pone a nuestra disposici\u00f3n una serie de widgets que podemos activar y desplazar de un lugar a otro. Pero no es as\u00ed en...",
-            "date": "2015-04-29",
-            "author_name": "fabriciano",
-            "categories": "wordpress",
-            "tags": "editor,podemos,creaci\u00f3n,algunos,temas,wordpress,crear,p\u00e1ginas,existen",
-            "recuweb_url": "http://es.recuweb.com/wordpress/lecciones.batiburrillo.net/2015/04/wordpress-crear-p%C3%A1ginas-con-page-builder",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://lecciones.batiburrillo.net/wordpress-crear-paginas-con-page-builder/"
         },
         "bloguismo.com/2015/04/custom-posts-y-fields-en-wordpress-bloguismo": {
             "title": "Custom Posts y Custom Fields en WordPress - Bloguismo...",
@@ -49,10 +28,21 @@
             "date": "2015-04-29",
             "author_name": "\u00c1lvaro Fontela",
             "categories": "wordpress",
-            "tags": "plugin,wordpress,crear",
+            "tags": "wordpress,types,crear",
             "recuweb_url": "http://es.recuweb.com/wordpress/bloguismo.com/2015/04/custom-posts-y-fields-en-wordpress-bloguismo",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://bloguismo.com/custom-posts-fields-wordpress/"
+        },
+        "ubunlog.com/2015/04/c%C3%B3mo-instalar-wordpress-lamp-en-ubuntu-ubunlog": {
+            "title": "C\u00f3mo instalar Wordpress LAMP en Ubuntu - Ubunlog...",
+            "snippet": "Ahora ingresamos al panel de administraci\u00f3n de WordPress, en la direcci\u00f3n localhost/wordpress, donde tenemos que completar la informaci\u00f3n de la cuenta de administrador (usuario, contrase\u00f1a) y luego simplemente...",
+            "date": "2015-04-29",
+            "author_name": "desconocido",
+            "categories": "wordpress",
+            "tags": "luego,administrador,localhost,wordpress,c\u00f3mo,instalar,ahora",
+            "recuweb_url": "http://es.recuweb.com/wordpress/ubunlog.com/2015/04/c%C3%B3mo-instalar-wordpress-lamp-en-ubuntu-ubunlog",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://ubunlog.com/como-instalar-wordpress-en-ubuntu/"
         },
         "ciudadano2cero.com/2015/04/top-plugins-gratuitos-de-wordpress-el-5-abril": {
             "title": "Top Plugins gratuitos de WordPress: El 'Top 5 de Abril...",
@@ -60,21 +50,10 @@
             "date": "2015-04-26",
             "author_name": "Berto L\u00f3pez",
             "categories": "wordpress",
-            "tags": "existen,blogger,viene,gratuitos,wordpress",
+            "tags": "mejores,ingresos,plugins,gratuitos,wordpress",
             "recuweb_url": "http://es.recuweb.com/wordpress/ciudadano2cero.com/2015/04/top-plugins-gratuitos-de-wordpress-el-5-abril",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://ciudadano2cero.com/top-plugins-gratis-wordpress-abril-2015/"
-        },
-        "frikipandi.com/2015/04/descargar-wordpress-4-2-powell": {
-            "title": "Descargar WordPress 4.2 Powell...",
-            "snippet": "La versi\u00f3n 4.2 de WordPress, llamado Powell en honor del pianista de jazz Bud Powell, est\u00e1 disponible para su descarga o actualizaci\u00f3n en su panel de WordPress. WordPress anuncia su versi\u00f3n 4.2 destacando su nuevo bot\u00f3n Press this. La idea es...",
-            "date": "2015-04-24",
-            "author_name": "Juan Casc\u00f3n Ba\u00f1os",
-            "categories": "wordpress",
-            "tags": "idea,destacando,destacando-su-nuevo,nuevo,nuevo-bot\u00f3n,bot\u00f3n,anuncia,anuncia-su-versi\u00f3n,versi\u00f3n,actualizaci\u00f3n,descargar,wordpress,press,this",
-            "recuweb_url": "http://es.recuweb.com/wordpress/frikipandi.com/2015/04/descargar-wordpress-4-2-powell",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=es",
-            "source_url": "http://frikipandi.com/public/post/descargar-wordpress-4-2-powell/"
         },
         "unaaldia.hispasec.com/2015/04/hispasec-unaaldia-actualizaci%C3%B3n-cr%C3%ADtica-para-wordpress": {
             "title": "Hispasec unaaldia: Actualizaci\u00f3n cr\u00edtica para WordPress...",
@@ -82,32 +61,43 @@
             "date": "2015-04-23",
             "author_name": "noreply@blogger.com (Antonio Ropero)",
             "categories": "wordpress,php,mysql",
-            "tags": "creaci\u00f3n,actualizaci\u00f3n,wordpress",
+            "tags": "uso,wordpress",
             "recuweb_url": "http://es.recuweb.com/mysql/unaaldia.hispasec.com/2015/04/hispasec-unaaldia-actualizaci%C3%B3n-cr%C3%ADtica-para-wordpress",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://unaaldia.hispasec.com/2015/04/actualizacion-critica-para-wordpress.html"
         },
-        "wwwhatsnew.com/2015/04/lleg%C3%B3-wordpress-4-2-mejorando-la-forma-de-compartir-art%C3%ADculos": {
-            "title": "Lleg\u00f3 WordPress 4.2 mejorando la forma de compartir art\u00edculos...",
-            "snippet": "WordPress anuncia su versi\u00f3n 4.2 destacando su nuevo bot\u00f3n Press this. La idea es que al pulsar el bot\u00f3n de publicaci\u00f3n cuando estemos visitando cualquier p\u00e1gina web, se abra el editor de WordPress con informaci\u00f3n...",
-            "date": "2015-04-23",
-            "author_name": "Juan Diego Polo",
+        "bloguismo.com/2015/04/plugins-seo-de-pago-para-wordpress-merecen-la-pena": {
+            "title": "Plugins SEO de pago para WordPress, \u00bfmerecen la pena?",
+            "snippet": "Merecen la pena los plugins Premium para mejorar el SEO en Wordpress? Personalmente creo que solo Premium SEO Pack sirve para algo.",
+            "date": "2015-04-22",
+            "author_name": "\u00c1lvaro Fontela",
             "categories": "wordpress",
-            "tags": "editor,idea,bot\u00f3n,web,destacando,destacando-su-nuevo,nuevo,nuevo-bot\u00f3n,anuncia,anuncia-su-versi\u00f3n,versi\u00f3n,forma,wordpress,press,this",
-            "recuweb_url": "http://es.recuweb.com/wordpress/wwwhatsnew.com/2015/04/lleg%C3%B3-wordpress-4-2-mejorando-la-forma-de-compartir-art%C3%ADculos",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://wwwhatsnew.com/2015/04/23/llego-wordpress-4-2-mejorando-la-forma-de-compartir-articulos-anadiendo-mas-caracteres-y-mas/"
+            "tags": "creo,plugins,seo,wordpress,premium",
+            "recuweb_url": "http://es.recuweb.com/wordpress/bloguismo.com/2015/04/plugins-seo-de-pago-para-wordpress-merecen-la-pena",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://bloguismo.com/plugins-seo-pago-wordpress/"
         },
-        "raven.es/2015/04/la-semana-que-viene-en-wordcamp-barcelona": {
-            "title": "La semana que viene, en WordCamp Barcelona...",
-            "snippet": "Este a\u00f1o la temporada de congresos empieza fuerte. Tenemos nada menos que cinco ya en calendario, y empezamos este a\u00f1o por Barcelona. Wordcamp Spain Del a\u00f1o 2008 al a\u00f1o 2010 se celebr\u00f3 en Barcelona el gran evento WordPress: la WordCamp Spain.",
-            "date": "2015-04-16",
-            "author_name": "Rafa Poveda",
+        "casa-us.org/2015/04/taller-de-wordpress-casa": {
+            "title": "Taller de WordPress CASA...",
+            "snippet": "Taller de WordPress en espanol y gratis. Crea tu propio sitio Web con WordPress y aumenta tus ingresos online. Has sentido que: Tienes buenas ideas para llevarlas a cabo por Internet pero no sabes C\u00f3mo llevarlas a cabo.",
+            "date": "2015-04-17",
+            "author_name": "cfreedman76",
+            "categories": "sentido,wordpress,internet",
+            "tags": "sentido,ingresos,propio,wordpress,gratis,sitio,web,c\u00f3mo",
+            "recuweb_url": "http://es.recuweb.com/internet/casa-us.org/2015/04/taller-de-wordpress-casa",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://casa-us.org/2015/04/taller-de-wordpress/"
+        },
+        "platzi.com/2015/04/wp-rest-api-revoluciona-el-desarrollo-en-wordpress-platzi": {
+            "title": "WP REST API revoluciona el desarrollo en WordPress - Platzi...",
+            "snippet": "Desde el 2006 he estado usando WordPress, b\u00e1sicamente para vivir. He conocido todo el proceso de uso como una simple plataforma de blogging, hasta la plataforma que es hoy en d\u00eda, en la que se pueden construir...",
+            "date": "2015-04-15",
+            "author_name": "desconocido",
             "categories": "wordpress",
-            "tags": "nada,viene,wordpress",
-            "recuweb_url": "http://es.recuweb.com/wordpress/raven.es/2015/04/la-semana-que-viene-en-wordcamp-barcelona",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=es",
-            "source_url": "http://raven.es/2015/04/16/la-semana-que-viene-en-wordcamp-barcelona/"
+            "tags": "plataforma,uso,desarrollo,rest,api,wordpress,blogging",
+            "recuweb_url": "http://es.recuweb.com/wordpress/platzi.com/2015/04/wp-rest-api-revoluciona-el-desarrollo-en-wordpress-platzi",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://platzi.com/blog/wp-api-rest/"
         },
         "proyectoyzeta.wordpress.com/2015/04/ya-estamos-en-wordpress": {
             "title": "Ya estamos en WordPress!",
@@ -117,8 +107,19 @@
             "categories": "wordpress,politica",
             "tags": "wordpress",
             "recuweb_url": "http://es.recuweb.com/politica/proyectoyzeta.wordpress.com/2015/04/ya-estamos-en-wordpress",
-            "resource_url": "http://es.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=wordpress&f=feed&page=1",
             "source_url": "http://proyectoyzeta.wordpress.com/2015/04/13/ya-estamos-en-wordpress/"
+        },
+        "sentidoweb.com/2015/03/acceder-a-wordpress-en-localhost-desde-tu-red-wifi-sentido-web": {
+            "title": "Acceder a Wordpress en localhost desde tu red WIFI Sentido Web...",
+            "snippet": "Uno de los problemas a los que nos enfrentamos al desarrollar en responsive es que en local es dif\u00edcil acceder a nuestro localhost desde m\u00f3viles y tablets.",
+            "date": "2015-03-12",
+            "author_name": "displaynone",
+            "categories": "sentido,wordpress",
+            "tags": "responsive,localhost,sentido,web,wordpress",
+            "recuweb_url": "http://es.recuweb.com/wordpress/sentidoweb.com/2015/03/acceder-a-wordpress-en-localhost-desde-tu-red-wifi-sentido-web",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bwordpress&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://sentidoweb.com/2015/03/12/acceder-a-wordpress-en-localhost-desde-tu-red-wifi.php"
         }
     }
 }

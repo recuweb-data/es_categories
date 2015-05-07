@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hardware-microsoft",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/hardware-microsoft/",
@@ -11,27 +11,49 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/hardware-microsoft/hardware-microsoft/blogs.json"
     },
     "items": {
+        "muycomputer.com/2015/04/playready-3-0-drm-para-4k-por-hardware-que-no-muycomputer": {
+            "title": "PlayReady 3.0: DRM para 4K por hardware que no... - MuyComputer...",
+            "snippet": "PlayReady 3.0 es un DRM para 4K antipirater\u00eda basado en hardware, en el que est\u00e1 trabajando Microsoft, Intel, AMD, NVIDIA y Qualcomm.",
+            "date": "2015-04-28",
+            "author_name": "Juan Ranchal",
+            "categories": "hardware",
+            "tags": "hardware,microsoft",
+            "recuweb_url": "http://es.recuweb.com/hardware/muycomputer.com/2015/04/playready-3-0-drm-para-4k-por-hardware-que-no-muycomputer",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://muycomputer.com/2015/04/28/drm-para-4k"
+        },
         "marketingdirecto.com/2015/04/al-gigante-del-software-microsoft-le-sonr%C3%ADen-los-n%C3%BAmeros": {
             "title": "Al gigante del software Microsoft le sonr\u00eden los n\u00fameros en el primer...",
             "snippet": "Microsoft logr\u00f3 que sus ingresos y beneficios superaran las expectativas de Wall Street gracias en buena media al hardware y a la computaci\u00f3n en la nube.",
             "date": "2015-04-24",
             "author_name": "Redactora 2",
             "categories": "hardware",
-            "tags": "gracias,wall,wall_street,street,ingresos,expectativas,primer,gigante,software,microsoft,hardware",
+            "tags": "computaci\u00f3n,wall,wall_street,street,ingresos,expectativas,gigante,software,microsoft,hardware",
             "recuweb_url": "http://es.recuweb.com/hardware/marketingdirecto.com/2015/04/al-gigante-del-software-microsoft-le-sonr%C3%ADen-los-n%C3%BAmeros",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://marketingdirecto.com/actualidad/digital/al-gigante-del-software-microsoft-le-sonrien-los-numeros-en-el-primer-trimestre-del-ano-gracias-al-hardware/"
         },
-        "cnnexpansion.com/2015/04/los-ingresos-de-google-suben-12%-en-el-trimestre-cnn-expansi%C3%B3n": {
-            "title": "Los ingresos de Google suben 12% en el trimestre - CNN Expansi\u00f3n...",
-            "snippet": "Las ventas de 'hardware'impulsan ingresos de Microsoft Foto. La publicidad m\u00f3vil impulsa a Facebook en el trimestre Foto. Las ventas de Yahoo caen 4% en el primer trimestre. CIUDAD DE M\u00c9XICO (CNNExpansi\u00f3n)...",
+        "cnnexpansion.com/2015/04/las-ventas-de-hardware-impulsan-ingresos-microsoft-negocios": {
+            "title": "Las ventas de 'hardware'impulsan ingresos de Microsoft - Negocios...",
+            "snippet": "NUEVA YORK (Reuters) El gigante tecnol\u00f3gico Microsoft report\u00f3 este jueves ingresos y utilidades por encima de las expectativas de Wall Street, debido a que sus ventas de \"hardware\" y productos de computaci\u00f3n en...",
             "date": "2015-04-23",
             "author_name": "cnnexpansion@expansion.com.mx (Editorial Expansi\u00f3n)",
-            "categories": "google,hardware,facebook,yahoo",
-            "tags": "primer,microsoft,impulsan,impulsan-ingresos,ingresos,ventas,hardware,facebook",
-            "recuweb_url": "http://es.recuweb.com/yahoo/cnnexpansion.com/2015/04/los-ingresos-de-google-suben-12%-en-el-trimestre-cnn-expansi%C3%B3n",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cnnexpansion.com/negocios/2015/04/23/ingresos-de-google-trepan-por-anuncios-publicitarios"
+            "categories": "hardware",
+            "tags": "hardware,computaci\u00f3n,wall,wall_street,street,ingresos,encima,expectativas,gigante,nueva,microsoft",
+            "recuweb_url": "http://es.recuweb.com/hardware/cnnexpansion.com/2015/04/las-ventas-de-hardware-impulsan-ingresos-microsoft-negocios",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://cnnexpansion.com/negocios/2015/04/23/ventas-de-hardware-impulsan-ingresos-de-microsoft"
+        },
+        "blogs.deia.com/2015/04/microsoft-evoluci%C3%B3n-al-hardware-la-caverna-cibern%C3%A9tica": {
+            "title": "Microsoft, evoluci\u00f3n al hardware La caverna cibern\u00e9tica...",
+            "snippet": "Hace tan solo una d\u00e9cada Microsoft era el actor principal del universo inform\u00e1tico. Su sistema operativo, Windows, era la referencia absoluta en los ordenadores de medio mundo y eso le permit\u00eda controlar internet a trav\u00e9s...",
+            "date": "2015-04-22",
+            "author_name": "Gaizka Manero L\u00f3pez",
+            "categories": "internet,hardware",
+            "tags": "sistema,sistema-operativo,operativo,microsoft,hardware,hace,era,windows",
+            "recuweb_url": "http://es.recuweb.com/hardware/blogs.deia.com/2015/04/microsoft-evoluci%C3%B3n-al-hardware-la-caverna-cibern%C3%A9tica",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blogs.deia.com/cavernacibernetica/2015/04/22/microsoft-evolucion-al-hardware/"
         },
         "blog.jmacoe.com/2015/04/una-mirada-detr%C3%A1s-de-los-empaques-hardware-microsoft": {
             "title": "Una mirada detr\u00e1s de los empaques de hardware Microsoft El...",
@@ -39,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "admin",
             "categories": "hardware",
-            "tags": "hardware,microsoft,conoce",
+            "tags": "personas,hardware,microsoft",
             "recuweb_url": "http://es.recuweb.com/hardware/blog.jmacoe.com/2015/04/una-mirada-detr%C3%A1s-de-los-empaques-hardware-microsoft",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.jmacoe.com/miscelanea/mirada-detras-empaques-hardware-microsoft/"
@@ -50,43 +72,10 @@
             "date": "2015-03-25",
             "author_name": "Prensa CWV",
             "categories": "hardware",
-            "tags": "conectado,tablets,grandes,microsoft,hardware,windows",
+            "tags": "conectado,tablets,grandes,habla,microsoft,hardware,windows",
             "recuweb_url": "http://es.recuweb.com/hardware/cwv.com.ve/2015/03/microsoft-habla-del-hardware-que-soportar%C3%A1-su-estrategia-iot",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://cwv.com.ve/microsoft-habla-del-hardware-que-soportara-su-estrategia-iot-con-windows-10/"
-        },
-        "microsoftinsider.es/2015/03/aplicaci%C3%B3n-y-hardware-llegar%C3%ADan-a-skype-for-microsoft-insider": {
-            "title": "Aplicaci\u00f3n y hardware llegar\u00edan a Skype for... - Microsoft Insider...",
-            "snippet": "La tienda de aplicaciones de Windows Phone, muestra indicios de lo que ser\u00eda la llegada de una nueva aplicaci\u00f3n para controlar hardware dedicado a las videoconferencias por Skype. SkypeBox DF Companion ser\u00e1 la...",
-            "date": "2015-03-23",
-            "author_name": "Eduardo Ra\u00fal Ad\u00e1n Mena",
-            "categories": "hardware",
-            "tags": "muestra,nueva,windows,windows_phone,phone,microsoft,microsoft_insider,insider,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/microsoftinsider.es/2015/03/aplicaci%C3%B3n-y-hardware-llegar%C3%ADan-a-skype-for-microsoft-insider",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsoftinsider.es/65769/aplicacion-y-hardware-llegarian-a-skype-for-bussines-con-skypebox/"
-        },
-        "pcmrace.com/2015/03/microsoft-devela-los-requerimientos-de-hardware-m%C3%ADnimos": {
-            "title": "Microsoft devela los requerimientos de hardware m\u00ednimos para...",
-            "snippet": "Microsoft hoy confirm\u00f3 los requerimientos de hardware m\u00ednimos para poder instalar la versi\u00f3n de escritorio de Windows 10. La actual preview t\u00e9cnica de Windows 10 requiere lo siguiente: Microprocesador de 1ghz o superior...",
-            "date": "2015-03-20",
-            "author_name": "Pey",
-            "categories": "hardware",
-            "tags": "siguiente,microsoft,hardware,windows",
-            "recuweb_url": "http://es.recuweb.com/hardware/pcmrace.com/2015/03/microsoft-devela-los-requerimientos-de-hardware-m%C3%ADnimos",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://pcmrace.com/2015/03/20/microsoft-devela-los-requerimientos-de-hardware-minimos-para-windows-10/"
-        },
-        "diarioti.com/2015/03/microsoft-ofrecer%C3%A1-windows-10-a-fabricantes-de-smartphones": {
-            "title": "Microsoft ofrecer\u00e1 Windows 10 a fabricantes de smartphones...",
-            "snippet": "Aunque el ecosistema Android de es sumamente diversificado y abarca una serie de chipsets y otro hardware, la idea de Microsoft s\u00f3lo abarca un n\u00famero limitado de modelos. Windows 8.x solo incorpora soporte para los...",
-            "date": "2015-03-19",
-            "author_name": "hlpg1965WP",
-            "categories": "hardware",
-            "tags": "serie,smartphones,microsoft,windows,android,hardware",
-            "recuweb_url": "http://es.recuweb.com/hardware/diarioti.com/2015/03/microsoft-ofrecer%C3%A1-windows-10-a-fabricantes-de-smartphones",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://diarioti.com/microsoft-ofrecera-windows-10-a-fabricantes-de-smartphones-operados-con-android/"
+            "source_url": "http://cwv.com.ve/microsoft-habla-del-hardware-que-soportara-su-estrategia-iot-con-windows-10/"
         },
         "wmpoweruser.com/2015/03/microsoft-reveals-minimum-hardware-requirements-for-windows": {
             "title": "Microsoft Reveals Minimum Hardware Requirements For Windows...",
@@ -94,9 +83,9 @@
             "date": "2015-03-18",
             "author_name": "Pradeep",
             "categories": "hardware",
-            "tags": "windows,mobile,revealed,microsoft,reveals,hardware,that,this,phone",
+            "tags": "ram,that,windows,mobile,revealed,microsoft,reveals,hardware,phone",
             "recuweb_url": "http://es.recuweb.com/hardware/wmpoweruser.com/2015/03/microsoft-reveals-minimum-hardware-requirements-for-windows",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://wmpoweruser.com/microsoft-reveals-minimum-hardware-requirements-for-windows-10-for-phones/"
         },
         "derutapormexico.blogspot.com/2015/02/viajero-incansable-y-techie-hardware-microsoft-ideal-para-pc": {
@@ -105,21 +94,32 @@
             "date": "2015-02-19",
             "author_name": "Gustavo Camarillo Rangel",
             "categories": "hardware,hardware-microsoft",
-            "tags": "tablets,mobile,smartphones,hardware,microsoft,windows,android",
+            "tags": "port\u00e1til,tablets,mobile,smartphones,hardware,microsoft,windows,android",
             "recuweb_url": "http://es.recuweb.com/hardware-microsoft/derutapormexico.blogspot.com/2015/02/viajero-incansable-y-techie-hardware-microsoft-ideal-para-pc",
             "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://derutapormexico.blogspot.com/2015/02/viajero-incansable-y-techie-hardware.html"
         },
-        "microsoftinsider.es/2015/02/podcast-24-en-directo-el-hardware-que-viene-con-microsoft-insider": {
-            "title": "Podcast 24 en directo: El hardware que viene con... - Microsoft Insider...",
-            "snippet": "En esta ocasi\u00f3n en el Podcast 24 hablaremos sobre lo siguiente. Las novedades de hardware de Windows 10 como la Raspberry Pi que funcionar\u00eda bajo ARM, la nueva tablet que reemplazar\u00eda a la Nokia Lumia 2520 con un...",
-            "date": "2015-02-08",
-            "author_name": "Jose Palacios",
+        "mjesussuarez.blogspot.com/2014/05/microsoft-exchange-2013-mjesussuarez": {
+            "title": "Microsoft Exchange 2013 MJesusSuarez...",
+            "snippet": "Los requisitos HARDWARE que necesitamospara la instalaci\u00f3n y el correcto funcionamiento de Microsoft Exchange 2013es un servidor con plataforma de 64 bits, al menos 8 Gb de RAM y 30 Gb de espacio de H.D. solo para el programa en si, a partir de...",
+            "date": "2014-05-25",
+            "author_name": "Maria Jesus Suarez",
             "categories": "hardware",
-            "tags": "nueva,siguiente,microsoft,microsoft_insider,insider,viene,directo,podcast,hardware,windows,arm",
-            "recuweb_url": "http://es.recuweb.com/hardware/microsoftinsider.es/2015/02/podcast-24-en-directo-el-hardware-que-viene-con-microsoft-insider",
-            "resource_url": "http://www.google.com/search?q=hardware%2Bmicrosoft%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://microsoftinsider.es/62018/podcast-24-en-directo-el-hardware-que-viene-con-windows-10-nuevos-disenos-y-mucho-mas/"
+            "tags": "microsoft,hardware,ram",
+            "recuweb_url": "http://es.recuweb.com/hardware/mjesussuarez.blogspot.com/2014/05/microsoft-exchange-2013-mjesussuarez",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://mjesussuarez.blogspot.com/2014/05/microsoft-exchange-2013.html"
+        },
+        "fraterneo.blogspot.com/2014/03/fraterneo-gnu-linux-para-cajeros-autom%C3%A1ticos-atm": {
+            "title": "fraterneo GNU/Linux: Linux para cajeros autom\u00e1ticos (ATM's)...",
+            "snippet": "Sin embargo continuar\u00edan a la deriva tratando de sincronizar las actualizaciones de su hardware con las del software de Microsoft. Cosa muy.... Ejecute el comando nmap localhost y mande la salida por aqu\u00ed.Un saludo.",
+            "date": "2014-03-23",
+            "author_name": "noreply@blogger.com (Claudio Concepci\u00f3n Certad)",
+            "categories": "hardware",
+            "tags": "software,hardware,microsoft",
+            "recuweb_url": "http://es.recuweb.com/hardware/fraterneo.blogspot.com/2014/03/fraterneo-gnu-linux-para-cajeros-autom%C3%A1ticos-atm",
+            "resource_url": "http://www.google.com/search?q=es%2Blocalhost%2Bcom%2Bhardware%2Bmicrosoft&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://fraterneo.blogspot.com/2014/03/linux-para-cajeros-automaticos-atms.html"
         }
     }
 }

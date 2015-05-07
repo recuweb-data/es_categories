@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ajedrez",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/ajedrez/",
@@ -11,22 +11,32 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/ajedrez/ajedrez/blogs.json"
     },
     "items": {
-        "tiempo21.cu/2015/05/ranking-mundial-de-ajedrez-deja-buenas-noticias-para-cuba-tiempo21": {
-            "title": "Ranking mundial de ajedrez deja buenas noticias para Cuba - Tiempo21...",
-            "snippet": "Tiempo21Ranking mundial de ajedrez deja buenas noticias para CubaTiempo21Los cuatro puestos escalados por Leinier Dom\u00ednguez y la ganancia de 16 puntos de Yuniesky Quesada son noticias hoy para el ajedrez cubano tras la actualizaci\u00f3n del ranking...",
-            "date": "2015-05-02",
+        "noticias.lainformacion.com/2015/05/mayweather-gana-a-los-puntos-pacquiao-en-una-partida-de-ajedrez": {
+            "title": "Mayweather gana a los puntos a Pacquiao en una partida de ajedrez que llamaron el 'Combate del...",
+            "snippet": "'Money'se impuso por 118-110, 116-112 y 116-112 a Pacquiao por decisi\u00f3n un\u00e1nime de los \u00e1rbitros y contin\u00faa invicto en su carrera. En un MGM repleto por personas el espect\u00e1culo fue menor al esperado y los p\u00fagiles se repartieron una bolsa de...",
+            "date": "2015-05-03",
             "categories": "ajedrez",
-            "tags": "cubano,noticias,leinier,dom\u00ednguez,mundial,ajedrez,cuba",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/tiempo21.cu/2015/05/ranking-mundial-de-ajedrez-deja-buenas-noticias-para-cuba-tiempo21",
-            "resource_url": "http://news.google.es/?hl=es&q=ajedrez&output=atom&nord=1",
-            "source_url": "http://tiempo21.cu/2015/05/02/ranking-mundial-de-ajedrez-deja-buenas-noticias-para-cuba/"
+            "tags": "personas,partida,ajedrez",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/noticias.lainformacion.com/2015/05/mayweather-gana-a-los-puntos-pacquiao-en-una-partida-de-ajedrez",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
+            "source_url": "http://noticias.lainformacion.com/deporte/boxeo/mayweather-gana-a-los-puntos-a-pacquiao-en-una-partida-de-ajedrez-que-llamaron-el-combate-del-siglo_G4bnnJHQQci0MnK0fG9lf1/"
+        },
+        "peninsulardigital.com/2015/05/uabcs-entre-las-mejores-en-ajedrez": {
+            "title": "UABCS, entre las mejores en ajedrez...",
+            "snippet": "La Paz, Baja California la Universiada Nacional, evento que re\u00fane a los mejores deportistas de las instituciones de educaci\u00f3n superior afiliadas al Consejo Nacional del Deporte de la Educaci\u00f3n, el equipo de ajedrez de la UABCS, conformado...",
+            "date": "2015-05-03",
+            "categories": "ajedrez,deporte",
+            "tags": "mejores,ajedrez,deporte",
+            "recuweb_url": "http://es.recuweb.com/deporte/peninsulardigital.com/2015/05/uabcs-entre-las-mejores-en-ajedrez",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
+            "source_url": "http://peninsulardigital.com/deportes/uabcs-entre-las-mejores-en-ajedrez/170839"
         },
         "larioja.com/2015/05/ajedrez-en-los-juegos-deportivos": {
             "title": "Ajedrez en los Juegos Deportivos...",
             "snippet": "Registro Mercantil de Logro\u00f1o en el Tomo 28, Libro 3, Secci\u00f3n 3, Folio 73, Hoja 37,1 XII - 61, cuyo domicilio se encuentra en Logro\u00f1o calle Vara de Rey n\u00famero 74, Bajo. correo electr\u00f3nico de contacto.",
             "date": "2015-05-01",
             "categories": "ajedrez",
-            "tags": "ajedrez,rey",
+            "tags": "juegos,juegos_deportivos,deportivos,ajedrez,libro,n\u00famero",
             "recuweb_url": "http://es.recuweb.com/ajedrez/larioja.com/2015/05/ajedrez-en-los-juegos-deportivos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
             "source_url": "http://larioja.com/videos/deportes/201505/01/ajedrez-juegos-deportivos-4209869893001-mm.html"
@@ -36,7 +46,7 @@
             "snippet": "Leontxo Garc\u00eda ha viajado hasta M\u00e9jico para buscar nuevas voces y argumentos que apoyen su prop\u00f3sito de que el ajedrez llegue a los colegios de Espa\u00f1a como asignatura o como elemento pedag\u00f3gico. Los de Esteban Jaureguiza, Yaiza Maldonado,...",
             "date": "2015-05-01",
             "categories": "escuela,ajedrez",
-            "tags": "escuela,ajedrez",
+            "tags": "ajedrez",
             "recuweb_url": "http://es.recuweb.com/ajedrez/cadenaser.com/2015/05/insisto-el-ajedrez-a-la-escuela",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
             "source_url": "http://cadenaser.com/programa/2015/05/01/a_vivir_que_son_dos_dias/1430495258_912952.html"
@@ -46,70 +56,60 @@
             "snippet": "Hace unos d\u00edas, el amigo Jos\u00e9 Mar\u00eda Guti\u00e9rrez Dopino me envi\u00f3 la copia de un art\u00edculo que dos a\u00f1os antes hab\u00eda cursado a don Romano Bellucci, Director de la Revista italiana SCACCHI E SCIENZE APPLICATE. Bellucci hab\u00eda solicitado a...",
             "date": "2015-05-01",
             "categories": "ajedrez",
-            "tags": "dos,ajedrez,espa\u00f1ol",
+            "tags": "amigo,ajedrez,club,espa\u00f1ol",
             "recuweb_url": "http://es.recuweb.com/ajedrez/es.paperblog.com/2015/05/jos%C3%A9-mar%C3%ADa-guti%C3%A9rrez-dopino-el-ajedrez-y-mis-pasos-en-club",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
             "source_url": "http://es.paperblog.com/jose-maria-gutierrez-dopino-el-ajedrez-y-mis-pasos-en-capea-club-de-ajedrez-postal-espanol-en-alemania-3187011/"
-        },
-        "radiohc.cu/2015/05/leinier-debuta-con-victoria-en-liga-rusa-de-ajedrez-radio-habana": {
-            "title": "Leinier debuta con victoria en Liga Rusa de ajedrez - Radio Habana Cuba...",
-            "snippet": "Leinier debuta con victoria en Liga Rusa de ajedrezRadio Habana CubaLa Habana,1 may (RHC) El GM cubano Leinier Dom\u00ednguez debut\u00f3 con victoria ante su hom\u00f3logo Bogdan Belyakov (2478) en la primera ronda de la Liga Rusa de ajedrez, que se disputa...",
-            "date": "2015-05-01",
-            "categories": "radio,ajedrez",
-            "tags": "dom\u00ednguez,cuba,leinier,ajedrez,cubano",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/radiohc.cu/2015/05/leinier-debuta-con-victoria-en-liga-rusa-de-ajedrez-radio-habana",
-            "resource_url": "http://news.google.es/?hl=es&q=ajedrez&output=atom&nord=1",
-            "source_url": "http://radiohc.cu/noticias/deportes/54627-leinier-debuta-con-victoria-en-liga-rusa-de-ajedrez"
         },
         "noticias24.com/2015/05/ni%C3%B1as-y-ni%C3%B1os-protagonizaron-simult%C3%A1nea-de-ajedrez-en-la-plaza-noticias24": {
             "title": "Ni\u00f1as y ni\u00f1os protagonizaron simult\u00e1nea de ajedrez en la Plaza... - Noticias24...",
             "snippet": "Noticias24Ni\u00f1as y ni\u00f1os protagonizaron simult\u00e1nea de ajedrez en la Plaza...Noticias24(Prensa Capital 30 de abril, Nota de Prensa) M\u00e1s de 200 ni\u00f1os y j\u00f3venes estudiantes de la Gran Caracas, se dieron cita en la Plaza Bol\u00edvar de Caracas para...",
             "date": "2015-05-01",
             "categories": "ajedrez",
-            "tags": "bol\u00edvar,caracas,estudiantes,abril,prensa,simult\u00e1nea,ajedrez,plaza,noticias",
+            "tags": "bol\u00edvar,gran,caracas,estudiantes,abril,prensa,simult\u00e1nea,ajedrez,plaza",
             "recuweb_url": "http://es.recuweb.com/ajedrez/noticias24.com/2015/05/ni%C3%B1as-y-ni%C3%B1os-protagonizaron-simult%C3%A1nea-de-ajedrez-en-la-plaza-noticias24",
             "resource_url": "http://news.google.es/?hl=es&q=ajedrez&output=atom&nord=1",
             "source_url": "http://noticias24.com/venezuela/noticia/282085/ninas-y-ninos-protagonizaron-simultanea-de-ajedrez-en-la-plaza-bolivar-de-caracas/"
-        },
-        "abc.es/2015/05/pillan-a-un-tramposo-con-dos-m%C3%B3viles-pegados-las-piernas": {
-            "title": "Pillan a un tramposo con dos m\u00f3viles pegados a las piernas...",
-            "snippet": "La plaga contin\u00faa. Dhruv Kakkar, un jugador de ajedrez de 19 a\u00f1os, ha sido pillado en el torneo abierto Doctor Hedgewar, en la India, con dos m\u00f3viles pegados con cinta aislante a las piernas. Con uno transmit\u00eda las jugadas a un ayudante,...",
-            "date": "2015-05-01",
-            "categories": "ajedrez",
-            "tags": "dos,torneo,ajedrez",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/abc.es/2015/05/pillan-a-un-tramposo-con-dos-m%C3%B3viles-pegados-las-piernas",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
-            "source_url": "http://abc.es/deportes/20150501/abci-ajedrez-tramposo-moviles-201505011715.html"
         },
         "semana.com/2015/05/se-sacudi%C3%B3-el-ajedrez-pol%C3%ADtico-en-valle": {
             "title": "Se sacudi\u00f3 el ajedrez pol\u00edtico en Valle -...",
             "snippet": "sacudi\u00f3 el ajedrez pol\u00edtico en foto, una renuncia, una encuesta, un exgobernador y varias rectificaciones demuestran que en esa regi\u00f3n del pa\u00eds el ambiente prelectoral est\u00e1 que arde. \u00bfPor qu\u00e9?. Roy Barreras, Dilian Francisca Toro y Angelino...",
             "date": "2015-05-01",
             "categories": "ajedrez",
-            "tags": "regi\u00f3n,ajedrez",
+            "tags": "ajedrez,regi\u00f3n",
             "recuweb_url": "http://es.recuweb.com/ajedrez/semana.com/2015/05/se-sacudi%C3%B3-el-ajedrez-pol%C3%ADtico-en-valle",
             "resource_url": "http://news.google.es/?hl=es&q=ajedrez&output=atom&nord=1",
             "source_url": "http://semana.com/nacion/articulo/se-sacudio-el-ajedrez-politico-en-valle/426033-3"
         },
-        "prensa-latina.cu/2015/04/confirman-ocho-pa%C3%ADses-asistencia-a-panamericano-de-ajedrez-juvenil-prensa-latina": {
-            "title": "Confirman ocho pa\u00edses asistencia a Panamericano de ajedrez juvenil - Prensa Latina...",
-            "snippet": "HSB NoticiasConfirman ocho pa\u00edses asistencia a Panamericano de ajedrez juvenilPrensa Latina29 de abril de 2015, 21:34Bogot\u00e1, 29 abr (PL) Ocho pa\u00edses de la regi\u00f3n confirmaron ya su participaci\u00f3n al Torneo Panamericano de Ajedrez Juvenil de la...",
+        "prensa-latina.cu/2015/04/cubano-dom%C3%ADnguez-s%C3%B3lido-en-c%C3%BAspide-iberoamericana-del-ajedrez-prensa-latina": {
+            "title": "Cubano Dom\u00ednguez s\u00f3lido en c\u00faspide iberoamericana del ajedrez - Prensa Latina...",
+            "snippet": "Prensa LatinaCubano Dom\u00ednguez s\u00f3lido en c\u00faspide iberoamericana del ajedrezPrensa LatinaLeinier Dom\u00ednguez 30 de abril de 2015, 12:53Par\u00eds, 30 abr (PL) El cubano Leinier Dom\u00ednguez se ratific\u00f3 hoy como el mejor ajedrecista de Iberoam\u00e9rica, al...",
             "date": "2015-04-30",
             "categories": "ajedrez",
-            "tags": "ajedrez,regi\u00f3n,torneo,abril,prensa",
-            "recuweb_url": "http://es.recuweb.com/ajedrez/prensa-latina.cu/2015/04/confirman-ocho-pa%C3%ADses-asistencia-a-panamericano-de-ajedrez-juvenil-prensa-latina",
+            "tags": "mejor,abril,prensa,ajedrez",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/prensa-latina.cu/2015/04/cubano-dom%C3%ADnguez-s%C3%B3lido-en-c%C3%BAspide-iberoamericana-del-ajedrez-prensa-latina",
             "resource_url": "http://news.google.es/?hl=es&q=ajedrez&output=atom&nord=1",
-            "source_url": "http://prensa-latina.cu/index.php?option=com_content&task=view&idioma=1&id=3760401&Itemid=1"
+            "source_url": "http://prensa-latina.cu/index.php?option=com_content&task=view&id=3762441"
         },
         "correodelorinoco.gob.ve/2015/04/el-ajedrez-lleg%C3%B3-a-la-plaza-bol%C3%ADvar": {
             "title": "El ajedrez lleg\u00f3 a La Plaza Bol\u00edvar...",
             "snippet": "Fueron 200 personas, desde los cinco a\u00f1os en adelante, las que participaron en la simult\u00e1nea de ajedrez que se realiz\u00f3 este jueves en la Plaza Bol\u00edvar de Caracas. Los presentes, en su mayor\u00eda estudiantes de primaria y bachillerato, buscaron...",
             "date": "2015-04-30",
             "categories": "ajedrez",
-            "tags": "estudiantes,simult\u00e1nea,plaza,bol\u00edvar,ajedrez,caracas",
+            "tags": "estudiantes,simult\u00e1nea,plaza,bol\u00edvar,ajedrez,personas,caracas",
             "recuweb_url": "http://es.recuweb.com/ajedrez/correodelorinoco.gob.ve/2015/04/el-ajedrez-lleg%C3%B3-a-la-plaza-bol%C3%ADvar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez%2Bajedrez&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
             "source_url": "http://correodelorinoco.gob.ve/ajedrez/ajedrez-llego-a-plaza-bolivar/"
+        },
+        "europapress.es/2015/04/el-parlamento-extreme%C3%B1o-alberga-una-exhibici%C3%B3n-de-ajedrez": {
+            "title": "El Parlamento extreme\u00f1o alberga una exhibici\u00f3n de ajedrez...",
+            "snippet": "El Gran Maestro del Club Magic Extremadura, Manuel P\u00e9rez Candelario, se enfrentar\u00e1 a 16 ajedrecistas este pr\u00f3ximo mi\u00e9rcoles, 29 de abril, en una tradicional exhibici\u00f3n de ajedrez marcada por su car\u00e1cter deportivo y social. El Parlamento...",
+            "date": "2015-04-28",
+            "categories": "ajedrez",
+            "tags": "deportivo,abril,club,gran,ajedrez",
+            "recuweb_url": "http://es.recuweb.com/ajedrez/europapress.es/2015/04/el-parlamento-extreme%C3%B1o-alberga-una-exhibici%C3%B3n-de-ajedrez",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ajedrez&format=RSS&cc=es",
+            "source_url": "http://europapress.es/extremadura/noticia-gran-maestro-club-magic-extremadura-manuel-perez-candelario-participa-exhibicion-ajedrez-merida-20150428102534.html"
         }
     }
 }

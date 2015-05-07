@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "estratega",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/estratega/",
@@ -11,55 +11,35 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/estratega/estratega/blogs.json"
     },
     "items": {
-        "abc.es/2015/05/boxeo-cinco-razones-por-las-que-ganar%C3%A1-mayweather": {
-            "title": "Boxeo Cinco razones por las que ganar\u00e1 Mayweather...",
-            "snippet": "es apabullante. 3. Estratega e inteligente. Lo ha dicho \u00e9l mismo (soy m\u00e1s listo) y no es una bravuconada. Conoce muy bien a sus adversarios y, como destacaba esta semana Manel Berdonce en ABC, Mayweather es un estratega que maneja muy bien los...",
-            "date": "2015-05-02",
-            "categories": "boxeo,estratega",
-            "tags": "bien,semana,soy,cinco,mayweather,estratega",
-            "recuweb_url": "http://es.recuweb.com/estratega/abc.es/2015/05/boxeo-cinco-razones-por-las-que-ganar%C3%A1-mayweather",
+        "elmundo.es/2015/05/la-hora-del-trigo": {
+            "title": "La hora del trigo...",
+            "snippet": "De todas estas etapas, con una creciente sensaci\u00f3n de triunfo y autorrealizaci\u00f3n, disfruta el ingenioso ide\u00f3logo-estratega como de la oportunidad para la que se prepar\u00f3 desde m\u00e1s all\u00e1 de donde le alcanza la memoria. Sin embargo, ah, sin...",
+            "date": "2015-05-03",
+            "categories": "memoria,estratega",
+            "tags": "estratega,embargo",
+            "recuweb_url": "http://es.recuweb.com/estratega/elmundo.es/2015/05/la-hora-del-trigo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
-            "source_url": "http://abc.es/deportes/20150502/abci-cinco-razones-ganara-mayweather-201505011813.html"
+            "source_url": "http://elmundo.es/espana/2015/05/03/5544fdb8268e3e527d8b456b.html"
         },
-        "mmdeportes.telediario.mx/2015/05/en-el-volc%C3%A1n-tuca-es-pastor-del-reba%C3%B1o-sagrado": {
-            "title": "En el 'Volc\u00e1n'; 'Tuca'es el pastor del Reba\u00f1o Sagrado...",
-            "snippet": "Son ocho las veces que el estratega brasile\u00f1o ha sido anfitri\u00f3n de la escuadra rojiblanca en el 'Volc\u00e1n'y en ninguna ha visto la derrota; tiene un balance de tres triunfos y cinco empates. La primera vez que como estratega felino el...",
-            "date": "2015-05-02",
-            "categories": "estratega",
-            "tags": "cinco,reba\u00f1o,reba\u00f1o_sagrado,sagrado,estratega",
-            "recuweb_url": "http://es.recuweb.com/estratega/mmdeportes.telediario.mx/2015/05/en-el-volc%C3%A1n-tuca-es-pastor-del-reba%C3%B1o-sagrado",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
-            "source_url": "http://mmdeportes.telediario.mx/note/en-el-volcan-tuca-es-el-pastor-del-rebano-sagrado"
-        },
-        "antena3.com/2015/05/pacquiao-mayweather-un-combate-de-r%C3%A9cords": {
-            "title": "Pacquiao-Mayweather, un combate de r\u00e9cords...",
-            "snippet": "En una esquina, Floyd 'Monney'Maywether. En la otra, Manny 'Pacman'Pacquiao. El estratega de reflejos prodigiosos y gran contragolpeador se enfrenta al rapid\u00edsimo zurdo de la pegada sinigual. Seg\u00fan la b\u00e1scula, el estadounidense, de 38 a\u00f1os...",
-            "date": "2015-05-02",
-            "categories": "estratega",
-            "tags": "mayweather,estratega",
-            "recuweb_url": "http://es.recuweb.com/estratega/antena3.com/2015/05/pacquiao-mayweather-un-combate-de-r%C3%A9cords",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
-            "source_url": "http://antena3.com/noticias/deportes/pacquiao-mayweather-combate-records_2015050200052.html"
-        },
-        "mmdeportes.telediario.mx/2015/05/chepo-domador-de-tigres": {
-            "title": "'Chepo'domador de Tigres...",
-            "snippet": "El estratega del Guadalajara nunca ha perdido ante los felinos. Jos\u00e9 Manuel de la Torre es un autentico domador de felinos, pues Tigres nunca ha podido vencer al actual entrenador del Reba\u00f1o Sagrado. El estratega ha jugado ante los Tigres 11...",
-            "date": "2015-05-01",
-            "categories": "estratega",
-            "tags": "reba\u00f1o,reba\u00f1o_sagrado,sagrado,nunca,estratega",
-            "recuweb_url": "http://es.recuweb.com/estratega/mmdeportes.telediario.mx/2015/05/chepo-domador-de-tigres",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
-            "source_url": "http://mmdeportes.telediario.mx/note/chepo-domador-de-tigres"
-        },
-        "elmundo.es/2015/05/la-salida-de-monedero-es-un-riesgo-y-una-oportunidad": {
-            "title": "La salida de Monedero es un riesgo y una oportunidad para Podemos...",
-            "snippet": "LA RUPTURA notoria en la c\u00fapula de Podemos que ayer exterioriz\u00f3 de forma definitiva su fundador y primer estratega, Juan Carlos Monedero, es la consecuencia natural del abrupto vaiv\u00e9n ideol\u00f3gico con el que el partido, cegado por el brillo de...",
-            "date": "2015-05-01",
+        "deportes.terra.com/2015/05/mourinho-destaca-dificultad-de-premier-aqu%C3%AD-no-ganas-6-0": {
+            "title": "Mourinho destaca dificultad de Premier: Aqu\u00ed no ganas 6-0...",
+            "snippet": "Fiel a su costumbre, el t\u00e9cnico del Chelsea Jos\u00e9 Mourinho mand\u00f3 un claro mensaje a la liga espa\u00f1ola, tras levantar su octavo t\u00edtulo de liga como estratega, y el tercero en la Premier League, certamen al que consider\u00f3 uno de los m\u00e1s...",
+            "date": "2015-05-03",
             "categories": "estratega",
             "tags": "estratega",
-            "recuweb_url": "http://es.recuweb.com/estratega/elmundo.es/2015/05/la-salida-de-monedero-es-un-riesgo-y-una-oportunidad",
+            "recuweb_url": "http://es.recuweb.com/estratega/deportes.terra.com/2015/05/mourinho-destaca-dificultad-de-premier-aqu%C3%AD-no-ganas-6-0",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/opinion/2015/05/01/554283b1ca4741ae748b457a.html"
+            "source_url": "http://deportes.terra.com/futbol/internacional/ingles/premier-league/jose-mourinho-ataca-con-declaraciones-a-la-liga-bbva-de-espana,ecf8f5e4091ec83da7e2d222c0daab46yi7bRCRD.html"
+        },
+        "abc.es/2015/05/mayweather-vs-pacquiao-cinco-razones-por-las-que-ganar%C3%A1": {
+            "title": "Mayweather vs. Pacquiao Cinco razones por las que ganar\u00e1 Mayweather...",
+            "snippet": "es apabullante. 3. Estratega e inteligente. Lo ha dicho \u00e9l mismo (soy m\u00e1s listo) y no es una bravuconada. Conoce muy bien a sus adversarios y, como destacaba esta semana Manel Berdonce en ABC, Mayweather es un estratega que maneja muy bien los...",
+            "date": "2015-05-02",
+            "categories": "estratega",
+            "tags": "bien,semana,soy,cinco,mayweather,estratega",
+            "recuweb_url": "http://es.recuweb.com/estratega/abc.es/2015/05/mayweather-vs-pacquiao-cinco-razones-por-las-que-ganar%C3%A1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
+            "source_url": "http://abc.es/deportes/20150502/abci-cinco-razones-ganara-mayweather-201505011813.html"
         },
         "info7.mx/2015/05/monterrey-ser%C3%A1-un-rival-de-cuidado-en-la-liguilla-mohamed": {
             "title": "Monterrey ser\u00e1 un rival de cuidado en la liguilla: Mohamed...",
@@ -69,7 +49,7 @@
             "tags": "estratega",
             "recuweb_url": "http://es.recuweb.com/estratega/info7.mx/2015/05/monterrey-ser%C3%A1-un-rival-de-cuidado-en-la-liguilla-mohamed",
             "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
-            "source_url": "http://info7.mx/a/noticia/572841"
+            "source_url": "http://info7.mx/a/noticia/572841/monterrey_sera_un_rival_de_cuidado_en_la_liguilla_mohamed"
         },
         "radioagricultura.cl/2015/04/colo-mantendr%C3%ADa-a-h%C3%A9ctor-tapia-como-estratega-del-equipo-radio-agricultura": {
             "title": "Colo Colo mantendr\u00eda a H\u00e9ctor Tapia como estratega del equipo - Radio Agricultura...",
@@ -81,24 +61,44 @@
             "resource_url": "http://news.google.es/?hl=es&q=estratega&output=atom&nord=1",
             "source_url": "http://radioagricultura.cl/2015/04/30/colo-colo-mantendria-a-hector-tapia-como-estratega-del-equipo/"
         },
+        "vozpopuli.com/2015/04/floyd-mayweather-jr-el-imbatible-estratega-de-vida-err%C3%A1tica": {
+            "title": "Floyd Mayweather Jr., el imbatible estratega de vida err\u00e1tica...",
+            "snippet": "Floyd Mayweather Junior es un boxeador, no un luchador. La distinci\u00f3n es liviana pero importante, pues hablamos de dos concepciones antag\u00f3nicas de un mismo deporte. Los hay que dejan la vida en el ring, que solo piensan en pegar. Otros en lugar...",
+            "date": "2015-04-30",
+            "categories": "deporte,estratega",
+            "tags": "mayweather,estratega",
+            "recuweb_url": "http://es.recuweb.com/estratega/vozpopuli.com/2015/04/floyd-mayweather-jr-el-imbatible-estratega-de-vida-err%C3%A1tica",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
+            "source_url": "http://vozpopuli.com/deportes/61454-floyd-mayweather-jr-el-imbatible-estratega-de-vida-erratica"
+        },
         "eju.tv/2015/04/laura-pausini-no-soy-una-estratega": {
             "title": "Laura Pausini: No soy una estratega -...",
             "snippet": "Pausini: No soy una nunca hab\u00eda so\u00f1ado con ser conocida, comenta con modestia Laura Pausini (1974, Solarolo, Italia) recordando sus inicios en la m\u00fasica. Sin embargo, en sus casi 22 a\u00f1os de carrera, la artista italiana ha vendido unos 70...",
             "date": "2015-04-30",
             "categories": "estratega",
-            "tags": "soy,nunca,estratega,m\u00fasica",
+            "tags": "soy,estratega,m\u00fasica,embargo",
             "recuweb_url": "http://es.recuweb.com/estratega/eju.tv/2015/04/laura-pausini-no-soy-una-estratega",
             "resource_url": "http://news.google.es/?hl=es&q=estratega&output=atom&nord=1",
             "source_url": "http://eju.tv/2015/04/laura-pausini-no-soy-una-estratega/"
         },
+        "telesurtv.net/2015/04/vietnam-una-figura-peque%C3%B1a-contra-cinco-imperios-telesur-tv": {
+            "title": "Vietnam: Una figura peque\u00f1a contra cinco imperios - teleSUR TV...",
+            "snippet": "teleSUR TVVietnam: Una figura peque\u00f1a contra cinco imperiosteleSUR TVSu extraordinaria capacidad como estratega militar, es de tales dimensiones que basta mencionar que en el siglo pasado, dirigiendo un ej\u00e9rcito de guerrilleros empobrecidos,...",
+            "date": "2015-04-30",
+            "categories": "imperio,estratega",
+            "tags": "cinco,vietnam,estratega,militar",
+            "recuweb_url": "http://es.recuweb.com/estratega/telesurtv.net/2015/04/vietnam-una-figura-peque%C3%B1a-contra-cinco-imperios-telesur-tv",
+            "resource_url": "http://news.google.es/?hl=es&q=estratega&output=atom&nord=1",
+            "source_url": "http://telesurtv.net/telesuragenda/Guerra-de-Vietnam-20150429-0071.html"
+        },
         "telam.com.ar/2015/04/dirigentes-pol%C3%ADticos-y-estratega-militar-una-alianza-de-acero": {
-            "title": "Dirigentes pol\u00edticos y estratega militar, una alianza de acero entre el... - T\u00e9lam...",
-            "snippet": "T\u00e9lamDirigentes pol\u00edticos y estratega militar, una alianza de acero entre el...T\u00e9lamLa historia moderna de Vietnam est\u00e1 indisolublemente unida a Ho Chi Minh y a Vo Nguyen Giap, quienes dedicaron buena parte de sus vidas, te\u00f1idas de ideas...",
+            "title": "Dirigentes pol\u00edticos y estratega militar, una alianza de acero entre el t\u00edo Ho y el general Giap...",
+            "snippet": "La historia moderna de Vietnam est\u00e1 indisolublemente unida a Ho Chi Minh y a Vo Nguyen Giap, quienes dedicaron buena parte de sus vidas, te\u00f1idas de ideas antiimperialistas y socialistas, al objetivo de liberar a su pa\u00eds del yugo colonial tanto de...",
             "date": "2015-04-29",
             "categories": "estratega",
-            "tags": "estratega",
+            "tags": "estratega,militar,vietnam",
             "recuweb_url": "http://es.recuweb.com/estratega/telam.com.ar/2015/04/dirigentes-pol%C3%ADticos-y-estratega-militar-una-alianza-de-acero",
-            "resource_url": "http://news.google.es/?hl=es&q=estratega&output=atom&nord=1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=estratega&format=RSS&cc=es",
             "source_url": "http://telam.com.ar/notas/201504/103322-homenaje-vietnam-aniversario.html"
         },
         "tendencias21.net/2015/04/la-estrategia-hoy-seg%C3%BAn-aitor-ugarte-conectar-compartir-saberes-y-pluralidades": {

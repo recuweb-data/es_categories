@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "boxeo",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/boxeo/",
@@ -11,22 +11,82 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/boxeo/boxeo/blogs.json"
     },
     "items": {
-        "es.eurosport.yahoo.com/2015/05/boxeo-las-victorias-m%C3%A1s-discutidas-de-floyd-mayweather-yahoo-eurosport": {
-            "title": "Boxeo - Las victorias m\u00e1s discutidas de Floyd Mayweather - Yahoo Eurosport ES...",
-            "snippet": "Boxeo - Las victorias m\u00e1s discutidas de Floyd MayweatherYahoo Eurosport ESDesde que debutara como profesional el 11 de octubre de 1996 ante Roberto Apodaca hasta el pr\u00f3ximo 2 de mayo, fecha del llamado Combate del Siglo ante Manny Pacquiao,...",
-            "date": "2015-05-02",
-            "categories": "yahoo,boxeo",
-            "tags": "manny,manny_pacquiao,pacquiao,octubre,floyd,eurosport,yahoo,yahoo_eurosport,floyd_mayweather,mayweather,boxeo,combate,siglo",
-            "recuweb_url": "http://es.recuweb.com/boxeo/es.eurosport.yahoo.com/2015/05/boxeo-las-victorias-m%C3%A1s-discutidas-de-floyd-mayweather-yahoo-eurosport",
+        "es.eurosport.yahoo.com/2015/05/boxeo-floyd-mayweather-anuncia-su-%C3%BAltimo-combate": {
+            "title": "Boxeo - Floyd Mayweather anuncia su \u00faltimo combate...",
+            "snippet": "El p\u00fagil americano, tras derrotar a Manny Pacquiao en el que ha sido el Combate del Siglo, ha anunciado que en septiembre se dar\u00e1 su \u00faltima pelea como boxeador profesional. Tengo una pelea m\u00e1s, mi \u00faltima ser\u00e1 en septiembre, es tiempo para m\u00ed...",
+            "date": "2015-05-03",
+            "categories": "boxeo",
+            "tags": "m\u00ed,\u00fal,sido,manny,manny_pacquiao,pacquiao,americano,floyd,floyd_mayweather,mayweather,boxeo,combate,siglo,pelea",
+            "recuweb_url": "http://es.recuweb.com/boxeo/es.eurosport.yahoo.com/2015/05/boxeo-floyd-mayweather-anuncia-su-%C3%BAltimo-combate",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
+            "source_url": "http://es.eurosport.yahoo.com/noticias/boxeo-floyd-mayweather-anuncia-\u00faltimo-combate-095339853--box.html"
+        },
+        "es.eurosport.yahoo.com/2015/05/boxeo-mayweather-gana-a-los-puntos-el-combate-del-siglo": {
+            "title": "Boxeo - Mayweather gana a los puntos el 'Combate del Siglo'...",
+            "snippet": "Los jueces del combate, todos estadounidenses, dieron ganador a Mayweather Jr. con cartulinas de 118-110 que entreg\u00f3 Burt Clemens, mientras que Dave Moretti y Glenn Feldman dieron 116-112 cada uno. Mayweather Jr., de 38 a\u00f1os, que expon\u00eda los...",
+            "date": "2015-05-03",
+            "categories": "boxeo",
+            "tags": "mientras,boxeo,mayweather,combate,siglo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/es.eurosport.yahoo.com/2015/05/boxeo-mayweather-gana-a-los-puntos-el-combate-del-siglo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
+            "source_url": "http://es.eurosport.yahoo.com/noticias/boxeo-mayweather-gana-a-puntos-combate-del-siglo-045818978--box.html"
+        },
+        "elmundo.es/2015/05/el-austericidio-de-mayweather": {
+            "title": "El austericidio de Mayweather...",
+            "snippet": "Si algo ha demostrado el Mayweather-Pacquiao es que el boxeo no es la salvajada que, inconfesablemente, cierto espectador desea de dos hombres semidesnudos desafi\u00e1ndose sobre un ring. Conf\u00edo en que esta victoria de la prudencia sobre la...",
+            "date": "2015-05-03",
+            "categories": "boxeo",
+            "tags": "victoria,cierto,mayweather,pacquiao,boxeo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/elmundo.es/2015/05/el-austericidio-de-mayweather",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
+            "source_url": "http://elmundo.es/deportes/2015/05/03/55464b6dca474166188b457b.html"
+        },
+        "record.com.mx/2015/05/expertos-del-boxeo-decepcionados-con-pelea-siglo-diario-deportivo-record": {
+            "title": "Expertos del boxeo, decepcionados con 'Pelea del Siglo'- Diario Deportivo Record...",
+            "snippet": "Diario Deportivo RecordExpertos del boxeo, decepcionados con 'Pelea del Siglo'Diario Deportivo RecordLas personalidades del mundo del boxeo se manifestaron tras la pelea entre Floyd Mayweather y Manny Pacquiao. La opini\u00f3n generalizada luego de la...",
+            "date": "2015-05-03",
+            "categories": "personalidad,boxeo",
+            "tags": "manny,manny_pacquiao,pacquiao,floyd,floyd_mayweather,mayweather,mundo,diario,boxeo,pelea,siglo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/record.com.mx/2015/05/expertos-del-boxeo-decepcionados-con-pelea-siglo-diario-deportivo-record",
             "resource_url": "http://news.google.es/?hl=es&q=boxeo&output=atom&nord=1",
-            "source_url": "http://es.eurosport.yahoo.com/noticias/boxeo-victorias-m\u00e1s-discutidas-de-floyd-mayweather-074358040--box.html"
+            "source_url": "http://record.com.mx/articulo/noticias/3728915/expertos-del-boxeo-decepcionados-con-pelea-del-siglo"
+        },
+        "espndeportes.espn.go.com/2015/05/no-fue-la-pelea-del-siglo-espn-deportes": {
+            "title": "No fue la 'Pelea del Siglo'- ESPN Deportes...",
+            "snippet": "ESPN DeportesNo fue la 'Pelea del Siglo'ESPN DeportesCarlos Narv\u00e1ez es especialista de boxeo y escribe para el diario El Vocero de Puerto Rico. Ha cubierto numerosos combates de campeonato a nivel mundial en Las Vegas, Nueva York, Atlantic City.",
+            "date": "2015-05-03",
+            "categories": "boxeo",
+            "tags": "campeonato,mundial,diario,espn,espn_deportes,deportes,pelea,siglo,boxeo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/espndeportes.espn.go.com/2015/05/no-fue-la-pelea-del-siglo-espn-deportes",
+            "resource_url": "http://news.google.es/?hl=es&q=boxeo&output=atom&nord=1",
+            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2363110/no-fue-la-pelea-del-siglo"
+        },
+        "marca.com/2015/05/pacquiao-mayweather-no-hizo-nada-s%C3%B3lo-corri%C3%B3": {
+            "title": "Pacquiao: Mayweather no hizo nada, s\u00f3lo corri\u00f3...",
+            "snippet": "Mientras que Pacquiao tir\u00f3 429, de los que s\u00f3lo 81 fueron a dar al cuerpo del campe\u00f3n Welter de la Asociaci\u00f3n, Organizaci\u00f3n y Consejo Mundial de Boxeo, un 19 por ciento de acierto con sus golpes. La misma fuente estad\u00edstica, mostr\u00f3 que...",
+            "date": "2015-05-03",
+            "categories": "boxeo",
+            "tags": "golpes,mundial,pacquiao,mayweather,mientras,boxeo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/marca.com/2015/05/pacquiao-mayweather-no-hizo-nada-s%C3%B3lo-corri%C3%B3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
+            "source_url": "http://marca.com/2015/05/03/mas_deportes/boxeo/mayweather-vs-pacquiao/1430630132.html"
+        },
+        "espndeportes.espn.go.com/2015/05/problemas-transmisi%C3%B3n-con-may-pac-espn-deportes": {
+            "title": "Problemas transmisi\u00f3n con May-Pac - ESPN Deportes...",
+            "snippet": "Problemas transmisi\u00f3n con May-PacESPN Deportes... ver de HBO Sports, le dijo a temprano esta semana que la campa\u00f1a estaba funcionando y se hab\u00edan m\u00e1s recibido m\u00e1s \u00f3rdenes adelantadas que en cualquiera de las 187 transmisiones de boxeo de pague...",
+            "date": "2015-05-03",
+            "categories": "boxeo",
+            "tags": "estaba,sports,deportes,espn,espn_deportes,boxeo",
+            "recuweb_url": "http://es.recuweb.com/boxeo/espndeportes.espn.go.com/2015/05/problemas-transmisi%C3%B3n-con-may-pac-espn-deportes",
+            "resource_url": "http://news.google.es/?hl=es&q=boxeo&output=atom&nord=1",
+            "source_url": "http://espndeportes.espn.go.com/news/story/_/id/2362807/problemas-transmision-con-may-pac"
         },
         "es.eurosport.yahoo.com/2015/05/boxeo-tyson-casi-noquea-a-un-aficionado-yahoo-eurosport": {
             "title": "Boxeo - Tyson casi noquea a un aficionado - Yahoo Eurosport ES...",
             "snippet": "Yahoo Eurosport ESBoxeo - Tyson casi noquea a un aficionadoYahoo Eurosport ESEl fan, que quer\u00eda hacerse un 'selfie'con una de las mayores estrellas del boxeo americano, estuvo cerca de recibir un golpe del exboxeador. De hecho, cuando agarr\u00f3 a...",
             "date": "2015-05-02",
             "categories": "estrella,yahoo,boxeo",
-            "tags": "eurosport,yahoo,yahoo_eurosport,aficionado,boxeo,hecho",
+            "tags": "aficionado,boxeo,americano",
             "recuweb_url": "http://es.recuweb.com/boxeo/es.eurosport.yahoo.com/2015/05/boxeo-tyson-casi-noquea-a-un-aficionado-yahoo-eurosport",
             "resource_url": "http://news.google.es/?hl=es&q=boxeo&output=atom&nord=1",
             "source_url": "http://es.eurosport.yahoo.com/noticias/boxeo-tyson-casi-noquea-a-aficionado-142729217--box.html"
@@ -36,7 +96,7 @@
             "snippet": "El combate que enfrentar\u00e1 al norteamericano Floyd Mayweather con el filipino Manny Pacquiao ha vuelto a poner los focos del inter\u00e9s mundial en el mundo del boxeo. Esta velada ya ha sido bautizada como el Combate del Siglo, el primero que se...",
             "date": "2015-05-02",
             "categories": "boxeo",
-            "tags": "mundial,manny,manny_pacquiao,pacquiao,filipino,floyd,floyd_mayweather,mayweather,p\u00fagiles,boxeo,combate,siglo,mundo",
+            "tags": "sido,mundial,mundo,manny,manny_pacquiao,pacquiao,filipino,floyd,floyd_mayweather,mayweather,norteamericano,p\u00fagiles,boxeo,combate,siglo",
             "recuweb_url": "http://es.recuweb.com/boxeo/vocesdecuenca.com/2015/05/boxeo-en-cuenca-del-taranconero-que-protagoniz%C3%B3-un-combate-siglo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
             "source_url": "http://vocesdecuenca.com/web/voces-de-cuenca/-/boxeo-en-cuenca-del-taranconero-que-protagonizo-un-combate-del-siglo-a-los-nuevos-pugiles-conquenses"
@@ -46,70 +106,10 @@
             "snippet": "Una de las p\u00e1ginas m\u00e1s fascinantes del \u00faltimo a\u00f1o period\u00edstico se public\u00f3 el 30 de octubre pasado en el diario ABC. All\u00ed, David Gistau, aficionado cierto al boxeo, rememoraba el Ali-Foreman de 1974, el combate m\u00e1s famoso de la historia.",
             "date": "2015-05-02",
             "categories": "boxeo",
-            "tags": "historia,aficionado,octubre,\u00fal,boxeo,combate",
+            "tags": "aficionado,cierto,diario,\u00fal,boxeo,combate",
             "recuweb_url": "http://es.recuweb.com/boxeo/elmundo.es/2015/05/boxeo-en-blanco-y-negro",
             "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
             "source_url": "http://elmundo.es/deportes/2015/05/02/5544b7c9e2704eb61d8b457e.html"
-        },
-        "marca.com/2015/05/dinero-boxeo-y-leyenda": {
-            "title": "Dinero, boxeo... y leyenda...",
-            "snippet": "Tanta gente pagando tanto dinero no puede estar equivocada, pero Floyd Mayweather y Manny Pacquiao deben a\u00fan refrendar la expectativa que sit\u00faa el combate de Las Vegas como uno de los mejores de la historia del boxeo. El ex campe\u00f3n de los pesados...",
-            "date": "2015-05-02",
-            "categories": "boxeo",
-            "tags": "campe\u00f3n,mejores,historia,manny,manny_pacquiao,pacquiao,floyd,floyd_mayweather,mayweather,gente,puede,boxeo,combate,vegas",
-            "recuweb_url": "http://es.recuweb.com/boxeo/marca.com/2015/05/dinero-boxeo-y-leyenda",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo%2Bboxeo&format=RSS&cc=es",
-            "source_url": "http://marca.com/2015/05/01/mas_deportes/boxeo/mayweather-vs-pacquiao/1430501492.html"
-        },
-        "elmundo.es/2015/05/el-mundo-cabe-en-un-ring": {
-            "title": "El mundo cabe en un ring...",
-            "snippet": "Mayweather nunca perdi\u00f3 una pela por KO, s\u00f3lo una decisi\u00f3n dividida en su carrera -De la Hoya-, pero no es un pegador (26 KOs en 47 combates; el \u00faltimo, 'tramposo'ante V\u00edctor Ortiz) y enfrente tiene a la mayor turbina de golpes del boxeo...",
-            "date": "2015-05-02",
-            "categories": "boxeo",
-            "tags": "\u00fal,mundo,mayweather,golpes,boxeo",
-            "recuweb_url": "http://es.recuweb.com/boxeo/elmundo.es/2015/05/el-mundo-cabe-en-un-ring",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo&format=RSS&cc=es",
-            "source_url": "http://elmundo.es/deportes/2015/05/02/5543e3d922601d52338b4574.html"
-        },
-        "laopinion.com/2015/05/la-apuesta-del-siglo-en-boxeo-cu%C3%A1nto-pagan-las-apuestas-opini%C3%B3n": {
-            "title": "La apuesta del siglo en boxeo (cu\u00e1nto pagan las apuestas en Las... - La Opini\u00f3n...",
-            "snippet": "La Opini\u00f3nLa apuesta del siglo en boxeo (cu\u00e1nto pagan las apuestas en Las...La Opini\u00f3nHe conocido gente que ha perdido un auto o incluso la casa por apostar en una pelea de boxeo, sostiene. Pero el boxeo es en realidad un deporte cuyo volumen de...",
-            "date": "2015-05-02",
-            "categories": "deporte,boxeo",
-            "tags": "realidad,deporte,gente,siglo,boxeo,pelea",
-            "recuweb_url": "http://es.recuweb.com/boxeo/laopinion.com/2015/05/la-apuesta-del-siglo-en-boxeo-cu%C3%A1nto-pagan-las-apuestas-opini%C3%B3n",
-            "resource_url": "http://news.google.es/?hl=es&q=boxeo%2Bboxeo&output=atom&nord=1",
-            "source_url": "http://laopinion.com/la-apuesta-del-siglo-en-boxeo"
-        },
-        "abc.es/2015/05/lanzan-una-app-informativa-para-los-amantes-del-boxeo": {
-            "title": "Lanzan una App informativa para los amantes del boxeo...",
-            "snippet": "Boxeo en tu esquina es una nueva aplicaci\u00f3n accesible desde cualquier m\u00f3vil o tablet, iOS o Android. Un grupo de aficionados de la Comunidad Valenciana y Catalu\u00f1a se han decidido a desarrollar esta aplicaci\u00f3n para cubrir la falta de...",
-            "date": "2015-05-02",
-            "categories": "boxeo",
-            "tags": "boxeo",
-            "recuweb_url": "http://es.recuweb.com/boxeo/abc.es/2015/05/lanzan-una-app-informativa-para-los-amantes-del-boxeo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=boxeo%2Bboxeo&format=RSS&cc=es",
-            "source_url": "http://abc.es/local-comunidad-valenciana/20150502/abci-boxeo-201505021329.html"
-        },
-        "elcolombiano.com/2015/05/las-cinco-mejores-peleas-de-la-historia-del-boxeo-el-colombiano": {
-            "title": "Las cinco mejores peleas de la historia del boxeo - El Colombiano...",
-            "snippet": "El ColombianoLas cinco mejores peleas de la historia del boxeoEl ColombianoSe enfrentaron en el Caesars Palace de Las Vegas el campe\u00f3n Welter del Consejo Mundial de Boxeo, 'Sugar'Ray Leonard, y el monarca invicto de la Asociaci\u00f3n Mundial de Boxeo,...",
-            "date": "2015-05-02",
-            "categories": "boxeo",
-            "tags": "mundial,vegas,campe\u00f3n,mejores,historia,boxeo",
-            "recuweb_url": "http://es.recuweb.com/boxeo/elcolombiano.com/2015/05/las-cinco-mejores-peleas-de-la-historia-del-boxeo-el-colombiano",
-            "resource_url": "http://news.google.es/?hl=es&q=boxeo&output=atom&nord=1",
-            "source_url": "http://elcolombiano.com/las-cinco-mejores-peleas-de-la-historia-del-boxeo-FM1835788"
-        },
-        "canchallena.lanacion.com.ar/2015/05/mayweather-y-pacquiao-tienen-el-destino-del-boxeo-en-sus-pu%C3%B1os": {
-            "title": "Mayweather y Pacquiao tienen el destino del boxeo en sus pu\u00f1os -...",
-            "snippet": "y Pacquiao tienen el destino del boxeo en sus pu\u00f1 VEGAS.- La mayor\u00eda de los que est\u00e1n aqu\u00ed quiere que gane el filipino Manny Pacquiao. Lo admiran, lo respetan y lo apoyan. Pero todos saben que lo m\u00e1s cercano a la realidad es la proyecci\u00f3n...",
-            "date": "2015-05-02",
-            "categories": "boxeo",
-            "tags": "realidad,filipino,manny,mayweather,pacquiao,boxeo,vegas",
-            "recuweb_url": "http://es.recuweb.com/boxeo/canchallena.lanacion.com.ar/2015/05/mayweather-y-pacquiao-tienen-el-destino-del-boxeo-en-sus-pu%C3%B1os",
-            "resource_url": "http://news.google.es/?hl=es&q=boxeo&output=atom&nord=1",
-            "source_url": "http://canchallena.lanacion.com.ar/1789352-mayweather-y-pacquiao-tienen-el-destino-del-boxeo-en-sus-punos"
         }
     }
 }

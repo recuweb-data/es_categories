@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "playstation",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/playstation/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/playstation/playstation/blogs.json"
     },
     "items": {
-        "blog.es.playstation.com/2015/04/blog-ascendance-el-nuevo-dlc-de-cod-advanced-warfare-ya": {
-            "title": "Blog Ascendance, el nuevo DLC de COD: Advanced Warfare, ya...",
-            "snippet": "PlayStation Plus en mayo: Disfruta este mes de 5 juegos para tu PS4 3. Un nuevo tr\u00e1iler muestra la envergadura... descuentos en cl\u00e1sic... 26. Comentarios Novedades en PlayStation Store: Bastion, Stealth Inc 2, PS P... 25.",
-            "date": "2015-04-30",
-            "author_name": "Javier Borrego",
+        "blog.es.playstation.com/2015/04/3-nuevos-descuentos-en-playstation-store-para-destiny-resident": {
+            "title": "3. Nuevos descuentos en PlayStation Store para Destiny, Resident...",
+            "snippet": "Hoy estrenamos un mont\u00f3n de nuevos descuentos en PlayStation Store. \u00danete a tus amigos en Destiny como oferta de la semana o hazte con uno de los muchos y alucinantes t\u00edtulos de Resident Evil. Si lo que buscas es...",
+            "date": "2015-04-29",
+            "author_name": "Jos\u00e9 Miguel de la Puente",
             "categories": "playstation",
-            "tags": "playstation,playstation_store,store,novedades,descuentos,nuevo,mayo,disfruta,juegos",
-            "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/blog-ascendance-el-nuevo-dlc-de-cod-advanced-warfare-ya",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.es.playstation.com/2015/04/30/ascendance-el-nuevo-dlc-de-cod-advanced-warfare-ya-disponible-en-ps4-y-ps3/"
+            "tags": "semana,amigos,nuevos,descuentos,playstation,playstation_store,store,\u00fanete,t\u00edtulos",
+            "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/3-nuevos-descuentos-en-playstation-store-para-destiny-resident",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.es.playstation.com/2015/04/29/nuevos-descuentos-en-playstation-store-para-destiny-resident-evil-y-muchos-mas/"
         },
         "blog.es.playstation.com/2015/04/5-novedades-en-playstation-store-metal-slug-3-broken-age": {
             "title": "5. Novedades en PlayStation Store: Metal Slug 3, Broken Age y m\u00e1s...",
@@ -28,21 +28,10 @@
             "date": "2015-04-29",
             "author_name": "Jos\u00e9 Miguel de la Puente",
             "categories": "playstation",
-            "tags": "semana,playstation,playstation_store,store,novedades,mejores",
+            "tags": "mejores,cl\u00e1sicos,recreativos,semana,playstation,playstation_store,store,novedades",
             "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/5-novedades-en-playstation-store-metal-slug-3-broken-age",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.es.playstation.com/2015/04/29/novedades-en-playstation-store-metal-slug-3-broken-age-y-mas/"
-        },
-        "tierragamer.com/2015/04/playstation-plus-juegos-gratis-de-mayo-tierragamer": {
-            "title": "PlayStation Plus: Juegos gratis de Mayo - TierraGamer...",
-            "snippet": "Sony nos da a conocer el listado completo de Juegos para la Instant Game Collection de PlayStation Plus para el mes de Mayo. Conoce los detalles aqu\u00ed.",
-            "date": "2015-04-29",
-            "author_name": "RobertoCnd",
-            "categories": "playstation",
-            "tags": "playstation,juegos,gratis,mayo,sony",
-            "recuweb_url": "http://es.recuweb.com/playstation/tierragamer.com/2015/04/playstation-plus-juegos-gratis-de-mayo-tierragamer",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://tierragamer.com/playstation-plus-juegos-gratis-mayo/"
         },
         "blog.es.playstation.com/2015/04/playstation-plus-en-mayo-disfruta-este-mes-de-5-juegos": {
             "title": "PlayStation Plus en mayo: Disfruta este mes de 5 juegos para tu PS4...",
@@ -50,9 +39,9 @@
             "date": "2015-04-29",
             "author_name": "Bruno Sol",
             "categories": "playstation",
-            "tags": "dentro,d\u00edas,momento,playstation,mayo,disfruta,juegos,nuevos,abril",
+            "tags": "disponibles,dentro,d\u00edas,llegado,momento,playstation,mayo,juegos,nuevos,abril",
             "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/playstation-plus-en-mayo-disfruta-este-mes-de-5-juegos",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.es.playstation.com/2015/04/29/playstation-plus-en-mayo-ether-one-hohokum-murasaki-baby-y-muchos-mas/"
         },
         "vidaextra.com/2015/04/playstation-plus-apuesta-por-ps4-en-mayo-cinco-indies-de-golpe": {
@@ -61,32 +50,10 @@
             "date": "2015-04-29",
             "author_name": "Jarkendia",
             "categories": "playstation",
-            "tags": "d\u00edas,\u00fal,cinco,apuesta,playstation,mayo",
+            "tags": "d\u00edas,\u00fal,cinco,playstation,mayo",
             "recuweb_url": "http://es.recuweb.com/playstation/vidaextra.com/2015/04/playstation-plus-apuesta-por-ps4-en-mayo-cinco-indies-de-golpe",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://vidaextra.com/videos/playstation-plus-apuesta-por-ps4-en-mayo-cinco-indies-de-golpe-y-sin-anestesia"
-        },
-        "blog.es.playstation.com/2015/04/nuevos-descuentos-en-playstation-store-para-destiny-resident-evil": {
-            "title": "Nuevos descuentos en PlayStation Store para Destiny, Resident Evil...",
-            "snippet": "Hoy estrenamos un mont\u00f3n de nuevos descuentos en PlayStation Store. \u00danete a tus amigos en Destiny como oferta de la semana o hazte con uno de los muchos y alucinantes t\u00edtulos de Resident Evil. Si lo que buscas es...",
-            "date": "2015-04-29",
-            "author_name": "Jos\u00e9 Miguel de la Puente",
-            "categories": "playstation",
-            "tags": "semana,amigos,nuevos,descuentos,playstation,playstation_store,store,t\u00edtulos",
-            "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/nuevos-descuentos-en-playstation-store-para-destiny-resident-evil",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://blog.es.playstation.com/2015/04/29/nuevos-descuentos-en-playstation-store-para-destiny-resident-evil-y-muchos-mas/"
-        },
-        "meristation.com/2015/04/tu-ps4-con-silent-hills-instalado-cuesta": {
-            "title": "Tu PS4 con Silent Hills instalado cuesta m\u00e1s de...",
-            "snippet": "Las subastas de Playstation 4 con Project P. T. instalado se inician en eBay. Ya cuestan m\u00e1s de euros.",
-            "date": "2015-04-29",
-            "author_name": "Golbez",
-            "categories": "playstation",
-            "tags": "playstation",
-            "recuweb_url": "http://es.recuweb.com/playstation/meristation.com/2015/04/tu-ps4-con-silent-hills-instalado-cuesta",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
-            "source_url": "http://meristation.com/playstation-4/noticias/tu-ps4-con-silent-hills-instalado-cuesta-mas-de-1-000-\u20ac/44672/2058399"
         },
         "blog.es.playstation.com/2015/04/el-kit-de-niveles-hora-aventuras-llega-hoy-a-littlebigplanet-3": {
             "title": "\u00a1El kit de niveles de Hora de Aventuras llega hoy a LittleBigPlanet 3...",
@@ -94,9 +61,9 @@
             "date": "2015-04-29",
             "author_name": "Mario Ballesteros",
             "categories": "playstation",
-            "tags": "sea,hora,playstation",
+            "tags": "sea,playstation,psn",
             "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/el-kit-de-niveles-hora-aventuras-llega-hoy-a-littlebigplanet-3",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.es.playstation.com/2015/04/29/el-kit-de-niveles-de-hora-de-aventuras-llega-hoy-littlebigplanet-3/"
         },
         "blog.es.playstation.com/2015/04/3-ahorra-70-con-el-nuevo-superpack-de-ps4": {
@@ -105,10 +72,21 @@
             "date": "2015-04-23",
             "author_name": "Cristina Infante",
             "categories": "playstation",
-            "tags": "mejor,jugar,lugar,nuevo,consola,playstation,compa\u00f1\u00eda",
+            "tags": "compa\u00f1\u00eda,nuevo,consola,playstation",
             "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/3-ahorra-70-con-el-nuevo-superpack-de-ps4",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
             "source_url": "http://blog.es.playstation.com/2015/04/23/ahorrate-70e-con-el-nuevo-superpack-de-ps4/"
+        },
+        "blog.es.playstation.com/2015/04/2-ps-store-nos-sorprende-con-grandes-descuentos-en-cl%C3%A1sicos": {
+            "title": "2. PS Store nos sorprende con grandes descuentos en cl\u00e1sicos...",
+            "snippet": "Puede que los salones recreativos de nuestra infancia hayan desaparecido, pero su legado ser\u00e1 eterno. Esta semana PlayStation Store va a dar una alegr\u00eda a los mit\u00f3manos de los arcades, con una selecci\u00f3n de descuentos...",
+            "date": "2015-04-22",
+            "author_name": "Jos\u00e9 Miguel de la Puente",
+            "categories": "playstation",
+            "tags": "descuentos,playstation,playstation_store,store,recreativos,cl\u00e1sicos,puede,semana",
+            "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/04/2-ps-store-nos-sorprende-con-grandes-descuentos-en-cl%C3%A1sicos",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.es.playstation.com/2015/04/22/ps-store-nos-sorprende-con-grandes-descuentos-en-clasicos-recreativos/"
         },
         "aniimenews.wordpress.com/2015/04/godzilla-vs-para-playstation-4-no-es-el-juego-que-llegar%C3%A1": {
             "title": "Godzilla VS para PlayStation 4 no es el juego que llegar\u00e1 a occidente en verano.",
@@ -116,10 +94,32 @@
             "date": "2015-04-10",
             "author_name": "Brober Juan",
             "categories": "playstation",
-            "tags": "llegar\u00e1,bandai,namco,playstation,juego,pasado,jap\u00f3n",
+            "tags": "pr\u00f3ximo,llegar\u00e1,bandai,namco,playstation,juego,pasado,jap\u00f3n",
             "recuweb_url": "http://es.recuweb.com/playstation/aniimenews.wordpress.com/2015/04/godzilla-vs-para-playstation-4-no-es-el-juego-que-llegar%C3%A1",
-            "resource_url": "http://es.search.wordpress.com/?q=playstation%2Bplaystation&f=feed&page=1",
+            "resource_url": "http://es.search.wordpress.com/?q=playstation&f=feed&page=1",
             "source_url": "http://aniimenews.wordpress.com/2015/04/10/godzilla-vs-para-playstation-4-no-es-el-juego-que-llegara-a-occidente-en-verano/"
+        },
+        "blog.es.playstation.com/2015/03/5-desvelada-ps4-edici%C3%B3n-limitada-batman-arkham-knight": {
+            "title": "5. Desvelada PS4 edici\u00f3n limitada Batman Arkham Knight...",
+            "snippet": "S\u00e9 que muchos esper\u00e1is ansiosos el \u00faltimo t\u00edtulo de la serie Batman Arkham de Rocksteady Studios, Batman: Arkham Knight. Hoy me complace anunciar un nuevo dise\u00f1o de PlayStation 4 que rinde homenaje a la...",
+            "date": "2015-03-31",
+            "author_name": "Javier Borrego",
+            "categories": "playstation",
+            "tags": "t\u00edtulo,\u00fal,edici\u00f3n,nuevo,playstation",
+            "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/03/5-desvelada-ps4-edici%C3%B3n-limitada-batman-arkham-knight",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.es.playstation.com/2015/03/31/desvelada-la-ps4-de-edicion-limitada-batman-arkham-knight/"
+        },
+        "blog.es.playstation.com/2015/03/playstation-plus-en-april-espa%C3%B1ol": {
+            "title": "PlayStation Plus en April - en espa\u00f1ol...",
+            "snippet": "La primavera ha llegado oficialmente \u00a1pero eso no significa que sea el momento de dejar el mando y salir a dar una vuelta! Tenemos algunos t\u00edtulos estupendos para este abril, por cortes\u00eda de PlayStation Plus, asi que d\u00e1te...",
+            "date": "2015-03-31",
+            "author_name": "Jos\u00e9 Miguel de la Puente",
+            "categories": "playstation",
+            "tags": "llegado,eso,significa,sea,momento,espa\u00f1ol,playstation,t\u00edtulos,abril",
+            "recuweb_url": "http://es.recuweb.com/playstation/blog.es.playstation.com/2015/03/playstation-plus-en-april-espa%C3%B1ol",
+            "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=es&lr=lang_es&nord=1",
+            "source_url": "http://blog.es.playstation.com/2015/03/31/playstation-plus-en-april-dishonored-killzone-mercenary-never-alone-y-mas/"
         }
     }
 }

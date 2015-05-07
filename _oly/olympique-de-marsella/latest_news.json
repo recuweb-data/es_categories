@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "olympique-de-marsella",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/olympique-de-marsella/",
@@ -11,40 +11,88 @@
         "graph:blogs": "http://es.recuweb.com/graph/v1.0/olympique-de-marsella/olympique-de-marsella/blogs.json"
     },
     "items": {
+        "eldesmarque.com/2015/05/el-olympique-de-marsella-baja-la-forma": {
+            "title": "El Olympique de Marsella baja la forma...",
+            "snippet": "La buena estrella del entrenador del Olympique... equipos en la primera vuelta y llegaban sin jugo a la segunda. Con el Marsella gan\u00f3 el 44% de los encuentros de ida y, a falta de tres para el final de la vuelta, el porcentaje de triunfos es del...",
+            "date": "2015-05-07",
+            "categories": "estrella",
+            "tags": "entrenador,olympique,marsella",
+            "recuweb_url": "http://es.recuweb.com/estrella/eldesmarque.com/2015/05/el-olympique-de-marsella-baja-la-forma",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "source_url": "http://eldesmarque.com/futbol/europa/55260-se-apaga-la-buena-estrella-de-bielsa"
+        },
+        "goal.com/2015/05/el-club-franc%C3%A9s-querr%C3%ADa-al-actual-t%C3%A9cnico-del-real-madrid-castilla": {
+            "title": "El club franc\u00e9s querr\u00eda al actual t\u00e9cnico del Real Madrid Castilla para su nuevo proyecto...",
+            "snippet": "El \u00faltimo es, ni m\u00e1s ni menos, Zinedine Zidane. Seg\u00fan 'France Football', el Olympique de Marsella querr\u00eda al actual t\u00e9cnico del Real Madrid Castilla. \u00bfEl problema? Que Zidane ser\u00eda la opci\u00f3n de futuro de Florentino P\u00e9rez a corto plazo y que...",
+            "date": "2015-05-06",
+            "categories": "realmadrid",
+            "tags": "opci\u00f3n,football,zinedine,zinedine_zidane,zidane,club,franc\u00e9s,olympique,marsella",
+            "recuweb_url": "http://es.recuweb.com/realmadrid/goal.com/2015/05/el-club-franc%C3%A9s-querr%C3%ADa-al-actual-t%C3%A9cnico-del-real-madrid-castilla",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "source_url": "http://goal.com/es/news/21/fichajes/2015/05/05/11443672/zinedine-zidane-podr\u00eda-sustituir-a-marcelo-bielsa-en-el"
+        },
+        "sport.es/2015/05/mandanda-apunta-al-tottenham": {
+            "title": "Mandanda apunta al Tottenham...",
+            "snippet": "Mandanda, de 30 a\u00f1os, es indiscutible en la porter\u00eda del Olympique de Marsella desde su llegada en verano de 2007 procedente del Le Havre. A lo largo de esas ocho temporadas solo ha dejado de jugar seis de los 301 partidos de la Ligue 1 disputados...",
+            "date": "2015-05-06",
+            "tags": "olympique,marsella,ligue",
+            "recuweb_url": "http://es.recuweb.com/sport.es/2015/05/mandanda-apunta-al-tottenham",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "source_url": "http://sport.es/es/noticias/francia/mandanda-apunta-tottenham-4161217"
+        },
+        "mundodeportivo.com/2015/05/colocan-a-zinedine-zidane-en-el-olympique-de-marsella": {
+            "title": "Colocan a Zinedine Zidane en el Olympique de Marsella...",
+            "snippet": "Zinedine Zidane no ha ocultado su intenci\u00f3n de... Olympique de Marsella. La marcha del argentino del cuadro franc\u00e9s parece cantada y son muchos los nombres que se barajan como sustitutos. Pero en Francia parecen tener claro que la opci\u00f3n Zidane...",
+            "date": "2015-05-05",
+            "tags": "opci\u00f3n,franc\u00e9s,marcha,zinedine,zinedine_zidane,zidane,olympique,marsella,argentino,francia",
+            "recuweb_url": "http://es.recuweb.com/mundodeportivo.com/2015/05/colocan-a-zinedine-zidane-en-el-olympique-de-marsella",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "source_url": "http://mundodeportivo.com/futbol/real-madrid/20150505/103023533250/colocan-a-zinedine-zidane-en-el-olympique-de-marsella.html"
+        },
+        "bizkaia.eldesmarque.com/2015/05/bufandas-y-camisetas-con-la-efigie-del-loco": {
+            "title": "Bufandas y camisetas con la efigie del Loco...",
+            "snippet": "Seg\u00fan apuntan hoy desde la emisora de radio RMC Sport, de la que es comentarista el ex entrenador del Athletic Club Luis Fern\u00e1ndez, el Olympique de Marsella comercializar\u00e1 bufandas y camisetas con la imagen de Bielsa, lo que supone un caso \u00fanico...",
+            "date": "2015-05-04",
+            "categories": "radio",
+            "tags": "club,entrenador,loco,olympique,marsella,bielsa",
+            "recuweb_url": "http://es.recuweb.com/radio/bizkaia.eldesmarque.com/2015/05/bufandas-y-camisetas-con-la-efigie-del-loco",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "source_url": "http://bizkaia.eldesmarque.com/athletic-club/noticias/46169-olympique-de-marsella-comercializara-productos-bielsa"
+        },
+        "cooperativa.cl/2015/05/olympique-de-marsella-volvi%C3%B3-al-triunfo-tras-superar-a-metz": {
+            "title": "Olympique de Marsella volvi\u00f3 al triunfo tras superar a Metz...",
+            "snippet": "Olympique de Marsella de Marcelo Bielsa volvi\u00f3 a conseguir un triunfo en la liga francesa tras superar como visitante 2-0 a Metz en la trig\u00e9sima quinta fecha. El elenco adiestrado por el argentino qued\u00f3 temporalmente en la cuarta plaza a 11...",
+            "date": "2015-05-02",
+            "tags": "qued\u00f3,trig\u00e9sima,trig\u00e9sima-quinta,trig\u00e9sima-quinta-fecha,quinta,quinta-fecha,fecha,volvi\u00f3,triunfo,liga,liga-francesa,francesa,visitante,marcelo,marcelo_bielsa,bielsa,volvi\u00f3-al-triunfo,olympique,marsella,metz,argentino",
+            "recuweb_url": "http://es.recuweb.com/cooperativa.cl/2015/05/olympique-de-marsella-volvi%C3%B3-al-triunfo-tras-superar-a-metz",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "source_url": "http://cooperativa.cl/noticias/deportes/futbol/liga-francesa/olympique-de-marsella-volvio-al-triunfo-tras-superar-a-metz/2015-05-01/171121.html"
+        },
         "cooperativa.cl/2015/05/01-05-201517-42olympique-de-marsella-super%C3%B3-a-metz-con-doblete": {
             "title": "01/05/201517:42Olympique de Marsella super\u00f3 a Metz con doblete... -...",
             "snippet": ":42Olympique de Marsella super\u00f3 a Metz con doblete... de Marsella de Marcelo Bielsa venci\u00f3 2-0 a Metz en la trig\u00e9sima quinta fecha de la liga francesa. A pesar que el equipo \"ol\u00edmpico\" no puede luchar por el t\u00edtulo, sigue con las esperanza de...",
             "date": "2015-05-01",
             "tags": "esperanza,t\u00edtulo,trig\u00e9sima,trig\u00e9sima-quinta,trig\u00e9sima-quinta-fecha,quinta,quinta-fecha,fecha,liga,liga-francesa,francesa,marcelo,marcelo_bielsa,bielsa,olympique,marsella,metz,venci\u00f3,equipo",
             "recuweb_url": "http://es.recuweb.com/cooperativa.cl/2015/05/01-05-201517-42olympique-de-marsella-super%C3%B3-a-metz-con-doblete",
-            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Bde%2Bmarsella%2Bolympique%2Bde%2Bmarsella&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Bde%2Bmarsella&output=atom&nord=1",
             "source_url": "http://cooperativa.cl/noticias/deportes/futbol/liga-francesa/olympique-de-marsella-supero-a-metz-con-doblete-de-gignac/2015-05-01/172907.html"
-        },
-        "goal.com/2015/05/el-loco-cree-que-olympique-de-marsella-todav%C3%ADa-tiene-chances-ocupar": {
-            "title": "El Loco cree que Olympique de Marsella todav\u00eda tiene chances de ocupar un lugar en el podio y...",
-            "snippet": "Despu\u00e9s de cuatro derrotas consecutivas, Olympique de Marsella logr\u00f3 volver al triunfo ante Metz y Marcelo Bielsa destac\u00f3 la labor de sus jugadores, adem\u00e1s de mostrarse ilusionado con ocupar un lugar en el podio y clasificarse a la Europa...",
-            "date": "2015-05-01",
-            "tags": "marcelo,marcelo_bielsa,bielsa,triunfo,cuatro,cuatro-derrotas,cuatro-derrotas-consecutivas,derrotas,derrotas-consecutivas,consecutivas,todav\u00eda,loco,olympique,marsella,metz,jugadores",
-            "recuweb_url": "http://es.recuweb.com/goal.com/2015/05/el-loco-cree-que-olympique-de-marsella-todav%C3%ADa-tiene-chances-ocupar",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
-            "source_url": "http://goal.com/es-ar/news/4474/francia/2015/05/01/11326372/marcelo-bielsa-la-ilusi\u00f3n-se-mantiene"
         },
         "clarin.com/2015/05/el-marsella-de-bielsa-recuper%C3%B3-la-esperanza": {
             "title": "El Marsella de Bielsa recuper\u00f3 la esperanza...",
-            "snippet": "Se termin\u00f3 la malaria para el Olympique de Marsella que conduce Marcelo Bielsa. El equipo del rosarino cort\u00f3 con una racha nefasta de cuatro derrotas consecutivas con el triunfo por 2-0 como visitante ante Metz. Andr\u00e9-Pierre Gignac marc\u00f3 por...",
+            "snippet": "Se termin\u00f3 la malaria para el Olympique... uno de sus festejos al entrenador. El Marsella ven\u00eda de perder ante PSG (3-2), Burdeos (1-0), Nantes (1-0) y Lorient (3-5) y qued\u00f3 afuera de la lucha por el t\u00edtulo en la Ligue 1 de Francia. PSG es el...",
             "date": "2015-05-01",
-            "tags": "pierre,pierre_gignac,gignac,visitante,racha,cuatro,cuatro-derrotas,cuatro-derrotas-consecutivas,derrotas,derrotas-consecutivas,consecutivas,triunfo,marcelo,esperanza,marsella,bielsa,olympique,equipo,metz",
+            "tags": "qued\u00f3,t\u00edtulo,entrenador,esperanza,marsella,bielsa,olympique,perder,psg,ligue,francia",
             "recuweb_url": "http://es.recuweb.com/clarin.com/2015/05/el-marsella-de-bielsa-recuper%C3%B3-la-esperanza",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=es%2Blocalhost%2Bcom%2Bolympique%2Bde%2Bmarsella&format=RSS&cc=es",
             "source_url": "http://clarin.com/deportes/futbol-internacional/Marcelo_Bielsa-Olympique_de_Marsella-Metz-Andre-Pierre_Gignac_0_1349265359.html"
         },
         "canchallena.lanacion.com.ar/2015/05/el-olympique-de-marsella-marcelo-bielsa-volvi%C3%B3-al-triunfo": {
             "title": "El Olympique de Marsella de Marcelo Bielsa volvi\u00f3 al triunfo y a\u00fan... -...",
             "snippet": "Olympique de Marsella de Marcelo Bielsa volvi\u00f3 al triunfo y a\u00fan... Olympique de Marsella de Marcelo Bielsa volvi\u00f3 a la victoria, tras cuatro derrotas consecutivas. Como visitante, venci\u00f3 por 2 a 0 a Metz, con goles Gignac y todav\u00eda sue\u00f1a con...",
             "date": "2015-05-01",
-            "tags": "todav\u00eda,venci\u00f3,cuatro,cuatro-derrotas,cuatro-derrotas-consecutivas,derrotas,derrotas-consecutivas,consecutivas,volvi\u00f3,volvi\u00f3-al-triunfo,triunfo,marcelo,marcelo_bielsa,bielsa,olympique,marsella,visitante,metz,gignac",
+            "tags": "venci\u00f3,volvi\u00f3,volvi\u00f3-al-triunfo,triunfo,marcelo,marcelo_bielsa,bielsa,olympique,marsella,visitante,metz",
             "recuweb_url": "http://es.recuweb.com/canchallena.lanacion.com.ar/2015/05/el-olympique-de-marsella-marcelo-bielsa-volvi%C3%B3-al-triunfo",
-            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Bde%2Bmarsella%2Bolympique%2Bde%2Bmarsella&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Bde%2Bmarsella&output=atom&nord=1",
             "source_url": "http://canchallena.lanacion.com.ar/1789027-olympique-de-marsella-marcelo-bielsa"
         },
         "ios.ole.com.ar/2015/05/las-fotos-de-metz-olympique-marsella": {
@@ -55,51 +103,6 @@
             "recuweb_url": "http://es.recuweb.com/ios.ole.com.ar/2015/05/las-fotos-de-metz-olympique-marsella",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
             "source_url": "http://ios.ole.com.ar/futbol-internacional/francia/fotos-Metz-Olympique-Marsella_5_1349315060.html"
-        },
-        "rpp.com.pe/2015/05/olympique-de-marsella-marcelo-bielsa-venci%C3%B3-2-0-a-metz": {
-            "title": "Olympique de Marsella de Marcelo Bielsa venci\u00f3 2-0 a Metz y sali\u00f3 de perdedor...",
-            "snippet": "El delantero Andre Pierre Gignac gui\u00f3 al Marsellaal triunfo en Metz (0-2), que reaviva las aspiraciones del cuadro del argentino de Marcelo Bielsa de alcanzar uno de los puestos que dan acceso a la Liga de campeones. El internacional franc\u00e9s...",
-            "date": "2015-05-01",
-            "tags": "alcanzar,puestos,puestos-que-dan,dan,dan-acceso,acceso,reaviva,reaviva-las-aspiraciones,aspiraciones,aspiraciones-del-cuadro,cuadro,triunfo,andre,andre_pierre,andre_pierre_gignac,pierre,pierre_gignac,gignac,marcelo,marcelo_bielsa,bielsa,olympique,marsella,venci\u00f3,metz,delantero,argentino,liga",
-            "recuweb_url": "http://es.recuweb.com/rpp.com.pe/2015/05/olympique-de-marsella-marcelo-bielsa-venci%C3%B3-2-0-a-metz",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
-            "source_url": "http://rpp.com.pe/2015-05-01-olympique-de-marsella-de-marcelo-bielsa-vencio-2-0-a-metz-y-salio-de-perdedor-noticia_793231.html"
-        },
-        "elcomercio.pe/2015/05/olympique-de-marsella-venci%C3%B3-2-0-a-metz-y-rompi%C3%B3-mala": {
-            "title": "Olympique de Marsella venci\u00f3 2-0 a Metz y rompi\u00f3 mala racha...",
-            "snippet": "El delantero Andre Pierre Gignac encamin\u00f3 al Olympique de Marsella al triunfo ante Metz por 2-0, lo que reaviva las aspiraciones del cuadro del argentino de Marcelo Bielsa de alcanzar uno de los puestos que dan acceso a la Champions League. El...",
-            "date": "2015-05-01",
-            "tags": "league,alcanzar,puestos,puestos-que-dan,dan,dan-acceso,acceso,marcelo,marcelo_bielsa,bielsa,reaviva,reaviva-las-aspiraciones,aspiraciones,aspiraciones-del-cuadro,cuadro,triunfo,andre,andre_pierre,andre_pierre_gignac,pierre,pierre_gignac,gignac,racha,olympique,marsella,venci\u00f3,metz,delantero,argentino",
-            "recuweb_url": "http://es.recuweb.com/elcomercio.pe/2015/05/olympique-de-marsella-venci%C3%B3-2-0-a-metz-y-rompi%C3%B3-mala",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
-            "source_url": "http://elcomercio.pe/deporte-total/futbol-mundial/olympique-marsella-vencio-2-0-metz-y-rompio-mala-racha-noticia-1808185"
-        },
-        "cooperativa.cl/2015/05/olympique-de-marsella-volvi%C3%B3-al-triunfo-tras-superar-a-metz": {
-            "title": "Olympique de Marsella volvi\u00f3 al triunfo tras superar a Metz...",
-            "snippet": "Olympique de Marsella de Marcelo Bielsa volvi\u00f3 a conseguir un triunfo en la liga francesa tras superar como visitante 2-0 a Metz en la trig\u00e9sima quinta fecha. El elenco adiestrado por el argentino qued\u00f3 temporalmente en la cuarta plaza a 11...",
-            "date": "2015-05-01",
-            "tags": "temporalmente,cuarta,adiestrado,trig\u00e9sima,trig\u00e9sima-quinta,trig\u00e9sima-quinta-fecha,quinta,quinta-fecha,fecha,volvi\u00f3,triunfo,liga,liga-francesa,francesa,visitante,marcelo,marcelo_bielsa,bielsa,volvi\u00f3-al-triunfo,olympique,marsella,metz,argentino",
-            "recuweb_url": "http://es.recuweb.com/cooperativa.cl/2015/05/olympique-de-marsella-volvi%C3%B3-al-triunfo-tras-superar-a-metz",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
-            "source_url": "http://cooperativa.cl/noticias/deportes/futbol/liga-francesa/olympique-de-marsella-volvio-al-triunfo-tras-superar-a-metz/2015-05-01/171121.html"
-        },
-        "cooperativa.cl/2015/04/24-04-201517-57la-dura-ca%C3%ADda-de-olympique-marsella-ante-lorient": {
-            "title": "24/04/201517:57La dura ca\u00edda de Olympique de Marsella ante Lorient -...",
-            "snippet": ":57La dura ca\u00edda de Olympique de Marsella ante de Marsella de Marcelo Bielsa cay\u00f3 en casa 3-5 frente a Lorient FC en la trig\u00e9sima cuarta fecha de la liga francesa. El cuadro adiestrado por el trasandino mantuvo su cuarta posici\u00f3n temporalmente...",
-            "date": "2015-04-24",
-            "tags": "cuadro,adiestrado,cuarta,temporalmente,trig\u00e9sima,fecha,liga,liga-francesa,francesa,marcelo,marcelo_bielsa,bielsa,olympique,marsella",
-            "recuweb_url": "http://es.recuweb.com/cooperativa.cl/2015/04/24-04-201517-57la-dura-ca%C3%ADda-de-olympique-marsella-ante-lorient",
-            "resource_url": "http://news.google.es/?hl=es&q=olympique%2Bde%2Bmarsella%2Bolympique%2Bde%2Bmarsella&output=atom&nord=1",
-            "source_url": "http://cooperativa.cl/noticias/deportes/futbol/liga-francesa/la-dura-caida-de-olympique-de-marsella-ante-lorient/2015-04-24/174746.html"
-        },
-        "fichajes.com/2015/04/el-olympique-de-marsella-podr%C3%ADa-perder-a-una-joya": {
-            "title": "El Olympique de Marsella podr\u00eda perder a una joya...",
-            "snippet": "Hace dos a\u00f1os el presidente del Olympique de Marsella puso en marcha el proyecto Dortmund, que consist\u00eda en incorporar una oleada de j\u00f3venes promesas que a largo plazo destacaran en el equipo. Uno de estos j\u00f3venes, Benjamin Mendy, podr\u00eda tener...",
-            "date": "2015-04-24",
-            "tags": "podr\u00eda,marcha,olympique,marsella,perder,equipo",
-            "recuweb_url": "http://es.recuweb.com/fichajes.com/2015/04/el-olympique-de-marsella-podr%C3%ADa-perder-a-una-joya",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarsella&format=RSS&cc=es",
-            "source_url": "http://fichajes.com/breves/hace-dos-anos-el-presidente-del-olympique-de_87010"
         }
     }
 }

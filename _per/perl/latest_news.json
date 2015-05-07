@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "perl",
         "language": "es",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://es.recuweb.com/perl/",
@@ -21,6 +21,16 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
             "source_url": "http://diariolaregion.com/web/2015/05/02/fitzcarrald-pionero-y-depredador-de-la-amazonia/"
         },
+        "linuxadictos.com/2015/05/mumblehard-malware-que-lanza-campa%C3%B1as-spam-desde-servidores-linux": {
+            "title": "Mumblehard malware que lanza campa\u00f1as spam desde servidores Linux...",
+            "snippet": "Este malware est\u00e1 programado utilizando el lenguaje de programaci\u00f3n Perl, ejecut\u00e1ndose su c\u00f3digo de forma cifrada para evitar su detecci\u00f3n generando varios binarios ELF. Sin duda un malware bastante sofisticado del que podemos ver su esquema...",
+            "date": "2015-05-02",
+            "categories": "lenguaje,perl",
+            "tags": "c\u00f3digo,linux,lenguaje,programaci\u00f3n,perl",
+            "recuweb_url": "http://es.recuweb.com/perl/linuxadictos.com/2015/05/mumblehard-malware-que-lanza-campa%C3%B1as-spam-desde-servidores-linux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
+            "source_url": "http://linuxadictos.com/mumblehard-malware-que-lanza-campanas-spam-desde-servidores-linux.html"
+        },
         "ots.at/2015/04/bundesminister-ostermayer-ehrt-gerichtspr%C3%A4sident-harald-perl-apa-ots-pressemitteilung": {
             "title": "Bundesminister Ostermayer ehrt Gerichtspr\u00e4sident Harald Perl - APA OTS (Pressemitteilung)...",
             "snippet": "Bundesminister Ostermayer ehrt Gerichtspr\u00e4sident Harald PerlAPA OTS (Pressemitteilung)Wien (OTS) - \"Harald Perl war und ist einer der wesentlichen Akteure und Unterst\u00fctzer auf dem Weg zur heutigen Bundesverwaltungsgerichtsbarkeit\", sagte...",
@@ -28,7 +38,7 @@
             "categories": "perl",
             "tags": "perl,und,der",
             "recuweb_url": "http://es.recuweb.com/perl/ots.at/2015/04/bundesminister-ostermayer-ehrt-gerichtspr%C3%A4sident-harald-perl-apa-ots-pressemitteilung",
-            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
             "source_url": "http://ots.at/presseaussendung/OTS_20150430_OTS0260/bundesminister-ostermayer-ehrt-gerichtspraesident-harald-perl"
         },
         "blogs.phoenixnewtimes.com/2015/04/scottsdale-cultural-council-president-discusses-restructure-says-phoenix-new-times-blog": {
@@ -38,18 +48,8 @@
             "categories": "perl",
             "tags": "perl",
             "recuweb_url": "http://es.recuweb.com/perl/blogs.phoenixnewtimes.com/2015/04/scottsdale-cultural-council-president-discusses-restructure-says-phoenix-new-times-blog",
-            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
             "source_url": "http://blogs.phoenixnewtimes.com/jackalope/2015/04/scottsdale_cultural_council_firing_directors.php"
-        },
-        "muylinux.com/2015/04/visual-studio-code-editor-de-c%C3%B3digo-microsoft-para-windows": {
-            "title": "Visual Studio Code, editor de c\u00f3digo de Microsoft para Windows, OS X y GNU/Linux...",
-            "snippet": "Soporta una cantidad considerable de lenguajes, ya sean propios de Microsoft como C, F y Visual Basic, o de otros como PHP, Phyton, Perl, SQL, shell scripting en Bash y Java, siendo este \u00faltimo el gran rival de.NET. Tambi\u00e9n soporta Git y...",
-            "date": "2015-04-30",
-            "categories": "php,perl,java",
-            "tags": "windows,php,perl",
-            "recuweb_url": "http://es.recuweb.com/java/muylinux.com/2015/04/visual-studio-code-editor-de-c%C3%B3digo-microsoft-para-windows",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
-            "source_url": "http://muylinux.com/2015/04/30/visual-studio-code-editor-codigo-microsoft-windows-os-x-gnu-linux"
         },
         "bild.de/2015/04/dfb-pokal-finale-brych-oder-perl-m%C3%BCnchner-schiri-pfeift-in-berlin": {
             "title": "DFB-Pokal-Finale Brych oder Perl M\u00fcnchner Schiri pfeift in Berlin - BILD...",
@@ -58,8 +58,18 @@
             "categories": "perl",
             "tags": "perl,wird",
             "recuweb_url": "http://es.recuweb.com/perl/bild.de/2015/04/dfb-pokal-finale-brych-oder-perl-m%C3%BCnchner-schiri-pfeift-in-berlin",
-            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
             "source_url": "http://bild.de/sport/fussball/dfb-pokal/muenchner-schiri-pfeift-in-berlin-40756964.bild.html"
+        },
+        "muylinux.com/2015/04/visual-studio-code-editor-de-c%C3%B3digo-microsoft-para-windows": {
+            "title": "Visual Studio Code, editor de c\u00f3digo de Microsoft para Windows, OS X y GNU/Linux...",
+            "snippet": "Soporta una cantidad considerable de lenguajes, ya sean propios de Microsoft como C, F y Visual Basic, o de otros como PHP, Phyton, Perl, SQL, shell scripting en Bash y Java, siendo este \u00faltimo el gran rival de.NET. Tambi\u00e9n soporta Git y...",
+            "date": "2015-04-29",
+            "categories": "php,perl,java",
+            "tags": "c\u00f3digo,windows,linux,php,perl",
+            "recuweb_url": "http://es.recuweb.com/java/muylinux.com/2015/04/visual-studio-code-editor-de-c%C3%B3digo-microsoft-para-windows",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
+            "source_url": "http://muylinux.com/2015/04/30/visual-studio-code-editor-codigo-microsoft-windows-os-x-gnu-linux"
         },
         "saarbruecker-zeitung.de/2015/04/gemeinderat-perl-besch%C3%A4ftigt-sich-mit-haushalt-2015": {
             "title": "Gemeinderat Perl besch\u00e4ftigt sich mit Haushalt 2015 -...",
@@ -68,7 +78,7 @@
             "categories": "perl,facebook",
             "tags": "und,wird,der,perl",
             "recuweb_url": "http://es.recuweb.com/facebook/saarbruecker-zeitung.de/2015/04/gemeinderat-perl-besch%C3%A4ftigt-sich-mit-haushalt-2015",
-            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
             "source_url": "http://saarbruecker-zeitung.de/saarland/merzig-wadern/perl/perl/Perl-Jahr-2015;art446583,5725710"
         },
         "clarin.com/2015/04/corach-sopl%C3%B3-80-velitas-entre-amigos-pizza-y-elecciones": {
@@ -76,7 +86,7 @@
             "snippet": "N\u00e9stor Perl, Juan Bautista y Ricardo Yofre, Carlos Grosso, Alicia Pierini y Jorge Dom\u00ednguez, entre otros. En la actualidad Corach reparte su vida entre Buenos Aires y Par\u00eds, donde ense\u00f1a en una universidad. El ex ministro tambi\u00e9n asesora en...",
             "date": "2015-04-27",
             "categories": "perl",
-            "tags": "vida,perl",
+            "tags": "perl",
             "recuweb_url": "http://es.recuweb.com/perl/clarin.com/2015/04/corach-sopl%C3%B3-80-velitas-entre-amigos-pizza-y-elecciones",
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=es",
             "source_url": "http://clarin.com/politica/Carlos_Corach-Cumpleanos_80_0_1347465274.html"
@@ -96,20 +106,10 @@
             "snippet": "Radio B\u00edo-B\u00edoAlfredo Perl se luce en Concierto para piano de Andr\u00e9s Maupoint...Radio B\u00edo-B\u00edoEl destacado pianista nacional Alfredo Perl, figura talentosa de nuestra m\u00fasica, fue el valor m\u00e1s destacado del Cuarto Concierto de la Temporada 2015...",
             "date": "2015-04-19",
             "categories": "perl,radio",
-            "tags": "pianista,perl,alfredo",
+            "tags": "perl",
             "recuweb_url": "http://es.recuweb.com/radio/biobiochile.cl/2015/04/alfredo-perl-se-luce-en-concierto-para-piano-de-andr%C3%A9s-maupoint",
-            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
+            "resource_url": "http://news.google.es/?hl=es&q=perl&output=atom&nord=1",
             "source_url": "http://biobiochile.cl/2015/04/19/alfredo-perl-se-luce-en-concierto-para-piano-de-andres-maupoint-junto-a-la-sinfonica-de-chile.shtml"
-        },
-        "latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor-latercera": {
-            "title": "Los tres repertorios de Perl: de pianista a director y profesor - LaTercera (Registro)...",
-            "snippet": "LaTercera (Registro)Los tres repertorios de Perl: de pianista a director y profesorLaTercera (Registro)Si Alfredo Perl (1965) fuera doctor, evitar\u00eda las especialidades. Abierto a tocar de todo y dispuesto a repartir su vida profesional entre el...",
-            "date": "2015-04-16",
-            "categories": "perl",
-            "tags": "vida,alfredo,pianista,perl",
-            "recuweb_url": "http://es.recuweb.com/perl/latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor-latercera",
-            "resource_url": "http://news.google.es/?hl=es&q=perl%2Bperl&output=atom&nord=1",
-            "source_url": "http://latercera.com/noticia/cultura/2015/04/1453-625691-9-los-tres-repertorios-de-perl-de-pianista-a-director-y-profesor.shtml"
         }
     }
 }
